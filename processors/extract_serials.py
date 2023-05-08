@@ -14,6 +14,11 @@ def main():
         "serial_col", help="the name of the column containing serial numbers"
     )
     parser.add_argument(
+        "desc_cols",
+        help="a comma-separated list of columns containing firearm descriptions, "
+        "to be concatenated",
+    )
+    parser.add_argument(
         "--date_col",
         help="the name of the column containing the date of the recovery",
         default=None,
@@ -44,7 +49,16 @@ def main():
         df["date"] = np.nan
         args.date_col = "date"
 
-    df = df[[args.serial_col, args.date_col, "agency"]].rename(
+    if "," in args.desc_cols:
+        args.desc_cols = args.desc_cols.split(",")
+    else:
+        args.desc_cols = [args.desc_cols]
+
+    df["description"] = df[args.desc_cols].apply(
+        lambda row: " ".join([str(x) for x in row]), axis=1
+    )
+
+    df = df[[args.serial_col, args.date_col, "agency", "description"]].rename(
         columns={args.date_col: "date", args.serial_col: "serial"}
     )
 

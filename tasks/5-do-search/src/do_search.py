@@ -141,7 +141,12 @@ def do_search(conn):
                     sale_agency=sale_row.sale_agency,
                     match_agency=lambda df: df.agency,
                     match_date=lambda df: df.date,
-                ).rename(columns={"serial": "match_serial"})[
+                ).rename(
+                    columns={
+                        "serial": "match_serial",
+                        "description": "match_description",
+                    }
+                )[
                     [
                         "sale_serial",
                         "sale_agency",
@@ -151,6 +156,7 @@ def do_search(conn):
                         "source_file",
                         "match_agency",
                         "match_date",
+                        "match_description",
                     ]
                 ]
             )
@@ -171,14 +177,15 @@ def main():
     """main function"""
     try:
         sale = preprocess_serials(load_sale_data())
-        recovery = preprocess_serials(pd.read_csv(sys.argv[1]))
+        recovery = preprocess_serials(pd.read_csv(sys.argv[1], low_memory=False))
         # Create database and load data
         conn = create_database()
         load_data_to_database(sale, recovery, conn)
         # Perform search
         match_df = do_search(conn)
-        final_df = match_df.drop_duplicates(subset=["source_file", "sale_serial"])
-        final_df = refine_matches(final_df)
+        final_df = match_df.drop_duplicates(subset=["source_file", "sale_serial"]).pipe(
+            refine_matches
+        )
         print(final_df.to_csv(index=False))
     except Exception as exc:
         logging.exception(exc)
