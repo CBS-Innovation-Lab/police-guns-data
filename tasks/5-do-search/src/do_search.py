@@ -33,10 +33,27 @@ def load_sale_data():
             offset = response["offset"]
         else:
             break
+
+    get_key_if_exists = (
+        lambda x, y: x[y]  # pylint: disable=unnecessary-lambda-assignment
+        if y in x
+        else None
+    )
     df = (
         pd.DataFrame(rows)
         .assign(
-            serial=lambda df: df.fields.apply(lambda x: x["Serial number"]),
+            serial=lambda df: df.fields.apply(
+                lambda x: get_key_if_exists(x, "Serial number")
+            ),
+            sale_date=lambda df: df.fields.apply(
+                lambda x: get_key_if_exists(x, "Sale date")
+            ),
+            sale_description=lambda df: df.fields.apply(
+                lambda x: get_key_if_exists(x, "Firearm description")
+            ),
+            sale_agency=lambda df: df.fields.apply(
+                lambda x: get_key_if_exists(x, "agency_name")
+            ),
         )
         .drop(
             [
@@ -46,6 +63,7 @@ def load_sale_data():
             axis=1,
         )
     )
+    logging.info("Loaded %d rows from airtable", len(df))
     return df
 
 
@@ -110,20 +128,38 @@ def do_search(conn):
 
     sale_df = pd.read_sql("SELECT * FROM sale", conn)
     match_dfs = []
-    for sale_serial in tqdm(sale_df["serial"], desc="Processing serials"):
-        match_df = string_match(sale_serial, conn)
+    for _, sale_row in tqdm(
+        sale_df.iterrows(), desc="Processing serials", total=len(sale_df)
+    ):
+        match_df = string_match(sale_row.serial, conn)
         if len(match_df) > 0:
             match_df = refine_matches(
-                match_df.assign(sale_serial=sale_serial).rename(
-                    columns={"serial": "match_serial"}
-                )[["sale_serial", "match_serial", "source_file", "agency", "date"]]
+                match_df.assign(
+                    sale_serial=sale_row.serial,
+                    sale_date=sale_row.sale_date,
+                    sale_description=sale_row.sale_description,
+                    sale_agency=sale_row.sale_agency,
+                    match_agency=lambda df: df.agency,
+                    match_date=lambda df: df.date,
+                ).rename(columns={"serial": "match_serial"})[
+                    [
+                        "sale_serial",
+                        "sale_agency",
+                        "sale_date",
+                        "sale_description",
+                        "match_serial",
+                        "source_file",
+                        "match_agency",
+                        "match_date",
+                    ]
+                ]
             )
             if len(match_df) > 0:
                 match_dfs.append(match_df)
                 logging.info(
                     "\n---\nFound %d matches for serial %s: \n%s\n---\n",
                     len(match_df),
-                    sale_serial,
+                    sale_row.serial,
                     match_df.to_markdown(),
                 )
 
