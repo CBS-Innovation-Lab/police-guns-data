@@ -116,7 +116,7 @@ def do_search(conn):
             match_df = refine_matches(
                 match_df.assign(sale_serial=sale_serial).rename(
                     columns={"serial": "match_serial"}
-                )[["sale_serial", "match_serial", "source_file"]]
+                )[["sale_serial", "match_serial", "source_file", "agency", "date"]]
             )
             if len(match_df) > 0:
                 match_dfs.append(match_df)
