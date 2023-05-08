@@ -61,6 +61,7 @@ def main():
     df = df[[args.serial_col, args.date_col, "agency", "description"]].rename(
         columns={args.date_col: "date", args.serial_col: "serial"}
     )
+    df["date"] = pd.to_datetime(df["date"], errors="coerce")
 
     print(df.to_csv(index=False, header=False))
 

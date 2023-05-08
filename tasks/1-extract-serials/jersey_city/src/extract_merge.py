@@ -46,6 +46,7 @@ for filename in sys.argv[1:]:
         date_col = find_date_col(df.columns)
         make_col, model_col, caliber_col = find_make_model_caliber_columns(df.columns)
         if serial_col and date_col:
+            df[date_col] = pd.to_datetime(df[date_col], errors="coerce")
             df = df.assign(
                 agency="el paso police department",
                 description=lambda df: df.apply(

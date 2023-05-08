@@ -46,7 +46,7 @@ def load_sale_data():
                 lambda x: get_key_if_exists(x, "Serial number")
             ),
             sale_date=lambda df: df.fields.apply(
-                lambda x: get_key_if_exists(x, "Sale date")
+                lambda x: pd.to_datetime(get_key_if_exists(x, "Sale date"))
             ),
             sale_description=lambda df: df.fields.apply(
                 lambda x: get_key_if_exists(x, "Firearm description")
@@ -112,6 +112,8 @@ def refine_matches(match_df):
         )
         .query("real_match")
         .drop("real_match", axis=1)
+        # only allow records where the sale date is BEFORE the recovery date
+        .query("sale_date < match_date | sale_date.isna() | match_date.isna()")
     )
 
 
@@ -177,7 +179,11 @@ def main():
     """main function"""
     try:
         sale = preprocess_serials(load_sale_data())
+        logging.info("\n%s", sale.dtypes)
         recovery = preprocess_serials(pd.read_csv(sys.argv[1], low_memory=False))
+        recovery["date"] = pd.to_datetime(recovery["date"], format="mixed")
+        logging.info("\nLoaded %d rows from recovery data", len(recovery))
+        logging.info(recovery.dtypes)
         # Create database and load data
         conn = create_database()
         load_data_to_database(sale, recovery, conn)

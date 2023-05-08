@@ -1,7 +1,13 @@
 """assigns a description column"""
 
+import logging
 import sys
 import pandas as pd
+from tqdm import tqdm
+
+logging.basicConfig(
+    level=logging.INFO, filename="output/extract_search_data.log", filemode="w"
+)
 
 
 def get_description(row):
@@ -20,8 +26,12 @@ def get_description(row):
     return desc
 
 
-df = pd.read_csv(sys.argv[1])
-df["description"] = df.apply(get_description, axis=1)
-df[["SERIAL NUMBER", "DATE", "AGENCY", "description"]].to_csv(
-    sys.argv[2], index=False, header=False
-)
+chunks = pd.read_csv(sys.argv[1], dtype=str, chunksize=10_000)
+for chunk in tqdm(chunks):
+    chunk["DATE"] = pd.to_datetime(chunk["DATE"])
+    logging.info("Loaded %d rows from %s", len(chunk), sys.argv[1])
+    logging.info("\n%s", chunk.dtypes)
+    chunk["description"] = chunk.apply(get_description, axis=1)
+    chunk[["SERIAL NUMBER", "DATE", "AGENCY", "description"]].to_csv(
+        sys.argv[2], index=False, header=False, mode="a"
+    )
