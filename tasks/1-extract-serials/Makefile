@@ -8,7 +8,7 @@ all: $(SUBDIRS)
 $(SUBDIRS):
 	$(MAKE) -C $@
 
-clean:
+cleanup:
 	for d in $(SUBDIRS) ; do \
-		cd "$(shell pwd)/$$d" && make clean  ; \
+		cd "$(shell pwd)/$$d" && make cleanup  ; \
 	done
