@@ -1,4 +1,6 @@
-.PHONY: upload
+.PHONY: all upload
+
+all: upload
 
 include ../../Makefile
 
