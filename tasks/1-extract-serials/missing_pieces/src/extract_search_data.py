@@ -17,6 +17,8 @@ def get_description(row):
         desc += f'[{row["STATUS"]}]'
     if pd.notna(row["OFFENSE"]):
         desc += f' [{row["OFFENSE"]}]'
+    if pd.notna(row["CASE NUMBER"]):
+        desc += f' [{row["CASE NUMBER"]}]'
     if pd.notna(row["MAKE"]):
         desc += f" {row['MAKE']}"
     if pd.notna(row["MODEL"]):

@@ -63,7 +63,6 @@ def load_sale_data():
             axis=1,
         )
     )
-    logging.info("Loaded %d rows from airtable", len(df))
     return df
 
 
@@ -179,11 +178,10 @@ def main():
     """main function"""
     try:
         sale = preprocess_serials(load_sale_data())
-        logging.info("\n%s", sale.dtypes)
+        logging.info("Loaded %d rows from airtable", len(sale))
         recovery = preprocess_serials(pd.read_csv(sys.argv[1], low_memory=False))
         recovery["date"] = pd.to_datetime(recovery["date"], format="mixed")
-        logging.info("\nLoaded %d rows from recovery data", len(recovery))
-        logging.info(recovery.dtypes)
+        logging.info("Loaded %d rows from recovery data", len(recovery))
         # Create database and load data
         conn = create_database()
         load_data_to_database(sale, recovery, conn)
