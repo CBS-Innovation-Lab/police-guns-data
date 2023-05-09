@@ -1,25 +1,21 @@
 """searches all serial numbers in our sale dataset in the recovery data"""
 
 import logging
-import os
 import re
 import sqlite3
 import sys
-import airtable
 from dotenv import load_dotenv
 import pandas as pd
 from tqdm import tqdm
+from src.utils import get_airtable_client
 
 logging.basicConfig(level=logging.INFO, filename="output/do_search.log", filemode="w")
 assert load_dotenv(), ".env file not found"
 
-# load the sale data from airtable
-BASE_ID = "appo35FnVrocw6SO5"
-client = airtable.Airtable(BASE_ID, os.getenv("AIRTABLE_API_KEY"))
-
 
 def load_sale_data():
     """loads the sale data from airtable"""
+    client = get_airtable_client()
     response = client.get("Serials")
     if len(response["records"]) == 0:
         raise ValueError("No records found in airtable")
