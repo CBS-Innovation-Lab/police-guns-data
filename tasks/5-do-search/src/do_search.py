@@ -173,7 +173,15 @@ def main():
     try:
         sale = preprocess_serials(load_sale_data())
         logging.info("Loaded %d rows from airtable", len(sale))
-        recovery = preprocess_serials(pd.read_csv(sys.argv[1], low_memory=False))
+
+        try:
+            recovery = preprocess_serials(pd.read_csv(sys.argv[1], low_memory=False))
+        except pd.errors.ParserError as exc:
+            msg = f"Failed to parse csv file: {sys.argv[1]}"
+            msg += "\n\n data sample: \n\n"
+            msg += "\n".join(open(sys.argv[1]).readlines()[:5])
+            raise ValueError(msg) from exc
+
         recovery["date"] = pd.to_datetime(recovery["date"], format="mixed")
         logging.info("Loaded %d rows from recovery data", len(recovery))
         # Create database and load data
