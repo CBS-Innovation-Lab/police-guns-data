@@ -3,7 +3,7 @@ GENERATED_FILES: output/cincinnati.csv
 include ../../../Makefile
 
 output/cincinnati.csv: \
-		$(PROCESSOR_DIR)/extract_serials.py \
+		$(SRC_DIR)/extract_serials.py \
 		input/Firearm_Records.xlsx
 	python $^ Sheet1 "SERIAL NO" \
 		"MAKE/MODEL/CALIBER/BARREL LENGTH" \

@@ -1,11 +1,17 @@
 SHELL := /bin/bash
 
 DIR := $(abspath $(dir $(lastword $(MAKEFILE_LIST))))
-export PROCESSOR_DIR := $(DIR)/processors
+export SRC_DIR := $(DIR)/src
 
-TASKS := $(sort $(wildcard tasks/*))
+.PHONY: \
+	all \
+	$(TASKS) \
+	setup \
+	cleanup-all \
+	git-lfs
+
 all: $(TASKS)
-
+TASKS := $(sort $(wildcard tasks/*))
 $(TASKS):
 	$(MAKE) -C $@
 
