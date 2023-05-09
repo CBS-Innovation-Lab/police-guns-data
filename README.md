@@ -2,6 +2,12 @@
 
 This repo contains the data and code used to search various sources of firearm recovery data against serial numbers of firearms known to have been sold by police departments back to the public.
 
+## Actions
+
+This project uses GitHub Actions to automatically run the pipeline at regular intervals.
+
+[![run-pipeline](https://github.com/CBS-Innovation-Lab/police-guns-data/actions/workflows/run-pipeline.yml/badge.svg)](https://github.com/CBS-Innovation-Lab/police-guns-data/actions/workflows/run-pipeline.yml)
+
 ## Data sources
 
 Any data files used in this project (aside from the sale data, which is stored in airtable) are in [raw](raw/).
