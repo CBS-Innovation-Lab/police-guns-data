@@ -1,6 +1,7 @@
 SHELL := /bin/bash
 
 DIR := $(abspath $(dir $(lastword $(MAKEFILE_LIST))))
+export PYTHON := $(DIR)/.venv/bin/python
 export SRC_DIR := $(DIR)/src
 
 TASKS := $(sort $(wildcard tasks/*))

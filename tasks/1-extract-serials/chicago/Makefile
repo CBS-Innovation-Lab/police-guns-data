@@ -5,7 +5,7 @@ include ../../../Makefile
 output/chicago.csv: \
 		$(SRC_DIR)/extract_serials.py \
 		input/18994-P766502-FirearmRecoveries-Victims-2000-Present.xlsx
-	python $^ "FIREARMS 2000-15JUL22" MAKE \
+	$(PYTHON) $^ "FIREARMS 2000-15JUL22" MAKE \
 		MAKE \
 		--agency_name "chicago police department" \
 	> $@

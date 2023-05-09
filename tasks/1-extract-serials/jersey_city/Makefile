@@ -7,7 +7,7 @@ include ../../../Makefile
 output/jersey_city.csv: \
 		src/extract_merge.py \
 		$(wildcard input/*)
-	python $^ > $@
+	$(PYTHON) $^ > $@
 
 cleanup:
 	rm -f output/*

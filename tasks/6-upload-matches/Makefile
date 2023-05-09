@@ -1,9 +1,11 @@
 .PHONY: upload
 
+include ../../Makefile
+
 upload: \
 		src/upload_matches.py \
 		input/matches.csv
-	python $^ sale_serial sale_agency match_agency
+	$(PYTHON) $^ sale_serial sale_agency match_agency
 
 cleanup:
 	rm -f $(GENERATED_FILES)
