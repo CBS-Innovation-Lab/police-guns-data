@@ -52,10 +52,13 @@ def main():
 
         n_results = len(existing_records["records"])
         if n_results == 0:
+            row_data = row.to_dict()
+            # remove any keys with empty values
+            row_data = {k: v for k, v in row_data.items() if v != 0}
             try:
-                client.create(TABLE_NAME, data=row.to_dict())
+                client.create(TABLE_NAME, data=row_data)
             except airtable.airtable.AirtableError as exc:
-                raise ValueError(f"Error creating record for {row.to_dict()}") from exc
+                raise ValueError(f"Error creating record for {row_data}") from exc
             logger.info("Created record for: \n%s", row["unique_id"])
         elif n_results == 1:
             logger.info("Record already exists for: \n%s", row["unique_id"])
