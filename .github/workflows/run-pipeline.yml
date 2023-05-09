@@ -27,8 +27,8 @@ jobs:
       # run makefile targets
       - name: run setup
         run: make setup
-      - name: run pipeline
-        run: make
+      - name: run full pipeline
+        run: make -B
       # exit if there are no changes
       - name: check for changes
         run: git diff --exit-code
