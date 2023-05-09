@@ -3,15 +3,16 @@ SHELL := /bin/bash
 DIR := $(abspath $(dir $(lastword $(MAKEFILE_LIST))))
 export SRC_DIR := $(DIR)/src
 
+TASKS := $(sort $(wildcard tasks/*))
+
 .PHONY: \
 	all \
 	$(TASKS) \
-	setup \
-	cleanup-all \
-	git-lfs
+	init \
+	cleanup-all
 
-all: $(TASKS)
-TASKS := $(sort $(wildcard tasks/*))
+all: $(TASKS) $(NOTEBOOKS)
+
 $(TASKS):
 	$(MAKE) -C $@
 

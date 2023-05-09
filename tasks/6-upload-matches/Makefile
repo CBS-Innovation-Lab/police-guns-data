@@ -1,6 +1,6 @@
-GENERATED_FILES: upload_matches.log
+.PHONY: upload
 
-upload_matches.log: \
+upload: \
 		src/upload_matches.py \
 		input/matches.csv
 	python $^ sale_serial sale_agency match_agency
