@@ -4,13 +4,11 @@ import logging
 import re
 import sqlite3
 import sys
-from dotenv import load_dotenv
 import pandas as pd
 from tqdm import tqdm
 from src.utils import get_airtable_client
 
 logging.basicConfig(level=logging.INFO, filename="output/do_search.log", filemode="w")
-assert load_dotenv(), ".env file not found"
 
 
 def load_sale_data():
