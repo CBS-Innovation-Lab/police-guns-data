@@ -6,7 +6,7 @@ This repo contains the data and code used to search various sources of firearm r
 
 This project uses GitHub Actions to automatically run the pipeline at regular intervals.
 
-[![run-pipeline](https://github.com/CBS-Innovation-Lab/police-guns-data/actions/workflows/run-pipeline.yml/badge.svg)](https://github.com/CBS-Innovation-Lab/police-guns-data/actions/workflows/run-pipeline.yml)
+[![run-pipeline](https://github.com/CBS-Innovation-Lab/police-guns-data/actions/workflows/run-pipeline.yml/badge.svg)](https://github.com/CBS-Innovation-Lab/police-guns-data/actions/workflows/run-pipeline.yml) [![upload-raw](https://github.com/CBS-Innovation-Lab/police-guns-data/actions/workflows/upload-raw.yml/badge.svg)](https://github.com/CBS-Innovation-Lab/police-guns-data/actions/workflows/upload-raw.yml)
 
 ## Data sources
 
