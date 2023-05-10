@@ -9,7 +9,7 @@ include ../../../Makefile
 output/baltimore.csv: \
 		$(SRC_DIR)/extract_serials.py \
 		input/BaltimoreRecoveredGuns.xlsx
-	python $^ Sheet1 SERIAL_NO MAKE,MODEL \
+	$(PYTHON) $^ Sheet1 SERIAL_NO MAKE,MODEL \
 		--date_col DATE_IN \
 		--agency_name "baltimore police department" \
 	> $@
