@@ -27,4 +27,4 @@ jobs:
       - name: save drive credentials to json
         run: echo $GOOGLE_DRIVE_CREDENTIALS_JSON > credentials.json
       - name: run script
-        run: poetry run scripts/upload_raw.py
+        run: poetry run python scripts/upload_raw.py
