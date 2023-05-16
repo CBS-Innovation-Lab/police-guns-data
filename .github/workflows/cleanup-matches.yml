@@ -1,4 +1,4 @@
-name: upload-raw
+name: cleanup-matches
 
 on:
   push:
