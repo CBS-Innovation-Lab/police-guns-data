@@ -4,7 +4,7 @@ include ../../Makefile
 
 output/gun_cases.csv: \
 		src/extract_text.py \
-		$(wildcard input/*)
+		$(wildcard input/gun_cases/*)
 	@$(PYTHON) $^ > $@
 
 cleanup:
