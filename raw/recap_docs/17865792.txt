@@ -1,0 +1,674 @@
+                     UNITED STATES DISTRICT COURT
+                          DISTRICT OF MAINE
+
+UNITED STATES OF AMERICA,               )
+                                        )
+                   Plaintiff,           )
+                                        )
+v.                                      ) Criminal no. 2:13-cr-137-NT
+                                        )
+KENNETH SALES,                          )
+                                        )
+                    Defendant.          )
+
+
+                     ORDER ON DEFENDANT’S MOTION
+                      TO DISMISS THE INDICTMENT
+
+      This case comes before the Court on Defendant Kenneth Sales’s motion to
+
+dismiss the indictment against him. Def’s Mot. to Dismiss (ECF No. 28). The one-
+
+count indictment, returned on July 23, 2013, charges Sales under 18 U.S.C. §
+
+922(g)(9) with possession of a firearm by an individual convicted of a misdemeanor
+
+crime of domestic violence. Indictment (ECF No. 14). The Defendant claims that the
+
+predicate offense identified in the indictment does not qualify as a “misdemeanor
+
+crime of domestic violence” under Section 922(g)(9). He also asserts that use of this
+
+conviction as a predicate offense violates the rule of lenity and the doctrine of
+
+constitutional doubt, and violates his rights under the Second and Fifth
+
+Amendments to the United States Constitution. For the reasons that follow, the
+
+Court DENIES the Defendant’s motion.
+
+
+
+
+                                         1
+                                              BACKGROUND
+
+    A. The Underlying State Conviction
+
+         On October 18, 2010, the State of Vermont filed an information charging
+
+Kenneth Sales with two counts of first degree aggravated domestic assault. Exh. 1
+
+to Def’s Mot. to Dismiss 1-2. Count one set forth a violation of Section 1043(a)(1) of
+
+Title 13 of the Vermont Statutes Annotated,1 and count two set forth a violation of
+
+Section 1043(a)(2) of Title 13 of the Vermont Statutes Annotated.2 On December
+
+16, 2010, at a change of plea hearing, the State dismissed count two and amended
+
+count one to “ASSAULT-SIMPLE—MUTUAL AFFRAY.” 13 V.S.A § 1023(b). Exh. 1
+
+to Def’s Mot. to Dismiss 5.
+
+         Count one, as amended, stated: “Kenneth Sales, in this Territorial Unit, in
+
+the County of Bennington, at Arlington, on or about October 17, 2010 . . . engaged in
+
+a fight or scuffle entered into by mutual consent.” Exh. 2 to Gov’t’s Opp’n to Def.’s
+
+Mot. to Dismiss (ECF No. 31). As part of his December 16, 2010 plea colloquy, the
+
+judge explained:
+
+         Mr. Sales, you now have an amended charge, that on or about October
+         17th, you recklessly caused bodily injury to a person, and that it was in
+         a fight or scuffle entered into by mutual consent. Penalty of up to 60
+         days in jail or a $500 fine. The basis for this as I understand it is that
+         you would be admitting that there was a physical altercation between
+         you and Ms. Goddard . . . and that in the course of it you at least
+
+1
+         Section 1043(a)(1) provides: “a person commits the crime of first degree aggravated domestic assault if the
+person: (1) attempts to cause or wilfully or recklessly causes serious bodily injury to a family or household member .
+. . .”
+2
+          Section 1043(a)(2) provides: “a person commits the crime of first degree aggravated domestic assault if the
+person: . . . (2) uses, attempts to use or is armed with a deadly weapon and threatens to use the deadly weapon on a
+family or household member . . .”
+
+
+                                                          2
+      recklessly . . . caused bodily injury to her, being . . . a scratch or a sort
+      of cut that she received. Bodily injury is any sort of injury, it doesn’t
+      have to be a broken bone or anything like that, it can be a bruise, a cut,
+      kind of anything that hurts. . . . [R]ecklessly means you did not have to
+      intend a particular result, but you engaged in conduct that was not
+      what a reasonable person would do in these circumstances, and had a
+      very high risk that the result would happen. So obviously engaging in
+      a fight or scuffle would qualify as that. . . . [F]ight or scuffle is pretty
+      much what you’d think it would mean. . . . [M]utual consent just means
+      that the two of you sort of engaged in the fight or scuffle, rather than
+      one person, uh, solely.
+
+Sales then acknowledged that he understood the amended charge and pleaded
+
+guilty to it. Exh. 4 to Gov’t’s Opp’n to Def.’s Mot. to Dismiss 1.
+
+   B. The Pending Federal Charge
+
+      Sales was charged with a violation of 18 U.S.C. §922(g)(9). The indictment
+
+alleges that on about May 6, 2013, Sales knowingly possessed a Hi-Point .45 caliber
+
+pistol and that at the time of his possession Sales had been convicted of a
+
+misdemeanor crime of domestic violence, specifically, the December 16, 2010
+
+conviction for simple assault in violation of 13 V.S.A § 1023.
+
+                                    DISCUSSION
+
+   A. Section 922(g)(9)
+
+      Section 922(g)(9) prohibits anyone “who has been convicted in any court of a
+
+misdemeanor crime of domestic violence” from “possess[ing] in or affecting
+
+commerce, any firearm . . . .”       18 U.S.C. § 922(g)(9). Federal law defines the
+
+predicate offense for a Section 922(g)(9) violation as an offense that:
+
+      (i) is a misdemeanor under . . . State . . . law; and
+
+      (ii) has, as an element, the use or attempted use of physical force, or
+           the threatened use of a deadly weapon, committed by a current or
+
+
+
+                                            3
+          former spouse, parent, or guardian of the victim, by a person with
+          whom the victim shares a child in common, by a person who is
+          cohabiting with or has cohabited with the victim as a spouse,
+          parent, or guardian, or by a person similarly situated to a spouse,
+          parent, or guardian of the victim[.]
+
+18 U.S.C. § 921(a)(33)(A).
+
+      Congress enacted Section 922(g)(9) because it recognized that domestic
+
+violence and guns were a lethal combination and because it was concerned that the
+
+then-existing law prohibiting felons from possessing firearms did not adequately
+
+protect victims of domestic violence. The First Circuit explained:
+
+      Since Congress concluded that the focus on felony convictions left guns
+      in the hands of a large number of domestic abusers who were convicted
+      of lesser crimes, often due to some combination of plea bargaining,
+      outdated or ineffective laws that treated domestic violence as a lesser
+      offense, and lack of cooperation from victims, it enacted the
+      Amendment to “close th[e] dangerous loophole,” United States v.
+      Booker, 644 F.3d 12, 21 (1st Cir. 2011) (quoting 142 Cong. Rec. S10379
+      (daily ed. Sept. 12, 1996) (statement of Sen. Feinstein)) (internal
+      quotation marks omitted), and “establish[ ] a policy of zero tolerance
+      when it comes to guns and domestic violence,” id. (alteration in
+      original) (quoting 142 Cong. Rec. S8831 (daily ed. July 25, 1996)
+      (statement of Sen. Lautenberg)) (internal quotation marks omitted).
+
+United States v. Armstrong, 706 F.3d 1, 4 (1st Cir. 2013) (alterations in original).
+
+      The First Circuit has held that “crimes characterized by the application of
+
+any physical force” meet the definition of “physical force” required for the predicate
+
+misdemeanor crime of domestic violence under Section 922(g)(9). United States v.
+
+Nason, 269 F.3d 10, 18 (1st Cir. 2001). Although the Supreme Court in 2010 held
+
+that “physical force” means “violent force” for purposes of defining a violent felony
+
+predicate offense under the Armed Career Criminal Act, see Johnson v. United
+
+States, 559 U.S. 133, 140 (2010), the First Circuit has since confirmed that this does
+
+
+
+                                           4
+not overrule Nason’s interpretation of “physical force” in the Section 922(g)(9)
+
+context. Armstrong, 706 F.3d at 6. The First Circuit has also held that Section
+
+922(g)(9) does not require the underlying crime to have been perpetrated with
+
+intent, but that recklessness is sufficient. Booker, 644 F.3d at 21.
+
+   B. Vermont’s Simple Assault Statute
+
+      Vermont’s simple assault statute states:
+
+          (a) A person is guilty of simple assault if he or she:
+
+             (1) attempts to cause or purposely, knowingly or recklessly
+                 causes bodily injury to another; or
+             (2) negligently causes bodily injury to another with a deadly
+                 weapon; or
+             (3) attempts by physical menace to put another in fear of
+                 imminent serious bodily injury.
+
+          (b) A person who is convicted of simple assault shall be imprisoned
+              for not more than one year or fined not more than $1,000.00, or
+              both, unless the offense is committed in a fight or scuffle entered
+              into by mutual consent, in which case a person convicted of
+              simple assault shall be imprisoned not more than 60 days or
+              fined not more than $500.00 or both.
+
+13 V.S.A. § 1023.
+
+      1) Does Section 1023(b) Create a Separate and Distinct Offense
+
+      The Defendant argues that Section 1023(b) “creates a separate and distinct
+
+offense known as a ‘Mutual Affray.’” 3 Def.’s Mot. to Dismiss 5. He argues that
+
+section 1023(b) incorporates the common law offense of “affray,” and he deduces
+
+that because the public is the victim of the common law offense of “mutual affray,”
+
+and because a misdemeanor crime of domestic violence must have an individual
+
+
+  3   The amendment made to the charging instrument and docket entries both use the term
+“Mutual Affray.” Exh. 1 to Def.’s Mot. to Dismiss 1 & 4.
+
+
+                                            5
+victim, a Section 1023(b) offense cannot serve as a predicate offense for purposes of
+
+Section 922(g)(9).
+
+        The Defendant cites a Vermont case which sets forth the general rule that
+
+“the common law is changed by statute only if the statute overturns the common
+
+law in clear and unambiguous language.” Langle v. Kurkul, 510 A.2d 1301, 1303
+
+(Vt. 1986). But the Defendant offers no Vermont authority which establishes the
+
+elements of the common law offense of “affray” or concludes that the public is the
+
+only victim of an affray. The Court’s research uncovered State v. Clary, 78 A. 717
+
+(Vt. 1911), which suggests that the concept of the public as victim in the “affray”
+
+context is relevant where a peacemaker attempts to intervene. 4 Since the term
+
+“affray” has a long and colorful history at common law, the fact that it does not
+
+appear in the statute strongly suggests that the Vermont legislature did not
+
+incorporate the common law “affray” into Section 1023(b), but was rather merely
+
+limiting the penalties for fights entered into by mutual consent.
+
+
+
+   4
+        In Clary, the Vermont Supreme Court stated:
+
+        It would be difficult to distinguish this affair as disclosed by the record from the
+        common–law affray which was defined to be the fighting of two or more persons in a
+        public place to the terror of the king's subjects, and which Blackstone said might “be
+        suppressed by any private person present, who is justifiable in endeavoring to part
+        the combatants, whatever consequences may ensue.” 4 Black. (15th Ed.) 145.
+
+           In such cases, the peacemaker's justification does not in any degree depend upon
+        which of the contestants was guilty of the first illegal violence, for he justifies, not in
+        the right of either of the parties, but in the right of the public. And, as said by Baron
+        Parke in the Timothy Case, “if no one could be restrained of his liberty, in cases of
+        mutual conflict, except the party who did the first wrong, and the bystander acted at
+        his peril in this respect, there would be very little chance of the public peace being
+        preserved by the interference of private individuals.”
+
+78 A. at 718.
+
+
+
+                                                    6
+       A straightforward reading of Section 1023(b) suggests that the “mutual
+
+consent” variant is a type of simple assault. “A person who is convicted of simple
+
+assault shall be imprisoned for not more than one year or fined not more than
+
+$1,000.00, or both, unless the offense is committed in a fight or scuffle entered into
+
+by mutual consent . . . .” 13 V.S.A. § 1023(b) (emphasis added.) Rather than serving
+
+as a stand-alone offense, Section 1023(b) merely “limits the penalties for simple
+
+assault when committed in a fight or scuffle entered into by mutual consent.” State
+
+v. Darling, 449 A.2d 928, 930 (Vt. 1982).5
+
+       Model Jury Instructions published by the Vermont Bar Association are in
+
+accordance with the concept that the “mutual consent” variant incorporates the
+
+elements of simple assault. The instruction for Simple Assault by Mutual Consent –
+
+13 V.S.A. § 1023(b) begins: “With regard to your verdict in this matter: If you find
+
+[the defendant] guilty of simple assault, there will be one further matter for you to
+
+consider. The law requires you to decide whether this offense was the result of
+
+mutual consent.”6
+
+       Accordingly, the Court declines to adopt the Defendant’s interpretation of
+
+1023(b) as a separate and distinct offense incorporating the elements of the common
+
+5        The Defendant asserts that In re Andres, 749 A.2d 618, 621 (Vt. 2000), supports the
+proposition that “a simple assault by mutual affray is a lessor included offense of simple assault,”—
+i.e. an offense that by definition does not require all of the elements of a simple assault. Def’s Reply
+in Support of Mot. to Dismiss 5 (ECF No. 35). But In re Andres merely recounted that an attorney
+who was being publicly reprimanded after engaging in a fist fight with a former client outside a bar,
+had, among other breaches of the professional code of ethics, been charged with simple assault, but
+“pled guilty to the lesser offense of simple assault by mutual affray.” In re Andres, 749 A.2d at 621.
+This historical recounting does not address the question of whether a mutual affray is a “lesser
+included offense” of simple assault.
+6
+       Posted on July 15, 2003 and available at http://vtjuryinstructions.org/criminal/MS22-046.
+These instructions were developed by the Vermont Criminal Jury Instruction Committee and are
+sponsored by the Vermont Bar Association.
+
+
+                                                   7
+law mutual affray, but concludes instead that the Defendant was convicted of a
+
+simple assault of the mutual consent variety.
+
+      2)      Does Section 1023(a) Qualify as a Misdemeanor Crime of
+              Domestic Violence?
+
+      Vermont criminalizes three types of Simple Assault.
+
+           (a) A person is guilty of simple assault if he or she:
+
+              (1) attempts to cause or purposely, knowingly or recklessly
+                  causes bodily injury to another; or
+              (2) negligently causes bodily injury to another with a deadly
+                  weapon; or
+              (3) attempts by physical menace to put another in fear of
+                  imminent serious bodily injury.
+
+13 V.S.A. § 1023. The Defendant argues that none of the three variants found in
+
+Section 1023(a) qualifies as a misdemeanor crime of domestic violence under federal
+
+law. The Government contends that only the Section 1023(a)(1) variant is relevant
+
+since it formed the basis of the Defendant’s conviction, and that Section 1023(a)(1)
+
+qualifies as a misdemeanor crime of domestic violence.
+
+      The parties dispute whether the Court can turn to the transcript of the
+
+Defendant’s state court plea colloquy to determine the crime of conviction. The
+
+Defendant argues that since the Defendant was convicted under 1023(b), there is no
+
+need to turn to the plea colloquy. The Court, however, has rejected the Defendant’s
+
+argument that 1023(b) sets forth a separate and distinct offense. The Government
+
+points out that under Shepard v. United States, 544 U.S. 13, 20 (2005), courts may
+
+review the transcript of the defendant’s plea colloquy to determine which portion of
+
+a divisible statute was applicable to the Defendant’s conviction. It is clear from the
+
+
+
+
+                                            8
+transcript of the Defendant’s change of plea hearing that he was charged with and
+
+admitted to engaging in a physical altercation in which he recklessly caused his
+
+girlfriend bodily injury. Accordingly, the Defendant was convicted of simple assault
+
+of the 1023(a)(1) variety and the penalties were reduced because of the application
+
+of the mutual consent provisions of 1023(b).
+
+      Because the Defendant was convicted of the 1023(a)(1) form of simple
+
+assault, the Court limits its analysis to whether the crime set forth in 1023(a)(1)
+
+qualifies as a misdemeanor crime of domestic violence under federal law. The First
+
+Circuit in Nason decided that the Maine assault statute, which has language
+
+similar to Section 1023(a)(1), does meet the definition of a misdemeanor crime of
+
+domestic violence. Nason, 269 F.3d at 18 (interpreting “intentionally, knowingly or
+
+recklessly causes bodily injury or offensive physical contact” found in 17-A M.R.S.A.
+
+§207(1)). In Nason, the First Circuit observed that, even though federal law defined
+
+“misdemeanor crime of domestic violence” from the perspective of the assailant’s
+
+conduct—i.e. that the assailant use “physical force”—and Maine’s statute focused on
+
+the victim’s circumstances—i.e. that the victim endure either bodily injury or
+
+offensive physical contact— the federal and state statutes were reconcilable. Nason,
+
+269 F.3d at 19-20. The First Circuit concluded that “both bodily injury and offensive
+
+physical contact assaults necessarily involve the use of physical force.” Nason, 269
+
+F.3d at 20. The Nason court noted that Maine’s Supreme Judicial Court has
+
+interpreted the “bodily injury” prong of its assault statute as requiring “the ‘use of
+
+unlawful force against another causing bodily injury.’” Id. (quoting State v. Griffin,
+
+
+
+
+                                          9
+459 A.2d 1086, 1091 (Me. 1983)). The First Circuit had no difficulty concluding that
+
+“to cause physical injury,7 force necessarily must be physical in nature.” Id.
+
+       Vermont’s       Supreme       Court     has    not    made      a   similarly     definitive
+
+pronouncement, but Vermont’s model criminal jury instructions8 provide that “[a]n
+
+attempt [to cause bodily injury to the victim under 13 V.S.A. § 1023(a)(1)] requires
+
+an open physical act by [the Defendant] . . . .” If the threat to cause bodily injury
+
+must be physical to be assaultive, it stands to reason that any bodily injury actually
+
+caused must also be by physical means. These instructions are not binding on
+
+Vermont’s Supreme Court, but in the absence of any contrary authority, the Court
+
+finds that Vermont’s Supreme Court would find that the “bodily injury”
+
+contemplated under its simple assault statute requires the use of unlawful force
+
+against another. Under these circumstances, Nason instructs that Vermont’s simple
+
+assault statute variant found at 1023(a)(1) qualifies as a misdemeanor crime of
+
+domestic violence. Nason, 269 F.3d at 20.
+
+       The Defendant also contends that, because the Defendant’s predicate offense
+
+occurred in Vermont, which is part of the Second Circuit, this Court should apply
+
+the law of that circuit rather than the law of the First Circuit in determining
+
+whether the offense meets the definition of a misdemeanor crime of domestic
+
+violence under federal law. The Defendant does not point to any basis in the law,
+
+nor does the Court discern any, that would allow it to set aside First Circuit
+7      Vermont defines “bodily injury” almost identically to Maine, as “physical pain, illness or any
+impairment of physical condition.” 13 V.S.A. § 1021(1); see also 17-A M.R.S.A. §2(5).
+
+8       Posted on March 3, 2007 and available at http://vtjuryinstructions.org/?page_id=698. These
+instructions were developed by the Vermont Criminal Jury Instruction Committee and are sponsored
+by the Vermont Bar Association.
+
+
+                                                 10
+precedent. See, e.g., Zuniga v. United Can Co., 812 F.2d 443, 450 (9th Cir. 1987)
+
+(“District courts are, of course, bound by the law of their own circuit . . .”).
+
+       While the Court is bound by Vermont’s interpretations of its statutes, the
+
+question of whether Vermont’s simple assault statute meets the federal definition of
+
+a misdemeanor crime of domestic violence is a question of federal law. See Johnson,
+
+559 U.S. at 138. This question of federal law was brought before the Court following
+
+the Defendant’s indictment in the District of Maine for possession of a firearm by an
+
+individual convicted of a misdemeanor crime of domestic violence. The Court is
+
+bound in its consideration of the case to follow federal law as interpreted by the
+
+First Circuit.
+
+       Accordingly, the Court concludes that the Defendant’s conviction for simple
+
+assault in Vermont under 1023(a)(1) and 1023(b) constitutes a misdemeanor crime
+
+of domestic violence as defined by Section 921(a)(33)(A).
+
+   C. Lenity / Constitutional Doubt
+
+       The Defendant asserts that “the capability of 13 V.S.A. § 1023(b) to produce a
+
+§ 922(g)(9) predicate is an intractably ambiguous question, and, consequently, must
+
+be given the interpretation most lenient to the defendant.” Def’s Reply in Support of
+
+Mot. to Dismiss 5-6. This argument is based on two arguments: (1) that Vermont’s
+
+Supreme Judicial Court has not interpreted Section 1023(b) as consistent with a
+
+Section 922(g)(9) predicate offense, and (2) that the Second Circuit has not passed
+
+on this question either. The Court does not perceive any ambiguity either in
+
+Vermont’s simple assault statute, or in its duty to apply the law of the First Circuit
+
+
+
+
+                                            11
+to the Defendant’s case, nor does it perceive any ambiguity in the sufficiency of the
+
+Defendant’s conviction to serve as a predicate offense under First Circuit precedent.
+
+See Booker, 644 F.3d at 21. (“[T]he rule of lenity only applies if, after considering
+
+text, structure, history, and purpose, there remains a grievous ambiguity or
+
+uncertainty in the statute such that the Court must simply guess as to what
+
+Congress intended.” (quoting Barber v. Thomas, 130 S. Ct. 2499, 2508-09 (2010)
+
+(alteration in original)). The doctrine of constitutional doubt also “has no application
+
+in the present case.” Booker, 644 F.3d at 22.
+
+   D. Second and Fifth Amendments
+
+      The Defendant claims that his right to due process of law under the Fifth
+
+Amendment to the United States Constitution has been infringed because he lacked
+
+notice that he was subject to a perpetual firearms ban for having been convicted of a
+
+“simple assault—mutual affray” under Section § 1023(b). He also asserts that
+
+Section 922(g)(9), as it has been applied to him in this case, unconstitutionally
+
+infringes on his right under the Second Amendment to the United States
+
+Constitution to bear arms. Both of these claims require the Court to accept the
+
+premise that the crime of which the Defendant was convicted was “a petty offense
+
+against the public order,” Def’s Mot. to Dismiss 10-11, rather than an offense that
+
+meets the definition of a misdemeanor crime of domestic violence. For this reason,
+
+both claims fail.
+
+      The individual constitutional right to bear arms recognized in District of
+
+Columbia v. Heller is “the right of law-abiding, responsible citizens to use arms in
+
+
+
+
+                                          12
+defense of hearth and home.” 554 U.S. 570, 635 (2008). The First Circuit has
+
+already found, and reaffirmed, that Section “922(g)(9) ‘substantially promotes an
+
+important government interest in preventing domestic gun violence.” Armstrong,
+
+706 F.3d at 7 (quoting Booker, 644 F.3d at 22). Specifically, “‘[s]tatistics bear out the
+
+Supreme Court’s observation that ‘firearms and domestic strife are a potentially
+
+deadly combination nationwide.’” Id. (quoting United States v. Hayes, 555 U.S. 415,
+
+427 (2009)). Thus, Section 922(g)(9) does not, on its face, infringe the right of law-
+
+abiding, responsible citizens to bear arms.
+
+      The Court agrees that the Defendant’s actions at the time of his arrest for
+
+possession of a firearm are not relevant to the question of whether Section 922(g)(9)
+
+is unconstitutional as applied to him, see United States v. Torres-Rosario, 658 F.3d
+
+110, 113 (1st Cir. 2011), but struggles to see what the Defendant’s as-applied
+
+challenge adds to the overall Second Amendment analysis. The Defendant’s plea
+
+colloquy establishes that the basis for the Defendant’s “simple assault mutual
+
+affray” conviction was the Defendant’s infliction of bodily injury upon his live-in
+
+girlfriend, satisfying both the physical force and domestic relation requirements of a
+
+misdemeanor crime of domestic violence.
+
+      The Defendant’s claim that this is categorically indistinguishable from a case
+
+in which “domestic partners join the affray together against a common foe,” does not
+
+reflect the requirement that the victim must be someone with whom the perpetrator
+
+has a domestic relationship. See 18 U.S.C. 921(a)(33)(A). The victim in the
+
+Defendant’s hypothetical is a third party, not the live-in girlfriend, and thus the
+
+
+
+
+                                           13
+hypothetical would not constitute a predicate offense. Because Section 922(g)(9)
+
+cannot apply to any “mutual affray” conviction unless the victim is in a domestic
+
+relation to the perpetrator, this statute as applied to Vermont’s “simple assault—
+
+mutual affray” crime substantially promotes the important governmental interest of
+
+preventing the combination of guns and domestic violence.
+
+      Likewise, the Defendant’s Fifth Amendment due process claim fails because
+
+the Defendant acknowledged at his plea colloquy that his simple assault-mutual
+
+affray conviction was based on his reckless infliction of bodily injury upon his live-in
+
+girlfriend. As the First Circuit noted in United States v. Denis:
+
+      [W]hatever the precise wording of the criminal complaint against him,
+      Denis knew that he was convicted of a misdemeanor offense after
+      assaulting his live-in girlfriend. That is enough to “remove[ ] him[ ]
+      from the class of ordinary and innocent citizens who would expect no
+      special restrictions on the possession of a firearm.”
+
+United States v. Denis, 297 F.3d 25, 31 (1st Cir. 2002) (quoting United States v.
+
+Beavers, 206 F.3d 706, 710 (6th Cir. 2000) (alterations in original)).
+
+
+                                   CONCLUSION
+
+      For the foregoing reasons, the Defendant’s motion to dismiss the indictment
+
+against him is DENIED.
+
+
+
+SO ORDERED.
+                                                /s/ Nancy Torresen
+                                                United States District Judge
+
+
+Dated this 9th day of January, 2014.
+
+
+
+
+                                           14
+

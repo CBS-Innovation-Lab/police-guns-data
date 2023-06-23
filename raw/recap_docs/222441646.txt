@@ -1,0 +1,379 @@
+Case 1:19-cr-00134-MSM-LDA Document 63 Filed 01/13/23 Page 1 of 8 PageID #: 525
+
+
+
+
+                       UNITED STATES DISTRICT COURT
+                     FOR THE DISTRICT OF RHODE ISLAND
+
+
+ ____________________________________
+                                     )
+ UNITED STATES OF AMERICA,           )
+               Plaintiff,            )
+                                     )
+                   v.                )         No. 1:19-cv-00134-MSM-LDA
+                                     )
+ ADRIAN MONTALVO,                    )
+                   Defendant.        )
+ ____________________________________)
+
+
+
+                           MEMORANDUM AND ORDER
+
+ Mary S. McElroy, United States District Judge.
+
+       Mr. Montalvo, indicted on three counts of drug trafficking and possession of
+
+ an unlawful firearm, has moved to suppress tangible evidence three times; the
+
+ previous two motions — to suppress fentanyl, the firearm, and photographs taken
+
+ inside his apartment — were denied. (ECF No. 32 and Text Order, March 16,
+
+ 2022.) This third motion seeks to suppress a cellphone seized from Mr. Montalvo at
+
+ the time of his arrest as well as all evidence gleaned from the data on the phone.
+
+       The Court has determined that the record, developed with respect to those
+
+ earlier motions which included an evidentiary hearing (ECF Nos. 55, 56), is
+
+ adequate to rule on this third motion. For the reasons stated below, Mr. Montalvo’s
+
+ third motion to suppress (ECF No. 58) is DENIED.
+
+
+
+
+                                           1
+Case 1:19-cr-00134-MSM-LDA Document 63 Filed 01/13/23 Page 2 of 8 PageID #: 526
+
+
+
+
+                          I.     FACTUAL BACKGROUND
+
+       The facts leading to the seizure of the cellphone began with the seizure of 30
+
+ grams of fentanyl from a confidential source (“C.S.”) who told Pawtucket police that
+
+ Mr. Montalvo and his girlfriend had supplied the drugs. (ECF No. 55, at 6.) The
+
+ C.S. supplied names and addresses for both Mr. Montalvo and Erin Lawrence who,
+
+ police had learned, lived together, and he identified Mr. Montalvo from
+
+ photographs. The source claimed to have had personal knowledge of Mr. Montalvo
+
+ dealing fentanyl over the course of five years. Id. at 11.
+
+       The source supplied a phone number which police were able to determine was
+
+ associated with Mr. Montalvo. At the behest of police, the source made several
+
+ unsuccessful attempts to call Mr. Montalvo to set up a drug buy. (ECF No. 25.) The
+
+ police then commenced a surveillance of Mr. Montalvo which culminated in their
+
+ search and seizure of four trash barrels he had placed on the curb for pickup outside
+
+ of his home. The Court, in denying the first motion to suppress, upheld the
+
+ constitutional admissibility of the fentanyl residue and other items indicative of
+
+ drug-dealing found in those barrels. As a result of that seizure, police obtained a
+
+ warrant to search Mr. Montalvo’s apartment. (ECF No. 32.)
+
+       Meanwhile, before that warrant was executed, police stopped Mr. Montalvo
+
+ after he drove away from his residence and arrested him. 1 Id. at 29, 34, 102. While
+
+
+
+ 1 Although police initially referred to Mr. Montalvo as “detained,” ECF No. 55, at
+ 30, the government has at times referred to its action as an “arrest,”e.g., ECF No.
+ 62, at 8. It is clear from the testimony that Mr. Montalvo was arrested. He was not
+ free to leave, would have been stopped had he tried to, and was taken immediately
+ after the stop to the police station. (ECF No. 55, at 152, 153). Det. Dennis Smith
+                                            2
+Case 1:19-cr-00134-MSM-LDA Document 63 Filed 01/13/23 Page 3 of 8 PageID #: 527
+
+
+
+
+ arresting him based on the evidence found in the trash barrels, police seized the
+
+ cellphone that is the object of this motion to suppress. 2 Id. at 103. Mr. Montalvo
+
+ was taken from where his vehicle was stopped to the Pawtucket police station. Id.
+
+ at 153. The contents of the phone were not searched until after police obtained a
+
+ separate search warrant authorizing that search.
+
+       Mr. Montalvo alleges there was no justification for the seizure of the phone.
+
+ His challenge to the introduction into evidence of the contents of the phone
+
+ therefore stems from what he claims is an unlawful arrest and an unlawful seizure,
+
+ making the contents of the phone the fruits of the these allegedly unlawful
+
+ activities. While he contends that the later warrant to search the phone did not
+
+ “cure” the unlawful seizure, Mr. Montalvo has not challenged the sufficiency of the
+
+ warrant itself. See Motion to Suppress, ECF No. 58.
+
+                                    II.   ANALYSIS
+
+       The Court begins with the starting point for all challenges brought under the
+
+ Fourth Amendment to the United States Constitution: any search or seizure
+
+ carried out without a warrant issued upon probable cause is presumptively
+
+ unlawful and is justified only if it falls within a specific exception to the warrant
+
+
+ testified that at the time of the stop he “believe[d] we had more than enough
+ probable cause to arrest him with possession with intent.” Id. at 29. Another
+ officer, although not at the scene, acknowledged that Mr. Montalvo was arrested
+ when or moments after he was “detained.” (ECF No. 55, at 148.)
+ 2Mr. Montalvo’s keys to his residence were seized at the same time and police used
+ those keys when they entered the apartment. Mr. Montalvo does not challenge the
+ seizure of the keys. In light of the warrant police later obtained to enter and search
+ the apartment, any challenge to the entry based on an unlawful seizure of the keys
+ would fail as it was justified pursuant to the independent source of the warrant.
+                                             3
+Case 1:19-cr-00134-MSM-LDA Document 63 Filed 01/13/23 Page 4 of 8 PageID #: 528
+
+
+
+
+ requirement. Riley v California, 573 U.S. 373, 382 (2014). When the government
+
+ seeks to exploit such a search or seizure by introducing into evidence incriminating
+
+ items found, it bears the burden of proving by a preponderance of the evidence that
+
+ an exception to the warrant requirement justified the absence of a warrant. United
+
+ States v. Matlock, 415 U.S. 164, 177 (1974).
+
+          One such exception occurs when a person is lawfully arrested and is carrying
+
+ – or has within his immediate control – items that are reasonably believed to be
+
+ contraband or evidence of the crime for which he is arrested. When a person is
+
+ arrested in a vehicle, as Mr. Montalvo was, “it is ‘reasonable to believe evidence
+
+ relevant to the crime of arrest might be found in the vehicle.’” Arizona v. Gant, 556
+
+ U.S. 332, 343 (2009), quoting Thornton v. United States, 541 U.S. 615, 632 (2004).
+
+ In that event, police may seize the item “incident to the arrest”; the seizure is lawful
+
+ if the arrest itself was lawful and if the item was likely contraband or evidence of a
+
+ crime.
+
+          In this case, Mr. Montalvo’s arrest was clearly lawful. It occurred in a public
+
+ place which obviated the need for an arrest warrant. United States v. Watson, 423
+
+ U.S. 411, 423-24 (1976). The lawfulness of a warrantless arrest depends upon
+
+ whether, “at the time of the arrest, the ‘facts and circumstances within the officer's
+
+ knowledge ... are sufficient to warrant a prudent person, or one of reasonable
+
+ caution, in believing, in the circumstances shown, that the suspect has committed,
+
+ is committing, or is about to commit an offense.’” Silva v. Rhode Island, 527 F.
+
+ Supp. 3d 168, 176 (D.R.I. 2021) (citing Holder v. Town of Sandown, 585 F.3d 500,
+
+
+
+                                              4
+Case 1:19-cr-00134-MSM-LDA Document 63 Filed 01/13/23 Page 5 of 8 PageID #: 529
+
+
+
+
+ 504 (1st Cir. 2009). “The inquiry into probable cause focuses on what the officer
+
+ knew at the time of the arrest, and should evaluate the totality of the
+
+ circumstances.” United States v. Jones, 432 F.3d 34, 41 (1st Cir. 2005) (internal
+
+ citations omitted). Probable cause means “…the kind of ‘fair probability’ on which
+
+ ‘reasonable and prudent [people] act.’” Florida v. Harris, 568 U.S. 237, 244 (2013).
+
+       There were two facts from which probable cause to arrest arose in this case.
+
+ First, when the confidential source was found in possession of 30 grams of fentanyl,
+
+ he claimed he had bought it from Mr. Montalvo and his girlfriend. That established
+
+ the C.S.’s personal knowledge of the incriminating event. While the source was a
+
+ first-time informant, the details he gave about Mr. Montalvo, his address, and his
+
+ telephone number, were corroborated, and he identified Mr. Montalvo from several
+
+ different pictures. 3 (ECF No. 55, at 7.) Even the corroboration of innocent, non-
+
+ incriminating details may provide a basis for crediting an informant. United States
+
+
+
+
+ 3 The Motion to Suppress filed by the defendant alleges, in purely general terms, a
+ lack of probable cause. (ECF No. 58.) Although the defendant has known the story
+ leading up to his arrest since at least the time of the evidentiary hearing, there is
+ no claim in the Motion that the confidential source lacked reliability or credibility.
+ Illinois v. Gates, 462 U.S. 213, 244-45 (1983) (totality of the circumstances may
+ provide a substantial basis for crediting an informant’s information). A motion to
+ suppress must allege with particularity the grounds upon which it is based and it is
+ not up to the Court to supply theories. There was no memorandum of law filed with
+ the Motion which might have otherwise raised a complaint about reliance on the
+ source’s allegations. Nor has the defendant requested a hearing or opportunity to
+ orally argue. See United States v. Calderon, 77 F.3d 6, 9 (1st Cir. 1996)
+ (evidentiary hearing required only where defendant “allege[s] facts, ‘sufficiently
+ definite, specific, detailed, and nonconjectural, to enable the court to conclude that a
+ substantial claim is presented.’” Despite the defendant’s failure to challenge the
+ police reliance on the source’s information, the Court does address that issue as well
+ as the question of whether the quantity of information established probable cause.
+                                            5
+Case 1:19-cr-00134-MSM-LDA Document 63 Filed 01/13/23 Page 6 of 8 PageID #: 530
+
+
+
+
+ v. Dixon, 787 F.3d 55, 59 (1st Cir. 2015); United States v. Greenburg, 410 F.3d 63,
+
+ 69 (1st Cir. 2005). Importantly, the source’s central accusation, that Mr. Montalvo
+
+ was dealing fentanyl, was corroborated independently by the evidence police found
+
+ in the lawful search of the trash barrels. Moreover, the source was known to the
+
+ police and was not anonymous. Florida v. J.L., 529 U.S. 266, 270 (2000) (known
+
+ informant’s tip more reliable than anonymous tip).
+
+       Second, and more directly, the police had clear probable cause that Mr.
+
+ Montalvo possessed the fentanyl found in the trash barrels they saw him placing on
+
+ the curb and removing from the curb after the trash pick-up. The Court has already
+
+ upheld the search of the barrels and seizure of the fentanyl. The indicia of
+
+ ownership of the barrels and their contents that police observed was sufficient to
+
+ connect Mr. Montalvo to possession of the fentanyl and to arrest him for it. (ECF
+
+ No. 55, at 95) (testimony from police detective that “I have probable cause to arrest
+
+ him based off the trash pull.”).
+
+       If an arrest is lawful, police may search both the arrestee and the area within
+
+ his immediate control for contraband and evidence of the crime. Arizona v. Gant,
+
+ 556 U.S. 332, 343 (2009); Chimel v. California, 395 U.S. 752, 762-763 (1969) (“it is
+
+ entirely reasonable for the arresting officer to search for and seize any evidence on
+
+ the arrestee's person in order to prevent its concealment or destruction”.)
+
+
+
+
+                                           6
+Case 1:19-cr-00134-MSM-LDA Document 63 Filed 01/13/23 Page 7 of 8 PageID #: 531
+
+
+
+
+       Generally, police who find a cell phone during a search incident to arrest may
+
+ seize the phone. 4 United States v. Olivera, Cr. No. 21-12 (DRD), 2022 WL 3334607,
+
+ at *9 (D.P.R. Aug. 12, 2022). Cell phones are “common tools of the drug trade,”
+
+ United States v. Hernandez-Mieses, 931 F.3d 134, 140 (1st Cir. 2019), and,
+
+ therefore, it is a fair inference that a cellphone found in the possession of a person
+
+ reasonably believed to be dealing drugs is evidence of that crime. Mr. Montalvo was
+
+ carrying the cellphone at the time of his arrest. (ECF No. 55, at 115.) Police had
+
+ probable cause specific to Mr. Montalvo to believe that he conducted his drug-
+
+ dealing business by telephone. The informant alleged having purchased 30 grams
+
+ of fentanyl from Mr. Montalvo and, just prior to Mr. Montalvo’s arrest, had
+
+ attempted to make another purchase by calling his cellphone. There was testimony
+
+ that on a previous occasion the informant had, by telephone, arranged to meet Mr.
+
+ Montalvo to purchase fentanyl. Id. at 59. It appears that Mr. Montalvo was
+
+ carrying only the one cellphone, as police seized no others. The inference, therefore,
+
+ is strong that the cellphone seized was an instrumentality of the crime and
+
+ therefore within the “search incident to arrest” umbrella.
+
+                                 III.   CONCLUSION
+
+       The seizure of Mr. Montalvo’s cellphone was lawful. The later search of its
+
+ contents was carried out pursuant to a warrant whose sufficiency is not challenged.
+
+
+
+ 4Authority to seize the phone is not authority to search its contents. Once the
+ phone is in their possession, police are required to obtain a warrant justifying the
+ search of the data on the phone. Riley v. California, 573 U.S. 373, 401 (2014), In
+ this case, a warrant was obtained and the sufficiency of the affidavit and the
+ warrant are not challenged.
+                                            7
+Case 1:19-cr-00134-MSM-LDA Document 63 Filed 01/13/23 Page 8 of 8 PageID #: 532
+
+
+
+
+ Therefore, both the cellphone and its contents are admissible and Mr. Montalvo’s
+
+ Motion to Suppress (ECF No. 58) is DENIED.
+
+
+ IT IS SO ORDERED:
+
+
+
+
+ ____________________________________
+ Mary S. McElroy,
+ United States District Judge
+
+
+ Date: January 13, 2023
+
+
+
+
+                                          8
+

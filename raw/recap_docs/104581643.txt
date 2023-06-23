@@ -1,0 +1,266 @@
+                             UNITED STATES DISTRICT COURT
+                              DISTRICT OF MASSACHUSETTS
+
+                                 CRIMINAL NO. 19-10044-RWZ
+
+
+                                UNITED STATES OF AMERICA
+
+                                                  v.
+
+                                          VASILY HARDY
+
+
+                                              ORDER
+
+                                          August 28, 2019
+
+
+ZOBEL, S.D.J.
+       Defendant Vasily Hardy is charged in one count with being a felon in possession
+
+of a firearm and ammunition. 18 U.S.C. § 922(g)(1). He challenges the impoundment
+
+of his vehicle and moves to suppress the firearm and ammunition seized during the
+
+subsequent inventory search.
+
+I.     Findings of Fact1
+
+       On November 14, 2018, at approximately 10:30 p.m., Wellesley Police Officer
+
+Travis Dixon (hereafter “Dixon”) observed a vehicle commit a series of traffic violations
+
+on Route 9 in Wellesley, Massachusetts. He contacted the Wellesley Police
+
+Department ("WPD") to run the license plate and learned that the car was registered to
+
+defendant and that defendant’s license had been suspended. Dixon activated his police
+
+lights and defendant immediately pulled over into a metered parking space on
+
+Washington Street in Newton, Massachusetts.
+
+
+
+       1
+              The court held an evidentiary hearing on August 14, 2019, at which Officers Travis Dixon
+and Matthew Wall testified. Docket # 43.
+       Dixon approached the vehicle and asked for defendant’s identification. The
+
+defendant was alone in the car. Dixon then learned via radio dispatch that there was an
+
+active warrant for defendant from Lowell District Court. Meanwhile, WPD Officer
+
+Matthew Wall (hereafter “Wall”) overheard the radio transmissions regarding the traffic
+
+stop and arrived at the scene.
+
+       While defendant waited in his car, the two officers spoke briefly and decided to
+
+arrest defendant for the active warrant and for driving with a suspended license. Dixon
+
+called for a tow truck to impound defendant’s vehicle. The officers arrested defendant
+
+and placed him in Wall’s police cruiser. Wall drove defendant to the Wellesley Police
+
+station while Dixon remained at the scene. From the backseat of the cruiser, defendant
+
+asked, “What happens with my vehicle?” Wall replied, “Your vehicle’s going to be
+
+towed, sir.” The defendant initially said, “Okay,” but several seconds later asked, “Can
+
+you leave my car there so it doesn’t have to get towed?” Wall responded, “No sir, we
+
+can’t,” and explained that Dixon would complete an inventory search of his vehicle prior
+
+to the tow. At no point did defendant suggest the name or availability of another person
+
+to take charge of the vehicle.
+
+       During Dixon’s subsequent search of the car, he found a Sig Sauer semi-
+
+automatic pistol and sixteen rounds of ammunition inside a backpack in the backseat.
+
+He filled out the WPD “Motor Vehicle Inventory Form,” listing these and other items
+
+found in the car. See Docket # 36-2. Sergeant Robert Gallagher (hereafter
+
+“Gallagher”), the shift supervisor, arrived on the scene where he photographed and
+
+collected the pistol and ammunition.
+
+
+
+                                            2
+       At the Wellesley Police station, defendant received his Miranda warnings twice,
+
+signed a Miranda warnings form, and agreed to speak with Dixon and Sergeant
+
+Gallagher. The defendant admitted that the vehicle, firearm, and ammunition were his.
+
+II.    Legal Standard
+
+       “[T]he Constitution permits arresting officers to impound [without a warrant],
+
+pursuant to standard procedures, an arrested person's automobile that might otherwise
+
+be left abandoned.” United States v. Ramos-Morales, 981 F.2d 625, 627 (1st Cir.
+
+1992). This “community caretaking exception” to the Fourth Amendment’s warrant
+
+requirement recognizes law enforcement’s responsibility to protect a car from theft and
+
+vandalism and to remove vehicles that impede traffic or threaten public safety and
+
+convenience. United States v. Coccia, 446 F.3d 233, 238 (1st Cir. 2006).
+
+       The decision to impound an arrestee’s car must be reasonable under the
+
+circumstances and not driven by investigatory motives. “The reasonableness analysis
+
+does not hinge solely on any particular factor,” but takes into account all of the facts and
+
+circumstances. Coccia, 446 F.3d at 239. In particular, courts consider the existence of
+
+and adherence to established criteria, such as written policy and/or standard routine.
+
+See also United States v. Sanchez, 535 F. Supp. 2d 216, 221 (D. Mass. 2008), aff'd,
+
+612 F.3d 1 (1st Cir. 2010) (“The Supreme Court has emphasized the importance of
+
+standardized criteria or established routine ... the latter clause suggesting that the policy
+
+need not be in writing”) (internal citations and quotation marks omitted).
+
+       When a vehicle is properly impounded, the police may conduct a warrantless
+
+inventory search of the vehicle, including any compartments or closed containers. The
+
+
+                                              3
+purpose of an inventory search is to protect “the property of the owner …, the police
+
+from claims resulting from lost or stolen property, and the police and the public from
+
+dangerous instrumentalities stored inside.” Colorado v. Bertine, 479 U.S. 367, 373
+
+(1987). For an inventory search to be valid and the evidence discovered admissible,
+
+officers must adhere to standardized criteria and procedures. Florida v. Wells, 495 U.S.
+
+1, 4 (1990).
+
+III.    Discussion
+
+        Defendant challenges the initial impoundment of his vehicle and therefore argues
+
+that the fruits of the subsequent inventory search, including the firearm and ammunition,
+
+must be suppressed.2
+
+        WPD’s written policy pertinently states:
+
+        When the operator is arrested, and proposes that the vehicle be
+        turned over to an identified person who is not under arrest or
+        otherwise incapacitated and who agrees to take charge of the
+        vehicle, the officer should allow such arrangement as an alternative
+        to police tow provided he can verify that proposed operator is
+        properly licensed. When the officer does not permit the third party
+        to take charge of the vehicle, the reasons for ordering the tow shall
+        be articulated in his/her report.
+
+WPD Motor Vehicle Inventory Policy & Procedure No. 5.03, Docket # 36-1.
+
+        The written policy describes the protocol to be followed when an arrestee
+
+proposes an alternate driver, such as one at the scene or immediately nearby, to take
+
+control of the vehicle. When an arrestee is alone, however, Dixon and Travis testified
+
+
+        2
+                 Defendant does not challenge the inventory search itself or argue that it was not carried
+out pursuant to valid policies.
+
+
+                                                     4
+that it is WPD’s general practice to tow the vehicle, especially if it is on a public road.
+
+This procedure reflects a reasonable approach to law enforcement’s community
+
+caretaking role and the officers adhered to this protocol in defendant’s case.
+
+        Defendant nonetheless complains that the officers failed to ask him if there was
+
+someone nearby to take charge of the vehicle. Defendant acknowledges that he was
+
+alone when he was stopped, but he states that three of his family members reside “less
+
+than a 30 minute drive” away from where he was arrested and, therefore, could have
+
+retrieved his car.3 Docket # 36 at 9. But WPD’s policy and practice plainly do not
+
+dictate that officers affirmatively inquire about the availability of a third-party driver. Nor
+
+does the law impose such a requirement. The First Circuit has clearly stated that “law
+
+enforcement officials are not required to give arrestees the opportunity to make
+
+arrangements for their vehicles when deciding whether impoundment is appropriate.”
+
+Vega-Encarnacion v. Babilonia, 344 F.3d 37, 41 (1st Cir. 2003); see also Jaynes v.
+
+Mitchell, 824 F.3d 187, 197 (1st Cir. 2016) (“where a driver is arrested and there is no
+
+one immediately on hand to take possession, the officials have a legitimate
+
+non-investigatory reason for impounding the car”) (emphasis added) (citation omitted).
+
+        Lastly, defendant argues that impoundment was unnecessary because his
+
+vehicle was in a designated parking spot, the parking meter was inactive at the time of
+
+his arrest, and thus, at worst, his car would have accrued parking tickets the next day.
+
+        3
+                 Even if the defendant identified a person to Dixon and Travis who could come to the
+scene to retrieve his vehicle, the officers need not have allowed such an arrangement. See e.g., United
+States v. Mensah, 796 F. Supp. 2d 265, 269 (D. Mass. 2011), aff'd, 737 F.3d 789 (1st Cir. 2013) (denying
+motion to suppress when officers did not permit defendant’s girlfriend, who was at his residence a few
+blocks away, to claim the vehicle).
+
+
+                                                   5
+Yet officers may tow a vehicle despite the existence of “alternative means of dealing
+
+with the automobile, even less intrusive means.” Boudreau v. Lussier, 901 F.3d 65, 72
+
+(1st Cir. 2018) (quoting United States v. Rodríguez-Morales, 929 F.2d 780, 786 (1st Cir.
+
+1991)). Defendant’s car was stopped on the side of a street after 10:30 p.m. Dixon and
+
+Travis testified that they did not know nor could they control when defendant would be
+
+released from custody. Nor did they know for certain whether defendant’s car would be
+
+ticketed or eventually towed by the city if it remained where it was. Under these
+
+circumstances, the decision to impound the vehicle was eminently reasonable.
+
+IV.   Conclusion
+
+      Defendant’s motion to suppress (Docket # 36) is DENIED.
+
+
+
+
+          August 28, 2019                              /s/ Rya W. Zobel
+            DATE                                       RYA W. ZOBEL
+                                         SENIOR UNITED STATES DISTRICT JUDGE
+
+
+
+
+                                            6
+

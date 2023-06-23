@@ -1,0 +1,848 @@
+Case 1:12-cr-00204-JAW Document 62 Filed 04/17/13 Page 1 of 17        PageID #: 262
+
+
+
+                        UNITED STATES DISTRICT COURT
+                             DISTRICT OF MAINE
+
+UNITED STATES OF AMERICA                     )
+                                             )
+                   v.                        )     1:12-cr-00204-JAW
+                                             )
+JOHN THOMAS HINES                            )
+
+                        ORDER ON MOTIONS IN LIMINE
+
+      With trial looming in this possession of a firearm by a person previously
+
+convicted of a misdemeanor crime of domestic violence case, the Government filed a
+
+motion in limine mostly directed to the scope of admissible evidence concerning the
+
+Defendant’s predicate conviction and conditions of probation; the Defendant
+
+responded with a motion of his own. The Defendant also filed a second motion in
+
+limine to limit the scope of cross-examination against a defense witness regarding a
+
+prior conviction. The Court grants in part and denies in part the Government’s and
+
+the Defendant’s initial motions, and grants the Defendant’s second motion.
+
+I.    BACKGROUND
+
+      A.    Procedural History
+
+      On December 13, 2012, a federal grand jury indicted John Thomas Hines,
+
+alleging that, on March 21, 2012, after he had been convicted of a misdemeanor
+
+crime of domestic violence, he knowingly possessed in and affecting interstate
+
+commerce four firearms, in violation of 18 U.S.C. § 922(g)(9). Indictment (ECF No.
+
+1).
+
+      On April 1, 2013, the Government moved in limine for a ruling allowing the
+
+prosecutor to refer in his opening statement to Mr. Hines’ probationary status and
+Case 1:12-cr-00204-JAW Document 62 Filed 04/17/13 Page 2 of 17           PageID #: 263
+
+
+
+to his admission in state court to violating the terms of his probation by possessing
+
+the firearms which are the subject of this case; for a ruling allowing the introduction
+
+of evidence regarding a dialogue which occurred during a probation check; and for a
+
+ruling precluding the Defendant from arguing that he has already been sentenced
+
+for his possession of firearms and from arguing that he should not be found in
+
+possession of firearms because he had asked his brother to remove them. Mot. in
+
+Limine of the United States, 1 (ECF No. 32) (Gov’t’s Mot.). Mr. Hines responded on
+
+April 8, 2013, and also filed his own motion in limine. Def.’s Resp. to the Gov’t’s Mot.
+
+in Limine and Def.’s Mot. in Limine to Exclude Certain Evidence (ECF No. 34)
+
+(Def.’s Opp’n); Mot. in Limine to Exclude Certain Evidence (ECF No. 35). On April
+
+11, 2013, the Government replied to Mr. Hines’ response and responded to his
+
+motion in limine. Reply of the United States of America to Def.’s Resp. to the Gov’t’s
+
+Mot. in Limine (ECF No. 45) (Gov’t’s Reply).
+
+      On April 15, 2013, Mr. Hines filed a motion in limine seeking to limit the
+
+Government’s cross-examination concerning a prior conviction of a contemplated
+
+witness for the defense. Def.’s Mot. in Limine to Limit the Gov’t’s Scope of Inquiry
+
+into a Witness’s Prior Record (ECF No. 56) (Def.’s Second Mot.). The Government
+
+responded on April 16, 2013. Resp. of the United States to Def.’s Mot. in Limine to
+
+Limit the Scope of Inquiry into the Prior Record of Dalton Hines (ECF No. 57)
+
+(Gov’t’s Opp’n).
+
+      Jury selection occurred on April 16, 2013, Minute Entry (ECF No. 58), and
+
+trial is set to begin on April 18, 2013. Notice of Hr’g (ECF No. 31).
+
+
+
+                                           2
+Case 1:12-cr-00204-JAW Document 62 Filed 04/17/13 Page 3 of 17           PageID #: 264
+
+
+
+       B.     The Facts
+
+              1.    The Facts According to the Government
+
+       The Government asserts the following facts.       Mr. Hines was convicted of
+
+domestic violence assault on September 29, 2011, and was placed on probation for
+
+two years. Gov’t’s Mot. at 2. His conditions of probation included a prohibition
+
+against possession of firearms or alcohol. Id. On March 21, 2012, Waldo County
+
+Deputy Sheriffs Benjamin Seekins and James Porter conducted a probation check
+
+at the request of Mr. Hines’ probation officer. Id. Deputy Seekins reported:
+
+       I got out of the vehicle and approached John and asked him if he was
+       on probation and he said he was and the only condition is that he [ ]
+       was not to have contact with Sherry Gdovin. I advised he had more
+       conditions than that. I advised that he was not suppose[d] to be in
+       possession or use drugs or alcohol. I said so the beer can is a violation.
+       I said another condition is that you are not suppose[d] to be in
+       possession of any firearms. John said that he had guns in the house.
+       He said that a month ago he had called his brother to come get them
+       but . . . that he just had not had the time.
+
+Id. at 2-3.
+
+       After four firearms were found in Mr. Hines’ possession, state of Maine
+
+Probation Officer Robert Cartier filed an affidavit with the Waldo County Superior
+
+Court in support of a motion for probation revocation that stated in part:
+
+       That on March 21, 2012 Deputy Ben Seekins stated he was on his way
+       to John Hines’ residence in reference to a complaint made that John
+       had discharged a firearm. I advised Deputy Seekins that John Hines
+       had conditions of probation to refrain from using or possessing
+       unlawful drugs and alcohol and was subject to search and test for
+       alcohol and drugs. I also advise[d] Deputy Seekins that John had a
+       condition . . . of probation not to own or possess a firearm due to his
+       domestic assault charge. I asked Deputy Seekins that if he made
+       contact with John Hines to conduct a Search and test for Alcohol and
+
+
+
+                                           3
+Case 1:12-cr-00204-JAW Document 62 Filed 04/17/13 Page 4 of 17        PageID #: 265
+
+
+
+       drugs. Deputy [Seekins] called back . . . and advised me that John
+       Hines was in possession of alcohol [and] firearms . . . .
+
+Id. at 3.
+
+       At the probation revocation hearing before Superior Court Justice Robert
+
+Murray, Jr. on May 31, 2012, Mr. Hines admitted the allegations in the revocation
+
+petition:
+
+       COURT:      John Hines. The Court has before it the matter of State
+       versus John Hines, CR-11 docket number 89. You are John Hines?
+
+       JOHN HINES: I am.
+
+       COURT:       Defendant is present in the courtroom at this time along
+       with his attorney, Attorney Whittier. The Court has before it a motion
+       for probation revocation dated March 23, 2012. It’s scheduled for
+       hearing today, is that correct?
+
+       ERIC WALKER, ESQ.: Yes, Your Honor.
+
+       LISA WHITTIER, ESQ.: Yes.
+
+       COURT:       What’s the status of that?
+
+       MS. WHITTIER:        He’s going to be admitting and we have an
+       agreement.
+
+       COURT:       Mr. Hines, the March 23, 2012 motion for probation
+       revocation you had previously appeared and denied the allegations in
+       that motion. Do I understand at this time you now wish to change
+       your answer to admit to those allegations?
+
+       MR. HINES: Yes.
+
+Id. at 3-4. Based on Mr. Hines’ admission, Justice Murray granted the motion for
+
+probation revocation and sentenced him to serve 90 days of the suspended portion of
+
+his sentence for domestic violence assault. Id. at 4.
+
+             2.     The Facts According to the Defendant
+
+
+                                          4
+Case 1:12-cr-00204-JAW Document 62 Filed 04/17/13 Page 5 of 17           PageID #: 266
+
+
+
+      Although Mr. Hines agrees with much of the Government’s version of the
+
+events, he disagrees with certain critical facts. He agrees that he was prohibited
+
+from possessing alcohol but notes that the conditions of his probation included the
+
+requirement that he “not own, possess or use any firearm or other dangerous
+
+weapon.” Def.’s Opp’n at 4. When the Deputies searched his home, they found a
+
+crossbow hanging from the kitchen ceiling and four firearms locked in a metal gun
+
+cabinet. Id. These firearms were bequeathed to him by his father. Id.
+
+      The state of Maine moved to revoke Mr. Hines’ probation on March 23, 2012;
+
+the motion alleged that he had violated the terms of his probation by:
+
+      1.     In violation of a condition of probation #7 failure to refrain from
+             possessing or using alcohol, to wit, on or about March 21, 2012,
+             in the Town of Swanville, Waldo County, Maine, John Hines
+             was found to be in possession of alcohol and having a BAC of .03.
+
+      2.     In violation of condition of probation #10 failure to refrain from
+             owning, possessing or use [sic] any firearm or other dangerous
+             weapon . . . to wit, on or about March 21, 2012, in the Town of
+             Swanville, Waldo County, Maine, John Hines was found to be in
+             possession of four firearms and one crossbow.
+
+Id. at 5. Mr. Hines agrees that on May 31, 2012, he answered the Judge’s question
+
+by admitting “the allegations”; however, he points out that the prosecutor never set
+
+forth the evidence upon which the Government would have relied if the matter had
+
+gone to a full hearing and it was never clarified which of the allegations—possession
+
+of alcohol, possession of firearms, or possession of a dangerous weapon—he was
+
+admitting.   Id.   Mr. Hines affirms that he is willing to stipulate that he was
+
+convicted of a misdemeanor crime of domestic violence on September 29, 2011. Id.
+
+
+
+
+                                          5
+Case 1:12-cr-00204-JAW Document 62 Filed 04/17/13 Page 6 of 17          PageID #: 267
+
+
+
+      Regarding Mr. Hines’ second motion in limine, he states that he intends to
+
+call Dalton Hines as a defense witness, and that he learned that Dalton Hines has a
+
+felony conviction for Aggravated Criminal Trespass, a violation of 17-A M.R.S. §
+
+402-A(a)(A). Def.’s Second Mot. at 1. Mr. Hines is worried that the Government
+
+will seek to introduce evidence about the “factual details underlying the conviction.”
+
+Id. at 1-2.   In response, the Government proffered the rather dramatic facts
+
+underlying Dalton Hines’ conviction, but conceded that the United States “intends
+
+at this time to limit its impeachment of the defendant to the scope identified as
+
+permissible by the defense.” Gov’t’s Opp’n at 2.
+
+II.   THE PARTIES’ POSITIONS
+
+      The Government seeks to admit evidence of Mr. Hines’ probationary status,
+
+the no-alcohol, no-firearm, and no-dangerous-weapon conditions of his probation,
+
+the dialogue he had with Deputy Seekins, and his admissions in state court. Gov’t’s
+
+Mot. at 6-13. Mr. Hines agrees that “some mention of Mr. Hines[’] probationary
+
+status is necessary to explain why the officers were at his home and searching for
+
+weapons.” Def.’s Opp’n at 12. However, he objects to the Government’s request for
+
+“unlimited admission of evidence regarding the probation and its conditions”
+
+because he contends it would “cause unfair prejudice to him and confuse the issues
+
+that the jury must decide.” Id. He suggests that the Government’s mention of Mr.
+
+Hines’ conditions of probation should be limited to statements that:
+
+      1) Mr. Hines was on probation for a state criminal charge; and
+
+
+
+
+                                          6
+Case 1:12-cr-00204-JAW Document 62 Filed 04/17/13 Page 7 of 17          PageID #: 268
+
+
+
+        2) The terms of his probation prohibited him [from] having “access to
+
+             dangerous weapons.”
+
+Id.    Mr. Hines also objects to any reference to his having been convicted of a
+
+misdemeanor crime of domestic violence; he says that he is willing to stipulate that
+
+he was prohibited from possessing a firearm but prefers to avoid reference to the
+
+reason he was so prohibited. Id. at 14-15.
+
+        Regarding Dalton Hines’ prior conviction, Mr. Hines contends that any
+
+“cross-examination on this issue should be limited to the number of convictions
+
+(one), the nature of the crime (Aggravated Criminal Trespass, an offense punishable
+
+by one year or more in prison) and the date of the conviction (October 29, 2010).”
+
+Def.’s Second Mot. at 3.
+
+III.    DISCUSSION
+
+        A.     Prohibited Person or Convicted of a Misdemeanor Crime of
+               Domestic Violence
+
+        The seminal case on the admissibility of evidence of a defendant’s prior
+
+conviction in a felon in possession case is Old Chief v. United States, 519 U.S. 172
+
+(1997). In Old Chief, a defendant offered to concede that he had previously been
+
+convicted of a qualifying crime; however, the district court spurned the offer and
+
+admitted the “full record of a prior judgment.” Id. at 174. The “full record” revealed
+
+to the jury that the defendant not only committed an assault but that the assault
+
+resulted in serious bodily injury. Id. at 177. In Old Chief, the Supreme Court
+
+observed that “there can be no question that evidence of the name or nature of the
+
+prior offense generally carries a risk of unfair prejudice to the defendant.” Id. at
+
+
+                                          7
+Case 1:12-cr-00204-JAW Document 62 Filed 04/17/13 Page 8 of 17           PageID #: 269
+
+
+
+185. The risk, as described by the Supreme Court, is that a juror might be lured
+
+“into a sequence of bad character reasoning.” Id. The Old Chief Court noted that
+
+the defendant’s offer to stipulate “amounted to an offer to admit that the prior-
+
+conviction element was satisfied.” Id. at 186. In this circumstance, the Supreme
+
+Court concluded that the district court erred in refusing to accept the defendant’s
+
+proferred stipulation. Id. at 192.
+
+         The Supreme Court acknowledged that the jury might “well wonder what
+
+they are being kept from knowing” and that “the prosecution with its burden of
+
+proof may prudently demur at a defense request to interrupt the flow of evidence
+
+telling the story in the usual way.” Id. at 189. But the Old Chief Court concluded
+
+that the evidentiary need “to tell a continuous story has . . . virtually no application
+
+when the point at issue is a defendant’s legal status.” Id. at 190. In other words,
+
+“[p]roving status without telling exactly why that status was imposed leaves no gap
+
+in the story of a defendant’s subsequent criminality.” Id. at 191. Nevertheless, the
+
+Old Chief Court cautioned that a prosecutor’s choice to present evidence about the
+
+underlying conviction will “generally survive a Rule 403 analysis when a defendant
+
+seeks to force the substitution of an admission for evidence creating a coherent
+
+narrative of his thoughts and actions in perpetrating the offense for which he is
+
+being tried.” Id. at 192. In short, Old Chief contemplates a balance between the
+
+Government’s right to tell the whole story and the Defendant’s right to avoid the
+
+prejudice that flows from the whole story by stipulating to the essential part of that
+
+story.
+
+
+
+                                           8
+Case 1:12-cr-00204-JAW Document 62 Filed 04/17/13 Page 9 of 17                     PageID #: 270
+
+
+
+       Turning to Mr. Hines’ willingness to stipulate that he is a prohibited person
+
+and his preference to avoid mention of the misdemeanor crime of domestic violence,
+
+the Court will not unduly sanitize the pending charge by pretending it is something
+
+it is not.1    Mr. Hines is charged with possessing a firearm after having been
+
+“convicted in any court of a misdemeanor crime of domestic violence.” 18 U.S.C. §
+
+922(g)(9).    Unlike § 922(g)(1), which classifies predicate offenses based on their
+
+sentencing consequences (“punishable by imprisonment for a term exceeding one
+
+year”), § 922(g)(9) requires the Government to prove that a defendant was
+
+previously convicted of a specific type of crime—a misdemeanor crime of domestic
+
+violence. 18 U.S.C. § 922(g)(9). Keeping any mention of Mr. Hines’ prior conviction
+
+for a domestic violence crime from the jury and requiring the Government to refer
+
+instead to the non-statutory concept of a “prohibited person” would leave a gap in
+
+the Government’s narrative. United States v. Morales-Aldahondo, 524 F.3d 115,
+
+120 (1st Cir. 2008) (“The government need not accept a defendant’s attempt to use a
+
+stipulation to overcome the right of the government to make a full presentation of
+
+the crime currently charged”) (internal punctuation omitted).
+
+       When a defendant stipulates to his prohibited status in a trial for the
+
+analogous crimes of possession of a firearm by a felon or possession of a firearm by a
+
+person previously committed to a mental institution, Judge Hornby’s Model Jury
+
+Instructions do not recommend use of the term “prohibited person.” See Judge D.
+
+1       Mr. Hines may have waived this argument. During voir dire, at Mr. Hines’ insistence, the
+Magistrate Judge questioned the jury panel about their views of domestic violence. The jury is
+therefore prepared for evidence about domestic violence and has been screened for their potential
+bias against domestic violence. Having alerted the jury to the domestic violence issue in voir dire,
+Mr. Hines is in an awkward position to insist that evidence of domestic violence be excluded.
+
+                                                 9
+Case 1:12-cr-00204-JAW Document 62 Filed 04/17/13 Page 10 of 17         PageID #: 271
+
+
+
+Brock Hornby’s 2012 Revisions to Pattern Crim. Jury Instructions for the District
+
+Courts of the First Circuit § 4.18.922(g) (updated March 12, 2013).       The model
+
+instructions recommend informing the jury that “[t]he parties have stipulated that
+
+[defendant] has been convicted of a crime which is punishable by imprisonment for
+
+a term exceeding one year” or that the “[defendant] was previously involuntarily
+
+committed to a mental institution.” Id.
+
+      Furthermore, as has been seen, Mr. Hines concedes that “some mention of
+
+Mr. Hines[’] probationary status is necessary to explain why the officers were at his
+
+home and searching for weapons.” Def.’s Opp’n at 12. Under Mr. Hines’ proposal,
+
+the jury would learn that he was a prohibited person and was on probation at the
+
+time of the search, but would not learn why he was so prohibited or on probation.
+
+The Court concludes that the risk of juror speculation and the inability of the
+
+Government to place the events in context outweigh any potential prejudice to Mr.
+
+Hines. Finally, to the extent that Mr. Hines is concerned that a jury might misuse
+
+the evidence of his conviction to conclude that he is a person of bad character, he is
+
+free to propose an instruction to the Court to be given with the admission of the
+
+evidence or in instructions that clarify the limited purpose of the evidence of the
+
+prior conviction.
+
+      At the same time, the Court readily agrees with the parties that it would be
+
+inappropriate under Old Chief to allow evidence about the facts underlying the
+
+prior conviction during the Government’s case-in-chief. Old Chief, 519 U.S. at 190-
+
+91; United States v. Joost, 133 F.3d 125, 128 (1st Cir. 1998); United States v.
+
+
+
+                                          10
+Case 1:12-cr-00204-JAW Document 62 Filed 04/17/13 Page 11 of 17         PageID #: 272
+
+
+
+Walston, No. CR-04-78-B-W, 2005 U.S. Dist. LEXIS 10727, *10 (D. Me. June 1,
+
+2005). According to the Government, the parties have entered into a stipulation
+
+regarding that prior conviction:
+
+      The Defendant was convicted in Maine Superior Court on September
+      29, 2011 of domestic violence assault which is a misdemeanor crime of
+      domestic violence.
+
+Gov’t’s Reply at 9.   This stipulation maintains the balance Old Chief directs.
+
+However, if the conviction becomes relevant for some independent reason, the Court
+
+may be required to revisit these limitations. Joost, 133 F.3d at 129 (stating that the
+
+rule against admitting the facts of conviction “does not apply if the nature of the
+
+conviction is relevant for an independent purpose”).
+
+      B.     Evidence of Probation Violation
+
+      The Government seeks to place before the jury evidence that Mr. Hines was
+
+on probation on March 21, 2012, that his probation allowed the Government to
+
+search his residence for firearms and other dangerous weapons, that they found
+
+firearms at his premises, that he was charged with a firearms violation of his
+
+probation, and that he admitted this violation before the state superior court, a
+
+violation charging possession of the same weapons that the Government is now
+
+charging criminally against Mr. Hines. Gov’t’s Mot. at 4-13. Mr. Hines concedes the
+
+admissibility of evidence that he was on probation on March 21, 2012, that the
+
+deputies were legally authorized to search his house because of his probationary
+
+status, and that the conditions of his probation prohibited his possession of
+
+dangerous weapons, but he objects to any further evidence. Def.’s Opp’n at 5-14.
+
+
+
+                                         11
+Case 1:12-cr-00204-JAW Document 62 Filed 04/17/13 Page 12 of 17        PageID #: 273
+
+
+
+      How much of the facts regarding the probation violation should be placed
+
+before the jury has to be broken down. First, the parties agree that the fact he was
+
+on probation may be admitted; the Court agrees.
+
+      Second, the Government seeks to place his conditions of probation before the
+
+jury; Mr. Hines agrees to only a limited disclosure of those conditions—namely, that
+
+he not possess any dangerous weapons. The Court concludes that the admission of
+
+the entire set of probation conditions would be marginally, if at all, relevant and
+
+that the prejudicial impact exceeds any probative value. FED. R. EVID. 403. For
+
+example, the entire set of probation conditions includes submitting to random
+
+searches and testing for drugs and alcohol and completing a substance abuse and
+
+psychological evaluation.     See Gov’t’s Mot. Attach. 1, Conditions of Probation, 1
+
+(ECF No. 32-1). There is no suggestion that these conditions have any relevance to
+
+whether Mr. Hines possessed a firearm, and the jurors might well speculate that he
+
+has drug, alcohol, and psychological problems, which could affect their fair
+
+evaluation of the evidence.
+
+      Third, the Government seeks to place into evidence his probation condition
+
+prohibiting his ownership, possession, or use of “any firearm or dangerous weapon.”
+
+Id. Mr. Hines agrees only that the dangerous weapon portion of this condition is
+
+admissible.   Def.’s Opp’n at 11-12.    The Court disagrees with Mr. Hines.     The
+
+prohibition against his possession of firearms explains why the deputies asked Mr.
+
+Hines about his possession of firearms and why they were searching for firearms
+
+when they searched his home.
+
+
+
+                                          12
+Case 1:12-cr-00204-JAW Document 62 Filed 04/17/13 Page 13 of 17          PageID #: 274
+
+
+
+      Fourth, the Government seeks to admit into evidence the subsequent
+
+probation revocation proceedings in Maine Superior Court, including what it
+
+contends was Mr. Hines’ admission that he possessed firearms. Gov’t’s Mot. at 8-13.
+
+Mr. Hines objects. Def.’s Opp’n at 5-11. Here, the Court agrees with Mr. Hines.
+
+The Court carefully reviewed the transcript of the state probation revocation
+
+colloquy among the Justice of the Superior Court, the state prosecutor, defense
+
+counsel, and Mr. Hines, and concludes that it is not clear exactly what violation Mr.
+
+Hines was admitting that he committed: one, some, or all of the alleged violations.
+
+The state revocation was based on alleged violations of the prohibitions against
+
+alcohol, firearms, and dangerous weapons, and Mr. Hines entered a general
+
+admission.   By contrast, in this case Mr. Hines is being charged only with
+
+possession of a firearm.   In addition, Mr. Hines contends that the definition of
+
+“possession” differs under state and federal law. Def.’s Notice of Intent to Raise an
+
+Issue of Foreign Law Under Rule 26.1 (ECF No. 60).           To allow evidence and
+
+argument during the Government’s case-in-chief as to what was intended by the
+
+revocation colloquy would confuse the issues before the jury. FED. R. EVID. 403.
+
+      C.     The Conversation Between Deputy Seekins and John Thomas
+             Hines
+
+      The Government seeks to admit the conversation between Deputy Seekins
+
+and Mr. Hines when the Deputies arrived at his home on March 21, 2012:
+
+      I got out of the vehicle and approached John and asked him if he was
+      on probation and he said he was and the only condition is that he [ ]
+      was not to have contact with Sherry Gdovin. I advised he had more
+      conditions than that. I advised that he was not suppose[d] to be in
+      possession or use drugs or alcohol. I said so the beer can is a violation.
+      I said another condition is that you are not suppose[d] to be in
+                                         13
+Case 1:12-cr-00204-JAW Document 62 Filed 04/17/13 Page 14 of 17         PageID #: 275
+
+
+
+      possession of any firearms. John said that he had guns in the house.
+      He said that a month ago he had called his brother to come get them
+      but . . . that he just had not had the time.
+
+Gov’t’s Mot. at 2-3. Mr. Hines objects to any reference to his probation conditions.
+
+Def.’s Opp’n at 11. The Court disagrees. The jury will already be aware that Mr.
+
+Hines was on probation and Mr. Hines’ admission to Deputy Seekins that he had
+
+guns in the house is a significant admission in a gun possession charge. The Court
+
+views the conversation about conditions of probation leading up to Mr. Hines’
+
+admission as placing those comments in context. In fact, it is difficult to imagine
+
+how this conversation could be properly edited to exclude any mention of his
+
+conditions of probation. Furthermore, the no-firearms condition under his state
+
+probation is echoed in federal law. Mr. Hines cannot argue that he was entitled to
+
+possess a firearm under federal law so the additional state prohibition is redundant.
+
+Although Mr. Hines may worry about prejudice resulting from the revelation to the
+
+jury that he was prohibited from contacting Ms. Gdovin and from possessing drugs
+
+and alcohol, those conditions are unremarkable for a person convicted of a
+
+misdemeanor crime of domestic violence.       Unlike the introduction of the actual
+
+conditions of probation, which include additional irrelevant details, the admission of
+
+the dialogue with Deputy Seekins does not unduly prejudice Mr. Hines. The Court
+
+will, upon request, caution the jury that Mr. Hines is not on trial for violating the
+
+conditions of his probation.
+
+      D.     The Charging Language in the Indictment
+
+
+
+
+                                         14
+Case 1:12-cr-00204-JAW Document 62 Filed 04/17/13 Page 15 of 17        PageID #: 276
+
+
+
+      Mr. Hines seeks to exclude from evidence the following underlined language
+
+in the indictment concerning the nature of the state misdemeanor charge:
+
+      On about the 21st day of March, 2012, in the District of Maine, the
+      defendant, JOHN THOMAS HINES, who had been convicted of a
+      misdemeanor crime of domestic violence, to wit: Domestic Violence
+      Assault, 17-A M.R.S.A. § 207-A, Waldo County Superior Court
+      (September 29, 2011), did knowingly possess in and affecting interstate
+      commerce, the following firearms . . .
+
+Indictment at 1. The parties have apparently entered into the following stipulation:
+
+      The Defendant was convicted in Maine Superior Court on September
+      29, 2011 of domestic violence assault, which is a misdemeanor crime of
+      domestic violence.
+
+Gov’t’s Reply at 9. It is unclear how the additional specificity in the indictment
+
+would prejudice the Defendant, since the only difference between the allegations in
+
+the indictment and the contents of the stipulation is the reference to the Maine
+
+statute. The Court will discuss this issue with counsel to determine whether the
+
+indictment should be altered and what prejudice the Defendant fears.
+
+      E.     The Telephone Call Defense
+
+      The Government seeks a ruling “which will prohibit argument that the
+
+defendant should not be found in possession” of the firearms because he made a
+
+telephone call to his brother some weeks prior to his arrest requesting that his
+
+brother pick up the guns. Gov’t’s Mot. at 13-14. The Government contends that
+
+such an argument would invite jury nullification. Id. Mr. Hines states that he
+
+“does not intend to make this argument per se, but believes that the evidence of this
+
+fact is relevant to his intent to possess the firearms and is admissible at trial.”
+
+
+
+
+                                         15
+Case 1:12-cr-00204-JAW Document 62 Filed 04/17/13 Page 16 of 17          PageID #: 277
+
+
+
+Def.’s Opp’n at 3-4. He notes that he “has an absolute right to present a defense.”
+
+Id. at 4.
+
+        The Court notes that Mr. Hines referred to the call in his dialogue with
+
+Deputy Seekins, which the Government has indicated it intends to put before the
+
+jury.   At this stage, the Court declines to exclude any evidence regarding the
+
+telephone call. It is not clear from Mr. Hines’ response how he intends to argue that
+
+a telephone call made some weeks prior to his arrest affects his “intent to possess
+
+the firearms,” but he has a right to present a defense in accordance with the law.
+
+The Court will provide an appropriate instruction to the jury regarding possession
+
+after considering any proposed instructions submitted by the parties.
+
+        F.    The Limited Scope of the Court’s Rulings
+
+        Finally, if Mr. Hines takes the stand, the Court’s rulings on the admissibility
+
+of evidence during the Government’s case-in-chief will be revisited.               The
+
+Government might well be allowed to cross-examine him on whether he admitted to
+
+a Justice of the Maine Superior Court that he possessed the firearm. If Mr. Hines
+
+takes the stand, the Court will discuss these rulings with counsel and in any event
+
+expects counsel for the Government to approach the bench and obtain a final ruling
+
+before questioning on areas excluded by this Order.
+
+        G.    Dalton Hines’ Prior Conviction
+
+        The parties agree that if Dalton Hines is called as a witness, the Government
+
+may impeach him about his prior Aggravated Criminal Trespassing felony
+
+conviction by asking him about the number, nature, and date of any prior
+
+
+
+                                          16
+Case 1:12-cr-00204-JAW Document 62 Filed 04/17/13 Page 17 of 17        PageID #: 278
+
+
+
+convictions, as well as whether any prior conviction was for a felony. Before the
+
+Government seeks to go beyond this limited range of questions and ask further
+
+questions, it must alert the Court and obtain an order on whether it will be allowed
+
+to do so.
+
+IV.    CONCLUSION
+
+       The Court GRANTS in part and DENIES in part the Motion in Limine of the
+
+United States (ECF No. 32), GRANTS in part and DENIES in part John Thomas
+
+Hines’ Motion in Limine to Exclude Certain Evidence (ECF No. 35), and GRANTS
+
+the Defendant’s Motion in Limine to Limit the Government’s Scope of Inquiry Into a
+
+Witness’s Prior Record (ECF No. 56).
+
+       SO ORDERED.
+
+
+                                /s/ John A. Woodcock, Jr.
+                                JOHN A. WOODCOCK, JR.
+                                CHIEF UNITED STATES DISTRICT JUDGE
+
+Dated this 17th day of April, 2013
+
+
+
+
+                                        17
+

@@ -1,0 +1,396 @@
+Case 1:04-cr-00064-JAW Document 63 Filed 09/06/05 Page 1 of 8                              PageID #: 246
+
+
+
+                                   UNITED STATES DISTRICT COURT
+                                        DISTRICT OF MAINE
+
+  UNITED STATES OF AMERICA,                           )
+                                                      )
+          v.                                          )       CR-04-64-B-W
+                                                      )
+  LARRY DEAN ALEXANDER,                               )
+                                                      )
+                   Defendant.                         )
+
+
+         ORDER ON GOVERNMENT’S MOTION IN LIMINE REGARDING PRIOR
+                             CONVICTIONS
+
+          Previously convicted of grand larceny and forgery, Larry Dean Alexander faces trial on
+
+  three firearms charges. The Government moves in limine to establish the admissibility of the
+
+  two prior convictions. This Court concludes the forgery conviction is mandatorily admissible
+
+  under Fed. R. Evid. 609(a)(2), but the grand larceny conviction is not. This Court excludes
+
+  evidence of the grand larceny conviction under Fed. R. Evid. 609(a)(1), based on its conclusion
+
+  that its probative value is cumulative and does not exceed its potentially prejudicial impact.
+
+  I. FACTUAL BACKGROUND
+
+          On August 15, 2001, Mr. Alexander was convicted in South Carolina of:
+
+          (1) Grand Larceny Greater than $1,000 but less than $5,000 in violation of § 16-13-0030
+
+               of the Code of Laws of South Carolina in Spartanburg (South Carolina) General
+
+               Sessions Court Docket No. 98-GS-42-6502 occurring on or about July 26, 1998; and,
+
+          (2) Forgery, in violation of § 16-13- of the Code of Laws of South Carolina in
+
+               Spartanburg (South Carolina) General Sessions Court Docket No. 2001-GS-42-
+
+               01991 occurring on or about January 16, 2001. 1
+
+
+
+  1
+   The records do not reflect when the forgery offense took place; Mr. Alexander was arrested on the forgery charge
+  on January 16, 2001. Mr. Alexander has also been convicted in South Carolina of possession with intent to
+Case 1:04-cr-00064-JAW Document 63 Filed 09/06/05 Page 2 of 8                                  PageID #: 247
+
+
+
+  II. LEGAL STANDARD
+
+           Rule 609(a) of the Federal Rules of Evidence provides:
+
+                    For the purpose of attacking the credibility of a witness,
+                        (1) . . . evidence that an accused has been convicted of [a
+                        crime punishable by death or imprisonment in excess of one
+                        year] shall be admitted if the court determines that the
+                        probative value of admitting this evidence outweighs its
+                        prejudicial effect to the accused . . . .
+
+                        (2) evidence that any witness has been convicted of a crime
+                        shall be admitted if it involved dishonesty or false statement.
+
+
+  Fed. R. Evid. 609(a). Rule 609(a)(1) grants the trial judge discretion to determine whether to
+
+  admit evidence of prior convictions for impeachment purposes; by contrast, Rule 609(a)(2) calls
+
+  for mandatory admission. United States v. Tracy, 36 F.3d 187, 192 (1st Cir. 1994), cert. denied,
+
+  514 U.S. 1074 (1995); United States v. Kiendra, 663 F.2d 349, 354 (1st Cir. 1981).
+
+  II. DISCUSSION
+
+           A. Rule 609(a)(2): Mandatory Admissibility
+
+               1. Forgery
+
+           Under Rule 609(a)(2), if the Defendant’s crime concerns dishonesty or a false statement,
+
+  there is no discretion to exclude evidence of such crimes. Forgery is such a crime. See United
+
+  States v. Agnew, 407 F.3d 193, 197 (3d Cir. 2005) (“Forgery, of course, involves dishonesty and
+
+  false statement.”); United States v. Bay, 762 F.2d 1314, 1317 (9th Cir. 1984); United States v.
+
+  Mahone, 328 F. Supp.2d 77, 82 (D. Me. 2004) (“Forgery is plainly within Rule 609(a)(2)’s scope
+
+  of crimes of dishonesty and false conduct.”).2 Under Rule 609(a)(2), if Mr. Alexander takes the
+
+  stand, the Government may use evidence of his prior forgery conviction for impeachment
+
+  distribute cocaine and in Maine of assault. The Government has not claimed either of these convictions would be
+  properly admissible under Rule 609.
+  2
+    If more than ten years had elapsed since the date of the conviction, it may be excluded as too remote. Fed. R. Evid.
+  609(b). As the convictions in this case occurred in 2001, this limitation is inapplicable.
+Case 1:04-cr-00064-JAW Document 63 Filed 09/06/05 Page 3 of 8                              PageID #: 248
+
+
+
+  purposes.     See Security and Exchange Comm’n v. Sargent, 229 F.3d 68, 79-80 (1st Cir.
+
+  2000)(“Rule 609 (a)(2) simply does not allow for any judicial discretion on this point.”).
+
+          2. Grand Larceny.
+
+          The Defendant’s conviction for grand larceny presents a more difficult question, because,
+
+  unlike forgery, it is unclear whether grand larceny is a crime of dishonesty or false statement. In
+
+  United States v. Grandmont, 680 F.2d 867 (1st Cir. 1982), the First Circuit held that robbery per
+
+  se is not a crime of dishonesty within the meaning of 609(a)(2), and not admissible, absent a
+
+  showing it was perpetuated by deceitful or fraudulent means. Id. at 871. Grandmont quotes the
+
+  Congressional Conference Committee Report, which lists crimes of dishonesty and false
+
+  statement to include embezzlement, but not robbery. 3 Grandmont, 680 F.2d at 871 (quoting H.R.
+
+  Conf. Rep. No. 93-1597, 93d Cong., 2d Sess. 9, reprinted in 1974 U.S.C.C.A.N. 7098, 7103.
+
+  The question here is whether Mr. Alexander’s commission of the crime of grand larceny in 2001
+
+  was more like robbery or more like embezzlement.
+
+          This Court looks first to the statutory definition of the crime of grand larceny as
+
+  interpreted in South Carolina to determine whether its elements clarify its character. South
+
+  Carolina defines “grand larceny” generally as the “larceny of goods, chattels, instruments, or
+
+  other personalty valued in excess of one thousand dollars….”4 South Carolina defines “larceny”
+
+  as “the taking and carrying away of the goods of another, which must be accomplished against
+
+  the will or without the consent of the other.” State v. Parker, 571 S.E.2d 288, 289 (S.C. 2002),
+
+  overruled on other grounds by State v. Gentry, 610 S.E.2d 494 (S.C. 2005); State v. Brown, 260
+
+  S.E.2d 719 (S.C. 1979). Grand larceny is “the felonious taking and carrying away of the goods
+
+  3
+    The authors of Weinstein’s Federal Evidence list the traditional crimes of dishonesty: bribery, counterfeiting,
+  forgery or transporting forgery, fraud, fraudulent passing of worthless checks, and perjury. 4 Joseph M.
+  McLaughlin, Jack B. Weinstein & Margaret A. Berger, Weinstein’s Federal Evidence § 609.04[3][a] (2d Ed. 2005).
+  4
+    Mr. Alexander was convicted of violating § 16-13-30(B)(1), which addresses the larceny of goods valued between
+  $1,000.00 and $5,000.00 and imposes a maximum prison term of five years.
+Case 1:04-cr-00064-JAW Document 63 Filed 09/06/05 Page 4 of 8                           PageID #: 249
+
+
+
+  of another, where the value exceeds $1,000.00.” Parker, 571 S.E.2d at 289. In Parker, the
+
+  Supreme Court of South Carolina concluded that, contrary to its earlier holdings, grand larceny is
+
+  not a lesser included offense of armed robbery, because “the offense of armed robbery does not
+
+  include the element that the value of the goods taken must exceed $1,000.” Id. at 290. As
+
+  interpreted in Parker, the significant difference between robbery and grand larceny is the value
+
+  of the goods, not an element of dishonesty or false statement. Thus, under Grandmont, Mr.
+
+  Alexander’s conviction for grand larceny in South Carolina as statutorily defined and judicially
+
+  interpreted in South Carolina is more like robbery than embezzlement and not mandatorily
+
+  admissible under Rule 609(a)(2).5
+
+          The only other potential basis for admission under Rule 609(a)(2) is the Grandmont focus
+
+  on whether there had been a showing of fraudulent or deceitful means in the perpetration of the
+
+  crime. Grandmont, 680 F.2d at 871. The only evidence about the grand larceny is that Mr.
+
+  Alexander was twenty-four years old when he committed a non-violent grand larceny of Smile
+
+  Gas # 92 in Spartanburgh County. There is no evidence Mr. Alexander committed the grand
+
+  larceny by fraudulent or deceitful means. This Court concludes evidence of his 2001 conviction
+
+  for grand larceny is not mandatorily admissible for impeachment purposes under Rule 609(a)(2).
+
+  Linsky v. Hecker, 753 F.2d 199, 201 (1st Cir. 1985) (seven larcenies, six burglaries and one
+
+  armed robbery were not crimes involving dishonesty or false statements under Rule 609(a)(2)).
+
+          B. Rule 609(a)(1): Discretionary Admissibility
+
+          The grand larceny conviction may still be admissible under Rule 609(a)(1), if the
+
+  probative value of this evidence exceeds the prejudicial impact on the defendant. To perform the
+
+  Rule 609(a)(1) analysis, the Court must consider: (1) whether the nature of the crime bears on
+
+
+  5
+    Interestingly, Mr. Alexander’s grand larceny conviction may be mandatorily admissible under South Carolina
+  interpretation of its Rule 609(a)(2). See State v. Al-Amin, 578 S.E.2d 32, 42-44 (S. C. Ct. App. 2003).
+Case 1:04-cr-00064-JAW Document 63 Filed 09/06/05 Page 5 of 8                      PageID #: 250
+
+
+
+  the defendant's credibility and veracity; (2) the defendant's conduct since the conviction and
+
+  whether the conviction is remote in time; (3) whether similarities between the conviction and the
+
+  pending charges make it more likely a jury would use the evidence improperly; (4) whether
+
+  admission will affect the defendant's decision to testify; and, (5) the centrality of the defendant's
+
+  credibility to the issue at trial. United States v. Grandmont, 680 F.2d 867, 872 n.4 (1st Cir.
+
+  1982); United States v. Causey, 9 F.3d 1341, 1344 (7th Cir. 1993), cert. denied, 511 U.S. 1024
+
+  (1994); United States v. Bagley, 772 F.2d 482, 487 (9th Cir. 1985), cert. denied, 475 U.S. 1023
+
+  (1986).
+
+            In 2004, the First Circuit adopted the view that “the standard for the admission of prior
+
+  convictions of the accused is stricter than the standard for the admission of prior convictions of a
+
+  government witness.” United States v. Tse, 375 F.3d 148, 163 (1st Cir. 2004). Tracing the
+
+  history of Rule 609 and the 1990 amendment to the rule, Tse quoted the advisory committee on
+
+  the 1990 amendment: “[unlike other witnesses]…a defendant faces a “unique risk of prejudice -
+
+  - i.e. the danger that convictions that would be excluded under Fed. R. Evid. 404 will be misused
+
+  by a jury as propensity evidence despite their introduction solely for impeachment purposes.” Id.
+
+  at 163 (quoting Fed. R. Evid. 609 advisory committee’s notes on 1990 amendment).               It also
+
+  noted that prior convictions might “inflame the jury.” Id. at 164. The trial court may admit a
+
+  prior conviction against an accused “only if the probative value ‘outweighs its prejudicial effect
+
+  to the accused.’” Id. In making this evaluation as regards the accused, the trial court does not
+
+  engage in a Rule 403 analysis. Id.
+
+            The parties have filed trial briefs, which give this Court some insight into the issues that
+
+  may be the focus of this trial. Mr. Alexander is facing three charges: 1) Count I, possession of a
+
+  firearm not registered to him in the National Firearms Registration Record, a violation of 26
+Case 1:04-cr-00064-JAW Document 63 Filed 09/06/05 Page 6 of 8                    PageID #: 251
+
+
+
+  U.S.C. § 5861(d) and 5871; 2) Count II, possession of a firearm by a person previously convicted
+
+  of a felony, a violation of 18 U.S.C. 922(g)(1); and, 3) Count III, possession of a firearm by a
+
+  person previously convicted of a misdemeanor crime of domestic violence, a violation of 18
+
+  U.S.C. § 922(g)(9). The parties have stipulated on Count II that the defendant has previously
+
+  been convicted of a felony and on Count III that the defendant has previously been convicted of
+
+  a crime of domestic violence. See Government’s Trial Brief at 10, 18 (Docket #55); Defendant’s
+
+  Trial Brief at 2-3 (Docket #57). In its Trial Brief, the Government asserts it will produce
+
+  evidence from witnesses that Mr. Alexander sold a short-barreled shotgun in late November
+
+  2003; the Government also alleges, however, that Mr. Alexander in an interview with the police
+
+  stated that the shotgun was actually sold not by him, but by his girlfriend. See Government’s
+
+  Trial Brief at 12-14 (Docket #55).
+
+         Returning to the five-factor balancing test to the grand larceny conviction, this Court first
+
+  notes that the nature of the crime, grand larceny, has a bearing on the Defendant’s credibility and
+
+  veracity. In Weinstein, the authors state that crimes, such as theft, by their nature “imply some
+
+  dishonesty.”   Weinstein On Federal Evidence at § 609.05[3][b].           This factor encourages
+
+  admission, but in light of the logic underlying Grandmont, not strongly so.
+
+         The second factor is the age of the conviction and the defendant’s subsequent conduct.
+
+  Here, although the conviction occurred on August 21, 2001, the grand larceny took place on July
+
+  26, 1998. This factor militates in favor of admission, because he committed the crime about five
+
+  years and was convicted about two years before the events giving rise to the Defendant’s
+
+  indictment, well within Rule 609(b)’s ten year window.
+
+         Although there is a superficial lack of similarity between the conviction and the pending
+
+  charges, this Court is concerned that the jury may misconceive what a grand larceny is. The
+Case 1:04-cr-00064-JAW Document 63 Filed 09/06/05 Page 7 of 8                                    PageID #: 252
+
+
+
+  state of Maine does not use the term and, without diminishing the seriousness of a theft of over
+
+  $1,000, the term, grand larceny, may carry a more ominous implication than its statutory
+
+  definition should allow.6         Some jurors may speculate that grand larceny involves the use of a
+
+  firearm, which it does not. This factor militates against admission.
+
+           As noted, it is likely the issue of Defendant’s credibility will be central to the issue at
+
+  trial, particularly given his prior statements to police and the Government’s obligation to prove
+
+  knowing possession.
+
+           Although this is always difficult to evaluate pre-trial, this evidence may discourage
+
+  Defendant from taking the stand. See Mahone, 328 F. Supp. 2d at 84. The admission of
+
+  evidence of the grand larceny would be cumulative, because the parties have already stipulated
+
+  that Mr. Alexander was convicted of a felony and of domestic abuse, and under Rule 609(a)(2),
+
+  his prior conviction for forgery must be admitted. See Tse, 375 F.3d at 164-65 (discussing
+
+  cumulative impact of prior convictions). One further conviction might not deter Mr. Alexander
+
+  from testifying, but it is also possible he will consider the fourth crime a significant deterrence,
+
+  particularly since it is a grand larceny. 7 The risk is the jury will consider the defendant a
+
+  dangerous person and will be influenced to convict him on that score alone, not fairly assessing
+
+  the facts and applying the law. See Tracy, 36 F.3d at 192-194. By the same token, as there will
+
+  be evidence of other convictions, the probative value of this one additional conviction is
+
+
+
+
+  6
+    The state of Maine criminalizes “theft by unauthorized taking or transfer”, 17-A M.R.S.A. § 353, amended by 2005
+  Me. Legis. Serv. Ch. 199 (H.P. 593)(L.D. 834)), and imposes more significant penalties the greater the value of the
+  property. 17-A M.R.S.A. § 353(1),(4),(5), The equivalent crime in Maine to grand larceny would probably be Class
+  C Theft, a violation of § 353. To this Court, Class C Theft has a more benign ring to it than Grand Larceny.
+  7
+    It is difficult to foresee what a jury will make of all this. The parties are stipulating that he was a convicted felon
+  and was convicted of domestic violence. If he takes the stand, he will be subject to cross-examination on his forgery
+  conviction. The parties have not addressed whether jury will be informed whether the stipulated felony is the
+  forgery, the domestic violence, or another unnamed crime.
+Case 1:04-cr-00064-JAW Document 63 Filed 09/06/05 Page 8 of 8                                 PageID #: 253
+
+
+
+  lessened.8 On balance, this Court determines that the probative value of the conviction for grand
+
+  larceny is not outweighed by its prejudicial impact and, therefore, excludes evidence of the
+
+  conviction under Fed. R. Evid. 609(a)(1).
+
+  III. CONCLUSION
+
+          This Court GRANTS the Government’s Motion in Limine to admit evidence of the 2001
+
+  South Carolina conviction for forgery and DENIES its motion to admit evidence of the 2001
+
+  South Carolina conviction for grand larceny.
+
+          SO ORDERED.
+
+
+
+                                                       /s/ John A. Woodcock, Jr.
+                                                       JOHN A. WOODCOCK, JR.
+                                                       UNITED STATES DISTRICT JUDGE
+
+  Dated this 6th day of September, 2005
+
+
+
+
+  8
+    The jury will learn the Defendant is a convicted felon, engaged in domestic violence, and (if he takes the stand)
+  committed forgery. In this context, the admission of evidence of the grand larceny conviction runs the risk of piling
+  on.
+

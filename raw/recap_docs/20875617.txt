@@ -1,0 +1,448 @@
+UNITED STATES OF AMERICA,
+     v.                       CRIMINAL. NO. 04-10336-NMG-12
+                              CIVIL ACTION NO. 10-10835-NMG
+JULIO CARRION SANTIAGO,
+     Defendant.
+
+
+               REPORT AND
+         RECOMMENDATION ON
+      PETITIONER’S MOTION UNDER
+ 28 U.S.C. § 2255 TO VACATE, SET ASIDE,
+ OR CORRECT SENTENCE BY A PERSON IN
+ CUSTODY (#522) AND ON PETITIONER’S
+MO[TION] FOR AN EVIDENTIARY HEARING
+    BASE[D] ON THE GOVERNMENT’S
+       SURREBUTTAL BRIEF (#545)
+
+COLLINGS, U.S.M.J.
+                          I. Introduction
+      The   pro se   petitioner Julio Carrion Santiago (“petitioner” or “Santiago”)
+seeks to vacate his conviction pursuant to 28 U.S.C. § 2255. Santiago was
+convicted after a ten-day jury trial of heroin-related offenses and was sentenced
+to 248 months’ imprisonment. His conviction was affirmed on appeal.            See
+
+
+
+United States v. Santiago    , 560 F.3d 62 (1 Cir.),              , 130 S. Ct. 140
+                                                       cert. denied
+
+
+
+(2009). The government urges dismissal of the petition. For the reasons that
+follow, the Court shall recommend that the motion under 28 U.S.C. § 2255 be
+denied.
+                               II. Factual Background
+
+
+
+      The Court draws the following facts from the First Circuit’s opinion
+affirming Santiago’s conviction. Santiago was arrested along with several others
+in connection with his participation in a heroin distribution organization in
+Lowell, Massachusetts. The year-long investigation was led by the Drug
+Enforcement Agency (“DEA”), with the assistance of state and local police.
+During the investigation, DEA agents “tracked Santiago’s van with a GPS unit
+and conducted visual surveillance of it; conducted court authorized wiretaps of
+cell phones of the defendants; tracked and observed transactions among the
+defendants revealed by cell phone conversations; and ultimately seized
+
+                                          2
+Santiago’s van (seizing concealed drugs) and searched his residence and those
+of [codefendants (seizing drugs and paraphernalia)].”   Santiago , 560 F.3d at 64-
+65. In searching Santiago’s residence, officers uncovered the following: “a drug
+press in the hallway between two apartments–one of them Santiago’s [and the
+other one vacant]–and, in the attic above the press, a 9 millimeter gun and an
+ammunition clip along with heroin, a digital scale, a bag with silencers and a
+magazine for a smaller weapon.”      Id.   at 65. The officers “found additional
+paraphernalia inside Santiago’s apartment.”     Id.
+
+
+
+                          III. Procedural Background
+
+
+
+      A jury found Santiago guilty of conspiracy to distribute heroin and to
+possess heroin with intent to distribute under 21 U.S.C. §§ 846, 841(b)(1), and
+of possessing firearms in furtherance of a drug trafficking crime under 18 U.S.C.
+§ 924(c), and of possession of unregistered firearms under 26 U.S.C. § 5861(d).
+The jury also found that the conspiracy involved at least one kilogram of heroin.
+      On direct appeal, the First Circuit rejected Santiago’s claims disputing the
+sufficiency of the evidence to support the jury’s drug quantity finding and the
+jury’s determination that the gun found in the attic could be attributed to
+Santiago.
+
+                                           3
+      On May 10, 2010, Santiago filed the present Motion Under 28 U.S.C. §
+2255 to Vacate, Set Aside, or Correct Sentence by a Person in Custody (#522),
+along with a Memorandum of Law and Facts in Support (#522-1). He asserts
+several claims: 1) trial counsel was ineffective in failing to introduce evidence
+that would have called into question Santiago’s constructive possession of the
+firearm located in the attic; 2) trial counsel was ineffective in failing to
+subpoena the analyst who had prepared the laboratory report concerning the
+amount and type of drugs; and 3) trial counsel labored under a conflict of
+interest that affected the adequacy of representation. Santiago also appears to
+raise a direct challenge to his sentence, and to contend that the prosecution
+failed to disclose certain information in violation of its obligations under   Brady
+
+
+
+v. Maryland , 373 U.S. 83 (1963).
+      On June 7, 2010, the government filed its Response to Defendant’s
+Motion Pursuant to 28 U.S.C. § 2255 and Request for Summary Dismissal
+(#526), with exhibits. On July 30, 2010, Santiago filed his Rebuttal to
+Government Request for Summary Dismissal of Petitioner’s 28 U.S.C. §§ 2255
+[sic]. (#539) With leave granted, the government filed its Surrebuttal to
+Petitioner’s Rebuttal to Government’s Request for Summary Dismissal of 28
+
+
+                                        4
+U.S.C. § 2255 Petition. (#544) The motions are thus ripe for disposition. Also
+pending are Santiago’s motion for an evidentiary hearing (#545) and the
+government’s opposition (#547).
+                                 IV. Discussion
+
+
+
+                A. Claims of Ineffective Assistance of Counsel
+      Santiago’s ineffective assistance of counsel claims are governed by the
+familiar standard set out in Strickland v. Washington, 466 U.S. 668, 688, 694
+(1984). To succeed on a Sixth Amendment claim of ineffective assistance of
+counsel, a defendant must establish that his "counsel's representation 'fell below
+an objective standard of reasonableness'” and that “'there is a reasonable
+probability that, but for counsel's unprofessional errors, the result of the
+proceeding would have been different.'" Moreno-Espada v. United States, 666
+F.3d 60, 64 (1 Cir., 2012) (quoting Padilla v. Kentucky, 130 S. Ct. 1473, 1482
+(2010) (further internal quotation marks and citation omitted). Under
+Strickland, “[a] reasonable probability is a probability sufficient to undermine
+confidence in the outcome.” Strickland, 466 U.S. at 694. With regard to the
+performance aspect of the standard, "[t]here is a 'strong presumption that
+counsel's conduct falls within the wide range of reasonable professional
+
+                                        5
+assistance,' and [a petitioner] 'must overcome the presumption that . . . the
+challenged action might be considered sound trial strategy.'" Tevlin v. Spencer,
+621 F.3d 59, 66 (1 Cir., 2010) (quoting Strickland, 466 U.S. at 689) (further
+citation and internal quotation marks omitted) (third alteration in original).
+Accordingly, “a lawyer's performance is deficient under Strickland ‘only where,
+given the facts known at the time, counsel's choice was so patently
+unreasonable that no competent attorney would have made it.'" Id. (quoting
+Knight v. Spencer, 447 F.3d 6, 15 (1 Cir., 2006)).
+      Santiago raises two ineffective assistance of counsel claims. First, he
+contends that his trial counsel was ineffective in failing to introduce evidence
+at trial that would have established that Santiago was innocent of the weapons
+offenses. Second, he faults his counsel for failing to subpoena the government’s
+chemist who was responsible for preparing the report used to establish the
+nature and quantity of the drugs seized. The Court considers these two claims.
+    1. Alleged Failure to Introduce Evidence Challenging Weapons Offense
+      Santiago claims that his trial counsel was ineffective in failing to establish
+certain factual details that, according to Santiago, would have cast doubt on the
+conclusion that Santiago constructively possessed the weapon that was seized
+
+                                         6
+during a search of Santiago’s apartment building.
+      The following details, drawn from the trial transcripts, provide context for
+the claim. At trial, David Napolitano (“Napolitano”), the state trooper who
+assisted in executing a search warrant at Santiago’s apartment, testified that
+when he went through the back door of the apartment to a hallway, he “noticed
+there was a doorway to an attic space with a [drug] press underneath.” (#464,
+Trial Tr. VI:111) He further testified that he entered the attic by standing on
+the press and lifting himself up into the attic. (Id. at 114) Once in the attic,
+Napolitano testified that it was dark, and that in searching “right around the
+hole” to the attic, he lifted up the insulation and found a 9 millimeter gun with
+a clip inside it. (Id.) Napolitano stated that he found the gun “within 12
+inches” from the opening to the attic and that “[i]f you had reached up, you
+could grab it. If I had known it was there, I could have reached up and grabbed
+it.” (Id. at 115) Likewise, he testified that he found a plastic bag in the attic
+that contained several fingers of heroin, three digital scales, a bag containing
+tools, and two or three silencers, all located just inside the access panel under
+the insulation. (Id. at 116-117, 125) He also testified that during the initial
+search the attic was lit only from light coming from the hallway, but that
+
+                                        7
+eventually a light was turned on in the attic. (Id. at 118-119)
+      In addition, Dennis Barton (“Barton”), a DEA agent who also assisted in
+executing the search warrant, testified, among other things, that during his
+search of Santiago’s apartment he found finger press dies used to compress
+drugs, a number of cell phones, a portable money counter, and a spiral
+notebook containing a number of names and phone numbers (Id. at 140-141,
+145, 147) In addition, Barton testified that the building manager said that the
+lights to the attic were on the same circuit breaker as the vacant apartment next
+door, so that access to the lights was through the circuit breaker in the vacant
+apartment. (Id. at 170) Finally, Barton testified that the insulation looked
+“fairly new.” (Id. at 172)
+      Seizing on these details, Santiago now contends in his habeas petition that
+his counsel was ineffective in failing to argue that the facts surrounding the
+location of the gun suggested Santiago’s innocence. In particular, he says that
+his counsel should have probed more deeply into the circumstances surrounding
+the installation of the insulation–who installed it, and when, and whether the
+landlord gave the key to workers and left them unsecured. He suggests that if
+counsel had done so, “this would have given the jury something to think about.”
+
+                                       8
+(#522-1 at 3) He also appears to suggest that the location of the light switch
+in the vacant apartment indicates that Santiago did not control the attic space.
+      This speculative argument fails to establish constitutional ineffectiveness
+under Strickland. As the First Circuit observed:
+            The jury knew about Santiago’s drug dealing, the
+            proximity of his apartment to the attic, the
+            corresponding paraphernalia in his apartment, the
+            concealment of access to the attic and the absence of
+            others likely to have used the attic. Under these
+            circumstances, the jury was free to reason that the
+            drugs in the attic were part of the conspiracy and that
+            the gun was constructively possessed by Santiago.
+Santiago, 560 F.3d at 65-66.
+Even if the insulation had been recently installed, Santiago does not explain
+why the jury would not still have been free to infer that Santiago had concealed
+the gun in the attic after the insulation had been installed–whether two months
+before or two weeks before. To the extent that Santiago suggests that someone
+else may have concealed the gun and drugs there, his argument is pure
+speculation and runs counter to the evidence. In short, Santiago has not
+established that his counsel was unreasonable in not investigating what
+appeared to be an unpromising line of attack: that is, defense counsel appears
+to have made a reasonably strategic decision not to pursue an implausible
+
+                                       9
+theory connected to the installation of the insulation. (Notably, defense counsel
+did question Agent Barton about whether Barton had investigated when the
+insulation was installed, and was met with Barton’s commonsense response
+about the significance of the insulation: “someone can hide something or put
+something in an attic in five minutes at any time. It could have been an hour
+before I got to the apartment as far as I know.” [Id. at 173].) In addition, given
+the strength of the government’s case, Santiago has not established that but for
+the purported failure of counsel, the result would have been any different.
+      Santiago also suggests that the indictment was defective because it
+charged him with possession of the gun and not constructive possession. This
+claim is baseless: “To convict a defendant under § 924(c)(1)(A), the
+government must prove that the defendant (1) committed a drug trafficking
+crime; (2) knowingly possessed a firearm; and (3) possessed the firearm in
+furtherance of the drug trafficking crime.” United States v. Vazquez-Castro, 640
+F.3d 19, 25 (1 Cir., 2011). “Possession” under the provision may be
+“constructive,” id. at 26, and “constructive possession is possession, not a
+separate predicate act that has to be spelled out in the indictment,” United States
+v. Rogers, 41 F.3d 25, 30 n.3 (1 Cir., 1994), cert. denied, 515 U.S. 1126 (1995).
+
+
+                                        10
+The indictment here provided fair notice of the charge.
+                        2. Failure to Subpoena Chemist
+      Santiago next faults his defense counsel for failing to subpoena the
+government chemist who prepared the reports introduced at trial to establish
+drug quantity and type. He relies on Melendez-Diaz v. Massachusetts, 557 U.S.
+305 (2009), which held that "certificates of analysis" introduced at trial to
+establish the results of a forensic analysis performed on seized drugs amounted
+to testimonial statements, and that the drug analysts who had prepared the
+certificates were subject to confrontation. See Melendez-Diaz, 557 U.S. at 310.
+The government contends that Santiago may not receive the benefit of the rule
+announced in Melendez-Diaz because Melendez-Diaz has not been made
+retroactive to cases on collateral review. Melendez-Diaz was decided on June
+25, 2009, and the Supreme Court denied certiorari review in Santiago’s case on
+October 5, 2009. Because Santiago’s conviction was not yet final when
+Melendez-Diaz issued, non-retroactivity principles are inapplicable and Santiago
+receives the benefit of the holding in Melendez-Diaz. See Derman v. United
+States, 298 F.3d 34, 42 (1 Cir.) (noting that, if conviction is not yet final when
+Supreme Court announces new rule, then lower courts must apply that rule on
+
+                                       11
+collateral review),       cert. denied    , 537 U.S. 1048 (2002). Thus, the Court must
+consider the ineffective assistance of counsel claim with                        Melendez-Diaz        as its
+guide.
+        Still, the government correctly points out that the holding announced in
+Melendez-Diaz        does not assist Santiago in this case. Here, the government
+notified the defendants of its intention to present the expert testimony of
+Jennifer Chu, a forensic chemist for the DEA who had analyzed the drugs at
+issue.1 (See #526, Exh. 1, Aff. of William Bloomer ¶ 2) The government
+advised defense counsel that Chu would testify regarding the tests that she had
+performed on the drugs that had been seized during the investigation. (Id.) All
+five defense counsel stipulated to the admission of the laboratory reports in lieu
+of Chu’s testimony. (Id. ¶ 3) The government correctly points out that the
+stipulation amounted to a strategic decision, which is virtually unchallengeable.
+See United States v. Gaskin, 364 F.3d 438, 468 (2d Cir. 2004) (“As a rule,
+
+counsel’s decision to stipulate to certain evidence, like his decisions to offer or
+object to evidence, involves a strategic choice, which is ‘virtually
+
+        1
+
+        This point distinguishes this case from Melendez-Diaz, where the state had no intention of calling its
+expert to testify, and instead offered sworn affidavits from the chemist, which state law allowed as “prima
+facie evidence of the composition, quality, and the net weight” of the seized drugs. Melendez-Diaz v.
+Massachusetts, 557 U.S. 305, 309 (2009) (internal quotation marks and citation omitted).
+
+
+
+                                                     12
+unchallengeable’ if made after thorough investigation.”)(quoting Strickland, 466
+U.S. at 690-91), cert. denied, 544 U.S. 990 (2005). Here, the defense theory of
+the case was not that the drugs were not heroin, but rather that the government
+had wrongly attributed them to Santiago. The defense would have gained
+nothing by insisting that the jury hear the details of the tests performed on the
+drugs. As Melendez-Diaz itself observed, in the ususal drug cases “[i]t is unlikely
+that defense counsel will insist on live testimony [about the nature of the
+substance] whose effect will be merely to highlight rather than cast doubt upon
+the forensic analysis. Nor will defense attorneys want to antagonize the judge
+or jury by wasting their time with the appearance of a witness whose testimony
+defense counsel does not intend to rebut in any fashion.” Melendez-Diaz, 557
+U.S. at 328 (footnote omitted).
+      Finally, Santiago has not established a reasonable probability that the
+result would have been different if defense counsel had refused to stipulate to
+the laboratory reports. Santiago has introduced no evidence that contradicts
+the content of the laboratory reports, or that casts doubt on the accuracy of the
+reports. For these reasons, the Court concludes that this claim lacks merit.
+                            B. Sentencing Challenge
+
+
+
+
+                                        13
+      In a direct challenge to his sentence, Santiago contends that he should not
+have been subject to both the five-year mandatory minimum on the gun charge
+under 18 U.S.C. § 924(c)(1)(A)(i) and the mandatory minimum of 120 months
+under the drug offenses. This claim was not raised on direct appeal, although
+it could have been, and it can be dismissed on that ground alone. Knight v.
+United States, 37 F.3d 769, 773 (1 Cir., 1994) (“Having bypassed his
+
+opportunity to raise the claim on direct appeal, [a petitioner] cannot raise it .
+. . on collateral attack.”). In any event, at the time Santiago filed his petition,
+First Circuit law foreclosed Santiago’s statutory argument, see United States v.
+Parker, 549 F.3d 5, 11 (1 Cir., 2008), cert. denied, 129 S. Ct. 1688 (2009); since
+
+then, the Supreme Court has squarely addressed and rejected Santiago’s
+statutory argument, see Abbott v. United States, 131 S. Ct. 18, 23 (2010)
+(holding that “a defendant is subject to a mandatory, consecutive sentence for
+a § 924(c) conviction, and is not spared from that sentence by virtue of
+receiving a higher mandatory minimum on a different count of conviction. . .
+. He is . . . subject to the highest mandatory minimum specified for his conduct
+in § 924(c), unless another provision of law directed to conduct proscribed by
+§ 924(c) imposes an even greater mandatory minimum.”). For these reasons,
+
+                                        14
+this claim must be dismissed.
+        C. Brady v. Maryland    and Alleged Attorney Conflict of Interest
+        Santiago’s final claim is confusing, but it appears to assert both a claim
+under   Brady v. Maryland   , 373 U.S. 83 (1963), and a claim that his defense
+counsel labored under a conflict of interest that undermined Santiago’s Sixth
+Amendment guarantee to effective representation. To place these claims in
+context, the Court notes that John F. Cicilline (hereafter, “John F.”) filed an
+appearance at the commencement of federal court proceedings against Santiago.
+Santiago contends in his petition that he retained John M. Cicilline (hereafter,
+“John M.”), the son of John F. Cicilline, to represent him when he was arrested.
+According to the petition, an officer named Chris Hanson assaulted Santiago
+during the course of arresting him. Santiago contends that he told his then-
+defense counsel, John M., that he wanted to bring charges against the officer.
+According to Santiago, John M. dissuaded Santiago from bringing charges
+because he was “doing things” with the officer. (   See   # 522-1 at 10). Santiago
+alleges that John M. then told Santiago that if Santiago paid him (John M.)
+$75,000, John M. would induce Chris Hanson not to testify at trial. In support
+of this claim, Santiago has offered a rough translation of what appears to be an
+
+
+                                        15
+online version of a Spanish language Providence newspaper. (      See   #522-2, Exh.
+A)
+      The Court can take judicial notice of the criminal indictment filed against
+John M. Cicilline in this court on January 4, 2007 for obstruction of justice.   See
+
+
+
+Docket No. 07-cr-10008-NMG. He pled guilty on August 26, 2008. John M.’s
+plea agreement recounts how John M. extracted money from certain of his
+clients in exchange for John M.’s efforts to obtain a favorable sentence reduction.
+These events roughly overlap with the time of Santiago’s arrest in 2004.
+      In his habeas petition, Santiago makes a similar allegation: that John M.
+extracted money from Santiago in exchange for John M.’s inducing officer Chris
+Hanson not to testify at trial. Based on these allegations, Santiago asserts that
+the government violated its obligations under         Brady v. Maryland   ; Santiago
+contends that the government must have known of John M.’s criminal activity
+but failed to disclose it. “Under   Brady   , the government has a duty to disclose
+evidence in its possession that is favorable to the accused and material to guilt
+or punishment. Evidence is ‘favorable to the accused’ if it is either exculpatory
+or impeaching in nature and ‘material’ if there is a reasonable probability that,
+had it been disclosed, the result of the proceeding would have been different.”
+
+                                        16
+United States v. Prochilo    , 629 F.3d 264, 268 (1 Cir., 2011)(citation omitted).
+       The facts that Santiago alleges do not establish a claim under   Brady. First,
+as noted, the docket in Santiago’s case indicates that John F. entered an
+appearance on Santiago’s behalf on November 9, 2004, and that John F.
+represented Santiago at all stages of the proceedings thereafter, including at
+trial. Santiago does not explain how information about John M.’s criminal
+activity unrelated to Santiago’s case could have been exculpatory or impeaching
+in Santiago’s case or could have had any bearing on the outcome of Santiago’s
+jury trial.
+       Otherwise, Santiago appears to suggest that the facts alleged establish that
+John M. labored under a conflict of interest in violation of the Sixth Amendment
+because he was in cahoots with a prosecution witness. Even assuming that the
+facts alleged are true, Santiago has not established that the alleged “actual
+conflict of interest adversely affected his lawyer's performance.”    Yeboah-Sefah
+
+
+
+v. Ficco , 556 F.3d 53, 73 (1 Cir.) (internal quotation marks and citation
+omitted),                , 130 S. Ct. 639 (2009). The most that Santiago says about
+              cert. denied
+
+
+
+the adverse effect here is that he “was switch[ed] from one partner to another
+in the same law firm without giving reasons why.” (#522-1 at 11) And, in his
+
+                                           17
+rebuttal to the government’s response, Santiago cursorily suggests that John F.
+had a conflict of interest as follows: “It seem[s] that defense counsel was part of
+the undergraded [sic] justice that occurred by Mr. Cicilline and the agent by the
+agent not testifying.” (#539 at 9) This unsupported assertion is pure
+speculation. Santiago bears the burden of showing that the alleged conflict of
+interest goes “beyond a ‘mere theoretical division of loyalties’ and in fact
+‘adversely affected his counsel’s performance.’”                              , 530
+                                                    United States v. DeCologero
+
+
+
+F.3d 36, 76 (1 Cir.) (quoting                   , 535 U.S. 162, 171, 174 (2002))
+                                Mickens v. Taylor
+
+
+
+(footnote omitted),   cert. denied , 555 U.S. 1005 (2008) and 555 U.S. 1039
+(2008). Because Santiago has made no showing that John F.’s purported
+conflict of interest adversely affected his performance, this claim fails.
+
+
+
+
+                                         18
+                              V. Recommendation
+      For all the above reasons, I RECOMMEND that petitioner’s Motion Under
+28 U.S.C. § 2255 to Vacate, Set Aside, or Correct Sentence by a Person in Federal
+Custody (#522) be DENIED. I FURTHER RECOMMEND that Petitioner’s
+Mo[tion] for an Evidentiary Hearing Base[d] on the Government’s Surrebuttal
+Brief (#545), be DENIED.
+                        VI. Review by the District Judge
+      The parties are hereby advised that any party who objects to these
+recommendations must file a specific written objection thereto with the Clerk of
+this Court within 14 days of the party’s receipt of this Report and
+Recommendation. The written objections must specifically identify the portion
+of the recommendations, or report to which objection is made and the basis for
+such objections. The parties are further advised that the United States Court of
+Appeals for this Circuit has repeatedly indicated that failure to comply with Rule
+72(b), Fed. R. Civ. P., shall preclude further appellate review. See Keating v.
+Secretary of Health and Human Services, 848 F.2d 271 (1 Cir., 1988); United
+States v. Emiliano Valencia-Copete, 792 F.2d 4 (1 Cir., 1986); Scott v. Schweiker,
+702 F.2d 13, 14 (1 Cir., 1983); United States v. Vega, 678 F.2d 376, 378-379 (1
+
+                                       19
+Cir., 1982); Park Motor Mart, Inc. v. Ford Motor Co., 616 F.2d 603(1 Cir., 1980);
+see also Thomas v. Arn, 474 U.S. 140 (1985).
+
+                        /s/ Robert B. Collings
+                        ROBERT B. COLLINGS
+                        United States Magistrate Judge
+November 5, 2012.
+
+
+
+
+                                       20
+

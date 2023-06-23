@@ -1,0 +1,261 @@
+                            UNITED STATES DISTRICT COURT
+                                 DISTRICT OF MAINE
+
+NICHOLE TERRY,                            )
+                                          )
+              Petitioner,                 )
+                                          )
+       v.                                 )      2:10-cr-00008-GZS-1
+                                          )      2:17-cv-00057-GZS
+                                          )
+UNITED STATES OF AMERICA,                 )
+                                          )
+              Respondent                  )
+
+
+            RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+       In this action, Petitioner Nichole Terry moves, pursuant to 28 U.S.C. § 2255, to
+
+vacate, set aside or correct her sentence. (Motion, ECF No. 169.) Petitioner contends that
+
+she is entitled to a reduction in the sentence based on Amendment 794 to the United States
+
+Sentencing Guidelines.1 (Motion at 4.)
+
+       In 2010, following a guilty plea, Petitioner was convicted of (1) conspiracy to
+
+distribute and to possess with intent to distribute oxycodone, 21 U.S.C. §§ 846, 841(a)(1),
+
+(b)(1)(C); (2) possession with intent to distribute oxycodone, 21 U.S.C. § 841(a)(1),
+
+(b)(1)(C); and (3) possession of a firearm in furtherance of a drug felony,
+
+18 U.S.C. § 924(c). (Judgment at 1.) The Court sentenced Petitioner to 160 months in
+
+prison. (Id. at 2.) Petitioner did not appeal from the judgment or the sentence.
+
+
+
+
+1
+ Amendment 794 amended the application notes to USSG § 3B1.2 regarding mitigating role.
+USSG Supp. to App. C.
+        The Government seeks summary dismissal because, according to the Government,
+
+the motion is time-barred, the claim is non-justiciable, and the guidelines amendment is
+
+not retroactively applicable. (Response, ECF No. 180.)
+
+        Following a review of the record, Petitioner’s motion, and the Government’s request
+
+for dismissal, I recommend the Court grant the Government’s request, and dismiss
+
+Petitioner’s motion.
+
+                                               DISCUSSION
+
+        A request for a sentence reduction based on an amendment to the sentencing
+
+guidelines is governed by 18 U.S.C. § 3582(c)(2), which permits reductions “consistent
+
+with    applicable      policy     statements      issued     by     the    Sentencing       Commission.”
+
+18 U.S.C. § 3582(c)(2).2 “Congress has granted the Commission the unusual explicit
+
+power to decide whether and to what extent its amendments reducing sentences will be
+
+given retroactive effect, 28 U.S.C. § 994(u). This power has been implemented in
+
+USSG § 1B1.10, which sets forth the amendments that justify sentence reduction.”
+
+Braxton v. United States, 500 U.S. 344, 348 (1991); see United States v. Havener,
+
+
+
+2
+ Title 18 U.S.C. § 3582(c) states in part: “The court may not modify a term of imprisonment once it has
+been imposed . . . .” The statute provides certain exceptions, the relevant one of which states:
+
+        [I]n the case of a defendant who has been sentenced to a term of imprisonment based on a
+        sentencing range that has subsequently been lowered by the Sentencing Commission
+        pursuant to 28 U.S.C. 994(o), upon motion of the defendant or the Director of the Bureau
+        of Prisons, or on its own motion, the court may reduce the term of imprisonment, after
+        considering the factors set forth in section 3553(a) to the extent that they are applicable, if
+        such a reduction is consistent with applicable policy statements issued by the Sentencing
+        Commission.
+
+Id. § 3582(c)(2).
+
+
+                                                      2
+905 F.2d 3, 7 (1st Cir. 1990) (holding that USSG § 1B1.10(a) “expressly forbids retroactive
+
+application” of amendments that do not appear on the list of sentencing guidelines
+
+amendments included in section 1B1.10(d)).3
+
+         Because Amendment 794 is not listed in USSG § 1B1.10(d), sentencing reductions
+
+under Amendment 794 are not authorized. In other words, Amendment 794 is not
+
+retroactive to a sentence imposed before the November 1, 2015, effective date of the
+
+amendment. Petitioner, therefore, is not entitled to relief under section 3582(c)(2).
+
+         Petitioner’s attempt to secure a reduction of her sentence pursuant to
+
+28 U.S.C. § 2255 also fails. Under section 2255, a person may move to vacate his or her
+
+
+
+
+3
+    USSG § 1B1.10 provides:
+
+         (a) AUTHORITY.—
+
+             (1) IN GENERAL.--In a case in which a defendant is serving a term of imprisonment,
+                 and the guideline range applicable to that defendant has subsequently been lowered
+                 as a result of an amendment to the Guidelines Manual listed in subsection (d)
+                 below, the court may reduce the defendant’s term of imprisonment as provided by
+                 18 U.S.C. § 3582(c)(2). As required by 18 U.S.C. § 3582(c)(2), any such reduction
+                 in the defendant’s term of imprisonment shall be consistent with this policy
+                 statement.
+
+             (2) EXCLUSIONS.--A reduction in the defendant’s term of imprisonment is not
+                 consistent with this policy statement and therefore is not authorized under
+                 18 U.S.C. § 3582(c)(2) if—
+
+                 (A) none of the amendments listed in subsection (d) is applicable to the defendant;
+                     or
+
+                 (B) an amendment listed in subsection (d) does not have the effect of lowering the
+                     defendant’s applicable guideline range.
+
+             (3) LIMITATION.--Consistent      with subsection  (b),  proceedings    under
+                 18 U.S.C. § 3582(c)(2) and this policy statement do not constitute a full
+                 resentencing of the defendant.
+
+
+                                                     3
+sentence on one of four grounds: (1) “that the sentence was imposed in violation of the
+
+Constitution or laws of the United States”; (2) “that the court was without jurisdiction” to
+
+impose its sentence; (3) “that the sentence was in excess of the maximum authorized by
+
+law”; or (4) that the sentence “is otherwise subject to collateral attack.”
+
+28 U.S.C. § 2255(a); see Knight v. United States, 37 F.3d 769, 772-74 (1st Cir. 1994)
+
+(holding that the petitioner’s claim of errors in the application of the sentencing guidelines
+
+did not amount to a miscarriage of justice). None of the grounds set forth in section 2255(a)
+
+applies to Petitioner’s claim, as Petitioner’s claim is based on a non-retroactive guidelines
+
+change that occurred after Petitioner was sentenced. Petitioner, therefore, has not asserted
+
+a claim within the scope of section 2255.
+
+          Furthermore, even if relief were potentially available under section 2255, Petitioner
+
+did not file the motion within the limitation period provided under section 2255(f).4
+
+Petitioner’s section 2255 motion is not timely under section 2255(f)(1), because the motion
+
+
+
+4
+    Title 28 U.S.C. § 2255(f) states:
+
+          A 1-year period of limitation shall apply to a motion under this section. The limitation
+          period shall run from the latest of—
+
+          (1) the date on which the judgment of conviction becomes final;
+
+          (2) the date on which the impediment to making a motion created by governmental
+              action in violation of the Constitution or laws of the United States is removed, if
+              the movant was prevented from making a motion by such governmental action;
+
+          (3) the date on which the right asserted was initially recognized by the Supreme Court,
+              if that right has been newly recognized by the Supreme Court and made
+              retroactively applicable to cases on collateral review; or
+
+          (4) the date on which the facts supporting the claim or claims presented could have
+              been discovered through the exercise of due diligence.
+
+
+                                                      4
+was not filed within one year of the date on which the 2010 judgment became final.5
+
+Section 2255(f)(4) does not apply because Petitioner’s request is based on an amendment
+
+to the sentencing guidelines rather than on newly discovered facts. See Barreto-Barreto v.
+
+United States, 551 F.3d 95, 99 n.4 (1st Cir. 2008) (holding that “the discovery of a new
+
+legal theory does not constitute a discoverable ‘fact’ for purposes of § 2255(f)(4)”).
+
+Petitioner’s allegations do not raise an issue under any other provision of section 2255(f).6
+
+        In sum, Petitioner has not asserted a basis for relief under 28 U.S.C. § 2255, and
+
+18 U.S.C. § 3582(c)(2) does not permit relief because Amendment 794 is not retroactively
+
+applicable under USSG § 1B1.10(a), (d). Accordingly, Petitioner is not entitled to relief.
+
+                                              CONCLUSION
+
+        Based on the foregoing analysis, an evidentiary hearing is not warranted under Rule
+
+8 of the Rules Governing Section 2255 Cases. In addition, I recommend that the Court
+
+deny Petitioner’s motion for habeas relief under 28 U.S.C. § 2255. I further recommend
+
+that the Court deny a certificate of appealability pursuant to Rule 11 of the Rules Governing
+
+Section 2255 Cases because there is no substantial showing of the denial of a constitutional
+
+right within the meaning of 28 U.S.C. § 2253(c)(2).
+
+
+
+
+5
+ Petitioner did not appeal from his conviction or sentence, and therefore the November 15, 2010, judgment
+became final 14 days later. See Fed. R. App. P. 4(b)(1)(A); Clay v. United States, 537 U.S. 522, 532 (2003)
+(“We hold that, for federal criminal defendants who do not file a petition for certiorari with this Court on
+direct review, § 2255’s one-year limitation period starts to run when the time for seeking such review
+expires.”).
+6
+  Although the First Circuit has held that “section 2255(f) is non-jurisdictional” and that the one-year
+limitation period “is subject to equitable tolling in appropriate instances,” Ramos-Martínez v. United States,
+638 F.3d 315, 321, 322 (1st Cir. 2011), Petitioner has not alleged any facts that raise an issue of equitable
+tolling.
+
+                                                      5
+                                   NOTICE
+
+       A party may file objections to those specified portions of a magistrate
+judge’s report or proposed findings or recommended decisions entered
+pursuant to 28 U.S.C. 636(b)(1)(B) for which de novo review by the district
+court is sought, together with a supporting memorandum, within fourteen
+(14) days of being served with a copy thereof. A responsive memorandum
+shall be filed within fourteen (14) days after the filing of the objection.
+
+       Failure to file a timely objection shall constitute a waiver of the right
+to de novo review by the district court and to appeal the district court's order.
+
+
+                                            /s/ John C. Nivison
+                                            U.S. Magistrate Judge
+
+Dated this 30th day of August, 2017.
+
+
+
+
+                                       6
+

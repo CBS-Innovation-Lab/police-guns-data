@@ -1,0 +1,221 @@
+Case 2:07-cr-00127-DBH Document 67 Filed 09/04/08 Page 1 of 5             PageID #: 147
+
+
+
+                        UNITED STATES DISTRICT COURT
+
+                                DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA                 )
+                                         )
+                                         )
+                                         )
+v.                                       )             CRIMINAL NO. 07-127-P-H
+                                         )
+KARL KNIGHT,                             )
+                                         )
+                    DEFENDANT            )
+
+
+                   DECISION AND ORDER ON DEFENDANT’S
+                     MOTION TO DISMISS INDICTMENT
+
+
+      The issue here is whether the recent Supreme Court decision in District of
+
+Columbia v. Heller, 128 S. Ct. 2783 (2008), affects question 12.h on ATF Form
+
+4473, the question that asks a firearms purchaser, “Are you subject to a court
+
+order restraining you from harassing, stalking, or threatening your child or an
+
+intimate partner or child of such partner?” I conclude that Heller does not affect
+
+the materiality of the answer to question 12.h, and deny the defendant’s motion to
+
+dismiss the indictment against him.
+
+      The indictment charges the defendant with making a materially false
+
+statement on October 14, 2004, in trying to purchase a firearm. According to 18
+
+U.S.C. § 922(a)(6), it is unlawful for a firearms purchaser to make a “false . . .
+
+written statement . . . intended or likely to deceive . . . [a firearms] dealer . . . with
+
+respect to any fact material to the lawfulness of the sale.”           Specifically, the
+
+indictment charges that the defendant falsely answered “No” to question 12.h on
+Case 2:07-cr-00127-DBH Document 67 Filed 09/04/08 Page 2 of 5        PageID #: 148
+
+
+
+ATF From 4473, whereas just such an Order had been entered against him on
+
+August 26, 2004.
+
+      The defendant asks me to dismiss the Indictment as a result of the recent
+
+Supreme Court decision in District of Columbia v. Heller, 128 S. Ct. 2783. In
+
+Heller, the Court recognized for the first time an individual right under the Second
+
+Amendment to bear arms, and struck down the District of Columbia’s outright
+
+ban on handgun possession. But Heller also stated that “nothing in [its] opinion
+
+should be taken to cast doubt on longstanding prohibitions on the possession of
+
+firearms by felons and the mentally ill, or laws forbidding the carrying of firearms
+
+in sensitive places such as schools and government buildings,” id. at 2816-17,
+
+and made clear that those were only examples of presumptively lawful
+
+prohibitions, not an exhaustive list. Id. at n.26. Heller made no specific reference
+
+to prohibitions on firearms possession on the part of defendants subject to
+
+domestic abuse protection orders, a prohibition that is not as “longstanding” as
+
+the prohibition on felons possessing firearms.       Nor did Heller refer to false
+
+statement crimes.
+
+      I observe first that this defendant is not charged with illegally possessing a
+
+firearm. Instead he is charged with giving a materially false answer to an ATF-
+
+crafted question while he was attempting to purchase a firearm. Heller certainly
+
+does not eliminate the crime of false statements. The defendant’s argument needs
+
+to be (neither he nor the government address their arguments this way) that his
+
+false answer is no longer, in the words of the statute, “material to the lawfulness
+
+of the sale.” 18 U.S.C. § 922(a)(6). In other words, his argument must be that, if
+                                                                                  2
+Case 2:07-cr-00127-DBH Document 67 Filed 09/04/08 Page 3 of 5               PageID #: 149
+
+
+
+he is correct that people subject to a harassment order can no longer be
+
+prohibited from carrying firearms, then the truthfulness of his answer to question
+
+12.h is no longer material to the lawfulness of the sale. I will proceed on the
+
+premise that this is the nature of the dispute here.
+
+      The answer to question 12.h is material to a firearms dealer in selling a
+
+firearm only if § 922(g)(8) lawfully prohibits people who are subject to certain
+
+court orders from possessing a firearm.          If Heller makes such a prohibition
+
+unconstitutional, then the § 922(g)(8) crime can no longer exist and the answer to
+
+question 12.h is no longer material.         I conclude that Heller does not make
+
+unconstitutional the § 922(g)(8) crime. Unlike Heller, the § 922(g)(8) crime is not
+
+an outright ban on firearm possession. Instead, the prohibition lasts only as long
+
+as the underlying state court order is in effect. And the scope of the prohibition is
+
+actually quite narrow. It applies only if the pertinent court order:
+
+             (A) was issued after a hearing of which such person received
+             actual notice, and at which such person had an opportunity
+             to participate;
+             (B) restrains such person from harassing, stalking, or
+             threatening an intimate partner of such person or child of
+             such intimate partner or person, or engaging in other conduct
+             that would place an intimate partner in reasonable fear of
+             bodily injury to the partner or child; and
+             (C) (i) includes a finding that such person represents a
+             credible threat to the physical safety of such intimate partner
+             or child; or
+             (ii) by its terms explicitly prohibits the use, attempted use, or
+             threatened use of physical force against such intimate partner
+             or child that would reasonably be expected to cause bodily
+             injury.
+
+18 U.S.C. § 922(g)(8). Reducing domestic violence is a compelling government
+
+interest, see United States v. Lippman, 369 F.3d 1039, 1043 (8th Cir. 2004), cert.
+
+
+                                                                                        3
+Case 2:07-cr-00127-DBH Document 67 Filed 09/04/08 Page 4 of 5                  PageID #: 150
+
+
+
+denied, 543 U.S. 1080 (2005), and 922(g)(8)’s temporary prohibition, while the
+
+state court order is outstanding, is narrowly tailored to that compelling interest.
+
+Id. Accord United States v. Emerson, 270 F.3d 203 (5th Cir. 2001), cert. denied,
+
+536 U.S. 907 (2002).1        The threatened conduct that is a prerequisite to the
+
+prohibition is serious: “harassing, stalking, threatening,” or other conduct that
+
+would cause “reasonable fear of bodily injury”; and the court order must make a
+
+specific finding of “a credible threat to the physical safety” of an intimate partner
+
+or child or an explicit prohibition on the use of force “that would reasonably be
+
+expected to cause bodily injury.” 18 U.S.C. § 922(g)(8). These are narrowly crafted
+
+limits on when a citizen may possess a firearm and well tuned to the legitimate
+
+concerns of avoiding serious physical injury to a partner or child. I conclude that
+
+Heller does not make the prohibition unconstitutional. Since the prohibition is
+
+still valid, the answer to question 12.h remains material.
+
+       The defendant makes a number of other arguments that are premised on
+
+what he believed at the time he tried to purchase the firearm, what his lawyer told
+
+him, what the state judge said in his order (that the order did not prohibit firearm
+
+possession), etc. But all of these, if they are relevant at all, affect only whether the
+
+government can prove the necessary state of mind for the crime, not the
+
+constitutionality of § 922(g)(8), and hence the materiality of the defendant’s false
+
+answer.
+
+       For those reasons, the motion to dismiss the indictment is DENIED.
+
+
+1 Like United States v. Booker, 2008 WL 3411793 (D. Me. August 11, 2008), I find it unnecessary
+(continued on next page)
+                                                                                              4
+Case 2:07-cr-00127-DBH Document 67 Filed 09/04/08 Page 5 of 5                PageID #: 151
+
+
+
+       SO ORDERED.
+
+       DATED THIS 4TH DAY OF SEPTEMBER, 2008
+
+                                                  /S/D. BROCK HORNBY
+                                                  D. BROCK HORNBY
+                                                  UNITED STATES DISTRICT JUDGE
+
+
+
+
+to determine the standard of review. Section 922(g)(8) passes muster under any standard.
+
+
+                                                                                           5
+

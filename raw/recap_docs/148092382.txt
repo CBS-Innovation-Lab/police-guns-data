@@ -1,0 +1,772 @@
+Case 2:15-cr-00055-NT Document 200 Filed 09/24/20 Page 1 of 16              PageID #: 4091
+
+
+
+
+                            UNITED STATES DISTRICT COURT
+                                 DISTRICT OF MAINE
+
+GREGORY OWENS,                            )
+                                          )
+              Petitioner,                 )
+                                          )
+       v.                                 )      2:15-cr-00055-NT
+                                          )      2:20-cv-00037-NT
+                                          )
+UNITED STATES OF AMERICA,                 )
+                                          )
+              Respondent                  )
+
+            RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+       Petitioner moves pursuant to 28 U.S.C. § 2255 to vacate, set aside or correct his
+
+sentence. (Motion, ECF No. 191.) Following a jury trial, Petitioner was convicted of
+
+interstate domestic violence and discharge of a firearm during and in relation to a crime of
+
+violence; the Court sentenced Petitioner to life in prison. (Judgment, ECF No. 131.) The
+
+First Circuit affirmed. United States v. Owens, 917 F.3d 26 (1st Cir. 2019).
+
+       Petitioner argues (1) his attorneys provided ineffective assistance when they failed
+
+to secure the suppression of evidence following an alleged illegal search, (2) his attorneys
+
+provided ineffective assistance when they failed to challenge what he sees as insufficient
+
+specificity as to an underlying crime of violence, and (3) interstate domestic violence does
+
+not categorically qualify as a crime of violence. (Motion at 6–8.) The Government
+
+requests dismissal. (Response, ECF No. 193.)
+Case 2:15-cr-00055-NT Document 200 Filed 09/24/20 Page 2 of 16               PageID #: 4092
+
+
+
+
+       Following a review of the record and after consideration of Petitioner’s motion and
+
+the Government’s request for dismissal, I recommend the Court grant the Government’s
+
+request and dismiss Petitioner’s motion.
+
+                 FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+       Late one night in December 2014, an armed intruder broke into a house in Saco,
+
+Maine. The intruder shot at the homeowners’ overnight guest (Petitioner’s wife), hitting
+
+her in the head, arm, and torso. The intruder also shot through a door at one of the owners,
+
+hitting him in the arm, neck, and rib area.
+
+       In the early morning hours, Maine police officers notified New Hampshire police
+
+of the shooting; New Hampshire police officers went to Petitioner’s Londonderry, New
+
+Hampshire residence. One officer made his way up the driveway, placed a hand on the
+
+hood of Petitioner’s vehicle, confirmed that it was warm, and retreated to the other officers.
+
+Shortly thereafter, the officers followed Petitioner’s vehicle to a nearby gas station, where
+
+they approached Petitioner.
+
+       Petitioner agreed to be interviewed at the police station. The police officers noted
+
+that Petitioner had blood on his hand and they collected DNA samples from Petitioner.
+
+They also noticed blood and other evidence in the vehicle potentially linking it to the crime
+
+scene. The officers reviewed surveillance video from a gas station and a coffee shop, which
+
+video showed Petitioner wearing dark clothes on the night of the shooting.               Law
+
+enforcement obtained warrants to search Petitioner’s residence, vehicle, and electronic
+
+devices.
+
+
+
+                                              2
+Case 2:15-cr-00055-NT Document 200 Filed 09/24/20 Page 3 of 16              PageID #: 4093
+
+
+
+
+       In March 2015, Petitioner was indicted on one count of interstate domestic violence
+
+in violation of 18 U.S.C. § 2261(a)(1) and (b)(2) and one count of discharging a firearm
+
+during and in relation to a crime of violence in violation of 18 U.S.C. § 924(c)(1)(A)(iii).
+
+(Indictment, ECF No. 22.) Petitioner moved to dismiss the indictment on double jeopardy
+
+grounds, to suppress the evidence from the search of his vehicle’s hood, and to suppress
+
+the evidence from the search warrants, which he argued were illegally obtained. (Motions,
+
+ECF Nos. 40, 41, 43.) The Court held an evidentiary hearing and denied Petitioner’s
+
+motions. (Suppression Hearing, ECF No. 57; Order, ECF No. 64.) After a trial in February
+
+2016, a jury found Petitioner guilty on both counts. (Verdict, ECF No. 110.) In July 2016,
+
+the Court sentenced Petitioner to 240 months in prison on Count One (interstate domestic
+
+violence) and life in prison on Count Two (discharge of a firearm in relation to a crime of
+
+violence). (Judgment, ECF No. 131.)
+
+       On appeal, Petitioner challenged the sufficiency of the evidence and the Court’s
+
+denial of his pretrial motions. Owens, 917 F.3d at 30. The First Circuit upheld the
+
+conviction and sentence. Id.
+
+                                       DISCUSSION
+
+A.     Legal Standards
+
+       A person may move to vacate his or her sentence on one of four different grounds:
+
+(1) “that the sentence was imposed in violation of the Constitution or laws of the United
+
+States”; (2) “that the court was without jurisdiction” to impose its sentence; (3) “that the
+
+sentence was in excess of the maximum authorized by law”; or (4) that the sentence
+
+
+
+                                             3
+Case 2:15-cr-00055-NT Document 200 Filed 09/24/20 Page 4 of 16               PageID #: 4094
+
+
+
+
+“is otherwise subject to collateral attack.” 28 U.S.C. § 2255(a); see Knight v. United States,
+
+37 F.3d 769, 772 (1st Cir. 1994).
+
+       “[P]ro se habeas petitions normally should be construed liberally in petitioner’s
+
+favor.” United States v. Ciampi, 419 F.3d 20, 24 (1st Cir. 2005) (citing Estelle v. Gamble,
+
+429 U.S. 97, 106 (1976)). The burden is on the section 2255 petitioner to establish by a
+
+preponderance of the evidence that he or she is entitled to section 2255 relief. David v.
+
+United States, 134 F.3d 470, 474 (1st Cir. 1998); United States v. DiCarlo, 575 F.2d 952,
+
+954 (1st Cir. 1978). When “a petition for federal habeas relief is presented to the judge
+
+who presided at the petitioner’s trial, the judge is at liberty to employ the knowledge
+
+gleaned during previous proceedings and make findings based thereon without convening
+
+an additional hearing.” United States v. McGill, 11 F.3d 223, 225 (1st Cir. 1993).
+
+       A collateral challenge is not a substitute for an appeal. United States v. Frady,
+
+456 U.S. 152, 165 (1982); Berthoff v. United States, 308 F.3d 124, 127 (1st Cir. 2002).
+
+“[A] defendant’s failure to raise a claim in a timely manner at trial or on appeal constitutes
+
+a procedural default that bars collateral review, unless the defendant can demonstrate cause
+
+for the failure and prejudice or actual innocence.”         Berthoff, 308 F.3d at 127–28.
+
+Procedural default is an affirmative defense. Sotirion v. United States, 617 F.3d 27, 32 (1st
+
+Cir. 2010). The First Circuit has recognized that “federal courts have the authority to
+
+consider procedural default sua sponte.” Rosenthal v. O’Brien, 713 F.3d 676, 683 (1st Cir.
+
+2013) (citing Brewer v. Marshall, 119 F.3d 993, 999 (1st Cir. 1997)); see also Daniels v.
+
+United States, 532 U.S. 374, 382-83 (2001) (recognizing that “procedural default rules
+
+
+
+                                              4
+Case 2:15-cr-00055-NT Document 200 Filed 09/24/20 Page 5 of 16                 PageID #: 4095
+
+
+
+
+developed in the habeas corpus context apply in § 2255 cases”) (citing Frady, 456 U.S. at
+
+167-68).
+
+       An allegation of ineffective assistance of counsel can excuse a procedural default if
+
+the petitioner demonstrates that counsel’s representation “fell below an objective standard
+
+of reasonableness.” Strickland v. Washington, 466 U.S. 668, 688 (1984). The petitioner
+
+must also demonstrate that “there is a reasonable probability that, but for counsel’s
+
+unprofessional errors, the result of the proceeding would have been different.
+
+A reasonable probability is a probability sufficient to undermine confidence in the
+
+outcome.” Id. at 694. A district court reviewing a claim of ineffective assistance of counsel
+
+need not address both prongs of the Strickland test because a failure to meet either prong
+
+will undermine the claim. Id. at 697. If a petitioner’s “claims fail on the merits, his related
+
+claims that counsel rendered ineffective assistance in failing to press the claims at trial or
+
+on appeal must also fail.” Tse v. United States, 290 F.3d 462, 465 (1st Cir. 2002) (per
+
+curiam).
+
+       Under the law of the case doctrine, “issues disposed of in a prior appeal will not be
+
+reviewed again by way of a 28 U.S.C. § 2255 motion.” Singleton v. United States, 26 F.3d
+
+233, 240 (1st Cir. 1994) (internal modifications and quotation marks omitted); see also
+
+Elwell v. United States, 95 F.3d 1146, 1996 WL 516138 at *5 (1st Cir. 1996) (holding that
+
+a petitioner “is not entitled on collateral review to relitigate issues raised on direct appeal,
+
+absent an intervening change in the law”); White v. United States, 371 F.3d 900, 902 (7th
+
+Cir. 2004) (collecting cases and explaining limited exceptions).
+
+
+
+                                               5
+Case 2:15-cr-00055-NT Document 200 Filed 09/24/20 Page 6 of 16                 PageID #: 4096
+
+
+
+
+       “Evidentiary hearings on § 2255 petitions are the exception, not the norm, and there
+
+is a heavy burden on the petitioner to demonstrate that an evidentiary hearing is warranted.
+
+An evidentiary hearing ‘is not necessary when a [§] 2255 petition (1) is inadequate on
+
+its face, or (2) although facially adequate, is conclusively refuted as to the alleged facts by
+
+the files and records of the case.’” Moreno-Morales v. United States, 334 F.3d 140, 145
+
+(1st Cir. 2003) (citation omitted) (quoting DiCarlo, 575 F.2d at 954 (quotation marks
+
+omitted)).
+
+       Summary dismissal of a motion is permitted when the allegations are “‘vague,
+
+conclusory, or palpably incredible,’” even “‘if the record does not conclusively and
+
+expressly belie [the] claim.’” David, 134 F.3d at 478 (quoting Machibroda v. United States,
+
+368 U.S. 487, 495 (1962)). A court can reasonably require a petitioner to supply the court
+
+with salient details of the claim prior to permitting discovery or a hearing. Id. (holding that
+
+“the district court did not abuse its discretion in refusing to license a fishing expedition”).
+
+B.     Search of the Car Hood
+
+       Petitioner argues his trial and appellate attorneys provided ineffective assistance
+
+because they failed to argue persuasively and successfully that an illegal search occurred
+
+when a police officer walked up the driveway and touched the hood of Petitioner’s vehicle
+
+to determine whether it was still warm. Petitioner essentially reasserts the argument he
+
+presented to the Court at the suppression hearing, faulting counsel for focusing on whether
+
+the driveway was within the curtilage rather than the fact that the driveway was on private
+
+property.
+
+
+
+                                               6
+Case 2:15-cr-00055-NT Document 200 Filed 09/24/20 Page 7 of 16                PageID #: 4097
+
+
+
+
+       Petitioner’s argument fails, however, because he misinterprets United States v.
+
+Jones, 565 U.S. 400 (2012)—which held that attaching a GPS device to a suspect’s vehicle
+
+constitutes a search under the Fourth Amendment—as standing for the proposition that all
+
+intrusions onto private property require a warrant. While the Court in Jones reaffirmed the
+
+relevance of private property boundaries and trespass law to Fourth Amendment inquiries,
+
+id. at 409 (“the Katz reasonable-expectation-of-privacy test has been added to, not
+
+substituted for, the common-law trespassory test”), the Court explicitly rejected the
+
+assertion that any physical intrusion onto private property constitutes a Fourth Amendment
+
+search, regardless of whether that area was within the curtilage of the home or not. Id. at
+
+411 (intrusion into private land that is beyond the curtilage of the home, such as an open
+
+field, “did not constitute a Fourth Amendment search even though it was a trespass at
+
+common law” because private property outside the curtilage of a home “is not one of those
+
+protected areas enumerated in the Fourth Amendment”). Petitioner, therefore, has not
+
+shown that the Court incorrectly analyzed the Fourth Amendment issue by focusing on the
+
+curtilage of the home, or that counsel should have made other arguments based on the
+
+bounds of Plaintiff’s property, rather than the curtilage.
+
+       Even if Petitioner had a basis to challenge the legality of the officer’s entry onto the
+
+property to touch the hood of the vehicle, he is barred from asserting the argument on
+
+postconviction review because the First Circuit directly considered and upheld the legality
+
+of the officer’s conduct, and Petitioner has not identified any mistake or intervening change
+
+in the law that would alter the First Circuit’s analysis on the issue. See Singleton v. United
+
+States, 26 F.3d 233, 240 (1st Cir. 1994); Elwell v. United States, 95 F.3d 1146, 1996 WL
+
+                                              7
+Case 2:15-cr-00055-NT Document 200 Filed 09/24/20 Page 8 of 16                           PageID #: 4098
+
+
+
+
+516138 at *5 (1st Cir. 1996). Moreover, the First Circuit reasoned that “even assuming
+
+that the driveway formed part of the house’s curtilage” and was therefore generally
+
+protected against warrantless intrusions, “[the officer] faced exigent circumstances when
+
+he entered the driveway and placed his hand on [Petitioner’s] vehicle,” which meant that
+
+his “warrantless search [was] within the bounds of the Fourth Amendment.” Owens, 917
+
+F.3d at 35. Given the First Circuit’s finding of exigent circumstances, Petitioner cannot
+
+prevail on his challenge to the Court’s analysis because if the officer’s entry onto the
+
+property constituted a search for Fourth Amendment purposes, the search was lawful.
+
+        Because Petitioner is barred from collaterally challenging the legality of the
+
+officer’s entry onto the property to touch the vehicle hood, and because Petitioner’s
+
+underlying arguments regarding the entry and touch of the hood lack merit, Petitioner
+
+cannot establish that counsel performed deficiently or that he was prejudiced1 by counsels’
+
+decisions.
+
+
+
+
+1
+  Petitioner also cannot show prejudice because even if he did have a meritorious Fourth Amendment
+argument regarding the suppression of the evidence that flowed from the search of the hood, there is no
+reasonable likelihood of a different result. The evidence of the hood’s warmth played a very limited role
+at trial, because Petitioner’s own account acknowledged that he had driven the car in the early morning
+hours. With all the other evidence, there is no likelihood of a different result if that evidence alone were
+omitted. Petitioner also has not shown that the evidence the officers subsequently collected would have
+been excluded as “fruit of the poisonous tree” if the hood search was deemed unlawful, because there is no
+reason to suggest that the officers would not have followed Petitioner and collected the subsequent evidence
+even if the officers did not know the hood was warm. See Wong Sun v. United States, 371 U.S. 471, 488
+(1963) (to determine whether evidence is excluded as fruit of the poisonous tree, the “apt question in such
+a case is whether, granting establishment of the primary illegality, the evidence to which instant objection
+is made has been come at by exploitation of that illegality or instead by means sufficiently distinguishable
+to be purged of the primary taint”) (quotation omitted). In other words, because there was an insufficient
+causal connection between the hood touch and the rest of the evidence against Petitioner, the subsequent
+evidence was not the “fruit” of the hood touch and would not have been excluded even if Petitioner could
+establish a Fourth Amendment violation regarding the hood touch.
+
+                                                     8
+Case 2:15-cr-00055-NT Document 200 Filed 09/24/20 Page 9 of 16                          PageID #: 4099
+
+
+
+
+C.      Sufficiency of the Indictment
+
+        Petitioner claims his attorneys provided ineffective assistance by failing to
+
+challenge the Court’s subject matter jurisdiction or to move for the dismissal of the
+
+indictment because the Government allegedly failed to list a specific underlying crime of
+
+violence. Petitioner’s argument fails because the indictment specifically alleged underlying
+
+crimes of violence, namely “attempted murder and aggravated assault, against [Petitioner’s
+
+wife], causing life threatening bodily injury to her.” (Indictment at 1.) The Court instructed
+
+the jury that it must find “beyond a reasonable doubt that Petitioner committed either the
+
+crime of attempted murder and/or the crime of aggravated assault against [Petitioner’s
+
+wife] in the course of or as a result of interstate travel.” (Trial Transcript at 2039, ECF No.
+
+178). The Court also instructed the jury on the elements of the two underlying crimes. (Id.
+
+at 2039–41.)2
+
+        Because Petitioner’s challenges to the indictment and the Court’s jurisdiction lack
+
+merit, Petitioner has not established that counsel performed deficiently by failing to make
+
+the arguments or that Petitioner was prejudiced as a result of counsel’s decisions.
+
+D.      Categorical Crime of Violence
+
+        Petitioner contends that his life sentence on Count Two pursuant to 18 U.S.C. §
+
+924(c)(1)(A)(iii) was unlawful because his underlying crime, 18 U.S.C. § 2261(a)(1), does
+
+
+
+
+2
+  To the extent that Petitioner argues that the Government was required to pick a single underlying crime
+that might satisfy the “crime of violence” element, his argument is unpersuasive because a jury need not be
+unanimous on alternate means or methods of satisfying elements, as long as the jury agrees that the element
+is satisfied. See infra Part D.
+
+                                                    9
+Case 2:15-cr-00055-NT Document 200 Filed 09/24/20 Page 10 of 16                  PageID #: 4100
+
+
+
+
+ not qualify as a “crime of violence” as defined in § 924(c). Section 924(c)(1)(A)(iii)
+
+ provides in relevant part:
+
+        any person who, during and in relation to any crime of violence or drug
+        trafficking crime . . . uses or carries a firearm, or who, in furtherance of any
+        such crime, possesses a firearm, shall, in addition to the punishment provided
+        for such crime of violence or drug trafficking crime . . . if the firearm is
+        discharged, be sentenced to a term of imprisonment of not less than 10 years.
+
+ Because the additional consecutive penalty is framed as a mandatory minimum with no
+
+ maximum, “the maximum penalty under 18 U.S.C. § 924(c)(1)(A)(iii) . . . is life
+
+ imprisonment.” United States v. Ortiz-Garcia, 665 F.3d 279, 282 (1st Cir. 2011).
+
+        Section 924(c) defines the term “crime of violence” using two clauses, the
+
+ “elements” clause (also called the “force” clause) and the “residual” clause. See United
+
+ States v. Cruz-Rivera, 904 F.3d 63, 65 (1st Cir. 2018). The elements clause includes any
+
+ felony that “has as an element the use, attempted use, or threatened use of physical force
+
+ against the person or property of another.” 18 U.S.C. § 924(c)(3)(A). The residual clause
+
+ includes any felony “that by its nature, involves a substantial risk that physical force against
+
+ the person or property of another may be used in the course of committing the offense.”
+
+ Id. § 924 (c)(3)(B). The words “physical force” in this context means “violent force—that
+
+ is, force capable of causing physical pain or injury to another person.” Johnson v. United
+
+ States, 559 U.S. 133, 140 (2010) (Johnson I) (emphasis in original).
+
+        In a series of cases beginning in 2015, the Supreme Court struck down as
+
+ unconstitutionally vague several similar statutory provisions to the residual clause of
+
+ § 924(c)(3)(B), see Johnson v. United States, 576 U.S. 591 (2015) (Johnson II), and the
+
+ Supreme Court struck down that specific residual clause provision in 2019. United States
+
+                                               10
+Case 2:15-cr-00055-NT Document 200 Filed 09/24/20 Page 11 of 16                   PageID #: 4101
+
+
+
+
+ v. Davis, 139 S. Ct. 2319 (2019). The question here, therefore, is whether Petitioner’s
+
+ predicate offense under § 2261(a)(1) and (b)(2) satisfies the elements clause definition of
+
+ “crime of violence” in § 924(c)(3)(A).
+
+        When analyzing whether a predicate offense fits within a penalty-enhancing term
+
+ like “crime of violence,” courts use a categorical or modified categorical approach. United
+
+ States v. Mohamed, 920 F.3d 94, 101 (1st Cir. 2019) (citing Mathis v. United States, 136
+
+ S.Ct. 2243, 2249 (2016); Taylor v. United States, 495 U.S. 575, 588 (1990)). “In short,
+
+ [courts] look to the statutory definition of the offense in question, as opposed to the
+
+ particular facts underlying the conviction.” United States v. Davila-Felix, 667 F.3d 47, 56
+
+ (1st Cir. 2011) (internal quotations omitted). A statute of conviction can only serve as a
+
+ predicate offense “if the statute’s elements are the same as, or narrower than” the federal
+
+ elements of the enhancement. See Descamps v. United States, 570 U.S. 254, 257 (2013).
+
+        When a statute “sets out a single (or ‘indivisible’) set of elements”, the
+
+ straightforward categorical approach applies, but when a statute has “a more complicated
+
+ (sometimes called ‘divisible’) structure . . . list[ing] elements in the alternative, and thereby
+
+ defin[ing] multiple crimes” courts use the modified categorical approach. Mathis, 136 S.
+
+ Ct. at 2248–49. Under the modified categorical approach, “a sentencing court looks to a
+
+ limited class of documents (for example, the indictment, jury instructions, or plea
+
+ agreement and colloquy) to determine what crime, with what elements, a defendant was
+
+ convicted of.” Id. at 2249 (citing Shepard v. United States, 544 U.S. 13, 26 (2005)). The
+
+ modified categorical approach, however, “gives a sentencing court no special warrant to
+
+ explore the facts of an offense, rather than to determine the crime’s elements and compare
+
+                                                11
+Case 2:15-cr-00055-NT Document 200 Filed 09/24/20 Page 12 of 16                  PageID #: 4102
+
+
+
+
+ them with the generic definition.” Id. at 2251. In Mathis, the Supreme Court instructed
+
+ courts to distinguish between a statute “that lists multiple elements disjunctively”—thereby
+
+ creating a divisible statute defining separate crimes and permitting resort to the modified
+
+ approach—and a statute that merely “enumerates various factual means of committing a
+
+ single element”—thereby creating an indivisible statute defining a single crime analyzed
+
+ under the unmodified categorical approach. Id. at 2249–50. Elements must be specifically
+
+ charged and admitted by a defendant or found by a jury beyond a reasonable doubt, but “a
+
+ jury need not find (or a defendant admit) any particular” method or means. Id. at 2249–
+
+ 50, 2256.
+
+        Pursuant to § 2261(a)(1) anyone who (1) “travels in interstate or foreign commerce
+
+ or enters or leaves Indian country or is present within the special maritime and territorial
+
+ jurisdiction of the United States,” (2) with the intent to kill, injure, harass, or intimidate,”
+
+ (3) “a spouse, intimate partner, or dating partner,” and who, (4) “in the course of or as a
+
+ result of such travel or presence, commits or attempts to commit a crime of violence against
+
+ that spouse, intimate partner, or dating partner” commits a crime. The base penalty for that
+
+ crime is “not more than 5 years” imprisonment, § 2261(b)(5), but the penalty is increased
+
+ to a maximum of 10 years if serious bodily injury to the victim results or if the offender
+
+ uses a dangerous weapon, § 2261(b)(3); to a maximum of 20 years if permanent
+
+ disfigurement or life threatening bodily injury to the victim results, § 2261(b)(2); and to a
+
+ maximum of life if death results, § 2261(b)(1).
+
+        Petitioner argues that § 2261 is indivisible. While several portions of the text of §
+
+ 2261(a) contemplate alternatives, in terms of distinguishing between elements and means,
+
+                                               12
+Case 2:15-cr-00055-NT Document 200 Filed 09/24/20 Page 13 of 16                         PageID #: 4103
+
+
+
+
+ see Mathis, 136 S. Ct. at 2249–51, 2256, the alternatives could be construed as means or
+
+ methods, rather than alternate elements. Accordingly, when assessing § 2261(a), without
+
+ consideration of the enhanced penalty provisions in § 2261(b), the Court is arguably not
+
+ permitted to look to the Shepherd documents to determine which mental states or
+
+ underlying crimes the Government charged. See United States v. Jacobs, No. 7:98-CR-02-
+
+ JMH-HAI, 2020 WL 3421765, at *6–7 (E.D. Ky. June 22, 2020) (“Neither section of §
+
+ 2261(a) defines multiple crimes” so “the Court must use the categorical approach, not the
+
+ modified categorical approach, to analyze the statute and determine if it is a predicate crime
+
+ of violence for purposes of § 924(c)’s elements clause”).
+
+         Focusing on the second element, Petitioner argues that § 2261(a) is not categorically
+
+ a crime of violence because it can be committed by harassment or intimidation alone.
+
+ Harassment or intimidation does not necessarily require “force capable of causing physical
+
+ pain or injury to another person,” see Johnson I, 559 U.S. at 140, but Petitioner’s argument
+
+ ignores the fourth element of § 2261(a), which requires an attempted or committed “crime
+
+ of violence against that spouse, intimate partner, or dating partner.” Because the fourth
+
+ element of § 2261(a) itself requires a further predicate crime of violence3 “[t]he only
+
+ conclusion that can be reached is that a § 2261 conviction must also have, as an element, a
+
+ crime of violence that contains, as an element, the use, attempted use, or threatened use of
+
+
+
+
+ 3
+   The identical phrase “crime of violence” within § 2261(a) is defined with an identical elements and
+ residual clause at 18 U.S.C. § 16. The Supreme Court also struck down that residual clause in Sessions v.
+ Dimaya, 138 S. Ct. 1204 (2018).
+
+
+                                                    13
+Case 2:15-cr-00055-NT Document 200 Filed 09/24/20 Page 14 of 16                             PageID #: 4104
+
+
+
+
+ physical force: the exact definition also required under § 924(c)(3)(A).” Jacobs, 2020 WL
+
+ 3421765 at *10.
+
+         Even if the “crime of violence” incorporated within the fourth element of § 2261(a)
+
+ could be distinguished from the “crime of violence” in §924(c)(3)(A), 4 Petitioner’s
+
+ challenge would still fail because he was also specifically charged with causing life-
+
+ threatening bodily injury, triggering the twenty-year penalty provision at § 2261(b)(2). In
+
+ a similar context, the First Circuit determined that a base crime with separate penalty
+
+ provisions—including an enhanced penalty provision when the crime resulted in bodily
+
+ injury—created an overall statute that was “plainly divisible.” United States v. Taylor, 848
+
+ F.3d 476, 492 (1st Cir. 2017). The statute here is divisible, therefore, as to the versions
+
+ created by the enhanced penalty provisions in § 2261(b). Based on Petitioner’s indictment
+
+ and other Shepherd documents, a fifth element of “resulting in life-threatening bodily
+
+ injury” is added to the four elements previously discussed. Because “the bodily injury
+
+ requirement at a minimum connotes the use of physical force,” Jacobs, 2020 WL 3421765
+
+ at *11, Petitioner’s actual offense defined by the combination of § 2261(a) and (b)(2) was
+
+ a crime of violence for purposes of § 924(c).
+
+
+
+
+ 4
+   One possible distinction is that § 2261(a) can be satisfied with an attempted crime of violence. In the
+ similar context of the term “violent felony,” courts have found it difficult to determine whether an attempted
+ violent felony necessarily constitutes a violent felony because it depends on how strictly courts have applied
+ the underlying attempt statute. See e.g., Morris v. United States, 827 F.3d 696, 697 (7th Cir. 2016).
+ However, because the term “crime of violence” includes the “attempted use” of force, those courts that
+ have addressed the specific question here have determined that “when a substantive offense is a crime of
+ violence under 18 U.S.C. § 924(c)(3)(A), an attempt to commit that offense is also a crime of violence.”
+ United States v. Dominguez, 954 F.3d 1251, 1255 (9th Cir. 2020).
+
+                                                      14
+Case 2:15-cr-00055-NT Document 200 Filed 09/24/20 Page 15 of 16                             PageID #: 4105
+
+
+
+
+         Because Petitioner’s arguments concerning crimes of violence fail regardless of
+
+ whether the categorical approach or the modified categorical approach applies, Petitioner
+
+ is not entitled to postconviction relief, his attorneys did not provide ineffective assistance
+
+ of counsel by failing to present the argument at trial or on appeal, and Petitioner was not
+
+ prejudiced as a result of those decisions.5
+
+                                               CONCLUSION
+
+         Based on the foregoing analysis, an evidentiary hearing is not warranted under Rule
+
+ 8 of the Rules Governing Section 2255 Cases. In addition, I recommend that the Court
+
+ deny Petitioner’s motion for habeas relief under 28 U.S.C. § 2255 and grant the
+
+ Government’s request to dismiss the motion. I further recommend that the Court deny a
+
+ certificate of appealability pursuant to Rule 11 of the Rules Governing Section 2255 Cases
+
+ because there is no substantial showing of the denial of a constitutional right within the
+
+ meaning of 28 U.S.C. § 2253(c)(2).
+
+                                                 NOTICE
+
+                A party may file objections to those specified portions of a magistrate
+         judge’s report or proposed findings or recommended decisions entered
+         pursuant to 28 U.S.C. 636(b)(1)(B) for which de novo review by the district
+         court is sought, together with a supporting memorandum, within fourteen
+
+
+ 5
+   The Government also argues that Petitioner is procedurally barred from presenting the argument because
+ he did not present it on direct appeal. See Bousley v. United States, 523 U.S. 614, 623 (1998). Petitioner
+ also casts his argument as one of ineffective assistance of counsel in order to provide cause for any
+ procedural default. While the Government acknowledges that Davis would offer retroactive relief if
+ Petitioner had been convicted under the residual clause, the Government asserts that he was actually
+ convicted under the elements clause, that his argument is really a Mathis claim, not a Davis claim, and that
+ Petitioner could have presented his Mathis argument on direct appeal. Because Petitioner’s argument
+ regarding the inapplicability of the elements clause is only relevant once the residual clause is disregarded,
+ it is not entirely clear how his claim should be characterized under Mathis and Davis. Because of that
+ uncertainty, and because the underlying argument lacks merit in any event, the Court need not address those
+ issues.
+
+                                                      15
+Case 2:15-cr-00055-NT Document 200 Filed 09/24/20 Page 16 of 16                PageID #: 4106
+
+
+
+
+       (14) days of being served with a copy thereof. A responsive memorandum
+       shall be filed within fourteen (14) days after the filing of the objection.
+
+              Failure to file a timely objection shall constitute a waiver of the right
+       to de novo review by the district court and to appeal the district court's order.
+
+                                                   /s/ John C. Nivison
+                                                   U.S. Magistrate Judge
+
+ Dated this 24th day of September, 2020.
+
+
+
+
+                                              16
+

@@ -1,0 +1,219 @@
+ Case 1:13-cr-00106-JAW Document 21 Filed 10/18/13 Page 1 of 5       PageID #: 88
+
+
+
+                      UNITED STATES DISTRICT COURT
+                           DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA              )
+                                      )
+      v.                              )     1:13-cr-00106-JAW
+                                      )
+TOBIN WHITE                           )
+
+
+     ORDER ON DEFENDANT’S MOTION TO DISMISS INDICTMENT
+
+      Charged with possession of a firearm after being convicted of a misdemeanor
+
+crime of domestic violence under 18 U.S.C. § 922(g)(9), Tobin White moves to
+
+dismiss the indictment, claiming that because the Maine misdemeanor assault
+
+statute allows for a conviction based upon offensive physical contact, the United
+
+States Supreme Court decision of Johnson v. United States, 559 U.S. 133 (2010),
+
+requires that his assault conviction not be considered a predicate conviction as a
+
+misdemeanor crime of domestic violence under § 922(g)(9).       Because the First
+
+Circuit already rejected this argument in United States v. Armstrong, 706 F.3d 1
+
+(1st Cir. 2013), this Court applies existing First Circuit precedent and denies Mr.
+
+White’s motion.
+
+I.    STATEMENT OF FACTS
+
+      On June 13, 2013, a federal grand jury issued an indictment against Tobin
+
+White, charging him with possession of a firearm after having been convicted of a
+
+misdemeanor crime of domestic violence in violation of 18 U.S.C. § 922(g)(9).
+
+Indictment (ECF No. 1). Specifically, the indictment alleged that on February 12,
+
+2013, Mr. White possessed a firearm, after he had been convicted of assault in
+    Case 1:13-cr-00106-JAW Document 21 Filed 10/18/13 Page 2 of 5                    PageID #: 89
+
+
+
+violation of title 17-A, section 207 of the Maine Revised Statutes. Id. Under Maine
+
+law, a person is guilty of assault if he “intentionally, knowingly or recklessly causes
+
+bodily injury or offensive physical contact to another person.”                    17-A M.R.S. §
+
+207(1)(A).
+
+II.     THE PARTIES’ POSITIONS
+
+        On September 23, 2013, Mr. White moved to dismiss the indictment. Mr.
+
+White asserts that Johnson v. United States requires dismissal because—absent
+
+clarifying Shepard-permissible documents1—the state assault to which he pleaded
+
+guilty in 2003 may have involved only “offensive physical contact,” and this level of
+
+contact does not qualify as a crime of domestic violence in violation of 18 U.S.C. §
+
+922(g)(9) as interpreted in Johnson.2 Def.’s Mot. to Dismiss (ECF No. 18). Mr.
+
+White contends that the Johnson Court’s analysis of the definition of “physical
+
+force” for purposes of the Armed Career Criminal Act (ACCA) should “be
+
+extrapolated” to guide this Court as to whether non-violent offensive physical
+
+contact under the Maine domestic assault statute is a “misdemeanor crime of
+
+violence” under § 922(g)(9). Id. at 3. As such, Mr. White maintains that his Maine
+
+
+1       In Shepard v. United States, 544 U.S. 13 (2005), the United States Supreme Court allowed a
+sentencing court to take into consideration certain limited documents to determine the facts
+underlying a prior conviction under the Armed Career Criminal Act. Id. at 25. Here, there are no
+Shepard documents that permit this Court to clarify the facts underlying Mr. White’s assault
+conviction. See Def.’s Mot. to Dismiss at 5 (“the Shepard materials do not provide the Court any
+assistance in discerning whether the Defendant was convicted of an offense involving force with
+violence or not”).
+2       The Maine criminal complaint reads:
+
+        On or about February 14, 2003, in Bradford, Penobscot County, Maine, TOBIN
+        WHITE, did intentionally, knowingly, or recklessly cause bodily injury or offensive
+        physical contact to Brandy White.
+
+Gov’t’s Resp. to Def.’s Mot. to Dismiss Indictment, Attach. 1, Criminal Compl. (ECF No. 20-1).
+
+                                                  2
+ Case 1:13-cr-00106-JAW Document 21 Filed 10/18/13 Page 3 of 5          PageID #: 90
+
+
+
+assault conviction should not count as a predicate misdemeanor crime of domestic
+
+violence for purposes of his alleged firearm possession and that the indictment must
+
+be dismissed. Id. at 2-5. The Government objects, contending that Mr. White’s
+
+argument runs contrary to settled First Circuit law. Gov’t’s Resp. to Def.’s Mot. to
+
+Dismiss Indictment (ECF No. 20).
+
+III.   DISCUSSION
+
+       The First Circuit has considered and firmly rejected Mr. White’s argument.
+
+Before Johnson, the First Circuit decided United States v. Nason, 269 F.3d 10 (1st
+
+Cir. 2001), in which it reasoned that offensive physical contact in the Maine
+
+misdemeanor assault statute “by necessity, requires physical force to complete.” Id.
+
+at 21 (quoting United States v. Smith, 171 F.3d 617, 621 n.2 (8th Cir. 1999)). On
+
+this basis, the First Circuit concluded that convictions for offensive physical contact
+
+assaults “upon persons in the requisite relationship status qualify as misdemeanor
+
+crimes of domestic violence within the purview of 18 U.S.C. § 922(g)(9).” Id.
+
+       In United States v. Booker, 644 F.3d 12 (1st Cir. 2011), the First Circuit
+
+addressed whether Johnson’s holding on the ACCA required a reassessment of
+
+Nason. Noting that the “case for analogizing § 922(g)(9) to § 16 [of the ACCA] is
+
+particularly weak,” and that the Supreme Court itself had “rejected the notion that
+
+its case law interpreting the phrase ‘use . . . of physical force’ under the ACCA
+
+would control the interpretation of that phrase under § 922(g)(9),” the First Circuit
+
+declined to interpret “the statutory definition of ‘misdemeanor crime of domestic
+
+violence’” as prescribing “an intentional mens rea.” Id. at 19-21. The First Circuit
+
+
+
+                                          3
+ Case 1:13-cr-00106-JAW Document 21 Filed 10/18/13 Page 4 of 5           PageID #: 91
+
+
+
+in Booker thus held that “an offense with a mens rea of recklessness may qualify as
+
+a ‘misdemeanor crime of domestic violence’ under § 922(g)(9).” Id. at 21.
+
+      The First Circuit’s view as to whether a violation of the “offensive physical
+
+contact” portion of Maine’s assault statute after Johnson would satisfy the
+
+“misdemeanor crime of domestic violence” language in § 922(g)(9) might have been
+
+predicted from Nason and Booker.           However, this exact question remained
+
+unanswered until Armstrong, where the First Circuit addressed the precise issue
+
+Mr. White now raises in his motion to dismiss. See 706 F.3d at 2-6. Mr. Armstrong
+
+contended that “18 U.S.C. § 922(g)(9) should be construed to exclude a purportedly
+
+non-violent offensive physical contact misdemeanor conviction as a predicate
+
+offense.” Id. at 2. The Armstrong Court wrote that Mr. Armstrong’s “attempt to
+
+challenge this court’s precedent through the Supreme Court’s ruling in Johnson v.
+
+United States is unavailing.” Id. at 6. The First Circuit “fail[ed] to see how a
+
+conviction for an offensive touching such as the offensive physical contact for which
+
+Armstrong was convicted fails to constitute a predicate offense based on our prior
+
+interpretation of § 922(g)(9) predicate offense requirements of ‘physical force’.” Id.
+
+IV.   CONCLUSION
+
+      The First Circuit’s trilogy of Nason, Booker, and Armstrong dooms Mr.
+
+White’s motion to dismiss the indictment and the Court therefore DENIES Tobin
+
+White’s Motion to Dismiss (ECF No. 18).
+
+
+
+
+                                           4
+Case 1:13-cr-00106-JAW Document 21 Filed 10/18/13 Page 5 of 5   PageID #: 92
+
+
+
+      SO ORDERED.
+
+
+
+                                       /s/ John A. Woodcock, Jr.
+                                       JOHN A. WOODCOCK, JR.
+                                       UNITED STATES DISTRICT JUDGE
+
+Dated this 18th day of October, 2013
+
+
+
+
+                                         5
+

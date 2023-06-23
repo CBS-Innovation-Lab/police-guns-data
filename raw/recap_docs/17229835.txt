@@ -1,0 +1,1585 @@
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 1 of 31               PageID #: 1259
+
+
+
+                         UNITED STATES DISTRICT COURT
+
+                                 DISTRICT OF MAINE
+
+
+ UNITED STATES OF AMERICA                 )
+                                          )
+                                          )
+                                          )
+ v.                                       )             CRIMINAL NO. 05-69-P-H
+                                          )
+ JONATHAN POLAND,                         )
+                                          )
+                     DEFENDANT            )
+
+
+             AMENDED DECISION AND ORDER ON GOVERNMENT’S
+                  MOTION FOR SENTENCE REDUCTION1
+
+
+       Pre-Booker cases consistently held that in granting a prosecutor’s motion to
+
+ reduce a prison sentence on account of the offender’s substantial assistance to the
+
+ government after sentencing, the federal sentencing judge could not enlarge the
+
+ reduction for factors unrelated to the assistance.          All those cases, however,
+
+ applied a Federal Rule of Criminal Procedure—Rule 35(b)—that explicitly required
+
+ the reduction to “reflect” the substantial assistance or to be in “accord” with
+
+ Sentencing Commission Guidelines and policy statements. As of December 1,
+
+ 2007, all that language has disappeared from the Rule. Now it reads simply that a
+
+ “court may reduce a sentence if the defendant, after sentencing, provided
+
+ substantial assistance in investigating or prosecuting another person” (emphasis
+
+ added). The Advisory Committee Note says that the Rule was changed in an effort
+
+ to “conform[ ]” the Rule to the Supreme Court’s decision in Booker; it reports that
+
+
+ 1 The amendment is to correct the date of entry of this order.   The actual date of entry is
+ (continued on next page)
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 2 of 31                     PageID #: 1260
+
+
+
+ the drafters removed the previous language “because it treats the guidelines as
+
+ mandatory[;]” and it quotes a portion of Booker that said that other factors
+
+ contained in 18 U.S.C. § 3553(a) (factors that do not relate to substantial
+
+ assistance) could affect the sentence as well.                I am unaware of any cases
+
+ measuring the effect of the new language and Note. I write this opinion to explain
+
+ why I conclude that on a Rule 35(b) motion, a district judge still cannot enlarge
+
+ the sentence reduction for factors unrelated to substantial assistance. A different
+
+ conclusion would place the new Rule beyond the authority conferred upon the
+
+ rulemaking process under the Rules Enabling Act.2
+
+                            I. FACTS AND PROCEDURAL HISTORY3
+
+        Less than four months different in age, the teenaged defendant and his
+
+ cousin (their fathers are brothers) were good friends who spent time together. On
+
+ March 19, 2004, when the defendant was three months over age eighteen and his
+
+ cousin was twenty-two days under, they constructed two homemade pipe bombs.
+
+ Having together stolen pipe nipples with end caps from a Home Depot, having
+
+ together bought black powder from a gun shop, and the cousin having bought
+
+ timed hobby fuse over the internet, they built the bombs, exploded the first in an
+
+ open field, and then after 10 p.m., exploded the second in a soda machine outside
+
+ a truck stop after it closed. The cousin placed the second bomb and lit the fuse.
+
+
+ February 4, 2008, not February 5, 2008.
+ 2 I welcome an appeal for a more definitive ruling from the Circuit because, although I invited the
+ parties’ attention to the new Rule, the issue deserves more detailed briefing and argument. For
+ that reason, care should be exercised in assessing the impact of this decision on the impending
+ sentence reduction proceedings in crack cocaine cases when the new crack cocaine guideline
+ becomes retroactive March 3, 2008. (In addition, although both proceedings require interpretation
+ of 18 U.S.C. § 3582(c), they involve different subsections and text.)
+ 3 I take these facts from the trial transcript, the presentence report, and statements made by the
+
+ (continued on next page)
+
+                                                                                                  2
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 3 of 31                    PageID #: 1261
+
+
+
+ Fortunately, no one was injured, but the soda machine was destroyed. Suspicion
+
+ settled on the defendant because he had tried to buy a large quantity of
+
+ ammonium nitrate at a Farmers Union store. As a result of a consensual search
+
+ and a confession, authorities had enough evidence to prosecute him federally on
+
+ the charges of possession of an unregistered destructive device, 26 U.S.C.
+
+ §§ 5861(d), and malicious damage or destruction of property by means of an
+
+ explosive, 18 U.S.C. § 844(i). The defendant was arrested and bailed in April
+
+ 2004, but not indicted until August 2005. Then he refused to cooperate and lied
+
+ at a suppression hearing (as did his parents) to try to establish (unsuccessfully)
+
+ that he did not confess voluntarily.            A jury convicted him.         The mandatory
+
+ minimum sentence was five years. On December 15, 2006, I sentenced him at the
+
+ bottom of the Guidelines range, sixty-three months. In considering the § 3553(a)
+
+ factors, I concluded that the extra three months were necessary to reflect an
+
+ appropriate small additional penalty for obstructing justice by lying. I remanded
+
+ him immediately to custody.
+
+        Federal authorities did not have enough evidence to convict the cousin
+
+ without the defendant’s testimony. Once the defendant had been convicted, the
+
+ government filed a juvenile information against the cousin (although he was by
+
+ then just days shy of his twenty-first birthday, at which time he could have been
+
+ prosecuted as an adult4), and obtained a court order compelling the defendant to
+
+
+ government in its letter in support of the Rule 35(b) motion and at the motion hearing.
+ 4 The Juvenile Delinquency Act, 18 U.S.C. § 5031 et seq., does not apply to a defendant who is
+ alleged to have committed a crime before his eighteenth birthday but is not prosecuted until after
+ he turns twenty-one, unless the defendant can show that the government improperly delayed
+ prosecution in order to gain a tactical advantage. See United States v. Jimenez, 256 F.3d 330, 345
+ n.19 (5th Cir. 2001) (listing cases); United States v. Hoo, 825 F.2d 667, 669-70 (2d Cir. 1987).
+ (continued on next page)
+
+                                                                                                 3
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 4 of 31                     PageID #: 1262
+
+
+
+ testify against him. With a new lawyer, the defendant decided to cooperate. He
+
+ agreed to withdraw his appeal of his conviction, his sentence, and the denial of his
+
+ suppression motion; and he made a proffer. Because of the defendant’s proffer,
+
+ his cousin consented to disposition as a juvenile delinquent (the equivalent of a
+
+ guilty plea), resulting in a serious rift in the extended family of the two young men.
+
+ A different judge for a variety of reasons (including the limitations imposed by
+
+ juvenile proceedings) sentenced the cousin to a drastically shorter period of
+
+ confinement.
+
+        Now the government has moved under Rule 35(b) to reduce the defendant’s
+
+ sentence below both the statutory minimum and the Guidelines range. Initially,
+
+ the government said in a written submission that I should reduce his sentence to
+
+ forty-eight months considering his substantial assistance alone. The government
+
+ explained that even with the twenty-five percent reduction it recommended, the
+
+ defendant’s sentence of forty-eight months would still be sixteen times longer than
+
+ the sentence his cousin received. Then at the hearing, the prosecutor agreed that
+
+ under the new Rule language, it would be appropriate to consider other factors,
+
+ particularly sentencing disparity. The defendant requested that I consider all the
+
+ § 3553(a) factors and grant him a substantially lower (but unspecified) sentence.
+
+ In a written memorandum filed after the hearing, the government’s position has
+
+ become more opaque.5
+
+
+ Here, there is no indication that the government delayed improperly. When the government filed
+ the juvenile information, the defendant in this case had not yet agreed to cooperate against his
+ cousin, and the government had not yet obtained a compulsion order compelling the defendant to
+ testify against his cousin. In fact, the defendant did not proffer until several months after his
+ cousin turned twenty-one.
+ 5 It says: “Thus, while the Court may consider 3553(a) factors in reducing Defendant’s sentence, it
+
+ (continued on next page)
+
+                                                                                                  4
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 5 of 31                         PageID #: 1263
+
+
+
+                                            II. ANALYSIS
+
+        I start with some history.
+
+                                     A. Rule 35(b) Pre-Booker
+
+        Before the Sentencing Reform Act of 1984 created the Sentencing
+
+ Commission and directed the writing of the Guidelines, Rule 35 gave district
+
+ judges wide discretion to reduce a previously imposed sentence, provided that
+
+ they acted within certain time limits.6 According to the First Circuit, a Rule 35
+
+ motion was a “plea for leniency” and was “committed to the informed discretion of
+
+ the trial court.” United States v. Distasio, 820 F.2d 20, 24 (1st Cir. 1987).
+
+ (1) Rule 35 as Amended by the Sentencing Reform Act of 1984
+
+        But with the Sentencing Reform Act and its new and strict limitations on
+
+ federal judges’ discretion in imposing sentences, Congress also introduced new
+
+ limits on federal judges’ authority to reduce a sentence previously imposed. Under
+
+
+ is the government’s position that it may do so only in determining to what extent to reduce the
+ sentence based on Defendant’s cooperation.” Gov’t Mem. Regarding Mot. for Sentence Reduction
+ at 2 (Docket Item 154). On their face, the § 3553(a) factors do not seem to relate to cooperation.
+ But the language is similar to what § 3582(c)(2) contains for considering reduced sentences in the
+ case of a Guidelines amendment: “[T]he court may reduce the term of imprisonment, after
+ considering the factors set forth in section 3553(a) to the extent that they are applicable . . . .” The
+ same language appears in § 3582(c)(1)(A), authorizing reductions based upon Bureau of Prisons
+ motions. Perhaps the government means to say that I can use the § 3553(a) factors in deciding not
+ to reduce or to reduce by a smaller amount, but that I cannot use them to increase a reduction.
+ That would be similar to the earlier caselaw mentioned in note 10 infra (it is how I ultimately
+ interpret the Rule language).
+ 6 Before the Sentencing Reform Act amendments took effect, Rule 35(b) provided:
+
+                 A motion to reduce a sentence may be made, or the court may
+                 reduce a sentence without motion, within 120 days after the
+                 sentence is imposed or probation revoked, or within 120 days after
+                 receipt by the court of a mandate issued upon affirmance of the
+                 judgment or dismissal of the appeal, or within 120 days after entry
+                 of any order or judgment of the Supreme Court denying review of, or
+                 having the effect of upholding, a judgment of conviction or probation
+                 revocation.    The court shall determine the motion within a
+                 reasonable time. Changing a sentence from incarceration to a grant
+                 of probation shall constitute a permissible reduction of sentence
+                 under this subdivision.
+ (continued on next page)
+
+                                                                                                       5
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 6 of 31                     PageID #: 1264
+
+
+
+ subchapter D, captioned “Imprisonment”, Congress adopted what is now 18
+
+ U.S.C. § 3582, a section that distinguishes between imposing a term of
+
+ imprisonment (subsection (a)), and modifying a term of imprisonment previously
+
+ imposed (subsection (c)).
+
+        In subsection (c), Congress recognized three basic categories of modification
+
+ (reduction) for sentences previously imposed.7 One category is reduction on
+
+ motion by the Bureau of Prisons, seeking a prisoner’s early release, generally on
+
+ account of age and/or severe illness. 18 U.S.C. § 3582(c)(1)(A). Another category
+
+ is reduction because later Guidelines amendments have reduced the applicable
+
+ sentencing range for an already sentenced offender. 18 U.S.C. § 3582(c)(2). For
+
+ both these categories, Congress specified that the reductions must be “consistent
+
+ with applicable policy statements issued by the Sentencing Commission.”
+
+ § 3582(c)(1)(A), (c)(2). Third, as relevant to this case:
+
+                The court may not modify a term of imprisonment once it has
+                been imposed except that—
+
+                (1) in any case—
+                ...
+                       (B) the court may modify an imposed term of
+                imprisonment to the extent otherwise expressly permitted by
+                statute8 or by Rule 35 of the Federal Rules of Criminal
+                Procedure . . . .
+
+ Sentencing Reform Act of 1984, Pub. L. No. 98-473, Title II, § 212(a)(2), 98 Stat.
+
+ 1837 (1984), codified at 18 U.S.C. § 3582(c). When it enacted this provision,
+
+
+ Fed. R. Crim. P. 35(b) (1987) (repealed 1984 as to crimes committed after Nov. 1, 1987).
+ 7 The Senate Committee Report calls them three “safety valves.” S. Rep. No. 98-225, at 121 (1984),
+ as reprinted in 1984 U.S.C.C.A.N. 3182, 3304.
+ 8 An example of such a statute is 18 U.S.C. § 3559(c)(7), discussed in United States v. McClain, No.
+
+ 05-16015, 2006 WL 1785337 (11th Cir. June 29, 2006) (unpublished opinion). That statute
+ authorizes resentencing in certain situations where a prior conviction produced a heightened
+ sentence but that prior conviction later was overturned because it was unconstitutional or the
+ (continued on next page)
+
+                                                                                                   6
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 7 of 31                   PageID #: 1265
+
+
+
+ Congress simultaneously rewrote Rule 35 of the Federal Rules of Criminal
+
+ Procedure to contain an express provision concerning the extent of the permitted
+
+ modification and the Sentencing Commission’s role. Rule 35(b) as rewritten by
+
+ Congress took effect in 1987. It provided:
+
+               The court, on motion of the Government, may within one year
+               after the imposition of a sentence, lower a sentence to reflect a
+               defendant’s subsequent, substantial assistance in the
+               investigation or prosecution of another person who has
+               committed an offense, in accordance with the guidelines and
+               policy statements issued by the Sentencing Commission
+               pursuant to section 994 of title 28, United States Code. The
+               court’s authority to lower a sentence under this subdivision
+               includes the authority to lower such sentence to a level below
+               that established by statute as a minimum sentence.
+
+ Sentencing Reform Act of 1984, Title II, § 212(b), as amended by Anti-Drug Abuse
+
+ Act of 1986, Pub. L. No. 99-570, Title X, § 1009, 100 Stat. 3207 (1986).9
+
+        The language of § 3582(c), along with congressionally-written Rule 35(b),
+
+ shows that Congress expected the Commission to write a Guideline or policy
+
+ statement for all three post-sentence reduction categories. In fact, Congress
+
+
+ defendant was pardoned for innocence of that crime.
+ 9 The language Congress originally adopted for Rule 35(b) in 1984 was slightly different. It
+ provided:
+                The court, on motion of the Government, may within one year after
+                the imposition of a sentence, lower a sentence to reflect a
+                defendant’s subsequent, substantial assistance in the investigation
+                or prosecution of another person who has committed an offense, to
+                the extent that such assistance is a factor in applicable guidelines or
+                policy statements issued by the Sentencing Commission pursuant to
+                28 U.S.C. 994(a).
+ Sentencing Reform Act of 1984, Title II, § 212(b). But before the new Rule 35(b) took effect in
+ 1987, Congress changed the text by replacing the language after the final comma. At the same
+ time, Congress adopted 18 U.S.C. § 3553(e), the provision authorizing a court, upon government
+ motion, to reduce a sentence below a statutory minimum at the initial imposition of sentence. See
+ Anti-Drug Abuse Act of 1986, Title X, § 1007. The addition of the final sentence in Rule 35(b)
+ provides parallel authority after sentencing.
+        In the same legislation, Congress also directed the Commission to write a policy statement
+ for granting downward departures based upon substantial assistance at the time of sentence
+ imposition. See Anti-Drug Abuse Act of 1986, Title X, § 1008, codified at 28 U.S.C. § 994(n). The
+ Commission drafted § 5K1.1 as a result.
+
+
+                                                                                                7
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 8 of 31                        PageID #: 1266
+
+
+
+ specifically directed the Commission to promulgate general policy statements for
+
+ “the sentence modification provisions set forth in section[ ] . . . 3582(c) of title 18.”
+
+ 28 U.S.C. § 994(a)(2)(C). Nowhere is there a suggestion that these “sentence
+
+ modification provisions” are the same as initial sentence imposition and that
+
+ Congress contemplated an entirely new resentencing with full reconsideration of
+
+ everything involved.10
+
+ (2) Implementation of Rule 35(b) as amended by the Sentencing Reform Act
+
+        In response to the statute, the Commission has written a policy statement
+
+ for Bureau of Prisons motions, USSG § 1B1.13; it has written a policy statement
+
+ for Guidelines amendments that reduce the sentencing range, USSG § 1B1.10; it
+
+ has even written a policy statement that governs substantial assistance rendered
+
+ before the judge initially imposes a sentence, USSG § 5K1.1. But despite the
+
+ congressional directive, the Commission has never written a policy statement
+
+ specifically for Rule 35(b)/§ 3582(c)(1)(B) substantial assistance motions to reduce
+
+ a sentence previously imposed.
+
+        Nevertheless, courts confronted with Rule 35(b) motions under the
+
+ Guidelines sentencing regime soon decided that although judges could consider a
+
+ variety of factors in refusing to reduce a sentence or in refusing to reduce it as
+
+ much as the substantial assistance alone might have justified,11 they could
+
+
+ 10 Cf. United States v. McAndrews, 12 F.3d 273, 277 (1st Cir. 1993) (“By definition, a sentence
+ must already have been imposed before Rule 35(b) can be invoked and a sentence reduction
+ contemplated. It follows that the appealability of an order resolving a Rule 35(b) motion is not
+ controlled by 18 U.S.C. § 3742 because such an order is not, properly speaking, a sentence.”). See
+ also Fed. R. Crim. P. 43(a)(3), (a)(4) (the defendant’s presence is required at the original sentencing
+ but not at a Rule 35 proceeding); Advisory Committee’s Note, 1998 Amendments (distinguishing
+ between a resentencing on remand and a sentence reduction proceeding).
+ 11 See, e.g., United States v. Neary, 183 F.3d 1196, 197-98 (10th Cir. 1999); United States v.
+
+ (continued on next page)
+
+                                                                                                      8
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 9 of 31                     PageID #: 1267
+
+
+
+ consider only substantial assistance (and not other factors) in support of a
+
+ reduction. There were two reasons. First, the statute and the Rule said that the
+
+ reduction must “reflect” the “subsequent, substantial assistance,” United States v.
+
+ Chavarria-Herrara, 15 F.3d 1033, 1037 (11th Cir. 1994) (“The plain language of
+
+ Rule 35(b) indicates that the reduction shall reflect the assistance of the
+
+ defendant; it does not mention any other factor that may be considered.”); United
+
+ States v. Garcia, 215 Fed. App’x. 948 (11th Cir. 2007) (same); United States v.
+
+ Manella, 86 F.3d 201 (11th Cir. 1996) (same). Second, courts began to treat
+
+ § 5K1.1 (for reductions at the time of initial sentence imposition) as pertinent to
+
+ Rule 35(b) post-sentence reductions, and the § 5K1.1 decisions routinely held that
+
+ only factors related to substantial assistance could be considered in supporting a
+
+ downward reduction. See, e.g., United States v. Chestna, 962 F.2d 103, 106-07
+
+ (1st Cir. 1992).12 The courts therefore applied that same limitation to Rule 35(b)
+
+ reductions. See, e.g., United States v. Woodward, 245 Fed. App’x 320 (4th Cir.
+
+
+ Manella, 86 F.3d 201, 204-05 (11th Cir. 1996). This asymmetry results from the fact that the Rule
+ says the court “may” (not must) reduce the sentence for substantial assistance, combined with the
+ absence of any language “in the text of the rule [that] purports to limit what factors may militate
+ against granting a Rule 35(b) reduction.” Manella, 86 F.3d at 204-05. See also United States v.
+ Woodward, No. 07-4125, 2007 WL 2404444 (4th Cir. Aug. 23, 2007); United States v. Doe, 351
+ F.3d 929 (9th Cir. 2003).
+ 12 The courts have applied the same reasoning to government motions to go below a statutory
+
+ minimum sentence at the time of imposing sentence under the authority of § 3553(e). Subsection
+ (e) states:
+                Upon motion of the Government, the court shall have the authority
+                to impose a sentence below a level established by statute as a
+                minimum sentence so as to reflect a defendant’s substantial
+                assistance in the investigation or prosecution of another person who
+                has committed an offense. Such sentence shall be imposed in
+                accordance with the guidelines and policy statements issued by the
+                Sentencing Commission pursuant to section 994 of title 28, United
+                States Code.
+ 18 U.S.C. § 3553(e). Once again, the statutory command that the reduction below the statutory
+ minimum must “reflect” the substantial assistance has driven the interpretation. See United
+ States v. Ahlers, 305 F.3d 54, 60 (1st Cir. 2002). In addition, for § 3553(e) motions, § 5K1.1
+ (continued on next page)
+
+                                                                                                  9
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 10 of 31                        PageID #: 1268
+
+
+
+ 2007) (citing a § 5K1.1 decision); Garcia, 215 Fed. App’x. at 950 (same); United
+
+ States v. Momoh, No. 95-1674, 1996 WL 289988, *2 (2d Cir. May 31, 1996)
+
+ (unpublished opinion) (citing § 5K1.1 directly); United States v. Doe, 940 F.2d 199,
+
+ 203 n.7 (7th Cir. 1991) (same).13 Indeed, the First Circuit has called the two
+
+ provisions “birds of a feather.” United States v. Alegria, 192 F.3d 179, 184 (1st
+
+ Cir. 1999). Practically speaking, then, § 5K1.1 and its listing of factors became
+
+ the de facto policy statement for Rule 35(b).14 See United States v. Marks, 244
+
+ F.3d 971, 973 n.1 (8th Cir. 2001) (listing cases).
+
+        In 2002, the Rules drafters amended Rule 35(b) “as part of the general
+
+ restyling of the Criminal Rules . . . . These changes [were] intended to be stylistic
+
+ only[.]” Fed. R. Crim. P. 35 Advisory Committee’s Note, 2002 Amendments. They
+
+ removed the “reflect” language and modified slightly the reference to the
+
+
+ explicitly applies. See USSG § 5K1.1, comment. (n.1).
+ 13 There was some early, more careful language. See, e.g., United States v. Gangi, 45 F.3d 28, 31
+ (2d Cir. 1995) (“We are persuaded that, due to similarity of language and function, § 5K1.1 should
+ inform our construction of Rule 35(b).”); United States v. Perez, 955 F.2d 34, 35 (10th Cir. 1992)
+ (“Because of their overlapping subject matter and similarities in language, it is instructive to
+ examine and compare U.S.S.G. § 5K1.1 (policy statement) and 18 U.S.C. § 3553(e) (1988) when
+ interpreting Rule 35(b).”).
+ 14 Textually, it is apparent that § 5K1.1 is not a policy statement for Rule 35(b) motions. The
+
+ Commission has been explicit when it issues policy statements that apply to post-sentence
+ reductions. See, e.g., USSG § 1B1.10 (reducing previously imposed sentences because of a
+ retroactive Guideline change), USSG § 1B1.13 (reducing a previously imposed sentence because of
+ a Bureau of Prisons motion). Section 5K1.1, on the other hand, contains no reference to post-
+ sentence reductions and appears in a section of the Guidelines—Chapter 5, Part K—that otherwise
+ contains provisions that can apply only at the time of initial sentence imposition. The Commentary
+ to § 5K1.1 refers to 18 U.S.C. § 3553(e) and 28 U.S.C. § 994(n), both of which are concerned with
+ sentence imposition. It makes no reference to § 3582(c) or Rule 35(b). And there is, of course, at
+ least one significant difference between the two: § 5K1.1 is concerned with the timeliness of a
+ decision to assist. By definition, Rule 35(b) can apply only when substantial assistance is late—
+ i.e., after sentencing, and then generally only within the first year. The timeliness factor of § 5K1.1
+ thus is a poor fit for the one-year window of Rule 35(b). It is perhaps not surprising that
+ generating a policy statement for Rule 35(b) has not been a high priority. Rule 35(b) motions
+ represent a very small proportion of sentencing events. See Linda Drazga Maxfield & John H.
+ Kramer, Substantial Assistance: An Empirical Yardstick Gauging Equity in Current Federal Policy
+ and Practice, 5 n.11 (January 1998) available at http://www.ussc.gov/ (as of 10 years ago, about
+ 500 Rule 35(b) reductions occurred per year compared with about 7,500 § 5K1.1 departures). And
+ (continued on next page)
+
+                                                                                                     10
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 11 of 31       PageID #: 1269
+
+
+
+ Sentencing Commission. The Rule, as amended, required that “reducing the
+
+ sentence accord[ ] with the Sentencing Commission’s Guidelines and policy
+
+ statements.” Fed. R. Crim. P. 35(b)(1)(B) (effective Dec. 1, 2002). But the cases
+
+ interpreting the Rule did not change; they continued to refer to the Commission’s
+
+ § 5K1.1 factors and to limit district judges to considering only those assistance-
+
+ related factors. See, e.g., Woodward, 245 Fed App’x at 323; Garcia, 215 Fed.
+
+ Appx. at 950-51.
+
+                                 B. Rule 35(b) Post-Booker
+
+        The January 2005 Supreme Court decision in Booker was a watershed for
+
+ Federal Guidelines sentencing. Booker ruled that the Sixth Amendment right to
+
+ jury trial prevents judicially-found facts (except the existence of previous
+
+ convictions) from mandating a higher sentence. United States v. Booker, 543 U.S.
+
+ 220, 226-27, 245 (2005). As a result of Booker, Federal Sentencing Guidelines
+
+ that had been mandatory became advisory. Id. at 245. Rule 35(b)(1) proceedings,
+
+ however, did not change.          Courts continued to insist that only substantial
+
+ assistance factors could support a post-sentence reduction on a Rule 35(b)
+
+ motion, and that § 3553(a) factors could not enhance the reduction. United States
+
+ v. White No. 06-15155, 2007 WL 3047253 (11th Cir. Oct. 19, 2007); United States
+
+ v. Budd, 208 Fed. App’x. 271, 272 (4th Cir. 2006).
+
+
+
+
+ the § 5K1.1 factors do give general guidance.
+
+
+                                                                                 11
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 12 of 31         PageID #: 1270
+
+
+
+ (1) The Rules Committee’s Response to Booker
+
+       Nevertheless, after Booker, the Advisory Committee on Criminal Rules began
+
+ to debate the decision’s effect on Rule 35(b).15 I have already described the Rules
+
+ drafters’ previous elimination of the “reflect” requirement that they described as a
+
+ purely stylistic change. Effective December 1, 2007, they also deleted entirely the
+
+ language in Rule 35(b) that referred to the Sentencing Commission, its Guidelines
+
+ or policy statements. Now, that portion of Rule 35(b) says only:
+
+             Upon the government’s motion made within one year of
+             sentencing, the court may reduce a sentence if the defendant,
+             after sentencing, provided substantial assistance in
+             investigating or prosecuting another person.
+
+ Fed. R. Crim. P. 35(b)(1) (effective Dec. 1, 2007) (emphasis added).
+
+       To recapitulate, in § 3582(c) Congress authorized very limited circumstances
+
+ in which a court could modify a term of imprisonment, including “to the extent
+
+ otherwise expressly permitted by . . . Rule 35(b).” But the criteria that Congress
+
+ originally wrote into Rule 35(b) to guide the authorized § 3582(c) modification have
+
+ disappeared as a result of successive Rules amendments: first, deletion of the
+
+ “reflect” language in a stylistic change; then, deletion of all reference to the
+
+ Sentencing Commission’s role.
+
+       According to the Advisory Committee Note accompanying the 2007
+
+ Amendment, the Advisory Committee believed that the Supreme Court’s decision
+
+ in Booker required the most recent change: “The amendment conforms Rule
+
+ 35(b)(1) to the Supreme Court’s decision in United States v. Booker . . . .
+
+ Subdivision (b)(1)(B) has been deleted because it treats the guidelines as
+
+
+
+
+                                                                                   12
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 13 of 31                   PageID #: 1271
+
+
+
+ mandatory.”        Fed. R. Crim. P. 35(b) Advisory Committee’s Note, 2007
+
+ Amendments. And the Advisory Committee apparently believed that a judge
+
+ confronted with a Rule 35(b) motion to reduce a sentence may now consider the
+
+ entire range of original sentencing factors under Booker: it explains, with a
+
+ quotation from Booker, that with § 3553(b)(1) “severed and excised,” the
+
+ Sentencing Reform Act “permits the court to tailor the sentence in light of other
+
+ statutory concerns as well [as the Guidelines], see § 3553(a).”16 Because the
+
+ Judicial Conference and the Supreme Court both approved the amendment and
+
+ Congress did not intervene, the new version of Rule 35(b) is now effective.
+
+        What then is the effect of the new language? As amended, Rule 35(b)(1)
+
+ permits a post-sentence reduction if the government so moves and if there is
+
+ substantial assistance.17 But the Rule no longer requires that any reduction
+
+ “reflect” the substantial assistance or “accord” with Sentencing Commission
+
+ policies or Guidelines. In other words, once the two conditions are satisfied (a
+
+ government motion; and substantial assistance in investigating and prosecuting
+
+
+
+ 15 In an Appendix, I summarize the rulemaking process that ensued.
+ 16 The Note states in full:
+                 The amendment conforms Rule 35(b)(1) to the Supreme Court’s
+                 decision in United States v. Booker, 543 U.S. 220 (2005). In Booker
+                 the Court held that the provision of the federal sentencing statute
+                 that makes the Guidelines mandatory, 18 U.S.C. § 3553(b)(1),
+                 violates the Sixth Amendment right to jury trial. With this provision
+                 severed and excised, the Court held, the Sentencing Reform Act
+                 “makes the Guidelines effectively advisory,” and “requires a
+                 sentencing court to consider Guidelines ranges, see 18 U.S.C.A.
+                 § 3553(a)(4) (Supp. 2004), but it permits the court to tailor the
+                 sentence in light of other statutory concerns as well, see § 3553(a)
+                 (Supp. 2004).” Id. at 245-46. Subdivision (b)(1)(B) has been deleted
+                 because it treats the guidelines as mandatory.
+ Fed. R. Crim. P. 35(b) Advisory Committee’s Note, 2007 amendment.
+ 17 Rule 35(b)(4) still permits a court to go below a statutory minimum sentence on such a motion.
+
+
+
+
+                                                                                               13
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 14 of 31                     PageID #: 1272
+
+
+
+ another person), the Rule has no express criteria either in its text, or through
+
+ delegation to the Commission, for assessing the extent of any sentence reduction.
+
+ The question is whether the rulemaking process could rewrite the Rule in this
+
+ fashion.
+
+ (2) Booker’s Applicability to Rule 35(b) Proceedings
+
+        Obviously, the Advisory Committee could rewrite the Rule if the
+
+ Constitution, as interpreted by the Supreme Court in Booker, made the previous
+
+ Rule language unconstitutional. In that event, the rulemaking process simply
+
+ excised the unconstitutional part of the previous Rule.
+
+        Certainly there are statements in Booker that could lead a reader to
+
+ conclude that every mandatory feature of the Guidelines has been thrown out.18
+
+ But it is important to read Booker’s statements carefully, in light of the issue the
+
+ Supreme Court was deciding there. The Court was deciding whether a federal
+
+ judge must increase the sentence to be imposed after a trial or a guilty plea, by
+
+ taking into account facts that the jury had not found and that the defendant had
+
+ not conceded. The Court was not dealing with (Booker does not even discuss)
+
+
+ 18 In the Booker remedial opinion, the Court stated that given the Court’s constitutional holding, a
+ mandatory Guidelines system “is not a choice that remains open.” Booker, 543 U.S. at 265. It also
+ rejected the government’s suggestion that the Guidelines system could be advisory when “the
+ Guidelines would require the sentencing court to find a sentence-enhancing fact” but mandatory in
+ all other cases―those in which the Constitution did not prohibit judicial factfinding. Booker, 543
+ U.S. at 265-66. The Court explained that it did
+                not see how it is possible to leave the Guidelines as binding in
+                [these] other cases. For one thing, the Government’s proposal would
+                impose mandatory Guidelines-type limits upon a judge’s ability to
+                reduce sentences, but it would not impose those limits upon a
+                judge’s ability to increase sentences. We do not believe that such
+                ‘one-way lever[s]’ are compatible with Congress’ intent. For another,
+                we believe that Congress would not have authorized a mandatory
+                system in some cases and a non-mandatory system in others, given
+                the administrative complexities that such a system would create.
+ (continued on next page)
+
+                                                                                                  14
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 15 of 31                       PageID #: 1273
+
+
+
+ what the Sixth Amendment requires when the prosecutor asks a court to reduce
+
+ an unchallenged sentence that was previously imposed on a convicted offender. It
+
+ is hard to see what relevance the Sixth Amendment has in that context. Such
+
+ sentence reductions after sentencing have never been the stuff of jury trials.19
+
+        What Booker did was to excise as unconstitutional two very specific
+
+ provisions of the statute:20 one dealing with appellate review (I will not discuss it,
+
+ as it is not pertinent to this case) and § 3553(b)(1), a provision that made the
+
+ Guidelines mandatory when imposing a sentence.                         Section 3553(b)(1) (the
+
+ provision the Advisory Committee cited in the Note accompanying the recent
+
+ amendment to Rule 35(b)), however, deals only with initial imposition of sentence,
+
+ not with reduction of a previously imposed sentence.21 The separate topic of later
+
+
+ Id. at 266 (internal citations omitted).
+ 19 The Ninth Circuit, in United States v. Hicks, held that Booker applies when a district court
+ resentences a defendant pursuant to § 3582(c)(2), which authorizes a sentence reduction for a
+ defendant who was sentenced to a term of imprisonment based on a sentencing range that was
+ subsequently lowered retroactively by the Sentencing Commission. 472 F.3d 1167 (9th Cir. 2007).
+ Under the Ninth Circuit’s reasoning, the judge lowering the initial sentence on account of the
+ Guidelines amendment may reduce the sentence even farther by considering the § 3553(a) factors.
+ Id. at 1170. The Fourth Circuit disagrees. See United States v. Hudson, 242 Fed. App’x. 16 (4th
+ Cir. 2007). (In a different context, the Eleventh Circuit has said that “Booker is inapplicable to
+ § 3582(c)(2) motions.” United States v. Moreno, 421 F.3d 1217, 1220 (11th Cir. 2005). The Third
+ Circuit has said that “section 3582(c)(2) does not entitle a defendant to a full de novo
+ resentencing.” United States v. Swint, No. 07-1719, 2007 WL 2745767, at *2 n.1 (3d Cir. Sept. 21,
+ 2007).) It will be time enough to decide that issue in this District when the crack cocaine
+ Guidelines reduction becomes effective March 3, 2008. I am satisfied that the Hicks argument,
+ whatever its validity, does not include Rule 35(b) motions, see White, 2007 WL 3047253, at *1.
+ 20 “We answer the question of remedy by finding the provision of the federal sentencing statute that
+
+ makes the Guidelines mandatory, 18 U.S.C.A. § 3553(b)(1) (Supp. IV), incompatible with today's
+ constitutional holding. We conclude that this provision must be severed and excised, as must one
+ other statutory section, § 3742(e) (2000 ed. and Supp. IV), which depends upon the Guidelines'
+ mandatory nature.” Booker, 543 U.S. at 245; id. at 246 (“severance and excision of two
+ provisions”); id. at 259 (“[W]e must sever and excise two specific statutory provisions.”).
+ 21 Section 3553(b)(1) provides:
+
+         Except as provided in paragraph (2), the court shall impose a sentence of the kind, and
+         within the range, referred to in subsection (a)(4) unless the court finds that there exists an
+         aggravating or mitigating circumstance of a kind, or to a degree, not adequately taken into
+         consideration by the Sentencing Commission in formulating the guidelines that should
+         result in a sentence different from that described.
+ (continued on next page)
+
+                                                                                                    15
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 16 of 31        PageID #: 1274
+
+
+
+ sentence reduction is treated in § 3582(c), dealing with post-sentence motions from
+
+ the Bureau of Prisons, substantial cooperation motions under Rule 35(b), and
+
+ post-sentence reductions when the Commission lowers a Guidelines range (as it
+
+ did with the recent crack cocaine amendment). In Booker, the Supreme Court
+
+ said nothing about § 3582(c) or Rule 35. Moreover, the Court was careful to note
+
+ that it “must ‘refrain from invalidating more of the statute than is necessary,’” and
+
+ “must retain those portions of the Act that are (1) constitutionally valid,
+
+ (2) capable of ‘functioning independently,’ and (3) consistent with Congress’ basic
+
+ objectives in enacting the statute.” Booker, 543 U.S. at 258-59 (internal citations
+
+ omitted).
+
+        I conclude that the post-sentence structure created by § 3582(c)(1)(B)
+
+ together with the previous language of Rule 35(b) meets those three criteria. It is
+
+ constitutionally valid (it offends nothing in the Sixth Amendment or Booker); it is
+
+ capable of functioning independently of the (previously mandatory) Guidelines
+
+ governing sentence imposition; and it is consistent with Congress’ basic objectives
+
+ in enacting the Sentencing Reform Act. In 1984 Congress severely limited judges’
+
+ previous Rule 35 discretion to reduce an already imposed sentence, and certainly
+
+ did so in part because it did not want general sentencing discretion to creep back
+
+ in through the back door post-sentence. At the same time, Congress articulated a
+
+ clear standard for post-sentence reductions, a standard that can function
+
+ independently of the rest of the Guidelines structure and that is consistent with
+
+ Congress’ basic objective. The standard was that a post-sentence reduction must
+
+
+ 18 U.S.C. § 3553(b)(1).
+
+
+                                                                                   16
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 17 of 31                     PageID #: 1275
+
+
+
+ “reflect” the “subsequent, substantial assistance” that the offender provided. That
+
+ standard serves the legitimate purposes of encouraging later substantial
+
+ assistance from an offender without intruding unduly on sentencing finality22 and
+
+ of avoiding additional complexity by foreclosing a re-evaluation of all sentencing
+
+ issues under § 3553(a) whenever a Rule 35(b) motion is filed.23 Through the Rule
+
+ language and through 28 U.S.C. § 994(a)(2)(C), Congress asked the Commission to
+
+ elaborate on the “reflect” standard through Guidelines and policy statements.24 I
+
+ see nothing in Booker to invalidate such a role for the Commission; instead, such
+
+ a delegation was upheld in the Supreme Court’s earlier Mistretta decision. See
+
+ Mistretta v. United States, 488 U.S. 361, 412 (1989). Thus, even though Booker
+
+ has restored some discretion to the judge initially imposing the sentence, this
+
+ post-sentence part of the statute, which limits a reduction so as to reflect the
+
+ defendant’s substantial assistance, has no Sixth Amendment ramification, and
+
+ can function independently of those statutory provisions that do implicate the
+
+ Sixth Amendment.25
+
+
+ 22 The First Circuit has reflected on the importance of finality in the context of a retroactive
+ Guidelines amendment. In United States v. Jordan, refusing to countenance reopening sentencing
+ issues beyond the effect of the Guidelines amendment, it referred to “the strong interest in the
+ finality of criminal judgments, a powerful policy interest expressed in many forms in the criminal
+ law” and referred to 28 U.S.C. § 991(b)(1)(B)’s reference to “certainty” as well as “fairness” in
+ sentencing. 162 F.3d 1, 5 (1st Cir. 1998). Uncertainty about a sentence was one of the factors that
+ motivated the Sentencing Reform Act of 1984. Booker, 543 U.S. at 264; Mistretta v. United States,
+ 488 U.S. 361, 366, 374 (1989).
+ 23 At least two decisions post-Booker, but before the December 2007 amendment to Rule 35, ruled
+
+ that a Rule 35(b) motion is narrow: it does not challenge the finality of the original sentence such
+ that the defendant might invoke Booker, Budd, 208 Fed. App’x. at 272; and it is not a resentencing
+ that permits correction of earlier errors. White, 2007 WL 3047253, at *1.
+ 24 One member of the Advisory Committee on Criminal Rules resisted the necessity for any Rule
+
+ 35(b) change on the basis that there is no Commission Guideline or policy statement for Rule
+ 35(b). The Rule change went forward nevertheless, apparently on the fear that the Commission
+ might create a binding standard in the future, and that the Rule would then run afoul of Booker.
+ See Appendix.
+ 25 It is not like the “one-way lever[s]” at initial sentence imposition that concerned the Court in
+
+ (continued on next page)
+
+                                                                                                  17
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 18 of 31                      PageID #: 1276
+
+
+
+        Finally, even if Booker did destroy all mandatory features of the Guidelines,
+
+ even for this post-sentence relief, then the Committee’s 2007 amendment, perhaps
+
+ unintentionally, has turned the earlier 2002 “stylistic” amendment (removing
+
+ “reflect”) into a substantive change, a change that I will discuss below under the
+
+ Rules Enabling Act. With removal of even Commission standards from the Rule
+
+ (operating now by analogy under § 5K1.1), “reflect” has become only “if.”
+
+ Reading the amendment in light of the Rules Enabling Act
+
+        If I am correct that Booker does not support the December 2007 change in
+
+ Rule 35(b), and if the new Advisory Committee Note, taken at face value, means
+
+ that a judge can now consider all the § 3553(a) factors in deciding how far to
+
+ reduce a sentence on a Rule 35(b) motion, can the new Rule nevertheless be
+
+ effective because of the independent authority of the rulemaking process? The
+
+ answer to that question depends upon the scope of rulemaking authority under
+
+ the Rules Enabling Act, 28 U.S.C. § 2072.
+
+        The Rules Enabling Act allows the Supreme Court, following certain
+
+ prescribed steps, “to prescribe general rules of practice and procedure . . . for
+
+ cases in the United States district courts.” 28 US.C. § 2072(a). A duly adopted
+
+ rule that satisfies the Rules Enabling Act supplants a pre-existing statute, and
+
+ thus would supplant the congressionally-adopted Rule 35(b).26 But the statute
+
+ also provides that “[s]uch rules shall not abridge, enlarge or modify any
+
+
+ Booker, 543 U.S. at 266, by which the Guidelines would control reductions but not increases in
+ calculating the original sentence. A Rule 35(b) proceeding has always dealt solely with reductions.
+ Applying Booker’s standard for the remedial question (What result adheres most closely to
+ Congress’ original objective? Id. at 263), I conclude that the statutorily-assigned role for the
+ Commission remains.
+ 26 “All laws in conflict with such rules shall be of no further force or effect after such rules have
+
+ (continued on next page)
+
+                                                                                                   18
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 19 of 31                     PageID #: 1277
+
+
+
+ substantive right.” 28 U.S.C. § 2072(b). According to Supreme Court cases that
+
+ every law student reads in first year Civil Procedure,27 “[t]he test must be whether
+
+ a rule really regulates procedure,―the judicial process for enforcing rights and
+
+ duties recognized by substantive law and for justly administering remedy and
+
+ redress for disregard or infraction of them.” Sibbach v. Wilson & Co., 312 U.S. 1,
+
+ 14 (1941), discussed in Mistretta, 488 U.S. at 386-88; Hanna v. Plumer, 380 U.S.
+
+ 460 (1965).28 Is removing the Sentencing Commission’s role altogether in Rule
+
+ 35(b) motions a matter of procedure? Hardly. Instead, it moves control of the
+
+ factors to be considered from the Commission to the courts. According to Booker,
+
+ Mistretta “was premised on the understanding that the Commission . . . makes
+
+ political and substantive decisions.” 543 U.S. at 242.29 And the combined effect
+
+ of replacing “reflect” with “if,” along with eliminating the Commission’s role,
+
+ amounts to changing—indeed removing—the standard for the amount or degree of
+
+ post-sentence reduction.           That is substantive, not procedural, under any
+
+ definition of those terms.
+
+
+ taken effect.” 28 U.S.C. § 2072(b); see Davis v. United States, 411 U.S. 233, 241-42 (1973).
+ 27 In 1988, Congress unified the criminal and civil rule-making authority under 28 U.S.C. §§ 2071-
+ 2077. Before this consolidation, the Supreme Court’s authority to prescribe rules of criminal
+ practice and procedure was governed by 18 U.S.C. §§ 3771 (process prior to a verdict or guilty plea)
+ and 3772 (post verdict process) (repealed Pub. L. No. 100-702, Title IV, § 404(a)(1), Nov. 19, 1988,
+ 102 Stat. 4642, 4651).
+ 28 The same analysis applies to Rules of Criminal Procedure. See United States v. Walsh, 75 F.3d
+
+ 1, 6 (1st Cir. 1996).
+ 29 In upholding the delegation of authority to the Sentencing Commission in Mistretta, the
+
+ Supreme Court was “loath to enter the logical morass of distinguishing between substantive and
+ procedural rules,” but “recognize[d] that the task of promulgating rules regulating practice and
+ pleading before federal courts does not involve the degree of political judgment integral to the
+ Commission’s formulation of sentencing guidelines.” Mistretta, 488 U.S. at 392. The Court
+ pointed out that the Commission must make judgments about things like the circumstances of the
+ offense, community views of its gravity, and deterrence. Id. at n.18. “[T]he degree of political
+ judgment about crime and criminality exercised by the Commission and the scope of the
+ substantive effects of its work does to some extent set its rulemaking powers apart from prior
+ judicial rulemaking.” Id. at 392-93.
+
+
+                                                                                                  19
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 20 of 31         PageID #: 1278
+
+
+
+       I hesitate to reach a conclusion that the Rules drafters exceeded their
+
+ authority. After all, the treatise writers tell us that the Supreme Court has never
+
+ invalidated a rule as contrary to the Rules Enabling Act, and that when the
+
+ question is close, courts typically interpret a rule so as to avoid the issue. 1 James
+
+ Wm. Moore et al., Moore’s Federal Practice § 1.05[2][a] (3d ed. 2006); see also Sara
+
+ Sun Beale, Reconsidering Supervisory Power in Criminal Cases: Constitutional
+
+ and Statutory Limits on the Authority of the Federal Courts, 84 Colum. L. Rev.
+
+ 1433, 1477 (1984). So first I determine whether I can reasonably interpret the
+
+ new Rule language to avoid the problem.
+
+       The new text of the Rule itself provides no express standard for granting a
+
+ reduction once the court concludes that a sentenced offender has given
+
+ substantial assistance. The text now tells the judge only if the reduction can take
+
+ place. As the Appendix shows, the Reporter to the Advisory Committee suggested
+
+ including a statement in the Note that the Committee intended no change in the
+
+ standard. Unfortunately, her suggestion was not adopted. Nevertheless, it is only
+
+ the Advisory Committee Note that suggests that the drafters expected judges to
+
+ consider the § 3553(a) factors on such a motion, factors that include sentencing
+
+ disparity, the need to provide restitution, etc.
+
+       “But the Advisory Committee Note is not the law; the rule is.” United States
+
+ v. Carey, 120 F.3d 509, 512 (4th Cir. 1997). Appellate caselaw interpreted the
+
+ previous text to allow only assistance-related factors to support the extent of a
+
+ reduction even in the absence of binding Commission Guidelines or policy
+
+ statements. The new text does not require me to ignore that caselaw. Indeed, it
+
+
+                                                                                    20
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 21 of 31                     PageID #: 1279
+
+
+
+ appears likely that, in its haste to remove binding Sentencing Commission
+
+ authority, the Committee did not consider the effect of its previous “stylistic”
+
+ amendment that removed the word “reflect.”
+
+        I interpret the new Rule 35(b), therefore, to limit the judge, as before the
+
+ amendment, to consider only substantial assistance factors in support of the
+
+ amount of a reduction, notwithstanding the amendment and the Advisory
+
+ Committee Note. I read the Rule as if the Advisory Committee, in excising all
+
+ reference to the Commission, had reinserted Congress’ original requirement that
+
+ the reduction “reflect” the “subsequent, substantial assistance.”30 Because the
+
+ Commission has never written a policy statement for Rule 35(b) motions, it is
+
+ premature to resolve finally the authority of the rulemaking process to eliminate
+
+ the role that Congress assigned the Commission. It will be time enough to decide
+
+ that issue when the Commission explicitly promulgates a Rule 35(b) policy
+
+ statement. In the meantime, interpreting the text to limit reductions to factors
+
+ that “reflect” substantial assistance maintains the substantive standard chosen by
+
+ Congress and thus does not run afoul of the Rules Enabling Act.
+
+                                         C. In Summary
+
+        In § 3582, Congress distinguished imposition of a sentence from
+
+ modification of a previously imposed sentence. Compare 18 U.S.C. § 3582(a) with
+
+
+ 30 As before, the § 3553(a) factors can be used in declining to reduce or in lessening the reduction
+ that assistance would otherwise support. Garcia, 215 Fed. App’x. at 950-51 (citing Manella, 86
+ F.3d at 204-05); Doe, 351 F.3d 929; United States v. Neary, 183 F.3d 1196 (10th Cir. 1999). I
+ suppose this limitation on the use of § 3553(a) is also a possible (but unlikely) reading of the new
+ Advisory Committee Note. (Interestingly, Congress explicitly directed consideration of the § 3553(a)
+ sentencing factors in § 3582(a) dealing with imposition of sentence and in § 3582(c) for the other
+ two reduction categories. But nowhere did Congress require consideration of the § 3553(a) factors
+ for a Rule 35(b) motion. Nevertheless, the caselaw has permitted it.)
+
+
+                                                                                                  21
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 22 of 31                   PageID #: 1280
+
+
+
+ 18 U.S.C. § 3582(c). For modification of a previously imposed sentence under
+
+ subsection (c), the legality of the original sentence is assumed and is not under
+
+ attack. All modifications under subsection (c) come as the result of a dispensation
+
+ by other authorities:
+
+        under subsection (1)(A), Bureau of Prisons motions to reduce sentences,
+        usually involving prisoner age and/or illness, 18 U.S.C. § 3582(c)(1)(A);
+
+        under subsection (1)(B), prosecutor motions to reduce sentences under Rule
+        35(b)31 for substantial assistance, 18 U.S.C. § 3582(c)(1)(B); and
+
+        under subsection (2), as a result of post-sentencing Guidelines amendments
+        by the Commission, 18 U.S.C. § 3582(c)(2).32
+
+ In each instance, Congress assigned the Commission the task of guiding the
+
+ reduction.33 The Commission never promulgated a policy statement for Rule
+
+ 35(b). But the § 5K1.1 policy statement guides by analogy, and some of the early
+
+ caselaw drew equivalent guidance from the congressional requirement that the
+
+ reduction “reflect” the substantial assistance. Therefore, notwithstanding the
+
+ deletion of all reference to the Commission and to the “reflect” requirement, I
+
+ follow the earlier caselaw and limit any reduction to that justified only by
+
+ substantial assistance. The Sixth Amendment right to jury trial is not implicated
+
+ in such a reduction.
+
+
+
+
+ 31 Or express statutory provisions, see supra n.7.
+ 32 Under this provision, a defendant may move for the reduction―as may the Director of the Bureau
+ of Prisons or the court itself―but only after the Sentencing Commission has amended the
+ Guidelines.
+ 33 Section 3582(c) requires that the Bureau of Prisons and post-sentence Guidelines amendment
+
+ reductions be “consistent with applicable policy statements issued by the Sentencing Commission.”
+ 18 U.S.C. §§ 3582(c)(1)(A), (c)(2). Congress wrote the equivalent language into Rule 35(b).
+
+
+                                                                                               22
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 23 of 31            PageID #: 1281
+
+
+
+                              D. Application to this Defendant
+
+       Operating under the restrictions of the caselaw interpreting old Rule 35(b)
+
+ and, by analogy, the factors listed in § 5K1.1, I consider the following in
+
+ determining how far to reduce this defendant’s sentence:
+
+       1.      His assistance was significant and useful. The government could not
+            successfully prosecute the other responsible person, his cousin, without
+            this defendant’s assistance; his proffer was not merely helpful, it was
+            essential; only this defendant’s assistance could generate a conviction.
+       2.      The defendant’s information was entirely truthful, complete and
+            reliable once he decided to provide assistance under Rule 35(b).
+       3.      The nature and extent of the assistance was unusual:
+               a.      This twenty-one-year-old had to turn in his father’s brother’s
+                    son, a very difficult decision because of the strong family
+                    relationships.   He could not bring himself to do so initially
+                    because of family pressure. Only increasing age and maturity led
+                    him to the decision. It has, in fact, created a severe family rift. He
+                    had to shoulder responsibility for the relations of an older
+                    generation and an entire family.
+               b.      He also agreed to withdraw his appeal (of the suppression
+                    ruling; of his conviction; and of the sentence).
+       4.      There was danger or risk of injury. For a young man to cooperate
+            while in prison generates expectable risks.
+       5.      His assistance was timely for Rule 35(b) cooperation.            I do not
+            consider the fact that it was late for § 5K1.1 purposes. The purpose of
+            Rule 35(b) is to give credit for substantial assistance that occurs only
+            after sentencing. Therefore, the fact that it is after sentencing cannot
+            make it “late.”
+
+ Considering only those substantial assistance-related factors, I REDUCE the
+
+ defendant’s sentence to forty (40) months. The § 3553(a) factors that can be used
+
+                                                                                       23
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 24 of 31                     PageID #: 1282
+
+
+
+ to limit a reduction call for significant prison time (offense seriousness, general
+
+ deterrence, respect for the law, the Guidelines range). In the absence of authority
+
+ to consider § 3553(a) factors that could increase the reduction, those factors (and
+
+ the defendant’s failure to accept responsibility initially and his lie at the
+
+ suppression hearing) lead me not to reduce the sentence farther than forty
+
+ months.34
+
+        If my analysis of the new Rule 35(b) is incorrect, and if I am able to consider
+
+ § 3553(a) factors generally on this motion,35 I would take into account the
+
+ following ameliorating factors:
+
+        1.      The defendant’s cousin, who was just as culpable, indeed slightly
+             more so (I base that conclusion on the transcript of this defendant’s trial
+             and the prosecutor’s statement at the Rule 35 hearing), was prosecuted
+             only as a juvenile, not as an adult, although the prosecution agrees that
+             he could have been prosecuted as an adult. As a result, the cousin,
+             unlike the defendant, is not a convicted federal felon and received a
+             drastically lesser penalty.           See § 3553(a)(6) (“the need to avoid
+             unwarranted sentence disparities among defendants with similar records
+             who have been found guilty of similar conduct”). But at the same time I
+             recognize that because of the Guidelines range, many defendants like
+             this defendant have been and will be sentenced much higher, more like
+             the sentence I imposed initially. Thus, the disparity factor would lead to
+             some further reduction, but not enough to make his sentence
+             comparable to that of his cousin.36
+
+ 34 Even under the post-Sentencing Reform Act version of the rule, “the essence of a Rule 35(b)
+ determination-the district court’s discretionary decision whether to reduce a defendant’s sentence,
+ and if so, to what extent-remains intact.” McAndrews, 12 F.3d at 279 n.9.
+ 35 I did consider § 3553(a) factors at sentencing, but then the 5-year mandatory minimum limited
+
+ their effect in any ameliorating way.
+ 36 The caselaw is in some disarray on this factor. See United States v. Cirilo-Munoz, 504 F.3d 106,
+
+ 127 (1st Cir. 2007) (per curiam) (no majority opinion but two judges agreeing that a sentence is not
+ (continued on next page)
+
+                                                                                                  24
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 25 of 31                      PageID #: 1283
+
+
+
+        2.      This crime involved the destruction of property, and restitution is
+             due.   Because of the five-year statutory minimum, I was unable to
+             consider this sentencing factor, see § 3553(a)(7), in any meaningful way
+             at the original sentence.         But clearly, this young man, who is very
+             employable, can begin to pay restitution sooner if he leaves prison
+             sooner. That is a sentencing goal under § 3553(a)(7).
+        3.      Protecting the public, see § 3553(a)(2)(c), and just punishment, see
+             § 3553(a)(2)(A), do not require a longer sentence here. This young man
+             is highly unlikely ever to be involved in such activity again. It was
+             criminal, it was dangerous (particularly so because of the soda
+             machine’s proximity to petroleum and propane products), and it could
+             have resulted in serious injury or death, but it was also adolescent
+             conduct. See § 3553(a)(1) (“nature and circumstances of the offense and
+             the history and characteristics of the defendant”).
+
+ If I were able to consider these additional § 3553(a) factors, I would reduce the
+
+ defendant’s sentence to thirty months.
+
+
+
+
+ “unreasonable merely because it is disproportionate to the sentence imposed on [a] co-defendant”);
+ United States v. Vazques-Rivera, 470 F.3d 443, 449 (1st Cir. 2006) (“[A] district court may consider
+ disparities among co-defendants in determining a sentence.”); United States v. Mueffelman, 470
+ F.3d 33, 40 (1st Cir. 2006) (“[C]entral concern with disparities is between what the defendant was
+ given and what is done nationally with defendants in the same circumstances.”); United States v.
+ Saez, 444 F.3d 15, 19 (1st Cir. 2006) (“[W]ith different judges sentencing two defendants quite
+ differently, there is no more reason to think that the first one was right than the second.”); United
+ States v. Parker, 462 F.3d 273, 277 (3d Cir. 2006) (“Although § 3553(a) does not require district
+ courts to consider sentencing disparity among co-defendants, it also does not prohibit them from
+ doing so.”); United States v. Wills, 476 F.3d 103, 110 (2d Cir. 2007) (same); United States v.
+ Krutsinger, 449 F.3d 827, 830 (8th Cir. 2006) (under § 3553(a), no abuse of discretion “in
+ fashioning a sentence that attempted to address the disparity in sentences between two nearly
+ identically situated individuals who committed the same crime in the same conspiracy”).
+
+
+                                                                                                   25
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 26 of 31   PageID #: 1284
+
+
+
+                                III. CONCLUSION
+
+       Under the law as I understand it, the government’s motion under Rule
+
+ 35(b)(1) is GRANTED. The defendant’s sentence is reduced to forty (40) months.
+
+       SO ORDERED.
+
+       DATED THIS 4TH DAY OF FEBRUARY, 2008
+
+                                           /S/D. BROCK HORNBY
+                                           D. BROCK HORNBY
+                                           UNITED STATES DISTRICT JUDGE
+
+
+
+
+                                                                              26
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 27 of 31                   PageID #: 1285
+
+
+
+                                                                                       Appendix
+
+ Here is the history behind the adoption of the December 2007 amendment to Rule 35(b).
+        Following United States v. Booker, 543 U.S. 220 (2005), a subcommittee of the Advisory
+ Committee on Criminal Rules (“the Booker Subcommittee”) reviewed the Federal Rules of Criminal
+ procedure to determine what rules required revision in light of Booker. It recommended changes to
+ a handful of rules, including Fed. R. Crim. P. 35(b).       The subcommittee concluded that
+ subparagraph (b)(1)(B) (“reducing the sentence accords with the Sentencing Commission’s
+ Guidelines and policy statements”) was “inconsistent with Booker’s holding that the Guidelines
+ cannot be mandatory.” Mem. from Booker Subcommittee to Advisory Committee on Criminal
+ Rules, 4 (Mar. 15, 2005) in Agenda Materials of the Advisory Committee on Criminal Rules, April
+ 2005, available at http://www.uscourts.gov/rules/Agenda_Books.htm#criminal.          The Booker
+ Subcommittee recommended deleting subparagraph (B) and merging subparagraph (A) into the
+ introductory clause of (b)(1). Id. According to the memorandum recommending the change to Rule
+ 35:
+               One member of the subcommittee felt that this change was
+               unnecessary, because there are no guidelines (and thus certainly no
+               mandatory guidelines) at present that govern resentencings in
+               substantial assistance cases. Other committee members felt that
+               the text of the rules should not appear to give guidelines mandatory
+               effect, and noted that future guidelines might govern resentencing.
+
+ Id.1
+        At its April 2005 meeting, the full Advisory Committee approved the amendment and voted
+ to publish it for comment. Advisory Committee on Criminal Rules, Minutes, 6 (Apr. 4-5, 2005),
+ available at http://www.uscourts.gov/rules/minutes.htm. In its subsequent recommendation to the
+ Standing Committee on Rules of Practice and Procedure that the amendment be published for
+ public comment, the Advisory Committee explained the proposed amendment:
+               This amendment conforms Rule 35(b)(1)(B) to the Supreme Court’s
+               decision in United States v. Booker, 125 S. Ct. 738 (2005), holding
+               that the guidelines are advisory, rather than mandatory. The rule
+               currently states that the court may reduce a sentence if “reducing
+               the sentence accords with the Sentencing Commission’s guidelines
+               and policy statements.” Although the guidelines do not currently
+               include provisions governing the correction of sentences under Rule
+               35, the amendment removes the rule’s language that seems, on its
+               face, to be inconsistent with the ruling in Booker.
+
+ 1 In the same memorandum, the Booker Subcommittee recommended no change to Rule 35(b)(2)
+ (substantial assistance reductions after one year has passed) because “this provision seems
+ unobjectionable, since this is a reduction after the defendant has been sentenced.” Mem. from
+ Booker Subcommittee to Advisory Committee on Criminal Rules, 6 (Mar. 15, 2005) in Agenda
+ Materials of the Advisory Committee on Criminal Rules, April 2005, available at
+ http://www.uscourts.gov/rules/Agenda_Books.htm#criminal.
+
+                                                                                                 i
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 28 of 31                     PageID #: 1286
+
+
+
+
+ Mem. from Advisory Committee on Criminal Rules to Standing Committee on Rules of Practice and
+ Procedure, 5 (May 17, 2005) in Committee on Rules of Practice and Procedure, Preliminary Draft of
+ Proposed Amendments to the Federal Rules of Appellate, Bankruptcy, Civil, and Criminal
+ Procedure: Request for Comment (August 2005), available at http://www.uscourts.gov/rules/
+ proposed0206.htm.
+        In August 2005, the Standing Committee published for comment the proposed amendment
+ to Rule 35, among others. See Committee on Rules of Practice and Procedure, Preliminary Draft of
+ Proposed Amendments to the Federal Rules of Appellate, Bankruptcy, Civil, and Criminal
+ Procedure: Request for Comment, 146 (August 2005), available at http://www.uscourts.gov/
+ rules/proposed0206.htm. The Committee Note accompanying the proposed amendment stated:
+                The amendment conforms Rule 35(b)(1) to the Supreme Court’s
+                decision in United States v. Booker, 125 S. Ct. 738 (2005). In
+                Booker, the Court held that the provision of the federal sentencing
+                statute that makes the Guidelines mandatory, 18 U.S.C. § 3553(b)(1)
+                (Supp.2004), violates the Sixth Amendment right to jury trial and
+                the Fifth Amendment requirement of proof beyond a reasonable
+                doubt. With this provision severed and excised, the Court held, the
+                Sentencing Reform Act “makes the Guidelines effectively advisory,”
+                and “requires a sentencing court to consider Guidelines ranges, see
+                18 U.S.C. § 3553(a)(4) (Supp.2004), but it permits the court to tailor
+                the sentence in light of other statutory concerns as well, see
+                § 3553(a) (Supp.2004).” Id. at 757. Subsection (b)(1)(B) has been
+                deleted because it treats the guidelines as mandatory.
+
+ Id. at 147.
+        The United States Sentencing Commission submitted comments on the proposed
+ amendment. It asserted that § 5K1.1 “sets forth a list of factors that the sentencing court should
+ consider before granting a Rule 35(b) motion.”2 It also questioned whether Booker applied at all in
+ the post-sentencing context: “Because the Rule 35(b) determination involves no judicial finding of
+ fact that would increase the sentence, it would not appear that a defendant’s Sixth Amendment
+ rights are jeopardized by, or that Booker requires modification of, the mandatory nature of the
+ current rule.” The Commission warned that removing the reference to Sentencing Commission
+ Guidelines and policy statements in Rule 35(b) “may result in consideration of factors other than
+ the value of the defendant’s substantial assistance or post-sentence cooperation.” Noting “that
+ Booker’s remedial opinion requires court consideration of applicable Commission policy
+ statements[,]” the Commission requested that “amended Rule 35(b) . . . reflect the continued
+
+
+ 2I emphasize the “should.” The comment came from the Commission’s Staff Director. She did not
+ actually state that § 5K1.1 was the policy statement that Congress directed the Commission to
+ adopt for Rule 35(b) in § 994(a)(2)(C). I have explained in note 13 supra why § 5K1.1 cannot be
+ considered the controlling policy statement.
+
+                                                                                                  ii
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 29 of 31                              PageID #: 1287
+
+
+
+ requirement that courts consult and consider the guidelines and policy statements before making
+ any such sentence reduction.” The Commission also recommended that the Committee Note
+ accompanying the amendment “clarify that the changes are not intended to enlarge the bases of
+ what a court may consider before imposing a post-sentence reduction.” Letter from Judith W.
+ Sheon, Staff Director, United States Sentencing Commission, to Committee on Rules of Practice
+ and Procedure (Feb. 15, 2006), available at http://www.uscourts.gov/rules/CR%20Rules%202005.htm.3
+        Responding to the Sentencing Commission’s suggestion that Booker might not apply in the
+ post-sentencing context, the Reporter to the Advisory Committee “recommended against adopting
+ the changes to the Rule 35 amendment suggested by the Sentencing Commission.” Advisory
+ Committee      on    Criminal     Rules,     Minutes,     6    (April 3-4,      2006),       available    at
+ http://www.uscourts.gov/rules/minutes.htm. She did, however, propose the following addition to the
+ Committee Note: “The amendment is not intended to alter the factors a court may consider before
+ imposing a post-sentence reduction.” The Reporter explained that the additional language was
+ intended “only to indicate that by amending the rule the Committee [took] no position on the scope
+ of the court’s authority to reduce a sentence under Rule 35.” Mem. from Professor Sara Sun Beale,
+ Reporter, to Members, Criminal Rules Advisory Committee (March 11, 2006) in Agenda Materials of
+ the    Advisory     Committee       on      Criminal     Rules,      April      2006,        available    at
+ http://www.uscourts.gov/rules/Agenda_Books.htm#criminal. The Committee, however, made no
+ changes to the proposed Rule 35 amendment and approved it, as published, without objection.
+ Advisory   Committee     on   Criminal     Rules,   Minutes,   6   (April    3-4,   2006),    available   at
+ http://www.uscourts.gov/rules/minutes.htm.
+        In a subsequent memorandum to the Standing Committee on Rules of Practice and
+ Procedure recommending that the Standing Committee approve the proposed amendment and
+ forward it to the Judicial Conference, the Chair of the Advisory Committee stated:
+
+
+ 3 The Committee received two other comments. The National Association of Criminal Defense
+ Lawyers (NACDL) embraced the Advisory Committee’s conclusion that Rule 35(b)’s reference to the
+ Guidelines must be removed because the Guidelines were no longer mandatory. NACDL asserted
+ that sentencing judges must now comply with 18 U.S.C. § 3553(a) rather than the Guidelines and
+ reduce a sentence, if at all, “to the extent that it will become or remain ‘sufficient, but not greater
+ than necessary’ to achieve the purposes of the criminal justice system.” Letter from William J.
+ Genego and Peter Goldberger, Co-Chairs, National Association of Criminal Defense Lawyers
+ Committee on Rules of Procedure, to Peter G. McCabe, Secretary, Standing Committee on Rules of
+ Practice and Procedure, 6-7 (Feb. 15, 2006), available at http://www.uscourts.gov/rules/
+ CR%20Rules%202005.htm. NACDL also advocated deleting the requirement that the government
+ must file a motion before a sentence reduction is permitted. Finally, a comment on behalf of the
+ Federal Public and Community Defenders pointed out that, contrary to the proposed Advisory
+ Committee Note, Booker’s holding did not address the Fifth Amendment standard of proof
+ requirement, but was grounded in the Sixth Amendment only. See Testimony of Jon Sands, Chair,
+ Federal Defender Sentencing Guidelines Committee, before the Advisory Committee on Federal
+ Rules of Criminal Procedure, Jan. 6, 2006.
+
+                                                                                                           iii
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 30 of 31                      PageID #: 1288
+
+
+
+               This amendment conforms Rule 35(b)(1)(B) to the Supreme Court’s
+               decision in United States v. Booker, 543 U.S. 220 (2005), holding
+               that the Guidelines are advisory, rather than mandatory. The rule
+               currently states that the court may reduce a sentence if “reducing
+               the sentence accords with the Sentencing Commission’s guidelines
+               and policy statements.” Although the Guidelines do not currently
+               include provisions governing the correction of sentences under Rule
+               35, the amendment removes the rule’s language that seems, on its
+               face, to be inconsistent with the decision in Booker.
+               Both the Sentencing Commission and the National Association of
+               Criminal Defense Lawyers (NACDL) suggested changes in either the
+               amendment or the note. After discussion, the Committee decided
+               not to alter the amendment. In essence, the proposed changes
+               introduced additional issues that were not part of the amendment as
+               published. NACDL suggested that given the advisory character of
+               the Guidelines, it is no longer appropriate for the rule to require that
+               the motion be made by the government, since powerful evidence of
+               cooperation should be considered under 18 U.S.C. § 3553(a) even in
+               the absence of such a motion. The language of the rule, however,
+               was enacted by Congress. Even if the Committee had the authority
+               to delete this requirement under the Rules Enabling Act, it could not
+               do so without publishing such an amendment for public comment.
+               The Sentencing Commission raised the question whether the Booker
+               remedial opinion is applicable to the post-sentencing context. It
+               suggested that the Committee Note be amended to address this
+               issue. The Committee unanimously declined to introduce the new
+               language to the Note, or otherwise to alter the rule as published for
+               public comment. (The only exception was the agreement to
+               eliminate the reference to the Fifth Amendment in the description of
+               the Booker decision in this Note, as well as the notes accompanying
+               the other amendments.)
+
+ See Mem. from Chair, Advisory Committee on Federal Rules of Criminal Procedure, to Chair,
+ Standing Committee on Rules of Practice and Procedure, 4-5 (May 20, 2005, revised July 20,
+ 2006), excerpt available at http://www.uscourts.gov/rules/supct1106.htm.
+        The Standing Committee approved the amendment, without objection, and sent it to the
+ Judicial Conference for final approval. Committee on Rules of Practice and Procedure, Minutes, 27
+ (June 22-23, 2006), available at http://www.uscourts.gov/rules/minutes.htm.              The Judicial
+ Conference approved the amendment at its September 19, 2006 meeting and transmitted it to the
+ Supreme Court, along with several other proposed amendments to the Federal Rules. Report of
+ the Proceedings of the Judicial Conference of the United States, 35 (September 19, 2006), excerpt
+ available at http://www.uscourts.gov/rules/supct1106.htm. The accompanying discussion of Rule 35
+ was brief:
+               The proposed amendment to Rule 35 removes the restriction that
+               the court may reduce the sentence of a cooperating defendant only if
+               the reduced sentence accords with the Sentencing Guidelines and
+               the Sentencing Commission’s policy statements. The restriction is
+               stricken as inconsistent with Booker because it treats the guidelines
+               as mandatory.
+                                                                                                    iv
+Case 2:05-cr-00069-DBH Document 160 Filed 02/04/08 Page 31 of 31                    PageID #: 1289
+
+
+
+
+ Mem. from Chair, Committee on Rules of Practice and Procedure, to Chief Justice of the United
+ States, 6 (November 1, 2006), available at http://www.uscourts.gov/rules/congress0407.htm. The
+ United States Supreme Court approved the proposed amendment to Rule 35(b) and submitted it to
+ Congress on April 30, 2007. Transmittal Letters to Congress and Supreme Court orders (April 30,
+ 2006), available at http://www.uscourts.gov/rules/congress0407.htm. Congress took no action, and as
+ a result, the Rule went into effect December 1, 2007.
+
+
+
+
+                                                                                                  v
+

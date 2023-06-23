@@ -1,0 +1,1000 @@
+Case 1:06-cr-00001-JAW Document 31 Filed 05/11/06 Page 1 of 18                  PageID #: 53
+
+
+
+                           UNITED STATES DISTRICT COURT
+                                DISTRICT OF MAINE
+
+  UNITED STATES OF AMERICA                    )
+                                              )
+         v.                                   )       CR-06-1-B-W
+                                              )
+  JOSHUA L. EMERSON                           )
+
+
+                                   SENTENCING ORDER
+
+         Having pleaded guilty to possession of stolen firearms and the manufacture of a
+
+  sawed-off shotgun, Defendant Joshua L. Emerson challenges the Probation Office’s
+
+  calculation of his offense level under the federal Sentencing Guidelines. This Court
+
+  concludes he is subject to a base offense level of eighteen under § 2K2.1(a)(5), because
+
+  his juvenile conviction is not countable under § 2K2.1(a)(3) or (4), a two-level
+
+  “destructive device” enhancement under § 2K2.1(b)(3)(B) because a short-barreled
+
+  shotgun is a destructive device, and a four-level enhancement under § 2K2.1(b)(5)
+
+  because he used a firearm in connection with another felony offense by cutting the barrel
+
+  of a shotgun he had earlier stolen.
+
+  I. STATEMENT OF FACTS
+
+         On January 6, 2006, Defendant Joshua L. Emerson pleaded guilty to two counts
+
+  of possession of stolen firearms in violation of 18 U.S.C. § 922(j) and one count of
+
+  manufacturing an illegal firearm in violation 26 U.S.C. §§ 5822 and 5861(f). In its
+
+  Presentence Investigation Report (PSR), the Probation Office (Probation) identified a
+
+  prior juvenile conviction for Mr. Emerson. On April 10, 2001, when he was 17, the
+
+  Bangor Juvenile Court adjudicated Mr. Emerson as having committed a juvenile crime,
+
+  which if charged as an adult would have been Robbery, Class A. PSR ¶ 25. The Juvenile
+Case 1:06-cr-00001-JAW Document 31 Filed 05/11/06 Page 2 of 18                   PageID #: 54
+
+
+
+  Court committed him to the Maine Youth Center until his 19th birthday. Id. Concluding
+
+  that the juvenile conviction should count as a “felony conviction of . . . a crime of
+
+  violence,” Probation recommended a base offense level of twenty-two under U.S.S.G. §
+
+  2K2.1(a)(3). PSR ¶ 13.
+
+         Probation also recommended upward adjustments to Mr. Emerson’s offense level
+
+  including: (1) a two-level adjustment pursuant to U.S.S.G. § 2K2.1(b)(3)(B) because the
+
+  illegal firearm (a sawed-off shotgun) constitutes a “destructive device” within the
+
+  meaning of 26 U.S.C. § 5845(f)(2); and, (2) a four-level adjustment pursuant to U.S.S.G.
+
+  § 2K2.1(b)(5) because Mr. Emerson “possessed [a] Sears and Roebuck 12-Gauge . . . as it
+
+  was made into an illegal . . . firearm.” PSR ¶¶ 15-16.
+
+         Mr. Emerson objects. He contends that § 2K2.1(a)(3) is inapplicable because his
+
+  April 10, 2001 juvenile adjudication does not constitute a “felony conviction” of a crime
+
+  of violence under the Guidelines, that a sawed-off shotgun is not a “destructive device”
+
+  under § 2K2.1(b)(3)(B), and that § 2K2.1(b)(5) does not apply since he possessed the
+
+  firearm in connection with the illegal alteration of that same firearm. Def.’s Sent. Mem at
+
+  1-8 (Docket # 24).
+
+  II. DISCUSSION
+
+         A. The Meaning of a “Felony Conviction”
+
+         1. The Statutory Framework: U.S.S.G. § 2K2.1(a)(3); U.S.S.G. § 2K2.1
+            Application Note 1; and, 15 M.R.S.A. § 3310(6)
+
+         Section 2K2.1(a)(3) provides a base offense level of twenty-two, “if . . . the
+
+  defendant committed any part of the instant offense subsequent to sustaining one felony
+
+
+
+
+                                               2
+Case 1:06-cr-00001-JAW Document 31 Filed 05/11/06 Page 3 of 18                                PageID #: 55
+
+
+
+  conviction of either a crime of violence or a controlled substance offense . . . .” 1 The
+
+  commentary to § 2K2.1 sheds light on the meaning of a “felony conviction”:
+
+          [A] prior adult federal or state conviction for an offense punishable by
+          death or imprisonment for a term exceeding one year, regardless of
+          whether such offense is specifically designated as a felony and regardless
+          of the actual sentence imposed. A conviction for an offense committed at
+          age eighteen years or older is an adult conviction. A conviction for an
+          offense committed prior to age eighteen years is an adult conviction if it is
+          classified as an adult conviction under the laws of the jurisdiction in which
+          the defendant was convicted (e.g., a federal conviction for an offense
+          committed prior to the defendant’s eighteenth birthday if the defendant
+          was expressly proceeded against as an adult).
+
+  U.S.S.G. § 2K2.1 application note 1.
+
+          Under Maine law, “[a]n adjudication of the commission of a juvenile crime shall
+
+  not be deemed a conviction of a crime.” 15 M.R.S.A. § 3310(6). Maine law establishes
+
+  a process by which a court may treat as an adult a juvenile who commits a crime, which
+
+  “would be murder or a Class A, B or C crime if committed by an adult.” 15 M.R.S.A. §
+
+  3101(4). Under this provision, Mr. Emerson could have been treated as an adult, but
+
+  there is no evidence he was. To the contrary, Mr. Emerson was found to have committed
+
+  a juvenile crime in Maine Juvenile Court, and was committed to the Maine Youth Center.
+
+  See PSR ¶ 25. As Mr. Emerson’s April 10, 2001 adjudication was not “classified as an
+
+  adult conviction” under Maine law, § 2K2.1(a)(3) should not apply.
+
+          2. United States v. Unger, 915 F.2d 759 (1st Cir. 1990)
+
+          United States v. Unger, 915 F.2d 759 (1st Cir. 1990), may direct a different result.
+
+  In Unger, the First Circuit addressed whether prior juvenile convictions should count in
+
+
+
+
+  1
+   Section 2K2.1(a)(3) also requires that “the offense involved a firearm described in 26 U.S.C. § 5845(a)”;
+  Mr. Emerson concedes it did. Def.’s Sent. Mem. at 1 (Docket # 24).
+
+
+                                                      3
+Case 1:06-cr-00001-JAW Document 31 Filed 05/11/06 Page 4 of 18                                PageID #: 56
+
+
+
+  calculating criminal history under U.S.S.G. § 4A1.2(d).2 Unger concluded that a prior
+
+  juvenile conviction for receiving stolen property was countable:
+
+             The assessment was premised on U.S.S.G. § 4A1.2(d)(2)(A), which
+             instructs the reader to “add 2 points under § 4A1.1(b) for each adult or
+             juvenile sentence of confinement of at least sixty days if the defendant was
+             released from such confinement with [sic] five years of his
+             commencement of the instant offense.” Because Unger’s immurement at
+             the Training School exceeded sixty days and occurred less than five years
+             before the events underlying the crime charged in this case, section
+             4A1.2(d)(2)(A) applies on its face. See United States v. Williams, 891
+             F.2d 212, 215-16 (9th Cir. 1989) (commitment to juvenile hall is
+             “confinement” for purposes of § 4A1.2(d)(2)(A)), cert. denied, 494 U.S.
+             1037 (1990).
+
+  Id. at 761 n.3 (emphasis supplied); see also United States v. Turner, 438 F.3d 67 (1st Cir.
+
+  2006) (affirming district court’s assessment of criminal history points for juvenile
+
+  sentences).
+
+             Relying on U.S.S.G. § 4A1.2(c)(2), which directs that previous sentences for
+
+  juvenile “status offenses” cannot be counted for purposes of a defendant’s criminal
+
+  history score, the defendant next contended that his juvenile convictions for waywardness
+
+  should be characterized as “status offenses” within the meaning of the guideline. Id. at
+
+  762. In response, Unger wrote that “the guidelines themselves strongly suggest that a
+
+
+  2
+      Section 4A1.2(d) provides:
+
+             (d) Offenses Committed Prior to Age Eighteen
+
+                     (1) If the defendant was convicted as an adult and received a sentence of imprisonment
+                     exceeding one year and one month, add 3 points under § 4A1.1(a) for each such sentence.
+
+                     (2) In any other case,
+
+                              (A) add 2 points under § 4A1.1(b) for each adult or juvenile sentence to
+                              confinement of at least sixty days if the defendant was released from such
+                              confinement within five years of his commencement of the instant offense;
+
+                              (B) add 1 point under § 4A1.1(c) for each adult or juvenile sentence imposed
+                              within five years of the defendant’s commencement of the instant offense not
+                              covered in (A).
+
+
+                                                       4
+Case 1:06-cr-00001-JAW Document 31 Filed 05/11/06 Page 5 of 18                            PageID #: 57
+
+
+
+  state’s taxonomy should not be given controlling effect.” Id. at 763. It explained that if
+
+  state law controlled, the “primary purpose of the Sentencing Reform Act, namely, to
+
+  ‘provide certainty and fairness in meeting the purposes of sentencing, avoiding
+
+  unwarranted sentencing disparities among defendants with similar records,’ 28 U.S.C. §
+
+  991(b)(1)(B) (1988), would be severely undermined.” Id. at 762-63. Instead, the First
+
+  Circuit looked to the substance of the underlying state offenses to determine whether they
+
+  were “status offenses” within the meaning of § 4A1.2(c)(2). Id. at 763. Because the
+
+  conduct underlying the three juvenile adjudications consisted of “(1) breaking and
+
+  entering with intent to commit larceny, (2) receiving stolen goods, and (3) assault and
+
+  battery,” Unger determined that the wrongful acts were not “status offenses” and were
+
+  countable. Id.
+
+          The narrow issue is whether the Unger analysis of § 4A1.2 applies to §
+
+  2K2.1(a)(3). This Court concludes it does not, because the language of § 2K2.1(a)(3)
+
+  dictates a different result. Unlike § 4A1.2, § 2K2.1(a)(3) defines a “felony conviction” as
+
+  “a prior adult federal or state conviction for an offense punishable by death or
+
+  imprisonment for a term exceeding one year . . . .” U.S.S.G. § 2K2.1 application note 1
+
+  (emphasis supplied). Under § 2K2.1(a)(3), a conviction for an offense committed prior to
+
+  age eighteen is “an adult conviction if it is classified as an adult conviction under the laws
+
+  of the jurisdiction in which the defendant was convicted.” Id. The example in the
+
+  application note is where “the defendant was expressly proceeded against as an adult.”
+
+  Id. As opposed to § 4A1.2(d), § 2K2.1 incorporates the state classification of the juvenile
+
+  offense into the determination as to whether to count the offense under § 2K2.1(a)(3).3
+
+
+  3
+   The Armed Career Criminal Act (ACCA) requires that certain juvenile convictions count. 18 U.S.C. §
+  924(e). The Guidelines do not otherwise explain why juvenile offenses are treated differently between
+
+
+                                                   5
+Case 1:06-cr-00001-JAW Document 31 Filed 05/11/06 Page 6 of 18                                    PageID #: 58
+
+
+
+  As Mr. Emerson’s juvenile adjudication was not classified as an adult conviction under
+
+  Maine law and Maine did not proceed against him as an adult, Unger does not apply. 4
+
+           B. The Applicable Base Offense Level
+
+
+  criminal history calculations under § 4A1.2 (and the ACCA, which under § 4B1.4 incorporates those
+  calculations), and base offense level calculations under § 2K2.1, and this Court will not speculate why it is
+  so. It simply concludes, based on the express language in the Guidelines, that it is so.
+  4
+            The Government points to four circuit court cases that count juvenile adjudications as “prior
+  convictions” for purposes of the ACCA. See United States v. Jones, 415 F.3d 256 (2d Cir. 2005); United
+  States v. Burge, 407 F.3d 1183 (11th Cir. 2005); United States v. Jones, 332 F.3d 688 (3d Cir. 2003);
+  United States v. Richardson, 313 F.3d 121 (3d Cir. 2002). It implies that characterizing Mr. Emerson’s
+  juvenile adjudication as a “felony conviction” for purposes of his base offense level is no different than
+  counting a juvenile adjudication as a predicate offense under the ACCA. This argument is incorrect.
+  Congress explicitly “characterized juvenile adjudications as ‘prior convictions’ under the ACCA.” United
+  States v. Smalley, 294 F.3d 1030, 1031 (8th Cir. 2002); United States v. Tighe, 266 F.3d 1187, 1191 (9th
+  Cir. 2001) (“Congress has declared that juvenile delinquency adjudications involving violent felonies may .
+  . . qualify as predicate ‘convictions’ under ACCA.”); 18 U.S.C. § 924(e)(2)(B), (C). There is no indication
+  it has done the same with respect to a violation of 18 U.S.C. § 922(j) or 26 U.S.C. §§ 5822 and 5861(f),
+  where the ACCA does not apply. See 18 U.S.C. § 924(e)(1) (ACCA only triggered by violation of 18
+  U.S.C. § 922(g)).
+            The other two cases cited by the Government are equally inapposite. See United States v. Luna,
+  125 Fed. Appx. 134 (9th Cir. 2005); United States v. Lopez-Coronado, 364 F.3d 622 (5th Cir. 2004). In
+  Luna, the defendant pleaded guilty to firearms possession by a prohibited person in violation of 18 U.S.C. §
+  922(g)(1). 125 Fed. Appx. at 135. On appeal, the defendant argued that the district court erroneously
+  counted a juvenile adjudication as a “felony conviction” in order to increase his base offense level under
+  U.S.S.G. § 2K2.1(a)(4)(A). Id. The Ninth Circuit affirmed the district court’s decision, concluding that the
+  defendant’s prior conviction was an adult conviction within the meaning of § 2K2.1 application note 1:
+            Although Luna was a minor when he was previously convicted, he was sentenced as an
+            adult to two years in state prison. The judge allowed him to serve that sentence in the
+            custody of the California Youth Authority, noting on the Abstract of Judgment that Luna
+            was “to be housed at C.Y.A. per Section 1731.5(c) W.I.C.” See Cal. Welf. & Inst. Code
+            § 1731.5(c) (providing that a court may order a person under 18 years old to be
+            “transferred to the custody of the Youth Authority . . . solely for purposes of housing the
+            inmate” who remains “committed to the Department of Corrections”). Because Luna was
+            not “committed” to the Youth Authority, neither of the California statutory provisions
+            relating to the special treatment of offenders subsequent to Youth Authority
+            commitments applies.
+  Id. Thus, Luna does not represent a departure from § 2K2.1 and its commentary, because the defendant
+  was convicted and sentenced as an adult.
+            Similarly, Lopez-Coronado fails to support the Government’s position. In Lopez-Coronado, the
+  defendant pleaded guilty to illegal re-entry in violation of 8 U.S.C. § 1326(a). 364 F.3d at 623. The district
+  court increased his base offense level under the 2002 version of the Guidelines due to juvenile
+  adjudications it deemed “felony convictions” within the meaning of U.S.S.G. § 2L1.2(b)(1)(D) . Id. The
+  Fifth Circuit affirmed the district court’s determination that the juvenile adjudications were “felony
+  convictions” only because “[t]he sentencing commission did not limit [the term] conviction [for purposes
+  of § 2L1.2(b)(1)(D)] to an adult conviction as it has elsewhere.” Id. (citing U.S.S.G. § 2K1.3 application
+  note 2 (determining the base offense level for unlawful receipt, possession or transportation of explosive
+  materials using only adult convictions), and U.S.S.G. § 2K2.1 application note 5 (determining the base
+  offense level for unlawful receipt, possession or transportation of firearms or ammunition using only adult
+  convictions)). The cases cited by the Government do not convince this Court that Mr. Emerson’s juvenile
+  conviction should be counted under § 2K2.1.
+
+
+
+                                                        6
+Case 1:06-cr-00001-JAW Document 31 Filed 05/11/06 Page 7 of 18                                   PageID #: 59
+
+
+
+           As § 2K2.1(a)(3) does not apply, the next question is whether Mr. Emerson’s base
+
+  offense level should be calculated under § 2K2.1(a)(4)(B):
+
+           (a) Base Offense Level (Apply the Greatest):
+
+           (4) 20, if -- (B) the offense involved a firearm described in 26 U.S.C. §
+               5845(a) . . .; and the defendant (i) was a prohibited person at the time
+               the defendant committed the instant offense; or (ii) is convicted under
+               18 U.S.C. § 922(d) . . . .5
+
+  The commentary to § 2K2.1 defines “prohibited person” as “any person described in 18
+
+  U.S.C. § 922(g) or § 922(n).” U.S.S.G. § 2K2.1 application note 3. The only potentially
+
+  applicable statutory provision is § 922(g)(1), which prohibits anyone “who has been
+
+  convicted in any court of . . . a crime punishable by imprisonment for a term exceeding
+
+  one year” from possessing a firearm. 18 U.S.C. § 922(g)(1) (emphasis supplied).
+
+           Mr. Emerson argues that Maine law determines whether a Maine juvenile
+
+  adjudication constitutes a “conviction” as required by § 922(g)(1). This Court agrees.
+
+  See 18 U.S.C. § 921(a)(20) (“What constitutes a conviction of [a crime punishable by
+
+  imprisonment for a term exceeding one year] shall be determined in accordance with the
+
+  law of the jurisdiction in which the proceedings were held.”); Caron v. United States, 524
+
+  U.S. 308, 313 (1998); United States v. Walters, 359 F.3d 340, 343 (4th Cir. 2004); United
+
+  States v. Blodgett, 130 F.3d 1, 2-3 (1st Cir. 1997).                   Accordingly, this Court must
+
+  determine whether a juvenile adjudication is a § 922(g)(1) “conviction” under Maine law.
+
+           Under 15 M.R.S.A. § 3310(6), “[a]n adjudication of the commission of a juvenile
+
+  crime shall not be deemed a conviction of a crime.”6 15 M.R.S.A. § 3310(6) (emphasis
+
+
+  5
+    Mr. Emerson concedes the offense involved a firearm described in § 5845(a). See n.1, supra. He has not
+  been convicted of an offense under § 922(d).
+  6
+    The term “juvenile crime” means, among other things, “[c]onduct that, if committed by an adult, would be
+  defined as criminal by Title 17-A, the Maine Criminal Code, or by any other criminal statute outside that
+  code, including any rule or regulation under a statute, except for those provisions of Titles 12 and 29-A not
+
+
+                                                       7
+Case 1:06-cr-00001-JAW Document 31 Filed 05/11/06 Page 8 of 18                                  PageID #: 60
+
+
+
+  supplied); see also Maine v. Gleason, 404 A.2d 573, 581 (Me. 1979) (“Under the Maine
+
+  Juvenile Code, an adjudication of the commission of a juvenile crime is not deemed a
+
+  conviction of a crime, and it does not lead to the civil disabilities which conviction of an
+
+  adult crime may entail.” (citing 15 M.R.S.A. § 3310(6))). As a juvenile adjudication does
+
+  not constitute conviction of a crime under Maine law, U.S.S.G. § 2K2.1(a)(4)(B) does not
+
+  apply and Mr. Emerson’s base offense level is eighteen pursuant to U.S.S.G. §
+
+  2K2.1(a)(5).7
+
+          C. Destructive Device Enhancement
+
+          Mr. Emerson objects to the imposition of a two-level upward adjustment to his
+
+  base offense level under U.S.S.G. § 2K2.1(b)(3)(B) for possession of a “destructive
+
+  device.” He posits that a sawed-off shotgun is not a “destructive device” and argues: (1)
+
+  the definition of “destructive device” as set forth in 26 U.S.C. § 5845(f)(2) is
+
+  unconstitutionally vague; (2) application of the adjustment would amount to improper
+
+  double counting; (3) the 2004 amendment of § 2K2.1 eliminated sawed-off shotguns
+
+  specifically included in paragraphs E and F . . . .” 15 M.R.S.A. § 3103(1)(A); see also 15 M.R.S.A. §
+  3003(16) (“‘Juvenile crime’ has the meaning set forth in section 3103.”).
+  7
+            The Government cites four cases to support its argument that “[a] defendant’s act of juvenile
+  delinquency . . . [for] armed robbery . . . can make him a ‘convicted’ person within the meaning of 18
+  U.S.C. § 922(g)(1).” Resp. to Def.’s Sent. Mem. at 3 (Docket # 25) (citing Morris v. United States, 118
+  Fed. Appx. 72 (7th Cir. 2004), United States v. Bevard, 44 Fed. Appx. 748 (8th Cir. 2002) (per curiam),
+  United States v. Crudup, 225 F. Supp. 2d 688 (E.D. Va. 2002), vacated and remanded, United States v.
+  Walters, 359 F.3d 340 (4th Cir. 2004), and United States v. Mathis, 735 F. Supp. 1057 (M.D. Ga. 1990)).
+  None of these cases, however, supports the Government’s position. Morris and Bevard addressed whether
+  juvenile adjudications for violent crimes could qualify as predicate convictions under the ACCA. The
+  ACCA defines the term “conviction” to include “a finding that a person has committed an act of juvenile
+  delinquency involving a violent felony.” 18 U.S.C. § 924(e)(2)(C). Section 922(g)(1), on the other hand,
+  makes no mention of juvenile adjudications qualifying as predicate convictions; rather, it leaves that
+  determination to state law. See 18 U.S.C. § 921(a)(20). Mathis is inapposite because the defendant was
+  tried and sentenced as an adult, not a juvenile. 735 F. Supp. at 1058.
+            Its reliance on Crudup is perplexing. In Crudup, the defendant was convicted of felony possession
+  of a firearm. His predicate conviction, however, was a juvenile adjudication in Virginia state court. 225 F.
+  Supp. 2d at 689. In 2004, the Fourth Circuit vacated the defendant’s conviction and reversed the district
+  court’s denial of his motion to dismiss the indictment, finding that “a juvenile adjudication is not a
+  conviction under Virginia law . . . [and] cannot serve as the underlying conviction for purposes of 18
+  U.S.C. § 922(g)(1).” Walters, 359 F.3d at 341-42. Crudup was vacated on the very ground for which the
+  Government cites it.
+
+
+                                                       8
+Case 1:06-cr-00001-JAW Document 31 Filed 05/11/06 Page 9 of 18                                    PageID #: 61
+
+
+
+  from the definition of “destructive device”; and, (4) a sawed-off shotgun cannot be a
+
+  “destructive device” because 26 U.S.C. § 5845(a) distinguishes between sawed-off
+
+  shotguns and destructive devices by listing them separately. Def.’s Sent. Mem. at 4-7
+
+  (Docket # 24).
+
+           1. Void for Vagueness
+
+           Section 5845(f)(2) defines the term “destructive device”:
+
+           [A]ny type of weapon by whatever name known which will, or which may
+           be readily converted to, expel a projectile by the action of an explosive or
+           other propellant, the barrel or barrels of which have a bore of more than
+           one-half inch in diameter, except a shotgun or shotgun shell which the
+           Secretary finds is generally recognized as particularly suitable for sporting
+           purposes . . . .
+
+  26 U.S.C. § 5845(f)(2). Mr. Emerson argues that this definition is unconstitutionally
+
+  vague. He contends: “Because any shotgun, whether approved by the Secretary or not,
+
+  may be ‘readily converted’ into [a] non-approved shotgun by simply sawing the barrel
+
+  short, all shotguns are destructive devices. It is untenable to argue that Congress intended
+
+  to outlaw all shotguns as destructive devices. Therefore, § 5845(f)(2) is unduly vague.” 8
+
+  Def.’s Sent. Mem. at 5 (Docket # 24).
+
+           In general, “the void-for-vagueness doctrine requires that a penal statute define
+
+  the criminal offense with sufficient definiteness that ordinary people can understand what
+
+  conduct is prohibited and in a manner that does not encourage arbitrary and
+
+
+  8
+    Mr. Emerson’s contention that all shotguns would be destructive devices, because they could be converted
+  into unapproved firearms by sawing the barrels, makes no sense. Because a legal shotgun can be converted
+  into an illegal one, does not make an unconverted shotgun a destructive device. Further, it is not
+  necessarily true that all short-barreled shotguns would fall within § 5845(f)(2)’s definition of a “destructive
+  device.” The statute requires that “the barrel or barrels of the firearm must have a bore greater than one-
+  half inch in diameter.” 26 U.S.C. § 5845(f). See People v. Cortez, 442 N.Y.S.2d 873, 874 (N.Y. Sup. Ct.
+  1981) (noting that a .410 caliber shotgun has a bore diameter of less than one-half inch); but see United
+  States v. Lee, 351 F.3d 350, 351 n.1 (8th Cir. 2003) (finding no error in the parties agreement and the
+  district court’s finding that the defendant’s sawed-off .410 caliber shotgun meets the statutory definition of
+  “destructive device” under § 5845(f)).
+
+
+                                                        9
+Case 1:06-cr-00001-JAW Document 31 Filed 05/11/06 Page 10 of 18                                        PageID #: 62
+
+
+
+   discriminatory enforcement.” Kolender v. Lawson, 461 U.S. 352, 357 (1983); see also
+
+   United States v. Campbell, 61 F.3d 976, 980 n.4 (1st Cir. 1995); Love v. Butler, 952 F.2d
+
+   10, 14 (1st Cir. 1991). “The test is whether the language conveys sufficiently definite
+
+   warning as to the proscribed conduct when measured by common understanding and
+
+   practices.” Jordan v. DeGeorge, 341 U.S. 223, 231-32 (1951). A statute need only
+
+   provide fair warning, and it is not rendered unconstitutionally vague where “Congress
+
+   might, without difficulty, have chosen ‘clearer and more precise language’ equally
+
+   capable of achieving the end which it sought . . . .” United States v. Powell, 423 U.S. 87,
+
+   94 (1975) (quoting United States v. Petrillo, 332 U.S. 1, 7 (1947)).
+
+            Mr. Emerson has not cited, and this Court has not discovered, any case law
+
+   discussing whether 26 U.S.C. § 5845(f)(2) is void for vagueness. However, the First
+
+   Circuit addressed a similar argument regarding 26 U.S.C. § 5845(f)(1) – an explosive,
+
+   bomb or similar device - in United States v. Markley, 567 F.2d 523 (1st Cir. 1977), and
+
+   concluded it passed constitutional muster. Rejecting a vagueness argument, Markley
+
+   concluded “that the defendants dealing in the devices here involved were well aware of
+
+   their destructive propensities and that these devices had no legitimate social purpose.
+
+   Section 5845(f)(1) provides adequate notice that the devices would be included within the
+
+   term ‘explosive, . . . (A) bomb, . . . or (F) similar device,’ and a person of ordinary
+
+   intelligence would be so aware in the circumstances of this case.”9 Id. at 528.
+
+
+   9
+     Other circuits have reached similar conclusions. See United States v. Fleischli, 305 F.3d 643, 656 (7th
+   Cir. 2002) (finding the term “similar device,” as used in § 5845(f)(1)(F), to be sufficiently definite); United
+   States v. Price , 877 F.2d 334, 337-38 (5th Cir. 1989) (finding that § 5845(f)(1) gives adequate notice that it
+   includes a collection of components from which a grenade may be constructed); United States v. Ross, 458
+   F.2d 1144, 1145 (5th Cir. 1972) (“With reference to a Molotov cocktail, the part of the definition of
+   ‘destructive device’ that refers to ‘(B) grenade . . . or (F) similar device’ is not so vague as to be outside the
+   constitutional requirement that a person of reasonable intelligence be forewarned what is prohibited.”);
+   United States v. Morningstar, 456 F.2d 278, 281 (4th Cir. 1972) (“On its face, the definition of a
+   destructive device gives fair notice to a person of ordinary intelligence that it includes any combination of
+
+
+                                                          10
+Case 1:06-cr-00001-JAW Document 31 Filed 05/11/06 Page 11 of 18                                      PageID #: 63
+
+
+
+            This Court concludes that § 5845(f)(2) provides adequate warning to a person of
+
+   ordinary intelligence that sawed-off twelve gauge shotguns fall within the definition of
+
+   “destructive device.”        The definition explicitly encompasses all weapons “by whatever
+
+   name known which will . . . expel a projectile by the action of an explosive or other
+
+   propellant, the barrel or barrels of which have a bore of more than one-half inch in
+
+   diameter,” except sporting shotguns excluded by the Secretary. 10 Moreover, like the
+
+   defendants in Markley, Mr. Emerson knew or should have known that sawed-off
+
+   shotguns “are inherently dangerous, lack usefulness except for violent and criminal
+
+   purposes and their possession involves the substantial risk of improper physical force.”
+
+   United States v. Fortes, 141 F.3d 1, 8 n.3 (1st Cir. 1998) (quoting United States v. Hayes,
+
+   7 F.3d 144, 145 (9th Cir. 1993)).               Section 5845(f)(2)’s definition of a “destructive
+
+   device” as applied to short-barreled shotguns is not unconstitutionally vague.
+
+            2. Double Counting
+
+            Mr. Emerson contends that double counting would result “if the Court were to
+
+   conclude that the sawed-off shotgun, which increases [his] Base Offense Level under
+
+   [U.S.S.G. § 2K2.1(a)(5)], is also [a] destructive device subject to a 2 level enhancement
+
+
+
+   parts intended to be used as a bomb or weapon and from which a bomb or weapon can readily be
+   assembled.”).
+   10
+       Every circuit court that has considered the issue has concluded sawed-off shotguns fall within the
+   destructive device definition. See United States v. Henry, 417 F.3d 493, 494 (5th Cir. 2005) (per curiam),
+   cert. denied, __U.S.__, 126 S. Ct. 673 (2005) (“[T] he sawed-off shotguns possessed by the defendants meet
+   the guideline definition of ‘destructive device’ because each weapon can ‘expel a projectile by the action of
+   an explosive or other propellant, and . . . has [a] barrel with a bore of more than one-half inch in diameter.’”
+   (citation omitted)); United States v. Hardy, 393 F.3d 747, 749 (8th Cir. 2004) (finding a ten-gauge sawed-
+   off shotgun to fall within the definition of “destructive device”); United States v. Wynn, 365 F.3d 546, 551
+   (6th Cir. 2004), vacated on other grounds and remanded for reconsideration in light of Booker, 543 U.S.
+   1102 (2005) (“A sawed-off shotgun certainly is designed to expel a projectile (lead pellets) by means of an
+   explosive or other propellant (gunpowder). The district court stated at the sentencing hearing that Wynn’s
+   shotgun had a bore of more than a half-inch diameter, thus making his weapon a destructive device under . .
+   . the [definition] found in 26 U.S.C. § 5845(f).”); United States v. Lee, 351 F.3d 350, 351 n.1 (8th Cir.
+   2003) (summarily affirming the district court’s conclusion that “an unregistered sawed-off . . . shotgun[]
+   meets the statutory definition of ‘destructive device’” as set forth in § 5845(f)(2)).
+
+
+                                                         11
+Case 1:06-cr-00001-JAW Document 31 Filed 05/11/06 Page 12 of 18                   PageID #: 64
+
+
+
+   under U.S.S.G. § 2K2.1(b)(3)(B).” Def.’s Sent. Mem. at 5 (Docket # 24). This Court
+
+   addressed the double counting argument in United States v. McCarty, No. CR-05-09-B-
+
+   W, 2006 WL 760323 (D. Me. Mar. 22, 2006). For the reasons expressed in that opinion,
+
+   this Court rejects Mr. Emerson’s double counting argument.
+
+          3. 2004 Amendment of U.S.S.G. § 2K2.1
+
+          Mr. Emerson contends that the November 1, 2004 amendment of U.S.S.G. §
+
+   2K2.1 eliminated sawed-off shotguns from the definition of “destructive device.” His
+
+   argument is grounded on the fact that pre-2004 versions of the Guidelines defined
+
+   “destructive device” to include a type of firearm listed in 26 U.S.C. § 5845(a), which
+
+   explicitly includes short-barreled shotguns. See U.S.S.G. § 2K2.1 application note 4
+
+   (2003); 26 U.S.C. § 5845(a)(1), (2). By contrast, the 2004 and 2005 versions of the
+
+   Guidelines do not define “destructive device” by reference to § 5845(a); rather, they
+
+   define “destructive device” as having “the meaning given that term in 26 U.S.C. §
+
+   5845(f).” U.S.S.G. § 2K2.1 application note 1. The Commission adopted the statutory
+
+   definition provided in § 5845(f) “in response to concerns that it [was] unclear whether
+
+   certain types of firearms qualif[ied] as ‘destructive devices’” under pre-2004 versions of
+
+   the Guidelines. U.S.S.G. Supp. to Appx. C, Am. 669.
+
+          Although short-barreled shotguns are not explicitly included in the definition of
+
+   “destructive device” in § 5845(f), they fall within the definition. See Henry, 417 F.3d at
+
+   494; Hardy, 393 F.3d at 748 (“[Section 5845(f)’s] definition of ‘destructive device’
+
+   includes most shotguns not found particularly suitable for sporting purposes.”); Wynn,
+
+   365 F.3d at 551; Lee, 351 F.3d at 351 n.1. As Wynn demonstrates, the legislative history
+
+   of the Gun Control Act makes clear that Congress intended to include sawed-off shotguns
+
+
+
+
+                                              12
+Case 1:06-cr-00001-JAW Document 31 Filed 05/11/06 Page 13 of 18                                         PageID #: 65
+
+
+
+   within the § 5845(f)(2) definition of “destructive device.” 365 F.3d at 551-52. The 2004
+
+   amendment to U.S.S.G. § 2K2.1 did not remove sawed-off shotguns from the scope of
+
+   U.S.S.G. § 2K2.1(b)(3).
+
+            4. The Distinction Between Short-Barreled Shotguns and Destructive
+               Devices in 26 U.S.C. § 5845(a)
+
+            Mr. Emerson asserts that a sawed-off shotgun cannot be a “destructive device”
+
+   because 26 U.S.C. § 5845(a) distinguishes the two by listing them separately. 11 The same
+
+   argument was rejected by the Eighth Circuit in Hardy and the Sixth Circuit in Wynn.
+
+   This Court agrees with the Sixth and Eighth Circuits. Notwithstanding § 5845(a), §
+
+   5845(f) clearly encompasses most shotguns.12 Moreover, the commentary to the current
+
+   version of U.S.S.G. § 2K2.1 directs courts to § 5845(f), not (a), to determine whether the
+
+   device is a “destructive device” within the meaning of § 2K2.1(b)(3); thus, any
+
+   distinction made between a “destructive device” and a sawed-off shotgun in § 5845(a) is
+
+   not dispositive.       This Court concludes that a twelve gauge sawed-off shotgun is a
+
+   destructive device within the meaning of § 2K2.1(b)(3).
+
+            D. Possession of a Firearm in Connection with Another Felony Offense
+
+            Section 2K2.1(b)(5) provides for a four-level increase to a defendant’s base
+
+   offense level “[i]f [he] used or possessed any firearm . . . in connection with another
+
+   felony offense . . . .” U.S.S.G. § 2K2.1(b)(5).                     This enhancement “was created in
+
+   response to a concern about the increased risk of violence when firearms are used or
+
+   11
+      Section 5845(a) provides in part: “The term ‘firearm’ means (1) a shotgun having a barrel or barrels of
+   less than 18 inches in length; (2) a weapon made from a shotgun if such weapon as modified has an overall
+   length of less than 26 inches or a barrel or barrels of less than 18 inches in length; . . . and (8) a destructive
+   device.” 26 U.S.C. § 5845(a).
+   12
+      Mr. Emerson has not presented any evidence that his sawed-off twelve gauge shotgun falls within an
+   exception to the “destructive device” definition set forth in 26 U.S.C. § 5845(f)(2). There is no evidence,
+   for example, that the Secretary has found that a sawed-off shotgun “is generally recognized as particularly
+   suitable for sporting purposes[,] . . . is not likely to be used as a weapon, or is an antique . . . .” 26 U.S.C. §
+   5845(f).
+
+
+                                                          13
+Case 1:06-cr-00001-JAW Document 31 Filed 05/11/06 Page 14 of 18                              PageID #: 66
+
+
+
+   possessed during the commission of another felony.” United States v. McDonald, 165
+
+   F.3d 1032, 1037 (6th Cir. 1999), abrogated on other grounds, United States v. Jackson-
+
+   Randolph, 282 F.3d 369 (6th Cir. 2002) (emphasis in original); see also United States v.
+
+   Armstead, 114 F.3d 504, 513 (5th Cir. 1997) (section 2K2.1(b)(5) “reflects the concern
+
+   for public safety which the Guidelines sought to achieve”). To determine whether §
+
+   2K2.1(b)(5) applies, this Court is required to undertake a two-step inquiry. It must
+
+   consider whether the underlying offense constitutes “another felony offense” and, if so,
+
+   whether the firearm was possessed “in connection with” the underlying offense. United
+
+   States v. Blount, 337 F.3d 404, 406-07 (4th Cir. 2003).
+
+           1. “Another Felony Offense”
+
+           The commentary to § 2K2.1 defines “another felony offense” for purposes of §
+
+   2K2.1(b)(5) as “offenses other than explosives or firearms possession or trafficking
+
+   offenses.” U.S.S.G. § 2K2.1 application note 15. Because Probation calculated Mr.
+
+   Emerson’s offense level on the basis of his 18 U.S.C. § 922(j) violation, he contends that
+
+   his manufacture of a sawed-off shotgun constitutes the predicate felony offense for
+
+   purposes of § 2K2.1(b)(5). Thus, Mr. Emerson argues, the four-level enhancement does
+
+   not apply because possession of stolen firearms is not “another felony offense” within the
+
+   meaning of Note 15.         The Government responds that possession of stolen firearms
+
+   constitutes the predicate felony, and that Mr. Emerson committed “another felony
+
+   offense” by later altering one of the stolen firearms. The chronology advanced by the
+
+   Government is consistent with the Prosecution Version the Defendant has admitted. 13
+
+
+   13
+      Mr. Emerson pleaded guilty to two counts of possession of stolen firearms and one count of
+   manufacturing an illegal firearm. During the Rule 11, Mr. Emerson admitted the facts contained in a
+   written Government’s Proposed Facts and Version of the Offense. Gov.’s Proposed Facts and Version of
+   the Offense (Docket # 8). According to that document, Mr. Emerson came into possession of the Sears and
+
+
+                                                    14
+Case 1:06-cr-00001-JAW Document 31 Filed 05/11/06 Page 15 of 18                                   PageID #: 67
+
+
+
+   The question, therefore, is whether the act of manufacturing an illegal shotgun constitutes
+
+   “another felony offense” beyond possession of the stolen firearms.
+
+           This Court has not unearthed any case law addressing whether § 2K2.1(b)(5) is
+
+   applicable where, as here, the “other felony offense” is sawing off the barrel of the same
+
+   shotgun the defendant had stolen.             To manufacture an illegal firearm, a defendant
+
+   necessarily must possess the firearm. At least two circuit courts have employed the
+
+   Blockburger element-based analysis in the context of § 2K2.1(b)(5) to determine when a
+
+   second crime constitutes “another felony offense.” See United States v. Lloyd, 361 F.3d
+
+   197, 200-01 (3d Cir. 2004); Blount, 337 F.3d at 409 (noting that Blockburger is easier to
+
+   apply than any “vague iterations of the ‘closely related to’ or ‘inextricably intertwined
+
+   with’ test”). Under Blockburger, two crimes are considered separate offenses where
+
+   “each [statute] requires proof of an additional fact the other does not.” Blockburger v.
+
+   United States, 284 U.S. 299, 304 (1932) (citing Gavieres v. United States, 220 U.S. 338,
+
+   342 (1911)). Other circuits have stressed the need for “a separation of time between the
+
+   offense of conviction and the other felony offense, or a distinction of conduct between
+
+   that occurring in the offense of conviction and the other felony offense.” United States v.
+
+   Sanders, 162 F.3d 396, 400 (6th Cir. 1998); United States v. Szakacs, 212 F.3d 344, 351
+
+   (7th Cir. 2000) (“All six published [Sixth Circuit] cases applying the phrase ‘another
+
+   felony offense’ have involved crimes separated in time or by a ‘distinction of conduct.’”).
+
+           Even where two crimes require proof of different elements, are separated in time,
+
+   or require different conduct, Note 15 may preclude application of § 2K2.1(b)(5). See
+
+
+   Roebuck twelve gauge shotgun on April 21, 2005, but did not alter it until April 26, 2005. Id. at 1-3; see
+   also PSR ¶¶ 2, 5. The fact that Probation chose to calculate Mr. Emerson’s offense level on the basis of his
+   violation of 18 U.S.C. § 922(j), and not 26 U.S.C. §§ 5822 and 5861(f), has no effect on this Court’s
+   consideration of the timing of the crimes where, as here, Mr. Emerson was convicted of all three offenses
+   and has admitted this chronology.
+
+
+                                                       15
+Case 1:06-cr-00001-JAW Document 31 Filed 05/11/06 Page 16 of 18                   PageID #: 68
+
+
+
+   Lloyd, 361 F.3d at 201 (“[R]egardless of the interpretation given to the word ‘another’ in
+
+   2K2.1(b)(5), ‘firearms possession or trafficking offenses’ are categorically removed from
+
+   the set of crimes that may constitute ‘another felony offense.’”). In United States v.
+
+   Boumelhem, 339 F.3d 414 (6th Cir. 2003), for example, the Sixth Circuit held that the
+
+   offense level of a defendant convicted of felony firearms possession could not be
+
+   enhanced under § 2K2.1(b)(5) on the basis of a conspiracy to violate 18 U.S.C. § 922(e).
+
+   Section 922(e) prohibits delivery of a firearm or ammunition to a common carrier for
+
+   shipment without written notice to the carrier. 18 U.S.C. § 922(e). The defendant argued
+
+   that this amounted to a “firearms trafficking offense” within the meaning of former Note
+
+   18 (now Note 15). Boumelhem, 361 F.3d at 427. The Sixth Circuit agreed, even though
+
+   18 U.S.C. § 922(g) and (e) constitute different felonies under the Blockburger test.
+
+   Similarly, in United States v. English, 329 F.3d 615 (8th Cir. 2003), a defendant’s
+
+   sentence for felony firearm possession had been enhanced because he had sold the guns
+
+   associated with the possession offense. The Eighth Circuit noted that the sale of firearms
+
+   was “trafficking” under former Note 18 (now Note 15), and could not be counted as
+
+   “another felony offense.” Id. at 617; see also Lloyd, 361 F.3d at 202 (where a defendant
+
+   is convicted of possession of stolen firearms, acquired during the commission of a
+
+   burglary, the burglary is a “firearms possession offense” and therefore not “another
+
+   felony offense” within the meaning of U.S.S.G. § 2K2.1(b)(5)); United States v. Fenton,
+
+   309 F.3d 825, 827 (3d Cir. 2002) (same); United States v. Szakacs, 212 F.3d 344, 350
+
+   (7th Cir. 2000) (same); United States v. Sanders, 162 F.3d 396, 399 (6th Cir. 1998)
+
+   (same); but see United States v. Kenney, 283 F.3d 934, 937-38 (8th Cir. 2002)
+
+   (“[B]ecause [the defendant’s] burglary offense is not specifically excluded from
+
+
+
+
+                                              16
+Case 1:06-cr-00001-JAW Document 31 Filed 05/11/06 Page 17 of 18                                    PageID #: 69
+
+
+
+   consideration [under Note 15], it constitutes ‘another felony offense’ in addition to the
+
+   firearms possession offense.”).
+
+            Here, Mr. Emerson’s manufacture of a sawed-off shotgun constitutes “another
+
+   felony offense” for three reasons.                 First, “possession of stolen firearms” and
+
+   “manufacture of an illegal firearm” are separate offenses under Blockburger, since each
+
+   crime requires proof of at least one element the other does not. Second, the two crimes
+
+   constitute separate offenses under the “distinction in time or conduct” test, since Mr.
+
+   Emerson came into possession of the Sears and Roebuck twelve gauge shotgun on April
+
+   21, 2005, but did not modify it until April 26, 2005. Third, whatever the exact scope of a
+
+   “firearms possession offense” in Note 15, it does not include the manufacture of a sawed-
+
+   off shotgun, which requires affirmative action synonymous with “use” of the firearm as
+
+   opposed to mere “possession.” See United States v. King, 341 F.3d 503, 506 (6th Cir.
+
+   2003) (applying § 2K2.1(b)(5) enhancement where defendant “first possessed the gun
+
+   (offense of conviction) and then used the gun (enhancement conduct)” (emphasis in
+
+   original)). This Court concludes that the crime of manufacturing an illegal firearm
+
+   constitutes “another felony offense” within the meaning of § 2K2.1(b)(5).14
+
+            2. “In Connection With”
+
+
+
+   14
+      There are two other felony offenses justifying the application § 2K2.1(b)(5). In the First Circuit, a
+   defendant need not have been convicted of or even charged with “another felony offense” for a court to
+   consider a four-level adjustment under § 2K2.1(b)(5). See United States v. Luciano, 414 F.3d 174, 180-81
+   (1st Cir. 2005). The sentencing court need only find it is more likely than not that the defendant committed
+   the offense. Id.; see also United States v. Bell, 411 F.3d 960, 965 (8th Cir. 2005). Here, Mr. Emerson
+   admitted the facts in a written Government’s Proposed Facts and Version of the Offense. Gov.’s Proposed
+   Facts and Version of the Offense (Docket # 8). That document explains that Mr. Emerson obtained the
+   firearms at issue by burglarizing two homes, and that the firearms were stolen to pay off a drug debt. Id. at
+   1-3; see United States v. Kenney, 283 F.3d 934, 937-38 (8th Cir. 2002) (finding that burglary constitutes
+   “another felony offense” for purposes of § 2K2.1(b)(5), where the defendant came into possession of
+   firearms during the course of the burglary). The burglaries and drug-related conduct count as other felony
+   offenses, the commissions of which involved the use or possession of firearms, and provide a separate basis
+   for the application of § 2K2.1(b)(5).
+
+
+                                                       17
+Case 1:06-cr-00001-JAW Document 31 Filed 05/11/06 Page 18 of 18                       PageID #: 70
+
+
+
+          The First Circuit construes the phrase “in connection with” broadly, United States
+
+   v. Peterson, 233 F.3d 101, 111 (1st Cir. 2000) (citing United States v. Thompson, 32 F.3d
+
+   1, 7 (1st Cir. 1994)), and requires only “causal or logical sequence between possession
+
+   and the related offense.” United States v. Ellis, 168 F.3d 558, 563 (1st Cir. 1999); see
+
+   also United States v. Olivera, 145 Fed. Appx. 686, 687 (1st Cir. 2005) (per curiam).
+
+   While mere coincidental possession does not establish the requisite connection, it is
+
+   sufficient “if the possession has ‘the potential to aid or facilitate’ the other crime.” Ellis,
+
+   168 F.3d at 563 (quoting Thompson, 32 F.3d at 6). Here, Mr. Emerson’s possession of
+
+   the stolen firearms facilitated the manufacture of the sawed-off shotgun. Indeed, absent
+
+   the firearms, he could not have committed a violation of 26 U.S.C. §§ 5822 and 5861(f).
+
+   Accordingly, this Court concludes that Mr. Emerson is subject to a four-level
+
+   enhancement under § 2K2.1(b)(5).
+
+   III. CONCLUSION
+
+          This Court concludes:
+
+      1. Mr. Emerson’s base offense level is eighteen pursuant to U.S.S.G. § 2K2.1(a)(5);
+
+      2. Mr. Emerson is subject to a two-level enhancement under U.S.S.G. §
+         2K2.1(b)(3)(B) as his offense involved a “destructive device” within the meaning
+         of 26 U.S.C. § 5845(f); and,
+
+      3. Mr. Emerson is subject to a four-level enhancement under U.S.S.G. § 2K2.1(b)(5)
+         because he possessed a firearm in connection with another felony offense.
+
+      SO ORDERED.
+
+
+                                                  /s/ John A. Woodcock, Jr.
+                                                  JOHN A. WOODCOCK, JR.
+                                                  UNITED STATES DISTRICT JUDGE
+
+
+   Dated this 11th day of May, 2006
+
+
+
+                                                 18
+

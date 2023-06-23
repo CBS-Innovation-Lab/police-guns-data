@@ -1,0 +1,774 @@
+Case 2:12-cr-00044-NT Document 41 Filed 10/17/12 Page 1 of 15           PageID #: 107
+
+
+
+                      UNITED STATES DISTRICT COURT
+                           DISTRICT OF MAINE
+
+UNITED STATES,                           )
+                                         )
+                    Plaintiff,           )
+                                         )
+v.                                       ) Docket no. 2:12-cr-00044-NT
+                                         )
+NICHOLAS F. EMOND,                       )
+                                         )
+                    Defendant.           )
+
+
+
+        MEMORANDUM OF DECISION AND ORDER ON SENTENCE
+
+      On April 5, 2012, the Defendant, Nicholas Emond, entered a guilty plea to a
+
+single count of Providing False or Fictitious Information to a Federal Firearms
+
+Licensee in Acquiring a Firearm in violation of 18 U.S.C. §§ 922(a)(6) and 924(a)(2).
+
+The issue before the Court is whether United States Sentencing Guideline
+
+§ 2K2.1(a)(6) applies because the Defendant was a prohibited person when he
+
+committed the offense.
+
+      The Defendant challenges the Government’s factual basis for the elevated
+
+base offense level and brings constitutional challenges under the Second and Fifth
+
+Amendments. He argues that § 922(g)(3) is unconstitutional under the Second
+
+Amendment facially and as applied to him, deprives him of his fundamental right to
+
+bear arms without due process of law, and is unconstitutionally vague. For the
+
+reasons that follow, the Court finds that the elevated base offense level applies. The
+
+Court also holds that § 922(g)(3) is facially constitutional, constitutional as applied
+
+to the Defendant, and not unconstitutionally vague.
+Case 2:12-cr-00044-NT Document 41 Filed 10/17/12 Page 2 of 15                        PageID #: 108
+
+
+
+                                         DISCUSSION
+
+          A. Whether the Enhancement Applies
+
+      USSG § 2K2.1 applies to prohibited firearm transactions including 18 U.S.C.
+
+§ 922(a)(6). Section 2K2.1(a)(6) sets the base offense level for prohibited firearm
+
+transactions at 14 “if the defendant (A) was a prohibited person at the time the
+
+defendant committed the instant offense . . . .” The sentencing guideline definition
+
+for “prohibited person” refers to any person described in 18 U.S.C. §§ 922(g) &
+
+922(n). U.S. Sentencing Guidelines Manual § 2K2.1 cmt. n.3. Section 922(g)(3)
+
+makes it a crime for a person “who is an unlawful user of or addicted to any
+
+controlled substance (as defined in section 102 of the Controlled Substances Act (21
+
+U.S.C. 802))” to possess a firearm.
+
+      The Government bears the burden of proving by a preponderance of the
+
+evidence that the Defendant engaged in (1) regular drug use, (2) for a long period of
+
+time, (3) proximate to or contemporaneous to the offense. United States v.
+
+Caparotta, 676 F.3d 213, 216 (1st Cir. 2012); United States v. Marceau, 554 F.3d 24,
+
+30 (1st Cir. 2009). The First Circuit has explained that the term “unlawful user” in
+
+section 922(g)(3) “requires a ‘temporal nexus between the gun possession and
+
+regular drug use.’” Marceau, 554 F.3d at 30 (citing United States v. Edwards, 540
+
+F.3d 1156, 1162 (10th Cir. 2008)).1 In making its determination of whether the
+
+
+1     The Code of Federal Regulations defines an unlawful user as:
+
+      A person who uses a controlled substance and has lost the power of self-control with
+      reference to the use of controlled substance . . . . Such use is not limited to the use of
+      drugs on a particular day, or within a matter of days or weeks before, but rather that
+      the unlawful use has occurred recently enough to indicate that the individual is
+      actively engaged in such conduct. A person may be an unlawful current user of a
+
+
+                                                  2
+Case 2:12-cr-00044-NT Document 41 Filed 10/17/12 Page 3 of 15                      PageID #: 109
+
+
+
+enhanced base offense level applies, “[a] sentencing court is entitled to rely on
+
+circumstantial evidence and draw plausible inferences therefrom.” Marceau, 554
+
+F.3d at 32 (citations omitted).
+
+       The Defendant faces sentencing on a charge that he induced Jessica Bolster
+
+to make a false statement to a federally licensed firearms dealer in connection with
+
+the purchase of a Ruger 9 mm semi-automatic pistol from the Kittery Trading Post
+
+on February 26, 2011. At a conference of counsel held on September 14, 2011, the
+
+Government and counsel for the Defendant stipulated that the record for purposes
+
+of the Court’s determination of whether the Defendant was an unlawful user at the
+
+time of the offense is limited to the Revised Presentence Investigation Report and
+
+the Government’s exhibits.
+
+       From the stipulated record, the Court finds that the Defendant admitted
+
+during an April 28, 2011 interview with an ATF agent that:
+
+              he met Jessica Bolster (the mother of his friend) when he moved into
+               her residence approximately two weeks prior to the straw purchase;
+
+              he has been a user of illegal opiates since 2007;
+
+              he and Jessica Bolster shared a dependence/addiction to heroin;
+
+              he spent $8,000 on heroin in one week which Bolster and he used;
+
+              he was unsure whether he had unlawfully used a controlled substance
+               on the day of the straw purchase, but Bolster used heroin daily and
+               had used heroin that day; and
+
+       controlled substance even though the substance is not being used at the precise time
+       the person seeks to acquire a firearm or receives or possesses a firearm. An inference
+       of current use may be drawn from evidence of a recent use or possession of a
+       controlled substance or a pattern of use or possession that reasonably covers the
+       present time . . . .
+
+27 C.F.R. § 478.11.
+
+
+                                                 3
+Case 2:12-cr-00044-NT Document 41 Filed 10/17/12 Page 4 of 15          PageID #: 110
+
+
+
+
+               because of his addictions, he was not ready to be a good father to his
+                children.
+
+Gov’t Ex. 3. During a taped “recap” conducted after the interview on April 28, 2011,
+
+the Defendant stated: “I have a current issue with addiction. But at this point, sober
+
+– technically. I’m not using any street drugs and I’m suffering a great deal due to
+
+that too. But this point it’s do or die man. Gotta give up the drugs or lose the most
+
+important things to me in my life and that’s good people that care about me.” Gov’t
+
+Ex. 4.
+
+         The record includes a report of a proffer interview with Bolster conducted on
+
+January 3, 2012. In that interview, Bolster told an ATF agent that:
+
+               the Defendant uses cocaine, opioids, and heroin;
+
+               the Defendant misuses prescription drugs;
+
+               she used heroin with the Defendant;
+
+               the Defendant brought a “softball sized bag of heroin powder” to
+                Bolster’s residence 2-3 weeks before the straw purchase and gave
+                Bolster about 3 grams of the powder;
+
+               although she was high at the time, she believed that the Defendant
+                snorted some of the heroin with her as she was using it; and
+
+               she believed that she had seen the Defendant snort but not shoot
+                heroin.
+
+Gov’t Ex. 1.
+
+         The record also includes a March 14, 2011 ex parte domestic violence petition
+
+from the mother of the Defendant’s two children, Brittany Small. Gov’t Ex. 2.
+
+
+
+
+                                            4
+Case 2:12-cr-00044-NT Document 41 Filed 10/17/12 Page 5 of 15                       PageID #: 111
+
+
+
+According to the petition, Small alleged at the hearing2 that the Defendant had
+
+been using heroin since his release from prison one month prior. Id. The Revised
+
+Presentence Investigation Report confirms that on February 8, 2011, the Defendant
+
+was sentenced to twelve days for his conviction for resisting arrest. Revised
+
+Presentence Investigation Report ¶¶ 33-34.3 The record also includes the resulting
+
+protection order, dated March 24, 2011, which states that the court found that the
+
+Defendant’s conduct constituted a credible threat to Small because of “ongoing drug
+
+use.” Gov’t Ex. 2.
+
+       The Defendant points out that Bolster’s own drug issues and Small’s
+
+potential bias against her ex-boyfriend make them unreliable as witnesses. The
+
+Court finds, however, that their descriptions of the Defendant’s drug use during the
+
+second half of February of 2011 corroborate each other and are corroborated by the
+
+Defendant’s own admissions to the ATF agent in April of 2011.
+
+       By the stipulated exhibits, the Government has shown by a preponderance of
+
+evidence that the Defendant engaged in regular use of illegal drugs over a long
+
+period of time. While there is no direct evidence in the record of the Defendant’s
+
+drug use on the day of the straw purchase, the evidence reasonably supports the
+
+inference that the Defendant was using heroin sufficiently proximate in time to the
+
+offense for the enhanced base offense level to apply. The Defendant claimed that he
+
+
+2       It is unclear from the record when the hearing occurred, but the Final Order of Protection
+was entered on March 24, 2011.
+3       Paragraph 7 of the Revised Presentence Investigation Report incorrectly reports that the
+Defendant admitted in an interview with an ATF agent that he used heroin daily, “including the
+day” of the gun purchase. The Defendant clarified at sentencing that he did not recall using on the
+day of the purchase, and the Government conceded that the ATF interview report reflects that the
+Defendant told the agent that Bolster used heroin daily, including the day of the purchase.
+
+
+                                                  5
+Case 2:12-cr-00044-NT Document 41 Filed 10/17/12 Page 6 of 15          PageID #: 112
+
+
+
+met Bolster only two weeks before the straw purchase and admitted that he had
+
+used heroin with her. Both the Defendant and Bolster spoke about using a large
+
+amount of heroin, which Bolster said occurred two to three weeks before the straw
+
+purchase. Small’s allegations also pinpointed the Defendant’s use of heroin as
+
+starting after his release from jail, which would have occurred sometime in mid-
+
+February of 2011, shortly before the straw purchase. The Defendant’s own
+
+admission to the ATF agent that he was sober on April 28, 2011 but that he was
+
+suffering allows the Court to draw the inference that the Defendant was in
+
+withdrawal in April of 2011. There is sufficient evidence that the Defendant was
+
+using street drugs, specifically heroin, from mid-February into March of 2011.
+
+      The evidence suggests that the Defendant had “lost the power of self-control”
+
+and was “actively engaged” in drug use around the time of the straw purchase. See
+
+Caparotta, 676 F.3d at 220 (defendant’s admission of regular use of marijuana
+
+within one month of possession of stolen firearms plus text messages seeking drugs
+
+three days before and after the date he stole firearms was “ample evidence for the
+
+district court to conclude that he was a ‘prohibited person’”); Marceau, 554 F.3d at
+
+30 (evidence established defendant was a “prohibited person” where defendant
+
+admitted regular marijuana use in the days before the robbery and that the robbery
+
+was the first step in a plan to sell the stolen firearms to get more money for drugs).
+
+The Court finds, by a preponderance of the evidence, that the Defendant was a
+
+prohibited person at the time that he committed the offense and concludes that the
+
+applicable base offense level is 14.
+
+
+
+
+                                          6
+Case 2:12-cr-00044-NT Document 41 Filed 10/17/12 Page 7 of 15                           PageID #: 113
+
+
+
+            B. Constitutional Challenges
+
+        Section 922(g)(3) prohibits unlawful drug users from possessing firearms,
+
+thereby directly implicating their Second Amendment right to keep and bear arms.
+
+Since the Defendant’s base offense level is being elevated because he is an unlawful
+
+drug user who may not possess a firearm under § 922(g)(3), his Second Amendment
+
+right to keep and bear arms is indirectly implicated by his sentence.
+
+                      1.        Facial Challenge
+
+        The Defendant brings a facial constitutional challenge to § 922(g)(3), arguing
+
+that it deprives him of his right to bear arms and must survive strict scrutiny. The
+
+Second Amendment of the United States Constitution4 establishes an individual,
+
+fundamental right to bear arms. District of Columbia v. Heller, 554 U.S. 570 (2008).
+
+In Heller, while holding that the Second Amendment confers an individual right to
+
+keep and bear arms, the Supreme Court also explained that the individual right to
+
+bear arms is not unlimited:
+
+        From Blackstone through the 19th-century cases, commentators and
+        courts routinely explained that the right was not a right to keep and
+        carry any weapon whatsoever in any manner whatsoever and for
+        whatever purpose . . . nothing in our opinion should be taken to cast
+        doubt on longstanding prohibitions on the possession of firearms by
+        felons and the mentally ill, or laws forbidding the carrying of firearms
+        in sensitive places such as schools and government buildings, or laws
+        imposing conditions and qualifications on the commercial sale of arms.
+
+
+
+
+4       “A well regulated militia, being necessary to the security of a free state, the right of the
+people to keep and bear arms, shall not be infringed.” U.S. Const. amend. II.
+
+
+                                                    7
+Case 2:12-cr-00044-NT Document 41 Filed 10/17/12 Page 8 of 15         PageID #: 114
+
+
+
+Id. at 625. In a footnote, the Court added: “We identify these presumptively lawful
+
+regulatory measures only as examples; our list does not purport to be exhaustive.”
+
+Id. at 627 n.26.
+
+      The Defendant asks the Court to apply strict scrutiny to § 922(g)(3), which
+
+would require that the Government prove that § 922(g)(3) is narrowly tailored to a
+
+compelling state interest. However, the Defendant has provided no case law where
+
+a court has applied strict scrutiny to § 922(g)(3). The First Circuit has applied
+
+intermediate scrutiny to § 922(g)(9), which prohibits firearm possession by
+
+individuals convicted of domestic violence misdemeanors. United States v. Booker,
+
+644 F.3d 12, 25 (1st Cir. 2011). The Fourth, Seventh, Eighth, and Ninth Circuits
+
+have all applied intermediate scrutiny to § 922(g)(3), requiring a substantial
+
+relation to an important government objective. See United States v. Carter, 669 F.3d
+
+411 (4th Cir. 2011); United States v. Yancey, 621 F.3d 681 (7th Cir. 2010); United
+
+States v. Seay, 620 F.3d 919 (8th Cir. 2010); United States v. Dugan, 657 F.3d 998
+
+(9th Cir. 2011); cf. United States v. Richard, 350 F. App’x 252 (10th Cir. 2009)
+
+(summarily upholding § 922(g)(3) without specifying a level of scrutiny).
+
+      The Fifth, Seventh, Eighth, Ninth, and Tenth Circuits have also all upheld §
+
+922(g)(3) against Second Amendment challenges. See United States v. Patterson,
+
+431 F.3d 832, 835-36 (5th Cir. 2005) (upholding § 922(g)(3)’s constitutionality under
+
+pre-Heller Fifth Circuit decision recognizing individual right to bear arms under
+
+Second Amendment); Yancey, 621 F.3d 681 at 687; Seay, 620 F.3d at 925; Dugan,
+
+657 F.3d at 999-1000; Richard, 350 F. App'x at 260; cf. Carter, 669 F.3d at 421
+
+
+
+
+                                          8
+Case 2:12-cr-00044-NT Document 41 Filed 10/17/12 Page 9 of 15          PageID #: 115
+
+
+
+(strongly suggesting that the Fourth Circuit will join other circuits upholding §
+
+922(g)(3) but remanding to develop the record).
+
+       In Yancey, the Seventh Circuit, applying intermediate scrutiny, found that §
+
+922(g)(3) is substantially related to an important governmental objective. It
+
+recognized that § 922(g)(3)’s broad objective of “suppressing armed violence” is
+
+“without doubt an important one.” Id. at 684. The Seventh Circuit found that
+
+“habitual drug users, like the mentally ill, are more likely to have difficulty
+
+exercising self-control, making it dangerous for them to possess deadly firearms,”
+
+and that “studies amply demonstrate the connection between chronic drug abuse
+
+and violent crime, and illuminate the nexus between Congress’s attempt to keep
+
+firearms away from habitual drug abusers and its goal of reducing violent crime.”
+
+Id. at 685-86 (citing significant academic research linking drug use and violence).
+
+The Seventh Circuit also noted that unlike a person with a felony conviction or a
+
+person who has been committed to a psychiatric hospital, a drug abuser may regain
+
+his ability to possess a firearm by not using drugs. Id. at 686-87.
+
+       In Seay, the Eighth Circuit agreed: “Nothing in [the defendant’s] argument
+
+convinces us that we should depart company from every other court to examine §
+
+922(g)(3) following Heller. Further, § 922(g)(3) has the same historical pedigree as
+
+other portions of § 922(g) which are repeatedly upheld by numerous courts since
+
+Heller.” Id. at 925.
+
+       In Dugan, the Ninth Circuit held the same, explaining that:
+
+       we see the same amount of danger in allowing habitual drug users to
+       traffic in firearms as we see in allowing felons and mentally ill people
+
+
+
+                                           9
+Case 2:12-cr-00044-NT Document 41 Filed 10/17/12 Page 10 of 15           PageID #: 116
+
+
+
+      to do so. Habitual drug users, like career criminals and the mentally
+      ill, more likely will have difficulty exercising self-control, particularly
+      when they are under the influence of controlled substances.
+
+Id. at 999.
+
+      The Court sees no reason to depart from these circuits’ reasoning and
+
+conclusions. Preventing gun violence is an important government objective and the
+
+Defendant concedes as much in his Sentencing Memorandum. Def.’s Sentencing
+
+Mem. 8 (ECF No. 28). As each of the circuit courts upholding § 922(g)(3) have
+
+recognized, there are demonstrable links between unlawful drug use and violence.
+
+The Court is not persuaded by the Defendant’s argument that § 922(g)(3) is
+
+overinclusive because it prohibits possession by unlawful drug users who do not
+
+pose a risk of gun violence and underinclusive because it does not prohibit
+
+possession by those who drink alcohol or use other impairing substances not covered
+
+by § 922(g)(3).
+
+      In Carter, the Fourth Circuit addressed and rejected this same argument.
+
+The Fourth Circuit held that § 922(g)(3) is not overinclusive because the Supreme
+
+Court made clear in Heller that some categorical prohibitions on gun possession are
+
+presumptively constitutional, and “Congress is not limited to case-by-case
+
+exclusions of persons who have been shown to be untrustworthy with weapons.”
+
+Carter, 669 F.3d at 420 (quoting United States v. Skoein, 614 F.3d 638, 641 (7th Cir.
+
+2010) (en banc)). The Fourth Circuit dismissed an underinclusivity objection to §
+
+922(g)(3) as a disagreement with Congress’s reasonable choice to link § 922(g)(3) to
+
+the Controlled Substances Act. Id. at 421.
+
+
+
+
+                                          10
+Case 2:12-cr-00044-NT Document 41 Filed 10/17/12 Page 11 of 15                     PageID #: 117
+
+
+
+       At the sentencing hearing, the Government introduced studies and academic
+
+research which establish a connection between drug use and violent crime.5 The
+
+studies submitted by the Government, the case law that addresses this question,
+
+the legislative history behind § 922(g)(3), and common sense support the conclusion
+
+that prohibiting unlawful drug users from possessing firearms is substantially
+
+related to the important government objective of reducing gun violence. And, as
+
+other circuits have noted, unlike § 922(g)’s prohibition of firearm possession by
+
+felons and those who have been committed because of mental illness, § 922(g)(3)’s
+
+prohibition on firearm possession by unlawful drug users is a temporary restriction
+
+that lasts only as long as the person continues using drugs.
+
+                     2.       As Applied Challenge
+
+       The Defendant also argues that applying § 922(g)(3) to him does not
+
+substantially serve an important government objective. The Court disagrees. The
+
+Defendant fits comfortably within the category of people that Congress wished to
+
+prevent from possessing firearms. There is undisputed evidence in the record that
+
+the Defendant has unlawfully used drugs since he was 14, including marijuana,
+
+prescription opiates, and heroin. By his own admission to the ATF agent, the
+
+Defendant has been struggling with drug addiction for years. The Defendant was
+
+convicted of unlawful trafficking in scheduled drugs in 2005.
+
+5      Gov’t Ex. 6, Illicit Drug Use Among Persons Arrested for Serious Crimes, The Nat’l Surv. On
+Drug Use and Health Report (Office of Applied Studies, Substance Abuse and Mental Health
+Administration), December 16, 2005; Gov’t Ex. 7, Carrie B. Oser et al., The Drugs-Violence Nexus
+Among Rural Felony Probationers, 24 J. Interpersonal Violence 1285 (2009); Gov’t Ex. 8, H. Virginia
+McCoy, Sarah E. Messiah & Zhinuan Yu, Perpetrators, Victims, and Observers of Violence: Chronic
+and Non-Chronic Drug Users, 16 J. Interpersonal Violence 890 (2001); Gov’t Ex. 9, Lana Harrison &
+Joseph Gfroerer, The Intersection of Drug Use and Criminal Behavior: Results from the National
+Household Survey on Drug Abuse, 38 Crime & Delinquency 422 (1992).
+
+
+                                                11
+Case 2:12-cr-00044-NT Document 41 Filed 10/17/12 Page 12 of 15                        PageID #: 118
+
+
+
+       Eight months after the straw purchase, the Defendant was in possession of a
+
+semi-automatic rifle that he could not recall purchasing because he was high on
+
+heroin at the time of purchase. The Defendant has ten prior adult criminal
+
+convictions, and numerous run-ins with police. Several of these convictions and
+
+incidents involved violence, including resisting arrest, assaults and stalking. As
+
+discussed earlier in this opinion, § 922(g)(3)’s objective is to keep guns out of the
+
+hands of individuals with diminished self-control and an increased risk of violent
+
+conduct. The Defendant’s record of drug use and criminal conduct shows him to be
+
+such an individual.
+
+                     3.        Due Process Challenge
+
+       An individual may not be deprived of his fundamental right to bear and keep
+
+arms without due process of law.6 United States v. Rehlander, 666 F.3d 45, 48 (1st
+
+Cir. 2012).
+
+       Although the right established in Heller is a qualified right, the right
+       to possess arms (among those not properly disqualified) is no longer
+       something that can be withdrawn by government on a permanent and
+       irrevocable basis without due process. Ordinarily, to work a permanent
+       or prolonged loss of a constitutional liberty or property interest, an
+       adjudicatory hearing, including a right to offer and test evidence if
+       facts are in dispute, is required.
+
+Id. at 48. In Rehlander, the First Circuit held that § 922(g)(4), which prohibits a
+
+person who “has been committed to a mental institution” from possessing a firearm,
+
+could not include persons who had been hospitalized under Maine’s emergency, ex
+
+parte procedure for involuntary psychiatric hospitalization. The First Circuit
+
+
+6      The Fifth Amendment provides: “No person shall . . . be deprived of life, liberty, or property,
+without due process of law . . . .” U.S. Const. amend V.
+
+
+                                                  12
+Case 2:12-cr-00044-NT Document 41 Filed 10/17/12 Page 13 of 15          PageID #: 119
+
+
+
+concluded that this process provided insufficient process to permanently deprive a
+
+person of her Second Amendment rights. The First Circuit held that Maine’s
+
+emergency procedure is procedurally inadequate because there is no pre-admission
+
+adversary hearing or pre-admission finding by an independent judicial officer, and
+
+the individual is not provided with counsel. Id. at 48-49. The First Circuit added
+
+that Maine’s emergency procedure might be adequate if it resulted in only a
+
+temporary suspension of the right to bear arms pending further proceedings, or if
+
+the hospitalized person had a later opportunity to recover her Second Amendment
+
+rights. The First Circuit contrasted Maine’s emergency procedure with Maine’s
+
+involuntary commitment statute, which permits involuntary commitment after an
+
+adversarial hearing and provides the patient with counsel, the opportunity to
+
+testify, and the opportunity to call and cross-examine witnesses. Id. at 48.
+
+      The Defendant argues that his status as an “unlawful user of drugs” has not
+
+been adjudicated, and he has not been provided with notice or an opportunity to be
+
+heard regarding the applicability of § 922(g)(3) to him. Pursuant to Federal Rule of
+
+Criminal Procedure 32(e)(2), the Defendant was provided with a presentence report
+
+summarizing the results of probation’s presentence investigation conducted
+
+pursuant to Federal Rule of Criminal Procedure 32(c). The Report notified him of its
+
+recommendation that his base offense level be set at 14 because he was a prohibited
+
+person at the time of the offense. The Defendant made objections in writing to the
+
+presentence report and the base offense level, and probation’s subsequent Revised
+
+Presentence Investigation Report and Addendum to the Presentence Report
+
+
+
+
+                                          13
+Case 2:12-cr-00044-NT Document 41 Filed 10/17/12 Page 14 of 15        PageID #: 120
+
+
+
+explains the Defendant’s unresolved objections. After briefing was completed on the
+
+Defendant’s factual and constitutional challenges to the recommended base offense
+
+level, the Court held a conference of counsel to ask the parties whether they wished
+
+to have an evidentiary hearing on the issue of whether the Defendant is a
+
+prohibited person under § 2K2.1(a)(6). The Court reminded Defendant’s counsel
+
+that he could introduce his own evidence at the evidentiary hearing to contradict
+
+the Government’s evidence that the Defendant was using drugs at the time of the
+
+straw purchase. Nonetheless, counsel for the Defendant waived an evidentiary
+
+hearing and both parties stipulated that the Revised Presentence Investigation
+
+Report and the Government’s exhibits would constitute the factual record for
+
+purposes of the Court’s determinations on the Defendant’s factual and as-applied
+
+constitutional challenges. The Court asked the Defendant at sentencing if he
+
+understood his right to an evidentiary hearing to contest the Government’s evidence
+
+or introduce his own evidence. The Defendant told the Court that he understood his
+
+right to a hearing and that he had an adequate opportunity to discuss the matter
+
+with his counsel. Defense counsel and the Defendant declined the opportunity to put
+
+on evidence to challenge the Government’s evidence.
+
+      The Defendant has been provided with notice and an opportunity to be heard
+
+on whether § 922(g)(3) applies to him and his status as an unlawful drug user has
+
+been adjudicated by this Court. The Court concludes that the process that the
+
+Defendant has received on the issue of whether he is a prohibited person for
+
+
+
+
+                                        14
+Case 2:12-cr-00044-NT Document 41 Filed 10/17/12 Page 15 of 15         PageID #: 121
+
+
+
+purposes of § 2K2.1(a)(6) is sufficient under the Due Process Clause of the Fifth
+
+Amendment.
+
+                   4.      Vagueness Challenge
+
+         Finally, the Defendant argues that § 922(g)(3) is unconstitutionally vague.
+
+“In order to avoid unconstitutional vagueness, courts have held that the critical
+
+term ‘unlawful user’ requires a ‘temporal nexus between the gun possession and
+
+regular drug use.’ Refined further, an ‘unlawful user’ is one who engages in ‘regular
+
+use over a long period of time proximate to or contemporaneous with the possession
+
+of the firearm.’” Marceau, 554 F.3d at 30 (quoting Edwards, 540 F.3d at 1162 and
+
+United States v. McCowan, 469 F.3d 386, 392 n.4 (5th Cir. 2006)). With this
+
+narrowing construction, § 922(g)(3) is not unconstitutionally vague. A reasonable
+
+person would understand that the Defendant’s heroin dependency and use
+
+proximate in time to the offense is covered by § 922(g)(3).
+
+   II.      CONCLUSION
+
+         The Court finds that the Defendant is a prohibited person under § 922(g)(3)
+
+and the base offense level is 14 pursuant to USSG § 2K2.1(a)(6). The Court
+
+concludes that § 922(g)(3) is constitutional on its face and as applied to the
+
+Defendant, the Defendant was not deprived of his Second Amendment right to bear
+
+arms without due process of law, and § 922(g)(3) is not unconstitutionally vague.
+
+SO ORDERED.
+
+                                               /s/ Nancy Torresen
+                                               United States District Judge
+Dated this 17th day of October, 2012.
+
+
+
+
+                                          15
+

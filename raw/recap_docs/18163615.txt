@@ -1,0 +1,1526 @@
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 1 of 29                                        PageID #: 1768
+
+
+
+                                    UNITED STATES DISTRICT COURT
+
+                                               DISTRICT OF MAINE
+
+ ERIC MURDOCK,                                           )
+                                                         )
+                   Petitioner,                           )
+                                                         )
+          v.                                             )        2:11-cr-00008-DBH
+                                                         )        2:14-cv-00205-DBH
+                                                         )
+ UNITED STATES OF AMERICA,                               )
+                                                         )
+                   Respondent.                           )
+
+
+                   RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+          In this action, Petitioner Eric Murdock moves, pursuant to 28 U.S.C. § 2255, to vacate, set
+
+ aside or correct his sentence. (Motion, ECF No. 135.) Following a jury trial, Petitioner was
+
+ convicted of being a felon in possession of firearms, in violation of 18 U.S.C. § 922(g)(1), and the
+
+ Court sentenced him, pursuant to 18 U.S.C. § 924(e), to a prison term of 216 months, followed by
+
+ a term of three years of supervised release. (Judgment, ECF No. 110 at 2-3.) The First Circuit
+
+ affirmed the conviction and sentence. United States v. Murdock, 699 F.3d 665, 667 (1st Cir. 2012).
+
+          The Court previously denied Petitioner’s section 2255 request for relief under Johnson v.
+
+ United States, --- U.S. ---, 135 S. Ct. 2551 (2015).1 (Decision and Order, ECF No. 192.) This
+
+ recommended decision addresses Petitioner’s remaining section 2255 claims.
+
+
+
+
+ 1
+  This Court’s prior decision (Decision and Order, ECF No. 192) disposed of claims Petitioner asserted under Johnson
+ v. United States, --- U.S. ---, 135 S. Ct. 2551 (2015). Petitioner has appealed from the Court’s decision on the Johnson
+ claims; the First Circuit has issued an order that Petitioner either move for a voluntary dismissal of the appeal, or that
+ he show cause why the appeal should not be dismissed, due to the lack of a final judgment. (Murdock v. United States,
+ No. 16-1548 (1st Cir. Aug. 2, 2016).)
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 2 of 29                        PageID #: 1769
+
+
+
+          Following a review of Petitioner’s motion and the Government’s request for dismissal on
+
+ the merits (Response, ECF No. 169), I recommend that the Court grant the Government’s request,
+
+ and dismiss Petitioner’s motion.
+
+                                         I.      DISCUSSION
+
+          A. Legal Standards
+
+          A person may move to vacate his or her sentence on one of four different grounds: (1) “that
+
+ the sentence was imposed in violation of the Constitution or laws of the United States”; (2) “that
+
+ the court was without jurisdiction” to impose its sentence; (3) “that the sentence was in excess of
+
+ the maximum authorized by law”; or (4) that the sentence “is otherwise subject to collateral
+
+ attack.” 28 U.S.C. § 2255(a); see Knight v. United States, 37 F.3d 769, 772 (1st Cir. 1994).
+
+          The burden is on the section 2255 petitioner to establish by a preponderance of the evidence
+
+ that he or she is entitled to section 2255 relief. David v. United States, 134 F.3d 470, 474 (1st Cir.
+
+ 1998); United States v. DiCarlo, 575 F.2d 952, 954 (1st Cir. 1978). When “a petition for federal
+
+ habeas relief is presented to the judge who presided at the petitioner’s trial, the judge is at liberty
+
+ to employ the knowledge gleaned during previous proceedings and make findings based thereon
+
+ without convening an additional hearing.” United States v. McGill, 11 F.3d 223, 225 (1st Cir.
+
+ 1993).
+
+          A collateral challenge is not a substitute for an appeal. United States v. Frady, 456 U.S.
+
+ 152, 165 (1982); Berthoff v. United States, 308 F.3d 124, 127 (1st Cir. 2002). “Accordingly, a
+
+ defendant’s failure to raise a claim in a timely manner at trial or on appeal constitutes a procedural
+
+ default that bars collateral review, unless the defendant can demonstrate cause for the failure and
+
+ prejudice or actual innocence.” Berthoff, 308 F.3d at 127-28. Procedural default is an affirmative
+
+ defense. Sotirion v. United States, 617 F.3d 27, 32 (1st Cir. 2010). The First Circuit has
+
+
+
+                                                   2
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 3 of 29                     PageID #: 1770
+
+
+
+ recognized that “federal courts have the authority to consider procedural default sua sponte.”
+
+ Rosenthal v. O'Brien, 713 F.3d 676, 683 (1st Cir. 2013) (citing Brewer v. Marshall, 119 F.3d 993,
+
+ 999 (1st Cir. 1997)); see also Daniels v. United States, 532 U.S. 374, 382-83 (2001) (recognizing
+
+ that “procedural default rules developed in the habeas corpus context apply in § 2255 cases”)
+
+ (citing Frady, 456 U.S. at 167-68).
+
+        An allegation of ineffective assistance of counsel can excuse a procedural default, but only
+
+ if the petitioner demonstrates both that counsel’s representation fell below an objective standard
+
+ of reasonableness and that counsel’s deficient performance prejudiced the petitioner’s defense.
+
+ Turner v. United States, 699 F.3d 578, 584 (1st Cir. 2012) (citing Strickland v. Washington, 466
+
+ U.S. 668, 688 (1984)); Owens v. United States, 483 F.3d 48, 63 (1st Cir. 2007). Counsel’s strategic
+
+ decisions are afforded deference.     Strickland, 466 U.S. at 681, 689-92 (noting that counsel’s
+
+ “strategic choices about which lines of defense to pursue are owed deference commensurate with
+
+ the reasonableness of the professional judgments on which they are based,” “counsel is strongly
+
+ presumed to have rendered adequate assistance and made all significant decisions in the exercise
+
+ of reasonable professional judgment,” and a petitioner must have suffered prejudice).
+
+        A district court reviewing a claim of ineffective assistance of counsel need not address both
+
+ prongs of the test because a failure to meet either prong will undermine the claim. Strickland, 466
+
+ U.S. at 697. If a petitioner’s “claims fail on the merits, his related claims that counsel rendered
+
+ ineffective assistance in failing to press the claims at trial or on appeal must also fail.” Tse v.
+
+ United States, 290 F.3d 462, 465 (1st Cir. 2002); United States v. Hart, 933 F.2d 80, 83 (1st Cir.
+
+ 1991) (“Counsel is not required to waste the court’s time with futile or frivolous motions.”)
+
+ (quotation marks omitted).
+
+
+
+
+                                                  3
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 4 of 29                                    PageID #: 1771
+
+
+
+          “Evidentiary hearings on § 2255 petitions are the exception, not the norm, and there is a
+
+ heavy burden on the petitioner to demonstrate that an evidentiary hearing is warranted. An
+
+ evidentiary hearing ‘is not necessary when a [§] 2255 petition (1) is inadequate on its face, or (2)
+
+ although facially adequate, is conclusively refuted as to the alleged facts by the files and records
+
+ of the case.’” Moreno-Morales v. United States, 334 F.3d 140, 145 (1st Cir. 2003) (citation
+
+ omitted) (quoting DiCarlo, 575 F.2d at 954 (quotation marks omitted)). In determining whether
+
+ an evidentiary hearing is required, the court must “take as true the sworn allegations of fact set
+
+ forth in the petition ‘unless those allegations are merely conclusory, contradicted by the record, or
+
+ inherently incredible.’” Owens, 483 F.3d at 57 (quoting Ellis v. United States, 313 F.3d 636, 641
+
+ (1st Cir. 2002)). Summary dismissal of a motion is permitted when the allegations are “‘vague,
+
+ conclusory, or palpably incredible,’” even “‘if the record does not conclusively and expressly belie
+
+ [the] claim.’” David, 134 F.3d at 478 (quoting Machibroda v. United States, 368 U.S. 487, 495
+
+ (1962)). “Allegations that are so evanescent or bereft of detail that they cannot reasonably be
+
+ investigated (and, thus, corroborated or disproved) do not warrant an evidentiary hearing.” Id.
+
+ The Court can reasonably require a petitioner to supply the Court with salient details of the claim
+
+ prior to permitting discovery or a hearing. Id. (holding that “the district court did not abuse its
+
+ discretion in refusing to license a fishing expedition”).
+
+          B. Claims and Analysis2
+
+              1. Claims regarding the jury instructions (Grounds One, Eight, and Nine)
+
+          Grounds One, Eight, and Nine are based on Petitioner’s argument that he is not guilty
+
+ because the firearms he possessed were antiques and therefore not illegal under 18 U.S.C. §§ 921,
+
+
+
+ 2
+   Petitioner’s claims are addressed in the order presented in his section 2255 motion, except where similar claims are
+ grouped together. Ground Fourteen is not discussed in this recommendation, because that claim was fully addressed
+ in the Court’s decision on the Johnson issues.
+
+                                                           4
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 5 of 29                                        PageID #: 1772
+
+
+
+ 922(g)(1).3 In Ground One, Petitioner alleges that the Court erred when it failed to give an
+
+ instruction that the term “firearm” excluded antique firearms. (Motion at 5.) Petitioner includes
+
+ in Ground One a claim of ineffective assistance of appellate counsel. (Id.) Petitioner alleges in
+
+ Ground Eight ineffective assistance of trial and appellate counsel regarding the issue of whether
+
+ the guns were antiques. (Id. at 24-25.) In Ground Nine, Petitioner asserts evidence supported an
+
+ instruction regarding antique guns. (Id. at 26.) Petitioner argues that he should have been acquitted
+
+ because the Government did not prove the guns were not antiques.4 (Id.)
+
+
+
+ 3
+   Title 18 U.S.C. § 922(g)(1) provides in relevant part: “It shall be unlawful for any person . . . who has been convicted
+ in any court of, a crime punishable by imprisonment for a term exceeding one year . . . to . . . possess in or affecting
+ commerce, any firearm or ammunition.”
+
+ Title 18 U.S.C. § 921(a)(3) defines the term “firearm” and provides:
+
+          The term “firearm” means (A) any weapon (including a starter gun) which will or is designed to or
+          may readily be converted to expel a projectile by the action of an explosive; (B) the frame or receiver
+          of any such weapon; (C) any firearm muffler or firearm silencer; or (D) any destructive device.
+          Such term does not include an antique firearm.
+
+ Subsection 921(a)(16) defines the term “antique firearm” and provides:
+
+          The term “antique firearm” means—
+
+               (A) any firearm (including any firearm with a matchlock, flintlock, percussion cap, or similar
+               type of ignition system) manufactured in or before 1898; or
+
+               (B) any replica of any firearm described in subparagraph (A) if such replica—
+
+                   (i)    is not designed or redesigned for using rimfire or conventional centerfire fixed
+                   ammunition, or
+
+                   (ii)    uses rimfire or conventional centerfire fixed ammunition which is no longer
+                   manufactured in the United States and which is not readily available in the ordinary
+                   channels of commercial trade; or
+
+               (C) any muzzle loading rifle, muzzle loading shotgun, or muzzle loading pistol, which is
+               designed to use black powder, or a black powder substitute, and which cannot use fixed
+               ammunition. For purposes of this subparagraph, the term “antique firearm” shall not include
+               any weapon which incorporates a firearm frame or receiver, any firearm which is converted
+               into a muzzle loading weapon, or any muzzle loading weapon which can be readily converted
+               to fire fixed ammunition by replacing the barrel, bolt, breechblock, or any combination thereof.
+ 4
+   In Petitioner’s reply, he states: “Basically, Petitioner suffered ‘trial by ambush’ as he was not apprised of the fact
+ that [a] Government witness was going to testify that the guns he had witnessed Petitioner with were of the ‘antique’
+ variety.” (Reply, ECF No. 208 at 5.)
+
+                                                             5
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 6 of 29                                   PageID #: 1773
+
+
+
+          At trial, law enforcement officers identified the guns at issue as a Smith & Wesson .22
+
+ caliber revolver and a Taurus .38 caliber revolver. (Trial Tr. I, ECF No. 122 at 176-77.) At the
+
+ conclusion of the evidence, counsel moved for acquittal, citing in part the Government’s failure to
+
+ prove the firearms were not antiques. (Trial Tr. II, ECF No. 123 at 7-8.) The Court denied the
+
+ motion because the antique status of the guns was an affirmative defense that the defense failed to
+
+ raise. (Id. at 9-10.) A prosecution witness had testified that Petitioner showed him the two guns
+
+ at issue, and that Petitioner let the witness hold the guns after they arrived in a package sent to the
+
+ witness’s step-grandmother. (Trial Tr. I at 141-43.) The witness testified that one of the guns he
+
+ saw was “more antiquey” than the one in the courtroom, and he remembered that the other gun
+
+ was “shinier.”5 (Trial Tr. I at 146.) Counsel argued in closing:
+
+          Now, [the witness] told you yesterday that while he was there . . . Mr. Murdock
+          showed him a couple of guns. . . . One he said looked similar but the one he saw
+          was more antiquey, and the other one he said I don’t remember - - I don’t - - I
+          remember it being shinier. So ask yourself if those are the real guns that were
+          recovered by the police.
+
+
+
+ 5
+  The following is the witness testimony, on direct examination, on which Petitioner bases his argument that there
+ was evidence that the guns qualified as antique firearms:
+
+          Q. . . . I’m showing you what’s been marked for identification in my right hand as Government’s
+          Exhibit 4 and in my left hand as Government’s Exhibit 5.
+          A.         Okay.
+          Q.         Do these firearms look anything like what Mr. Murdock showed you?
+          A.         This one looks similar but it doesn’t look exactly like the right one.
+          ...
+          Q.         What were you saying about [Government’s Exhibit 4]?
+          A.         I thought it was a little bit bigger and had brown, like it was more antiquey.
+          Q.         All right. And did you only see it one time?
+          A.         Yeah.
+          Q.         For how long?
+          A.         Five minutes.
+          Q.         Okay. And the Government’s Exhibit 5 in my left hand, does that look like the firearm
+          that you were shown?
+          A.         About the same shape but I - - I remember it being shiny.
+          Q.         Shinier?
+          A.         Yeah. I don’t know, chrome or something, but – -
+
+ (Trial Tr. I, ECF No. 122 at 145-46.)
+
+                                                          6
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 7 of 29                        PageID #: 1774
+
+
+
+ (Trial Tr. II at 40.)
+
+         Contrary to Petitioner’s argument, the evidence did not support the affirmative defense.
+
+ The testimony that one of the guns looked “more antiquey” and the other one was “shinier” than
+
+ those shown to the witness at trial would not support a finding that the guns qualified as antiques.
+
+ Instead, the witness described the appearance or luster of the surface of the gun, and did not attest
+
+ to the date of manufacture or any of the structural or functional ways in which an antique firearm,
+
+ or a replica of an antique firearm, is defined under 18 U.S.C. § 921(a)(16).
+
+         When the antique firearm exception is raised as an affirmative defense, the
+         defendant bears the burden to produce evidence sufficient to raise a genuine dispute
+         about whether the firearm is an antique. Only then does the government need to
+         prove beyond a reasonable doubt that the firearm is not an antique firearm.
+
+ United States v. Pate, 518 F.3d 972, 976 (8th Cir. 2008) (quotation marks omitted); United States
+
+ v. Basnett, 735 F.3d 1255 (10th Cir. 2013) (“Every circuit court of appeals to consider the issue
+
+ has treated the antique exception as [an] affirmative defense.”). In this case, the record lacks any
+
+ evidence that would support the affirmative defense.
+
+         In addition, because the issue was not raised on appeal, the claim is procedurally defaulted.
+
+ Given the lack of merit of the defense, Petitioner has failed to demonstrate ineffective assistance
+
+ of counsel. In short, although counsel did not persuade the Court to acquit, and counsel did not
+
+ persuade the jury that the guns at trial were not the ones illegally possessed by Petitioner, counsel’s
+
+ performance was not deficient. See Strickland, 466 U.S. at 689. Appellate counsel was not
+
+ required to include a non-meritorious argument on appeal. See Hart, 933 F.2d at 83. The
+
+ ineffective assistance claim lacks merit.
+
+
+
+
+                                                   7
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 8 of 29                                           PageID #: 1775
+
+
+
+               2. Claim regarding lack of notice in the indictment of the Government’s plan to
+                  seek an enhanced sentence (Ground Two)
+
+          Petitioner argues that his enhanced sentence, imposed pursuant to 18 U.S.C. § 924(e)(1),
+
+ was illegal because the indictment did not cite section 924(e).6 (Motion at 6.) Petitioner notes that
+
+ the indictment cited section 924(a)(2), which restricts the term of imprisonment to a maximum of
+
+ ten years.7
+
+          At sentencing, counsel argued that the Government failed to provide adequate notice that
+
+ it would seek an enhanced penalty. (Sentencing Tr. I, ECF No. 117 at 9-10, 16.) The Government
+
+ maintained that it provided notice through an amended synopsis filed several months before the
+
+ trial. (Id. at 16; Amended Synopsis, ECF No. 18 at 1.) Petitioner contends in his section 2255
+
+ motion that notice provided in an amended synopsis deprived him of the constitutional protections
+
+ he would have received had the notice been included in the indictment. (Motion at 6.)
+
+          Petitioner’s claim lacks merit. In United States v. Craveiro, 907 F.2d 260 (1st Cir. 1990),
+
+ the First Circuit rejected arguments essentially identical to those of Petitioner, except that
+
+ Petitioner received pre-trial notice, whereas in Craveiro, the defendant did not receive notice until
+
+
+
+ 6
+   To the extent that Petitioner also argues that the Court erred when it engaged in judicial factfinding, i.e., when the
+ Court, as opposed to the jury, found that Petitioner had the prior convictions that resulted in an enhanced sentence,
+ the claim lacks merit. See United States v. Jiménez-Banegas, 790 F.3d 253, 258-59 (1st Cir. 2015) (holding that the
+ indictment need not mention a prior felony conviction in order for a statutory maximum penalty to apply “because it
+ is a matter of recidivism, which ‘is as typical a sentencing factor as one might imagine’”) (quoting Almendarez-Torres
+ v. United States, 523 U.S. 224, 230 (1998)).
+ 7
+  Title 18 U.S.C. § 924(a)(2) states: “Whoever knowingly violates . . . [18 U.S.C. § 922(g)] . . . shall be fined as
+ provided in this title, imprisoned not more than 10 years, or both. (Indictment, ECF No. 15.)
+
+          Title 18 U.S.C. § 924(e)(1) states:
+
+          In the case of a person who violates section 922(g) of this title and has three previous convictions
+          by any court referred to in section 922(g)(1) of this title for a violent felony or a serious drug offense,
+          or both, committed on occasions different from one another, such person shall be fined under this
+          title and imprisoned not less than fifteen years, and, notwithstanding any other provision of law, the
+          court shall not suspend the sentence of, or grant a probationary sentence to, such person with respect
+          to the conviction under section 922(g).
+
+
+                                                              8
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 9 of 29                        PageID #: 1776
+
+
+
+ after trial. In Craveiro, the defendant argued on appeal that the Government’s failure to include
+
+ in the indictment its intention to seek an enhanced penalty was both contrary to statutory intent
+
+ and unconstitutional. 907 F.2d at 262. The First Circuit noted that it “would normally expect the
+
+ government to give a defendant pre-trial notice of possible sentence enhancement,” but it held that
+
+ “there is no statutory requirement that it do so.” Id. at 264.
+
+           The First Circuit also rejected the defendant’s due process and equal protection arguments
+
+ regarding lack of notice of the sentencing enhancement. Id. at 264-65. “[P]rocedural due process
+
+ does not require pre-trial notice of the possibility of enhanced sentencing for recidivism. It requires
+
+ only reasonable notice of and an opportunity to be heard concerning the prior convictions.” Id. at
+
+ 264. The Court held that the defendant’s due process claim lacked merit because the Government
+
+ provided adequate notice before sentencing, and the defendant had the opportunity to contest his
+
+ prior convictions. Id. The Court determined that the defendant’s equal protection claim failed
+
+ because the defendant did not “show that his selection was ‘deliberately based upon an
+
+ unjustifiable standard such as race, religion, or other arbitrary classification.’” Id. at 264-65
+
+ (quoting Oyler v. Boles, 368 U.S. 448, 456 (1962)). The First Circuit also concluded that the lack
+
+ of a statutory requirement of pre-trial notification did not violate equal protection. Id. at 265.
+
+           Petitioner, like the defendant in Craveiro, has failed to demonstrate a denial of due process
+
+ or equal protection. See id. Because Petitioner’s statutory and constitutional notice-related
+
+ arguments fail on the merits, any related ineffective assistance claim also fails. See Tse, 290 F.3d
+
+ at 465.
+
+
+
+
+                                                     9
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 10 of 29                                         PageID #: 1777
+
+
+
+                 3. Claim that the Government committed prosecutorial misconduct when it
+                    withheld exculpatory evidence, and that counsel was ineffective for the failure
+                    to move to compel production of the exculpatory evidence (Grounds Three and
+                    Four)
+
+            In Ground Three, Petitioner contends that the Government committed prosecutorial
+
+ misconduct when it failed to produce an allegedly exculpatory letter, and that trial and appellate
+
+ counsel were deficient for the failure to move to compel the Government to produce the letter.
+
+ (Motion at 9-10.) Petitioner alleges in Ground Four that the Government also failed to preserve
+
+ and produce fingerprints from the trunk of the vehicle that contained the firearms.8 (Motion at 11-
+
+ 14.) Petitioner contends that although trial counsel raised the issue, appellate counsel did not. (Id.
+
+ at 15.)
+
+            Regarding Ground Three, the section 2255 motion did not identify the letter that was the
+
+ subject of this claim, but Petitioner’s reply confirms that the letter was the one discussed in the
+
+ Government’s response, i.e., a letter from Petitioner’s wife to a police chief. (Motion at 9;
+
+ Response at 9; Reply, ECF No. 208 at 7.) At trial, the police chief testified that he received a one-
+
+ page hand-written note from Petitioner’s wife, but that he was unable to find the note, and did not
+
+ remember anything about the note. (Trial Tr. I at 231.) In closing argument, counsel argued that
+
+ the Government’s failure to produce the note gave rise to reasonable doubt that the guns belonged
+
+ to Petitioner.9 (Trial Tr. II at 43.)
+
+
+
+ 8
+   The search that is the subject of Petitioner’s section 2255 claims took place at a home where Petitioner was staying
+ following his release on bail conditions on an unrelated charge; the bail conditions prohibited possession of firearms
+ and required him to submit to searches of his home and his person. United States v. Murdock, 699 F.3d 665, 667 (1st
+ Cir. 2012).
+ 9
+     Counsel said in closing:
+
+            In the transcript [of the telephone call] it says, Mr. Murdock says, hey, they’re not mine. They’re a
+            gift. And the police chief has this discussion with the caller about could you just have a note sent
+            in, please, send me a note so that – that the guns are a gift to someone else. And the caller indicated
+            that that would be my wife, yes, Carol Brawn would send that note in indicating that they’re a gift.
+            Well, we learned yesterday that yes, in fact, a handwritten – one-page handwritten note came in to
+
+                                                              10
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 11 of 29                                         PageID #: 1778
+
+
+
+          Petitioner’s prosecutorial misconduct claim regarding Ground Three is procedurally
+
+ defaulted because he did not raise this argument at trial or on appeal. See Owens, 483 F.3d at 56.
+
+ Therefore, the Court may consider the claim only if Petitioner can demonstrate deficient
+
+ performance by counsel and prejudice. See id.
+
+          Counsel may have made a strategic decision not to file a motion to compel production of
+
+ Petitioner’s wife’s note; Petitioner has not demonstrated otherwise, and counsel’s decisions are
+
+ afforded deference. See Strickland, 466 U.S. at 681, 689-90. Given counsel’s use of the absence
+
+ of the note in closing argument, Petitioner has failed to demonstrate either deficient performance
+
+ based on the decision not to move to compel production of the note, or prejudice to Petitioner.10
+
+ See id. at 689-92.
+
+          Ground Four is procedurally defaulted, because the issue of the Government’s failure to
+
+ preserve and produce fingerprint evidence was not raised on appeal. See Owens, 483 F.3d at 56.
+
+ During the trial, a police officer testified that the vehicle, in which the guns and ammunition were
+
+ found in the trunk, was covered with “heavy dust,” and that there were fingerprints in the dust.
+
+ (Trial Tr. I at 174-77.) The Government represents that it did not arrange for an analysis of any
+
+
+
+          the police station from Carol Brawn, but he’s looked and he cannot find it. Ask yourself, is that
+          reasonable doubt? Wouldn’t it be nice to know what that note said.
+
+ (Trial Tr. II, ECF No. 123 at 43.)
+ 10
+    Even if the prosecutorial misconduct claim in Ground Three had not been procedurally defaulted, it would have
+ failed on the merits. See Brady v. Maryland, 373 U.S. 83 (1963). The Supreme Court held in Brady that “the
+ suppression by the prosecution of evidence favorable to an accused upon request violates due process where the
+ evidence is material either to guilt or to punishment, irrespective of the good faith or bad faith of the prosecution.” Id.
+ at 87. The First Circuit has held that “[t]o establish a Brady violation, ‘a defendant must make three showings. The
+ evidence at issue (whether exculpatory or impeaching) must be favorable to the accused; that evidence must have been
+ either willfully or inadvertently suppressed by the government; and prejudice must have ensued.’” United States v.
+ Alverio-Meléndez, 640 F.3d 412, 424 (1st Cir. 2011) (quoting United States v. Mathur, 624 F.3d 498, 503 (1st Cir.
+ 2010)) (quotation marks omitted). Assuming, for the sake of argument, that Petitioner’s wife’s note would have been
+ both favorable to Petitioner and material to the trial, and that the Government either willfully or inadvertently failed
+ to produce it, Petitioner has failed to demonstrate that he was prejudiced, given the ample evidence at trial that
+ Petitioner possessed the firearms. (Trial Tr. I at 175-77, 190-91, 204-06.)
+
+
+                                                             11
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 12 of 29                                         PageID #: 1779
+
+
+
+ fingerprints found on the car.11 (Response at 9-10.) In closing argument, counsel used the lack of
+
+ fingerprint evidence to argue that the Government had failed to prove its case beyond a reasonable
+
+ doubt:
+
+          What about the MG or the Triumph, the car that was covered with dust, [an officer]
+          said heavy dust, fingerprints in the dust. [Another officer] said partial prints,
+          smudge prints on the trunk. Ask yourself, is that reasonable doubt? Ask yourself,
+          whose prints or whose DNA might have been there.
+
+ (Trial Tr. II at 42-43.) Trial counsel’s decision simply to use the lack of evidence to show that the
+
+ Government had not proven its case is entitled to deference. See Strickland, 466 U.S. at 681,
+
+ 689-90.      Petitioner thus has failed to demonstrate that counsel’s decision was deficient or that
+
+ Petitioner was prejudiced. See id.at 689-92.
+
+               4. Claim that the Court erred by not instructing that the effect on commerce
+                  must be substantial (Ground Five)
+
+          In Ground Five, Petitioner alleges that the Court failed properly to instruct the jury on the
+
+ definition of “commerce” and the requirement that commerce be “substantial,” and counsel
+
+ provided ineffective assistance on this issue. (Motion at 17-18.) Petitioner waives this argument
+
+ in his reply. (Reply at 9.) Therefore, the Court need not further consider the claim.
+
+          Even if Petitioner had not waived the claim, however, Petitioner would not have succeeded.
+
+ The claim is procedurally defaulted, and there is no basis for a claim of ineffective assistance of
+
+ counsel. The Court instructed the jury that one of the elements it must find was
+
+          that the firearms were connected with interstate commerce. This means that the
+          firearms at any time after they were manufactured moved from one state to another.
+          The travel need not have been connected to the charge in the indictment, need not
+          have been in furtherance of any unlawful activity, and need not have occurred while
+          Eric Murdock possessed the firearms. The Government does not have to prove that
+
+ 11
+   At trial, a special agent with the Bureau of Alcohol, Tobacco, Firearms and Explosives, testified that the ammunition
+ had been sent away for fingerprint identification, but the laboratory had not yet started the analysis at the time of trial.
+ (Trial Tr. I at 237-39.) He testified that the firearms were not sent for fingerprint analysis, because several people had
+ handled them, and, in the agent’s experience, it was somewhat rare to find a fingerprint on a firearm. (Id. at 239-40.)
+
+
+                                                             12
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 13 of 29                      PageID #: 1780
+
+
+
+        Eric Murdock knew that his conduct was illegal. The word "knowingly" means that
+        the act was done voluntarily and intentionally, not because of mistake or accident.
+
+ (Trial Tr. II at 18-19.) The instruction was not in error. See United States v. Combs, 555 F.3d 60,
+
+ 65, 66 (1st Cir. 2009). In Combs, the First Circuit applied “a ‘minimal nexus’ standard, requiring
+
+ proof only of interstate travel of a firearm or ammunition.” Id. at 65 (quoting Scarborough v.
+
+ United States, 431 U.S. 563, 575 (1977)). The Court held that “there was sufficient evidence for
+
+ a jury to conclude that either the firearm or the ammunition were ‘in or affecting commerce’ as
+
+ required by 18 U.S.C. § 922(g).” Id. at 66. Because Petitioner’s underlying claim lacked merit,
+
+ the claim of ineffective assistance of counsel would have failed had Petitioner not waived it. See
+
+ Tse, 290 F.3d at 465.
+
+            5. Claim that the Court erroneously found at sentencing that Petitioner
+               committed the offense as part of a pattern of criminal conduct engaged in as a
+               livelihood (Ground Six)
+
+        In Ground Six, Petitioner alleges that he did not commit the offense as part of a pattern of
+
+ criminal conduct engaged in as a livelihood. (Motion at 19; Reply at 18-19.) He contends that he
+
+ was a commercial fisherman and construction company owner, and, therefore, he did not earn his
+
+ livelihood as a criminal. (Id.) In his section 2255 motion, Petitioner asserts that appellate counsel
+
+ was ineffective because counsel failed to raise this issue on appeal. (Id. at 20.)
+
+        The claim is procedurally defaulted because it was not raised on appeal. See Owens, 483
+
+ F.3d at 56. Furthermore, it appears that the section of the sentencing guidelines regarding criminal
+
+ livelihood, USSG § 4B1.3, played no role in the Court’s determination of the sentencing guidelines
+
+ range. (Sentencing Tr. II, ECF No. 118 at 26-33.) Accordingly, Petitioner’s underlying claim is
+
+ without merit, and the related ineffective assistance claim also fails. See Tse, 290 F.3d at 465.
+
+
+
+
+                                                  13
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 14 of 29                                        PageID #: 1781
+
+
+
+               6. Claim that the Court and counsel failed to address witness perjury at the
+                  suppression hearing and at trial (Ground Seven)
+
+          Through Ground Seven, Petitioner asserts that a prosecution witness committed perjury at
+
+ the suppression hearing and at trial, and neither counsel nor the Court addressed the issue. (Motion
+
+ at 21-22.) Petitioner cites alleged inconsistencies among the police report, the suppression
+
+ testimony, and the trial testimony. (Id. at 21.) Petitioner contends the perjury concerned (1)
+
+ whether the officer questioned Petitioner during the search; (2) what Petitioner said about the color
+
+ of the bag in which the guns and ammunition were found during the search; and (3) whether
+
+ Petitioner arrived at the searched residence in a car or a truck.12 (Id.)
+
+          In Petitioner’s reply, he argues that, at a minimum, inconsistencies in the officer’s
+
+ testimony demonstrate bad faith by the Government. (Reply at 9-10.) He also appears to allege
+
+ that had the Government produced the letter that is the subject of his claim in Ground Three, the
+
+ officer may not have been emboldened to provide false testimony. (Id.)
+
+          The claim is procedurally defaulted because, although Petitioner challenged on appeal the
+
+ denial of his motion to suppress, he did not raise the argument he now asserts in the section 2255
+
+ motion. See Owens, 483 F.3d at 56.
+
+
+
+
+ 12
+   At the suppression hearing, the officer testified essentially that after other officers had found, in the trunk of a car
+ in a garage on the premises, a bag that held guns and ammunition, he took the bag and approached a group that
+ included Petitioner. (Suppression Tr., ECF No. 46 at 35-37.) The officer testified that he had the bag out of sight of
+ the group as he approached and said: “[W]e found the bag, the red bag - - the blue bag with your weapons in it to the
+ crowd that was there . . . .” (Id. at 35-38.) The prosecutor asked if the group included Petitioner. (Id. at 36.) The
+ officer replied: “It was actually Mr. Murdock that corrected me and said it was red. And I said, well, actually it is
+ red. And I said, are they yours, and he adamantly denied knowledge of the bag or the weapons.” (Id.) The prosecutor
+ asked: “So it’s your contention based on your experience that when you said, I found your guns in a blue bag, the red
+ bag was not in Mr. Murdock’s sight?” (Id. at 38.) The officer replied: “No.” (Id. at 39.) The prosecutor asked:
+ “And he immediately responded to you by saying, actually it’s a red bag?” (Id.) The officer replied: “Well, he started
+ by saying you mean the red - - and at that point he kind of smiled at me.” (Id.) The prosecutor asked: “Stopped
+ himself.” (Id.) The officer replied. “Yeah.” (Id.) At trial, the witness testified similarly, although there are minor
+ differences that Petitioner argues demonstrate either perjury or, at a minimum, inconsistencies in the testimony.
+ (Motion, ECF No. 135 at 21; Reply at 9-10; Trial Tr. I at 205-06.)
+
+
+                                                            14
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 15 of 29                       PageID #: 1782
+
+
+
+        Petitioner’s ineffective assistance claim lacks merit because counsel cross-examined the
+
+ officer on the discrepancies between his police report and his testimony in the suppression hearing:
+
+ “And isn’t it correct that nowhere in that report is there a discussion of you coming up the hill with
+
+ the bag saying I found your guns, and there’s no mention in your report of him responding it’s a
+
+ red bag?” (Suppression Tr., ECF No. 46 at 48.) The officer replied: “That’s correct.” (Id.)
+
+ Counsel cross-examined the witness at trial as well regarding the fact that the police report did not
+
+ contain a reference to the question about a blue bag. (Trial Tr. I at 210.) Under the circumstances,
+
+ neither trial nor appellate counsel’s performance was deficient. See Strickland, 466 U.S. at 687;
+
+ Hart, 933 F.2d at 83.
+
+        Furthermore, the officer’s testimony about whether he questioned Petitioner is irrelevant
+
+ for purposes of Petitioner’s section 2255 claim, because the Court concluded that Petitioner was
+
+ not in custody for purposes of Miranda v. Arizona, 384 U.S. 436, 444 (1966) (holding that the
+
+ procedural safeguards that must be used to protect the Fifth Amendment privilege against self-
+
+ incrimination apply to custodial interrogations). (Suppression Tr. at 159.) On that basis, the Court
+
+ concluded that it need not reach the issue whether the officer’s “apparently conscious misdirection
+
+ in referring to a blue bag while holding the red bag out of sight seems to be designed to produce a
+
+ response,” i.e., whether the officer’s statement about the color of the bag amounted to an
+
+ interrogation for Miranda purposes. (Id.) The First Circuit affirmed. Murdock, 699 F.3d at 670.
+
+        Because Petitioner’s underlying claim is without merit, his related ineffective assistance
+
+ claim also fails. See Tse, 290 F.3d at 465.
+
+            7. Claim based on counsel’s alleged waiver of Petitioner’s Fourth Amendment
+               expectation of privacy (Grounds Ten, Eleven, Twelve)
+
+        In Grounds Ten, Eleven, and Twelve, Petitioner alleges that trial and appellate counsel
+
+ were ineffective because (a) at the suppression hearing, trial counsel waived, without Petitioner’s
+
+
+                                                  15
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 16 of 29                                     PageID #: 1783
+
+
+
+ consent, the issue of Petitioner’s expectation of privacy, and (b) appellate counsel failed to raise
+
+ the issue.13 (Motion at 28-29, 31-33, 34-35.) Petitioner argues that he had a privacy interest in a
+
+ garage that someone had “sublet by barter” to him, that exigent circumstances did not exist, and
+
+ that a warrantless search violated the Fourth Amendment. (Id. at 28.) He contends that the bail
+
+ compliance search of his residence was illegal because he had no legal residence in Maine, and his
+
+ trailer was registered in Florida. (Id. at 31, 34.) He also argues that the trailer could not be searched
+
+ as a motor vehicle. (Id. at 34.) Petitioner further asserts in Ground Twelve that trial counsel had
+
+ a conflict of interest, although he does not specify any issue other than ineffective assistance of
+
+ counsel for the failure to move successfully to suppress the firearms and ammunition. (Id. at 34.)
+
+          The claim is procedurally defaulted because the issues were not raised on appeal. See
+
+ Owens, 483 F.3d at 56. Petitioner’s ineffective assistance claim lacks merit. The record lacks any
+
+ evidence to suggest that counsel waived any issue regarding Petitioner’s expectation of privacy.
+
+ Furthermore, the search was conducted pursuant to bail conditions, which diminished any
+
+ expectation of privacy. (Suppression Tr. at 6-8.) See United States v. Graham, 553 F.3d 6, 15-
+
+ 16 (1st Cir. 2009) (discussing the “substantially diminished expectation of privacy” in the context
+
+ of a conditional release pursuant to a probation order). In addition, the homeowner consented to
+
+ the search of the home and premises, and Petitioner had no legitimate expectation of privacy in
+
+ items found in a stored car when Petitioner neither owned nor leased the car, and he disclaimed
+
+ the bag found in the car. (Suppression Tr. at 22, 28, 92.) See Fernandez v. California, 134 S. Ct.
+
+ 1126, 1129-30 (2014) (noting that “police officers may search jointly occupied premises if one of
+
+
+ 13
+   At the suppression hearing, an officer testified that items that the homeowner said belonged to Petitioner were found
+ in a trailer at the home where Petitioner was staying. (Suppression Tr. at 22, 32-33, 41.) Petitioner moved in limine
+ to exclude evidence of the ammunition found in the trailer. (Motion in Limine, ECF No. 67.) At trial, the Court noted
+ that evidence of the ammunition found in the trailer was not the subject of the charged crime. (Trial Tr. I at 21.)
+ However, the Court concluded that the evidence was relevant to the charged crime and was not unfairly prejudicial,
+ and, therefore, the Court denied the motion, pursuant to Fed. R. Evid. 401, 402, and 403. (Id.) Trial counsel preserved
+ the issue. (Id. at 181.)
+
+                                                           16
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 17 of 29                                       PageID #: 1784
+
+
+
+ the occupants consents,” and discussing exceptions that do not apply here); United States v.
+
+ Lochan, 674 F.2d 960, 965 (1st Cir. 1982) (holding that the appellant did not have a reasonable
+
+ expectation of privacy in the contents of a car, in part because he did not own the car, and in part
+
+ because the appellant did not claim any interest in personal belongings in the car). Petitioner also
+
+ consented to the search of his trailer.14 (Suppression Tr. at 41-43.) See United States v. Zapata,
+
+ 18 F.3d 971, 977 (1st Cir. 1994) (noting, in the context of a search of a vehicle, that “it is settled
+
+ law that the act of handing over one’s car keys, if uncoerced, may in itself support an inference of
+
+ consent to search the vehicle,” and the failure to inform of the right to refuse permission does not
+
+ preclude a finding of consent).
+
+          Finally, because Petitioner does not allege that counsel had any specific conflict of interest,
+
+ that allegation may be dismissed. See David, 134 F.3d at 478. In sum, there is no basis for
+
+ Petitioner’s claim of ineffective assistance of trial or appellate counsel. See Tse, 290 F.3d at 465.
+
+              8. Claim regarding the motion in limine to exclude an audio recording of
+                 Petitioner’s voice (Grounds Thirteen, Twenty-Four)
+
+          In Ground Thirteen, Petitioner asserts that the Court erred when it denied his motion in
+
+ limine to exclude an audio recording of a telephone conversation between Petitioner and the South
+
+ Berwick Police Chief, and he alleges that trial and appellate counsel were ineffective regarding
+
+ this issue. (Motion at 37-39.) Petitioner argues that there was no foundation for the introduction
+
+ of the recording in evidence. (Id. at 37.) He also alleges that either someone tampered with the
+
+
+
+ 14
+   At the suppression hearing, an officer testified that Petitioner claimed ownership of the trailer, and that the trailer
+ was registered to Petitioner. (Suppression Tr. at 41.) The officer testified:
+
+          I indicated to [Petitioner] that we were going to search the trailer and it was locked and could we
+          have the keys to the trailer. He gave us a wad of keys to which none fit the locks. We indicated to
+          him that we would probably be breaking the lock to go in. He said, would you just please break the
+          small lock, it’s less expensive to replace, which we did.
+
+ (Id. at 42.) The officer described Petitioner’s demeanor as “cooperative” during the conversation. (Id. at 42-43.)
+
+                                                            17
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 18 of 29                                    PageID #: 1785
+
+
+
+ audio recording or there was an error, because the words “hypothetical” and “hypothetically” were
+
+ missing from the recording. (Id.) Petitioner contends the recording error prevented the jury from
+
+ making an informed decision. (Id. at 37, 39.)
+
+          Petitioner alleges in Ground Twenty-Four that the Government committed prosecutorial
+
+ misconduct by playing audio recordings of Petitioner’s voice to witnesses before the trial without
+
+ prior notice to Petitioner, and counsel was ineffective with respect to the issue. (Id. at 72.) The
+
+ reply restricts the claim to the tampering allegation and related ineffective assistance. (Reply at
+
+ 12.)
+
+          Counsel moved to exclude the audio recording because it could not be authenticated
+
+ pursuant to Rule 901 of the Federal Rules of Evidence. (Motion in Limine, ECF No. 66; Trial Tr.
+
+ I at 228.) At trial, counsel argued that the authentication of the tape should take place outside the
+
+ presence of the jury. (Trial Tr. I at 17-18.) The Court denied the motion and admitted the audio
+
+ recording on the basis that the content of the recording provided the necessary authentication.15
+
+ (Trial Tr. I at 20-21, 228-29.) The First Circuit concluded that the Court did not err when it
+
+ admitted the audio recording or when it determined that the transcript of the recording, combined
+
+ with the content of the recording, was sufficient to authenticate the recording. Murdock, 699 F.3d
+
+ at 670-71.
+
+          To the extent Petitioner’s underlying claim regarding admissibility of the audio recording
+
+ was addressed on appeal, he may not pursue it in a section 2255 motion. See Tracey v. United
+
+ States, 739 F.2d 679, 682 (1st Cir. 1984) (“Issues disposed of on a prior appeal will not be reviewed
+
+ again by way of a 2255 motion.”). To the extent Petitioner makes a separate argument that the
+
+
+ 15
+    The Court permitted the Government to show the jury a transcript of the audio recording while the recording was
+ played, but the Court did not admit the transcript in evidence. (Trial Tr. I at 229.) The Court concluded that the
+ testimony of witnesses was not in itself sufficient to authenticate the audio recording, because the witnesses did not
+ identify what they had listened to in order to identify Petitioner’s voice. (Id. at 127-28, 150-51, 228.)
+
+                                                          18
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 19 of 29                        PageID #: 1786
+
+
+
+ Government failed to provide advance notice that it planned to play a recording of Petitioner’s
+
+ voice to trial witnesses prior to trial, the argument is procedurally defaulted and fails on the merits
+
+ because the recording was otherwise authenticated. (Trial Tr. I at 20-21, 228-29.) Murdock, 699
+
+ F.3d at 670-71. Petitioner cannot demonstrate either deficient performance or prejudice, and the
+
+ ineffective assistance claim thus fails. See Strickland, 466 U.S. at 687; Hart, 933 F.2d at 83.
+
+         Petitioner’s claim that there was an error in the audio recording, or that someone tampered
+
+ with the recording, also fails because he has not demonstrated that prejudice resulted. Specifically,
+
+ even if the Court were to assume that Petitioner could demonstrate that the words “hypothetical”
+
+ and “hypothetically” were missing from the recording, Petitioner has not demonstrated that the
+
+ alleged missing words deprived him of a fair and reliable trial. See Strickland, 466 U.S. at 687.
+
+             9. Claim regarding the base offense level (Grounds Fifteen and Sixteen)
+
+         In Grounds Fifteen and Sixteen, Petitioner argues that the base offense level of 20 was too
+
+ high. (Motion at 47, 50.) He also alleges ineffective assistance of appellate counsel regarding the
+
+ issue. (Id. at 45, 51.)
+
+         In Objection No. 6 to the presentence investigation report, counsel argued that the base
+
+ offense level should be 14 or, alternatively, not higher than 20. The Court determined the base
+
+ offense level pursuant to USSG § 2K2.1(a)(4), as reflected by the Court’s decision to overrule
+
+ Petitioner’s Objection No. 6. (Sentencing Tr. II at 27, 32.) Section 2K2.1(a)(4)(A) provides that
+
+ the base offense level is 20 if “the defendant committed any part of the instant offense subsequent
+
+ to sustaining one felony conviction of either a crime of violence or a controlled substance offense.”
+
+         Petitioner’s section 2255 argument, in contrast, is based on Amendment 614, which
+
+ concerns USSG § 2A2.2. (Motion at 47, 52.) Section 2A2.2 is not relevant to the possession
+
+ offense for which Petitioner was sentenced; rather, it applies when the offense conduct involves
+
+
+
+                                                   19
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 20 of 29                      PageID #: 1787
+
+
+
+ aggravated assault. In short, the claim is procedurally defaulted, and Petitioner cannot demonstrate
+
+ either deficient performance or prejudice. See Strickland, 466 U.S. at 687; Hart, 933 F.2d at 83.
+
+             10. Claim that the predicate crimes information in the presentence investigation
+                 report is based on fraudulent police reports (Ground Seventeen)
+
+         In Ground Seventeen, Petitioner asserts that the predicate crimes information contained in
+
+ the presentence investigation report was based on unproven and fraudulent statements in police
+
+ reports. (Motion at 54.) He also alleges ineffective assistance of appellate counsel regarding the
+
+ issue. (Id. at 55.)
+
+         On appeal, Petitioner raised the issue of sufficiency of the evidence of the Florida and
+
+ Virginia predicate crimes on which his status as an armed career criminal was based. Murdock,
+
+ 699 F.3d at 671-72. However, he did not challenge the predicate crimes based on alleged fraud
+
+ in police reports, and, therefore, the issue is procedurally defaulted. Furthermore, the issue fails
+
+ on the merits because the Court’s determination of Petitioner’s enhanced sentence is based on
+
+ Petitioner’s prior convictions, not statements contained in police reports or summaries of police
+
+ reports. (Decision and Order, ECF No. 192 at 8 & n.13.) Because the underlying issue lacks merit,
+
+ Petitioner’s related ineffective assistance claims fail as well. See Tse, 290 F.3d at 465.
+
+             11. Claim regarding the identification of the guns (Ground Eighteen)
+
+         Petitioner asserts in Ground Eighteen that the Court erred when it permitted just two guns
+
+ to be presented for identification; he alleges trial and appellate ineffective assistance as to this
+
+ issue. (Motion at 56-57.)
+
+         In a sidebar conference at trial, counsel told the Court: “The defendant wishes me to object
+
+ at this point, that showing him one gun is unnecessarily suggestive and that he should be shown a
+
+ number of guns to see if he can pick out the particular gun involved in this case.” (Trial Tr. I at
+
+
+
+
+                                                  20
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 21 of 29                       PageID #: 1788
+
+
+
+ 144.) The Court overruled the objection, stating: “I understand the quasi-lineup objection, but that
+
+ can be pursued on cross-examination or closing argument in terms of the context.” (Id. at 145.)
+
+        The claim is procedurally defaulted because the issue was not raised on appeal. In addition,
+
+ the mere fact that the objection was overruled does not render counsel’s performance ineffective.
+
+ See Strickland, 466 U.S. at 689. Furthermore, there was ample evidence that the guns offered in
+
+ evidence at trial were Petitioner’s guns. (Trial Tr. I at 175-77, 190-91, 204-06.) Appellate counsel
+
+ was not required to include a non-meritorious argument on appeal regarding the identity of the
+
+ guns offered in evidence at trial. See Hart, 933 F.2d at 83.
+
+            12. Claim regarding the use of prior convictions based on judgments under alias
+                names (Ground Nineteen)
+
+        In Ground Nineteen, Petitioner argues that the Court abused its discretion at sentencing by
+
+ relying on Petitioner’s aliases, when it had previously ruled it need not make any finding regarding
+
+ the sufficiency of the evidence of the aliases. (Motion at 58, 60.) Petitioner apparently refers to
+
+ the Court’s ruling at sentencing on Petitioner’s Objection No. 3 to the presentence investigation
+
+ report. (Id. at 58.) In the objection, Petitioner argued that there was insufficient evidence of three
+
+ of the four aliases alleged in the presentence investigation report. At sentencing, the Court noted
+
+ the objection and concluded that it need not make a finding on sufficiency of the evidence as to
+
+ the record support for those aliases, because such a finding would have no effect on the sentence.
+
+ (Sentencing Tr. I at 4.)
+
+        At sentencing and on appeal, counsel addressed the issue of the misspelling of Petitioner’s
+
+ name and the mistaken inclusion of an additional name in the documentation of Petitioner’s prior
+
+ convictions. This was a separate argument from Petitioner’s Objection No. 3, and counsel
+
+ discussed the misspellings as part of his argument under Objection No. 7 to sufficiency of the
+
+ evidence of the prior convictions. (Id. at 20-23, 28-29.) The Court concluded that the misspellings
+
+
+                                                  21
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 22 of 29                                         PageID #: 1789
+
+
+
+ did not present a serious challenge to Petitioner’s identity, and it overruled the objection to the use
+
+ of documents that contained misspellings. (Id. at 46-47.) The Court also found that the use of
+
+ another name in a Virginia document was a scrivener’s error. (Id. at 49-50.) Petitioner raised the
+
+ issue on appeal, and the First Circuit concluded that the Court did not commit error. Murdock,
+
+ 699 F.3d at 671-72.
+
+          The claim regarding the aliases is procedurally defaulted because Petitioner did not raise it
+
+ on appeal. Although the Court made findings regarding the misspellings of Petitioner’s name, it
+
+ made no finding regarding aliases, and, therefore, counsel had no reason to pursue Objection No.
+
+ 3 on appeal. Consequently, Petitioner has failed to demonstrate either deficient performance or
+
+ prejudice, and the ineffective assistance claim thus fails. See Tse, 290 F.3d at 465.
+
+               13. Claim that the Court erred in denying Petitioner the right to both represent
+                   himself and have assistance of counsel at trial, and to represent himself at
+                   sentencing (Ground Twenty)
+
+          In Ground Twenty, Petitioner argues that the Court abused its discretion when it denied
+
+ him the right to both represent himself and have the assistance of counsel at trial, and to represent
+
+ himself alone at sentencing.16 (Motion at 61.) Petitioner alleges, as evidence of prejudice, that
+
+ counsel failed to advise him adequately regarding a marital privilege, and counsel failed to
+
+ impeach a Government witness. (Id.) Petitioner essentially alleges that, had he been functioning
+
+
+ 16
+   Related to this claim, Petitioner requested that the trial record be corrected as to what he told the Court in response
+ to the Court’s question: “Are you making a request that you want to proceed before this jury with no lawyer?” (Trial
+ Tr. I at 6; Motion, ECF No. 191 at 9-10; Attachment to Motion, ECF No. 191-1 at 6.) Petitioner asked that the record
+ be corrected to add that he said “I want to do the talking” to his response to the Court’s question, such that his response
+ was in substance (as corrected): “No, I’m making a request that I can, I want to do the talking, I’d like to assist in my
+ own defense.” (Id.) The Court denied the motion to correct the record. (Order, ECF No. 201.)
+
+          In Petitioner’s reply, he also alleges that the Court failed to inform him fully regarding his right to proceed
+ without counsel, and he argues that his decision not to proceed pro se therefore was not voluntary. (Reply at 17.) A
+ claim of an involuntary waiver applies when a defendant relinquishes the right to counsel without an adequate warning
+ from the court about “the pitfalls of self-representation.” See United States v. Woodard, 291 F.3d 95, 109 (1st Cir.
+ 2002) (citing Faretta v. California, 422 U.S. 806 (1975)). Woodard does not apply to Petitioner’s claim, because
+ Petitioner did not relinquish the right to counsel.
+
+
+                                                             22
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 23 of 29                                    PageID #: 1790
+
+
+
+ as his own counsel, he would have done a better job than counsel. (Id. at 61, 63.) The claim that
+
+ the Court abused its discretion regarding Petitioner’s request to both represent himself and have
+
+ counsel is procedurally defaulted because Petitioner did not raise the issue on appeal.
+
+          Petitioner’s ineffective assistance claim against trial counsel also fails because counsel
+
+ played no role in the Court’s colloquy with Petitioner as to whether Petitioner would have trial
+
+ counsel. (Trial Tr. I at 3-6.) At sentencing, it does not appear that Petitioner asked to represent
+
+ himself without counsel.17 Furthermore, the Court noted that it had reviewed Petitioner’s own
+
+ filings in addition to counsel’s filings. (Sentencing Tr. II at 2.) Petitioner also had the opportunity
+
+ to and did speak for himself during allocution. (Id. at 37-41.)
+
+          Appellate counsel’s decision not to raise the issue of self-representation on appeal was not
+
+ deficient, nor was Petitioner prejudiced, because, as the Court told Petitioner, he had the right
+
+ either to represent himself or to be represented by counsel, but he did not have the right to serve
+
+ as co-counsel with his attorney. (Trial Tr. I at 6.) See McKaskle v. Wiggins, 465 U.S. 168, 182-83
+
+ (1984) (holding that a defendant’s Sixth Amendment right to conduct his own defense does not
+
+ require a trial judge to permit a “hybrid” of self-representation and representation by counsel)
+
+ (quotation marks omitted); United States v. Washington, 434 F.3d 7, 16 (1st Cir. 2006) (noting that
+
+ “district courts have discretion to deny hybrid representation outright”) (quotation marks omitted).
+
+ Because Petitioner did not have a constitutional right to both represent himself and be represented
+
+ by counsel, his related ineffective assistance claim also fails. See Tse, 290 F.3d at 465.
+
+
+
+
+ 17
+   Petitioner states in his section 2255 motion that he made a request at the continued sentencing hearing to represent
+ himself. (Motion at 61.) The transcript of the continued sentencing does not appear to reflect such a request, but
+ Petitioner did request the appointment of counsel to represent him on appeal, “because [trial counsel] doesn’t do
+ appeals . . . .” (Sentencing Tr. II, ECF No. 118 at 39.)
+
+                                                          23
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 24 of 29                      PageID #: 1791
+
+
+
+             14. Claim regarding notice of sentencing rulings (Ground Twenty-One)
+
+         Petitioner alleges in Ground Twenty-One that the Court failed to provide Petitioner with
+
+ notice of the Court’s sentencing rulings, that the rulings should have been appended to the pre-
+
+ sentence investigation report, and that both trial and appellate counsel were ineffective because
+
+ they failed to raise the issue. (Motion at 64-65.)
+
+         In Petitioner’s reply, he states that he has withdrawn this claim. (Reply at 21.) Because
+
+ Petitioner’s withdrawal of the claim confirms that he concedes, as a matter of fact, that he received
+
+ sufficient notice, both the notice claim and the related ineffective assistance claim lack merit.
+
+             15. Claim regarding entrapment (Ground Twenty-Two)
+
+         In Ground Twenty-Two, Petitioner claims that the felon-in-possession law unfairly entraps
+
+ persons who innocently come into possession of guns, because it contains no option for voluntary
+
+ relinquishment of the guns. (Motion at 67.) Petitioner asserts that trial counsel requested an
+
+ innocent possession defense jury instruction, but failed to renew the request, and appellate counsel
+
+ failed to raise the issue. (Id. at 67-68.)
+
+         In Petitioner’s reply, he withdraws Ground Twenty-Two. (Reply at 18.) The claim would
+
+ not have succeeded in any event. The claim is procedurally defaulted because it was not raised on
+
+ appeal, and the ineffective assistance claim lacks merit. Trial counsel unsuccessfully challenged
+
+ the indictment on Second Amendment grounds; the Court denied the motion based on District of
+
+ Columbia v. Heller, 554 U.S. 570 (2008). (Motion to Dismiss, ECF No. 70; Trial Tr. I at 18-19.)
+
+ Trial counsel also requested an innocent possession jury instruction, and counsel preserved the
+
+ objection after the Court found that, under United States v. Mason, 233 F.3d 619, 624 (D.C. Cir.
+
+ 2000), the evidence was insufficient to support the instruction. (Trial Tr. II, ECF No. 123 at 2-4.)
+
+
+
+
+                                                  24
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 25 of 29                        PageID #: 1792
+
+
+
+            The fact that trial counsel was unsuccessful in persuading the Court to rule in Petitioner’s
+
+ favor on either issue does not render counsel’s performance deficient. See Strickland, 466 U.S. at
+
+ 689. Appellate counsel was not required to include a non-meritorious argument on appeal. See
+
+ Hart, 933 F.2d at 83. Furthermore, Petitioner was not prejudiced because, as Petitioner concedes,
+
+ his underlying arguments lack merit. See Heller, 554 U.S. at 626 (noting that “nothing in [the
+
+ Court’s] opinion should be taken to cast doubt on longstanding prohibitions on the possession of
+
+ firearms by felons”); Mason, 233 F.3d at 624 (holding that the innocent possession defense
+
+ requires evidence that the firearm was obtained innocently and that possession was transitory).
+
+                 16. Claim that appellate counsel failed to file an Anders brief
+                     (Ground Twenty-Three)
+
+            In Ground Twenty-Three, Petitioner alleges that appellate counsel provided ineffective
+
+ assistance for the failure to file an Anders brief and for the failure to enable Petitioner to preserve
+
+ all possible non-frivolous grounds for appeal.18 (Motion at 69-71.) Petitioner argues that the First
+
+ Circuit erred when it denied his motion to file a supplemental appellate brief pro se. (Id. at 69.)
+
+            Appellate counsel was not required to include a non-meritorious argument on appeal. See
+
+ Hart, 933 F.2d at 83. In addition, appellate counsel was not required to file an Anders brief, as an
+
+ Anders brief is required when counsel moves to withdraw based on a conclusion that an appeal
+
+ would be frivolous. See Anders v. California, 386 U.S. 738, 744 (1967) (holding that an attorney’s
+
+ motion to withdraw on grounds that an appeal is “wholly frivolous” must be “accompanied by a
+
+ brief referring to anything in the record that might arguably support the appeal”). Counsel did not
+
+ move to withdraw in Petitioner’s case; on the contrary, appellate counsel represented Petitioner
+
+ through the multi-issue appeal.
+
+
+
+
+ 18
+      Anders v. California, 386 U.S. 738 (1967).
+
+                                                    25
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 26 of 29                       PageID #: 1793
+
+
+
+        In this case, counsel might have simply and logically decided to limit the issues to be
+
+ argued on appeal. “Neither Anders nor any other decision of this Court suggests . . . that the
+
+ indigent defendant has a constitutional right to compel appointed counsel to press nonfrivolous
+
+ points requested by the client, if counsel, as a matter of professional judgment, decides not to
+
+ present those points.” Jones v. Barnes, 463 U.S. 745, 751 (1983). “As a general rule, appellate
+
+ litigators should winnow their stable of legal arguments, retaining their most effective claims and
+
+ putting unpromising claims to pasture before seeking appellate review.” United States v. Slade,
+
+ 980 F.2d 27, 30 (1st Cir. 1992). Thus, counsel’s decision not to argue on appeal every point
+
+ identified by Petitioner was not deficient, nor was Petitioner prejudiced by counsel’s decision.
+
+        Finally, this Court lacks the authority to review the order of the First Circuit to deny
+
+ Petitioner’s request to file a pro se supplemental appellate brief. “District courts lack jurisdiction
+
+ to review the decisions of appellate courts; instead, the habeas determinations of district courts are
+
+ reviewable by the Courts of Appeals.” Cardona v. Beeman, 382 F. App’x 376, 378 (5th Cir. 2010)
+
+ (per curiam) (citing 28 U.S.C. § 2253(a)).
+
+            17. Claims regarding criminal history points (Ground Twenty-Five)
+
+        In Ground Twenty-Five, Petitioner argues that four prior convictions should not have
+
+ resulted in criminal history points because the convictions did not carry felony punishments.
+
+ (Motion at 74.) Specifically, Petitioner challenges the criminal history points that were assigned
+
+ based on the following convictions: (1) a 2004 Florida conviction for obscene telephone calls
+
+ (paragraph 54 of the presentence investigation report); (2) a 2004 Florida conviction for driving
+
+ under the influence (paragraph 55); (3) a 2004 Florida conviction for unlawful possession of
+
+ handcuff keys (paragraph 57); and (4) a 2007 Florida conviction for aggravated assault (paragraph
+
+
+
+
+                                                  26
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 27 of 29                                       PageID #: 1794
+
+
+
+ 58).19 (Motion at 74.) Petitioner also alleges a related claim of ineffective assistance of counsel.
+
+ (Id. at 75.)
+
+          Petitioner’s argument is procedurally defaulted because he failed to raise it on appeal. The
+
+ ineffective assistance claim lacks merit because at sentencing, counsel raised and preserved
+
+ Petitioner’s objections, particularly Objection No. 9, to the criminal history points included in the
+
+ presentence investigation report. (Sentencing Tr. II at 4-5, 34.) The fact the Court did not rule in
+
+ Petitioner’s favor, i.e., that the Court ultimately assigned 11 of the 12 criminal history points set
+
+ forth in the presentence investigation report and determined that Petitioner’s criminal history was
+
+ Category V, does not render counsel’s performance deficient.20 (Sentencing Tr. II at 32.) See
+
+ Strickland, 466 U.S. at 689.
+
+          Furthermore, Petitioner’s underlying argument lacks merit; the Court did not err in
+
+ assigning two criminal history points each to the convictions for driving under the influence and
+
+ unlawful possession of a handcuff key, nor did the Court err in assigning one criminal history point
+
+ each to the convictions for the obscene telephone calls and the aggravated assault.21 Appellate
+
+
+ 19
+    Petitioner’s 1989 Massachusetts conviction for assault and battery with a dangerous weapon (paragraph 42 of the
+ presentence investigation report) is also cited in Ground Twenty-Five (Motion at 74), but that conviction did not result
+ in any criminal history points, pursuant to USSG § 4A1.2(e)(3), which provides essentially that a prior sentence that
+ is not within certain time periods is not assigned criminal history points. To the extent that Petitioner argues that the
+ conviction is too old to qualify as a predicate offense under 18 U.S.C. § 924(e), the argument lacks merit, pursuant to
+ Application Note 1 to USSG § 4B1.4, which provides in relevant part that the time periods relevant for criminal history
+ points, pursuant to section 4A1.2, do not apply “to the determination of whether a defendant is subject to an enhanced
+ sentence under 18 U.S.C. § 924(e).”
+ 20
+    The Court determined that eleven criminal history points, rather than twelve as included in the presentence
+ investigation report, applied because it reduced by one point the criminal history points assigned to a New Hampshire
+ conviction that Petitioner does not challenge in Ground Twenty-Five of the section 2255 motion. (Sentencing Tr. II
+ at 32.) Otherwise, the Court’s conclusions with respect to criminal history points follow the criminal history points
+ as set forth in the presentence investigation report. (Id.)
+ 21
+   USSG § 4A1.1(b) provides in relevant part that two criminal history points are added “for each prior sentence of
+ imprisonment of at least sixty days.” USSG § 4A1.1(c) provides in pertinent part that one criminal history point is
+ added for each prior sentence not counted in subsection (b). According to the presentence investigation report,
+ Petitioner’s convictions for driving under the influence and unlawful possession of a handcuff key each resulted in a
+ sentence of one year, with the sentences to be served concurrently with each other; these convictions appropriately
+ resulted in two criminal history points each, pursuant to section 4A1.1(b), regardless of credit for time served. The
+
+                                                            27
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 28 of 29                                     PageID #: 1795
+
+
+
+ counsel was not deficient for failing to include a non-meritorious argument on appeal. See Hart,
+
+ 933 F.2d at 83.
+
+              18. Claim regarding the cumulative effect of the ineffective assistance of counsel
+                  claims (Ground Twenty-Six)
+
+          In Ground Twenty-Six, Petitioner does not allege specific facts, but rather argues that his
+
+ various other claims of ineffective assistance of counsel should be viewed cumulatively. (Motion
+
+ at 76.) Because Ground Twenty-Six does not allege any specific facts independent of those alleged
+
+ in his other claims, and because, as explained above, the other claims lack merit, there is no basis
+
+ for Petitioner’s claim that the cumulative effect of any errors by counsel prejudiced Petitioner. See
+
+ David, 134 F.3d at 478; Dugas v. Coplan, 428 F.3d 317, 335 (1st Cir. 2005) (recognizing that
+
+ “‘Strickland clearly allows the court to consider the cumulative effect of counsel’s errors in
+
+ determining whether a defendant was prejudiced’”) (quoting Kubat v. Thieret, 867 F.2d 351, 370
+
+ (7th Cir. 1989) (citing Strickland, 466 U.S. at 694)).
+
+                                               II.      CONCLUSION
+
+          Based on the foregoing analysis, an evidentiary hearing is not warranted under Rule 8 of
+
+ the Rules Governing Section 2255 Cases.                  In addition, I recommend that the Court deny
+
+ Petitioner’s motion for habeas relief under 28 U.S.C. § 2255 (ECF No. 135). I further recommend
+
+ that the Court deny a certificate of appealability pursuant to Rule 11 of the Rules Governing
+
+ Section 2255 Cases because there is no substantial showing of the denial of a constitutional right
+
+ within the meaning of 28 U.S.C. § 2253(c)(2).
+
+                                                      NOTICE
+
+                 A party may file objections to those specified portions of a magistrate
+          judge’s report or proposed findings or recommended decisions entered pursuant to
+
+ conviction for the obscene telephone calls resulted in a sentence of 22 days in jail, and the conviction for aggravated
+ assault resulted in a sentence of 24 months of probation; these convictions appropriately resulted in one criminal
+ history point each, pursuant to section 4A1.1(c).
+
+                                                           28
+Case 2:11-cr-00008-DBH Document 216 Filed 08/22/16 Page 29 of 29                     PageID #: 1796
+
+
+
+       28 U.S.C. 636(b)(1)(B) for which de novo review by the district court is sought,
+       together with a supporting memorandum, within fourteen (14) days of being served
+       with a copy thereof. A responsive memorandum shall be filed within fourteen (14)
+       days after the filing of the objection.
+
+              Failure to file a timely objection shall constitute a waiver of the right to de
+       novo review by the district court and to appeal the district court's order.
+
+                                                     /s/ John C. Nivison
+                                                     U.S. Magistrate Judge
+
+       Dated this 22nd day of August, 2016.
+
+
+
+
+                                                29
+

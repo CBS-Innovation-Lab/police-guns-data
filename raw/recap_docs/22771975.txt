@@ -1,0 +1,438 @@
+                       UNITED STATES DISTRICT COURT
+                            DISTRICT OF MAINE
+
+UNITED STATES OF AMERICA                )
+                                        )
+      v.                                )       1:17-cr-00089-JAW
+                                        )
+IULIAN PETRE, a/k/a JULIAN              )
+PETRE                                   )
+
+
+                        ORDER ON MOTION IN LIMINE
+
+      The Court declines to allow the Government to admit so-called business
+
+records into evidence at an upcoming jury trial by certificates of authenticity without
+
+the testimony of an appropriate records custodian because the Defendant has raised
+
+trustworthiness and Crawford / Cameron questions about the documents and their
+
+admissibility under the Sixth Amendment’s Confrontation Clause.
+
+I.    BACKGROUND
+
+      A.     Procedural History
+
+      On June 20, 2017, a federal grand jury issued a seventeen count indictment
+
+against Iulian Petre for ten counts of receipt of a firearm in interstate commerce,
+
+alleged violations of 18 U.S.C. § 924(b), three counts of shipment of a firearm in
+
+foreign commerce, alleged violations of 18 U.S.C. § 924(b), three counts of promotion
+
+money laundering, alleged violations of 18 U.S.C. § 1956(a)(2), and one count of
+
+smuggling, an alleged violation of 18 U.S.C. § 554. Indictment (ECF No. 23). On July
+
+12, 2017, a federal grand jury issued a second seventeen count indictment against
+
+Mr. Petre. Superseding Indictment (ECF No. 32). On July 13, 2017, the Court set
+
+the matter for jury trial with jury selection occurring on August 21, 2017 and trial to
+
+                                            1
+follow immediately thereafter. Notice of Hr’g (ECF No. 39). On August 9, 2017, a
+
+federal grand jury issued a second seventeen count superseding indictment. Second
+
+Superseding Indictment (ECF No. 63). On August 10, 2017, the Government moved
+
+to dismiss Count IX of the Second Superseding Indictment and on the same day, the
+
+Court granted the Government’s motion, leaving sixteen counts pending against Mr.
+
+Petre. Gov’t’s Unopposed Mot. to Dismiss Count Nine (ECF No. 62); Order (ECF No.
+
+66).
+
+       On July 19, 2017, the Government filed a motion in limine for a ruling to
+
+permit it to use Federal Rule of Evidence 902(11) to authenticate records of several
+
+businesses. Mot. in Limine for a Ruling Permitting the Gov’t to Utilize Fed. R. of Evid.
+
+902(11) for the Authentication of Domestic Records of Regularly Conducted Activity
+
+(ECF No. 40) (Gov’t’s Mot.). On August 4, 2017, Mr. Petre filed a response. Def.’s
+
+Resp. to the Gov’t’s Mot. in Limine for a Ruling Permitting the Gov’t to Utilize Fed.
+
+Rule of Evid. 902(11) for the Authentication of Domestic Records of Regularly
+
+Conducted Activity (ECF No. 55) (Def.’s Opp’n). On August 14, 2017, the Government
+
+filed its reply. Gov’t’s Reply to Def.’s Opp’n to Mot. in Limine for a Ruling Permitting
+
+the Gov’t to Utilize Fed. R. of Evid. 902(11) for the Authentication of Domestic Records
+
+of Regularly Conducted Activity (ECF No. 73) (Gov’t’s Reply).
+
+       B.    Factual Background
+
+       In its motion, the Government identifies the records of five businesses for
+
+which it has secured certificates of authenticity: (1) Maine Savings Federal Credit
+
+Union, (2) Yahoo!, Inc., (3) Google, Inc., (4) Gunbroker.com, LLC, and (5) United
+
+
+
+                                           2
+Parcel Service of America, Inc. (UPS). Gov’t’s Mot. at 1. The Government describes
+
+the Maine Savings records as banking records pertaining to Mr. Petre’s monthly
+
+account statements and other account information, such as signature cards. Id. at 2.
+
+It describes the Yahoo! and Google records as subscriber information for Mr. Petre’s
+
+email accounts with Yahoo! and Google as well as data concerning emails sent and
+
+received. Id. It describes Gunbroker.com as an online auction site for firearms,
+
+ammunition, and firearm accessories, showing Mr. Petre’s purchase of firearms and
+
+information about the sellers of those firearms. Id. Finally, it describes the UPS
+
+records as containing information regarding shipments to the addresses that Mr.
+
+Petre allegedly used for his firearms activity. Id. at 2–3.
+
+II.   THE PARTIES’ POSITIONS
+
+      A.     The Government’s Position
+
+      Citing Rules of Evidence 803(6) and 902(11), the Government seeks a ruling in
+
+advance of trial concerning the admissibility of the business records of the listed
+
+companies, and it attaches to the motion, five certificates of authenticity that it
+
+previously provided Mr. Petre in discovery. Gov’t’s Mot. at 1. First, the Government
+
+argues that Federal Rules of Evidence 803(6) and 902(11) allow the admission of the
+
+business records upon certification. Id. at 3. Next, the Government addresses the
+
+Confrontation Clause issue that the United States Supreme Court highlighted in
+
+Crawford v. Washington, 541 U.S. 36 (2004). The Government contends that the
+
+Crawford Court and the First Circuit in United States v. Cameron, 699 F.3d 621 (1st
+
+
+
+
+                                           3
+Cir. 2012) expressly exempted business records as non-testimonial and therefore
+
+outside these Confrontation Clause issues. Gov’t’s Mot. at 3–5.
+
+      B.     Iulian Petre’s Opposition
+
+      Mr. Petre objected to the admission of all of these records without the presence
+
+of the custodian. Def.’s Opp’n at 4–8. First, Mr. Petre asserts that, even if the
+
+documents meet the other requirements under Rules 803(6) and 902(11), they are not
+
+admissible because they are not trustworthy. Id.
+
+      Next, although Mr. Petre acknowledges that most business records do not
+
+present Crawford’s Confrontation Clause issues, the records should be excluded
+
+because they were compiled specifically for trial and therefore in this case are subject
+
+to a Crawford objection. Id. More specifically, Mr. Petre refers to United States v.
+
+Cameron, 699 F.3d 621 (1st Cir. 2012), in which the First Circuit concluded that
+
+reports generated by internet service providers were inadmissible as business records
+
+because they violated the Sixth Amendment’s Confrontation Clause, id. at 638–52,
+
+and Mr. Petre claims that the business records in this case suffer the same
+
+constitutional infirmity. Def.’s Opp’n at 2–7.
+
+      Next, turning to the bank records, Mr. Petre says that he provided some of the
+
+information in the bank records and therefore “there needs to be adequate verification
+
+of this information.” Id. at 4. He explains that where information was supposedly
+
+obtained from the customer, other courts have required evidence that the business’s
+
+standard practice is to verify the information provided by the customer. Id. at 4, n.3.
+
+
+
+
+                                           4
+Next, Mr. Petre worries that the bank records were prepared specifically for use at
+
+trial and therefore would be subject to Confrontation Clause concerns. Id. at 5.
+
+      Regarding the Yahoo! and Google records, Mr. Petre asserts that the subscriber
+
+information is “not based on information generated by Yahoo! [and Google
+
+themselves] and, as such, present[] an issue in terms of trustworthiness.” Id. at 5–6.
+
+He describes the subscriber information as “unverified.” Id. Citing Cameron, he
+
+argues that these records were “not kept in a business format and the material was
+
+generated from his account for litigation.” Id.
+
+      Regarding    the   Gunbroker.com        records,   Mr.   Petre   questions   their
+
+trustworthiness. He notes that they were "generated though an online website” and
+
+“verification is too tenuous to establish trustworthiness” under Rule 803(6)(E). Id. at
+
+7.
+
+      Finally, he challenges the trustworthiness of the UPS documents because they
+
+“do not provide complete verification as to who conducted the shipment transactions.”
+
+Id. at 7–8.
+
+      C.      Government’s Reply
+
+      In its reply, the Government generally argues that Mr. Petre’s concerns about
+
+lack of trustworthiness of the proffered documents are misplaced. Gov’t’s Reply at 1.
+
+      Turning first to Federal Rule of Evidence 803(6), the Government agrees that
+
+some of the records “do contain statements that are not properly admitted as business
+
+records of the subject entities,” but it asserts that these statements are admissible
+
+under other rules of evidence, such as admissions of the defendant or statements
+
+
+
+                                          5
+offered for the effect on the listener. Id. at 2. The Government maintains that these
+
+evidentiary issues should not prevent the admission of information otherwise within
+
+the scope of Rule 803(6). Id.
+
+      Next, the Government challenges Mr. Petre’s Confrontation Clause argument.
+
+Id. at 2–3. In contrast with Cameron, the Government says that the businesses here
+
+did not create the records for anticipated criminal proceedings. Id. Moreover, the
+
+Government contends that even if a “limited number of those records” were produced
+
+from the entities’ records for presentation at trial, this does not “transform those
+
+records into testimonial statements.” Id.
+
+      Turning to Mr. Petre’s specific objections, the Government asserts that “[a]ll
+
+records [of Maine Savings Bank] are banking records kept by Maine Savings F.C.U.
+
+in the course of its business.” Id. at 3. It reiterates that financial records, such as
+
+those evidencing checks and wire transfers, fall within the business records exception
+
+to the hearsay rule. Id. at 3–4.
+
+      Regarding the Yahoo! and Google email records, the Government observes that
+
+Mr. Petre failed to identify any “trustworthiness concerns.” Id. at 4. The Government
+
+also says that Mr. Petre himself repeatedly admitted to government agents that the
+
+Gmail account was his.     Id. at 5.   The Government submits that “the account
+
+summary information for each account is admissible, presuming the proper
+
+foundation is formed at trial through the anticipated evidence and testimony.” Id.
+
+      After observing that Mr. Petre does not deny that certain information in the
+
+Gunbroker.com records falls within the scope of the business records exception, the
+
+
+
+                                            6
+Government asserts that the information that does not fall within the exception, such
+
+as Mr. Petre’s profile information, is admissible as an admission. Id. at 6.
+
+       Finally, as regards the UPS records, the Government says that it intends to
+
+offer the records to show “the location the item was shipped from, the place it was
+
+shipped to, and the dates for each.” Id. at 7. It also notes that the UPS records reveal
+
+the identity of the account holder associated with the shipment, that is, the person
+
+with a business relationship to UPS, who paid UPS to make the shipment. Id.
+
+III.   DISCUSSION
+
+       Federal Rule of Evidence 803(6), the so-called business records exception to the
+
+rule against hearsay, allows for the admission of the records of a regularly conducted
+
+activity so long as the records meet the standards of the Rule. FED. R. EVID. 803(6).
+
+Instead of calling the records custodian as a witness at trial, Rule 803(6) also allows
+
+the proponent of the records to submit a certificate of a custodian or other qualified
+
+witness attesting that the records meet the requirements of the Rule. Id. Once the
+
+certificate is completed, Rule 803(6) places the burden on the opponent of the record
+
+to demonstrate that the “source of information or the method or circumstances of
+
+preparation indicate a lack of trustworthiness.” Id.
+
+       The parties followed the procedure the Rule contemplates. The Government
+
+prepared and submitted Rule 803(6) certifications and the Defendant objected to the
+
+admission of the records on the ground of trustworthiness among other things. As
+
+the Advisory Committee on the Rules of Evidence observed in its 2014 note, once the
+
+proponent has established that the records meet the standards of the Rule, the
+
+
+
+                                           7
+burden to demonstrate a lack of trustworthiness rests with the opponent. FED. R.
+
+EVID. 803(6) advisory committee’s note to 2014 amendments (“It is appropriate to
+
+impose this burden on the opponent, as the basic admissibility requirements are
+
+sufficient to establish a presumption that the record is reliable”). Yet, the Advisory
+
+Committee also noted that the opponent is “not necessarily required to introduce
+
+affirmative evidence of untrustworthiness. For example, the opponent might argue
+
+that a record was prepared in anticipation of litigation and is favorable to the
+
+preparing party without needing to introduce evidence on the point.” Id. In general
+
+the First Circuit has upheld the admission of business records once the
+
+trustworthiness of the documents has been established. See Haag v. United States,
+
+485 F.3d 1, 3 (1st Cir. 2007) (IRS computerized records); United States v. McGill, 953
+
+F.2d 10, 14 (1st Cir. 1992) (bank records).
+
+       One problem here is that the records themselves have not been submitted to
+
+the Court by the Government and, therefore, it is difficult to know—other than in
+
+general terms—the specific reason for Mr. Petre’s objections. For example, Mr. Petre
+
+says that some portions of the records require express verification, such as statements
+
+allegedly attributable to Mr. Petre himself. Def.’s Opp’n at 4 n.3. In this argument,
+
+he notes that some courts have required the records custodian to confirm the
+
+business’ standard practices of verifying that the person is who he claims to be. Id.
+
+Mr. Petre is also worried that some of the records may have been compiled expressly
+
+for trial. Id.
+
+
+
+
+                                              8
+      In these circumstances, even though it is an added inconvenience and expense
+
+for the Government, the Court concludes that Mr. Petre has raised sufficient doubts
+
+about the trustworthiness of the documents to justify the presence of the records
+
+custodian at trial. Rule 803(6) provides a means to make litigation more efficient if
+
+there is no legitimate controversy about whether the proffered records meet the
+
+standards of the Rule. But it is not intended to allow automatic admission of those
+
+records without the testimony of an appropriate records custodian in the face of the
+
+opponent’s good faith and specific objections. Similarly, without the record before the
+
+Court, it is difficult to assess whether the proffered records pose any Crawford /
+
+Cameron questions.
+
+      During trial, the Court will hear from the records custodians outside the
+
+presence of the jury and, with the proposed record before the Court, will give Mr.
+
+Petre’s counsel an opportunity to explain why he objects to a specific record before its
+
+admission, and the Government’s counsel a corresponding opportunity to explain why
+
+it is nevertheless admissible.
+
+IV.   CONCLUSION
+
+      To the extent the Government is moving in limine for an order confirming the
+
+admissibility of the business records of Maine Savings Bank, Yahoo!, Google,
+
+Gunbroker, and United States Parcel Service without the need for an authenticating
+
+witness, the Court DENIES Government’s Motion in Limine for a Ruling Permitting
+
+the Government to Utilize Federal Rule of Evidence 902(11) for the Authentication of
+
+Domestic Records of Regularly Conducted Activity (ECF No. 40). The Court takes no
+
+
+
+                                           9
+position on whether the records might be admissible upon reviewing the actual
+
+records and hearing from the records custodian.
+
+      SO ORDERED.
+
+
+
+                                      /s/ John A. Woodcock, Jr.
+                                      JOHN A. WOODCOCK, JR
+                                      UNITED STATES DISTRICT JUDGE
+
+Dated this 16th day of August, 2017
+
+
+
+
+                                        10
+

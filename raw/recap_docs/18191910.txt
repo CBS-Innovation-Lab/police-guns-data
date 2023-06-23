@@ -1,0 +1,850 @@
+Case 1:08-Cr-10027-I\/|LW Document 80 Filed 12/30/16 Page 1 of 22
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF MASSACHUSETTS
+
+UNITED STATES OF AMERICA,
+
+V' cr. No. 08-10027-MLW
+
+MARCUS ROBINSON,
+Defendant.
+
+V-.r`.zvvv
+
+MEMORANDUM AND ORDER
+
+ 
+
+WOLF, D.J. December 30, 2016
+
+Petitioner Marcus Robinson is currently serving a 188-month
+sentence for being an armed career criminal in possession of a
+firearm. §§e 18 U.S.C. §§922, 924. He has, pro _§§, filed a
+petition to vacate his sentence under 28 U.S.C. §2255, alleging
+ineffective assistance of counsel both at sentencing for failure
+to raise certain arguments and after sentencing for failure to
+file a notice of appeal. He has also moved to amend his petition
+
+to include a claim under Johnson v. United States, 135 S. Ct.
+
+ 
+
+2551 (2015).
+
+For the reasons stated below, the court is ordering further
+submissions to determine whether an evidentiary hearing is
+required before deciding his claim of ineffective assistance of
+counsel concerning the alleged failure to file a notice of
+appeal. It is dismissing his claim of ineffective assistance of
+counsel at sentencing without a hearing. It is also denying his
+
+motion to amend.
+
+Case 1:08-Cr-10027-I\/|LW Document 80 Filed 12/30/16 Page 2 of 22
+
+I. BACKGROUND
+
+On February 13, 2008, Robinson was indicted on multiple
+federal firearm charges. Assistant Federal Public Defender
+Timothy Watkins was appointed to represent him. On September 16,
+2010, Robinson pled guilty to one count of being a felon in
+possession of a firearm, in violation of 18 U.S.C. §922(g)(1).
+The remaining charges were dismissed.
+
+On February 22, 2010, this court sentenced Robinson to 188
+months in prison under the Armed Career Criminal Act (the
+"ACCA"), 18 U.S.C. §924(e). His three predicate offenses were: a
+1997 conviction for assault and battery with a dangerous weapon;
+a 1998 conviction for distribution of cocaine near a school
+zone; and a 2002 conviction for distribution of cocaine near a
+school or park. §§e February 22, 2010 Transcript ("Tr.") at 8-
+10. Judgment entered on March 5, 2010. No notice of appeal was
+filed. The l4-day period in which to appeal expired on March 19,
+2010. s_eg Fed. R. App. P. 4(b)(1)(A).
+
+On August 12, 2010, Robinson sent a letter to the First
+Circuit expressing his dissatisfaction with Mr. Watkins'
+representation at sentencing and indicating that he wished to
+appeal his sentence. The First Circuit treated the letter as a
+pro §§ motion to file a late appeal. Upon learning of the
+appeal, Mr. Watkins moved to withdraw from representation,
+
+explaining that he believed the appeal was against Robinson's
+
+2
+
+Case 1:08-Cr-10027-|\/|LW Document 80 Filed 12/30/16 Page 3 of 22
+
+interests and that Robinson's claims were better raised on
+collateral review. The First Circuit allowed Mr. Watkins'
+motion.
+
+On August 19, 2010, the First Circuit ordered Robinson to
+show cause as to why his appeal should not be dismissed as
+untimely. It appointed appellate counsel on October 7, 2010.
+Robinson responded on November 8, 2010. He argued that he had
+instructed Mr. Watkins to file a timely notice of appeal, but
+Mr. Watkins failed to do so, resulting in his late appeal. On
+November 23, 2010, the First Circuit dismissed the appeal,
+explaining that "[s]uch a claim is appropriately addressed in a
+habeas petition, rather than in a direct appeal." United States
+v. Robinson, No. 10-1981 (1st Cir. Nov. 23, 2010).
+
+On. April 28, 2011, Robinson filed the instant motion to
+vacate his sentence under 28 U.S.C. §2255 (the "Petition"). The
+Petition asserts two grounds for relief, both alleging
+ineffective assistance of counsel. In Ground One, Robinson
+alleges that defense counsel was deficient for failing to file a
+timely appeal despite Robinson's express instructions to do so.
+In Ground Two, Robinson alleges that counsel was deficient for
+failing to challenge Robinson's sentencing enhancement under 18
+U.S.C. §924(e) and to request a competency evaluation under 18
+
+U.S.C. §4241.
+
+Case 1:08-Cr-10027-|\/|LW Document 80 Filed 12/30/16 Page 4 of 22
+
+In response to the Petition, the government argues that
+Robinson's claims are barred by the one-year statute of
+limitations in §2255(f) and, in any event, are unmeritorious.
+Accordingly, it requests that the court dismiss the Petition
+without a hearing.
+
+Robinson filed a reply to the government's arguments. On
+August 31, 2015, Robinson also moved to amend the Petition by
+adding a claim under Johnson v. United States, 135 S. Ct. 2551
+(2015). In his proposed amendment, Robinson argues that two of
+the three convictions used to enhance his sentence under the
+ACCA are no longer predicate offenses.
+
+II. LEGAL STANDARD
+
+A.§2255(b) Hearing Requirement
+
+28 U.S.C. §2255 provides a federal prisoner with a means to
+collaterally attack his sentence. Specifically:
+
+28 U.S.C. §2255 sets forth four grounds upon which a
+
+federal prisoner may base a claim for relief: (1)
+
+"that the sentence was imposed. in 'violation. of the
+
+Constitution or laws of the United States;" (2) "that
+
+the court was without jurisdiction to impose such
+
+sentence;" (3) "that the sentence was in excess of
+
+the maximum authorized by law;" and (4) that the
+sentence "is otherwise subject to collateral attack."
+
+Knight V. United StateS, 37 F.3d 769, 772 (lSt Cir. 1994)
+
+ 
+
+(quoting Hill v. United States, 368 U.S. 424, 426~27 (1962)).
+
+ 
+
+Where, as here, a petitioner is acting pro §e, his petition must
+
+be "liberally construed . . . [and] a pro §§ complaint, however
+
+Case 1:08-Cr-10027-|\/|LW Document 80 Filed 12/30/16 Page 5 of 22
+
+inartfully pleaded, must be held to less stringent standards
+
+than formal pleadings drafted by lawyers.“ Erickson v. Pardus,
+
+ 
+
+551 U.S. 89, 94, (2007) (quoting Estelle v. Gamble, 429 U.S. 97,
+
+ 
+
+106 (1976)).
+
+When a prisoner files a §2255 petition, 28 U.S.C. §2255(b)
+requires that:
+
+Unless the motion and the files and records of the
+case conclusively show that the prisoner is entitled
+to no relief, the court shall cause notice thereof to
+be served upon the United States attorney, grant a
+prompt hearing thereon, determine the issues and make
+findings of fact and conclusions of law with respect
+thereto.
+
+28 U.S.C. §2255(b). As the First Circuit wrote in United States
+V. MCGill, ll F.3d 223 (lSt Cir. 1993):
+
+We have distilled these principles into a rule that
+holds a hearing to be unnecessary "when a §2255
+motion (1) is inadequate on its face, or (2) although
+facially adequate is conclusively refuted as to the
+alleged facts by the files and records of the case."
+Moran v. Hogan, 494 F.2d 1220, 1222 (1st Cir. 1974).
+In other words, a "§2255 motion may be denied without
+a hearing as to those allegations which, if accepted
+as true, entitle the movant to no relief, or which
+need not be accepted as true because they state
+conclusions instead of facts, contradict the record,
+
+ 
+
+or are 'inherently incredible.'" Shraiar v. United
+States, 736 F.2d 817, 818 (1st Cir. 1984) (citations
+omitted).
+
+Id. at 225-26 (some citations omitted); see also Ellis v. United
+
+ 
+
+States, 313 F.3d 636, 641 (lSt Cir. 2002).
+The burden is on the petitioner to show, by a preponderance
+
+of the evidence, that an evidentiary hearing is warranted. See
+
+Case 1:08-cr-10027-|\/|LW Document 80 Filed 12/30/16 Page 6 of 22
+
+Moreno-Morales v. United States, 334 F.3d 140, 145 (lst Cir.
+
+ 
+
+2003); Myatt v. United States, 875 F.2d 8, 11 (lst Cir. 1989);
+
+see also David v. United States, 134 F.3d 470, 478 (lst Cir.
+
+ 
+
+1998) ("To progress to an evidentiary hearing, a habeas
+petitioner must do more than proffer gauzy generalities or drop
+self-serving hints that a constitutional violation lurks in the
+wings.").
+
+In deciding whether to hold an evidentiary hearing, "the
+district court may make its preliminary assessment of the
+motion's merits on an expanded record that may include 'in an
+
+appropriate case, even. affidavits.'" Miller v. United States,
+
+ 
+
+564 F.2d 103, 105 (lst Cir. 1977) (quoting Raines v. United
+
+ 
+
+States, 423 F.2d 526, 530 (4th Cir. 1970)). "However, material
+issues of fact may not be resolved against the petitioner solely
+by relying on §§ parte, sworn or unsworn, statements of the
+
+government or defense counsel." United States v. Butt, 731 F.2d
+
+ 
+
+75, 77-78 (lst Cir. 1984) (internal citations omitted).
+"Affidavits may assist only in determining if there is a genuine
+issue of fact to resolve." Miller, 564 F.2d at 106 (citing
+
+Blackledge v. Allison, 431 U.S. 63, 80 (1977)).
+
+ 
+
+B.Ineffective Assistance of Counsel
+
+ 
+
+"A defendant claiming ineffective assistance of counsel
+must show (1) that counsel's representation 'fell below an
+
+objective standard of reasonableness,' . . . and (2) that
+
+Case 1:08-Cr-10027-|\/|LW Document 80 Filed 12/30/16 Page 7 of 22
+
+counsel's deficient performance prejudiced the defendant[.]".
+
+Roe v. Flores-Ortega, 528 U.S. 470, 476-77 (2000) (citing
+
+ 
+
+Strickland v. Washington, 466 U.S. 668, 688, 694 (1984)); see
+
+ 
+
+also Peralta v. United States, 597 F.3d 74, 79 (1st Cir. 2010).
+
+ 
+
+"The burden is on the petitioner to demonstrate ineffective
+assistance by a preponderance of the evidence.“ Lema v. United
+States, 987 F.2d 48, 51 (lst Cir. 1993).
+
+"In order to satisfy the 'deficient performance' prong, [a
+movant] must show that his trial counsel's representation 'fell
+below an. objective standard of reasonableness.'" Peralta, 597
+F.3d at 79 (quoting Strickland, 466 U.S. at 688). "'Judicial
+scrutiny of counsel's performance must be highly deferential'
+[and] the reviewing court "'must indulge ea strong presumption
+that counsel's conduct falls within the wide range of reasonable
+professional assistance.'" United States v. Valerio, 676 F.3d
+237, 246 (lst Cir. 2012) (quoting Strickland, 446 U.S. at 689).
+"It is only where, given the facts known at the time, counsel's
+choice was so patently unreasonable that no competent attorney
+would. have made it, that the ineffective assistance prong is
+
+satisfied." Knight v. Spencer, 447 F.3d 6, 15 (lst Cir. 2006)
+
+ 
+
+(internal quotation marks omitted).
+"With regard to the prejudice prong of Strickland, ‘[t]he
+defendant must show that there is a reasonable probability that,
+
+but for counsel's unprofessional errors, the result of the
+
+7
+
+Case 1:08-Cr-10027-|\/|LW Document 80 Filed 12/30/16 Page 8 of 22
+
+proceeding would have been different.‘" Valerio, 676 F.3d at
+246-47 (quoting Strickland, 466 U.S. at 694). "Although [the
+defendant] need not show 'that counsel's deficient conduct more
+likely than not altered the outcome' of his sentencing
+proceeding, he must establish 'a probability sufficient to
+undermine confidence in [that] outcome.' Peralta, 597 F.3d at 80
+
+(quoting Porter v. McCollum, 558 U.S. 30, 44 (2009)).
+
+ 
+
+III. MOTION TO DISMISS ROBINSON'S §2255 PETITION
+
+In Ground One of the Petition, Robinson alleges that
+defense counsel was constitutionally ineffective for failing to
+file a notice of appeal. In Ground Two, he asserts that counsel
+was ineffective for failing to challenge his ACCA designation or
+move for a competency evaluation at sentencing. Robinson
+requests an evidentiary hearing on both grounds. The government
+argues that the Petition is untimely and, in any event,
+unmeritorious, and should be dismissed without a hearing.
+
+For the reasons explained below, the court finds that
+additional information is required to decide whether Ground One
+is timely and meritorious. Accordingly, the court is ordering
+additional submissions, and may order an evidentiary hearing, as
+described in Part V, in§£§. As to Ground Two, the court finds
+
+that the record "conclusively show[s]" Robinson is not entitled
+
+Case 1:08-Cr-10027-|\/|LW Document 80 Filed 12/30/16 Page 9 of 22
+
+to relief, It is, therefore, dismissing Ground 'Two without a
+hearing.l See 28 U.S.C. §2255(b).
+
+A.Ground One: Ineffective Assistance for Failure to File
+Notice of Appeal
+
+ 
+
+1.Statute of Limitations
+
+ 
+
+A petition for relief under §2255 must be brought within
+one year of the latest of:
+
+(1) the date on which the judgment of conviction
+becomes final;
+
+(2) the date on which the impediment to making a
+motion created by governmental action in violation of
+the Constitution or laws of the United States is
+removed, if the movant was prevented from making a
+motion by such governmental action;
+
+(3) the date on which the right asserted was
+initially recognized. by the Supreme Court, if that
+right has been newly recognized by the Supreme Court
+and made retroactively applicable to cases on
+collateral review; or
+
+(4) the date on which the facts supporting the claim
+or claims presented could have been discovered
+through the exercise of due diligence.
+
+28 U.S.C. §2255(£). Robinson's conviction became final on March
+
+19, 2010, when his time to appeal expired.2 He filed his Petition
+
+ 
+
+1 Because the court finds that Ground Two is unmeritorious, see
+Part III.B, infra, it is not deciding whether Ground Two is
+timely under §2255(f).
+
+2 Although neither the Supreme Court nor the First Circuit has
+directly addressed the issues, numerous other courts have held
+that "an unappealed federal criminal judgment becomes final for
+the purposes of §2255(f) . . . when the time expires for filing
+a direct appeal. United States v. Gaudette, No. CR O9-30014-GAO,
+
+ 
+
+9
+
+Case 1:08-Cr-10027-|\/|LW Document 80 Filed 12/30/16 Page 10 of 22
+
+on April 28, 2011, one year and 40 days later. The Petition is
+not, therefore, timely under §2255(£)(1).
+
+However, Ground One may be timely under §2255(f)(4). Under
+subsection (f)(4), the limitations period for Ground One began
+to run "when a duly diligent person in [Robinson's]
+circumstances would have discovered that no appeal had been
+
+filed." United States v. Wims, 225 F.3d 186, 190 (2d Cir. 2000);
+
+ 
+
+Cooper v. Bravo, 36 Fed. App'x 343, 346 (10th Cir. 2002). This
+determination is "fact-specific and 'depends, among other
+things, on the details of [Robinson's] post-sentence
+conversation with his lawyer and on the conditions of his
+
+confinement.'" Agosto v. United States, No. 04-CR-10336-NMG-5,
+
+ 
+
+2012 WL 3518130, at *7 (D. Mass. Aug. 15, 2012) (quoting Wims,
+225 F.3d at 190-91).
+
+Robinson alleges that he "vehemently urged" counsel to file
+an appeal and that counsel "more than assured" him an appeal
+would be filed. Petition at 9. However, no other evidence
+concerning the details of his post-sentencing conversations with
+counsel have been presented to the court. The record does not,
+therefore, conclusively establish whether a person acting with
+
+due diligence would have discovered counsel's failure to file a
+
+ 
+
+2015 WL 6870051, at *1 (D. Mass. Nov. 6, 2015) (collecting
+cases).
+
+10
+
+Case 1:08-Cr-10027-|\/|LW Document 80 Filed 12/30/16 Page 11 of 22
+
+notice of appeal within 40 days of his conviction becoming
+final. §§§ Wims, 225 F.3d at 191 (5-month delay in discovering
+counsel's failure to appeal was "not so clearly' unreasonable
+that it plainly appears from the face of appellant's petition
+
+that he is barred from habeas relief"); Cooper, 36 Fed.
+App'x at 346 (3-month delay in discovering counsel's failure to
+appeal may be reasonable); Agosto, 2012 WL 3518130, at *7
+(record did not Conclusively establish that 5-month delay in
+discovering counsel's failure to appeal was unreasonable); see
+
+also United States v. Goldman, No. 92-CR-10229-MLW, 2015 WL
+
+ 
+
+4762746, at *2 (D. Mass. Aug. 12, 2015) (permitting additional
+briefing on 113-day delay in discovering counsel's failure to
+appeal). The court is, therefore, not dismissing Ground One as
+untimely.
+
+2.Ineffective Assistance of Counsel
+
+Failure to file a notice of appeal may constitute
+
+ineffective assistance of counsel. See Roe v. Flores-Ortega, 528
+
+ 
+
+U.S. 470, 476-77 (2000). Where, as here, counsel consulted the
+petitioner about the possibility of appeal, "the question. of
+deficient performance is easily answered: Counsel performs in a
+professionally unreasonable manner only by failing to follow the
+defendant's express instructions with respect to an appeal." §d;
+at 478. To show prejudice, "a defendant must demonstrate that
+
+there is a reasonable probability that, but for counsel's
+
+ll
+
+Case 1:08-Cr-10027-|\/|LW Document 80 Filed 12/30/16 Page 12 of 22
+
+deficient failure to consult with him about an appeal, he would
+have timely appealed." ld; at 484. The defendant is not required
+to specify the issues he would have raised on appeal or show
+that those issues are meritorious. ld; at 486.
+
+Robinson asserts that he instructed counsel to appeal; that
+counsel assured him an appeal would be filed; and that counsel
+abandoned him at the beginning of the appeals process. This is
+sufficient to allege deficient performance. See Flores-Ortega
+528 U.S. at 478. Robinson further alleges that, but for
+counsel's allegedly deficient conduct, he would have challenged
+his ACCA. designation. on appeal. This is sufficient to allege
+prejudice. §§§ id; at 484. Accordingly, Robinson's allegations
+are facially adequate to allege ineffective assistance of
+counsel under Flores-Ortega. If these allegation are true,
+Robinson will be entitled to an appeal. §§§ id; at 484; United
+
+States v. Santos-Rios, 151 F. App'x 2, at M (lst Cir. 2005)
+
+ 
+
+(unpublished) (citing `United States v. Torres-Otero, 232 F.3d
+24, 32 (lst Cir. 2000)).
+
+The government argues that the record does not support
+Robinson's allegations. It asks the court to infer, from
+
+Robinson's August 12, 2010 pro §§ letter to the First Circuit
+
+12
+
+Case 1:08-Cr-10027-|\/|LW Document 80 Filed 12/30/16 Page 13 of 22
+
+and Mr. Watkins' motion to withdraw, that Robinson never
+instructed counsel to appeal.3
+
+It is true that Robinson did not make any allegations about
+counsel's deficient conduct in his August 12, 2010 letter
+seeking to appeal late. §§§ Docket No. 62. At that time he
+evidently had the hope that the First Circuit would accept his
+appeal and that he would not be required to establish
+ineffective assistance of counsel to have the merit of it
+decided. In any event, Robinson's letter is consistent with his
+allegation that he intended to appeal his sentence.
+
+As to Mr. Watkins' unsworn notice of withdrawal, it merely
+states that his decision not to file a notice of appeal "was []
+deliberate and made after [] consultation with defendant."
+Docket No. 64 at 1 n.1. It does not state whether that decision
+was against Robinson's express wishes. In any event, "material
+issues of fact may not be resolved against the petitioner solely
+
+by relying on §x: parte, sworn or unsworn, statements of the
+
+ 
+
+3 The government also argues that the fact that Robinson pled
+guilty undermines his claim that he wished to appeal. Under
+Flores-Ortega, a defendant's guilty plea is relevant to whether
+counsel was deficient for failing to consult the defendant about
+an. appeal at all. 528 U.S. at 478-480. In the instant case,
+however, it is undisputed that Mr. Watkins consulted Robinson
+about the possibility of an appeal. Accordingly, the relevant
+question is not whether counsel believed Robinson would want to
+appeal, but whether counsel "fail[ed] to follow the defendant's
+express instructions with respect to an appeal." ld; at 478.
+
+13
+
+Case 1:08-cr-10027-|\/|LW Document 80 Filed 12/30/16 Page 14 of 22
+
+government or defense counsel." §ut§, 731 F.2d at 77-78
+(internal citations omitted).
+
+The current record shows, at most, that there is a dispute
+as to whether Robinson expressly instructed his counsel to file
+a notice of appeal or whether he was prejudiced by counsel's
+alleged failure to do so. It does not, however, conclusively
+show that he is not entitled to relief on Ground One.
+
+B.Ground Two: Ineffective Assistance at Sentencing
+
+ 
+
+1.Failure to Challenge ACCA Designation
+
+ 
+
+Robinson also alleges that defense counsel was ineffective
+for failing to challenge his designation as an armed career
+criminal under the ACCA. As indicated earlier, Robinson's
+sentenced was enhanced under the ACCA based on three predicate
+offenses: a 1997 conviction for assault and battery with a
+dangerous weapon; a 1998 conviction for distribution of cocaine
+near a school zone; and a 2002 conviction for distribution of
+cocaine near a school or park. §§§ February 22, 2010 Tr. at 8-
+10. Robinson now asserts that one of his drug convictions "was
+reduced from a Serious offense to a Misdemeanor Drug Violation"
+and, therefore, that defense counsel should have argued that the
+offense was not a predicate under the ACCA. Petition at 12.
+
+Robinson does not indicate which of his two predicate drug
+offenses counsel should have challenged. Reading Robinson's pro
+
+§§ petition liberally, it appears that his claim is based on the
+
+14
+
+Case 1:08-cr-10027-|\/|LW Document 80 Filed 12/30/16 Page 15 of 22
+
+fact that the 2002 offense was prosecuted in District Court
+rather than Superior Court. A Massachusetts District Court may
+not impose a sentence of more than two and a half years in jail
+or a house of corrections. _S_e_e_ M.G.L. c. 218 §27. However, under
+the "categorical approach" required by the Supreme Court, it is
+the statute, not the court in which he was convicted, that
+determines whether a particular offense is an ACCA predicate.
+
+See United States v. Moore, 286 F.3d 47, 49 (lst Cir. 2002).
+
+ 
+
+Robinson was convicted in 2002 of distribution of a class B
+controlled substance, which is punishable by up to 10 years in
+prison. §e_e M.G.L. c. 94C, §32A(a). That conviction is,
+therefore, a "serious drug offense" under the ACCA. §§ M_ogr£,
+286 F.3d at 49. The record conclusively shows that defense
+counsel was not deficient for failing to challenge Robinson's
+ACCA designation on this basis.
+
+2. Failure to Request a Competency Evaluation
+
+Robinson also alleges that defense counsel was ineffective
+for failing to request a competency evaluation under 18 U.S.C.
+§4241. "'The failure of trial counsel to request a competency
+hearing where there was evidence raising a substantial doubt
+about a petitioner's competence to stand trial may constitute
+ineffective assistance of counsel.'" United States v. Sampson,
+820 F. Supp. 2d 202 (D. Mass. 2011) (quoting Vogt v. United
+
+States, 88 F.3d 587, 592 (8th Cir. 1996)).
+
+15
+
+Case 1:08-Cr-10027-|\/|LW Document 80 Filed 12/30/16 Page 16 of 22
+
+In Robinson's case, there was no evidence of incompetence.
+In Robinson's appearances before the court he never exhibited
+any sign that he was "unable to understand the nature and
+consequences of the proceedings against him or to assist
+properly in his defense."4 18 U.S.C. §4241(a). Indeed, the court
+found him to be competent when he pled guilty. §§e Sept. 16,
+2009 Tr. at 14:17-21. Accordingly, there is no basis for finding
+that counsel was deficient for failing to request a competency
+evaluation, or that Robinson would have benefited from such an
+
+evaluation, See Robidoux v. O'Brien, 643 F.3d 334, 338-40
+
+ 
+
+(neither prong of Strickland satisfied, where there was "little
+evidence anywhere that [petitioner] failed to understand the
+proceedings and virtually none that he was unable to cooperate
+with counsel."). The court need not credit Robinson's conclusory
+assertions to the contrary. §ee Shraiar, 736 F.2d at 818.
+
+In 'vievr of the foregoing, Ground Two is being dismissed
+without a hearing.
+
+IV . MOTION TO AMEND
+
+Robinson has moved to amend the Petition to include a claim
+under Johnson v. United States, 135 S. Ct. 2551 (2015). Robinson
+
+asserts that he was improperly sentenced as a career offender
+
+ 
+
+4 The presentence report stated that Robinson was treated for
+depression in 1993, but did not include any evidence of a
+contemporaneous mental illness, disease, or defect.
+
+16
+
+Case 1:08-Cr-10027-|\/|LW Document 80 Filed 12/30/16 Page 17 of 22
+
+under the ACCA based on predicate offenses that were not
+"violent felonies" or "serious drug offenses.“ §e§ 18 U.S.C.
+§924(e)(2). Specifically, he challenges the predicates in
+paragraphs 42 and 46 ¢yf his presentence report ("PSR"), which
+are for vandalism and larceny respectively.
+
+Robinson's claim is based on a ndsreading of the record,
+Robinson's initial PSR erroneously indicated that his ACCA
+designation was based on the convictions described in paragraphs
+41, 42, and 46 of the report. However, as the Probation Officer
+explained at the sentencing hearing, the citations should have
+instead been to paragraphs 40, 41, and 45. §§e Feb. 22, 2010 Tr.
+at 2:22-3:3. The convictions in these paragraphs are for assault
+and battery with a dangerous weapon and, in two instances,
+distribution of a class B controlled substance. Each is an ACCA
+predicate offense. The correction. was reflected in the final
+PSR.
+
+The record conclusively shows that the claim Robinson seeks
+to assert under Johnson is unmeritorious. His motion to amend
+is, therefore, futile.
+
+V. EVIDENTIARY HEARING AND APPOINTMENT OF COUNSEL
+
+For the reasons stated in Parts III.A.l and 2, supra,
+before deciding Ground One of Robinson's Petition, the court
+must make factual findings concerning, among other things, the
+
+details of Robinson's post-sentencing conversations with Mr.
+
+17
+
+Case 1:08-Cr-10027-|\/|LW Document 80 Filed 12/30/16 Page 18 of 22
+
+Watkins. lt is not clear from the current record whether the
+details of those conversations are disputed. The appropriate
+approach in these circumstances is to order additional
+affidavits to "assist [] in determining if there is a genuine
+issue of fact to resolve." Miller, 564 F.2d at 106. If so, an
+evidentiary hearing is required under §2255(b). §§e §EE§, 731
+F.2d at 77-78.
+
+The details of Robinson's conversations with defense
+counsel would ordinarily be privileged. Accordingly, the court
+hereby informs Robinson that, if he persists in claiming
+ineffective assistance of counsel in connection with counsel's
+failure to file a <iirect appeal, he will waive his attorney-
+client privilege with respect to all communications with his
+attorney that are relevant to proving or disproving his claim.
+
+See Johnson v. Alabama, 256 F.3d 1156, 1178-79 (11th Cir. 2001).
+
+ 
+
+Defendant is being ordered to report, by January 17, 2017,
+whether he wishes to: (1) proceed with Ground Two and waive his
+privilege with regard to the relevant communications, or (2)
+withdraw Ground Two and preserve his privilege. §ee Bittaker v.
+Woodford, 331 F.3d 715, 720 (9th Cir. 2003) ("The court imposing
+[a] waiver [of privilege] does not order disclosure of the
+materials categorically; rather, the court directs the party
+holding the privilege to produce the privileged materials if it
+
+wishes to go forward with its claims implicating them.").
+
+18
+
+Case 1:08-Cr-10027-|\/|LW Document 80 Filed 12/30/16 Page 19 of 22
+
+If Robinson chooses to proceed, Mr. Watkins shall, by
+January 31, 2017, submit an affidavit addressing the issues
+raised in this Memorandum and Order. The government shall, by
+February 14, 2017, file a memorandum and any supporting
+affidavits addressing whether there are any material disputes of
+fact in this case, Robinson shall respond by February 28, 2017,
+The court will then, decide whether an evidentiary' hearing is
+required.
+
+"Rule 8(c) [of the Rules Governing §2255 Proceedings]
+requires the court to appoint counsel for indigent petitioners
+if it holds a §2255 evidentiary hearing." Bucci v. United
+States, 662 F.3d 18, 34 (lst Cir. 2011). Before appointing
+counsel, however, the court must make an "appropriate inquiry"
+as to the petitioner's ability to pay for counsel. 18 U.S.C.
+§3006A(b). Robinson has moved for appointment of counsel, but
+has not submitted an affidavit concerning his ability to pay.
+Accordingly, Robinson must now file a financial affidavit using
+the CJA-23 Form attached hereto. The court will determine
+whether to appoint counsel pursuant to §2255 Rule 8(c) and, in
+any event, whether counsel should be appointed as a matter of
+discretion under 18 U.S.C. §3006A.
+
+VI. CERTIFICATE OF APPEALABILITY
+
+Pursuant to Rule ll(a) of the Rules Governing Section 2255
+
+Proceedings, the court must “issue or deny a certificate of
+
+19
+
+Case 1:08-cr-10027-|\/|LW Document 80 Filed 12/30/16 Page 20 of 22
+
+appealability when it enters a final order adverse to the
+applicant." To receive a COA, a petitioner must make "a
+substantial showing of a denial of a constitutional right." §e§
+28 U.S.C. §2253(€)(2). In other words, a COA is vmrranted if
+"'reasonable jurists would find the district court's assessment
+of the constitutional claims debatable or wrong.'" Miller-El v.
+
+Cockrell, 537 U.S. 322, 338 (2003) (quoting Slack v. McDaniel,
+
+ 
+
+529 U.S. 473, 484 (2000)). A claim can be debatable "even though
+every jurist of reason might agree, after the COA has been
+granted and the case has received full consideration, that
+petitioner will not prevail." §§;
+
+The court finds that no reasonable jurist would conclude
+that Ground Two of Robinson's Petition, which is contradicted by
+the record, is meritorious. Nor would a reasonable jurist debate
+the conclusion that Robinson's motion to amend, which was based
+on a misreading of the record, is futile. Therefore, the court
+is denying a COA on Robinson's claims to the extent that they
+are being dismissed by this Memorandum and Order. He may seek a
+COA from the Court of Appeals for the First Circuit. §ee §2255
+Rule 11(a).
+
+VII. ORDER
+
+In view of the foregoing, it is hereby ORDERED that:
+1. Ground Two of Robinson's Motion to Vacate under 28
+
+U.S.C. §2255 (DOCket NO. 68) iS DISMISSED With prejudice.
+
+20
+
+Case 1:08-Cr-10027-|\/|LW Document 80 Filed 12/30/16 Page 21 of 22
+
+2. Robinson's Motion to Amend his Motion to Vacate
+(Docket No. 75) is DENIED.
+
+3. Robinson shall, by January 17, 2017, report whether he
+wishes to: (1) proceed with Ground One and waive his attorney-
+client privilege with regard to his relevant communications with
+Mr. Watkins; or (2) withdraw Ground One and preserve his
+privilege.
+
+4. If Robinson choses to proceed, Mr. Watkins shall, by
+January 31, 2017, submit an affidavit addressing the issues
+raised in this Memorandum and Order, including the contents of
+any post-sentencing communications with Robinson concerning a
+possible appeal.
+
+5. The government shall, by February 14, 2017, file a
+memorandum and any supporting affidavits addressing whether
+there are any material disputes of fact in this case,
+
+6. Robinson shall respond to the government's submissions
+by February 28, 2017,
+
+7. Upon receipt of the foregoing submissions, the court
+will decide whether an evidentiary hearing is required.
+
+8. Robinson shall, by January 17, 2017, file a financial
+affidavit using the CJA-23 Form attached to this Memorandum and
+
+Order.
+
+21
+
+Case 1:08-Cr-10027-|\/|LW Document 80 Filed 12/30/16 Page 22 of 22
+
+9. A. copy of this Order shall be served. on Assistant
+
+Public Defender Timothy Watkins.
+
+UNITED STATES DISTRICT JUDGE
+
+22
+
+ 
+

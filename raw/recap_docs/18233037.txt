@@ -1,0 +1,902 @@
+Case 2:04-cr-00123-GZS Document 49 Filed 03/30/17 Page 1 of 18                          PageID #: 283
+
+
+
+                              UNITED STATES DISTRICT COURT
+                                   DISTRICT OF MAINE
+
+GEORGE YEATON, III,                             )
+                                                )
+                Petitioner,                     )
+                                                )
+        v.                                      )        2:04-cr-00123-GZS
+                                                )        2:16-cv-00333-GZS
+                                                )
+UNITED STATES OF AMERICA,                       )
+                                                )
+                Respondent                      )
+
+
+             RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+        Following the First Circuit’s grant of leave to file a second or successive motion,
+
+Petitioner George Yeaton, III, moves, pursuant to 28 U.S.C. § 2255, to vacate, set aside or
+
+correct his sentence. (Motion, ECF No. 38; Yeaton v. United States, No. 16-1667 (1st Cir.
+
+June 21, 2016).)1 After a guilty plea, Petitioner was convicted of being a felon in
+
+possession of a firearm; the Court found Petitioner to be an armed career criminal, pursuant
+
+to the Armed Career Criminal Act (ACCA), 18 U.S.C. § 924(e)(1). The Court sentenced
+
+Petitioner to 400 months in prison. (Judgment, ECF No. 32 at 1-2.)
+
+        In his pending section 2255 motion, Petitioner challenges his sentence based on
+
+Johnson v. United States, --- U.S. ---, 135 S. Ct. 2551 (2015) (Johnson II).2 He argues that
+
+
+
+1
+   The First Circuit ordered the transfer of Petitioner’s filings to the district court for filing as a
+28 U.S.C. § 2255 motion. (Yeaton v. United States, No. 16-1667 (1st Cir. June 21, 2016).) The transferred
+filings are docketed in this Court as ECF No. 38.
+2
+  Johnson v. United States, --- U.S. ---, 135 S. Ct. 2551 (2015) (Johnson II), concerned petitioner Samuel
+James Johnson. An earlier Supreme Court case by the same name, Johnson v. United States, 559 U.S. 133
+(2010) (Johnson I), is discussed below, and concerned petitioner Curtis Darnell Johnson.
+Case 2:04-cr-00123-GZS Document 49 Filed 03/30/17 Page 2 of 18                            PageID #: 284
+
+
+
+his two prior Maine burglary convictions do not qualify as ACCA predicate offenses
+
+following Mathis v. United States, --- U.S. ---, 136 S. Ct. 2243 (2016).                           (Reply,
+
+ECF No. 45.) He also argues that his two prior Maine robbery convictions and his prior
+
+Maine conviction for terrorizing with a dangerous weapon do not qualify as ACCA
+
+predicates under the “force clause,” section 924(e)(2)(B)(i). (Id.)
+
+        Following a review of Petitioner’s motion, the Government’s request for dismissal,
+
+and the record, I recommend that the Court deny Petitioner’s section 2255 motion, but that
+
+the Court grant a certificate of appealability as set forth below.
+
+                I.      FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+        Petitioner was indicted in December 2004 for being a felon in possession of a
+
+firearm, pursuant to 18 U.S.C. §§ 922(g)(1), 924(e). (Indictment, ECF No. 1.) The
+
+indictment alleged several prior Maine state felony convictions, including the following:
+
+a 1986 robbery conviction (No. CR-85-350, Me. Super. Ct., Oxford Cty., Jan. 15, 1986);
+
+a 1988 terrorizing conviction (No. CR-87-589, Me. Super. Ct., Ken. Cty, Jan. 20, 1988);
+
+a 1989 robbery conviction (No. CR-89-78, Me. Super. Ct., And. Cty., Feb. 9, 1989);
+
+a 1994 burglary conviction (No. CR-94-167, Me. Super. Ct., Oxf. Cty., Nov. 2, 1994); and
+
+a 1998 burglary conviction (No. CR-97-716, Me. Super. Ct., And. Cty., Apr. 6, 1998).3
+
+(Id. at 1-2.)
+
+
+3
+  The federal indictment lists the 1986 conviction (No. 85-350, Me. Super. Ct., Oxf. Cty., Jan. 15, 1986) as
+a robbery. (Indictment, ECF No. 1 at 1.) The Court found the facts as stated in the revised presentence
+investigation report, which lists the 1986 conviction as a burglary conviction. (Sentencing Tr., ECF No. 36
+at 90.) The Government represents that although burglary was one of the three offenses charged in 1986,
+the offense of conviction was robbery. (Response, ECF No. 44 at 3, 6 & n.3; Attachment, Judgment and
+Commitment, ECF No. 44-1 at 1.) Petitioner agrees that the 1986 conviction was for robbery. (Reply, ECF
+No. 45 at 1; Attachment, ECF No. 45-1.)
+
+                                                     2
+Case 2:04-cr-00123-GZS Document 49 Filed 03/30/17 Page 3 of 18              PageID #: 285
+
+
+
+       Petitioner pled guilty to the felon-in-possession charge in February 2005. (Minute
+
+Entry for Change of Plea Hearing, ECF No. 19.) At sentencing, the Court found the facts
+
+as set forth in the revised presentence investigation report, and the Court’s sentencing
+
+guidelines calculations were as follows: The base offense level was 24, pursuant to
+
+USSG § 2K2.1(a)(2), because Petitioner had two prior felony violent crimes. (Sentencing
+
+Tr., ECF No. 36 at 90.) The revised presentence investigation report lists the robbery and
+
+burglary convictions identified above as the prior convictions on which the application of
+
+section 2K2.1(a)(2) was based.
+
+       The Court concluded that the total offense level was 41, based on the following:
+
+four levels were added to the base offense level, pursuant to USSG § 2K2.1(b)(5), because
+
+Petitioner possessed the firearm in connection with another felony offense, namely, gross
+
+sexual assault; the offense level was raised to 40, pursuant to USSG §§ 2K2.1(c)(1)(A),
+
+2X1.1, based on the application of the base offense level for the substantive offense of
+
+gross sexual assault; two levels were added, pursuant to USSG § 3D1.4, to determine the
+
+combined offense level; two levels were added, pursuant to USSG § 3A1.3, because the
+
+victims were physically restrained with duct tape or rope during the offense; and three
+
+levels were subtracted, pursuant to USSG § 3E1.1, for acceptance of responsibility. (Id. at
+
+90-92.) The Court determined, pursuant to USSG § 4B1.4(b)(1), that because the total
+
+offense level of 41, which was applicable under Chapter Two of the Guidelines, was higher
+
+than the level that would apply under the armed career criminal provisions, the higher
+
+offense level of 41 applied. (Id. at 92.)
+
+
+
+                                            3
+Case 2:04-cr-00123-GZS Document 49 Filed 03/30/17 Page 4 of 18               PageID #: 286
+
+
+
+       The Court found Petitioner to be an armed career criminal, pursuant to
+
+18 U.S.C. § 924(e), and the Court found a criminal history category of VI. (Id. at 92-93.)
+
+The Court concluded that a total offense level of 41, combined with a criminal history
+
+category of VI, resulted in a sentencing guidelines range of 360 months to life
+
+imprisonment. (Id. at 93.)
+
+       The Court next considered all of the sentencing factors, pursuant to 18 U.S.C.
+
+§ 3553(a). The Court focused particularly on the need for just punishment, deterrence,
+
+public protection, and rehabilitation. (Id. at 93.) The Court ordered the 400-month
+
+sentence to run concurrently with any undischarged term of imprisonment imposed in state
+
+court, pursuant to USSG § 5G1.3(b)(2). (Id. at 95-96.) The Court also imposed a term of
+
+five years of supervised release. (Id. at 96; Judgment at 3.)
+
+       In 2007, the Court dismissed Petitioner’s prior section 2255 motion as untimely.
+
+Yeaton v. United States, No. 2:06-cv-00138-GZS (Recommended Decision, ECF No. 21;
+
+Order Affirming, ECF No. 22.) In June 2016, the First Circuit granted Petitioner’s
+
+application for leave to file a second or successive section 2255 motion, based on
+
+Johnson II. (Yeaton, No. 16-1667 (1st Cir. June 21, 2016).) The First Circuit stated: “The
+
+application is granted, but we express no opinion as to the ultimate merit of the claim.”
+
+(Id.) The First Circuit ordered that upon transfer of Petitioner’s filings to this Court, the
+
+motion be deemed filed in this Court on May 19, 2016, which was the date on which
+
+Petitioner filed in the First Circuit. (Id.)
+
+
+
+
+                                               4
+Case 2:04-cr-00123-GZS Document 49 Filed 03/30/17 Page 5 of 18                            PageID #: 287
+
+
+
+                                           II.     DISCUSSION
+
+          A person may move to vacate his or her sentence on one of four different grounds:
+
+(1) “that the sentence was imposed in violation of the Constitution or laws of the United
+
+States”; (2) “that the court was without jurisdiction” to impose its sentence; (3) “that the
+
+sentence was in excess of the maximum authorized by law”; or (4) that the sentence
+
+“is otherwise subject to collateral attack.” 28 U.S.C. § 2255(a); see Knight v. United States,
+
+37 F.3d 769, 772 (1st Cir. 1994). Petitioner argues that the sentence is unconstitutional
+
+under Johnson II, that his ACCA status therefore must be re-established under current law,
+
+and that his prior burglary and robbery convictions do not qualify under current law as
+
+ACCA predicate violent felonies.4
+
+          In Johnson II, the Supreme Court “struck down the ‘residual clause’ of the [ACCA]
+
+as unconstitutionally vague.”5 Pakala v. United States, 804 F.3d 139, 139 (1st Cir. 2015)
+
+
+4
+  It is undisputed that all of the prior crimes at issue qualify as felonies under the Armed Career Criminal
+Act (ACCA), 18 U.S.C. § 924(e)(1); the issue is whether they qualify as ACCA violent felonies. The prior
+crimes were felonies because they were “punishable by imprisonment for a term exceeding one year,”
+pursuant to 18 U.S.C. § 924(e)(2)(B). According to the revised presentence investigation report, Petitioner
+committed the felonies from 1985 to 1997. Although the Maine statute that sets forth the terms of
+imprisonment for various classes of crimes, 17-A M.R.S. § 1252(2), was amended during the time relevant
+to Petitioner’s offenses, the amendment did not alter the ACCA felony status of any of Petitioner’s prior
+crimes.
+5
+    In Johnson II, the Supreme Court explained:
+
+          Federal law forbids certain people—such as convicted felons, persons committed to mental
+          institutions, and drug users—to ship, possess, and receive firearms. [18 U.S.C. § 922(g)].
+          In general, the law punishes violation of this ban by up to 10 years’ imprisonment.
+          [18 U.S.C. § 924(a)(2)]. But if the violator has three or more earlier convictions for a
+          “serious drug offense” or a “violent felony,” the Armed Career Criminal Act increases his
+          prison term to a minimum of 15 years and a maximum of life. § 924(e)(1); [Johnson I,
+          559 U.S. at 136]. The Act defines “violent felony” as follows:
+
+          “any crime punishable by imprisonment for a term exceeding one year . . . that—
+
+
+                                                      5
+Case 2:04-cr-00123-GZS Document 49 Filed 03/30/17 Page 6 of 18                               PageID #: 288
+
+
+
+(per curiam). The Supreme Court, however, explicitly limited its holding in Johnson II to
+
+exclude claims based on challenges to “the four enumerated offenses, or the remainder of
+
+the Act’s definition of a violent felony.” Johnson II, 135 S. Ct. at 2563. Thus, the
+
+enumerated crimes clause of section 924(e)(2)(B)(ii), as well as the force clause, section
+
+924(e)(2)(B)(i), remain valid after Johnson II.
+
+          Although the substance of Petitioner’s argument is based on the enumerated crimes
+
+clause and the force clause, Petitioner argues preliminarily that his motion is timely under
+
+section 2255(f)(3), notwithstanding the Supreme Court’s decision in Johnson II that the
+
+holding excludes claims that are based on the enumerated crimes and force clauses of
+
+section 924(e)(2)(B).6          (Reply at 2-3, 18.)          Petitioner argues essentially that after
+
+
+
+          “(i) has as an element the use, attempted use, or threatened use of physical force against
+          the person of another; or
+
+          “(ii) is burglary, arson, or extortion, involves use of explosives, or otherwise involves
+          conduct that presents a serious potential risk of physical injury to another.” § 924(e)(2)(B)
+          (emphasis added).
+
+          The closing words of this definition, italicized above, have come to be known as the Act's
+          residual clause.
+
+Johnson II, 135 S. Ct. at 2555-56. The Court held that the residual clause is unconstitutionally vague. Id.
+at 2557. In Welch v. United States, --- U.S. ---, ---, 136 S. Ct. 1257, 1268 (2016), the Supreme Court held
+that “Johnson[II] announced a substantive rule that has retroactive effect in cases on collateral review.”
+6
+    Title 28 U.S.C.§ 2255(f) provides:
+
+          A 1-year period of limitation shall apply to a motion under this section. The limitation
+          period shall run from the latest of −
+
+              (1) the date on which the judgment of conviction becomes final;
+
+              (2) the date on which the impediment to making a motion created by governmental
+              action in violation of the Constitution or laws of the United States is removed, if the
+              movant was prevented from making a motion by such governmental action;
+
+
+                                                       6
+Case 2:04-cr-00123-GZS Document 49 Filed 03/30/17 Page 7 of 18                                PageID #: 289
+
+
+
+Johnson II, his prior crimes may not be considered ACCA predicates under the residual
+
+clause, and, therefore, the prior crimes must be re-established as ACCA predicates under
+
+either the enumerated crimes clause or the force clause, as interpreted under current law.
+
+(Reply at 2-3, 18.) He contends that, following Mathis, he lacks the requisite three ACCA
+
+predicate violent felonies.7
+
+        A. The Maine burglary convictions
+
+        Two of the prior convictions on which Petitioner’s ACCA status was based were
+
+Maine burglary offenses, under 17-A M.R.S. § 401; Petitioner committed the burglaries in
+
+
+
+
+             (3) the date on which the right asserted was initially recognized by the Supreme Court,
+             if that right has been newly recognized by the Supreme Court and made retroactively
+             applicable to cases on collateral review; or
+
+             (4) the date on which the facts supporting the claim or claims presented could have
+             been discovered through the exercise of due diligence.
+7
+ Mathis v. United States, --- U.S. ---, 136 S. Ct. 2243 (2016), is one of a line of cases involving the statutory
+interpretation of the term “burglary” as used in section 924(e)(2)(B)(ii). See Mathis, 136 S. Ct. at 2247-50;
+Shepard v. United States, 544 U.S. 13, 23 (2005) (“We are, after all, dealing with an issue of statutory
+interpretation.”) (citing Taylor v. United States, 495 U.S. 575, 602 (1990)). In Mathis, the Supreme Court
+recognized the long-standing rule that a prior conviction will not qualify as a predicate “violent felony”
+under the ACCA unless “its elements are the same as, or narrower than, those of the generic offense.”
+136 S. Ct. at 2247. The Court held that the inclusion of land, water or air vehicles, as well as buildings and
+structures, in Iowa’s burglary statute rendered the “locational element” of the crime broader than generic
+burglary, which includes only buildings and structures. 136 S. Ct. at 2250. The Supreme Court held that
+the Eighth Circuit erred when it affirmed the district court’s use of a modified categorical approach, which
+had permitted a review of the record to determine the location where the burglary took place, because under
+the ACCA, “it is impermissible for ‘a particular crime [to] sometimes count towards enhancement and
+sometimes not, depending on the facts of the case.’” Id. at 2250-51 (quoting Taylor, 495 U.S. at 601).
+Petitioner concedes that Mathis does not apply retroactively. (Reply at 2.) See Mathis, 136 S. Ct. at 2251-
+52 (noting that the Court’s prior precedent, including Descamps v. United States, --- U.S. ---, ---, 133 S. Ct.
+2276, 2283 (2013), indicated the rule was not new); Dimott v. United States, Nos. 2:06-cr-26-GZS, 2:16-
+cv-347-GZS, 2016 WL 6068114, at *3, 2016 U.S. Dist. Lexis 142354, at *6-7 (D. Me. Oct. 14, 2016);
+United States v. Taylor, --- F. App’x ---, ---, 2016 WL 7093905, at *4, 2016 U.S. App. Lexis 21701, at *12
+(10th Cir. Dec. 6, 2016) (concluding that “Mathis did not announce a new rule,” and citing, inter alia,
+Dimott, 2016 WL 6068114, at *3, 2016 U.S. Dist. Lexis 142354, at *6-7).
+
+
+                                                       7
+Case 2:04-cr-00123-GZS Document 49 Filed 03/30/17 Page 8 of 18                               PageID #: 290
+
+
+
+1994 and 1997, according to the revised presentence investigation report.8 Burglary is one
+
+of the offenses enumerated in section 924(e)(2)(B)(ii) of the ACCA as a violent felony.
+
+
+
+8
+    Maine’s burglary statute, 17-A M.R.S. § 401, provides in part:
+
+          A person is guilty of burglary if:
+
+              A. The person enters or surreptitiously remains in a structure knowing that that
+              person is not licensed or privileged to do so, with the intent to commit a crime therein.
+              Violation of this paragraph is a Class C crime; or
+
+              B. The person violates paragraph A and:
+
+                  (1)    The person is armed with a firearm, or knows that an accomplice is so
+                  armed. Violation of this subparagraph is a Class A crime;
+
+                  (2)     The person intentionally or recklessly inflicts or attempts to inflict bodily
+                  injury on anyone during the commission of the burglary or an attempt to commit
+                  the burglary or in immediate flight after the commission or attempt. Violation of
+                  this subparagraph is a Class B crime;
+
+                  (3)    The person is armed with a dangerous weapon other than a firearm or
+                  knows that an accomplice is so armed. Violation of this subparagraph is a Class
+                  B crime.
+
+                  (4)     The violation is against a structure that is a dwelling place. Violation of
+                  this subparagraph is a Class B crime.
+
+17-A M.R.S. § 401(1) (emphasis added). The terms “structure” and “dwelling place” are defined as follows:
+
+           “Structure” means a building or other place designed to provide protection for persons or
+          property against weather or intrusion, but does not include vehicles and other conveyances
+          whose primary purpose is transportation of persons or property unless such vehicle or
+          conveyance, or a section thereof, is also a dwelling place.
+
+17-A M.R.S. § 2(24).
+
+          “Dwelling place” means a structure which is adapted for overnight accommodation of
+          persons, or sections of any structure similarly adapted. A dwelling place does not include
+          garages or other structures, whether adjacent or attached to the dwelling place, which are
+          used solely for the storage of property or structures formerly used as dwelling places which
+          are uninhabitable. It is immaterial whether a person is actually present.
+
+17-A M.R.S. § 2(10). Although the relevant portions of sections 401 and 2(24) have not been amended
+since the time of the offenses, section 2(10) has since been amended, and, as a result, the current version of
+section 2(10) is different from the text quoted above.
+
+
+                                                       8
+Case 2:04-cr-00123-GZS Document 49 Filed 03/30/17 Page 9 of 18                               PageID #: 291
+
+
+
+        Petitioner argues that Mathis overrules the First Circuit’s decision in United States
+
+v. Duquette, 778 F.3d 314 (1st Cir. 2015), in which the Court determined that the Maine
+
+burglary statute covers the offense of generic burglary, and that a Maine burglary
+
+conviction therefore qualifies as a violent felony under the enumerated crimes clause of the
+
+ACCA.9 (Reply at 19-20.) Petitioner argues that, under Mathis, and contrary to Duquette,
+
+Maine burglary must be considered broader than generic burglary, in part because the
+
+definition of “structure,” as set forth in 17-A M.R.S. § 2(24), includes vehicles and
+
+conveyances, similar to the Iowa law at issue in Mathis. (Reply at 6, 10-13.) Petitioner
+
+also argues that under Maine law, the locational element of burglary is not divisible. See
+
+Descamps v. United States, 133 S. Ct. 2276, 2284 (2013) (noting that a “so-called ‘divisible
+
+statute’ . . . sets out one or more elements of the offense in the alternative”). (Reply at 8.)
+
+        This Court has concluded that in this circuit, Duquette “‘establishes that Maine
+
+burglary convictions are “violent felonies” pursuant to ACCA’s enumerated clause,’” even
+
+after Mathis. McCurdy v. United States, Nos. 1:06-cr-00080-JAW, 1:15-cv-00532-JAW,
+
+2017 WL 74695, at *5, 2017 U.S. Dist. Lexis 1947, at *12-13 (D. Me. Jan. 6, 2017)
+
+(quoting Dimott v. United States, Nos. 2:06-cr-26-GZS, 2:16-cv-347-GZS, 2016 WL
+
+6068114, at *3, 2016 U.S. Dist. Lexis 142354, at *8 (D. Me. Oct. 14, 2016); see Collamore
+
+
+
+9
+  In United States v. Duquette, 778 F.3d 314 (1st Cir. 2015), the First Circuit held that “because Maine’s
+burglary statute sets forth the definition of ‘generic burglary,’ under Taylor, a conviction under that statute
+qualifies as a ‘violent felony’ under the ACCA.” 778 F.3d at 318. In Taylor, the Supreme Court had
+announced: “We conclude that a person has been convicted of burglary for purposes of a § 924(e)
+enhancement if he is convicted of any crime, regardless of its exact definition or label, having the basic
+elements of unlawful or unprivileged entry into, or remaining in, a building or structure, with intent to
+commit a crime.” 495 U.S. at 599.
+
+
+                                                      9
+Case 2:04-cr-00123-GZS Document 49 Filed 03/30/17 Page 10 of 18                           PageID #: 292
+
+
+
+v. United States, Nos. 2:10-cr-158-GZS, 2:16-cv-259-GZS, 2016 WL 6304668, at *2, 2016
+
+U.S. Dist. Lexis 148757, at *6 (D. Me. Oct. 27, 2016); United States v. Casey, Nos.
+
+2:11-cr-216-DBH, 2:16-cv-346-DBH, 2016 WL 6581178, 2016 U.S. Dist. Lexis 153085
+
+(D. Me. Nov. 3, 2016)).10
+
+        Petitioner asserts that his case is distinguishable from Dimott, and he requests that
+
+this Court “rule on, or address whether Maine burglary meets the generic definition of
+
+burglary, even if the court ultimately concludes it is bound by Duquette.” (Reply at 1 &
+
+n.2, 3 & n.3.) McCurdy, Dimott, Collamore, Casey are pending on appeal in the First
+
+Circuit as to the issues Petitioner raises here.11 The issue regarding Petitioner’s burglary
+
+convictions does not differ materially from the issue presented in McCurdy, Dimott,
+
+
+
+
+10
+  In Dimott, the petitioner argued that, following the Supreme Court’s decisions in Johnson II and Mathis,
+“he no longer has the three requisite convictions for an increased sentence under ACCA,” and “Maine
+burglary no longer fits within the generic definition of burglary because Maine’s locational element is
+overly broad in light of Mathis.” Dimott, 2016 WL 6068114, at *2, 2016 U.S. Dist. Lexis 142354, at *4-5.
+The Court concluded that, [a]ssuming the Court could undertake a timely review of Dimott’s predicate
+burglary convictions,” there is “no basis for concluding that Mathis should be read as overruling Duquette.
+2016 WL 6068114, at *3, 4, 2016 U.S. Dist. Lexis 142354, at *8, 9.
+11
+   In McCurdy v. United States, Nos. 1:06-cr-00080-JAW, 1:15-cv-00532-JAW, 2017 WL 74695, 2017
+U.S. Dist. Lexis 1947 (D. Me. Jan. 6, 2017), the Court granted the petitioner relief on the basis that the
+petitioner’s prior robberies “do not meet the violent force requirement of the ACCA as explained by the
+Supreme Court in Johnson I and Johnson II.” 2017 WL 74695, at *10, 2017 U.S. Dist. Lexis 1947, at
+*26-27. Consequently, the petitioner had only two predicate ACCA violent felonies, and the ACCA,
+because it requires three, did not apply. The Government has appealed from the judgment, and it has moved
+for a stay pending the First Circuit’s decision in United States v. Mulkern (No. 16-1146). The appeal in
+McCurdy is docketed in the First Circuit at No. 17-1177. The appeals in Dimott, Collamore v. United
+States, Nos. 2:10-cr-158-GZS, 2:16-cv-259-GZS, 2016 WL 6304668, 2016 U.S. Dist. Lexis 148757
+(D. Me. Oct. 27, 2016), and United States v. Casey, Nos. 2:11-cr-216-DBH, 2:16-cv-346-DBH,
+2016 WL 6581178, 2016 U.S. Dist. Lexis 153085 (D. Me. Nov. 3, 2016), have been consolidated for
+briefing and argument; they are docketed as follows: Dimott (No. 16-2289); Collamore (No. 16-2319); and
+Casey (No. 16-2368).
+
+
+                                                    10
+Case 2:04-cr-00123-GZS Document 49 Filed 03/30/17 Page 11 of 18                                 PageID #: 293
+
+
+
+Collamore, and Casey. Accordingly, I can discern no reason the issue should be resolved
+
+differently in this case.
+
+        B. The Maine robbery convictions
+
+        Petitioner was convicted of Class A robbery, 17-A M.R.S. § 651, in 1986 and
+
+1989.12 (Response at 12; Attachments, ECF Nos. 44-1 at 5, 44-2 at 1.) Petitioner contends
+
+that Maine robbery does not qualify as an ACCA predicate under the force clause. (Reply
+
+at 23-25.)
+
+
+
+
+12
+  At the time of the offenses, which Petitioner committed in 1985 and 1988, according to the revised
+presentence investigation report, 17-A M.R.S. § 651 provided:
+
+        1.      A person is guilty of robbery if he commits or attempts to commit theft and at the
+        time of his actions:
+
+             A. He recklessly inflicts bodily injury on another;
+
+             B. He threatens to use force against any person present with intent
+
+                     1. to prevent or overcome resistance to the taking of the property, or to the
+                     retention of the property immediately after the taking; or
+
+                     2. to compel the person in control of the property to give it up or to engage
+                     in other conduct which aids in the taking or carrying away of the property;
+
+             C. He uses physical force on another with the intent enumerated in paragraph B,
+             subparagraphs (1) or (2);
+
+             D. He intentionally inflicts or attempts to inflict bodily injury on another; or
+
+             E. He or an accomplice to his knowledge is armed with a dangerous weapon in the
+             course of a robbery as defined in paragraphs A through D.
+
+        2.     Robbery as defined in subsection 1, paragraphs A and B, is a Class B crime.
+        Robbery as defined in subsection 1, paragraphs C, D, and E is a Class A Crime.
+
+P.L. 1975, ch. 740, § 73. Section 651 has since been amended, and, as a result, the current version of the
+statute is different from the text quoted above.
+
+
+                                                      11
+Case 2:04-cr-00123-GZS Document 49 Filed 03/30/17 Page 12 of 18                             PageID #: 294
+
+
+
+        The Maine robbery statute is divisible, and therefore Shepard-approved documents
+
+may be presented at sentencing, when such documents are available, to enable the Court,
+
+using a modified categorical approach, to determine whether the “robbery conviction
+
+necessarily involved ‘force capable of causing physical pain or injury to another person.’”
+
+Jackson v. United States, Nos. 2:06-cr-94-GZS, 2:16-cv-187-GZS, 2016 WL 3167073, at
+
+*1-2, 2016 U.S. Dist. Lexis 73052, at*3-4. (D. Me. June 6, 2016) (quoting Johnson I,
+
+559 U.S. at 140).13          The Government represents that the charging instruments in
+
+Petitioner’s case are not available, but it notes that because the offenses were charged as
+
+Class A crimes, the convictions necessarily were pursuant to 17-A M.R.S. § 651(1)(C),
+
+(D), or (E). (Response at 12-13.)
+
+        In other cases in this District, the Court concluded that prior Maine robbery
+
+convictions under sections 651(1)(C) and (E) did not qualify as ACCA predicates under
+
+the force clause. See Jackson, 2016 WL 3167073, at *3, 2016 U.S. Dist. Lexis 73052, at
+
+*5-6 (addressing section 651(1)(C)); McCurdy, 2017 WL 74695, at *9, 2017 U.S. Dist.
+
+Lexis 1947, at *24-25 (addressing section 651(1)(E)).
+
+        In Jackson, the Court held that a conviction under section 651(1)(C) did not qualify
+
+as an ACCA predicate because, under Maine case law, a robbery may be committed “with
+
+
+13
+  In Taylor, the Supreme Court adopted a “formal categorical approach, looking only to the statutory
+definitions of the prior offenses, and not to the particular facts underlying those convictions,” to determine
+whether a prior offense qualified as an ACCA predicate. 495 U.S. at 600. In Descamps, the Supreme Court
+noted that in Taylor, it “recognized ‘a narrow range of cases’ in which sentencing courts−applying what we
+would later dub the ‘modified categorical approach’−may look beyond the statutory elements to ‘the
+charging paper and jury instructions’ used in a case.” 133 S. Ct. at 2283-84 (quoting Taylor, 495 U.S. at
+602, and discussing Shepard v. United States, 544 U.S. 13 (2005)).
+
+
+
+                                                     12
+Case 2:04-cr-00123-GZS Document 49 Filed 03/30/17 Page 13 of 18                   PageID #: 295
+
+
+
+physical force that is less than the force capable of causing physical pain or injury to
+
+another person.” 2016 WL 3167073, at *2-3, 2016 U.S. Dist. Lexis 73052, at *6-7 (citing
+
+Johnson I, 135 S. Ct. at 2557, and discussing Raymond v. State, 467 A.2d 161 (Me. 1983),
+
+State v. Rembert, 658 A.2d 656 (Me. 1995)). The Court explained:
+
+       Examining the Shepard-approved documents in Jackson’s robbery case, the
+       Court cannot conclude that the physical force Jackson used upon his victim
+       to extract the money, which was the focus of the theft element, was
+       necessarily force capable of causing physical pain or injury to the victim. In
+       short, the Court concludes that Jackson’s 1998 Maine [r]obbery conviction
+       is not an ACCA-qualifying conviction as a “violent felony” under the “force
+       clause.”
+
+2016 WL 3167073, at *3, 2016 U.S. Dist. Lexis 73052, at *6-7 (citing 18 U.S.C.
+
+§ 924(e)(2)(B)(i)).14
+
+       In McCurdy, the Court held that a conviction under section 651(1)(E) did not qualify
+
+as an ACCA predicate. McCurdy, 2017 WL 74695, at *9, 2017 U.S. Dist. Lexis 1947, at
+
+*24-25. The Court noted that the case law is unclear as to whether the degree of force
+
+required under Johnson I, 559 U.S. at 140, is met when the prior conviction is under section
+
+651(1)(E). McCurdy, 2017 WL 74695, at *9, 2017 U.S. Dist. Lexis 1947, at *24. The
+
+Court reasoned that
+
+       by its terms, the Maine statute does not require that the robber actively use
+       the weapon to commit the robbery in order to violate section 651(1)(E), only
+       that the robber possess it “in the course of the robbery.” [17-A M.R.S.
+       § 651(1)(E).] Without more, the possession of a firearm during a robbery
+       does not therefore transform the robbery to one where the robber used
+       “violent force” under the ACCA’s force clause.
+
+
+14
+  The Government has appealed from the judgment in Jackson v. United States, Nos. 2:06-cr-94-GZS,
+2:16-cv-187-GZS, 2016 WL 3167073, 2016 U.S. Dist. Lexis 73052 (D. Me. June 6, 2016). The appeal is
+docketed in the First Circuit at No. 16-1921.
+
+                                               13
+Case 2:04-cr-00123-GZS Document 49 Filed 03/30/17 Page 14 of 18                              PageID #: 296
+
+
+
+McCurdy, 2017 WL 74695, at *9, 2017 U.S. Dist. Lexis 1947, at *24-25.
+
+          Because the Court has established that a prior Maine robbery conviction under either
+
+section 651(1)(C) or (E) may not qualify as a predicate under the ACCA’s force clause in
+
+the absence of adequate Shepard-approved documents, and because there are no such
+
+documents in Petitioner’s case, Petitioner’s prior robbery convictions do not qualify as
+
+ACCA predicate offenses.
+
+          C. The Maine terrorizing conviction
+
+          According to the revised presentence investigation report, Petitioner was convicted
+
+of the offense of terrorizing with a weapon in 1988. The criminal history section of the
+
+report lists the offense as one on which Petitioner’s status as an armed career criminal was
+
+based. The Government argues that the terrorizing conviction qualifies as an ACCA
+
+predicate offense under the force clause. (Response at 17-19.) Petitioner maintains the
+
+terrorizing conviction does not qualify. (Reply at 25-26.)15
+
+
+
+15
+     At the time of Petitioner’s conviction, 17-A M.R.S. § 210 provided:
+
+          1.      A person is guilty of terrorizing if he communicates to any person a threat to
+          commit or to cause to be committed a crime of violence dangerous to human life, against
+          the person to whom the communication is made or another, and the natural and probable
+          consequence of such a threat, whether or not such consequence in fact occurs, is:
+
+              A. To place the person to whom the threat is communicated or the person threatened
+              in reasonable fear that the crime will be committed; or
+
+              B. To cause evacuation of a building, place of assembly or facility of public transport.
+
+          2.      Violation of subsection 1, paragraph A, is a Class D crime. Violation of subsection
+          1, paragraph B, is a Class C crime.
+
+P.L. 1977, ch. 510, § 45; P.L. 1977, ch. 671, §§ 23, 24. Section 210 has since been amended, and, as a
+result, the current version of the statute is different from the text quoted above.
+
+
+                                                      14
+Case 2:04-cr-00123-GZS Document 49 Filed 03/30/17 Page 15 of 18                             PageID #: 297
+
+
+
+        The Government concedes that a conviction under 17-A M.R.S. § 210, without
+
+more, would not qualify as a felony under the ACCA, because a violation under one of the
+
+subsections was a Class D crime punishable by less than one year in jail. (Response at 18.)
+
+The Government, however, argues that the offense is an ACCA violent felony because the
+
+sentencing class was elevated, pursuant to 17-A M.R.S. § 1252(4), due to the fact that
+
+Petitioner committed the offense with a dangerous weapon.16 (Id.)
+
+        For an offense to qualify as a violent felony under the force clause, it must have “as
+
+an element the use, attempted use, or threatened use of physical force against the person of
+
+another.” 18 U.S.C. § 924(e)(2)(B)(i). “‘Elements’ are the ‘constituent parts’ of a crime’s
+
+legal definition−the things the ‘prosecution must prove to sustain a conviction.’” Mathis,
+
+136 S. Ct. at 2248. (quoting Black’s Law Dictionary 634 (10th ed. 2014)). The Court
+
+looks to state law to determine the elements of the offense of conviction. See United States
+
+v. Tavares, 843 F.3d 1, 12 (1st Cir. 2016) (noting that “[t]he substantive definition of
+
+[assault and battery with a dangerous weapon] . . . is supplied by case law applying the
+
+crime’s common law definition”) (citing, inter alia, Commonwealth v. Porro, 458 Mass.
+
+526, 939 N.E.2d 1157, 1162 (2010)); United States v. Whindleton, 797 F.3d 105, 112
+
+(1st Cir. 2015) (“‘The crime of [assault with a dangerous weapon] adds one additional
+
+element, namely, that the assault was perpetrated by means of a dangerous weapon.’”)
+
+
+
+16
+  Section 1252(4) provides in pertinent part: “If the State pleads and proves that a Class B, C, D or E crime
+was committed with the use of a dangerous weapon then the sentencing class for such crime is one class
+higher than it would otherwise be.” (Id.) Thus, if a terrorizing conviction were pursuant to
+17-A M.R.S. § 210(1)(A), the sentencing class would be elevated from Class D to Class C, and if a
+conviction were pursuant to section 210(1)(B), the sentencing class would be elevated from Class C to
+Class B.
+
+                                                     15
+Case 2:04-cr-00123-GZS Document 49 Filed 03/30/17 Page 16 of 18               PageID #: 298
+
+
+
+(quoting Commonwealth v. Melton, 436 Mass. 291, 763 N.E.2d 1092, 1096 (2002)). The
+
+Maine Law Court evidently considers the use of a dangerous weapon in the commission of
+
+a crime, pursuant to 17-A M.R.S. § 1252(4), to be an element of the crime. See State v.
+
+Kline, 2013 ME 54, ¶ 10, 66 A.3d 581 (noting that “the evidence was sufficient for the jury
+
+to have rationally found each element of the offense beyond a reasonable doubt,” and citing
+
+17-A M.R.S. §§ 211(1), 1252(4)).
+
+       The analysis of whether Petitioner’s prior offense of terrorizing with a dangerous
+
+weapon qualifies as an ACCA offense is similar to the analysis in Whindleton, in which
+
+the First Circuit concluded that on a conviction for assault with a dangerous weapon, the
+
+dangerous-weapon component of the crime comprised an element of the offense under
+
+Massachusetts law. Whindleton, 797 F.3d at 113 (“The statute can be understood as having
+
+two elements: the attempted or threatened battery (simple assault) and the use of a
+
+dangerous weapon.”) (citing Melton, 763 N.E.2d at 1096). The First Circuit determined
+
+that the Massachusetts statute met the ACCA requirement of force because the statute
+
+applied when the crime was accomplished “by means of,” i.e., through the use of, a
+
+dangerous weapon. Id. at 113-14.
+
+        Petitioner argues that the offense of terrorizing under 17-A M.R.S. § 210 is not an
+
+ACCA violent felony under the force clause, because section 210 provides that an
+
+evacuation is one of two alternate “natural and probable consequence(s)” that may be
+
+proven, and the statute does not require that the evacuation itself occur under an additional
+
+threat of violence. (Reply at 25.)
+
+
+
+                                             16
+Case 2:04-cr-00123-GZS Document 49 Filed 03/30/17 Page 17 of 18                           PageID #: 299
+
+
+
+        Petitioner’s argument fails. “[A] threat to commit or to cause to be committed a
+
+crime of violence to human life,” when committed with a dangerous weapon, meets the
+
+ACCA force clause requirement, regardless of whether the conduct places “the person to
+
+whom the threat is communicated or the person threatened in reasonable fear that the crime
+
+will be committed,” under 17-A M.R.S. § 210(1)(A), or results in an “evacuation of a
+
+building, place of assembly or facility of public transport,” under 17-A M.R.S. § 210(1)(B).
+
+In other words, Petitioner’s conduct, rather than the consequence of the conduct, is the
+
+relevant element on which the Court must focus to determine whether the offense
+
+constitutes an ACCA violent felony. Thus, a conviction for terrorizing with a dangerous
+
+weapon, regardless of whether it is under section 210(1)(A) or 210(1)(B), satisfies the
+
+ACCA’s force clause requirement.
+
+                                         III.    CONCLUSION
+
+        Based on the foregoing analysis, Petitioner has at least three qualifying convictions
+
+under ACCA. I recommend, therefore, that the Court deny Petitioner’s motion for habeas
+
+relief under 28 U.S.C. § 2255. I further recommend that the Court grant a certificate of
+
+appealability pursuant to Rule 11 of the Rules Governing Section 2255 Cases. 17
+
+
+
+
+17
+  Because the Court issued a certificate of appealability on the burglary issues raised in McCurdy, Dimott,
+Collamore, Casey, it is appropriate to issue one here as well. The issues are (1) whether the retroactive
+application of Johnson II permits re-examination of prior crimes that are predicates under the enumerated
+crimes clause of 18 U.S.C. § 924(e); and (2) whether Mathis overrules Duquette. See McCurdy, 2017 WL
+74695, at *5, 2017 U.S. Dist. Lexis 1947, at *14; Dimott, 2016 WL 6068114, at *4, 2016 U.S. Dist. Lexis
+142354, at *11-12; Collamore, 2016 WL 6304668, at *3, 2016 U.S. Dist. Lexis 148757, at *6-7; (Casey,
+No. 2:11-cr-00216-DBH, ECF No. 78 (Order Issuing Certificate of Appealability).)
+
+
+                                                    17
+Case 2:04-cr-00123-GZS Document 49 Filed 03/30/17 Page 18 of 18                PageID #: 300
+
+
+
+                                            NOTICE
+
+              A party may file objections to those specified portions of a magistrate
+      judge's report or proposed findings or recommended decisions entered
+      pursuant to 28 U.S.C. 636(b)(1)(B) for which de novo review by the district
+      court is sought, together with a supporting memorandum, and request for oral
+      argument before the district judge, if any is sought, within fourteen (14) days
+      of being served with a copy thereof. A responsive memorandum and any
+      request for oral argument before the district judge shall be filed within
+      fourteen (14) days after the filing of the objection.
+
+             Failure to file a timely objection shall constitute a waiver of the right
+      to de novo review by the district court and to appeal the district court's order.
+
+                                                  /s/ John C. Nivison
+                                                  U.S. Magistrate Judge
+
+      Dated this 30th day of March, 2017.
+
+
+
+
+                                             18
+

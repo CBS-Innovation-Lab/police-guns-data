@@ -1,0 +1,195 @@
+                      UNITED STATES DISTRICT COURT
+                        DISTRICT OF MASSACHUSETTS
+_______________________________________
+                                        )
+UNITED STATES OF AMERICA                )
+                                        )         CRIMINAL ACTION
+                   v.                   )
+                                        )         NO. 4:18-40040-TSH
+CLEON RILEY,                            )
+                                        )
+                   Defendant.           )
+______________________________________ )
+
+
+ ORDER AND MEMORANDUM ON DEFENDANT’S MOTION TO VACATE (Docket
+                           No. 48)
+
+                                        October 23, 2019
+
+HILLMAN, D.J.
+
+       On November 26, 2018, Cleon Riley (“Defendant”) pled guilty to felon in possession of a
+
+firearm and ammunition; distribution of and possession with intent to distribute cocaine and
+
+cocaine base; and possession with intent to distribute fentanyl. (Docket Nos. 33, 34). On March
+
+19, 2019, this Court sentenced Defendant to 180 months of imprisonment and 72 months of
+
+supervised release. (Docket No. 42). Defendant did not file an appeal. He now moves to vacate
+
+under 28 U.S.C. § 2255 on the grounds of ineffective assistance of counsel and inadequate
+
+knowledge of the mens rea requirement of 18 U.S.C. § 922(g). (Docket No. 48). For the
+
+following reasons, the Court denies Defendant’s motion.
+
+                                           Discussion
+
+                                           1. Ground One
+
+       Defendant contends that his counsel “rendered ineffective assistance by failing to file a
+
+notice of [a]ppeal.” (Docket No. 48 at 4). To establish a claim of ineffective assistance of
+
+counsel, a defendant must show (1) “that counsel’s performance was deficient” and (2) “that the
+
+                                                1
+deficient performance prejudiced the defense.” Strickland v. Washington, 466 U.S. 668, 687
+
+(1984). In the context of the failure to file an appeal, a “defense attorney’s representation is
+
+constitutionally deficient if the attorney either ‘disregards specific instructions from the
+
+defendant to file a notice of appeal’ or fails (under certain circumstances) to consult with the
+
+defendant about an appeal.’” Rojas-Medina v. United States, 924 F.3d 9, 15 (1st Cir. 2019)
+
+(quoting Roe v. Flores-Ortega, 528 U.S. 470, 480 (2000)). Prejudice is presumed if a defendant
+
+shows that “counsel’s constitutionally deficient performance deprive[d him] of an appeal that he
+
+otherwise would have taken.” Flores-Ortega, 528 U.S. at 484.
+
+       Here, Defendant asserts that his counsel failed to file an appeal despite specific
+
+instructions to do so. But Defendant does not indicate when he gave his counsel instructions to
+
+appeal his conviction or sentence. And his June 26, 2016, motion for an extension of time to file
+
+an appeal implies that any request, if made, occurred outside the applicable fourteen-day
+
+window. See Docket No. 44 at 1 (“I was never informed by my attorney that I was able to appeal
+
+the sentence and/or judgment of the Court. Had I been informed that I only had 14 days to file
+
+an appeal, I would have instructed my attorney to file the appeal immediately. I recently found
+
+out while researching at the inmate law library.”) (emphasis added). Because the record suggests
+
+that Defendant was time-barred from filing an appeal by the time he requested one, Defendant
+
+has not shown that his counsel’s counsels failure to file a notice of appeal “deprive[d him] of an
+
+appeal that he otherwise would have taken.” 1 See Flores-Ortega, 528 U.S. at 484.
+
+
+
+1
+       To the extent Defendant might argue that his counsel had a duty to consult with him
+regarding an appeal, the Court disagrees. Defendant does not contend that he had any
+nonfrivolous argument to raise on appeal or that he reasonably expressed in interest in an appeal.
+See Rojas-Medina, 924 F.3d at 15 (noting that the duty to consult arises when a rational
+defendant would want to appeal or when a defendant reasonably demonstrates an interest in an
+appeal).
+
+                                                  2
+                                            2. Ground Two
+
+       Defendant contends that his lawyer failed to instruct him on the mens rea requirements of
+
+§ 922(g)(1). Specifically, he asserts that he did not know that the Government would need to
+
+prove knowledge of his status as a felon. (Docket No. 48 at 5). Defendant relies on Rehaif v.
+
+United States, 139 S. Ct. 2191 (2019), decided after Defendant’s conviction and sentence
+
+became final. In Rehaif, the Supreme Court determined that, “in a prosecution under 18 U.S.C.
+
+§ 922(g) and § 924(a)(2), the Government must prove both that the defendant knew he possessed
+
+a firearm and that he knew he belonged to the relevant category of persons barred from
+
+possessing a firearm.” Id. at 2200.
+
+       No court has found that Rehaif applies retroactively to cases on collateral review, so it is
+
+not clear Defendant can raise this challenge under § 2255. See, e.g., In re Palacios, 931 F.3d
+
+1314, 1315 (11th Cir. 2019); Moore v. United States, No. 2:19-cv-02572-TLP-tmp, 2019 WL
+
+4394755, at *2 (W.D. Tenn. Sept. 12, 2019); United States v. Grigsby, No. 12-10174-JTM, 2019
+
+WL 3302322, at *1 (D. Kan. July 23, 2019). Even assuming arguendo that Rehaif applies
+
+retroactively, however, Defendant has not alleged actual prejudice. See Sustache-Rivera v.
+
+United States, 221 F.3d 8, 18 (1st Cir. 2000) (“Because this case is on collateral review-as
+
+opposed to direct review-we apply the ‘actual prejudice’ harmless error test described in Brecht
+
+v. Abrahamson, 507 U.S. 619, 637, 113 S. Ct. 1710, 123 L.Ed.2d 353 (1993).”). His failure to
+
+show that he would not have pled guilty had he known that the Government needed to prove
+
+knowledge of his status as a felon or that a jury would have found that he lacked such knowledge
+
+is fatal to his challenge. See Ellis v. United States, 313 F.3d 636, 644 (1st Cir. 2002) (noting that
+
+the harmless error “standard requires us to ask whether the error had a substantial and injurious
+
+effect or influence on the outcome of the proceedings”).
+
+
+
+                                                  3
+                                             Conclusion
+
+       For the reasons above, the Court denies Defendant’s motion to vacate (Docket No. 48).
+
+                                    Certificate of Appealability
+
+       The statute governing appeals of final orders in habeas corpus proceedings provides that
+
+an appeal is not permitted “[u]nless a circuit justice or judge issues a certificate of appealability.”
+
+28 U.S.C. § 2253(c)(1). A certificate of appealability may issue “only if the applicant has made
+
+a substantial showing of the denial of a constitutional right.” 28 U.S.C. § 2253(c)(2). To make a
+
+“substantial showing,” a petitioner must demonstrate that “reasonable jurists could debate
+
+whether . . . the petition should have been resolved in a different manner or that the issues
+
+presented were adequate to deserve encouragement to proceed further.” Slack v. McDaniel, 529
+
+U.S. 473, 484, 120 S.Ct. 1595 (2000) (internal quotation marks omitted). This is a low bar; a
+
+claim can be considered “debatable” even if every reasonable jurist would agree that the
+
+petitioner will not prevail. Miller-El v. Cockrell, 537 U.S. 322, 338, 123 S. Ct. 1029 (2003). In
+
+ruling on an application for a certificate of appealability, a district court must indicate which
+
+specific issues satisfy the “substantial showing” standard. 28 U.S.C. § 2253(c)(3).
+
+       I deny a certificate of appealability with respect to denial of the petition because I find
+
+that reasonable jurists could not debate whether Defendant’s counsel rendered ineffective
+
+assistance by failing to file an appeal or whether Defendant demonstrated actual prejudice
+
+regarding the mens rea requirement of § 922(g)(1).
+
+SO ORDERED
+
+                                                                            /s/ Timothy S. Hillman
+                                                                         TIMOTHY S. HILLMAN
+                                                                               DISTRICT JUDGE
+
+
+
+
+                                                   4
+

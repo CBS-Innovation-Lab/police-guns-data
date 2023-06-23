@@ -1,0 +1,465 @@
+                          UNITED STATES DISTRICT COURT
+                               DISTRICT OF MAINE
+
+    UNITED STATES OF AMERICA,                     )
+                                                  )
+                         Plaintiff,               )
+    v.                                            ) No. 2:13-cr-00137-NT
+                                                  )
+    KENNETH SALES,                                )
+                                                  )
+                         Defendant.               )
+
+
+                 ORDER ON GOVERNMENT’S MOTION TO STAY
+                AND GOVERNMENT’S MOTION FOR DETENTION
+
+         On July 23, 2013, the Defendant was charged with possessing a firearm after
+
+having been convicted of a misdemeanor crime of domestic violence, in violation of 18
+
+U.S.C. § 922(g)(9). Indictment of Kenneth Albert Sales, Jr. (ECF No. 14). The
+
+indictment relied on the Defendant’s conviction under Vermont law for recklessly
+
+causing bodily injury to another. Id. On July 11, 2014, this Court issued an order
+
+dismissing the indictment after determining that a crime with a recklessness mens
+
+rea cannot constitute a misdemeanor crime of domestic violence given recent
+
+developments in the interpretation of 18 U.S.C. § 922(g).1 Order on Def.’s Mot. to
+
+Reconsider (ECF No. 80). The Court also issued an order of discharge. Order of
+
+Discharge (ECF No 81).
+
+         The Government immediately filed a notice of appeal of the Court’s order
+
+dismissing the indictment and a motion to stay the Court’s order of discharge during
+
+
+
+1       Two other judges in this District had recently reached the same result. United States v. Carter,
+No. 2:10-cr-00155-GZS, 2014 WL 3345045, at *6 (D. Me. July 8, 2014) (J. Singal); United States v.
+Hines, 1:12-cr-00204-JAW, at *9 (D. Me. May 9, 2014) (C.J. Woodcock).
+the pendency of the appeal, citing 18 U.S.C. § 3143(c) in support. Gov’t’s Notice of
+
+Appeal (ECF No. 82); Gov’t’s Mot. to Stay Order of Discharge (ECF No. 83). The Court
+
+provisionally stayed the order of discharge pending its full consideration of the issues
+
+raised by the Government’s motion and scheduled a detention hearing for July 15,
+
+2014. Order Provisionally Granting Gov’t’s Mot. to Stay (ECF No. 85).
+
+      Shortly before the detention hearing, the Defendant filed a response to the
+
+Government’s motion to stay, asserting that the Government did not have the right
+
+to appeal the Court’s dismissal of the indictment and a detention hearing was
+
+therefore unnecessary. Def’s Opp’n to Gov’t’s Mot. to Stay (ECF No. 87). Counsel for
+
+the Government did not have an opportunity to read the Defendant’s filing before the
+
+hearing. The Court held the hearing as scheduled and the Government made an oral
+
+motion for detention. Gov’t’s Oral Mot. for Detention (ECF No. 91). The Government
+
+filed further briefing on July 17, 2014, disputing the Defendant’s contention that the
+
+Government is not entitled to an appeal and again arguing for the Defendant’s
+
+continued detention. Gov’t’s Reply to Def’s Opp’n (ECF No. 93).
+
+
+                                    DISCUSSION
+
+                             I. Statutory Background
+
+      The scope of the Government’s right to appeal a district court’s dismissal of an
+
+indictment is determined by 18 U.S.C. § 3731. It provides, in relevant part, as follows:
+
+      In a criminal case an appeal by the United States shall lie to a court of
+      appeals from a decision, judgment, or order of a district court dismissing
+      an indictment . . . , except that no appeal shall lie where the double
+      jeopardy clause of the United States Constitution prohibits further
+      prosecution.
+
+
+                                           2
+18 U.S.C. § 3731. Section 3731 also authorizes government appeals from orders
+
+suppressing evidence, orders requiring the return of seized property, orders releasing
+
+charged or convicted defendants, and orders denying revocations or modifications of
+
+previous orders granting release. Id.
+
+       Another statute, 18 U.S.C. § 3143(c), addresses what to do with defendants
+
+while such appeals are pending. It requires that the district court “treat a defendant
+
+in a case in which an appeal has been taken by the United States under section 3731
+
+. . . in accordance with section 3142,”2 the statute setting out the standards and
+
+procedures for determining whether an accused should be detained pending trial. See
+
+18 U.S.C. § 3142.
+
+       Three provisions of Section 3142 are implicated here. The first, Section 3142(a),
+
+lists the dispositions available to a judge making a detention determination.
+
+18 U.S.C. § 1342(a). It provides as follows:
+
+       (a) . . . Upon the appearance before a judicial officer of a person charged
+       with an offense, the judicial officer shall issue an order that, pending
+       trial, the person be—
+
+           (1) released on personal recognizance or upon execution of an
+           unsecured appearance bond . . . ;
+
+           (2) released on a condition or combination of conditions . . . ;
+
+           (3) temporarily detained to permit revocation of conditional release,
+           deportation, or exclusion . . . ; or
+
+           (4) detained . . . .
+
+
+
+2      Under an exception not implicated here, the court is not required to follow Section 3142
+pending a Section 3731 appeal if “the defendant is otherwise subject to a release or detention order.”
+18 U.S.C. § 3143(c).
+
+                                                  3
+Id.
+
+      The second, Section 3142(e), requires a district court to release a defendant
+
+unless there is “no condition or combination of conditions” that will “reasonably
+
+assure the appearance of the person as required and the safety of any other person
+
+and the community.” 18 U.S.C. § 3142(e)(1).
+
+      Finally, the third, Section 3142(g), lays out the factors the district court must
+
+consider in making the risk of flight and dangerousness determination compelled by
+
+Section 3142(e). In relevant part, Section 3142(g) provides as follows:
+
+      (g) . . . The judicial officer shall . . . take into account the available
+      information concerning—
+
+          (1) the nature and circumstances of the offense charged . . . ;
+
+          (2) the weight of the evidence against the person . . . ;
+
+          (3) the history and characteristics of the person . . . ; and
+
+          (4) the nature and seriousness of the danger to any person or the
+          community that would be posed by the person's release. . . .
+
+18 U.S.C. § 3142(g).
+
+
+              II. Whether the Government Has a Right to Appeal
+
+      The Court first addresses the Defendant’s argument that Section 3143(c) is not
+
+implicated at all because the Government has no right of appeal.
+
+      On its face, Section 3731 appears to grant the Government an unambiguous
+
+right to appeal any dismissal of an indictment, so long as the double jeopardy clause
+
+does not prohibit further prosecution. 18 U.S.C. § 3731. The Defendant concedes
+
+jeopardy has not yet attached here, but points out that the First Circuit held in United
+
+
+                                            4
+States v. Findley, 439 F.2d 970, 972 (1st Cir. 1971) that Section 3731 does not permit
+
+the Government to appeal the dismissal of an indictment based on the presentation
+
+of evidentiary facts outside the indictment which would constitute a defense on the
+
+merits if the case went to trial. Def.’s Opp’n to Gov’t’s Mot. to Stay 4. The Government
+
+contends that Findley is no longer good law, as 18 U.S.C. § 3731 was amended to
+
+remove an ambiguity in the text on which Findley relied. Gov’t’s Reply to Def.’s Opp’n
+
+2-3. The Government cites United States v. Barker Steel Co., 985 F.2d 1123, 1125 n.
+
+2 (1st Cir. 1993) and other out-of-circuit cases in support. Id.
+
+      This issue is thorny and the parties have not fully developed it in the relatively
+
+short briefs filed to date. Additionally, neither party has given close consideration to
+
+whether jeopardy really has attached given the unique posture of this case, in which
+
+the Defendant has already made a conditional plea and been adjudged guilty. See,
+
+e.g., United States v. Santiago Soto, 825 F.2d 616, 617-20 (1st Cir. 1987) (discussing
+
+jeopardy with respect to defendants who have entered guilty pleas). Because it would
+
+not change the Court’s ultimate disposition, the Court need not reach the issue. For
+
+the purposes of this order, the Court assumes that Section 3731 does entitle the
+
+Government to appeal the Court’s order dismissing the Defendant’s indictment.
+
+
+               III. Whether the Defendant is Entitled to Release
+
+      Because the Government is proceeding with its appeal under Section 3731,
+
+Section 3143(c) requires the Court to “treat [the] defendant . . . in accordance with
+
+section 3142” during the appeal’s pendency. 18 U.S.C. § 3143(c). The problem for the
+
+Government is that Section 3142(a) only authorizes the detention “of a person
+
+
+                                           5
+charged with an offense.” 18 U.S.C. 3142(a). As of July 11, 2014, the Defendant no
+
+longer fits that description.3 Id.
+
+        This District dealt with a similar issue in United States v. Szpyt, No. 2:11-cr-
+
+00228-GZS, 2013 WL 4039412 (D. Me. Aug. 7, 2013) (Mag. J. Rich). There, the
+
+defendant sought release from detention after the court dismissed the first count
+
+(“Count One”) of a multi-count indictment. The dispute between the parties involved
+
+a provision in Section 3142(e) entitling the government to a rebuttable presumption
+
+that there is “no condition or combination of conditions” that will “reasonably assure
+
+the appearance of the person . . . and the safety of . . . the community” if the Court
+
+determines there is “probable cause to believe” the defendant committed a charged
+
+offense “for which a maximum term of imprisonment of ten years or more is
+
+prescribed in the Controlled Substances Act . . . .” 10 M.R.S. § 3142(e)(1), (3)(A); Szypt,
+
+2014 WL 4039412, at *4.
+
+        The Government conceded that Count One was the only charge for which
+
+Section 3142(e) provided the possibility of the rebuttable presumption. Szpyt, 2013
+
+WL 4039412, at *4. 18 U.S.C. § 3142(e); Szpyt, 2013 WL 4039412, at *4. Without
+
+
+
+
+3       The Government argues that if dismissal of the Defendant’s indictment “automatically
+resulted in release, then § 3143(c) would amount to mere surplusage.” Gov’t’s Reply to Def.’s Opp’n 4.
+However, in many situations where the United States pursues an appeal authorized by Section 3731,
+the defendant is still “charged with an offense,” and it is perfectly logical to proceed to a Section 3142(g)
+analysis to determine whether detention is appropriate. For instance, if a district court issues an order
+dismissing some but not all of the counts in a multi-count indictment or if a district court issues an
+order suppressing evidence against the Defendant pursuant to the exclusionary rule, there is still a
+charge pending against the defendant. See, e.g., United States v. Trullo, CR No. 85-303-S, 1986 WL
+3500, at *2-4 (D. Mass. Feb. 27, 1986) (detaining defendant under Section 3143(c) and Section 3142
+pending appeal of motion to suppress).
+
+                                                     6
+Count One factored into the analysis, the Government could not satisfy its burden of
+
+establishing that detention was warranted. Szpyt, 2013 WL 4039412, at *4.
+
+      The main issue before the Szpyt court was whether Count One could be
+
+factored into the Section 3142 detention analysis even though it had been dismissed
+
+for constitutional reasons by an earlier court order. The Government argued that the
+
+dismissal was not final because an appeal was pending. But Judge Rich concluded
+
+that although the appeal was “pending” (with respect to whether the First Circuit
+
+had jurisdiction to hear it), the dismissed charge was not (with respect to whether it
+
+provided a legal basis for continuing to restrict the defendant’s liberty). After
+
+analyzing the few cases existing on point, Judge Rich concluded that “a dismissed
+
+charge should not be taken into account, even if the government has appealed its
+
+dismissal.” Id. at *7-8; see United States v. Shavanaux, No. 2:10 CR 234 TC, 2010
+
+WL 4608317, at *1-2 (D. Utah Nov. 5, 2010) (dismissal of indictment by trial court on
+
+determination that charged predicate offense was invalid constituted “a judicial
+
+determination . . . that there is currently no offense charged” and precluded detention
+
+during pendency of appeal); Frage v. Eddington, 26 M.J. 927, 928 (N.M.C.M.R. 1988)
+
+(dismissal of charge on trial court’s determination that statute of limitations barred
+
+prosecution precluded detention during pendency of appeal because there was no
+
+longer any “basis . . . for continued confinement”).
+
+      Since the Szpyt case, a federal district court in California has issued a decision,
+
+United States v. Hudson, No. 2:13-cr-00126-ODW-3, 2014 WL 960860 (C.D. Cal. Mar.
+
+12, 2014), which addresses almost the precise issue before the Court now. Just as in
+
+
+
+                                           7
+this case, the Government immediately appealed an order by the district court
+
+dismissing the defendant’s entire indictment and moved for detention under Section
+
+3143(c) and Section 3142 while the appeal was pending. Hudson, 2014 WL 960860,
+
+at *17.
+
+        Relying on the Fourth Amendment,4 the Fifth Amendment,5 and a close
+
+interpretation of Section 3143(c) and Section 3142, the court concluded that “[s]ince
+
+there is no longer an operative indictment, there is no possible way for the Court to
+
+further restrain [the defendant’s] liberty.” Id. The portion of the Hudson decision
+
+construing Section 3143(c) and Section 3142 bears quoting at length:
+
+              While the Government has presented an extensive discussion of
+        § 3142, that section—by its very terms—only applies to “a person
+        charged with an offense.” § 3142(a). When the Court dismissed the
+        indictment, Dunlap was no longer “charged with an offense.”
+
+               Neither does the Court find that § 3143(c) compels a different
+        result. . . . A literal reading of § 3143 might seem to indicate that the
+        Court must navigate the § 3142 morass to determine whether to release
+        Dunlap. Section 3143 states that the “judicial officer shall treat a
+        defendant in a case in which an appeal has been taken by the United
+        States under section 3731 of this title, in accordance with section 3142
+        of this title.” § 3143(c) (emphasis added). The Government has in fact
+        appealed—or at least will likely appeal—the Court’s Order Dismissing
+        the Indictment as authorized under § 3731. . . .
+
+               But as noted above, there is no possible way that the Court could
+        apply § 3142 to Dunlap at this time, because there is no valid indictment
+        against him. See § 3142(a) (requiring that the person be charged with a
+        crime). The Government asks the Court to issue a bench warrant to re-
+        arrest Dunlap. But on what charge? It would run completely afoul of the
+        Constitution for the Court to simply order that a person sit in jail
+
+4       “The right of the people to be secure in their persons . . . against unreasonable . . . seizures . . .
+shall not be violated . . . .” U.S. Const. amend. IV.
+5         “No person shall be held to answer for a capital, or otherwise infamous crime, unless on a
+presentment or indictment of a grand jury . . . nor be deprived of . . . liberty . . . without due process of
+law . . . .” U.S. Const. amend. V.
+
+                                                      8
+        because at some unknown point in the future an appellate court might
+        reverse the court order that dropped the charges against him.
+
+Id. (spacing and indentation modified).
+
+        This Court agrees with both the Central District of California and Judge Rich.
+
+Properly interpreted, Section 3142 does not allow the Government to detain an
+
+individual who is not “charged with an offense.”6 18 U.S.C. § 3142.
+
+        But even if the text of Section 3142(a) and the Constitution permit a different
+
+conclusion, analysis under Section 3142(g) would not warrant detaining the
+
+Defendant.
+
+The Government has made an extremely strong showing favoring detention under
+
+two of Section 3142(g)’s four provisions: Section 3142(g)(3), which requires the Court
+
+to consider the Defendant’s “history and characteristics,” and Section 3142(g)(4),
+
+which requires the Court to consider “the nature and seriousness of the danger to any
+
+person or the community that would be posed by the person’s release.” 18 U.S.C.
+
+§ 3142(g)(3)-(4). The Defendant has a lengthy criminal history and has acted with
+
+disturbing violence on many occasions, some of them recent. There appear to be
+
+pending murder charges against the Defendant in Massachusetts, the details of
+
+which are troubling.7 Were the Court permitted to consider only the factors laid out
+
+in Section 3142(g)(3) and Section(g)(4) factors, this would be a very easy case.
+
+
+6        Contra United States v. Ailemen, 165 F.R.D. 571, 597 n.33 (N.D. Cal. 1996) (federal magistrate
+judge’s decision recommending that defendant be released on due process grounds but noting in dicta
+that “[t]he Bail Reform Act permits a defendant to be detained pending an appeal by the government
+of the dismissal of an indictment”).
+7       At the July 15, 2014 detention hearing, counsel for the Government represented that a
+Massachusetts grand jury recently indicted the Defendant for first degree murder, but that the State
+anticipates it will drop the charges because its key witness, the Defendant’s former girlfriend, recently
+
+                                                   9
+       But to complete even a valid 3142(g) anlaysis, the Court must also weigh the
+
+nature and circumstances of the offense charged, 18 U.S.C. § 3142(g)(1), and the
+
+weight of the evidence supporting the charge, 18 U.S.C. § 3142(g)(2). With respect to
+
+Section 3142(g)(1), the Defendant is no longer charged with an offense. Order on
+
+Def.’s Mot. to Reconsider. With respect to Section 3142(g)(2), the Court has already
+
+concluded that the evidence against the Defendant is insufficient to support a
+
+conviction. Id. Given these unusual circumstances, the Court must conclude that the
+
+Government has failed to meet its burden even if a Section 3142(g) analysis is
+
+required.
+
+
+                                       CONCLUSION
+
+       For the reasons stated above, the Court DENIES the Government’s Motion to
+
+Stay the Order of Discharge (ECF No. 83) and the Government’s Motion for Detention
+
+(ECF No. 91).
+
+
+SO ORDERED.
+                                             /s/ Nancy Torresen
+                                             United States District Judge
+
+
+Dated this 24th day of July, 2014.
+
+
+
+
+committed suicide. The transcripts of the witness’s grand jury testimony and two of her interviews
+with the police were admitted into the detention hearing record. Gov’t’s Exs.
+
+
+                                               10
+

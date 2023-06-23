@@ -1,0 +1,261 @@
+                      UNITED STATES DISTRICT COURT
+                       DISTRICT OF MASSACHUSETTS
+_______________________________________
+                                        )
+UNITED STATES OF AMERICA                )
+                                        )         CRIMINAL ACTION
+ v.                                     )
+                                        )         NO. 4:19-40008-TSH
+LEROY BYRON,                            )
+                                        )
+                   Defendant.           )
+______________________________________ )
+
+
+
+      ORDER AND MEMORANDUM ON PLAINTIFFS’ MOTION TO SUPPRESS
+                      EVIDENCE (Docket No. 34)
+
+                                       September 20, 2019
+
+HILLMAN, D.J.
+
+       The United States of America (the “Government”) charged Leroy Byron (“Defendant”)
+
+with possession of a firearm by a convicted felon after officers found a firearm in his waistband
+
+during a traffic stop. (Docket No. 1). Defendant moves to suppress evidence of the firearm and
+
+certain statements he made to officers. (Docket No. 34). Because the traffic stop was lawful and
+
+police officers had reasonable suspicion based on articulable facts that the Defendant was armed,
+
+the Court denies Defendant’s motion to suppress evidence of his firearm. Because Defendant’s
+
+admission that he did not have a license for the firearm was the result of a custodial
+
+interrogation, the Court grants Defendant’s motion to suppress his statements to officers.
+
+                                           Background
+
+       On November 5, 2018, at 12:45 am, four members of the Worcester Police Department’s
+
+Shooting Response Team were in an unmarked police car in the Kelley Square area of the city.
+
+They observed a silver Acura TSX approaching the intersection of Harding and Lamartine
+
+
+                                                 1
+Streets. (Docket Nos. 34 at 1, 39 at 1–2). As the car slowed and stopped, the officers noticed
+
+that the rear brake light on the driver’s side was broken. (September 12 transcript at 5, 16). The
+
+vehicle travelled towards the intersection of Lafayette and Millbury Streets and took a left-hand
+
+turn. (Docket No. 1-1 at 3). The officers activated their lights and pulled over the vehicle.
+
+(Docket No. 1-1 at 3).
+
+       Officer Bennes recognized the driver as Richard Garcia (“Mr. Garcia”), a member of the
+
+Providence Street Posse gang with a violent criminal history. (Docket Nos. 1-1 at 3). Defendant
+
+sat in the front passenger seat. (Docket Nos. 34 at 1, 39 at 2). Officer Bennes approached the
+
+car and spoke with Mr. Garcia. (Docket No. 1-1 at 3). He noticed Defendant acting nervously
+
+and holding onto a bulge in his waistband. (Docket No. 1-1 at 3). Detective Chabot and Officer
+
+Turgeon also observed Defendant adjusting an object in his waistband. (Docket No. 1-1 at 3, 39
+
+at 2). Mr. Garcia reached into his glove compartment and retrieved his vehicle registration card.
+
+(September 12 transcript at 21). He held the registration card in front of Officer Bennes in an
+
+effort to obscure Officer Bennes’ view into the vehicle. (September 12 transcript at 7).
+
+       Detective Chabot and Officer Turgeon told Officer Bennes that Defendant “kept moving
+
+his hands” despite being told to stay still. (September 12 transcript at 9–10). Officer Bennes
+
+ordered the driver and passengers to exit the vehicle. (Docket No. 1-1 at 3). After exiting the
+
+vehicle, Defendant remained non-compliant by not removing his hands from the area of his
+
+waistband. (Docket No. 1-1 at 4). Detective Chabot and Officer Turgeon tried to restrain
+
+Defendant, and Detective Chabot shouted “GUN.” (September 12 transcript at 11–12, 27–28).
+
+After the officers handcuffed the Defendant, Officer Bennes felt the back and handle of a firearm
+
+in the front of Defendant’s waistband. (Docket No. 1-1 at 4). He lifted Defendant’s shirt, and
+
+Officer Turgeon retrieved the firearm. (Docket No. 1-1 at 4). The officers asked Defendant for
+
+
+
+                                                 2
+his license to carry the firearm. Defendant indicated that he did not have one. (Docket Nos. 34
+
+at 1, 1-1 at 4).
+
+        Defendant was arrested and charged with possession of a firearm by a convicted felon
+
+under 18 U.S.C § 922(g)(1). (Docket No. 1). He moves to suppress the evidence gathered
+
+during the stop. (Docket No. 34).
+
+                                            Discussion
+
+                                     1. Lawfulness of Initial Stop
+
+        Defendant argues that the Court should suppress evidence of the firearm because the
+
+Government obtained it during an unlawful traffic stop. A traffic stop by police officers
+
+constitutes a “seizure” within the ambit of the Fourth Amendment. 1 Whren v. United States, 517
+
+U.S. 806, 810 (1996). It “is thus subject to the constitutional imperative that it not be
+
+‘unreasonable’ under the circumstances.” Id. For a traffic stop to be reasonable, officers must
+
+have a “reasonable suspicion that a traffic violation has occurred.” United States v. Chaney, 584
+
+F.3d 20, 24 (1st Cir. 2009).
+
+        Defendant contends that the officers could not have had a “reasonable suspicion that a
+
+traffic violation ha[d] occurred” because Mr. Garcia’s vehicle had two working brake lights
+
+when he was pulled over; one on the passenger’s side of the rear of the vehicle and one in the
+
+center of the back windshield. (Docket No. 34 at 2). Massachusetts law requires a motor
+
+vehicle to have “two rear lights mounted at each side of the rear of the vehicle.” See M.G.L. c.
+
+90 § 7 (emphasis added). Defendant does not dispute that, because the rear brake light on the
+
+driver’s side was broken, Mr. Garcia’s vehicle had only one working brake light mounted on the
+
+
+
+
+1
+       The Fourth Amendment guarantees “[t]he right of the people to be secure in their
+persons, houses, papers, and effects, against unreasonable searches and seizures.”
+                                                  3
+side of the rear of his vehicle. (Docket No. 39 at 4). The officers thus had reasonable suspicion
+
+Mr. Garcia had committed a traffic violation. And because they had reasonable suspicion, the
+
+traffic stop was lawful. 2
+
+                    2. Reasonable Suspicion to Conduct Terry Stop and Pat-Frisk
+
+        Defendant next argues that we should suppress evidence of the firearm because the
+
+officers conducting his pat-frisk did not have a reasonable suspicion that he was armed and
+
+dangerous. To justify a pat-frisk of a passenger during a traffic stop, an officer must have a
+
+reasonable suspicion, supported by “specific and articulable facts,” that the passenger is armed
+
+and dangerous. See Terry v. Ohio, 392 U.S. 1, 21 (1968); see also Arizona v. Johnson, 555 U.S.
+
+323, 327 (2009). “Reasonable suspicion is a less exacting requirement than probable cause, but
+
+requires ‘something more than an inchoate and unparticularized suspicion or “hunch.”’” United
+
+States v. Tiru-Plaza, 766 F.3d 111, 116 (1st Cir. 2014) (quoting United States v. Sokolow, 490
+
+U.S. 1, 7 (1989)). In determining whether an officer had reasonable suspicion, we apply an
+
+objective standard and consider the totality of the circumstances. Id.
+
+        According to Defendant, Officer Bennes had no more than a hunch that Defendant was
+
+armed. (Docket No. 34 at 4–5). He contends that, “[o]ther than being understandably
+
+nervous, . . . [he] did not act in any manner that would give an officer reason to believe he was
+
+armed and dangerous.” (Docket No. 34 at 5). The Court rejects this argument. Officer Bennes
+
+recognized the driver as a gang member with a violent criminal history. (Docket Nos. 1-1 at 3).
+
+While he spoke with that driver, he noticed Defendant holding onto a bulge in his waistband.
+
+
+
+
+2
+       In response to a question from the Court, Officer Bennes freely acknowledged that the
+Shooting Response Team stops any car that commits even a minor motor vehicle infraction in
+Kelley Square in the late night and early morning.
+                                                 4
+(Docket Nos. 1-1 at 3). Detective Chabot and Officer Turgeon similarly observed Defendant
+
+adjusting something in his waistband. (Docket Nos. 1-1 at 3).
+
+       After the officers ordered the passengers outside of the vehicle, moreover, Defendant
+
+continued to keep his hands around his waistband and disobey the officers’ orders. (Docket No.
+
+1-1 at 4). It took three officers to restrain and handcuff him. (Docket No. 1-1 at 4). During the
+
+struggle, Detective Chabot yelled “GUN” (September 12 transcript at 11–12, 27–28), and Officer
+
+Bennes felt the back and handle of a firearm (Docket No. 1-1 at 4). Under the totality of the
+
+circumstances, the officers had reasonable suspicion that Defendant was armed and dangerous,
+
+and the pat-frisk was lawful.
+
+                                            3. Statements
+
+       Finally, Defendant argues that we must suppress his statements regarding his lack of a
+
+license for the firearm. (Docket No. 34 at 1). An officer must give a suspect a Miranda warning
+
+before subjecting him to a custodial interrogation. United States v. Trueber, 238 F.3d 79, 91 (1st
+
+Cir. 2001). A traffic stop usually is not custodial in nature. See id. A stop may become
+
+custodial, however, if “there [is] ‘a formal arrest or restraint on freedom of movement of the
+
+degree associated with a formal arrest.’” Id. at 93 (1st Cir. 2001) (quoting Thompson v.
+
+Keohane, 516 U.S. 99, 112 (1995)).
+
+       By the time Defendant indicated that he did not have a license for the firearm, officers
+
+had already placed him in handcuffs. As handcuffs are undoubtedly a restraint associated with a
+
+formal arrest, the Court determines that the traffic stop had become custodial in nature. Because
+
+Defendant had not yet received his Miranda rights, his statements were the unlawful product of a
+
+custodial interrogation. The Court therefore grants the motion to suppress them.
+
+
+
+
+                                                 5
+                                          Conclusion
+
+       For the reasons above, the Court denies Defendant’s motion to suppress evidence of his
+
+firearm and grants his motion to suppress his statement to officers. (Docket No. 34).
+
+
+
+SO ORDERED
+
+                                                                        /s/ Timothy S. Hillman
+                                                                     TIMOTHY S. HILLMAN
+                                                                           DISTRICT JUDGE
+
+
+
+
+                                                6
+

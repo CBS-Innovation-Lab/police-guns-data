@@ -1,0 +1,273 @@
+                        UNITED STATES DISTRICT COURT
+                             DISTRICT OF MAINE
+
+UNITED STATES OF AMERICA,              )
+                                       )
+                                       )
+                                       )
+                   v.                  )
+                                       ) 2:18-cr-00040-JDL-01
+LAMALE LAWSON,                         )
+                                       )
+                                       )
+      Defendant.                       )
+
+
+            ORDER ON DEFENDANT’S MOTION TO SUPPRESS
+
+      Defendant Lamale Lawson is charged with possessing a firearm as a felon, in
+
+violation of 18 U.S.C.A. §§ 922(g)(1) and 924(a) (2018). Lawson has moved to suppress
+
+all evidence obtained when agents from the Maine Drug Enforcement Agency
+
+(“MDEA”) searched a bedroom closet in the apartment of his girlfriend, “N.N.” (ECF
+
+No. 15). For the reasons that follow, I deny the motion.
+
+                          I. FACTUAL BACKGROUND
+
+      In March 2016, Special Agent Josh McDonald, of the MDEA, began
+
+investigating Lawson’s alleged involvement in trafficking drugs and firearms. See
+
+ECF No. 16 at 1. Special Agent McDonald and other agents learned that Lawson
+
+would occasionally stay at N.N.’s apartment, and agents made two controlled
+
+purchases of heroin from Lawson at N.N.’s housing complex.            Special Agent
+
+McDonald also learned that Lawson would use N.N.’s vehicle in the course of his
+
+alleged drug trafficking. After obtaining a search warrant for the location data
+
+associated with Lawson’s cell phone, Special Agent McDonald confirmed that Lawson
+had taken N.N.’s car to New York in late July 2016. See id. at 1-2. Using the same
+
+location data, on July 31, 2016, MDEA agents intercepted Lawson in the same
+
+vehicle, driving northbound in Maine. See id. at 2. Although a search of Lawson and
+
+the vehicle revealed no drugs, Lawson was arrested that day on state drug trafficking
+
+charges based on the prior controlled purchases, as well as a federal charge as a felon
+
+in possession of a firearm.
+
+      Also on July 31, Special Agent McDonald and two other officers spoke with
+
+N.N. at her apartment. See id. N.N. told the agents that Lawson stayed with her
+
+and kept some of his property in her apartment, and she then signed a written
+
+consent form that granted the agents permission to search her entire bedroom. See
+
+id.; see also ECF No. 15 at 2. She took the agents to her bedroom, which had two
+
+closets with sliding doors. See ECF No. 16 at 2, July 27 Hearing Tr. at 16:18-18:13.
+
+N.N. pointed to the left-side closet and, as testified to by Special Agent McDonald,
+
+said “that’s where he [keeps] his stuff.” Tr. at 22:6-22:9. Special Agent McDonald
+
+slid open the unlocked closet door, shined a flashlight on the floor, and immediately
+
+recognized a gun case. See id. at 23:5-23:23. Special Agent McDonald observed that
+
+the case was slightly open, and what appeared to be a silver handgun was visible.
+
+See id. at 24:12-24:20. N.N. told the agents that she did not know the gun was in the
+
+closet. See id. at 25:25-26-2.
+
+      After the agents discovered the gun, N.N. pointed them towards a safe, which
+
+was located under her bed, and told them that it belonged to Lawson. See ECF No.
+
+16 at 2. She told the agents that “if he [Lawson] had drugs, they would be in the
+
+
+
+                                           2
+safe.” Id. at 2-3; see also Tr. at 27:4-27:7. Special Agent McDonald then bent down
+
+and visually confirmed that there was a safe under the bed. See Tr. at 26:18-26:22.
+
+        After discovering the handgun and safe in N.N.’s bedroom, the agents applied
+
+for and obtained a search warrant, which was issued by a Judge of the State of Maine
+
+District Court.
+
+                                    II. LEGAL ARGUMENT
+
+        The Fourth Amendment guarantees “[t]he right of the people to be secure in
+
+their persons, houses, papers, and effects, against unreasonable searches and
+
+seizures.” U.S. Const. amend. IV. Lawson argues that the warrantless closet search
+
+was unreasonable. It follows, Lawson contends, that both the evidence discovered
+
+during the initial closet search, and the search that followed the issuance of the
+
+search warrant (which was supported in part by the evidence discovered during the
+
+initial search) must be suppressed.1
+
+        “[U]nder the Fourth and Fourteenth Amendments [] a search conducted
+
+without a warrant issued upon probable cause is per se unreasonable . . . subject only
+
+to a few specifically established and well-delineated exceptions.” Schneckloth v.
+
+Bustamonte, 412 U.S. 218, 219 (1973) (internal quotation marks omitted and
+
+emphasis added). It is “well settled that one of the specifically established exceptions
+
+to the requirements of both a warrant and probable cause is a search that
+
+is conducted pursuant to consent.” Id. Thus, officers do not need a search warrant
+
+
+
+
+ 1 Lawson represents that the property seized during the search conducted pursuant to the warrant included
+
+two handguns, ammunition, mail addressed to Lawson, the safe and its contents, mobile telephones, a smart
+watch, credit cards, and plastic bags. See ECF No. 15 at 3. The record, however, contains no evidence beyond
+Lawson’s representations with respect to the property seized during the search.
+                                                       3
+when a person with the authority to consent does so freely and voluntarily. See
+
+United States v. Jones, 523 F.3d 31, 37 (1st Cir. 2008).
+
+      Lawson’s argument proceeds in three ways: First, he argues that N.N. lacked
+
+apparent authority over the closet in which he kept his personal property; second, he
+
+argues that even if N.N. did have apparent authority, the closet was outside of the
+
+scope of the search that she had consented to; and third, he argues that if the fruits
+
+of the closet search are suppressed and thus excised from the warrant affidavit, the
+
+mere presence of a safe in N.N.’s bedroom, along with her statement indicating that
+
+if Lawson had drugs, he would keep them in the safe, were insufficient grounds for
+
+issuing a warrant. I consider each argument and conclude that the officers acted
+
+within the scope of the consent they obtained from N.N., who was a person with
+
+authority over the searched area. Accordingly, I need not and do not reach Lawson’s
+
+argument with respect to whether the search warrant would have issued in the
+
+absence of evidence obtained during the initial closet search.
+
+A.    Apparent Authority
+
+      “[T]he consent of one who possesses common authority over premises or effects
+
+is valid as against the absent, nonconsenting person with whom that authority is
+
+shared.” United States v. Matlock, 415 U.S. 164, 170 (1974). Here, the parties agree
+
+that N.N. was the lessor of the apartment, and the officers were aware of that fact.
+
+They further agree that N.N. signed a written consent form permitting officers to
+
+search her entire bedroom, which is where the relevant closet was located. See ECF
+
+No. 16 at 2; see also ECF No. 15 at 2.
+
+
+
+                                           4
+         “As with other factual determinations bearing upon search and seizure,
+
+determination of consent to enter must be judged against an objective standard:
+
+would the facts available to the officer at the moment . . . warrant a man of reasonable
+
+caution in the belief that the consenting party had authority over the premises?”
+
+Illinois v. Rodriguez, 497 U.S. 177, 188 (1990) (internal quotation marks omitted).
+
+Common authority exists where people mutually use a property and generally have
+
+joint access or control of the area. United States v. Meada, 408 F.3d 14, 21 (1st Cir.
+
+2005).
+
+         Here, at the time of the warrantless search, the agents reasonably understood
+
+that Lawson and N.N. were a couple and they shared things, including the use of her
+
+apartment and car. Although Lawson contends that the bedroom’s left-side closet
+
+was his alone, at the time of the search N.N. indicated only that it was the location
+
+in her bedroom where “he [kept] his things.” And, regardless of whether N.N. kept
+
+any of her own items in the left-side closet, there is no evidence that should have
+
+caused the officers to conclude that N.N. was prohibited from accessing or using the
+
+closet. The evidence establishes that N.N. possessed no less than common authority
+
+over the use of, and access to, the left-side closet in her bedroom. Thus, N.N. had the
+
+authority to consent to a search of the closet.
+
+B.       Scope of Consent
+
+         After officers have obtained consent to search a property, a warrantless search
+
+may not “exceed the scope of the consent granted.” United States v. Chaney, 647 F.3d
+
+401, 405–06 (1st Cir. 2011). N.N. signed a written consent form permitting the
+
+officers to search her entire bedroom.       Moreover, once the officers were in her
+
+                                            5
+bedroom, N.N. herself pointed them to the closet by volunteering that Lawson kept
+
+personal items there. “The scope of the consented-to search is generally defined by
+
+the expressed object of the search, which is measured by a test of objective
+
+reasonableness: what would the typical reasonable person have understood by the
+
+exchange between the officer and subject?” Id. (internal quotation marks omitted).
+
+Given that N.N. expressly pointed the officers to the closet, and the closet was within
+
+and part of N.N.’s bedroom, it was objectively reasonable for the officers to treat the
+
+closet as within the scope of N.N.’s consent.
+
+                                III. CONCLUSION
+
+      Because the agents acted within the scope of the consent they obtained from a
+
+person with authority over the searched area, Lawson’s Motion to Suppress (ECF No.
+
+15) is DENIED.
+
+
+
+      SO ORDERED.
+
+      Dated this the 15th day of August, 2018.
+
+
+                                                        /s/ JON D. LEVY
+                                                     U.S. DISTRICT JUDGE
+
+
+
+
+                                           6
+

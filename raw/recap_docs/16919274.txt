@@ -1,0 +1,306 @@
+    Case 1:04-cr-00034-JAW Document 40 Filed 04/25/05 Page 1 of 6                                 PageID #: 69
+
+
+
+                                  UNITED STATES DISTRICT COURT
+                                       DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA                              )
+                                                      )
+         v.                                           )
+                                                      )        CR-04-34-B-W
+JOHN GOETCHIUS,                                       )
+                                                      )
+                  Defendant.                          )
+
+
+                                          PRESENTENCE ORDER
+
+         The Defendant, John Goetchius, pleaded guilty on June 7, 2004 to possession of a firearm
+
+by a felon in violation of 18 U.S.C. § 922(g)(1). This order addresses whether Mr. Goetchius’s
+
+two prior convictions for indecent assault and battery are “related” under U.S.S.G. §
+
+4A1.2(a)(2).1 The resolution of this issue affects Mr. Goetchius’s Guideline range of sentence in
+
+two ways: 1) if the two previous crimes of violence are unrelated, the base offense level under
+
+U.S.S.G. § 2K2.1(a)(2) would be 24, but if they are related, the base offense level would be 20
+
+under U.S.S.G. § 2K2.1(a)(4); and, 2) if the convictions are unrelated, he receives 6 criminal
+
+history points, which places him in a criminal history category III, but if related, he receives 3
+
+criminal history points, which places him in a criminal history category II. If the crimes are
+
+related, his guideline range is 27-33 months; if unrelated, the range is 46-57 months. 2 Because
+
+this Court concludes that the Commonwealth of Massachusetts functionally consolidated these
+
+two crimes, they must be considered “related” under U.S.S.G. § 4A1.2(a)(2).
+
+
+
+1
+  U.S.S.G 4A1.1(a) instructs that for each prior sentence exceeding one year and one month add 3 points. “Prior
+sentence” is defined as “any sentence previously imposed upon adjudication of guilt, whether by guilty plea, trial, or
+plea of nolo contendere, for conduct not part of the instant offense.” Id. § 4A1.2(a)(1). Prior sentences imposed in
+unrelated cases are to be counted separately, while prior sentences imposed in related cases are to be treated as one
+sentence. Id. § 4A1.2(a)(2).
+2
+  Both calculations assume Mr. Goetchius’s net offense level has been reduced by three points for acceptance of
+responsibility under U.S.S.G. § 3E1.1(a), (b).
+    Case 1:04-cr-00034-JAW Document 40 Filed 04/25/05 Page 2 of 6                       PageID #: 70
+
+
+
+I. BACKGROUND
+
+         The facts are not in dispute. Mr. Goetchius was charged and convicted on March 28,
+
+1996 in the Commonwealth of Massachusetts of indecent assault and battery on a child under
+
+fourteen years of age, violations of Mass. Gen. Laws Ch. 265, § 13B. An Essex County Grand
+
+Jury returned two indictments against Mr. Goetchius on March 6, 1994. The indictments,
+
+although issued separately, contain precisely the same allegation: that “on or about a date
+
+between September 1, 1993 and January 28, 1994,” Mr. Goetchius “did commit an indecent
+
+assault and battery on a child under fourteen years of age . . . .” The victim was the same in each
+
+indictment. The two indictments were given different docket numbers:                  9477CR 878 and
+
+9477CR 879. The entries on each docket sheet were identical in every respect, except the
+
+sentence. Mr. Goetchius was arraigned for each charge on the same day, the same Assistant
+
+District Attorney prosecuted each case, the cases were pending in the same court, Mr. Goetchius
+
+was represented by the same defense counsel, the same motions were filed and ruled on on the
+
+same days, and he pleaded guilty before the same judge in the same court on the same day. The
+
+sentences were different.       Mr. Goetchius was sentenced on 9477CR 878 to two years
+
+incarceration in the House of Corrections with no probation; he was sentenced on 9477CR 879 to
+
+no incarceration and five years probation with special conditions. 3 There is no indication the two
+
+charges were ever formally consolidated.
+
+II. DISCUSSION
+
+         Application Note 3 to § 4A1.2 provides:
+
+                Prior sentences are not considered related if they were for offenses
+                that were separated by an intervening arrest (i.e., the defendant is
+                arrested for the first offense prior to committing the second
+
+3
+  The docket entry for the March 28, 1996 sentencing on docket number 9477CR 878 is somewhat confusing. It
+reads: “PROBATION: Two Years (2) committed to House of Correction. Defendant has served Two Years (2).”
+It is unclear why the word, “PROBATION,” appears at the beginning of the sentence.
+
+
+                                                    2
+    Case 1:04-cr-00034-JAW Document 40 Filed 04/25/05 Page 3 of 6                             PageID #: 71
+
+
+
+                   offense). Otherwise, prior sentences are considered related if they
+                   resulted from offenses that (A) occurred on the same occasion, (B)
+                   were part of a single common scheme or plan, or (C) were
+                   consolidated for trial or sentencing.
+
+Mr. Goetchius asserts the sentences are related because they resulted from sentences that were
+
+“functionally consolidated” or “part of a single scheme or plan.”4 In support of that argument,
+
+Mr. Goetchius points out the indictments in both cases reference the same victim and the same
+
+period of time.
+
+           Apart from recognizing the consolidation rule may sometimes result in undercounting
+
+criminal history and require an upward departure, the Sentencing Commission has “provided no
+
+guidance on what it means by the term ‘consolidated.’” United States v. Caldwell, 233 F. Supp.
+
+2d 69, 71 (D. Me. 2002), aff’d in part, remanded in part by 358 F.3d 138 (1st Cir. 2004). This
+
+has left courts and commentators to struggle with the concept in the absence of “a coherent
+
+explanation and policy for the criminal history scoring procedure that might help give content to
+
+the term.” Id.
+
+           In 2001, the United States Supreme Court shed some light on the concept in Buford v.
+
+United States, 532 U.S. 59 (2001). In Buford, the Supreme Court placed its imprimatur on the
+
+concept of “functional consolidation,” which allows a sentencing court to consider two
+
+convictions consolidated, even in the absence of a formal order of consolidation, if the
+
+convictions were “factually or logically related, and sentencing was joint.” Id. at 61 (citation
+
+omitted); see also United States v. Vallejo, 373 F.3d 855, 858 (7th Cir. 2004)(“Functional
+
+consolidation occurs when there is ‘a record that shows the sentencing court considered the cases
+
+sufficiently related for consolidation and effectively entered one sentence for multiple
+
+convictions.’”). There is little post-Buford guidance in the First Circuit. Judge Hornby of this
+
+
+4
+    The sentences on 9477CR 878 and 9477CR 879 were not separated by an intervening arrest.
+
+
+                                                        3
+    Case 1:04-cr-00034-JAW Document 40 Filed 04/25/05 Page 4 of 6                                  PageID #: 72
+
+
+
+District tackled the issue in Caldwell. However, the First Circuit has not addressed the concept
+
+squarely following Buford.5 Before Buford, the First Circuit concluded in United States v.
+
+Correa, 114 F.3d 314 (1st Cir. 1997), cert. denied, 522 U.S. 927 (1997), that sentences imposed
+
+on the same day for criminal conduct that occurred on at least two different dates and arose out
+
+of at least two different courses of conduct would not be considered consolidated absent an
+
+“actual order of consolidation.” Id. at 317.
+
+         Some Circuits have held that sentences are not functionally consolidated “when offenses
+
+proceed to sentencing under separate docket numbers, cases are not related, and there was no
+
+order of consolidation,” United States v. McAdams, 25 F.3d 370, 374 (6th Cir. 1994), cert.
+
+denied, 513 U.S. 939 (1994)(citation and internal punctuation omitted); see also United States v.
+
+Klein, 13 F.3d 1182, 1185 (8th Cir. 1994), cert. denied, 512 U.S. 1226 (1994), or when judgment
+
+was pronounced on the same day with sentences to run concurrently, United States v. Carter, 283
+
+F.3d 755, 758 (6th Cir. 2002), cert. denied, 537 U.S. 874 (2002). The burden is on the defendant
+
+to make a showing that cases were functionally consolidated. Vallejo, 373 F.3d at 858-89.
+
+         In Shepard v. United States, __ U.S. __, 125 S. Ct. 1254 (2005), the Supreme Court
+
+limited the scope of information a sentencing court may consider for purposes of determining
+
+whether a prior crime was a predicate felony for purposes of the Armed Career Criminal Act. It
+
+held that the district court may examine “the statutory definition, charging document, written
+
+plea agreement, transcript of plea colloquy, and any explicit factual finding by the trial judge to
+
+which the defendant assented.” Id. at 1257. The district court is not allowed to conduct a further
+
+investigation into the circumstances of the underlying crimes. The Shepard holding likely
+
+
+
+5
+   Judge Hornby’s decision in Caldwell was appealed, but the First Circuit noted that under either calculation, the
+defendant ended up in the same criminal history category, and therefore, “any error in the district court’s calculation
+. . . was harmless.” United States v. Crawford, 358 F.3d 138, 143 (1st Cir. 2004).
+
+
+                                                          4
+    Case 1:04-cr-00034-JAW Document 40 Filed 04/25/05 Page 5 of 6                                  PageID #: 73
+
+
+
+applies with equal force to determinations of whether prior crimes were related, because to do
+
+otherwise would raise similar Sixth and Fourteenth Amendment concerns. See id. at 1262-63.
+
+         Here, the Government bases its argument on what the Presentence Report reveals Mr.
+
+Goetchius did in committing the indecent assault and battery crimes. But, under Shepard, this
+
+Court cannot take such information into account in evaluating Mr. Goetchius’s criminal history.
+
+What this Court can consider is that Mr. Goetchius was charged in separate indictments handed
+
+down the same day for committing two violations of the same state criminal statute, that he was
+
+prosecuted by the same district attorney and represented by the same defense counsel in each
+
+case, that the docket entries, up to sentencing, are identical with exactly the same motions and
+
+orders filed in each case on the same days, that the cases were pending in the same court before
+
+the same judge, that the charges involve the same victim over the same time frame, that the
+
+sentences were handed down the same day, and that the sentences were “split,” with Mr.
+
+Goetchius being sentenced to prison, but no probation on one, and probation, but no prison on
+
+the other. The only difference between the two cases was that they carried different (though
+
+sequential) docket numbers.6
+
+
+
+6
+The Government has argued Mr. Goetchius should be accorded one additional point under U.S.S.G. § 4A1.1(f),
+which provides:
+
+                 Add 1 point for each prior sentence resulting from a conviction of a crime of
+                 violence that did not receive any points under (a), (b), or (c) above because such
+                 sentence was considered related to another sentence resulting from a conviction
+                 of a crime of violence, up to a total of 3 points for this item. Provided, that this
+                 item does not apply where the sentences are considered related because the
+                 offenses occurred on the same occasion.
+
+If § 4A1.1(f) applied, Mr. Goetchius’s criminal history category would remain III. Determining whether prior
+crimes were committed on separate occasions is usually straightforward. See United States v. Love, 134 F.3d 595,
+608 (4th Cir. 1998), cert. denied, 524 U.S. 932 (1998). However, here, the indictments only allege that Mr.
+Goetchius committed two crimes over the same time span. It can be argued the two indictments must be read as
+establishing that Mr. Goetchius committed these crimes on different days, but there is no further clarification about
+when these two crimes actually took place in the documents permissibly reviewed under Shepard. Restrained by
+Shepard, this Court cannot make a finding that the crimes took place on different days anymore than it could find
+that the crimes took place on the same day. All that can be said is that Mr. Goetchius committed two crimes
+
+
+                                                          5
+ Case 1:04-cr-00034-JAW Document 40 Filed 04/25/05 Page 6 of 6                            PageID #: 74
+
+
+
+        In these circumstances, the two indecent assault and battery upon a minor cases were
+
+“functionally consolidated” under Buford. The Commonwealth of Massachusetts treated the
+
+cases as “factually or logically related, and sentencing was joint.” Buford, 532 U.S. at 61. This
+
+Court will sentence Mr. Goetchius accordingly.
+
+
+
+                                                  /s/ John A. Woodcock, Jr.
+                                                  JOHN A. WOODCOCK, JR.
+                                                  UNITED STATES DISTRICT JUDGE
+
+Dated this 25th day of April, 2005
+
+
+
+
+between September 1, 1993 and January 28, 1994. This is insufficient to trigger the additional point under §
+4A1.1(f).
+
+
+                                                     6
+

@@ -1,0 +1,976 @@
+    Case 1:07-cr-10365-IT Document 122 Filed 02/27/14 Page 1 of 18
+
+
+
+                   UNITED STATES DISTRICT COURT
+                     DISTRICT OF MASSACHUSETTS
+
+Criminal No. 07-10365-JLT
+
+
+                     UNITED STATES OF AMERICA
+
+
+                                 v.
+
+
+                         THEODORE AGUIRRE
+
+
+                REPORT AND RECOMMENDATION RE:
+       MOTION PURSUANT TO 28 U.S.C. § 2255 TO VACATE,
+    SET ASIDE, OR CORRECT SENTENCE (DOCKET ENTRY # 109);
+    REQUEST FOR EVIDENTIARY HEARING (DOCKET ENTRY # 120)
+
+                        February 27, 2014
+
+BOWLER, U.S.M.J.
+
+     Pending before this court is a motion to vacate, set
+
+aside or correct a sentence filed by defendant Theodore
+
+Aguirre (“defendant”) pursuant to 28 U.S.C. § 2255
+
+(“section 2255”).    (Docket Entry # 109).       On January 14,
+
+2014, the United States of America (“the government”) filed
+
+an opposition to the motion.      (Docket Entry # 118).       Also
+
+pending before this court is a motion for an evidentiary
+
+hearing and for appointment of counsel filed by defendant.
+
+(Docket Entry # 120).
+
+                      PROCEDURAL BACKGROUND
+
+     The motion alleges one ground as a basis for vacating
+
+the sentence.    Defendant claims that he should not have
+    Case 1:07-cr-10365-IT Document 122 Filed 02/27/14 Page 2 of 18
+
+
+
+been sentenced under 18 U.S.C. § 924(e)(2)(B) (“Armed
+
+Career Criminal Act” or “ACCA”).       Specifically, he submits
+
+that his prior criminal history did not qualify him as an
+
+Armed Career Criminal subject to a 15 year mandatory
+
+minimum sentence in light of Descamps v. United States.
+
+133 S.Ct. 2276 (2013).     Defendant also maintains that his
+
+section 2255 challenge is not time barred because Descamps
+
+was not decided until June 20, 2013, which is within the
+
+one year limitation period for filing a section 2255
+
+motion.   28 U.S.C. § 2255(f)(1).
+
+     An evidentiary hearing is not required to resolve the
+
+motion.   As discussed in greater detail below, even
+
+accepting defendant’s nonconclusory statements of facts as
+
+true to the extent not contradicted by the record,
+
+defendant is not entitled to relief.        See David v. United
+
+States, 134 F.3d 470, 477 (1st Cir. 1998) (setting forth
+
+evidentiary hearing standard in section 2255 proceeding);
+
+United States v. McGill, 11 F.3d 223, 225 (1st Cir. 1993)
+
+(“court need not give weight to conclusory allegations”);
+
+Myatt v. United States, 875 F.2d 8, 11 (1st Cir. 1989)
+
+(hearing not necessary if section 2255 motion “is
+
+‘conclusively refuted as to the alleged facts by the files
+
+and records of the case’”).      Defendant fails in his burden
+
+to establish the need for an evidentiary hearing.           See
+
+
+	                                 2
+     Case 1:07-cr-10365-IT Document 122 Filed 02/27/14 Page 3 of 18
+
+
+
+United States v. McGill, 11 F.3d at 225 (recognizing that
+
+petitioner bears burden of establishing need for
+
+evidentiary hearing in section 2255 proceeding).           The
+
+motion to vacate, together with the government’s filings
+
+(Docket Entry ## 109 & 118) are therefore ripe for review.
+
+      In addition to an evidentiary hearing, defendant seeks
+
+appointment of counsel.       (Docket Entry #120).      There is no
+
+constitutional right to appointment of counsel beyond the
+
+direct appeal of a criminal conviction.          Swazo v. Wyoming
+
+Department of Corrections State Penitentiary Warden, 23
+
+F.3d 332, 333 (10th Cir. 1994); see Ellis v. U.S., 313 F.3d
+
+636, 652 (1st Cir. 2002) (noting in section 2255 proceeding
+
+that “convicted criminal has no constitutional right to
+
+counsel with respect to habeas proceedings”); see also
+
+Morin v. State of Rhode Island, 741 F.Supp. 32, 36 (D.R.I.
+
+1990).   Rather, appointment of counsel in a collateral
+
+attack on a criminal conviction is discretionary.1           Heath v.
+
+United States Parole Commission, 788 F.2d 85, 88 (2nd Cir.
+
+1986).   In particular, under 18 U.S.C. § 3006A(a)(2), a
+
+court may appoint counsel for a “financially eligible
+
+person seeking relief under section 2254 when the interests
+
+																																																								
+1	      Appointment of counsel, however, is mandatory where the
+district court conducts an evidentiary hearing. See Rule
+8(c), 28 U.S.C. foll. § 2255. As previously discussed, an
+evidentiary hearing is not warranted.
+
+
+	                                  3
+       Case 1:07-cr-10365-IT Document 122 Filed 02/27/14 Page 4 of 18
+
+
+
+of justice require.”        Battle v. Armontrout, 902 F.2d 701,
+
+702 (8th Cir. 1990).
+
+           The rare cases warranting appointment of counsel in
+
+the interests of justice typically involve nonfrivolous
+
+claims with factually and/or legally complex issues and a
+
+petitioner who is severely hampered in his ability to
+
+investigate the facts.        See United States v. Mala, 7 F.3d
+
+1058, 1063-64 (1st Cir. 1993); Battle v. Armontrout, 902
+
+F.2d at 702; see also Abdullah v. Norris, 18 F.3d 571; 573
+
+(8th Cir. 1994).       As explained below, the section 2255
+
+motion does not involve a nonfrivolous claim and neither
+
+the facts nor the law is complex.          Defendant also fails to
+
+make an adequate showing of financial eligibility.
+
+                               BACKGROUND2
+
+I.     FBI Investigation and Armed Career Criminal Status
+
+           As part of a larger FBI investigation into gang
+
+related firearms violence in Chelsea and Revere,
+
+Massachusetts, defendant and two other individuals were
+
+videotaped on two occasions selling assault rifles to a
+
+Federal Bureau of Investigation cooperating witness in
+
+																																																								
+2					“A       section 2255 petition must be dismissed whenever ‘the
+motion and the files and records of the case conclusively
+show that the prisoner is entitled to no relief.’” United
+States v. Williams, 2012 WL 2149823, at *2 (D.Mass. March
+22, 2012). The underlying facts are taken from the trial
+transcripts. 	
+
+
+	                                    4
+    Case 1:07-cr-10365-IT Document 122 Filed 02/27/14 Page 5 of 18
+
+
+
+August and September 2007.      As a result, defendant was
+
+indicted on November 8, 2007, for being a felon in
+
+possession of a firearm in violation of 18 U.S.C. §
+
+922(g)(1) (“section 922”).
+
+     At the time of the Indictment, defendant had a prior
+
+criminal history.    Past offenses included an adjudication
+
+for assault and battery with a dangerous weapon3 and
+
+convictions for armed assault with intent to murder and
+
+assault with a dangerous weapon.       Defendant also had two
+
+prior assault convictions.
+
+     A defendant qualifies as an Armed Career Criminal
+
+(“ACC”) if that individual has three previous convictions
+
+by any court for a “violent felony” committed on occasions
+
+different from one another.      18 U.S.C. § 924(e)(1).       The
+
+term “violent felony” includes any crime punishable by
+
+imprisonment exceeding one year or “any act of juvenile
+
+delinquency involving the use or carrying of a firearm,
+
+knife, or destructive device that would be punishable by
+
+imprisonment for such term if committed by an adult.”           18
+
+U.S.C. § 924(e)(2)(C).     In addition, qualification as a
+
+“violent felony” under the applicable categorical approach
+
+requires that the crime:
+
+																																																								
+3				Defendant committed the assault and battery with a
+
+dangerous weapon at a time when he was a juvenile.
+
+
+	                                 5
+    Case 1:07-cr-10365-IT Document 122 Filed 02/27/14 Page 6 of 18
+
+
+
+        (i) has as an element the use, attempted use, or
+        threatened use of physical force against the person of
+        another; or
+
+        (ii) is burglary, arson, or extortion, involves use of
+        explosives, or otherwise involves conduct that
+        presents a serious potential risk of physical injury
+        to another.
+
+U.S. v. Mouscardy, 722 F.3d 68, 76 (1st Cir. 2013) (quoting
+
+18 U.S.C. § 924(e)(2)(B) with internal brackets omitted).
+
+        Defendant’s prior Massachusetts convictions for
+
+assault with a dangerous weapon and armed assault with
+
+intent to murder qualify as “violent” felonies under the
+
+ACCA since the terms of imprisonment exceed one year and
+
+they have the attempted use of physical force as an element
+
+of the crime.    Armed assault with intent to murder carries
+
+a punishment of imprisonment of up to ten years.          Mass.
+
+Gen. L. ch. 265, § 15.     Similarly, assault with a dangerous
+
+weapon carries a punishment of imprisonment exceeding one
+
+year.    Mass. Gen. L. ch. 265, § 15B(b).       These prior
+
+convictions include a serious risk of physical injury that
+
+the ACCA is meant to incorporate as predicate offenses.
+
+United States v. Carrigan, 724 F.3d 39, 51 (1st Cir. 2013)
+
+(defendant’s prior conviction for assault and battery with
+
+a deadly weapon categorically qualified as a violent felony
+
+under the ACCA).    United States v. Sacko, 178 F.3d 1, 1-2
+
+(1st Cir. 1999) (armed assault with intent to murder is a
+
+
+
+	                                 6
+      Case 1:07-cr-10365-IT Document 122 Filed 02/27/14 Page 7 of 18
+
+
+
+“violent felony” because it involves serious risk of
+
+physical force under 18 U.S.C. § 924(e)(2)(B)(ii)).
+
+       Similarly, a prior juvenile adjudication for assault
+
+and battery with a dangerous weapon qualifies as a
+
+predicate conviction under the ACCA.          A “conviction” under
+
+the ACCA “includes a finding that a person has committed an
+
+act of juvenile delinquency involving a violent felony”
+
+that would be punishable by imprisonment exceeding one year
+
+if committed by an adult.        18 U.S.C. § 924(e)(2)(C); United
+
+States v. Hart, 674 F.3d 33, 41 (1st Cir. 2012) (assault and
+
+battery with dangerous weapon is a “violent felony” under
+
+the ACCA); Commonwealth v. Smith, 829 N.E.2d 1090, 1091
+
+(Mass. 2005) (term of imprisonment for assault and battery
+
+with dangerous weapon exceeds one year).
+
+II.    Plea Agreement and Subsequent Proceedings
+
+       On February 8, 2010, the parties entered into a
+
+binding plea agreement.        (Docket Entry # 69).      In return
+
+for the government’s agreement to dismiss the Indictment,
+
+defendant agreed to plead to two counts of unlawful
+
+possession of a stolen firearm in violation of section
+
+922(j) charged in an Information and agreed to a sentence
+
+of 151 months incarceration.        (Docket Entry # 69).       As an
+
+ACC, defendant initially faced a mandatory minimum sentence
+
+of 180 months in prison.        The plea agreement included a
+
+
+	                                   7
+     Case 1:07-cr-10365-IT Document 122 Filed 02/27/14 Page 8 of 18
+
+
+
+“Waiver of Right to Appeal and to Bring Other Challenge”
+
+provision.      The provision stated in relevant part,
+
+“Defendant agrees that he will not seek to be re-sentenced
+
+with the benefit of any change to the criminal history
+
+category that existed at the time of Defendant’s original
+
+sentencing.”       (Docket Entry # 69).          He also waived his
+
+right to file a section 2255 motion.4               (Docket Entry # 69).
+
+      On May 3, 2010, the court accepted the plea agreement
+
+and imposed a 151 month sentence.              The government
+
+subsequently made a motion to dismiss the Indictment, which
+
+the court allowed.         On May 19, 2010, the court issued an
+
+amended judgment.        (Docket Entry # 82).
+
+      On August 30, 2013, defendant filed the section 2255
+
+motion.     (Docket Entry # 109).           Defendant claims he did not
+
+have the necessary predicates to be sentenced under the
+
+Armed Career Criminal Act in light of Descamps v. United
+
+States, 133 S.Ct. 2276 (2013).              (Docket Entry # 110).
+
+                                  DISCUSSION
+																																																								
+4				The relevant language reads as follows:
+
+
+      Defendant also understands that he may, in some
+      circumstances, be able to challenge his conviction in
+      a future proceeding (such as, for example, in a
+      collateral challenge pursuant to 28 U.S.C. § 2255 or
+      28 U.S.C. § 2241). Defendant waives any right he has
+      to challenge his conviction on direct appeal or in any
+      future proceeding.
+
+(Docket Entry # 69).
+
+
+	                                       8
+     Case 1:07-cr-10365-IT Document 122 Filed 02/27/14 Page 9 of 18
+
+
+
+I.   Section 2255 Review
+
+      Section 2255 provides for post-conviction relief:               (1)
+
+“that the sentence was imposed in violation of the
+
+Constitution or laws of the United States”; (2) “that the
+
+court was without jurisdiction to impose such sentence”;
+
+(3) “that the sentence was in excess of the maximum
+
+authorized by law”; or (4) that the sentence “is otherwise
+
+subject to collateral attack.”            Damon v. United States, 731
+
+F.3d 1, 4 (1st Cir. 2013); see David v. United States, 134
+
+F.3d 470, 474 (1st Cir. 1998) (citing Hill v. United States,
+
+368 U.S. 424, 426-27 (1962)).            The fourth category includes
+
+only “assignments of error that reveal ‘fundamental
+
+defects’ which, if uncorrected, will ‘result in a complete
+
+miscarriage of justice,’ or irregularities that are
+
+‘inconsistent with the rudimentary demands of fair
+
+procedure.’”    David v. United States, 134 F.3d at 474;
+
+accord Damon, 732 F.3d at 3.         Stated otherwise, “apart from
+
+claims of constitutional or jurisdictional nature, a
+
+cognizable section 2255 claim must reveal ‘exceptional
+
+circumstances’ that make the need for redress evident.”
+
+David, 134 F.3d at 474.
+
+      Defendant bears the burden of establishing the need
+
+for section 2255 relief.       Id.       Specifically, a defendant
+
+must establish that his sentence was imposed in violation
+
+
+	                                    9
+      Case 1:07-cr-10365-IT Document 122 Filed 02/27/14 Page 10 of 18
+
+
+
+of the Constitution or the laws of the United States
+
+involving a “fundamental defect which inherently results in
+
+a complete miscarriage of justice” or “an omission
+
+inconsistent with rudimentary demands of fair procedure.”
+
+Hill v. United States, 368 U.S. at 426-27.            To obtain
+
+relief under section 2255, petitioner “must clear a
+
+significantly higher hurdle that would exist on direct
+
+appeal.”     United States v. Frady, 456 U.S. 152, 166 (1982).
+
+II.    Timeliness of Section 2255 Motion
+
+       Section 2255(f) imposes a one year limitation period
+
+for section 2255 motions.        Where, as here, a defendant does
+
+not file a direct appeal, the judgment becomes final when
+
+the time to file a notice of appeal expires.            See Murphy v.
+
+United States, 634 F.3d 1303, 1307 (11th Cir. 2011).              The
+
+statutory subsection reads as follows:
+
+       A 1-year period of limitations shall apply to a motion
+       under this section. The limitation period shall run
+       from the latest of--
+
+             (1)   the date on which the judgment of conviction
+                   becomes final;
+
+             (2)   the date on which the impediment to making a
+                   motion created by governmental action in
+                   violation of the Constitution or laws of the
+                   Unites States is removed, if the movant was
+                   prevented from making a motion by such
+                   governmental action;
+
+             (3)   the date on which the right asserted was
+                   initially recognized by the Supreme Court,
+                   if that right has been newly recognized by
+
+
+	                                   10
+    Case 1:07-cr-10365-IT Document 122 Filed 02/27/14 Page 11 of 18
+
+
+
+                   the Supreme Court and made retroactively
+                   applicable to cases on collateral review; or
+
+             (4)   the date on which the facts supporting the
+                   claim or claims presented could have been
+                   discovered through the exercise of due
+                   diligence.
+
+28 U.S.C. § 2255(1)-(4).
+
+        With respect to subparagraph one, the court issued an
+
+amended judgment on May 19, 2010.        (Docket Entry # 82).
+
+Defendant had 14 days from the date of the amended judgment
+
+to file a notice of appeal.       See Fed. R. App. P. 4(b)(1)(A)
+
+(2010).    As a result, under subparagraph one, defendant
+
+became ineligible to file a section 2255 motion on June 2,
+
+2011, one year from the date that the judgment became final
+
+under section 2255(f)(1).      The dates described in
+
+subparagraphs two5 and four6 do not apply.         Under
+
+subparagraph three, however, defendant asserts that the
+
+recent Supreme Court ruling in Descamps v. United States,
+
+133 S.Ct. 2276 (2013), constitutes a newly recognized right
+
+and the one year time period therefore begins to run at the
+
+time of the decision on June 20, 2013.         (Docket Entry #
+
+110).
+
+																																																								
+5				Defendant does not allege that he was prevented from
+
+filing the section 2255 motion due to governmental action.
+(Docket Entry # 110). 	
+6				Defendant does not allege that he was unable to file the
+
+section 2255 motion due to undiscovered facts. (Docket
+Entry # 110). 	
+
+
+	                                 11
+    Case 1:07-cr-10365-IT Document 122 Filed 02/27/14 Page 12 of 18
+
+
+
+        The Court in Descamps ruled that because the crime of
+
+burglary was defined more broadly by California’s statute
+
+than “generic burglary,” that crime could not serve as an
+
+Armed Career Criminal predicate.         Id. at 2285.    Pursuant to
+
+the Court’s ruling in Descamps, defendant asserts that his
+
+juvenile adjudication and his two adult assault convictions
+
+no longer count as ACC predicates.         The government first
+
+contends that defendant was not sentenced as an ACC by
+
+accepting the plea agreement.          (Docket Entry # 118).
+
+Second, even if defendant was sentenced as an ACC, the
+
+government argues that both convictions defendant contests
+
+constitute “violent felonies” within the meaning of the
+
+ACCA.
+
+        The Massachusetts statutes that defendant argues no
+
+longer serve as ACCA predicates are wholly unlike the
+
+California statute in Descamps.          First, the Massachusetts
+
+juvenile adjudication for assault and battery with a
+
+dangerous weapon does not broaden the statutory definition
+
+of the crime more so than generic assault and battery with
+
+a dangerous weapon.     Mass. Gen. L. ch. 265, § 15A(b)(i).
+
+Generic assault and battery with a dangerous weapon
+
+constitutes a felony in Massachusetts that is punishable by
+
+two and a half years imprisonment.         Hart, 674 F.3d at 41.
+
+Defendant’s juvenile adjudication for assault and battery
+
+
+	                                 12
+    Case 1:07-cr-10365-IT Document 122 Filed 02/27/14 Page 13 of 18
+
+
+
+with a dangerous weapon is punishable by a term of
+
+imprisonment exceeding one year and qualifies as an ACCA
+
+predicate.   Mass. Gen. L. ch. 265, § 15A(b)(i); United
+
+States v. Ellis, 619 F.3d 72, 73 (1st Cir. 2010)
+
+(defendant’s prior juvenile adjudication for assault and
+
+battery with handgun qualified as an ACCA predicate
+
+conviction); Hart, 674 F.3d at 41 (adult assault and
+
+battery with a dangerous weapon qualified as an ACCA
+
+predicate offense); United States v. Matthews, WL 1912393,
+
+at *1 (D.Mass. June 29, 2009) (ACCA “defines violent felony
+
+to include any act of juvenile delinquency involving the
+
+use or carrying of a firearm, knife, or destructive
+
+device”).7
+
+     In light of the above, defendant has three predicate
+
+offenses, i.e., the juvenile adjudication, the assault with
+
+a dangerous weapon conviction and the armed assault with
+
+intent to murder conviction.       Whether defendant’s
+
+additional convictions for assault no longer qualify as
+
+ACCA predicate offenses under Descamps is therefore
+
+immaterial to defendant’s status as an ACC.          Out of an
+
+abundance of caution, this court nevertheless examines the
+
+assault convictions in light of Descamps.
+
+																																																								
+7				The presentence report depicts the “charge” as “Assault &
+
+Battery by Dang Weapon (Knife).”
+
+
+	                                 13
+    Case 1:07-cr-10365-IT Document 122 Filed 02/27/14 Page 14 of 18
+
+
+
+     Defendant maintains that his previous convictions for
+
+assault do not constitute “violent felonies” under the ACCA
+
+in light of Descamps.      Under both theories of common law
+
+assault, attempted battery or threatened battery, the crime
+
+involves the use, attempted use or threatened use of
+
+physical force against another person within the meaning of
+
+U.S.C. § 924(e)(2)(B).      The statutory crime of assault is
+
+similarly divided into these two categories.          Mass. Gen. L.
+
+ch. 265, § 13A.    Assault may be committed either by
+
+attempted or achieving a battery, “or by engaging in
+
+objectively menacing conduct so as to place another in
+
+reasonable apprehension of an immediately threatened
+
+battery.”   Parreira v. Commonwealth, 971 N.E.2d. 242, 248
+
+(Mass. 2012).    The crime of assault is punishable by
+
+imprisonment of two and a half years in Massachusetts.
+
+Mass. Gen. L. ch. 265, § 13A.          Because assault involves
+
+either attempted or threatened use of physical force and
+
+carries the possibility of imprisonment exceeding one year,
+
+it qualifies as a “violent felony” within the meaning of
+
+the ACCA.   Thus, Descamps does not provide defendant a
+
+“newly recognized” right that triggers the running of the
+
+one year limitation period on June 20 2013, the date the
+
+Court decided Descamps.      Defendant’s conviction therefore
+
+
+
+
+	                                 14
+    Case 1:07-cr-10365-IT Document 122 Filed 02/27/14 Page 15 of 18
+
+
+
+become final on June 2, 2010, and the one year period ended
+
+on June 2, 2011, under section 2255(f)(1).
+
+     The doctrine of equitable tolling does not apply.
+
+Equitable tolling “provides that in exceptional
+
+circumstances, a statute of limitations ‘may be extended
+
+for equitable reasons not acknowledged in the statute
+
+creating the limitations period.’”        Neverson v.
+
+Farquharson, 366 F.3d 32, 40 (1st Cir. 2004) (quoting David
+
+v. Hall, 318 F.3d 343, 345-46 (1st Cir. 2003)).          Equitable
+
+tolling, however, is available only when “circumstances
+
+beyond the litigant’s control have prevented [him] from
+
+promptly fiing.”     Cordle v. Guarino, 428 F.3d 46, 48 (1st
+
+Cir. 2005).    Defendant bears the burden of establishing the
+
+basis for equitable tolling.       Ramos-Martinez v. United
+
+States, 638 F.3d 315, 323 (1st 2011).        To carry this burden,
+
+defendant must show, “(1) that he has been pursuing his
+
+rights diligently, and (2) that some extraordinary
+
+circumstance stood in his way and prevented timely filing.”
+
+Holland v. Florida 560 U.S. 631, 649 (2010).
+
+     This is not an appropriate case for such tolling.
+
+Defendant has not been pursuing his rights diligently nor
+
+was he prevented from filing the section 2255 motion
+
+because of any extraordinary circumstance beyond his
+
+control.   Upon entering a plea agreement and receiving an
+
+
+	                                 15
+      Case 1:07-cr-10365-IT Document 122 Filed 02/27/14 Page 16 of 18
+
+
+
+amended judgment from the court on May 19, 2010, defendant
+
+filed no notice of appeal.         It took defendant three years
+
+from the time of the final judgment to file the instant
+
+collateral challenge.        Such a time lapse does not
+
+constitute “pursuing [defendant’s] rights diligently.”                Id.
+
+As the court noted in Ramos-Martinez, “equitable tolling is
+
+not intended as a device to rescue those who inexcusably
+
+sleep upon their rights.”        Ramos-Martinez, 638 F.3d at 323-
+
+24.
+
+III.    Waiver
+
+       In the alternative, the government correctly maintains
+
+that defendant explicitly waived the right to appeal or
+
+collaterally attack the sentence.          (Docket Entry # 118).
+
+The right to appeal or collaterally attack a sentence can
+
+be waived and a presentence waiver is enforceable.             United
+
+States v. Teeter, 257 F.3d 14, 23 (1st Cir. 2001).             Like any
+
+waiver of rights, such an agreement must be entered into
+
+knowingly and voluntarily.         United States v. Teeter, 257
+
+F.3d at 24.      If the waiver is made knowingly and
+
+voluntarily, it is presumptively valid.           Id. at 25.     If
+
+waiver of appellate rights would work a miscarriage of
+
+justice, however, an appellate court may refuse to honor
+
+the waiver.      Id.; see United States v. Isum, 580 F.3d 43,
+
+50 (1st Cir. 2009).
+
+
+	                                   16
+    Case 1:07-cr-10365-IT Document 122 Filed 02/27/14 Page 17 of 18
+
+
+
+     In the context of a plea bargain, the plea agreement
+
+and Fed.R.Crim.P. 11 (“Rule 11”) colloquy are “critically
+
+important” in determining whether a waiver was knowing and
+
+voluntary.   Id. at 24.     The written plea agreement must
+
+contain “a clear statement” setting forth a waiver of
+
+appellate rights and its scope.        Id.   At a change of plea
+
+hearing, the court must inquire specifically “into any
+
+waiver of appellate rights.”       Id.   Such an inquiry “offers
+
+considerable assurance” that a waiver was made knowingly
+
+and voluntarily.     Id.   A reviewing court must examine the
+
+transcript of the Rule 11 hearing to determine whether the
+
+court’s interrogation of the defendant demonstrates that
+
+the waiver was made freely and intelligently.          Id.   Failure
+
+to question the defendant regarding the waiver may
+
+invalidate it if the defendant did not understand the
+
+significance of the waiver or was prejudiced.          Id. at 27.
+
+     The plea agreement between the parties demonstrates
+
+that defendant knowingly and voluntarily waived his right
+
+to appeal or collaterally attack the sentence.           As an ACC,
+
+defendant faced a mandatory minimum sentence of 180 months
+
+in prison.   The plea agreement, however, only imposed a 151
+
+month sentence.    In the written plea agreement signed by
+
+defendant, defendant expressly waived the right to appeal
+
+or collaterally attack the conviction.         (Docket Entry #
+
+
+	                                 17
+    Case 1:07-cr-10365-IT Document 122 Filed 02/27/14 Page 18 of 18
+
+
+
+69).    The agreement additionally specified that it was the
+
+only agreement between the parties.        (Docket Entry # 69).
+
+The language was clear and unambiguous both as to the
+
+waiver of defendant’s right to file a future section 2255
+
+motion challenging the conviction and the wavier of his
+
+ability to seek re-sentencing based on a change to his
+
+criminal history category.       As such, defendant explicitly
+
+waived the right to appeal or collaterally attack the
+
+conviction and the sentence once the court accepted the
+
+plea and issued a final amended judgment.
+
+                             CONCLUSION
+
+       Based on the foregoing reasons, this court RECOMMENDS8
+
+that the section 2255 motion (Docket Entry # 265) be
+
+DENIED.    The motion for an evidentiary hearing and
+
+appointment of counsel (Docket Entry # 120) is DENIED.
+
+
+
+                             /s/ Marianne B. Bowler
+                             MARIANNE B. BOWLER
+                             United States Magistrate Judge
+	
+
+	
+
+																																																								
+8				Any objection to this Report and Recommendation must be
+
+filed with the Clerk of Court within 14 days of receipt of
+the Report and Recommendation to which objection is made
+and the basis for such objection. Any party may respond to
+another party’s objection within 14 days after service of
+the objections. Failure to file objections within the
+specified time waives the right to appeal the order.
+
+
+	                                 18
+

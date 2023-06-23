@@ -1,0 +1,197 @@
+Case 2:11-cr-00230-DBH Document 28 Filed 07/17/12 Page 1 of 4            PageID #: 49
+
+
+
+                      UNITED STATES DISTRICT COURT
+
+                               DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA,              )
+                                       )
+                                       )
+                                       )
+v.                                     )      CRIMINAL NO. 2:11-CR-230-DBH
+                                       )
+JOSE ORTIZ,                            )
+                                       )
+                   DEFENDANT           )
+
+
+       DECISION AND ORDER ON DEFENDANT’S MOTION TO SEVER
+
+
+      The Indictment against this defendant charges two counts: first, that he
+
+aided and abetted a false statement in connection with the purchase of a
+
+firearm, specifically, that on May 9, 2007, he induced another person to claim
+
+on ATF Form 4473 that she was the purchaser of a handgun when in fact she
+
+was not the actual buyer, a violation of 18 U.S.C. §§ 922(a)(6), 2; second, that
+
+he lied under oath to the federal grand jury on October 8, 2008, by saying that
+
+he never had anybody buy a gun for him, contrary to what happened on May 9,
+
+2007, a violation of 18 U.S.C. § 1623(a).
+
+      The defendant has moved to sever the two counts and for two trials. Fed.
+
+R. Crim. P. 14 (a) provides:
+
+            If the joinder of offenses or defendants in an indictment, an
+            information, or a consolidation for trial appears to prejudice
+            a defendant or the government, the court may order
+            separate trials of counts, sever the defendants’ trials, or
+            provide any other relief that justice requires.
+    Case 2:11-cr-00230-DBH Document 28 Filed 07/17/12 Page 2 of 4                       PageID #: 50
+
+
+
+              The First Circuit recognizes three types of prejudice in assessing whether
+
+severance is appropriate:
+
+                             (1) The defendant may become embarrassed or confounded
+                             in presenting separate defenses; (2) proof that defendant is
+                             guilty of one offense may be used to convict him of a second
+                             offense, even though such proof would be inadmissible in a
+                             second trial for the second offense; and (3) a defendant may
+                             wish to testify in his own behalf of one of the offenses but
+                             not another, forcing him to choose the unwanted alternative
+                             of testifying as to both or testifying as to neither.
+
+United States v. Richardson, 515 F.3d 74, 81 (1st Cir. 2008) (quoting United
+
+States v. Jordan, 112 F.3d 14, 16 (1st Cir. 1997)).
+
+              The defendant argues that the second and third types of prejudice apply
+
+to his case: that evidence will be admitted on the grand jury perjury charge
+
+concerning his selling crack cocaine that would not be admissible on the gun
+
+purchase charge; and that he wants to testify about his understanding of
+
+questions posed to him before the grand jury, but he does not want to testify
+
+about the gun purchase, instead relying as to that count upon the
+
+government’s asserted inability to prove the charge beyond a reasonable doubt.
+
+              I am not persuaded by the argument concerning the second type of
+
+prejudice, namely evidence admissible on one count but not on the other. A
+
+cautionary instruction to the jury is adequate to guard against that prejudice.
+
+See United States v. Baltas, 236 F.3d 27, 34 (1st Cir. 2001).1
+
+              But I do find the argument concerning the third type of prejudice
+
+persuasive in this case. The defendant’s understanding of the questions posed
+
+                                                            
+1Moreover, as the government argues, the evidence might also be admissible on the first
+charge, to show his motive for buying the gun through a straw purchaser. Gov’t Opp’n. to
+Def.’s Mot. to Sever at 3. (ECF No. 24) I do not need to make that ruling now.
+
+                                                                                                   2
+    Case 2:11-cr-00230-DBH Document 28 Filed 07/17/12 Page 3 of 4                                 PageID #: 51
+
+
+
+to him before the grand jury and what he intended by his answers are certainly
+
+a critical part of the scienter element of the perjury offense, namely his intent
+
+to give false testimony.                                       Thus, his testimony about his understanding and
+
+intent is important on that issue. Only he can give direct evidence of what he
+
+understood, and he certainly will be subject to intense cross-examination
+
+about what he claims he understood. But if he takes the stand to testify about
+
+the perjury charge, he will undoubtedly open himself to questioning about the
+
+gun-purchasing charge. Thus, he will no longer be able to rely solely on the
+
+government’s asserted inability to prove beyond a reasonable doubt—without
+
+his testimony— the charge of what happened on May 9, 2007.
+
+              I have considered the interests of judicial economy. A defendant must
+
+“timely offer enough information” to allow the court “to weigh the needs of
+
+judicial economy versus the defendant’s freedom to choose whether to testify as
+
+to a particular charge.” Jordan, 112 F.3d at 17 (internal quotations omitted).
+
+Certainly there is some economy in a single trial here, because both charges
+
+involve the issue whether on May 9, 2007, the defendant induced another
+
+person to claim to be the actual purchaser while in fact buying a gun for him.2
+
+But the government has not shown that the incident involves a large number of
+
+witnesses or lengthy testimony, and my own experience as a judge teaches that
+
+commonly the testimony is short and primarily that of the gun dealer, along
+
+with the ATF forms as exhibits; perhaps the testimony of the actual purchaser
+
+
+                                                            
+2 It seems likely that if the government first obtains a conviction on the gun purchase charge it
+will be able to introduce that into evidence on the second charge of perjury. But because that
+issue has not been briefed, I do not now resolve it.
+
+                                                                                                             3
+    Case 2:11-cr-00230-DBH Document 28 Filed 07/17/12 Page 4 of 4                    PageID #: 52
+
+
+
+if she is cooperating or has been granted immunity (not revealed here);
+
+sometimes a law enforcement agent if law enforcement had been conducting
+
+surveillance of the transaction (also not revealed here).
+
+              I have read the appellate cases the government cites on the issue, but it
+
+is important to observe that they are cases finding no abuse of discretion in
+
+failing to sever, and they analyze what actually happened at trial and the
+
+degree of prejudice that did or did not ensue. None of them suggests that it is
+
+an abuse of discretion to grant a motion to sever on the type of showing made
+
+here.
+
+              For these reasons, the defendant’s motion to sever the two counts is
+
+GRANTED.3
+
+              SO ORDERED.
+
+              DATED THIS 17TH DAY OF JULY, 2012
+
+                                                               /S/D. BROCK HORNBY
+                                                               D. BROCK HORNBY
+                                                               UNITED STATES DISTRICT JUDGE
+
+
+
+
+                                                            
+3I do not rule on whether the two counts were properly joined under Rule 8 and the parties’
+disagreement over whether the motion even raises that issue.
+
+                                                                                                4
+

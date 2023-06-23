@@ -1,0 +1,1203 @@
+                       UNITED STATES DISTRICT COURT
+                            DISTRICT OF MAINE
+
+UNITED STATES OF AMERICA                )
+                                        )
+             v.                         )     No. 1:16-cr-00151-JAW
+                                        )
+JONATHAN BOWERS                         )
+                                        )
+      Defendant.                        )
+
+
+                       ORDER ON SENTENCING ISSUES
+
+      Applying binding First Circuit law, the Court concludes that a defendant who
+
+has four state of Maine burglary convictions is subject to the enhanced penalty
+
+provisions of the Armed Career Criminal Act (ACCA) and its corresponding guideline
+
+provision. The Court does not conclude that the defendant possessed a firearm in
+
+connection with another felony offense, obstructed justice, or should be denied
+
+acceptance under the guidelines.
+
+I.    GENERAL BACKGROUND
+
+      On November 10, 2016, a federal grand jury indicted Jonathan Bowers for
+
+possession of a firearm after having been convicted of a number of felonies, an alleged
+
+violation of 18 U.S.C. § 922(g)(1). Indictment (ECF No. 1). On September 14, 2017,
+
+Mr. Bowers pleaded guilty to being a felon in possession of a firearm. Minute Entry
+
+(ECF No. 56). On February 7, 2018, the Court held a presentence conference and
+
+counsel requested that the Court schedule an evidentiary hearing to resolve some
+
+sentencing issues. Minute Entry (ECF No. 67); Notice of Hr’g (ECF No. 68). After
+
+some delay, the Court held the evidentiary hearing on July 24, 2018. Minute Entry
+(ECF No. 82). A transcript of the hearing was filed on August 7, 2018. Tr. of
+
+Proceedings, Evidentiary Hr’g (ECF No. 85) (Tr.).
+
+         On September 4, 2018, the parties filed simultaneous memoranda. Mem. in
+
+Aid of Sentencing (ECF No. 86) (Def.’s Mem.); Gov’t’s Sentencing Mem. (ECF No. 87)
+
+(Gov’t’s Mem.). On September 18, 2018, the parties filed simultaneous responses.
+
+Reply Mem. in Aid of Sentencing (ECF No. 88) (Def.’s Opp’n); Gov’t’s Sentencing Resp.
+
+(ECF No. 89) (Gov’t’s Opp’n). On September 26, 2018, Mr. Bowers filed a personal
+
+narrative and a narrative from Deputy Sheriff Jeremy A. York.            My Personal
+
+Narrative, Def.’s Ex. 1 (ECF No. 90) (Def.’s Statement); Id. Narrative for Dep. Jeremy
+
+A. York, Def.’s Ex. 2 (York Narrative).
+
+II.      THE LEGAL ISSUES
+
+      The parties briefed the following legal issues:
+
+      (1) whether Mr. Bowers is subject to the provisions of the Armed Career Criminal
+
+Act (ACCA);
+
+      (2) whether Mr. Bowers used his firearm in connection with another felony and is
+
+subject to a four-level sentencing enhancement under United States Sentencing
+
+Commission Guideline (U.S.S.G.) § 2K2.1(b)(6)(B);
+
+      (3) whether Mr. Bowers is subject to a two-level sentencing enhancement under
+
+U.S.S.G. § 3C1.1; and
+
+      (4) whether Mr. Bowers is entitled to a three-level reduction for acceptance of
+
+responsibility under U.S.S.G. § 3E1.1.
+
+III.     THE ARMED CAREER CRIMINAL ACT
+
+
+
+                                             2
+        A.      Background
+
+        Known as the Armed Career Criminal Act (ACCA), title 18 of United States
+
+Code section 924(e) provides enhanced penalties for illegal firearm possession:
+
+        In the case of a person who violates section 922(g) of this title and has
+        three previous convictions by any court referred to in section 922(g)(1)
+        of this title for a violent felony . . . committed on occasions different from
+        one another, such person shall be fined under this title and imprisoned
+        not less than fifteen years, and, notwithstanding any other provision of
+        law, the court shall not suspend the sentence of, or grant a probationary
+        sentence to, such person with respect to the conviction under section
+        922(g).
+
+§ 924(e)(1). 1 ACCA defines “violent felony” as:
+
+        [A]ny crime punishable by imprisonment for a term exceeding one year
+        . . . that--
+
+        (ii) is burglary, arson, or extortion, involves the use of explosives, or
+        otherwise involves conduct that presents a serious potential risk of
+        physical injury to another . . . .
+
+§ 924(e)(2)(B)(ii). 2 This clause is known as the enumerated clause, because it lists
+
+specific crimes that qualify as ACCA predicates. See Dimott v. United States, 881
+
+F.3d 232, 234 (1st Cir. 2018) (discussing the enumerated clause). In addition to the
+
+ACCA, the United States Sentencing Commission Guidelines have a provision that
+
+
+
+
+1        Section 924(e)(1) includes “a serious drug offense” as a potential predicate. But Mr. Bowers
+has not previously been convicted of any drug offenses, so the Court limits its analysis to the burglary
+convictions.
+2        Section 924(e)(2)(B)(i) contains a definition of “violent felony” that includes a felony that “has
+as an element the use, attempted use, or threatened use of physical force against the person of
+another.” Section 924(e)’s “force clause” is not at issue in this case. Also, § 924(e)(2)(C) addresses
+juvenile convictions and is not relevant here. In Johnson v. United States, __ U.S. __, 135 S. Ct. 2551
+(2015), the United States Supreme Court invalidated the so-called residual clause of § 924(e)(2)(B)
+holding that it violated the Constitution’s guarantee of due process. The residual clause is not at issue
+in this case.
+
+                                                    3
+dovetails with the ACCA and enhances the calculation of the sentencing guideline
+
+range for a person subject to the ACCA. U.S.S.G. § 4B1.4 (Armed Career Criminal).
+
+      Mr. Bowers’ Presentence Investigation Report details his criminal record.
+
+Presentence Investigation Report (PSR). Relevant to his ACCA status, the PSR lists
+
+the following burglary convictions:
+
+      (1) 5/12/2010 (Date of Arrest): Count 1: Burglary (Class B), Kennebec
+          County Superior Court, Augusta, Maine, Docket No. 2010-CR-00335;
+          07/08/10: Ct. 1: 5 years DOC (Department of Corrections), all but 6
+          months suspended, 3 years probation.
+
+      (2) 6/29/2006 (Date of Arrest): Count 2: Burglary (Class B), Count 4:
+          Burglary (Class C), Kennebec County Superior Court, Augusta,
+          Maine, Docket No.: 2006-CR-00660; Counts 2: 4 years DOC, all but
+          60 days suspended, 3 years probation, $17,150 restitution; Count 4:
+          60 days concurrent to Count 2;
+
+      (3) 6/15/2006 (Date of Arrest): Count 1: Burglary (Class C), Kennebec
+          County Superior Court, Augusta, Maine, Docket No.: 2006-CR-
+          00747; Count 1: 60 days jail to be served concurrently with CR-06-
+          660 and each other.
+
+PSR ¶¶ 30-31, 36. The Government and Mr. Bowers disagree as to whether these
+
+four burglary convictions qualify him for ACCA status.
+
+      B.     The Positions of the Parties
+
+             1.    Jonathan Bowers’ Position
+
+      Although Mr. Bowers concedes that he has four prior burglary convictions from
+
+the state of Maine, he maintains that his burglary convictions do not count as ACCA
+
+predicates because Maine’s definition of “structure” is broader than the generic
+
+definition of structure allows. Def.’s Mem. at 7-8. Thus, he contends, the Court may
+
+
+
+
+                                         4
+examine so-called Shepard 3 documents. Id. at 8-9. Mr. Bowers argues that an
+
+examination of the Rule 11 colloquy for his June 15, 2006 burglary demonstrates that
+
+he entered into a storage trailer, not a dwelling, which he contends does not fit within
+
+the generic definition of burglary. Id.
+
+             2.      The Government’s Position
+
+      From the Government’s perspective, the issue begins and ends with Mr.
+
+Bowers’ convictions for burglary under state of Maine law. Gov’t’s Mem. at 5-7. The
+
+Government points out that in United States v. Duquette, 778 F.3d 314, 318 (1st Cir.
+
+2015), the First Circuit concluded that Maine’s burglary statute “is indivisible and
+
+that [it] falls within the generic definition of burglary as defined by Taylor [v. United
+
+States, 495 U.S. 575 (1990)].” Id. at 7. In the Government’s view, Duquette “remains
+
+controlling precedent in this circuit.” Id. Furthermore, the Government contends
+
+that under Supreme Court authority, Descamps v. United States, 570 U.S. 254, 261
+
+(2013) and Mathis v. United States, __ U.S. __, 136 S. Ct. 2243, 2248 (2016), “the
+
+proffered Shepard documents cannot be considered, and the defendant’s attempt at
+
+collateral attack in his forum must fail.” Id. The Government maintains that Mathis
+
+did not overrule Duquette and therefore Mr. Bowers’ “Maine burglary convictions
+
+qualify as ACCA predicates.” Id.
+
+             3.      Jonathan Bowers’ Opposition
+
+      In his response, Mr. Bowers argues that in Duquette, the First Circuit did not
+
+“look at or consider the definitions of “structure” and “dwelling place.” Def.’s Opp’n
+
+
+
+3     Shepard v. United States, 544 U.S. 13 (2005).
+
+                                               5
+at 4-5. Mr. Bowers says that in Mathis, the Supreme Court provided “a new and
+
+different task for determining whether the ‘means’ in the Maine burglary statute—
+
+and not the ‘elements’—require this court to find that the Maine burglary statute
+
+qualifies for purposes of the ACCA.” Id. at 5. Mr. Bowers observes that in Mathis,
+
+the United States Supreme Court “held that an Iowa burglary statute that contained
+
+a similar definition of ‘structure’ to the Maine statute did not quality for ACCA
+
+purposes because it provided for alternative means for commission of burglary, which
+
+were broader in definition than the generic definition of burglary.” Id. (citing Mathis,
+
+136 S. Ct. at 2257).      He also contends that Mathis authorized the Court’s
+
+consideration of the Shepard documents that he provided. Id. at 6 (citing Mathis, 137
+
+S. Ct. at 2257, n.7). Mr. Bowers concedes that “Duquette may still be good law for the
+
+proposition that when the elements of the crime are viewed on the face of the statute
+
+alone, then Maine’s burglary statute is a generic statute.” Id. However, he argues
+
+that “Mathis . . . requires an additional analysis of alternative means of
+
+communication, which were not considered by the Duquette court.” Id. When the
+
+Mathis analysis is performed, he writes, “it is clear that the alternative locational
+
+means of committing burglary in Maine make the statute broader than the generic
+
+version and Maine’s burglary statute can no longer qualify for ACCA purposes.” Id.
+
+             4.     The Government’s Opposition
+
+      The Government responds that “Duquette is still controlling precedent in the
+
+First Circuit and must, therefore, be applied in this case.” Gov’t’s Opp’n at 1. In
+
+support, the Government cites Dimott, 881 F.3d at 234 n.1. Id. The Government
+
+
+
+                                           6
+notes that in his dissent, Judge Torruella observed that the district court is still
+
+bound by the circuit rule in Duquette despite Mathis. Id. (citing Dimott, 881 F.3d at
+
+246) (Torrurella J., dissenting)). Moreover, the Government argues that “Mathis
+
+decides nothing new” and is a mere “reassertion of the rules set forth in Taylor.” Id.
+
+at 2. “Simply put, since Mathis has not changed the ruling of Taylor on which
+
+Duquette was based, there is no basis in Mathis for now ignoring Duquette.” Id.
+
+      In addition, the Government says that Mr. Bowers’ argument is foreclosed by
+
+his concession that the Maine burglary statute is an indivisible statute. Id. With
+
+that concession, the Government argues, Mr. Bowers may not look outside the statute
+
+itself under Taylor and Mathis. Id. To do so, in the Government’s view, would require
+
+the Court to make a forbidden “factual determination of the nature of the places he
+
+burglarized.” Id. at 3.
+
+      Finally, the Government rejects Mr. Bowers’ position that because at the Rule
+
+11, the state prosecutor described the structure Mr. Bowers burglarized as a storage
+
+trailer, this means that the structure was mobile. Id. In the Government’s words,
+
+“just as wood can become a house, so too can a once mobile object become a stationary
+
+structure.” Id. Thus, “even if Bowers is to be believed, it does not necessarily follow
+
+that the places he burglarized were not structures within the meaning of Taylor,
+
+Mathis, and Duquette.” Id.
+
+      C.     DISCUSSION
+
+      On its face, the resolution of this issue appears easy. The ACCA applies if a
+
+defendant has previously committed at least three violent felonies.        The ACCA
+
+
+
+                                          7
+defines a “violent felony” to include “burglary,” and Mr. Bowers had been convicted of
+
+four burglaries, all felonies, before committing his present felony of being a felon in
+
+possession of a firearm crime. The conclusion that Mr. Bowers is subject to the
+
+enhanced sentencing provisions of the ACCA would seem a foregone conclusion.
+
+      But something so significant in the law is rarely so simple. In Taylor, the
+
+United States Supreme Court addressed the problem that “[t]he word ‘burglary’ has
+
+not been given a single meaning by the state courts; the criminal codes of the States
+
+define burglary in many different ways.”       495 U.S. at 580.     The Taylor Court
+
+concluded that the term, “burglary,” “must have some uniform definition independent
+
+of the labels employed by the various States’ criminal codes.”        Id. at 592. The
+
+Supreme Court adopted the following “generic” definition of “burglary” for purposes
+
+of the ACCA: “An unlawful or unprivileged entry into, or remaining in, a building or
+
+other structure, with intent to commit a crime.” Id. at 598.
+
+      Significantly, for purposes of Mr. Bowers’ argument, the Supreme Court
+
+elected not to limit the generic definition of burglary to buildings, but included
+
+“structures.” Id. (citing W. LAFAVE & A. SCOTT, SUBSTANTIVE CRIMINAL LAW § n.3, §§
+
+8.13(c), p. 471(1986) (“modern statutes ‘typically describe the place as a ‘building’ or
+
+‘structure’”)). The Taylor Court also established an analytic framework under which
+
+the question of whether a state burglary statute constitutes a generic burglary that
+
+the ACCA recognizes as a predicate felony. The Supreme Court wrote that if the state
+
+statute is narrower than a generic burglary, there is “no problem, because the
+
+conviction necessarily implies that the defendant has been found guilty of all the
+
+
+
+                                           8
+elements of generic burglary.” Id. at 599. “And if the defendant was convicted of
+
+burglary in a State where the generic definition of has been adopted, with minor
+
+variations in terminology, then the trial court need find only that the state statute
+
+corresponds in substance to the generic meaning of burglary.” Id.
+
+      In 2015, in Duquette, the First Circuit directly addressed whether a conviction
+
+under the Maine burglary statute is a proper ACCA predicate. 778 F.3d 314. The
+
+state burglary statute for Mr. Bowers’ and Mr. Duquette’s convictions is 17-A M.R.S.
+
+§ 401. Mr. Bowers was convicted of violating both 17-A M.R.S. § 401(1)(A) and §
+
+401(1)(B)(4):
+
+   1. A person is guilty of burglary if:
+
+   A. The person enters or surreptitiously remains in a structure knowing
+      that that person is not licensed or privileged to do so, with the intent to
+      commit a crime therein. Violation of this paragraph is a Class C crime;
+      or
+
+   B. The person violates paragraph A and:
+
+      (4) The violation is against a structure that is a dwelling place. Violation
+      of this subparagraph is a Class B crime.
+
+To be guilty of a § 401(1)(B)(4) violation, Mr. Bowers first had to be guilty of violating
+
+§ 401(1)(A). Like Mr. Bowers, Mr. Duquette was convicted of violating. § 401(1)(A).
+
+      In Duquette, the First Circuit ruled:
+
+      By its clear and unambiguous terms, the statute [17-A M.R.S. § 401(1)]
+      contains all of the elements of "generic burglary" that the Supreme
+      Court set forth in Taylor. Duquette, in fact, concedes this in his brief.
+      See Appellant's Br. at 8 (quoting Taylor, 495 U.S. at 599 . . . ("The
+      statutory elements match the elements of 'generic burglary' defined as
+      'unlawful or unprivileged entry to a building or structure with the intent
+      to commit a crime.'")). We find, therefore, that this statutory definition
+
+
+
+                                            9
+      of burglary "substantially corresponds to 'generic' burglary." Taylor, 495
+      U.S. at 602 . . . .
+
+778 F.3d at 318. The First Circuit made its holding plain: “because Maine’s burglary
+
+statute sets forth the definition of ‘generic burglary’ under Taylor, a conviction under
+
+that statute qualifies as a “violent felony” under the ACCA.” Id. Applying Duquette
+
+to Mr. Bowers’ case, his four Maine burglary convictions count as ACCA predicates
+
+and he is therefore subject to the mandatory provisions of the law and the Armed
+
+Career Criminal provision of the Guidelines.
+
+      Mr. Bower, however, urges the Court to discount Duquette because after the
+
+First Circuit issued Duquette, the United States Supreme Court decided Mathis and,
+
+in Mr. Bowers’ view, Mathis dictates a different result. Mr. Bowers is not the first to
+
+attack Duquette following Mathis. The judges in this District have issued a number
+
+of opinions after Mathis, addressing issues similar to the issue Mr. Bowers is raising;
+
+each applies Duquette. Yeaton v. United States, No. 2:04-cr-00123-GZS, 2:16-cv-
+
+00333-GZS, 2017 WL 1194185, 2017 U.S. Dist. LEXIS 47386 (Mar. 30, 2017),
+
+affirmed 2017 U.S. Dist. LEXIS 66365 (May 2, 2017) (certificate of appealability
+
+granted); McCurdy v. United States, Nos. 1:06-cr-00080-JAW, 1:15-cv-00532-JAW,
+
+2017 WL 74695, 2017 U.S. Dist. LEXIS 1947 (D. Me. Jan. 6, 2017); Collamore v.
+
+United States, Nos. 2:10-cr-158-GZS, 2:16-cv-259-GZS, 2016 WL 6304668, 2016 U.S.
+
+Dist. LEXIS 148757 (D. Me. Oct. 27, 2016); United States v. Casey, Nos. 2:11-cr-216-
+
+DBH, 2:16-cv-346-DBH, 2016 WL 6581178, 2016 U.S. Dist. LEXIS 153085 (D. Me.
+
+Nov. 3, 2016); Dimott v. United States, Nos. 2:06-cr-26-GZS, 2:16-cv-347-GZS, 2016
+
+U.S. Dist. LEXIS 142354 (Oct. 14, 2016). In explaining why it is following Duquette,
+
+                                          10
+the Court can do no better than what it and the other district judges have already
+
+done.
+
+        In Dimott, the First Circuit addressed appeals in the Dimott, Casey, and
+
+Collamore cases but did not directly reach the Mathis argument because of issues
+
+unique to those cases. 881 F.3d at 233-43. In dissent, Judge Torruella observed that
+
+in Casey, the district court concluded it was “bound by this Circuit’s precedent to find
+
+that Maine burglary is generic and also falls under the enumerated clause.” Id. at
+
+246 (Torruella, J., dissenting). Judge Torruella wrote that “[t]he district court was
+
+correct in its ruling given its boundaries.” Id. Judge Torruella suggested that the
+
+First Circuit itself is not “so constrained” in assessing the continued vitality of its own
+
+precedent. Id. The lesson from Judge Torruella’s dissent in Dimott is that if Duquette
+
+is to be revisited, the First Circuit, not a district court, must do so.
+
+        Although the appeal in McCurdy has been dismissed, the district court docket
+
+sheet reflects that Mr. Yeaton appealed the district court decision to the First Circuit
+
+and that his appeal is still pending before the Circuit. Yeaton v. United States, No.
+
+2:04-cr-00123-GZS-1, Notice of Appeal (ECF No. 55). The Government states that a
+
+similar question is now pending before the United States Supreme Court in United
+
+States v. Stitt, 860 F.3d 854 (6th Cir. 2017), cert. granted 138 S. Ct. 1592 (2018), and
+
+is scheduled for oral argument before the high court on October 9, 2018. 4 Based on
+
+
+4       While this Order was being drafted, the Supreme Court of the United States heard two cases
+concerning the ACCA and the implication of prior burglary convictions. United States v. Stitt, 860 F.3d
+854 (6th Cir. 2017), cert. granted, 138 S. Ct. 1592 (No. 17-765); United States v. Sims, 854 F.3d 1037
+(8th Cir. 2017), cert. granted, 138 S. Ct. 1592 (No. 17-766). At oral argument for the consolidated case
+involving the Sims’ and Stitts’ petitions, Justice Alito stated, “a majority of the Court really hates
+ACCA and is picking it apart bit by bit by bit.” Tr. 25:12-15. While it is difficult to read the tea leaves
+from an oral argument, Justice Alito’s comments suggest that the Supreme Court may further narrow
+
+                                                   11
+these developments, the status of the Maine burglary statute as an ACCA predicate
+
+may well be clarified by the Supreme Court or by the First Circuit before Mr. Bowers
+
+is scheduled for a sentencing hearing, and if so, this Court will of course follow the
+
+lead of the higher appellate courts to which it owes allegiance. For now, by the same
+
+token, the Court is required to, and will, apply First Circuit precedent in Duquette for
+
+purposes of its sentencing of Mr. Bowers unless and until the Supreme Court eclipses
+
+the First Circuit or the First Circuit overrules itself. The Court concludes that Mr.
+
+Bowers is subject to the provisions of the ACCA and to the corresponding Guideline
+
+provision for Armed Career Criminals.
+
+IV.    USE OF A FIREARM IN CONNECTION WITH ANOTHER FELONY
+
+       UNDER § 2K2.1(b)(6)(B)
+
+       A.      Background
+
+       Section 2K2.1(b)(6)(B) of the Guidelines states:
+
+       If the defendant used or possessed any firearm . . . in connection with
+       another felony offense; or possessed . . . any firearm . . . with knowledge,
+       intent, or reason to believe that it would be used or possessed in
+       connection with another felony offense, increase by 4 levels.
+
+In the PSR, the Probation Office considered but rejected this enhancement based on
+
+its view of the circumstances of Mr. Bowers’ firearm possession. PSR ¶ 21. The
+
+Government contends that the Court should impose the four-level enhancement
+
+because “the defendant illegally used the gun in his altercation with Mr. Taylor”
+
+
+
+
+the applicable predicate state convictions for ACCA. It may be sensible to wait for the Supreme Court
+to issue an opinion on Sims and Stitt before sentencing Mr. Bowers. According to the PSR, Mr. Bowers
+has been detained since September 14, 2017 and therefore, he is not in imminent danger of overstaying
+his sentence, whichever guideline range applies.
+
+                                                 12
+which it maintains constituted a violation of a variety of Maine state criminal laws.
+
+Gov’t’s Mem. at 2-3. 5 Mr. Bowers objects, contending that Mr. Bowers did not draw
+
+his firearm and, if he did, his resort to a firearm was a response to aggressive behavior
+
+by Justin Taylor and therefore, Mr. Bowers was acting in self-defense. Def.’s Opp’n.
+
+at 1-2.
+
+          In its response, the Government concedes that even if the video does not show
+
+Mr. Bowers “fully produc[ing] his firearm and point[ing] the muzzle at Mr. Taylor
+
+before Mr. Taylor struck Mr. Bowers with a wrench[,]” Gov’t’s Opp’n at 3-4, Mr.
+
+Bowers, nevertheless, reached behind his back with his right hand and pulled his
+
+hand up, an act that the Government contends is “consistent with attempting to draw
+
+the firearm from the holster Bowers admitted he was wearing all day.” Id. at 4. The
+
+Government argues that the “salient fact” is Mr. Taylor’s testimony that Mr. Bowers
+
+had threatened to kill him, which then caused Mr. Taylor to strike Mr. Bowers with
+
+the wrench. Id. Threatening to kill Mr. Taylor while putting his hand on his gun
+
+constitutes, in the Government’s view, the commission of one of a number of state
+
+
+
+
+5        The Government says that Mr. Bowers’ actions violated the following Maine criminal laws:
+Threatening with a Dangerous Weapon, 17-A M.R.S. § 209, Reckless Conduct with a Dangerous
+Weapon, 17-A M.R.S. § 211, Aggravated Reckless Conduct, 17-A M.R.S. § 213, and Terrorizing, 17-A
+M.R.S. § 210. Criminal Threatening, Reckless Conduct, and Terrorizing are all Class D crimes;
+Aggravated Reckless Conduct is a Class B crime. Under Maine law, a Class D crime—without more—
+is not a felony; a Class B crime is a felony. See 17-A M.R.S. § 1252(2)(B), (D). However, under section
+1252(4), if the state of Maine pleads and proves that a Class D crime was committed with the use of a
+dangerous weapon, “then the sentencing class for such crime is one class higher than it would
+otherwise be.” § 1252(4). Therefore, if Mr. Bowers used a dangerous weapon when he committed the
+acts that would constitute any of the Class D crimes, the penalty would rise to Class C, which is a
+felony. See § 1252(2)(C) (“In the case of a Class C crime, the court shall set a definite period not to
+exceed 5 years”).
+
+                                                  13
+felonies. Id. The Government urges the Court to reject Mr. Bowers’ denials as
+
+incredible. Id.
+
+      Mr. Bowers sees the same evidence very differently. He says that during the
+
+entirety of the video, “the gun is never drawn.” Def.’s Opp’n at 2 (emphasis in
+
+original). Mr. Bowers contends that Mr. Taylor was the aggressor and when he
+
+reached toward his back, he was “mere seconds away from being struck with a
+
+wrench.” Id. Mr. Bowers urges the Court to reject Mr. Taylor’s testimony about
+
+events off-camera as incredible. Id.
+
+      B.     The July 24, 2018 Evidentiary Hearing
+
+      On July 24, 2018, the Court held an evidentiary hearing at which Mr. Taylor,
+
+Kara Cunningham, and Mr. Bowers testified. Tr. 19:20-119:24. In addition, the
+
+parties admitted twenty exhibits, including a DVD of a surveillance video of the
+
+incident of April 9, 2016. See Court Ex. List (ECF No. 84). The video contains no
+
+audio. DVD of Surveillance Video of Apr. 9, 2016 Incident, Gov’t’s Ex. 1. Mr. Taylor
+
+is the owner of an auto mechanic garage in Chelsea, Maine where the April 9, 2016
+
+incident took place, and Mr. Taylor was involved in the altercation with Mr. Bowers.
+
+Tr. 20:8-11, 21:14-22:23. Ms. Cunningham is Mr. Taylor’s girlfriend, and she was
+
+working at Mr. Taylor’s garage the morning of April 9, 2016. Id. 62:25-72:25.
+
+      C.     The DVD
+
+      The admitted DVD is from a security camera located above one of the bays in
+
+the garage. Gov’t’s Ex. 1. It is 8 minutes and 52 seconds long. It shows Mr. Bowers
+
+cleaning up and shoveling some debris and placing it in a barrel. In the bay is also
+
+
+
+                                        14
+Katelyn Taylor, Mr. Taylor’s younger sister, and Mr. Bowers’ son. 6 After Mr. Bowers
+
+is finished cleaning, he mills about the bay for a while. His son appears and then
+
+goes outside. Mr. Taylor backs a vehicle into the bay and uses a hand jack to lift it
+
+and let it down and Mr. Taylor drives the vehicle out of the garage. At this point, Mr.
+
+Bowers, his son and Ms. Taylor are momentarily in the bay. Mr. Taylor comes in
+
+briefly and leaves again. For a short time, Mr. Bowers and Ms. Taylor are in the bay
+
+and then Mr. Taylor reenters, and goes into another bay. Mr. Bowers goes in and out
+
+of the area where Mr. Taylor is located, but neither is visible. According to the video
+
+time, this part of the DVD ends at 3:01:46.
+
+       The next part of the DVD begins at 3:06:45. It shows Mr. Taylor and Mr.
+
+Bowers standing on the far side of the bay, having a discussion. Mr. Taylor has what
+
+it later confirmed as a wrench in his right hand. Ms. Taylor is standing facing Mr.
+
+Bowers to the left side of Mr. Taylor. There is a black dog lying on the bay floor
+
+between Mr. Taylor and Ms. Taylor. Mr. Bowers steps away twice, first at 3:07:27,
+
+returning at 3:07:32, and he momentarily walks away at 3:07:42-43. Mr. Bowers
+
+stands with his legs crossed and his left arm resting against a stack of tires.
+
+       At 3:07:58, Mr. Taylor becomes animated. Even though there is no audio, it
+
+appears that Mr. Taylor is raising his voice and he begins waving the wrench and
+
+moving toward Mr. Bowers. At 3:08:00, Mr. Taylor starts walking toward Mr. Bowers
+
+and gesticulating. The videotaped portion of this part of the encounter lasts only
+
+about seven seconds. Ms. Taylor steps between her brother and Mr. Bowers at
+
+
+6      The video has no audio, but during his testimony, Mr. Taylor identified the young woman as
+Katelyn, his younger sister, and the boy as Mr. Bowers’ son. Tr. 23:23-24:11.
+
+                                               15
+3:08:00. She is initially facing Mr. Bowers and she holds him at arm’s length with
+
+both arms at 3:08:02. She then positions herself between the two men with her right
+
+arm on her brother’s chest and her left arm on Mr. Bowers’ chest. Mr. Taylor breaks
+
+over his sister’s arm and lunges at Mr. Bowers, striking him with the wrench. The
+
+three disappear out the bay door at 3:08:09 with Mr. Bowers backing up and Mr.
+
+Taylor moving forward.
+
+      Focusing on Mr. Bowers, he is wearing a t-shirt that is not tucked in. At
+
+3:07:58, when Mr. Taylor becomes animated and waves the wrench, Mr. Bowers takes
+
+his right hand and pulls up the right rear side of his t-shirt, seeming to reach for his
+
+gun, which is in a holster on his right rear hip. In doing so, he pulls the t-shirt up
+
+over the holster, exposing it. He does not, however, pull out the firearm. He pushes
+
+Ms. Taylor’s arms away and backs up one large step. As Mr. Taylor continues to
+
+approach, Mr. Bowers reaches again for the holster, and about at the same moment
+
+Mr. Taylor lunges toward him. The three disappear out the bay with Mr. Taylor
+
+swinging the wrench and Mr. Bowers flailing his arms.
+
+      According to the PSR, Mr. Taylor hit Mr. Bowers on the head with the wrench
+
+one to three times, and knocked him unconscious. PSR ¶ 8. While Mr. Bowers was
+
+on his back, Mr. Taylor hit him with his fists one to three more times. Id. The PSR
+
+says that Mr. Bowers “reportedly possessed a handgun in his hand while on the
+
+ground and unconscious.” Id. This is not shown, however, in the DVD.
+
+      Based on the DVD alone, the Court would not conclude that Mr. Bowers
+
+possessed the firearm in connection with another felony. The crimes of Criminal
+
+
+
+                                          16
+Threatening, 17-A M.R.S. § 209, Reckless Conduct, 17-A M.R.S. § 211, and
+
+Terrorizing, 17-A M.R.S. § 210, are all Class D crimes, which are misdemeanors
+
+under Maine law. 17-A M.R.S. § 1252(2)(D) (“In the case of a Class D crime, the court
+
+shall set a definite period of less than one year”). To elevate a Class D crime to a
+
+Class C crime, which is a felony, the state of Maine must prove that the defendant
+
+committed the crime “with the use of a dangerous weapon.” 17-A M.R.S. § 1252(4).
+
+The DVD reveals no evidence that Mr. Bowers used his firearm to commit any of
+
+these crimes.
+
+      Aggravated reckless conduct is a Class B crime and is a felony. 17-A M.R.S. §
+
+213(2); 17-A M.R.S. § 1254(2)(B) (“In the case of a Class B crime, the court shall set a
+
+definite period not to exceed 10 years”). However, to be guilty of aggravated reckless
+
+conduct, a defendant “with terroristic intent engages in conduct that in fact creates a
+
+substantial risk of serious bodily injury to another person.” 17-A M.R.S. § 213(1).
+
+The DVD itself, however, does not reveal that Mr. Bowers was engaged in conduct
+
+that created a substantial risk of bodily injury to Mr. Taylor. If anything, Mr. Taylor,
+
+by initiating contact with Mr. Bowers and swinging a wrench at him, was the
+
+aggressor and it was Mr. Bowers who sustained a serious bodily injury.
+
+      D.     The Testimonial Hearing
+
+      As Mr. Taylor recalled it, he and Mr. Bowers were arguing because Mr. Bowers
+
+had been rude to a customer. Tr. 21:17-22. Mr. Taylor testified that the argument
+
+“escalated quickly” and he told Mr. Bowers that he would “call the cops if he didn’t
+
+leave.” Id. 21:23-25. He said that Mr. Bowers was “still walking back and forth
+
+
+
+                                          17
+arguing, ripped his sweatshirt off, wanting to fight.” Id. 21:24-22:1. Mr. Taylor said
+
+that Mr. Bowers was “acting like he wanted to fight,” “kept reaching for his gun,”
+
+“went to pull the gun,” and “that’s when I swung.” Id. 22:4-7. Mr. Taylor testified
+
+that Mr. Bowers told him, “I will fucking kill you,” and that he reached for his gun.
+
+Id. 26:21-27:1. As he recalled it, Mr. Bowers reached for his gun, which caused Mr.
+
+Taylor to start swinging. Id. 26:24-27:5.
+
+      On cross-examination, Mr. Taylor acknowledged that in one of his earlier
+
+statements, he had written that Mr. Bowers had pulled his gun and that he hit Mr.
+
+Bowers after that.    Id. 38:22-39:5.   However, during his testimony, Mr. Taylor
+
+admitted that the video reveals he had begun hitting Mr. Bowers before Mr. Bowers
+
+pulled his gun. Id. 38:6-9. He admitted that his written statement to the sheriff’s
+
+office made no mention of Mr. Bowers’ threat. Id. 38:12-39:2. He also agreed that he
+
+had told Agent Christopher Concannon that he only swung the wrench after Mr.
+
+Bowers had pulled a gun. Id. 40:15-17.
+
+      During his testimony, Mr. Bowers recalled the details of the argument between
+
+Mr. Taylor and himself, and Mr. Taylor telling him to leave his premises. Id. 90:5-
+
+24. Mr. Bowers pointed to his “lackadaisical demeanor” and said that the “only
+
+person advancing is Justin.” Id. 92:3-6. As Mr. Taylor advanced, Mr. Bowers thought
+
+that Mr. Taylor was going to hit him with the wrench. Id. 92:7-9. Mr. Bowers denied
+
+telling Mr. Taylor that he would “fucking kill” him. Id. 99:2-7. He said, “I don’t speak
+
+like that.” Id.
+
+
+
+
+                                            18
+       Although Mr. Taylor and Mr. Bowers disagree on some essential points, the
+
+Court concludes that their testimony, along with the testimony of Kara Cunningham,
+
+does not sustain the Government’s burden of proof to demonstrate that it is more
+
+likely than not that Mr. Bowers “used or possessed any firearm . . . in connection with
+
+another felony offense; or possessed . . . any firearm . . . with knowledge, intent, or
+
+reason to believe that it would be used or possessed in connection with another felony
+
+offense.” U.S.S.G. § 2K2.1(b)(6)(B). As best the Court can piece together the evidence,
+
+including the contents of the DVD, Mr. Taylor, not Mr. Bowers, was the aggressor
+
+and Mr. Taylor, not Mr. Bowers, had become suddenly vocal and angry. Mr. Bowers’
+
+response was to place his hand on his holstered gun, but the Court is not convinced
+
+he ever actually drew it. If Mr. Bowers intended to pull his firearm, Mr. Taylor’s
+
+quickness in lunging with the wrench and swinging at Mr. Bowers did not allow him
+
+time to do so. The one witness who might have been able to clear the fog about what
+
+happened between the two men is Ms. Taylor, Mr. Taylor’s younger sister, who
+
+bravely stood between the two men and attempted to play peacemaker. However,
+
+neither the Government nor Mr. Bowers called Ms. Taylor as a witness. The Court
+
+is left with evidence that is equivocal at best and does not sustain the Government’s
+
+burden of proof. The Court declines to apply the four-level enhancement under
+
+U.S.S.G. § 2K2.1(b)(6)(B).
+
+V.     OBSTRUCTING OR IMPEDING THE ADMINISTRATION OF JUSTICE
+
+       UNDER U.S.S.G. § 3C1.1 7
+
+
+7       The Court’s determination that Mr. Bowers is subject to the ACCA means he is subject to a
+statutory mandatory minimum of fifteen years of imprisonment. 18 U.S.C. § 922(e)(1). It also affects
+
+                                                19
+            A.          Background
+
+        Section 3C1.1 of the Guidelines states:
+
+        If (1) the defendant willfully obstructed or impeded, or attempted to
+        obstruct or impede, the administration of justice with respect to the
+        investigation, prosecution, or sentencing of the instant offense of
+        conviction, and (2) the obstructive conduct related to (A) the defendant’s
+        offense of conviction and any relevant conduct; or (B) a closely related
+        offense, increase the offense level by 2 levels.
+
+The Probation Office recommended application of this two-level enhancement. PSR
+
+¶¶ 16, 24. In paragraph sixteen, the Probation Office stated that two witnesses
+
+“reported to authorities that Bowers telephoned them on the evening of April 9, 2016”
+
+and “asked the witnesses to delete the video footage recorded by the security camera
+
+and to assert to authorities that the weapon recovered at the scene was Taylor’s gun.”
+
+Id. ¶ 16. In exchange for their cooperation, Mr. Bowers told them that they could
+
+“keep the gun.” Id. The Probation Office concluded that Mr. Bowers’ conversations
+
+amounted to an attempt to unlawfully influence a witness or to get another person to
+
+destroy or conceal evidence, justifying the obstruction of justice enhancement. Id.
+
+
+
+
+his guideline calculations. U.S.S.G. § 4B1.4. Under the Probation Office’s calculations, for example,
+but for the ACCA, Mr. Bowers would have had a total offense level of 21 and he would have been a
+criminal history category of III. PSR ¶¶ 25, 27A-27B, 37. With a total offense level of 21 and a criminal
+history category of III, the guideline range for imprisonment, but for the ACCA, would have been 46
+to 57 months. However, § 4B1.4(b)(3)(A) jumps Mr. Bowers’ offense level to 34 because he possessed
+a silencer and his criminal history category escalates to VI for the same reason. With acceptance of
+responsibility, the resulting guideline sentence range is 188 to 235 months, PSR ¶ 63, and the Court
+must impose a sentence of at least fifteen years. 18 U.S.C. § 922(e)(1).
+        If the ACCA applies to Mr. Bowers’ case, there would be no practical need for the Court to
+make the other guideline calculations because they are trumped by the statutory and guideline
+provisions of the ACCA. Nevertheless, the Court is addressing these issues because it is possible that,
+either before or after he is sentenced, the Supreme Court or the First Circuit will clarify whether the
+ACCA should be applied to defendants like Mr. Bowers, and technically, the proper way to calculate
+the guidelines is first to determine the guideline calculations without the Chapter Four enhancements
+and then to determine the impact of the Chapter Four provisions on the resulting sentencing range.
+
+
+                                                  20
+      Mr. Bowers objects to the obstruction of justice enhancement and the
+
+Government supports it. At the testimonial hearing, the Government produced the
+
+testimony of Kara Cunningham. Tr. 62:25-73:5. Ms. Cunningham is Mr. Taylor’s
+
+girlfriend and she also has a tangential relationship with Mr. Bowers as he is “the
+
+brother to [her] cousin’s ex-husband.” Id. 63:2-16. The evening of the altercation at
+
+Mr. Taylor’s garage, Ms. Cunningham testified that Mr. Bowers called her from the
+
+hospital and asked her to say that the gun was Mr. Taylor’s, not his. Id. 66:2-6. She
+
+replied that she would talk to Mr. Taylor and she ended the phone call. Id. 66:19-21.
+
+      The Court declines to apply the obstruction of justice enhancement to Mr.
+
+Bowers. The Court accepts Ms. Cunningham’s testimony and the facts in paragraph
+
+sixteen of the PSR. Nevertheless, for the obstruction of justice enhancement to apply,
+
+the Government must prove that Mr. Bowers acted “willfully.” U.S.S.G. § 3C1.1 (“If
+
+(1) the defendant willfully obstructed . . . .”). Under First Circuit law, “willfulness
+
+generally means that an act was undertaken with a ‘bad purpose,’ that is, with
+
+knowledge that the act is unlawful.” United States v. Iwuala, 789 F.3d 1, 12 (1st Cir.
+
+2015); see also United States v. Ramirez, 495 F. Supp. 2d 92, 115 (D. Me. 2007)
+
+(quoting Bryan v. United States, 524 U.S. 184, 191-92 (1998)). The PSR reflects that
+
+Mr. Bowers was knocked unconscious by Mr. Taylor, that he was taken to the hospital
+
+for medical treatment, that he had no recollection of the events, that he suffered a
+
+traumatic brain injury as a result of the altercation, that he also suffered vertigo,
+
+hearing loss, and double vision, and that, although he did not sustain a skull fracture
+
+or intracranial bleeding, he has been treated for post-concussive syndrome. PSR ¶¶
+
+
+
+                                          21
+8-9, 49. Mr. Bowers testified that he continues to suffer symptoms from the April 9,
+
+2016 incident. Tr. 83:19-84:2. Absent more evidence about his state of mind during
+
+the evening of April 9, 2016 while he was hospitalized, the Court does not conclude
+
+that the Government sustained its burden to prove that Mr. Bowers had the requisite
+
+“culpable state of mind” that evening to act in a willful manner. United States v.
+
+Troisi, 849 F.3d 490, 494 (1st Cir. 2017).
+
+VI.    ACCEPTANCE OF RESPONSIBILITY
+
+        Under U.S.S.G. § 3E1.1, a defendant is entitled to a two-level reduction in his
+
+guideline calculations if he “clearly demonstrates acceptance of responsibility.”
+
+U.S.S.G. § 3E1.1(a). He is entitled to a further one-level reduction if the government
+
+moves for it. 8 Id. § 3E1.1(b). Here, Mr. Bowers pleaded guilty to the offense of
+
+conviction and there is no evidence that he falsely denied relevant conduct and
+
+therefore ordinarily, he would be entitled to the three-level reduction. Id. Application
+
+Note 3 (indicating that the entry of a plea of guilty prior to the commencement of trial
+
+constitutes significant evidence of acceptance of responsibility for purposes of
+
+subsection (a)). The Probation Office recommended that Mr. Bowers be granted a
+
+three-level reduction for acceptance of responsibility. PSR ¶¶ 17, 27A-27.
+
+       The Government objects based on the fact that Mr. Bowers was involved in a
+
+fight with another inmate at Somerset County Jail on April 5, 2018. The Government
+
+presented a DVD of an altercation on April 5, 2018, in the Somerset County Jail
+
+
+
+8       The Court assumes that the Government will move for the third point under § 3E1.1(b) because
+it is rare for it not to do so, where the Court has found a defendant is entitled to acceptance of
+responsibility under § 3E1.1(a).
+
+                                                22
+between Mr. Bowers and another inmate, Gov’t’s Ex. 4, as well as ten pages of
+
+investigative reports about the incident. Gov’t’s Ex. 5. The DVD shows Mr. Bowers
+
+playing cards with three other inmates. Mr. Bowers is in a wheelchair. The inmate
+
+to Mr. Bowers’ right stands up, Mr. Bowers wheels his wheelchair back, and the
+
+inmate takes a swing at Mr. Bowers with his right fist. Mr. Bowers stands up from
+
+the wheelchair and the two of them start to exchange blows, ultimately wrestling on
+
+the floor, when corrections officers quickly emerge to separate the inmates and stop
+
+the fight. After the corrections officers separate the inmates, Mr. Bowers continues
+
+to lunge at the other inmate and has to be held back by the other officers.
+
+      During his testimony, Mr. Bowers stated that he and Michael Pixley were
+
+playing cards with two other inmates, when Mr. Pixley began talking about an
+
+incident involving John Oliveira, Mr. Bowers’ cellmate. Tr. 79:11-80:4. According to
+
+Mr. Bowers, Mr. Pixley said that he was going to beat up Mr. Oliveira because of the
+
+incident. Id. 80:1-13. Mr. Bowers said he “tried to deflect it,” observing that Mr.
+
+Pixley was going to get out soon and that the incident between Mr. Pixley and Mr.
+
+Oliviera was minor. Id. 80:16-20. Mr. Bowers was not able to settle Mr. Pixley down
+
+and Mr. Bowers told Mr. Pixley that it had “nothing [to] do with like being macho or
+
+tough” and he thought Mr. Pixley misinterpreted the statement to challenge his
+
+toughness. Id. 80:23-81:1. Mr. Pixley replied that he was tougher than most of the
+
+people in the block and that he could beat up Mr. Bowers. Id. 81:1-4. Mr. Bowers
+
+chuckled and said to Mr. Pixley that he did not need to threaten him and that Mr.
+
+Pixley was not tougher than all the guys on the block, and Mr. Bowers motioned with
+
+
+
+                                         23
+his thumb toward the pod. Id. 81:4-19. Mr. Pixley did not react well, balled up his
+
+fists, and told Mr. Bowers that he would “waste [him] right there.” Id. 81:20-82:1.
+
+Mr. Bowers said that Mr. Pixley began cocking back to hit him, that Mr. Pixley threw
+
+the first punch, and that Mr. Bowers did not want to sustain another head injury. Id.
+
+82:21-83:2. In addition to the DVD and Mr. Bowers’ testimony, the Court reviewed
+
+the incident report from the Somerset County Jail. Gov’t’s Ex. 5.
+
+       If a defendant engages in unlawful conduct after his guilty plea, including an
+
+assault, this may be grounds for denying acceptance of responsibility. United States
+
+v. Stile, 845 F.3d 425, 428-32 (1st Cir. 2017); U.S.S.G. § 3E1.1, Application Note 1(B)
+
+(“voluntary termination or withdrawal from criminal conduct or associations”). Here,
+
+however, the DVD clearly demonstrates that Mr. Pixley, not Mr. Bowers, was the
+
+person who instigated the fight. Mr. Pixley stood up and took a swing at Mr. Bowers’
+
+head. Mr. Bowers responded by defending himself. The Government is correct that
+
+Mr. Bowers continued to try and get at Mr. Pixley after a corrections officer was
+
+attempting to hold him back. At least when Mr. Pixley stood up and took a swing at
+
+Mr. Bowers, Mr. Bowers had no choice but to defend himself. Once Mr. Pixley and
+
+Mr. Bowers began to fight, it is difficult to turn off the adrenaline and, although the
+
+Court does not condone Mr. Bowers’ attempt to wiggle out of the corrections officer’s
+
+grasp and get to Mr. Pixley, the Court declines to deny Mr. Bowers’ acceptance of
+
+responsibility based on the unique circumstances of this altercation.
+
+VII.   SUMMARY
+
+   The Court resolves the sentencing issues as follows:
+
+
+
+                                          24
+   (1) The Court concludes that Mr. Bowers is subject to the statutory and guideline
+
+      provisions of the ACCA and U.S.S.G. § 4B1.4;
+
+   (2) The Court concludes that the Government has not sustained its burden to
+
+      prove that Mr. Bowers used or possessed the firearm in connection with
+
+      another felony offense under U.S.S.G. § 2K2.1(b)(6)(B);
+
+   (3) The Court concludes that the Government has not sustained its burden to
+
+      prove that Mr. Bowers willfully obstructed justice under U.S.S.G. § 3C1.1; and
+
+   (4) The Court concludes that Mr. Bowers has accepted responsibility for the
+
+      offense and is entitled to a three-level reduction under U.S.S.G. § 3E1.1.
+
+The Court makes the following guideline calculations:
+
+      (1) Base Offense Level: U.S.S.G. § 2K2.1(a)(4)(B):                         20
+
+      (2) Specific Offense Characteristic: U.S.S.G. § 2K2.1(b)(1)(A):            +2
+
+      (3) Adjusted Offense Level:                                                22
+
+      (4) Chapter Four Enhancement: U.S.S.G. § 4B1.4(b)(3)(A):                   34
+
+      (5) Acceptance of Responsibility: U.S.S.G. § 3E1.1(a), (b):                -3
+
+      (6) Total Offense Level:                                                   31
+
+Mr. Bowers’ criminal history score is III; however, under U.S.S.G. § 4B1.4(c)(1), his
+
+criminal history score is elevated to VI. For a total offense level of 31 and a criminal
+
+history score of VI, the applicable guideline range for imprisonment is 188 to 235
+
+months, a fine range from $30,000 to $250,000, supervised release of two to five years,
+
+and a special assessment of $100.
+
+
+
+
+                                          25
+      If the ACCA and § 4B1.4 did not apply, Mr. Bowers would face a very different
+
+guideline calculation. His base offense level would be 20. He would receive a two-
+
+level increase for the number of firearms for an adjusted offense level of 22. His
+
+adjusted offense level would be reduced three levels to 19 for acceptance of
+
+responsibility. His criminal history score would be III. For a total offense level of 19
+
+and a criminal history score of III, the applicable guideline range would be 37 to 46
+
+months. His fine range would be $10,000 to $100,000. The period of supervised
+
+release would be one to three years. The special assessment would be $100.
+
+      SO ORDERED.
+
+
+
+                                 /s/ John A. Woodcock, Jr.
+                                 JOHN A. WOODCOCK, JR.
+                                 UNITED STATES DISTRICT JUDGE
+
+Dated this day 6th of November, 2018
+
+
+
+
+                                          26
+

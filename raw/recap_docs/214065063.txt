@@ -1,0 +1,318 @@
+Case 2:18-cr-00063-GZS Document 1225 Filed 10/04/22 Page 1 of 6                    PageID #: 5008
+
+
+
+
+                             UNITED STATES DISTRICT COURT
+                                  DISTRICT OF MAINE
+
+  UNITED STATES OF AMERICA                       )
+                                                 )
+                                                 )
+  v.                                             )
+                                                 ) Docket no. 2:18-cr-00063-GZS
+  BRIAN BILODEAU,                                )
+                                                 )
+                                                 )
+                         Defendant.              )
+                                                 )
+
+
+                   ORDER ON GOVERNMENT’S MOTIONS IN LIMINE
+
+
+        Before the Court are the following motions in limine filed by the Government: (1) Motion
+
+ in Limine to Prevent Arguments Related to Jury Nullification (ECF No. 1147), (2) Motion in
+
+ Limine to Prevent Arguments Related to Public Authority (ECF No. 1148), and (3) Motion in
+
+ Limine to Prevent References to Penalty (ECF No. 1149). To aid the parties in preparing for trial,
+
+ the Court provides the following pretrial rulings.
+
+
+
+ I.     Motion in Limine to Prevent Arguments Related to Jury Nullification (ECF No. 1147)
+
+        Invoking Federal Rules of Evidence 402 and 403, the Government asks the Court to
+
+ preclude Defendant from arguing for jury nullification at trial. More specifically, the Government
+
+ asks the Court to limit evidence and argument related to Maine’s marijuana laws. The Court
+
+ GRANTS this Motion.
+
+        Multiple other federal courts have concluded the evidence that a particular state has
+
+ legalized medical marijuana or created a regulated marijuana market is irrelevant to whether the
+
+ Government can prove a defendant violated federal drug laws prohibiting the possession and
+Case 2:18-cr-00063-GZS Document 1225 Filed 10/04/22 Page 2 of 6                      PageID #: 5009
+
+
+
+
+ distribution of marijuana. See, e.g., United States v. Haymon, No. 20-4438, 2021 WL 4495813,
+
+ at *1 (4th Cir. Oct. 1, 2021) (“The fact that a state decriminalized possession of marijuana does
+
+ not provide a defense to a charged violation of federal drug laws.”); United States v. Wall, No.
+
+ CR SAG-19-0500, 2022 WL 1268061, at *4 (D. Md. Apr. 28, 2022) (prohibiting “evidence of, or
+
+ making any reference to, any other jurisdiction’s laws” regarding marijuana); United States v.
+
+ $114,700.00 in United States Currency, No. 17-CV-00452-CMA-GPG, 2019 WL 6130804, at *3
+
+ (D. Colo. Nov. 19, 2019) (excluding evidence regarding “marijuana policy” as well as arguments
+
+ “which attempt to excuse violation of federal law based on either state law or policy arguments
+
+ about what the law ought to be”); United States v. Apicelli, No. 14-CR-012-01-JD, 2015 WL
+
+ 3398139, at *2 (D.N.H. May 26, 2015) (precluding evidence or arguments related “to marijuana
+
+ laws and legalization, to medical use of marijuana, or to any other issues related to jury
+
+ nullification”). The Court finds no basis to reach a different conclusion regarding the relevancy
+
+ of Maine’s marijuana regulations here.
+
+        In this case, Defendant has already been provided an opportunity to fully litigate the
+
+ applicability of a congressionally enacted appropriations rider, which is the only federal protection
+
+ for individuals distributing marijuana in accordance with state medical marijuana laws. See
+
+ generally United States v. Bilodeau, 24 F.4th 705, 715 (1st Cir. 2022) (“Given the[] facts, we have
+
+ no trouble concluding that the defendants have failed to establish that their pending prosecution
+
+ under the [Controlled Substances Act] is in any way barred by the rider.”). Given the pretrial
+
+ resolution of that issue, the Court considers Maine’s medical marijuana regulatory scheme to be,
+
+ at best, marginally relevant to the factual issues to be decided by the jury. On balance, that
+
+ relevance is outweighed by the risk that evidence related to Maine’s medical marijuana regulations
+
+ will confuse and mislead the jury. Thus, the Court agrees with the Government that evidence
+
+
+
+
+                                                  2
+Case 2:18-cr-00063-GZS Document 1225 Filed 10/04/22 Page 3 of 6                               PageID #: 5010
+
+
+
+
+ seeking to establish that Defendant registered and attempted to comply with Maine’s medical
+
+ marijuana regulations does not negate his mens rea with respect to Counts One through Four of
+
+ the Second Superseding Indictment.
+
+         With respect to Count Four, which charges possession of a firearm in furtherance of a drug
+
+ trafficking crime in violation of 18 U.S.C. § 924(c)(1)(A), Defendant invokes Rehaif v. United
+
+ States, 139 S. Ct. 2191 (2019), and United States v. Minor, 31 F.4th 9 (1st Cir. 2022). 1 In
+
+ Defendant’s view, these cases require the Government to prove that Bilodeau knew he belonged
+
+ to a category of individuals prohibited from possessing firearms. Defendant posits that evidence
+
+ suggesting that he “believed, under [Maine’s marijuana regulations], that his firearm possession
+
+ was legal and not prohibited” would be relevant to this mens rea component. (Response (ECF No.
+
+ 1174), PageID # 4499). The Court disagrees. Rehaif did not address the requisite mens rea for a
+
+ violation of 18 U.S.C. § 924(c)(1)(A), which is charged here. See Rehaif, 139 S. Ct at 2200
+
+ (declining to decide whether “knowledge of status” requirement applied to “other § 922(g)
+
+ provisions not at issue here”); United States v. Sampo, No. 3:17-CR-00143-SLG, 2020 WL
+
+ 7634161, at *4 (D. Alaska Dec. 22, 2020) (concluding Rehaif is “inapplicable” to § 924(c)); United
+
+ States v. Tatum, No. CR DKC 13-0492-001, 2021 WL 795158, at *17 (D. Md. Mar. 2, 2021)
+
+ (concluding that Rehaif, which “involved a conviction . . . under 18 U.S.C. § 922(g) and §
+
+ 924(a)(2),” was “entirely inapplicable to [the defendant]’s conviction under §924(c)”). Under
+
+ existing precedent, the Government is required to prove only that Defendant knowingly possessed
+
+ the firearm listed in Court Four in furtherance of the crime charged in Count Three. See United
+
+ States v. Ramirez-Frechel, 23 F.4th 69, 74 (1st Cir.), cert. denied, 142 S. Ct. 2828 (2022) (“To
+
+
+
+ 1
+  The First Circuit has subsequently withdrawn its April 11th opinion in Minor and granted rehearing en banc. See
+ United States v. Minor, No. 20-1903, 2022 WL 4282992 (1st Cir. Sept. 14, 2022). As a result, the Court has not
+ considered the withdrawn opinion in resolving any of the present motions.
+
+
+                                                        3
+Case 2:18-cr-00063-GZS Document 1225 Filed 10/04/22 Page 4 of 6                       PageID #: 5011
+
+
+
+
+ convict a defendant for possessing a firearm in furtherance of a drug trafficking crime, 18 U.S.C.
+
+ § 924(c)(1)(A), the prosecution must prove beyond a reasonable doubt that the defendant ‘1)
+
+ committed a drug trafficking crime; 2) knowingly possessed a firearm; and 3) possessed the
+
+ firearm in furtherance of the drug trafficking crime.’” (citation omitted)).
+
+        Having held an evidentiary hearing in this matter, the Court is cognizant of the multiple
+
+ ways that the Maine Medical Use of Marijuana Program (“MMMP”) intersects with the factual
+
+ narrative of this case. In connection with this specific Motion, Defendant has outlined at least
+
+ seven specific facts that he will seek to establish at trial in order to “to establish that he did not
+
+ intend to participate in [the] conspiracy” charged in Count One. (See Response (ECF No. 1174),
+
+ PageID # 4491.) For the reasons just discussed, many of these factual assertions are subject to
+
+ exclusion under Federal Rules of Evidence 402 and 403. Thus, Defense counsel is hereby
+
+ instructed that he shall not mention any of the listed assertions in his opening statement. Prior to
+
+ seeking to introduce evidence of the MMMP or Defendant’s participation in the MMMP, Defense
+
+ counsel shall seek a sidebar in order to allow the Court to rule on the admissibility of the proffered
+
+ evidence.
+
+
+
+ II.    Motion in Limine to Prevent Arguments Related to Public Authority (ECF No. 1148)
+
+        The Government also seeks to preclude Defendant “from arguing or introducing any
+
+ evidence, questioning, or testimony related to public authority or entrapment by estoppel.” (Mot.
+
+ (ECF No. 1148), PageID # 4437.) The Court GRANTS this Motion.
+
+        Defendant previously provided the requisite notice of intent to assert a public authority
+
+ defense. (See Notice (ECF No. 413), PageID #s 1300-01.) In both that Notice and his Response
+
+ (ECF No. 1175), Defendant proffers evidence regarding his alleged compliance with the MMMP.
+
+
+
+
+                                                   4
+Case 2:18-cr-00063-GZS Document 1225 Filed 10/04/22 Page 5 of 6                     PageID #: 5012
+
+
+
+
+ Specifically, he points to a January 2018 inspection conducted by two state compliance specialists
+
+ that purportedly established his compliance with the MMMP.
+
+          Critically, for purposes of the pending motion, Defendant has not proffered any evidence
+
+ suggesting that a federal official authorized his marijuana production, nor has he proffered any
+
+ evidence that state inspectors advised him that his marijuana production was in compliance with
+
+ federal law. Thus, under existing precedent, Defendant cannot establish an entrapment by estoppel
+
+ defense. See United States v. Sousa, 468 F.3d 42, 46 (1st Cir. 2006) (“A successful entrapment
+
+ by estoppel defense generally requires that the misleading statement come from an official
+
+ representing the sovereign bringing the prosecution, i.e., a federal official.”) Likewise, on the
+
+ proffered record, the Court finds no basis for allowing Defendant’s proffered evidence under the
+
+ guise that it might establish an affirmative public authority defense.
+
+          Even in the absence of proffering evidence that would support an affirmative defense,
+
+ Defendant argues that he should be permitted to present evidence related to his participation in the
+
+ MMMP as a “mistake-of-fact defense which may negate criminal intent.” (Response (ECF No.
+
+ 1175), PageID # 4504.) Beyond the January 2018 state inspection, Defendant lists eight additional
+
+ facts that he wishes to establish at trial, ranging from the existence of the MMMP and Bilodeau’s
+
+ status as a registered caregiver to his payment of taxes on his marijuana sales. (See id., PageID #
+
+ 4506.)
+
+          Under Rule 403, the Court hereby excludes evidence of the January 2018 inspection,
+
+ finding its probative value far outweighed by the risk that it will confuse and mislead the jury. As
+
+ to the other factual proffers in Defendant’s Response, the Court instructs counsel that they shall
+
+ not mention any of the listed assertions in their opening statements. Prior to seeking to introduce
+
+
+
+
+                                                  5
+Case 2:18-cr-00063-GZS Document 1225 Filed 10/04/22 Page 6 of 6                       PageID #: 5013
+
+
+
+
+ evidence of the MMMP or Bilodeau’s participation in the MMMP, Defense counsel shall seek a
+
+ sidebar in order to allow the Court to rule on the admissibility of the proffered evidence.
+
+
+
+ III.   Motion in Limine to Prevent References to Penalty (ECF No. 1149)
+
+        Lastly, the Government asks the Court to exclude “all argument and evidence relating to
+
+ the penalty Defendant[ ] face[s] if convicted.” (Mot. (ECF No. 1149), PageID # 4441.) Defendant
+
+ responds that he has “no plans to offer evidence of the penalties associated with the case” and “no
+
+ plans to argue to the jury the penalty he faces.” (Response (ECF No. 1176), PageID # 4511.)
+
+ Therefore, this Motion is GRANTED WITHOUT OBJECTION. To the extent Defendant seeks
+
+ to cross-examine certain witnesses by raising “penalties those witnesses have escaped” (id.),
+
+ Defense counsel shall alert the Court and Government outside the jury’s presence so that the Court
+
+ may resolve any objections to such line of inquiry.
+
+
+
+        All of these pretrial rulings are made WITHOUT PREJUDICE to counsel renewing their
+
+ objections or seeking further opportunities to proffer outside the presence of the jury.
+
+
+
+        SO ORDERED.
+
+                                                       /s/ George Z. Singal
+                                                       United States District Judge
+
+ Dated this 4th day of October, 2022.
+
+
+
+
+                                                  6
+

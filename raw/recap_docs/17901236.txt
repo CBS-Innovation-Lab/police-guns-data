@@ -1,0 +1,912 @@
+                         UNITED STATES DISTRICT COURT
+                              DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA               )
+                                       )
+      v.                               )      1:12-cr-00204-JAW
+                                       )
+JOHN THOMAS HINES                      )
+
+
+     ORDER ON DEFENDANT’S MOTION TO VACATE AND DISMISS
+
+      On April 19, 2013, a federal jury convicted Mr. Hines of possession of a
+
+firearm by a person convicted of a misdemeanor crime of domestic violence in
+
+violation of 18 U.S.C. § 922(g)(9). Mr. Hines challenges the Court’s subject matter
+
+jurisdiction over the crime on two grounds.            First, he argues that his
+
+“undifferentiated” state court conviction for misdemeanor domestic violence under
+
+17-A M.R.S. § 207-A(1)(A) does not satisfy the “use or attempted use of physical
+
+force” requirement of 18 U.S.C. § 921(a)(33)(A)(ii), which provides a definitional
+
+requirement for his conviction under § 922(g)(9). Second, he contends that his state
+
+court conviction also does not satisfy the requirements of § 921(a)(33)(A)(ii) because
+
+it could have been for merely reckless conduct, rather than knowing or intentional
+
+conduct. A violation of 18 U.S.C. § 922(g)(9) is an offense against the laws of the
+
+United States and therefore within the subject matter jurisdiction of this Court.
+
+Furthermore, the recent Supreme Court case of United States v. Castleman, 134 S.
+
+Ct. 1405 (2014), squarely forecloses Mr. Hines’s argument that Maine’s domestic
+
+violence statute does not require sufficient physical force to be a valid predicate
+
+offense to § 922(g)(9). However, recent First Circuit authority strongly suggests
+that reckless conduct does not amount to use of physical force under 18 U.S.C. §
+
+922(g)(9). The Court vacates Mr. Hines’ conviction and grants him a new trial but
+
+does not dismiss the indictment.
+
+I.    LEGAL STANDARD
+
+      Mr. Hines styles his challenges as being to the subject matter jurisdiction of
+
+the Court. “The district courts of the United States shall have original jurisdiction,
+
+exclusive of the courts of the States, of all offenses against the laws of the United
+
+States.” 18 U.S.C. § 3231.
+
+II.   FACTS
+
+      A.      Procedural History
+
+      On December 13, 2012, a federal grand jury indicted John Thomas Hines for
+
+possessing a firearm after having been convicted of a misdemeanor crime of
+
+domestic violence, an alleged violation of 18 U.S.C. § 922(g)(9). Indictment (ECF
+
+No. 1).    The indictment supplied the following details about the prior domestic
+
+assault conviction: “Domestic Violence Assault, 17-A M.R.S.A. § 207-A, Waldo
+
+County Superior Court (September 29, 2011)”. Id. at 1. After jury selection on
+
+April 16, 2013, the case went to trial before a federal jury on April 18-19, 2013 and
+
+on April 19, 2013, the jury issued a verdict, finding Mr. Hines guilty as charged.
+
+Jury Verdict Form (ECF No. 68). The Court has scheduled Mr. Hines’ sentencing
+
+hearing for May 19, 2014. Notice of Rescheduled Hr’g (ECF No. 111).
+
+      On February 17, 2014, Mr. Hines moved to vacate the conviction and dismiss
+
+the indictment. Def.’s Mot. to Vacate and Dismiss (ECF No. 96) (Def.’s First Mot.).
+
+The Government responded on March 12, 2014. Resp. of the United States to the
+
+
+                                             2
+Def.’s Mot. to Vacate and Dismiss the Indictment (ECF No. 101) (Gov’t’s First Opp’n).
+
+On April 2, 2014, the Government brought to the Court’s attention a recent decision
+
+of the United States Supreme Court, United States v. Castleman, 134 S. Ct. 1405
+
+(2014), that it believed might affect the Court’s ruling on the pending motion.
+
+Notice of Authority in Resp. to the Def.’s Mot. to Vacate and Dismiss the Indictment
+
+(ECF No. 105) (Gov’t’s Notice).
+
+       Meanwhile, on March 25, 2014, the Court received a pro se motion from Mr.
+
+Hines, which is styled a motion to vacate and dismiss. Def.’s Mot. to Vacate and
+
+Dismiss (ECF No. 102-3). As Mr. Hines is currently represented by counsel, the
+
+Court followed its standard practice and gave his lawyer an opportunity to review
+
+the motion and to adopt it if appropriate. Letter from Clerk of Courts to Wayne R.
+
+Foote, Esq. (March 25, 2014) (ECF No. 102). The Court has not heard from his
+
+defense counsel and assumes that he has not adopted the pro se motion.
+
+       Finally, on April 8, 2014, Mr. Hines filed a second motion to vacate and
+
+dismiss.   Def.’s Second Mot. to Vacate and Dismiss (ECF No. 109) (Def.’s Second
+
+Mot.). The Government replied in opposition on May 29, 2014, Resp. of the United
+
+States of America to the Def.’s Second Mot. to Vacate and Dismiss the Indictment
+
+(ECF No. 110) (Gov’t’s Second Opp’n), and Mr. Hines replied on May 5, 2014. Def.’s
+
+Reply to the Gov’t’s Resp. to Def.’s Second Mot. to Vacate and Dismiss (ECF No. 112)
+
+(Def.’s Reply).
+
+
+
+
+                                             3
+      B.      Factual Background
+
+              1.   The State Domestic Violence Assault Charge
+
+      On September 29, 2011, John Thomas Hines pleaded guilty in Waldo County
+
+Superior Court for the state of Maine to violating 17-A M.R.S. § 207-A(1)(A). Resp.
+
+of the United States to the Def.’s Mot. to Vacate and Dismiss the Indictment at Ex. 1
+
+J. and Commitment, at 3 (ECF No. 101) (State Conviction).         This state statute
+
+defines and criminalizes “domestic violence assault” where the victim “is a family or
+
+household member.”       Id. § 207-A(1)(A).       Section 207, in turn, criminalizes
+
+“intentionally, knowingly or recklessly caus[ing] bodily injury or offensive physical
+
+contact to another person.” 17-A M.R.S. § 207(1)(A). The state court documents
+
+underlying the State Conviction do not provide any details of the conduct
+
+underlying the offense, nor did such details emerge during the colloquy among the
+
+Court, counsel and Mr. Hines during his guilty plea to the state charge. See Def.’s
+
+Mot. to Vacate and Dismiss at Ex. 1 State of Maine v. John T. Hines, at 0002-0008
+
+(ECF No. 96).
+
+              2.   The Stipulation at Trial
+
+      As trial approached, Mr. Hines submitted a trial brief, explaining that he
+
+expected that the Government would “fail to meet its burden of proving that he
+
+possessed the firearms as alleged.” Def.’s Trial Br. at 1 (ECF No. 40). Significantly,
+
+Mr. Hines informed the Court that he and the Government would jointly stipulate
+
+as follows:
+
+      Mr. Hines was convicted of a misdemeanor crime of domestic violence
+      on September 29, 2011.
+
+
+
+
+                                              4
+Id. at 2. On April 15, 2013, Mr. Hines filed a set of proposed jury instructions,
+
+including:
+
+         The parties have stipulated that Mr. Hines is a person who is legally
+         disqualified by law from possessing a firearm/was convicted of a
+         misdemeanor crime of domestic violence. You are to take that fact as
+         proven.
+
+
+Def.’s Proposed Jury Instructions at 8 (ECF No. 54). Consistent with the parties’
+
+stipulation, the Court instructed the jury as follows:
+
+         For you to find Mr. Hines guilty of this crime, you must be satisfied
+         that the Government has proven each of the following elements beyond
+         a reasonable doubt:
+
+         First, that the Defendant was previously convicted in any court of a
+         misdemeanor crime of domestic violence. The parties have stipulated
+         that the Defendant was convicted of a misdemeanor crime of domestic
+         violence on September 29, 2011. You are to take that fact as proven.
+
+III.     POSITION OF THE PARTIES
+
+         A.    John Thomas Hines’ First Motion
+
+               1.    John Thomas Hines’ Position
+
+         Mr. Hines contends that this Court lacks subject matter jurisdiction over Mr.
+
+Hines.     Def.’s Mot. at 2.   This is so, he argues, because “Mr. Hines must have
+
+committed a Misdemeanor Crime of Domestic Violence as that term is defined at
+
+Title 18 USC § 921 (33).” Id. at 2-3. He points out that that section “requires that a
+
+predicate state conviction must have, as an element, the ‘use or attempted use of
+
+physical force’ to qualify as a Misdemeanor Crime of Domestic Violence.” Id. at 3.
+
+         Mr. Hines further argues that 17-A M.R.S. § 207-A cannot be a predicate
+
+offense for 18 U.S.C. § 922 because it permits conviction for either causing bodily
+
+injury or offensive physical contact.     Id.       He blankly asserts that “[a] person
+
+
+                                                5
+convicted of offensively touching another, without violence or the attempted use of
+
+violence, has not committed a federal misdemeanor crime of domestic violence.” Id.
+
+             2.     The Government’s Response
+
+      The Government argues that Mr. Hines’s motion goes not to the subject
+
+matter jurisdiction of the Court but to a claim of a defect in the indictment. Gov’t’s
+
+Opp’n at 2. In the Government’s view, Mr. Hines waived any such objection by
+
+failing to raise it before trial. Id. (citing FED. R. CRIM. P. 12(b)(3); United States v.
+
+DiGregorio, 605 F.2d 1184, 1193 n.10 (1st Cir. 1979); United States v. Mack, 892
+
+F.2d 134, 136 (1st Cir. 1989); and others).
+
+      The Government argues that Mr. Hines is really attacking the sufficiency of
+
+the proof of an element of the crime of which he was convicted. Id. at 3. It views
+
+this attack as missing the mark given Mr. Hines’s stipulation at trial that he had
+
+been convicted of a misdemeanor crime of domestic violence.             Id. at 4.   The
+
+Government insists that the Court must only consider the categorical definition of
+
+the underlying crime, not the actual facts underlying the offense. Id. It urges, in
+
+other words, that the Court should consider only the elements of Maine’s domestic
+
+violence statute. Id. Finally, the Government asserts that the First Circuit case of
+
+United States v. Booker, 644 F.3d 12 (1st Cir. 2011), held that Maine’s domestic
+
+violence assault statute is a valid predicate offense for the purposes of 18 U.S.C. §
+
+922(g)(9). Id. at 5-6 (citing Booker, 644 F.3d at 17, 21). The Government also cites
+
+United States v. Armstrong, 706 F.3d 1 (1st Cir. 2013) (Armstrong I), for further
+
+support of the same proposition. Id. at 6. Finally, the Government argues that the
+
+
+
+
+                                               6
+Supreme Court’s recent decision in United States v. Castleman supports its position.
+
+Gov’t’s Notice at 1-2.
+
+       B.     John Thomas Hines’ Second Motion
+
+              1.     John Thomas Hines’ Position
+
+       In his second motion, Mr. Hines presents a second ground for a new trial.
+
+Def.’s Second Mot. at 1-4.       He maintains that a mens rea of recklessness is
+
+insufficient to satisfy the requirements of the “use of force” under 18 U.S.C. §
+
+921(a)(33). Id. at 3 (citing Castleman, 134 S. Ct. at (2014)).
+
+              2.     The Government’s Response
+
+       The Government repeats its contention that Mr. Hines waived this argument
+
+by not raising it before trial. Gov’t’s Second Mot. at 2-4. It reiterates that the court
+
+should make a categorical analysis of Maine’s domestic violence assault statute
+
+rather than considering the facts of Mr. Hines’ actual crime. Id. at 4-6. Finally, the
+
+Government argues that Castleman supports a broader reading of “violence” when
+
+it “relates to domestic offenses.” Id. at 7.
+
+              3.     John Thomas Hines’ Reply
+
+       In reply, Mr. Hines cites the recent First Circuit case of United States v.
+
+Carter, No. 12-1499, 2014 U.S. App. LEXIS 8153 (1st Cir. 2014), for the proposition
+
+that “[t]he mere statutory reference to a conviction that might constitute a
+
+misdemeanor crime of domestic violence is an insufficient allegation to charge Mr.
+
+Hines committed a violation of any provision of Title 18, United States Code.” Def.’s
+
+Second Reply at 3 (emphasis in original). He argues that this Court should apply
+
+the “modified categorical approach” in its analysis of the Maine statute, considering
+
+
+
+                                               7
+“a limited category of sources to determine whether Mr. Hines’[] violation of § 207-A
+
+constituted a legitimate predicate offense.” Id. Since, he argues, those sources
+
+contain insufficient evidence of the facts underlying Mr. Hines’ conviction under
+
+section 207-A, the indictment “fail[s] to allege an offense under the laws of the
+
+United States. This failure is jurisdictional.” Id. at 3-4.
+
+      Finally, Mr. Hines asks the Court to excuse any waiver under Federal Rule of
+
+Criminal Procedure 12(b)(3) because his earlier failure to raise this issue was based
+
+on then-current First Circuit precedent. Id. at 4.
+
+IV.   DISCUSSION
+
+      A.     A Preliminary Question of Waiver
+
+      The indictment alleges that Mr. Hines,
+
+      who had been convicted of a misdemeanor crime of domestic violence,
+      to wit: Domestic Violence Assault, 17-A M.R.S.A. § 207-A, Waldo
+      County Superior Court (September 29, 2011), did knowingly possess in
+      and affecting interstate commerce [certain firearms] . . . [i]n violation
+      of Title 18, United States Code, Sections 922(g)(9) and 924(a)(2).
+
+Indictment at 1. In its opposition, the Government maintains that under Federal
+
+Rule of Criminal Procedure 12(e), Mr. Hines waived the right to assert that his
+
+underlying conviction does not satisfy the definition of misdemeanor crime of
+
+domestic violence because he failed to file a motion to dismiss the indictment under
+
+Federal Rule of Criminal Procedure 12(b)(3). Gov’t’s Opp’n at 2-3. Rule 12(b)(3)
+
+recognizes two types of defects in the indictment: (1) a defect in instituting the
+
+proceeding, FED. R. CRIM. P. 12(b)(3)(A), and (2) a defect that amounts to a failure of
+
+the indictment to properly invoke the court’s jurisdiction or state an offense. FED.
+
+R. CRIM. P. 12(b)(3)(B).   Under Rule 12(b)(3), a defendant may be held to have
+
+
+                                               8
+waived a defect in instituting the proceeding by failing to file the motion before
+
+trial, but a defendant does not waive a claim that the Court lacked jurisdiction or
+
+that the indictment failed to state an offense by failing to raise it before trial. See
+
+1A CHARLES ALAN WRIGHT & ANDREW D. LEIPOLD, FEDERAL PRACTICE                       AND
+
+
+PROCEDURE §§ 192-93 (4th ed. 2008 & Supp. 2014).             In fact, if the claim is
+
+jurisdictional or alleges a failure to state an offense, Rule 12(b)(3)(B) allows a court
+
+to consider the issue “at any time while the case is pending.” FED. RUL. CRIM. P.
+
+12(b)(3)(B).
+
+      The Court concludes that whether Mr. Hines’ prior misdemeanor is a
+
+predicate crime for purposes of 18 U.S.C. § 922(g)(9) is not a jurisdictional question.
+
+A violation of 18 U.S.C. § 922 is an “offense[] against the laws of the United States,”
+
+18 U.S.C. § 3231, and falls within the jurisdiction of the Court. United States v.
+
+Cotton, 535 U.S. 625 (2002) (stating that defects in the indictment, including the
+
+failure to properly allege an offense, do not affect “the courts’ statutory or
+
+constitutional power to adjudicate the case”). However, whether the sufficiency of
+
+Mr. Hines’ predicate conviction would raise a “failure to state an offense” under
+
+Rule 12(b)(3)(B) (not subject to waiver), or a “defect in instituting the prosecution”
+
+(subject to waiver), is unclear—because here, unlike other potential defects, the
+
+alleged defect is not apparent from the face of the indictment, and is an element the
+
+Government must prove at trial. Even though he may have been able to raise the
+
+issue before trial, the Court would not hold Mr. Hines to have waived the sufficiency
+
+of the Government’s proof of a predicate crime if he had made a strategic decision to
+
+
+
+
+                                              9
+wait until trial to claim that the Government failed to prove a necessary element of
+
+its case: namely, the sufficiency of the predicate crime.       The Court rejects the
+
+Government’s contention that Mr. Hines waived the sufficiency of his prior
+
+misdemeanor crime of domestic violence by failing to file a pretrial motion
+
+challenging the sufficiency of the indictment under Rule 12(b)(3).
+
+      B.     Timeliness of the Motion
+
+      Mr. Hines does not mention the rule under which his motion is proceeding.
+
+Def.’s First Mot. at 1-4; Def.’s Second Mot. at 1-4. The Court construes his motion as
+
+either or both a post-verdict challenge to the sufficiency of the evidence, FED. R.
+
+CRIM. P. 29(c), or a motion for a new trial.       FED. R. CRIM. P. 33(a). An initial
+
+problem with Mr. Hines’ motion, so construed, is that a motion for acquittal under
+
+Rule 29(c) must be made within fourteen days of the judgment; likewise, a motion
+
+for a new trial under Rule 33(b), on any ground other than newly discovered
+
+evidence, must be made within fourteen days of the verdict. The jury issued its
+
+guilty verdict on April 19, 2013; Mr. Hines filed his first post-conviction motion on
+
+February 17, 2014 and his second post-conviction motion on April 8, 2014, both far
+
+beyond the permissible fourteen day period, and there is no suggestion that either
+
+motion is based on newly discovered evidence. The failure to file a timely challenge
+
+to a jury verdict could constitute a waiver of the right to proceed with the challenge.
+
+      However, under Rule 45(b), “[w]hen an act must or may be done within a
+
+specified period, the court on its own may extend the time, or for good cause may do
+
+so on a party’s motion made: . . . (B) after the time expires if the party failed to act
+
+because of excusable neglect.” FED. R. CRIM. P. 45(b); see United States v. Maricle,
+
+
+                                              10
+No. 6: 09-16-S-DCR, 2010 U.S. Dist. LEXIS 105931, *6-7 (E.D. Ky. Oct. 4, 2010)
+
+(“[A] significant intervening change in the law is a valid reason for delay in filing
+
+the postverdict motions”).
+
+      Here, Mr. Hines’ untimeliness is likely related to the Supreme Court’s
+
+disposition of United States v. Castleman. The Supreme Court granted certiorari on
+
+October 1, 2013 on the adequacy of a conviction for a misdemeanor crime of
+
+domestic violence for purposes on 18 U.S.C. § 922(g)(9). 134 S. Ct. 49 (2013). The
+
+Supreme Court issued its opinion in Castleman on March 26, 2014 and, although
+
+Castleman did not assist Mr. Hines’ first motion, it included a footnote that
+
+significantly supported his second motion.          Castleman, 134 S. Ct. at 1414 n.8.
+
+Castleman’s clearer guidance on whether recklessness is sufficient to constitute a
+
+“use of physical force” under § 921(a)(33)(A) justified Mr. Hines’ delay in filing his
+
+second motion, and the Court concludes that he has demonstrated “excusable
+
+neglect” under Rule 45(a) to justify his late post-verdict filing.
+
+      C.     Waiver by Stipulation
+
+      Under Rule 29, the Court may vacate a conviction and enter a judgment of
+
+acquittal if “the evidence is insufficient to sustain a conviction.” FED. R. CRIM. P.
+
+29(a). Under Rule 33, the Court may grant a new trial “if the interest of justice so
+
+requires.” FED. R. CRIM. P. 33(a). Here, the “interest of justice” at stake is Mr.
+
+Hines’ allegation that he was convicted of being a prohibited person in possession of
+
+a firearm based on an invalid predicate offense—his guilty plea to domestic violence
+
+assault under the Maine statute. Likewise, the evidence used to convict Mr. Hines
+
+would be insufficient under Rule 29 if the Court were to (1) relieve Mr. Hines of his
+
+
+                                               11
+stipulation that he was a prohibited person by virtue of his domestic violence
+
+assault conviction, and (2) conclude that Maine’s domestic violence assault statute
+
+is not a valid predicate offense to 18 U.S.C. § 922(g)(9).
+
+      “Stipulations between parties are not ‘absolute,’ . . . and a party may be
+
+relieved of a stipulation for good cause-which means, in a nutshell, that good reason
+
+must exist and that relief must not unfairly prejudice the opposing party or the
+
+interests of justice.” Am. Honda Motor Co., Inc. v. Richard Lundgren, Inc., 314 F.3d
+
+17, 21 (1st Cir. 2002) (quoting T I Fed. Credit Union v. DelBonis, 72 F.3d 921, 928
+
+(1st Cir. 1995)). In other words, “[f]or good cause, the district court can relieve a
+
+defendant of such a waiver—just as it can relieve parties from a stipulation or
+
+refuse to honor a plea agreement’s waiver of the right to appeal when the waiver
+
+would effect a ‘miscarriage of justice.’” United States v. Newbert, 504 F.3d 180, 189
+
+(1st Cir. 2007). In this case, there would be good cause to relieve Mr. Hines of his
+
+stipulation if the stipulation were contrary to law; that is, if Mr. Hines’ state court
+
+conviction did not render him a prohibited person and he is therefore actually
+
+innocent of the federal crime of which he was convicted. In sum, the analysis under
+
+Rule 29, Rule 33, and Newbert boils down to the same question: whether domestic
+
+violence assault under 17-A M.R.S. § 207-A is a valid predicate offense to 18 U.S.C.
+
+§ 922(g)(9).
+
+      D.       First Circuit Law Before United States v. Castleman
+
+      Before Castleman, the First Circuit had previously considered and rejected
+
+the very same arguments that Mr. Hines is raising here. Armstrong I, 706 F.3d 1,
+
+vacated and remanded, No. 12-10209, 82 U.S.L.W. 3566 (Mar. 31, 2014); United
+
+
+                                              12
+States v. Booker, 644 F.3d 12 (1st Cir. 2011); United States v. Nason, 269 F.3d 10
+
+(1st Cir. 2001). As to his first argument—that “offensive touching” cannot be a “use
+
+of physical force”—Mr. Hines concedes as much. Def.’s Mot. at 1 n.1 (“Defendant is
+
+aware that current First Circuit precedent forecloses this argument”).
+
+      As to the second argument, before the Supreme Court issued Castleman on
+
+March 26, 2014, the First Circuit had concluded that a crime based on reckless
+
+conduct could satisfy the “use of physical force” requirement in § 921(a)(33)(A),
+
+ruling against the argument Mr. Hines has raised in his second motion. Booker,
+
+644 F.3d at 19-20.
+
+      E.     Castleman
+
+      After the parties briefed Mr. Hines’ first motion and the Court took it under
+
+advisement, the United States Supreme Court decided Castleman, 134 S. Ct. 1405.
+
+After Castleman, the Supreme Court also vacated the First Circuit’s decision in
+
+Armstrong and remanded the case to the Court of Appeals for reconsideration in
+
+light of Castleman. Armstrong v. United States, 82 U.S.L.W. 3566 (Mar. 31, 2014)
+
+(Armstrong II). The question is how Castleman affects the resolution of the issues
+
+Mr. Hines has raised.
+
+      In Castleman, the Supreme Court considered whether a defendant,
+
+previously convicted under a Tennessee domestic violence statute that forbade
+
+“intentionally or knowingly caus[ing] bodily injury to” a domestic partner, had
+
+committed a misdemeanor that included “the use . . . of physical force” for the
+
+
+
+
+                                            13
+purpose of 18 U.S.C. § 921(a)(33)(A).1              Castleman, 134 S. Ct. at 1409.               The
+
+defendant argued to the district court that the indictment was facially defective
+
+because the Tennessee statute did not “‘ha[ve], as an element, the use . . . of
+
+physical force.’” Id. at 1409 (quoting 18 U.S.C. § 922(a)(33)(A)(ii)) (alteration in
+
+original). The district court agreed, holding that the Tennessee statute was not a
+
+valid predicate “because one can cause bodily injury without violent contact—for
+
+example, by deceiving the victim into drinking a poisoned beverage.” Id. (internal
+
+quotations and alterations omitted). A divided panel of the Sixth Circuit affirmed,
+
+reasoning that § 921(a)(33)(A) requires “violent force,” and that “Castleman could
+
+have been convicted for ‘caus[ing] a slight, nonserious physical injury with conduct
+
+that cannot be described as violent.’”            Id. at 1409-10 (quoting United States v.
+
+Castleman, 695 F.3d 582, 590 (6th Cir. 2012)).
+
+        The Supreme Court reversed both the Court of Appeals and the district court.
+
+The Castleman Court observed that “at common law, the element of force in the
+
+crime of battery was ‘satisfied by even the slightest offensive touching.’” Id. at 1410
+
+(quoting Johnson v. United States, 559 U.S. 133, 139 (2010)). The Supreme Court
+
+1       Title 18 U.S.C. § 921(a)(33)(A) defines “misdemeanor crime of domestic violence” for the
+purpose of § 922(g)(9). Under this definition, a “misdemeanor crime of domestic violence” is an
+offense that
+
+        (i) is a misdemeanor under Federal, State, or Tribal law; and
+
+        (ii) has, as an element, the use or attempted use of physical force, or the threatened
+        use of a deadly weapon, committed by a current or former spouse, parent, or
+        guardian of the victim, by a person with whom the victim shares a child in common,
+        by a person who is cohabiting with or has cohabited with the victim as a spouse,
+        parent, or guardian, or by a person similarly situated to a spouse, parent, or
+        guardian of the victim
+
+Id. § 921(a)(33)(A).
+
+
+
+
+                                                     14
+further reasoned that “‘a common-law term of art should be given its established
+
+common-law meaning,’ except ‘where that meaning does not fit.’”          Id. (quoting
+
+Johnson, 559 U.S. at 139). After detailed analysis, the Court expressly held that
+
+“the requirement of ‘physical force’ is satisfied, for purposes of § 922(g)(9), by the
+
+degree of force that supports a common-law battery conviction,” which the Court
+
+had previously described as being “satisfied by the slightest offensive touching.” Id.
+
+at 1410, 1413.   The Castleman Court doomed Mr. Hines’ first motion.
+
+      The Castleman Court next analyzed Tennessee’s statute under which the
+
+defendant was convicted to determine “whether that conviction necessarily ‘ha[d],
+
+as an element, the use or attempted use of physical force, or the threatened use of a
+
+deadly weapon.’” Id. at 1413 (quoting 18 U.S.C. § 921(a)(33)(A)). The Court first
+
+applied the “categorical approach” defined in Taylor v. United States, 495 U.S. 575
+
+(1990). Id. The Tennessee statute criminalized three sets of behavior together:
+
+causing bodily injury, causing physical contact, and causing “another to reasonably
+
+fear imminent bodily injury.” Id. The Castleman Court observed that “not . . .
+
+every type of assault defined by [the statute] necessarily involves ‘the use or
+
+attempted use of physical force, or the threatened use of a deadly weapon.’” Id.
+
+(quoting 18 U.S.C. § 921(a)(33)(A)). However, both parties had agreed that the
+
+Tennessee statute was “divisible” under Descamps v. United States, 570 U.S.__, 133
+
+S. Ct. 2276 (2013), allowing the Court to use the “modified categorical approach”
+
+and to examine the indictment to which Castleman pleaded guilty to determine
+
+whether his crime involved the use of force. Id. at 437-38. Because he pleaded
+
+
+
+
+                                             15
+guilty to “intentionally or knowingly caus[ing] bodily injury” to a domestic partner,
+
+the Court concluded that the conviction “qualifies as a ‘misdemeanor crime of
+
+domestic violence.’” Id. at 1415.
+
+      Significantly, however, the Castleman Court footnoted an important
+
+discussion about whether a state domestic assault statute, which criminalized
+
+reckless conduct, would meet the “use of physical force” standard under §
+
+921(a)(33)(A):
+
+      We held in Leocal [v. Ashcroft, 543 U.S. 1 (2004)] that “‘use’ requires
+      active employment,” rather “than negligent or merely accidental
+      conduct.” 543 U.S. at 9. Although Leocal reserved the question
+      whether reckless application of force could constitute a “use” of force,
+      id. at 13, the Courts of Appeals have almost uniformly held that
+      recklessness is not sufficient. [Citations followed to cases from ten
+      circuit courts of appeal.] But see United States v. Booker, 644 F.3d 12,
+      19-20 (C.A.1 2011) (noting that the First Circuit had not resolved the
+      recklessness issue under Leocal, but declining to extend Leocal’s
+      analysis to § 922(g)(9)).
+
+Castleman, 134 S. Ct. at 1414 n.8. This footnote, which cited ten circuit courts as
+
+concluding that reckless conduct did not constitute “use of physical force,” strongly
+
+hinted that the First Circuit’s Booker decision was an outlier.
+
+      F.     The Supreme Court and the First Circuit After Castleman
+
+      Tagging along behind Castleman were two cases: Carter, 2014 U.S. App.
+
+LEXIS 8153, and Armstrong I, 706 F.3d 1.           The First Circuit had ruled in
+
+Armstrong that a violation of the Maine domestic assault statute, which
+
+criminalizes “intentionally, knowingly or recklessly caus[ing] bodily injury or
+
+offensive physical contact,” 17-A M.R.S. § 207-A(1)(A), could be a predicate offense
+
+for § 922(g)(9). The defendant in Armstrong filed for a writ of certiorari and, after
+
+
+
+                                             16
+Castleman, the Supreme Court vacated the Armstrong I judgment and remanded
+
+the case to the First Circuit “for further consideration in light of United States v.
+
+Castleman.” Armstrong II, 82 U.S.L.W. 3566. Reading Supreme Court tea leaves is
+
+chancy, but the First Circuit decision in Armstrong I was consistent with Castleman
+
+except for the Circuit Court’s brief recklessness analysis. It is a short logical step to
+
+conclude that the reason the Supreme Court vacated the First Circuit decision in
+
+Armstrong I was to pull the First Circuit in line with the other ten circuit courts in
+
+the recklessness analysis.
+
+      With Armstrong II coming back down from the Supreme Court, another case
+
+that involved the same issue, United States v. Carter, was coming up from the
+
+district court. On April 30, 2014, the First Circuit issued an opinion in Carter and
+
+quickly expressed serious doubt in the viability of Booker’s holding that merely
+
+reckless conduct can be a “use of physical force.” Carter, 2014 U.S. App. LEXIS
+
+8153, at *26-28.
+
+      The Supreme Court’s statements in Castleman—that “the merely
+      reckless causation of bodily injury ... may not be a ‘use’ of force,” . . .
+      and that “the Courts of Appeals have almost uniformly held that
+      recklessness is not sufficient” to “constitute a ‘use’ of force,” . . . —
+      provide a “‘sound reason’” for thinking that the Booker panel might
+      well “‘change its collective mind’” in light of Castleman.
+
+Id. at *28 n.11 (quoting Castleman, 134 S. Ct. at 1414 & n.8 and United States v.
+
+Rodriguez-Pacheco, 475 F.3d 434, 442 (1st Cir. 2007)). However, the Carter Court
+
+declined to expressly overrule Booker; instead, the Circuit Court remanded the case
+
+to the district court to attempt to make findings of fact on the particulars of the
+
+crime underlying the defendant’s guilty plea using “Shepard documents.” Id. at *34
+
+
+
+                                              17
+(citing Shepard v. United States, 544 U.S. 13, 26 (2005) and Taylor v. United States,
+
+495 U.S. 575, 602 (1990)).
+
+      This Court takes its lead from Carter. First, based on Castleman, Armstrong
+
+and Carter, the Court concludes that it is so questionable whether a conviction for
+
+domestic assault under 17-A M.R.S. § 207-A(1)(A)—without more—may operate as
+
+predicate conviction under § 922(g)(9), that this Court must grant Mr. Hines a new
+
+trial. Next, the First Circuit in Carter has held that the Maine domestic assault
+
+statute, 17-A M.R.S. § 207-A(1)(A), is a divisible statute. Carter, 2014 U.S. App.
+
+LEXIS 8153, at *25 (“Therefore, the Maine statute is divisible”). This means that
+
+the Court must employ the “modified categorical approach” described in Shepard
+
+and Taylor. Id. (“[W]e may accordingly apply the modified categorical approach”).
+
+The First Circuit remanded the Carter case to the district court to determine
+
+whether, using the modified categorical approach, the defendant’s conviction should
+
+be deemed a § 922(g)(9) predicate. Id. at *30-34. Thus, like the First Circuit in
+
+Carter, this Court will allow the Government to determine whether it wishes to
+
+proceed with the prosecution of this offense, based on whatever Shepard documents
+
+it is able to gather from the state proceedings.
+
+      Here, the parties placed some Shepard documents before the Court in the
+
+pending motions; however, the memoranda were filed before the First Circuit issued
+
+Carter. To give the Government a fair opportunity to decide whether to proceed
+
+forward, the Court will grant the motion for a new trial but not the motion to
+
+dismiss the indictment. Nevertheless, as this prosecution has been pending since
+
+
+
+
+                                              18
+December 13, 2012, and as Mr. Hines is currently incarcerated, the Court is
+
+sensitive to the impact of this ongoing charge on Mr. Hines.2 The Court will set this
+
+case for a conference of counsel within the next two weeks at which time the Court
+
+will expect the Government to inform the Court whether it wishes to proceed with
+
+the prosecution and, if so, will expect the parties to propose a course of action for the
+
+final disposition of the charge.3
+
+       G.     The Pro Se Motion to Vacate and Dismiss
+
+       When a defendant is represented by counsel, the Court does not typically rule
+
+on pro se motions unless counsel adopts them.               Here, Attorney Foote has not
+
+indicated that he adopts Mr. Hines’ Motion to Vacate and Dismiss. At any rate, the
+
+pro se motion is moot in light of the Court’s disposition of Attorney Foote’s motion.
+
+V.     CONCLUSION
+
+       The Court GRANTS IN PART the Defendant’s Motion to Vacate and Dismiss
+
+(ECF Nos. 96, 109), VACATES John Thomas Hines’ conviction (ECF No. 68), and
+
+GRANTS his Motion for New Trial (ECF No. 96).
+
+       SO ORDERED.
+
+
+
+                                           /s/ John A. Woodcock, Jr.
+                                           JOHN A. WOODCOCK, JR.
+                                           CHIEF UNITED STATES DISTRICT JUDGE
+
+Dated this 9th day of May, 2014
+
+2      Mr. Hines voluntarily surrendered his bail on July 17, 2013. Order and Waiver of Hr’g (ECF
+No. 76). In light of this Order, the Court urges counsel to consult with each other and discuss
+whether he should continue to be incarcerated.
+3      Mr. Hines’ case is scheduled for sentencing on May 19, 2014. In light of this opinion, the
+Court continues the sentencing hearing.
+
+
+
+
+                                                  19
+

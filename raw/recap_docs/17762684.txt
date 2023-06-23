@@ -1,0 +1,574 @@
+Case 1:11-cr-00019-ML-PAS Document 37 Filed 06/04/13 Page 1 of 11 PageID #: 155
+
+
+
+                        UNITED STATES DISTRICT COURT
+
+                    FOR THE DISTRICT OF RHODE ISLAND
+
+
+
+UNITED STATES
+
+      v.                                               CR. No. 11-019-01-ML
+
+SAMOL MOM
+
+
+
+                            MEMORANDUM AND ORDER
+
+      Petitioner Samol Mom (“Mom”), proceeding pro se, has filed a
+
+timely motion      to   vacate, set    aside,    or   correct   his   sentence
+
+pursuant to 28 U.S.C. § 2255.         For the reasons stated below, the
+
+motion is denied.
+
+      I.   Background and Travel
+
+      On March 30, 2011, Mom pleaded guilty to possessing a firearm
+
+after having been convicted of a felony, in violation of 18 U.S.C.
+
+§922(g)(1). According to the prosecution’s version of events, Mom
+
+was arrested in September 2010 by police officers responding to a
+
+report of shots fired in a Providence neighborhood. Upon arriving
+
+at the scene, the officers received witness information regarding
+
+a   gray   Lexis   automobile    leaving   the   area.   The    witness   also
+
+described the driver of the Lexis and his passenger and was able to
+
+provide the Rhode Island registration of the car.
+
+      The officers proceeded to the address at which the car was
+
+registered and observed the Lexis parked behind the house located
+
+
+                                      1
+Case 1:11-cr-00019-ML-PAS Document 37 Filed 06/04/13 Page 2 of 11 PageID #: 156
+
+
+
+at that address. The officers observed two individuals hunched
+
+forward inside the car and it appeared that the men were retrieving
+
+or placing something beneath the seats. As one of the officers
+
+removed the driver from the Lexis, he noticed the handle of a
+
+handgun protruding from beneath the driver’s seat. The driver was
+
+identified as Mom. A search of the Lexis revealed a loaded semi-
+
+automatic handgun under the driver’s seat.1 The firearm was test
+
+fired and was found to be operable; it was also identified as a
+
+stolen    weapon.2   Mom   was   determined    to   have   been   previously
+
+convicted of several felony offenses.
+
+      In March 2011, Mom - who was represented throughout the
+
+subsequent criminal proceedings by counsel appointed for him -
+
+entered into a plea agreement with the government, pursuant to
+
+which he agreed to plead guilty to being a felon in possession of
+
+a firearm, in violation of 18 U.S.C. §922(g)(1). During the course
+
+of a change of plea hearing on March 30, 2011, Mom pleaded guilty
+
+to the charged offense and agreed to the factual presentation of
+
+the evidence by the government. On June 16, 2011, Mom was sentenced
+
+to 63 months of incarceration and a term of 36 months of supervised
+
+release. Mom’s sentence was based on a criminal history category VI
+
+
+      1
+
+     The passenger was identified as Elliott Marzette; a loaded
+semi-automatic pistol was found under the passenger seat.
+      2
+
+     Mom disputed that the firearm was stolen and did not admit to
+this allegation in his plea colloquy.
+
+                                      2
+Case 1:11-cr-00019-ML-PAS Document 37 Filed 06/04/13 Page 3 of 11 PageID #: 157
+
+
+
+and a total offense level of 19 (a base offense level 20, increased
+
+by 2 levels because the firearm was stolen, decreased by a 3 level
+
+adjustment    for   acceptance    of   responsibility),    resulting    in   a
+
+sentencing guideline range of 63 to 78 months.
+
+      In accordance with his plea agreement, because the sentence
+
+imposed by the Court was within the guideline range determined by
+
+the Court, Mom did not file a direct appeal of his conviction and
+
+sentence. Instead, Mom filed a collateral appeal pursuant to 28
+
+U.S.C. §2255, in which he asserts that his three prior felony drug
+
+convictions - which qualified him as a felon, and on which his
+
+criminal history category was calculated - had been amended to
+
+misdemeanors. (Docket # 25). In addition, Mom filed a motion
+
+requesting a Rule 11 hearing3 and for the sentencing transcripts
+
+(Docket # 26). Mom opposed the government’s request (Docket # 29)
+
+for additional time to respond to Mom’s §2255 motion and to obtain
+
+certified copies of the judgments of conviction at issue. (Docket
+
+# 30). After the government filed a response in opposition to Mom’s
+
+§2255 motion (Docket # 31), Mom filed a motion to amend his §2255
+
+
+      3
+
+     No hearing is required in this matter because the files of
+this case conclusively establish that the claims in Mom’s §2255
+motion are without merit. David v. United States, 134 F.3d 470,
+477-478 (1st Cir.1998)(“Even if a hearing is requested, a district
+court properly may forgo it when (1) the motion is inadequate on
+its face, or (2) the movant's allegations, even if true, do not
+entitle him to relief, or (3) the movant's allegations ‘need not be
+accepted as true because they state conclusions instead of facts,
+contradict the record, or are ‘inherently incredible.’”)(quoting
+United States v. McGill, 11 F.3d 223, 225-226 (1st Cir.1993)).
+
+                                       3
+Case 1:11-cr-00019-ML-PAS Document 37 Filed 06/04/13 Page 4 of 11 PageID #: 158
+
+
+
+motion by adding a memorandum thereto. (Docket # 32). In this
+
+additional filing, Mom suggested, inter alia, that he received
+
+ineffective assistance of counsel because his counsel failed to
+
+assert that (1) this Court had no jurisdiction over the case
+
+because charges for the same criminal conduct were pending in state
+
+court;    (2)   the    “government      did    not    have   ...   legislative
+
+jurisdiction over the location where the alleged events giving rise
+
+to the offense transpired”; (3) a defendant who serves less than
+
+one year on a conviction is not considered a felon; (4) the search
+
+and seizure of Mom occurred in violation of the Fourth Amendment of
+
+the Constitution; and (5) Mom’s counsel failed to conduct any pre-
+
+trial investigation and/or discovery. Thereafter, Mom filed a
+
+motion requesting the “right to reply at a later date in lieu of
+
+his recently filed amendment.” (Docket # 33). Finally, Mom filed a
+
+motion requesting that the Court take judicial notice of that fact
+
+that   Mom   has   taken   steps   to       vacate   his   prior   state   court
+
+convictions. (Docket # 34).
+
+       II. Standard of Review
+
+       Pursuant to Section 2255, a prisoner may move to vacate, set
+
+aside or correct his sentence “upon the ground that the sentence
+
+was imposed in violation of the Constitution or laws of the United
+
+States, or that the court was without jurisdiction to impose such
+
+sentence, or that the sentence was in excess of the maximum
+
+authorized by law, or is otherwise subject to collateral attack .
+
+
+                                        4
+Case 1:11-cr-00019-ML-PAS Document 37 Filed 06/04/13 Page 5 of 11 PageID #: 159
+
+
+
+. .”   28 U.S.C. § 2255(a).       Relief under Section 2255 is available
+
+to the petitioner only if the Court finds a lack of jurisdiction,
+
+constitutional error, or a fundamental error of law.                     See United
+
+States v. Addonizio, 442 U.S. 178, 184-84, 99 S.Ct. 2253, 60
+
+L.Ed.2d 805    (1979) (holding that “an error of law does not provide
+
+a   basis   for   a   collateral      attack    unless     the    claimed      error
+
+constituted a ‘fundamental defect which inherently results in a
+
+complete miscarriage of justice.’”)(quoting Hill v. United States,
+
+368 U.S. 424, 428, 82 S.Ct. 468, 471, 7 L.Ed.2d 417 (1962)).
+
+       A fundamental error of law is a defect “‘which inherently
+
+results in a complete miscarriage of justice’ or ‘an omission
+
+inconsistent with the rudimentary demands of fair procedure.’”
+
+Knight v. United States, 37 F.3d 769, 772 (1st Cir.1994) (quoting
+
+Hill   v.   United    States,   368     U.S.   at   428,   82    S.Ct.    at   471).
+
+Sentencing error claims are generally not cognizable in a §2255
+
+proceeding, absent “exceptional circumstances.” Knight, 37 F.3d at
+
+773–74.
+
+       III. Mom’s §2255 Motion
+
+       In his §2255 motion, Mom asserts four grounds for his request
+
+to vacate, set aside, or correct his sentence. Mom’s Mot. Page 4 of
+
+6 (Docket # 25). First, Mom states that his guilty plea was not
+
+made   knowingly,     willingly    or    intelligently.         Id.   Second,    Mom
+
+contends that he was provided with ineffective assistance of
+
+counsel who, Mom alleges, provided him with misadvice. Id. Third,
+
+
+                                         5
+Case 1:11-cr-00019-ML-PAS Document 37 Filed 06/04/13 Page 6 of 11 PageID #: 160
+
+
+
+Mom states that his waiver of the right to pursue a direct appeal
+
+was not knowingly, willingly and intelligently made, because he was
+
+given incorrect and inaccurate information by his counsel and the
+
+prosecution. Id. Finally, Mom suggests that his sentence was
+
+illegally        imposed    on   him    and       that   this    Court    was   without
+
+jurisdiction to impose a sentence of 63 months on him. Id. at Page
+
+5 of 6.
+
+       Although Mom challenges his conviction and sentence on four
+
+different grounds, the gravamen of his arguments with respect to
+
+each of those grounds is directed at Mom’s disagreement with the
+
+calculation of his criminal history. Specifically, Mom maintains
+
+that his three prior drug convictions in Rhode Island state court
+
+were       for   misdemeanor     possession         to   which    he     pleaded   nolo
+
+contendere. Id. at Pages 4-5 of 6. Thus, Mom argues that (1) he did
+
+not have the qualifying offenses to be adjudged a felon, precluding
+
+his conviction of being a felon in possession of a firearm, and (2)
+
+the state convictions could not be used to compute his significant
+
+criminal history category.
+
+       In response, the government submitted documentation - which
+
+have not been challenged by Mom - related to the three convictions4
+
+that       served   to     qualify     Mom    as    a    felon   and     that   weighed
+
+
+
+       4
+
+     The Court notes that Mom had an extensive criminal history
+which included numerous convictions for a variety of offenses in
+addition to the three felonies at issue.
+
+                                              6
+Case 1:11-cr-00019-ML-PAS Document 37 Filed 06/04/13 Page 7 of 11 PageID #: 161
+
+
+
+significantly in calculating Mom’s criminal history category:
+
+        (1) In 2004, Mom pleaded nolo contendere in Rhode Island
+
+state court to manufacture, delivery and possession of a Schedule
+
+I/II controlled substance, and to possession of marijuana. Mom was
+
+sentenced to six years’ imprisonment, with three months to serve
+
+and 69 months suspended with 69 months’ probation for the former,
+
+and one year suspended with one year probation for the latter.
+
+Judgment of Conviction and Commitment (Docket # 31-1 at Pages 1-2
+
+of 4) and Request to enter plea of nolo contendere or guilty. Id.
+
+at Page 4 of 4. In 2008, Mom admitted to having violated the terms
+
+of his probation, for which the suspension was removed and Mom was
+
+sentenced to 69 months’ imprisonment, six months to serve, 63
+
+months suspended with 63 months’ probation. Judgment of Conviction
+
+and Commitment. Id. at Page 3 of 4.
+
+      (2) In 2008, Mom pleaded nolo contendere in Rhode Island state
+
+court to possession of a Schedule I-V controlled substance, for
+
+which he was sentenced to 36 months’ imprisonment, six months to
+
+serve, 30 months suspended with 36 months’ probation. Judgment of
+
+Conviction and Commitment (Docket # 31-2, Pages 1-2 of 3), request
+
+to enter plea of nolo contendere or guilty. Id. at Page 3 of 3.
+
+      (3) In 2009, Mom pleaded nolo contendere in Rhode Island state
+
+court to possession of a Schedule I-V controlled substance, for
+
+which he was sentenced to six years’ imprisonment, nine months to
+
+serve, 63 months suspended with 63 months’ probation. Judgment of
+
+
+                                      7
+Case 1:11-cr-00019-ML-PAS Document 37 Filed 06/04/13 Page 8 of 11 PageID #: 162
+
+
+
+Conviction and Commitment (Docket # 31-2, Pages 1,2 of 3), Request
+
+to enter plea of nolo contendere or guilty. Id. at Page 3 of 3.
+
+      In his §2255 motion, Mom appears to challenge his status as a
+
+felon    because     (1)   he   pleaded        nolo   contendere   to   the   three
+
+convictions at issue, and (2) he served less than one year on each
+
+of those convictions. Neither of those arguments carry any weight.
+
+      First, pursuant to the United States Sentencing Guidelines, a
+
+prior sentence constitutes a predicate conviction for purposes of
+
+computing a defendants’ criminal history if the sentence was
+
+previously imposed upon adjudication of guilt “whether by guilty
+
+plea, trial, or plea of nolo contendere, for conduct not part of
+
+the instant offense.” 2011 U.S.S.G. §4A1.2(a)(1) (emphasis in
+
+original); United States v. Cadavid, 192 F.3d 230, 238-239 (1st
+
+Cir. 1999). This determination is consistent with § 12-18-3 of the
+
+Rhode Island General Laws, which provides that a plea of nolo
+
+contendere of “any person who is sentenced to serve a term in the
+
+adult correctional institutions or who is given a suspended or
+
+deferred sentence in addition to probation,” is considered a
+
+conviction. R.I. Gen. Laws § 12-18-3(b)(1982); United States v.
+
+Patrone, 948 F.2d 813, 817 (1st Cir. 1991)(concluding that “a nolo
+
+contendere    plea    followed    by   a       sentence   of imprisonment     or a
+
+suspended sentence constitutes a conviction.”).
+
+      Second, for the purpose of computing a defendant’s criminal
+
+history, a “felony” is defined as “any federal, state, or local
+
+
+                                           8
+Case 1:11-cr-00019-ML-PAS Document 37 Filed 06/04/13 Page 9 of 11 PageID #: 163
+
+
+
+offense punishable by death or a term of imprisonment exceeding one
+
+year, regardless of the actual sentence imposed.” 2011 U.S.S.G.
+
+§4A1.2(o)(emphasis added); United States v. Almenas, 553 F.3d 27
+
+(1st Cir. 2009)(rejecting defendant’s argument that offense - which
+
+carried a punishment of up to two and one-half years’ incarceration
+
+- did not qualify as a felony because it was categorized as a
+
+misdemeanor under state law and where the defendant was only
+
+required to pay a fine).
+
+      Under Rhode Island law, “any criminal offense which at any
+
+given time may be punished by imprisonment for a term of more than
+
+one year, or by a fine of more than one thousand dollars ($1,000),
+
+is   declared     to    be    a     felony;...”      R.I.    Gen.   Laws    §   11-1-2
+
+(1985)(emphasis added). Accordingly, an offense which is punishable
+
+by more than one year of imprisonment constitutes a predicate
+
+felony    offense      for    the   purpose     of   calculating      a    defendant’s
+
+sentence, regardless whether a part or all of the sentence has been
+
+suspended.      State    v.    Burke,     811     A.2d      1158,   1168-1169    (R.I.
+
+2002)(noting the United States Supreme Court’s conclusion that
+
+“‘[a] suspended sentence is a prison term imposed for the offense
+
+of conviction. Once the prison term is triggered [by a probation
+
+violation], the defendant is incarcerated not for the probation
+
+violation, but for the underlying offense.’” (quoting Alabama v.
+
+Shelton, 535 U.S. 654, 654, 122 S.Ct. 1764, 1770, 152 L.Ed.2d 888,
+
+898 (2002)).
+
+
+                                           9
+Case 1:11-cr-00019-ML-PAS Document 37 Filed 06/04/13 Page 10 of 11 PageID #: 164
+
+
+
+       In sum, it is undisputable that Mom was previously convicted
+
+ in Rhode Island state court for three separate offenses for which
+
+ sentences of incarceration of more than one year could be imposed.
+
+ Neither the fact that Mom pleaded nolo contendere to those offenses
+
+ nor that he was required to serve less than one year on each
+
+ offense     with     the    remainders       suspended,        change         the    felony
+
+ categorization of those offenses. As such, each of those three
+
+ convictions    could       serve    to   qualify    Mom       as   a    felon       who   was
+
+ prohibited from possessing firearms and all three convictions were
+
+ appropriately included in the computation of Mom’s criminal history
+
+ category.
+
+       With respect to the additional arguments that Mom has raised
+
+ in   his   amended    §2255       petition    (Docket     #    32),     the    Court      has
+
+ considered those arguments and finds them to be without merit.
+
+       V.    Conclusion
+
+       For all of the foregoing reasons, Mom’s motion to vacate, set
+
+ aside, or correct his sentence is DENIED and DISMISSED.
+
+                    Ruling on Certificate of Appealability
+
+       Pursuant      to     Rule    11(a)     of   the   Rules          Governing      §2255
+
+ Proceedings for the United States District Courts, this Court
+
+ hereby finds that this case is not appropriate for the issuance of
+
+ a certificate of appealability because Mom has failed to make “a
+
+ substantial showing of the denial of a constitutional right” as to
+
+ any claim, as required by 28 U.S.C. § 2253(c)(2).
+
+
+                                            10
+Case 1:11-cr-00019-ML-PAS Document 37 Filed 06/04/13 Page 11 of 11 PageID #: 165
+
+
+
+       Mom is advised that any motion to reconsider this ruling will
+
+ not extend the time to file a notice of appeal in this matter.           See
+
+ Rules Governing § 2255 Cases, Rule 11(a).
+
+
+
+ SO ORDERED.
+
+
+
+ /s/ Mary M. Lisi
+
+ Mary M. Lisi
+
+ Chief United States District Judge
+
+
+
+ June 4, 2013
+
+
+
+
+                                      11
+

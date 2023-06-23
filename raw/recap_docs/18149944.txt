@@ -1,0 +1,509 @@
+  Case 1:03-cr-00051-S Document 33 Filed 11/02/16 Page 1 of 10 PageID #: 81
+
+
+
+                   UNITED STATES DISTRICT COURT
+                     DISTRICT OF RHODE ISLAND
+___________________________________
+                                    )
+UNITED STATES OF AMERICA            )
+                                    )
+     v.                             )    Cr. No. 03-51 S
+                                    )
+JOHN COLLINS,                       )
+                                    )
+          Defendant.                )
+__________________________________ )
+
+                                OPINION AND ORDER
+
+WILLIAM E. SMITH, Chief Judge.
+
+        Before   the    Court    is    Defendant       John    Collins’s     motion    to
+
+vacate,    set   aside,    or     correct       his    sentence,     pursuant     to   28
+
+U.S.C. § 2255. (See Def.’s Mot. to Vacate Sentence under § 2255
+
+(Armed Career Criminal Act) (“Def.’s Mot. to Vacate”), ECF No.
+
+29.)     His motion was filed in the wake of the Supreme Court’s
+
+decision in Johnson v. United States (Johnson II), 135 S. Ct.
+
+2551, 2557 (2015), which invalidated the residual clause of the
+
+Armed     Career       Criminal        Act     (“ACCA”),       see      18   U.S.C.     §
+
+924(e)(2)(B)(ii), for being unconstitutionally vague.                          Defendant
+
+argues that, after Johnson II, he no longer has three qualifying
+
+predicate    convictions        under        ACCA,    and   thus   he   is   serving    a
+
+sentence    longer     than     that    allowed       by    law.     (Def.’s    Mot.   to
+
+Vacate 1-2.)       The Government opposes Defendant’s motion, arguing
+
+that his three prior convictions remain ACCA-qualifiers under
+
+the force clause, which defines a violent felony as one that
+  Case 1:03-cr-00051-S Document 33 Filed 11/02/16 Page 2 of 10 PageID #: 82
+
+
+
+“has as an element the use, attempted use, or threatened use of
+
+physical force against the person of another.”                    18 U.S.C. §
+
+924(e)(2)(B)(i).
+
+     For the reasons stated below, the Court holds that assault
+
+by an inmate, in violation of R.I. Gen. Laws § 11-25-2, is not a
+
+violent   felony     under   ACCA’s      force   clause.    The    Court   will
+
+schedule a hearing on Defendant’s motion and re-sentencing.
+
+     I.     Background
+
+     On August 11, 2003, Collins pleaded guilty to being a felon
+
+in possession of a firearm, in violation of 18 U.S.C. § 922(g)
+
+(Count I), and possession of an unregistered sawed-off shot gun,
+
+in violation of 26 U.S.C. §§ 5841, 5861(d), and 5871 (Count II).
+
+Probation prepared a presentence investigation report (“PSR”),
+
+which concluded that Collins was an armed career criminal under
+
+ACCA with three prior convictions for ACCA-qualifying predicate
+
+offenses.     (See    PSR    ¶   22.)     Specifically,    Collins   had   been
+
+convicted of (1) second degree murder, in violation of R.I. Gen.
+
+Laws § 11-23-1; (2) assault by an inmate, in violation of R.I.
+
+Gen. Laws § 11-25-2; and (3) assault on a correctional officer,
+
+in violation of R.I. Gen. Laws § 11-5-8.            (See id.)
+
+     On October 31, 2003, this Court sentenced Collins to 210
+
+months of incarceration on Count I and 120 months on Count II,
+
+to be served concurrently.              (Judgment 1-2, ECF No. 25.)        ACCA
+
+provides for a sentence of at least 180 months but not more than
+
+                                          2
+  Case 1:03-cr-00051-S Document 33 Filed 11/02/16 Page 3 of 10 PageID #: 83
+
+
+
+life imprisonment for possessing a firearm or ammunition when a
+
+person      has    three    prior     convictions        by    any   court    for    violent
+
+felonies or serious drug offenses or a combination of both.                              See
+
+18 U.S.C. § 924(e).               In the absence of an ACCA designation, a
+
+conviction for being a felon in possession of a firearm carries
+
+with   it     a    maximum       sentence    of    120    months.         See   18   U.S.C.
+
+§ 924(a)(2).         Collins has been incarcerated since at least June
+
+2003 (or, more than 13 years).                     (Def.’s Mot. to Vacate 2, ECF
+
+No. 29.)      Therefore, if one of Defendant’s predicate offenses no
+
+longer qualifies as a violent felony under ACCA, Defendant has
+
+served a longer sentence than the statutory maximum sentence
+
+allowed by law and must be released.
+
+       II.    Analysis
+
+              A. The Offense: Assault by an Inmate, R.I. Gen. Laws
+                 § 11-25-2
+
+       To    determine       whether    an    offense         qualifies    as   a    violent
+
+felony, the Court may “look only to the fact of conviction and
+
+the statutory definition of the prior offense,” which is termed
+
+the “categorical approach.”                  Taylor v. United States, 495 U.S.
+
+575,    602       (1990).        To   satisfy      the    force      clause     under    the
+
+categorical approach, the use, attempted use, or threatened use
+
+of violent force must be an element of the prior offense.                                See
+
+Descamps v. United States, 133 S. Ct. 2276, 2293 (2013).                                If a
+
+conviction         for     the    offense     is    possible         without    proof     of
+
+
+                                              3
+    Case 1:03-cr-00051-S Document 33 Filed 11/02/16 Page 4 of 10 PageID #: 84
+
+
+
+attempted, threatened, or actual use of violent force, then the
+
+conviction does not qualify as a violent felony, even if the
+
+defendant in fact used, attempted to use, or threatened to use
+
+violent force in the commission of the crime.                          See id.      Put
+
+differently, the Court looks not to the facts underlying the
+
+actual conduct for which a defendant was convicted, but rather
+
+the elements of that offense.                 Mathis v. United States, 136 S.
+
+Ct. 2243, 2252 (2016).
+
+       The     Court    must    first   determine       the    offense     for    which
+
+Defendant was convicted. See id. at 2256 (“The first task for a
+
+sentencing court faced with an alternatively phrased statute is
+
+thus    to    determine     whether     its    listed   items    are     elements   or
+
+means.”).       When it is not clear on the face of the statute, as
+
+here,       whether    a   statute    is   divisible      (meaning      the   statute
+
+describes two or more distinct offenses as opposed to various
+
+means by which a single offense can be committed), a court must
+
+employ the “modified categorical approach,” see Descamps, 133 S.
+
+Ct. at 2281, which is described below.
+
+       At    the    time   of    Defendant’s     conviction,        R.I.   Gen.   Laws
+
+§   11-25-2,       entitled     “Assault   or    escape   by    a   custodial     unit
+
+inmate,” stated:
+
+       Every prisoner confined in any custodial unit of the
+       adult correctional institutions or in the custody of
+       the warden or other correctional employee while
+       outside the confines of the institutions or in the
+       custody of the director of mental health, retardation
+
+                                           4
+  Case 1:03-cr-00051-S Document 33 Filed 11/02/16 Page 5 of 10 PageID #: 85
+
+
+
+      and hospitals pursuant to the provisions of § 40.1-
+      5.3-1 of the general laws, who shall assault the
+      warden,   or  other   correctional  employee   of said
+      institution, or shall escape, or attempt to effect an
+      escape, shall be sentenced by the court to a term of
+      imprisonment in the adult correctional institutions
+      for not less than one year nor more than twenty (20)
+      years,   except  where    the  original  sentence  was
+      imprisonment for life, said term to commence from the
+      expiration of the original term of such prisoner.
+
+R.I. Gen. Laws § 11-25-2 (1984) (emphasis added).                 Deferring to
+
+the   state-law   construction    of   the   offense,   it   is    plain    that
+
+§ 11-25-2 is divisible into the distinct offenses of “assault by
+
+an inmate” and “escape by an inmate.”          See   State v. Robalewski,
+
+418 A.2d 817, 819, 826 (R.I. 1980), abrogated on other grounds
+
+by Horton v. California, 496 U.S. 128, 151-52 (1990) (affirming
+
+convictions for assault by an inmate and escape by an inmate in
+
+separate counts; rejecting the argument that an assault under
+
+§ 11-25-2 merges into an escape under the same statute; and
+
+stating that the defendant did not dispute that “assault and
+
+escape are distinct offenses”); see also State v. Tregaskis, 540
+
+A.2d 1022, 1023 (R.I. 1988) (analyzing a conviction for escape
+
+as a custodial-unit inmate pursuant to R.I. Gen. Laws § 11-25-2
+
+and excluding the language about assault by an inmate).
+
+      Under the modified categorical approach, the Court looks to
+
+a limited class of documents — so-called Shepard-documents — for
+
+the sole purpose of determining a defendant’s relevant offense
+
+under a divisible statute.       Descamps, 133 S. Ct. at 2281.             Here,
+
+
+
+                                       5
+  Case 1:03-cr-00051-S Document 33 Filed 11/02/16 Page 6 of 10 PageID #: 86
+
+
+
+the government has produced Defendant’s judgment of conviction
+
+and the charging documents, which indicate that Defendant was
+
+convicted    of   “Assault       by   a    maximum      custodial      inmate.”       (See
+
+United States’ Resp. to Pet. under § 2255 Johnson Claim in ACCA
+
+Case (“Gov’t Resp.”) 15, ECF No. 31.)                   The Court thus concludes
+
+that Defendant was convicted of assault, rather than escape, by
+
+a custodial inmate, under R.I. Gen. Laws § 11-25-2.
+
+            B. Whether Assault by an Inmate is a Violent Felony
+               under ACCA
+
+      At the time of Defendant’s conviction, § 11-25-2 stated in
+
+relevant part:           “Every prisoner . . . who shall assault the
+
+warden, or other correctional employee of the institution . . .
+
+shall be sentenced [to a maximum of 20 years in prison].”                            Thus,
+
+to be convicted of assault by an inmate, the state must prove
+
+that (1) a custodial inmate, as defined by the statute, (2)
+
+completed    a    simple     assault       (3)       upon   the     warden    or     other
+
+correctional employee.
+
+      The   Rhode       Island   Supreme       Court    has   held    that     the   word
+
+“assault”    in     §     11-25-2     “has      an     established     and     ordinary
+
+definition in the criminal law” and that “[n]othing in § 11-25-2
+
+warrants a departure from that definition, imports ambiguity to
+
+the   established        meaning,     or     suggests        that    the     Legislature
+
+intended that word to receive other than the single and definite
+
+meaning it has in the criminal law.”                        State v. Camerlin, 360
+
+
+                                           6
+  Case 1:03-cr-00051-S Document 33 Filed 11/02/16 Page 7 of 10 PageID #: 87
+
+
+
+A.2d    862,    867     (R.I.    1976);    see    also   Gov’t     Resp.    3    (“The
+
+government assumes arguendo that as used in section 11-25-2, the
+
+word ‘assault’ has the same meaning as the common law definition
+
+of simple assault.”).            At common law, simple assault is defined
+
+as an “unlawful attempt or offer, with force or violence, to do
+
+a corporal hurt to another, whether from malice or wantonness.”
+
+State v. Lomba, 37 A.3d 615, 620 (R.I. 2012) (quoting State v.
+
+Pope, 414 A.2d 781, 788 (R.I. 1980)); see also Camerlin, 360
+
+A.2d at 866 (recognizing that jury was properly instructed with
+
+the “established and ordinary definition” of “assault” as “any
+
+unlawful    attempt      or     offer    with    force   or   violence     to    do    a
+
+corporal hurt to another”).              In Rhode Island, simple assault is
+
+a general-intent crime punished as a misdemeanor. R.I. Gen. Laws
+
+§ 11-5-3 (“[E]very person who shall make an assault or battery
+
+or both shall be imprisoned not exceeding one year . . . .”);
+
+see State v. Kausel, 68 A.3d 524, 531 (R.I. 2013) (describing
+
+simple assault as a “general intent crime”) (citing Lomba, 37
+
+A.3d at 620).
+
+       This Court recently held that Rhode Island assault with a
+
+dangerous      weapon    (ADW)    does    not    constitute    a   violent      felony
+
+under   ACCA’s    force       clause.      See    generally    United      States     v.
+
+Sabetta, 00-cr-135-S-PAS, 2016 WL 6157454, at *12 (D.R.I. Oct.
+
+24, 2016).      More specifically, the Court held that Rhode Island
+
+ADW does not require more than a recklessness mens rea.                             Id.
+
+                                           7
+  Case 1:03-cr-00051-S Document 33 Filed 11/02/16 Page 8 of 10 PageID #: 88
+
+
+
+The reasoning with respect to the mens rea sufficient to satisfy
+
+a conviction for ADW applies with the same force to the mens rea
+
+required     to    satisfy     a   conviction      for       assault       by    an    inmate.
+
+Nothing on the face of the statute or in the case law suggests
+
+that the additional elements (namely, that an inmate commit the
+
+offense on a correctional officer) alters the mens rea analysis.
+
+As such, the Court holds that recklessness is a sufficient mens
+
+rea   to   satisfy       a   conviction     for    assault       by    an       inmate,      and
+
+therefore, does not qualify as a predicate offense under ACCA’s
+
+force clause.           See United States v. Fish, 758 F.3d 1, 16 (1st
+
+Cir. 2014) (holding that a crime that only requires proving a
+
+recklessness mens rea, i.e., “conduct bereft of an intent to
+
+employ     force    against    another[,]       falls        short    of    the       mens   rea
+
+required        under    section    16(b));       see    also        Sabetta,         2016   WL
+
+6157454,     at    *7-9      (concluding    that        an    offense       that       can   be
+
+committed recklessly does not qualify as a violent felony under
+
+ACCA’s force clause).
+
+      Because the Court concludes that assault by a custodial
+
+unit inmate, in violation of R.I. Gen. Laws § 11-25-2, no longer
+
+constitutes a violent felony under ACCA, it need not reach the
+
+merits     of     Defendant’s      motion   with        respect       to    second-degree
+
+murder or assault on a correctional officer. 1
+
+
+      1
+      Since the residual clause was deemed unconstitutional by
+the Supreme Court, see generally Johnson II, 135 S. Ct. 2551
+                                            8
+  Case 1:03-cr-00051-S Document 33 Filed 11/02/16 Page 9 of 10 PageID #: 89
+
+
+
+           C. Procedural Default
+
+     For the reasons set forth in Sabetta, 2016 WL 6157454, at
+
+*10-12, the Court concludes that Defendant has demonstrated both
+
+cause and prejudice sufficient to excuse any failure to raise
+
+
+
+(2015), ACCA and other similarly-worded statutes employing the
+terms “violent felony” and “crime of violence” now demand some
+results that border on the absurd.       Offenses that may not
+require the use of violent force, but result in serious injury
+or death may not fall within ACCA’s force clause.     See, e.g.,
+United States v. Hernandez-Montes, 831 F.3d 284, 294 (5th Cir.
+2016) (holding that Florida second-degree murder is not a crime
+of violence requiring a sentencing enhancement); United States
+v. Parnell, 818 F.3d 974, 977-78 (9th Cir. 2016) (holding that
+Massachusetts armed bank robbery is not a violent felony under
+ACCA); United States v. Madrid, 805 F.3d 1204, 1207-08 (10th
+Cir. 2015) (holding that Texas aggravated sexual assault of
+minor under 14 years old is not a crime of violence for purposes
+of a sentencing enhancement); United States v. Braun, 801 F.3d
+1301, 1307-08 (11th Cir. 2015) (holding that Florida crimes of
+aggravated battery of a pregnant woman and battery on law
+enforcement officer are not violent felonies under ACCA). Drug
+trafficking offenses, however, remain plainly within the ambit
+of ACCA.    See 18 U.S.C. § 924(e)(1) (stating that a person
+convicted of being a felon in possession of a firearm who “has
+three previous convictions by any court . . . for a violent
+felony or a serious drug offense, or both” shall be sentenced to
+a minimum of fifteen years’ imprisonment.      As a result, the
+instant Defendant may have a viable argument that, because a
+second-degree murder conviction in Rhode Island can stand where
+a parent was convicted of second-degree murder on a felony-
+murder theory after a child died of starvation as a result of
+the parent’s drug use and consequent severe neglect, see State
+v. Stewart, 663 A.2d 912, 916 (R.I. 1995), second-degree murder
+does not properly fall within ACCA’s force clause. A three-time
+drug trafficker, on the other hand, would assuredly face a
+minimum of fifteen years in prison with a potential for life
+imprisonment.   Given the anomalous, even absurd, and grossly
+unfair results being generated by post-Johnson II decisions,
+Congress may wish to consider amending the enumerated offenses
+clause of ACCA to include those crimes, such as murder, which
+previously were understood to fall squarely within the residual
+clause.
+                                     9
+ Case 1:03-cr-00051-S Document 33 Filed 11/02/16 Page 10 of 10 PageID #: 90
+
+
+
+these arguments at sentencing or on direct appeal.             Accordingly,
+
+this motion is not barred by procedural default and Defendant is
+
+entitled to relief.
+
+     III. Conclusion
+
+     For   the   foregoing   reasons,    the   Court   holds    that   Rhode
+
+Island assault by an inmate does not constitute a violent felony
+
+under ACCA.      The Court will schedule a hearing on Defendant’s
+
+motion to vacate and re-sentencing forthwith.
+
+IT IS SO ORDERED.
+
+
+
+
+William E. Smith
+Chief Judge
+Date: November 2, 2016
+
+
+
+
+                                    10
+

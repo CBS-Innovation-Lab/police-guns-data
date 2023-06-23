@@ -1,0 +1,310 @@
+Case 1:04-cr-00024-JAW Document 55 Filed 04/22/05 Page 1 of 6                       PageID #: 161
+
+
+
+                             UNITED STATES DISTRICT COURT
+                                  DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA                      )
+                                              )
+       v.                                     )
+                                              )       CR-04-24-B-W
+DANIEL RALPH BISHOP,                          )
+                                              )
+               Defendant.                     )
+
+
+                                     SENTENCING ORDER
+
+       On September 8, 2004, a jury found Defendant Daniel Ralph Bishop guilty of being a
+
+felon in possession of a firearm, a violation of 18 U.S.C. § 922(g)(1). Scheduled to be sentenced
+
+on May 9, 2005, Mr. Bishop has raised three legal issues: 1) whether his 1978 conviction for
+
+burglary is a violent felony; 2) whether his 1991 conviction for possession of an unregistered
+
+firearm is a violent felony; and, 3) whether he should be entitled to a two-level reduction for
+
+acceptance of responsibility.    This Court concludes that Mr. Bishop’s 1978 conviction for
+
+burglary and his 1991 conviction for possession of an unregistered firearm are violent felonies
+
+within the meaning of the Armed Career Criminal Act (ACCA), 18 U.S.C. § 924(e), and that,
+
+because he went to trial and failed to convince a jury that his possession of the firearms was
+
+justified, he is not entitled to a two-level reduction under U.S.S.G. § 3E1.1(a).
+
+I. DISCUSSION
+
+       A. Whether his 1978 Conviction for Burglary is a Violent Felony
+
+       Mr. Bishop was convicted on October 5, 1978 in Piscataquis County Superior Court in
+
+the State of Maine of a July 25, 1978 burglary at Berg’s General Store. He was sentenced to
+
+eighteen months in the Maine Correctional Center. Mr. Bishop argues this conviction should not
+
+count as a “violent felony” under the ACCA. See 18 U.S.C. § 924(e)(2)(B). Mr. Bishop
+Case 1:04-cr-00024-JAW Document 55 Filed 04/22/05 Page 2 of 6                                      PageID #: 162
+
+
+
+concedes his 1978 burglary conviction would constitute a predicate felony for ACCA purposes if
+
+he committed the crime as a principal.1 See United States v. Fiore, 983 F.2d 1, 4 (1st Cir. 1992).
+
+However, he questions whether the ACCA definition of “violent felony” applies if he had been
+
+found guilty of the burglary only as an accomplice.
+
+         Mr. Bishop’s argument tracks the logic of Shepard v. United States, __ U.S. __, 125 S.
+
+Ct. 1254 (2005): if the statute allows for both predicate and non-predicate felonies, and if court
+
+documents fail to clarify the facts underlying the crime, the court cannot engage in fact-finding
+
+without running afoul of the Sixth Amendment. Id. at 1262. Here, Mr. Bishop contends that,
+
+because Maine law permits accomplice liability without requiring an overt act, he may have been
+
+convicted of being an accomplice, which he argues would not constitute a predicate felony. Mr.
+
+Bishop, however, is incorrect.
+
+         First, in examining the indictment and the judgment, as permitted by Shepard, there is no
+
+evidence Mr. Bishop was charged and pleaded guilty as an accomplice, and not as a principal. 2
+
+Mr. Bishop’s contention that he was only an accomplice is not substantiated by the court
+
+documents, and under Shepard, this Court cannot look beyond “the statutory definition, charging
+
+document, written plea agreement, transcript of plea colloquy, and any explicit factual finding by
+
+the trial judge to which the defendant assented.” Id. at 1257. A federal sentencing court “may
+
+not hold a mini-trial on the particular facts underlying the prior offense in an effort to determine
+
+
+1
+  This Court has already made this determination. See United States v. Bishop, 350 F. Supp. 2d 127, 130-32 (D. Me.
+2004). In reviewing Bishop, this Court painted with too broad a brush when it stated that in Taylor v. United States,
+495 U.S. 575 (1990), the Supreme Court “recognized that Congress included all types of burglaries as predicate
+offenses of the ACCA because every burglary inherently presents a serious potential risk of physical injury to
+another.” Bishop, 350 F. Supp. 2d at 132. As Shepard v. United States, __ U.S. __, 125 S. Ct. 1254, 1257 (2005),
+made clear, this statement is true only as to generic burglaries, not to other types of burglaries, such as the burglary
+of a motor vehicle or boat.
+2
+  The indictment charges that “DANIEL R. BISHOP did enter in a structure, to wit, Berg’s General Store, of the
+property of Ralph Berg, knowing that he was not licensed or privileged to do so, with the intent to commit theft
+therein.” The judgment reflects that Mr. Bishop pleaded guilty to burglary. There is no mention of accomplice
+liability.
+
+
+                                                           2
+Case 1:04-cr-00024-JAW Document 55 Filed 04/22/05 Page 3 of 6                        PageID #: 163
+
+
+
+whether the defendant’s conduct was violent.” United States v. Dueno, 171 F.3d 3, 5 (1st Cir.
+
+1999); see also United States v. Damon, 127 F.3d 139, 144 (1st Cir. 1997).
+
+       Second, Mr. Bishop’s description of accomplice liability in Maine, though correct as far
+
+as it goes, does not tell the whole story. It is true, as he states, that Maine law does not require an
+
+“overt act of assistance or actual physical participation in the commission of the crime.” State v.
+
+Pheng, 2002 ME 40, ¶ 9, 791 A.2d 925, 928. However, Maine law does require more than
+
+“mere presence at the scene”; it requires proof of “any conduct promoting or facilitating,
+
+however slightly, the commission of the crime.” Id. ¶ 9, 791 A.2d at 927. Pheng itself states
+
+that accomplice liability may attach if “a person, intending that a crime be committed, aids by
+
+actively furnishing advice and encouragement.” Id. ¶ 9, 791 A.2d at 927-28. Thus, for example,
+
+a person who drives an automobile to the scene of a burglary may be convicted of burglary, even
+
+though another actually entered the building. State v. Bradley, 414 A.2d 1236 (Me. 1980).
+
+       Finally, the First Circuit quickly dispatched a similar argument in United States v.
+
+Mitchell, 23 F.3d 1 (1st Cir. 1994). Mitchell states that “aiding and abetting ‘is not a separate
+
+offense’ from the underlying substantive crime.” Id. at 2 (quoting United States v. Sanchez, 917
+
+F.2d 607, 611 (1st Cir. 1990), cert. denied, 499 U.S. 977 (1991)). Mitchell held that “aiding and
+
+abetting the commission of a crime of violence is a crime of violence itself.” Id. at 3.
+
+       This Court concludes Mr. Bishop’s 1978 conviction for burglary constitutes a “violent
+
+felony” under § 924(e) and U.S.S.G. § 4B1.4. See § 924(e)(2)(B)(ii)(the term “violent felony”
+
+includes burglary); Bishop, 350 F. Supp. 2d at 130-32.
+
+       B. Whether his 1991 Conviction for Possession of an Unregistered Firearm
+       Constitutes a Violent Felony
+
+       On October 23, 1990, Mr. Bishop was indicted by a Grand Jury in the United States
+
+District Court for knowing possession of “a loaded . . . 12 gauge shotgun . . . with a barrel length
+
+
+
+                                                  3
+Case 1:04-cr-00024-JAW Document 55 Filed 04/22/05 Page 4 of 6                                PageID #: 164
+
+
+
+of approximately 14 ¾ inches and with an overall length of approximately 24 ¼ inches, not
+
+registered to him in the National Firearms Registration and Transfer Record.” On April 12,
+
+1991, Mr. Bishop pleaded guilty to a violation of 25 U.S.C. § 5861(d), possession of an
+
+unregistered firearm, and was sentenced to thirty months incarceration.
+
+        The First Circuit has held that “possession of a sawed-off shotgun is a ‘violent felony’
+
+within the meaning of ACCA.” United States v. Fortes, 141 F.3d 1, 8 (1st Cir. 1998), cert.
+
+denied, 524 U.S. 961 (1998). Undeterred, Mr. Bishop argues that Fortes is not good law
+
+because: (1) the Sixth Amendment right to a jury trial requires that the jury, and not the court,
+
+determine whether his conviction for possession of an unregistered firearm constitutes a “violent
+
+felony”; (2) the Ninth Circuit, upon which Fortes relied, has not “followed its own logic”; and,
+
+(3) United States v. Doe, 960 F.2d 221 (1st Cir. 1992), is more persuasive. This Court disagrees.
+
+Fortes remains the “law of the circuit,” and this Court, as a lower court, is required to apply it.
+
+See United States v. Chhien, 266 F.3d 1, 11 (1st Cir. 2001), cert. denied, 534 U.S. 1150 (2002).
+
+There is no indication the First Circuit is going to revise its holding in Fortes. See Dueno, 171 F.
+
+3d at 4 (citing Fortes with approval). But, if Fortes is to be changed, it is for the First Circuit,
+
+not this Court, to change it. Under Fortes, Mr. Bishop’s 1991 conviction for possession of an
+
+unregistered firearm constitutes a “violent felony” within the meaning of the ACC.
+
+        C. Whether Mr. Bishop Should be Accorded a Two-Point Reduction Under
+           U.S.S.G. § 3E1.1 for Acceptance of Responsibility
+
+        Mr. Bishop’s final argument is that he should be accorded a two-point reduction for
+
+acceptance of responsibility under Guideline § 3E1.1. 3 Mr. Bishop did not plead guilty to this
+
+crime. Instead, he proceeded to trial and was convicted by a jury on September 8, 2004. Mr.
+
+Bishop bears the burden to establish his entitlement to a reduction for acceptance. United States
+
+3
+  Mr. Bishop’s argument is confined to the two -level reduction under Guideline § 3E1.1(a). He makes no argument
+that he is entitled to the additional one-level reduction under Guideline § 3E1.1(b).
+
+
+                                                       4
+Case 1:04-cr-00024-JAW Document 55 Filed 04/22/05 Page 5 of 6                       PageID #: 165
+
+
+
+v. Baltas, 236 F.3d 27, 37 (1st Cir. 2001), cert. denied, 532 U.S. 1030 (2001). If the defendant
+
+put the government to its proof at trial, the Guidelines provide the reduction is to be allowed only
+
+in “rare situations,” where a defendant can “clearly demonstrate an acceptance of responsibility
+
+for his criminal conduct even though he exercises his constitutional right to a trial.” U.S.S.G. §
+
+3E1.1, Application Note 2.
+
+       Nevertheless, Mr. Bishop points out that the Commentary does not preclude a defendant
+
+who goes to trial from receiving an acceptance reduction, and he contends he did not “challenge
+
+the factual elements of guilt.” Def.’s Sentencing Mem. (Docket # 53) at 5. He says at trial he
+
+only argued the statute should not be applied to him “because of the doctrine of necessity.” Id.
+
+To deny the reduction, he argues, would impermissibly penalize him “for asserting his
+
+constitutional right to trial.” Id. (quoting United States v. Fells, 78 F.3d 168, 172 (5th Cir. 1996),
+
+cert. denied, 519 U.S. 847 (1996)).
+
+       Although Mr. Bishop asserted a necessity defense, he failed to convince the jury. In
+
+circumstances of this sort, as the First Circuit recently reiterated, “binding circuit precedent
+
+precludes a decrease.” United States v. Gorsuch, No. 03-2337, 2005 WL 895209, at *2 (1st Cir.
+
+Apr. 19, 2005). Gorsuch addressed a defendant who asserted she lacked the requisite mens rea
+
+for the imposition of criminal liability, and the First Circuit concluded the sentencing court was
+
+precluded from granting acceptance. Id. at *2-5. As Gorsuch noted, the First Circuit has applied
+
+this same rule to a defendant who asserted self-defense. Id. at *2 (citing United States v. Bello,
+
+194 F.3d 18 (1st Cir. 1999)); see also United States v. Mikutowicz, 365 F.3d 65, 75-77 (1st Cir.
+
+2004); United States v. Waloke, 962 F.2d 824 (8th Cir. 1992).
+
+
+
+
+                                                  5
+Case 1:04-cr-00024-JAW Document 55 Filed 04/22/05 Page 6 of 6                                    PageID #: 166
+
+
+
+        Even if Mr. Bishop did not deny possessing the firearms, 4 he urged the jury to conclude
+
+his possession was justified by necessity. This Court cannot distinguish between the justification
+
+of self-defense, which failed in Bello, and the justification of necessity, which must fail here.
+
+Moreover, upon hearing Mr. Bishop’s explanation, this Court concluded during trial that he had
+
+not sufficiently raised the evidentiary predicate for asserting the necessity defense to generate a
+
+jury instruction. See United States v. Smith, 982 F.2d 681, 685 (1st Cir. 1993); United States v.
+
+Harper, 802 F.2d 115, 117 (5th Cir. 1986).
+
+II. CONCLUSION
+
+        This Court concludes that Mr. Bishop’s 1978 burglary conviction and his 1991
+
+possession of an unregistered firearm conviction are “violent felonies” within the meaning of the
+
+ACCA and that he is not entitled to a two-level reduction for acceptance under U.S.S.G. §
+
+3E1.1(a).
+
+                                                     /s/ John A. Woodcock, Jr.
+                                                     JOHN A. WOODCOCK, JR.
+                                                     UNITED STATES DISTRICT JUDGE
+
+Dated this 22nd day of April, 2005
+
+
+
+
+4
+  There is some disagreement between the Government and Mr. Bishop as to which weapons he admitted
+possessing. However, in view of the basis for the decision in this case, it is unnecessary to resolve this disparity.
+
+
+                                                         6
+

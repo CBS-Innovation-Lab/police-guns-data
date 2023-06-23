@@ -1,0 +1,438 @@
+                      UNITED STATES DISTRICT COURT
+                           DISTRICT OF MAINE
+
+ UNITED STATES OF AMERICA,                )
+                                          )
+                     Plaintiff,           )
+ v.                                       ) Criminal no. 2:13-cr-137-NT
+                                          )
+ KENNETH SALES,                           )
+                                          )
+                     Defendant.           )
+
+           ORDER ON DEFENDANT’S MOTION TO RECONSIDER
+
+      Kenneth Sales moves this Court to reconsider a January 9, 2014 order denying
+
+his motion to dismiss the indictment. (ECF No. 73). The one-count indictment,
+
+returned on July 23, 2013, charges Sales under 18 U.S.C. § 922(g)(9) with possession
+
+of a firearm by an individual convicted of a misdemeanor crime of domestic violence.
+
+The Defendant asserts that his prior conviction under a Vermont simple assault
+
+statute does not qualify as a “misdemeanor crime of domestic violence” under 18
+
+U.S.C. § 922(g)(9). This Court previously held, under United States v. Booker, 644
+
+F.3d 12 (1st Cir. 2011), that Sales’s conviction for recklessly inflicting bodily injury
+
+on his girlfriend was a misdemeanor crime of domestic violence. Order on Def.s’ Mot.
+
+to Dismiss Indictment. (ECF No. 56).
+
+      Sales requests that the Court reconsider its decision in light of three recent
+
+cases: the Supreme Court’s opinion in United States v. Castleman, 134 S. Ct. 1405
+
+(2014), the Supreme Court’s remand order in Armstrong v. United States, 134 S.Ct.
+
+1759 (2014), and the First Circuit’s opinion in United States v. Carter, 752 F. 3d 8
+
+
+
+
+                                           1
+(1st Cir. 2014). The Defendant contends that, in light of these decisions, the Court
+
+should dismiss the indictment against him.
+
+                                  BACKGROUND
+
+ I.   The Underlying State Conviction
+
+      On December 16, 2010, at a change of plea hearing, Kenneth Sales pled guilty
+
+to one count of “ASSAULT–SIMPLE—MUTUAL AFFRAY” under 13 Vt. Stat. Ann.
+
+tit. 13, § 1023. Exh. 1 to Def's Mot. to Dismiss 5 (ECF No. 28-1). Count one stated:
+
+“Kenneth Sales, in this Territorial Unit, in the County of Bennington, at Arlington,
+
+on or about October 17, 2010 . . . engaged in a fight or scuffle entered into by mutual
+
+consent.” Exh. 2 to Gov't's Opp'n to Def.'s Mot. to Dismiss (ECF No. 31-2).
+
+      Vermont’s simple assault statute states:
+
+      (a) A person is guilty of simple assault if he or she:
+          (1) attempts to cause or purposely, knowingly or recklessly causes
+              bodily injury to another; or
+          (2) negligently causes bodily injury to another with a deadly weapon;
+              or
+          (3) attempts by physical menace to put another in fear of imminent
+              serious bodily injury.
+      (b) A person who is convicted of simple assault shall be imprisoned for
+          not more than one year or fined not more than $1,000.00, or both,
+          unless the offense is committed in a fight or scuffle entered into by
+          mutual consent, in which case a person convicted of simple assault
+          shall be imprisoned not more than 60 days or fined not more than
+          $500.00 or both.
+
+Vt. Stat. Ann. tit.13, § 1023.
+
+      As part of his December 16, 2010 plea colloquy, the Vermont Superior Court
+
+judge explained:
+
+      Mr. Sales, you now have an amended charge, that on or about October
+      17th, you recklessly caused bodily injury to a person, and that it was in
+
+                                          2
+      a fight or scuffle entered into by mutual consent. Penalty of up to 60
+      days in jail or a $500 fine. The basis for this as I understand it is that
+      you would be admitting that there was a physical altercation between
+      you and Ms. Goddard . . . and that in the course of it you at least
+      recklessly . . . caused bodily injury to her, being . . . a scratch or a sort of
+      cut that she received. Bodily injury is any sort of injury, it doesn't have
+      to be a broken bone or anything like that, it can be a bruise, a cut, kind
+      of anything that hurts. . . . [R]ecklessly means you did not have to intend
+      a particular result, but you engaged in conduct that was not what a
+      reasonable person would do in these circumstances, and had a very high
+      risk that the result would happen. So obviously engaging in a fight or
+      scuffle would qualify as that. . . . [F]ight or scuffle is pretty much what
+      you'd think it would mean. . . . [M]utual consent just means that the two
+      of you sort of engaged in the fight or scuffle, rather than one person . . .
+      solely.
+
+Sales then acknowledged that he understood the amended charge and pleaded guilty
+
+to it. Exh. 4 to Gov’t’s Opp’n to Def.’s Mot. to Dismiss 1 (ECF No. 31-4).
+
+      Based on the foregoing, this Court previously concluded that the Defendant
+
+“admitted to engaging in a physical altercation in which he recklessly caused his
+
+girlfriend bodily injury” and “was convicted of simple assault of the § 1023(a)(1)
+
+variety.” United States v. Sales, 2:13-CR-137-NT, 2014 WL 103813, *4 (D. Me. Jan.
+
+9, 2014).
+
+II.   The Pending Federal Charge
+
+      Sales was charged with a violation of 18 U.S.C. § 922(g)(9), sometimes referred
+
+to as the Lautenberg Amendment to the Gun Control Act of 1968. The indictment
+
+alleges that, on about May 6, 2013, Sales knowingly possessed a .45 caliber pistol
+
+after having been convicted of a misdemeanor crime of domestic violence, specifically
+
+his December 16, 2010 conviction from Vermont. Section 922(g)(9) prohibits a person
+
+“who has been convicted in any court of a misdemeanor crime of domestic violence”
+
+
+
+                                             3
+from “possess[ing] in or affecting commerce, any firearm or ammunition . . . .”18
+
+U.S.C. § 922(g)(9). Section 921 defines “misdemeanor crime of domestic violence” as
+
+an offense that:
+
+      (i) is a misdemeanor under Federal, State, or Tribal law; and
+
+      (ii) has, as an element, the use or attempted use of physical force, or the
+      threatened use of a deadly weapon, committed by a current or former
+      spouse, parent, or guardian of the victim, by a person with whom the
+      victim shares a child in common, by a person who is cohabiting with or
+      has cohabited with the victim as a spouse, parent, or guardian, or by a
+      person similarly situated to a spouse, parent, or guardian of the victim[.]
+
+18 U.S.C. § 921(a)(33)(A).
+
+      On January 27, 2014, the Defendant tendered a conditional plea of guilty to
+
+the indictment, reserving the right to have an appellate court review this Court’s
+
+decision denying his motion to dismiss the indictment.
+
+                                     DISCUSSION
+
+      The question at hand is whether a conviction for recklessly causing bodily
+
+injury to another under Vermont’s assault statute is a misdemeanor crime of
+
+domestic violence under § 922(g)(9). Specifically at issue is whether the reckless
+
+variant of Vt. Stat. Ann. tit.13, § 1023(a) has “as an element, the use . . . of physical
+
+force.” 18 U.S.C. § 921(a)(33)(A).
+
+      The Cases
+
+      The contours of what constitutes a misdemeanor crime of domestic violence
+
+have been shaped by a number of First Circuit cases that have dealt with the Maine
+
+
+
+
+                                           4
+assault statute.1 In United States v. Nason, 269 F.3d 10 (1st Cir. 2001), the First
+
+Circuit held that the “offensive physical contact” variant of Maine’s assault statute
+
+satisfies the use of force requirement under § 921(a)(33)(A) and thus can qualify as a
+
+misdemeanor crime of domestic violence. Id. at 21. In United States v. Booker, 644
+
+F.3d 12 (1st Cir. 2011), the First Circuit held that “an offense with a mens rea of
+
+recklessness may qualify as a ‘misdemeanor crime of domestic violence’ under
+
+922(g)(9).” Id. at 21. In United States v. Armstrong, 706 F.3d 1 (1st Cir. 2013), cert.
+
+granted, judgment vacated, 134 S. Ct. 1759 (2014), the defendant was convicted of
+
+“intentionally, knowingly or recklessly caus[ing] bodily injury or offensive physical
+
+contact” to his wife. Armstrong, 706 F.3d at 3. The First Circuit, relying on Nason
+
+and Booker, affirmed Armstrong’s § 922(g)(9) conviction. United States v. Armstrong,
+
+706 F.3d 1 (1st Cir. 2013),
+
+        On March 26, 2014, the Supreme Court issued United States v. Castleman, 134
+
+S.Ct. 1405 (2014), in which it held that “the requirement of ‘physical force’ is satisfied,
+
+
+
+1       Maine’s simple assault statute provides: “A person is guilty of assault if . . . the person
+intentionally, knowingly, or recklessly causes bodily injury or offensive physical contact to another
+person.” Me. Rev. Stat. tit. 17-A, § 207(1)(A).
+        Generally, to determine whether a state offense qualifies as a predicate offense, courts use a
+categorical approach, which necessitates “an assessment of ‘the elements of the statute of conviction’”
+rather than the actual facts of the defendant’s conduct. United States v. Fish, No. 12-1791, 2014 WL
+715785 * 3 (1st Cir. Feb. 26, 2014) (quoting Taylor v. United States, 495 U.S. 575, 601 (1990)). Because,
+however, the Maine assault statute “‘sets out one or more elements of the offense in the alternative,’”
+it is considered a divisible statute, which allows a different analysis known as the “modified”
+categorical approach. United States v. Carter, 752 F.3d at 17 (quoting Descamps v. United States, 133
+S.Ct. 2276, 2281-82 (2013)). Under the modified categorical approach, a court is “permitted to ‘consult
+a limited class of documents, such as indictments and jury instructions, to determine which alternative
+formed the basis of the defendant’s prior conviction.’” Fish, 2014 WL 715785 *3 (quoting Descamps,
+133 S.Ct. at 2281-82; citing Shepard v. United States, 544 U.S. 13, 17, 26 (2005)). Reference to the so-
+called Shepard documents allows the court to consider “the narrower subset of elements that actually
+gave rise to the convictions.” Fish, 2014 WL 715785 *3.
+
+
+                                                   5
+for purposes of § 922(g)(9), by the degree of force that supports a common-law battery
+
+conviction,” that is, “even the slightest offensive touching.” Id. at 1413 and 1410.
+
+Because Castleman was charged with intentionally or knowingly causing bodily
+
+injury to the victim, see Castleman, 134 S. Ct. at 1408, the Supreme Court did not
+
+need to address whether a recklessly-caused bodily injury would suffice to meet the
+
+definition of a misdemeanor crime of domestic violence. On that point, the Castleman
+
+court observed that “the merely reckless causation of bodily injury . . . may not be a
+
+‘use’ of force.” Id. at 1414. The Court noted that Leocal v. Ashcroft, 543 U.S. 1, 9
+
+(2004),2 held that “use” requires active employment “rather than negligent or merely
+
+accidental conduct.” Castleman, 134 S. Ct. at 1414 n. 8. The Supreme Court also
+
+pointed out that Booker is out of step with other circuit courts that have held that
+
+recklessness is not sufficient to constitute a “use” of force. Id.3
+
+
+2       In Leocal, the Supreme Court held that a driving under the influence of alcohol conviction does
+not constitute an “aggravated felony” under the Immigration and Nationality Act (INA). 8 U.S.C. §
+1227(a)(2)(A)(iii). The INA defines the term “aggravated felony” to include a “crime of violence” as
+defined under 18 U.S.C. § 16, which, in turn, refers to “an offense that has as an element the use,
+attempted use, or threatened use of physical force . . . .” 18 U.S.C. § 16. The Supreme Court concluded
+that the term “‘use . . . of physical force against the person or property of another’—most naturally
+suggests a higher degree of intent than negligent or merely accidental conduct.” Leocal, 543 U.S. at
+11. The Leocal Court took pains to point out that the “case does not present us with the question
+whether a state or federal offense that requires proof of the reckless use of force against a person or
+property of another qualifies as a crime of violence under 18 U.S.C. § 16.” Id. at 13 (emphasis in
+original).
+3       Of the cases cited by the Supreme Court, none involved the application of § 922(g)(9). Most
+addressed whether prior felonies, committed recklessly, could constitute crimes of violence sufficient
+either to trigger a sixteen point enhancement under the sentencing guidelines for people charged with
+immigration offenses or to serve as “aggravated felonies” for the purposes of deportation. See United
+States v. Palomino Garcia, 606 F.3d 1317, 1335–1336 (11th Cir. 2010) (felony aggravated assault
+committed recklessly lacked use of force as required for sentencing guidelines); Jimenez–Gonzalez v.
+Mukasey, 548 F.3d 557, 560 (7th Cir. 2008) (felony criminal recklessness not an aggravated felony
+warranting removal); United States v. Zuniga–Soto, 527 F.3d 1110, 1124 (10th Cir. 2008) (felony
+reckless assault of a public servant not a crime of violence for sentencing guidelines); United States v.
+Torres–Villalobos, 487 F.3d 607, 615–616 (8th Cir. 2007) (second-degree manslaughter conviction not
+an aggravated felony for sentencing purposes); United States v. Portela, 469 F.3d 496, 499 (6th Cir.
+2006) (felony reckless vehicular assault not a felony crime of violence for sentencing guidelines); Garcia
+
+                                                    6
+        Five days after it decided Castleman, the Supreme Court vacated the First
+
+Circuit’s judgment in Armstrong, “for further consideration in light of United States
+
+v. Castleman . . . .” Armstrong v. United States, 134 S. Ct. 1759 (2014). Castleman
+
+supports Armstrong’s holding that offensive touching is sufficient to satisfy the
+
+definition of “use of physical force.” Therefore, the Supreme Court’s remand of
+
+Armstrong “in light of Castleman” is fairly construed as a directive to the First Circuit
+
+to reconsider whether an assault committed recklessly is sufficient to meet the federal
+
+definition of a misdemeanor crime of domestic violence.
+
+        On April 30, 2014, before the First Circuit had reconsidered Armstrong, it
+
+issued an opinion remanding United States v. Carter, 752 F. 3d 8 (1st Cir. 2014) to
+
+the district court.4 Carter also involved an undifferentiated Maine assault conviction.
+
+In Carter, the First Circuit acknowledged that “Castleman casts doubt” on Booker’s
+
+holding that a misdemeanor crime of domestic violence encompasses assault
+
+committed recklessly. Carter, 752 F.3d at 18. Rather than expressly overrule Booker,
+
+
+
+
+v. Gonzales, 455 F.3d 465, 468–469 (4th Cir. 2006) (reckless assault in the second-degree not an
+aggravated felony warranting removal); Oyebanji v. Gonzales, 418 F.3d 260, 263–265 (3d Cir. 2005)
+(ALITO, J.) (conviction for reckless vehicular homicide not an aggravated felony warranting removal);
+Jobson v. Ashcroft, 326 F.3d 367, 373 (2d Cir. 2003) (second-degree manslaughter not an aggravated
+felony warranting removal); United States v. Chapa–Garza, 243 F.3d 921, 926 (5th Cir. 2001)
+(conviction for driving while intoxicated not an aggravated felony warranting removal); cf. Fernandez–
+Ruiz v. Gonzales, 466 F.3d 1121, 1127–1132 (C.A.9 2006) (en banc) (reckless misdemeanor domestic
+violence conviction not a crime of violence warranting removal).
+4        By the time Castleman was decided, Carter had already been fully briefed. The Defendant
+submitted a citation of supplemental authorities pursuant to Federal Rule of Appellate Procedure 28(j)
+calling the First Circuit’s attention to Castleman. United States v. Carter, CA No. 12-1499, (Document:
+00116666144) Letter from J. Hilary Billings, Ass’t. Federal Public Defender to Margaret Carter, Clerk,
+U.S. Court of Appeals for the First Circuit (Mar. 26, 2014). The Government responded with its own
+letter also calling the First Circuit’s attention to the remand of Armstrong. United States v. Carter, CA
+No. 12-1499, (Document: 00116669158) Letter from Renee M. Bunker, Ass’t. U.S. Attorney to Margaret
+Cater, Clerk, U.S. Court of Appeals for the First Circuit (Apr. 2, 2014).
+
+                                                   7
+the First Circuit remanded Carter to determine which mens rea prong of the Maine
+
+assault statute served as the basis for Carter’s conviction.
+
+       The order remanding the case directed the district court to conduct “further
+
+proceedings consistent with this opinion and in light of the Supreme Court’s opinion
+
+in Castleman and its vacation of our judgment in Armstrong.” Carter, 752 F.3d at 21
+
+(citations omitted). Upon remand, Judge Singal concluded that the “guidance of the
+
+Supreme Court and the First Circuit in Castleman, Armstrong and Carter” was clear
+
+enough for him to conclude that a § 922(g)(9) “conviction may only stand if it was
+
+premised on more than accidental, negligent or reckless conduct.” United States v.
+
+Carter, No. 2:10-CR-00155-GZS, slip op. at 9 (D. Me. July 8, 2014).
+
+       In United States v. Hines, 1:12-CR-204-JAW, 2014 WL 1875164 (D. Me. May
+
+9, 2014), Judge Woodcock addressed a post-Castleman challenge to the use of a Maine
+
+assault conviction as a predicate offense under § 922(g)(9), and he also concluded:
+
+“based on Castleman, Armstrong and Carter, . . . it is so questionable whether a
+
+conviction for domestic assault under 17-A M.R.S. § 207-A(1)(A) – without more –
+
+may operate as a predicate conviction under § 922(g)(9), that this Court must grant
+
+Mr. Hines a new trial.” Hines, 2014 WL 1875164 * 9.
+
+       2.     Analysis of the Instant Case
+
+       The Vermont simple assault statute applicable here proscribes “purposely,
+
+knowingly or recklessly caus[ing] bodily injury . . . .” 13 V.S.A. § 1023(a)(1). It is clear
+
+from the Shepard-approved documents in this case that the Defendant was convicted
+
+under the “reckless” prong of this statute. The Government does not argue otherwise.
+
+
+
+                                             8
+        The Government contends that the First Circuit has not overturned Booker
+
+and that this Court cannot reach a conclusion contrary to Booker’s holding that
+
+reckless conduct is a “use of force” for purposes of § 922(g)(9). As the Government
+
+points out, “[u]ntil a court of appeals revokes a binding precedent, a district court
+
+within the circuit is hard put to ignore that precedent unless it has been cast into
+
+disrepute by supervening authority.” Eulitt v. Me. Dep’t of Educ., 386 F.3d 344, 349
+
+(1st Cir. 2004). But as both Judges Woodcock and Singal have determined, the lower
+
+courts “cannot ignore the guidance of the Supreme Court and the First Circuit in
+
+Castleman, Armstrong and Carter.” United States v. Carter, No. 2:10-CR-00155 (D.
+
+Me., July 8, 2014) (ECF No. 98). While “[r]eading Supreme Court tea leaves is
+
+chancy,” Hines, 1:12-CR-00204-JAW, 2014 WL 1857164 at *8, it is hard to miss the
+
+message here. Upon closer scrutiny, the First Circuit may decide that recklessness is
+
+sufficient in the § 922(g)(9) context,5 but given the writing on the wall in Carter, it
+
+would be presumptuous for this Court to make that determination.
+
+
+
+
+5        The cases cited by the Supreme Court in footnote eight of Castleman all arise out of the
+immigration context and can thus be distinguished. By the logic of Castleman and its use of the
+legislative history, it is possible that Booker could survive. See Castleman, 134 S. Ct. at 1411 (“because
+perpetrators of domestic violence are ‘routinely prosecuted under generally applicable assault or
+battery laws,’ it makes sense for Congress to have classified as a ‘misdemeanor crime of domestic
+violence’ the type of conduct that supports a common-law battery conviction.” (quoting United States
+v. Hayes, 555 U.S. 415, 427 (2009)).
+
+                                                    9
+                                     CONCLUSION
+
+      For the above-stated reasons, the Defendant’s Motion for Reconsideration is
+
+GRANTED and the indictment is DISMISSED.
+
+
+SO ORDERED.
+                                        /s/ Nancy Torresen
+                                        United States District Judge
+
+
+Dated this 11th day of July, 2014.
+
+
+
+
+                                         10
+

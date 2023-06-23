@@ -1,0 +1,875 @@
+     Case 4:99-cr-40016-NMG Document 147 Filed 05/27/20 Page 1 of 17
+
+
+
+                    United States District Court
+                     District of Massachusetts
+
+                                    )
+United States of America,           )
+                                    )
+           Plaintiff,               )
+                                    )
+           v.                       )
+                                    )     Criminal Action No.
+Junito Melendez, a/k/a Junior       )     99-40016-NMG
+Melendez,                           )
+                                    )
+           Defendant.               )
+                                    )
+
+
+
+                          MEMORANDUM & ORDER
+
+GORTON, J.
+
+    Defendant Junito Melendez (“defendant” or “Melendez”) has
+
+moved to reduce his sentence pursuant to the First Step Act of
+
+2018, Pub. L. No. 115-391, § 404, 132 Stat. 5194, 5222 (“the
+
+First Step Act” or “the FSA”).
+
+    To this Court’s knowledge, defendant’s motion presents an
+
+issue of first impression in this circuit: whether relief under
+
+the First Step Act is available to a defendant who has already
+
+served the sentence as to which he seeks reduction when, as a
+
+result of that sentence, defendant faces an increased mandatory
+
+minimum sentence if he is convicted for a pending subsequent
+
+offense.
+
+
+
+
+                                  -1-
+     Case 4:99-cr-40016-NMG Document 147 Filed 05/27/20 Page 2 of 17
+
+
+
+I.   Background
+
+     A.   2001 Sentence
+
+     In August, 1999, Melendez was indicted, as a juvenile, on
+
+one count of possession with intent to distribute and
+
+distribution of 19.2 grams of cocaine base (Count 1) and one
+
+count of possession of a firearm (Count 2).        Pursuant to a
+
+superseding indictment filed in January, 2000, Melendez was
+
+charged with an additional count of possession with intent to
+
+distribute 3.3 grams of cocaine base, this time as an adult
+
+(Count 3).
+
+     Following a three-day jury trial conducted by this judicial
+
+officer in December, 2000, defendant was convicted on all
+
+counts.   In April, 2001, this Court sentenced defendant, based
+
+on a total offense level (“TOL”) of 30 and a criminal history
+
+category (“CHC”) of IV, to 135 months imprisonment, the low end
+
+of the applicable guideline range.      The Court also imposed a
+
+five-year term of supervised release.
+
+     Defendant appealed to the United States Court of Appeals
+
+for the First Circuit, arguing that this Court erred in denying
+
+his motions to suppress and to sever the juvenile counts of the
+
+indictment from the adult count.      Melendez also asserted that
+
+the Court erred at sentencing by declining to depart downward
+
+
+
+
+                                  -2-
+      Case 4:99-cr-40016-NMG Document 147 Filed 05/27/20 Page 3 of 17
+
+
+
+from the sentencing guidelines due to his role in the offense
+
+and by improperly “double-counting” a prior conviction.
+
+     The First Circuit rejected Melendez’s arguments relating to
+
+the indictment and downward departure but concluded, with the
+
+government’s concession, that this Court had miscalculated
+
+defendant’s CHC by counting a single delinquency adjudication as
+
+two separate convictions.      The First Circuit remanded for
+
+resentencing.
+
+     In May, 2003, this Court concluded that, without the
+
+double-counting, defendant was in CHC III and re-sentenced him
+
+to 121 months, the low end of the newly-applicable guideline
+
+range.
+
+     In June, 2006, this Court again reduced defendant’s
+
+sentence based on a change to his CHC.        The Massachusetts
+
+Superior Court had vacated two of defendant’s prior juvenile
+
+convictions which had the effect of reducing his CHC from III to
+
+I.   Based on a TOL of 30 and a CHC of I, the applicable
+
+guideline range was 97-121 months.       Because of factors then
+
+applicable and based on recommendations of both counsel, the
+
+Court imposed a mid-range sentence of 109 months.          The oft-
+
+amended sentence again included five years of supervised
+
+release.   Defendant was released from the custody of the Bureau
+
+
+
+
+                                   -3-
+     Case 4:99-cr-40016-NMG Document 147 Filed 05/27/20 Page 4 of 17
+
+
+
+of Prisons (“BOP”) and his term of supervised release commenced
+
+in March, 2007.
+
+    Defendant violated the conditions of his supervised release
+
+on three separate occasions.     In May, 2009, he associated with a
+
+known convicted felon and was sentenced to six months in prison,
+
+followed by three years of supervised release.        In December,
+
+2009, defendant violated Massachusetts law by trespassing and
+
+disturbing the peace.    He was sentenced to four months in
+
+prison, followed by three years of supervised release, the first
+
+two months of which were to be served at a Community Confinement
+
+Center (“CCC”).   Upon release after that revocation, defendant
+
+failed to report to the CCC which resulted in a third violation
+
+of his conditions of supervised release and an additional six-
+
+month term of imprisonment.     No additional term of supervised
+
+release was imposed.
+
+    Defendant’s 2001 sentence was, therefore, completed upon
+
+his discharge from BOP custody in December, 2010.         That is the
+
+sentence for which he now seeks reduction pursuant to the FSA.
+
+    B.    Subsequent Criminal Conduct
+
+    Since December, 2010, defendant has committed several more
+
+crimes.   In September, 2011, he was arrested and later convicted
+
+of threats and disorderly conduct.      In October, 2013, he was
+
+arrested and charged with aggravated assault and battery with a
+
+                                  -4-
+     Case 4:99-cr-40016-NMG Document 147 Filed 05/27/20 Page 5 of 17
+
+
+
+dangerous weapon and conspiracy to commit a drug offense.          He
+
+was later convicted of the aggravated assault and battery
+
+charge.   Finally, in December, 2018, defendant was arrested and
+
+charged with trespass and threats.      That case remains pending.
+
+    C.    Current Federal Charges
+
+    In March, 2019, the Bureau of Alcohol, Tobacco, Firearms
+
+and Explosives (“ATF”) installed a Title III wiretap on
+
+defendant’s phone after United States District Judge Timothy S.
+
+Hillman found probable cause that defendant was engaged in
+
+firearm and controlled substance offenses.       ATF alleges that,
+
+after surveilling defendant for less than two weeks, agents
+
+gathered evidence of several new federal offenses.
+
+    In July, 2019, a grand jury returned two separate
+
+indictments, one charging defendant with conspiracy to commit a
+
+Hobbs Act robbery and the other charging defendant with
+
+conspiracy to distribute cocaine in violation of 21 U.S.C.
+
+§ 846.    With respect to the drug charge, the indictment alleges
+
+that 500 grams or more of cocaine were reasonably foreseeable
+
+and attributable to defendant, subjecting him to a mandatory
+
+minimum sentence of five years.      Both of those cases remain
+
+pending before Judge Hillman’s session of this Court. See United
+
+States v. Melendez et al., 4:19-cr-40024-TSH (D. Mass. 2019)
+
+
+
+
+                                  -5-
+      Case 4:99-cr-40016-NMG Document 147 Filed 05/27/20 Page 6 of 17
+
+
+
+(Hobbs Act conspiracy); United States v. Melendez et al., 4:19-
+
+cr-40025-TSH (D. Mass. 2019) (drug charge).
+
+II.   Motion for Relief Pursuant to the First Step Act
+
+      A.   Statutory Framework
+
+      Congress enacted the Fair Sentencing Act in 2010 primarily
+
+to reform the penalty structure for crack cocaine offenses. Pub.
+
+L. No. 111-220, 124 Stat. 2373.       In furtherance of that goal,
+
+§ 2 of the Fair Sentencing Act, among other things, lowered
+
+statutory penalties for crack cocaine offenses and increased the
+
+quantities of crack cocaine needed to initiate mandatory minimum
+
+sentences.   Those provisions did not, however, apply
+
+retroactively. Dorsey v. United States, 576 U.S. 260, 269, 281-
+
+82 (2012).
+
+      To address that concern, Congress enacted the First Step
+
+Act in 2018 which rendered several provisions of the Fair
+
+Sentencing Act retroactively applicable.        Relevant to Melendez’s
+
+pending motion is § 404 of the First Step Act, which permits a
+
+court that “imposed a sentence for a covered offense” to reduce
+
+a defendant’s sentence as if §§ 2 and 3 of the Fair Sentencing
+
+Act were in effect when the offense was committed. § 404(b).
+
+      A “covered offense” means
+
+      a violation of a Federal criminal statute, the
+      statutory penalties for which were modified by section
+      2 or 3 of the Fair Sentencing Act of 2010 (Public Law
+
+                                   -6-
+     Case 4:99-cr-40016-NMG Document 147 Filed 05/27/20 Page 7 of 17
+
+
+
+    111–220; 124 Stat. 2372), that was committed before
+    August 3, 2010.
+
+§ 404(a).   Section 404 further provides that
+
+    [n]othing in [§ 404] shall be construed to require a
+    court to reduce any sentence pursuant to this section.
+
+§ 404(c).
+
+    Also relevant to the pending motion are §§ 802(57) and
+
+841(b)(1)(B)(ii) of Title 21 of the United States Code.
+
+Pursuant to § 841(b)(1)(B)(ii),
+
+    [i]f any person commits [a violation of
+    § 841(b)(1)(B)] after a prior conviction for a serious
+    drug felony or serious violent felony has become
+    final, such person shall be sentenced to a term of
+    imprisonment which may not be less than 10 years and
+    not more than life imprisonment . . . .
+
+Section 802(57) defines a “serious drug felony” as
+
+    an offense described in section 924(e)(2) of title 18
+    for which (A) the offender served a term of
+    imprisonment of more than 12 months; and (B) the
+    offender’s release from any term of imprisonment was
+    within 15 years of the commencement of the instant
+    offense.
+
+    B.   Analysis
+
+    The drug charge against defendant pending before Judge
+
+Hillman involves conduct entirely distinct from the conviction
+
+at issue in this case.    There is, however, a single connection:
+
+the charge before Judge Hillman was commenced within 15 years of
+
+defendant’s release from serving his drug-related sentence of
+
+more than one year in this case.        Pursuant to 21 U.S.C.
+
+§§ 802(57) and 841(b)(1)(B)(ii), that connection results in
+
+
+                                  -7-
+     Case 4:99-cr-40016-NMG Document 147 Filed 05/27/20 Page 8 of 17
+
+
+
+defendant being subject to an enhanced mandatory minimum
+
+sentence of ten years (instead of 5 years) for the drug charge
+
+pending before Judge Hillman.
+
+    Defendant maintains that if the FSA had been in effect when
+
+he was initially sentenced, he likely would have received a
+
+reduced sentence that he would have completed outside of the 15-
+
+year “window”.   Consequently, he argues, he would not be subject
+
+to an enhanced mandatory minimum sentence in the case pending
+
+before Judge Hillman.    Defendant further contends that the
+
+language of the FSA plainly entitles him to such relief.          The
+
+government rejoins that the Court lacks jurisdiction to reduce
+
+defendant’s sentence because the sentence has been served in
+
+full and, even if the Court did have jurisdiction, such a
+
+reduction is not in the interest of justice.
+
+    For the reasons explained below, the Court will deny
+
+defendant’s motion for resentencing pursuant to the FSA because
+
+it lacks jurisdiction and, even if it had jurisdiction, it would
+
+decline to exercise its discretion to resentence defendant.
+
+        1.   Jurisdiction
+
+    The FSA was intended to provide relief to individuals who
+
+were convicted of a “covered offense” and sentenced to a term of
+
+imprisonment that Congress has now determined was not
+
+proportional to the crime of conviction.       There is, as defendant
+
+                                  -8-
+     Case 4:99-cr-40016-NMG Document 147 Filed 05/27/20 Page 9 of 17
+
+
+
+notes, no textual limitation in the FSA that conditions
+
+eligibility for sentence reduction on “covered offenses” that
+
+are unexpired.   The Act places only two limitations on a court’s
+
+authority to entertain a motion made thereunder: (1) the
+
+sentence for which reduction is sought must not have been
+
+imposed or previously reduced in accordance with §§ 2 and 3 of
+
+the Fair Sentencing Act and (2) the defendant must not have
+
+previously made a motion pursuant § 404 of the FSA that was
+
+denied on the merits. Pub. L. No. 115-391, § 404(c).
+
+    Notwithstanding the lack of any textual limitation barring
+
+the relief defendant seeks, the Court has an obligation to
+
+ensure that it maintains subject matter jurisdiction, which
+
+extends only to active cases or controversies. U.S. Const. art.
+
+III, § 2.   To that end, the Court must ensure that defendant
+
+“continue[s] to have a personal stake in the outcome” of this
+
+judicial proceeding. See United States v. Rene E., 583 F.3d 8,
+
+19 (1st Cir. 2009).    When a defendant challenges an underlying
+
+conviction for which the sentence imposed has been completed,
+
+courts routinely presume collateral consequences sufficient to
+
+demonstrate a continuing stake in the outcome. Spencer v. Kemna,
+
+523 U.S. 1, 11-12 (1998).     That presumption does not, however,
+
+apply to challenges to the completed sentence itself. Rene E.,
+
+583 F.3d at 19; see also Spencer, 523 U.S. at 14 (“We adhere to
+
+the principles announced in [Lane v. Williams, 455 U.S. 624
+
+                                  -9-
+    Case 4:99-cr-40016-NMG Document 147 Filed 05/27/20 Page 10 of 17
+
+
+
+(1982)], and decline to presume that collateral consequences
+
+adequate to meet Article III’s injury-in-fact requirement
+
+resulted from petitioner’s parole revocation.”).
+
+    Melendez submits that he can demonstrate a concrete
+
+collateral consequence resulting from resentencing because, if
+
+the Court reduces the subject sentence as requested, the
+
+completion date of that sentence will fall outside of the
+
+applicable 15-year “window”.     The indictment pending before
+
+Judge Hillman alleges that the drug-related offense began in
+
+March, 2019.   Consequently, to fall outside of the 15-year
+
+window, defendant must demonstrate that he would have completed
+
+his sentence for the crime committed in 1999 no later than
+
+March, 2004.
+
+    Applying the current version of the United States
+
+Sentencing Guidelines (“the Sentencing Guidelines”), defendant
+
+calculates his base offense level (“BOL”) as 22 by virtue of his
+
+being held accountable for 22.5g of cocaine base.        His BOL is
+
+increased by 2 levels for use of a firearm which results in a
+
+TOL of 24.   At CHC I, that results in a guideline range of 51-63
+
+months.   Melendez presumes that the Court would have imposed a
+
+sentence of 51 months at the low end of that range.        He does
+
+not, however, provide the projected release date after such a
+
+reduced sentence or account for the several violations of his
+
+
+                                 -10-
+    Case 4:99-cr-40016-NMG Document 147 Filed 05/27/20 Page 11 of 17
+
+
+
+term of supervised release which led to approximately 16 months
+
+of additional imprisonment.
+
+    As a preliminary matter, the Court is skeptical that the
+
+current version of the Sentencing Guidelines would apply at
+
+defendant’s FSA resentencing.     The FSA does not authorize relief
+
+based on “plenary resentencing issues”. See, e.g., United States
+
+v. McKinney, 382 F. Supp. 3d 1163, 1165 (D. Kan. 2019)
+
+(collecting cases).   It merely permits the imposition of “a
+
+reduced sentence as though [the Fair Sentencing Act] were in
+
+effect at the time the covered offense was committed”. § 404(b).
+
+Put differently, the statute does not account for intervening
+
+changes in the law (including amendments to the Sentencing
+
+Guidelines) other than the retroactive application of the Fair
+
+Sentencing Act.   As a result, it is unclear whether defendant
+
+would be entitled to the benefit of the several amendments to
+
+the Sentencing Guidelines that have already reduced the
+
+applicable guideline ranges since defendant was sentenced.
+
+    The Court is similarly unpersuaded that, even if the
+
+current Sentencing Guidelines were to apply, it would resentence
+
+defendant to a low-end guideline sentence given his recurrent
+
+criminal history and his several violations of supervised
+
+release.
+
+
+
+
+                                 -11-
+    Case 4:99-cr-40016-NMG Document 147 Filed 05/27/20 Page 12 of 17
+
+
+
+    Furthermore, even if the Court were to re-sentence
+
+defendant to 51 months imprisonment, it is doubtful that would
+
+provide the relief sought because of defendant’s several
+
+violations of supervised release.       Defendant contends that the
+
+Court should disregard those violations for purposes of
+
+determining FSA eligibility but proffers no argument in support
+
+of that contention.   The “interdependent relationship” between
+
+custodial imprisonment, supervised release and any additional
+
+terms of imprisonment imposed for revocation thereof
+
+demonstrates that each is a “component[] of one unified
+
+sentence”. See United States v. Ketter, 908 F.3d 61, 65 (4th
+
+Cir. 2018).   Accordingly, the Court can discern no reason for
+
+ignoring any portion of the sentence served by defendant in
+
+determining eligibility for FSA relief.
+
+    Neither party proffers a workable solution for how the
+
+Court should calculate whether defendant would have completed
+
+the subject sentence, including the original custodial
+
+imprisonment and the additional terms of imprisonment imposed
+
+after the several revocations of supervised release, more than
+
+15 years before he became subject to the pending charges before
+
+Judge Hillman.   In the absence of any guidance from the parties,
+
+the Court has determined that the most accurate method of doing
+
+so would be to shift the timeline of defendant’s term of
+
+imprisonment back as though his supervised release commenced
+
+                                 -12-
+    Case 4:99-cr-40016-NMG Document 147 Filed 05/27/20 Page 13 of 17
+
+
+
+after serving 51 months in prison and then calculating the
+
+subsequent violations of supervised release at the same
+
+intervals and with the same consequences as actually occurred.
+
+In that scenario, defendant would have completed (1) his initial
+
+term of imprisonment in December, 2002; (2) the term of
+
+imprisonment for his first violation of supervised release in
+
+August, 2005; (3) the term of imprisonment for his second
+
+violation in December, 2005, and (4) the term of imprisonment
+
+for his third violation in September, 2006.
+
+    Thus, even if defendant were entitled to First Step Act
+
+relief and a revised sentence of 51 months, he has not
+
+demonstrated that he would have completed that sentence,
+
+including the terms of imprisonment imposed for violations of
+
+supervised release, more than 15 years before commencement of
+
+the offense conduct which is the subject matter of the case
+
+pending before Judge Hillman.     Accordingly, defendant is unable
+
+to establish a definitive collateral consequence of a reduction
+
+of his already-completed sentence and the Court lacks
+
+jurisdiction.
+
+        2. Discretion
+
+
+    Assuming arguendo that defendant could demonstrate that the
+
+FSA applies and that the Court has jurisdiction to reduce his
+
+sentence, the Court would, in its discretion decline to reduce
+
+                                 -13-
+    Case 4:99-cr-40016-NMG Document 147 Filed 05/27/20 Page 14 of 17
+
+
+
+defendant’s sentence.   The FSA provides that, even if a
+
+defendant is eligible for resentencing, a sentencing court
+
+maintains discretion to determine whether a reduction is
+
+warranted. United States v. Smith, 954 F.3d 446, 452 (1st Cir.
+
+2020) (“The First Step Act gives district courts discretion to
+
+grant or deny a sentencing reduction.”).       The FSA does not
+
+provide any limitation on that discretion or identify any
+
+factors that should or must be considered.
+
+
+    At his second revocation hearing for violating supervised
+
+release, defendant assured this judicial officer that he was
+
+“ready to move forward” and become an upstanding citizen.         With
+
+apparent indifference, he proceeded to violate the conditions of
+
+his supervised release yet again and has since been charged with
+
+no less than six additional crimes.      Such conduct demonstrates a
+
+propensity for recidivism and a lack of remorse for his unlawful
+
+conduct.   As a result, the Court is dissuaded from exercising
+
+its discretion in defendant’s favor.
+
+
+    The Court also declines to exercise its discretion because
+
+it concludes that the FSA does not contemplate relief under
+
+these circumstances.    First, in essence defendant seeks to use a
+
+reduction of his sentence for a “covered offense” as a means of
+
+avoiding the prospect of an enhanced mandatory minimum for a
+
+separate, subsequent offense that is not covered by the FSA.
+
+                                 -14-
+    Case 4:99-cr-40016-NMG Document 147 Filed 05/27/20 Page 15 of 17
+
+
+
+But a reduced sentence under the FSA would not, alone, provide
+
+the relief defendant seeks unless that reduction causes
+
+defendant to fall outside of the applicable 15-year “window”.
+
+Nothing in the FSA entitles defendant to such relief. See United
+
+States v. Martin, 03-cr-795 (BMC), 2019 WL 2289850 (E.D.N.Y. May
+
+29, 2019) (declining to reduce defendant’s already-completed
+
+sentence pursuant to the FSA where the defendant remained in
+
+federal custody for an unrelated offense and resentencing would
+
+have the effect of advancing defendant’s release date); but see
+
+also United States v. Miles, 07-cr-00890 (APR) (E.D.N.Y. Apr.
+
+25, 2019) (considering remarkably similar facts as Martin and
+
+holding that the FSA provided defendant with a statutory basis
+
+for reduction of his sentence given the collateral consequence
+
+of an earlier release date on a subsequent conviction).
+
+
+    Furthermore, to provide defendant with FSA relief under
+
+these circumstances would, in effect, render application of the
+
+FSA to an already-completed sentence dependent upon the
+
+indictment or conviction of a defendant for a subsequent and
+
+unrelated crime.   Indeed, if defendant were not subject to
+
+additional charges before Judge Hillman, he would be unable to
+
+describe any potential collateral consequences.        The application
+
+of the FSA cannot be dependent upon a defendant’s proclivity
+
+toward crime. See Martin, 2019 WL 2289850, at *4(“[H]ad
+
+
+                                 -15-
+    Case 4:99-cr-40016-NMG Document 147 Filed 05/27/20 Page 16 of 17
+
+
+
+[defendant] filed his motion for a retroactive resentencing . .
+
+. while he was no longer incarcerated, I would have denied it
+
+outright as moot. The only difference between the latter
+
+hypothetical scenario and the facts before me is that defendant
+
+continued to commit crimes while he was in prison and by his own
+
+volition extended the term of his incarceration.”); see also
+
+Spencer, 523 U.S. at 15-18 (holding, in the habeas context, that
+
+collateral consequences cannot be “contingent upon [a
+
+defendant’s] violating the law, getting caught, and being
+
+convicted” because the prevention of such an occurrence is
+
+entirely within the defendant’s control and is required by law).
+
+    Finally, as the preceding calculations of the Court
+
+demonstrate, it is only by virtue of defendant’s several
+
+violations of supervised release and subsequent conduct that he
+
+now faces the application of the enhanced mandatory minimum
+
+sentence before Judge Hillman.     Had defendant abided by the
+
+terms of his supervised release, he may have persuaded the Court
+
+that definitive collateral consequences exist to warrant the
+
+reduction of his already-completed sentence in the event he
+
+could establish jurisdiction under the FSA.
+
+    Neither defendant’s conduct, nor the underlying policy
+
+consideration convince the Court that it should reduce
+
+defendant’s sentence pursuant to the FSA.       Accordingly,
+
+
+                                 -16-
+    Case 4:99-cr-40016-NMG Document 147 Filed 05/27/20 Page 17 of 17
+
+
+
+defendant’s motion for reduction of his sentence pursuant to the
+
+FSA will be denied because the Court has neither the
+
+jurisdiction nor the inclination to exercise its discretion to
+
+reduce defendant’s sentence.
+
+                                 ORDER
+
+    For the foregoing reasons, the motion of defendant for
+
+relief pursuant to the First Step Act (Docket No. 128) is
+
+DENIED.
+
+
+
+So ordered.
+
+
+
+                                   /s/ Nathaniel M. Gorton
+                                   Nathaniel M. Gorton
+                                   United States District Judge
+
+
+
+
+Dated May 27, 2020
+
+
+
+
+                                 -17-
+

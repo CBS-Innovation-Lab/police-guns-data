@@ -1,0 +1,899 @@
+     Case 3:03-cr-00073-RAM Document 348 Filed 02/26/21 Page 1 of 18
+     Case 3:20-cv-01154-RAM Document 18 Filed 02/26/21 Page 1 of 18
+
+
+                  IN THE UNITED STATES DISTRICT COURT
+                    FOR THE DISTRICT OF PUERTO RICO
+
+ UNITED STATES OF AMERICA,
+
+       Plaintiff,
+
+             v.                               CIVIL. NO. 20-1154 (RAM)
+
+
+ ANGEL FORTEZA-GARCIA,
+
+       Defendant.
+
+
+
+                            OPINION AND ORDER
+
+RAÚL M. ARIAS-MARXUACH, District Judge
+
+     Pending before the Court is Petitioner Angel Forteza-García’s
+
+Second Motion to Vacate, Set Aside or Correct Sentence (“Second
+
+Motion”)    pursuant   to   28   U.S.C.   §    2255.   (Docket   No.    2).   The
+
+Assistant Federal Public Defender also filed a Memorandum of Law
+
+in Support of Petitioner’s 28 U.S.C. § 2255 Motion (“Memorandum in
+
+Support”) filed on Defendant’s behalf. (Docket No. 13). While the
+
+Assistant    Federal   Public     Defender      has    competently     presented
+
+Petitioner’s case, having considered the arguments of the parties,
+
+the Court DENIES Petitioner’s Second Motion. (Docket Nos. 2, 13,
+
+16 and 17). No certificate of appealability shall issue as the
+
+Second Motion fails to make a substantial showing of the denial of
+
+a constitutional right pursuant to 28 U.S.C. § 2253(c)(2). In
+
+accordance with Rule 22(b)(1) of the Federal Rules of Appellate
+      Case 3:03-cr-00073-RAM Document 348 Filed 02/26/21 Page 2 of 18
+      Case 3:20-cv-01154-RAM Document 18 Filed 02/26/21 Page 2 of 18
+Civil No. 20-1154 (RAM)                                                          2
+
+
+Procedure, Petitioner may still seek a certificate directly from
+
+the United States Court of Appeals for the First Circuit (“First
+
+Circuit”).
+
+                                   I.    BACKGROUND
+
+    A. Criminal Case No. 03-cr-0073-2 (JAF)1
+
+        On    March   12,   2003   a    Grand   Jury    returned    the   original
+
+indictment in Case No. 03-cr-0073-2 (JAF). (Docket No. 7). The 6-
+
+count        indictment     charged     Petitioner      Angel      Forteza-García
+
+(“Petitioner”         or    “Forteza-García”)     and     co-defendants     Angel
+
+Forteza-García and David Gómez-Olmeda with robbing and murdering
+
+A.V.G., a confidential informant. Id.
+
+        On September 24, 2003, Petitioner plead guilty to Count Three
+
+of the original Indictment in Criminal Case no. 03-cr-0073-2
+
+pursuant to a plea agreement. (Docket Nos. 7 and 124). Count Three
+
+charged Petitioner and his co-defendants with a violation of 18
+
+U.S.C. §§ 924(c)(3) and 924 (j) and 2 in the course of committing
+
+a violation of Title 18 U.S.C. § 2114 (robbery of mail or any money
+
+or property of the United States). Id.
+
+        Judgment was entered against Forteza-García on January 15,
+
+2004 and he was sentenced to Three-Hundred Twenty-Four (324) months
+
+of imprisonment and five (5) years of supervised release. (Docket
+
+No. 187).
+
+
+
+1
+ Any reference to a docket entry in this section will only refer to docket
+entries in Criminal Case No. 03-0073-2.
+      Case 3:03-cr-00073-RAM Document 348 Filed 02/26/21 Page 3 of 18
+      Case 3:20-cv-01154-RAM Document 18 Filed 02/26/21 Page 3 of 18
+Civil No. 20-1154 (RAM)                                                     3
+
+
+  B. Civil Case No. 20-01154 (RAM)
+
+     In the Memorandum in Support, Petitioner posits that his
+
+conviction   under   18   U.S.C.   §§   924(c)   and   924(j)   and   2   for
+
+unlawfully possessing, using, or carrying a firearm in relation to
+
+a crime of violence resulting in murder as defined in 18 U.S.C. §
+
+1111 must be vacated. (Docket No. 13 at 1). Petitioner avers that
+
+the predicate crime underlying the Section 924(c) and (j) and 2
+
+convictions, 18 U.S.C. 2114(a) (assault and robbery of money or
+
+property of the United States or “postal robbery”), is not “a crime
+
+of violence” under Section 924(c)(3)(A) (the “force clause”). Id.
+
+at 1-2. Petitioner argues that: (a) postal robbery does “not
+
+necessarily require as an element, the actual, threatened, or
+
+attempted use of force[,]” and (b) the least culpable form of
+
+postal robbery criminalizes “rather minimal” force not “capable of
+
+causing physical pain or injury to another person.” Id. at 8-13.
+
+     The Government responds that 18 U.S.C. § 2114 is a “crime of
+
+violence” because according to multiple Circuit Courts, the word
+
+“rob” in the statute refers to common-law robbery which requires
+
+force or violence. (Docket No. 16 at 6-8). The Government also
+
+argues that Petitioner’s Section 924(c) conviction is predicated
+
+on the “aggravated modality” of 18 U.S.C. 2114(a). Id. at 8.
+
+Lastly, the Government points to case law from the United States
+
+District Court for District of Puerto Rico (“District of Puerto
+
+Rico”) and other United States Circuit Courts of Appeals which
+      Case 3:03-cr-00073-RAM Document 348 Filed 02/26/21 Page 4 of 18
+      Case 3:20-cv-01154-RAM Document 18 Filed 02/26/21 Page 4 of 18
+Civil No. 20-1154 (RAM)                                                      4
+
+
+have concluded that 18 U.S.C. § 2114(a)’s “aggravated modality” is
+
+a “crime of violence.” Id. at 9-10.
+
+      The Court need not determine whether robbery or assault in
+
+the first part of 18 U.S.C. § 2114(a) constitute “crimes of
+
+violence.” Nor must it determine whether the offense in 18 U.S.C.
+
+§   2114(a)     is   not   a   “crime   of   violence”   under     18   U.S.C.
+
+924(c)(3)(B) (the “residual clause”) because the Supreme Court of
+
+the United States has already declared the residual clause void
+
+for vagueness. See United States v. Davis, 139 S. Ct. 2319 (2019).
+
+Instead, for the following reasons explained below, the Court holds
+
+that the predicate offense in this case is 18 U.S.C. § 2114(a)’s
+
+“aggravated offense” which is a “crime of violence” under Section
+
+924(c)(3)(A)’s “force clause.”
+
+      First, 18 U.S.C. § 2114(a) is a divisible statute with an
+
+aggravated offense that provides for enhanced penalties when a
+
+victim is wounded, or the victim’s life is put in jeopardy using
+
+a   dangerous    weapon.   Persuasive    precedent   from   several     United
+
+States Courts of Appeals and the District of Puerto Rico have held
+
+that the aggravated offense in 18 U.S.C. § 2114(a) constitutes a
+
+“crime of violence” under Section 924(c)(3)(A)’s “force clause.”
+
+      Second,    applying      the   modified   categorical      approach   by
+
+examining the Indictment, the Plea Agreement, and the plea colloquy
+
+confirms that Petitioner plead guilty to the aggravated offense in
+
+18 U.S.C. § 2114(a).
+      Case 3:03-cr-00073-RAM Document 348 Filed 02/26/21 Page 5 of 18
+      Case 3:20-cv-01154-RAM Document 18 Filed 02/26/21 Page 5 of 18
+Civil No. 20-1154 (RAM)                                                   5
+
+
+                          II.   STANDARD OF REVIEW
+
+       Under 28 U.S.C. § 2255, a prisoner in custody under a sentence
+
+of a Federal Court may move the Court that imposed the sentence to
+
+vacate, set aside or correct the sentence:
+
+              [U]pon the ground that the sentence was
+              imposed in violation of the Constitution or
+              laws of the United States, or that the court
+              was without jurisdiction to impose such
+              sentence, or that the sentence was in excess
+              of the maximum authorized by law or is
+              otherwise subject to collateral attack.
+
+       A petitioner’s post-conviction request for relief “must show
+
+that    his   sentence   ‘reveal[s]   fundamental    defects    which,   if
+
+uncorrected, will result in a complete miscarriage of justice.’”
+
+Gandia-Maysonet v. United States, 2020 WL 5646457, at *2 (D.P.R.
+
+2020) (quoting Lebron Ortiz v. United States, 2015 WL 2400746, at
+
+*2 (D.P.R. 2015)). Thus, the petitioner bears the burden of
+
+establishing the defect. Id.
+
+       Likewise, “[w]hen a petition is brought under section 2255,
+
+the petitioner bears the burden of establishing the need for an
+
+evidentiary hearing.” U.S. v. McGill, 11 F.3d 223, 225 (1st Cir.
+
+1993) (citations omitted). To determine whether the petitioner has
+
+met this burden, “the court must take many of petitioner’s factual
+
+averments as true,” but it need not “give weight to conclusory
+
+allegations,      self-interested     characterizations,       discredited
+
+inventions, or opprobrious epithets.” Id. (citation omitted). A
+
+hearing on such a petition “generally is not necessary when a §
+      Case 3:03-cr-00073-RAM Document 348 Filed 02/26/21 Page 6 of 18
+      Case 3:20-cv-01154-RAM Document 18 Filed 02/26/21 Page 6 of 18
+Civil No. 20-1154 (RAM)                                                 6
+
+
+2255 motion (1) is inadequate on its face, or (2) although facially
+
+adequate is conclusively refuted as to the alleged facts by the
+
+files and records of the case.” Moran v. Hogan, 494 F.2d 1220,
+
+1222 (1st Cir. 1974). Simply put, a Section 2255 motion “‘may be
+
+denied without a hearing as to those allegations which, if accepted
+
+as true, entitle the movant to no relief, or which need not be
+
+accepted as true because they state conclusions instead of facts,
+
+contradict the record, or are inherently incredible.’” McGill, 11
+
+F.3d at 226 (quoting Shraiar v. United States, 736 F.2d 817, 818
+
+(1st Cir. 1984)) (internal quotation omitted).
+
+                              III. DISCUSSION
+
+     No hearing has been requested or is necessary in this case
+
+because the Petition presents only legal issues and does not
+
+require   resolving    any   disputed   factual    issues.   See   Gandia-
+
+Maysonet, 2020 WL 5646457, at *2 (quoting Miller v. United States,
+
+564 F.2d 103, 106 (1st Cir. 1977)) (“Where there are no disputed
+
+facts crucial to the outcome, leaving only questions of law, [§]
+
+2255 does not require a hearing; the motion may be decided [...]
+
+without oral presentation”).
+
+  A. Section 924 (C)(3)(A) and the approaches to analysis of
+     whether a predicate offense is a “crime of violence”.
+
+     Section 924(c)(1) provides for enhanced penalties to:
+
+           [A]ny person who, during and in relation to
+           any crime of violence or drug trafficking
+           crime (including a crime of violence or drug
+           trafficking crime that provides for an
+      Case 3:03-cr-00073-RAM Document 348 Filed 02/26/21 Page 7 of 18
+      Case 3:20-cv-01154-RAM Document 18 Filed 02/26/21 Page 7 of 18
+Civil No. 20-1154 (RAM)                                                         7
+
+
+            enhanced punishment if committed by the use of
+            a deadly or dangerous weapon or device) for
+            which the person may be prosecuted in a court
+            of the United States, uses or carries a
+            firearm, or who, in furtherance of any such
+            crime, possesses a firearm[.]
+
+18 U.S.C. § 924(c)(1). Furthermore, Section 924(c)(3) contains two
+
+definitions of the statutory term “crime of violence.” A “crime of
+
+violence” is one that:
+
+            (A) has as an element the use, attempted use,
+            or threatened use of physical force against
+            the person or property of another, or
+
+            (B)     that by its nature, involves a
+            substantial risk that physical force against
+            the person or property of another may be used
+            in the course of committing the offense.
+
+18 U.S.C. § 924 (c)(3). Section 924(c)(3)(A) is known as the “force
+
+clause”. See United States v. Rose, 896 F.3d. 104, 106 (1st Cir.
+
+2018). Whereas section 924(c)(3)(B) is known as the “residual
+
+clause.” Id. The Court need not dwell on subsection “B” as it has
+
+been declared unconstitutional. See Davis, 139 S. Ct. at 2336.
+
+     As    explained    by    the    First   Circuit,     the   first   step   in
+
+determining whether a statute is a “crime of violence” under
+
+Section 924(c)(3)(A)’s force clause, is to ascertain “whether the
+
+criminal   statute     of    the    predicate   offense    is   indivisible    or
+
+divisible.” King v. United States, 965 F.3d 60, 65 (1st Cir. 2020).
+
+An indivisible statute contains a “single, indivisible set of
+
+elements[,]” instead of containing alternative elements, “that
+
+criminalizes a broader swath of conduct than the relevant generic
+      Case 3:03-cr-00073-RAM Document 348 Filed 02/26/21 Page 8 of 18
+      Case 3:20-cv-01154-RAM Document 18 Filed 02/26/21 Page 8 of 18
+Civil No. 20-1154 (RAM)                                                       8
+
+
+offense.” Descamps v. United States, 570 U.S. 254, 258 (2013).
+
+This indivisible statute may also “enumerate[] various factual
+
+means of committing a single element.” United States v. Faust, 853
+
+F.3d 39, 52 (1st Cir. 2017); see also Mathis v. United States, 136
+
+S.Ct.    2243,   2249   (2016)   (providing    hypothetical       examples   of
+
+indivisible      statutes).   Conversely,      a   statute   is    considered
+
+“divisible” when it “sets out one or more elements of the offense
+
+in   the    alternative[,]”      thereby     “listing    potential    offense
+
+elements.” Descamps, 570 U.S. at 257, 260. A “divisible” statute
+
+therefore “comprises multiple, alternative versions of the crime.”
+
+Id. at 262. Moreover, when “statutory alternatives carry different
+
+punishments, then . . . they must be elements.” Mathis, 136 S.Ct.
+
+at 2256.
+
+        To determine whether an indivisible statute is a “crime of
+
+violence,” courts apply a “categorical approach” that considers
+
+“the elements of the crime of conviction, not the facts of how it
+
+was committed, and assess[es] whether violent force is an element
+
+of the crime.” United States v. Taylor, 848 F.3d 476, 491 (1st
+
+Cir. 2017) (emphasis added). However, for divisible statutes,
+
+courts use a “modified categorical approach.” This approach is
+
+used when certain “alternative elements require the use, attempted
+
+use, or threatened use of physical force while others do not[.]”
+
+King, 956 F.3d at 66. It consists of analyzing a limited set of
+
+Shepard     documents    “such    as   the    charging    documents,     plea
+      Case 3:03-cr-00073-RAM Document 348 Filed 02/26/21 Page 9 of 18
+      Case 3:20-cv-01154-RAM Document 18 Filed 02/26/21 Page 9 of 18
+Civil No. 20-1154 (RAM)                                                   9
+
+
+agreements, plea colloquies, jury instructions, and verdict forms
+
+[...] to determine which of the statute’s alternative elements
+
+formed the basis of the prior conviction.” United States v.
+
+Delgado-Sánchez, 849 F.3d 1, 8 (1st Cir. 2017) (quoting United
+
+States v. Castro-Vazquez, 802 F.3d 28, 35 (1st Cir. 2015). The
+
+objective of looking at those documents is to “determine which of
+
+the enumerated alternatives within the statute constituted the
+
+actual crime of conviction.” King, 965 F.3d at 66 (citation
+
+omitted).   These   documents   also   help   the   sentencing   court   to
+
+“compare[] only this specific offense with the relevant generic
+
+offense.” United States v. Burghardt, 939 F.3d 397, 406 (1st Cir.
+
+2019) (citing Mathis, 136 S.Ct. at 2249). Moreover, “under the
+
+modified categorical approach, if the crime of conviction involves
+
+the use, attempted use, or threatened use of physical force against
+
+the person or property of another, then the offense qualifies a
+
+crime of violence under § 924(c)’s force clause.” King, 965 F.3d
+
+at 66 (citation omitted).
+
+  B. The aggravated offense in 18 U.S.C. § 2114(a) is a “crime of
+     violence” for purposes of 18 U.S.C. § 924(c)(3)(A)’s force
+     clause.
+
+     Forteza-García     contends   that   “basic    postal   robbery,”   18
+
+U.S.C. § 2114(a), the underlying crime to his 924(c)(3) conviction,
+
+, is not a “crime of violence” for purposes of 924(c)(3)(A)’s force
+
+clause because it purportedly criminalizes “rather minimal force”
+
+that does not require “force capable of causing physical pain or
+     Case 3:03-cr-00073-RAM Document 348 Filed 02/26/21 Page 10 of 18
+     Case 3:20-cv-01154-RAM Document 18 Filed 02/26/21 Page 10 of 18
+Civil No. 20-1154 (RAM)                                                 10
+
+
+injury to another person.” (Docket No. 13 at 10-12). The Court
+
+disagrees. 18 U.S.C. § 2114(a) is a divisible statute with an
+
+aggravated offense that is categorically a predicate “crime of
+
+violence” under Section 924(c)(3)(A)’s force clause. Application
+
+of the modified categorical approach leads to the conclusion that
+
+Forteza-García plead guilty to 18 U.S.C. § 2114(a)’s aggravated
+
+offense.
+
+     The postal robbery statute provides that:
+
+           A person who assaults any person having lawful
+           charge, control, or custody of any mail matter
+           or of any money or other property of the United
+           States, with intent to rob, steal, or purloin
+           such mail matter, money, or other property of
+           the United States, or robs or attempts to rob
+           any such person of mail matter, or of any
+           money, or other property of the United States,
+           shall, for the first offense, be imprisoned
+           not more than ten years; and if in effecting
+           or attempting to effect such robbery he wounds
+           the person having custody of such mail, money,
+           or other property of the United States, or
+           puts his life in jeopardy by the use of a
+           dangerous weapon, or for a subsequent offense,
+           shall be imprisoned not more than twenty-five
+           years.(Emphasis added).
+
+18 U.S.C. § 2114(a). While the First Circuit has not weighed in on
+
+the issue, multiple United States Courts of Appeals have concluded
+
+that 18 U.S.C. § 2114(a) is a divisible statute. As the highlighted
+
+text after the semicolon shows, the statute provides for an
+
+increased penalty of imprisonment of up to twenty-five years when
+
+in the course of the assault or robbery the defendant: (1) wounds
+     Case 3:03-cr-00073-RAM Document 348 Filed 02/26/21 Page 11 of 18
+     Case 3:20-cv-01154-RAM Document 18 Filed 02/26/21 Page 11 of 18
+Civil No. 20-1154 (RAM)                                                 11
+
+
+the person having custody of property of the United States; or (2)
+
+puts the person’s life in jeopardy by the use of a dangerous
+
+weapon. See United States v. Bryant, 949 F.3d 168, 174 (4th Cir.
+
+2020); Knight v. United States 936 F.3d 495, 498-99 (6th Cir.
+
+2019); United States v. Enoch, 865 F.3d 575, 5801-81 (7th Cir.
+
+2017), cert. denied 138 S.Ct. 1015 (2018); United States v. Thomas,
+
+703 F. App'x 72, 78 (3d Cir. 2017) (affirming appellant’s § 924(c)
+
+conviction because “the jury had an adequate factual basis to
+
+conclude that § 2114(a), committed while using and carrying a
+
+firearm, is a crime of violence.”); In re Watts, 829 F.3d 1287,
+
+1289-90 (11th Cir. 2016).
+
+     Other judges in the District of Puerto Rico have reached the
+
+same conclusion. See Rojas-Tapia v. United States, 2020 WL 3690398,
+
+at *5 (D.P.R. 2020). The Court held therein that “Circuit Courts
+
+have determined that 18 U.S.C. § 2114(a) carries a ‘separate
+
+aggravated offense that includes the wounding or putting the
+
+victim’s life in jeopardy by the use of dangerous weapon.’” Id.
+
+(emphasis in original); see also, Rojas-Tapia v. United States,
+
+458 F.Supp. 3d 111, 119-121 (D.P.R. 2020). The Court further notes
+
+that Petitioner and the Government agree that we are dealing with
+
+a divisible statute. (Docket Nos. 13 at 8-9, 12; 16 at 8).
+
+     The aggravated offense in 18 U.S.C. § 2114(a) is “crime of
+
+violence” for Section 924 purposes because “wounding” and putting
+
+a victim’s life “in jeopardy” with a “dangerous weapon” are
+     Case 3:03-cr-00073-RAM Document 348 Filed 02/26/21 Page 12 of 18
+     Case 3:20-cv-01154-RAM Document 18 Filed 02/26/21 Page 12 of 18
+Civil No. 20-1154 (RAM)                                                  12
+
+
+elements that entail “the use, attempted use, or threatened use of
+
+physical force against the person.” 18 U.S.C. § 924(c)(3)(A). The
+
+Seventh Circuit Court of Appeals (“Seventh Circuit”) reached a
+
+similar conclusion in United States v. Enoch when it concluded
+
+that the second part of 18 U.S.C. § 2114(a) is a crime of violence
+
+under    Section   924(c)(3)’s   force   clause   in   a   case   involving
+
+brandishing of a weapon. See Enoch, 865 F.3d at 582. As aptly put
+
+by the Seventh Circuit:
+
+            We cannot see how a defendant can brandish a
+            gun in such a manner as to put the life of a
+            victim in jeopardy without committing an
+            offense that “has as an element the use,
+            attempted use, or threatened use of physical
+            force against the person and property of
+            another.”
+
+
+Id. (quoting 18 U.S.C. § 924(c)(3)(A)) (emphasis added). See also
+
+United States v. Dowd, 451 F.3d 1244, 1252 n.8 (11th Cir. 2006)
+
+(holding that the aggravated § 2114(a) violations stemming from
+
+the fact that the appellant placed the victim’s life in jeopardy
+
+by using a dangerous weapon “undisputedly describes a crime of
+
+violence.”); Rojas-Tapia, 2020 WL 36960398, at *5 (holding that
+
+Petitioner‘s conviction under 18 U.S.C. § 2114(a) was a “crime of
+
+violence” under Section 924(c)’s force clause because he used
+
+firearms and placed the lives of postal employees in danger).
+
+        Pursuant to the modified categorical approach, the Court
+
+reviewed the Indictment, the Plea Agreement, and the plea colloquy.
+     Case 3:03-cr-00073-RAM Document 348 Filed 02/26/21 Page 13 of 18
+     Case 3:20-cv-01154-RAM Document 18 Filed 02/26/21 Page 13 of 18
+Civil No. 20-1154 (RAM)                                                    13
+
+
+(Case   No.    03-cr-0073-2,   Docket   Nos.   7,   124   and   232).   These
+
+documents show that the predicate offense underlying Forteza-
+
+García’s   Section    924(c)   conviction   is   18   U.S.C.    §   2114(a)’s
+
+aggravated offense because Petitioner agreed to plead guilty to
+
+the elements of “wounding” and putting A.V.G.’s life “in jeopardy”
+
+with a “dangerous weapon” in the course of assaulting A.V.G with
+
+the intent to rob, steal or purloin money of the United States
+
+that’s was within A.V.G.’s custody. (Case No. 03-cr-0073-2, Docket
+
+No. 232 at 18). Thus, Forteza-García’s Section 924(c) and (j)
+
+convictions are valid.
+
+     In the Plea Agreement, Petitioner plead guilty to Count Three
+
+of the original Indictment which states that Petitioner and his
+
+co-defendants:
+
+              [A]aiding and abetting each other, and, aided
+              and abetted by others to the Grand Jury
+              unknown, did willfully, intentionally and
+              unlawfully possess, use or carry a firearm
+              during and in relation to a crime of
+              violence…that is assaulting an individual who
+              lawfully had charge, control, or custody of
+              money of the United States, with intent to
+              rob, steal, or purloin said money, as set
+              forth in COUNT ONE herein, which is realleged
+              and incorporated by reference herein, an
+              offense that they could be prosecuted in a
+              court of the United States as a violation to
+              Title 18, United States Code, Section 2114,
+              and, in the course of that crime of violence,
+              the defendants herein unlawfully killed
+              A.V.G., with malice aforethought through the
+              use of a firearm, which is murder, as defined,
+              in Title 19 United States Code Section 1111,
+              by knowingly, willfully, deliberately and
+              maliciously and with premeditation shooting
+     Case 3:03-cr-00073-RAM Document 348 Filed 02/26/21 Page 14 of 18
+     Case 3:20-cv-01154-RAM Document 18 Filed 02/26/21 Page 14 of 18
+Civil No. 20-1154 (RAM)                                                          14
+
+
+             A.V.G. with a firearm thus causing his death,
+             all in violation of Title 18 United States
+             Code Section 924 (j) and 2.
+
+
+(Case No. 03-cr-0073-2, Docket No. 7 at 2-3; 124 at 1-2) (emphasis
+
+added). The Indictment charged Petitioner and his co-defendants
+
+with possessing and using a dangerous weapon, that is the firearm,
+
+during the assault, robbery and killing of A.V.G. who had charge,
+
+control, or custody of money of the United States. (Docket No. 7
+
+at 2-3). To state the obvious, a firearm is a dangerous weapon
+
+because “as used or attempted to be used, [it] may endanger the
+
+life of or inflict great bodily harm on a person.” Taylor, 848
+
+F.3d at 493-494; see also Rojas-Tapia, 2020 WL 3960398, at *6
+
+(identifying a 9mm pistol, a .40 caliber semi-automatic Glock
+
+pistol, and a semi-automatic AK-47 type assault rifle as “dangerous
+
+weapons.”). Thus, Count Three stated all of the elements of a
+
+violation of 18 U.S.C.§ 2114(a)’s aggravated offense. (Case No.
+
+03-cr-0073-2, Docket Nos. 124 at 1-2; 232 at 17-18). In particular,
+
+the Transcript of the September 24, 2003 Change of Plea reflects
+
+where    Petitioner   was   read   Count   Three       by   the   Court   and   he
+
+acknowledged the charges. (Case No. 03-cr-0073-2, Docket No. 232
+
+at 10, 17-18, 26).
+
+        By pleading guilty to Count Three, Petitioner plead guilty to
+
+the   aggravated   offense    in   18   U.S.C.     §    2114(a)    because      the
+
+indictment alleged that A.V.G. was wounded (mortally) and his life
+     Case 3:03-cr-00073-RAM Document 348 Filed 02/26/21 Page 15 of 18
+     Case 3:20-cv-01154-RAM Document 18 Filed 02/26/21 Page 15 of 18
+Civil No. 20-1154 (RAM)                                                   15
+
+
+was placed in jeopardy (taken) with a dangerous weapon in the
+
+course of assaulting and robbing him while he had custody of money
+
+belonging to the United States.         Moreover, even though Petitioner
+
+did not plead guilty to Count One of the Indictment, that is a
+
+violation to 18 U.S.C. § 20114(a), the plea colloquy demonstrates
+
+that Petitioner agreed to plead guilty to a charge wherein he
+
+admitted to having been involved in the assault, killing and
+
+robbing of A.V.G. with a firearm. Id. at 18, 26, 30-31. Similarly,
+
+during the plea colloquy and after the Government’s proffer of the
+
+factual basis for Count Three, the Court asked Petitioner whether
+
+he accepted his involvement in the killing and robbing of A.V.G.
+
+and Petitioner replied in the affirmative “Yes.” Id. at 40. Thus,
+
+Petitioner admitted to having committed the predicate offense. As
+
+stated by several United States Courts of Appeals “[b]y its plain
+
+language, section    924   does   not    require   that   a   defendant   be
+
+convicted of, or even charged with, the predicate offense to be
+
+found guilty of using or carrying a firearm in relation to the
+
+predicate offense.” United States v. Frye, 402 F.3d 1123, 1127
+
+(11th Cir. 2005). See also United States v. Munoz-Fabela, 896 F.2d
+
+908, 911 (5th Cir. 1990) (“[I]t is only the fact of the offense,
+
+and not a conviction, that is needed to establish the required
+
+predicate.”); Harris v. United States, 2013 WL 12450621, at *3
+
+(M.D. Fla. 2013) (“[A] defendant does not have to be convicted of,
+
+or even charged with, the predicate offense to be found guilty of
+     Case 3:03-cr-00073-RAM Document 348 Filed 02/26/21 Page 16 of 18
+     Case 3:20-cv-01154-RAM Document 18 Filed 02/26/21 Page 16 of 18
+Civil No. 20-1154 (RAM)                                                   16
+
+
+using    or   carrying   a   firearm   in   relation   to   the    predicate
+
+offense. Section 924 requires only that the crime of violence be
+
+one that “may be prosecuted.”)
+
+        Petitioner also contends that the Court should focus on the
+
+least culpable conduct captured by the aggravated modality of 18
+
+U.S.C. § 2114(a), a “simple robbery” which he argues is not a crime
+
+of violence. (Docket No. 13 at 12-13). But, the whole point of
+
+engaging in the modified categorical approach in the face of a
+
+divisible statute is to determine “if the crime of conviction
+
+involves the use, attempted use, or threatened use of physical
+
+force    against   the   person   or   property   of   another,”    thereby
+
+“qualifyi[ng] as a crime of violence under § 924(c)’s force
+
+clause.” King, 965 F.3d at 66. As shown above, Petitioner’s
+
+conviction included the element of “wounding” and “placing the
+
+person’s life in jeopardy through the use of a dangerous weapon”
+
+which undoubtedly qualifies his 18 U.S.C. § 2114(a)’s aggravated
+
+offense as a “crime of violence.”
+
+              Lastly, First Circuit precedent precludes any potential
+
+argument that “aiding and abetting” a “crime of violence” does not
+
+satisfy 924(c)’s force clause. According to First Circuit case
+
+law, 18 U.S.C. § 2 “makes an aider and abettor ‘punishable as the
+
+principal,’ and thus no different for purposes of the categorical
+
+approach than one who commits the substantive offense.” United
+
+States v. García-Ortiz, 904 F.3d 102, 109 (1st Cir. 2018) (citation
+     Case 3:03-cr-00073-RAM Document 348 Filed 02/26/21 Page 17 of 18
+     Case 3:20-cv-01154-RAM Document 18 Filed 02/26/21 Page 17 of 18
+Civil No. 20-1154 (RAM)                                                      17
+
+
+omitted). See also Gonzales v. Duenas Alvarez, 549 U.S. 183, 189
+
+(2007)     (“[E]very      jurisdiction—all      States    and   the     Federal
+
+Government—has      ‘expressly      abrogated    the     distinction’    among
+
+principals    and   aiders    and   abettors”.);    Ocasio-Ruiz   v.    United
+
+States, 2020 WL 4437858, at *9 n. 15 (D.P.R. 2020) (“[T]he fact
+
+that Petitioner was charged as an “aider an abettor” does nothing
+
+to change the underlying crime's category of “crime of violence”.);
+
+Rojas-Tapia, 2020 WL 36960398, at *5 (holding that “since the
+
+‘separate aggravated offense’ of 18 U.S.C. § 2114(a) is a ‘crime
+
+of    violence’,    the    aiding    and   abetting      conviction     against
+
+Petitioner constitutes a ‘crime of violence’ in itself.”). The
+
+Court sees no reason to rule any differently in the case at bar.
+
+     C. No certificate of appealability will be issued.
+
+       28 U.S.C.A. § 2253(c)(2) establishes that a District Court
+
+judge may only issue a certificate of appealability of a section
+
+2255 proceeding “if the applicant has made a substantial showing
+
+of the denial of a constitutional right.” In this case, the Court
+
+will not issue a certificate of appealability because Petitioner
+
+has failed to make such a showing. See Morales Torres v. United
+
+States, 2019 WL 4744217 at *3 (D.P.R. 2019) (denying certificate
+
+of appealability in a case dismissing Section 2255 petition because
+
+Hobbs Act Robbery is a predicate crime of violence under Section
+
+924 (c)’s force clause).
+     Case 3:03-cr-00073-RAM Document 348 Filed 02/26/21 Page 18 of 18
+     Case 3:20-cv-01154-RAM Document 18 Filed 02/26/21 Page 18 of 18
+Civil No. 20-1154 (RAM)                                                 18
+
+
+                              IV.   CONCLUSION
+
+     Based on the foregoing, Petitioner Angel Forteza-García’s
+
+Second Motion to Vacate, Set Aside or Correct Sentence pursuant to
+
+28 U.S.C. § 2255 (Docket No. 2) is DENIED. Judgment of dismissal
+
+WITH PREJUDICE will be entered accordingly.
+
+     IT IS SO ORDERED.
+
+     In San Juan, Puerto Rico, this 26th day of February 2021.
+
+                                          S/ RAÚL M. ARIAS-MARXUACH
+                                         United States District Judge
+

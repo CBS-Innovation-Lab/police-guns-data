@@ -1,0 +1,794 @@
+                       UNITED STATES DISTRICT COURT
+                            DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA                )
+                                        )
+      v.                                )     1:11-cr-00053-JAW
+                                        )
+KEVIN EARL SPRING                       )
+
+
+                      ORDER ON MOTIONS TO DISMISS
+
+      The Court concludes that the Defendant‟s due process argument may not be
+
+reached in a motion to dismiss the indictment because it depends upon the
+
+resolution of facts that must be decided by a jury. The Court further concludes that
+
+the Government has not violated the Speedy Trial Act‟s thirty-day provision
+
+between arrest and indictment and that charges brought under 18 U.S.C. §
+
+922(a)(6) and § 924(a)(1)(A) are not multiplicitous.
+
+I.    STATEMENT OF FACTS
+
+      On April 13, 2011, a federal grand jury indicted Kevin Earl Spring for
+
+making a false statement in connection with the acquisition of a firearm, an alleged
+
+violation of 18 U.S.C. § 922(a)(6). Indictment (Docket # 38). On May 18, 2011, a
+
+federal grand jury issued a superseding indictment, adding two counts to the April
+
+13, 2011 indictment: Count II, making a false statement in connection with the
+
+purchase of a firearm, a violation of 18 U.S.C. § 924(a)(1), and Count III, possession
+
+of a firearm by a person previously committed to a mental institution, a violation of
+
+18 U.S.C. § 922(g)(4).     On June 14, 2011, Mr. Spring moved to dismiss the
+
+indictment based on due process, speedy trial, and multiplicity grounds. Def.’s Mot.
+to Dismiss the Superseding Indictment (Docket # 76) (Due Process Mot.); Def.’s Mot.
+
+to Dismiss Count III of the Superseding Indictment for Speedy Trial Violation and to
+
+Dismiss Count II as Being Multiplicious (Docket # 77) (Speedy Trial and
+
+Multiplicity Mot.).
+
+      A.         Due Process Motion
+
+             1.       Kevin Earl Spring’s Contentions
+
+      To his motion, Mr. Spring attached a discharge summary from an emergency
+
+admission to Penobscot Bay Medical Center (PenBay). Due Process Mot. Attach. 1
+
+at 1, Penobscot Bay Medical Center Discharge Summary (Docket # 76) (Discharge
+
+Summary).        According to the discharge summary, on December 29, 2010, Mr.
+
+Spring called the police to his home in Owls Head, Maine, claiming he was sure he
+
+had heard “footsteps” and “whisperings of a couple of kids who had worked for him
+
+in his basement,” and he thought they were stealing from him. Discharge Summary
+
+at 1. He explained that “those kids may be doing this for retribution.” Id. The
+
+police thought he might be “delusional and hallucinating” and brought him to
+
+Penobscot Bay Hospital where he was kept until January 4, 2011. Id. Mr. Spring
+
+refused all psychotropic medication and was given psychotherapy and milieu
+
+therapy.   Id.    The discharge summary states that during his hospital stay, he
+
+evidenced no “paranoia or delusions, hallucinations, suicidality, or homicidality,
+
+though he appeared somewhat odd and eccentric at times.” Id. at 2. His mental
+
+status at discharge was “alert, oriented, cooperative, pleasant, and polite, in no
+
+distress without signs of intoxication or withdrawal.” Id. The discharge summary
+
+
+
+                                         2
+concluded that “[t]he patient was not judged suicidal, homicidal, psychotic or
+
+dangerous to himself or others at the time of discharge. There was no imminent
+
+danger.” Id.
+
+      Mr. Spring says that there is a legal difference between an emergency
+
+admission to a hospital and a commitment.         Due Process Mot. at 2-3.      While
+
+acknowledging that the First Circuit has concluded that Maine‟s “blue paper”
+
+emergency admission process constitutes a commitment, Mr. Spring contends that
+
+the concept of commitment should not be extended to a temporary detention
+
+because it deprives a person of a constitutional right without due process of law. Id.
+
+at 3. Further, it categorizes all persons who have been subject to an emergency
+
+admission as dangerous, which in Mr. Spring‟s view is an overly broad statutory
+
+category that does not withstand intermediate scrutiny. Id.
+
+      Mr. Spring also asserts that “[o]n January 27, 2011, Mr. Spring went to
+
+[Willey‟s] Sports Center in Ellsworth, Maine, where he discussed the purchase of a
+
+Glock pistol. Mr. Spring handled the pistol he selected, paid the purchase price and
+
+filled out the ATF Form 4473.      In block 11(f) of that [form] Mr. Spring gave a
+
+negative answer to the question asking whether he had ever been committed to a
+
+mental institution.” Id. at 4.
+
+      Based on these facts, Mr. Spring contends that despite the First Circuit case
+
+of United States v. Chamberlain, 159 F.3d 656 (1st Cir. 1998), the blue paper
+
+process in Maine “does not provide the procedures needed to comply with the due
+
+process clause.” Due Process Mot. at 10. He also urges the Court to reexamine
+
+
+
+                                          3
+Chamberlain in view of the United States Supreme Court‟s 2008 decision in District
+
+of Columbia v. Heller, 554 U.S. 570 (2008) in which the Court interpreted the
+
+Second Amendment as conferring an individual right to keep and bear arms. Due
+
+Process Mot. at 10-11.
+
+               2.     The Government’s Response
+
+         In its response, the Government posits a number of facts that were not
+
+included in Mr. Spring‟s motion. Resp. of the United States to Def.’s Mot. to Dismiss
+
+the Superseding Indictment (Docket # 83) (Gov’t’s Due Process Resp.). It attached
+
+documents that reveal that a crisis clinician completed and signed an application
+
+for emergency committal or what the state of Maine refers to as a “blue paper.” Id.
+
+Attach. 1, Application for Emergency Involuntary Admission to a Mental Hospital
+
+(Docket # 83). It indicates that a physician certified Mr. Spring as mentally ill and
+
+posing a risk of serious harm and that a judicial officer authorized placing him in
+
+custody and transporting him to the psychiatric unit at PenBay.              Id.   The
+
+Government contends that this procedure has withstood legal attack. Gov’t’s Due
+
+Process Resp. at 4-19.
+
+         B.     Speedy Trial and Multiplicity Motion
+
+               1.     The Defendant’s Contentions
+
+         Mr. Spring‟s speedy trial and multiplicity motion recites the complete history
+
+of this case, tracing the initiation of the first charge to a February 16, 2011 sealed
+
+criminal complaint. Speedy Trial and Multiplicity Mot. at 2 (citing Compl. (Docket
+
+# 1)).    The complaint alleged that Mr. Spring had purchased a Glock pistol on
+
+
+
+                                            4
+January 27, 2011 after having previously been committed to PenBay, and therefore
+
+had possessed a firearm in violation of 18 U.S.C. § 922(g)(4). Compl. at 1. Mr.
+
+Spring was arrested on a warrant on February 23, 2011 in the commonwealth of
+
+Massachusetts and he came into the custody of the United States Marshal for the
+
+District of Maine on March 10, 2011. Speedy Trial and Multiplicity Mot. at 2. The
+
+Court held an initial appearance on March 15, 2011 and at that hearing, counsel
+
+jointly agreed to a thirty-day tolling of the speedy trial clock regarding the time to
+
+indictment, an agreement that was reduced to a court order on March 17, 2011,
+
+excluding the period from March 15, 2011 through April 14, 2011 from speedy trial
+
+clock calculations. Id.
+
+      On April 13, 2011, a federal grand jury indicted Mr. Spring for making a false
+
+statement in connection with the purchase of a firearm at Willey‟s Sports Center on
+
+January 27, 2011, an alleged violation of 18 U.S.C. § 922(a)(6); unlike the criminal
+
+complaint, the indictment did not charge him with unlawful possession. Id. at 2-3.
+
+The speedy trial clock began to run on April 15, 2011. Id. at 4. Mr. Spring was
+
+arraigned on April 29, 2011. Id. On May 5, 2011, the Government moved for trial
+
+witness subpoenas, access to documents needed to prepare for trial, and permission
+
+for potential trial witnesses to discuss protected health information with
+
+government investigators.     Id.   On May 12, 2011, defense counsel requested
+
+additional time to prepare pretrial motions and on the same day, the Court issued a
+
+Speedy Trial Order, granting the motion and excluding the period from May 13,
+
+2011 through May 27, 2011 from speedy trial act calculations. Id. On May 18,
+
+
+
+                                          5
+2011, a grand jury issued a superseding indictment, adding Counts II and III, as
+
+earlier noted.    Id.    Mr. Spring moves to dismiss Count III of the superseding
+
+indictment on the ground that the speedy trial clock has run because the
+
+Government‟s May 5, 2011 motion related only to trial and did not toll the thirty-
+
+day clock. Id. Including the time from the May 5, 2011 motion, Mr. Spring says
+
+that the thirty-day indictment clock window has lapsed. Id.
+
+      Mr. Spring also seeks the dismissal of Count II of the superseding indictment
+
+on the ground that Count I is “exactly the same transaction and contains exactly
+
+the same elements as Count I.” Id.
+
+             2.         The Government’s Response
+
+      The Government runs through a separate set of speedy trial calculations and
+
+concludes that the “grand jury returned its initial indictment on April 13, 2011, a
+
+day before expiration of the period of exclusion.” Resp. of United States to Def.’s
+
+Mot. to Dismiss Count III of the Superseding Indictment for Speedy Trial Violation
+
+and to Dismiss Count II as Being Multiplicitous at 4 (Docket # 84) (Gov’t’s Speedy
+
+Trial and Multiplicity Resp.).
+
+      Turning to the multiplicity issue, the Government says that although the two
+
+counts are similar, they contain different elements:       to prove a violation of §
+
+922(a)(6), the Government must prove that a defendant‟s “statement was intended
+
+to, or likely to, deceive the firearms dealer about a fact „material‟ to the lawfulness
+
+of the sale” and to prove a violation of § 924(a)(1)(A), the Government must prove
+
+that a defendant‟s statement was “made with respect to information that the law
+
+
+
+                                          6
+requires a federally licensed firearms dealer to keep.” Id. at 7. In other words,
+
+unlike § 922(a)(6), § 924(a)(1)(A) contains no materiality element.                     Id.    The
+
+Government quotes from an Eleventh Circuit case, United States v. Hawkins, 794
+
+F.2d 589 (11th Cir. 1986), which concludes that the two statutory provisions charge
+
+different crimes.
+
+               3.      Defendant’s Reply
+
+       Mr. Spring replied only to the Government‟s arguments on the Speedy Trial
+
+Act calculations. Def.’s Reply Mem. – Mot. to Dismiss Count III of the Superseding
+
+Indictment for Speedy Trial Violation and to Dismiss Count II as Being
+
+Multiplicious (Docket # 85) (Def.’s Reply). In his Reply, Mr. Spring says that the
+
+Government identified “the incorrect speedy trial timeframe,” noting that the
+
+ending point is not the filing of the original indictment, but the filing of the
+
+superseding indictment. Id. at 1. Mr. Spring points out that the original complaint
+
+contained the charge of possession of a firearm by a person previously committed to
+
+a mental institution, the original indictment did not, and the superseding
+
+indictment did.1 Id. He claims the speedy trial analysis must run from February
+
+23, 2011, the date of his arrest, until May 18, 2011, the date of the superseding
+
+indictment. Id. at 1-2. Using the Government‟s own calculations, he says that the
+
+period from April 15, 2011 through May 4, 2011 is countable time—a total of 20
+
+days. Id. at 2. He argues that this leaves the one decisive question—“whether the
+
+
+
+1 The Defendant‟s Reply actually refers to the charge of possession of a firearm by a felon, but the
+Court assumes this was a mistake. Def.’s Reply at 1. There is no other suggestion that Mr. Spring is
+a felon.
+
+                                                 7
+filing of a „pretrial motion‟ tolls the running of the speedy indictment clock or
+
+merely the speedy trial clock.” Id.
+
+II.   DISCUSSION
+
+      A.     Legal Standards for a Motion to Dismiss
+
+      By returning an indictment, a grand jury is carrying out a constitutional
+
+function contemplated in the Bill of Rights. U.S. CONST. amend. V (“No person shall
+
+be held to answer for a capital, or otherwise infamous crime, unless on a
+
+presentment or indictment of a Grand Jury . . . .”).       Unlike civil actions, an
+
+indictment is not generally subject to dispositive motion practice. “[D]ismissing an
+
+indictment is an extraordinary step.” United States v. Li, 206 F.3d 56, 62 (1st Cir.
+
+2000) (quoting United States v. Stokes, 124 F.3d 39, 44 (1st Cir. 1997)).         In
+
+Whitehouse v. United States District Court, the First Circuit observed that “[w]hen a
+
+federal court uses its supervisory power to dismiss an indictment it directly
+
+encroaches upon the fundamental role of the grand jury.             That power is
+
+appropriately reserved, therefore, for extremely limited circumstances.” 53 F.3d
+
+1349, 1360 (1st Cir. 1995) (citing Bank of Nova Scotia v. United States, 487 U.S.
+
+250, 263 (1988)).
+
+      In this case, as a predicate for each Count, the superseding indictment
+
+alleges that Mr. Spring had been “committed to a mental institution.” Superseding
+
+Indictment at 1-3. There is nothing on the face of the indictment that suggests he
+
+was not so committed. In his attempt to dismiss the superseding indictment, Mr.
+
+Spring attached a copy of the discharge summary from his hospital stay and argues
+
+
+
+                                         8
+that as a matter of law, the hospital record does not reveal facts sufficient to
+
+constitute a “commitment.” Due Process Mot. at 4-10.
+
+      In essence, Mr. Spring‟s motion attempts to test the sufficiency of an
+
+indictment by testing the sufficiency of the evidence to support the indictment. This
+
+procedure is unknown in criminal law. Unlike a complaint initiating a civil action,
+
+“an indictment is not generally subject to dispositive motion practice.”       United
+
+States v. Poulin, 645 F. Supp. 2d 17, 22 (D. Me. 2009); see also Li, 206 F.3d at 62.
+
+Thus, this Court‟s supervisory power over indictments should be reserved “for
+
+extremely limited circumstances.” Whitehouse, 53 F.3d at 1360; see also United
+
+States v. Morrison, 449 U.S. 361, 365 (1981) (concluding that the dismissal of an
+
+indictment was unwarranted absent a constitutional violation that prejudiced
+
+defendant‟s case); Li, 206 F.3d at 62 (declining to dismiss an indictment based on an
+
+asserted violation of the Vienna Convention).
+
+      Although framed as a motion to dismiss the indictment, Mr. Spring really has
+
+no quarrel with the sufficiency of the indictment. For example, he does not claim it
+
+fails to allege an essential element of the offense nor does he assert a jurisdictional
+
+flaw. Instead, he posits evidence he claims the Government would offer at trial to
+
+support its case that a “commitment” took place and evidence he claims he would
+
+offer at trial to support his due process defense, and he seeks to have the indictment
+
+dismissed on that basis. In response, the Government posits evidence that it says it
+
+would present at trial to demonstrate that Mr. Spring was, in fact, committed.
+
+
+
+
+                                          9
+      This procedure—by both the Defendant and the Government—is contrary to
+
+law. As Charles Alan Wright and Andrew D. Leipold explain:
+
+      If a pretrial motion attacks the sufficiency of the indictment or
+      information, the allegations of the pleading must be taken as true.
+      Although Rule 47 permits affidavits in support of motions, neither it
+      nor Rule 12 was intended to permit “speaking motions,” that is,
+      motions that require consideration of facts outside the pleadings. Were
+      the rule otherwise, the truth of the allegations could be challenged by
+      affidavit, and the pretrial motion could be turned into a trial of the
+      general issue. This is not to say, of course, that courts may not
+      consider and resolve fact questions when ruling on motions prior to
+      trial, it just may not resolve matters that constitutionally must be
+      decided by a jury.
+
+1A CHARLES ALAN WRIGHT & ANDREW D. LEIPOLD, FEDERAL PRACTICE                     AND
+
+
+PROCEDURE § 194 (4th ed. 2008). For example, a court may resolve pre-trial matters
+
+such as motions to suppress, discovery disputes, and joinder issues. Id. at § 194 n.7;
+
+FED. R. CRIM. P. 12, Advisory Comm. Notes (1944) (listing motions that must and
+
+may be raised pretrial). Here, however, Mr. Spring asks the Court to dismiss an
+
+indictment based on facts that run to the quality of the Government‟s proof and to
+
+facts essential to his defense, but only a jury can evaluate the persuasiveness of
+
+evidence. See U.S. CONST. amend. VI (“[i]n all criminal prosecutions, the accused
+
+shall enjoy the right to a speedy and public trial, by an impartial jury of the State
+
+and district wherein the crime shall have been committed”); FED. R. CRIM. P.
+
+12(b)(2) (“A party may raise by pretrial motion any defense, objection, or request
+
+that the court can determine without a trial of the general issue”) (emphasis
+
+supplied).
+
+      Thus, if this case were to proceed to trial, the Government would be required
+
+to establish that Mr. Spring had in fact been “committed to a mental institution,” an
+                                         10
+element the superseding indictment alleges in Counts One through Three. In his
+
+Model Jury Instructions, Judge Hornby defines “involuntary commitment”:
+
+      An “involuntary commitment” occurs when a state judge, pursuant to
+      an application for involuntary admission to a mental hospital,
+      authorizes a law enforcement officer to take a person into custody and
+      transport him to a hospital.
+
+Judge D. Brock Hornby‟s 2011 Revisions to Pattern Criminal Jury Instructions for
+
+the Dist. Cts. § 4.18.922(g) (updated Feb. 20, 2007); see also id. Comment 9 and
+
+cases cited therein. Whether the Government produces sufficient evidence to satisfy
+
+this legal standard cannot be a matter for dispositive ruling. Of course, during
+
+trial, upon motion, the Court may be required to rule on the legal sufficiency of the
+
+Government‟s evidence on this and other elements of the charges.                 If the
+
+Government fails to convince the jury that Mr. Spring was involuntarily committed
+
+within the meaning of this definition, he will be acquitted, and if he is convicted, the
+
+Court may be required—again upon motion—to determine the legal sufficiency of
+
+the evidence.    However, what Mr. Spring is seeking is more in the nature of a
+
+motion for summary judgment, proffering his version of the evidence and
+
+maintaining that it is insufficient to meet the legal standard. To the extent that the
+
+Court may reach the issues he is attempting to raise, it may do so only upon “a trial
+
+of the general issue.” FED. R. CRIM. P. 12(b)(2).
+
+      B.        Speedy Trial
+
+      Mr. Spring‟s second ground for dismissal, which is limited to Count III of the
+
+superseding indictment, is an asserted violation of the Speedy Trial Act. Mr. Spring
+
+is correct that if the complaint that resulted in the defendant‟s arrest contains a
+
+                                          11
+charge not contained in the original indictment but added in a superseding
+
+indictment, which is not filed within thirty days of the original complaint, the
+
+charge is subject to dismissal. United States v. Davis, 721 F. Supp. 2d 59, 60 (D.
+
+Me. 2010) (citing 18 U.S.C. §§ 3161(b), 3162(a)(1)).
+
+      Here, the February 18, 2011 criminal complaint contained a single count, an
+
+alleged violation of 18 U.S.C. § 922(g)(4), knowing possession of a firearm after
+
+having been committed to a mental institution.          Compl. at 1.     The original
+
+indictment of April 13, 2011 charged Mr. Spring with a different crime, an alleged
+
+violation of 18 U.S.C. §§ 922(a)(6) and 924(a)(2), making a false and fictitious
+
+statement in connection with the purchase of a firearm. Indictment at 1. The May
+
+18, 2011 superseding indictment re-charged Mr. Spring with possession of a firearm
+
+after having been committed to a mental institution under 18 U.S.C. § 924(a)(1)(A),
+
+the same charge found in the criminal complaint. Superseding Indictment at 2.
+
+The facts in this case fit squarely within Davis and the Court applies its teaching.
+
+      Section 3161(b) of title 18 provides:
+
+      Any . . . indictment charging an individual with the commission of an
+      offense shall be filed within thirty days from the date on which such
+      individual was arrested . . . in connection with such charges.
+
+18 U.S.C. § 3161(b). Thirty days from February 23, 2011 was March 25, 2011, the
+
+date that an indictment had to be filed under the Speedy Trial Act.          The Act
+
+expressly exempts certain specified periods of time from counting. See 18 U.S.C. §
+
+3161 et. seq.   Here, the parties agree that because Mr. Spring was arrested in
+
+Massachusetts and not brought into the custody of the District of Maine until
+
+
+
+                                          12
+March 10, 2011, this interval is excluded under § 3161(h)(1)(E) and (F). This starts
+
+the speedy trial clock counting as of March 10, 2011, with the thirty day period
+
+expiring on April 8, 2011.
+
+      On March 17, 2011, the Court issued an Order excluding the period from
+
+March 15, 2011 until April 14, 2011. Five days lapsed before the March 17, 2011
+
+Order was issued. As of April 14, 2011, the Government had twenty-five days to
+
+issue an indictment, until May 8, 2011.
+
+      On May 5, 2011, the Government moved for an order requiring disclosure of
+
+health information. Mot. of the United States for an Order Requiring Disclosure of
+
+Health Information for a Law Enforcement Purpose (Docket # 47). The Court acted
+
+on this motion on May 18, 2011 (Docket # 55), the same day the grand jury issued
+
+the superseding indictment (Docket # 57). If the motion for an order requiring
+
+disclosure is the type of motion that tolls the running of the speedy trial clock, the
+
+superseding indictment was timely.         If the motion is not, the superseding
+
+indictment was issued too late.
+
+      The applicable exclusion provides:
+
+      (h) The following periods of delay shall be excluded in computing the
+      time within which an information or an indictment must be filed . . .:
+
+         (D) delay resulting from any pretrial motion, from the filing of
+         the motion through the conclusion of the hearing on, or other
+         prompt disposition of, such motion.
+
+18 U.S.C. § 3161(h)(1)(D). Mr. Spring says that the Government‟s motion for an
+
+order requiring disclosure is not necessarily the type of motion that tolls the
+
+running of the thirty-day speedy trial clock between complaint and indictment.
+
+                                           13
+Def.’s Speedy Trial and Multiplicity Mot. at 5-9.       He points out that the plain
+
+language of the statute makes it clear that it is not the filing of a pretrial motion
+
+that tolls the speedy trial clock, but rather the delay occasioned by the filing of such
+
+a motion. Id. at 6. Mr. Spring argues that when a pretrial motion is filed between
+
+indictment and trial, the resolution of the motion commonly delays the scheduling
+
+of trial; however, when a pretrial motion is filed on an existing indictment, unless
+
+the motion is directly related to the charge later brought in the superseding
+
+indictment, the pendency of a pretrial motion does not affect the Government‟s
+
+ability to present new charges to a grand jury.
+
+      The problem with Mr. Spring‟s argument is that it is flatly contrary to the
+
+Supreme Court‟s decision in United States v. Tinklenberg, 131 S. Ct. 2007 (2011).
+
+In Tinklenberg, the Supreme Court rejected the Sixth Circuit‟s view that the
+
+language of the statute imposes a causation requirement.           Id. at 2016.    The
+
+Tinklenberg Court “disagree[d] with the Sixth Circuit that the Act‟s exclusion
+
+requires a court to find that the event the exclusion specifically describes, here the
+
+filing of the pretrial motion, actually caused or was expected to cause delay of a
+
+trial,” holding that “the Act contains no such requirement.” Id.
+
+      In fact, in Bloate v. United States, 130 S. Ct. 1345, 1349 n.1 (2010), the
+
+United States Supreme Court characterized the excludability of delay resulting
+
+from the filing of a pretrial motion as “„automatic‟ in the sense that a district court
+
+must exclude such delay from a Speedy Trial Act calculation without any further
+
+analysis as to whether the benefit of the delay outweighs its cost.” Id. The Bloate
+
+
+
+                                          14
+Court further explained that “[f]or delays resulting from proceedings under
+
+subsection (h)(1), Congress already has determined that the benefit of such delay
+
+outweighs its cost to a speedy trial, regardless of the specifics of the case.” Id.
+
+      Faced with Tinklenberg and Bloate, Mr. Spring insists that the thirty-day
+
+period from arrest to indictment is different from the seventy-day period from
+
+indictment to trial. Mr. Spring makes some reasonable policy arguments for why
+
+Congress should have treated the thirty-day period differently from the seventy-day
+
+period. Nevertheless, his policy arguments draw no support from the language of
+
+the statute itself, which treats the two periods precisely the same:
+
+      (h) The following periods of delay shall be excluded in computing the
+      time within which an information or an indictment must be filed, or in
+      computing the time within which the trial of any such offense must
+      commence:
+
+          (1) Any period of delay resulting from other proceedings
+          concerning the defendant, including but not limited to —
+
+             (D) delay resulting from any pretrial motion, from the
+             filing of the motion through the conclusion of the hearing
+             on, or other prompt disposition of, such motion.
+
+18 U.S.C. § 3161(h)(1)(D). Even though the Court is sympathetic to Mr. Spring‟s
+
+view that it would be logical to treat the two periods differently for some motions
+
+that have a direct relevance to post-indictment proceedings, the statutory language
+
+simply does not do so.
+
+      Once the period from May 5, 2011 to May 18, 2011 is added to the other
+
+periods excluded under § 3161(h)(1)(D), the Court concludes that the superseding
+
+indictment was permissibly filed within thirty days of Mr. Spring‟s arrest.
+
+
+
+                                           15
+      C.      Multiplicity
+
+      Mr. Spring‟s last contention is that the counts I and II of the superseding
+
+indictment allege the same offense. He says that “Mr. Spring is charged twice with
+
+making the same false statement on the same form.” Def.’s Speedy Trial and
+
+Multiplicity Mot. at 10. He summarizes that “a single false statement to obtain a
+
+single firearm on a single day constitutes a single unit of prosecution.”       Id. He
+
+insists that the Government “needs to pick one” charge, not two. Id.
+
+      He is wrong. The test for determining whether charges are multiplicitous is
+
+found in Blockburger v. United States, 284 U.S. 299, 304 (1932). In Blockburger, the
+
+Supreme Court wrote that “[t]he applicable rule is that, where the same act or
+
+transaction constitutes a violation of two distinct statutory provisions, the test to be
+
+applied to determine whether there are two offenses or only one, is whether each
+
+provision requires proof of a fact which the other does not.” Id.
+
+      It is true that 18 U.S.C. § 922(a)(6) and § 924(a)(1)(A) contain a number of
+
+common elements: 1) the mens rea standard is “knowingly” in both, 2) the
+
+statement has to have been made to a “federally licensed firearms dealer,” and the
+
+statement must have been “false.”         However, § 922(a)(6) requires that the
+
+Government prove that the false statement was “intended or likely to deceive” the
+
+dealer; this statutory requirement is known as the materiality requirement. United
+
+States v. Whitney, 524 F.3d 134, 138 (1st Cir. 2008) (noting that the trial court had
+
+instructed the jury that the false statement must be “material” to the lawfulness of
+
+the sale). There is no similar materiality requirement in § 924(a)(1)(A). United
+
+
+
+                                          16
+States v. Sullivan, 459 F.2d 993, 994 (8th Cir. 1972) (“While a violation of 18 U.S.C.
+
+§ 922(a)(6) expressly requires a showing of materiality no such expression is found
+
+in § 924(a).”); United States v. Waddell, No. 97-10076, 1998 U.S. App. LEXIS 10402
+
+at *1 (9th Cir. May 11, 1998).
+
+       Conversely, to establish a case under § 924(a)(1)(A), the Government must
+
+establish that the defendant made the false statement “with respect to the
+
+information required by this chapter to be kept in the records of a person licensed
+
+under this chapter.”      18 U.S.C. § 924(a)(1)(A).    In § 922(a)(6), there is no
+
+requirement that the false statement be about information that the federally
+
+licensed dealer is required to retain in his records. Thus, § 924(a)(1)(A) requires
+
+proof of a fact that § 922(a)(6) does not.
+
+       Under Blockburger, the two counts are distinct and are not multiplicitous.
+
+III.   CONCLUSION
+
+       The Court DENIES the Defendant‟s Motion to Dismiss the Superseding
+
+Indictment (Docket # 76) and the Defendant‟s Motion to Dismiss Count III of the
+
+Superseding Indictment for Speedy Trial Violation and to Dismiss Count II as
+
+Being Multiplicious (Docket # 77).
+
+       SO ORDERED.
+
+
+
+                                  /s/ John A. Woodcock, Jr.
+                                  JOHN A. WOODCOCK, JR.
+                                  CHIEF UNITED STATES DISTRICT JUDGE
+
+Dated this 12th day of September, 2011
+
+
+
+                                             17
+

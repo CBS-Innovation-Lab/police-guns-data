@@ -1,0 +1,897 @@
+Case 2:08-cr-00112-GZS Document 226 Filed 04/09/13 Page 1 of 17                     PageID #: 2082
+
+
+
+                               UNITED STATES DISTRICT COURT
+
+                                       DISTRICT OF MAINE
+
+
+ DURRELL WILLIAMS,                      )
+                                        )
+                  Movant                )
+ v.                                     ) 2:08-cr-00112-GZS-2
+                                        ) 2:12-cv-00133-GZS
+                                        )
+ UNITED STATES,                         )
+                                        )
+                  Respondent            )
+
+
+                  RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+            Durrell Williams was convicted following a jury trial on numerous drug and gun charges
+
+ and was sentenced to twenty-five years in prison. On appeal, he unsuccessfully argued that (1)
+
+ his court-appointed trial counsel had inadequate time to prepare, (2) the evidence was
+
+ insufficient to convict him, and (3) his sentence was unreasonable and reflected computational
+
+ errors. United States v. Williams, 630 F.3d 44, 46 (1st Cir. 2010). He now moves pursuant to 28
+
+ U.S.C. § 2255 to vacate, set aside, or correct his sentence on grounds of ineffective assistance of
+
+ counsel and miscalculation of criminal history points. I recommend that the Court deny
+
+ Williams’s motion and enter a summary dismissal of the proceedings without further evidentiary
+
+ hearing.
+
+                            FACTUAL AND PROCEDURAL BACKGROUND
+
+        At the time of the events that led to the prosecution at issue here, Williams was a felon
+
+ due to a drug conviction in New York State. (Superseding Indictment Counts Nine through
+
+ Thirteen at 9, ECF No. 44; Information Charging Prior Conviction at 1, ECF No. 64; Judgment
+
+ at 2, ECF No. 180.) Williams headed a drug and gun conspiracy in Portland. Williams, 630
+
+
+
+                                                  1
+Case 2:08-cr-00112-GZS Document 226 Filed 04/09/13 Page 2 of 17                        PageID #: 2083
+
+
+
+ F.3d at 46. He sold crack cocaine to middlemen and users and used some of his proceeds to buy
+
+ handguns. Id. His main supplier of guns was a firearms-dealer licensee in Falmouth. Id.
+
+ Williams then took the guns to the borough of Queens in New York City to sell. Id. at 46-47.
+
+ While in Queens, he obtained more crack to sell in Maine. Id. at 47. Several firearms that
+
+ Williams bought in Maine were eventually recovered in New York City. (Government’s Motion
+
+ in Limine at 2, ECF No. 107; Defendant’s Response at 1, ECF No. 125.)
+
+        Attorney Howard O’Brien was appointed to represent Williams. (ECF No. 21.) Two
+
+ rounds of plea negotiations occurred. Williams, 630 F.3d at 47. Trial was scheduled for January
+
+ 28, 2009, but was rescheduled to February 17 due to O’Brien’s illness. Id. Williams consented
+
+ to the appointment of another lawyer from the same firm, and attorney Sarah Churchill
+
+ represented Williams through his trial and direct appeal. Id. at 46-47. Because she was away on
+
+ a pre-scheduled vacation at the time she was appointed, the court agreed to continue the trial to
+
+ February 23, 2009, to give her an additional week to prepare. Id. at 47. The court denied her
+
+ request for yet more time to review the voluminous material produced by the government. The
+
+ court invited her, however, to request time during the trial if she felt that the denial caused
+
+ prejudice. Id. She had active co-counsel and did not seek any continuances during the trial. Id.
+
+ at 49. The trial lasted for three days. Id. at 48.
+
+        Williams was convicted on all thirteen counts charged against him, one of which was a
+
+ drug charge and the remainder gun charges. (Judgment, ECF No. 180.) Count one was for
+
+ conspiracy to distribute and possess with intent to distribute fifty grams or more of cocaine base
+
+ in violation of 21 U.S.C. §§ 841(a)(1), 841(b)(1)(A), 846, 851. Count two was for conspiracy to
+
+ defraud the United States by using straw purchasers and thereby knowingly causing false
+
+ representations to be made concerning a federal firearms licensee’s required recordkeeping in
+
+
+
+                                                      2
+Case 2:08-cr-00112-GZS Document 226 Filed 04/09/13 Page 3 of 17                    PageID #: 2084
+
+
+
+ violation of 18 U.S.C. § 371. Count three was for conspiracy to engage in unlicensed firearms
+
+ dealing in violation of 18 U.S.C. § 371. Counts four through eight were for aiding and abetting
+
+ false statements in gun transactions in violation of 18 U.S.C. §924(a)(1)(A) and (2). Counts nine
+
+ through thirteen were for possession of a firearm by a convicted felon in violation of 18 U.S.C.
+
+ §§ 922(g)(1) and 924(a)(2). (Judgment at 1-2.)
+
+        The court sentenced Williams to 300 months (25 years) on count one, which was the drug
+
+ conviction; 60 months (5 years) each on counts two through eight; and 120 months (10 years)
+
+ each on counts nine through thirteen. (Judgment at 3.) All counts were to be served
+
+ concurrently with one another. (Judgment at 3.)
+
+        The First Circuit upheld the conviction. The Court held that the trial court did not abuse
+
+ its discretion by denying the motion to continue the trial; counsel had sought a continuance due
+
+ to the voluminous records and hours of recorded phone calls produced by the government.
+
+ Williams, 630 F.3d at 48. Williams argued that more time might have improved counsel’s
+
+ ability to impeach some of the government’s witnesses, and he argued for the first time on appeal
+
+ that more time would have enabled him to obtain a record showing he was incarcerated in New
+
+ York State in 2004, when “‘several’” government witnesses testified he was in Maine. Id. at 47-
+
+ 48. As the government notes (Response at 20), Williams did not obtain a record of the dates of
+
+ his incarceration in New York, but Churchill did introduce in evidence as Defendant’s Exhibit 1
+
+ a document, produced by the government, from the Supreme Court of the State of New York,
+
+ that indicated that Williams was sentenced in January 2005 to one year of imprisonment.
+
+ (Addendum to Government’s Appellate Brief at G.Add. 9, ECF No. 220-1; Trial Transcript at 8-
+
+ 9, ECF No. 190.) Counsel referred to this document several times to cast doubt on government
+
+
+
+
+                                                  3
+Case 2:08-cr-00112-GZS Document 226 Filed 04/09/13 Page 4 of 17                      PageID #: 2085
+
+
+
+ witness testimony that he was in Maine at the relevant times in 2004 and 2005. (Trial Transcript
+
+ at 41-43, ECF No. 189; Trial Transcript at 33, 47-48, 51, ECF No. 190.)
+
+        The court rejected the argument that four weeks was insufficient time to prepare for trial,
+
+ noting that the case was “not overly complex,” the trial lasted just three days, and Churchill had
+
+ co-counsel who was present throughout the trial and who cross-examined about half of the
+
+ government’s witnesses. Id. at 48. The First Circuit also held that there was no unfair prejudice
+
+ from the failure to obtain evidence of Williams’s absence from Maine because counsel did not
+
+ seek a continuance of the trial to obtain the record of Williams’s 2004 New York incarceration,
+
+ and the “phantom record” remained missing at the time of the appeal. Id. Furthermore, the
+
+ Court noted that the record was not used to support an alibi, but rather to impeach the testimony
+
+ of one witness. Id. at 49 & n.3. The Court held that Williams waived the other argument he
+
+ raised in his direct appeal, which was that the evidence was insufficient, because the argument
+
+ was “skeletal” on that issue. Id. at 49-50.
+
+        The sentence was also upheld on appeal. Id. at 50-53. The First Circuit held that (1) the
+
+ court did not err in its drug-quantity calculations for purposes of determining the base offense
+
+ level under the 2008 U.S. Sentencing Guidelines Manual, id. at 50-51; (2) Williams waived his
+
+ challenge to twin two-level increases because he provided no support for his assertion that the
+
+ increases were not supported by the record, id. at 51; (3) the court did not err in assigning
+
+ Williams criminal history points for purposes of determining that he was in category V rather
+
+ than category IV under the sentencing guidelines, id. at 51; (4) his sentence was reasonable, id. at
+
+ 51-52; and (5) Williams’s supplemental pro se argument that he should be resentenced on
+
+ anticipated changes to the sentencing guidelines was premature. Id. at 52-53.
+
+
+
+
+                                                   4
+Case 2:08-cr-00112-GZS Document 226 Filed 04/09/13 Page 5 of 17                       PageID #: 2086
+
+
+
+        The Supreme Court denied Williams’s petition for a writ of certiorari on April 18, 2011.
+
+ Williams v. United States, 131 S. Ct. 2122 (2011). Williams filed a timely motion, pursuant to
+
+ 28 U.S.C. § 2255(f)(1) and Rule 3(d) of the Rules Governing Section 2255 Proceedings. (ECF
+
+ No. 210-5.)
+
+                                          LEGAL STANDARD
+
+        With regard to Williams’s sixth amendment ineffective assistance claims, Strickland v.
+
+ Washington, 466 U.S. 668 (1984), governs the resolution. In order to prevail, Williams “must
+
+ show that “counsel’s representation ‘fell below an objective standard of reasonableness,’” Padilla
+
+ v. Kentucky, 130 S. Ct. 1473, 1482 (2010) (quoting Strickland, 466 U.S. at 688) and that there
+
+ exists “a reasonable probability that, but for counsel’s unprofessional errors, the result of the
+
+ proceeding would have been different.” Id. (quoting Strickland, 466 U.S. at 694). “Defense
+
+ counsel is allowed to make strategic decisions, within the wide bounds of professional
+
+ competence, as to which leads to follow up, and on which areas to focus his energies. This is
+
+ especially true during trial, when time is short.” Phoenix v. Matesanz, 233 F.3d 77, 84 (1st Cir.
+
+ 2000). “A defendant’s failure to satisfy one prong of the Strickland analysis obviates the need
+
+ for a court to consider the remaining prong.” Tevlin v. Spencer, 621 F.3d 59, 66 (1st Cir.2010).
+
+ In this case the focus is both trial and sentencing.
+
+        A movant under section 2255 must show that his sentence “reveal[s] fundamental defects
+
+ which, if uncorrected, will result in a complete miscarriage of justice.” David v. United States,
+
+ 134 F.3d 470, 474 (1st Cir. 1998) (quoting Hill v. United States, 368 U.S. 424, 426-27 (1962)
+
+ (alterations and quotation marks omitted)). An evidentiary hearing on a section 2255 motion is
+
+ “the exception, not the norm, and there is a heavy burden on the petitioner to demonstrate that an
+
+ evidentiary hearing is warranted.” Moreno-Morales v. United States, 334 F.3d 140, 145 (1st Cir.
+
+
+
+                                                   5
+Case 2:08-cr-00112-GZS Document 226 Filed 04/09/13 Page 6 of 17                           PageID #: 2087
+
+
+
+ 2003). “An evidentiary hearing is not necessary when a [§] 2255 petition (1) is inadequate on its
+
+ face, or (2) although facially adequate, is conclusively refuted as to the alleged facts by the files
+
+ and records of the case.” Id. (quotation marks omitted). The movant must explain why he is
+
+ entitled to relief; it is not sufficient “to refer to an act or omission of counsel . . . without
+
+ indicating why it constituted gross impropriety or prejudicial misconduct.” Bernier v. Moore,
+
+ 441 F.2d 395, 396 (1st Cir. 1971) (per curiam) (denying the petitioner habeas corpus relief from
+
+ a state court conviction on the grounds that he asserted ineffective assistance of counsel without
+
+ providing the factual basis for the claim); see also Polanco v. United States, No. 92-2054, slip
+
+ op. at 2, 989 F.2d 484, 1993 WL 72417, at *1, 1993 U.S. App. Lexis 4871, at *3 (1st Cir. Mar.
+
+ 15, 1993) (applying the same standard to a section 2255 motion). With rare exceptions not
+
+ applicable to this case, section 2255 may not be used to relitigate matters decided on direct
+
+ appeal. United States v. Michaud, 901 F.2d 5, 6 (1st Cir. 1990).
+
+                                               DISCUSSION
+
+     1. Claim of Ineffective Assistance of Counsel
+
+         a. Howard O’Brien
+
+         Williams begins by asserting that O’Brien’s illness, which formed the basis for the
+
+ January 2009 continuance of the trial, affected “all legal work” O’Brien performed throughout
+
+ his six-month representation of Williams. (Motion at 5.) Williams then makes two specific
+
+ arguments concerning O’Brien: (1) he did not try to obtain a plea agreement or inform Williams
+
+ that he could plead guilty even in the absence of a plea agreement with the government, and (2)
+
+ he failed to move to suppress evidence. I do not address the blanket assertion about “all legal
+
+ work” by O’Brien because any such complaints that are unsupported by specific facts are
+
+ waived. See Bernier, 441 F.2d at 396.
+
+
+
+                                                     6
+Case 2:08-cr-00112-GZS Document 226 Filed 04/09/13 Page 7 of 17                                     PageID #: 2088
+
+
+
+                   i.       Plea negotiations
+
+          Williams’s argument that O’Brien failed to engage in plea negotiations fails for four
+
+ reasons. First, Williams is incorrect in asserting that O’Brien did not attempt a plea agreement.
+
+ A joint motion for a continuance filed on August 13, 2008 states: “Government counsel and
+
+ defense counsel have discussed the possibility of a disposition of this matter without the need for
+
+ a trial. Although it appears that a negotiated disposition is possible, the parties require additional
+
+ time to explore adequately this possibility.” (Joint Motion for Continuance at 1, ECF No. 30.)
+
+ After the superseding indictment was filed in October 2008, O’Brien filed an unopposed motion
+
+ for extension of time in December 2008 in which he stated that “discovery has not been provided
+
+ in full and plea negotiations have broken down recently.” At that point in time he anticipated
+
+ filing a motion to sever. (Unopposed Motion for Extension of Time at 1, ECF No. 65.) Soon
+
+ after that, he filed the motion to sever. (ECF No. 67.) It is clear from the record that O’Brien
+
+ did attempt to engage in plea negotiations.
+
+          Second, there is no factual basis for his assertion that there was a plea offer in existence
+
+ of which he was not informed. In Williams’s reply, he asserts for the first time that O’Brien
+
+ failed to inform him of a plea offer. (Reply at 3, 7, 9, ECF No. 224.) Williams bases his
+
+ assertion on a letter from the prosecutor to O’Brien that states in relevant part: “I have called
+
+ your office but I have not heard back from you regarding whether your client wishes to proceed
+
+ to trial, or if he is amenable to a guilty plea. Please let me know as soon as possible how your
+
+ client would like to proceed.” (Letter, Reply at 3, 7-9.)1 This language cannot reasonably be
+
+ construed as a formal offer of a specific plea bargain. Rather, at most it is a request for
+
+
+ 1
+          Williams has inserted a copy of the letter from the prosecutor at page 8 of the Reply. It is dated August 12,
+ 2008, and appears to be the reason for the August 13 motion to continue to explore the possibility of further plea
+ discussions. It adds nothing to the record in terms of an understanding that a plea offer existed to be conveyed to the
+ defendant.
+
+                                                           7
+Case 2:08-cr-00112-GZS Document 226 Filed 04/09/13 Page 8 of 17                               PageID #: 2089
+
+
+
+ communication about whether Williams wanted to engage in plea negotiations at all. O’Brien
+
+ did engage in plea negotiations, as discussed above. The Supreme Court has held: “If a plea
+
+ bargain has been offered, a defendant has the right to effective assistance of counsel in
+
+ considering whether to accept it.” Lafler v. Cooper, 132 S. Ct. 1376, 1387 (2012). “[A]s a
+
+ general rule, defense counsel has the duty to communicate formal offers from the prosecution to
+
+ accept a plea on terms and conditions that may be favorable to the accused.” Missouri v. Frye,
+
+ 132 S. Ct. 1399, 1408 (2012). When there is no formal offer on the table, this particular duty
+
+ does not arise. See Kingsberry v. United States, 202 F.3d 1030, 1032-33 (8th Cir. 2000) (noting
+
+ that to establish prejudice, “the petitioner must begin by proving that a plea agreement was
+
+ formally offered by the government”); Johnson v. United States, 860 F. Supp. 2d 663, 790 (N.D.
+
+ Iowa 2012); Gilchrist v. United States, 2012 WL 4520469, at *18-19, 2012 U.S. Dist. Lexis
+
+ 140278, at *58-61 (D. Md. Sept. 27, 2012).
+
+            Third, “[j]udicial scrutiny of counsel’s performance must be highly deferential.”
+
+ Strickland, 466 U.S. at 689. “[A] court must indulge a strong presumption that counsel's conduct
+
+ falls within the wide range of reasonable professional assistance.” Id. Williams has not presented
+
+ facts sufficient to overcome the presumption that O’Brien reacted reasonably in asserting that there had
+
+ been a breakdown in plea negotiations and in filing a motion to sever.
+
+            Fourth, Williams has not asserted any other facts supporting prejudice; he states only that he
+
+ “may have opted” to plead guilty. (Motion at 6.) This allegation is insufficient to generate a fact issue
+
+ concerning whether Williams was prejudiced. See Hill v. Lockhart, 474 U.S. 52, 59-60 (1985) (holding
+
+ that the court did not err in declining to hold an evidentiary hearing because the petitioner failed to allege
+
+ that if he had received effective assistance, he “would have pleaded not guilty and insisted on going to
+
+ trial”).
+
+
+
+
+                                                         8
+Case 2:08-cr-00112-GZS Document 226 Filed 04/09/13 Page 9 of 17                     PageID #: 2090
+
+
+
+                ii.    Lack of a motion to suppress evidence
+
+        Williams argues that O’Brien provided ineffective assistance of counsel by failing to file
+
+ a motion to suppress physical evidence, including a firearm identified as a Hi-Point .45 caliber
+
+ pistol with a serial number of X432643; a recorded phone conversation; and certain federal
+
+ firearms transactions records. (Motion at 5.) He asserts that O’Brien told him, “There is no
+
+ physical evidence to suppress in your case.” (Motion at 5.)
+
+        O’Brien did not file a motion to suppress physical evidence, but he made essentially the
+
+ same argument that Williams now advocates when he filed Williams’s response to the
+
+ government’s first of two motions in limine to admit evidence of firearms recoveries. (Motion in
+
+ Limine to Admit Evidence of November 2, 2006, Firearm Recovery, ECF No. 90; Response,
+
+ ECF No. 104.) The suggestion that O’Brien did not argue for excluding the firearm at issue from
+
+ evidence is therefore inaccurate. Even if I accept Williams’s assertion that O’Brien told him that
+
+ there was “no physical evidence to suppress,” there is no prejudice because O’Brien actually
+
+ addressed the issue in Williams’s response to the government’s first motion. See Strickland, 466
+
+ U.S. at 694.
+
+        The government’s first motion in limine argued that evidence of the recovery of one
+
+ firearm was admissible as direct evidence of the two charges against Williams with respect to
+
+ that firearm―the charge of aiding and abetting the straw purchaser’s false statement that he was
+
+ the actual purchaser, and the charge of possession of a firearm by a felon. (Motion in limine at 4,
+
+ 7-8; Superseding Indictment Counts Seven and Twelve at 8-9.) Williams opposed the motion in
+
+ part on the basis of a fact dispute in which Williams asserted that another person had been in
+
+ possession of that particular firearm just before it was recovered and also due to the undisputed
+
+ lapse of about nine months from the straw purchase to the recovery. (Response at 3, ECF No.
+
+
+
+                                                  9
+Case 2:08-cr-00112-GZS Document 226 Filed 04/09/13 Page 10 of 17                     PageID #: 2091
+
+
+
+ 104.) Williams argued that the evidence of recovery was inadmissible pursuant to Fed. R. Evid.
+
+ 403, 404(b). (Response at 2-4.) The Court reserved ruling until trial, noting the dispute of fact.
+
+ (ECF No. 105.) The Court later addressed the merits, during Churchill’s representation of
+
+ Williams, as discussed below. There is no basis for a claim that O’Brien failed to argue for the
+
+ exclusion of this evidence; the fact that he made that argument in response to the government’s
+
+ motion to admit the evidence rather than as a motion to suppress is of no consequence in these
+
+ circumstances.
+
+        Williams argues that O’Brien should have moved to suppress the federal firearms forms
+
+ and recorded phone conversations. (Motion at 5.) He provides no factual support for this
+
+ argument and I consider it waived. See Bernier, 441 F.2d at 396.
+
+        In the context of his discussion about a motion to suppress, Williams also appears to
+
+ argue that the government’s witness statements should have been produced earlier for his
+
+ inspection. (Motion at 5.) According to Williams, O’Brien told him that the statements were
+
+ “Jenks material” and would not be available until five days before the trial. O’Brien was
+
+ presumably referring to 18 U.S.C. § 3500 and indicating that the government was not at that
+
+ point required to produce the witness statements. I conclude that Williams has failed to allege
+
+ any facts that would indicate that O’Brien’s response was unreasonable or that Williams suffered
+
+ prejudice.
+
+        b. Sarah Churchill
+
+              i. Lack of a motion to suppress
+
+        As discussed above, while Churchill represented Williams, the government renewed its
+
+ motion in limine to admit evidence of the recovery of the firearms at issue, and this time the
+
+ motion concerned several guns. (ECF Nos. 107, 125.) The government in the renewed motion
+
+
+
+                                                 10
+Case 2:08-cr-00112-GZS Document 226 Filed 04/09/13 Page 11 of 17                        PageID #: 2092
+
+
+
+ seemed to acknowledge Williams’s version of events as to the Hi-Point .45 caliber pistol, and the
+
+ parties no longer disputed the facts concerning recovery of the weapons. (Motion in Limine at 3,
+
+ ECF No. 107; Response at 1, ECF No. 125.) Williams argued that evidence concerning the
+
+ recovery of the firearms was not directly relevant and was inadmissible under Fed. R. Evid. 403
+
+ and 404(b). The Court held that the evidence was intrinsic to the charged offenses, citing United
+
+ States v. Ofray-Campos, 534 F.3d 1, 35 (1st Cir. 2008) and United States v. Gobbi, 471 F.3d
+
+ 302, 311 (1st Cir. 2006). (Order at 2-3, ECF No. 129.) To mitigate the likelihood of unfair
+
+ prejudice, the Court limited the evidence to the time and place of recovery, disallowed evidence
+
+ of uncharged criminal activity, and invited the parties to consider entering into a stipulation of
+
+ facts in order to reduce the danger of unfair prejudice from the evidence. (Order at 3.) With the
+
+ evidence limited in this manner, the Court granted the motion. (Order at 3.) There is no basis
+
+ for a finding of ineffective assistance or prejudice based on counsel’s failure to file a motion to
+
+ suppress in these circumstances; the law is not in Williams’s favor on the merits of the
+
+ evidentiary issue, and counsel’s response did not fall below an objective standard of
+
+ reasonableness. See Strickland, 466 U.S. at 694.
+
+        In his reply, Williams also argues for the first time that counsel also should have moved
+
+ to suppress the testimony of certain witnesses because they were not credible. (Reply at 1-2.)
+
+ The Court need not address these arguments, as they are waived. See Lebron v. Terrell, 2013
+
+ WL 443598, at *6, 2013 U.S. Dist. Lexis 15301, at *19 (D. R.I. Feb. 5, 2013) (citing United
+
+ States v. Pratt, 129 F.3d 54, 61 (1st. Cir. 1997); United States v. Zannino, 895 F.2d 1, 17 (1st Cir.
+
+ 1990)). Williams’s argument also fails on the merits because determining witness credibility is a
+
+ function of the jury. “It is well-established . . . that determining a witness’s credibility, even in
+
+ the face of a furious attack, is a function that falls squarely within the province of the jury.”
+
+
+
+                                                   11
+Case 2:08-cr-00112-GZS Document 226 Filed 04/09/13 Page 12 of 17                      PageID #: 2093
+
+
+
+ Foxworth v. St. Amand, 570 F.3d 414, 427 (1st Cir. 2009). Counsel was not ineffective for not
+
+ moving to suppress this testimony.
+
+            ii. The stipulation
+
+        In response to the Court’s invitation to enter into a stipulation of facts concerning the
+
+ recovery of the firearms, Williams and the government on the second day of the trial stipulated
+
+ that five firearms were recovered by the New York City Police Department. (Trial Transcript at
+
+ 185-86, ECF No. 171.) On the first day of the trial, two of the firearms identified in the
+
+ stipulation had been admitted in evidence without objection. (Trial Transcript at 110-11, ECF
+
+ No. 170.) These were admitted during the government’s direct examination of Wade Collett,
+
+ who was the Maine-based firearms dealer from whom Williams, through a straw purchaser,
+
+ bought the weapons. (Trial Transcript at 77-78, ECF No. 170.) The two firearms in evidence
+
+ were a Cobra Enterprise 9 millimeter pistol and a Cobra Enterprise .380 caliber pistol. (Trial
+
+ Transcript at 110, ECF No. 170.) These firearms were identified in Count Eight of the
+
+ Superseding Indictment. (Indictment at 8, ECF No. 44.) The stipulation itself was signed by
+
+ Churchill and counsel for the government, and was admitted in evidence without objection.
+
+ (Trial Transcript at 185-86, ECF No. 171.) In the stipulation, which was read aloud to the jury,
+
+ each of the five firearms was identified by model, serial number, and the date and location of its
+
+ recovery by the police. (Trial Transcript at 185-86, ECF No. 171.)
+
+        Williams asserts that Churchill told him that the stipulation would preclude the entry in
+
+ evidence of any of the firearms. (Motion at 10.) Even if I were to assume that Churchill told
+
+ Williams that the stipulation would keep the firearms out of evidence, there is no prejudice. See
+
+ Strickland, 466 U.S. at 694. The Court had already issued its order admitting evidence of
+
+ recovery of the firearms, but excluding evidence that the firearms were used in uncharged
+
+
+
+                                                 12
+Case 2:08-cr-00112-GZS Document 226 Filed 04/09/13 Page 13 of 17                      PageID #: 2094
+
+
+
+ criminal activity. (Order at 3.) Because the two admitted firearms were evidence of the crimes
+
+ with which Williams was charged, they were admissible. There was nothing to negotiate in the
+
+ stipulation concerning the entry in evidence of the guns themselves, and nothing further
+
+ Churchill could have done to prevent their admission in light of the Court’s order and the fact
+
+ that these guns related directly to the charges against Williams.
+
+            iii. Trial continuances
+
+        Williams argues that Churchill should have requested a continuance in open court, as the
+
+ Court indicated counsel could do if “presented with cognizable prejudice.” Williams, 630 F.3d
+
+ at 49. Williams offers no factual support for his argument that counsel was ineffective for not
+
+ requesting a continuance in open court other than that more time was needed for counsel to
+
+ investigate, review the evidence, and prepare for trial. Williams’s assertions in this section 2255
+
+ motion offer nothing more than he already presented without success in his direct appeal when
+
+ the focus was on whether the court abused its discretion in not granting more time for trial
+
+ preparation rather than on whether counsel was ineffective. Id. at 47-49. There is no basis for
+
+ relitigating the issue in the context of this section 2255 motion because Williams presents no
+
+ facts that would support a claim that the failure to request a continuance during the trial
+
+ constituted ineffective assistance by counsel.
+
+            iv. Evidence of Williams’s presence in New York
+
+          Williams argues that Churchill should have pursued evidence that Williams was in New
+
+ York, because any evidence that he was not in Maine may have reduced the amount of cocaine
+
+ that he was found guilty of having sold in Maine. (Motion at 8.) The indictment charged
+
+ Williams with conspiracy to distribute and possess with intent to distribute fifty grams or more
+
+ of cocaine base. The statute pursuant to which he was convicted provides for a sentence of
+
+
+
+                                                  13
+Case 2:08-cr-00112-GZS Document 226 Filed 04/09/13 Page 14 of 17                      PageID #: 2095
+
+
+
+ between ten years and life imprisonment when the defendant has a prior conviction for a felony
+
+ drug offense, as William had, and the new conviction is for a quantity of 28 grams or more.
+
+ (Superseding Indictment at 1.) See 21 U.S.C. § 841(b)(1)(B)(iii).) Williams also argues that any
+
+ reduction of the amount of cocaine he was found to have sold would have had an ameliorative
+
+ effect at sentencing. (Motion at 8.)
+
+        The evidence of his time spent in New York may actually have worked against him,
+
+ given that he spent it at least in part on picking up drugs to bring back to Maine. He asserts that
+
+ counsel should have pursued New York-based family witnesses and family photographic
+
+ evidence, as well as evidence of his incarceration there. (Motion at 7-8.) Williams believes that
+
+ counsel provided ineffective assistance for failing to seek the admission of evidence of his fight
+
+ in New York with his mother’s boyfriend when Williams was arrested for breaking the man’s car
+
+ windows. (Motion at 8.) Williams attaches to his motion a couple of documents that appear to
+
+ provide criminal history information from New York. (ECF Nos. 210-1, 210-3.) One of these
+
+ indicates several dates from 2003 to 2006 on which Williams committed crimes and was arrested
+
+ in New York City, including January 22, 2006, which according to his motion is the date on
+
+ which he was arrested for breaking the car windows. (Motion at 8; ECF No. 210-1.) Other
+
+ evidence of him in New York consisted of photos and videotape of him at family gatherings such
+
+ as his daughter’s first birthday party and various holidays during the relevant periods. (Motion at
+
+ 8.)
+
+        Williams also argues that his criminal history record would show that he was incarcerated
+
+ in New York State in 2004 when, according to the testimony of government witnesses, he was in
+
+ Maine selling drugs. (Motion at 8.) He argues that Churchill’s failure to request a continuance
+
+ to obtain this record constitutes ineffective assistance of counsel. (Motion at 8.) The First
+
+
+
+                                                  14
+Case 2:08-cr-00112-GZS Document 226 Filed 04/09/13 Page 15 of 17                         PageID #: 2096
+
+
+
+ Circuit noted in the direct appeal that counsel had tried to obtain the record of his New York
+
+ incarceration but “that attempt failed for reasons that remain unclear.” Williams, 630 F.3d at 48-
+
+ 49.
+
+         According to the trial transcript, both parties and the Court discussed the matter together
+
+ in a chambers conference held during jury deliberations, to discuss two notes from the jury. In
+
+ one of the notes, the jury asked, “is there a reason why neither party sought to obtain the release
+
+ date from prison?” (Trial Transcript at 91-92, ECF No. 192.) In the course of the chambers
+
+ conference, Churchill’s co-counsel represented to the Court that the prison in New York refused
+
+ to provide the document to either the government or Williams. (Trial Transcript at 91, 93, ECF
+
+ No. 192.) The Court’s response to the jury was that “[t]hat information is not in evidence and
+
+ thus I again cannot respond to your question.” (Trial Transcript at 94, ECF No. 192.) Williams
+
+ alleges that an email sent to Churchill indicates that while the jury was still deliberating,
+
+ evidence of his release date might have become available. (Reply at 16, 18.) He alleges that
+
+ Churchill should have tried to reopen the evidence. (Reply at 19.) There is no provision in the
+
+ Federal Rules of Criminal Procedure for reopening the evidence while the jury is deliberating to
+
+ provide the jury with new evidence. Rather, a defendant would have to seek a new trial pursuant
+
+ to Fed. R. Crim. P. 33―on the basis of an argument that very likely would have been a
+
+ nonstarter, given the First Circuit’s conclusion that Williams had overstated the importance of
+
+ this evidence in any event. Williams, 630 F.3d at 49 n.3. The record establishes not only that
+
+ there was no prejudice at trial or on the direct appeal, as the First Circuit held, id. at 49, but also
+
+ that Churchill did not fall short in her decisions concerning evidence of Williams’s incarceration
+
+ in New York.
+
+
+
+
+                                                    15
+Case 2:08-cr-00112-GZS Document 226 Filed 04/09/13 Page 16 of 17                       PageID #: 2097
+
+
+
+        There is no indication that the failure to pursue evidence of Williams’s presence in New
+
+ York deprived him of a “viable defense,” which is required to demonstrate prejudice. See
+
+ United States v. Porter, 924 F.2d 395, 397 (1st Cir. 1991) (quotation marks omitted). On the
+
+ contrary, it may have been very sound strategy to avoid more evidence of this nature, since it
+
+ was part of the government’s theory of the case that Williams was running guns from Maine to
+
+ New York and drugs from New York to Maine. I say this knowing that it is not for the Court to
+
+ determine whether the strategy was excellent, wise, or sound. See United States v. Oliveras, 717
+
+ F.2d 1, 4 (1st Cir. 1983) (“Only where a defense decision is completely unreasonable, not merely
+
+ wrong, so that it bears no relationship to a possible defense strategy, is further review into
+
+ counsel’s competence required.”). The Court’s focus is on whether counsel’s decisions
+
+ amounted to ineffective assistance of counsel. Id. at 3-4. In that determination, the Court grants
+
+ wide latitude when it comes to questions about counsel’s strategic decisions. See Phoenix, 233
+
+ F.3d at 84. Williams has not alleged any facts that place Churchill’s decisions within the realm
+
+ of ineffective assistance of counsel.
+
+        For the same reasons, Williams has failed to show prejudice on this point. It is not clear
+
+ that it would have made any difference to Williams’s defense to place him in New York, unless
+
+ he could introduce doubt about where he was when the government witness alleged he was in
+
+ Maine. This he did try to do through the exhibit showing he was sentenced in January 2005 in
+
+ New York. Evidence indicating that he was in New York at other times would not necessarily
+
+ have strengthened his defense, and may have undermined it.
+
+    2. Claim of Miscalculation of Criminal History Points
+
+        Williams argues that the Court miscalculated his criminal history points. He asserts that
+
+ he might have pled guilty if he had been correctly placed in category IV rather than incorrectly
+
+
+
+                                                  16
+Case 2:08-cr-00112-GZS Document 226 Filed 04/09/13 Page 17 of 17                       PageID #: 2098
+
+
+
+ placed in category V. (Motion at 13.) He argues that he should have received three criminal
+
+ history points rather than four. The First Circuit decided these issues finally in the direct appeal.
+
+ Williams, 630 F.3d at 50-51. The Court held that Williams waived his challenge to the twin two-
+
+ level increases. Id. at 51. As to the criminal history category, the First Circuit held that the
+
+ sentencing court did not err in the assignment of points that led to Williams being in category of
+
+ V. Id. These holdings cannot be revisited through a section 2255 motion. See Michaud, 901
+
+ F.2d at 6.
+
+                                            CONCLUSION
+
+        Based upon the foregoing, I recommend that Williams’s motion to vacate, set aside, or
+
+ correct his sentence pursuant to 28 U.S.C. § 2255 be summarily dismissed. I further recommend
+
+ that a certificate of appealability not be issued in the event Williams files a notice of appeal
+
+ because there is no substantial showing of the denial of a constitutional right within the meaning
+
+ of 28 U.S.C. § 2253(c)(2).
+
+                                               NOTICE
+
+         A party may file objections to those specified portions of a magistrate judge's report or
+ proposed findings or recommended decisions entered pursuant to 28 U.S.C. § 636(b)(1)(B) for
+ which de novo review by the district court is sought, together with a supporting memorandum,
+ within fourteen (14) days of being served with a copy thereof. A responsive memorandum shall
+ be filed within fourteen (14) days after the filing of the objection.
+
+         Failure to file a timely objection shall constitute a waiver of the right to de novo review
+ by the district court and to appeal the district court’s order.
+
+ April 9, 2013
+                                                /s/Margaret J. Kravchuk
+                                                U.S. Magistrate Judge
+
+
+
+
+                                                  17
+

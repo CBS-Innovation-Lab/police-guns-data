@@ -1,0 +1,1214 @@
+                        UNITED STATES DISTRICT COURT
+                             DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA                 )
+                                         )
+      v.                                 )     1:15-cr-00054-JAW
+                                         )
+BRIAN MULKERN                            )
+
+
+                          ORDER ON RESENTENCING
+
+      After he pleaded guilty to being a felon in possession of ammunition, the Court
+
+sentenced a defendant to one hundred and eighty months incarceration consistent
+
+with the mandatory minimum sentence in the Armed Career Criminal Act (ACCA).
+
+The Court of Appeals for the First Circuit reversed this Court’s ACCA determination
+
+and remanded the case for resentencing. With the ACCA inapplicable, the issue
+
+turns to whether the defendant is subject to an enhanced guideline calculation under
+
+U.S.S.G. § 2K2.1, the Guideline provision for possession of ammunition by a felon,
+
+because of a prior state conviction for robbery. The Court determines that, because
+
+there is insufficient evidence to conclude that the defendant’s prior conviction for
+
+robbery is a “crime of violence” under U.S.S.G. § 2K2.1(a)(4)(A), he is subject to a base
+
+offense level of fourteen. Also, although the Court concludes that the defendant is
+
+not entitled to credit for time served while in state custody for a dismissed state
+
+charge under U.S.S.G. § 5G1.3, the Court will downward depart under U.S.S.G. §
+
+5K2.0(a)(2)(b) and grant the Defendant a credit for the time he spent in custody on a
+
+state charge that is relevant conduct under the guidelines to the federal conviction.
+I.    BACKGROUND
+
+      A.     Procedural Background
+
+      On March 11, 2015, a federal grand jury indicted Brian Mulkern for being a
+
+felon in possession of ammunition in violation of 18 U.S.C. § 922(g)(1) and 18 U.S.C.
+
+§ 924(e). Indictment (ECF No. 1). On August 14, 2015, Mr. Mulkern pleaded guilty
+
+to the single charge contained in the indictment. Minute Entry (ECF No. 35). On
+
+January 28, 2016, the Court sentenced Mr. Mulkern to 180 months in prison, five
+
+years of supervised release following his term of incarceration, and a $100.00 special
+
+assessment. Minute Entry (ECF No. 53); J. (ECF No. 55). The Court found that Mr.
+
+Mulkern was subject to the sentencing provision of the Armed Career Criminal Act
+
+(ACCA). 18 U.S.C. § 924(e). The ACCA imposes a mandatory minimum fifteen year
+
+term of imprisonment for felon-in-possession cases when a defendant has three prior
+
+qualifying convictions. Id. A prior qualifying conviction is either a “violent felony” or
+
+a “serious drug offense.” Id.
+
+      On February 3, 2016, Mr. Mulkern filed an appeal of the sentence. Notice of
+
+Appeal (ECF No. 57). On April 14, 2017, the United States Court of Appeals for the
+
+First Circuit issued its opinion and judgment, reversing this Court’s ACCA
+
+determination. United States v. Mulkern, 854 F.3d 87 (1st Cir. 2017); Op. of the U.S.
+
+Ct. of Appeals for the First Circuit (ECF No. 62); J. of the U.S. Ct. of Appeals for the
+
+First Circuit (ECF No. 63).         Mr. Mulkern’s prior convictions included two
+
+undisputedly qualifying burglaries, as well as a robbery and a drug trafficking
+
+conviction. Mulkern, 854 F.3d at 89. The First Circuit held that neither the robbery
+
+
+
+
+                                               2
+conviction, nor the drug trafficking conviction qualified as an ACCA predicate. Id. at
+
+97. Mr. Mulkern, therefore, did not have three prior qualifying convictions, so the
+
+First Circuit vacated his sentence and remanded for resentencing. Id. On May 8,
+
+2017, the First Circuit issued its mandate. Mandate of the U.S. Ct. of Appeals for the
+
+First Circuit (ECF No. 64).
+
+       On June 8, 2017, the Government filed a sentencing memorandum. Gov’t’s
+
+Mem. in Aid of Sentencing (ECF No. 70) (Gov’t’s Mem.). On June 21, 2017, the
+
+Defendant filed his sentencing memorandum. Def.’s Sentencing Mem. (ECF No. 73)
+
+(Def.’s Mem.). On June 27, 2017, the Government filed a reply memorandum. Gov’t’s
+
+Reply to the Def.’s Sentencing Mem. (ECF No. 74) (Gov’t’s Reply).
+
+       B.      The Factual and Legal Background
+
+       With the ACCA inapplicable, two issues remain for resentencing, both
+
+Guideline questions. The first involves Mr. Mulkern’s prior robbery conviction and
+
+the applicability of the base offense level enhancement for a prior “crime of violence”
+
+under U.S.S.G. § 2K2.1(a)(4)(A), which is similar to the ACCA category of “violent
+
+felonies.” The second involves credit for time served under U.S.S.G. § 5G1.3 during
+
+the period that the state of Maine held Mr. Mulkern before his original federal
+
+sentencing.
+
+       On August 10, 2001, a Cumberland County, Maine grand jury indicted Mr.
+
+Mulkern for robbery, among other offenses, a violation of 17-A M.R.S. § 651.1 The
+
+
+
+1      The version of 17-A M.R.S. § 651 in effect at the time of Mr. Mulkern’s 2001 conviction for
+robbery reads:
+
+
+
+
+                                                    3
+state indictment charged Mr. Mulkern with robbing Cassandra Cummings and the
+
+Short Stop store in Pownal, Maine by attempting to take money using the threatened
+
+use of force. On October 25, 2001, Mr. Mulkern pleaded guilty to the robbery alleged
+
+in the indictment.
+
+       As further background for the § 2K2.1(a)(4)(A) issue, § 2K2.1 is the Guideline
+
+section applicable to Mr. Mulkern’s current offense of being a felon in possession of
+
+
+
+
+      1. A person is guilty of robbery if he commits or attempts to commit theft and at the
+      time of his actions:
+              A. He recklessly inflicts bodily injury on another;
+              B. He threatens to use force against any person present with the intent
+                       (1) to prevent or overcome resistance to the taking of the property, or
+                       to the retention of the property immediately after the taking; or
+                       (2) to compel the person in control of the property to give it up or to
+                       engage in other conduct which aids in the taking or carrying away of
+                       the property;
+              C. He uses physical force on another with the intent enumerated in paragraph
+              B, subparagraphs (1) or (2),
+              D. He intentionally inflicts or attempts to inflict bodily injury on another; or
+              E. He or an accomplice to his knowledge is armed with a dangerous weapon in
+              the course of a robbery as defined in paragraphs A through D.
+      2. Robbery as defined in subsection 1, paragraphs A and B, is a Class B crime. Robbery
+      as defined in subsection 1, paragraphs C, D, and E, is a Class A crime.
+1975 Me. Laws 3341-42. The current version of 17-A M.R.S. § 651 reads:
+      1. A person is guilty of robbery if the person commits or attempts to commit theft
+      and at the time of the person’s actions:
+              A. The actor recklessly inflicts bodily injury on another. Violation of this paragraph is
+              a Class B crime;
+              B. The actor threatens to use force against any person present or otherwise
+              intentionally or knowingly places any person present in fear of the imminent use of
+              force with the intent:
+                       (1) To prevent or overcome resistance to the taking of the property, or to the
+                       retention of the property immediately after the taking; or
+                       (2) To compel the person in control of the property to give it up or to engage
+                       in other conduct that aids in the taking or carrying away of the property.
+              Violation of this paragraph is a Class B crime;
+              C. The actor uses physical force on another with the intent specified in paragraph B,
+              subparagraph (1) or (2). Violation of this paragraph is a Class A crime;
+              D. The actor intentionally inflicts or attempts to inflict bodily injury on another.
+              Violation of this paragraph is a Class A crime; or
+              E. The actor is armed with a dangerous weapon in the course of a robbery as defined
+              in paragraphs A through D or knows that the accomplice is so armed. Violation of this
+              paragraph is a Class A crime.
+
+
+                                                      4
+ammunition. Section 2K2.1 provides for different base offense levels, ranging from a
+
+low of six to a high of twenty-six, depending on the circumstances of a defendant’s
+
+offense and his background. Here, there are two possibilities. First, as recommended
+
+by the PO, Mr. Mulkern’s base offense level would be twenty if he committed the
+
+instant offense “subsequent to sustaining one felony conviction of either a crime of
+
+violence or a controlled substance offense.” U.S.S.G. § 2K2.1(a)(4)(A). Second, if he
+
+does not have a prior felony conviction of either a crime of violence of a controlled
+
+substance offense, his base offense level would be lowered to fourteen. U.S.S.G. §
+
+2K2.1(a)(7); Def.’s Mem. at 2 (“If this robbery conviction qualifies under 2K2.1 as a
+
+crime of violence, the Defendant’s base offense level will be 20. If it does not qualify,
+
+the Defendant’s base offense level will be 14”). If the higher base offense level applies,
+
+Mr. Mulkern’s guideline sentence range will be seventy to eighty-seven months. If
+
+the lower base offense level applies, his guideline sentence range will be thirty-seven
+
+to forty-six months.
+
+II.   THE PARTIES’ POSITIONS
+
+      A.     The Robbery Conviction and “Crime of Violence”
+
+             1.     The Government’s Memorandum
+
+      The Government explains that when determining whether a state conviction
+
+is an enumerated offense under U.S.S.G. § 4B1.2(a)(2), the Court should compare the
+
+state statute against the “generic” crime using the same approaches from ACCA
+
+cases: the “categorical approach” for indivisible statutes, and the “modified
+
+categorical approach” for divisible statutes. Gov’t’s Mem. at 4 (citing United States v.
+
+Ramirez, 708 F.3d 295, 302 n.8 (1st Cir. 2013); United States v. Castro-Vazquez, 802
+
+
+                                               5
+F.3d 28, 35 (1st Cir. 2015). The Government believes that Mr. Mulkern was convicted
+
+under either 17-A M.R.S. § 651(1)(C) or 17-A M.R.S. § 651(1)(B)(2), id. at 5, and that
+
+both provisions fit within the generic crime of robbery. Id. at 5-6. The Government
+
+concludes that Mr. Mulkern’s robbery conviction qualifies as a crime of violence,
+
+which makes the base offense level 20. Id. at 5-6.
+
+             2.     The Defendant’s Memorandum
+
+      Mr. Mulkern argues that it is not clear under which subsection of § 651(1) he
+
+was convicted, and that it may have been § 651(1)(A), rather than § 651(1)(B) or (C).
+
+Def.’s Mem. at 4-5. He contends that the elements of subsection (A) do not fall wholly
+
+within the definition of generic robbery since a person could commit a robbery under
+
+subsection (A) without presenting “an immediate danger to the target of the theft.”
+
+Id. at 6 (quoting Mulkern, 854 F.3d at 93). Accordingly, Mr. Mulkern reasons that
+
+his robbery conviction does not qualify as a crime of violence. Id. He also emphasizes
+
+that each subpart of the robbery provision refers to theft, and there are many ways
+
+to commit theft under Maine law, including “any degree of force applied during theft.”
+
+Id. at 5 (quoting Mulkern, 854 F.3d at 93 (quoting Raymond v. State, 467 A.2d 161,
+
+165 (Me. 1983)) (emphasis in original). Finally, he cites United States v. Wicklund,
+
+No. 3:15-cr-00015-HZ, slip op. (D. Or. Nov. 17, 2016) and seeks to distinguish United
+
+States v. Childers, 1:16-cr-00079-JAW (June 13, 2017). Id. Mr. Mulkern concludes
+
+that the base offense level is 14. Id. at 6.
+
+             3.     The Government’s Reply
+
+      The Government first counters that, although defendants can commit theft in
+
+ways that do not fit within the generic definition of robbery, the pertinent subsections
+
+
+                                               6
+of Maine’s robbery statute are a narrower class of thefts that all fit within the generic
+
+definition of robbery. Gov’t’s Reply at 2-3. It also points out that Mr. Mulkern argued
+
+to the First Circuit that he was convicted under subsection (B)(2), and is only now
+
+arguing he was convicted under subsection (A). Id. at 3. The Government denies
+
+that Mr. Mulkern was convicted under subsection (A), but also argues that even if he
+
+was, subsection (A) still qualifies as a “crime of violence” for purposes of the
+
+sentencing guideline. Id. at 3-6.
+
+      B.        Time Served in State Custody
+
+                1.   The Defendant’s Memorandum
+
+      Mr. Mulkern observes that he “went into custody on August 26, 2014 for state
+
+offenses related to the charges in this case, and was held during the entire time of
+
+the pendency of his state and federal proceedings.” Def.’s Mem. at 7. Mr. Mulkern
+
+claims that the Bureau of Prisons (BOP) has informed him that the start time for his
+
+federal sentence will begin at the date of his transfer to federal custody following his
+
+sentencing on January 28, 2016. Id. He asks the Court to account for this time in
+
+state custody for a burglary charge in which it was alleged that he stole, among other
+
+things, the ammunition that resulted in this conviction.         Id. (citing U.S.S.G. §
+
+5G1.3(b)(1)).
+
+                2.   The Government’s Reply
+
+      The Government opposes Mr. Mulkern’s request, arguing that U.S.S.G. §
+
+5G1.3(b) is inapplicable because Mr. Mulkern was not convicted of the state charges,
+
+nor were his guideline calculations enhanced by any conduct that formed the basis of
+
+his state custody. Gov’t’s Reply at 6-7 (citing United States v. Gondek, 65 F.3d 1, 2
+
+
+
+                                               7
+(1st Cir. 1995); United States v. Lino, 493 F.3d 41, 45 (1st Cir. 2007); United States v.
+
+Figueroa-Figueroa, 791 F.3d 187, 192 (1st Cir. 2015)).
+
+III.   DISCUSSION
+
+       A.      The Robbery Conviction and the Base Offense Level
+
+       The guideline base offense level for felon-in-possession cases depends in part
+
+on whether a defendant has a prior conviction of a “crime of violence” or a “controlled
+
+substance offense.” U.S.S.G. § 2K2.1(a)(4)(A). A crime of violence is defined as:
+
+       any offense under federal or state law, punishable by imprisonment for
+       a term exceeding one year, that
+             (1) has as an element the use, attempted use, or threatened use
+             of physical force against the person of another, or
+             (2) is murder, voluntary manslaughter, kidnapping, aggravated
+             assault, a forcible sex offense, robbery, arson, extortion, or the
+             use or unlawful possession of a firearm described in 26 U.S.C. §
+             5845(a) or explosive material as defined in 18 U.S.C. § 841(c).
+
+U.S.S.G. § 4B1.2(a) (emphasis supplied). Subsection (1) is called the “force clause,”
+
+and subsection (2) is called the “enumerated offenses clause.” A court must determine
+
+whether the specific state's legal definition of the offense of conviction fulfills either
+
+clause of the Guidelines’ definition of a crime of violence.
+
+       In making this determination, courts have developed two approaches: the
+
+categorical approach and the modified categorical approach. See United States v.
+
+Mulkern, 854 F.3d 87, 90 (1st Cir. 2017).2 When the state statute is indivisible,
+
+meaning there is only one way to commit the crime, the court uses the categorical
+
+approach, which assumes the state statute of conviction “rested upon [nothing] more
+
+
+2       Although Mulkern is an ACCA case, the First Circuit has held that “the terms ‘crime of
+violence’ under the career offender guideline and ‘violent felony’ under the ACCA are nearly identical
+in meaning, so that decisions construing one inform the construction of the other.” United States v.
+Willings, 588 F.3d 56, 58 n.2 (1st Cir. 2009).
+
+
+                                                      8
+than th[e] least of the acts criminalized.” Id. (citing Moncrieffe v. Holder, 133 S. Ct.
+
+1678, 1684 (2013)) (internal quotations omitted). The court then compares the state
+
+statute of conviction’s elements to the pertinent definitions under the federal law. Id.
+
+If there is a match, the state conviction is a crime of violence. Id.
+
+       However, when the state statute is divisible, meaning that it lays out elements
+
+in the alternative and thereby defines multiple crimes, courts employ the modified
+
+categorical approach. Id. (citing Mathis v. United States, 136 S. Ct. 2243, 2248
+
+(2016)). Under that method, “the court looks beyond the statute of conviction to a
+
+narrow ‘class of documents (for example, the indictment, jury instructions, or plea
+
+agreement and colloquy)’—known as Shepard documents—‘to determine what crime,
+
+with what elements, the defendant was convicted of.’” Id. (citing Shepard v. United
+
+States, 544 U.S. 13, 26 (2005)). The court can then compare that version of the crime,
+
+as the categorical approach commands, with the pertinent definition under federal
+
+law, to see if the state conviction is eligible. Id.
+
+       The First Circuit has already determined that Maine’s robbery statute does
+
+not qualify as a crime of violence based on the force clause, because it allows for
+
+convictions based on a level of force below that required to be considered “physical
+
+force” under the guideline. Mulkern, 854 F.3d at 91-94.3 At least since August 1,
+
+2016, however, robbery is an enumerated offense under the second clause of the
+
+
+
+
+3       For the reasons described in footnote 2, the First Circuit’s conclusions about the force clause
+of the ACCA also apply to the force clause of the sentencing guideline.
+
+
+
+
+                                                      9
+guideline.4      See Supplement to the 2015 Guidelines Manual, UNITED STATES
+
+SENTENCING COMMISSION (Aug. 1, 2016).
+
+
+4        The parties do not dispute which Guidelines Manual applies here. Nevertheless, since Mr.
+Mulkern’s conduct pre-dates the 2016 manual, the Court notes the potential for ex post facto concerns.
+The Court recently addressed these issues in United States v. Childers, No. 1:16-CR-00079-JAW, 2017
+WL 2559858, at *5-6, 2017 U.S. Dist. LEXIS 90334, at *10-15 (D. Me. June 13, 2017).
+         Pursuant to U.S.S.G. § 1B1.11(a), “[t]he Court shall use the Guidelines Manual in effect on the
+date that the defendant is sentenced.” However, “[i]f the court determines that use of the Guidelines
+Manual in effect on the date that the defendant is sentenced would violate the ex post facto clause of
+the United States Constitution, the court shall use the Guidelines Manual in effect on the date that
+the offense of conviction was committed.” Id. § 1B1.11(b)(1).
+         The United States Sentencing Commission revised the definition of “crime of violence” in 2016,
+eliminating the residual clause and adding robbery as an enumerated offense in the text of the
+Guideline. The United States Supreme Court held that the residual clause of the ACCA was void for
+vagueness. See Johnson v. United States, 135 S. Ct. 2551, 2563 (2015) (Johnson II). After the Johnson
+II decision, courts disagreed over whether the Johnson II holding applied to the identical language
+found in the residual clause in the Guidelines Manual. See United States v. Beckles, 137 S. Ct. 886,
+891–92 n.2 (2017); see also Amendments to the Sentencing Guidelines (Jan. 21, 2016) at 3 (“While not
+addressing the guidelines, [the Johnson II] decision has given rise to significant litigation regarding
+the guideline definition of ‘crime of violence’”). Although the First Circuit did not have the opportunity
+to definitively decide the issue because the Government conceded the residual clause in the Guidelines
+was vague under Johnson II, it did hold that without the residual clause it was compelled to ignore
+Application Note 1 to U.S.S.G. § 4B1.2. See United States v. Soto–Rivera, 811 F.3d 53, 62 (1st Cir.
+2016).
+         As a result of the differing opinions as to the validity of the residual clause in the Guidelines,
+the United States Sentencing Commission revised the definition of “crime of violence” found at
+U.S.S.G. § 4B1.2 in the 2016 Guidelines Manual. The “force clause” remains the same, but the second
+clause eliminates the residual clause and simply enumerates specific offenses that qualify as “crimes
+of violence” (the enumerated offenses clause).
+         Based on this framework, application of the 2016 Guidelines Manual would have violated the
+ex post facto clause. Under the 2016 definition of “crime of violence,” robbery is an enumerated offense
+in the text of the Guidelines, whereas under the 2015 Guidelines Manual, robbery is listed only in
+Application Note 1, which the First Circuit deemed was inconsistent with the Guideline itself in light
+of the Government's concession that Johnson II invalidated the residual clause. United States v.
+Fields, 822 F.3d 20, 33 (1st Cir. 2016) (“The parties agree that, in light of [Johnson II], the residual
+clause of the career offender guideline is unconstitutional and thus may not be relied upon to classify
+a conviction of a crime of violence under the career offender guideline. We assume without deciding
+that the parties are correct . . .”).
+         However, the United States Supreme Court recently held that the residual clause in the
+Guidelines is not subject to vagueness challenges under the Due Process Clause. See Beckles, 137 S.
+Ct. at 890. Thus, as the law now stands, the Court may apply the residual clause, and as a
+consequence, Application Note 1, when determining whether a conviction is a predicate offense for
+purposes of career offender status. Because Application Note 1 to U.S.S.G. § 4B1.2 in the 2015
+Guidelines Manual enumerates robbery as a “crime of violence,” the legal analysis becomes the same
+whether the Court analyzes the robbery conviction under the 2015 or 2016 version of the Guidelines
+Manual. See Taylor v. United States, 495 U.S. 575, 602 (1990) (analyzing whether the statutory
+definition of a prior conviction substantially corresponds to the generic version of the enumerated
+offense). At least, the difference between the 2016 Guideline, where robbery is expressly enumerated
+
+
+
+
+                                                        10
+       Where a specific offense is enumerated, the trial court must determine if the
+
+state statute of conviction substantially corresponds to the generic definition of that
+
+enumerated offense. Taylor v. United States, 495 U.S. 575, 602 (1990); see also
+
+Deschamps v. United States, 133 S. Ct. 2276, 2281 (2013) (“[Courts] compare the
+
+elements of the statute forming the basis of the defendant’s conviction with the
+
+elements of the ‘generic’ crime—i.e., the offense as commonly understood”). The prior
+
+conviction qualifies as a crime of violence only if the statute’s elements are the same
+
+as, or narrower than, those of the generic offense. Deschamps, 133 S. Ct. at 2281; see
+
+also Mathis, 136 S. Ct. at 2248.
+
+       The generic form of robbery is, essentially, “the taking of property from another
+
+person or from the immediate presence of another person by force or by intimidation.”
+
+See United States v. Lockley, 632 F.3d 1238, 1244 (11th Cir. 2011) (quoting United
+
+States v. Walker, 595 F.3d 441, 446 (2d Cir. 2010)) (emphasis in original); see also 67
+
+AM. JUR. 2D Robbery § 12 (“[Robbery] is the taking, with intent to steal, personal
+
+property of another, from his or her person or in his or her presence, against his or
+
+her will, by violence, intimidation, or by threatening the imminent use of force”);
+
+MODEL PENAL CODE § 222.1(1) (“A person is guilty of robbery if, in the course of
+
+committing a theft, he: (a) inflicts serious bodily injury upon another; or (b) threatens
+
+another with or purposely puts him in fear of immediate serious bodily injury . . . .”);
+
+18 U.S.C. § 1951(b)(1) (“The term ‘robbery’ means the unlawful taking or obtaining of
+
+
+
+
+in the body of § 4B1.2(a)(2), and the 2015 Guideline, where robbery was listed in the application note,
+does not justify a different result.
+
+
+                                                      11
+personal property from the person or in the presence of another, against his will, by
+
+means of actual or threatened force, or violence, or fear of injury . . . .”).
+
+       Maine’s robbery statute is divisible, since there are alternate ways to commit
+
+the same crime. The parties dispute whether the Shepherd documents here are
+
+sufficient to establish the subsection of Maine’s robbery statute under which Mr.
+
+Mulkern was convicted. At the First Circuit, the parties made arguments about the
+
+true section under which Mr. Mulkern pleaded guilty, but the First Circuit did not
+
+decide the issue. Mulkern, 854 F.3d at 93 (“We need not resolve the parties’ dispute
+
+over which subpart of the robbery statute Mulkern pled guilty to violating—section
+
+651(1)(B)(2) or section 651(1)(C)”).
+
+              1.     The Possible Robbery Provisions
+
+       Mr. Mulkern may have pleaded guilty under one of three subsections, which
+
+the Court analyzes separately.
+
+                     a.     § 651(1)(C): Use of Physical Force
+
+       In Mr. Mulkern’s appeal to the First Circuit, the Government argued that he
+
+pleaded guilty of robbery under § 651(1)(C). Mulkern, 854 F.3d at 92. Under the
+
+version of this subsection in effect at the time, “[a] person is guilty of robbery if he
+
+commits or attempts to commit theft and at the time of his actions . . . [h]e uses
+
+physical force on another with the intent” either “[t]o prevent or overcome resistance
+
+to the taking of the property, or to the retention of the property immediately after the
+
+taking” or “[t]o compel the person in control of the property to give it up or to engage
+
+in other conduct which aids in the taking or carrying away of the property.” 1975 Me.
+
+Laws 3341-42; see also 17-A M.R.S. § 651(1)(C). Thus, the key distinction between
+
+
+                                                12
+this subsection and the others is that this subsection requires that the defendant
+
+actually use physical force.
+
+      Robbery under subsection (C) fits within the definition of generic robbery.
+
+First, there are many ways to commit “theft” under Maine law, but each of the
+
+numerous provisions contains the core element of “depriving” or “taking” the
+
+“property of another.” 17-A M.R.S. §§ 351-363. These are the identical terms courts
+
+use to define the theft element of a generic robbery. Second, the use of “physical force”
+
+is one of the two methods a defendant can use to commit a generic robbery. The other
+
+is by using “intimidation” or “threat” of force. While robbery under subsection (C)
+
+may not be exactly synonymous with generic robbery, it is a subset within the
+
+definition of generic robbery. Accordingly, a conviction under subsection (C) is a
+
+crime of violence for purposes of the guideline calculation.
+
+                    b.     § 651(1)(B)(2): Threat to Use Force
+
+      In Mr. Mulkern’s appeal to the First Circuit, he argued that he pleaded guilty
+
+to robbery under § 651(1)(B)(2). Mulkern, 854 F.3d at 92. Under the version of this
+
+subsection in effect at the time:
+
+      “A person is guilty of robbery if he commits or attempts to commit theft
+      and at the time of his actions . . . [h]e threatens to use force against any
+      person present with the intent . . . to compel the person in control of the
+      property to give it up or to engage in other conduct which aids in the
+      taking or carrying away of the property.”
+
+1975 Me. Laws 3341-42; see also 17-A M.R.S. § 651(1)(B)(2). This subsection does not
+
+require that the defendant actually use physical force. The threat of force is enough.
+
+      Robbery under subsection (B)(2) fits within the definition of generic robbery.
+
+First, as with subsection (C), “theft” under (B)(2) contains the core element of
+
+
+                                              13
+“depriving” or “taking” the “property of another.” See 17-A M.R.S. §§ 351-363. These
+
+are the identical terms courts use to define generic robbery.
+
+      A slightly more difficult issue is whether a threat to use force is sufficient to
+
+constitute a generic robbery. However, as described earlier, apart from the actual
+
+use of force, a threat to use force is the second way a person may commit a generic
+
+robbery. Furthermore, subsection (B)(2) does not encompass all types of threats, but
+
+includes only threats to use physical force, and it limits the threats to threats
+
+intended to compel the person with the property to give it up. Again, while robbery
+
+under subsection (B)(2) may not be exactly synonymous with generic robbery, it a
+
+subset of generic robbery. Accordingly, a conviction under subsection (B)(2) is a crime
+
+of violence for purposes of the guideline calculation.
+
+                    c.     § 651(1)(A): Reckless Infliction of Bodily Injury
+
+      Mr. Mulkern now argues that he pleaded guilty to robbery under § 651(1)(A).
+
+Def.’s Mem. at 4-5. The version of this subsection in effect at the time specified, “A
+
+person is guilty of robbery if he commits or attempts to commit theft and at the time
+
+of his actions . . . [h]e recklessly inflicts bodily injury on another.” 1975 Me. Laws
+
+3341-42; see also 17-A M.R.S. § 651(1)(A).
+
+      Robbery under § 651(1)(A) does not fit completely within the definition of
+
+generic robbery. As with the other two subsections discussed above, the “theft”
+
+component under Maine law matches the core element of “depriving” or “taking” the
+
+“property of another” as required for generic robbery. See 17-A M.R.S. §§ 351-363.
+
+      The equivalence, however, ends there. Subsection (A) does not require either
+
+force or threat of force, as generic robbery requires. Instead, the statute requires a
+
+
+                                              14
+“bodily injury.”   Conduct causing injury is not necessarily the same as conduct
+
+involving the use of “force” or “threat of force” to compel someone to give up their
+
+property.   The potential class of recipients of the action under § 651(1)(A) is
+
+potentially broader than under generic robbery. Under the former, the defendant can
+
+recklessly injure any other person for any other reason, as long as the injury occurs
+
+during the theft; under the latter, the defendant must direct force or threats against
+
+the owner or possessor in particular, or against someone else in order to compel the
+
+owner or possessor.
+
+      The distinction between subsection (A) and a generic robbery weaves two
+
+concepts: intentionality and injury. Under the Model Penal Code, for example, a
+
+generic robbery consists of inflicting “serious bodily injury” or threatening another to
+
+put him “in fear of immediate serious bodily injury.” MODEL PENAL CODE § 222.1(1).
+
+Subsection (1)(A) refers to “recklessly” inflicting “bodily injury.”      17-A M.R.S. §
+
+651(1)(A). The Maine Criminal Code defines “bodily injury” to mean “physical pain,
+
+physical illness or any impairment of physical condition.” 17-A M.R.S. § 2(5). The
+
+Maine Criminal Code contains a heightened definition for “serious bodily injury”, §
+
+2(23), which would likely meet the generic definition of “serious bodily injury” in
+
+robbery, but § 651(1)(A) uses the more generalized term. Under Maine caselaw,
+
+“bodily injury” lies between offensive physical contact and serious bodily injury. State
+
+v. Carmichael, 405 A.2d 732, 735 (Me. 1979). Assuming that a generic robbery
+
+requires the infliction or threat of serious bodily injury, subsection (A) creates a lower
+
+threshold and is not a generic robbery.
+
+
+
+
+                                               15
+       This conclusion is buttressed by the fact that the defendant’s infliction of bodily
+
+injury may be reckless. The Maine Criminal Code defines acting “recklessly” as
+
+“consciously disregard[ing] a risk that the person’s conduct will cause such a result”,
+
+or “consciously disregard[ing] a risk that such circumstances exist”, in situations that
+
+must involve “a gross deviation from the standard of conduct that a reasonable and
+
+prudent person would observe in the same situation.” 17-A M.R.S. § 35(3). The lower
+
+standard of intentionality combined with the lower standard for bodily injury
+
+confirms that subsection (A) is something different than a generic robbery.
+
+       In addition to these issues, there are others. Read literally, subsection (A)
+
+could capture a reckless injury to a bystander or injuries occasioned by the
+
+perpetrator’s attempt to distract the property owner.5 In short, there are surely
+
+numerous ways a defendant might recklessly injure a person in the course of a theft
+
+without satisfying the elements of a generic robbery.
+
+       A prior conviction qualifies as a crime of violence only if the statute’s elements
+
+are the same as, or narrower than, those of the generic offense. Deschamps, 133 S.
+
+Ct. at 2281; see also Mathis, 136 S. Ct. at 2248. The elements of subsection (A) are
+
+different and broader than generic robbery.                Accordingly, a conviction under
+
+subsection (A) is not categorically a crime of violence for purposes of the guideline
+
+calculation.
+
+
+
+
+5      For example, while committing a theft, a defendant might recklessly injure a bystander while
+taking unguarded property or might recklessly create a dangerous distraction, which injures a third
+party.
+
+
+                                                   16
+             2.    The Shepard Documents
+
+      This exercise in statutory interpretation does not end the discussion. Since
+
+one of the possible ways of committing robbery is not crime of violence, the Court
+
+must determine if the Shepard documents clear up the ambiguity as to which of the
+
+subsections of § 651 Mr. Mulkern was convicted of violating. Mulkern, 854 F.3d 87,
+
+at 90 (citing Shepard v. United States, 544 U.S. 13, 26 (2005)). The parties presented
+
+three Shepard documents, all relating to the 2001 robbery charge.
+
+      The first document is the indictment in Mr. Mulkern’s 2001 criminal case.
+
+Sentencing Ex. 4. On August 2, 2001, a state grand jury indicted Mr. Mulkern for
+
+eight counts; Count 7 was robbery. Id. On the first page of the indictment is the
+
+following:
+
+      Count 7: T17-A M.R.S.A. §651(1)(E)
+               ROBBERY
+               CLASS A CRIME
+
+Id. at 1. In pen, someone crossed out the “A” in “Class A Crime” and wrote “B” just
+
+above it. Id. Page three of the indictment under “Count 7” reads:
+
+      . . . Brian Mulkern did attempt to commit theft by attempting to exercise
+      unauthorized control over the property of the Short Stop store and/or
+      Cassandra Cummings, namely money, and at the time of his actions he
+      threatened to use force against Cassandra Cummings with the intent to
+      compel her to give up the money, and he was armed with a dangerous
+      weapon during the course of the robbery.
+
+Sentencing Ex. 4. Someone crossed out “he was armed with a dangerous weapon
+
+during the course of the robbery,” initialed, and dated the modification “10-19-01”.
+
+Id.
+
+
+
+
+                                             17
+       The second document is the judgment and commitment (J&C) in Mr. Mulkern’s
+
+2001 criminal case. Sentencing Ex. 5. In pen, under “[o]ffense(s) charged,” the
+
+document reads, “Ct # 7 Robbery, Class A T17-A MRSA § 651(1)(█)” with the final
+
+letter either illegible or blacked out.   Id. at 1.   Just below, under “[o]ffenses(s)
+
+convicted,” the document reads, “Ct. 7: Robbery - Cl. B T17-A § 651.” Id.
+
+       The third document is the docket record in Mr. Mulkern’s 2001 criminal case.
+
+Sentencing Ex. 6. Under “[c]harge(s)” is the following:
+
+       7     ROBBERY                         07/04/2001 FREEPORT
+       Seq 4292  17-A 651(1)(A) Class B
+                            Amended 10/19/2001
+
+Id. at 1. Later, the docket record reflects the following:
+
+       11/20/2001 Charge(s) : 7
+       RULING – ORIGINAL ORDERED ON 10/25/2001
+
+       It is adjudged that the defendant is guilty of 7 ROBBERY 17-A 651(1)(A) Class
+       B as charged and convicted.
+
+       The defendant is sentenced to the DEPARTMENT OF CORRECTIONS for a
+       term of 7 year(s).
+
+Id. at 5.
+
+       First, the Court understands the indictment’s reference to subsection (E) as an
+
+enhancement from a Class B offense to Class A. Section 651(1)(E) makes it is a Class
+
+A crime to commit robbery under any of the other subsections if it is done with a
+
+dangerous weapon. 1975 Me. Laws 3341-42, §651(2); see also 17-A M.R.S. § 651(1)(E).
+
+Robbery under subsections (A) or (B) are otherwise Class B crimes. 1975 Me. Laws
+
+3341-42, §651(2); 17-A M.R.S. § 651(1)(A)-(B). The modification on the first page of
+
+the indictment from Class A to Class B corresponds to the amendment on October 19
+
+
+
+                                              18
+in the docket report and the initialed modification on page three of the indictment,
+
+which struck through the lines “armed with a dangerous weapon.”                   But this
+
+clarification does not establish which of the subsections Mr. Mulkern pleaded guilty
+
+to.
+
+       The reduction to a Class B offense clearly indicates that Mr. Mulkern pleaded
+
+guilty to either subsection (A) or (B), since subsections (C) and (D) are Class A crimes
+
+to begin with, even without the enhancement from the defendant’s use of a dangerous
+
+weapon. 1975 Me. Laws 3341-42, §651(2); 17-A M.R.S. § 651(1)(C)-(D). Accordingly,
+
+the Court rejects the Government’s contention that Mr. Mulkern’s state conviction
+
+was based on subsection (C).
+
+       In reviewing the Shepard documents, the Court concludes that there is an
+
+irreconcilable ambiguity as to whether Mr. Mulkern was charged and convicted under
+
+subsection (A) or subsection (B). The indictment reads like a subsection (B) charge,
+
+which criminalizes a threat to use force to commit a theft:
+
+       . . . Brian Mulkern did attempt to commit theft by attempting to exercise
+       unauthorized control over the property of the Short Stop store and/or
+       Cassandra Cummings, namely money, and at the time of his actions he
+       threatened to use force against Cassandra Cummings with the intent to
+       compel her to give up the money, and he was armed with a dangerous
+       weapon during the course of the robbery.
+
+Sentencing Ex. 4. But the docket entry on November 20, 2001, the date of the
+
+sentencing, strongly suggests that the sentencing judge thought the sentence was
+
+being imposed under § 651(1)(A).         The J&C, which typically would clarify the
+
+ambiguity, fails to do so, because the subsection of § 651(1) is blacked out or is illegible
+
+and the remaining reference to § 651 does not list the subsection.
+
+
+
+                                                19
+      Given that the Shepard documents fail to clarify which of the subsections Mr.
+
+Mulkern was charged, convicted and sentenced for violating and given that if he was
+
+charged, convicted and sentenced for violating § 651(1)(A), he would not have
+
+committed a “crime of violence” under U.S.S.G. § 2K2.1(a)(4)(A), the Court concludes
+
+that Mr. Mulkern’s base offense level is 14.
+
+             3.     Recalculated Guideline Recommended Sentence
+
+      The recalculated guideline sentence is as follows:
+
+      (1) A base offense level of 14 under U.S.S.G. § 2K2.1(a)(4)(A);
+
+      (2) A four-level increase under U.S.S.G. § 2K2.1(b)(6)(B) because he
+
+         possessed ammunition in connection with another felony offense, the
+
+         burglary of a residence;
+
+      (3) An adjusted offense level equal to 18;
+
+      (4) A two-level reduction for acceptance of responsibility under U.S.S.G.
+
+         § 3E1.1(a);
+
+      (5) A one-level reduction for timely notifying authorities of the intention
+
+         to enter a plea of guilty under U.S.S.G. § 3E1.1(b);
+
+      (6) A total offense level of 15;
+
+      (7) A criminal history score of 12, establishing a criminal history
+
+         category of V.
+
+      (8) Based upon a total offense level of 15 and a criminal history category
+
+         of V, the guideline imprisonment range is 37 to 46 months.
+
+
+
+
+                                               20
+      B.     Credit for Time Served in State Custody
+
+      Mr. Mulkern argues that the Court should reduce his sentence by
+
+approximately seventeen months based on the time he spent in state custody between
+
+his arrest on August 26, 2014 and his transfer to the BOP following his federal
+
+sentencing on January 28, 2016. Def.’s Mem. at 6-7. At some point after the federal
+
+sentencing on January 28, 2016, the state of Maine dismissed the state charges that
+
+formed the basis of his period in state custody. Gov’t’s Reply at 6. Mr. Mulkern
+
+represents that the BOP informed him that the time toward his federal sentence
+
+started upon his transfer to BOP following sentencing in 2016, not upon his state
+
+detention for burglary. Def.’s Mem. at 7. The Government does not contest Mr.
+
+Mulkern’s assertion about BOP’s determination but argues that Mr. Mulkern is not
+
+eligible for credit under the guidelines. Gov’t’s Reply at 6-7.
+
+      The sentencing guidelines contain a complex set of scenarios under which the
+
+sentencing court may credit undischarged or anticipated state terms of
+
+imprisonment. See U.S.S.G. § 5G1.3. These provisions “are less than a model of
+
+clarity.” United States v. Gondek, 65 F.3d 1, 2 (1st Cir. 1995). First, any new sentence
+
+is imposed consecutive to the undischarged term if the new crime occurred while the
+
+defendant was imprisoned for the prior crime. U.S.S.G. § 5G1.3(a). Second, if the
+
+new term of imprisonment “resulted from the prior offense that is relevant conduct”
+
+under the guidelines, the sentencing court adjusts the sentence for time served on the
+
+undischarged term of imprisonment if that time will not be credited by the Bureau of
+
+Prisons and imposes the remainder of the sentence concurrently. U.S.S.G. § 5G1.3(b).
+
+Third, if “a state term of imprisonment is anticipated to result from another offense
+
+
+                                              21
+that is relevant conduct” under the guidelines, the sentencing court imposes the new
+
+sentence to run concurrent with the anticipated term of imprisonment. U.S.S.G. §
+
+5G1.3(c).
+
+      As an initial matter, the conduct underlying Mr. Mulkern’s state charge does
+
+qualify as “relevant conduct” under the sentencing guidelines. “Relevant conduct” is
+
+defined in § 1B1.3(a)(1)-(3) and includes “all acts and omissions committed . . . by the
+
+defendant . . . that occurred during the commission of the offense of conviction.”
+
+U.S.S.G. § 1B1.3(a)(1). Mr. Mulkern stole the ammunition that served as the basis
+
+for this federal conviction during the burglary that served as the basis for the state
+
+charge, and the burglary was used to adjust his offense level under U.S.S.G. §
+
+2K2.1(b)(6)(B).
+
+      Despite meeting this initial § 5G1.3 requirement, Mr. Mulkern’s arguments
+
+fail for several reasons. Section 5G1.3(b) does not apply to Mr. Mulkern’s time in
+
+state custody because he was not convicted or sentenced for the conduct that served
+
+as the basis of that custody. When there is no other conviction, there is no “sentence”
+
+or “term of imprisonment” for the Court to consider. The weight of authority suggests
+
+the guideline provision does not apply to any time defendants serve in state pretrial
+
+detention before federal sentencing. See e.g. States v. Rollins, 552 F.3d 739, 742 (8th
+
+Cir. 2009) (concluding § 5G1.3(b) “does not apply” because “[t]he district court
+
+sentenced Rollins before the state court sentenced him”); United States v. Stebbins,
+
+523 F. App'x 1, 4 (1st Cir. 2013) (same); Claudio-Ortiz v. United States, 115 F. Supp.
+
+3d 238, 242 (D.P.R. 2015) (same).
+
+
+
+
+                                              22
+      Section 5G1.3(c) does not apply because the Court does not anticipate any state
+
+“sentence” or “term of imprisonment” will follow this sentencing. The state of Maine
+
+dismissed the state charges and there is no evidence in this record that the state of
+
+Maine will or can reinitiate these dismissed charges.
+
+      The guidelines also permit a downward departure when the defendant already
+
+served the prior term of imprisonment if the sentencing court could have applied §
+
+5G1.3(b) had the defendant not yet finished serving the sentence. U.S.S.G. § 5K2.23.
+
+This provision is of no assistance to Mr. Mulkern. As discussed with § 5G1.3(b), the
+
+state court did not impose a “term of imprisonment” or “sentence” for this court to
+
+now consider. This provision allows a sentencing court to consider a discharged term
+
+of imprisonment when sentencing a defendant, just as it would for an analogous
+
+undischarged term of imprisonment. But by its terms, like § 5G1.3(b), § 5K2.23 does
+
+not cover a case involving presentence custody which did not result in a conviction
+
+and sentence.
+
+      The guidelines, however, contain an escape valve for “circumstances of a kind
+
+not adequately taken into consideration” in the guidelines. U.S.S.G. § 5K2.0(a)(2)(B).
+
+Specifically, subsection 2K2.0(a)(2)(B) provides:
+
+      A departure may be warranted in the exceptional case in which there is
+      present a circumstance that the Commission has not identified in the
+      guidelines but that nevertheless is relevant to determining the
+      appropriate sentence.
+
+      In general, the guidelines allow a credit against a federal sentence to the extent
+
+a defendant has been incarcerated for a state crime involving conduct relevant to the
+
+guideline calculation. Here, a defendant spent seventeen months in state custody for
+
+
+
+                                             23
+conduct relevant to his guideline calculation, but under the precise language of the
+
+guideline provisions, he is not entitled to a credit for that time served. This is only
+
+because the state decided not to proceed against him with its charges and the BOP
+
+concluded that he is not entitled to a credit. Ironically, if the state had proceeded and
+
+convicted the defendant for the very same conduct, he would have been allowed a
+
+credit.    This result is counterintuitive, is based on circumstances beyond the
+
+defendant’s control (namely, whether the state prosecutor proceeds with the state
+
+charge), and seems fundamentally unfair, leaving the defendant without any credit
+
+for time served pursuant to a related state charge. The Court concludes that Mr.
+
+Mulkern has met the requirements for a downward departure under § 5K2.0(a)(2)(B).
+
+In reaching this conclusion, the Court determines that the Defendant’s conduct in
+
+this case does not fall into any of the categories of restricted or prohibited departures.
+
+See U.S.S.G. § 5K2.0(b), (c), (d); 18 U.S.C. § 3553(b)(2) (child crimes and sexual
+
+offenses). Once the Court concludes that “there exists a[] . . . mitigating circumstance
+
+of a kind, or to a degree, not adequately taken into consideration by the Sentencing
+
+Commission in formulating the guidelines that should result in a sentence different
+
+from that described,” the statute directs the Court to the analysis in § 3553(a)(2). 18
+
+U.S.C. § 3553(b)(1).6 Finally, if § 5K2.0(a)(2)(B) were not available, the Court would
+
+adjust Mr. Mulkern’s sentence under its authority in 18 U.S.C. § 3553(a).
+
+
+
+6        There is another statutory provision that comes into play: 18 U.S.C. § 3585(b). In addition to
+the adjustments under the guidelines, a defendant is sometimes entitled by statute to credit for prior
+custody. A defendant’s sentence “commences on the date the defendant is received in custody awaiting
+transportation to, or arrives voluntarily to commence service of sentence at, the official detention
+facility. . .” 18 U.S.C. § 3585(a). However, defendants
+
+
+
+
+                                                     24
+IV.     CONCLUSION
+
+        The Court concludes that Mr. Mulkern’s robbery conviction is not a crime of
+
+violence under the sentencing guidelines and that his base offense level is 14 under
+
+the guidelines. The Court further concludes that Mr. Mulkern is entitled to a credit
+
+for the seventeen months he served in state custody under U.S.S.G. § 5K2.0(a)(2)(b)
+
+through 18 U.S.C. § 3553(b)(1). Mr. Mulkern has requested the right to be present
+
+at his resentencing and the Court therefore directs the Clerk’s Office to schedule his
+
+resentencing on a priority basis.
+
+        SO ORDERED.
+
+                                                /s/ John A. Woodcock, Jr.
+                                                JOHN A. WOODCOCK, JR.
+                                                UNITED STATES DISTRICT JUDGE
+
+Dated this 20th day of November, 2017
+
+
+        shall be given credit toward the service of a term of imprisonment for any time he has
+        spent in official detention prior to the date the sentence commences--
+                 (1) as a result of the offense for which the sentence was imposed; or
+                 (2) as a result of any other charge for which the defendant was arrested after
+                 the commission of the offense for which the sentence was imposed;
+        that has not been credited against another sentence.
+18 U.S.C. § 3585(b). The United States Supreme Court has ruled that the Attorney General, not the
+sentencing court, is responsible for this calculation. United States v. Wilson, 503 U.S. 329, 112 S. Ct.
+1351 (1992); see also United States v. Martin, 363 F.3d 25, 39 (1st Cir.2004) (noting Attorney General
+is responsible for calculating amount of credit granted to defendants). In Rogers v. United States, 180
+F.3d 349 (1st Cir.1999), the First Circuit made it clear that a request for credit for prior custody under
+18 U.S.C. § 3585(b)(2) must be made, in the first instance, to the Attorney General through the BOP
+upon imprisonment after sentencing. Id. at 357-58. Once administrative remedies are exhausted,
+prisoners may then seek judicial review of any jail-time credit determination by filing a habeas petition
+under 28 U.S.C. § 2241.
+        But for this constraint, § 3585(b)(2) would apply to Mr. Mulkern’s case. The burglary under
+state law is a “charge for which the defendant was arrested after the commission of the” ammunition
+possession offense, because it was during that burglary that Mr. Mulkern stole the ammunition. That
+seventeen months in state custody before sentencing in federal court “has not been credited against
+another sentence.” Therefore, the time in state custody satisfies the requirements of § 3585(b).
+Nevertheless, in light of the need to exhaust administrative remedies and the availability of a remedy
+under the guidelines, the Court does not reach whether there could be an exception to the exhaustion
+requirement in the unusual facts presented by this case.
+
+
+
+                                                       25
+

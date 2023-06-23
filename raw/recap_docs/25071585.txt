@@ -1,0 +1,223 @@
+                        UNITED STATES DISTRICT COURT
+                             DISTRICT OF MAINE
+
+UNITED STATES OF AMERICA,               )
+                                        )
+      v.                                )
+                                        )
+                                        )     2:02-cr-00041-DBH-1
+TREVIS CALDWELL,                        )
+                                        )
+      Defendant.                        )
+                                        )
+
+
+     RECOMMENDED DECISION ON MOTION TO MODIFY SENTENCE
+
+      In this action, Defendant Trevis Caldwell moves to modify his sentence.
+
+(Motion, ECF No. 71.) Defendant is serving a 223-month sentence on a conviction that
+
+followed his guilty plea to a number of federal offenses, including armed bank robbery.
+
+United States v. Caldwell, 358 F.3d 138, 139 (1st Cir. 2004). He contends the Court
+
+incorrectly sentenced him under 18 U.S.C. § 924(c)(1)(B)(i) after another charge, which
+
+alleged possession of a short-barreled shotgun, was dismissed on the Government’s
+
+motion. (Motion at 2-3.) Defendant contends that the other charge was dismissed because
+
+the weapon did not qualify as short-barreled. (Id.; Response, ECF No. 74 at 2.) The
+
+Government objects to the motion. (Response at 1.)
+
+      Following a review of Defendant’s motion and the Government’s request for
+
+dismissal, I recommend the Court grant the Government’s request, and dismiss
+
+Defendant’s motion.
+                                             I.       DISCUSSION
+
+          Title 18 U.S.C. § 3582, which governs sentence modifications, provides that a
+
+criminal judgment is final, with limited exceptions.1 Section 3582(b) sets forth three
+
+
+1
+    Title 3582 provides in part:
+
+           (b) Effect of finality of judgment.--Notwithstanding the fact that a sentence to
+          imprisonment can subsequently be—
+
+                   (1) modified pursuant to the provisions of subsection (c);
+
+                   (2) corrected pursuant to the provisions of rule 35 of the Federal Rules of Criminal
+                       Procedure and section 3742; or
+
+                   (3) appealed and modified, if outside the guideline range, pursuant to the
+                       provisions of section 3742;
+
+          a judgment of conviction that includes such a sentence constitutes a final judgment for all
+          other purposes.
+
+          (c) Modification of an imposed term of imprisonment.--The court may not modify a
+          term of imprisonment once it has been imposed except that—
+
+                   (1) in any case—
+
+                           (A)       the court, upon motion of the Director of the Bureau of Prisons,
+                           may reduce the term of imprisonment (and may impose a term of probation
+                           or supervised release with or without conditions that does not exceed the
+                           unserved portion of the original term of imprisonment), after considering
+                           the factors set forth in section 3553(a) to the extent that they are applicable,
+                           if it finds that—
+
+                                   (i)     extraordinary and compelling reasons warrant such a
+                                   reduction; or
+
+                                   (ii)     the defendant is at least 70 years of age, has served at least
+                                   30 years in prison, pursuant to a sentence imposed under section
+                                   3559(c), for the offense or offenses for which the defendant is
+                                   currently imprisoned, and a determination has been made by the
+                                   Director of the Bureau of Prisons that the defendant is not a danger
+                                   to the safety of any other person or the community, as provided
+                                   under section 3142(g);
+
+                                   and that such a reduction is consistent with applicable policy
+                                   statements issued by the Sentencing Commission; and
+
+
+                                                         2
+circumstances    under     which     a   court    can    modify      a   sentence.     First,     under
+
+subsection 3582(b)(1), a sentence may be modified pursuant to subsection (c), which
+
+provides that the Director of the Bureau of Prisons may file a motion to reduce the prison
+
+term under certain specified circumstances (subsection 3582(c)(1)), and that a sentence
+
+may be modified when the Sentencing Commission has lowered a sentencing range and
+
+other requirements are satisfied (subsection 3582(c)(2)). Neither situation applies to
+
+Defendant’s motion.
+
+       In addition, subsection 3582(b)(2), which applies to sentence corrections pursuant
+
+to Fed. R. Crim. P. 35 (i.e., corrections within 14 days after sentencing and reductions for
+
+substantial assistance on the Government’s motion) and to direct appeals from a sentence
+
+pursuant to 18 U.S.C. § 3742, and subsection 3582(b)(3), which also applies to direct
+
+appeals pursuant to 18 U.S.C. § 3742, also do not apply to Defendant’s motion. Plaintiff’s
+
+sentence, therefore, cannot be modified pursuant to 18 U.S.C. § 3582.
+
+       Finally, although Defendant did not cite 28 U.S.C. § 2255 as a basis for his motion,
+
+this Court would lack jurisdiction over the matter had he filed a section 2255 motion. This
+
+Court dismissed as untimely under section 2255(f) a prior motion filed by Defendant.
+
+
+                      (B)     the court may modify an imposed term of imprisonment to the
+                      extent otherwise expressly permitted by statute or by Rule 35 of the
+                      Federal Rules of Criminal Procedure; and
+
+              (2) in the case of a defendant who has been sentenced to a term of imprisonment
+              based on a sentencing range that has subsequently been lowered by the Sentencing
+              Commission pursuant to 28 U.S.C. 994(o), upon motion of the defendant or the
+              Director of the Bureau of Prisons, or on its own motion, the court may reduce the
+              term of imprisonment, after considering the factors set forth in section 3553(a)
+              to the extent that they are applicable, if such a reduction is consistent with
+              applicable policy statements issued by the Sentencing Commission.
+
+
+                                                 3
+Caldwell v. United States, Nos. 2:09-cv-438-DBH, 2:02-cr-00041-DBH (D. Me. Oct. 16,
+
+2009). The dismissal of Defendant’s “first habeas petition as time-barred was a decision
+
+on the merits, and any later habeas petition challenging the same conviction is second or
+
+successive and is subject to [28 U.S.C. § 2244(b)].” In re Rains, 659 F.3d 1274, 1275
+
+(10th Cir. 2011) (per curiam) (denying authorization to file a second or successive
+
+28 U.S.C. § 2254 petition); Villanueva v. United States, 346 F.3d 55, 58 (2d Cir. 2003)
+
+(holding “that a first § 2255 petition that has properly been dismissed as time-barred under
+
+[28 U.S.C. § 2244] has been adjudicated on the merits, such that authorization from this
+
+court is required before filing a second or successive § 2255 petition”).
+
+       This Court lacks jurisdiction to consider a second or successive section 2255 motion
+
+unless the First Circuit Court of Appeals has specifically authorized the Court to consider
+
+the motion. Title 28 U.S.C. § 2244 applies to second or successive section 2255 motions,
+
+pursuant to section 2255(h). Section 2244(b)(3)(A) states: “Before a second or successive
+
+application permitted by this section is filed in the district court, the applicant shall move
+
+in the appropriate court of appeals for an order authorizing the district court to consider the
+
+application.” See also First Circuit Rule 22.1. The First Circuit has held: “We have
+
+interpreted [section 2255(h) ] as ‘stripping the district court of jurisdiction over a second
+
+or successive habeas petition unless and until the court of appeals has decreed that it may
+
+go forward.’” Trenkler v. United States, 536 F.3d 85, 96 (1st Cir. 2008) (quoting Pratt v.
+
+United States, 129 F.3d 54, 57 (1st Cir. 1997)). A review of the record reveals no evidence
+
+to suggest that Defendant has obtained from the First Circuit permission to file the pending
+
+
+
+                                              4
+motion. See 28 U.S.C. §§ 2244, 2255. To the extent the motion could be construed as a
+
+section 2255 motion, therefore, this Court lacks jurisdiction to consider the motion.
+
+                                    II.    CONCLUSION
+
+       Based on the foregoing analysis, I recommend the Court deny Defendant’s motion
+
+to modify the sentence. To the extent the motion could be construed as a section 2255
+
+motion, I further recommend that the Court deny a certificate of appealability pursuant to
+
+Rule 11 of the Rules Governing Section 2255 Cases because there is no substantial showing
+
+of the denial of a constitutional right within the meaning of 28 U.S.C. § 2253(c)(2).
+
+                                          NOTICE
+
+              A party may file objections to those specified portions of a magistrate
+       judge’s report or proposed findings or recommended decisions entered
+       pursuant to 28 U.S.C. 636(b)(1)(B) for which de novo review by the district
+       court is sought, together with a supporting memorandum, within fourteen
+       (14) days of being served with a copy thereof. A responsive memorandum
+       shall be filed within fourteen (14) days after the filing of the objection.
+
+              Failure to file a timely objection shall constitute a waiver of the right
+       to de novo review by the district court and to appeal the district court's order.
+
+
+
+                                                   /s/ John C. Nivison
+                                                   U.S. Magistrate Judge
+
+       Dated this 28th day of February, 2018.
+
+
+
+
+                                              5
+

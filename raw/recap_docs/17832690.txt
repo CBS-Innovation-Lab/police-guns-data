@@ -1,0 +1,258 @@
+         Case 1:12-cr-10365-GAO Document 96 Filed 01/13/14 Page 1 of 5
+
+
+
+                             UNITED STATES DISTRICT COURT
+                              DISTRICT OF MASSACHUSETTS
+
+                           CRIMINAL ACTION NO. 12-10365-GAO
+
+                               UNITED STATES OF AMERICA
+
+                                                v.
+
+                                    PAUL THOMPSON, JR.,
+                                         Defendant.
+
+
+                                    OPINION AND ORDER
+                                       January 13, 2014
+
+O’TOOLE, D.J.
+
+       The defendant is charged with unlawfully possessing a handgun after having been
+
+previously convicted of a felony, in violation of 18 U.S.C. § 922(g)(1). The defendant has moved
+
+to suppress two guns seized by the Boston Police during an automobile stop, as well as some
+
+statements made by the defendant.
+
+       After an evidentiary hearing, I find the following pertinent facts:
+
+       Near the end of their 4:00 p.m. to 11:45 p.m. shift on May 3, 2012, Boston Police officers
+
+Paradis, McGrath, and Ryan, working as part of the Youth Violence Strike Force, were patrolling
+
+the Dudley Square section of Roxbury in an unmarked police vehicle. The area is regarded by
+
+police as a high crime area, especially at that time of night. A typical investigative technique
+
+used by the police in such circumstances is to run a Registry of Motor Vehicles check on the
+
+license plate numbers of cars encountered on such patrols to discover any possible outstanding
+
+violations of motor vehicle laws. Such a check is accomplished through a mobile data terminal
+
+(MDT) located in the police car that is connected to the Registry data base. Applying that
+
+technique, Officer McGrath ran a check on the license plate of a PT Cruiser that was in front of
+          Case 1:12-cr-10365-GAO Document 96 Filed 01/13/14 Page 2 of 5
+
+
+
+the police car in traffic. A record shows that the inquiry was made at 10:46 p.m. The result was
+
+information that the PT Cruiser had an expired inspection sticker. On that basis, the police
+
+determined to make a traffic stop of the car. Paradis estimated the car was stopped not more than
+
+two minutes after the MDT query, or about 10:48 p.m.
+
+       Paradis approached the driver of the PT Cruiser, with McGrath following behind him.
+
+Ryan approached the front passenger area of the car. The driver, identified as Felicia Badgett,
+
+acknowledged to Paradis that the car’s inspection sticker had expired. From the light given off by
+
+Paradis’s flashlight, McGrath could see that there was a passenger seated in the back right behind
+
+the driver. He tapped on the rear door window and the passenger rolled down the window.
+
+McGrath saw a young man, eventually identified as Latiek Kindel, seated behind the driver. He
+
+also smelled the odor of burnt marijuana. Kindel was moving around in his seat so nervously that
+
+McGrath testified his body was shaking. He also was looking not at McGrath but at the front seat
+
+passenger, the defendant Paul Thompson. McGrath noticed the young man was not wearing a
+
+seat belt, and asked him for identification. (A person not wearing a seat belt can be given a
+
+citation for the violation.) McGrath also asked Kindel if he had any marijuana, thinking that
+
+might explain his nervousness. Kindel replied he did not, though he acknowledged having
+
+smoked some earlier.
+
+       On the other side of the car, Ryan spoke through an open window to Thompson. Ryan
+
+also smelled burnt marijuana, and he similarly asked Thompson if he had any in his possession,
+
+which Thompson denied. Thompson was also unbelted, and Ryan asked him for his
+
+identification, which he supplied. Unlike Kindel, Thompson did not appear unduly nervous, but
+
+rather sat looking down at the floor of the car.
+
+
+
+
+                                                   2
+          Case 1:12-cr-10365-GAO Document 96 Filed 01/13/14 Page 3 of 5
+
+
+
+       Paradis returned to the police car to run a check on both Kindel and Thompson for any
+
+relevant police information, including possible outstanding issues such as warrants. There were
+
+no warrants, but for each man there was a criminal history containing a significant number of
+
+arraignments. In addition, Ryan told the other officers that he was aware Kindel had been
+
+associated with gangs and guns in the past. This information, coupled with the olfactory evidence
+
+of prior marijuana use, led the officers to decide to “pat frisk” the car. To that end, the officers
+
+asked the occupants of the car to step out, and they each did so without incident, except that
+
+Kindel expressed some verbal opposition. When they were outside the car, Thompson and
+
+Kindel were each given a bodily pat frisk for possible weapons; there were none. The police did
+
+not pat frisk Ms. Blodgett, consistent with policy generally requiring a female officer to do that.
+
+       McGrath entered the rear driver’s side passenger area of the car where Kindel had been
+
+seated and conducted a search for a weapon or contraband, finding neither. Ryan did the same
+
+with the front seat passenger area, where he found a handgun in a compartment under the
+
+passenger seat. While McGrath and Ryan were both still inside the car, and the car’s occupants
+
+outside on the sidewalk, Ryan told McGrath in a low tone that he had found a gun. The two
+
+officers agreed that the occupants should be handcuffed. As Ryan approached Thompson and
+
+grabbed one of his arms to accomplish the cuffing, Thompson volunteered, “It’s mine.” At this
+
+point, nothing had been said outside the car about a gun. Ryan asked Thompson for his license to
+
+carry a firearm, and Thompson admitted he had none. Ryan thereupon read him his Miranda
+
+rights. Thompson thereafter made a couple of more admissions, including that “They’re both
+
+mine,” even though the police had at that point found only a single gun. A second hidden gun
+
+was later found in the car by a detective.
+
+
+
+
+                                                 3
+          Case 1:12-cr-10365-GAO Document 96 Filed 01/13/14 Page 4 of 5
+
+
+
+        Paradis called to police dispatch to ask for backup. A second call was made to a
+
+supervising sergeant to ask that he come to the scene. According to records pertaining to dispatch
+
+tapes, those calls were made respectively at 11:00:41 and 11:01:18 p.m., or approximately 15
+
+minutes after McGrath had first queried the PT Cruiser’s license plate.
+
+        On these facts, I make the following conclusions and rulings:
+
+        The defendant, as a passenger in the vehicle with no demonstrated possessory interest in
+
+it, lacks standing to challenge the search of the vehicle as such. See United States v.
+
+Symonevich, 688 F.3d 12, 21 (1st Cir. 2012). Apparently recognizing that, he rather argues that
+
+the police unlawfully detained him beyond the time reasonably necessary to complete a lawful
+
+traffic stop for an out-of-date inspection sticker. Consequently, he asserts, the statements that
+
+followed were fruits of that illegal detention. The defendant does have standing to make this
+
+challenge. See United States v. Woodrum, 202 F.3d 1, 5-6 (1st Cir. 2000) (“It is doctrinal
+
+bedrock that a police stop of a moving vehicle constitutes a seizure of the vehicle's occupants
+
+and therefore comes within the purview of the Fourth Amendment. This principle applies equally
+
+to drivers and passengers. Hence, each occupant of a car has a right to challenge the propriety of
+
+a traffic stop under the Fourth Amendment.”) (internal quotations omitted). However, “[a]n
+
+officer's inquiries into matters unrelated to the justification for the traffic stop . . . do not convert
+
+the encounter into something other than a lawful seizure, so long as those inquiries do not
+
+measurably extend the duration of the stop.” Arizona v. Johnson, 555 U.S. 323, 333 (2009).
+
+        The defendant does not argue that the initial stop of the vehicle was invalid. Rather, he
+
+contends the police unreasonably extended the duration of the traffic stop, the delay giving them
+
+the time and opportunity to find a basis for searching for evidence. The government argues that
+
+there was no unreasonable delay under the circumstances.
+
+
+
+                                                   4
+         Case 1:12-cr-10365-GAO Document 96 Filed 01/13/14 Page 5 of 5
+
+
+
+       The time stamps for the MDT inquiry and the dispatch calls indicate that the entire stop
+
+took only about fifteen minutes. Even if the two systems were not perfectly coordinated as to
+
+their clocks, any likely variance would have been only a few minutes. All other considerations
+
+aside, this was not a lengthy detention.
+
+       The defendant’s insistence that the stop was only a traffic stop that the police
+
+unreasonably drew out is wrong. What began as a traffic stop became something else when
+
+police detected the odor of smoked marijuana. Once that occurred, the police were entitled to
+
+diligently pursue whether an offense had occurred, evidence of which might be found in the car.
+
+See Flowers v. Fiore, 359 F.3d 24, 30-31 (1st Cir. 2004). See also United States v. Staula, 80
+
+F.3d 596, 602-03 (1st Cir. 1996).
+
+        “[R]eview of a Terry stop involves a two-step analysis. First, we ascertain whether the
+
+stop was justified at its inception. Second, we determine whether the actions undertaken during
+
+the stop were reasonably related in scope to the stop itself unless the police had a basis for
+
+expanding their investigation.” United States v. Mouscardy, 722 F.3d 68, 73 (1st Cir. 2013).
+
+Here the detection of the marijuana odor alone, and also when coupled with information about
+
+the criminal histories of Thompson and Kindel, gave the police a basis from expanding their
+
+investigation from a minor traffic violation to something potentially more serious. The length of
+
+the detention was not unreasonable in the circumstances.
+
+       The defendant’s Motion to Suppress Firearms and Statements (dkt. no. 68) is DENIED.
+
+       It is SO ORDERED.
+
+                                                    /s/ George A. O’Toole, Jr.
+                                                     United States District Judge
+
+
+
+
+                                               5
+

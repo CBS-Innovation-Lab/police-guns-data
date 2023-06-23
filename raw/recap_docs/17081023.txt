@@ -1,0 +1,859 @@
+Case 2:05-cr-00099-DBH Document 30 Filed 08/09/06 Page 1 of 17                        PageID #: 42
+
+
+
+                              UNITED STATES DISTRICT COURT
+                                   DISTRICT OF MAINE
+
+
+
+UNITED STATES OF AMERICA                       )
+                                               )
+v.                                             )              Criminal No. 05-99-P-H
+                                               )
+CHARLES PARKS,                                 )
+                                               )
+                       Defendant               )
+
+
+
+
+                 RECOMMENDED DECISION ON MOTION TO SUPPRESS
+
+
+       Charles Parks, charged with theft of firearms from a federally licensed firearms dealer in
+
+Brunswick, Maine in violation of 18 U.S.C. §§ 922(u) and 924(m), seeks to suppress evidence
+
+obtained following his arrest in the State of New York on October 20, 2005. See Indictment (Docket
+
+No. 1); Defendant’s Motion To Suppress Evidence (“Motion To Suppress”) (Docket No. 19). An
+
+evidentiary hearing was held before me on August 4, 2006 at which the defendant appeared with
+
+counsel. Following the close of evidence I offered counsel an opportunity to argue orally, and defense
+
+counsel availed himself of that offer. With the benefit of the motion papers and oral argument, and
+
+based on the evidence adduced at the hearing, I recommend that the following findings of fact be
+
+adopted and that the Motion To Suppress be denied.
+
+                                   I. Proposed Findings of Fact
+
+       At about 6:15 p.m. on October 18, 2005, New York State Police (“NYSP”) Investigator
+
+Edward Marecek was in the midst of an investigation at a NYSP substation in Sylvan Beach, a
+
+neighborhood within the Town of Vienna, New York, when he heard radio traffic from an Oneida
+
+                                                   1
+Case 2:05-cr-00099-DBH Document 30 Filed 08/09/06 Page 2 of 17                         PageID #: 43
+
+
+
+County dispatcher indicating that a forcible robbery had just transpired at Ray’s Gun Shop (“Ray’s”)
+
+in Sylvan Beach. The dispatcher described the robbery suspect, whose getaway route was unknown,
+
+as about 19 to 21 years old, approximately 5 feet 7 inches to 5 feet 9 inches tall, wearing a gray
+
+sweatshirt and jeans and having light-colored hair. Marecek drove to Ray’s, taking a circuitous route
+
+to see whether he could spot anything unusual. He saw a young woman standing in her driveway,
+
+stopped his car and briefly questioned her. The woman, Samantha Voles, reported that she had seen
+
+another young woman whom she recognized as Christina Hubbard, and Hubbard’s boyfriend, traveling
+
+southbound on Vienna Road (the street on which Ray’s is located) at about 5:45 or 6 p.m. She
+
+described Hubbard’s boyfriend as wearing a camel-colored sweatshirt and carrying a backpack.
+
+             Marecek proceeded to Ray’s, which is housed in a converted garage attached to the home of
+
+the proprietor, Raymond Umber. There he found several police officers on the scene and observed
+
+that a glass case in back of the store had been smashed out and a cash register on top of the case was
+
+open. He was informed that Umber, who had been assaulted during the robbery, had been taken by
+
+ambulance to a hospital in Utica, New York. The Ray’s robbery and assault were publicized in
+
+newspapers, on television and via radio. Marecek took on the role of lead investigator with respect to
+
+the crime, ultimately working with at least two dozen law-enforcement officers from the NYSP, the
+
+Oneida County Sheriff’s Department and the Rome (New York) Police Department (“Rome PD”)
+
+prior to the defendant’s arrest on October 20, 2005.
+
+            On the night of the robbery, Marecek tasked two NYSP officers, Troopers Usmail and Dix, to
+
+interview Hubbard.1 They did so that evening. Hubbard told them that she and her boyfriend, Thomas
+
+Pultuinovich, had been riding their bikes back to her home on Vienna Road (near Ray’s). Pultuinovich
+
+
+1
+    Marecek did not supply the first names of Troopers Usmail or Dix.
+
+
+                                                                 2
+Case 2:05-cr-00099-DBH Document 30 Filed 08/09/06 Page 3 of 17                           PageID #: 44
+
+
+
+was known to the law-enforcement community, having been arrested many times in the past.
+
+Pultuinovich’s criminal history, combined with his presence near Ray’s and the report that he was
+
+wearing a sweatshirt, raised suspicion. However, after Usmail and Dix also interviewed Pultuinovich
+
+that evening, they reported to Marecek that there was no evidence he had been at Ray’s, he had a valid
+
+alibi, and he did not physically fit the description of the robber. That evening a third NYSP
+
+investigator, Alan Svitak, interviewed Umber at the hospital. Marecek and Marecek’s boss, Senior
+
+Investigator Ken Dence, also personally interviewed Umber at the hospital the following day (October
+
+19).
+
+        Umber told Svitak, Marecek and Dence that the individual who robbed and assaulted him on
+
+October 18 had come to the store the previous day. Umber had informed him that the store was closed
+
+and that he would have to come back the next day. The individual mentioned to Umber that he was
+
+from Blossvale (another neighborhood within the Town of Vienna, near Sylvan Beach). The
+
+individual returned to Ray’s the next day at about 6 or 6:15 p.m. He asked Umber to show him various
+
+types of ammunition, and Umber told him where it was. The individual picked up a canister of .22-
+
+caliber ammunition and inquired about its price. Umber answered and turned his back. When Umber
+
+again turned to face the individual, the individual began striking him in the face with the canister,
+
+knocking him to the ground. As he lay on the floor, Umber heard glass shattering and realized guns
+
+were being stolen. Umber described his assailant as a stocky man wearing jeans and a gray sweatshirt
+
+with its hood up, having light-colored hair and a goatee, about 5 feet 7 to 5 feet 9 inches tall and 19 to
+
+21 years old. Umber thought that five guns had been stolen; Marecek and Dence later returned to
+
+Ray’s, took an inventory and determined that twelve had been stolen.
+
+        On the night of the robbery, while Svitak was interviewing Umber, Marecek and others
+
+conducted “area canvasses,” interviewing people within the vicinity of Ray’s. Those interviewed
+
+                                                    3
+Case 2:05-cr-00099-DBH Document 30 Filed 08/09/06 Page 4 of 17                        PageID #: 45
+
+
+
+included Loretta and Randy Case, who lived across the street from the shop. The Cases told Marecek
+
+that at approximately 6:15 p.m. they had observed Umber’s wife Donna and a person they thought was
+
+Umber running in and out of the store. Marecek later determined this was not Umber, who at that time
+
+was unable to move from the floor, but rather another neighbor who had come to the Umbers’ aid. The
+
+Cases also told Marecek that on the previous day, October 17, between noon and 1 p.m., they had
+
+observed an individual talking to Umber who had light-colored hair, was wearing a gray sweatshirt
+
+and was carrying a backpack.
+
+       After Marecek finished his work at the scene of the robbery that evening, he returned to his
+
+office at the headquarters of NYSP Troop D in Oneida, New York. There he met with another NYSP
+
+investigator with whom he frequently worked, Christopher Altimonda. After hearing details of the
+
+case, Altimonda remarked that he thought an individual named Charles Parks, who had been involved
+
+in other gun-related and home-invasion cases, fit the description of the robber. The following morning
+
+Marecek obtained computer-database information about Parks. He learned that Parks had been
+
+charged with at least one crime, a burglary, when he was 16 or 17 years old. He determined that
+
+although Parks’ facial hair varied, his height, age and hair color matched those of the robber as
+
+described by Umber. Parks was then 19 years old. See Gov’t Exh. 3. Two NYSP investigators, Rich
+
+Dix and Mark Nell, went to the home of Parks’ father, Michael Parks, Sr. (“Parks, Sr.”), whom they
+
+interviewed that day. Parks, Sr. told them that he had not heard from Charles Parks, who resided in a
+
+mobile home on Teelin Road in Blossvale owned by Parks, Sr., for four days, although Parks, Sr.’s
+
+Caller ID indicated that Charles had tried to reach him by cell phone on October 17. Parks, Sr. gave
+
+the investigators that cell-phone number.
+
+       Dix and Nell relayed this information to Marecek, who traveled to the blue mobile home on
+
+Teelin Road described by Parks, Sr. There, Marecek spoke with an individual who identified himself
+
+                                                  4
+Case 2:05-cr-00099-DBH Document 30 Filed 08/09/06 Page 5 of 17                                                   PageID #: 46
+
+
+
+as Darryl Rude, Parks’ cousin. Rude said that he lived in the mobile home with Charles Parks and
+
+Michael Parks, Jr., that he had not seen Charles in a while and that he did not know where he was.
+
+            Also on the morning of October 19, Marecek was approached by Sergeant Nell, station
+
+commander at the Oneida NYSP headquarters, who said that he had taken a phone call that morning
+
+from a person who wished to remain anonymous who reported that he had contacted Lieutenant Fayle
+
+of the NYSP two days earlier to report that a person named Charles Parks had approached some of the
+
+caller’s relatives in Blossvale to attempt to sell them guns.2 The caller added that Parks lived in a
+
+blue trailer on Teelin Road and that he believed Parks had obtained the guns in Utica, New York.
+
+Marecek also was approached on the morning of October 19 by Lieutenant Fayle, who confirmed that
+
+on October 17 he had received a call from an individual whom he was having trouble understanding
+
+because an operator kept cutting in asking the caller to deposit fifteen cents. Fayle had understood the
+
+caller to be saying that a “Charles Clark” was trying to sell guns. Before Fayle could ask any
+
+questions, the call ended for non-payment of additional money.
+
+            On the afternoon of October 19, at Marecek’s direction, NYSP investigator John Fallon
+
+brought a photographic array to Umber at the hospital in Utica. The array contained close-ups of the
+
+faces of six similar-looking young men with short, light-colored hair, all depicted against a gray-blue
+
+background. See Gov’t Exh. 1. In response to the question, “Do you see anyone you recognize?”
+
+Umber answered: “If anyone, Number 2. He closest resembles him.” Gov’t Exh. 2. Fallon asked,
+
+“Resembles who?” and Umber responded: “The man who hit me.” Id. Umber commented: “He
+
+doesn’t have a goatee there [as depicted in the photographic array].” Id. Photograph No. 2 is a
+
+photograph of Parks. Marecek considered this a positive identification. Umber was also shown a
+
+
+2
+    Marecek did not supply the first names of Sergeant Nell (assumedly a different person than Investigator Nell) or Lieutenant Fayle.
+
+
+                                                                   5
+Case 2:05-cr-00099-DBH Document 30 Filed 08/09/06 Page 6 of 17                         PageID #: 47
+
+
+
+photographic array that included a photograph of Pultuinovich. He said that the photograph depicting
+
+Pultuinovich stood out to him but that the person was not his assailant. Marecek did not consider this a
+
+positive identification. Pultuinovich lives within yards of Ray’s; thus, Marecek thought Umber might
+
+simply have seen him in the neighborhood on previous occasions.
+
+         The following day, on October 20, Marecek personally re-interviewed Parks, Sr. Parks, Sr.
+
+told him he still had not heard from Charles and believed Charles was with a person named Luke
+
+Edick, whose phone number Parks Sr. provided to Marecek. Also that day, NYSP Lieutenant Irwin
+
+Brandl received a phone call from a woman named Carol Pitcher, who said she had information from
+
+a source she wished to keep anonymous that Charles Parks committed the Sylvan Beach robbery.
+
+Marecek’s boss, Senior Investigator Dence, who personally knew Pitcher, suspected that Pitcher’s
+
+daughter Christina Sanford was the anonymous source. He directed Marecek to find and interview
+
+Sanford. Investigators located both Sanford and her boyfriend, Ron Wood, and brought them to the
+
+Rome PD station. Marecek interviewed Sanford, while Dence and another NYSP investigator,
+
+Michael Grande, interviewed Wood separately. Sanford explained to Marecek that she and Wood
+
+lived with her mother (Pitcher). She said that earlier that day, she had overheard Wood’s end of a
+
+phone conversation with George Wishart, Jr. in which Wishart was telling Wood that Parks had shown
+
+up at Wishart’s house a couple of nights earlier (on October 18) with six to eight handguns. Wood,
+
+who was himself known to the law-enforcement community as a previous suspect in various crimes,
+
+denied that any such conversation had taken place. Sanford declined to provide a written statement or
+
+to give a deposition, stating that she did not wish to be involved. Marecek does not know Sanford
+
+personally and has no way to assess her credibility or reliability.
+
+       In attempting to locate Parks, the NYSP obtained information that he might be staying in the
+
+City of Rome, New York, and enlisted the aid of the Rome PD in the hunt. On the afternoon of
+
+                                                   6
+Case 2:05-cr-00099-DBH Document 30 Filed 08/09/06 Page 7 of 17                                                    PageID #: 48
+
+
+
+October 20, Rome PD Investigator Joseph Rotolo informed Marecek that he had obtained information
+
+from a confidential informant (“CI”) concerning the location of Parks and at least one handgun. The CI
+
+had told Rotolo that on the previous day (October 19) he had observed Parks at the home of Nicole
+
+Hobbs on Martin Street in Rome with a silver-colored handgun in his waistband. Marecek did not
+
+personally know the CI or whether he/she was reliable, but Rotolo described him/her as reliable.
+
+Rotolo requested that, if Marecek questioned Parks, he ask him as well about his possible involvement
+
+in other crimes, including an October 7, 2005 theft of firearms from a gun shop in Brunswick, Maine
+
+(the subject of the instant indictment). See Indictment.
+
+          By this time Marecek felt police had probable cause to arrest Parks for the Ray’s robbery
+
+based on Umber’s positive identification of Parks from a photographic array, the fit between the
+
+description of the robber and Parks, general knowledge of Parks from past law-enforcement
+
+encounters, the anonymous phone calls on October 17 and 19, the information from Christina Sanford
+
+and the report of the CI. 3 An Oneida County drug-enforcement task force set up surveillance of the
+
+Hobbs residence while Marecek and Rome PD investigators applied for a warrant to search the
+
+residence. No one applied for a warrant to arrest Parks; however, the Oneida County District
+
+Attorney’s Office gave the order for his arrest. At about 5:45 p.m., while waiting at the Rome PD for
+
+word whether the search warrant had been granted, Marecek received a call from a task-force member
+
+advising him that Parks and a black male had left the Hobbs residence and driven away in a Ford
+
+Ranger pickup truck. Task-force members followed the vehicle, which was headed toward Marcy,
+
+3
+  At some point – it is unclear exactly when – Marecek learned from the Rome PD that in executing a search warrant at a Rome
+residence prior to the Ray’s robbery Rome police officers seized a handgun that they ultimately traced to Parks. Following seizure of
+the gun, Rome police officers ran a special file check on it and learned that it had been stolen from a gun shop in Maine. Officers then
+interviewed the resident whose home had been searched, who told them he got the gun from George Wishart. They then questioned
+Wishart, who said he had obtained the gun from Charles Parks. During cross-examination, Marecek did not list this information as
+buttressing probable cause to arrest the defendant; hence, I conclude that he did not know it prior to the defendant’s arrest.
+
+
+                                                                   7
+Case 2:05-cr-00099-DBH Document 30 Filed 08/09/06 Page 8 of 17                                                     PageID #: 49
+
+
+
+New York. Marecek and Investigator Dix got into a vehicle and headed toward that location. At
+
+Dence’s behest, NYSP troopers in a marked patrol car stopped the Ranger and arrested Parks. Within
+
+a few minutes, Marecek and Dix arrived at the scene. Marecek observed Parks standing, handcuffed,
+
+by the marked patrol car, next to two NYSP troopers. Parks, who was wearing a white T shirt, jeans
+
+and sneakers, did not have a goatee, but apart from that, in Marecek’s view, he matched the
+
+description of the robber given by both Umber and the Cases: He was about 5 feet 6 or 5 feet 7 inches
+
+tall and had light-colored hair and somewhat of a stocky build.4
+
+          Parks was placed in the back of Marecek’s and Dix’s vehicle and taken to the NYSP station in
+
+Marcy, New York. Marecek and Dix took him to a small interview room. Parks told the investigators
+
+he could write but could not read well. Marecek read him his Miranda rights, pausing to inquire
+
+whether he understood each. 5 After Parks indicated he understood each right, Marecek asked him to
+
+place his initials alongside it, which Parks did. See Gov’t Exh. 3. Parks then was asked if he agreed
+
+to give those rights up and make a statement. He said he did, and signed his name alongside a portion
+
+of the Miranda form so indicating. See id. The time was approximately 6:20 p.m.
+
+          The interview commenced. Parks was very cooperative, was not agitated and spoke in a
+
+normal tone of voice. He did not appear to Marecek to be under the influence of drugs. He told
+
+investigators he was tired but was sober and had not had any crack cocaine to smoke in a while. The
+
+tone of the interview was cordial and businesslike. Parks initially denied any knowledge of the Ray’s
+
+4
+  At some point on October 20, a Rome city judge did grant the warrant to search the Hobbs home. In New York, there is a
+procedure whereby confidential informants can be brought before a magistrate, without compromising their identity, for purposes of
+permitting the magistrate to assess those informants’ credibility in deciding whether to issue a warrant. The CI upon whom Rotolo
+relied was in fact brought before a Rome city judge on October 20, and the judge issued the warrant. However, no evidence was
+adduced at hearing that Marecek or the arresting officers were aware that the warrant had been issued as of the time of Parks’ arrest.
+5
+  Per Miranda v. Arizona, 384 U.S. 436 (1966), an accused must be advised prior to custodial interrogation “that he has the right to
+remain silent, that anything he says can be used against him in a court of law, that he has the right to the presence of an attorney, and
+that if he cannot afford an attorney one will be appointed for him prior to any questioning if he so desires.” Miranda, 384 U.S. at
+(continued on next page)
+
+
+                                                                   8
+Case 2:05-cr-00099-DBH Document 30 Filed 08/09/06 Page 9 of 17                                                PageID #: 50
+
+
+
+robbery. The conversation then turned to Parks’ personal life. He told Marecek and Dix that he used
+
+to be bigger and stronger and was a weight lifter, but that he had started using drugs and lost bulk as a
+
+result. The topic turned to Parks’ family members. Dix remarked that, from interviewing various
+
+people, he had learned that the one constant in Parks’ life appeared to be his mother inasmuch as she
+
+was the only person who would help him in any circumstance and give him unconditional love. Parks
+
+broke down crying. Approximately forty-five minutes had elapsed since the interview began. The
+
+investigators again asked Parks about the robbery of Ray’s. This time he confessed, stating that he had
+
+begun beating Umber, stolen the guns and taken cash from the register after Umber upset him by being
+
+rude and disrespectful to him. 6
+
+          Marecek and Dix then questioned Parks about his possible involvement in other crimes,
+
+including the theft of guns from a sporting-goods store in Maine. Parks confessed to the Maine gun
+
+theft, stating that he had been working in Maine for George Wishart, Sr., the father of George Wishart,
+
+Jr., and staying in a hotel next to a gun shop in a “dead town.” When the shop was closed, he kicked in
+
+the front door, went in, stole eight handguns, stuffed them in a green duffel bag, loaded them into
+
+Wishart’s vehicle and returned to New York with them.
+
+          After the interview concluded, Marecek and Dix provided Parks with food and an opportunity
+
+for a cigarette break. Marecek then typed up Parks’ written statement in Dix’s presence, with Parks
+
+sitting, unhandcuffed, at a desk next to him. Marecek again asked Parks questions and typed up what
+
+he said. Dix read the finished document aloud to Parks, who signed it and dated it at 10:07 p.m. See
+
+id. Consistent with Marecek’s customary practice, he took no notes of the interview and did not
+
+
+____________________________
+478-79.
+6
+  On cross-examination, Marecek admitted that he and Dix were attempting to find a subject close to Parks that might affect him and
+help them extract information from him.
+
+
+                                                                9
+Case 2:05-cr-00099-DBH Document 30 Filed 08/09/06 Page 10 of 17                                                   PageID #: 51
+
+
+
+audiotape or videotape it.
+
+                                                         II. Discussion
+
+          The defendant seeks to suppress evidence on the bases that (i) the NYSP lacked probable
+
+cause to arrest him on October 20, 2005, and (ii) his statements to Marecek and Dix at the Marcy
+
+police station subsequent to his arrest were involuntary. See generally Motion To Suppress.7 With
+
+respect to both points, the government bears the burden of demonstrating the lawfulness of the
+
+challenged conduct. See, e.g., United States v. Ramos-Morales, 981 F.2d 625, 628 (1st Cir. 1992)
+
+(warrantless search or seizure); United States v. Jackson, 918 F.2d 236, 241 (1st Cir. 1990)
+
+(voluntariness of confession). For the reasons that follow, I find that the government carries its burden
+
+of proof with respect to both issues, as a result of which I recommend denial of the Motion To
+
+Suppress.
+
+                                                            1. Arrest
+
+          As the First Circuit recently has reiterated:
+
+          Probable cause exists when police officers, relying on reasonably trustworthy facts
+          and circumstances, have information upon which a reasonably prudent person would
+          believe the suspect had committed or was committing a crime. The inquiry into
+          probable cause focuses on what the officer knew at the time of the arrest, and should
+          evaluate the totality of the circumstances. Probable cause is a common sense,
+          nontechnical conception that deals with the factual and practical considerations of
+          everyday life on which reasonable and prudent men, not legal technicians, act.
+
+United States v. Vongkaysone, 434 F.3d 68, 73-74 (1st Cir. 2006) (citations and internal punctuation
+
+omitted).
+
+
+7
+  The defendant also initially questioned whether police possessed reasonable articulable suspicion to effectuate a so-called “Terry
+stop.” See Motion To Suppress at [2] (citing Terry v. Ohio, 392 U.S. 1, 21-22 (1968)). However, the government rejoined that it
+could meet the more exacting standard of showing probable cause to arrest the defendant at the time of the vehicle stop (thus obviating
+the need for a separate Terry-stop analysis). See Government’s Objection to Defendant’s Motion To Suppress, etc. (Docket No. 21)
+at 4-5 & n.3.
+
+
+                                                                 10
+Case 2:05-cr-00099-DBH Document 30 Filed 08/09/06 Page 11 of 17                           PageID #: 52
+
+
+
+        An officer’s determination that a crime has been committed need not be “ironclad” or even
+
+“highly probable”; it need only have been “reasonable” to satisfy the standard of probable cause.
+
+United States v. Winchenbach, 197 F.3d 548, 555-56 (1st Cir. 1999); see also, e.g., Roche v. John
+
+Hancock Mut. Life Ins. Co., 81 F.3d 249, 255 (1st Cir. 1996) (“[O]ne who asserts the existence of
+
+probable cause is not a guarantor either of the accuracy of the information upon which he has
+
+reasonably relied or of the ultimate conclusion that he reasonably drew therefrom.”).
+
+        At hearing, defense counsel argued that police lacked probable cause to effectuate the
+
+warrantless arrest of his client on October 20, 2005 for the Ray’s robbery, asserting that:
+
+        1.      Umber’s identification of the defendant from the photographic array shown him was not
+
+“positive” but, rather, equivocal.
+
+        2.      Other information on which Marecek relied concerned the defendant’s possession of
+
+weapons or his location but did not implicate him in the robbery of Ray’s.
+
+        3.      The anonymous phone calls upon which Marecek relied were vague and/or unreliable
+
+in and of themselves.
+
+        4.      Sanford’s information was unreliable hearsay that she was unwilling to put in writing
+
+and that Wood, who had first-hand knowledge of the conversation, denied. In any event, Sanford had
+
+no information specifically about the Ray’s robbery.
+
+        5.      The CI provided no information about the Ray’s robbery.
+
+        These arguments notwithstanding, the government easily vaults the hurdle of demonstrating that
+
+the collection of puzzle pieces Marecek and other law-enforcement officers managed to gather in the
+
+two days following the Ray’s robbery, via dogged, methodical detective work and some lucky breaks,
+
+fit together sufficiently well to point to the defendant as the likely perpetrator of that crime.
+
+
+
+                                                   11
+Case 2:05-cr-00099-DBH Document 30 Filed 08/09/06 Page 12 of 17                         PageID #: 53
+
+
+
+       First and foremost, the police had powerful evidence in the form of an identification by Umber
+
+that fairly can be characterized as “positive.” Umber had seen and spoken face-to-face with his
+
+assailant on two occasions two days in a row; he thus had ample opportunity to observe him. From an
+
+array of photographs of six strikingly similar-looking youths, Umber identified the defendant as most
+
+closely resembling his assailant despite the defendant’s lack of facial hair in the photograph. To the
+
+extent this puzzle piece, in itself, left doubt that the defendant likely was the perpetrator, police
+
+gathered other bits and pieces of information tending to shore up that conclusion. Some of this
+
+collateral evidence, standing alone, would not have been particularly probative or compelling;
+
+however, when placed in the mix of the totality of the circumstances, it tended to buttress the bottom-
+
+line conclusion. These bits and pieces included:
+
+       1.      Umber’s recollection that the robber had told him he was from Blossvale. Marecek
+
+learned from Parks, Sr., and confirmed from Rude, that the defendant lived in Blossvale.
+
+       2.      The independent eyewitness account of the Cases – corroborating Umber’s story – in
+
+which they described seeing Umber speak on October 17 to an individual with light-colored hair who
+
+was wearing a gray sweatshirt and carrying a backpack. Reports by disinterested, ordinary citizens
+
+enjoy “special stature” and have “particular value in the probable cause equation.” United States v.
+
+Schaefer, 87 F.3d 562, 566 (1st Cir. 1996).
+
+       3.      The anonymous report on October 17 to Lieutenant Fayle and on October 19 to
+
+Sergeant Nell that “Charles Parks” (whom Fayle misunderstood to be “Charles Clark”) had attempted
+
+to sell guns to the anonymous caller’s relatives. While the guns in question obviously were not those
+
+stolen from Ray’s on October 18, the association between the defendant and the sale of handguns bore
+
+indirectly on the crime at Ray’s, tending to suggest that the defendant was a person interested in guns
+
+and illegally trafficking in them. The fact that the caller wished to remain anonymous did not in itself
+
+                                                  12
+Case 2:05-cr-00099-DBH Document 30 Filed 08/09/06 Page 13 of 17                           PageID #: 54
+
+
+
+undermine the validity of his/her information. From all appearances, the caller was an ordinary
+
+citizen with no ax to grind who had felt strongly enough about the matter to call twice (both before and
+
+after the well-publicized Ray’s robbery). Moreover, Marecek obtained information from at least two
+
+other sources (Christina Sanford and the CI) that the defendant possessed guns. “Courts often have
+
+held that consistency between the reports of two independent informants helps to validate both
+
+accounts.” Id.
+
+        4.       The defendant’s criminal history (which included a previous charge of burglary) and
+
+Altimonda’s report that he was known to law enforcement through involvement in other gun-related
+
+and home-invasion cases. While, again, this information proved nothing directly about the Ray’s
+
+robbery, it tended to suggest that the defendant was a person willing and able to commit a crime of that
+
+nature; in other words, it tended to make it more, rather than less, likely that Umber’s identification of
+
+the defendant as his assailant was accurate.
+
+        5.       Sanford’s report that from overhearing Wood talking on the phone on October 20 to
+
+George Wishart, Jr., she gathered that the defendant had shown up at Wishart’s home two nights earlier
+
+(the day of the Ray’s robbery) with six to eight handguns. Marecek freely admitted that he did not
+
+know Sanford and had no way to assess her credibility or reliability. Further, Sanford declined to
+
+give a written statement, and Wood, who purportedly actually engaged in the conversation, denied
+
+having had it. Nonetheless, in the circumstances, police justifiably could have chosen to credit
+
+Sanford’s information. Significantly, Sanford herself never volunteered her story; rather, her mother
+
+made a report to police based on a source she wished to keep anonymous (her daughter). Both the
+
+mother’s and the daughter’s reluctance to involve the daughter reasonably could be viewed as
+
+enhancing, rather than detracting from, the daughter’s credibility. Wood’s denial likewise was
+
+explicable: He himself had a criminal history and thus an incentive to distance himself from
+
+                                                   13
+Case 2:05-cr-00099-DBH Document 30 Filed 08/09/06 Page 14 of 17                       PageID #: 55
+
+
+
+knowledge of the Ray’s robbery. Finally, police had elicited or been provided information from
+
+several independent sources that the defendant was in possession of one or more guns. These stories
+
+tended to cross-corroborate one another. Sanford’s report, finally, implicated the defendant at least
+
+indirectly in the Ray’s robbery: The defendant was said to have shown up at the house of an
+
+acquaintance on the night of the robbery with six to eight handguns.
+
+        6.     Information indicating that the defendant had fled or gone into hiding. As of October
+
+19, Parks, Sr. had not heard from him in four days and did not know his whereabouts; the defendant’s
+
+cousin and housemate reported that he had not seen him in a while and did not know where he could be
+
+found; and finally the CI told Rotolo he had seen the defendant (with gun in waistband) in a home in
+
+Rome, New York, on the evening of October 19. While Marecek did not personally know anything
+
+about the CI’s reliability, Rotolo did, and Rotolo told Marecek the CI was reliable. By virtue of the
+
+“fellow officer” rule, Rotolo’s knowledge could be imputed to the team working to solve the Ray’s
+
+robbery and arrest the perpetrator. See United States v. Meade, 110 F.3d 190, 194 (1st Cir. 1997)
+
+(“The fellow officer rule underlies the well-worn maxim that the collective knowledge and
+
+information of all the officers involved establishes probable cause for the arrest. The ‘collective
+
+knowledge’ or ‘pooled knowledge’ principle has been used to validate arrests in two ways: (1) by
+
+tracing the arresting officer’s action back to an individual in a law enforcement agency who possessed
+
+information sufficient to establish probable cause, and (2) by finding that the directing agency as a
+
+whole possessed the necessary facts.”) (citations and internal quotation marks omitted) (emphasis in
+
+original).
+
+        In short, the conclusion of Marecek (and others working on the Ray’s robbery case) that the
+
+defendant likely had committed that crime was reasonable based on the collectivity of puzzle pieces
+
+gathered. That sufficed to establish probable cause for the defendant’s arrest. Accordingly, I
+
+                                                 14
+Case 2:05-cr-00099-DBH Document 30 Filed 08/09/06 Page 15 of 17                        PageID #: 56
+
+
+
+recommend that the defendant’s motion to suppress evidence on the basis of lack of probable cause for
+
+his arrest be denied.
+
+                           2. Challenge to Voluntariness of Confession
+
+       I turn to the defendant’s second and final basis for suppression: that his confession was made
+
+involuntarily. See Motion To Suppress at [3]. When a defendant seeks to suppress statements on this
+
+basis, the government bears the burden of showing, based on the totality of the circumstances, that
+
+investigating agents neither “broke” nor overbore the defendant’s will. Chambers v. Florida, 309
+
+U.S. 227, 239-40 (1940). As this language suggests, “coercive police activity is a necessary predicate
+
+to the finding that a confession is not ‘voluntary[.]’” Colorado v. Connelly, 479 U.S. 157, 167 (1986);
+
+see also, e.g., United States v. Bezanson-Perkins, 390 F.3d 34, 40 (1st Cir. 2004) (“There are surely
+
+situations in which statements made after a valid Miranda waiver are subject to suppression, for a
+
+number of reasons. For example, police may not get a Miranda waiver and then beat a confession out
+
+of a suspect and hope to have the confession admitted into evidence. Such a confession would be
+
+procured by coercive tactics. Nor may police, against the suspect’s wishes, induce intoxication or a
+
+drugged state such that any further statement by the suspect is coerced.”) (citations omitted); Rice v.
+
+Cooper, 148 F.3d 747, 750 (7th Cir. 1998) (in context of voluntariness of confession, “[t]he relevant
+
+constitutional principles are aimed not at protecting people from themselves but at curbing abusive
+
+practices by public officers.”) (citation omitted).
+
+       Following the close of evidence, defense counsel volunteered that, on the record made, the
+
+argument that his client’s will was overborne was tough to make; however, he declined to withdraw it.
+
+When I specifically asked whether he contended that Dix’s and Marecek’s reference to the
+
+defendant’s family and mother, which produced a tender response, amounted to coercion, he said he
+
+did not. Pressed to explain the basis on which the court might find coercion, he pointed to the absence
+
+                                                  15
+Case 2:05-cr-00099-DBH Document 30 Filed 08/09/06 Page 16 of 17                                                    PageID #: 57
+
+
+
+of any notes, videotape or audiotape evidencing the content of the investigators’ interview of the
+
+defendant apart from that portion containing the defendant’s confession. This absence, he said, struck
+
+him as suspicious: One could not know what actually transpired in the non-confession portions of the
+
+interview.
+
+          I am mindful that, inasmuch as the defendant has raised (and declined to withdraw) an issue
+
+concerning the voluntariness of his confession, the burden is on the government to prove his confession
+
+was not coerced. The government meets that burden. After the defendant was arrested and taken to the
+
+Marcy NYSP station, investigators Dix and Marecek interviewed him in a businesslike and cordial
+
+fashion. There is no evidence that the defendant was threatened, maltreated, or arrived at the station in
+
+a vulnerable state that the investigators sought to exploit to extract a confession. The only evidence
+
+adduced at hearing even arguably suggestive of coercion (and by this I do not mean to suggest that it
+
+actually constituted coercion) was that Dix and Marecek were successful in obtaining a confession to
+
+the Ray’s robbery only after they turned the conversation to the defendant’s family and mother,
+
+whereupon the defendant (then age 19) broke down crying. However, at hearing, defense counsel
+
+disclaimed reliance on that evidence. I conclude, in any event, that the investigators did not break or
+
+overbear the defendant’s will by their role in the colloquy regarding his family and mother in
+
+particular.
+
+           Accordingly, I recommend that the defendant’s motion to suppress evidence on the basis that
+
+his confession was involuntary be denied.8
+
+
+
+8
+  The mere fact that, per his customary practice, Marecek did not take notes of, or videotape or audiotape, his and Dix’s interview of
+the defendant raises no suspicion of coercion. Marecek, in essence, filled in those “blanks” at hearing, relaying in some detail the
+content of the interview with the defendant (including those portions not reflected in the defendant’s written statement). Marecek was a
+highly credible witness. There is no reason to believe something transpired other than what Marecek described.
+
+
+                                                                  16
+Case 2:05-cr-00099-DBH Document 30 Filed 08/09/06 Page 17 of 17                        PageID #: 58
+
+
+
+                                          III. Conclusion
+
+       For the foregoing reasons, I recommend that the Motion To Suppress be DENIED.
+
+                                              NOTICE
+
+        A party may file objections to those specified portions of a magistrate judge’s report or
+proposed findings or recommended decisions entered pursuant to 28 U.S.C. § 636(b)(1)(B) for
+which de novo review by the district court is sought, together with a supporting memorandum
+and request for oral argument before the district judge, if any is sought, within ten (10) days
+after being served with a copy thereof. A responsive memorandum and any request for oral
+argument before the district judge shall be filed within ten (10) days after the filing of the
+objection.
+
+
+
+        Failure to file a timely objection shall constitute a waiver of the right to de novo review by
+the district court and to appeal the district court’s order.
+
+       Dated this 9th day of August, 2006.
+
+                                                      /s/ David M. Cohen
+                                                      David M. Cohen
+                                                      United States Magistrate Judge
+
+
+
+
+                                                 17
+

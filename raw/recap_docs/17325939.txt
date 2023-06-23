@@ -1,0 +1,393 @@
+Case 1:08-cr-00157-JAW Document 163 Filed 02/26/09 Page 1 of 8                     PageID #: 460
+
+
+
+                             UNITED STATES DISTRICT COURT
+                                  DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA                      )
+                                              )
+       v.                                     )      CR-08-157-B-W-02
+                                              )
+LEVAR CAREY                                   )
+
+
+                   ORDER ON GOVERNMENT’S MOTION IN LIMINE
+                        REGARDING PRIOR CONVICTIONS
+
+       The Court concludes, if the Defendant testifies, his conviction for identity fraud is
+
+mandatorily admissible under Federal Rule of Evidence 609(a)(2), and his convictions for
+
+marijuana possession are not admissible under Rule 609(a)(1). Because the admissibility of the
+
+remaining convictions depends upon trial context, the Court defers ruling on whether the
+
+Defendant‘s convictions for trafficking cocaine, for conspiring to distribute illegal drugs, and for
+
+two state firearms offenses will be admissible under the factors set forth in United States v.
+
+Grandmont, 680 F.2d 867, 872 n.4 (1st Cir. 1982).
+
+I.     STATEMENT OF FACTS
+
+       By Superseding Indictment dated February 11, 2009, Levar Carey stands charged with
+
+conspiring with others to make false statements to a licensed federal firearms dealer between
+
+September 2007 and up through October 11, 2007 to acquire firearms; with knowingly aiding
+
+and abetting the making of a false statement on October 11, 2007 to a licensed federal firearms
+
+dealer to acquire firearms; and, with possessing firearms after having been convicted of a felony.
+
+First Superseding Indictment (Docket # 111). On February 13, 2009, the Government moved in
+
+limine for a pretrial ruling establishing that if Mr. Carey elects to testify, he will be subject to
+
+impeachment for prior convictions under Federal Rule of Evidence 609. Gov’t’s Mot. in Limine
+Case 1:08-cr-00157-JAW Document 163 Filed 02/26/09 Page 2 of 8                                       PageID #: 461
+
+
+
+Regarding Prior Convictions (Docket # 117) (Gov’t’s Mot.). The attachments to the motion
+
+confirm that from 2000 to 2005, Mr. Carey was convicted of a string of ten crimes in the
+
+commonwealth of Massachusetts and one in the commonwealth of Virginia; these include two
+
+firearms convictions, eight drug offenses, and one identity fraud crime. Id. at Attach. 1 (Docket
+
+# 117-2) (Ex. A); Additional Attachs. (Docket # 118). The Defendant has not replied.
+
+II.        DISCUSSION
+
+           The admissibility of prior convictions is governed by Rule 609:
+
+           For the purpose of attacking the character for truthfulness of a witness,
+
+                (1) evidence that a witness other than an accused has been convicted of a
+                    crime shall be admitted, subject to Rule 403, if the crime was punishable
+                    by death or imprisonment in excess of one year under the law under which
+                    the witness was convicted, and evidence that an accused has been
+                    convicted of such a crime shall be admitted if the court determines that the
+                    probative value of admitting this evidence outweighs its prejudicial effect
+                    to the accused; and
+
+                (2) evidence that any witness has been convicted of a crime shall be admitted
+                    regardless of the punishment, if it readily can be determined that
+                    establishing the elements of the crime required proof or admission of an
+                    act of dishonesty or false statement by the witness.
+
+Fed. R. Evid. 609(a).1
+
+           A.       Identity Fraud
+
+           On May 3, 2004, Mr. Carey was convicted in the commonwealth of Virginia of identity
+
+fraud, using identification documents or identifying information of another to avoid summons,
+
+arrest, prosecution, or to impede a criminal investigation, a violation of section 18.2-186.3 of the
+
+Virginia Code. Identity fraud fits well within Rule 609(a)(2)‘s scope of crimes of dishonesty and
+
+false statement. United States v. Collier, 527 F.3d 695 (8th Cir. 2008) (holding that a credit card
+
+fraud conviction was admissible under Rule 609(a)(2)); SEC v. Sargent, 229 F.3d 68, 80 (1st Cir.
+
+
+1
+    Each conviction falls within the ten-year time limit established by Rule 609(b). Fed. R. Evid. 609(b).
+
+                                                            2
+Case 1:08-cr-00157-JAW Document 163 Filed 02/26/09 Page 3 of 8                      PageID #: 462
+
+
+
+2000) (stating that ―[w]ithout question, a conviction for lying to a government official is a crime
+
+of ‗dishonesty or false statement‘‖); United States v. Tracy, 36 F.3d 187, 192 (1st Cir. 1994)
+
+(holding that uttering a false prescription is subject to mandatory admission under Rule
+
+609(a)(2)). The use of a false identification to avoid arrest or impede a criminal investigation fits
+
+within Congress‘s inclusion of false pretense offenses among those crimes subject to Rule
+
+609(a)(2). Tracy, 36 F.3d at 192 (quoting Fed. R. Evid. 609 notes of conference committee,
+
+H.R. No. 93-1597, as listing ―false pretense‖ among specific crimes included within Rule
+
+609(a)(2)). Evidence of the conviction for identity fraud is mandatorily admissible. Sargent,
+
+229 F.3d at 80; Tracy, 36 F.3d at 192.
+
+       B.      Drug Trafficking Convictions
+
+       Mr. Carey has eight prior drug convictions. Drug offenses are not generally considered
+
+crimes of dishonesty or false statement under Rule 609(a)(2). Wierstak v. Heffernan, 789 F.2d
+
+968, 971-72 (1st Cir. 1986) (stating that ―crimes of . . . drug use, lack probative value of showing
+
+a propensity to lie on the stand‖). The focus shifts to whether they are admissible under Rule
+
+609(a)(1).
+
+       To be admissible under Rule 609(a)(1), the crime must be punishable by death or
+
+imprisonment in excess of one year. The documents reflect three convictions for Class B drug
+
+crimes, violations of chapter 94C, section 32A of the Massachusetts General Laws; three
+
+convictions for Class D drug crimes, violations of chapter 94C, section 34; and, two convictions
+
+for conspiracy to violate drug laws, violations of chapter 94C, section 40. The Class B drug
+
+offenses are punishable ―by imprisonment in the state prison for not more than ten years, or in a
+
+jail or house of correction for not more than two and one-half years.‖ Mass. Gen. Laws ch. 94C,
+
+§ 32A(a).
+
+
+
+                                                 3
+Case 1:08-cr-00157-JAW Document 163 Filed 02/26/09 Page 4 of 8                     PageID #: 463
+
+
+
+       The penalties for Class D drug crimes vary, depending on the type of drug and the
+
+defendant‘s criminal history. Id. § 34. On this record, the statutory penalties Mr. Carey faced
+
+for possession of marijuana remain uncertain. If marijuana is possessed and the defendant has
+
+not been previously convicted of possession or any other controlled substance offense, the
+
+defendant must generally be placed on probation. Id.; Commonwealth v. Lupo, 476 N.E.2d 963,
+
+966-67 (Mass. 1985) (stating that ―[m]andatory probation is the exclusive punishment that may
+
+be imposed on a consenting first offender convicted of possession of marihuana . . . unless the
+
+judge files a written memorandum explaining his reasons for doing otherwise‖). If the defendant
+
+has a prior conviction, it is unclear whether the maximum sentence is six months or longer.
+
+Compare Mass. Gen. Laws ch. 94C, § 34 (stating that ―[a]ny person who violates this section by
+
+possession of marihuana . . . shall be punished by imprisonment . . . for not more than six
+
+months,‖ but then stating that ―whoever violates the provisions of this section after one or more
+
+convictions . . . shall be punished by imprisonment . . . for not more than two years‖), with
+
+Commonwealth v. Thomas, 692 N.E.2d 97, 102-03 (Mass. App. Ct. 1998) (―The penalty
+
+prescribed . . . for unlawful possession of marihuana is not more than six months. . . . The record
+
+does not disclose that the defendant had been convicted previously of possession of marihuana,
+
+which would have subjected him to a longer sentence.‖), and Ex. A at 25 (listing the penalty for
+
+marijuana possession as ―imprisonment not more than 1 year‖), and Ex. A at 17 (stating the
+
+punishment for marijuana possession with a prior conviction as ―imprisonment not more than 6
+
+months‖).
+
+       The penalty for the drug conspiracy convictions ―shall not exceed the maximum
+
+punishment prescribed for the offense, the commission of which was the object of the
+
+conspiracy.‖ Id. § 40.
+
+
+
+                                                4
+Case 1:08-cr-00157-JAW Document 163 Filed 02/26/09 Page 5 of 8                   PageID #: 464
+
+
+
+                1.      The Class D Drug Offenses
+
+                        1) Marijuana Possession – April 18, 2000 Conviction
+
+        On November 22, 1999, Mr. Carey was charged in Fall River District Court with
+
+possession of a Class D drug—the drug was marijuana. The maximum penalty is listed as not
+
+more than one year. On April 18, 2000, Mr. Carey appeared before the Fall River District Court
+
+and admitted the charge. He was sentenced to probation.
+
+                        2) Marijuana Possession – February 15, 2001 Conviction
+
+        On January 16, 2001, Mr. Carey was again charged in Fall River District Court with
+
+possession of marijuana. The maximum penalty is listed at six months. On February 15 2001,
+
+Mr. Carey appeared before the Fall River District Court and admitted the charge. The judgment
+
+is listed as guilty and the case was filed.
+
+                        3) Marijuana Possession – December 12, 2005 Conviction
+
+        On January 31, 2005, Mr. Carey was again charged with possession of marijuana, this
+
+time in Brockton District Court. The maximum penalty is listed at six months. On December
+
+12, 2005, Mr. Carey appeared before the Brockton District Court and admitted sufficient facts.
+
+The judgement is listed as guilty and the case was filed.
+
+                2.      The Class B Drug Offenses
+
+                        1) Possession With Intent to Distribute Cocaine – April 18, 2000
+                           Conviction
+
+        On November 22, 1999, Mr. Carey was charged in Fall River District Court with
+
+possession of a Class B drug with the intent to distribute it—the drug was cocaine. On April 18,
+
+2000, Mr. Carey pleaded guilty and was sentenced to two years in the Massachusetts House of
+
+Corrections.
+
+                        2) Distribution of Cocaine - February 15, 2001 Conviction
+
+                                                 5
+Case 1:08-cr-00157-JAW Document 163 Filed 02/26/09 Page 6 of 8                   PageID #: 465
+
+
+
+       On January 16, 2001, Mr. Carey was charged in Fall River District Court with
+
+distribution of a Class B drug—again the drug was cocaine. On February 15, 2001, he pleaded
+
+guilty and was sentenced to twenty-seven months in the House of Corrections.
+
+                      3) Possession With Intent to Distribute Cocaine - February 15, 2001
+                         Conviction
+
+       On January 16, 2001, Mr. Carey was also charged in Fall River District Court with
+
+possession of a Class B drug—cocaine—with the intent to distribute it. On February 15, 2001,
+
+he pleaded guilty and the case was filed.
+
+               3.     The Drug Conspiracy Convictions
+
+                      1) Conspiracy to Violate Drug Laws - Two February 15, 2001
+                         Convictions
+
+       On January 16, 2001, Mr. Carey was charged with two separate counts of conspiring to
+
+violate drug laws. The Criminal Complaint does not specify the drugs involved, stating only that
+
+the penalty for conspiracy offenses is the same as the sentence prescribed for the offenses which
+
+were the objects of the conspiracies. On February 15, 2001, Mr. Carey pleaded guilty to each
+
+charge and the cases were filed.
+
+               4.     Discussion
+
+       The convictions for the Class D marijuana crimes are not admissible under Rule
+
+609(a)(1), because the Government has not produced sufficient evidence to find that they meet
+
+the punishment requirement. United States v. Meserve, 271 F.3d 314, 327-31 (1st Cir. 2001).
+
+For the same reason, although the convictions for the conspiracy crimes could be admissible
+
+depending on the applicable penalties, the evidence is insufficient on this record to determine
+
+what penalties were applicable. Without more, neither conspiracy conviction is admissible under
+
+Rule 609(a)(1).
+
+
+
+                                               6
+Case 1:08-cr-00157-JAW Document 163 Filed 02/26/09 Page 7 of 8                    PageID #: 466
+
+
+
+       The convictions for the Class B cocaine crimes are a different matter. They otherwise
+
+meet the Rule 609(a)(1) requirements and, therefore, their admissibility depends upon a Rule 403
+
+analysis. The Court, however, defers ruling on this question. Without a trial context, it cannot
+
+accurately determine the prejudicial impact of this evidence, and more particularly, its probative
+
+value. In doing so, the Court will weigh the First Circuit‘s Grandmont factors. Grandmont, 680
+
+F.2d at 872 n.4; United States v. Mahone, 328 F. Supp. 2d 77, 84 (D. Me. 2004).
+
+       C.      Firearms Convictions
+
+       On January 31, 2005, Mr. Carey was charged with two state firearms offenses: (1)
+
+carrying a firearm without a license, a violation of Massachusetts General Law, chapter 269,
+
+section 10(a); and, (2) possessing a firearm without a firearm identification card, a violation of
+
+chapter 269, section 10. He admitted sufficient facts to both charges on December 12, 2005 and
+
+was sentenced to two years, all but one suspended. He was placed on probation until December
+
+12, 2006.
+
+       The Court will again reserve ruling. The Court cannot anticipate what is going to happen
+
+at trial. United States v. Norton, 26 F.3d 240, 244 (1st Cir. 1994) (holding a prior firearms
+
+conviction admissible in a felon in possession case under Rules 402 and 403 after the defendant
+
+opened the door by testifying he never possessed a gun). Again, the Court will apply the
+
+Grandmont factors.
+
+III.   CONCLUSION
+
+       The Court GRANTS the Government‘s Motion in Limine Regarding Prior Convictions
+
+(Docket # 117) in part, DENIES the motion in part, and defers ruling in part. The Defendant‘s
+
+2004 commonwealth of Virginia conviction for identity fraud is mandatorily admissible under
+
+Rule 609(a)(2). Defendant‘s convictions for commonwealth of Massachusetts Class D drug
+
+
+
+                                                7
+Case 1:08-cr-00157-JAW Document 163 Filed 02/26/09 Page 8 of 8                PageID #: 467
+
+
+
+offenses and for undefined conspiracy offenses are inadmissible under Rule 609(a)(1). The
+
+Court defers ruling until trial on the Defendant‘s prior convictions for Massachusetts Class B
+
+drug offenses and for Massachusetts firearms offenses.
+
+       SO ORDERED.
+
+
+
+                                    /s/ John A. Woodcock, Jr.
+                                    JOHN A. WOODCOCK, JR.
+                                    CHIEF UNITED STATES DISTRICT JUDGE
+
+
+Dated this 26th day of February, 2009
+
+
+
+
+                                               8
+

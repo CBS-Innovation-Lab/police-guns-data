@@ -1,0 +1,613 @@
+Case 1:08-cr-00141-S-LDA Document 249 Filed 07/29/13 Page 1 of 12 PageID #: 4845
+
+
+
+                      UNITED STATES DISTRICT COURT
+                    FOR THE DISTRICT OF RHODE ISLAND
+
+    ______________________________
+                                  )
+    UNITED STATES OF AMERICA      )
+                                  )
+              v.                  )            CR. No. 08-141-S
+                                  )
+    JOSE ANTONIO LAZALA,          )
+                                  )
+              Defendant.          )
+    ______________________________)
+
+                               MEMORANDUM AND ORDER
+
+    WILLIAM E. SMITH, United States District Judge.
+
+          Jose Antonio Lazala has filed a Motion to Vacate, Set
+
+    Aside, or Correct Sentence by a Person in Federal Custody
+
+    (the “Motion”) (ECF No. 231) pursuant to 28 U.S.C. § 2255.
+
+    In   his   Motion,   Lazala    asserts   ineffective     assistance     of
+
+    counsel.      For    the    reasons   stated    below,   the   Motion   is
+
+    DENIED and DISMISSED.
+
+    I.    Background
+
+          After months of investigation in the summer of 2008,
+
+    seven individuals, including Lazala, were arrested based on
+
+    narcotics trafficking activities.              On February 11, 2009, a
+
+    federal grand jury in the District of Rhode Island returned
+
+    a twenty-three count Superceding Indictment, six counts of
+
+    which pertained to Lazala.        (ECF No. 31.)
+
+          On October 23, 2009, Lazala pleaded guilty, pursuant
+
+    to a written plea agreement, to: conspiracy to distribute
+Case 1:08-cr-00141-S-LDA Document 249 Filed 07/29/13 Page 2 of 12 PageID #: 4846
+
+
+
+    and possess with the intent to distribute one kilogram or
+
+    more of heroin in violation of 21 U.S.C. §§ 841(a)(1) and
+
+    (b)(1)(A) (Count I); illegal re-entry in violation of 8
+
+    U.S.C. §§ 1326(a) and (b)(2) (Count XXI); being a felon in
+
+    possession       of   ammunition        in       violation      of    18        U.S.C.    §
+
+    922(g)(1)       (Count    XXII);      and        being   an    illegal          alien    in
+
+    possession       of      ammunition         in     violation         of     18     U.S.C.
+
+    § 922(g)(5)      (Count     XXIII).              Throughout     all       proceedings,
+
+    Lazala was represented by attorney Charles A. Tamuleviz.
+
+           In exchange for Lazala’s guilty plea, the government
+
+    agreed    to:    recommend       a    Guidelines         sentence,         recommend      a
+
+    two-level reduction in the offense level for acceptance of
+
+    responsibility,           move        for        an      additional             one-level
+
+    adjustment,       and     dismiss       Counts        III      and        VII    of     the
+
+    Superceding Indictment.               (See Plea Agreement ¶ 2, ECF No.
+
+    78.)     The government also agreed not to file a sentencing
+
+    enhancement      pursuant        to   21     U.S.C.      §    851    for    two       prior
+
+    felony drug convictions, which may have led Lazala to face
+
+    mandatory life imprisonment.                (Id.)
+
+           At the change of plea hearing on October 23, 2009,
+
+    Lazala admitted that the total quantity of heroin involved
+
+    in the case exceeded one kilogram and that he re-entered
+
+    the United States after having been previously deported.
+
+    (See Change of Plea Hr’g Tr. 19-20, Oct. 23, 2009, ECF No.
+Case 1:08-cr-00141-S-LDA Document 249 Filed 07/29/13 Page 3 of 12 PageID #: 4847
+
+
+
+    109.)    In actuality, Lazala agreed to the facts that the
+
+    government     presented,     with       the       only    objections    involving
+
+    minor, non-substantive clarifications.                     (Id. at 21-24.)
+
+          The      Probation      Office           subsequently           prepared      a
+
+    Presentence       Investigation          Report       (“PSR”)        stating     that
+
+    Lazala had prior felony drug convictions, in addition to
+
+    emphasizing the mandatory minimum sentence that he faced.
+
+    (PSR ¶¶ 49-50, 72.)         Lazala’s Guidelines range was 151-188
+
+    months of incarceration.           (Id. at ¶ 72.)                 The calculation
+
+    included a credit for acceptance of responsibility.                              (Id.
+
+    at ¶ 21.)
+
+          At the April 2, 2010 sentencing hearing, Lazala made
+
+    no objections to the PSR with the exception of a two-level
+
+    adjustment     for    possession     of        a    dangerous     weapon.        (See
+
+    Sent. Hr’g Tr. 4-5, Apr. 2, 2010, ECF No. 119.)                          The Court
+
+    granted Lazala’s objection and imposed a sentence of 138
+
+    months imprisonment on Counts I and XXI, consistent with
+
+    the mid-point of the advisory Guidelines range, and ten
+
+    years on Counts XXII and XXIII to run concurrently with
+
+    Counts I and XXI. (Id. 42-43.)
+
+          Lazala      subsequently     timely          filed    the   instant      Motion
+
+    pursuant     to      28   U.S.C.     §     2255,          alleging     ineffective
+
+    assistance     of    counsel.      Lazala           argues    that    his   counsel
+
+    failed to: (1) contest the quantity of heroin involved, (2)
+Case 1:08-cr-00141-S-LDA Document 249 Filed 07/29/13 Page 4 of 12 PageID #: 4848
+
+
+
+    contest the role adjustment in regards to the conspiracy
+
+    charge, and (3) challenge his re-entry charge.                   (Def.’s
+
+    Mem. of Law & Facts in Support of Mot. (“Def.’s Mem.”) 7,
+
+    ECF No. 231-1.)
+
+    II.   Discussion
+
+          A.     Section 2255
+
+          Generally, the grounds justifying relief under § 2255 1
+
+    are limited.         A court may grant relief under § 2255 in
+
+    instances where the court finds a lack of jurisdiction, a
+
+    constitutional error, or a fundamental error of law.                 See
+
+    United     States    v.   Addonizio,   442   U.S.   178,   185   (1979).
+
+    “[A]n error of law does not provide a basis for collateral
+
+    attack unless the claimed error constituted a fundamental
+
+    defect which inherently results in a complete miscarriage
+
+    of justice.”        Id. at 185 (internal citation omitted).
+
+
+          1
+              Title 28 U.S.C. § 2255 provides in pertinent part:
+
+          A prisoner in custody under sentence of a court
+          established by Act of Congress claiming the right
+          to be released upon the ground that the sentence
+          was imposed in violation of the Constitution or
+          laws of the United States, or that the court was
+          without jurisdiction to impose such sentence, or
+          that the sentence was in excess of the maximum
+          authorized by law, or is otherwise subject to
+          collateral attack, may move the court which
+          imposed the sentence to vacate, set aside or
+          correct the sentence.
+
+    28 U.S.C. § 2255(a).
+Case 1:08-cr-00141-S-LDA Document 249 Filed 07/29/13 Page 5 of 12 PageID #: 4849
+
+
+
+          B.     Ineffective Assistance of Counsel Claim
+
+          Lazala’s      claim         that     his       counsel       was     ineffective         is
+
+    without    merit.            In    order       to        succeed    on    an       ineffective
+
+    assistance    claim,          Lazala          must       demonstrate          (1)    that     his
+
+    counsel's representation fell below an objective standard
+
+    of   reasonableness,              and    (2)     that       there     is       a    reasonable
+
+    probability      that,        but       for    his        attorney’s          unprofessional
+
+    errors,    the     result          of    the        proceeding        would         have     been
+
+    different.       Strickland v. Washington, 466 U.S. 668, 688-94
+
+    (1984); see also Moreno-Espada v. United States, 666 F.3d
+
+    60, 64 (1st Cir. 2012).                   To satisfy the first part of the
+
+    two-prong test, the defendant must show that “counsel made
+
+    errors so serious that counsel was not functioning as the
+
+    ‘counsel’ guaranteed the defendant by the Sixth Amendment.”
+
+    Strickland, 466 U.S. at 687.                     Second, Lazala must show that
+
+    “counsel's       errors       were       so      serious        as       to    deprive        the
+
+    defendant     of       a     fair       trial,       a      trial     whose         result     is
+
+    reliable.”       Id.
+
+          “A    court          must     indulge          a     strong     presumption            that
+
+    counsel's conduct falls within the wide range of reasonable
+
+    professional        assistance;               that        is,   the      defendant           must
+
+    overcome the presumption that, under the circumstances, the
+
+    challenged       action           ‘might        be        considered           sound       trial
+Case 1:08-cr-00141-S-LDA Document 249 Filed 07/29/13 Page 6 of 12 PageID #: 4850
+
+
+
+    strategy.’” 2     Id. (quoting Michel v. Louisiana, 350 U.S. 91,
+
+    101 (1955)).         Additionally, “[a]n error by counsel, even if
+
+    professionally unreasonable, does not warrant setting aside
+
+    the judgment of a criminal proceeding if the error had no
+
+    effect on the judgment.” Id. at 691.                    (citing United States
+
+    v. Morrison, 449 U.S. 361, 364–65 (1981)).
+
+           Here,    in    the    guilty      plea    context,     Lazala    “has    to
+
+    demonstrate      ‘a      reasonable        probability        that,     but    for
+
+    counsel's      errors,      he   would    not    have    pleaded      guilty   and
+
+    would have insisted on going to trial.’”                        Moreno-Espada,
+
+    666 F.3d at 64 (quoting United States v. Colon-Torres, 382
+
+    F.3d 76, 86 (1st Cir. 2004)).                   Lazala “maintains that his
+
+    plea    agreement     was    unintelligent        because     defense    counsel
+
+    misinformed him as to the full and accurate exposure of the
+
+    charge(s) and waiver of his appeal rights.”                        (Def.’s Mem.
+
+    5.)
+
+           The government emphasizes that the plea agreement was
+
+    highly favorable to Lazala, and that “counsel would have
+
+    been ineffective for jeopardizing this agreement by raising
+
+    the frivolous challenges Lazala now seeks.”                        (Gov’t Resp.
+
+    6-7.)      Despite      this,     Lazala    filed       the   instant    Motion,
+
+
+           2
+            As   Lazala’s  statements   indicate,  he  is  not
+    challenging his counsel’s strategic decisions. (See Def.’s
+    Mem. of Law & Facts in Support of Mot. (“Def.’s Mem.”) 4,
+    6, ECF No. 231-1.)
+Case 1:08-cr-00141-S-LDA Document 249 Filed 07/29/13 Page 7 of 12 PageID #: 4851
+
+
+
+    asserting       that     his    counsel    was     ineffective.              Further,
+
+    Lazala       states     that    “defendant      counsel’s           [sic]    did       not
+
+    contest the determination of relevant conduct as to the
+
+    quantity of heroin, conspiracy, re-entry, at sentencing.”
+
+    (Def’s Mem. 7.)
+
+           First, Lazala argues that his attorney was deficient
+
+    for    the     failure    to    contest     his     role       and    his    relevant
+
+    conduct in relation to the quantity of heroin involved.
+
+    However, at the change of plea hearing, Lazala admitted
+
+    that   the     total     quantity    of    heroin       involved      in     the      case
+
+    exceeded one kilogram.              (See Change of Plea Hr’g Tr. 19-
+
+    20.)         Further,     Lazala    agreed        to     the    facts       that       the
+
+    government presented in regards to the quantity of drugs
+
+    involved.       (Id. at 15-23.)       As mentioned above, Lazala only
+
+    contested minor, non-substantive facts presented.                             (Id. at
+
+    21-24.)
+
+           Second,     Lazala       contends    that       his     attorney      did       not
+
+    contest the determination of the conspiracy.                          (Def.’s Mem.
+
+    11.)      Lazala       asserts     that    he     was    not     a    part    of       the
+
+    conspiracy,       and    that,     instead,       “[h]e       was    just    a     small
+
+    dealer.”       (Id.)       However,       Lazala        did    not    contest          the
+
+    government’s facts, including the facts that he sold 21.91
+
+    grams of heroin directly to a customer and purchased the
+
+    heroin    he    sold     from    another    individual          involved         in   the
+Case 1:08-cr-00141-S-LDA Document 249 Filed 07/29/13 Page 8 of 12 PageID #: 4852
+
+
+
+    conspiracy.       (See Change of Plea Hr’g Tr. 15-21; see also
+
+    Plea    Agreement.)          Overall,    the    evidence    against     Lazala
+
+    supported the conclusion that even though he was not an
+
+    organizer or leader, he was a manager or supervisor of the
+
+    conspiracy.       (PSR ¶ 26; see also Change of Plea Hr’g. Tr.)
+
+           Third,     Lazala      also    claims    that   counsel   failed     to
+
+    challenge       his    re-entry      charge.      Lazala   now   claims     his
+
+    deportation was illegal; “[s]o there was never a Illegal
+
+    Re-entry    [sic]       by    the    defendant.”       (Def.’s   Mot.      10.)
+
+    Although confusing, Lazala contends that “[n]or the court
+
+    or   neither     the    defendant      [sic]    counsel,    never     informed
+
+    defendant about how these plea/convictions could affect his
+
+    papers, and never did counsel or this court look at his
+
+    deportable papers or his old conviction to see if defendant
+
+    was ever informed about how plea could affect his papers in
+
+    U.S.A.”         (Id.     (citing      Strickland).         However,    Lazala
+
+    admitted to re-entering the United States after having been
+
+    previously deported due to the commission of a crime.                      (See
+
+    Sent. Hr’g Tr. 39.)            Lazala has also failed to offer any
+
+    evidence that his deportation was illegal or that his re-
+
+    entry     was    in    fact    legal.          Thus,   regardless     of    his
+
+    contention that he was illegally deported, his claim that
+
+    his counsel was ineffective for failing to challenge his
+
+    conviction for illegal re-entry is without merit.
+Case 1:08-cr-00141-S-LDA Document 249 Filed 07/29/13 Page 9 of 12 PageID #: 4853
+
+
+
+           In       furtherance        of    Lazala’s       re-entry          argument,       he
+
+    asserts “the Supreme Court, in Padilla v. Kentucky, 130
+
+    S. Ct.      1473,        1480-82     (2010)      recognized         that     the       Sixth
+
+    Amendment Right to effective assistance of counsel includes
+
+    a    duty    to    inform        non-citizens        defendant’s       [sic]       of    the
+
+    impact      a     plea    will     have     on    their      immigration        status.”
+
+    (Def.’s         Mem.     10.)       In     Padilla,       the     Court      held       that
+
+    constitutionally               competent    counsel       would     have     advised       a
+
+    defendant that a conviction for drug distribution may make
+
+    him subject to automatic deportation.                         Padilla, 130 S. Ct.
+
+    at    1478.        The     Court    further       emphasized        that     prevailing
+
+    professional           norms     supported       the   fact     that      counsel       must
+
+    advise a client about the risk of deportation.                                     Id. at
+
+    1482.       There, counsel provided the defendant with the false
+
+    assurance         that    his     conviction         would    not    result        in    his
+
+    removal from the country.                  Id. at 1483.
+
+           Padilla is unhelpful to Lazala.                       Lazala pleaded guilty
+
+    before Padilla, so it was not clearly established law at
+
+    the    time       of     his    guilty     plea. 3       Further,         there     is    no
+
+    indication         in    the     opinion     that      Padilla      was    to     be    made
+
+
+
+
+           3
+           Padilla v. Kentucky, 130 S. Ct. 1473 (2010), was
+    decided on March 31, 2010, three days before Lazala’s
+    sentencing.
+Case 1:08-cr-00141-S-LDA Document 249 Filed 07/29/13 Page 10 of 12 PageID #: 4854
+
+
+
+    retroactively applicable. 4        Therefore, Lazala’s counsel did
+
+    not violate the Strickland test as it is unreasonable to
+
+    expect Lazala’s attorney to undo a plea agreement based on
+
+    a case that was decided three days prior to his sentencing.
+
+          Above all, Lazala has stated that he understood the
+
+    terms of the plea agreement, that his decision to plead
+
+    guilty was voluntary, and that he was fully satisfied with
+
+    the   representation     he   received       by   his    attorney.          (See
+
+    Change of Plea Hr’g Tr. 5-6.)               Although Lazala raises the
+
+    above-mentioned arguments, he fails to explain that there
+
+    was a reasonable probability that he would not have pleaded
+
+    guilty but for counsel’s alleged ineffectiveness.                    Not only
+
+    has Lazala failed to demonstrate that counsel made such
+
+    serious errors, he has also failed to show that the alleged
+
+    errors were so serious as to deprive him of a fair trial,
+
+    or demonstrate the effect that such errors may have had on
+
+    his   sentence.       Therefore,      his    contentions       are     without
+
+    merit.
+
+          Lazala    has   also    filed   a     reply   memorandum         to    the
+
+    government’s response (ECF No. 246) in which Lazala raises
+
+    new   arguments.       The    Court    declines         to   address    these
+
+
+
+          4
+            Moreover, in a later case, the Supreme Court
+    confirmed that “Padilla does not have retroactive effect.”
+    Chaidez v. United States, 133 S. Ct. 1103, 1105 (2013).
+Case 1:08-cr-00141-S-LDA Document 249 Filed 07/29/13 Page 11 of 12 PageID #: 4855
+
+
+
+    arguments as including them violates the Rules Governing
+
+    Section 2255 Proceedings. 5
+
+            C.       Additional Requests
+
+            At one point, Lazala filed a Motion to Stay.                           (ECF No.
+
+    233.)        He also requested the appointment of legal counsel,
+
+    in addition to an evidentiary hearing.                        (ECF No. 231.)
+
+          Although           Lazala       filed      the        Motion    to    Stay,     he
+
+    subsequently           filed      a   motion         for     leave    to    file     the
+
+    aforementioned reply memorandum, which was granted by text
+
+    order       on   March    20,     2013.        He    then     submitted     his    reply
+
+    memorandum to the government’s response.                              Therefore, the
+
+    Court denies the Motion to Stay as moot.
+
+          The Court also denies the request for appointment of
+
+    counsel,         and    finds     that    an    evidentiary          hearing    is   not
+
+    necessary.
+
+    III. Conclusion
+
+          Given that Lazala has failed to submit evidence that
+
+    his     counsel’s         representation             fell     below    an   objective
+
+    standard         of    reasonableness          and    that,     but   for   counsel’s
+
+            5
+            Rule 2 of the Rules Governing Section 2255
+    Proceedings makes clear that the motion to vacate, set
+    aside, or correct the sentence must specify all the grounds
+    for relief available to the moving party. Federal Criminal
+    Code and Rules, Rules Governing Section 2255 Proceedings
+    for the United States District Courts, Rule 2 (2013); see
+    also id., Rule 5.     Lazala is therefore limited to the
+    arguments raised in his Motion and the government’s
+    response. Id., Rule 5.
+Case 1:08-cr-00141-S-LDA Document 249 Filed 07/29/13 Page 12 of 12 PageID #: 4856
+
+
+
+    errors,     the    result         of    the     proceeding    would      have   been
+
+    different,        he        has   not     met     the     Strickland      standard.
+
+    Moreover,    he    has        failed    to    show   that    but   for    counsel’s
+
+    errors, he would not have pleaded guilty and would have
+
+    instead    insisted          on   going   to     trial.      For   the    foregoing
+
+    reasons, the instant Motion pursuant to 28 U.S.C. § 2255 is
+
+    hereby DENIED and DISMISSED.
+
+
+
+                  RULING ON CERTIFICATE OF APPEALABILITY
+
+          Pursuant to Rule 11(a) of the Rules Governing Section
+
+    2255 Proceedings in the United States District Courts, this
+
+    Court hereby finds that this case is not appropriate for
+
+    the   issuance         of    a    certificate      of   appealability       (“COA”)
+
+    because Lazala has failed to make a substantial showing of
+
+    the denial of a constitutional right as to any claim, as
+
+    required by 28 U.S.C. § 2253(c)(2).
+
+          Lazala is advised that any motion to reconsider this
+
+    ruling will not extend the time to file a notice of appeal
+
+    in this matter.              See Rule 11(a), Rules Governing Section
+
+    2255 Proceedings.
+
+    IT IS SO ORDERED:
+
+    /s/ William E. Smith
+    William E. Smith
+    United States District Judge
+    Date: July 29, 2013
+

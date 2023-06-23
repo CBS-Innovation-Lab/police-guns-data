@@ -1,0 +1,379 @@
+Case 2:17-cr-00090-DBH Document 107 Filed 02/10/21 Page 1 of 8               PageID #: 278
+
+
+
+
+                            UNITED STATES DISTRICT COURT
+                                 DISTRICT OF MAINE
+
+KEON SHINE,                               )
+                                          )
+              Petitioner,                 )
+                                          )
+       v.                                 )      2:17-cr-00090-DBH-1
+                                          )
+UNITED STATES OF AMERICA,                 )
+                                          )
+              Respondent                  )
+
+
+            RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+       Petitioner moves pursuant to 28 U.S.C. § 2255 to vacate, set aside or correct his
+
+sentence. (Motion, ECF No. 100.) The Government asks the Court to dismiss the matter
+
+because Petitioner filed the motion after the statute of limitations expired. (Response, ECF
+
+No. 106.)
+
+       Following a review of Petitioner’s section 2255 motion, the Government’s response,
+
+and the record, I recommend the Court dismiss the motion.
+
+                 FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+       In June 2017, Petitioner was indicted for possessing firearms and ammunition after
+
+having been previously convicted of a crime punishable by more than one year in prison in
+
+violation of 18 U.S.C. § 922(g)(1) and § 924(a). (Indictment, ECF No. 28.) Petitioner pled
+
+guilty to the firearms charge in November 2017. (Change of Plea Hearing, ECF No. 57.)
+
+       In May 2018, the Court sentenced Petitioner to seventy-eight months in prison, to
+
+be followed by three years of supervised release. (Judgment, ECF No. 90.) Petitioner did
+Case 2:17-cr-00090-DBH Document 107 Filed 02/10/21 Page 2 of 8              PageID #: 279
+
+
+
+
+not file an appeal. Petitioner filed his § 2255 motion in May 2020 and an amended petition
+
+in July 2020. (Motion, ECF No. 100; Amended Petition, ECF No. 103.)
+
+                                       DISCUSSION
+
+       Title 28 U.S.C. § 2255(f) provides:
+
+       A 1-year period of limitation shall apply to a motion under this section. The
+       limitation period shall run from the latest of –
+
+          (1) the date on which the judgment of conviction becomes final;
+
+          (2) the date on which the impediment to making a motion created by
+          governmental action in violation of the Constitution or laws of the United
+          States is removed, if the movant was prevented from making a motion by
+          such governmental action;
+
+          (3) the date on which the right asserted was initially recognized by the
+          Supreme Court, if that right has been newly recognized by the Supreme
+          Court and made retroactively applicable to cases on collateral review; or
+
+          (4) the date on which the facts supporting the claim or claims
+          presented could have been discovered through the exercise of due
+          diligence.
+
+When there are multiple claims at issue, “the period of limitation in 28 U.S.C. § 2255(f)
+
+should be applied on a claim-by-claim basis.” Capozzi v. United States, 768 F.3d 32, 33
+
+(1st Cir. 2014).
+
+A.     Ineffective Assistance Claim
+
+       Petitioner does not allege, nor does the record reflect, that the Government imposed
+
+an impediment to a timely filing; Petitioner’s ineffective assistance of counsel claim
+
+concerning sentencing issues does not rely on a right newly-recognized by the Supreme
+
+Court and made retroactively applicable to cases on collateral review; and Petitioner does
+
+not allege newly-discovered facts in support of his section 2255 claims. Because
+
+                                             2
+Case 2:17-cr-00090-DBH Document 107 Filed 02/10/21 Page 3 of 8                                 PageID #: 280
+
+
+
+
+paragraphs (2), (3), and (4) do not apply to the ineffective assistance claim, therefore, the
+
+limitations period began to run when Petitioner’s judgment of conviction became final.
+
+        The Court entered Petitioner’s judgment of conviction on May 30, 2018.
+
+(Judgment, ECF No. 90.) Because Petitioner did not appeal, the judgment became final
+
+after his fourteen-day period for filing an appeal expired on June 13, 2018. See Fed. R.
+
+App. P. 4(b)(1)(A); Martinez-Serrano v. United States, No. CIV. 11-1077 JAF, 2012 WL
+
+6016663, at *1 (D.P.R. Nov. 30, 2012) (“Neither the Supreme Court nor the First Circuit,
+
+to our knowledge, has decided when an unappealed federal criminal conviction becomes
+
+‘final’ for the purposes of § 2255(f)(1). All of the circuit courts that have answered this
+
+question, to our knowledge, have held that such a conviction becomes final when the time
+
+for filing an appeal expires”). The limitation period for filing a section 2255 motion to
+
+challenge the judgment expired one year later, on June 14, 2019. See Rogers v. United
+
+States, 180 F.3d 349, 355 n.13 (1st Cir. 1999) (“‘When a statute of limitations is measured
+
+in years, the last day for instituting the action is the anniversary date of the start of the
+
+limitations period.’”) (quoting Ross v. Artuz, 150 F.3d 97, 103 (2d Cir. 1998)). Petitioner
+
+filed his motion on May 14, 2020, eleven months after the limitations period expired.
+
+        Because Petitioner did not file the § 2255 motion within the applicable limitation
+
+period, and because equitable tolling does not apply,1 dismissal of the ineffective assistance
+
+claim is warranted.
+
+
+1
+  “[T]he AEDPA statute of limitations defense is not jurisdictional” and “is subject to equitable tolling in
+appropriate cases.” Holland v. Florida, 560 U.S. 631, 645 (2010) (internal quotations omitted). “To obtain
+tolling . . . a petitioner bears a substantial burden to establish . . . that he exercised reasonable diligence in
+trying to preserve his rights but was prevented from timely filing by extraordinary circumstances.”
+Dominguez v. Duval, 527 F. App’x 38, 40 (1st Cir. 2013); see also Trapp v. Spencer, 479 F.3d 53, 61 (1st
+
+                                                        3
+Case 2:17-cr-00090-DBH Document 107 Filed 02/10/21 Page 4 of 8                             PageID #: 281
+
+
+
+
+B.      Rehaif Claim
+
+        On June 21, 2019, the United States Supreme Court decided Rehaif v. United States,
+
+139 S. Ct. 2191 (2019). Under the statute underlying Petitioner’s conviction, 18 U.S.C. §
+
+922(g), it is unlawful for certain persons, including individuals with prior felony
+
+convictions, id. § 922(g)(1), to possess a firearm or ammunition. The statute contains three
+
+elements: (1) a status element (belonging to one of the listed categories of persons), (2) a
+
+possession element, and (3) a jurisdictional element (in or affecting commerce). Rehaif,
+
+139 S. Ct. at 2196. Before 2019, courts interpreted “knowingly” in the penalty provision
+
+(§ 924(a)(2)) to apply only to the possession element, but under Rehaif, “knowingly” also
+
+applies to the status element. Id. “To convict a defendant, the Government therefore must
+
+show that the defendant knew he possessed a firearm and also that he knew he had the
+
+relevant status when he possessed it.” Id. at 2194. Because a guilty plea is not intelligently
+
+made when the defendant did not receive “real notice of the true nature of the charges,” if
+
+Petitioner could demonstrate that he, counsel, and the Court misunderstood the essential
+
+elements of a crime, his plea could be susceptible to a constitutional challenge. See Bousley
+
+v. United States, 523 U.S. 614, 618 (1998).
+
+        To pursue postconviction relief based on Rehaif, Petitioner was required to assert
+
+the claim within the one-year statute of limitations period, which began to run on “the date
+
+on which the right asserted was initially recognized by the Supreme Court . . . .” 28 U.S.C.
+
+
+
+
+Cir. 2007) (discussing illustrative cases). “The diligence prong covers those affairs within the petitioner’s
+control, while the extraordinary-circumstances prong covers matters outside his control.” Blue v. Medeiros,
+913 F.3d 1, 8 (1st Cir. 2019). Petitioner does not allege any circumstances warranting equitable tolling.
+
+                                                     4
+Case 2:17-cr-00090-DBH Document 107 Filed 02/10/21 Page 5 of 8                       PageID #: 282
+
+
+
+
+§ 2255(f)(3). Because Rehaif was decided on June 21, 2019, the period in which Petitioner
+
+could assert a Rehaif claim ended on June 21, 2020.2
+
+       Unlike ordinary civil cases, the filing date for § 2255 petitions is not determined by
+
+the date on which the Court receives the document; the filing date is governed by the prison
+
+mailbox rule:
+
+       A paper filed by an inmate confined in an institution is timely if deposited in
+       the institution’s internal mailing system on or before the last day for filing.
+       If an institution has a system designed for legal mail, the inmate must use
+       that system to receive the benefit of this rule. Timely filing may be shown
+       by a declaration in compliance with 28 U.S.C. §1746 or by a notarized
+       statement, either of which must set forth the date of deposit and state that
+       first-class postage has been prepaid.
+
+Rule 3(d) of the Rules Governing Section 2255 Proceedings.
+
+       Petitioner purportedly signed his original petition on May 3, 2020, (Petition at 13),
+
+the envelope was postmarked May 7, 2020, (Envelope, ECF No. 100-1,), and the Court
+
+received and docketed the filing on May 14, 2020. Although Petitioner filed the original
+
+motion within one year of the Supreme Court’s decision in Rehaif, Petitioner did not
+
+mention or reference Rehaif or defects with his guilty plea in the original petition.
+
+Petitioner only raised the previously discussed ineffective assistance claim related to
+
+alleged sentencing errors concerning his guideline calculations and criminal history score.
+
+Petitioner first raised his Rehaif claim in his amended petition.
+
+       Petitioner purportedly signed his amended petition on May 26, 2020, (Amended
+
+Petition at 19), the envelope was postmarked July 6, 2020, (Envelope, ECF No. 103-1),
+
+
+2
+  As discussed above, Petitioner has not alleged any circumstances justifying equitable tolling of the
+limitations period.
+
+                                                  5
+Case 2:17-cr-00090-DBH Document 107 Filed 02/10/21 Page 6 of 8                             PageID #: 283
+
+
+
+
+and the Court received and docketed the document on July 15, 2020. The record evidence
+
+establishes that Petitioner did not file the amendment on or before June 21, 2020, when the
+
+limitations period for Rehaif claims expired.
+
+        Because Petitioner did not file the amended motion within a year of the decision in
+
+Rehaif, Petitioner’s Rehaif claim would be timely only to the extent it relates back, pursuant
+
+to Fed. R. Civ. P. 15(c), to the guideline sentencing issue raised in the original section 2255
+
+motion that Petitioner filed before June 21, 2020.3 See Turner v. United States,
+
+699 F.3d 578, 585 (1st Cir. 2012) (noting “[t]he relation back provision in habeas petitions
+
+is strictly construed,” and “amended habeas corpus claims generally must arise from the
+
+same core facts, and not depend upon events which are separate both in time and type from
+
+the events upon which the original claims depended”) (internal quotations omitted). The
+
+ineffective assistance claim was based on counsel’s performance regarding a criminal
+
+history sentencing issue. The Rehaif claim relates to whether the Government could
+
+establish Petitioner’s guilt. Petitioner’s Rehaif claim, therefore, does not relate back to the
+
+original filing. Accordingly, the Rehaif claim is untimely and dismissal is warranted.
+
+        Even if Petitioner could establish a filing date within the limitations period,
+
+Petitioner’s Rehaif claim would fail on the merits. As this Court has explained in several
+
+recent cases, Rehaif is retroactively applicable to first § 2255 petitions, and although
+
+
+
+3
+ Fed. R. Civ. P. 15(c) states in relevant part: “An amendment to a pleading relates back to the date of the
+original pleading when: (A) the law that provides the applicable statute of limitations allows relation back;
+[or] (B) the amendment asserts a claim or defense that arose out of the conduct, transaction, or occurrence
+set out−or attempted to be set out−in the original pleading.” Rule 15 “governs amendments to habeas
+petitions in a § 2255 proceeding.” United States v. Ciampi, 419 F.3d 20, 23 (1st Cir. 2005).
+
+
+                                                     6
+Case 2:17-cr-00090-DBH Document 107 Filed 02/10/21 Page 7 of 8                 PageID #: 284
+
+
+
+
+Petitioner procedurally defaulted the issue by failing to file an appeal on the issue, there is
+
+cause to excuse the procedural default because the argument was not reasonably available
+
+to his attorney given the longstanding and uniform precedent foreclosing the knowledge-
+
+of-status argument in the years before the Supreme Court’s decision in Rehaif. Brake v.
+
+United States, No. 2:13-CR-00160-GZS, 2021 WL 388439, at *3–4 (D. Me. Feb. 3, 2021);
+
+MacArthur v. United States, No. 1:12-CR-00084-JAW, 2020 WL 1670369, at *8–9 (D.
+
+Me. Apr. 3, 2020), report and recommendation adopted, No. 1:12-CR-00084-JAW, 2020
+
+WL 7079134 (D. Me. Dec. 3, 2020). With Petitioner’s multiple felony convictions and
+
+lack of explanation as to how he could have been unaware of his felon status, Petitioner
+
+has not established a reasonable likelihood that he would have proceeded to trial instead of
+
+pleading guilty had he been aware of the knowledge-of-status element during the plea
+
+phase. Petitioner, therefore, has not shown that he was prejudiced as a result of any Rehaif
+
+issue and is not entitled to relief. See Brake, 2021 WL 388439 at *10; Macarthur v. United
+
+States, No. 1:12-CR-00084-JAW, 2020 WL 7079134, at *11 (D. Me. Dec. 3, 2020).
+
+                                        CONCLUSION
+
+       Based on the foregoing analysis, I recommend that the Court dismiss Petitioner’s
+
+motion for habeas relief under 28 U.S.C. § 2255. I further recommend that the Court deny
+
+a certificate of appealability pursuant to Rule 11 of the Rules Governing Section 2255
+
+Cases because there is no substantial showing of the denial of a constitutional right within
+
+the meaning of 28 U.S.C. § 2253(c)(2).
+
+
+
+
+                                              7
+Case 2:17-cr-00090-DBH Document 107 Filed 02/10/21 Page 8 of 8                PageID #: 285
+
+
+
+
+                                         NOTICE
+
+             A party may file objections to those specified portions of a magistrate
+      judge’s report or proposed findings or recommended decisions entered
+      pursuant to 28 U.S.C. § 636(b)(1)(B) for which de novo review by the district
+      court is sought, together with a supporting memorandum, within fourteen
+      (14) days of being served with a copy thereof. A responsive memorandum
+      shall be filed within fourteen (14) days after the filing of the objection.
+
+             Failure to file a timely objection shall constitute a waiver of the right
+      to de novo review by the district court and to appeal the district court’s order.
+
+
+                                                  /s/ John C. Nivison
+                                                  U.S. Magistrate Judge
+
+      Dated this 10th day of February, 2021.
+
+
+
+
+                                             8
+

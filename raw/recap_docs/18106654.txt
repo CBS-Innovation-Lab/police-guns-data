@@ -1,0 +1,344 @@
+Case 1:11-cr-00112-I\/|-PAS Document 89 Filed 06/29/16 Page 1 of 11 Page|D #: 1598
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF RHODE ISLAND
+
+ 
+
+ 
+
+UNITED sTATES OF AMERICA )
+)
+
+v. ) CR No. 1-11-00112-M
+)
+DAMIEN GoUsE, )
+Defendant )
+)
+
+MEMORANDUM AND oRDER
+
+Before the Court are Damien Gouse’s motions for a new trial pursuant to
+Rule 33 of the Federal Rules of Criminal Procedure (ECF No. 84) and his motion
+under 28 U.S.C. § 2255 to vacate, set aside, or correct his sentence ECF No. 85.
+Mr. Gouse asks the Court to grant him a new trial, or, alternatively, to vacate his
+sentence due to errors of law and ineffective assistance of counsel both at the trial
+and appellate levels. The Court finds no merit to either of Mr. Gouse’s motions and
+thus they are DENIED.
+I. FACTS
+
+Providence Police stopped Mr. Gouse’s car in November of 2007 . The police
+found a handgun and a bag of suspected narcotics in the car. Mr. Gouse was
+indicted by the federal government for being a felon in possession of a firearm,
+under 18 U.S.C. §§ 922(§)(1) and 924(e)(1).1 The parties stipulated that Mr. Gouse
+had a prior felony on his record such that evidence of the first element of the crime
+
+_ being a felon in possession of a firearm ~ was not put before the jury. ECF No.
+
+ 
+
+1 The latter statute is commonly called the Armed Career Criminal Act (“the
+ACCA”), Which creates an enhanced mandatory minimum penalty When a
+defendant has three or more prior Violent felonies.
+
+ 
+
+Case 1:11-cr-00112-I\/|-PAS Document 89 Filed 06/29/16 Page 2 of 11 Page|D #: 1599
+
+73 at 42~43. The case went to trial and a jury found Mr. Gouse guilty of being a
+felon in possession of a firearm in violation of 18 U.S.C. §§ 922(g)(1). ECF No. 52.
+In the course of litigation, the Government chose not to press for the enhanced
+penalty of fifteen years that is available under the ACCA. The Court subsequently
+imposed a sentence of 120 months incarceration,2 followed by three years of
+supervised release, according to the default penalty provision in 18 U.S.C.
+§ 924(a)(2)3, which applies to the criminal statute that Mr. Gouse was convicted of
+violatingl ECF No. 62.
+
+Mr. Gouse appealed to the First Circuit Court of Appeals on a single issue,
+arguing a violation of the lnterstate Agreernent on Detainers (IAD), which was
+denied. Um'ted States V. Gouse, 798 F.3d 39 (1st Cir. 2015). He next sought
+certiorari in the United States Supreme Court, which was also denied. Um'ted
+States V. Gouse, 136 S.Ct. 283 (2015). He now brings the instant motions pursuant
+to Rule 33 of the Federal Rules of Criminal Procedure for a new trial, and 28 U.S.C.
+§ 2255 to vacate, set aside, or correct his sentence
+Il. ANALYSIS OF RULE 33 CLAIM
+
+Rule 33 states that upon defendant’s motion, “the court may vacate any
+judgment and grant a new trial if the interest of justice so requires.” Fed. R. Crirn.
+
+P. 33(a). A motion grounded on any reason other than newly discovered evidence
+
+ 
+
+2 The sentencing guideline range for Mr. Gouse was 140'175 months, but the
+statutory maximum Was 120 months
+
+3 Title 18 U.S.C. § 924(a)(2) providesf (a) Except as otherwise provided in this
+subsection... (2) Whoever knowingly violates subsection (a)(€), (d), (g), (h), (i), (]'), or
+(o) of section 922 shall be fined as provided in this title, imprisoned not more than
+10 years, or both.
+
+ 
+
+Case 1:11-cr-00112-I\/|-PAS Document 89 Filed 06/29/16 Page 3 of 11 Page|D #: 1600
+
+must be filed within fourteen days of the Verdict of guilty. Fed. R. Crim. P. 33(b)(2).
+A defendant arguing for a new trial based on discovery of new evidence, however,
+has three years from the verdict. Fed. R. Crim. P. 33(b)(1). rl‘he fourteen day limit
+would bar a Rule 33 motion in this case, therefore, unless Mi'. Gouse can show that
+the discovery of new evidence and the interest of justice require the Court to vacate
+judgment and order a new trial, See jd. He cannot, and thus his motion for a new
+trial fails.
+
+The First Circuit adheres to a well-established foui"pronged test, sometimes
+referred to as the “Wright test,” to evaluate requests for new trial on the basis of
+newly discovered evidence. Um`ted States V. Montj]]a'f€jveia, 115 F.Bd 1060, 1064'
+65 (lst Cir. 1997); Uni'ted States V. Li/'H'g]it, 625 F.2d 1017 (1st Cir. 1980). The four
+factors arei (i) that evidence was unknown or unavailable at time of trial despite (ii)
+due diligence, and that (iii) the evidence was material, not merely cumulative or
+impeaching, and that (iv) the evidence would likely result in an acquittal upon
+retrial Um`ted States V. Natane], 938 F.2d 302, 313 (1st Cir. 1991). For each
+prong, the defendant carries the burden of proof. See ]V[OIitj]]a'Rji/ei'a, 115 F.3d at
+1064'65; Wi'jg}it, 625 F.2d at 1019. Courts in the First Circuit have no discretion to
+grant a new trial if any one of these four factors is missing. See Natane], 938 F.2d
+at 313.
+
+Mr. Gouse, in his affidavit and memorandum filed in support of this motion,
+offers very little that _ even when liberally construed _ could be considered newly
+
+discovered evidence Mr. Gouse contends that his indictment, trial, conviction, and
+
+ 
+
+Case 1:11-cr-00112-|\/|-PAS Document 89 Filed 06/29/16 Page 4 of 11 Page|D #: 1601
+
+sentencing were improper,4 but the only newly discovered evidence he cites is a
+conversation he had with an “inmate law clerk” who told Mr. Gouse, presumably
+after reviewing his case, that he has “seen some ugly mistakes from the courts, but
+this is one of the uglier ones . . . .” ECF No. 84 at 2. Applying the Wright test to
+this statement, the Court finds that Mr. Gouse has failed in his burden. First, a
+conversation with a fellow inmate about whether mistakes were made in his
+indictment, trial, conviction, or sentence hardly qualifies as evidence as to his
+factual innocence Even if, aiguendo, the inmate’s opinion was “evidence,” by
+Mr. Gouse’s own admission, the basis for the opinion, i.e. the details of the
+indictment, trial, conviction, and sentence, were readily known and available at the
+time of trial, ECF No. 84 at 1'2. Although it is not necessary to address all four
+components of the test to disqualify the potential evidence, see Natane], 938 F.2d at
+313, the “evidence” was not material to the case. The inmate’s opinion was, at inost,
+an impeachment of the Court and Mr. Gouse’s lawyer. Finally, the “evidence” in the
+form of an inmate’s opinion was not remotely likely to result in acquittal at retrial.
+Therefore, because the Court finds that Mr. Gouse has failed in his burden to
+show that there is newly discovered evidence justifying a new trial under Rule 33,
+
+his motion is DENIED.
+
+ 
+
+4 The analysis of those procedural questions is treated more fully below in section
+
+lll.
+
+ 
+
+Case 1:11-cr-00112-|\/|-PAS Document 89 Filed 06/29/16 Page 5 of 11 Page|D #: 1602
+
+IlI. ANALYSIS OF § 2255 CLA,IM
+
+The core of Mr. Gouse’s claim for relief under § 2255 is that his sentence was
+illegal due to the prosecutor’s misconduct in committing procedural errors iii the
+indictment and the Court’s errors at sentencing He also claims ineffective
+assistance of counsel at both the trial level, for not raising the alleged errors to the
+Court, and at the appellate level, for failing to communicate with him on strategy,
+and failing to raise the same alleged errors. The Court will begin with a brief
+primer on the standard of review on § 2255 motions before analyzing Mr. Gouse’s
+claims
+
+Generally, the grounds justifying post-conviction relief under § 2255 are
+limited A court may grant relief pursuant to § 2255 in instances where the
+sentencing court lacked jurisdiction, committed a constitutional error, or if the
+sentence is otherwise subject to collateral attack. Uni'ted States V. Addonjzib, 442
+U.S. 178, 185 (1979). Such collateral attacks require the petitioner to demonstrate
+“exceptional circumstances” that warrant redress under § 2255. See Hj]] V, Um'ted
+States, 368 U.S. 424, 428 (1962). 'l`his might include an error of law, but only when
+“the claimed error constituted a fundamental defect which inherently results in a
+complete miscarriage of justice .” Addom`zi'o, 442 U.S. at 185 (internal quotation and
+citation omitted).
+
+A. Claims Based on Errors of Law
+
+Mr. Gouse argues that he should not have been sentenced under § 924(a)(2)
+
+because he was not indicted for violating it and the jury did not find him guilty of it.
+
+ 
+
+Case 1:11-cr-00112-|\/|-PAS Document 89 Filed 06/29/16 Page 6 of 11 Page|D #: 1603
+
+ECF No. 86 at 7 . Further, he mistakenly claims that he was found guilty of being
+an armed career criminal under § 924(€)(1). Id. Thus, he illogically asserts the
+verdict was legally and procedurally in error and the Court erred in imposing the
+ten year sentence instead of sentencing in accordance with the ACCA.
+
+These perceived errors do not amount to fundamental defects There are two
+major flaws in Mr. Gouse’s argument. The first flaw in his argument on the faulty
+indictment and conviction involves a misperception of the distinct roles of judge and
+jury in a criminal proceeding lt is the function of the jury to act as fact‘finder,
+determining witness credibility and weighing evidence, then applying the law as the
+Court instructs S]iannon V. Unjted States, 512 U.S. 573, 579 (1994). If the jury
+makes a determination of guilt, it is the Court’s province to sentence the offender
+within the prescribed limitations and according to the dictates of justice. [d. As
+such, the jury made no finding with respect to the applicable penalty provision
+According to this well'established division of labor, the jury found Mr. Gouse guilty
+of violating 18 U.S.C. § 922(g)(1), the criminal statute he was indicted under, and
+the Court properly sentenced him according to § 924(21)(2), the particular sentencing
+provision that applied to the statute he violated. See S}ia_nnon, 512 U.S. 579. The
+Court finds no error here.
+
+The second flaw is that Mr. Gouse was not found guilty of being an armed
+career criminal, but for being a felon in possession of a firearm. ECF No. 52. The
+indictment merely cited 18 U.S.C. 924(e)(1) (the ACCA) to give notice to Mr. Gouse
+
+of the potential period of incarceration he could face if successfully prosecuted under
+
+ 
+
+Case 1:11-cr-00112-|\/|-PAS Document 89 Filed 06/29/16 Page 7 of 11 Page|D #: 1604
+
+it. lt was a sufficient indictment, therefore, since it provided him with a reasonable
+certainty as to the nature of the charge against him, and enabled him to prepare an
+adequate defensel See, e.g., Uni'ted States v. Hui']ey, 63 F.3d 1, 8 (1st Cir. 1995)
+(quoting Ham]j_rig V. Um'ted States, 418 U.S. 87, 117 (1974)). l\/loreover, the ACCA
+reference became irrelevant because the Government did not attempt to prove the
+required three violent felonies, and the jury was never asked to make a finding as to
+Mr. Gouse’s career criminal status.5
+
+Mr. Gouse was indicted for the felon in possession charge, knew the potential
+penalties he faced, proceeded to trial on the single charge based on the parties’
+agreement to not present the ACCA violation to the jury, and was convicted. Even
+if Mr. Gouse is correct that the Court erred in sentencing there is no plausible
+argument that this defect amounts to a complete miscarriage of justice. The Court
+sentenced him to ten years under the default provision (28 U.S.C. § 924(a)(2)), not
+under the ACCA, which would have increased his sentence to fifteen years The
+Court set the sentence to run concurrently to a sentence imposed by the
+Commonwealth of Massachusetts, thereby further reducing his overall
+incarceration time. lt would be a paradoxical position indeed if l\/lr. Gouse were to
+assert that by receiving a significantly more lenient sentence, he is in fact the
+victim of procedural or legal errors Therefore, Mr. Gouse’s adjudication neither
+
+contained fundamental defects not resulted in a complete miscarriage ofjustice.
+
+ 
+
+5 Govei'nment’s Exhibit 6 and the jury trial transcripts memorialize the stipulation
+between the parties that Mr. Gouse had a prior felony for purposes of the felon in
+possession charge at trial in exchange for not pressing the ACCA charge ECF No.
+73 at 42~43.
+
+ 
+
+Case 1:11-cr-00112-|\/|-PAS Document 89 Filed 06/29/16 Page 8 of 11 Page|D #: 1605
+
+B. Ineffective Assistance of Counsel
+
+Mr. Gouse’s next claim for relief is that his counsel at both the trial court and
+appellate levels were ineffective such that his constitutional rights were violated.
+“The Sixth Amendment guarantees criminal defendants the right to effective
+assistance of counsel.” Le_ma v. Um`ted States, 987 F.2d 48, 51 (1st Cir. 1993) (citing
+Stri'c]dana' V. Was}ijngton, 466 U.S. 668, 687 (1984)). The performance standard
+guaranteed by the Constitution is “that of reasonably effective assistance under the
+circumstances then obtaining.” Natane], 938 F.2d at 310. To demonstrate that he
+was deprived of his Sixth Amendment right to effective assistance of counsel,
+Mr. Gouse must show boch 1) that his counsel’s performance fell below an objective
+standard of reasonableness; and 2) a reasonable probability that, but for counsel’s
+unprofessional errors, the result of the proceeding would have been different
+Sti'i`ck]and, 466 U.S. at 687'88, 694. The standard of judicial scrutiny on such a
+claim is highly deferential in favor of counsel’s performance of their duties Id. at
+689. Sti'jck]and asserts that the court “must indulge a strong presumption that
+counsel’s conduct falls within the wide range of reasonable professional assistance;
+that is, the defendant must overcome the presumption that, under the
+circumstances the challenged action ‘might be considered sound trial strategy.”’ Ia’.
+(quoting _Mi`che] v. Loujsjana, 350 U.S. 91, 101 (1955)). Furtherinore, “[aln error by
+counsel, even if professionally unreasonable, does not warrant setting aside the
+judgment of a criminal proceeding if the error had no effect on the judgment.” Id. at
+
+691.
+
+ 
+
+Case 1:11-cr-00112-|\/|-PAS Document 89 Filed 06/29/16 Page 9 of 11 Page|D #: 1606
+
+In light of this standai'd, the Court examines Mr. Gouse’s claims of ineffective
+assistance with the representation that Mr. Gouse received. l\/Ir. Gouse faults his
+trial counsel for failing to object to the Presentencing Report (PSR), sentence, or
+indictment ECF No. 86 at 5'6. The record indicates othei‘wise. Significantly, at
+the sentencing hearing Mr. Gouse responded affirmatively when asked whether he
+had reviewed the PSR with his attorney and indicated that he had no questions or
+issues at that time. ECF No. 74 at 2‘3. ln addition, the docket reflects that his trial
+attorney filed numerous motions6 made appropriate arguments before the Court,
+produced exhibits, and professionally examined witnesses at trial on Mr. Gouse’s
+behalf. Given the deferential standard with which the Court must view counsel’s
+conduct, the challenged actions here can be considered sound trial strategy, falling
+within the wide range of reasonable professional assistance See Sti'jck]and, 466
+U.S. at 689. The Court finds that Mr. Gouse has failed under the Stiv'c]dand
+objective test to show that his trial attorney’s performance fell below an objective
+standard of reasonableness
+
+Mr. Gouse next argues, with some vehenience, that his appellate attorney
+violated his Sixth Amendment rights by failing to communicate with him about his
+appeal and failing to raise his sentencing indictment, and ineffective assistance of
+trial counsel errors ECF No. 86 at 5'6. He excoriates his attorney for not taking
+his calls, returning his letters, or communicating with him in other respects Id.
+
+Essentially, Mr. Gouse argues that the outcome of his appeal would have been
+
+ 
+
+6 See ECF Nos. 6, 13, 17, 18, 21, 33, 35, 36, 41, 43, 57, and 63.
+9
+
+ 
+
+Case 1:11-cr-00112-|\/|-PAS Document 89 Filed 06/29/16 Page 10 of 11 Page|D #: 1607
+
+different if his counsel had listened to him and followed up on the points of error he
+perceived both pretrial and at trial. But, because both this Court and the First
+Circuit Court of Appeals have already rejected many if not all of those perceived
+errors, the Court cannot now determine that Mr. Gouse’s appellate counsel’s
+strategy was unreasonable or rose to the level of unprofessional erroi'. Cf.` Buccj V.
+Um`ted States, 662 F.3d 18, 31 (1st Cir. 2011) (holding that counsel must balance
+limited time, energy, or financial resources in accord with effective trial tactics and
+strategic s).
+
+“l'l`lhe Constitution pledges to an accused an effective defense, not necessarily
+a perfect defense or a successful defense.” Scaipa v. Duboi'e, 38 F.Sd 1, 8 (1st Cir.
+1994). l\/loreover, in light of the Court’s determination that Mr. Gouse has no
+grounds to challenge his trial, sentencing and trial counsel’s representation, his
+appellate attorney’s conduct was objectively reasonable and thus consistent with
+the Sti'jc]dand test. Yet even assuming that Mr. Gouse could prove that his
+appellate attorney was not objectively reasonable, in light of the Court’s review of
+the record and consideration of all of Mr. Gouse’s claims for relief under Rule 33 and
+§ 2255, it is not reasonably probable that, but for counsel’s errors, Mr. Gouse’s
+results would have been different.
+IV. CONCLUSION
+
+The Court DENIES Mr. Gouse’s Motion for New Trial pursuant to Rule 33,
+ECF No. 84. Additionally, the Court DENIES and DISMISSES the writ under
+
+§ 2255 for postconviction relief. ECF No. 85.
+
+10
+
+ 
+
+Case 1:11-cr-00112-|\/|-PAS Document 89 Filed 06/29/16 Page 11 of 11 Page|D #: 1608
+
+John J. McConi-i'ell, Jr.
+United States District Judge
+June 29, 2016
+
+ 
+
+11
+
+ 
+

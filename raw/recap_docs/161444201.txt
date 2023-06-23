@@ -1,0 +1,541 @@
+Case 2:16-cr-00070-JDL Document 66 Filed 02/22/21 Page 1 of 11               PageID #: 329
+
+
+
+
+                            UNITED STATES DISTRICT COURT
+                                 DISTRICT OF MAINE
+
+RYAN BENOIT,                              )
+                                          )
+              Petitioner,                 )
+                                          )
+       v.                                 )       2:16-cr-00070-JDL-1
+                                          )
+UNITED STATES OF AMERICA,                 )
+                                          )
+              Respondent                  )
+
+
+            RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+       Petitioner moves pursuant to 28 U.S.C. § 2255 to vacate, set aside or correct his
+
+sentence. (Motion, ECF No. 38.) Following a guilty plea, Petitioner was convicted of
+
+possession with intent to distribute heroin and unlawful possession of a firearm.
+
+(Judgment, ECF No. 28.) Petitioner did not file an appeal.
+
+       Petitioner claims his attorney provided ineffective assistance by failing to contest a
+
+prior conviction or pursue a sentencing reduction; Petitioner also argues that he is entitled
+
+to relief as a result of the Supreme Court’s decision in Rehaif v. United States, 139 S. Ct.
+
+2191 (2019). The Government asks the Court to dismiss the matter. (Response, ECF No.
+
+59.)
+
+       Following a review of Petitioner’s section 2255 motion, the Government’s response,
+
+and the record, I recommend the Court dismiss the motion.
+
+                 FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+       In May 2016, Petitioner was indicted for possessing heroin with intent to distribute
+
+in violation of 21 U.S.C. §§ 841(a)(1) and (b)(1)(C) and for possessing a firearm after
+Case 2:16-cr-00070-JDL Document 66 Filed 02/22/21 Page 2 of 11              PageID #: 330
+
+
+
+
+having been convicted of a crime punishable by more than one year of imprisonment in
+
+violation of 18 U.S.C. §§ 922(g)(1) and 924(a). (Indictment, ECF No. 1.) Petitioner pled
+
+guilty to both charges in July 2016. (Change of Plea Hearing, ECF No. 18.)
+
+       In November 2017, the Court sentenced Petitioner to ninety months in prison, to be
+
+followed by three years of supervised release. (Judgment, ECF No. 28.) Petitioner did not
+
+file an appeal. Petitioner asserts that he signed his § 2255 motion and deposited it in the
+
+prison mail system on June 21, 2020; the Court received and docketed the motion on July
+
+7, 2020. (Motion, ECF No. 38.)
+
+                                       DISCUSSION
+
+A.     Ineffective Assistance Claims
+
+       Title 28 U.S.C. § 2255(f) provides:
+
+       A 1-year period of limitation shall apply to a motion under this section. The
+       limitation period shall run from the latest of –
+
+          (1) the date on which the judgment of conviction becomes final;
+
+          (2) the date on which the impediment to making a motion created by
+          governmental action in violation of the Constitution or laws of the United
+          States is removed, if the movant was prevented from making a motion by
+          such governmental action;
+
+          (3) the date on which the right asserted was initially recognized by the
+          Supreme Court, if that right has been newly recognized by the Supreme
+          Court and made retroactively applicable to cases on collateral review; or
+
+          (4) the date on which the facts supporting the claim or claims
+          presented could have been discovered through the exercise of due
+          diligence.
+
+
+
+
+                                             2
+Case 2:16-cr-00070-JDL Document 66 Filed 02/22/21 Page 3 of 11                PageID #: 331
+
+
+
+
+When there are multiple claims at issue, “the period of limitation in 28 U.S.C. § 2255(f)
+
+should be applied on a claim-by-claim basis.” Capozzi v. United States, 768 F.3d 32, 33
+
+(1st Cir. 2014).
+
+       Petitioner does not allege, nor does the record reflect, that the Government imposed
+
+an impediment to a timely filing; Petitioner’s ineffective assistance of counsel claims do
+
+not rely on a right newly-recognized by the Supreme Court and made retroactively
+
+applicable to cases on collateral review; and Petitioner does not allege newly-discovered
+
+facts in support of his section 2255 claims. Because paragraphs (2), (3), and (4) do not
+
+apply to the ineffective assistance claims, therefore, the limitations period for those claims
+
+began to run when Petitioner’s judgment of conviction became final.
+
+       The Court entered Petitioner’s judgment of conviction on November 17, 2016.
+
+(Judgment, ECF No. 28.) Because Petitioner did not appeal, the judgment became final
+
+after his fourteen-day period for filing an appeal expired on December 1, 2016. See Fed. R.
+
+App. P. 4(b)(1)(A); Martinez-Serrano v. United States, No. CIV. 11-1077 JAF, 2012 WL
+
+6016663, at *1 (D.P.R. Nov. 30, 2012) (“Neither the Supreme Court nor the First Circuit,
+
+to our knowledge, has decided when an unappealed federal criminal conviction becomes
+
+‘final’ for the purposes of § 2255(f)(1). All of the circuit courts that have answered this
+
+question, to our knowledge, have held that such a conviction becomes final when the time
+
+for filing an appeal expires”). The limitation period for filing a section 2255 motion to
+
+challenge the judgment expired one year later, on December 1, 2017. See Rogers v. United
+
+States, 180 F.3d 349, 355 n.13 (1st Cir. 1999) (“‘When a statute of limitations is measured
+
+in years, the last day for instituting the action is the anniversary date of the start of the
+
+                                              3
+Case 2:16-cr-00070-JDL Document 66 Filed 02/22/21 Page 4 of 11                                 PageID #: 332
+
+
+
+
+limitations period.’”) (quoting Ross v. Artuz, 150 F.3d 97, 103 (2d Cir. 1998)). Petitioner
+
+did not file his motion until June 21, 2020,1 more than two years after the limitations period
+
+expired.
+
+        Because Petitioner did not file the § 2255 motion within the applicable limitation
+
+period, and because equitable tolling does not apply,2 dismissal of the ineffective assistance
+
+claims is warranted.
+
+B.      Rehaif Claim
+
+        On June 21, 2019, the United States Supreme Court decided Rehaif v. United States,
+
+139 S. Ct. 2191 (2019). Under 18 U.S.C. § 922(g), it is unlawful for certain persons,
+
+including individuals with prior felony convictions, id. § 922(g)(1), to possess a firearm or
+
+ammunition. The statute contains three elements: (1) a status element (belonging to one of
+
+the listed categories of persons), (2) a possession element, and (3) a jurisdictional element
+
+
+
+1
+ Unlike ordinary civil cases, the filing date for § 2255 petitions is not determined by the date on which the
+Court receives the document; the filing date is governed by the prison mailbox rule:
+
+        A paper filed by an inmate confined in an institution is timely if deposited in the
+        institution’s internal mailing system on or before the last day for filing. If an institution
+        has a system designed for legal mail, the inmate must use that system to receive the benefit
+        of this rule. Timely filing may be shown by a declaration in compliance with 28 U.S.C.
+        §1746 or by a notarized statement, either of which must set forth the date of deposit and
+        state that first-class postage has been prepaid.
+
+Rule 3(d) of the Rules Governing Section 2255 Proceedings.
+2
+  “[T]he AEDPA statute of limitations defense is not jurisdictional” and “is subject to equitable tolling in
+appropriate cases.” Holland v. Florida, 560 U.S. 631, 645 (2010) (internal quotations omitted). “To obtain
+tolling . . . a petitioner bears a substantial burden to establish . . . that he exercised reasonable diligence in
+trying to preserve his rights but was prevented from timely filing by extraordinary circumstances.”
+Dominguez v. Duval, 527 F. App’x 38, 40 (1st Cir. 2013); see also Trapp v. Spencer, 479 F.3d 53, 61 (1st
+Cir. 2007) (discussing illustrative cases). “The diligence prong covers those affairs within the petitioner’s
+control, while the extraordinary-circumstances prong covers matters outside his control.” Blue v. Medeiros,
+913 F.3d 1, 8 (1st Cir. 2019). Petitioner does not allege any circumstances warranting equitable tolling.
+
+                                                        4
+Case 2:16-cr-00070-JDL Document 66 Filed 02/22/21 Page 5 of 11                             PageID #: 333
+
+
+
+
+(in or affecting commerce). Rehaif, 139 S. Ct. at 2196. Before 2019, courts interpreted
+
+“knowingly” in the penalty provision (§ 924(a)(2)) to apply only to the possession element,
+
+but under Rehaif, “knowingly” also applies to the status element. Id. “To convict a
+
+defendant, the Government therefore must show that the defendant knew he possessed a
+
+firearm and also that he knew he had the relevant status when he possessed it.” Id. at 2194.
+
+Because a guilty plea is not intelligently made when the defendant did not receive “real
+
+notice of the true nature of the charges,” if Petitioner could demonstrate that he, counsel,
+
+and the Court misunderstood the essential elements of a crime, his plea could be susceptible
+
+to a constitutional challenge. See Bousley v. United States, 523 U.S. 614, 618 (1998).3
+
+        A central issue is the retroactive application of Rehaif.                      In general, “new
+
+constitutional rules of criminal procedure will not be applicable to those cases which have
+
+become final before the new rules are announced.” Teague v. Lane, 489 U.S. 288, 310
+
+(1989). “Teague and its progeny recognize two categories of decisions that fall outside
+
+this general bar on retroactivity for procedural rules.” Welch v. United States, 136 S. Ct.
+
+1257, 1264 (2016). “First, new substantive rules generally apply retroactively. Second,
+
+
+
+3
+  I have construed Petitioner’s Rehaif arguments in his favor as a challenge to the voluntariness of the plea
+because his ineffective assistance characterization adds an additional impediment to obtaining
+postconviction relief. Subject to very narrow exceptions, when ineffective assistance of counsel is asserted,
+“a case decided after a petitioner’s conviction and sentence became final may not be the predicate for federal
+habeas corpus relief unless the decision was dictated by precedent existing when the judgment in question
+became final.” See Stringer v. Black, 503 U.S. 222, 227 (1992); see also, Powell v. United States, 430 F.3d
+490, 491 (1st Cir. 2005) (“Advocating changes in recent precedent may occasionally be required of
+competent counsel, but it would take unusual circumstances”) (citing Kornahrens v. Evatt, 66 F.3d 1350,
+1360 (4th Cir.1995) (“the case law is clear that an attorney’s assistance is not rendered ineffective because
+he failed to anticipate a new rule of law”)); United States v. Ardley, 273 F.3d 991, 993 (11th Cir. 2001)
+(“we have a wall of . . . precedent that shuts out any contention that an attorney’s failure to anticipate a
+change in the law constitutes ineffective assistance of counsel”); Cooks v. United States, 461 F.2d 530, 532
+(5th Cir. 1972) (“Clairvoyance is not a required attribute of effective representation . . .”).
+
+                                                      5
+Case 2:16-cr-00070-JDL Document 66 Filed 02/22/21 Page 6 of 11                PageID #: 334
+
+
+
+
+new watershed rules of criminal procedure, which are procedural rules implicating the
+
+fundamental fairness and accuracy of the criminal proceeding, will also have retroactive
+
+effect.” Id. (citations, quotations, and modifications omitted).
+
+       The exception for new watershed rules of procedure is “extremely narrow,” and the
+
+sole example has been the right to counsel recognized in Gideon v. Wainwright, 372 U.S.
+
+335 (1963). See Whorton v. Bockting, 549 U.S. 406, 417–19 (2007). The exception for
+
+substantive rules “includes decisions that narrow the scope of a criminal statute by
+
+interpreting its terms, as well as constitutional determinations that place particular conduct
+
+or persons covered by the statute beyond the State’s power to punish.”             Schriro v.
+
+Summerlin, 542 U.S. 348, 351–52 (2004) (citations omitted). Because Rehaif more
+
+narrowly interpreted the scope of a federal criminal statute, it is not subject to the Teague
+
+rule against retroactivity.
+
+       Even though Rehaif “is not Teague-barred” and therefore can potentially apply on
+
+postconviction review, “there are nonetheless significant . . . hurdles” that a petitioner
+
+might have to overcome. Bousley, 523 U.S. at 621. In general, a claim that was not raised
+
+on appeal is procedurally defaulted. Massaro v. United States, 538 U.S. 500, 504 (2003)
+
+(citing Frady, 456 U.S. at 167–68; Bousley, 523 U.S. at 621–22). “A prisoner may obtain
+
+federal review of a defaulted claim by showing cause for the default and prejudice from a
+
+violation of federal law,” Martinez v. Ryan, 566 U.S. 1, 10 (2012), or by showing that a
+
+miscarriage of justice would occur because, “in light of new evidence, it is more likely than
+
+not” that the petitioner is actually innocent of the crime. House v. Bell, 547 U.S. 518, 536–
+
+39 (2006) (quotation omitted).
+
+                                              6
+Case 2:16-cr-00070-JDL Document 66 Filed 02/22/21 Page 7 of 11                  PageID #: 335
+
+
+
+
+       “[T]he existence of cause for a procedural default must ordinarily turn on whether
+
+the prisoner can show that some objective factor external to the defense impeded” the
+
+ability to comply with the procedural rule. Murray v. Carrier, 477 U.S. 478, 488 (1986).
+
+This can occur if government interference made compliance impractical, see id., or if there
+
+was constitutionally ineffective assistance of counsel, see Coleman v. Thompson, 501 U.S.
+
+722, 752–53 (1991). Furthermore, if a claim “is so novel that its legal basis is not
+
+reasonably available to counsel, a defendant has cause for [the] failure to raise the
+
+claim . . . .” Reed v. Ross, 468 U.S. 1, 16 (1984). A petitioner cannot establish that a claim
+
+was “not reasonably available to counsel” just because of the perception that “a claim was
+
+unacceptable to that particular court at that particular time,” see Bousley, 523 U.S. at 622–
+
+23, but a claim is deemed unavailable when it results from a “clear break with the past” in
+
+a new Supreme Court case:
+
+       First, a decision of this Court may explicitly overrule one of our precedents.
+       Second, a decision may overturn a longstanding and widespread practice to
+       which this Court has not spoken, but which a near-unanimous body of lower
+       court authority has expressly approved. And, finally, a decision may
+       disapprove a practice this Court arguably has sanctioned in prior cases.
+
+Ross, 468 U.S. at 17 (citations, quotations, and modifications omitted). While it “present[s]
+
+a more difficult question” when a claim implicates the third category, “[b]y definition,
+
+when a case falling into one of the first two categories is given retroactive application, there
+
+will almost certainly have been no reasonable basis upon which an attorney previously
+
+could have urged a . . . court to adopt the position that this Court has ultimately adopted.”
+
+Id.
+
+
+
+                                               7
+Case 2:16-cr-00070-JDL Document 66 Filed 02/22/21 Page 8 of 11                                PageID #: 336
+
+
+
+
+        Because the Supreme Court “overturn[ed] the long-established interpretation” of §
+
+922(g), which was “used in thousands of cases for more than 30 years,” and on which the
+
+circuit courts were unanimous, see Rehaif, 139 S. Ct. at 2201 (Alito, J. dissenting),
+
+Petitioner’s procedural default falls within the second Ross category.4 For that reason, the
+
+knowledge-of-status issue was not reasonably available to Petitioner’s attorney before the
+
+district court or on appeal. Cause thus exists to excuse that procedural default.
+
+
+
+
+4
+  Some courts have questioned the continued applicability of the second Ross category after the Bousley
+Court rejected the argument that futility can constitute cause for a procedural default, while noting that the
+issue in the case was not novel because it was raised (and rejected) in many other cases. See e.g., Simpson
+v. Matesanz, 175 F.3d 200, 212 (1st Cir. 1999); United States v. Moss, 252 F.3d 993, 1002 (8th Cir. 2001);
+Richardson v. Lemke, 745 F.3d 258, 274 (7th Cir. 2014). The First Circuit also noted that strict rejection
+of futility as cause for a procedural default could “encourage[ ] litigants to raise over and over issues
+seemingly already settled in the circuit.” Brache v. United States, 165 F.3d 99, 103 (1st Cir. 1999). The
+Government, citing Bousley, argues that the claim was available because defendants in other cases raised
+the issue. More recently, the First Circuit reaffirmed that the Ross standard governed a court’s assessment
+whether a claim was unavailable. See Lassend v. United States, 898 F.3d 115, 122 (1st Cir. 2018). At least
+one other circuit court has interpreted Bousley‘s rejection of futility arguments somewhat narrowly. See
+Gutierrez v. Smith, 702 F.3d 103, 111–12 (2d Cir. 2012) (“futility may constitute cause where prior state
+case law has consistently rejected a particular constitutional claim. Futility, however, cannot constitute
+cause if it means simply that a claim was unacceptable to that particular court at that particular time”) (citing
+Bousley) (citation and quotation marks omitted).
+
+Given that Rehaif falls within the second Ross category, the Government’s “availability” arguments and
+the cases accepting similar arguments are unpersuasive. See e.g., United States v. Bryant, No. 11 CR 765
+(RJD), 2020 WL 353424, at *3 (E.D.N.Y. Jan. 21, 2020) (citing cases in previous decades for conclusion
+that the knowledge-of-status argument was actually litigated and thus available, but not addressing second
+Ross category or the unanimity of contrary circuit authority). In other words, even if some defendants
+raised the issue before Rehaif, that alone does not prove the knowledge-of-status argument was reasonably
+available in the face of widespread and longstanding contrary authority at the time of Petitioner’s guilty
+plea. Although the Court in Bousley cited as evidence for an argument’s availability the fact that other
+defendants had raised the argument, Bousley’s reasoning is distinguishable because in that case the lower
+authority was more contemporaneous and involved a circuit split, not broad and longstanding authority
+supporting the same principle. See United States v. Lowe, No. 214CR00004JADVCF, 2020 WL 2200852,
+at *2 (D. Nev. May 6, 2020) (“[Petitioner] can demonstrate cause because the legal basis for his challenge
+was not reasonably available in light of the broad consensus among the circuit courts before Rehaif”).
+Furthermore, the Court in Bousley cited Ross without any suggestion that its reasoning was inconsistent
+with or was intended to overrule the second exemplar category of unavailable claims set forth in Ross.
+
+
+                                                       8
+Case 2:16-cr-00070-JDL Document 66 Filed 02/22/21 Page 9 of 11                            PageID #: 337
+
+
+
+
+        To establish prejudice from the asserted violation of federal law, a petitioner must
+
+show “a reasonable probability that, but for [the] errors, the result of the proceeding would
+
+have been different.” Lee v. United States, 137 S. Ct. 1958, 1964 (2017) (citing Strickland)
+
+(internal quotation omitted). A petitioner “must shoulder the burden of showing, not
+
+merely that the errors at his trial created a possibility of prejudice, but that they worked to
+
+his actual and substantial disadvantage, infecting his entire trial with error of constitutional
+
+dimensions.” Frady, 456 U.S. at 170. In the context of a guilty plea, to establish prejudice,
+
+the petitioner “must show that there is a reasonable probability that, but for [the] errors, he
+
+would not have pleaded guilty and would have insisted on going to trial.” Hill v. Lockhart,
+
+474 U.S. 52, 59 (1985); see also Lee, 137 S. Ct. at 1964.5
+
+        Petitioner had at least two prior convictions punishable by more than one year in
+
+prison, one of which was for possession of a weapon as a prohibited person. (Indictment,
+
+ECF No. 1; Revised Presentence Investigation Report (PSR) ¶¶ 29–35.) Petitioner used a
+
+straw purchaser to obtain the firearm at issue in this case, which reflects that he not only
+
+knew he had a prior felony conviction, but also that he knew he was prohibited from
+
+directly obtaining a firearm himself. (See PSR ¶ 5.) Furthermore, Petitioner does not
+
+allege that he lacked knowledge of his prior convictions punishable by more than one year
+
+in prison. Instead, Petitioner argues that he is not required to establish prejudice because
+
+Rehaif errors allegedly constitute structural error. That argument fails, however, because
+
+
+5
+  Lee and Hill referred to prejudice in the context of an ineffective assistance of counsel claim, not in the
+context of a procedural default, but there does not appear to be a meaningful difference between the two
+postconviction prejudice inquiries. See Lynch v. Ficco, 438 F.3d 35, 49 (1st Cir. 2006) (“if a habeas
+petitioner can meet the prejudice standard needed to establish ineffective assistance under Strickland, then
+the prejudice standard under the ‘cause and prejudice’ showing to excuse a procedural default is also met”).
+
+                                                     9
+Case 2:16-cr-00070-JDL Document 66 Filed 02/22/21 Page 10 of 11                              PageID #: 338
+
+
+
+
+it relies on unpersuasive out-of-circuit authority that differs from binding First Circuit
+
+authority and because that argument confuses the postconviction standard of review with
+
+standards of review on direct appeal. See Macarthur v. United States, No. 1:12-CR-00084-
+
+JAW, 2020 WL 7079134, at *15 (D. Me. Dec. 3, 2020); Brake v. United States, No. 2:13-
+
+CR-00160-GZS, 2021 WL 388439, at *5–6 (D. Me. Feb. 3, 2021).
+
+        Given the evidence of Petitioner’s prior convictions and knowledge at the time of
+
+the firearm possession, there is no reasonable probability that a statement at or prior to
+
+Petitioner’s plea informing him of the knowledge-of-status element under Rehaif would
+
+have significantly impacted Petitioner’s decision to go to trial or plead guilty. There is also
+
+no suggestion that Petitioner was prejudiced in any other way, including at sentencing.
+
+Accordingly, Petitioner was not prejudiced as a result of any Rehaif-related issue or error,6
+
+and thus Petitioner is not entitled to postconviction relief.
+
+                                              CONCLUSION
+
+        Based on the foregoing analysis, I recommend that the Court dismiss Petitioner’s
+
+motion for habeas relief under 28 U.S.C. § 2255. I further recommend that the Court deny
+
+a certificate of appealability pursuant to Rule 11 of the Rules Governing Section 2255
+
+Cases because there is no substantial showing of the denial of a constitutional right within
+
+the meaning of 28 U.S.C. § 2253(c)(2).
+
+
+
+
+6
+  For the same reason, Petitioner cannot prevail on a claim based on actual innocence. While a narrowed
+interpretation of a criminal statute can create a situation where a defendant was actually innocent of the
+crime as properly interpreted, see Bousley, 523 U.S. at 624 (remanding for consideration of innocence in
+light of narrowed interpretation of statute), the record forecloses any likelihood of innocence in Petitioner’s
+case.
+
+                                                      10
+Case 2:16-cr-00070-JDL Document 66 Filed 02/22/21 Page 11 of 11                PageID #: 339
+
+
+
+
+                                         NOTICE
+
+             A party may file objections to those specified portions of a magistrate
+      judge’s report or proposed findings or recommended decisions entered
+      pursuant to 28 U.S.C. § 636(b)(1)(B) for which de novo review by the district
+      court is sought, together with a supporting memorandum, within fourteen
+      (14) days of being served with a copy thereof. A responsive memorandum
+      shall be filed within fourteen (14) days after the filing of the objection.
+
+             Failure to file a timely objection shall constitute a waiver of the right
+      to de novo review by the district court and to appeal the district court’s order.
+
+
+                                                  /s/ John C. Nivison
+                                                  U.S. Magistrate Judge
+
+Dated this 22nd day of February, 2021.
+
+
+
+
+                                             11
+

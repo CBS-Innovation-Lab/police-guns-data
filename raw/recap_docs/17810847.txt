@@ -1,0 +1,994 @@
+Case 1:11-cr-00124-S-PAS Document 51 Filed 11/05/13 Page 1 of 19 PageID #: 183
+
+
+
+                        UNITED STATES DISTRICT COURT
+                      FOR THE DISTRICT OF RHODE ISLAND
+
+___________________________________
+                                   )
+UNITED STATES OF AMERICA,          )
+                                   )
+     v.                            )                CR. No. 11-124 S
+                                   )
+JASON MITCHNER,                    )
+                                   )
+          Defendant.               )
+___________________________________)
+
+                               OPINION AND ORDER
+
+WILLIAM E. SMITH, United States District Judge.
+
+       Defendant     Jason    Mitchner    is    charged    with:         (1)   being   a
+
+felon in possession of firearms and ammunition, see 18 U.S.C. §§
+
+922(g)(1)      and   924(a)(2);    and    (2)    possession         of   cocaine   with
+
+intent    to   distribute     within     1,000   feet     of    a    school,    see    21
+
+U.S.C. §§ 841(a)(1), (b)(1)(C) and 860(a).                 (Indictment, ECF No.
+
+1.)      Now   before   the    Court   is    Mitchner’s        Motion     to   Suppress
+
+Evidence and Statements (“Motion to Suppress”) (ECF No. 42).
+
+For the reasons set forth below, that motion is DENIED.
+
+I.     Facts
+
+       On September 19, 2013, the Court held a hearing on the
+
+instant motion.         The first witness called to testify, and the
+
+only   one     possessing     firsthand     knowledge     of    the      investigation
+
+leading to Mitchner’s arrest and the search of his residence,
+Case 1:11-cr-00124-S-PAS Document 51 Filed 11/05/13 Page 2 of 19 PageID #: 184
+
+
+
+was Detective Martin Hames. 1             Detective Hames testified that he
+
+has    worked      for   the   Providence       Police    Department    (“PPD”)     for
+
+approximately        twelve    years,     and    has     worked   in   the   area   of
+
+narcotics and organized crime for more than eight years.                      During
+
+this       time,    Detective     Hames     has     investigated       hundreds     of
+
+narcotics cases and at least seventy-five cases involving guns.
+
+       Detective Hames’s involvement in the instant case began in
+
+early March 2011, when he and his partner, Detective John Bento,
+
+received information from a confidential informant (“CI”) that a
+
+man named “Jay” was selling cocaine out of a house on Gallatin
+
+       1
+       Having had the opportunity to observe Detective Hames at
+the hearing, this Court credits his testimony. Defense counsel
+attempted to impeach Hames by pointing out certain omissions
+from his search warrant affidavit, incident report, and witness
+statement. However, none of the omitted information was crucial
+to the two main issues in dispute:         (1) whether there was
+probable cause to support the search warrant for 108 Gallatin
+Street and (2) whether the Providence Police Department’s
+detention of Mitchner at the gas station constituted an arrest
+without probable cause.     See United States v. Jones, 187 F.3d
+210, 215 (1st Cir. 1999) (affirming the district court’s
+favorable credibility determination where “the points upon which
+the troopers’ testimony differed . . . generally were collateral
+facts not central to establishing whether the troopers had a
+reasonable suspicion that justified stopping the [vehicle],
+whether they had probable cause to arrest [the suspect], or
+whether they violated his Fourth or Fifth Amendment rights in
+the process”).
+     Similarly,    the    factual   discrepancies    between   the
+government’s    memorandum   and   Detective   Hames’s   testimony
+regarding Mitchner’s initial detention, while troubling, do not
+warrant discrediting Hames.      The Court accepts the Assistant
+United States Attorney’s explanation that, in drafting the
+memorandum, he drew certain unsupported “inferences” from what
+he had been told by the witness. (See Mot. to Suppress Hr’g Tr.
+82, Sept. 19, 2013.)
+
+                                            2
+Case 1:11-cr-00124-S-PAS Document 51 Filed 11/05/13 Page 3 of 19 PageID #: 185
+
+
+
+Street in Providence, Rhode Island.                 The CI described Jay as a
+
+tall,   heavy       set   black    male   with    dreadlocks.         The   CI    had    a
+
+criminal history and was assisting law enforcement in hopes of
+
+obtaining favorable treatment on charges pending against him.
+
+Detective Hames also testified that the CI had provided him with
+
+reliable information in the past.
+
+       After receiving this tip, Detective Hames searched the PPD
+
+database for individuals whose names begin with “Ja” and who
+
+live on Gallatin Street.             The search identified Jason Mitchner,
+
+residing at 108 Gallatin Street.                 Detective Hames confirmed this
+
+address by searching for Mitchner’s name in the Department of
+
+Corrections database.             As a result of these searches, Detective
+
+Hames obtained a photograph of Mitchner, which was a close match
+
+to the physical description provided by the CI.                       Later, the CI
+
+confirmed that the photograph depicted the person he knew as
+
+Jay.    Detective Hames also recognized Mitchner as someone he had
+
+attended      high    school      with.        Additionally,       Detective      Hames
+
+checked    Mitchner’s        criminal     history       and    discovered     multiple
+
+prior convictions.
+
+       Beginning      the    week    of   March     7,    2011,    the      PPD   began
+
+conducting     “sporadic       surveillance”       of    108   Gallatin     Street      to
+
+confirm that Mitchner was still living there.                     (Mot. to Suppress
+
+Hr’g    Tr.    8,    Sept.     19,   2013.)         During     this    surveillance,
+
+
+
+                                           3
+Case 1:11-cr-00124-S-PAS Document 51 Filed 11/05/13 Page 4 of 19 PageID #: 186
+
+
+
+Detective Hames observed Mitchner enter and exit the side door
+
+of the house.
+
+      Later   that   same    week,      detectives         decided    to   arrange    a
+
+controlled buy.       Detectives Hames and Bento met the CI at a
+
+prearranged location.        They searched the CI and his vehicle to
+
+ensure that he did not have any contraband.                     They also gave the
+
+CI money to complete the controlled buy.                       After the meeting,
+
+detectives    followed      the    CI    to       108   Gallatin     Street.     Upon
+
+arriving at that address, the CI waited in his vehicle for a few
+
+minutes until Mitchner pulled into the driveway.                        Mitchner and
+
+the CI exited their cars, had a brief conversation, and entered
+
+108   Gallatin   Street.          The   CI       emerged   a   few   minutes   later.
+
+Detectives followed the CI back to the prearranged location,
+
+where he handed Detective Hames a substance that later tested
+
+positive for the presence of cocaine.                   The CI said he purchased
+
+the substance from Jay.
+
+      Finally,    Detective         Hames         prepared     a     search    warrant
+
+application for 108 Gallatin Street.                    His affidavit in support
+
+of the warrant relates, with little detail, the CI’s tip that
+
+“Jay” was distributing cocaine from 108 Gallatin Street.                             It
+
+does not disclose the CI’s criminal history or his history of
+
+providing reliable information.                  Next, the affidavit describes
+
+detectives’ identification of “Jay” as Mitchner and the CI’s
+
+subsequent confirmation of that identification.                       It also states
+
+                                             4
+Case 1:11-cr-00124-S-PAS Document 51 Filed 11/05/13 Page 5 of 19 PageID #: 187
+
+
+
+that the Department of Corrections database listed Mitchner’s
+
+address as 108 Gallatin Street, and that Mitchner was observed
+
+at that address during subsequent surveillance.                           Finally, and
+
+most       significantly,    Detective       Hames’s          affidavit    relates      the
+
+circumstances of the controlled buy.                      The affidavit does not,
+
+however, indicate that Mitchner arrived at 108 Gallatin Street
+
+and interacted with the CI prior to the controlled buy.                            At the
+
+hearing on Defendant’s motion, Hames freely admitted that the
+
+affidavit does not contain every detail of the investigation.
+
+           On March 11, 2011, the state judge issued a warrant to
+
+search      108   Gallatin   Street     as       well    as   Mitchner’s       person   for
+
+“[n]arcotics,       firearms,      monies         and    goods     derived      from    the
+
+illegal sales of narcotics, as well as Paperwork [sic] showing
+
+bills and records as to the occupant of said dwelling, where
+
+proceeds of narcotics sales may be stored.” 2                    (Gov’t’s Ex. 1.)
+
+       Detectives     set    out   to   execute         the    warrant    on    March   16,
+
+2011.       They followed Mitchner to an industrial park in Cranston,
+
+Rhode Island and then back to Providence, where Mitchner pulled
+
+into a gas station.          Detectives Hames and Bento pulled their car
+
+behind      Mitchner’s.       Detective          Hames    exited    his    vehicle      and
+
+approached Mitchner, with at least two other officers present.
+
+
+       2
+       While Mitchner contends that the affidavit did not create
+probable cause to believe that evidence of a crime would be
+found at 108 Gallatin Street, he does not raise any argument
+regarding the scope of the warrant.
+                                             5
+Case 1:11-cr-00124-S-PAS Document 51 Filed 11/05/13 Page 6 of 19 PageID #: 188
+
+
+
+Detective Hames identified himself, showed his badge, and asked
+
+Mitchner if he remembered him from school.                          Detective Hames then
+
+told   Mitchner        that     the       PPD   had    a     search     warrant       for      his
+
+residence and asked if there was anything in the house they
+
+should know about.            Mitchner responded, “there might be a couple
+
+of   guns.”          (Mot.     to     Suppress        Hr’g    Tr.      17.)         During     his
+
+interactions         with     detectives,           Mitchner     was     “calm,       relaxed,
+
+cooperative,         [and]    very       respectful.”          (Id.)         At   this    point,
+
+detectives patted Mitchner down, handcuffed him, and placed him
+
+in the back of their vehicle.                   The government concedes that this
+
+constituted a de facto arrest.                  Once he was in the car, Mitchner
+
+asked Detective Hames not to break the door to the house down
+
+and offered to let detectives use his keys.
+
+       Detectives transported Mitchner to 108 Gallatin Street to
+
+execute    the       warrant.            Mitchner’s         demeanor     continued        to    be
+
+“calm,” “respectful,” and “relaxed.”                         (Id. at 22.)            Detectives
+
+Hames and Bento walked Mitchner into the kitchen, while the rest
+
+of the detectives searched the house.                           Within a few minutes,
+
+they   found     a    gun.          At   this   point,        Detective       Hames      advised
+
+Mitchner   of        his    Miranda       rights      and    asked     him     if    there     was
+
+anything   else       in     the    house.       Again,       Mitchner        indicated      that
+
+“there might be a couple of guns.”                           (Id. at 21.)           The search
+
+proceeded, and, ultimately, detectives recovered three firearms,
+
+
+
+                                                6
+Case 1:11-cr-00124-S-PAS Document 51 Filed 11/05/13 Page 7 of 19 PageID #: 189
+
+
+
+ammunition, narcotics, and bagging material, among other things.
+
+(See Gov’t’s Ex. 1.)
+
+       Upon     completion        of     the       search,     Mitchner         was        again
+
+relocated, this time to one of the interrogation rooms in the
+
+PPD station, where he was interviewed by Agent Wing Chau of the
+
+Bureau of Alcohol, Tobacco, Firearms and Explosives.
+
+II.    Discussion
+
+       Mitchner     seeks    to    suppress         all    evidence        seized     by    and
+
+statements given to law enforcement as a result of the search
+
+and arrest that occurred on March 16, 2011.                             He raises three
+
+arguments in support of his motion:                       (1) there was no probable
+
+cause   to     support     the    search       warrant;      (2)     the      detention         of
+
+Mitchner       at   the   gas     station      constituted         an    arrest       without
+
+probable cause; and (3) Mitchner’s statements to law enforcement
+
+were    involuntary       and     must    be       suppressed      as      fruit      of        the
+
+poisonous tree.           Each of these arguments will be addressed in
+
+turn.
+
+       A.     Probable Cause
+
+       Probable cause exists to support a search warrant where,
+
+“given all the circumstances set forth in the affidavit,” “there
+
+is a fair probability that contraband or evidence of a crime
+
+will be found in a particular place.”                        Illinois v. Gates, 462
+
+U.S.    213,     238   (1983).         Probable       cause     is      not    akin        to    a
+
+preponderance of the evidence standard.                      See Texas v. Brown, 460
+
+                                               7
+Case 1:11-cr-00124-S-PAS Document 51 Filed 11/05/13 Page 8 of 19 PageID #: 190
+
+
+
+U.S. 730, 742 (1983).          In reviewing a magistrate’s determination
+
+on this point, the Court must “ensure that the magistrate had a
+
+substantial basis for . . . conclud[ing] that probable cause
+
+existed.”     Gates,     462    U.S.   at    238-39   (internal     citation    and
+
+quotation marks omitted) (alteration in original).
+
+      Where information obtained from an informant serves as the
+
+basis for a probable cause determination, the First Circuit has
+
+identified    a     non-exhaustive      list   of     factors    for   courts   to
+
+consider:
+
+      (1) whether the affidavit establishes the probable
+      veracity and basis of knowledge of persons supplying
+      hearsay   information;   (2)  whether   an  informant’s
+      statements reflect firsthand knowledge; (3) whether
+      some or all [of] the informant’s factual statements
+      were corroborated wherever reasonable and practicable
+      (e.g., through police surveillance); and (4) whether a
+      law    enforcement    affiant   assessed,   from    his
+      professional standpoint, experience, and expertise,
+      the probable significance of the informant’s provided
+      information. Because [n]one of these factors is
+      indispensable, a stronger showing of supporting
+      evidence as to one or more factors may effectively
+      counterbalance a lesser showing as to others.
+
+United States v. Trinh, 665 F.3d 1, 10 (1st Cir. 2011) (internal
+
+citations     and     quotation        marks    omitted)        (alterations    in
+
+original).     The First Circuit has also made clear that “[t]he
+
+risk that the informant is lying or in error need not be wholly
+
+eliminated.       Rather, what is needed is that the probability of a
+
+lying or inaccurate informer has been sufficiently reduced by
+
+corroborative       facts   and   observations.”          United      States    v.
+
+
+                                         8
+Case 1:11-cr-00124-S-PAS Document 51 Filed 11/05/13 Page 9 of 19 PageID #: 191
+
+
+
+Khounsavanh,      113     F.3d     279,    284      (1st    Cir.      1997)        (internal
+
+citation and quotation marks omitted).
+
+      In the instant case, the affidavit presented to the state
+
+judge admittedly provided no information about the CI’s past
+
+reliability     or      basis      of     knowledge.             However,      detectives
+
+corroborated    this      tip     by    arranging     a    controlled         buy    at   108
+
+Gallatin     Street.             The    First       Circuit       has,        in     similar
+
+circumstances, found probable cause to support a search warrant.
+
+See United States v. Materas, 483 F.3d 27, 32 (1st Cir. 2007);
+
+Khounsavanh,      113     F.3d     at     285-86.          Contrary      to    Mitchner’s
+
+suggestions, the fact that the police did not actually observe
+
+the exchange is not determinative.                  See Khounsavanh, 113 F.3d at
+
+286 (noting that “the detective was able to watch the informant
+
+enter and leave the building through its front door, but did not
+
+follow the informant into the building and thus was unable to
+
+verify   with   certainty        which     apartment       was    the    source      of   the
+
+drugs (or even whether the drugs had been secreted elsewhere in
+
+the   building,      as    the     defendant        had    hypothesized)”).               The
+
+Khounsavanh court also squarely rejected Mitchner’s contention
+
+that the lack of information regarding the CI’s past reliability
+
+precludes a finding of probable cause.                           See id.           Here, the
+
+affidavit    states       that    detectives     observed         the    CI    enter      108
+
+Gallatin Street and emerge a few minutes later.                             Upon meeting
+
+the detectives at a prearranged location, the CI met up with
+
+                                            9
+Case 1:11-cr-00124-S-PAS Document 51 Filed 11/05/13 Page 10 of 19 PageID #: 192
+
+
+
+Michner, entered the house, and returned to meet with officers,
+
+then produced cocaine which he said was purchased from Mitchner.
+
+This information is sufficient to create probable cause.
+
+        Mitchner cites two First Circuit cases for the proposition
+
+that “[a] warrant application must demonstrate probable cause to
+
+believe that (1) a crime has been committed-the ‘commission’
+
+element,       and   (2)   enumerated     evidence   of   the   offense   will   be
+
+found     at    the    place    to   be    searched-the      so-called    ‘nexus’
+
+element.”       United States v. Ribeiro, 397 F.3d 43, 48 (1st Cir.
+
+2005) (quoting United States v. Feliz, 182 F.3d 82, 86 (1st Cir.
+
+1999)).        He proceeds to argue that the nexus element has not
+
+been satisfied here.           However, Ribeiro and Feliz are inapposite.
+
+Both of these cases involved warrant applications predicated on
+
+controlled buys occurring somewhere other than the place to be
+
+searched.       See Ribeiro, 397 F.3d at 45; Feliz, 182 F.3d at 84.
+
+Here, by contrast, the controlled buy occurred at 108 Gallatin
+
+Street, the same location that was the subject of the search
+
+warrant.        See United States v. Rodrigue, 560 F.3d 29, 34 (1st
+
+Cir. 2009) (distinguishing Feliz on the grounds that it involved
+
+a search “justified by a suspect’s connection to a place,” as
+
+opposed to a direct connection between the place to be searched
+
+and the suspected criminal activity).                In these circumstances,
+
+the nexus element was clearly satisfied.                  See Materas, 483 F.3d
+
+at 32 (“Common sense dictates that evidence of [the suspect’s]
+
+                                          10
+Case 1:11-cr-00124-S-PAS Document 51 Filed 11/05/13 Page 11 of 19 PageID #: 193
+
+
+
+possession could probably be found in the location where he sold
+
+drugs two days before.”).
+
+      Detective Hames’s affidavit is not remotely comparable to
+
+the type of conclusory document condemned by the Supreme Court
+
+in Nathanson v. United States, 290 U.S. 41 (1933).                  There, the
+
+Court held insufficient an agent’s statement that “he has cause
+
+to suspect and does believe” that certain contraband was at the
+
+premises to be searched.           Id. at 44.    In the present case, by
+
+contrast, the affidavit set out sufficient facts, namely the
+
+circumstances of the controlled buy, from which the state judge
+
+could make an independent probable cause determination.
+
+      Even assuming, for the sake of argument, that the state
+
+judge   incorrectly     found     probable   cause    to   search   the   house,
+
+Mitchner is not entitled to suppression.              This is because, “[i]n
+
+the ordinary case, an officer cannot be expected to question the
+
+magistrate’s probable-cause determination or his judgment that
+
+the   form   of   the   warrant    is   technically   sufficient.”        United
+
+States v. Leon, 468 U.S. 897, 921 (1984).              Thus, under the good
+
+faith exception to the exclusionary rule, suppression of the
+
+fruits of a search conducted pursuant to an invalid warrant is
+
+not required so long as the officer’s reliance on the warrant
+
+was “objectively reasonable.”           Id. at 922.    In the present case,
+
+it cannot fairly be said that the affidavit is “so lacking in
+
+indicia of probable cause as to render official belief in its
+
+                                        11
+Case 1:11-cr-00124-S-PAS Document 51 Filed 11/05/13 Page 12 of 19 PageID #: 194
+
+
+
+existence entirely unreasonable.”                 Id. at 923 (internal citation
+
+and quotation marks omitted).                  For this reason, suppression is
+
+inappropriate.
+
+      In    addition      to     generally       taking    issue   with    the    state
+
+judge’s probable cause determination, Mitchner also presents the
+
+“further concern” that the affidavit fails to mention the CI’s
+
+criminal        record   or    his    motivation     for    cooperating        with   the
+
+police.      (Mot. to Suppress 13.)              On this point, Mitchner cites
+
+United States v. Hall, 113 F.3d 157 (9th Cir. 1997).                       There, the
+
+Ninth Circuit, after a Franks hearing before the district court,
+
+held that suppression was required where an officer testifying
+
+at    the    search      warrant       hearing     deliberately      or    recklessly
+
+withheld an informant’s prior conviction for falsely reporting a
+
+crime.
+
+      As    a    preliminary         matter,   Mitchner     has    not    requested      a
+
+Franks      hearing      in    the     present     case.      Moreover,        Hall     is
+
+distinguishable in many significant respects.                       First, in Hall,
+
+outside of the informant’s testimony, there was no evidence to
+
+support a finding of probable cause.                       Id. at 158.         Here, by
+
+contrast, the police corroborated the information provided by
+
+the   CI    by    arranging      a    controlled    buy.      Second,     in    Hall,    a
+
+trooper was directly questioned under oath about the informant’s
+
+criminal history.             He listed many prior convictions, but failed
+
+to mention the conviction for false reporting.                           Id.     In the
+
+                                           12
+Case 1:11-cr-00124-S-PAS Document 51 Filed 11/05/13 Page 13 of 19 PageID #: 195
+
+
+
+present case, the affiant did not give oral testimony, and did
+
+not provide an incomplete answer to a direct question regarding
+
+the CI’s criminal history.                  In these circumstances, the non-
+
+disclosure is far less troubling.                  Third and finally, the nature
+
+of   the    undisclosed       prior       conviction     in     Hall       “suggested      the
+
+possibility        that    [the   informant]       would      lie    to     the   police   to
+
+frame      an   innocent     man.”        Id.     at   160.         Here,    by   contrast,
+
+Detective Hames testified that the CI’s prior convictions were
+
+for drug offenses.           See United States v. Adler, 152 F.3d 929, at
+
+*3   n.1    (9th    Cir.    1998)     (Table)      (distinguishing           Hall    on    the
+
+grounds that it “concern[ed] the omission of an informant’s past
+
+crimes that involved dishonesty”).                      In any event, Mitchner’s
+
+argument        fails   because     the    controlled         buy    was    sufficient     to
+
+establish        probable     cause,        notwithstanding           the     CI’s    prior
+
+convictions.        See United States v. Legault, 323 F. Supp. 2d 217,
+
+227 (D. Mass. 2004) (declining to hold a Franks hearing because
+
+the affiant’s omission of an informant’s criminal background and
+
+request for leniency “do not fatally undermine the affidavit’s
+
+showing of probable cause”).                Indeed, the fact that the CI was
+
+cooperating with police to obtain favorable treatment on charges
+
+pending against him would have bolstered, not diminished, his
+
+credibility.        See id. at 226-27 (citing cases).
+
+
+
+
+                                             13
+Case 1:11-cr-00124-S-PAS Document 51 Filed 11/05/13 Page 14 of 19 PageID #: 196
+
+
+
+      B.    Detention
+
+      Mitchner’s       next   argument        is    predicated      upon   the   Supreme
+
+Court’s recent decision in Bailey v. United States, 133 S. Ct.
+
+1031 (2013).          There, the Court held that detention incident to
+
+the execution of a search warrant is limited to “the immediate
+
+vicinity of the premises to be searched.”                        Id. at 1042.         The
+
+lawfulness       of     detentions       outside       this     limited      area     “is
+
+controlled by other standards, including, of course, a brief
+
+stop for questioning based on reasonable suspicion under Terry
+
+or an arrest based on probable cause.”                  Id.
+
+      The government does not attempt to justify the detention at
+
+issue here under Bailey.                Rather, it argues that detectives’
+
+initial    interactions       with      Mitchner      constituted      a   permissible
+
+Terry stop.       The First Circuit has explained that “[i]nteraction
+
+between law enforcement officials and citizens generally falls
+
+within three tiers of Fourth Amendment analysis, depending on
+
+the level of police intrusion into a person’s privacy”:                               (1)
+
+“interaction of such minimally intrusive nature that it does not
+
+trigger    the    protections      of    the       Fourth   Amendment”;      (2)    Terry
+
+stops; and (3) arrests.            United States v. Young, 105 F.3d 1, 5-6
+
+(1st Cir. 1997).            Here, detectives’ initial interactions with
+
+Mitchner     appear      to   fall      within       the    first    tier.         Police
+
+approached       Mitchner     at   a    gas    station,       informed     him   of   the
+
+outstanding search warrant, and asked him what was in the house.
+
+                                           14
+Case 1:11-cr-00124-S-PAS Document 51 Filed 11/05/13 Page 15 of 19 PageID #: 197
+
+
+
+It is far from clear that this conduct implicated the Fourth
+
+Amendment at all.           See id. at 6 (“Police may approach citizens
+
+in public spaces and ask them questions without triggering the
+
+protections of the Fourth Amendment.”).
+
+      However, the Court need not reach this issue because, even
+
+if detectives’ interactions with Mitchner constituted a seizure,
+
+it was a valid Terry stop, not a de facto arrest.                 Under Terry:
+
+      based   merely   on   a  reasonable   and   articulable
+      suspicion, a police officer may make a brief stop or
+      ‘seizure’ of an individual to investigate suspected
+      past or present criminal activity.      Such a seizure
+      will be upheld as constitutionally permissible so long
+      as it was justified at its inception, and, if so, . .
+      . the action taken was reasonably related in scope to
+      the circumstances which justified the interference.
+
+United States v. Acosta-Colon, 157 F.3d 9, 14 (1st Cir. 1998)
+
+(internal citation and quotation marks omitted) (alteration in
+
+original).      Here, the CI’s tip, corroborated by the subsequent
+
+controlled buy, clearly created reasonable suspicion sufficient
+
+to    support    a    Terry     stop.        Moreover,     the    detention      was
+
+significantly        less     intrusive      than     an    arrest.           “[A]n
+
+investigatory        stop    constitutes     a   de   facto      arrest   when     a
+
+reasonable man in the suspect’s position would have understood
+
+his situation . . . to be tantamount to being under arrest.”
+
+Id.    (internal citation and quotation marks omitted).                    During
+
+his brief initial communications with detectives, Mitchner was
+
+not handcuffed or otherwise detained, and it would have been
+
+
+                                        15
+Case 1:11-cr-00124-S-PAS Document 51 Filed 11/05/13 Page 16 of 19 PageID #: 198
+
+
+
+unreasonable for him to understand his situation as a de facto
+
+arrest. 3
+
+       After Mitchner told officers that there might be guns at
+
+the house, he was handcuffed and placed in the cruiser.                    At this
+
+point,       the     government     concedes    that      an   arrest    occurred.
+
+However, this arrest was supported by probable cause.                     In light
+
+of Detective Hames’s knowledge of Mitchner’s criminal record,
+
+Mitchner’s statement created probable cause to arrest him as a
+
+felon in possession of a firearm.              Separately, the CI’s tip and
+
+controlled buy created probable cause to arrest Mitchner on drug
+
+charges.          In this context, it is important to note that certain
+
+details omitted from the search warrant affidavit but known to
+
+the officers, most notably the CI’s past reliability and the
+
+fact       that    Mitchner   had   arrived    at   108    Gallatin     Street   and
+
+interacted with the CI immediately prior to the controlled buy,
+
+further support a finding of probable cause to arrest.                           See
+
+United States v. Perez, No. CR. 09-029 S, 2009 WL 3398488, at *5
+
+(D.R.I. Oct. 20, 2009) (“The information given by the CI, who
+
+had successfully worked with the ATF in the past, combined with
+
+
+       3
+        While Mitchner does not raise any Miranda argument, it is
+worth noting that he was not in custody when he made his first
+incriminating statement to police. See Jones, 187 F.3d at 217-
+18 (“The decisive issue in the custody inquiry is ‘whether there
+was a formal arrest or restraint on freedom of movement of the
+degree associated with a formal arrest.’” (quoting Stansbury v.
+California, 511 U.S. 318, 322 (1994)).      Mitchner’s subsequent
+statements to law enforcement were preceded by Miranda warnings.
+                                         16
+Case 1:11-cr-00124-S-PAS Document 51 Filed 11/05/13 Page 17 of 19 PageID #: 199
+
+
+
+the    information      obtained    from      the    controlled        buy,   furnished
+
+probable cause to believe that [the suspect] was trafficking in
+
+narcotics.”).
+
+       The fact that Detective Hames appears to have subjectively
+
+believed he was detaining Mitchner in order to facilitate the
+
+search of 108 Gallatin Street is not determinative.                           As Judge
+
+Tauro of the District of Massachusetts recently pointed out in a
+
+similar context, “[t]he Supreme Court has emphasized that the
+
+probable cause inquiry is objective.”                     United States v. Dixon,
+
+CRIM.A. 11-10218-JLT, 2013 WL 1821613, at *3 (D. Mass. Apr. 29,
+
+2013)    (citing      Devenpeck     v.    Alford,         543   U.S.    146   (2004)).
+
+Indeed, “[t]he fact that the officer does not have the state of
+
+mind    which    is   hypothecated       by   the   reasons     which     provide    the
+
+legal justification for the officer’s action does not invalidate
+
+the     action    taken     as     long       as    the    circumstances,        viewed
+
+objectively, justify that action.”                  Id. (quoting Devenpeck, 543
+
+U.S. at 153).         Judge Tauro rejected an argument based on Bailey,
+
+identical to the one raised here.                    He explained, “This court
+
+need not consider whether Defendant’s detention was justified as
+
+incident to execution of a search warrant because the officers
+
+had probable cause to arrest Defendant.”                        Id. at *4.          This
+
+analysis applies in the present case as well.
+
+
+
+
+                                          17
+Case 1:11-cr-00124-S-PAS Document 51 Filed 11/05/13 Page 18 of 19 PageID #: 200
+
+
+
+      C.      Mitchner’s Statements
+
+      Mitchner raises two arguments regarding his statements to
+
+law enforcement.           First, he claims that those statements must be
+
+suppressed because they were involuntary.                               “When charged with
+
+determining        whether      a    confession          was    voluntary,       an   inquiring
+
+court    must      sift    through      the        totality       of    the     circumstances,
+
+including       both      the    nature       of       the     police    activity     and     the
+
+defendant’s situation.”                United States v. Hughes, 640 F.3d 428,
+
+438   (1st    Cir.       2011).        Relevant          considerations          include      “the
+
+length and nature of the questioning, any promises or threats
+
+made,   and     any      deprivation         of    essentials          (e.g.,    food,   water,
+
+sleep, bathroom facilities) imposed upon the suspect,” as well
+
+as “an appraisal of the defendant’s attributes, such as his age,
+
+education, intelligence, and mental state.”                            Id.
+
+      In the present case, Mitchner challenges the voluntariness
+
+of his first two statements to law enforcement, made at the gas
+
+station      and    at    108       Gallatin       Street,       respectively.           At   the
+
+hearing,      he      expressly        waived          any      argument        regarding     the
+
+voluntariness of the statements he made to Agent Chau at the
+
+police station.            (See Mot. to Suppress Hr’g Tr. 1-2.)                               With
+
+respect to the two statements at issue, the facts elicited by
+
+the     government         are        more        than       sufficient         to    establish
+
+voluntariness.            Detectives’ interactions with Mitchner at the
+
+gas station were brief and cordial.                             Mitchner’s statements at
+
+                                                  18
+Case 1:11-cr-00124-S-PAS Document 51 Filed 11/05/13 Page 19 of 19 PageID #: 201
+
+
+
+108   Gallatin       Street    occurred    in    a   more     formal    environment.
+
+Mitchner was handcuffed at the kitchen table.                   However, Mitchner
+
+fails to allege that he was subject to any promises, threats, or
+
+deprivations.         According      to   the   government,     he     was   calm   and
+
+relaxed during all his interactions with the police.                         Finally,
+
+he    was   advised     of     his   constitutional         rights     before   being
+
+questioned.
+
+      Next,    Mitchner        contends     that     his    statements       must   be
+
+suppressed because they were obtained as a direct result of the
+
+illegal     arrest    and     search.     This     argument    fails    because,    as
+
+discussed above, both the search and the arrest complied with
+
+the Fourth Amendment.
+
+III. Conclusion
+
+      For the foregoing reasons, Defendant’s Motion to Suppress
+
+is DENIED.
+
+
+
+IT IS SO ORDERED.
+
+/s/ William E. Smith
+William E. Smith
+United States District Judge
+Date: November 5, 2013
+
+
+
+
+                                          19
+

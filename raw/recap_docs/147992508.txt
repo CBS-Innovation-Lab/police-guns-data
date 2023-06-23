@@ -1,0 +1,876 @@
+Case 1:15-cr-00040-JAW Document 849 Filed 10/07/20 Page 1 of 17          PageID #: 7608
+
+
+
+
+                        UNITED STATES DISTRICT COURT
+                             DISTRICT OF MAINE
+
+ JERMAINE MITCHELL,                      )
+                                         )
+              Petitioner,                )
+                                         )
+        v.                               )     No. 1:15-cr-00040-JAW-3
+                                         )     No. 1:19-cv-00184-JAW
+ UNITED STATES OF AMERICA,               )
+                                         )
+              Respondent.                )
+
+      ORDER DENYING PETITIONS FOR AMENDMENT UNDER FEDERAL
+      RULE OF CIVIL PROCEDURE 52 AND MOTIONS TO TAKE JUDICIAL
+                              NOTICE
+
+        A federal prisoner again presses his contention that the Controlled Substances
+
+ Act applies only to licensed professionals who are registered to manufacture,
+
+ distribute, and dispense controlled substances and not to anyone else. After the Court
+
+ affirmed a magistrate judge’s recommended decision denying his habeas corpus
+
+ petition, the petitioner asks the Court to amend its findings and take judicial notice
+
+ of asserted facts, including caselaw and legislative history. Because the petitioner
+
+ has not demonstrated that the Court erred and because judicial notice is
+
+ inappropriate and to the extent appropriate does not affect the Court’s affirmance,
+
+ the Court denies his motions.
+
+ I.     PROCEDURAL HISTORY
+
+        In February 2015, a grand jury indicted Jermaine Mitchell for conspiring to
+
+ distribute and possess with intent to distribute cocaine base in violation of 21 U.S.C.
+
+ § 841 and § 846. Indictment (ECF No. 3); Corrected Indictment (ECF No. 80). At the
+
+ conclusion of a six-day trial from June 20 to June 27, 2016, a federal jury found
+Case 1:15-cr-00040-JAW Document 849 Filed 10/07/20 Page 2 of 17          PageID #: 7609
+
+
+
+
+ Mr. Mitchell guilty as charged, that the conspiracy involved two hundred eighty
+
+ grams or more of cocaine base, and that Mr. Mitchell’s own conduct involved two
+
+ hundred eighty grams or more of cocaine base. Minute Entry (ECF No. 512); Jury
+
+ Verdict (ECF No. 520). On February 14, 2017, the Court sentenced Mr. Mitchell to
+
+ two hundred sixty months of imprisonment to be followed by five years of supervised
+
+ release. J. (ECF No. 691). On February 16, 2017, Mr. Mitchell appealed, and on
+
+ September 11, 2018, the First Circuit affirmed the conviction. United States v. Ocean,
+
+ 904 F.3d 25, 36-40 (1st Cir. 2018). Mr. Mitchell did not appeal his sentence. Id. at
+
+ 28, 35-40.
+
+       On April 24, 2019, Jermaine Mitchell filed a motion to vacate, set aside or
+
+ correct his sentence under 28 U.S.C. § 2255. Mot. Under 28 U.S.C. § 2255 to Vacate,
+
+ Set Aside, or Correct Sentence by a Person in Federal Custody (ECF No.764). The
+
+ United States Magistrate Judge filed with the Court on January 10, 2020, his
+
+ Recommended Decision, recommending the Court deny Mr. Mitchell’s 2255 motion.
+
+ Recommended Decision on 28 U.S.C. § 2255 Mot. (ECF No. 810) (Recommended
+
+ Decision). Mr. Mitchell filed his objection to the Recommended Decision on March 6,
+
+ 2020, Pet’r’s Resp. to U.S. Magistrate Judge’s Recommended Decision on 28 U.S.C. §
+
+ 2255 Mot. (ECF No. 814) (Pet’r’s Obj.), and the Government filed its response on April
+
+ 24, 2020. Gov’t’s Resp. to Pet’r’s Obj. to R. & R. (ECF No. 818). The Court affirmed
+
+ the Recommended Decision on May 19, 2020. Order Affirming the Recommended
+
+ Decision of the Magistrate Judge (ECF No. 819) (Order).
+
+
+
+
+                                           2
+Case 1:15-cr-00040-JAW Document 849 Filed 10/07/20 Page 3 of 17                         PageID #: 7610
+
+
+
+
+         On June 10, 2020, Mr. Mitchell filed a motion to amend its findings under
+
+ Federal Rule of Civil Procedure 52(b). 1               Pet. of Amendments Under Rule 52(b),
+
+ Fed.R.Civ.P. (ECF No. 828) (Pet’r’s First Mot. to Amend Findings). The Deputy Clerk
+
+ of Court docketed Mr. Mitchell’s motion as a motion for reconsideration under Rule
+
+ 59(e) on June 15, 2020. Id. On July 2, 2020, the Government responded. Gov’t’s
+
+ Resp. to Pet’r’s Pet. of Amendments (ECF No. 834) (Gov’t’s Resp. to Pet’r’s First Mot.
+
+ to Amend Findings). That same day, Mr. Mitchell sent a letter to the Clerk of Court
+
+ clarifying that he had brought his motion under Rule 52(b), not 59(e), which the
+
+ Deputy Clerk of Court docketed on July 8, 2020. 2 Letter to Clerk of Court (ECF No.
+
+ 837). In accordance with Mr. Mitchell’s request, the Court corrected the docket and
+
+ reset the periods for the Government’s response and Mr. Mitchell’s reply, treating the
+
+ motion not as a motion for reconsideration, but as a motion for findings of fact and
+
+ conclusions of law under Rule 52(b). Order Regarding Mot. for Pet. of Amendments
+
+ (ECF No. 838). In the order, the Court indicated that the Government was not
+
+ required to file a response beyond what it had already done. Id. On July 17, 2020,
+
+ Mr. Mitchell replied to the Government’s July 2, 2020 response. Pet’r’s Reply to the
+
+ “Gov’t’s Resp. to Pet’r’s Pet. of Amendments” (ECF No. 839) (Pet’r’s Reply to Gov’t’s
+
+ Resp. to Pet’r’s First Mot. to Amend Findings). On August 3, 2020, the Government
+
+ responded, stating that it “continues to rely on its pleadings submitted at ECF 834.”
+
+ Gov’t’s Resp. to Pet’r’s Notice at ECF 837 (ECF No. 842).
+
+
+ 1        Mr. Mitchell phrased his motion as a “petition,” but according to the plain text of Rule 52(b),
+ it is properly a motion. See FED. R. CIV. P. 52(b).
+ 2        Mr. Mitchell also requested that the Clerk of Court send him certain documents and the Clerk
+ complied with his request.
+
+                                                    3
+Case 1:15-cr-00040-JAW Document 849 Filed 10/07/20 Page 4 of 17             PageID #: 7611
+
+
+
+
+       On July 17, 2020, Mr. Mitchell filed a supplemental motion seeking an order
+
+ directing the magistrate judge to prepare findings of fact and conclusions of law,
+
+ pursuant to Federal Rule of Civil Procedure 52(a). Mot. Pursuant to Rule 52(a) of the
+
+ Federal Rules of Civil Procedure (ECF No. 840) (Pet’r’s Second Mot. to Amend
+
+ Findings). The Government responded on August 3, 2020. Gov’t’s Resp. to Pet’r’s Pet.
+
+ of Amendments Under Civil Rule 52(a) (ECF No. 843) (Gov’t’s Resp. to Pet’r’s Second
+
+ Mot. to Amend Findings). Mr. Mitchell filed a reply to the Government’s response on
+
+ August 17, 2020. Obj. to “Gov’t’s Resp. to Pet’r’s Pet. of Amendments Under Civil Rule
+
+ 52(a)” (ECF No. 845) (Pet’r’s Reply to Gov’t’s Resp. to Pet’r’s Second Mot. to Amend
+
+ Findings).
+
+       In addition to his motions regarding findings of fact, on July 21, 2020,
+
+ Mr. Mitchell moved for the Court to take judicial notice of several alleged adjudicative
+
+ facts. Request to Take Judicial Notice (ECF No. 841) (Pet’r’s First Mot. for Judicial
+
+ Notice). The Government responded in opposition on August 3, 2020. Gov’t’s Opp’n
+
+ to Pet’r’s Mot. for Judicial Notice (ECF No. 844) (Gov’t’s Opp’n to Pet’r’s First Mot. for
+
+ Judicial Notice).
+
+       On August 17, 2020, Mr. Mitchell once again moved for the Court to take
+
+ judicial notice.    Mot. for Judicial Notice (ECF No. 846) (Pet’r’s Second Mot. for
+
+ Judicial Notice). The Government responded on September 8, 2020. Gov’t’s Opp’n to
+
+ Pet’r’s Mot. for Judicial Notice (ECF No. 847) (Gov’t’s Opp’n to Pet’r’s Second Mot. for
+
+ Judicial Notice). On September 21, 2020, Mr. Mitchell replied to the Government’s
+
+
+
+
+                                             4
+Case 1:15-cr-00040-JAW Document 849 Filed 10/07/20 Page 5 of 17             PageID #: 7612
+
+
+
+
+ response. Opp’n to “Gov’t’s Opp’n to Pet’r’s Mot. for Judicial Notice” (ECF No. 848)
+
+ (Pet’r’s Reply to Gov’t’s Opp’n to Pet’r’s Second Mot. for Judicial Notice).
+
+ II.   PARTIES’ POSITIONS
+
+       A.     Jermaine Mitchell’s Motions to Amend Findings
+
+              1.     First Motion to Amend Findings
+
+       In his first motion, Mr. Mitchell puts forward two “points worthy of
+
+ correction/clarification” in the Court’s affirmance of the Recommended Decision.
+
+ Pet’r’s First Mot. to Amend Findings at 1. The first is that Mr. Mitchell “noted the
+
+ thrust of Magistrate [Judge] Nivison’s position to be BOTH the matters of procedural
+
+ default AND the question of the term ‘any person’ in 21 U.S.C. § 841” but the Court
+
+ discussed only the procedural default issue. Id. at 2 (capitalization and emphasis in
+
+ original). The second is that the Magistrate Judge was incorrect in his analysis of
+
+ Mr. Mitchell’s argument about the definition of “any person” in 21 U.S.C. § 841(a)(1).
+
+ Id. at 3-4. Mr. Mitchell claims that a “correct understanding of the general term ‘any
+
+ person’ must be gleaned from contextual scrutiny of its use in the law” and cites
+
+ several cases in support, concluding that the Magistrate Judge’s position is “based
+
+ upon his overly broad interpretation of the words ‘any person’ in section 841(a)(1).”
+
+ Id.
+
+       The Government’s response notes that Mr. Mitchell’s concerns are “easily
+
+ allayed” because the Court’s affirmance specifically adopted the reasoning of the
+
+ Magistrate Judge on all issues he decided and stated that they did not merit further
+
+ discussion. Gov’t’s Resp. to Pet’r’s First Mot. to Amend Findings at 1-2. “In light of
+
+
+
+                                             5
+Case 1:15-cr-00040-JAW Document 849 Filed 10/07/20 Page 6 of 17               PageID #: 7613
+
+
+
+
+ the Court’s clear statement of its de novo review and full adoption of the
+
+ recommended decision,” the Government contends that Mr. Mitchell’s requested
+
+ amendments are “not necessary and would ultimately be redundant to the findings
+
+ already made.” Id. at 2.
+
+        In his reply, Mr. Mitchell repeats his argument that “‘[a]ny person’ refers to
+
+ the ‘authorized registrant.’” Pet’r’s Reply to Gov’t’s Resp. to Pet’r’s First Mot. to Amend
+
+ Findings at 1. He contends that the Magistrate Judge’s Recommended Decision
+
+ included   “statements     of   incomplete   facts”   that   “appears   to   be   material
+
+ misrepresentations of fact,” and therefore “[t]he Record here is vague and incomplete
+
+ due to the informal Magistrate [Judge’s] Opinion adopted by this Court.” Id. at 1-2.
+
+               2.     Second Motion to Amend Findings
+
+        Mr. Mitchell filed a second motion seeking an order “directing the Magistrate
+
+ Judge to prepare a formal Finding of Fact and Conclusions of Law in this Matter that
+
+ conforms to the requirements of Rule 52(a), that are detailed enough to disclose the
+
+ steps by which the Magistrate [Judge] reached its ultimate conclusions on the factual
+
+ issues and Conclusions of Law.” Pet’r’s Second Mot. to Amend Findings at 1. He
+
+ claims this is necessary to allow the record to be complete to “[a]id the Appellate
+
+ Court” on review. Id. at 2. He argues the Magistrate Judge’s “informal opinion does
+
+ not state the proposed findings of fact and conclusions of law separately,” “leav[ing]
+
+ [Mr. Mitchell] confused and having to guess as to what factual findings and
+
+ conclusions of law w[ere] made and adopted by this Court.” Id. He specifically claims
+
+ the Magistrate Judge failed to cite any caselaw to support his conclusion. Id. at 3.
+
+
+
+                                              6
+Case 1:15-cr-00040-JAW Document 849 Filed 10/07/20 Page 7 of 17          PageID #: 7614
+
+
+
+
+       The Government responds by noting that the Magistrate Judge’s “Report and
+
+ Recommendation already has a separate sections for factual findings and legal
+
+ analysis” and argues that “[t]here is no additional requirement under Rule 52 that
+
+ each factual finding and conclusion of law be separately numbered, or any indication
+
+ that compiling findings and conclusions into separate sections in paragraph form
+
+ render those findings and conclusion somehow ‘informal.’” Gov’t’s Resp. to Pet’r’s
+
+ Second Mot. to Amend Findings at 1. The Government contends “the relevant facts
+
+ are that the defendant was indicted for and convicted of violations of Section 841” and
+
+ “[t]hose facts are fairly set forth in the ‘Factual Background’ on page 2 of the
+
+ recommended decision.” Id. While acknowledging that the Magistrate Judge did not
+
+ specifically note the performance of Mr. Mitchell’s counsel at trial “in the factual
+
+ portion of the Report and Recommendation,” the Government argues that the
+
+ Magistrate Judge’s Report and Recommendation “makes clear” that the ineffective
+
+ assistance of counsel claims are “irrelevant when the defendant’s legal claims fail on
+
+ the merits” and “the motions made or not made in this case are fairly reflected in the
+
+ record.” Id. at 2.
+
+       Mr. Mitchell’s reply states that his request is “for the purpose of clarity” and
+
+ argues the Magistrate Judge’s fact finding is “not consistent with the intent of
+
+ Congress, and his conclusion of law partly parrots Section 841” by omitting language
+
+ from 21 U.S.C. § 841. Pet’r’s Reply to Gov’t’s Resp. to Pet’r’s Second Mot. to Amend
+
+ Findings at 1. He asks that “if the Court decides not to refer the motion 2255 back
+
+ to the Magistrate [Judge] as previously requested,” the Court should issue a
+
+
+
+                                           7
+Case 1:15-cr-00040-JAW Document 849 Filed 10/07/20 Page 8 of 17          PageID #: 7615
+
+
+
+
+ memorandum decision to include:
+
+        1) A statement of the basis for subject matter jurisdiction;
+        2) A statement of the applicable law;
+        3) Subsidiary findings of fact, including a) an appendix containing full
+        subsidiary findings of fact b) a summary of those findings in the term of
+        a chronology of significant events; and
+        4) Evaluative findings (on mixed questions of law and fact)
+
+ Id. at 1-2.
+
+        B.     Jermaine Mitchell’s Motions for Judicial Notice
+
+               1.    First Motion for Judicial Notice
+
+        In addition to his motions to amend the findings, Mr. Mitchell moves under
+
+ Federal Rule of Evidence 201 for the opportunity to be heard on the propriety of
+
+ judicial notice. Pet’r’s First Mot. for Judicial Notice at 1. He specifically asks the
+
+ Court to take judicial notice that “[d]efining the term ‘any person’ must be gleaned
+
+ from contextual scrutiny of its use in the law and limited to the particular things or
+
+ person(s) described preceding the term (any person),” and requests judicial notice of
+
+ excerpts from two cases: United States v. Palmer, 16 U.S. (Wheat.) 610, 631-32 (1818)
+
+ and United States v. Katz, 271 U.S. 354, 362 (1926). Id. at 1-2.
+
+        The Government objects to Mr. Mitchell’s motion for judicial notice, arguing
+
+ that “[n]one of these are the type of adjudicative fact that is so easily determined as
+
+ to be appropriate for consideration under Federal Rule of Evidence 201.” Gov’t’s
+
+ Opp’n to Pet’r’s First Mot. for Judicial Notice at 1. Rather than adjudicative facts,
+
+ the Governments contends Mr. Mitchell’s proposed assertions “are not factual
+
+ assertions at all, but forms of disputed legislative assertions and legal analysis
+
+ [Mr. Mitchell] wishes the Court to adopt.” Id. Furthermore, the Government argues
+
+
+                                           8
+Case 1:15-cr-00040-JAW Document 849 Filed 10/07/20 Page 9 of 17             PageID #: 7616
+
+
+
+
+ the Magistrate Judge’s Recommended Decision, adopted by this Court, “specifically
+
+ rejected the legal arguments advanced in the proposed judicial notice” and “rejected
+
+ [Mr. Mitchell’s] prior request to take judicial notice of similar legal arguments.” Id.
+
+ at 1-2.
+
+                 2.    Second Motion for Judicial Notice
+
+           Mr. Mitchell again moved for the Court to take judicial notice of alleged
+
+ adjudicative facts, stating that under Federal Rule of Evidence 201(c)(2), a court
+
+ “must take judicial notice of an adjudicative fact that is not reasonably subject to
+
+ dispute when requested to do so by a party who supplies the court with the necessary
+
+ information.” Pet’r’s Second Mot. for Judicial Notice at 1. This time, he asks the
+
+ Court to take judicial notice of the following information: 1) “the legislative history of
+
+ the Controlled Substances Act of 1970;” 2) “the Controlled Substance Act of 1970 is a
+
+ healthcare law that regulates professional healthcare providers and employees . . .;”
+
+ 3) “Congress delegated to the Attorney General only the authority to promulgate
+
+ rules relating to ‘registration’ and ‘control’ of the manufacture, distribution, and
+
+ dispensing of controlled substances, and ‘for the efficient execution of his [statutory]
+
+ functions;’” 4) “the term ‘control’ under the (CSA) means ‘to add a . . . substance . . .
+
+ to a schedule.” Id. at 1-2. He cites “Federal Medical Policy,” 21 U.S.C. §§ 821 and
+
+ 871(b), and “Definitions under (CSA) § 802(5)” for support to establish the truth of
+
+ these facts. Id.
+
+           The Government objects to Mr. Mitchell’s motion, again arguing that “[n]one
+
+ of these are the type of adjudicative fact that is so easily determined as to be
+
+
+
+                                             9
+Case 1:15-cr-00040-JAW Document 849 Filed 10/07/20 Page 10 of 17            PageID #: 7617
+
+
+
+
+ appropriate for consideration under Federal Rule of Evidence 201.” Gov’t’s Opp’n to
+
+ Pet’r’s Second Mot. for Judicial Notice at 1. The Government again contends that
+
+ “these are not factual assertions at all, but forms of disputed legislative assertions
+
+ and legal analysis [Mr. Mitchell] wishes the Court to adopt.” Id.
+
+        Mr. Mitchell’s reply repeats his arguments and asserts that it is of “great
+
+ consequence” that the Court take notice of the statutes and legislative history of the
+
+ Controlled Substances Act. Pet’r’s Reply to Gov’t’s Opp’n to Pet’r’s Second Mot. for
+
+ Judicial Notice at 1. He argues that “statutes and legislative history are public
+
+ records and are factual matters that are incontrovertible.” Id.
+
+ III.   DISCUSSION
+
+        21 U.S.C. § 841(a)(1) states that “[e]xcept as authorized by this subchapter, it
+
+ shall be unlawful for any person knowingly or intentionally . . . to manufacture,
+
+ distribute, or dispense, or possess with intent to manufacture, distribute, or dispense
+
+ a controlled substance.” The crux of Mr. Mitchell’s argument is that the term “any
+
+ person” “refers to authorized persons that manufacture, distribute or dispense
+
+ controlled substance.” Pet’r’s First Mot. to Amend Findings at 5. In his earlier filings,
+
+ he pressed the contention that the Controlled Substances Act applies only to the
+
+ “class of medical, scientific and industrial licensed professionals.” Pet’r’s Obj. at 4.
+
+ In Mr. Mitchell’s view, “the Controlled Substance Act, following the Harrison Act,
+
+ intends to regulate the registrants of licensed professionals in Medicine, Science and
+
+ Industry.” Id. at 5. Mr. Mitchell now writes that “‘[a]ny person’ clearly is anyone
+
+ within the class of persons that § 841 addresses.” Pet’r’s First Mot. to Amend Findings
+
+
+
+                                            10
+Case 1:15-cr-00040-JAW Document 849 Filed 10/07/20 Page 11 of 17            PageID #: 7618
+
+
+
+
+ at 5. As he is not a licensed registrant, Mr. Mitchell argues that he is not “any person”
+
+ within the meaning of the statute and concludes that § 841 does not apply to him.
+
+ The motions here all stem from this argument.
+
+       A.     Motions to Amend Findings Under Rule 52
+
+       In his first motion to amend findings, Mr. Mitchell makes two main arguments
+
+ for why the Court should amend its order to expressly address: (1) whether the
+
+ Magistrate Judge erred in resting his recommendation on procedural default and in
+
+ failing to reach the merits of his argument, and (2) whether the Magistrate Judge
+
+ erred in failing to address his argument about the definition of “any person.”
+
+       With regard to Mr. Mitchell’s first point, as the Court stated in its affirmance
+
+ of the Magistrate Judge’s recommended decision, Mr. Mitchell is simply incorrect.
+
+ The Magistrate Judge did not base his recommended decision on procedural default.
+
+ Instead, the Magistrate Judge reached the merits of Mr. Mitchell’s substantive
+
+ argument and rejected it as “contrary to law.” Order at 2. The Court explained all of
+
+ this in its order affirming recommended decision. The Court specifically adopted the
+
+ findings and conclusions of the Magistrate Judge and because it agreed with them,
+
+ the Court stated it would “not address those portions of [Mr. Mitchell’s] objection,”
+
+ and then addressed the “procedural default” issue. Id. at 1.
+
+       Mr. Mitchell counters that he “noted the thrust of Magistrate [Judge] Nivison’s
+
+ position to be BOTH the matters of procedural default AND the question of the term
+
+ ‘any person’ in 21 U.S.C. § 841.”       Pet’r’s First Mot. to Amend Findings at 2
+
+
+
+
+                                            11
+Case 1:15-cr-00040-JAW Document 849 Filed 10/07/20 Page 12 of 17           PageID #: 7619
+
+
+
+
+ (capitalization and emphasis in original). The Court can do no better than quote its
+
+ order:
+
+          This is not correct. In his original habeas petition, Mr. Mitchell bases
+          his arguments about subject matter jurisdiction on the premise that the
+          Controlled Substances Act does not apply to him. Mot. Under 28 U.S.C.
+          § 2255 to Vacate, Set Aside, or Correct Sentence by a Person in Federal
+          Custody, Attach. 1 (ECF No. 764). The Magistrate Judge rejected this
+          assertion as contrary to law, and so rejected Mr. Mitchell’s arguments
+          related to subject matter jurisdiction. Recommended Decision on 28
+          U.S.C. § 2255 Mot. at 5 (ECF No. 810). The Magistrate Judge did not,
+          as Mr. Mitchell contends, state that Mr. Mitchell was foreclosed from
+          making jurisdictional arguments due to a procedural default.
+
+ Order at 2.
+
+          As to Mr. Mitchell’s second point, as the Court has stated, the Court reviewed
+
+ the record de novo and concurred with the Magistrate Judge’s view of Mr. Mitchell’s
+
+ arguments related to the definition of “any person” under 21 U.S.C. § 841. Id.
+
+ Nothing in Mr. Mitchell’s motion or its attachments convinces the Court this
+
+ conclusion was incorrect. See Perrier-Bilbo v. United States, 954 F.3d 413, 435 (1st
+
+ Cir. 2020) (“The purpose of Rules 52(b) and 59(e) is to allow the court to correct or
+
+ amend a judgment in the event of any manifest errors of law or newly discovered
+
+ evidence”).
+
+          The Court is also not persuaded by Mr. Mitchell’s request in his second motion
+
+ to direct the Magistrate Judge to prepare formal findings of fact and conclusions of
+
+ law, or alternatively, for this Court to issue a memorandum decision. The Magistrate
+
+ Judge accurately framed Mr. Mitchell’s argument that 21 U.S.C. § 841 “only applies
+
+ to registrants (i.e., physicians) and thus does not apply to him.” Recommended
+
+ Decision at 1. In the recommended decision, the Magistrate Judge described the
+
+                                            12
+Case 1:15-cr-00040-JAW Document 849 Filed 10/07/20 Page 13 of 17            PageID #: 7620
+
+
+
+
+ relevant factual background and procedural history—namely that Mr. Mitchell was
+
+ found guilty for conspiring to distribute and possess with intent to distribute cocaine
+
+ base in violation of 21 U.S.C. § 841 and § 846—and he addressed Mr. Mitchell’s legal
+
+ arguments, explaining why the term “any person” does not refer solely to registrants.
+
+ Id. at 2-7. There is no need for Mr. Mitchell to guess how the Magistrate Judge made
+
+ his decision because the Magistrate Judge’s reasoning is not only plain, but plainly
+
+ correct. The Court concludes that no further findings are necessary.
+
+       B.     Motions to Take Judicial Notice Under Rule 201
+
+       Federal Rule of Evidence Rule 201 provides in part:
+       (a) Scope. This rule governs judicial notice of an adjudicative fact only,
+           not a legislative fact.
+
+       (b) Kinds of Facts That May Be Judicially Noticed. The court may
+       judicially notice a fact that is not subject to reasonable dispute because
+       it:
+           (1) is generally known within the trial court’s territorial jurisdiction;
+               or
+           (2) can be accurately and readily determined from sources whose
+               accuracy cannot reasonably be questioned.
+
+ FED. R. EVID. 201.    Mr. Mitchell moves the Court to take judicial notice of the
+
+ following: 1) “[d]efining the term ‘any person’ must be gleaned from contextual
+
+ scrutiny of its use in the law and limited to the particular things or person(s)
+
+ described preceding the term (any person);” 2) excerpts from United States v. Palmer;
+
+ 3) excerpts from United States v. Katz; 4) “the legislative history of the Controlled
+
+ Substances Act of 1970;” 5) “the Controlled Substance Act of 1970 is a healthcare law
+
+ that regulates professional healthcare providers and employees . . .;” 6) “Congress
+
+ delegated to the Attorney General only the authority to promulgate rules relating to
+
+
+                                            13
+Case 1:15-cr-00040-JAW Document 849 Filed 10/07/20 Page 14 of 17               PageID #: 7621
+
+
+
+
+ ‘registration’ and ‘control’ of the manufacture, distribution, and dispensing of
+
+ controlled substances, and ‘for the efficient execution of his [statutory] functions;’”
+
+ 7) “the term ‘control’ under the (CSA) means ‘to add a . . . substance . . . to a schedule.’”
+
+        As a threshold matter, the Magistrate Judge already denied Mr. Mitchell’s
+
+ attempts to take judicial notice on similar issues because “the matters for which
+
+ [Mr. Mitchell] requests judicial notice are not adjudicative facts.” Recommended
+
+ Decision at 1 n.1; see Order Denying Mot. to Take Judicial Notice (ECF No. 811). To
+
+ the extent that any matters Mr. Mitchell now wishes the Court take judicial notice of
+
+ are new, his arguments have been waived by not previously raising them to the
+
+ Magistrate Judge. See Frank Martin Sons, Inc. v. John Deere Const. & Forestry Co.,
+
+ 542 F. Supp. 2d 101, 107 (D. Me. 2008) (“Parties must take before the magistrate, not
+
+ only their best shot but all of their shots”) (quoting Borden v. Sec’y of Health & Human
+
+ Servs., 836 F.2d 4, 6 (1st Cir. 1987)).
+
+        Nevertheless, as Mr. Mitchell is forcefully pressing this argument and as he
+
+ still faces a long period of incarceration, the Court specifically addresses his
+
+ contentions about judicial notice. First, regarding his request that the Court take
+
+ judicial notice of prior caselaw, Rule 201 does not apply to judicial authority. Recent
+
+ Past Pres. Network v. Latschar, 701 F. Supp. 2d 49, 55 (D.D.C. 2010) (“Rule 201
+
+ provides an avenue for the Court to take judicial notice of reasonably indisputable
+
+ adjudicative facts at any time. FED. R. EVID. 201. It is not clearly an appropriate
+
+ mechanism for acknowledging a persuasive authority, however”). Not surprisingly,
+
+ a judge is not required to take judicial notice of a judicial decision under Rule 201
+
+
+
+                                              14
+Case 1:15-cr-00040-JAW Document 849 Filed 10/07/20 Page 15 of 17             PageID #: 7622
+
+
+
+
+ because a judicial decision is a matter of law, not evidence. In 1972, the advisory
+
+ committee on the Rules of Evidence quoted Professor Morgan:
+
+       In determining the content or applicability of a rule of domestic law, the
+       judge is unrestricted in his investigation and conclusion. He may reject
+       the propositions of either party or of both parties. He may consult the
+       sources of pertinent data to which they refer, or he may refuse to do so.
+       He may make an independent search for persuasive data or rest content
+       with what he has or what the parties present . . .. [T]he parties do no
+       more than to assist; they control no part of the process.
+
+ FED. R. EVID. 201 advisory committee’s note to 1972 proposed rules (quoting Edmund
+
+ M. Morgan, Judicial Notice, 57 HARV. L. REV. 269, 270-71 (1944)). Thus, to review
+
+ Supreme Court precedent, the Court does not need to take judicial notice under Rule
+
+ 201 that the Supreme Court issued an opinion. Nothing prevents the Court from
+
+ reading and analyzing relevant Supreme Court and other caselaw. As Mr. Mitchell
+
+ requested, the Court reviewed both the Palmer and Katz citations and the Court
+
+ concludes that the cases Mr. Mitchell cites are unhelpful, as they merely support the
+
+ Court’s conclusion that judicial notice of legislative history is discretionary, and, as
+
+ the Court explains, it finds such notice inappropriate here.
+
+       Nevertheless, the Court specifically addresses Mr. Mitchell’s request that the
+
+ Court take judicial notice of legislative history. If a proponent presents a proper
+
+ predicate, there is authority that a court may take judicial notice of legislative
+
+ history. See Territory of Alaska v. Am. Can Co., 358 U.S. 224, 226-27 (1959) (taking
+
+ judicial notice of legislative history of the bill at issue); Anderson v. Holder, 673 F.3d
+
+ 1089, 1094 n.1 (9th Cir. 2012) (“Legislative history is properly a subject of judicial
+
+ notice”); Maine Ass’n of Retirees v. Board of Trustees of Maine Public Employees Ret.
+
+
+
+                                            15
+Case 1:15-cr-00040-JAW Document 849 Filed 10/07/20 Page 16 of 17            PageID #: 7623
+
+
+
+
+ Sys., 954 F. Supp. 2d 38, 40 n.1 (D. Me. 2013) (stating that legislative history “might
+
+ be considered a matter of judicial notice . . .”). The Court’s authority to take judicial
+
+ notice of legislative history is discretionary. See 1 WEINSTEIN’S FEDERAL EVIDENCE
+
+ § 201.52[3][a] (2d ed. 2020) (“Federal courts may, but are not required to, take judicial
+
+ notice of the legislative history of federal and state law and of municipal ordinances”).
+
+       The Court rejects Mr. Mitchell’s request that the Court take judicial notice of
+
+ legislative history because he has not properly presented the legislative history and,
+
+ in any event, the legislative history does not affect the Court’s decision for four
+
+ reasons. First, as noted earlier, Mr. Mitchell waived the issue by not raising it with
+
+ the Magistrate Judge. Second, to fit within Rule 201, a proponent must demonstrate
+
+ that the fact “can be accurately and readily determined from sources whose accuracy
+
+ cannot reasonably be questioned,” FED. R. EVID. 201(b)(2), and the proponent of the
+
+ fact to be judicially noticed has the burden of supplying the Court “with the necessary
+
+ information.” FED. R. EVID. 201(c)(2). Mr. Mitchell simply posits the legislative
+
+ history as fact and he fails to cite any authority for his request concerning legislative
+
+ history. The Court does not know where he has drawn his assertions of legislative
+
+ history. Third, Mr. Mitchell’s assertions of legislative history are facts “subject to
+
+ reasonable dispute” and not subject to judicial notice. FED. R. EVID. 201(b). Finally,
+
+ even if the Court were to take judicial notice of the legislative history proffered by
+
+ Mr. Mitchell, it makes no difference because even if the Controlled Substances Act
+
+ may have been undergirded by healthcare concerns, it does not mean that Congress
+
+ intended to affect only health care providers’ access to addictive substances and not
+
+
+
+                                            16
+Case 1:15-cr-00040-JAW Document 849 Filed 10/07/20 Page 17 of 17            PageID #: 7624
+
+
+
+
+ to limit and control the availability of highly addictive substances such as cocaine
+
+ base to the public at large. Congress is capable of enacting legislation with more than
+
+ one goal in mind.     Simply because in enacting the Controlled Substances Act,
+
+ Congress intended to regulate professional access to controlled substances does not
+
+ mean it did not also intend to restrict the access of people, like Mr. Mitchell, who
+
+ conspire with others to distribute controlled substances and to possess with the intent
+
+ to distribute controlled substances to members of the general public wholly outside
+
+ the regulatory framework for licensed professionals.
+
+       Accordingly, the Court concludes it is inappropriate to take judicial notice of
+
+ Mr. Mitchell’s proffered legislative history and declines to do so, but even if the Court
+
+ accepts his version of the legislative history of the Controlled Substances Act, the
+
+ legislative history would have no impact on the Court’s affirmance of the Magistrate
+
+ Judge’s recommended decision.
+
+ IV.   CONCLUSION
+
+       The Court DENIES Jermaine Mitchell’s Petition of Amendments Under Rule
+
+ 52(b), Fed.R.Civ.P. (ECF No. 828), his Motion Pursuant to Rule 52(a) of the Federal
+
+ Rules of Civil Procedure (ECF No. 840), his Request to Take Judicial Notice (ECF No.
+
+ 841) and his Motion for Judicial Notice (ECF No. 846).
+
+
+       SO ORDERED.
+
+                                          /s/ John A. Woodcock, Jr.
+                                          JOHN A. WOODCOCK, JR.
+                                          UNITED STATES DISTRICT JUDGE
+
+ Dated this 7th day of October, 2020
+
+                                            17
+

@@ -1,0 +1,1840 @@
+                  UNITED STATES DISTRICT COURT
+                    DISTRICT OF MASSACHUSETTS
+
+UNITED STATES OF AMERICA,       )
+                                )
+             v.                 )   Cr. No. 06-10416-MLW
+                                )
+ARNOLD ANDREWS,                 )
+     Defendant.                 )
+
+                       MEMORANDUM AND ORDER
+
+WOLF, D.J.                                           March 8, 2012
+
+     This memorandum is based on the transcript of the decision
+
+rendered orally on December 20, 2011, in which the court allowed
+
+the defendant's motion to suppress and motion to amend the motion
+
+to suppress. This memorandum adds some citations, clarifies some
+
+language, and refines some discussion.
+
+I. SUMMARY
+
+     I have reached the following conclusions concerning defendant
+
+Arnold Andrews' original motion to suppress and request to amend
+
+that motion.
+
+     The search warrant for 452 Kempton Street, New Bedford,
+
+Massachusetts, was validly issued. Andrews had a Fourth Amendment
+
+interest in that property. Pursuant to Michigan v. Summers, 452
+
+U.S. 692 (1981), Andrews' Fourth Amendment rights were not violated
+
+by his detention in connection with the search. Therefore, his
+
+statements at 452 Kempton Street are not subject to suppression for
+
+a Fourth Amendment violation. However, the government has not
+
+satisfied its burden of proving that the defendant's statements at
+
+
+                                1
+452 Kempton Street, made after guns were found, were voluntary.
+
+Therefore,      the   motion    to   suppress    those   statements      is   being
+
+allowed,       and    the    statements    are   being    excluded     from      the
+
+government's case-in-chief because the defendant's Fifth Amendment
+
+rights were violated.
+
+     Finally, I am also allowing the defendant's untimely motion to
+
+amend the motion to suppress because I find that the suppression
+
+motion    is    meritorious,     and   defense      counsel    might   be     deemed
+
+ineffective if the plain view issue was not raised and decided in
+
+these proceedings. Therefore, there is good cause to permit the
+
+late filing concerning the plain view issue. With regard to the
+
+merits, I find that the government has not proven that the plain
+
+view exception to the warrant requirement justified the seizure of
+
+certain    documents        during   the   search   of   452   Kempton      Street.
+
+Therefore, those documents are also being excluded.
+
+II. THE MOTION TO SUPPRESS ANDREWS' STATEMENTS
+
+     A. The Fourth Amendment
+
+     With regard to the Fourth Amendment issues, I find that
+
+Andrews had a Fourth Amendment interest in the apartment at 452
+
+Kempton Street, New Bedford, Massachusetts, on September 7, 2006.
+
+His September 27, 2007 affidavit in support of the motion to
+
+suppress states that he had lived there, that he still had a key,
+
+that he could come and go whenever he wanted, and that he stored
+
+certain items, like clothes, at 452 Kempton Street. Therefore,
+
+
+                                           2
+Andrews had a Fourth Amendment interest in the apartment and can
+
+seek suppression of the evidence seized there. See, e.g., United
+
+States v. Aguirre, 839 F.2d 854, 856-57 (1st Cir. 1988); United
+
+State v. Gomez, 770 F.2d 251, 254-55 (1st Cir. 1985).
+
+          1. Validity of Search Warrant
+
+     Contrary to the defendant's contention, I find that the search
+
+warrant was valid. The court reviews the validity of the warrant by
+
+examining whether there was a substantial basis for the magistrate
+
+judge's decision that there was probable cause for its issuance.
+
+See United States v. Dessesaure, 429 F.3d 359, 368 n.8 (1st Cir.
+
+2005). I find that, in this case, there was. The affidavit was
+
+based, in part, on information from a confidential informant. It
+
+provided the magistrate the information necessary to allow him to
+
+assess the informant's credibility. It stated that the New Bedford
+
+Police Department (the "NBPD") knew the informant. It disclosed his
+
+criminal record. It stated that the informant had previously
+
+provided information that led to an arrest and seizure of firearms
+
+and narcotics.
+
+     The affidavit provided the informant's description of the
+
+apartment, based on his personal knowledge. It also described
+
+firearms that the informant said he saw Andrews possess, at the
+
+apartment, within the preceding 72 hours. This was first-hand
+
+information linking illegal activity to the place to be searched,
+
+because Andrews was a felon and, under federal law, could not
+
+
+                                3
+lawfully possess a firearm. See United States v. Barnard, 299 F.3d
+
+90, 94 (1st Cir. 2002) (finding that the "first-hand details"
+
+provided by confidential informant about defendant's house and the
+
+types of guns possessed by defendant "provide some assurance of
+
+reliability"); United States v. Taylor, 985 F.2d 3, 6 (1st Cir.
+
+1993)    ("[T]he   affidavit    may   disclose      an   adequate   basis   for
+
+evaluating the informant's veracity through the very specificity
+
+and   detail   with   which    it   relates   the   informant's     first-hand
+
+description of the place to be searched or the items to be seized."
+
+(emphasis original)). In addition, as the affidavit stated, Andrews
+
+did not have a Firearm Identification Card ("FID card").
+
+        The informant described Andrews and there was information in
+
+the NBPD file that supported the conclusion that the person
+
+described was Andrews. The NBPD found that Andrews had prior
+
+firearms and narcotics convictions. Therefore, there was probable
+
+cause to support the issuance of a warrant. In addition, the
+
+officers were entitled to rely on it in good faith. See United
+
+States v. Leon, 468 U.S. 897, 926 (1984).
+
+             2. Seizure of Andrews
+
+        I also find that the seizure of Andrews did not violate his
+
+Fourth Amendment rights.
+
+                   (a) Legal Standards
+
+        The Fourth Amendment requires that any search or seizure be
+
+reasonable. See U.S. Const. amend. IV; Michigan v. Fisher, 130 S.
+
+
+                                       4
+Ct. 546, 548 (2009). A warrant is usually required to make a
+
+seizure   reasonable   and    warrantless          searches    and   seizures   are
+
+presumptively   unreasonable.         See    id.    However,    there   are     some
+
+exceptions to the warrant requirement. Summers, supra, provides the
+
+exception to the warrant requirement that is relevant in this case.
+
+     Summers involved a warrant for contraband, not for mere
+
+evidence of a crime. See 452 U.S. at 705, nn.20, 21; Leveto v.
+
+Lapina, 256 F.3d 156, 168 (3d Cir. 2001) (Alito, J.) (noting that
+
+the Summers Court did not decide whether the rule that "a warrant
+
+to search for contraband founded on probable cause implicitly
+
+carries with it the limited authority to detain the occupants of
+
+the premises while a proper search is conducted" applies if the
+
+warrant   authorizes   a     search    for    mere     evidence,     rather     than
+
+contraband). In Summers, the Supreme Court held that it might be
+
+reasonable to detain an occupant leaving the place to be searched
+
+in order to serve certain law enforcement interests. See 452 U.S.
+
+at 699-700. These interests include: (1) preventing the flight of
+
+a suspect; (2) protecting officers' safety; and (3) facilitating an
+
+orderly search. Id. at 702-703. The Supreme Court also specifically
+
+noted that a Summers detention was not likely to be exploited by
+
+the police officers to gain incriminating information. Id. at 701.
+
+     Therefore, the Supreme Court held in Summers that, for Fourth
+
+Amendment purposes, a warrant to search for contraband, founded on
+
+probable cause, implicitly provides the limited authority to detain
+
+
+                                        5
+the occupants of the premises while a proper search is conducted.
+
+Id. at 705. The Court did not decide whether this rule would apply
+
+if the warrant authorized only a search for evidence rather than
+
+contraband, if the detention was prolonged, or if other special
+
+circumstances existed. Id. at 705 nn.20, 21; see also Leveto, 256
+
+F.3d at 168 (noting these limitations on the Summers rule).
+
+      The Supreme Court amplified Summers in Muehler v. Mena, 544
+
+U.S. 93 (2005). There, the Court stated that, "[a]n officer's
+
+authority to detain incident to a search is categorical." Id. at
+
+98.   The   Court   also   found   that   the   government's   interest   in
+
+detaining and handcuffing an occupant is at its maximum when              the
+
+warrant authorizes the search for weapons possessed by a suspected
+
+gang member, which is the situation in the instant case. Id. at
+
+100. However, the Court also noted that the circumstances of a
+
+lawful detention, such as its extended duration, could cause the
+
+detention to become unreasonable. Id.
+
+      The Supreme Court again addressed a Summers detention in Los
+
+Angeles County, California v. Rettele, 550 U.S. 609 (2007). The
+
+Court wrote that, "[t]he test of reasonableness under the Fourth
+
+Amendment is an objective one." Id. at 614. It reiterated, however,
+
+that "special circumstances," such as "a prolonged detention,"
+
+might render a Summers seizure unreasonable. Id. at 615.
+
+      The holding in Rettele that the Summers test is one of
+
+objective reasonableness is consistent with the Supreme Court's
+
+
+                                      6
+decision in Brigham City, Utah v. Stuart, 547 U.S. 398 (2006). In
+
+Brigham   City,    the   Supreme   Court     held   that   "[a]n    action   is
+
+reasonable under the Fourth Amendment regardless of the individual
+
+officer's state of mind as long as the circumstances, viewed
+
+objectively,      justify   the    action.    The    officer's      subjective
+
+motivation is irrelevant." Id. at 404 (emphasis original) (internal
+
+citations omitted). Brigham City also explicitly distinguished
+
+administrative searches, stating:
+
+     As respondents note, we have held in the context of
+     programmatic searches conducted without individualized
+     suspicion - such as checkpoints that combat drunk driving
+     or drug trafficking - that an inquiry into programmatic
+     purpose is sometimes appropriate . . . . But this inquiry
+     is directed at ensuring that the purpose behind the
+     program is not ultimately indistinguishable from the
+     general interest in crime control. It has nothing to do
+     with discerning what is in the mind of the individual
+     officer conducting the search.
+
+Id. at 405 (internal quotations and citations omitted).
+
+     In   2009,    the   Supreme   Court   again    held   that    warrantless
+
+searches and seizures are generally to be evaluated for objective
+
+reasonableness. In Michigan v. Fisher, the Court held that:
+
+     The emergency aid exception [to the warrant requirement]
+     does not depend on the officer's subjective intent or the
+     seriousness of any crime they are investigating when the
+     emergency arises. It requires only an objectively
+     reasonable basis for believing that a person within the
+     house is in need of immediate aid.
+
+130 S. Ct. at 548 (internal quotations and citations omitted).
+
+     Therefore, in the foregoing cases, the Supreme Court answered
+
+the question left open in Whren v. United States, 517 U.S. 806, 813
+
+
+                                      7
+(1996), of whether a balancing test in which the subjective motives
+
+of officers are weighed, rather than an objective reasonableness
+
+test, is applicable to warrantless searches and seizures based on
+
+less than probable cause. The Court has held that objective
+
+reasonableness is the proper test.
+
+     The First Circuit precedents concerning Terry stops, which are
+
+a form of detentions based on less than probable cause, reflect the
+
+understanding that warrantless searches and seizures based on less
+
+than probable cause must be judged objectively, without regard to
+
+subjective motives. For example, the First Circuit wrote in Bolton
+
+v. Taylor that, "[w]hether a reasonable suspicion exists is treated
+
+as an objective inquiry; the actual motive or thought process of
+
+the officer is not plumbed." 367 F.3d 5, 7 (1st Cir. 2004).
+
+Similarly, in United States v. Ruidiaz, the First Circuit wrote
+
+that, "[r]easonableness in this context is a construct that must be
+
+judged according to objective criteria; it is not dependent on an
+
+individual officer's subjective motives." 529 F.3d 25, 29 (1st Cir.
+
+2008).
+
+     As the Tenth Circuit has explained, objective reasonableness
+
+is a lower standard than probable cause. For example, in United
+
+States v. Porter, the Tenth Circuit wrote, in addressing the
+
+emergency aid exception to the warrant requirement, that:
+
+     [The] test is twofold, whether (1) the officers have an
+     objectively reasonable basis to believe there is "medical
+     assistance needed . . . . or persons are in danger"; and
+     (2) "the manner and scope of the search is reasonable" .
+
+                                8
+      . . . Reasonable belief does not require absolute
+      certainty. The standard is more lenient than the probable
+      cause standard.
+
+594 F.3d 1251, 1258 (10th Cir. 2010) (internal citations omitted).
+
+Similarly, in United States v. Najar, the Tenth Circuit, again
+
+addressing the emergency aid exception, explained that in Brigham
+
+City the Supreme Court rejected the previous requirement of "some
+
+reasonable basis, approaching probable cause" to associate the
+
+emergency with the place to be searched. 451 F.3d 710, 718 (10th
+
+Cir. 2006). It wrote:
+
+      Neither did the Court require probable cause in this type
+      of exigent circumstances. Thus, our test is now twofold,
+      whether (1) the officers have an objectively reasonable
+      basis to believe there is an immediate need to protect
+      the lives or safety of themselves or others, and (2) the
+      manner and scope of the search is reasonable.
+
+Id.
+
+      Therefore, the proper test for determining whether a Summers
+
+detention was permissible in the instant case is whether, based on
+
+the proven facts and circumstances, the detention was objectively
+
+reasonable, and the officers' subjective intent should not be
+
+considered. If there is not an objectively reasonable basis for
+
+finding the existence of any of the law enforcement interests that
+
+justify the Summers exception to the warrant requirement, the
+
+exception does not apply. This is essentially the reasoning of
+
+United States v. Edwards, 103 F.3d 90 (10th Cir. 1996), a case
+
+decided in 1996 by the Tenth Circuit before the Supreme Court
+
+decided Mena, Rettele, and Brigham City.
+
+                                 9
+     As several courts have held, if there is an objectively
+
+reasonable basis for finding that one or more of the Summers law
+
+enforcement interests exist, the fact that, in contrast to Summers,
+
+the person was not detained as he left the premises to be searched,
+
+does not render his seizure unreasonable. See, e.g., United States
+
+v. Cochran, 939 F.2d 337, 338 (6th Cir. 1991); United States v.
+
+Head, 216 F. App'x 543, 546 (6th Cir. 2007); United States v.
+
+Cavazos, 288 F.3d 706, 712 (5th Cir. 2002).
+
+               (b) The Facts Relating to the Seizure of Andrews
+
+     A warrant was issued that authorized a search for "[a]ny and
+
+all firearms, ammunition, and ballistic related items. To include
+
+a .357 chrome revolver and a 22 caliber chrome handgun." Ex. 4. It
+
+authorized this search to occur at "452 Kempton Street in New
+
+Bedford, Massachusetts," and stated that the apartment at 452
+
+Kempton Street "is occupied by and/or in the possession of Arnold
+
+Andrews." Id. It also authorized the search for firearms "on the
+
+person or in the possession of Same as Above," evidently referring
+
+to Andrews, the only person named in the warrant. Id. The warrant
+
+further stated that, "[y]ou are also commanded to search any person
+
+present who may be found to have such property in his or her
+
+possession or under his or her control or to whom such property may
+
+have been delivered." Id.
+
+     The search warrant was executed on September 7, 2006, by
+
+officers of the NBPD and agents of the Bureau of Alcohol, Tobacco,
+
+
+                                10
+Firearms, and Explosives (the "ATF"). During the preceding month,
+
+one officer, then-NBPD Sergeant Paul Oliveira, had observed Andrews
+
+exiting the apartment at 452 Kempton Street on at least one
+
+occasion. NBPD Officer David Brown had also seen Andrews entering
+
+and exiting the apartment on at least one other occasion.
+
+     Sometime   before   2:00   p.m.   on   September   7,   2006,   NBPD
+
+Detectives Tyrone Jones and Kurt Dreher began surveillance of the
+
+apartment. Pursuant to standard policy, it was their intention to
+
+wait for Andrews to come to the apartment before executing the
+
+search warrant. They were parked in a lot approximately 50 yards
+
+from the apartment's front door. Within the United Front Project,
+
+the apartment is located in Building J. There are no spaces between
+
+the units in Building J, but each unit has its own front and rear
+
+entrance. From where Jones and Dreher were conducting surveillance,
+
+they could not see the rear of Building J. Therefore, they could
+
+not tell if a person emerging from behind Building J had exited a
+
+particular unit or whether the person had exited Building J at all.
+
+     Shortly after beginning surveillance, Jones observed Andrews
+
+emerge from behind Building J and enter a red car. Jones lost sight
+
+of the car, but was informed by radio that other NBPD officers had
+
+observed the car circle the block and let Andrews out on Chancery
+
+Street. Jones then observed Andrews return on foot to the front of
+
+Building J, converse briefly with several other men, separate from
+
+those men, and walk behind Building J. Jones and Dreher continued
+
+
+                                  11
+their surveillance until about 5:00 p.m., at which point they
+
+learned that Andrews had been detained by other officers. At no
+
+time on September 7, 2006, did Jones, Dreher, or any other NBPD or
+
+ATF officer observe Andrews enter or exit the apartment at 452
+
+Kempton Street before Andrews was handcuffed and transported there
+
+by the officers.
+
+     While Jones and Dreher were conducting surveillance, at about
+
+3:00 p.m., NBPD officers and ATF agents held an operations meeting
+
+in preparation for the execution of the search warrant. Their plan
+
+was to locate and detain Andrews away from the apartment before
+
+executing the search warrant. This plan was consistent with the
+
+NBPD's standard practice of seizing the target of a search warrant
+
+prior to executing the search, transporting the target to the
+
+premises to be searched, and keeping the target there for the
+
+duration of the search. One reason for this practice was the desire
+
+to attempt to question the target during the search, particularly
+
+if contraband was found. The officers, generally and in this case,
+
+hoped that the target would make an inculpatory statement linking
+
+himself to any contraband found.
+
+     There were, however, other reasons for the practice of waiting
+
+to detain the target, in this case Andrews, before executing the
+
+warrant or starting the search. One such purpose was protecting
+
+officer safety. The practice of the NBPD, employed by it and the
+
+ATF in this case, was intended, in part, to assure that the
+
+
+                                12
+defendant was not in an apartment where they had probable cause to
+
+believe there was a gun.
+
+     In addition, pursuant to their usual practice, the officers
+
+wanted to detain Andrews to ask if there was anyone else in the
+
+apartment, whether there were dogs in the apartment, and whether
+
+Andrews had a key which could facilitate the search. Facilitating
+
+the search was another purpose for the NBPD's general practice,
+
+which it followed in this case. More specifically, the officers
+
+wanted to ask Andrews if he had a key, which would facilitate
+
+getting into the apartment. The officers also wanted to ask Andrews
+
+if there were drugs or guns in the apartment, hoping that Andrews
+
+would make statements that would help them find contraband that
+
+might be hidden in the apartment and link him to it. Protecting
+
+officer safety and facilitating a search are two legitimate law
+
+enforcement purposes under Summers. See 452 U.S. at         702-703.     It
+
+has been proven that these purposes existed in this case.
+
+     Some   time   after   the   operations   meeting,   Brown   and   NBPD
+
+Detective Danny Amaral, having been dispatched to the corner of
+
+Cedar and Elm Streets, and having subsequently been relocated to a
+
+surveillance point closer to the 452 Kempton Street apartment,
+
+observed Andrews in a parking lot behind the apartment. Andrews was
+
+approximately half a block away from the rear of the apartment.
+
+Brown estimated that a person could run that distance in less than
+
+30 seconds. Amaral and Brown entered their vehicle, circled the
+
+
+                                    13
+block to enter the lot where they had observed Andrews, and
+
+observed him leaning on a car in the company of a man and a woman.
+
+The woman, later identified as Lizette Rivera, was in Andrews'
+
+arms. The officers did not detain or demand identification from
+
+either Rivera or the man, who remains unidentified. The officers
+
+were not concerned that Rivera or the unidentified man would
+
+interfere with the execution of the search warrant.
+
+      No   arrest    warrant   for   Andrews     was   sought    prior   to    the
+
+execution of the search warrant because there was not probable
+
+cause to arrest Andrews. However, when Amaral and Brown encountered
+
+Andrews, they informed him either that they "had a warrant for him
+
+and the apartment," Dec. 6, 2010 Tr. at 247, or that they "had a
+
+search warrant for him and his house," id. at 235, or that they
+
+"had a warrant for his arrest," Dec. 8, 2010 Tr. at 28. Amaral and
+
+Brown then handcuffed and pat-frisked Andrews for weapons. Amaral
+
+read Andrews his Miranda rights. Amaral then asked Andrews whether
+
+anybody was present in the apartment. Andrews replied that he did
+
+not live there, and that he had lived at 154 Eugenia Street for
+
+approximately one year. Andrews informed Amaral that the apartment
+
+at   452   Kempton   Street    was   currently    vacant   and    had    not   had
+
+electricity for approximately three weeks. Andrews also informed
+
+Amaral and Brown that he did not have keys to the apartment. Amaral
+
+then radioed this information to the other officers involved in
+
+executing the search warrant.
+
+
+                                       14
+      The search warrant was not executed until Andrews had been
+
+taken into custody. Amaral and Brown promptly transported Andrews
+
+to the apartment. He was brought inside, where the search was
+
+already under way. Jones testified that he believed the apartment
+
+appeared "lived-in." Dec. 6, 2010 Tr. at 162. It was furnished and
+
+contained photographs and clothes. There were fast food wrappers in
+
+the kitchen. A prompt search of Andrews' pockets led to the
+
+discovery of a cell phone, keys, and a marijuana cigarette or
+
+blunt. The marijuana was found within 10 to 15 minutes of Andrews'
+
+initial detention.
+
+      Andrews was then seated at a dining room table with his hands
+
+cuffed behind him. He remained in that position for the duration of
+
+the search. While seated and handcuffed, Andrews was shown a copy
+
+of the search warrant and read his Miranda rights. He stated that
+
+he   understood   those   rights.   At   some   point   he   said   that   the
+
+handcuffs were bothering him and they were loosened.
+
+                  (c) Analysis of the Fourth Amendment Issue
+
+      I find that the warrant in this case did not permit a general
+
+search of the defendant away from the premises, 452 Kempton Street,
+
+although the pat-frisk of him was reasonable. The Massachusetts
+
+Supreme Judicial Court decision in Commonwealth v. Santiago, 410
+
+Mass. 737, 741-742 (1991), and Professor LaFave indicate that, in
+
+the context of the language in the search warrant in this case, the
+
+officers were authorized by the warrant to search Andrews only at
+
+
+                                    15
+452 Kempton Street. See 2 LaFave, Search and Seizure, §4.9(a)
+
+("Sometimes   the   search   warrant    which   is   being   executed   will
+
+describe not only certain premises but also a person. There is no
+
+inherent defect in a single warrant which authorizes the search of
+
+a place and also a person, and thus a search of the named person
+
+when he is found at the place will be a valid search under the
+
+warrant.").
+
+     The warrant was for contraband, not for mere evidence of a
+
+crime. Andrews was a felon and known to be a felon. It was a
+
+federal crime for him to possess a gun. See 18 U.S.C. §922(g). In
+
+addition, he did not have an FID card. See M.G.L. c. 140, §129C.
+
+The search for guns at 452 Kempton Street was a search for
+
+contraband in the circumstances of this case.
+
+     It was objectively reasonable for the police officers to wait
+
+for Andrews to return before they executed the search warrant. They
+
+did not have the full manpower to conduct the search until about
+
+the time Andrews returned. Moreover, waiting for Andrews to return
+
+to the area of the apartment allowed the police officers to assure
+
+that he was not in the apartment, possibly with guns, which would
+
+have posed a danger to them. Waiting provided the police officers
+
+the opportunity to ask the defendant for keys to enter, which would
+
+have facilitated the search. Waiting for Andrews to return also
+
+assured that he would not return to the vicinity of the apartment,
+
+see that the search was in progress, and flee.
+
+
+                                   16
+     It was also objectively reasonable, under the circumstances,
+
+for the officers in the parking lot to frisk Andrews quickly for
+
+weapons in order to protect their own safety. See, e.g., Ruidiaz,
+
+529 F.3d at 33 ("Once an officer has formed a reasonable belief
+
+that a detained person may be armed and dangerous, a pat-down for
+
+protective purposes is, without more, deemed reasonably related in
+
+scope to the stop."). In addition, it was objectively reasonable to
+
+bring Andrews back to the apartment. Doing so promoted officer
+
+safety. The officers did not have probable cause to arrest Andrews
+
+in the parking lot. They had good reason to believe that a crowd
+
+would gather once the search started, and, in fact, a crowd did
+
+gather. It was safer for the police officers to have Andrews inside
+
+than out in the parking lot.
+
+     It was also objectively reasonable to bring Andrews to the
+
+apartment to provide an opportunity for him to facilitate the
+
+search by identifying where the guns could be found. It has also
+
+been proven that another important reason for returning Andrews to
+
+the apartment was the officers' desire to question him in the hope
+
+that he would say something incriminating. However, as explained
+
+earlier,   it   is   not   permissible   for   the   court   to   weigh   this
+
+subjective motive in deciding the objective reasonableness of the
+
+police officers' conduct. See Rettele, 550 U.S. at 615 ("The test
+
+of reasonableness under the Fourth Amendment is an objective
+
+one."); Brigham City, 547 U.S. at 405 ("An action is 'reasonable'
+
+
+                                    17
+under the Fourth Amendment regardless of the individual officer's
+
+state of mind as long as the circumstances, viewed objectively,
+
+justify   [the]   action.     The   officer's    subjective      motivation    is
+
+irrelevant.")     (emphasis     original)       (internal     quotations      and
+
+citations omitted).
+
+       The conduct in the apartment was also objectively reasonable.
+
+Handcuffing the defendant promoted officer safety. The cuffs were
+
+loosened when Andrews said he was uncomfortable. There was also the
+
+potential for Andrews to provide information to facilitate the
+
+search. This case, therefore, contrasts with Edwards, where the
+
+defendant was kept on the sidewalk and could not, therefore, have
+
+facilitated the search. See 103 F.3d at 91.
+
+       Once in the apartment, Andrews was promptly searched. A
+
+marijuana blunt was found during that search, within ten minutes of
+
+the    time   Andrews   was   first     detained.   As    the    parties    each
+
+acknowledge, finding the marijuana provided a basis for the police
+
+officers to arrest the defendant pursuant to Massachusetts General
+
+Law, Chapter 94C, §§34 and 41C.
+
+       It was also objectively reasonable for the officers not to
+
+take    Andrews   to    the   station    immediately     after    finding     the
+
+marijuana. Doing so would have diluted the manpower they had to
+
+secure the site and conduct the search. This, however, was not
+
+their actual motive. Their actual, primary motive was to try to
+
+prompt the defendant to make incriminating statements if firearms
+
+
+                                        18
+or other contraband were found.
+
+     The detention at the apartment was not unreasonably long. The
+
+firearms were found in a bedroom within 10 to 20 minutes of
+
+Andrews'   detention.   As   explained   below,   the   defendant   was
+
+questioned in a manner that violated the Fifth Amendment and then
+
+taken to the police station.
+
+     Cases consistent with this court's decision that Andrews'
+
+Fourth Amendment rights were not violated include Cochran, 939 F.2d
+
+at 338; United States v. Sanchez, 555 F.3d 910, 918 (10th Cir.
+
+2009); Head, 216 Fed App'x at 546; United States v. Sears, 139 F.
+
+App'x 162, 166 (11th Cir. 2005); Cavazos, 288 F.3d at 712; and
+
+United States v. Harris, No. Cr. 02-10240-GAO, 2004 WL 912809 at *1
+
+(D. Mass. Apr. 26, 2004).
+
+     In essence, the detention would have been unreasonable if no
+
+Summers objectives or law enforcement interests existed. Edwards is
+
+essentially a case in which no such interests were proven. See 103
+
+F.3d at 91. United States v. Reinholz is another such case. See 245
+
+F.3d 765, 778 (8th Cir. 2001).
+
+     It is possible that the Eighth Circuit's decision in United
+
+States v. Sherrill, 27 F.3d 344, 346 (8th Cir. 1994), is not
+
+consistent with the standards I have applied. However, Sherrill was
+
+decided in 1994, before the Supreme Court's decisions in Mena
+
+(2005) and Rettele (2007). In any event, to the extent that
+
+Sherrill is inconsistent with my reasoning, I respectfully do not
+
+
+                                  19
+find it persuasive.
+
+     B. The Fifth Amendment
+
+     The defendant's motion to suppress based on the contention
+
+that the defendant's statements were involuntary and, therefore,
+
+resulted   from   a   violation   of    his   Fifth   Amendment   rights   is
+
+meritorious. Accordingly, the statements are being excluded from
+
+the government's case-in-chief. See Oregon v. Elstad, 470 U.S. 298,
+
+307 (1985). They may be used on cross-examination to impeach the
+
+defendant. Id.
+
+           1. Legal Standards
+
+     The generally applicable standards concerning the alleged
+
+violation of Miranda rights are described in detail in my decision
+
+in United States v. Gonzalez, 719 F. Supp. 2d 167, 170-174 (D.
+
+Mass. 2010). Of decisive importance in this case is the principle
+
+that the government bears the burden of proof concerning a motion
+
+to suppress statements that a defendant asserts were made in
+
+violation of his Miranda rights. The knowing, intelligent, and
+
+voluntary waiver of those rights must be proven by a preponderance
+
+of the evidence. See Miranda v. Arizona, 384 U.S. 436, 475 (1966);
+
+Colorado v. Connelly, 479 U.S. 157, 168 (1986); Berghuis v.
+
+Thompkins, 130 S. Ct. 2250, 2261 (2010).
+
+           2. Analysis of the Fifth Amendment Issue
+
+     The government has proven that the defendant knew of his
+
+Miranda rights. It is admittedly a close question whether it has
+
+
+                                       20
+been proven that Andrews voluntarily decided to waive his right to
+
+remain silent and confess that the guns found at 452 Kempton Street
+
+were his. However, I am not persuaded that it is more likely than
+
+not that the defendant provided that information voluntarily.
+
+Therefore, the government has not satisfied its burden of proof.
+
+Thus, the statements acknowledging that the guns found belonged to
+
+Andrews must be excluded from the government's case-in-chief. See
+
+Elstad, 470 U.S. at 307.
+
+     The government has proven that the defendant was informed of
+
+his Miranda rights and understood them. The defendant was given his
+
+Miranda rights twice – first when he was detained in the parking
+
+lot and again when he was brought into the apartment. In the
+
+apartment, the defendant stated that he understood his Miranda
+
+rights. Significantly, the defendant refused to answer questions
+
+initially, even after the guns were found. This indicates that the
+
+defendant understood that he had a right to remain silent.
+
+     The government has not proven, however, that the defendant's
+
+waiver of his right to remain silent was, as the Supreme Court said
+
+in Moran v. Burbine, "voluntary in the sense that it was the
+
+product of a free and deliberate choice rather than intimidation,
+
+coercion, or deception." 475 U.S. 412, 421 (1986). As the First
+
+Circuit has reiterated after Moran, "[t]he voluntariness of an
+
+admission depends on whether the will of the defendant [was]
+
+overborne so that the statement was not his free and voluntary act,
+
+
+                                21
+and that question [is] to be resolved in light of the totality of
+
+the circumstances." United States v. Jackson, 918 F.2d 236, 241
+
+(1st Cir. 1990) (internal quotations and citations omitted).
+
+     A waiver of Miranda rights is not involuntary unless it
+
+involved   coercion   by   the   government   because   "[a]bsent   police
+
+conduct causally related to the confession, there is simply no
+
+basis for concluding that any state actor has deprived a criminal
+
+defendant of due process of law." Connelly, 479 U.S. at 164.
+
+Therefore:
+
+     A defendant's mental state or condition, by itself and
+     apart from its relationship to official coercion, is
+     never dispositive of the inquiry into constitutional
+     voluntariness . . . . Rather, the voluntariness of a
+     waiver of [the Fifth Amendment] privilege has always
+     depended on the absence of overreaching, not on free
+     choice in any broader sense of the word.
+
+United States v. Rojas-Tapia, 446 F.3d 1, 7 (1st Cir. 2006)
+
+(internal quotations and citations omitted).
+
+     There are some relevant circumstances that weigh in favor of
+
+a finding that the defendant's waiver of his right to remain silent
+
+was voluntary. Schneckloth v. Bustamonte, 412 U.S. 218, 226 (1973),
+
+provides examples of relevant circumstances, some of which exist
+
+here. Before making the statements at issue, the defendant was read
+
+his Miranda rights twice and he understood them. He had also been
+
+arrested before, though there is no evidence as to whether he was
+
+read his rights, understood them, and/or exercised them on those
+
+occasions. The defendant was, however, in a familiar place, the
+
+
+                                    22
+kitchen of 452 Kempton Street. While there were many officers in
+
+the   apartment,   only   one,   ATF    Special   Agent   Scott   Heagney,
+
+questioned him. Although handcuffed, the cuffs were loosened at the
+
+defendant's request. The officers did not abuse the defendant
+
+physically or verbally. The statements at issue were made within
+
+about 30 minutes of the defendant's detention. Until Heagney
+
+threatened to arrest the defendant's mother, the defendant was not
+
+crying or visibly upset, though Heagney said he looked nervous and
+
+concerned. Dec. 8, 2010 Tr. at 115. Another officer said he looked
+
+calm. Dec. 6, 2010 Tr. at 161.
+
+      However, there are other facts that cause me to conclude that
+
+the government has not proven that the statements the defendant
+
+made after the guns were found in a room at 452 Kempton Street were
+
+voluntary. These facts are as follows.
+
+      A primary purpose for bringing the defendant to 452 Kempton
+
+Street was to prompt him to make incriminating statements if, as
+
+expected, guns were found. In essence, the law enforcement officers
+
+exploited a detention that was objectively reasonable under Summers
+
+for a purpose that the Supreme Court did not intend to authorize or
+
+encourage. See Summers, 452 U.S. at 701. While the officers' intent
+
+is not critical, the impact of what they did is significant, and
+
+their intent is relevant to the factual findings concerning what
+
+they did.
+
+      Heagney told Andrews, who was then 22 years old, that he could
+
+
+                                   23
+be prosecuted in federal court and go to jail for the rest of his
+
+life if he did not admit that the guns were his. This description
+
+of the potential penalty was false and was known to be false by
+
+Heagney. However, the falsity of the threat was not evident to the
+
+defendant, who had no prior experience with a federal prosecution.
+
+Such distortions of the potential penalties can cause or contribute
+
+to a finding that a statement was not made voluntarily. As the
+
+Seventh Circuit has written,
+
+     [i]nterrogation becomes constitutionally objectionable []
+     when the circumstances prevent the person being
+     questioned    from    making    a    rational     choice.
+     Misrepresentations can do this, by distorting the
+     alternatives among which the person under interrogation
+     is being asked to choose; so can threats that prevent a
+     person from thinking clearly, or that (much like
+     misrepresentations) exaggerate the consequences of one of
+     the alternatives - not confessing.
+
+Weidner v. Thieret, 866 F.2d 958, 963-964 (7th Cir. 1989) (internal
+
+citations omitted); see also United States v. Duvall, 537 F.2d 15,
+
+25 (2d Cir. 1976) (statement that charges carried "a possible
+
+sentence of a hundred years," when prosecutor knew no judge would
+
+impose,   and       no     prosecutor    would   seek,     a    sentence      remotely
+
+approaching     a    hundred     years,    was   coercive;          court    suppressed
+
+statements made by defendant in response).
+
+     Heagney        also    falsely     indicated   that       he    would    help   the
+
+defendant avoid spending the rest of his life in prison if the
+
+defendant admitted that the guns were his. Heagney had no intention
+
+of trying to have the defendant rewarded if he promptly confessed
+
+
+                                          24
+and, in fact, he did not do so. See Dec. 8, 2010 Tr. at 76-77, 125-
+
+27. This is a form of deceit that the Supreme Court noted in Moran
+
+can contribute to undermining the voluntariness of a confession.
+
+See 475 U.S. at 421; see also United States v. Lopez, 437 F.3d
+
+1059, 1065 (10th Cir. 2006) ("Under Supreme Court and Tenth Circuit
+
+precedent, a promise of leniency is relevant to determining whether
+
+a confession was involuntary and, depending on the circumstances,
+
+may render a confession coerced."; distinguishing "vague" promises
+
+from promises to make cooperation known to the U.S. Attorney or
+
+Judge).
+
+       Nevertheless, the false threat of a life sentence, and the
+
+false promise of assistance in avoiding it, did not cause the
+
+defendant to admit the guns were his. See Dec. 8, 2010 Tr. at 129.
+
+Rather, the defendant did not confess to possessing the guns until
+
+Heagney falsely threatened to arrest the defendant's mother for
+
+possessing the guns. Id. at 130. Andrews' mother was elderly, and
+
+ill with lupus and fibromyalgia. Id. at 209. Andrews was very close
+
+to his mother. Id. After the search began, his mother and several
+
+other people came to 452 Kempton Street. Heagney and the defendant
+
+could hear Andrews' mother crying throughout the search. Id. at
+
+133.
+
+       After the guns were found, Heagney told the defendant that he
+
+should "stop disrespecting his mother." Id. at 77-78, 133. Heagney
+
+said, "[t]he guns are either yours or your mother's or your
+
+
+                                 25
+sister's." Id. at 135-36. Heagney intended to cause Andrews to
+
+believe that he would arrest Andrews' mother if Andrews did not
+
+admit that the guns were his. However, Heagney was not then aware
+
+of any basis for arresting Andrews' mother and had no intention of
+
+doing so. Id. at 137-41. Nor did his colleagues believe that they
+
+had a basis to arrest Andrews' mother, even though one of them,
+
+Jones, knew that she did not have an FID card. Id. at 137; Dec. 6,
+
+2010 Tr. at 206. While standing outside with the defendant's
+
+mother, Oliveira asked her if there were drugs and guns in the
+
+house that belonged to her, and she answered, "[o]f course not."
+
+Dec. 6, 2010 Tr. at 122-23.
+
+     Based on the totality of all of the known circumstances,
+
+including   the   informant's   report   that   the   guns   were   the
+
+defendant's, no prudent person would have believed that Andrews'
+
+elderly, ill mother possessed those guns, which were found hidden
+
+in a closet in a bedroom that the officers, at that time, had no
+
+information indicating had been her bedroom. Therefore, there was
+
+not, in any event, probable cause to arrest Andrews' mother, and
+
+Heagney knew this. See United States v. Fiasconaro, 315 F.3d 28,
+
+34-35 (1st Cir. 2002) ("Probable cause exists when the facts and
+
+circumstances within [the police officers'] knowledge and of which
+
+they had reasonably trustworthy information were sufficient to
+
+warrant a prudent [person] in believing that the [defendant] had
+
+committed or was committing an offense." (internal quotations and
+
+
+                                 26
+citations omitted)).
+
+     However, the false threat to arrest Andrews' mother had the
+
+effect Heagney intended. Andrews immediately said: "Arrest me, not
+
+my mother." "Those guns are mine." Dec. 8, 2010 Tr. at 77, 80, 136.
+
+Heagney testified that, as Andrews said this, "he bowed his head a
+
+little bit, like he had been defeated." Id. at 77. Soon after
+
+making these statements, the defendant began to cry, which was
+
+extremely unusual for him. Id. at 206-08; 232-33; Dec. 6, 2010 Tr.
+
+at 121. When his mother and others came in, the defendant said to
+
+his sister, "They threatened to arrest Mommy," or words to that
+
+effect. Dec. 8, 2010 Tr. at 208.
+
+     Once he was at the police station and his mother was no longer
+
+threatened   with   arrest,   Andrews   refused   to   make   any   further
+
+statements. Dec. 6, 2010 Tr. at 167.
+
+     As the First Circuit has written: "Certainly some types of
+
+police trickery can entail coercion: consider a confession obtained
+
+because the police falsely threatened to take a suspect's child
+
+away from her if she did not cooperate." United States v. Byram,
+
+145 F.3d 405, 408 (1st Cir. 1998) (citing Lynumn v. Illinois, 372
+
+U.S. 528, 534 (1963) (threats made to suspect that her children's
+
+state financial aid would be cut off and her children taken from
+
+her if she did not "cooperate" held to be coercive, rendering the
+
+confession involuntary); Spano v. New York, 360 U.S. 315, 323
+
+(1959) (causing petitioner's friend to tell him that petitioner had
+
+
+                                   27
+gotten him into trouble, jeopardized his job, and that the loss of
+
+his job would be disastrous to his three children, wife, and unborn
+
+child    was   coercive;   court   found   that   petitioner's   "will   was
+
+overborne" and his confession was involuntary)).
+
+        The coercive police conduct in this case is not as extreme as
+
+the coercive conduct in Lynumn or Spano. See Lynumn, 372 U.S. at
+
+534; Spano, 360 U.S. at 323. However, the instant case is also
+
+distinguishable from the key cases on which the government relies.
+
+For example, in Jackson, this court's decision was affirmed by the
+
+First Circuit, which found that an admission made by the defendant
+
+was voluntary where he was truthfully told that his sister was
+
+under arrest. See 918 F.3d at 243. In Jackson, there was no proof
+
+of any threats or promises made to the defendant, and there was no
+
+evidence that the defendant was especially close to his sister or
+
+cared about what happened to her. Id. Similarly, in United States
+
+v. Charley, there was no evidence of threats. See No. Cr. 03-10387-
+
+DPW, 2004 WL 2851947 at *6-8 (D. Mass. Dec. 9, 2004). There, the
+
+police offered not to press charges against the defendant's brother
+
+and friends if the defendant admitted that the gun found in his car
+
+belonged to him. Id. There was no evidence that the defendant was
+
+especially close to his brother, and the defendant admitted some,
+
+but not all of the relevant facts, indicating that his will was not
+
+overborne. Id.
+
+        The instant case is more analogous to United States v. Finch,
+
+
+                                     28
+998 F.2d 349, 355-356 (6th Cir. 1993). In Finch, the Sixth Circuit
+
+found   the    defendant's     statements       involuntary    when    the   police
+
+officers executing a search warrant threatened to arrest the
+
+defendant's mother and girlfriend, without probable cause, if they
+
+found cocaine on the premises. Id. The fact that there was no legal
+
+basis for the threat contributed to the conclusion that the
+
+confession was involuntary. Id. Subsequently, in United States v.
+
+Ivy, the Sixth Circuit held that a defendant's consent to search
+
+his home was coerced and involuntary when, among other things, the
+
+police threatened that if the defendant did not consent to the
+
+search,   everyone      in     the   house,      including     the     defendant's
+
+girlfriend, would go to jail and their child would be taken into
+
+protective custody. See 165 F.3d 397, 403 (6th Cir. 1998). The
+
+Sixth Circuit noted that, "[c]ourts have found that antagonistic
+
+actions   by    the   police    against     a   suspect's     family    taint   the
+
+voluntariness of any subsequent consent." Id.
+
+     In any event, each case must be decided based on the totality
+
+of its unique circumstances. It is a close question whether the
+
+defendant's admission that the guns found at 452 Kempton Street
+
+were his was voluntary. However, the government has not proven by
+
+a preponderance of the evidence that his admissions were voluntary.
+
+Therefore, those statements are not admissible in the government's
+
+case-in-chief. See Elstad, 470 U.S. at 307.
+
+
+
+
+                                       29
+III. THE MOTION TO AMEND THE MOTION TO SUPPRESS
+
+     The motion to amend the motion to suppress is also being
+
+allowed. In addition, the motion to suppress the documents seized
+
+is being allowed because the warrant did not authorize a search for
+
+documents, and the government has not proven that the plain view
+
+exception to the warrant requirement applies to the seizure of the
+
+documents at issue.
+
+     A. The Particularity Clause of the Fourth Amendment
+
+     This   issue   implicates   the   fundamental   purpose   of   the
+
+particularity clause of the Fourth Amendment. The Fourth Amendment
+
+provides that "no warrants shall issue, but upon probable cause,
+
+supported by oath or affirmation, and particularly describing the
+
+place to be searched, and the persons and things to be seized."
+
+U.S. Const. amend. IV. The Supreme Court stated in Coolidge v. New
+
+Hampshire that there are certain constitutional interests served by
+
+the warrant requirement. 403 U.S. 443, 467 (1971). One purpose of
+
+the warrant requirement is to assure that "those searches deemed
+
+necessary should be as limited as possible." Id.
+
+     The primary purpose of the particularity requirement of the
+
+Fourth Amendment is to limit the discretion, and promote the
+
+accountability, of officers executing a warrant. The Supreme Court
+
+stated in Marron v. United States that, "[t]he requirement that
+
+warrants shall particularly describe the things to be seized makes
+
+general searches under them impossible and prevents the seizure of
+
+
+                                  30
+one thing under a warrant describing another." 275 U.S. 192, 196
+
+(1927). The First Circuit wrote in United States v. Bonner that
+
+"the manifest purpose of the particularity requirement of the
+
+Fourth Amendment is to prevent wide-ranging general searches by the
+
+police." 808 F.2d 864, 866-67 (1st Cir. 1986). As the First Circuit
+
+later explained in United States v. Upham:
+
+     The requirement of particularity arises out of a
+     hostility to the Crown's practice of issuing "general
+     warrants" taken to authorize the wholesale rummaging
+     through a person's property in search of contraband or
+     evidence. The cases on particularity are actually
+     concerned with at least two rather different problems:
+     one is whether the warrant supplies enough information to
+     guide and control the agent's judgment in selecting what
+     to take.
+
+168 F.3d 532, 535 (1st Cir. 1999).
+
+     B. Analysis
+
+     In this case, the warrant authorized a search for "any and all
+
+firearms, ammunition, magazines, and ballistic related items." Ex.
+
+4. It did not state that law enforcement agents were authorized to
+
+search for evidence of firearms crimes generally or documents
+
+specifically. See id. Documents linking Andrews to 452 Kempton
+
+Street were seized. These documents are subject to the amended
+
+motion to suppress. Specifically, they are: two photographs of the
+
+defendant (Exhibit 1 introduced on December 7, 2011); a summons to
+
+jury duty addressed to the defendant at 452 Kempton Street (Exhibit
+
+2); and a five page notice of recall warrant addressed to the
+
+defendant at 452 Kempton Street (Exhibit 3).
+
+
+                                31
+     ATF Special Agent Robert White found the documents in the
+
+bedroom where the guns were found. Pursuant to the NBPD's standard
+
+operating procedure, White had not read the warrant. He was briefed
+
+on the proposed search. He assumed that he was authorized and
+
+directed to search for documents linking Andrews to 452 Kempton
+
+Street, which would be evidence that the defendant possessed the
+
+guns the officers hoped to find. This was the standard practice of
+
+the NBPD in executing a search warrant.
+
+     Although there is some conflicting evidence, the credible
+
+evidence also proves the following. White was searching a bedroom
+
+after the guns were found. There were many documents in the
+
+bedroom. They were on and/or in a dresser. White had to move many
+
+of the documents in order to read all of them and determine whether
+
+they linked Andrews to 452 Kempton Street. He did so. White seized
+
+the documents that seemed to link Andrews to that address and threw
+
+the rest of them on the floor, as illustrated by Exhibit 4E.
+
+     The government has not proven that the documents seized could
+
+be seen by White when he began reading the documents. Rather, I
+
+find that White had to move many documents before he found the few
+
+that he seized. White did not find the documents at issue as part
+
+of a search for guns, firearms, or other items described in the
+
+warrant. He did not look through the many papers searching for
+
+hidden ammunition. Rather, his examination of the papers was
+
+separate and apart from the search for guns.
+
+
+                                32
+      In addition, the discovery of the seized documents did not
+
+occur inadvertently while White was searching for items specified
+
+in the warrant. Rather, he mistakenly thought that the warrant
+
+authorized a search for documents providing evidence of firearms
+
+crimes and he was intentionally looking for such documents. Based
+
+on   that   misunderstanding,      White       read    every     seized   document,
+
+including all five pages of the recall warrant document. See Ex. 3.
+
+      The warrant in this case does not describe documents with the
+
+particularity    required     by   the    Fourth       Amendment.    It   does   not
+
+expressly     authorize   a    search         for     relevant    documents.     The
+
+government, however, argues that the documents were properly seized
+
+under the plain view doctrine. The government has the burden of
+
+proving that the plain view exception to the warrant requirement
+
+applies. See United States v. Rutkowski, 877 F.2d 139, 141 (1st
+
+Cir. 1989).
+
+      At times, the First Circuit has described the plain view
+
+doctrine as having two requirements or elements. For example, in
+
+United States v. Giannetta, the First Circuit wrote:
+
+      The plain view doctrine allows police to seize the
+      object, even though it is not specified in the warrant,
+      if two requirements are met. First, the police must have
+      a prior justification for being in a position to see the
+      item in plain view. Phrased another way, the police must
+      not have exceeded the permitted scope of their search in
+      uncovering the item. Second, the incriminating nature of
+      the item must be immediately apparent to the seizing
+      agent. "Immediately apparent" has been defined as
+      probable cause to believe the item is contraband or
+      evidence of a crime.
+
+
+                                         33
+909 F.2d 571, 578 (1st Cir. 1990). However, Giannetta                  cited
+
+Rutkowski, which described the plain view test as follows: "The
+
+exception applies if three criteria are met. First, the officer's
+
+presence   at   the   point   of   discovery   must   be   lawful.   Second,
+
+discovery of the item seized must be inadvertent. Third, the item's
+
+evidentiary value must be immediately apparent to searchers." 877
+
+F.2d at 140-141.
+
+     More recently, the First Circuit wrote, in United States v.
+
+Paneto that:
+
+     [a] police officer, even though he does not have a search
+     warrant, may seize an object in plain view as long as he
+     has lawfully reached the vantage point from which he sees
+     the object, has probable cause to support his seizure of
+     that object, and has a right of access to the object
+     itself. A challenge to a search of an object in plain
+     view calls for a slightly different analytic rubric. When
+     an officer seeks to manipulate an object in plain sight,
+     the relevant inquiry becomes whether "the plain view
+     doctrine would have sustained a seizure of the object
+     itself."
+
+661 F.3d 709, 713 (1st Cir. 2011) (citing Arizona v. Hicks, 480
+
+U.S. 321, 326 (1987)) (some internal citations omitted).
+
+     In this case, the warrant authorized White to be in the
+
+bedroom to search for firearms and certain other specified items.
+
+However, the government has not proven that the documents seized
+
+were initially in plain view while he was looking for guns. Rather,
+
+I find that many documents had to be moved to discover the few that
+
+were seized, and they were not moved as part of a search for items
+
+specified in the warrant. Instead, documents were moved and read
+
+
+                                     34
+under the mistaken belief that the warrant authorized a search for
+
+documentary evidence.
+
+     The movement of the documents was a search, as a search is
+
+defined in Arizona v. Hicks. See 480 U.S. 321, 324-325 (1987). In
+
+Hicks, an officer's moving of equipment to view "concealed portions
+
+of the apartment or its contents" when the action was "unrelated to
+
+the objectives of the authorized intrusion" was characterized as a
+
+separate, independent "search." Id.
+
+     In Paneto, officers saw a $20 bill lying on a table and picked
+
+it up to examine it. See 661 F.3d at 714, n.3. The First Circuit
+
+stated that, "[i]t is clear that the Fourth Amendment forbids
+
+handling an item to expose something hidden" and contrasted such a
+
+search with "moving an item merely to magnify or confirm something
+
+already visible." Id.
+
+     In Paneto, 661 F.3d at 714, the $20 bill at issue was
+
+immediately visible to the naked eye and there was probable cause
+
+to move it. In contrast, in the instant case the documents seized
+
+were not discovered until a search, not authorized by the warrant,
+
+of a group of documents was conducted without probable cause. In
+
+essence,   the   officer   here   exceeded   the   scope   of   the   search
+
+permitted by the warrant in uncovering the seized items. The First
+
+Circuit held in Giannetta that for the plain view doctrine to
+
+apply, "the police must not have exceeded the permitted scope of
+
+their search in uncovering the item." 909 F.2d at 578. Therefore,
+
+
+                                    35
+the search that revealed the seized documents in the instant case
+
+is not protected by the plain view exception to the warrant
+
+requirement.
+
+       In addition, in contrast to the $20 bill in Paneto, except for
+
+the photographs, the incriminating nature of the seized documents
+
+was not immediately apparent to White. Rather, he had to read all
+
+the documents in order to conclude that there was probable cause to
+
+believe that the few documents that he decided to seize were
+
+evidence of a crime. This case is analogous to United States v.
+
+Garcia, 496 F.3d 495, 510-511 (6th Cir. 2007). In Garcia, the
+
+warrant authorized a search for cocaine, but not documents. Id. at
+
+501. The Sixth Circuit suppressed the documents seized because the
+
+agent had to read every document to decide whether any of them had
+
+evidentiary value. Id. at 511. Therefore, the Sixth Circuit held
+
+that    the   criminal   nature     of    the    seized    documents   was   not
+
+immediately apparent. Id. In essence, the Sixth Circuit reasoned
+
+that to apply the plain view exception to save the seizure of
+
+documents     in   Garcia   would    "extend      a   particularized     search
+
+authorized    by   Fourth   Amendment         principles   into   an   unlawful
+
+exploratory search." Id. at 510.
+
+       In Hicks, the Supreme Court wrote:
+
+       It matters not that the search uncovered nothing of any
+       great personal value to respondent - serial numbers
+       rather than (what might conceivably have been hidden
+       behind or under the equipment) letters or photographs. A
+       search is a search, even if it happens to disclose
+       nothing but the bottom of a turntable.
+
+                                         36
+480 U.S. at 325. In contrast to Hicks, this case involves the
+
+seizure of documents at the heart of the interests protected by the
+
+particularity clause of the Fourth Amendment. To permit those
+
+seized documents to be introduced as evidence in this case would
+
+abet the type of general searches that the Fourth Amendment
+
+prohibits   and   would   seriously   erode   the   vitality   of   its
+
+particularity clause. In any event, the government has not proven
+
+that the plain view exception to the warrant requirement applies.
+
+Therefore, the motion to suppress the seized documents is being
+
+allowed.
+
+IV. ORDER
+
+In view of the foregoing, it is hereby ORDERED that:
+
+     1. The Motion to Suppress Evidence (Docket No. 26) is ALLOWED.
+
+     2. The Motion to Amend Motion to Suppress Evidence (Docket No.
+
+107) is ALLOWED and the documents at issue are suppressed.
+
+
+
+                                             /s/ Mark L. Wolf
+                                       UNITED STATES DISTRICT JUDGE
+
+
+
+
+                                 37
+

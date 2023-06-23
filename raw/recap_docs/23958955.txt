@@ -1,0 +1,311 @@
+                            UNITED STATES DISTRICT COURT
+                                 DISTRICT OF MAINE
+
+JEFFREY S. HALL,                            )
+                                            )
+              Petitioner,                   )
+                                            )
+       v.                                   )      2:02-cr-00063-DBH-1
+                                            )      2:16-cv-00272-DBH
+                                            )
+UNITED STATES OF AMERICA,                   )
+                                            )
+              Respondent                    )
+
+
+            RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+       In this action, Petitioner Jeffrey S. Hall moves, pursuant to 28 U.S.C. § 2255, to
+
+vacate, set aside or correct his sentence. (Amended Motion, ECF No. 55.) Following a
+
+guilty plea, Petitioner was convicted in 2003 on two counts of armed bank robbery and one
+
+count of using a firearm in relation to the crime. The Court sentenced Petitioner to a total
+
+of 378 months in prison. (Amended Judgment, ECF No. 27.) The First Circuit affirmed
+
+the judgment on appeal. (United States v. Hall, No. 03-1199 (1st Cir. Dec. 16, 2003).)
+
+       Petitioner asserts he is entitled to relief under Johnson v. United States, --- U.S. ---,
+
+135 S. Ct. 2551 (2015), because when he was sentenced, the sentencing guidelines
+
+contained a provision identical to the “residual clause” held unconstitutional in Johnson,
+
+and, at the time, the guidelines were mandatory. See United States v. Booker, 543 U.S.
+
+220, 245 (2005) (holding that the sentencing guidelines, excised of provisions the Court
+
+held unconstitutional, are “effectively advisory”); Hardy v. United States, 871 F.3d 85, 86
+
+(1st Cir. 2017) (granting leave to pursue, in a second or successive section 2255 motion,
+the issue whether Johnson “invalidates the residual clause of the pre-Booker career
+
+offender guideline”); Moore v. United States, 871 F.3d 72 (1st Cir. 2017).
+
+          Following a review of Petitioner’s motion and the Government’s request for
+
+dismissal, I recommend the Court grant the Government’s request, and dismiss Petitioner’s
+
+motion.
+
+                  I.       FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+          Petitioner was indicted on three counts for armed bank robbery, aiding and abetting,
+
+18 U.S.C. §§ 2, 2113(a), (d) (Count 1); for using and carrying a firearm in relation to a
+
+violent crime, aiding and abetting, 18 U.S.C. §§ 2, 924(c)(1)(A)(ii) (Count 2); and for
+
+armed bank robbery, 18 U.S.C. § 2113(a) (Count 3).
+
+          The record establishes that Petitioner’s sentence was enhanced, pursuant to USSG
+
+§ 4B1.1, because the Court concluded he had at least two prior qualifying offenses.1 At
+
+the time of his sentencing, Petitioner’s criminal history included several Maine state court
+
+convictions, including two for criminal threatening with a dangerous weapon, two for
+
+robbery, and two for burglary.
+
+          Petitioner appealed from the sentence on the basis that the Court erred when it
+
+denied credit for acceptance of responsibility; the First Circuit consolidated Petitioner’s
+
+and his co-defendant’s appeals for briefing and argument, and it affirmed the judgments.
+
+Hall, No. 03-1199 (1st Cir. Dec. 16, 2003).2
+
+
+1
+ The parties agree that Petitioner’s sentence was enhanced pursuant to the sentencing guidelines career
+offender provision, USSG § 4B1.1, rather than the Armed Career Criminal Act (ACCA),
+18 U.S.C. § 924(e). (Response, ECF No. 73 at 5; Reply, ECF No. 77 at 1n.1.)
+2
+    Petitioner’s co-defendant’s appeal is docketed in the First Circuit at United States v. Lakin, No. 03-1200.
+
+                                                        2
+        Petitioner filed a pro se section 2255 motion on May 31, 2016, to request relief
+
+under Johnson.3 (Motion, ECF No. 51.) The Court granted Petitioner’s request for the
+
+appointment of counsel. (Order, ECF No. 53.) Petitioner filed a pro se amended motion,
+
+and Petitioner’s counsel filed a reply.                       (Amended Motion, ECF No. 55;
+
+Reply, ECF No. 77.)
+
+                                           II.     DISCUSSION
+
+        A person may move to vacate his or her sentence on one of four different grounds:
+
+(1) “that the sentence was imposed in violation of the Constitution or laws of the United
+
+States”; (2) “that the court was without jurisdiction” to impose its sentence; (3) “that the
+
+sentence was in excess of the maximum authorized by law”; or (4) that the sentence
+
+“is otherwise subject to collateral attack.” 28 U.S.C. § 2255(a); see Knight v. United States,
+
+37 F.3d 769, 772 (1st Cir. 1994). The burden is on the section 2255 petitioner to establish
+
+that he or she is entitled to section 2255 relief. David v. United States, 134 F.3d 470, 474
+
+(1st Cir. 1998); United States v. DiCarlo, 575 F.2d 952, 954 (1st Cir. 1978).
+
+        Petitioner’s claim is based on Johnson, in which the Supreme Court held that the
+
+residual clause of the ACCA is unconstitutionally vague.4 Johnson, 135 S. Ct. at 2557.
+
+
+
+3
+  Petitioner first sought permission from the First Circuit to file a motion based on Johnson v. United States,
+--- U.S. ---, 135 S. Ct. 2551 (2015); the First Circuit determined that although Petitioner had previously
+filed a 28 U.S.C. § 2255 motion, he voluntarily dismissed it in 2005, and the Court did not reach the merits
+in that proceeding. (Hall v. United States, No. 16-1273 (1st Cir. May 3, 2016).) On that basis, the First
+Circuit concluded that the gatekeeping requirements did not apply, and Petitioner did not need the
+permission of the First Circuit to file a section 2255 motion. (Id.) Petitioner’s prior section 2255 motion
+and his voluntary dismissal are docketed in this Court at No. 2:05-cv-00026-GC, Motion, ECF No. 1;
+Voluntary Dismissal, ECF No. 8.
+4
+ The ACCA provides in relevant part that a defendant “who violates [18 U.S.C. § 922(g)] and has three
+previous convictions . . . for a violent felony or a serious drug offense, or both, committed on occasions
+
+                                                      3
+In Beckles v. United States, --- U.S. ---, 137 S. Ct. 886 (2017), the Supreme Court held that
+
+Johnson does not apply to career offender sentences imposed after the sentencing
+
+guidelines became advisory, i.e., after Booker:
+
+        At the time of petitioner’s sentencing, the advisory Sentencing Guidelines
+        included a residual clause defining a ‘crime of violence’ as an offense that
+        ‘involves conduct that presents a serious potential risk of physical injury to
+        another.’ This Court held in [Johnson] that the identically worded residual
+        clause in the [ACCA] was unconstitutionally vague. Petitioner contends that
+        the Guidelines’ residual clause is also void for vagueness. Because we hold
+        that the advisory Guidelines are not subject to vagueness challenges under
+        the Due Process Clause, we reject petitioner’s argument.
+
+Beckles, 137 S. Ct. at 890, 894 (quoting USSG § 4B1.2(a)(2)).5
+
+
+different from one another, . . . shall be . . . imprisoned not less than fifteen years . . . .”
+18 U.S.C. § 924(e)(1). Section 924(e)(2)(B) provides:
+
+        [T]he term “violent felony” means any crime punishable by imprisonment for a term
+        exceeding one year, . . . that—
+
+        (i)     has as an element the use, attempted use, or threatened use of physical force against
+        the person of another; or
+
+        (ii)   is burglary, arson, or extortion, involves use of explosives, or otherwise involves
+        conduct that presents a serious potential risk of physical injury to another.
+
+Section 924(e)(2)(B)(i) is known as the “force” clause or the “elements” clause; the provision of section
+924(e)(2)(B)(ii) that references burglary, arson, extortion, or the use of explosives, is known as the
+“enumerated offenses” clause; and the remainder of section 924(e)(2)(B)(ii), i.e., the provision “or
+otherwise involves conduct that presents a serious potential risk of physical injury to another,” is known as
+the “residual” clause. United States v. Starks, 861 F.3d 306, 314 (1st Cir. 2017); United States v. Edwards,
+857 F.3d 420, 422-23 & n.2 (1st Cir. 2017).
+
+        In Johnson, the Court left intact the force clause and the enumerated offenses clause of section
+924(e)(2)(B): “Today’s decision does not call into question application of the Act to the four enumerated
+offenses, or the remainder of the Act’s definition of a violent felony.” 135 S. Ct. at 2563.
+5
+  The career offender provision of the sentencing guidelines, USSG § 4B1.1(a), provides in relevant part:
+“A defendant is a career offender if . . . (3) the defendant has at least two prior felony convictions of either
+a crime of violence or a controlled substance offense.” USSG § 4B1.2(a) provided at the time of Petitioner’s
+sentencing:
+
+        The term “crime of violence” means any offense under federal or state law, punishable by
+        imprisonment for a term exceeding one year, that –
+
+                                                       4
+       Although the issue of whether Johnson invalidates the pre-Booker sentencing
+
+guidelines residual clause has not been decided, see Hardy, 871 F.3d at 86; Moore,
+
+871 F.3d at 83-84, the issue need not be resolved in Petitioner’s case, because Petitioner’s
+
+two prior convictions for criminal threatening with a dangerous weapon qualify as career
+
+offender predicate crimes of violence under the force clause of USSG § 4B1.2(a)(1). See
+
+United States v. Collins, 811 F.3d 63, 66 (1st Cir. 2016) (holding that a Maine conviction
+
+for criminal threatening with a dangerous weapon qualified as a career offender predicate
+
+crime of violence under the force clause). Petitioner acknowledges that the convictions for
+
+criminal threatening with a dangerous weapon qualify as predicates, but he nonetheless
+
+requests to be resentenced. (Reply at 2-3.) Even if Johnson applied to pre-Booker career
+
+offender determinations under the guidelines, resentencing would be warranted only if the
+
+record established that Petitioner might not qualify as a career offender under the force
+
+clause of USSG § 4B1.2(a)(1). See United States v. Winston, 850 F.3d 677, 680, 686
+
+(4th Cir. 2017) (vacating and remanding for the district court to consider whether one of
+
+the other convictions on which the enhanced sentence was based qualified as an ACCA
+
+
+
+
+       (1) has as an element the use, attempted use, or threatened use of physical force against
+           the person of another, or
+
+       (2) is burglary of a dwelling, arson, or extortion, involves use of explosives, or
+           otherwise involves conduct that presents a serious potential risk of physical injury
+           to another.
+
+Section 4B1.2(a) was amended following Johnson, and the residual clause was deleted. USSG Supp. to
+App. C, amend. 798 (Aug. 1, 2016). However, the amendment does not apply retroactively.
+USSG § 1B1.10; United States v. Strevig, 663 F. App’x 908, 912 (11th Cir. 2016) (per curiam)
+(“The Sentencing Commission . . . has not made Amendment 798 retroactive to individuals sentenced prior
+to the effective date of the amendment.”).
+
+                                                    5
+violent felony, after holding that a Virginia common law robbery did not qualify), cited
+
+with approval in Moore, 871 F.3d at 85. Here, the uncontroverted record establishes that
+
+based on Petitioner’s two prior convictions for criminal threatening with a dangerous
+
+weapon, Petitioner would qualify as a career offender even if the residual clause of the
+
+guidelines was invalidated for pre-Booker guidelines sentences.
+
+        In short, because Petitioner’s criminal history at the time of his sentencing included
+
+two prior convictions for criminal threatening with a dangerous weapon, which is a crime
+
+of violence under the force clause, USSG § 4B1.2(a)(1), Petitioner is not entitled to relief
+
+under Johnson.6
+
+                                         III.    CONCLUSION
+
+        Based on the foregoing analysis, an evidentiary hearing is not warranted under
+
+Rule 8 of the Rules Governing Section 2255 Cases. In addition, I recommend the Court
+
+deny Petitioner’s motion for habeas relief under 28 U.S.C. § 2255. I further recommend
+
+that the Court deny a certificate of appealability pursuant to Rule 11 of the Rules Governing
+
+6
+ The Government does not argue that Petitioner’s prior burglary offenses qualify as predicate offenses.
+(Response at 6-7.) In addition, Petitioner’s prior robbery offenses, which the parties agree (Response at 9;
+Reply at 2) were convictions under 17-A M.R.S. § 651(1)(B), (E), do not qualify as career offender
+predicates under the ACCA force clause, following United States v. Mulkern, 854 F.3d 87 (1st Cir. 2017)
+(holding that a Maine robbery under 17-A M.R.S. § 651(1)(C) was not an ACCA violent felony).
+(Response at 10-11.)
+
+        The Court need not determine whether Petitioner’s Maine robbery offenses qualify as career
+offender predicates under the enumerated offenses clause, because the two prior offenses of criminal
+threatening with a dangerous weapon alone support the career offender sentencing enhancement.
+See United States v. Ball, 870 F.3d 1, 6 (1st Cir. 2017) (concluding that a Pennsylvania robbery qualified
+as a guidelines enumerated offense); United States v. Williams, No. 2:15-cr-00069-JDL-01,
+2017 WL 3485562, at *5, 2017 U.S. Dist. Lexis 128774, at *14-15 (D. Me. Aug. 14, 2017) (concluding
+that a Maine robbery with the use of a dangerous weapon, i.e., a conviction under both
+17-A M.R.S. § 651(1)(B) and § 1252(4), qualified as a guidelines enumerated offense).
+
+
+
+                                                     6
+Section 2255 Cases because there is no substantial showing of the denial of a constitutional
+
+right within the meaning of 28 U.S.C. § 2253(c)(2).
+
+                                         NOTICE
+
+               A party may file objections to those specified portions of a magistrate
+       judge's report or proposed findings or recommended decisions entered
+       pursuant to 28 U.S.C. § 636(b)(1)(B) for which de novo review by the district
+       court is sought, together with a supporting memorandum, and request for oral
+       argument before the district judge, if any is sought, within fourteen (14) days
+       of being served with a copy thereof. A responsive memorandum and any
+       request for oral argument before the district judge shall be filed within
+       fourteen (14) days after the filing of the objection.
+
+              Failure to file a timely objection shall constitute a waiver of the right
+       to de novo review by the district court and to appeal the district court's
+       order.
+
+                                                  /s/ John C. Nivison
+                                                  U.S. Magistrate Judge
+
+       Dated this 6th day of December, 2017.
+
+
+
+
+                                              7
+

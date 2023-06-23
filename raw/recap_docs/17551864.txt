@@ -1,0 +1,641 @@
+                            UNITED STATES DISTRICT COURT
+                                 DISTRICT OF MAINE
+
+UNITED STATES OF AMERICA               )
+                                       )
+        v.                             )      1:11-cr-00021-JAW
+                                       )
+TROY BRYANT                            )
+
+                            ORDER ON MOTION TO DISMISS
+
+        Troy Bryant moves to dismiss the indictment charging him with possession of
+
+ammunition after having been convicted of a misdemeanor crime of domestic
+
+violence. He first claims that the charge infringes his Second Amendment right to
+
+bear arms. He next contends that the indictment fails to state a federal offense
+
+because the First Circuit‟s decision in United States v. Nason,1 which concluded that
+
+a conviction under Maine‟s assault statute constitutes a “misdemeanor crime of
+
+domestic violence” under federal law, is no longer binding on this Court. Instead, he
+
+asserts that in interpreting the term, “physical force,” as it appears in the firearms
+
+possession statute, the Court must apply the construction the United States
+
+Supreme Court in Johnson v. United States2 and the First Circuit in United States
+
+v. Holloway3 gave the same term for purposes of the Armed Career Criminal Act
+
+(ACCA), and if it does so, the indictment must be dismissed because the Defendant
+
+has not committed a predicate crime. The Court has previously considered and
+
+rejected most of these arguments and does so again.        As regards Johnson and
+
+Holloway, the Court does not consider judicial interpretations of the ACCA to be
+
+
+1 269 F.3d 10 (2001).
+2 130 S. Ct. 1265 (2010).
+3 630 F.3d 252 (1st Cir. 2011).
+sufficiently persuasive to disturb the binding power of First Circuit precedent on
+
+the question of the definition of “physical force” for purposes of federal firearms
+
+possession prohibitions. The Court denies the Defendant‟s motion.
+
+I.     BACKGROUND
+
+       A.      Procedural Background
+
+       On February 24, 2011, a federal grand jury indicted Troy Bryant for
+
+possessing ammunition after having been convicted of a misdemeanor crime of
+
+domestic violence in violation of 18 U.S.C. § 922(g)(9).4 Indictment (Docket # 13).
+
+On March 11, 2011, Mr. Bryant moved to dismiss the indictment. Mot. to Dismiss
+
+Indictment (Docket # 20) (Def.’s Mot.).                On April 1, 2011, the Government
+
+responded, and on April 4, 2011, Mr. Bryant replied. Gov’t’s Resp. to Def.’s Mot. to
+
+Dismiss (Docket # 24) (Gov’t’s Resp.); Def.’s Reply to Gov’t’s Resp. to Mot. to Dismiss
+
+(Docket # 25) (Def.’s Reply).
+
+II.    DISCUSSION
+
+       A.      Motion to Dismiss Indictment
+
+       A Court should exercise its authority to dismiss cautiously since to dismiss an
+
+indictment „directly encroaches upon the fundamental role of the grand jury.‟”
+
+United States v. Pettengill, 682 F. Supp. 2d 49, 51 (D. Me. 2010) (quoting United
+
+States v. Thomas, 519 F. Supp. 2d 141, 143-44 (D. Me. 2007)).                        The power is
+
+“appropriately reserved, . . . for extremely limited circumstances. Whitehouse v.
+
+
+4 18 U.S.C. § 922(g)(9) makes it unlawful for any person “who has been convicted in any court of a
+misdemeanor crime of domestic violence, to . . . possess . . . any . . . ammunition.” According to the
+indictment, Mr. Bryant was convicted in 2005 of a misdemeanor crime of domestic violence in
+violation of 17-A M.R.S. § 207. Indictment at 1.
+
+                                                  2
+United States Dist. Court, 53 F.3d 1349, 1360 (1st Cir. 1995). “Unless the
+
+Government has made what can fairly be described as a full proffer of the evidence
+
+it intends to present at trial to satisfy the jurisdictional element of the offense, the
+
+sufficiency of the evidence is not appropriately addressed on a pretrial motion to
+
+dismiss an indictment.” Pettengill, 682 F. Supp. 2d at 51 (quoting United States v.
+
+Alfonso, 143 F.3d 772, 776-77 (2nd Cir. 1998)).
+
+       B.        The Second Amendment
+
+       Mr. Bryant first argues that 18 U.S.C. § 922(g)(9) violates the Second
+
+Amendment.         Def.’s Mot. at 2-8.   He acknowledges that the Court “previously
+
+considered, and rejected, this basis to dismiss an Indictment charged pursuant to . .
+
+. §922(g)(9) by way of the order entered in United States v. Booker, 570 F. Supp. 2d
+
+161 (D. Me. 2008); United States v. Wyman, 667 F. Supp. 2d 151 (D. Me. 2009); and
+
+United States v. Pettengill, 682 F. Supp. 2d 49 (D. Me. 2010).” Def.’s Mot. at 5. He
+
+nevertheless challenges those rulings on two grounds: (1) the rulings employed
+
+improper levels of scrutiny; and (2) they were based on a flawed construction of §
+
+922(g)(9). The Court stands by its constitutional analyses in those cases. As to the
+
+latter challenge, until the First Circuit directs otherwise, the Court concludes that
+
+its construction of § 922(g)(9) in Booker, Wyman, and Pettengill remains good law in
+
+this District.
+
+       C.        Failure to State a Federal Offense
+
+       Mr. Bryant argues that the indictment fails to state a federal offense by
+
+failing to allege a predicate crime under § 922(g)(9). To be convicted of violating §
+
+
+
+                                            3
+922(g)(9), the defendant must have been previously convicted of a misdemeanor
+
+crime of domestic violence.          The indictment alleges that Mr. Bryant had been
+
+previously convicted of such a crime, specifically a violation of Maine‟s assault
+
+statute, 17-A M.R.S. § 207. However, Mr. Bryant argues that a conviction under
+
+Maine‟s assault statute, without more, does not necessarily meet the federal
+
+definition of a misdemeanor crime of domestic violence because it does not require
+
+the same mens rea or level of physical force.5
+
+       Section 921(a)(33)(A) defines “misdemeanor crime of domestic violence” for
+
+purposes of §922(g)(9) as:
+
+       . . . an offense that—
+
+       (i) is a misdemeanor under Federal, State, or Tribal law; and
+
+       (ii) has, as an element, the use or attempted use of physical force, or
+       the threatened use of a deadly weapon, committed by a current or
+       former spouse, parent, or guardian of the victim, by a person with
+       whom the victim shares a child in common, by a person who is
+       cohabiting with or has cohabited with the victim as a spouse, parent,
+
+5 Mr. Bryant argues that consistent with Taylor v. United States, 495 U.S. 575, 595 (1990) and
+Shepard v. United States, 544 U.S. 12, 26 (2005), the Court must employ the First Circuit‟s two-
+tiered categorical approach in determining whether his prior conviction meets the definition of “use
+or attempted use of physical force.” Def.’s Mot. at 8-9. The two-tiered approach turns first to the
+statutory language to determine whether the statute “sweeps more broadly” than the qualifying
+definition, and if so, turns next to whether the record of conviction establishes the factual basis for
+the conviction. United States v. Miller, 478 F.3d 48, 50 (1st Cir. 2007). In Booker, this Court agreed
+that the Taylor/Shepard approach, as refined by the First Circuit, would apply “with equal force to
+determine if a person has been convicted of a misdemeanor crime of domestic violence within the
+meaning of 18 U.S.C. § 921(a)(33).” Booker, 555 F. Supp. 2d at 223. Here, the Government attached
+to its response the court documents for Mr. Bryant‟s assault conviction. Gov’t’s Resp. Attach. 1-3.
+But they are unrevealing. The Government also attached a copy of the police report, which is
+revealing but may not be considered under Shepard. 544 U.S. at 26; United States v. Cadieux, 500
+F.3d 37, 43 (1st Cir. 2007) (“The Court, however, rejected the use of a police report as a basis for
+judicial fact-finding because permitting a sentencing judge considering an [Armed Career Criminal
+Act] enhancement to make a disputed finding of fact about what the defendant and state judge must
+have understood as the factual basis of the prior plea raises Sixth and Fourteenth Amendment
+concerns”) (internal punctuation omitted). In this case, therefore, the Court agrees with Mr. Bryant
+that the court-sanctioned documents do not clarify under which level of mens rea or degree of force
+Mr. Bryant acted when he committed the domestic assault.
+
+                                                  4
+       or guardian, or by a person similarly situated to a spouse, parent, or
+       guardian of the victim.
+
+17-A M.R.S. § 207 states in part:
+
+       1.      A person is guilty of assault if:
+
+       A.     The person intentionally, knowingly or recklessly causes bodily
+       injury or offensive physical contact to another person.
+
+Mr. Bryant contends that intentionality must be an element of the predicate crime
+
+for the crime to fit the definition of “misdemeanor crime of domestic violence” and
+
+observes that “recklessness” satisfies the mens rea requirement for conviction under
+
+§ 207. Id. at 8. He further notes that one can be convicted of violating § 207 for
+
+merely offensive contact, which he argues does not necessarily rise to the level of
+
+“use or attempted use of physical force” within the meaning of a “misdemeanor
+
+crime of domestic violence.”6 Id. at 8-10 (citing 18 U.S.C. § 921(a)(33)(A)(ii)); Def.’s
+
+
+
+6 Mr. Bryant discusses State v. Patterson, 2004 ME 79, 851 A.2d 521, to demonstrate how minimal
+the “offensive physical contact” may be under the Maine assault statute. In Patterson, a boyfriend
+arrived home to find a spot in newly-installed carpet. Id. 2004 ME 79, ¶ 3, 851 A.2d at 522. He
+became irritated and commented as he attempted to clean the spot. Id. The comments provoked the
+girlfriend and she took a piece of pizza and rubbed it into the carpet. Id. In response, the boyfriend
+picked up his girlfriend, carried her outside, and left her there. Id. Although characterizing the
+crime as of “a minimal nature,” the district judge found the boyfriend guilty of assault and sentenced
+him to “simply the conviction” and a small fine. Id. 2004 ME 79, ¶ 9, 851 A.2d at 523. Although Mr.
+Bryant does not mention it, the Maine Supreme Judicial Court vacated the conviction and remanded
+the case based on the District Court‟s erroneous interpretation of 17-A M.R.S. § 105, which allows a
+person to use nondeadly force to the extent he reasonably believed it necessary to prevent what
+reasonably appeared to be an unlawful taking of his property or criminal mischief. Id. 2004 ME 79,
+¶ 14-15, 851 A.2d at 524-25.
+         Mr. Bryant also does not mention that after Patterson was remanded, the case returned to
+the Maine Supreme Judicial Court. State v. Patterson, 2005 ME 55, 881 A.2d 649 (Patterson II).
+After the initial remand, the District Court had reinstated the conviction and Mr. Patterson
+appealed again. Again the Maine Supreme Judicial Court vacated. Id. In Patterson II , the Law
+Court noted that in the context of a section 105 defense, “[b]ecause recklessness is the minimum
+required mens rea requirement for assault pursuant to 17-A M.R.S. § 207(1)(A), the State was
+required to prove beyond a reasonable doubt that Patterson‟s beliefs that led to his actions „when
+viewed in light of the nature and purpose of [his] conduct and the circumstances known to [him],
+[were] grossly deviant from what a reasonable and prudent person would believe in the same
+situation.‟” Patterson II, 2005 ME 55, ¶ 8, 881 A.2d at 651 (quoting 17-A M.R.S. § 105).
+
+                                                  5
+Reply at 1 (clarifying that his challenge to using a § 207 conviction as a predicate
+
+misdemeanor to a § 922(g)(9) charge was based not only on the mens rea issue, but
+
+also the contention that “offensive contact” does not necessarily amount to “physical
+
+force”). This Court has previously addressed these issues and no intervening case
+
+law changes the outcome.
+
+                       1.      The First Circuit’s Holding in Nason
+
+       In United States v. Nason, the First Circuit rejected the same mens rea and
+
+level of force arguments Mr. Bryant raises here. 269 F.3d 10 (2001). The Nason
+
+Court considered whether conduct violating the “offensive physical contact” prong of
+
+§ 207 “necessarily involves the use or attempted use of physical force” such that
+
+convictions under that prong may qualify as predicate offenses under §922(g)(9). Id.
+
+at 11-12.     It held that “all convictions under [17-A M.R.S. § 207] qualify as
+
+misdemeanor crimes of domestic violence within the purview of 18 U.S.C. §
+
+922(g)(9).” Id. at 21. The Nason Court explained that “Congress intended section
+
+922(g)(9) to encompass crimes characterized by the application of any physical
+
+force.” Id. at 18.
+
+       Mr. Bryant argues that Nason “does not address the intent issue presented
+
+by Congress‟s selection of the term „use of force.‟” Def.’s Mot. at 11. The Court
+
+disagrees. In Nason, the First Circuit reviewed the decisions of the Maine Supreme
+
+Judicial Court, which addressed “offensive physical contact” under § 207, and
+
+concluded that the phrase involves “something less than bodily injury” but more
+
+        Although Mr. Bryant‟s point is well taken about the minimal nature of the offensive physical
+contact that may sustain an assault conviction, the Patterson cases also reflect that a conviction for
+minimal offensive physical contact may be more difficult under Maine law than Mr. Bryant allowed.
+
+                                                  6
+than “mere touching.” Nason 269 F.3d at 19 (quoting State v. Pozzouli, A.2d 745
+
+(Me. 1997)). The First Circuit cited § 207‟s “mens rea requirement” as one of the
+
+distinctions between offensive physical contact and mere touching. Id. In other
+
+words, the Nason Court considered § 207‟s mens rea requirement as a factor
+
+harmonizing its elements with the definition of misdemeanor crime of domestic
+
+violence. Moreover, although Mr. Bryant emphasizes the word “use” preceding the
+
+phrase “physical force,” suggesting it supplies an intentionality element to the
+
+definition of misdemeanor crime of domestic violence, see Def.’s Mot. at 9, the Nason
+
+Court found that “offensive physical contacts with another person‟s body
+
+categorically involve the use of physical force.” 269 F.3d at 20. Because knowing
+
+and reckless are expressly sufficient mentes reae for offensive physical contact
+
+under § 207, the First Circuit implicitly rejected the idea that intentionality is an
+
+essential element of “use of physical force.”
+
+      Finally, Mr. Bryant cites no First Circuit case law for the assertion that
+
+intentionality is a required element of misdemeanor crimes of domestic violence.
+
+Although he points to the case law of other circuits, which have focused on the level
+
+of force necessary to constitute “physical force,” see Def.’s Mot. at 9-11 (citing United
+
+States v. Hays, 526 F.3d 674 (10th Cir. 2008) and United States v. Belless, 338 F.3d
+
+1063 (9th Cir. 2003)), Mr. Bryant has not directed the Court to any circuit
+
+discussion of intentionality. Id. In short, the Court remains bound by First Circuit
+
+precedent and is unconvinced that the decisions of other circuits presage a change
+
+in First Circuit law sufficient to “loosen the iron grip of stare decisis.” United States
+
+
+
+                                           7
+v. Reveron Martinez, 836 F.3d 684, 687 n.2 (1st Cir. 1988). In fact, in United States
+
+v. Duval, 496 F.3d 64, 84-85 (1st Cir. 2007), addressing the meaning of “violent
+
+felony” under the ACCA, a three-judge panel of the First Circuit itself observed that
+
+“[u]ntil such time as we revisit Nason en banc, we are bound to apply its holding
+
+that even „offensive contact‟ constitutes a violent felony under Maine‟s assault and
+
+battery statute.” (internal citation omitted).
+
+                     2.     Developments in the Law Since Nason
+
+       Mr. Bryant argues that intervening case law has overruled Nason.                His
+
+argument highlights the term “physical force”, which appears in the ACCA and in
+
+the definition of misdemeanor crime of domestic violence.            The ACCA defines
+
+“violent felony” as “any crime punishable by imprisonment for a term exceeding one
+
+year” that
+
+       (i)    has as an element the use, attempted use, or threatened use of
+              physical force against the person of another; or
+       (ii)   is a burglary, arson, or extortion, involves use of explosives, or
+              otherwise involves conduct that presents a serious potential risk
+              of physical injury to another.
+
+18 U.S.C. § 924(e)(2)(B) (emphasis supplied).          As noted earlier, the statutory
+
+definition of misdemeanor crime of domestic violence contains the same term: “an
+
+offense that . . . has, as an element, the use or attempted use of physical force . . . .”
+
+18 U.S.C. § 921(a)(33)(A) (emphasis supplied). Mr. Bryant says that the Court must
+
+apply judicial interpretations of “physical force” under the ACCA to “physical force”
+
+under the definition of misdemeanor crime of domestic violence and that when the
+
+
+
+
+                                             8
+same interpretation is applied, Mr. Bryant‟s state conviction cannot serve as a
+
+predicate crime for a conviction under 18 U.S.C. § 922(g)(9).
+
+      Mr. Bryant‟s argument is premised on his assertion that in Johnson v. United
+
+States, 130 S. Ct. 1265 (2010), the Supreme Court effectively overruled Nason. In
+
+Johnson, the Court held that a defendant‟s prior battery conviction under Florida
+
+law was not a “violent felony” under the ACCA. Id. at 1265. The Johnson Court
+
+stated that, “in the context of a statutory definition of „violent felony,‟ the phrase
+
+„physical force‟ means violent force—that is, force capable of causing physical pain
+
+or injury to another person.” Id. at 1272 (citing Flores v. Ashcroft, 350 F.3d 666, 672
+
+(7th Cir. 2003)). The Johnson Court held that such force was not a prerequisite for
+
+conviction under Florida‟s battery statute, which could be “satisfied by any
+
+intentional physical contact, „no matter how slight.‟”     Id. at 1269-1270 (quoting
+
+State v. Hearns 961 So. 2d 211, 218 (Fla. 2007)).
+
+      For support, Mr. Bryant points to some stray judicial comments anticipating
+
+that in interpreting the meaning of “violent felony” in the ACCA, the Supreme
+
+Court might illuminate the meaning of “misdemeanor crime of domestic violence.”
+
+See Def.’s Mot. at 9-13; see also Duval, 496 F.3d at 85 (incorporating the First
+
+Circuit‟s reasoning in Nason to its review of a district court‟s determination “that a
+
+conviction in Maine for simple assault constitutes a crime of violence for the
+
+purposes of the ACCA”); United States v. Pettengill, 682 F. Supp. 2d 49, 57-58 (D.
+
+Me. 2010) (addressing defendant‟s request that the motion be held in abeyance
+
+pending the disposition of Johnson, the Court noted that “there is no guarantee that
+
+
+
+                                          9
+when the Supreme Court issues its opinion in Johnson, it will resolve the issues
+
+before the Court”); United States v. Wyman, 667 F. Supp. 2d 151, 154 n.4 (D. Me.
+
+2009) (“Though not precisely the same question presented here or in Booker, the
+
+Supreme Court‟s decision in Johnson could inform the First Circuit‟s position in
+
+Nason”). More specifically, Mr. Bryant argues that Duval established that “the
+
+ACCA must be read in the same manner as § 922(g)(9).” Def’.s Mot. at 13.
+
+      The Court disagrees. In Duval, the First Circuit reviewed a district court‟s
+
+determination that a defendant‟s conviction under § 207 constituted a violent crime
+
+for purposes of the ACCA. 496 F.3d at 84-85. The Duval Court explained that it
+
+reviewed the district court‟s determination for “plain error.” Under that standard,
+
+it was the defendant‟s burden to show “(1) that an error occurred (2) which was
+
+clear or obvious and which not only (3) affected the defendant‟s substantial rights,
+
+but also (4) seriously impaired the fairness, integrity, or public reputation of judicial
+
+proceedings.” Id. (citing United States v. Bennett, 469 F.3d 46, 51 (1st Cir. 2006)).
+
+Noting that Nason was the only case cited by either party for guidance on the
+
+interpretation of § 207, the Duval Court stated that it could not “distinguish it in
+
+any meaningful way from the circumstances of [the defendant]‟s case,” and
+
+concluded that it was “bound to apply its holding that even „offensive contact‟
+
+constituted a violent felony under Maine‟s assault and battery statute.” Id. at 85.
+
+Moreover, the Duval Court concluded that Nason was still binding law in the First
+
+Circuit. Id. The Court does not read Duval, as Mr. Bryant suggests, as mandating
+
+a wholesale importation of its construction of the ACCA into the definition of
+
+
+
+                                           10
+“misdemeanor crime of domestic violence.” Rather, the Duval Court‟s decision was
+
+grounded on the twin doctrines of plain error and stare decisis. Id. at 84-85.
+
+      Nor would Mr. Bryant‟s argument find support in Johnson. The Johnson
+
+Court‟s construction of “physical force” in the ACCA context is narrower than the
+
+First Circuit‟s construction of “physical force” in the § 921(a)(33)(A) context, which
+
+includes “any physical force, regardless of whether that force resulted in bodily
+
+injury or risk of harm.” Nason, 269 F.3d at 16-17. In Johnson, the Supreme Court
+
+strongly indicated that the respective statutes harbor distinct meanings of “physical
+
+force.” The Johnson Court emphasized that its holding was limited to the definition
+
+of “physical force” in the context of the ACCA. 130 S. Ct. at 1271-1273. It expressly
+
+stated that “[w]e do not decide that the phrase has the same meaning in the context
+
+of defining a misdemeanor crime of domestic violence. The issue is not before us, so
+
+we do not decide it.” Id. at 1273. The Supreme Court, therefore, expressly declined
+
+to endorse Mr. Bryant‟s view that the phrase “physical force” has the same meaning
+
+in both contexts.
+
+      Moreover, the Johnson Court‟s emphasis of the word “misdemeanor”
+
+highlights the distinction between two separate statutory meanings of physical
+
+force: (1) physical force as an element of a violent felony and (2) physical force as an
+
+element of a misdemeanor crime of domestic violence.          The two meanings are
+
+elements of distinct categories of crimes assigned separate levels of criminality. It
+
+stands to reason that the degree of force Congress deemed necessary to constitute
+
+
+
+
+                                          11
+an element of a violent felony is greater than that necessary to constitute a
+
+misdemeanor.
+
+      To the extent Johnson addressed the question, the Supreme Court suggested
+
+that the same phrase in the two statutes could have different meanings.           The
+
+Johnson Court elaborated on the variant meanings of “physical force.” It noted that
+
+an element of the common law crime of battery was “the intentional application of
+
+unlawful force against the person of another.” Id. at 1270. The element could be
+
+“satisfied by even the slightest offensive touching.”     Id.   The Supreme Court
+
+determined that the common law definition did not fit the ACCA context where the
+
+term “force” was accompanied by the modifiers “physical” and “violent.” Id. at 1271.
+
+The Supreme Court also attributed significance to the term “felony” in the ACCA
+
+meaning. Id. It observed that “even today a simple battery—whether of the mere-
+
+touching or bodily-injury variety—generally is punishable as a misdemeanor,” and
+
+concluded that “[i]t is unlikely that Congress would select as a term of art defining
+
+„violent felony‟ a phrase that the common law gave peculiar meaning only in its
+
+definition of misdemeanor.” Id. 1271-72. That “physical force” “normally connotes
+
+force strong enough to constitute „power‟” is “all the more so when it is contained in
+
+a definition of „violent felony.‟” Id. This reasoning indicates the Supreme Court‟s
+
+recognition that Congress assigns the term “force” different meaning in the felony
+
+context than in the misdemeanor context.
+
+      For the same reason, the First Circuit‟s holding in United States v. Holloway,
+
+630 F.3d 252 (1st Cir. 2011), does not disturb its holding in Nason. In Holloway,
+
+
+
+                                         12
+the First Circuit considered “whether a federal court may conclude that a conviction
+
+under Massachusetts‟s simple assault and battery statute qualifies as a violent
+
+felony under the ACCA.”       Id. at 254.   It is true, as Mr. Bryant contends, that
+
+following Johnson, the First Circuit overruled United States v. Mangos, 134 F.3d
+
+460 (1st Cir. 1998), which had held that “did assault and beat” charging language
+
+“suffices to identify the harmful brand of battery for purposes of sentencing under
+
+either the ACCA or the career offender provision of the U.S. Sentencing Guidelines.”
+
+Holloway, 630 F.3d at 257. The Holloway Court concluded that in view of Johnson
+
+and Massachusetts state interpretations of the scope of the assault and battery
+
+statute, “a sentencing court may not rely on the generic „did assault and beat‟
+
+charging language to identify which particular battery offense served as the offense
+
+of conviction.” Id. at 260.
+
+      Holloway is no more than the First Circuit‟s declared allegiance to the
+
+Supreme Court‟s directive in Johnson.        As the Government correctly observes,
+
+“[t]here was simply no discussion of § 922(g)(9) or any attempt to define
+
+misdemeanor crime of domestic violence.” Id. After Johnson, the Court will not
+
+incorporate the construction of “physical force” under the definition of “violent
+
+felony” in the ACCA to its analysis of “physical force” under the definition of
+
+“misdemeanor crime of domestic violence” in the firearms possession prohibition.
+
+      In sum, the holding in Nason that “all convictions under [17-A M.R.S. § 207]
+
+qualify as misdemeanor crimes of domestic violence within the purview of 18 U.S.C.
+
+§ 922(g)(9),” 269 F.3d at 21, remains the law in this Circuit and binding on this
+
+
+
+                                            13
+Court.    Holloway, 630 F.3d at 258.    Therefore, the indictment states a federal
+
+offense because Mr. Bryant is alleged to have possessed ammunition after having
+
+been convicted of a recognized predicate offense.
+
+III.     CONCLUSION
+
+         The Court DENIES Mr. Bryant‟s Motion to Dismiss the Indictment (Docket #
+
+20).
+
+         SO ORDERED
+
+
+
+                                 /s/ John A. Woodcock, Jr.
+                                 JOHN A. WOODCOCK, JR.
+                                 CHIEF UNITED STATES DISTRICT JUDGE
+
+Dated this 13th day of April, 2011
+
+
+
+
+                                         14
+

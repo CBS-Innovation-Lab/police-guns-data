@@ -1,0 +1,1352 @@
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 1 of 26                     PageID #: 246
+
+
+
+                             UNITED STATES DISTRICT COURT
+
+                                     DISTRICT OF MAINE
+
+NICHOLAS SKOBY,                               )
+                                              )
+               Petitioner,                    )
+                                              )
+       v.                                     )      1:11-cr-00208-JAW
+                                              )      1:14-cv-00352-JAW
+                                              )
+UNITED STATES OF AMERICA,                     )
+                                              )
+               Respondent                     )
+
+
+               RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+       In this action, Petitioner Nicholas Skoby moves, pursuant to 28 U.S.C. §2255, to vacate,
+
+set aside or correct his sentence. (Motion, ECF No. 51; Attachments, ECF Nos. 51-1 to 51-5.)
+
+Petitioner pled guilty to interference with commerce by robbery, 18 U.S.C. § 1951 (Count 1); and
+
+to using, carrying, or possessing a firearm in relation to or in furtherance of a crime of violence,
+
+18 U.S.C. § 924(c)(1)(A) (Count 2). (Judgment, ECF No. 39 at 1.) The Court sentenced Petitioner
+
+to a term of imprisonment of 57 months on Count 1 and 84 months on Count 2, to be served
+
+consecutively for a total sentence of 141 months, followed by a term of three years of supervised
+
+release on Count 1 and five years on Count 2, to be served concurrently. (Id. at 2-3.) Petitioner
+
+appealed from the sentence, challenging the 84-month consecutive sentence on Count 2 on the
+
+ground that the Court erred in finding that Petitioner brandished the weapon; the First Circuit
+
+affirmed the sentence. United States v. Skoby, No. 12-1633 (1st Cir. June 4, 2013) (unpublished).
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 2 of 26                         PageID #: 247
+
+
+
+         Petitioner maintains that his counsel misrepresented the possible length of the sentence
+
+(ECF Nos. 51-1 at 1, 51-5 at 1) on the firearms charge (Count 2); that counsel should have obtained
+
+a psychiatric examination to determine whether Petitioner was competent to plead guilty (ECF No.
+
+51-4 at 3); that there was an insufficient factual basis for the plea (ECF No. 51-1 at 1); and that the
+
+plea was involuntary (ECF No. 51-4 at 2).
+
+         Petitioner also contends that his counsel failed to raise certain objections to the presentence
+
+investigation report (ECF Nos. 51-2 at 1, 51-3 at 2, 51-5 at 1); failed to object to hearsay and other
+
+statements (ECF No. 51-4 at 2-3); failed to obtain a psychiatric evaluation in preparation for
+
+sentencing (ECF No. 51-1 at 1-2), and failed to prepare Petitioner for sentencing (ECF No. 51-2
+
+at 1).
+
+         Petitioner further argues that his confession was coerced (ECF No. 51-4 at 1); that the Court
+
+wrongly denied bail (ECF No. 51-4 at 2); that counsel failed to move to suppress evidence (ECF
+
+Nos. 51-3 at 1, 51-4 at 1-2); that the Government failed to preserve evidence (ECF No. 51-4 at 3);
+
+and that the case should not have been prosecuted in federal court (ECF No. 51-3 at 1). Although
+
+Petitioner mentions Alleyne v. United States, 133 S. Ct. 2151 (2013), the nature of his argument
+
+on the issue, if any, is unclear. (Motion at 12.)
+
+         The Government requests a summary dismissal. (Response, ECF No. 64.) As explained
+
+below, after review and consideration of the parties’ filings and the record, the recommendation is
+
+that the Court deny Petitioner’ request for relief, and dismiss Petitioner’s motion.
+
+                   I.      FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+         The following facts regarding the federal charges are derived from the prosecution version,
+
+which Petitioner admitted at his plea hearing was true. (Prosecution Version, ECF No. 30; Plea
+
+Tr., ECF No. 47 at 15-16.) On August 29, 2011, at approximately 4:39 p.m., Petitioner entered a
+
+
+
+                                                    2
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 3 of 26                        PageID #: 248
+
+
+
+pharmacy engaged in interstate commerce in Millinocket, Maine. (Prosecution Version at 1.)
+
+Petitioner walked up to the pharmacy counter and presented a note that stated: “Give me ritilin +
+
+Percocet or else you die!” (Id.) Petitioner pulled his shirt up, displaying a pistol that he had in the
+
+waistband of his pants. (Id.) Petitioner was wearing a black NY Yankees baseball cap. (Id.) After
+
+reading the note, the pharmacist began to get the pills. (Id.) Petitioner told her that she had five
+
+seconds and began to count. (Id.) The pharmacist placed the pills she had collected in a bag and
+
+handed them to Petitioner. (Id.) Petitioner told the pharmacist to give him the money drawer, and
+
+she complied. (Id.) Petitioner took the cash from the drawer and walked out of the store with the
+
+cash and the drugs.       (Id.)   According to the pharmacy’s records, Petitioner took 143
+
+oxycodone/acetaminophen tablets and 160 tablets of methylphenidate (Ritalin). (Id.) He also took
+
+$586 in cash. (Id.) He exited the store at approximately 4:43 p.m. (Id.)
+
+       At approximately 5:20 p.m., law enforcement officers located, just outside Millinocket, a
+
+vehicle that matched the description that witnesses had provided of the get-away vehicle used in
+
+the robbery. (Id.) Petitioner was driving the vehicle. (Id.) When the officers attempted to stop
+
+the vehicle, the car accelerated and a chase ensued. (Id.) At one point, the vehicle pulled to the
+
+side of the road and Petitioner and a male passenger fled the vehicle. (Id.) In a search of the
+
+vehicle, officers found a black plastic gun case, a box of 9 mm bullets, the robbery note, United
+
+States currency, and some of the pills and pill bottles taken from the pharmacy. (Id. at 1-2.)
+
+       Law enforcement found and apprehended Petitioner a short distance from the abandoned
+
+vehicle. (Id. at 2.) Petitioner was carrying $495 and a 9mm High Point pistol. (Id.) He was
+
+wearing a black NY Yankees baseball cap. (Id.)
+
+
+
+
+                                                  3
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 4 of 26                      PageID #: 249
+
+
+
+           An officer met with Petitioner and administered the Miranda warnings.1 (Id.) Petitioner
+
+agreed to speak with the officer and told the officer that he had presented a note to the pharmacy
+
+that said something like “give me the pills or else.” (Id.) Petitioner also reported that he demanded
+
+money and that the pharmacist gave him pills and money. (Id.) Petitioner told the officer that he
+
+had a gun, which he had purchased at the Belfast Trading Post, but that he had not threatened
+
+anyone with it. (Id.) Records show that Petitioner purchased a 9 mm High Point pistol bearing
+
+the same serial number as the one found on Petitioner, and a box of 9 mm ammunition, at a
+
+federally licensed firearms dealer in Northport, Maine, on August 26, 2011. (Id.) The pistol was
+
+manufactured outside Maine. (Id.) The clerk who sold it to Petitioner recalled that the purchaser
+
+was wearing a dark NY Yankees baseball cap at the time of the sale. (Id.)
+
+           Petitioner was indicted in November 2011. (Indictment, ECF No. 9.) He pled guilty in
+
+February 2012 following a hearing conducted pursuant to Fed. R. Crim. P. 11. (Plea Tr. at 1, 20.)
+
+Petitioner entered the plea without a plea agreement. (Plea Tr. at 16-17.)
+
+           Petitioner was sentenced in May 2012. (Sentencing Tr., ECF No. 48 at 1, 35-36.) The
+
+Court calculated the guidelines sentence as follows: the base offense level was 20. (Id. at 26.) The
+
+Court added one level, resulting in a total offense level of 21, because the object of the robbery
+
+was to obtain a controlled substance. (Id.) Petitioner’s criminal history category was III, which,
+
+together with the total offense level of 21, yielded an applicable guidelines range of 46 to 57
+
+months. (Id. at 26-27.) On Count 2, the Court found that Petitioner brandished the firearm and
+
+concluded, therefore, that a mandatory seven-year consecutive term of imprisonment must be
+
+imposed, pursuant to 18 U.S.C. §924(c)(1)(A). (Id. at 28, 32.)
+
+
+
+
+1
+    Miranda v. Arizona, 384 U.S. 436 (1966).
+
+                                                  4
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 5 of 26                                    PageID #: 250
+
+
+
+         The Court then discussed the sentencing factors, pursuant to 18 U.S.C. §3553(a), noting
+
+that “[t]he most striking part of the defendant’s history . . . is his mental health diagnoses and his
+
+drug use.” (Id. at 27-29.) Among other things, the Court found that
+
+         [t]he defendant has a long and extensive history of illegal drug use, including
+         marijuana, cocaine, crack cocaine, and bath salts. He’s also abused alcohol and
+         prescriptive medication. On the day of the robbery itself, the defendant had used
+         marijuana, alcohol, crack cocaine, and bath salts before he went into [the
+         pharmacy].
+
+(Id. at 29.) The Court made a number of findings, including Petitioner’s “two prior theft
+
+convictions, an OUI conviction, and a forgery conviction.” (Id.) In addition, the Court found that
+
+while Petitioner was in jail, before he pled guilty, he “wrote three letters to his girlfriend asking
+
+her to smuggle Suboxone strips into the Penobscot County Jail.” (Id. at 31.)2 The Court noted
+
+additional compounding factors, including that the robbery was of a pharmacy for drugs and cash;
+
+that Petitioner carried and showed a gun during the robbery; that the gun was loaded and had a
+
+bullet in the chamber; that Petitioner counted down while waiting for the pills, and thereby
+
+implicitly threatened to shoot the victim; that Petitioner was intoxicated with a mixture of alcohol,
+
+cocaine, bath salts, and marijuana; that Petitioner led police on a high-speed car chase; that
+
+Petitioner fled into the woods, attempting to hide; and that Petitioner, before he was apprehended,
+
+snorted some of the drugs that he stole. (Id. at 31-32.)
+
+         Petitioner appealed from the mandatory consecutive 84-month sentence on Count 2,
+
+arguing that (1) within the framework of 18 U.S.C. §924(c), the meaning of “use” and “brandish”
+
+is ambiguous, and the rule of lenity requires that ambiguity in sentencing statutes be construed in
+
+favor of the defendant; and (2) the evidence was insufficient to support the District Court’s finding
+
+
+
+2
+  The Court noted that Petitioner “attempted to co-opt his girlfriend to try and smuggle Suboxone into jail” sometime
+between August 2011 and January 2012. (Sentencing Tr., ECF No. 48 at 32.) The presentence investigation report
+states that Petitioner was discovered with the contraband after a contact visit with his girlfriend.
+
+                                                         5
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 6 of 26                                        PageID #: 251
+
+
+
+that Petitioner brandished a firearm within the meaning of section 924(c)(4). (Petitioner’s
+
+Appellate Brief at 2.) On June 4, 2013, the First Circuit affirmed the sentence, “focusing
+
+specifically on the imposition of a seven-year consecutive sentence under 18 U.S.C. § 924(c)(1)(A)
+
+for ‘brandish[ing]’ a firearm during a robbery.”3 Skoby, No. 12-1633. (ECF No. 49.) Petitioner
+
+did not file a petition for a writ of certiorari in the United States Supreme Court.
+
+           Petitioner signed his section 2255 motion on September 2, 2014, and it was filed on
+
+September 5, 2014. (Motion at 13.) The Government concedes that Petitioner filed his section
+
+2255 motion timely. (Response at 2.)
+
+                                                 II.      DISCUSSION
+
+       A. Legal Standard
+
+           A person may move to vacate his or her sentence on one of four different grounds: (1) “that
+
+the sentence was imposed in violation of the Constitution or laws of the United States”; (2) “that
+
+the court was without jurisdiction” to impose its sentence; (3) “that the sentence was in excess of
+
+the maximum authorized by law”; and (4) that the sentence “is otherwise subject to collateral
+
+attack.” 28 U.S.C. § 2255(a); see Knight v. United States, 37 F.3d 769, 772 (1st Cir. 1994).4 Here,
+
+to the extent that Petitioner alleges ineffective assistance of counsel, his right to counsel is
+
+
+
+
+3
+    Title 28 U.S.C. § 924(c)(4) states:
+
+           For purposes of this subsection, the term “brandish” means, with respect to a firearm, to display all
+           or part of the firearm, or otherwise make the presence of the firearm known to another person, in
+           order to intimidate that person, regardless of whether the firearm is directly visible to that person.
+4
+    Title 28 U.S.C. § 2255(a) states:
+
+           A prisoner in custody under sentence of a court established by Act of Congress claiming the right
+           to be released upon the ground that the sentence was imposed in violation of the Constitution or
+           laws of the United States, or that the court was without jurisdiction to impose such sentence, or that
+           the sentence was in excess of the maximum authorized by law, or is otherwise subject to collateral
+           attack, may move the court which imposed the sentence to vacate, set aside or correct the sentence.
+
+                                                             6
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 7 of 26                       PageID #: 252
+
+
+
+guaranteed by the Sixth Amendment, and therefore Petitioner argues that the sentence was
+
+imposed in violation of “the Constitution or laws of the United States.”
+
+       A section 2255 petitioner has the burden to establish by a preponderance of the evidence
+
+that he or she is entitled to section 2255 relief. David v. United States, 134 F.3d 470, 474 (1st Cir.
+
+1998); United States v. DiCarlo, 575 F.2d 952, 954 (1st Cir. 1978). The Court “is at liberty to
+
+employ the knowledge gleaned during previous proceedings and make findings thereon without
+
+convening an additional hearing.” United States v. McGill, 11 F.3d 223, 225 (1st Cir. 1993).
+
+“Where a defendant has procedurally defaulted a claim by failing to raise it on direct review, the
+
+claim may be raised in habeas only if the defendant can first demonstrate either ‘cause’ and actual
+
+‘prejudice,’ or that he is ‘actually innocent.’” Bousley v. United States, 523 U.S. 614, 622 (1998)
+
+(citations omitted).
+
+       On a claim of ineffective assistance of counsel, a petitioner “must establish both that
+
+counsel’s representation fell below an objective standard of reasonableness and that there exists a
+
+reasonable probability that, but for counsel’s unprofessional errors, the result of the proceeding
+
+would have been different.” Turner v. United States, 699 F.3d 578, 584 (1st Cir. 2012) (citing
+
+Strickland v. Washington, 466 U.S. 668, 688 (1984)); see also Hill v. Lockhart, 474 U.S. 52, 59
+
+(1985) (holding that “in order to satisfy the ‘prejudice’ requirement, the defendant must show that
+
+there is a reasonable probability that, but for counsel’s errors, he would not have pleaded guilty
+
+and would have insisted on going to trial”). The two prongs of the ineffective assistance test are
+
+commonly referred to as the “cause” and “actual prejudice” tests. Bucci v. United States, 662 F.3d
+
+18, 29 (1st Cir. 2011). The “cause” test is “a ‘fairly tolerant’ one because ‘the Constitution pledges
+
+to an accused an effective defense, not necessarily a perfect defense or a successful defense.’”
+
+Moreno-Espada v. United States, 666 F.3d 60, 65 (1st Cir. 2012) (quoting Scarpa v. Dubois, 38
+
+
+
+                                                  7
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 8 of 26                          PageID #: 253
+
+
+
+F.3d 1, 8 (1st Cir. 1994)). The issue is whether counsel’s performance was “‘within the wide range
+
+of reasonable professional assistance’ that a competent criminal defense counsel could provide
+
+under ‘prevailing professional norms.’” Bucci, 662 F.3d at 30 (quoting Strickland, 446 U.S. at
+
+688-89).
+
+        In reviewing claims of ineffective assistance of counsel, courts should be mindful that
+
+“‘[c]ounsel is not required to waste the court’s time with futile or frivolous motions.’” United
+
+States v. Hart, 933 F.2d 80, 83 (1st Cir. 1991) (quoting United States v. Wright, 573 F.2d 681, 684
+
+(1st Cir. 1978)); see Tse v. United States, 290 F.3d 462, 465 (1st Cir. 2002) (“Since [the
+
+petitioner’s] claims fail on the merits, his related claims that counsel rendered ineffective
+
+assistance in failing to press the claims at trial or on appeal must also fail.”)
+
+        A district court that reviews claims of ineffective assistance of counsel is not required to
+
+address both prongs of the test because a failure to meet either prong will undermine the claim.
+
+Strickland, 466 U.S. at 697. “Evidentiary hearings on § 2255 petitions are the exception, not the
+
+norm, and there is a heavy burden on the petitioner to demonstrate that an evidentiary hearing is
+
+warranted. An evidentiary hearing ‘is not necessary when a [§] 2255 petition (1) is inadequate on
+
+its face, or (2) although facially adequate, is conclusively refuted as to the alleged facts by the files
+
+and records of the case.’” Moreno-Morales v. United States, 334 F.3d 140, 145 (1st Cir. 2003)
+
+(citation omitted) (quoting DiCarlo, 575 F.2d at 954).
+
+    B. Grounds Asserted and Analysis
+
+            1. Claim of ineffective assistance of counsel based on alleged misrepresentations
+               regarding the possible length of the sentence
+
+        Petitioner claims that counsel was ineffective because counsel misrepresented the length
+
+of the sentence. Specifically, he alleges that counsel told him that if he pled guilty to both counts,
+
+he would receive a reduction at sentencing for acceptance of responsibility, pursuant to U.S.S.G.
+
+
+                                                   8
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 9 of 26                                     PageID #: 254
+
+
+
+§3E1.1, and he “would only receive a couple of years.” (ECF No. 51-1 at 1.) Petitioner asserts
+
+that counsel did not explain the significance to his sentence of a finding that he brandished the
+
+weapon, as distinguished from a finding that he used or carried the weapon, as alleged in the
+
+indictment. (Id.) He maintains that as a result of the Court’s colloquy, he thought he would not
+
+receive more than four years in prison. (ECF No. 51-5 at 1.) Petitioner contends that if counsel
+
+had explained the possible sentence fully, he would have pled guilty to the robbery charge, but he
+
+would have gone to trial on the firearms charge and received a shorter sentence. (Id. at 1-2.)
+
+         A review of the record reveals that Petitioner cannot demonstrate prejudice, even if one
+
+assumes that Petitioner could prove that counsel provided inaccurate information.5 First, Petitioner
+
+told the Court, in response to the Court’s questions in the plea colloquy, that no one had made any
+
+promise to him regarding the sentence. (Plea Tr., ECF No. 47 at 18-19.) “[T]he presumption of
+
+truthfulness of the [Fed. R. Crim. P. 11 colloquy] statements will not be overcome unless the
+
+allegations in the § 2255 motion . . . include credible, valid reasons why a departure from those
+
+earlier contradictory statements is now justified.” United States v. Butt, 731 F.2d 75, 80 (1st Cir.
+
+1984). Petitioner has offered no reason for the Court to question the truthfulness of the statement
+
+that he made in the colloquy. As the Tenth Circuit has recognized, the lack of any promises or
+
+guarantees about a petitioner’s sentence is a factor in determining whether there was prejudice as
+
+a result of the petitioner’s mistaken belief that he would be eligible for a sentence reduction.
+
+United States v. Viera, 674 F.3d 1214, 1220 (10th Cir. 2012) (“We have held that an erroneous
+
+sentencing prediction is not prejudicial where the court has conducted an adequate Rule 11
+
+colloquy.”)
+
+
+
+
+5
+  The fact that the misrepresentations are assumed for purposes of this discussion shall not be construed to suggest
+that the record supports the conclusion that counsel provided inaccurate information.
+
+                                                          9
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 10 of 26                       PageID #: 255
+
+
+
+        Second, according to the First Circuit, “[a]n attorney’s inaccurate prediction of his client’s
+
+probable sentence, standing alone, will not satisfy the prejudice prong of the ineffective assistance
+
+test.” United States v. LaBonte, 70 F.3d 1396, 1413 (1st Cir. 1995), rev’d on other grounds, 520
+
+U.S. 751 (1997)); see also United States v. Arvanitis, 902 F.2d 489, 494 (7th Cir. 1990) (holding
+
+that an inaccurate sentencing prediction by counsel, standing alone, does not satisfy either prong
+
+of the Strickland analysis).
+
+        Third, the Court’s thorough colloquy was more than sufficient to correct any
+
+misunderstanding that Petitioner might have had as the result of counsel’s advice about the length
+
+of the sentence. (Plea Tr. at 9-11.) Regarding the mandatory consecutive seven-year sentence, the
+
+Court stated:
+
+                  THE COURT: . . . [I]f you only carried the gun, you’re subject to, in
+        addition to the penalties set forth in Court 1, a mandatory minimum additional term
+        of five years, and you could be subject to being placed in jail for the rest of your
+        life. . . . Do you understand that these are the penalties, including a mandatory
+        consecutive, which means added on to? It basically means, Mr. Skoby, that once I
+        figure out what the appropriate sentence is for Count 1 and I fix that sentence, then
+        I must add at least five years to your sentence under Count 2. Do you understand
+        that if you only carried the firearm, that you’re subject to the – those additional
+        penalties?
+
+                THE DEFENDANT: Yes, I am, Your Honor.
+
+                THE COURT: Now, I want you to listen carefully again because the
+        penalty is different if you brandished the firearm. If you brandished the firearm, in
+        addition to the penalty in Count 1 which I’ve just described, you’re subject to an
+        additional mandatory consecutive prison term of at least seven years, and, again,
+        you could be in jail for the rest of your life on Count 2 alone. . . . In other words,
+        if you brandished the firearm, again, I figure out what the penalty should be for the
+        robbery itself, and then I must, if I find that you brandished the firearm, add seven
+        years at least, and I could add an amount of time that would place you in prison for
+        the rest of your life. Do you understand that these are the minimum and maximum
+        penalties that may be imposed in the event you brandished the firearm?
+
+                THE DEFENDANT: Yes, I do, Your Honor.
+
+(Id.)
+
+
+                                                 10
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 11 of 26                      PageID #: 256
+
+
+
+       Fourth, given the Court’s unequivocal statements to Petitioner about the possibility of a
+
+mandatory seven-year consecutive term on Count 2, Petitioner’s claim that he believed his
+
+sentence would not be longer than four years lacks credibility. David, 134 F.3d at 478 (holding
+
+that a petitioner’s allegations “need not be accepted as true because they state conclusions instead
+
+of facts, contradict the record, or are inherently incredible”) (quotation marks omitted).
+
+Petitioner’s statement that he thought he would receive a reduction for acceptance of responsibility
+
+also lacks credibility, given that sometime between August 2011 and January 2012, i.e., in the
+
+months before the plea hearing, Petitioner committed additional criminal conduct by smuggling
+
+Suboxone into jail.
+
+           2. Claim of ineffective assistance of counsel regarding failure to obtain a
+              psychiatric evaluation to determine whether Petitioner was competent to plead
+              guilty
+
+       Petitioner claims that counsel was ineffective because he failed to ensure that Petitioner
+
+obtained a psychiatric evaluation to determine whether he was competent to plead guilty. (ECF
+
+No. 51-4 at 3.) Petitioner alleges that he was not properly medicated while he was in jail. (Id.)
+
+       Petitioner’s allegation about his medication in jail contravenes his statements in the plea
+
+colloquy, in which Petitioner, in response to the Court’s questions, told the Court that he had been
+
+prescribed medications by a psychiatrist prior to being incarcerated and that he had taken all of his
+
+prescribed medications in their regular doses in the 24 hours before the plea hearing. (Plea Tr. at
+
+3.) He also told the Court that he had not taken any other drugs or intoxicants in the last 24 hours,
+
+and that he understood the proceedings. (Id. at 3-4.) The Court found that Petitioner did not appear
+
+to be under the influence of any medicine, drug, or other substance that may affect his judgment.
+
+(Id. at 4.) Petitioner presents no “credible, valid reasons” why the Court should not presume the
+
+truthfulness of his statements in the plea hearing about his medications. See Butt, 731 F.2d at 80.
+
+
+
+                                                 11
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 12 of 26                                     PageID #: 257
+
+
+
+In addition, none of Petitioner’s other responses to the Court’s inquiries suggests any basis for
+
+concern about Petitioner’s competency to proceed with the plea. To the contrary, Petitioner
+
+consistently demonstrated an understanding of the proceeding, and an appreciation for the
+
+significance of the plea.
+
+         Particularly given Petitioner’s own statements and presentation during the proceeding, the
+
+record lacks any objective evidence to support Petitioner’s claim that a psychiatric evaluation to
+
+assess his competence to plead guilty was warranted. Counsel, therefore, was not deficient for not
+
+requesting an evaluation, nor was Petitioner prejudiced by the decision not to request an
+
+evaluation.
+
+              3. Claim of insufficient factual basis for the plea and associated claim of
+                 ineffective assistance of counsel
+
+         Petitioner claims that there was an insufficient factual basis for his guilty plea. (ECF No.
+
+51-1 at 1.) In particular, Petitioner alleges that he told counsel: “I didn’t think I had a gun on me
+
+during [the robbery] . . . .” (Id.) He asserts: “There was only the pharmacist saying she saw a gun.
+
+In [the] video you cannot tell if [there] is a gun. There is [not] sufficient evidence that I brandished
+
+[a] gun in [the] robbery.” (Id. at 2.) Petitioner also contends that counsel failed to investigate the
+
+matter. (Id.)6
+
+         The Court relied on the prosecution version of the crimes to determine whether there was
+
+a factual basis for the plea. (Plea Tr. at 14.) Counsel represented that he reviewed the prosecution
+
+version “numerous times” with Petitioner, that counsel was satisfied that the Government could
+
+produce the evidence set forth in the prosecution version, and that the admissible evidence would
+
+permit a properly instructed jury to find Petitioner guilty beyond a reasonable doubt. (Id. at 14-
+
+
+
+6
+  See Fed. R. Crim. P. 11(b)(3) (“Before entering judgment on a guilty plea, the court must determine that there is a
+factual basis for the plea.”); McCarthy v. United States, 394 U.S. 459, 467 (1969).
+
+                                                         12
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 13 of 26                     PageID #: 258
+
+
+
+15.) Petitioner told the Court that he had had an opportunity to review the prosecution version,
+
+that he understood its significance, and that he did not disagree with anything set forth in the
+
+prosecution version. (Id. at 15-16.) Petitioner also advised the Court that the prosecution version
+
+was true to his personal knowledge. (Id. at 16.) On the basis of the prosecution version, counsel’s
+
+responses, and Petitioner’s responses, the Court found a factual basis for Petitioner’s guilty plea.
+
+(Id.)
+
+        According to the prosecution version, Petitioner pulled up his shirt and displayed a pistol
+
+in the waistband of his pants. (Prosecution Version at 1.) Counsel represented at the plea hearing
+
+that in addition to the prosecution version, the Government’s evidence included a video of the
+
+crime, the statements of two witnesses, and Petitioner’s post-Miranda confession. (Plea Tr. at 19.)
+
+        Petitioner’s section 2255 allegation that he did not believe he had a gun on his person when
+
+he committed the robbery directly contradicts his admission, through the plea colloquy, which
+
+included his acceptance of the prosecution version, that he displayed a pistol during the robbery.
+
+Petitioner presents no “credible, valid reasons” why the Court should not presume the truthfulness
+
+of his statements in the plea hearing regarding Petitioner’s belief that the prosecution version was
+
+true to his personal knowledge. See Butt, 731 F.2d at 80. Petitioner’s claim that a factual basis
+
+for the plea was lacking and his related claim of ineffective assistance of counsel are unsupported
+
+by the record.
+
+           4. Claim that the plea was involuntary
+
+        Petitioner argues that his plea was involuntary. (ECF No. 51-4 at 2.) He asserts that he
+
+pled guilty “without understanding the charges,” and “without fully understanding the
+
+consequences of the guilty plea.” (Id.) Petitioner maintains that language difficulties impeded his
+
+ability to understand the charges. (Id.)
+
+
+
+                                                 13
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 14 of 26                                        PageID #: 259
+
+
+
+           The Court explained to Petitioner at the beginning of the plea hearing that the purpose of
+
+the hearing was for the Court to determine whether Petitioner entered his plea knowingly and
+
+voluntarily. (Plea Tr. at 2.) In response to the Court’s questions, Petitioner told the Court that he
+
+had had almost one year in college. (Id.) After asking several questions regarding Petitioner’s
+
+medications, the Court asked Petitioner: “Do you believe you understand what’s happening in
+
+these proceedings?” (Id. at 4.) Petitioner answered: “Yes, I do, Your Honor.” (Id.) The Court
+
+found Petitioner to be competent to enter a plea, and then asked: “Has [counsel] explained to you
+
+the consequences that may flow from these proceedings?” (Id.) Petitioner answered: “Yes, he
+
+has, Your Honor.” (Id.) In response to further questions by the Court, Petitioner told the Court
+
+that counsel had informed him of the elements and the nature of the charged offenses and the
+
+penalties that may be imposed. (Id. at 6.) Counsel told the Court that he was satisfied that
+
+Petitioner understood the charges and penalties. (Id.) Subsequently, as the Court reviewed the
+
+elements of each of the charged crimes and the facts that pertain to each of the charges, Petitioner
+
+told the Court that he understood them. (Id. at 7-8.)7
+
+
+7
+    Regarding the robbery count (Count 1), the Court told Petitioner:
+
+           [The indictment] alleges that on or about August 29, 2011, in the District of Maine, which means
+           the state of Maine, you obstructed, delayed, and affected commerce and the movement of articles in
+           commerce by robbery. Specifically, you took the personal property . . . namely, United States
+           currency and controlled substances, that belonged to [the pharmacy] in Millinocket, Maine. It
+           alleges that [the pharmacy] is a business that was engaged in interstate commerce and an industry
+           that affects interstate commerce. It alleges that you took the controlled substances and currency
+           from [pharmacy] employees against their will by . . . using actual and threatened force, violence,
+           and fear of immediate and future injury to the employees. It alleges that at the time you took the
+           currency and controlled substances, you were armed with a handgun and that you thus violated
+           federal criminal law.
+
+(Plea Tr., ECF No. 47 at 7.) Regarding the firearms count (Count 2), the Court told Petitioner:
+
+           Count 2 alleges use, carrying, or possession of a firearm during and in relation to and in furtherance
+           of a crime of violence. It says that on [or] about August 29, 2011, in the District of Maine, you
+           knowingly used and carried a firearm, that is, a 9 millimeter Hi-Point handgun, during and in relation
+           to a crime of violence . . . for which you may be prosecuted in a court of the United States, namely
+           the offense I already described, the robbery, and that you knowingly possessed that firearm in
+           furtherance of the offense described in Count 1, again, the robbery.
+
+                                                            14
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 15 of 26                        PageID #: 260
+
+
+
+         After explaining the penalties and receiving Petitioner’s assurance that he understood them,
+
+the Court asked Petitioner if he understood that the law did not require him to plead guilty, and
+
+Petitioner could decide not to plead guilty up until the time the Court accepted the guilty plea. (Id.
+
+at 11-12.) The Court then reviewed Petitioner’s jury trial rights and other attendant rights that
+
+Petitioner would waive if he pled guilty. (Id. at 12.) Petitioner told the Court that he understood
+
+each of these rights. (Id. at 12-13.) After the Court determined that there was a factual basis for
+
+the plea, in response to further questioning, Petitioner told the Court that no one had threatened
+
+him or coerced him into pleading guilty. (Id. at 16.)
+
+         Petitioner told the Court that he understood that the Court had the authority to determine
+
+an appropriate sentence, that the Court was not required to accept the sentencing recommendations
+
+of the parties, and that Petitioner would not have the right to withdraw his guilty plea at sentencing.
+
+(Id. at 17.) After the Court explained to Petitioner that the sentencing guidelines were advisory
+
+and that Petitioner would be sentenced in accordance with certain factors set forth in federal
+
+criminal law, the Court asked Petitioner if he had discussed with counsel how the issues might
+
+affect his sentence. Petitioner confirmed that he had discussed the issues with counsel. (Id.)
+
+         As part of the plea proceeding, the Court also explained that the Probation Office would
+
+prepare a presentence investigation report to be used to determine an advisory sentencing range,
+
+that Petitioner would have the opportunity to challenge facts in the report, and that the Court had
+
+the authority to impose a more or less severe sentence than called for by the sentencing guidelines.
+
+(Id. at 17-18.) Petitioner informed the Court that he understood the process, and that he would not
+
+be permitted to withdraw his plea in the event that the Court’s sentence was more severe than the
+
+
+
+
+(Plea Tr. at 7-8.)
+
+
+                                                  15
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 16 of 26                                        PageID #: 261
+
+
+
+guidelines sentence would have been. (Id. at 18.) Petitioner told the Court that he understood that
+
+he would be required to serve all of the term of imprisonment except for good-time deductions,
+
+and that he would not be permitted to serve any part of it on parole. (Id.) Finally, Petitioner
+
+advised the Court that no one made any promises to him in an effort to persuade him to plead
+
+guilty, nor did anyone promise him anything about what the Government would recommend or
+
+what the sentence would be. (Id. at 18-19.)
+
+         The extensive colloquy between Petitioner and the Court lacks any suggestion that
+
+Petitioner’s plea was in any way involuntary. That is, Petitioner has presented no “credible, valid
+
+reasons” for the Court not to presume the truthfulness of Petitioner’s statements that he understood
+
+the charges and that he entered his plea knowingly and voluntarily. See Butt, 731 F.2d at 80.
+
+              5. Claim of ineffective assistance of counsel regarding failure to raise objections
+                 to the presentence investigation report
+
+         Petitioner claims that counsel was ineffective because he failed to raise certain objections
+
+to the revised presentence investigation report.8 (ECF Nos. 51-2 at 1, 51-3 at 2, 51-5 at 1.) More
+
+particularly, he alleges that counsel failed to object at sentencing to the victim’s statement: “[He]
+
+told me I was going to die over and over again and counted down the seconds.” (ECF Nos. 51-2
+
+at 1, 51-3 at 1; Sentencing Tr. at 11.) Petitioner also contends that counsel failed to object to
+
+statements that Petitioner planned the robbery, that he admitted to having violence on his mind,
+
+that he intentionally lifted his shirt to show his gun to the pharmacist, that he threatened the
+
+pharmacist, that he robbed the pharmacy to get pills to use to buy other drugs, that he had a bullet
+
+
+8
+  Petitioner raised three objections to the revised presentence investigation report. (Sentencing Tr. at 3-10.) First, in
+response to a statement in the report about a prior theft conviction and probation revocation, Petitioner objected to
+language that referred to a robbery involving a firearm. At sentencing, the Court struck the language. (Id. at 6.)
+Second, Petitioner objected to a reference that he had been affiliated with a gang, and the Court struck the language.
+(Id. at 7-8.) Petitioner withdrew his third objection, which pertained to a paragraph in the report stating that Petitioner
+“went to the pharmacy to get pills for money to buy other drugs.” (Id. at 9-10.) Petitioner told the Court that he did
+not deny heavy use of alcohol and use of marijuana, cocaine, crack cocaine, and bath salts. When the Court then
+asked whether Petitioner had any other objections to the report, Petitioner responded that he did not. (Id. at 10.)
+
+                                                            16
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 17 of 26                                     PageID #: 262
+
+
+
+in his gun, and that he brandished the gun. (ECF No. 51-2 at 1.) Petitioner argues that the
+
+statements in the presentence investigation report about his use of pain medications and bath salts
+
+were inaccurate. (ECF No. 51-3 at 2.) Petitioner maintains that counsel should have “objected to
+
+the change in Count 2 in the second PSI report and the unfactual statements” about him. (ECF
+
+No. 51-5 at 1.)9
+
+         Although the revised presentence investigation report does not state directly that Petitioner
+
+admitted that he had violence on his mind at the time of the robbery, the Government made a
+
+statement to that effect at sentencing. (Sentencing Tr. at 15.) Regardless of whether Petitioner
+
+intended to assert a claim of prosecutorial misconduct or a claim of ineffective assistance of
+
+counsel, Petitioner’s claim fails. Petitioner admitted the truth of the prosecution version, which
+
+states that Petitioner walked up to the pharmacy counter and presented a note that stated: “Give
+
+me ritilin + Percocet or else you die!” (Prosecution Version at 1; Plea Tr. at 16.) By admitting the
+
+truth of the prosecution version, Petitioner in essence conceded that he planned to commit the
+
+crime with a threat of violence. Petitioner’s argument, therefore, that the assertion that he had
+
+violence on his mind was inaccurate or unwarranted under the circumstances is without merit.
+
+         Similarly, Petitioner’s contention that his counsel’s performance was substandard because
+
+he did not object to the recitation of the other facts, including facts relevant to Count 2, is
+
+unavailing. The prosecution version, which Petitioner adopted at sentencing, asserts that Petitioner
+
+pulled his shirt up, and displayed a pistol he had in the waistband of his pants. (Prosecution
+
+Version at 1.) Petitioner thus admitted to displaying the weapon. Under the circumstances,
+
+counsel had no factual basis upon which to object to the report’s statement that Petitioner was
+
+subject to a seven-year consecutive term on Count 2. Counsel, therefore, did not perform
+
+
+9
+ The Government correctly points out that to the extent Petitioner asserts any underlying claim that the Probation
+Office misstated facts in the presentence investigation report, that claim is procedurally defaulted. (Response at 37.)
+
+                                                          17
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 18 of 26                      PageID #: 263
+
+
+
+ineffectively regarding the report’s recommended consecutive sentence. Furthermore, Petitioner
+
+was not prejudiced insofar as the First Circuit upheld the Court’s finding that Petitioner brandished
+
+the weapon. Skoby, No. 12-1633.
+
+       Finally, Petitioner provides no factual basis on which counsel could have objected to either
+
+the statement in the presentence investigation report or to the sentencing finding that the gun “was
+
+loaded and had a bullet in the chamber.” (Sentencing Tr. at 32.) Consequently, Petitioner cannot
+
+prevail on his contention that his counsel was ineffective.
+
+           6. Claim of ineffective assistance of counsel regarding failure to object to
+              hearsay statements
+
+       Petitioner claims that counsel was ineffective because he failed to object to hearsay and
+
+other statements by witnesses; Petitioner argues that his Sixth Amendment right to confront
+
+witnesses against him was violated. (ECF No. 51-4 at 2-3.) As the Government points out, any
+
+Sixth Amendment claim regarding Petitioner’s confrontation rights is procedurally defaulted.
+
+(Response at 44.)
+
+       Petitioner does not specify which statements are the subject of this claim, and, therefore,
+
+the claim fails for vagueness. David, 134 F.3d at 478 (vague allegations do not entitle a habeas
+
+petitioner to an evidentiary hearing). In addition, regardless of whether Petitioner refers to
+
+statements relevant to the plea hearing or statements at sentencing, the claim lacks merit. In the
+
+colloquy with the Court during the plea proceeding, Petitioner acknowledged that in entering the
+
+plea, he was waiving his right to cross examine witnesses at trial. (Plea Tr. at 12-13.) The Court’s
+
+finding that Petitioner knowingly and voluntarily waived his trial rights which, as the Court had
+
+previously explained to Petitioner, included his right to cross-examine the Government’s
+
+witnesses, is sound and clearly supported by the record. (Id. at 12-13, 20.)
+
+
+
+
+                                                 18
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 19 of 26                                        PageID #: 264
+
+
+
+           As to statements made at sentencing, the First Circuit has held that “[r]eliable hearsay is,
+
+of course, admissible during sentencing proceedings.” United States v. Ramírez-Negrόn, 751 F.3d
+
+42, 52 (1st Cir. 2014). Petitioner makes no argument that any statement admitted at sentencing is
+
+unreliable. Furthermore, a defendant has no Sixth Amendment right to confront witnesses at
+
+sentencing. United States v. Luciano, 414 F.3d 174, 179 (1st Cir. 2005).
+
+                7. Claim of ineffective assistance of counsel regarding failure to obtain a
+                   psychiatric evaluation for sentencing purposes
+
+           Petitioner claims ineffective assistance of counsel based on counsel’s failure to obtain a
+
+psychiatric evaluation of Petitioner for sentencing purposes. (ECF Nos. 51-1 at 1-2, 51-3 at 2.)
+
+He alleges that the psychiatric evaluation would have shown that he was not in his right mind when
+
+he committed the robbery.10 (ECF Nos. 51-1 at 2, 51-3 at 2.)
+
+           The record evidence does not support a conclusion that Petitioner was unable to appreciate
+
+the wrongfulness of his acts. In fact, the record plainly supports the determination that he
+
+understood the wrongfulness of his conduct. He purchased a gun three days before the robbery,
+
+he prepared a demand note to present at the pharmacy counter, he told the pharmacist that she had
+
+five seconds and began to count, he told the pharmacist to give him the cash drawer, he took the
+
+cash from the drawer, he drove the get-away vehicle, he led police on a chase, he stopped the
+
+vehicle, and he tried to flee. (Prosecution Version at 1-2.) Petitioner’s actions are calculating and,
+
+
+
+
+10
+     The insanity defense statute provides:
+
+           (a) Affirmative defense. It is an affirmative defense to a prosecution under any Federal statute that,
+           at the time of the commission of the acts constituting the offense, the defendant, as a result of a
+           severe mental disease or defect, was unable to appreciate the nature and quality or the wrongfulness
+           of his acts. Mental disease or defect does not otherwise constitute a defense.
+
+           (b) Burden of proof. The defendant has the burden of proving the defense of insanity by clear and
+           convincing evidence.
+
+18 U.S.C. § 17.
+
+                                                            19
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 20 of 26                                         PageID #: 265
+
+
+
+particularly his attempts to avoid apprehension, reflect that he was aware of the wrongfulness of
+
+his conduct. Because the record does not support a finding that Petitioner failed to appreciate the
+
+wrongfulness of his acts, counsel was not ineffective for failing to obtain a psychiatric report
+
+regarding Petitioner’s substance abuse problem or his mental health history.                               “[C]ounsel’s
+
+performance was not deficient if he declined to pursue a futile tactic.” Vieux v. Pepe, 184 F.3d 59,
+
+64 (1st Cir. 1999) (applying Strickland standard to a habeas claim under 28 U.S.C. § 2254).
+
+              8. Claim of ineffective assistance of counsel regarding failure to prepare for
+                 sentencing
+
+         Petitioner claims that counsel was ineffective because he failed to prepare Petitioner for
+
+sentencing. (ECF No. 51-2 at 1.) Petitioner also alleges that counsel was unprepared to discuss
+
+Petitioner’s life, his mental health history, and his substance abuse history.11 (ECF No. 51-3 at 2.)
+
+Specifically, Petitioner argues that counsel misrepresented to the Court that Petitioner committed
+
+the crimes due to his addiction to Oxycontin and bath salts, when in fact, Petitioner alleges, he did
+
+not use pain medications and had not used bath salts before the day he committed the offenses.
+
+(Id.) He maintains that had counsel explained the role of Petitioner’s use of bath salts and the fact
+
+that he had not been on his prescribed medications, the Court might have been more lenient. (Id.)
+
+         Petitioner’s section 2255 allegations are inconsistent with his statements at sentencing. At
+
+sentencing, Petitioner told the Court, in response to the Court’s questions, that he had gone over
+
+the presentence investigation report with counsel and that he understood the report. (Sentencing
+
+Tr. at 4.) After the Court went through each of Petitioner’s objections to the report, the Court
+
+asked Petitioner if he had any additional objections, and Petitioner replied that he did not.
+
+(Sentencing Tr. at 10.) Significantly, Petitioner did not object at sentencing to the statement in the
+
+
+11
+  Although Petitioner alleges that counsel failed to raise important points about Petitioner’s life history and his mental
+health history, Petitioner’s specific allegations relate to counsel’s presentation of Petitioner’s drug abuse history rather
+than other aspects of his personal history. (ECF No. 51-3 at 2.)
+
+                                                            20
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 21 of 26                        PageID #: 266
+
+
+
+report that he “admitted to experimenting with ‘monkey dust’ or ‘bath salts’ on the day of his
+
+arrest,” or that he abused prescription pain medications. When the Court specifically asked
+
+whether Petitioner used “a whole host of drugs,” including marijuana, heavy use of alcohol,
+
+cocaine, crack cocaine, and bath salts, Petitioner affirmed that he had. (Sentencing Tr. at 9-10.)
+
+       Counsel’s approach at sentencing was to emphasize that Petitioner had a drug abuse
+
+problem when the offense occurred. Counsel attempted to persuade the Court that by the time of
+
+sentencing Petitioner, was “not the same person.” (Id. at 17.) The Court was unpersuaded,
+
+however, because Petitioner had tried to smuggle Suboxone into jail after he had been incarcerated
+
+for about four months. (Id. at 18, 32.) Counsel’s strategy and presentation were not deficient; the
+
+drug abuse issue was central to the presentation at sentencing, but unfortunately for Petitioner, his
+
+effort to smuggle drugs into jail undermined counsel’s argument. Counsel’s approach, however,
+
+was not unreasonable under the circumstances.
+
+       Additionally, Petitioner was not prejudiced by counsel’s approach to Petitioner’s drug
+
+abuse history; regardless of whether Petitioner took bath salts for the first time on the day of the
+
+offense, Petitioner does not dispute that he has a long history of drug abuse, and that he was
+
+intoxicated with alcohol and a number of drugs, including bath salts, when he committed the crime.
+
+Petitioner’s drug use, therefore, was necessarily an issue for the Court’s consideration at
+
+sentencing. The record reflects that the Court gave careful consideration to Petitioner’s life history,
+
+his mental health history, and his drug abuse history in the sentencing process. (Id. at 9, 17-18,
+
+28-29, 31-32.) In other words, Petitioner’s drug use would have been an important issue at
+
+sentencing regardless of his counsel’s approach.
+
+
+
+
+                                                  21
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 22 of 26                                      PageID #: 267
+
+
+
+             9. Claim that counsel failed to move to suppress an alleged coerced confession
+                or other evidence
+
+          Petitioner claims that counsel was ineffective because he failed to move to suppress
+
+evidence of an allegedly coerced confession or other evidence. (ECF Nos. 51-3 at 1, 51-4 at 1-2.)
+
+Regarding the confession, Petitioner alleges that law enforcement officers told him that he would
+
+“physically get hurt again” if he did not confess. (ECF No. 51-4 at 1.) The Government argues,
+
+correctly, that Petitioner’s claim of a coerced confession is procedurally defaulted. (Response at
+
+26-27.)
+
+          Even if the Court were to consider the merit of Petitioner’s contention, Petitioner cannot
+
+demonstrate either cause or prejudice because the record does not support the underlying claim of
+
+coercion. Although Petitioner now alleges that he was coerced into confessing, all of the record
+
+evidence, including Petitioner’s own statements in the plea hearing, is inconsistent with the
+
+suggestion that a motion to suppress the confession on the basis that it was coerced had any factual
+
+basis. The Court asked Petitioner whether the prosecution version, which includes reference to a
+
+post-Miranda confession, was accurate and whether he disagreed with anything stated in the
+
+prosecution version. (Prosecution Version at 2; Plea Tr. at 15-16.) Petitioner responded that the
+
+prosecution version was accurate, and that he did not disagree with anything in it. (Plea Tr. at 15-
+
+16.) Petitioner’s claim of a coerced statement thus lacks any support on the record. 12
+
+
+
+
+12
+   Petitioner makes a general allegation that “counsel never suppressed any evidence,” but it does not appear that
+Petitioner intends to make the argument that counsel should have moved to suppress evidence on Fourth Amendment
+grounds. (ECF No. 51-3 at 1.) Petitioner alleges that witnesses made untrue statements, there was no bullet in the
+gun, he did not count down or repeat his death threat to the pharmacist, he did not plan the robbery, and he did not rob
+the pharmacy to obtain drugs in order to buy other drugs. (Id.) By pleading guilty, Petitioner waived any Fourth
+Amendment claim; the Court explained to Petitioner in the plea hearing that one of the trial rights that he would be
+waiving if he pled guilty was the opportunity to object to the Government’s evidence. (Plea Tr. at 13.) Any free-
+standing Fourth Amendment claim is therefore procedurally defaulted, but regardless of that, none of these allegations
+give rise to any Fourth Amendment issues in the context of this case.
+
+
+                                                          22
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 23 of 26                                     PageID #: 268
+
+
+
+             10. Claim that the Court wrongly denied bail
+
+         Petitioner claims that the Court wrongly denied bail. (ECF No. 51-4 at 2.) Claims relating
+
+to pre-trial bail are not cognizable under section 2255. See Lynn v. United States, 365 F.3d 1225,
+
+1233 (11th Cir. 2004) (noting that “claims of excessive bail are not cognizable in a section 2255
+
+action”) (quotation marks omitted).13
+
+             11. Claim that the Government failed to provide or preserve evidence
+
+         Petitioner contends that the Government failed to provide or preserve evidence favorable
+
+to Petitioner. (ECF No. 51-4 at 3.) Petitioner specifically argues that an audio or video of the
+
+confession and a video of the high-speed chase exist, and that the items were either not provided
+
+or not preserved. (Id.)
+
+         The Government represents that no audio or video recording of Petitioner’s confession was
+
+generated, and the Government is not aware of whether Petitioner’s high-speed chase after the
+
+robbery was videotaped. (Response at 44-45.) Petitioner has cited no facts to support his
+
+contention. The record thus lacks any evidence upon which the Court could conclude that the
+
+Government either withheld or did not preserve any evidence that might have been favorable to
+
+Petitioner. Petitioner’s claim, therefore, that the Government violated his rights under Brady v.
+
+Maryland, 373 U.S. 83 (1963), lacks merit.14
+
+
+
+13
+   Furthermore, as the Government points out, the issue is procedurally defaulted in any event because Petitioner
+waived it when, in November 2011, he knowingly and voluntarily waived his right to a detention hearing and
+consented to being detained in federal custody pending trial. (Response, ECF No. 64 at 43-44; Conditional Order of
+Detention Pending Trial, ECF No. 22.) At that time, the Court ordered Petitioner to be federally detained once the
+State of Maine released him from state charges and he entered into federal custody. (Id.) In February and May 2012,
+Petitioner was only temporarily brought into federal custody for his change-of-plea hearing and sentencing,
+respectively; otherwise, he was in state custody at that time. (Writs of Habeas Corpus, ECF Nos. 29, 36.)
+14
+   The Supreme Court held in Brady v. Maryland, 373 U.S. 83, (1963), that “the suppression by the prosecution of
+evidence favorable to an accused upon request violates due process where the evidence is material either to guilt or to
+punishment, irrespective of the good faith or bad faith of the prosecution.” Id. at 87. The First Circuit has held that
+“[t]o establish a Brady violation, ‘a defendant must make three showings. The evidence at issue (whether exculpatory
+or impeaching) must be favorable to the accused; that evidence must have been either willfully or inadvertently
+
+                                                          23
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 24 of 26                                PageID #: 269
+
+
+
+             12. Claim that the case should not have been prosecuted in federal court
+
+        Petitioner argues that his case should not have been prosecuted in federal court; he states,
+
+“I still don’t know why my case out of 20 or so other pharmacy robberies went federal.” (ECF
+
+No. 51-3 at 1.)
+
+        “Congress and the Constitution have given the Executive Branch some prosecutorial
+
+discretion as to when to prosecute. No such discretion is given to the Judicial Branch to invalidate
+
+convictions on the basis of whether or not there have been few prosecutions on similar facts in the
+
+past.” United States v. Cortés-Cabán, 691 F.3d 1, 22-23 (1st Cir. 2012). “Although the exercise
+
+of prosecutorial discretion is subject to the constitutional guarantee of equal protection and ‘may
+
+not be deliberately based upon an unjustifiable standard such as race, religion, or other arbitrary
+
+classification,’ the prosecutor is entitled to a threshold presumption that he acted in good faith for
+
+reasons of sound governmental policy.” United States v. Gary, 74 F.3d 304, 313 (1st Cir. 1996)
+
+(quoting Wayte v. United States, 470 U.S. 598, 608 (1985)) (quotation marks and citations
+
+omitted).
+
+        In this case, Petitioner does not claim that the exercise of prosecutorial discretion to
+
+prosecute him violates any law, and the record is devoid of any evidence that the prosecution was
+
+conducted in bad faith. Petitioner’s claim thus is not cognizable in a section 2255 action. See 28
+
+U.S.C. § 2255(a) (requiring that the claim assert that the prisoner is in custody under a sentence
+
+imposed “in violation of the Constitution or laws of the United States”). Furthermore, Petitioner
+
+waived the claim, see Gary, 74 F.3d at 313, and it is procedurally defaulted.
+
+
+
+
+suppressed by the government; and prejudice must have ensued.’” United States v. Alverio–Meléndez, 640 F.3d 412,
+424 (1st Cir.2011) (quoting United States v. Mathur, 624 F.3d 498, 503 (1st Cir.2010)) (quotation marks omitted).
+
+
+                                                       24
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 25 of 26                                    PageID #: 270
+
+
+
+             13. Claim based on Alleyne v. United States
+
+         Petitioner states: “I was waiting to see if [Alleyne] became retroactive.” (Motion at 12.)
+
+The First Circuit has held that “the rule announced in Alleyne is not retroactively applicable to
+
+sentences on collateral review on an initial habeas petition.” Butterworth v. United States, 775
+
+F.3d 459, 468 (1st Cir. 2015). Thus, Petitioner could not have had the benefit of Alleyne had it
+
+applied to this case.15
+
+                                              III.     CONCLUSION
+
+         Based on the foregoing analysis, an evidentiary hearing is not warranted under Rule 8 of
+
+the Rules Governing Section 2255 Cases. The recommendation is that the Court deny Petitioner’s
+
+section 2255 motion, and deny a certificate of appealability pursuant to Rule 11 of the Rules
+
+Governing Section 2255 Cases because there is no substantial showing of the denial of a
+
+constitutional right within the meaning of 28 U.S.C. § 2253(c)(2).
+
+                                                     NOTICE
+
+                A party may file objections to those specified portions of a magistrate
+         judge’s report or proposed findings or recommended decisions entered pursuant to
+         28 U.S.C. 636(b)(1)(B) for which de novo review by the district court is sought,
+         together with a supporting memorandum, within fourteen (14) days of being served
+
+15
+   In Alleyne v. United States, 133 S. Ct. 2151 (2013), the Supreme Court held that “any fact that increases the
+mandatory minimum [sentence] is an ‘element’ that must be submitted to the jury.” 133 S.Ct. at 2155 (emphasis
+added). The holding in Alleyne is recognized as an extension of the Court's holding in Apprendi v. New Jersey, 530
+U.S. 466 (2000). As the plurality explained in Alleyne, the Supreme Court held in Apprendi that “any fact that
+increased the prescribed statutory maximum sentence must be an ‘element’ of the offense to be found by the jury.”
+Alleyne, 133 S.Ct. at 2157 (emphasis added) (citing Apprendi, 530 U.S. at 483, n. 10, 490). Petitioner’s indictment
+stated that he “knowingly used and carried a firearm” in relation to a crime of violence, in violation of 18 U.S.C.
+§924(c)(1)(A). (Indictment, ECF No. 9 at 1-2.) Section 924(c)(1)(A)(ii) provides that “if the firearm is brandished,”
+the defendant must be “sentenced to a term of imprisonment of not less than 7 years.” The prosecution version, which
+Petitioner admitted was true, stated that he “pulled his shirt up, displaying a pistol.” (Prosecution Version, ECF No.
+30 at 1.) The Court explained to Petitioner in the plea hearing that if it found at sentencing that Petitioner had
+brandished the weapon, Petitioner would be subject to a mandatory additional term of seven years of imprisonment.
+(Plea Tr., ECF No. 47 at 10-11.) Petitioner pled guilty knowing that he might receive the additional sentence for
+brandishing the weapon. “[W]hen a defendant knowingly admits the facts necessary for a sentence enhancement in
+the context of a plea, simultaneously waiving his Sixth Amendment right to a jury trial, no Apprendi problem arises.”
+United States v. Yancy, 725 F.3d 596, 601 (6th Cir. 2013). Thus, Alleyne would not have been applicable to this case
+even if it had been retroactively applicable to cases on collateral review.
+
+
+                                                         25
+Case 1:11-cr-00208-JAW Document 65 Filed 06/05/15 Page 26 of 26                     PageID #: 271
+
+
+
+      with a copy thereof. A responsive memorandum shall be filed within fourteen (14)
+      days after the filing of the objection.
+
+             Failure to file a timely objection shall constitute a waiver of the right to de
+      novo review by the district court and to appeal the district court's order.
+
+                                                    /s/ John C. Nivison
+                                                    U.S. Magistrate Judge
+
+      Dated this 5th day of June, 2015.
+
+
+
+
+                                               26
+

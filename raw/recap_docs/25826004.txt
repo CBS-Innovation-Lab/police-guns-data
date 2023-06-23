@@ -1,0 +1,778 @@
+                             UNITED STATES DISTRICT COURT
+                                  DISTRICT OF MAINE
+
+
+MUKONKOLE HUGE KIFWA,                         )
+                                              )
+               Petitioner,                    )
+                                              )
+       v.                                     )       2:15-cr-00177-DBH
+                                              )       2:17-cv-00365-DBH
+                                              )
+UNITED STATES OF AMERICA,                     )
+                                              )
+               Respondent                     )
+
+
+            RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+       In this action, Petitioner Mukonkole Huge Kifwa moves, pursuant to
+
+28 U.S.C. § 2255, to vacate, set aside or correct his sentence.1 (Motion, ECF No. 150.)
+
+In 2016, following a jury trial, Petitioner was convicted of visa fraud, bank fraud, a false
+
+statement to a government agency, and possession of firearms by a non-immigrant alien;
+
+the Court sentenced Petitioner to 46 months in prison. (Judgment, ECF No. 118 at 1-3;
+
+Jury Verdict, ECF No. 93.) The First Circuit affirmed the conviction and sentence. United
+
+States v. Kifwa, 868 F.3d 55 (1st Cir. 2017).
+
+       Petitioner alleges ineffective assistance of counsel at trial and sentencing. (Motion
+
+at 4-5.) Petitioner’s claim of ineffective assistance at trial is based on the First Circuit’s
+
+decision to dismiss without prejudice claims of ineffective assistance raised on direct
+
+
+
+
+1
+  The docket record lists four aliases for Petitioner Mukonkole Huge Kifwa: (1) Ndowa Adrien Lushiku;
+(2) Adrien Ndowa; (3) Adrien Lushiku; and (4) Hugue Kifwa. Petitioner alleges his name was changed
+legally in the Democratic Republic of Congo to Adrien Lushiko Ndowa. (Reply, ECF No. 158 at 2.)
+appeal. (Id. at 4.) Petitioner’s brief on appeal reflects he argued counsel was ineffective
+
+because counsel failed to request a continuance to review translation transcripts of
+
+Petitioner’s recorded telephone conversations; because counsel did not argue that the
+
+delayed disclosure of the translation transcripts constituted prosecutorial misconduct; and
+
+because counsel failed to investigate the accuracy of the translation work.2 In Petitioner’s
+
+section 2255 motion, he also alleges that at sentencing, counsel advised him to answer
+
+“yes” to all of the Court’s questions. (Motion at 5.) His reply contains additional claims
+
+not alleged in the section 2255 petition. (Reply, ECF No. 158.)
+
+        The Government has requested summary dismissal of Petitioner’s section 2255
+
+motion. (Response, ECF No. 157 at 1.)
+
+        Following a review of Petitioner’s motion and the Government’s request for
+
+dismissal, I recommend the Court grant the Government’s request, and dismiss Petitioner’s
+
+motion.
+
+                 I.      FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+        Petitioner is a citizen of the Democratic Republic of Congo (DRC).                              Kifwa,
+
+868 F.3d at 58. As described by the First Circuit, Petitioner “entered the United States in
+
+February of 2014 on a non-immigrant diplomatic visa (purporting to be an employee of the
+
+DRC government).            This fiction began to unravel when−in March of 2015−federal
+
+
+
+
+2
+ Petitioner’s brief filed on direct appeal in the First Circuit (United States v. Kifwa, No. 16-1766) is attached
+to the Government’s response to Petitioner’s section 2255 motion. (Response, ECF No 157; Brief of
+Defendant-Appellant, ECF No. 157-14.)
+
+
+                                                       2
+authorities commenced an investigation into [Petitioner’s] financial machinations, sparked
+
+by complaints about bad checks.” Id.
+
+        Petitioner was arrested in July 2015, and in November 2015, he was charged in an
+
+eight-count superseding indictment with visa fraud, 18 U.S.C. § 1546(a) (Count 1);
+
+possession of a firearm by a non-immigrant alien, 18 U.S.C. §§ 922(g)(5), 924(a)(2)
+
+(Counts 2 and 3); bank fraud, 18 U.S.C. § 1344 (Counts 4-7); and a false statement,
+
+18 U.S.C. § 1001(a)(2) (Count 8). (Superseding Indictment, ECF No. 43.) The indictment
+
+alleged the following regarding the false statement:
+
+        [D]uring a post-Miranda interview, the defendant reported to special agents
+        from [the Department of State, Diplomatic Security Services] and [the
+        Department of Homeland Security, Homeland Security Investigations] that
+        he had never been to Canada. In fact, he previously lived in Canada for many
+        years and was deported from Canada multiple times.
+
+(Id. at 8.)
+
+        Petitioner’s section 2255 claims relate in part to counsel’s decisions regarding the
+
+Government’s translations from Lingala to English of Petitioner’s recorded telephone calls
+
+with a cooperating witness, Eddy Mintela, while Petitioner was in pretrial detention.3
+
+(Motion at 4.) The First Circuit explained the relevant pretrial and trial proceedings
+
+regarding the translations as follows:
+
+        About a month before the anticipated trial date, the district court held a
+        hearing to determine the appellant’s translation needs. The appellant
+        explained that he speaks Lingala, French, and English (though he is more
+        comfortable in French than English). The appellant confirmed that he did not
+
+
+3
+  “Seemingly unbeknownst to the appellant, Eddy Mintela (an associate whom the appellant frequently
+called from jail) had begun working with the prosecution as a cooperating witness.” Kifwa,
+868 F.3d at 59 n.1.
+
+                                                3
+need Lingala translation but instead requested and secured French translation
+for trial.
+
+Toward the end of the hearing, the prosecutor stated that she and defense
+counsel had just begun discussing the possibility that the government might
+use at trial the substance of certain telephone calls that the appellant had
+made from jail while in pretrial detention. She explained that the appellant
+had “made an extraordinarily large number of calls” from jail. Each call was
+fifteen minutes or less in duration, and at least two-thirds of the
+approximately 1200 calls were in Lingala. Like all personal calls made by
+prisoners from the jail, the appellant’s calls had been recorded.
+The prosecutor told the court that the government was still in the process of
+identifying the relevant conversations and requesting the recordings.
+
+Following this hearing, the government requested that the jail turn over
+recordings of roughly 285 to 300 calls. Promptly upon receiving these
+recordings, the government gave defense counsel a computer disc containing
+the audio files.     Approximately two weeks later, the government
+(with Mintela’s assistance) winnowed out fifteen calls as prime candidates
+for translation. The government contemporaneously notified defense
+counsel and singled out the relevant calls (all previously produced) by their
+identification numbers.
+
+At that point, the government’s efforts hit a snag: it experienced great
+difficulty in locating a Lingala translator. Eventually, though, the
+government was able to hire a Lingala translator in Boston who worked
+“around the clock” to translate and transcribe the fifteen calls. The
+government turned over the English-language transcripts on a rolling basis
+as it received them from the translator. The translator finished the final
+transcript around midnight on the evening before the trial was set to start, and
+the government gave it to the defense the next morning.
+
+The appellant objected to the government’s proposed use of the translations
+at trial, but he did not ask for a continuance despite the district court’s
+apparent willingness to grant one. The court proceeded to deny the motion
+to exclude, but it ordered the government to show defense counsel the
+particular transcripts that it planned to use before calling any witness whom
+it intended to query about matters involving the transcribed conversations.
+The trial began as scheduled.
+
+During the trial, the government entered four of the transcripts (totaling five
+pages of text) into evidence. In the government’s view, the four transcripts
+showed the appellant asking Mintela to forge DRC name-change documents
+
+                                       4
+        and create a story to bolster a bogus asylum claim. The government also
+        presented testimony from Mintela himself as well as testimony from various
+        immigration officials (who described several discrepancies and inaccuracies
+        in the appellant’s visa documentation). In addition, representatives of
+        various banks described the appellant’s penchant for passing bad checks and
+        attempting to cash counterfeit checks.
+
+Kifwa, 868 F.3d at 58-59 (footnote omitted).
+
+        Following a four-day jury trial in January 2016, Petitioner was convicted on all
+
+counts; the Court sentenced Petitioner to prison terms of 46 months on each of the counts,
+
+to be served concurrently. Kifwa, 868 F.3d at 59-60. (Judgment at 1-3.)
+
+        On appeal, Petitioner argued the Court should have granted his motion to exclude
+
+the transcripts, and the Court’s failure to do so prejudiced him. Kifwa, 868 F.3d at 60.
+
+The First Circuit affirmed the conviction and sentence. Id. at 63 (concluding “that the
+
+appellant has not carried his burden of showing that the delayed disclosure caused him any
+
+unfair prejudice,” and “the district court did not abuse its discretion in denying the
+
+appellant’s motion to exclude the four translations”).                The Court dismissed without
+
+prejudice Petitioner’s ineffective assistance claim. Id. at 63-64 & n.5 (discussing United
+
+States v. Mala, 7 F.3d 1058, 1063 (1st Cir. 1993), and noting the record was clear that
+
+counsel told the Court Petitioner resisted any delay).
+
+        Petitioner asserts that he signed and placed his section 2255 motion in the prison
+
+mailing system on September 12, 2017. (Motion at 12.) The Government does not contest
+
+the timeliness of Petitioner’s motion.4
+
+
+4
+  See 28 U.S.C. 2255(f) (providing in pertinent part that “[a] 1-year period of limitation shall apply to a
+motion under this section. The limitation period shall run from the latest of – (1) the date on which the
+judgment of conviction becomes final.”)
+
+                                                    5
+                                    II.    DISCUSSION
+
+       A. Legal Standards
+
+       A person may move to vacate his or her sentence on one of four different grounds:
+
+(1) “that the sentence was imposed in violation of the Constitution or laws of the United
+
+States”; (2) “that the court was without jurisdiction” to impose its sentence; (3) “that the
+
+sentence was in excess of the maximum authorized by law”; or (4) that the sentence “is
+
+otherwise subject to collateral attack.” 28 U.S.C. § 2255(a); see Knight v. United States,
+
+37 F.3d 769, 772 (1st Cir. 1994).
+
+       The burden is on the section 2255 petitioner to establish by a preponderance of the
+
+evidence that he or she is entitled to section 2255 relief. David v. United States, 134 F.3d
+
+470, 474 (1st Cir. 1998); United States v. DiCarlo, 575 F.2d 952, 954 (1st Cir. 1978).
+
+When “a petition for federal habeas relief is presented to the judge who presided at the
+
+petitioner’s trial, the judge is at liberty to employ the knowledge gleaned during previous
+
+proceedings and make findings based thereon without convening an additional hearing.”
+
+United States v. McGill, 11 F.3d 223, 225 (1st Cir. 1993).
+
+       A collateral challenge is not a substitute for an appeal. United States v. Frady,
+
+456 U.S. 152, 165 (1982); Berthoff v. United States, 308 F.3d 124, 127 (1st Cir. 2002).
+
+“Accordingly, a defendant’s failure to raise a claim in a timely manner at trial or on appeal
+
+constitutes a procedural default that bars collateral review, unless the defendant can
+
+demonstrate cause for the failure and prejudice or actual innocence.” Berthoff, 308 F.3d at
+
+127-28. Procedural default is an affirmative defense. Sotirion v. United States, 617 F.3d
+
+27, 32 (1st Cir. 2010). The First Circuit has recognized that “federal courts have the
+
+                                             6
+authority to consider procedural default sua sponte.” Rosenthal v. O'Brien, 713 F.3d 676,
+
+683 (1st Cir. 2013) (citing Brewer v. Marshall, 119 F.3d 993, 999 (1st Cir. 1997)); see also
+
+Daniels v. United States, 532 U.S. 374, 382-83 (2001) (recognizing that “procedural default
+
+rules   developed    in   the   habeas   corpus    context   apply   in   §   2255    cases”)
+
+(citing Frady, 456 U.S. at 167-68).
+
+        An allegation of ineffective assistance of counsel can excuse a procedural default,
+
+but only if the petitioner demonstrates both that counsel’s representation fell below an
+
+objective standard of reasonableness and that counsel’s deficient performance prejudiced
+
+the petitioner’s defense. Turner v. United States, 699 F.3d 578, 584 (1st Cir. 2012) (citing
+
+Strickland v. Washington, 466 U.S. 668, 688 (1984)). A district court reviewing a claim
+
+of ineffective assistance of counsel need not address both prongs of the test because a
+
+failure to meet either prong will undermine the claim. Strickland, 466 U.S. at 697.
+
+If a petitioner’s “claims fail on the merits, his related claims that counsel rendered
+
+ineffective assistance in failing to press the claims at trial or on appeal must also fail.”
+
+Tse v. United States, 290 F.3d 462, 465 (1st Cir. 2002) (per curiam).
+
+        The Court need not address a claim that is raised for the first time in a reply. See
+
+United States v. Barrett, 178 F.3d 34, 57 (1st Cir. 1999) (“Informal reference to a new claim
+
+in a reply brief will not suffice to raise a claim if the district court does not address that
+
+claim in its order.”). Summary dismissal of a motion is permitted when the allegations are
+
+“‘vague, conclusory, or palpably incredible,’” even “‘if the record does not conclusively
+
+and expressly belie [the] claim.’” David, 134 F.3d at 478 (quoting Machibroda v. United
+
+States, 368 U.S. 487, 495 (1962)).
+
+                                              7
+        B. Claims and Analysis
+
+                 1. Failure to request a continuance
+
+        Petitioner alleges counsel failed to prepare adequately for trial because counsel
+
+failed to request a continuance. (Motion at 4; Reply at 7-8.) Petitioner also alleges counsel
+
+failed to provide the telephone recordings to Petitioner or to review them with him.
+
+(Reply at 6.) He alleges counsel made the decision not to request a continuance of the trial,
+
+and counsel “was able to calm petitioner into not forcing” a continuance.5 (Reply at 12.)
+
+        The First Circuit noted that this Court invited Petitioner to request a continuance,
+
+after the Court denied his motion to exclude the translation transcripts.                             Kifwa,
+
+868 F.3d at 58. The First Circuit also observed Petitioner “never asked for a continuance
+
+when the disclosure was made,” and “trial counsel told the district court that his client
+
+(the appellant) ‘resisted any efforts to delay.’” Id. at 63 & n.4. The First Circuit thus noted
+
+that Petitioner personally resisted any delay in the trial. Id.
+
+        The First Circuit concluded Petitioner had failed to show prejudice. “Where, as
+
+here, a defendant spurns a continuance that would have cured the adverse effects of a
+
+delayed disclosure, a claim of prejudice will not lie.” Kifwa, 868 F.3d at 63. The Court
+
+pointed out that Petitioner was a party to all of the telephone calls, the calls were recent,
+
+
+
+
+5
+ Petitioner contends that counsel should have requested a continuance after the Court denied the motion to
+exclude the transcripts. (Reply at 7-8.) Such a request would have been contrary to Petitioner’s wishes as
+expressed to this Court before trial; the Court noted in the pretrial conference of counsel that Petitioner did
+not seek any extension from the requirements of the Speedy Trial Act, 18 U.S.C. § 3161. (Conference Tr.,
+ECF No. 140 at 28.)
+
+
+                                                      8
+and the recordings were shared with the defense weeks before trial and reasonably soon
+
+after the Government obtained the recordings. Id. at 61.
+
+       We also think it noteworthy that the appellant has neither identified any
+       specific inaccuracies in the government’s translations nor pointed to any
+       specific piece of information as a source of unfair surprise. This lack of
+       specificity has special significance because whether or not the appellant had
+       adequate time to review the translations before trial, he surely had adequate
+       time to review them when preparing his brief on appeal.
+
+Id. The Court additionally explained that the case “does not exhibit any of the familiar
+
+telltales of prejudice.” Kifwa, 868 F.3d at 62. As an example, the Court noted that counsel
+
+was able to use the translation transcript, albeit unsuccessfully, to blame the translator for
+
+a negative connotation to Petitioner’s use of a word that had been translated to “steal” in
+
+one of the transcripts. Id. “Even so, he did not explain the other suspicious parts of the
+
+excerpt, such as specifying that the letter should be predated−and he offers no explanation
+
+now.” Id.
+
+       The First Circuit also concluded that any delay in the disclosure of the translation
+
+transcripts did not foreclose strategic options regarding a plea or a decision whether to
+
+testify, because Petitioner had access to the recordings weeks before trial, he had the
+
+translation transcripts before the trial started, and there was “a wide range of witnesses and
+
+documentary evidence−known in advance to the appellant−to focus the jury’s attention on
+
+the suspicious discrepancies in the appellant’s visa paperwork, his erroneous statements to
+
+immigration officers, and his pattern of illegitimate financial dealings.” Id. at 62-63.
+
+       The First Circuit’s determination that the record established that Petitioner told
+
+counsel he did not want any delay, and the First Circuit’s determination that there was no
+
+
+                                              9
+prejudice from counsel’s failure to seek a continuance of the trial, preclude Petitioner’s
+
+claim of either deficient performance by counsel or Strickland prejudice. (Reply at 7.)6
+
+                 2. Failure to argue prosecutorial misconduct
+
+        Petitioner alleges counsel was ineffective because counsel failed to argue that the
+
+delay in the disclosure of the translation transcripts was the result of bad faith by the
+
+prosecutor. (Motion at 4.) The First Circuit upheld the Court’s conclusion that the
+
+Government’s disclosure was not due to bad faith: “[T]he relevance of the telephone calls
+
+only became apparent late in the game, a large number of calls had to be appraised, and
+
+Lingala translators proved to be hen’s-teeth rare.” Kifwa, 868 F.3d at 61.
+
+        The First Circuit’s conclusion that the Government did not act in bad faith precludes
+
+any underlying claim of bad faith, and, consequently, any related claim of ineffective
+
+assistance for failure to argue bad faith. See Tse, 290 F.3d at 465.
+
+
+
+6
+  Petitioner also alleges ineffective assistance concerning the audio recordings of the telephone
+conversations. (Reply at 6.) Regardless of whether Petitioner could or could not prove his allegation that
+counsel failed to provide him with the recordings or to review them with him, he cannot demonstrate
+prejudice:
+
+        After all, the appellant was a party to all of the telephone conversations and, thus, must
+        have been aware of their contents. What is more, the conversations were not retrieved from
+        the distant past; the calls had been placed by the appellant while awaiting trial. It is fair to
+        presume that appellant remembered the contents of the calls (at least, in general terms).
+
+Kifwa, 868 F.3d at 61.
+
+          Petitioner also alleges, for the first time in the reply, either insufficient evidence or actual innocence
+regarding the visa fraud conviction. (Reply at 3.) See United States v. Barrett, 178 F.3d 34, 57
+(1st Cir. 1999). Regardless of whether the allegations should be addressed, given that Petitioner failed to
+raise them in his initial section 2255 motion, the allegations fail on the merits, because the First Circuit, in
+its discussion of whether Petitioner might have pled guilty if he had had the translations earlier, concluded
+that there was “a wide range of witnesses and documentary evidence” of guilt on all of the charges. Kifwa,
+868 F.3d at 62-63.
+
+
+                                                        10
+              3. Failure to investigate the accuracy of the translation transcripts
+
+       On appeal, Petitioner argued counsel was ineffective because he failed to retain a
+
+Lingala/English translation expert, and failed to investigate the accuracy of the translation
+
+transcripts. (Brief of Appellant-Defendant, ECF No. 157-14 at 80-81.) Petitioner argued
+
+he was prejudiced because “there are record indications that those translations were faulty
+
+but defense counsel was unprepared to challenge the Government’s translations.” (Id. at
+
+81-82.)
+
+       Petitioner cannot demonstrate either deficient performance by counsel or prejudice
+
+to Petitioner regarding counsel’s failure to engage a Lingala translation expert.
+
+Counsel moved to exclude the translation transcripts (Motion to Exclude, ECF No. 81), but
+
+he did not move to continue the trial, because Petitioner did not want to delay the trial.
+
+(Conference Tr., ECF No. 140 at 25; Trial Tr. I at 8.) Counsel objected, on the grounds set
+
+forth in the motion to exclude, when the translation transcripts were offered in evidence.
+
+(Trial Tr. I, ECF No. 131 at 242.) Petitioner’s own decision to decline the opportunity to
+
+continue the trial necessarily meant that there would be insufficient time between the
+
+completion of the translation transcripts on the eve of trial, and the commencement of the
+
+trial, to engage a Lingala expert to review the Government translator’s work. Under the
+
+circumstances, counsel’s performance was reasonable, and Petitioner cannot demonstrate
+
+prejudice from counsel’s failure to engage a Lingala translation expert. See Strickland,
+
+466 U.S. at 689, 694.
+
+       Petitioner asserts he was not “given the opportunity to aid in deciphering the
+
+meanings or context of [the] conversations” despite having raised the issue with counsel.
+
+                                             11
+(Reply at 4.) Petitioner alleges specifically a faulty translation regarding the use of the
+
+word “steal” in one of the transcripts. (Id. at 6.) Petitioner testified on cross-examination
+
+at trial that “the interpretation may be wrong.” (Trial Tr. (Excerpt), ECF No. 101 at 104.)
+
+The First Circuit noted Petitioner addressed the issue when he “made a valiant (though
+
+unconvincing) attempt to refute the government’s interpretation of the recordings at trial.”
+
+Kifwa, 868 F.3d at 62. That Petitioner’s attempt was unconvincing does not render
+
+counsel’s performance deficient, and Petitioner alleges no additional specific problems
+
+with the translation. See Strickland, 466 U.S. at 699.
+
+        Petitioner apparently attempted to assert, for the first time in the reply, an ineffective
+
+assistance claim regarding a language issue that is unrelated to the translation transcripts.
+
+The claim concerns the conviction for making a false statement, and Petitioner’s response
+
+of “Congo” to a question posed by the arresting officer.7 (Reply at 6.) Petitioner’s section
+
+2255 reply allegation does not appear to relate to the claims raised in his section 2255
+
+motion.
+
+        The Court may decline to address a claim that is raised for the first time in a reply.
+
+See Barrett, 178 F.3d at 57. However, even if Petitioner had made the allegation in his
+
+section 2255 motion, it would fail on the merits, because there was evidence, provided by
+
+the arresting officer’s trial testimony, that Petitioner falsely stated that he had never been
+
+
+
+7
+  At trial, Petitioner testified, on direct examination, that he thought the arresting officer had asked him if
+he came from Canada, and he answered “No.” (Trial Tr. (Excerpt), No. 101 at 55.) In response to the
+question: “[Y]our understanding of the question was did you come here from Canada?” Petitioner replied:
+“Yeah, like if I crossed the border from Canada to come to the United States. No, I never come [sic] Canada
+from the United States, no.” (Id.) Counsel asked: “Or come to the United States from Canada?” Petitioner
+replied: “No, I came from Congo.” (Id.)
+
+                                                      12
+to Canada. (Trial Tr. I at 87.) Because Petitioner has no meritorious underlying claim
+
+regarding the evidence in support of the conviction, any related ineffective assistance claim
+
+fails as well. See Tse, 290 F.3d at 465.
+
+        Petitioner also alleges “[m]any times it was mentioned [he] was deported from
+
+Canada. Petitioner is a dual citizen of Congo.” (Reply at 4.) The issue of Petitioner’s
+
+deportations from Canada appears for the first time in the reply, and it is unrelated to his
+
+section 2255 claims regarding the translation transcripts of his pretrial detention telephone
+
+conversations. See Barrett, 178 F.3d 57. Had Petitioner raised an ineffective assistance
+
+claim based on the issue of Petitioner’s Canadian deportations, the claim would have failed
+
+on the merits, as counsel addressed the issue in a pretrial motion in limine.
+
+(Motion, ECF No. 67.) The Court ruled that no action was necessary on the motion, as
+
+stated on the record. (Order, ECF No. 78.) At the pretrial conference, the parties agreed
+
+that allegations in the superseding indictment that Petitioner had been deported from
+
+Canada would be redacted, and the Government agreed to avoid mention of the Canadian
+
+deportations at trial. (Conference Tr. at 2-4.) Counsel’s performance thus was not
+
+deficient, and Petitioner has failed to demonstrate any prejudice.
+
+                4. Failure to discredit the Government’s witness
+
+        Petitioner alleges for the first time in his reply that counsel failed to call additional
+
+witnesses at trial to discredit the Government’s cooperating witness, Mintela.8 (Reply at
+
+
+8
+  At the pretrial conference of counsel, counsel told the Court: “My client informed me after jury selection
+that he had three or four witnesses that he wanted to call . . . .” (Conference Tr., ECF No. 140 at 30.)
+It appears one of the witnesses identified in Petitioner’s reply was present at the trial but did not testify.
+(Reply at 4; Trial Tr. I, ECF No. 131 at 19, 23-24.)
+
+
+                                                     13
+4.)     Petitioner identifies two witnesses whom he asserts would have “clarified the
+
+relationship” between Petitioner and Mintela. (Id.) He alleges a third witness would have
+
+corroborated the testimony of one of the other witnesses. (Id.) Petitioner also contends
+
+counsel should have offered evidence, apparently through one or more of the additional
+
+witnesses, regarding the benefit Mintela received in return for his testimony; Petitioner
+
+alleges Mintela received permission for him and his family to remain in the United States.
+
+(Id.)
+
+         The Government elicited on direct examination that Mintela hoped the Government
+
+would recommend a sentence reduction in return for Mintela’s cooperation with the
+
+Government. (Trial Tr. I at 171.) Petitioner’s counsel asked Mintela on cross-examination
+
+whether he understood that if he were convicted, he could be deported. (Trial Tr. I at 230.)
+
+Because the Government elicited the nature of the cooperation deal and the benefit to
+
+Mintela, counsel’s performance was not deficient, nor was Petitioner prejudiced by
+
+counsel’s failure to inquire further. Furthermore, there is no support for Petitioner’s
+
+allegation that when Mintela testified, he might have been under the impression he could
+
+be granted permission to remain in the United States in return for his cooperation.
+
+         Regardless of whether the claim concerning the additional witnesses should be
+
+considered given that Petitioner asserted it for the first time in the reply, see Barrett,
+
+178 F.3d 57, the claim fails on the merits because it is vague and unsupported in the record,
+
+and because Petitioner fails to allege how the additional testimony would have helped his
+
+defense. See David, 134 F.3d at 478.
+
+
+
+                                             14
+              5. Advice at sentencing
+
+       Petitioner asserts that at sentencing, counsel advised him to answer “yes” to all of
+
+the Court’s questions. (Motion at 5.) He alleges in his reply that although he expressed
+
+dissatisfaction with counsel at sentencing, he followed counsel’s instructions because he
+
+feared reprisal in his home country. (Reply at 3, 10-11.) He evidently also contends that
+
+he did not understand the sentencing proceedings, and that counsel failed to prepare for
+
+sentencing. (Id. at 3.)
+
+       In a chambers conference of counsel at sentencing, counsel informed the Court that
+
+Petitioner was “really angry” at counsel, and Petitioner was “acting like he doesn’t
+
+understand anything that has happened or is going to happen.”               (Sentencing Tr.,
+
+ECF No. 141 at 2.) The Court noted that Petitioner had sent, and the Court had reviewed,
+
+“a series of letters” concerning Petitioner’s relationship with counsel. (Id. at 3.)
+
+       At the start of the sentencing hearing, the Court asked Petitioner, who had a
+
+French-speaking court-appointed interpreter, whether Petitioner wanted to continue to have
+
+counsel represent him at sentencing, given the complaints Petitioner had expressed to the
+
+Court about counsel. (Id. at 6, 8-9.) Petitioner responded, through the interpreter, “I will
+
+continue,” and he responded affirmatively when the Court asked whether he was satisfied
+
+with his representation for purposes of sentencing. (Id. at 9.)       Petitioner also told the
+
+Court, in response to the Court’s questions, that he had not taken any drugs or alcohol in
+
+the past 24 hours; that he was not then on any medicine; that he had read the revised
+
+presentence investigation report and had discussed it with counsel; and that he had
+
+sufficient time to review the report. (Id. at 10.) In response to the Court’s question about
+
+                                              15
+the use of the interpreter, Petitioner responded that he wanted to use the interpreter only
+
+when he was uncertain about what something meant. (Id. at 14-15.) The record reflects
+
+Petitioner did not engage the interpreter for the remainder of the hearing.
+
+       “The need for competency survives trial and extends through the sentencing phase
+
+of a criminal proceeding.” United States v. Pellerito, 878 F.2d 1535, 1544 (1st Cir. 1989).
+
+“Surely, the sentencing process necessitates that the defendant possess both a ‘present
+
+ability to consult with [a] lawyer with a reasonable degree of rational understanding,’ and
+
+a ‘rational as well as factual understanding of the proceedings.’” Id. (quoting Dusky v.
+
+United States, 362 U.S. 402, 402 (1960) (per curiam) (defining competence to stand trial)).
+
+       The claim is procedurally defaulted to the extent Petitioner alleges he was not
+
+mentally competent to be sentenced, because Petitioner failed to raise the issue on appeal.
+
+See Berthoff, 308 F.3d at 127-28.
+
+       In addition, Petitioner’s allegation that he did not understand the sentencing
+
+proceedings is directly contradicted by the record, particularly by his responses to the
+
+Court’s questions during the hearing, his decisions regarding when the interpreter was
+
+needed, and his extensive allocution (Sentencing Tr. at 57-69). See David, 134 F.3d at 478.
+
+There is simply no record support that Petitioner lacked the ability to understand the
+
+proceedings. See Pellerito, 878 F.2d at 1544.
+
+       Furthermore, even if Petitioner demonstrated that his decision to follow counsel’s
+
+advice at sentencing was motivated in part by a fear of reprisal in his home country, he
+
+could not establish that he was incompetent to be sentenced, see Pellerito, 878 F.2d at
+
+1544, or that he experienced a due process deprivation at sentencing. See United States v.
+
+                                             16
+Stile, 845 F.3d 425, 430 (1st Cir. 2017) (noting a Fifth Amendment “due process right not
+
+to be sentenced on false information,” and a right to “an adequate opportunity to refute
+
+information relied on at sentencing;” and noting a due process right under Fed. R. Crim. P.
+
+32 “‘to speak or present any information to mitigate the sentence’”) (quoting Fed. R. Crim.
+
+P. 32(i)(4)(A)(ii)).
+
+       Because Petitioner’s sentencing arguments fail, his related ineffective assistance
+
+claim fails. See Tse, 290 F.3d at 465.
+
+                                    III.    CONCLUSION
+
+       Based on the foregoing analysis, an evidentiary hearing is not warranted under Rule
+
+8 of the Rules Governing Section 2255 Cases. In addition, I recommend that the Court
+
+deny Petitioner’s motion for habeas relief under 28 U.S.C. § 2255. I further recommend
+
+that the Court deny a certificate of appealability pursuant to Rule 11 of the Rules Governing
+
+Section 2255 Cases because there is no substantial showing of the denial of a constitutional
+
+right within the meaning of 28 U.S.C. § 2253(c)(2).
+
+                                           NOTICE
+
+              A party may file objections to those specified portions of a magistrate
+       judge’s report or proposed findings or recommended decisions entered
+       pursuant to 28 U.S.C. 636(b)(1)(B) for which de novo review by the district
+       court is sought, together with a supporting memorandum, within fourteen
+       (14) days of being served with a copy thereof. A responsive memorandum
+       shall be filed within fourteen (14) days after the filing of the objection.
+
+              Failure to file a timely objection shall constitute a waiver of the right
+       to de novo review by the district court and to appeal the district court’s order.
+
+       Dated this 10th day of April, 2018          /s/ John C. Nivison
+                                                   U.S. Magistrate Judge
+
+
+                                              17
+

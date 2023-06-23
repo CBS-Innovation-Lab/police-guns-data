@@ -1,0 +1,182 @@
+                       UNITED STATES DISTRICT COURT
+                            DISTRICT OF MAINE
+
+THOMAS I HICKEY, III,                  )
+                                       )
+             Petitioner,               )
+                                       )
+      v.                               )     1:07-cr-00073-JAW-1
+                                       )
+                                       )
+UNITED STATES OF AMERICA,              )
+                                       )
+             Respondent.               )
+
+                     ORDER ON 28 U.S.C. § 2255 MOTION
+
+      A petitioner moves the Court to vacate, set aside, or correct his sentence
+
+pursuant to 28 U.S.C. § 2255. Because the petitioner and the government agree that
+
+the petitioner’s sentence was based on his prior convictions and the enhanced
+
+penalties of the Armed Career Criminal Act (ACCA), 18 U.S.C. § 924(e), and because
+
+the parties agree and the record establishes that subsequent legal developments
+
+require resentencing, the Court grants the motion.
+
+I.    BACKGROUND
+
+      On July 2, 2009, following a guilty plea, Thomas I. Hickey, III, was convicted
+
+of being a felon in possession of a firearm. J. (ECF No. 67). The Probation Officer
+
+noted that Mr. Hickey had many convictions that qualified as “violent felonies” under
+
+the ACCA. Revised Presentence Investigation Report ¶¶ 20, 21, 23, 25, 27, 34, 35, 41
+
+(PSR). A person who has been convicted of a felony who then possesses a firearm
+
+ordinarily faces a fine, imprisonment for “not more than 10 years,” and not more than
+
+three years of supervised release. 18 U.S.C. §§ 922(g), 924(a)(2), 3559, 3583. Under
+
+the ACCA penalty provision, however, a felon in possession of a firearm who “has
+three previous convictions . . . for a violent felony or a serious drug offense” faces a
+
+fine, imprisonment for “not less than fifteen years,” and not more than five years of
+
+supervised release. 18 U.S.C. §§ 922(g), 924(e), 3559, 3583.
+
+      The ACCA defines the term “violent felony” as a crime punishable by
+
+imprisonment for more than one year that (1) “has as an element the use, attempted
+
+use, or threatened use of physical force against the person of another,” (2) “is
+
+burglary, arson, or extortion, [or] involves use of explosives,” or (3) “otherwise
+
+involves conduct that presents a serious potential risk of physical injury to
+
+another . . ..” 18 U.S.C. § 924(e)(2)(B). The first part of the definition is known as the
+
+“force clause,” the second part is known as the “enumerated offenses clause,” and the
+
+third is known as the “residual clause.” See United States v. Frates, 896 F.3d 93, 96
+
+(1st Cir. 2018).
+
+       Although Mr. Hickey was subject to the enhanced penalties of the ACCA, the
+
+Government moved for a shorter sentence pursuant to United States Sentencing
+
+Guideline section 5K1.1 and 18 U.S.C. 3553(e). Mot. for Downward Departure and to
+
+Seal (ECF No. 63); Order (ECF No. 66). On July 2, 2009, the Court sentenced Mr.
+
+Hickey to ninety-nine months in prison followed by five years of supervised release.
+
+J. On August 14, 2015, Mr. Hickey was released from the custody of the Bureau of
+
+Prisons and began serving his term of supervised release, which supervision the
+
+Court transferred to the United States District Court of Massachusetts on March 9,
+
+2016. Transfer of Jurisdiction Order (ECF No. 69).
+
+
+
+
+                                            2
+      On June 26, 2015, the Supreme Court decided Johnson v. United States, 135
+
+S. Ct. 2551 (2015) (Johnson II), which held that the residual clause of the ACCA’s
+
+definition of the term “violent felony” was unconstitutionally vague. Id. at 2562-63.
+
+The Supreme Court later confirmed that the holding of Johnson II is applicable
+
+retroactively during postconviction review. Welch v. United States, 136 S. Ct. 1257,
+
+1268 (2016).
+
+      On June 17, 2019, Mr. Hickey moved the Court to vacate, set aside, or correct
+
+his sentence pursuant to 28 U.S.C. § 2255. Mot. Under 28 U.S.C. § 2255 to Vacate,
+
+Set Aside, or Correct Sentence (ECF No. 70) (Pet’r’s Mot.). On September 27, 2019,
+
+the Government responded to the motion. Gov’t’s Resp. to Mot. to Correct Sentence
+
+Under 28 U.S.C. § 2255 (ECF No. 79) (Gov’t’s Resp.).
+
+II.   DISCUSSION
+
+       Thomas I. Hickey, III, claims that he should not have been subject to the
+
+ACCA penalty provision because many of his prior convictions do not qualify as
+
+predicate offenses in light of Johnson II. Pet’r’s Mot. at 4-5. The Government agrees
+
+that the § 2255 motion should be granted because without the residual clause, only
+
+two of Mr. Hickey’s prior convictions qualify as violent felonies under the Supreme
+
+Court’s categorical approach to interpreting and applying the enumerated offense
+
+clause and the force clause. See Gov’t’s Resp. at 4-6.
+
+      The Government explains that a series of cases decided after Mr. Hickey’s
+
+sentencing has clarified that Mr. Hickey’s five Massachusetts convictions for armed
+
+robbery do not qualify as predicates, see United States v. Starks, 861 F.3d 306, 320-
+
+23 (1st Cir. 2017); Mr. Hickey’s Massachusetts conviction for breaking and entering
+
+
+                                           3
+in the nighttime does not qualify as a predicate, see United States v. Farrell, 672 F.3d
+
+27, 32-37 (1st Cir. 2012), United States v. Brown, 631 F.3d 573, 576-80 (1st Cir. 2011);
+
+and Mr. Hickey’s four Massachusetts convictions for stealing by confining or putting
+
+in fear do not qualify as predicates. See, e.g., Collins v. United States, 354 F. Supp.
+
+3d 105, 117 (D. Mass. 2019).
+
+       Because the parties agree that under Johnson II and other cases Mr. Hickey
+
+would not be subject to the enhanced penalties under ACCA and because the
+
+Government has intentionally waived the statute of limitations defense, see Gov’t’s
+
+Resp. at 3 n.2, Mr. Hickey is entitled to relief pursuant to 28 U.S.C. § 2255.
+
+III.   CONCLUSION
+
+       The Court GRANTS Thomas I. Hickey, III’s Motion to Vacate, Set Aside, or
+
+Correct Sentence (ECF No. 70). The Court ORDERS the Probation Office to prepare
+
+a new presentence investigation report and requests the Clerk to schedule a
+
+conference of counsel so that the Court can discuss resentencing with the Government
+
+attorney and Mr. Hickey’s counsel.
+
+       SO ORDERED.
+
+                                               /s/ John A. Woodcock, Jr.
+                                               JOHN A. WOODCOCK, Jr.
+                                               UNITED STATES DISTRICT JUDGE
+
+Dated this 17th day of January, 2020.
+
+
+
+
+                                           4
+

@@ -1,0 +1,529 @@
+                            UNITED STATES DISTRICT COURT
+                                 DISTRICT OF MAINE
+
+RICHARD MAGEE,                             )
+                                           )
+              Petitioner,                  )
+                                           )
+       v.                                  )      2:13-cr-00176-GZS-1
+                                           )      2:17-cv-00484-GZS
+                                           )
+UNITED STATES OF AMERICA,                  )
+                                           )
+              Respondent                   )
+
+
+            RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+       In this action, Petitioner Richard Magee moves, pursuant to 28 U.S.C. § 2255,
+
+to vacate, set aside or correct his sentence. (Motion, ECF No. 368.) Following a guilty
+
+plea, Petitioner was convicted of being a felon in possession of firearms, of distributing
+
+cocaine, and of possession with intent to distribute cocaine; the Court sentenced Petitioner
+
+to 70 months in prison. (Judgment, ECF No. 301 at 1-3.) The First Circuit affirmed the
+
+conviction and the sentence on appeal. United States v. Magee, 834 F.3d 30 (1st Cir. 2016),
+
+cert. denied, 137 S. Ct. 1832 (2017).
+
+       In his reply memorandum, Petitioner reiterated that his sole section 2255 claim is
+
+that appellate counsel provided ineffective assistance when counsel failed “to raise the
+
+relevant conduct drug quantity issue” at sentencing. (Motion at 4; Reply, ECF No. 376 at
+
+2.) Petitioner evidently contends appellate counsel was ineffective based on counsel’s
+
+failure to argue in accordance with the issue discussed in the concurring opinion in the First
+
+Circuit’s decision on Petitioner’s appeal. (Id.) Magee, 834 F.3d at 38-39 (Torruella, J.,
+concurring).1 Petitioner cites Nelson v. Colorado, --- U.S. ---, 137 S. Ct. 1249 (2017), in
+
+further support of the claim. (Notice of Supreme Court Decision, ECF No. 371.) In
+
+addition, Petitioner contends appellate counsel provided ineffective assistance when
+
+counsel conceded one of the two factual bases for the drug quantity calculation.
+
+(Memorandum in Support of Motion, ECF No. 370-1 at 5.)
+
+
+
+
+1
+    The concurring opinion states:
+
+                    Although I join the court’s opinion finding that Magee waived any challenge to the
+          district court’s drug quantity calculation, I write separately to note my continuing
+          disagreement with the government’s practice of charging relatively minor crimes, while
+          using section 1B1.3(a) of the Sentencing Guidelines (allowing for consideration of
+          “relevant [uncharged] conduct”) to argue for significantly enhanced terms of
+          imprisonment. United States v. St. Hill, 768 F.3d 33, 36 (1st Cir. 2014). As I argued in
+          St. Hill, it is constitutionally suspect to drastically increase a defendant’s sentence based
+          on conduct that was neither proven beyond a reasonable doubt nor to which the defendant
+          plead guilty. 768 F.3d at 39-42 (Torruella, J., concurring).
+
+                   This case provides the perfect example of how egregious this enhancement may
+          be. Magee pled guilty to four drug charges, encompassing conduct that had a total cocaine
+          amount of 40.8 grams (three separate sales of 3.5 grams plus 29.3 grams seized in his
+          home). This, along with his criminal history, would have resulted in a sentencing range of,
+          at most, 18 to 24 months’ imprisonment. U.S.S.G. § 2D1.1(c)(14) (providing an offense
+          level of 12 when the cocaine amount is less than 50 grams). Instead, when relevant related
+          conduct was taken into consideration, Magee was sentenced based on a significantly larger
+          amount of cocaine (1,220.1 grams, supra, at 35-36). This resulted in a sentencing range of
+          70 to 87 months’ imprisonment. In other words, Magee’s sentence was enhanced by a
+          minimum of almost four years (nearly quadrupling his total sentence) on the basis of
+          conduct that was neither part of his guilty plea nor proven beyond a reasonable doubt. If
+          the government wishes to hold Magee accountable for distributing 1,220.1 grams of
+          cocaine then it should charge him with offenses that contain a corresponding amount of
+          cocaine. Nevertheless, because Magee appeared to waive this issue I join the majority’s
+          opinion.
+
+United States v. Magee, 834 F.3d 30, 38–39 (1st Cir. 2016) (Torruella, J., concurring) (footnotes omitted),
+cert. denied, 137 S. Ct. 1832 (2017). In United States v. St. Hill, 768 F.3d 33 (1st Cir. 2014), following
+issuance of the opinion, in response to the appellant’s motion, the First Circuit recalled the mandate, vacated
+the opinion, and affirmed the judgment, No. 13-2097 (1st Cir. Feb. 22, 2016); cert. denied, 137 S. Ct. 619
+(2017).
+
+
+                                                       2
+       Following a review of Petitioner’s motion, the Government’s request for dismissal,
+
+and the record, I recommend the Court grant the Government’s request, and dismiss
+
+Petitioner’s motion.
+
+              I.       FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+       Petitioner pled guilty to four drug charges and to being a felon in possession of
+
+firearms, pursuant to 18 U.S.C. §§ 922(g)(1), 924(a)(2) (Count 1 for felon in possession);
+
+and pursuant to 21 U.S.C. § 841(a)(1), (b)(1)(C) (Counts 5, 6, and 7 for distribution of
+
+cocaine, and Count 18 for possession with intent to distribute cocaine). (Judgment at 1-2.)
+
+The Court sentenced Petitioner to a total concurrent prison term of 70 months, to be
+
+followed by concurrent terms of three years of supervised release. (Judgment at 3-4.)
+
+       Under the plea agreement, Petitioner agreed to be sentenced to a prison term of not
+
+more than 20 years on the drug charges. (Plea Agreement, ECF No. 248 at 1-2.) The plea
+
+was conditioned on Petitioner’s right to appeal from several decisions on evidentiary issues
+
+and other issues. (Conditional Plea, ECF No. 247.)
+
+       At sentencing, counsel raised the due process argument that Petitioner includes in
+
+his section 2255 motion – i.e., that the use of relevant uncharged conduct to enhance the
+
+sentence was improper;2 the Court rejected the argument, explaining that Circuit precedent
+
+provided that relevant conduct, including conduct for which Petitioner was not charged or
+
+convicted, may be considered at sentencing. (Sentencing Tr., ECF No. 323 at 164-65.)
+
+
+
+
+2
+ Petitioner does not assert a section 2255 claim against trial counsel. (Motion, ECF No. 368 at 4;
+Memorandum in Support of Motion, ECF No. 370-1 at 30; Reply, ECF No. 376 at 2.)
+
+
+                                                3
+          Counsel also argued at sentencing that the Government’s evidence of the drug
+
+quantity was speculative because Petitioner − by using the term “a thousand” during an
+
+intercepted telephone conversation with David Jones, which call was referred to as “Call
+
+3869” − may have meant 1,000 grams; $1,000; or something else. (Sentencing Tr.,
+
+ECF No. 323 at 160, 163-65, 171, 180.)3
+
+          Petitioner appealed from both the conviction and the sentence, and the First Circuit
+
+affirmed the judgment. Magee, 834 F.3d at 31. The First Circuit addressed both the drug
+
+quantity and the criminal history calculation.4 Id. at 35-38. Regarding the drug quantity,
+
+the First Circuit noted that this Court “attributed over 1,000 grams of cocaine to Magee as
+
+relevant uncharged conduct.” Id. at 35. The Court noted Petitioner’s argument that the
+
+drug quantity testimony of Michael Paul was “too unreliable to credit as a general matter,
+
+given Paul’s admitted memory problems.” Id. at 36.
+
+          The Court concluded, however, that Petitioner had waived the drug quantity issue
+
+on appeal, because he failed to contest other evidence that supported the drug quantity:
+
+          [T]he District Court found that the [presentence investigation report’s] drug
+          quantity calculation was correct based on Paul’s drug quantity testimony
+          “and the other evidence . . . [it] cited.” That “other evidence” included an
+          intercepted call in which Magee discussed drug quantity with Jones (“Call
+          3869”). The government argued below that Call 3869 itself was sufficient to
+          establish that Magee was responsible for 1,000 grams of cocaine and thus
+          that a [base offense level (BOL)] of 24 was warranted. On appeal, the
+          government again contends that Call 3869 independently establishes that
+          Magee dealt in 1,000 gram quantities of cocaine and thus that the District
+          Court did not err in calculating a BOL of 24 for Magee. The government
+          further contends that Magee, by virtue of his failure to address Call 3869,
+3
+ Petitioner did not contest that 70 grams was attributable to Petitioner’s contact with Jones. (Sentencing
+Tr. at 151.)
+4
+    Petitioner does not assert a section 2255 claim regarding the criminal history calculation.
+
+                                                        4
+          waived any challenge to the District Court’s drug quantity and BOL
+          determinations.
+
+                 In his briefing to this Court, Magee did not address Call 3869. At oral
+          argument, moreover, Magee conceded that the District Court’s drug quantity
+          and BOL determinations were adequately supported. Magee clarified that
+          the purpose of his objection to Paul’s drug quantity testimony was to contest
+          the District Court’s criminal history calculation, and not the District Court’s
+          drug quantity and BOL calculations. Under these circumstances, we
+          conclude that Magee has waived any challenge to the District Court’s drug
+          quantity and BOL determinations.
+
+Id. at 36-37 (footnotes omitted) (citing United States v. Taveras, 118 F. App’x 516, 517-18
+
+(1st Cir. 2004) (per curiam)).5
+
+          The Supreme Court denied certiorari in April 2017. Magee, 137 S. Ct. 1832.
+
+Petitioner states he placed his section 2255 motion in the prison mailing system on
+
+December 12, 2017. (Motion at 12.)
+
+
+
+
+5
+    The First Circuit noted:
+
+          Call 3869, which took place on August 23, 2013, provides in relevant part:
+
+               Magee: Sounds good brother but in the meantime if you need something you know
+               what, I go once a week only and I'm [. . .] usually only good for a day.
+
+               Jones: Yeah I know. [. . .]
+
+               Magee: Come back with f -----g a thousand and they are gone in f-----g two hours you
+               know?
+
+               Jones: Yeah, I’m not looking for anything bigger than that . . .
+
+          A [Drug Enforcement Agency (DEA)] agent testified that the reference to “a thousand”
+          was a coded reference to 1,000 grams of cocaine.
+
+Magee, 834 F.3d at 36 n.6.
+
+
+
+                                                        5
+                                    II.    DISCUSSION
+
+       A. Legal Standards
+
+       A person may move to vacate his or her sentence on one of four different grounds:
+
+(1) “that the sentence was imposed in violation of the Constitution or laws of the United
+
+States”; (2) “that the court was without jurisdiction” to impose its sentence; (3) “that the
+
+sentence was in excess of the maximum authorized by law”; or (4) that the sentence
+
+“is otherwise subject to collateral attack.” 28 U.S.C. § 2255(a); see Knight v. United States,
+
+37 F.3d 769, 772 (1st Cir. 1994).
+
+       The burden is on the section 2255 petitioner to establish by a preponderance of the
+
+evidence that he or she is entitled to section 2255 relief.        David v. United States,
+
+134 F.3d 470, 474 (1st Cir. 1998); United States v. DiCarlo, 575 F.2d 952, 954
+
+(1st Cir. 1978). When “a petition for federal habeas relief is presented to the judge who
+
+presided at the petitioner’s trial, the judge is at liberty to employ the knowledge gleaned
+
+during previous proceedings and make findings based thereon without convening an
+
+additional hearing.”    United States v. McGill, 11 F.3d 223, 225 (1st Cir. 1993);
+
+United States v. Isom, 85 F.3d 831, 838 (1st Cir. 1996) (applying McGill to a case involving
+
+a plea).
+
+       A collateral challenge is not a substitute for an appeal. United States v. Frady,
+
+456 U.S. 152, 165 (1982); Berthoff v. United States, 308 F.3d 124, 127 (1st Cir. 2002).
+
+“Accordingly, a defendant’s failure to raise a claim in a timely manner at trial or on appeal
+
+constitutes a procedural default that bars collateral review, unless the defendant can
+
+demonstrate cause for the failure and prejudice or actual innocence.” Berthoff,
+
+                                              6
+308 F.3d at 127-28. The Supreme Court has noted that “‘actual innocence’ means factual
+
+innocence, not mere legal insufficiency.” Bousley v. United States, 523 U.S. 614, 623
+
+(1998).
+
+       An allegation of ineffective assistance of counsel may excuse a procedural default,
+
+but only if the petitioner demonstrates both “that counsel’s representation fell below an
+
+objective standard of reasonableness,” and prejudice.           Strickland v. Washington,
+
+466 U.S. 668, 688, 694 (1984)). A district court reviewing a claim of ineffective assistance
+
+of counsel need not address both prongs of the test, because a failure to meet either prong
+
+will undermine the claim. Strickland, 466 U.S. at 697. Furthermore, if a petitioner’s
+
+“claims fail on the merits, his related claims that counsel rendered ineffective assistance in
+
+failing to press the claims at trial or on appeal must also fail.” Tse v. United States,
+
+290 F.3d 462, 465 (1st Cir. 2002) (per curiam).
+
+       B. Claims and Analysis
+
+       Petitioner’s section 2255 claim is based in part on the concurring opinion in his
+
+appeal (quoted above) and on Nelson, in which the Supreme Court held that a Colorado
+
+law that provided for the State’s retention of “conviction-related assessments unless and
+
+until the prevailing defendant institutes a discrete civil proceeding and proves her
+
+innocence by clear and convincing evidence . . . offends the Fourteenth Amendment’s
+
+guarantee of due process.” 137 S. Ct. at 1252. In support of Petitioner’s section 2255
+
+
+
+
+                                              7
+motion, he attaches an article that posits “Nelson . . . may have effectively overruled the
+
+Court’s per curiam decision” in United States v. Watts, 519 U.S. 148 (1997) (per curiam).6
+
+       In Watts, the Supreme Court discussed 18 U.S.C. § 3661, “which codifies the
+
+longstanding principle that sentencing courts have broad discretion to consider various
+
+kinds of information.” Watts, 519 U.S. at 151. Section 3661 states:
+
+       No limitation shall be placed on the information concerning the background,
+       character, and conduct of a person convicted of an offense which a court of
+       the United States may receive and consider for the purpose of imposing an
+       appropriate sentence.
+
+18 U.S.C. § 3661. USSG § 1B1.4 states, correspondingly:
+
+        In determining the sentence to impose within the guideline range, or whether
+       a departure from the guidelines is warranted, the court may consider, without
+       limitation, any information concerning the background, character and
+       conduct of the defendant, unless otherwise prohibited by law. See 18 U.S.C.
+       § 3661.
+
+       The law is well-settled that due process is not violated when the sentencing court
+
+considers relevant uncharged conduct:
+
+       The Supreme Court has held that the guidelines’ grant of discretion to
+       sentencing judges to consider a defendant’s other relevant conduct, including
+       uncharged or unconvicted conduct, is consistent with both the Sentencing
+       Reform Act and principles of due process, provided that the underlying facts
+       are found by a preponderance of the evidence. United States v. Watts,
+       [519 U.S. 148, 153–56] (1997). It follows that there is no comparable
+       statutory or constitutional impediment to considering a specific category of
+       “relevant conduct” . . . .
+
+
+
+
+6
+ Petitioner attached to his Notice of Supreme Court Decision what appears to be a copy of an article by
+Alan Ellis, Mark H. Allenbaugh, & Doug Passion, entitled “Does an Acquittal Now Matter at Sentencing?
+Reining In Relevant Conduct Through a Recent Restitution Ruling,” (Bloomberg Law Insights, BNA
+Criminal Law Reporter, Jan. 17, 2018, ECF No. 371-1).
+
+                                                  8
+United States v. Gaffney-Kessell, 772 F.3d 97, 101 (1st Cir. 2014) (concluding the
+
+sentencing court may take into account unconvicted sexual conduct                                  under
+
+USSG § 4B1.5(b)).7 In United States v. Cox, 851 F.3d 113 (1st Cir. 2017), the First Circuit
+
+noted: “[W]e have previously considered, and rejected, arguments that the Fifth
+
+Amendment’s Due Process Clause and the Sixth Amendment right to a jury trial prohibit
+
+the finding of sentencing facts by a preponderance of the evidence.” 851 F.3d at 120
+
+(citing, inter alia, Watts, 519 U.S. at 156; United States v. Munyenyezi, 781 F.3d 532, 544
+
+(1st Cir. 2015) (“[A] judge can find facts for sentencing purposes by a preponderance of
+
+the evidence, so long as those facts do not affect either the statutory minimum or the
+
+statutory maximum.”) (citations omitted)).
+
+        Appellate counsel was not required to challenge this settled precedent in order to
+
+satisfy the objective standard of reasonableness under Strickland. See 466 U.S. at 688.
+
+“The law does not require counsel to raise every available nonfrivolous defense.” Knowles
+
+v. Mirzayance, 556 U.S. 111, 127 (2009); see Johnston v. Mitchell, 871 F.3d 52, 63 (1st Cir.
+
+2017). Counsel’s performance was not substandard for failing to raise an argument as to
+
+
+7
+  It appears the Fourth Circuit rejected an argument similar to Petitioner’s in United States v. Stanback,
+Nos. 17-4687, 17-4688, --- F. App’x ---, 2018 WL 3006339, at *2 n.2, 2018 U.S. App. Lexis, 16144,
+at *3 n.2 (4th Cir. June 15, 2018) (concluding a career offender challenge under Nelson was “unavailing”).
+District courts in other jurisdictions have concluded Nelson did not overrule Watts. In United States v.
+Tegeler, No. 4:14-cr-03091-JMG-CRZ, --- F. Supp.3d ---, 2018 WL 1954200, 2018 U.S. Dist. Lexis 65439
+(D. Neb. Apr. 16, 2018), the court concluded that “Nelson simply has no bearing” on a due process claim
+that the defendant was sentenced based on uncharged misconduct. 2018 WL 1954200, at *2,
+2018 U.S. Dist. Lexis 65439, at *6-7 (discussing Miller v. United States, No. 2:09-cr-20031-CM,
+2018 WL 1693372, 2018 U.S. Dist. Lexis 58677 (D. Kan. Apr. 5, 2018); and citing Wood v. United States,
+No. 2:93-cr-00090-RBS-3, 2018 WL 793608, 2018 U.S. Dist. Lexis 21433 (E.D. Va. Feb. 8, 2018)).
+In Tegeler, the court concluded, among other things, that the defendant’s due process claim failed on the
+merits, because “uncharged relevant conduct may be used to enhance a sentence imposed within statutory
+limits.” Tegeler, 2018 WL 1954200, at *3; 2018 U.S. Dist. Lexis 65439, at *8 (citing, inter alia,
+Edwards v. United States, 523 U.S. 511 (1998)).
+
+                                                    9
+which there was no Supreme Court precedent even if there was “nothing to lose.” See
+
+Knowles, 556 U.S. at 122 (“This Court has never established anything akin to . . . [a]
+
+‘nothing to lose’ standard for evaluating Strickland claims.”); Johnston, 871 F.3d at 63.
+
+Furthermore, Petitioner cannot demonstrate prejudice because, given that the law is settled
+
+and decided unfavorably to Petitioner, he cannot demonstrate that there is “a reasonable
+
+probability that, but for counsel’s unprofessional errors, the result of the proceeding would
+
+have been different.” Strickland, 466 U.S. at 694.
+
+       Petitioner additionally contends appellate counsel was ineffective because counsel
+
+waived the argument that the evidence regarding Call 3869 was insufficient to support the
+
+drug quantity. (Memorandum in Support of Motion at 5.) Petitioner apparently contends
+
+appellate counsel should have argued that the evidence was insufficient because the
+
+Government failed to produce a witness (Jones) with whom Petitioner had the intercepted
+
+telephone conversation in Call 3869, given that Petitioner expected Jones to testify on
+
+cross-examination that “any cocaine transactions between the two of them were relatively
+
+small in nature.” (Id. at 27-28.)
+
+       Petitioner cannot demonstrate either deficient performance by appellate counsel or
+
+prejudice. Sentencing counsel did not make the specific argument Petitioner raises in the
+
+section 2255 motion, i.e., that Jones would have testified on cross-examination that he
+
+understood Petitioner’s reference to “a thousand” was a reference to something other than
+
+grams, or that Jones would have testified he engaged in only small transactions with
+
+Petitioner. Rather, sentencing counsel argued that the record evidence, to the extent it was
+
+
+
+                                             10
+based on Call 3869, was speculative as to drug quantity.8 (Sentencing Tr. at 160, 163-65,
+
+171, 180.)
+
+          On the record, appellate counsel’s argument would have been limited to the
+
+argument raised by sentencing counsel, i.e., that the evidence was speculative and the
+
+Government had not met its burden. Given that the Drug Enforcement Agency agent
+
+testified that “‘a thousand’ was a coded reference to 1,000 grams of cocaine,” appellate
+
+counsel would not have had a meritorious argument that the evidence of drug quantity was
+
+speculative. Magee, 834 F.3d at 36 n.6. Because the underlying argument lacked merit,
+
+the related claim of ineffective assistance of appellate counsel also fails. See Tse, 290 F.3d
+
+at 465.
+
+                                        III.    CONCLUSION
+
+          Based on the foregoing analysis, I recommend the Court find that an evidentiary
+
+hearing is not warranted under Rule 8 of the Rules Governing Section 2255 Cases. In
+
+addition, I recommend the Court deny Petitioner’s motion for habeas relief under 28 U.S.C.
+
+§ 2255. I further recommend that the Court deny a certificate of appealability pursuant to
+
+Rule 11 of the Rules Governing Section 2255 Cases because there is no substantial showing
+
+of the denial of a constitutional right within the meaning of 28 U.S.C. § 2253(c)(2).
+
+
+
+8
+  Petitioner alleges that before the Drug Enforcement Agency agent testified that “a thousand” was a coded
+reference to 1,000 grams of cocaine, Petitioner was not aware the Government intended to rely on Call 3869
+to increase the drug quantity. (Memorandum in Support of Motion at 28 (“Prior to [the agent’s] subsequent
+testimony, Magee was totally unaware that the size of his transactions with Jones was even being
+debated.”).) Nonetheless, sentencing counsel apparently did not seek to continue the sentencing hearing
+after the Government represented to the Court that Jones was not going to be available for
+cross-examination. (Sentencing Tr. at 99-100.) Petitioner does not allege sentencing counsel was
+ineffective in any way, nor would the record support such a claim in any event.
+
+                                                   11
+                                    NOTICE
+
+       A party may file objections to those specified portions of a magistrate
+judge’s report or proposed findings or recommended decisions entered
+pursuant to 28 U.S.C. 636(b)(1)(B) for which de novo review by the district
+court is sought, together with a supporting memorandum, within fourteen
+(14) days of being served with a copy thereof. A responsive memorandum
+shall be filed within fourteen (14) days after the filing of the objection.
+
+       Failure to file a timely objection shall constitute a waiver of the right
+to de novo review by the district court and to appeal the district court’s order.
+
+
+                                            /s/ John C. Nivison
+                                            U.S. Magistrate Judge
+
+Dated this 3rd day of July, 2018.
+
+
+
+
+                                       12
+

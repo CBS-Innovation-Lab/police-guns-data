@@ -1,0 +1,436 @@
+      Case 1:19-cr-10190-PBS Document 247 Filed 08/26/20 Page 1 of 8
+
+
+
+                   UNITED STATES DISTRICT COURT
+                    DISTRICT OF MASSACHUSETTS
+___________________________________
+UNITED STATES                       )
+                                    )
+v.                                  )
+                                    ) Criminal Case
+1. MARCIO COSTA,                    ) 19-cr-10190-PBS
+2. JOAO PEDRO MARQUES GAMA,         )
+3. EDSON DASILVA,                   )
+4. BRENO HENRIQUE DASILVA,          )
+5. ALVARO DOS SANTOS MELO,          )
+6. VINICIUS GONCALVES DE ASSIS      )
+7. IGOR COSTA, and                  )
+8. MATHEUS MACHADO                  )
+___________________________________)
+
+                         MEMORANDUM AND ORDER
+
+                            August 26, 2020
+
+Saris, D.J.
+
+                             INTRODUCTION
+
+     Matheus Marley Machado is one of eight defendants charged
+
+in connection with the activities of Primeiro Comando da
+
+Massachusetts (“PCM”). Count I of the indictment charges him
+
+with a single count of RICO conspiracy. Machado moves to dismiss
+
+the indictment on the ground that it does not provide sufficient
+
+detail to allow him to defend. After hearing, the Court DENIES
+
+the motion to dismiss.
+
+                          FACTUAL BACKGROUND
+
+     Count I of the indictment charges all eight defendants with
+
+“Conspiracy to Conduct Enterprise Affairs Through a Pattern of
+
+Racketeering Activity,” in violation of 18 U.S.C. § 1962(d).
+
+
+
+                                    1
+      Case 1:19-cr-10190-PBS Document 247 Filed 08/26/20 Page 2 of 8
+
+
+
+Dkt. 89 at 2. The RICO conspiracy count describes the
+
+“enterprise” as PCM, “a criminal organization composed primarily
+
+of Brazilian immigrants.” Id. The indictment specifies at least
+
+eleven towns where PCM is active and alleges that it has
+
+operated in Massachusetts since 2017. Id. It describes hand
+
+signals and tattoos common to PCM members. Id. The alleged
+
+purposes of PCM include “[e]nriching the leaders, members, and
+
+associates . . . through drug trafficking, robbery, and the
+
+illegal sale of firearms,” “[p]reserving, protecting, and
+
+expanding the power of PCM through the use of robberies,
+
+intimidation, violence, threats of violence, assaults, and
+
+attempted murders,” “[p]romoting and enhancing PCM,” and
+
+“[p]rotecting [members] from attacks by rival criminal
+
+organizations.” Id. at 3-4.
+
+     Count I alleges that the eight co-defendants “each agreed
+
+that a conspirator would commit at least two acts of
+
+racketeering activity in the conduct of the affairs of the
+
+enterprise.” Dkt. 89 at 5. The indictment lists the predicate
+
+offenses as acts involving drug trafficking, murder, and robbery
+
+under specified state and federal statutes. Id. at 6.
+
+     The other five counts of the indictment are for conspiracy
+
+to commit robbery, Hobbs Act robbery, conspiracy to distribute
+
+cocaine, dealing in firearms without a license, and alien in
+
+possession. Id. at 1. Machado is not named in those counts.
+
+
+                                    2
+           Case 1:19-cr-10190-PBS Document 247 Filed 08/26/20 Page 3 of 8
+
+
+
+                                 LEGAL STANDARD
+
+       “An indictment is sufficient ‘if it contains the elements
+
+of the offense charged, fairly informs the defendant of the
+
+charges against which he must defend, and enables him to enter a
+
+plea without fear of double jeopardy.’” United States v.
+
+Parigian, 824 F.3d 5, 9 (1st Cir. 2016) (quoting United States
+
+v. Yefsky, 994 F.2d 885, 893 (1st Cir. 1993)).
+
+                                     ANALYSIS
+
+  I.        Parties’ Arguments
+
+       Machado argues the indictment is insufficient because it
+
+provides no details about the particular acts that he allegedly
+
+agreed would be committed in furtherance of PCM’s purposes.1 He
+
+continues that he could not have agreed to any of the predicate
+
+acts separately charged because he was detained when those acts
+
+were committed. The Government responds that it need only
+
+“allege the defendants agreed to commit two types of crimes that
+
+constitute the pattern of racketeering activity,” not particular
+
+predicate acts. Dkt. 125 at 4.
+
+
+
+
+       Machado originally argued that the indictment did not
+       1
+
+allege he personally agreed to commit two predicate acts,
+relying on language in United States v. Ramirez-Rivera, 800 F.3d
+1 (1st Cir. 2015). See Dkt. 115 at 5-6. Ramirez-Rivera is no
+longer good law. See United States v. Leoner-Aguirre, 939 F.3d
+310, 317 (1st Cir. 2019). The First Circuit has firmly
+established that the Government does not need to prove a RICO
+conspiracy defendant agreed to personally commit two predicate
+acts. See id.
+
+
+                                         3
+        Case 1:19-cr-10190-PBS Document 247 Filed 08/26/20 Page 4 of 8
+
+
+
+  II.    Discussion
+
+     The main elements of a substantive RICO charge are “(1) the
+
+conduct (2) of an enterprise (3) through a pattern of
+
+racketeering activity,” meaning the commission of two or more
+
+“predicate acts.” Salinas v. United States, 522 U.S. 52, 62
+
+(1997). On a RICO conspiracy count, as charged here, “the
+
+government’s burden, as to the ‘pattern of racketeering
+
+activity’ requirement . . ., is to prove that the defendant
+
+agreed that at least two acts of racketeering would be committed
+
+in furtherance of the conspiracy.” United States v. Leoner-
+
+Aguirre, 939 F.3d 310, 317 (1st Cir. 2019). “[T]he government
+
+does not need to prove that the defendant ‘himself commit[ted]
+
+or agree[d] to commit the two or more predicate acts requisite
+
+to the underlying offense.’” Id. (quoting Salinas, 522 U.S. at
+
+65) (emphasis added).
+
+     The Government asserts it is charging a “Glecier-format”
+
+RICO conspiracy, relying on the Seventh Circuit’s decision in
+
+United States v. Glecier, 923 F.2d 496 (7th Cir. 1991). In
+
+Glecier, the defendant argued the RICO conspiracy indictment
+
+against him was insufficient because it “fail[ed] to specify
+
+individual predicate acts of racketeering,” in that case “the
+
+specific bribes by date and/or case name” that Glecier was
+
+alleged to have facilitated or taken as a trial lawyer and then
+
+judge. Id. at 499. As to the elements of the offense, the
+
+
+                                      4
+      Case 1:19-cr-10190-PBS Document 247 Filed 08/26/20 Page 5 of 8
+
+
+
+Seventh Circuit held that a RICO conspiracy indictment “need
+
+only charge -- after identifying a proper enterprise and the
+
+defendant’s association with that enterprise -- that the
+
+defendant knowingly joined a conspiracy the objective of which
+
+was to operate that enterprise through an identified pattern of
+
+racketeering activity (here, the ‘pattern’ being multiple acts
+
+of bribery prohibited by specified provisions of the Illinois
+
+criminal code).” Id. at 500. The court continued that “[n]either
+
+overt acts nor specific predicate acts that the defendant agreed
+
+personally to commit need be alleged or proved.” Id. (citations
+
+omitted). The court noted that the indictment “specif[ied] the
+
+time period during which the alleged conspiracy operated, the
+
+locations and courts, the principal actors, and, with some
+
+detail, the specific types of predicate crimes to be committed
+
+and the modus operandi of the conspiracy.” Id. These details
+
+both “adequately enabled Glecier to prepare a defense” and
+
+“bar[red] any subsequent prosecution for RICO conspiracy during
+
+the same time period and involving the same co-conspirators,
+
+enterprise and racketeering activities.” Id.
+
+     The First Circuit has not expressly followed the holding in
+
+Glecier. However, the First Circuit has approved a jury
+
+instruction that required the jury to “unanimously agree on
+
+which type or types of racketeering activity that the defendant
+
+agreed the enterprise would conduct -- for example, at least two
+
+
+                                    5
+      Case 1:19-cr-10190-PBS Document 247 Filed 08/26/20 Page 6 of 8
+
+
+
+acts of murder, at least two acts of robbery, or at least two
+
+acts of narcotics trafficking, or all of them, or any
+
+combination of them.” Leoner-Aguirre, 939 F.3d at 315.
+
+Furthermore, several other circuits have adopted Glecier’s
+
+holding. See, e.g., United States v. Cornell, 780 F.3d 616, 625
+
+(4th Cir. 2015) (“[E]very circuit to have considered this issue
+
+has concluded that for a RICO conspiracy charge the jury need
+
+only be unanimous as to the types of racketeering acts that the
+
+defendants agreed to commit.”); United States v. Applins, 637
+
+F.3d 59, 81 (2d Cir. 2011) (“[A] RICO conspiracy charge need not
+
+specify the predicate or racketeering acts that the defendants
+
+agreed would be committed[.]” (citing Glecier)); United States
+
+v. Randall, 661 F.3d 1291, 1299 (10th Cir. 2011) (“[F]or a
+
+charge of RICO conspiracy, a jury need only be unanimous as to
+
+the types of predicate racketeering acts that the defendant
+
+agreed to commit, not to the specific predicate acts
+
+themselves.” (citing Glecier)); United States v. Hein, 395 F.
+
+App'x 652, 656 (11th Cir. 2010) (“[Defendants’] argument that
+
+the jury had to unanimously agree on particular and individual
+
+acts and not just the general types of predicate offenses is not
+
+supported by the law[.]”).
+
+     Based on this caselaw, the Court concludes that the
+
+indictment here sufficiently details the “pattern of
+
+racketeering” element because it specifies the types of
+
+
+                                    6
+      Case 1:19-cr-10190-PBS Document 247 Filed 08/26/20 Page 7 of 8
+
+
+
+predicate acts -- including the relevant code sections -- that
+
+Machado is alleged to have agreed would be committed in
+
+furtherance of the conspiracy. See Dkt. 89 at 6 (listing as
+
+predicate acts “multiple offenses involving the trafficking of
+
+controlled substances,” “multiple acts involving murder,”
+
+“multiple acts involving robbery,” and “multiple acts indictable
+
+under [federal code section] (relating to interference with
+
+commerce, robbery, and extortion)”).
+
+     The rest of Count I provides adequate detail about the
+
+alleged conspiracy to “fairly inform[]” Machado of the charges
+
+against him and “enable[] him to enter a plea without fear of
+
+double jeopardy.” See Parigian, 824 F.3d at 9. While the
+
+conspiracy here is wider-reaching than the bribery ring at issue
+
+in Glecier, this indictment adequately details “the locations
+
+[where the alleged conspiracy operated], the principal actors,
+
+and, with some detail, the specific types of predicate crimes to
+
+be committed and the modus operandi of the conspiracy.” See
+
+Glecier, 923 F.2d at 500.
+
+     Machado argues he could not have agreed to the predicate
+
+acts separately charged in Counts II – V of the indictment
+
+because he was detained on state charges and by ICE when those
+
+events occurred from January to April 2019. While the other
+
+counts may simultaneously be predicate acts for the RICO
+
+conspiracy count, Count I stands alone. For example, Count I
+
+
+                                    7
+      Case 1:19-cr-10190-PBS Document 247 Filed 08/26/20 Page 8 of 8
+
+
+
+lists the “pattern of racketeering” as including “multiple acts
+
+involving murder,” but there is no independent murder count. Dkt
+
+89 at 6; cf. United States v. Yefsky, 994 F.2d 885, 894 (1st
+
+Cir. 1993) (“[E]ach count [of an indictment] must be sufficient
+
+without reference to other counts unless the allegations of
+
+those counts expressly are incorporated.”) The RICO conspiracy
+
+is alleged to have existed since 2017, leaving ample time for
+
+Machado’s agreement to uncharged predicate acts of the types
+
+listed in Count I prior to his state and ICE detention.
+
+     Finally, this Court previously allowed in part Machado’s
+
+motion for a bill of particulars. See Dkt. 212. Although “a bill
+
+of particulars cannot save an invalid indictment,” Russell v.
+
+United States, 369 U.S. 749, 770 (1962), the indictment here was
+
+not invalid. In granting Machado’s bill of particulars, the
+
+Court recognized that a broad-based RICO conspiracy indictment
+
+may be sufficient to withstand a motion to dismiss and yet pose
+
+a challenge for preparing a fulsome defense.
+
+                                  ORDER
+
+     For the reasons above, Machado’s motion to dismiss the
+
+indictment against him is DENIED.
+
+
+
+SO ORDERED.
+
+                                  /s/ PATTI B. SARIS
+                                  Hon. Patti B. Saris
+                                  United States District Judge
+
+
+                                    8
+

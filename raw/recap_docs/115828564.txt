@@ -1,0 +1,313 @@
+                       IN THE UNITED STATES DISTRICT COURT
+                         FOR THE DISTRICT OF PUERTO RICO
+
+ KEVIN ORTIZ-BROOKS,
+
+   Petitioner,                                        CIVIL NO. 17-1376 (DRD)
+                                                      (Criminal Case No. 12-560 (DRD))
+      v.
+
+ UNITED STATES OF AMERICA,
+
+    Defendant.
+
+
+
+                                     OPINION AND ORDER
+
+       Pending before the Court is Kevin Ortiz-Brook’s (hereinafter “Petitioner” or “Ortiz-
+
+Brooks”) Motion Under 28 U.S.C. § 2255 to Vacate, Set Aside, or Correct Sentence by a Person
+
+in Federal Custody (Dkt No. 1). Respondent, the United States of America (hereinafter, the
+
+“Government”) filed its respective response in opposition thereto. (Dkt. No. 14).
+
+       For the reasons stated herein, the Court DENIES Petitioner’s Motion to Correct Sentence
+
+Under 28 U.S.C. § 2255. (Dkt. No. 1)
+
+                                I.     FACTUAL BACKGROUND
+
+       On July 19, 2012, Petitioner was charged with aiding and abetting a carjacking in violation
+
+of 18 U.S.C. §2119 (1), (hereinafter “Count One”) and aiding and abetting in the possession of a
+
+firearm in furtherance of a crime of violence in violation of 18 U.S.C. § 924 (c)(1)(A) (hereinafter
+
+“Count Two”). See Crim No. 12-560 at Dkt. No. 15 Indictment.
+
+       Petitioner pled guilty to Counts One and Two of the Indictment. See Crim No. 12-560 at
+
+Dkt. No. 105 Second Amended Judgment. Accordingly, on June 4, 2013, Petitioner was sentenced
+
+to sixty-six (66) months as to Count One, and eighty-four (84) months as to Count Two, to be
+
+served consecutively with each other for a total term of imprisonment of one hundred and fifty
+(150) months. Id. Upon release from imprisonment, the Petitioner would be on supervised release
+
+for a term of three (3) years as to Count One, and five (5) years as to Count Two, to be served
+
+concurrently with each other. Id.
+
+       On March 19, 2017, the Petitioner timely initiated the instant matter pursuant to 28 U.S.C.
+
+§ 2255 (Dkt. No. 1) claiming that the Supreme Court’s decision in Johnson v. United States, 135
+
+S. Ct. 2551 (2015) (hereinafter, Johnson II) struck down for vagueness the residual clause of the
+
+Armed Career Criminal Act (hereinafter ACCA), 18 U.S.C. § 924(e)(2)(B)(ii). The same opinion
+
+invalidates the similarly worded residual clause of 18 U.S.C. § 924(c)(3)(B). See Dkt. No. 1. On
+
+July 12, 2018, the Government filed a Response (Dkt. No. 14) in opposition thereto, arguing that
+
+§ 924(c)(3)(B) (hereinafter, “§ 924’s residual clause”) is not unconstitutionally vague and that, in
+
+the alternative, Count Two should subsist because it falls under the § 924(c)(3)(A) (hereinafter, “§
+
+924’s force clause”).
+
+                                          II.     ANALYSIS
+
+        Under § 2255, a prisoner prevails on his motion to vacate, set aside, or correct a sentence
+
+if the petitioner proves one of the following: (i) “the sentence was imposed in violation of the
+
+Constitution or laws of the United States,” (ii) “the court was without jurisdiction to impose such
+
+sentence,” (iii) “the sentence was in excess of the maximum authorized by law,” or (iv) the
+
+sentence “is otherwise subject to collateral attack.” 28 U.S.C. § 2255(a).
+
+       Petitioner’s § 2255 action is based on his contention that (1) § 924(c)’s residual clause is
+
+unconstitutionally vague after Johnson II; and (2) that the crime of violence charged along with
+
+violations to § 924 (c), that is, aiding and abetting a carjacking, fails to categorically qualify as a
+
+crime of violence under §924(c)’s force clause.
+
+
+
+
+                                                  2
+        Petitioner relies on Welch, wherein the Court held that Johnson constitutes “a substantive
+
+decision and so has retroactive effect in cases on collateral review.” Welch v. United States, 136
+
+S. Ct. 1257, 1265 (2016). Johnson II, in turn, held the residual clause of the ACCA, 18 U.S.C.
+
+§ 924(e)(2)(B), was unconstitutionally vague. Johnson v. United States, 135 S. Ct. 2551 (2015).
+
+The Supreme Court found the residual clause left “grave uncertainty about how to estimate the
+
+risk posed by a crime” because it tied “the judicial assessment of risk to a judicially imagined
+
+‘ordinary case’ of a crime, not to real-world facts or statutory elements.” Id. at 2253. It also found
+
+the clause left “uncertainty about how much risk it takes for a crime to qualify as a violent felony.”
+
+Id. at 2254. Petitioner sustains that these two holdings apply to his conviction under § 924(c) for
+
+aiding and abetting in a carjacking.
+
+        Recently, the Supreme Court determined that § 924(c)’s residual clause, which defined a
+
+crime of violence as “that by its nature, involv[ing] a substantial risk that physical force against
+
+the person or property of another may be used in the course of committing the offense”,1 “provides
+
+no reliable way to determine which offenses qualify as crimes of violence and thus is
+
+unconstitutionally vague”. United States v. Davis, 139 S. Ct. 2319, 2324 (2019). Rejecting the
+
+Government’s proposed use of a case-specific approach,2 and noting that “there’s no material
+
+difference in the language or scope of [the residual clauses in 18 U.S.C. § 16 and 18 U.S.C. §
+
+924(c)(3)]”,3 the Supreme Court adopted its holdings from both Johnson II and Dimaya,4 and
+
+upheld the Fifth Circuits’ “conclusion that § 924(c)(3)(B) is unconstitutionally vague.” Davis, 139
+
+S. Ct. at 2336.
+
+
+
+
+1
+  18 U.S.C. § 924(c)(3)(B).
+2
+  See Id. at 2329-30.
+3
+  Id. at 2326.
+4
+  In Sessions v. Dimaya, 137 S.Ct. 1204 (2018), the Supreme Court held that the residual clause contained in 18
+U.S.C. § 16 was unconstitutionally vague.
+
+                                                         3
+        Pursuant to Section 924(c), it is a crime for “any person, who during and in relation to any
+
+crime of violence . . . use[] or carr[y] a firearm, or who in furtherance of any such crime possesses
+
+a firearm[.]” 18 U.S.C. § 924(C)(1)(A). Further, Section § 924(c) defines a crime of violence under
+
+the force clause as “an offense that is a felony and has as an element the use, attempted use, or
+
+threatened use of physical force against the person or property of another.” 18 U.S.C.
+
+§924(c)(3)(A).
+
+        The First Circuit has recently held that aiding and abetting a Hobbs Act robbery is a crime
+
+of violence under § 924(c)’s force clause, while holding that an aider and abettor is punishable as
+
+a principal, and thus no different for purposes of the categorical approach than one who commits
+
+the substantive offense. See United States v. García-Ortiz, 904 F.3d 102 (2018). Thus, for the
+
+purposes of the instant Petition, Ortiz-Brooks is punishable as a principal and no different from
+
+the defendant who committed the substantive offense.
+
+        The First Circuit further explained that,
+
+        To assess whether a predicate crime qualifies as a ‘crime of violence’ under the force clause
+        of § 924(c), ‘we apply a categorical approach. That means we consider the elements of the
+        crime of conviction, not the facts of how it was committed, and assess whether violent
+        force is an element of the crime.
+
+United States v. Cruz-Rivera, 904 F.3d 63, 66 (1st Cir 2018)(quoting United States v. Taylor, 848
+
+F.3d 476, 491 (1st Cir.), cert. denied, ____ U.S. ____, 137 S. Ct. 2255, 198 L.Ed.2d 689 (2017).
+
+        Moreover, the federal carjacking statute provides that “[w]hoever, with the intent to cause
+
+death or serious bodily harm takes a motor vehicle that has been transported, shipped, or received
+
+in interstate or foreign commerce from the person or presence of another by force and violence or
+
+by intimidation, or attempts to do so, shall . . . be fined under this title or imprisoned not more than
+
+15 years or both.” 18 U.S.C. §§ 2119, 2119(1) (Emphasis ours). Thus, the elements of the offense
+
+of carjacking under § 2119 require that the Government prove that the defendant committed said
+
+                                                    4
+offense “with the intent of causing death or serious bodily harm”. See Id. Petitioner contends that
+
+the aforementioned statute does not satisfy § 924(c)(3)(A)’s force clause because “(1) the offense
+
+can be committed by intimidation, which does not require violent force, (2) aiding and abetting
+
+does not require the use of violent force, and (3) the statute is indivisible, meaning we must
+
+presume the most innocent conduct proscribed by the federal carjacking statute formed the basis
+
+of the conviction.” (Dkt. No. 1 at pp. 11-14)
+
+          Herein, “if this matter had proceeded to trial, the United States would have presented the
+
+testimony of agents of the Federal Bureau of Investigations and the Puerto Rico Police Department,
+
+and the victims, along with physical and documentary evidence. With said evidence, the
+
+Government would have proven beyond a reasonable doubt that on or about July 11, 2012, Ortiz-
+
+Brooks aiding and abetting co-defendants with the intent to cause death or serious bodily harm,
+
+did take a motor vehicle from the person or presence of EJL, that is, a 2000 Ford Explorer, bearing
+
+license     plate    number     ECG-168,      and       Vehicle   Identification   Number    (VIN):
+
+1FMZU62E2YUB84011. Namely, the Government would have demonstrated that Ortiz-Brooks
+
+brandished a black colored handgun, which was used to take the motor vehicle from EJL by force,
+
+violence, and intimidation. Furthermore, the Government would have proven that EJL was
+
+abducted and suffered bodily injury. The Government would have also shown that the motor
+
+vehicle has been transported, shipped, and received in interstate and foreign commerce.” See Crim
+
+No. 12-560 Plea Agreement Statement of Facts at Dkt. No. 58 at pp. 11-12.
+
+          Herein, Petitioner pled guilty to aiding and abetting a carjacking offense and aiding and
+
+abetting in the use of a firearm in furtherance of a carjacking offense. See Crim No. 12-560 at Dkt.
+
+No. 105 Second Amended Judgment. Considering the elements of a carjacking offense, namely,
+
+“whoever, with the intent to cause death or serious bodily harm takes a motor vehicle . . . from the
+
+
+
+                                                    5
+person or presence of another by force and violence or by intimidation . . .”, the Court is bound to
+
+conclude that violence is required as part of the offense. Most critical and determinative, the First
+
+Circuit has concluded that a carjacking offense is a crime of violence under the force clause. See
+
+United States v. Cruz-Rivera 904 F.3d at 66.
+
+       Thus, consistent with the First Circuit’s determination and regardless of the Supreme
+
+Court’s determination in Davis, the Court finds it is irrelevant whether § 924(c)’s residual clause
+
+is unconstitutional as the type offense committed by the petitioner causes that the crime be
+
+considered “a crime of violence” as the federal carjacking statute contains the element of
+
+committing the crime “with intent to cause death or bodily harm.” 18 U.S.C. § 2119 (Emphasis
+
+ours). Petitioner effectively pled guilty in the instant case of conspiracy to take a motor vehicle
+
+with intent to cause death or serious bodily injury. Using a “black colored handgun” and further
+
+the “victim was abducted and suffered bodily injury.” See Crim No. 12-560 Plea Agreement
+
+Statement of Facts at Dkt. No. 58 at p. 11.
+
+       Accordingly, the Court need not to proceed further. The Court holds that Ortiz-Brook’s
+
+offense falls within the § 924(c) force clause. More importantly, the Defendant was found guilty
+
+of a carjacking offense which has been consistently ruled as a “crime of violence” as said offense
+
+requires the “intent to cause death or serious bodily harm.” See 18 U.S.C. § 2119; see also Cruz-
+
+Rivera, 905 F.3d at 66. Thus, Petitioner’s Motion to Vacate, Set Aside or Correct Sentence under
+
+28 U.S.C. §2255 is DENIED.
+
+                                     III.     CONCLUSION
+
+        For the reasons elucidated above, the Court DENIES Petitioner, Kevin Ortiz-Brook’s
+
+Motion Under 28 U.S.C. § 2255 to Vacate, Set Aside or Correct Sentence by a Person in Federal
+
+Custody (Dkt. No. 1). Judgment of dismissal is to be entered accordingly.
+
+
+                                                 6
+       It is further ordered that no certificate of appealability should be issued in the event that
+
+Petitioner filed a notice of appeal because there is no substantial showing of the denial of a
+
+constitutional right within the meaning of 28 U.S.C. § 2253(c)(2).
+
+       IT IS SO ORDERED.
+
+       In San Juan, Puerto Rico, this 3rd, day of December, 2019.
+
+
+                                                                     S/Daniel R. Domínguez
+                                                                       Daniel R. Domínguez
+                                                                     United States District Judge
+
+
+
+
+                                                 7
+

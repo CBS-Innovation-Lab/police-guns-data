@@ -1,0 +1,383 @@
+                                UNITED STATES DISTRICT COURT
+                                     DISTRICT OF MAINE
+
+ UNITED STATES OF AMERICA,                              )
+                                                        )
+                                                        )
+ v.                                                     )
+                                                        ) Docket no. 2:18-cr-00063-GZS
+ RICHARD DANIELS, et al.,                               )
+                                                        )
+                                                        )
+                            Defendant.                  )
+                                                        )
+
+
+      ORDER ON DEFENDANTS’ MOTIONS RE: SEVERANCE (ECF NOS. 316 & 324)
+
+
+        Before the Court are: (1) the Motion for Severance by Defendant MR, LLC (“MR”) (ECF
+
+No. 316) and (2) the Motion for Relief from Misjoinder and for Severance by Defendants Brian
+
+Bilodeau & Brian Bilodeau, LLC (together, the “Bilodeau Defendants”) (ECF No. 324). 1 MR
+
+seeks a separate trial. The Bilodeau Defendants also request a separate trial or, alternatively, to be
+
+tried separately with only MR as co-defendant. Having reviewed the Motions as well as the related
+
+memoranda filed by the Defendants and the Government (ECF Nos. 399, 426, 441, 450), the Court
+
+DENIES the Motions for the reasons explained herein.
+
+
+
+        I.       BACKGROUND
+
+        Defendant MR is named in three counts and the Bilodeau Defendants in nine of the
+
+
+
+
+1
+  The Court notes that in addition to the Bilodeau Defendants filing their own Motion for Relief from Misjoinder and
+for Severance, they also filed a Joinder in MR’s Motion. See ECF No. 323. Defendants Tyler Poland, Ty Properties,
+LLC, & Ty Construction, LLC (“the Poland Defendants”) joined the Bilodeau Defendants’ Motion (ECF No. 480),
+but did not submit their own supporting memoranda. The Court acknowledges their joinder but notes that the Bilodeau
+Defendants’ arguments are applicable to them only to a limited extent.
+Government’s 41-count Superseding Indictment (ECF No. 82) brought against them and various
+
+co-defendants. The first count of this Indictment charges eleven defendants in an approximately
+
+two-year conspiracy to distribute marijuana. Bilodeau is charged in the Count 1 conspiracy; MR
+
+is not. However, Bilodeau and MR are charged with manufacturing marijuana together (Count
+
+12) and engaging in a money laundering conspiracy related to the proceeds from that unlawful
+
+activity (Count 30) during the time of the Count 1 conspiracy.           MR is also charged with
+
+maintaining a drug-involved premises during the time of the Count 1 conspiracy (Count 25).
+
+Bilodeau’s other charges all involve alleged drug trafficking and related financial transactions
+
+occurring during the time of the Count 1 conspiracy.
+
+
+
+       II.     LEGAL STANDARD
+
+       Federal Rule of Criminal Procedure 8(b) provides:
+
+       The indictment . . . may charge 2 or more defendants if they are alleged to have participated
+       in the same act or transaction, or in the same series of acts or transactions, constituting an
+       offense or offenses. The defendants may be charged in one or more counts together or
+       separately. All defendants need not be charged in each count.
+
+       The rule permits the government to “charge serial transactions, and indict persons jointly,
+
+on the basis of what it reasonably anticipates being able to prove against the defendants,
+
+collectively, measured as of the time the indictment is handed up.” United States v. Natanel, 938
+
+F.2d 302, 306 (1st Cir. 1991). Generally, “a rational basis for joinder of multiple counts should
+
+be discernible from the face of the indictment.” Id. “[I]t is not a necessary precondition to joinder
+
+that a defendant be involved in each offense charged in an indictment; joinder is proper as long as
+
+there is some common activity binding the objecting defendant with all the other indictees and that
+
+common activity encompasses all the charged offenses.” Id. at 307.
+
+
+
+
+                                                 2
+        Rule of Criminal Procedure 14(a) allows the court to “order separate trials of counts, sever
+
+the defendants’ trials, or provide any other relief that justice requires” if “the joinder of offenses
+
+or defendants in an indictment . . . appears to prejudice a defendant.” The federal courts prefer
+
+joint trials of defendants properly indicted together. Zafiro v. United States, 506 U.S. 534, 537
+
+(1993); United States v. Molina, 407 F.3d 511, 531 (1st Cir. 2005) (stating that the “default rule is
+
+that defendants who are indicted together should be tried together”). “Garden-variety prejudice,”
+
+such as that which “results in almost every trial in which the court tries more than one offense
+
+together,” does not “in and of itself, warrant severance.” United States v. Richardson, 515 F.3d
+
+74, 81 (1st Cir. 2008). Instead, the defendant “must demonstrate that the prejudicial joinder likely
+
+deprived him of a fair trial.” Id.; see also Zafiro, 506 U.S. at 539 (“We believe that, when
+
+defendants properly have been joined under Rule 8(b), a district court should grant a severance
+
+under Rule 14 only if there is a serious risk that a joint trial would compromise a specific trial right
+
+of one of the defendants, or prevent the jury from making a reliable judgment about guilt or
+
+innocence.”).
+
+
+
+        III.    DISCUSSION
+
+        MR and the Bilodeau Defendants claim they were improperly joined in the Superseding
+
+Indictment and, even if joinder were proper, severance is required because they will be unduly
+
+prejudiced if tried with their current co-defendants. Urging that joinder is improper, MR argues
+
+that the Superseding Indictment alleges two separate conspiracies—the Count 1 drug trafficking
+
+conspiracy and the Count 30 money laundering conspiracy—only one of which implicates MR.
+
+For this reason, MR contends its charged offenses should not be joined with that of the Count 1
+
+conspiracy. The Bilodeau Defendants join MR in this argument, maintaining that the only link
+
+
+
+
+                                                   3
+between the two charged conspiracies is Bilodeau’s alleged involvement in both, which is
+
+insufficient to warrant joinder. 2
+
+        Although it would be improper to join two separate and distinct conspiracies, see United
+
+States v. Webb, 827 F. Supp. 840, 841 (D. Mass. 1993), the Indictment at issue does not do so. In
+
+contrast to the example of improperly joined conspiracies cited by the Bilodeau Defendants and
+
+MR, the Superseding Indictment does not allege that Bilodeau and MR conspired in a new
+
+conspiracy after the Count 1 conspiracy terminated. See id. (describing two cocaine-distribution
+
+conspiracies, one running from December 1991 to February 1992 and another starting in January
+
+1992, as separate conspiracies improperly joined). Rather, the three counts with which MR is
+
+charged, including the alleged money laundering conspiracy with Bilodeau, all allege unlawful
+
+cultivation and distribution of marijuana well within the duration of the larger marijuana
+
+trafficking conspiracy charged in Count 1. Bilodeau’s presence as an overlapping member in the
+
+alleged conspiracies does not by itself make them part of “the same series of acts or transactions.”
+
+Id. But the Indictment alleges that MR engaged in money laundering with Bilodeau that involved
+
+the proceeds of unlawful marijuana production while Bilodeau allegedly participated in a larger
+
+marijuana trafficking conspiracy.           This is an indication, discernible from the face of the
+
+indictment, that MR knew about and participated in marijuana activity that was part of the Count
+
+1 conspiracy’s overall scheme. See United States v. Azor, 881 F.3d 1, 11 (1st Cir. 2017) (“Joinder
+
+is proper . . . even when the objecting defendant is only connected to one part of [a common]
+
+scheme.”); United States v. Fuentes, 979 F. Supp. 2d 224, 226 (D.P.R. 2013) (stating that “[i]n
+
+order to be part of the ‘same series of acts or transactions,’ defendants must have known about and
+
+participated in acts that were part of an overall scheme”). Compare United States v. Menashe, 741
+
+
+2
+ Since the Poland Defendants are not charged in any other conspiracy, the Bilodeau Defendants’ arguments as to the
+impropriety of joinder are inapplicable to them.
+
+
+                                                        4
+F. Supp. 1135, 1136, 1138 (S.D.N.Y. 1990) (finding two conspiracy charges improperly joined
+
+where they involved separate and distinct transactions violating the Arms Export Control Act and
+
+only one defendant was privy to both).
+
+         Even if Bilodeau establishes his late summer/early fall 2017 withdrawal from the Count 1
+
+conspiracy, as he contends he will, the Count 30 money laundering conspiracy allegedly began in
+
+fall 2016. 3 Given this timeline, the Bilodeau Defendants’ and MR’s efforts to frame the second
+
+charged conspiracy as entirely separate from Bilodeau’s involvement in the Count 1 drug
+
+trafficking conspiracy are simply not credible. Joinder of the charges is proper.
+
+          MR and the Bilodeau Defendants further argue that even if joinder is proper, severance is
+
+required to avoid undue prejudice. But any prejudice they may suffer from being tried alongside
+
+their current co-defendants is nothing more than the “garden variety” typical of a multi-defendant
+
+trial. 4 Even if the Bilodeau Defendants and MR were involved in only a part of the Count 1
+
+conspiracy, their alleged involvement is not so limited as to indicate the sort of “gross disparity”
+
+in evidence between them and their co-defendants such that severance is necessary to avoid
+
+spillover prejudice. 5 See Azor, 881 F.3d at 12 (“Even where large amounts of testimony are
+
+
+3
+  MR makes numerous claims that the Government lacks any evidence connecting it with the Count 1 conspiracy and
+characterizes the Government’s Indictment as an “allegation that a former alleged member of the [Count 1 conspiracy]
+rented the 230 Merrow Road to further the [Count 1] conspiracy before MR purchased the property.” ECF No. 450,
+PageID # 1395. But a grand jury indicted MR with the Count 30 money laundering conspiracy—allegedly a
+conspiracy to acquire 230 Merrow for unlawful cultivation of marijuana—that began in November 2016. Thus, the
+Government alleges that MR engaged in unlawful marijuana-related activity with Bilodeau before Bilodeau’s alleged
+withdrawal from the Count 1 conspiracy. As discovery proceeds, it may be that MR can present a stronger case for
+severance on grounds that its involvement with Bilodeau commenced after his withdrawal from the Count 1
+conspiracy, but at this stage in the proceedings, the Court is not persuaded that the Government’s evidence is so
+lacking that joinder is improper.
+4
+  The severance analysis that follows is generally applicable to the Poland Defendants, who provided no additional
+reasons why they would be unduly prejudiced by a joint trial.
+5
+  MR argues that there is “no evidence whatsoever that MR was ever a member of the [Count 1 conspiracy], was ever
+involved in any marijuana cultivation on the property, or was ever involved in the manufacture or sale of any
+narcotics,” and thus there is, in fact, a “gross disparity.” ECF No. 450, PageID # 1397. But a grand jury indicted MR
+with charges of manufacturing marijuana, maintaining a drug-involved premises, and money laundering related to the
+proceeds of those illegal activities during the course of the Count 1 conspiracy—the Government therefore has at least
+
+
+                                                          5
+irrelevant to one defendant, or where one defendant’s involvement in an overall agreement is far
+
+less than the involvement of others, we have been reluctant to secondguess severance denials.”)
+
+(quoting United States v. Boylan, 898 F.2d 230, 246 (1st Cir. 1990)); United States v. Levy-
+
+Cordero, 67 F.3d 1002, 1007 (1st Cir. 1995) (noting that even where “a ‘minnow’ stands trial with
+
+a ‘kingfish,’ and the government aims most of its ammunition at the kingfish,” the disparity in
+
+evidence alone does not warrant severance).                  Neither MR nor the Bilodeau Defendants
+
+persuasively suggests that there is some aspect of the evidence to be presented against their co-
+
+defendants that will likely compromise their right to a fair trial. MR asserts that evidence related
+
+to conduct of defendants charged in the Count 1 conspiracy will improperly suggest MR’s “guilt
+
+by association,” but as MR states, such evidence would be wholly irrelevant to the Government’s
+
+case against MR. Any potential spillover prejudice may be addressed through careful jury
+
+instructions. See United States v. Baltas, 236 F.3d 27, 34 (1st Cir. 2001); see also United States
+
+v. Blankenship, 382 F.3d 1110, 1123 (11th Cir. 2004) (“In general, the strong presumption is that
+
+jurors are able to compartmentalize evidence by respecting limiting instructions specifying the
+
+defendants against whom the evidence may be considered.”). Similarly, jury instructions are
+
+sufficient to address the Bilodeau Defendants’ concern that the jury may confuse the two
+
+conspiracies with which Bilodeau is charged.
+
+        MR and the Bilodeau Defendants suggest that the Indictment in which they are charged
+
+presents the rare case of such complexity and size that it will prove logistically impractical, be
+
+“nearly impossible for a jury to . . . assess the guilt or innocence of each defendant independently,”
+
+and require them to stand trial for a length of time disproportionate to their alleged involvement in
+
+the charged offenses. Blankenship, 382 F.3d at 1124. At this point in the prosecution, eleven of
+
+
+some evidence of MR’s involvement in unlawful activity. MR is free to revisit these arguments closer to trial if and
+when it marshals further evidence to persuade the Court that severance is necessary.
+
+
+                                                         6
+the 23 originally charged defendants have entered plea agreements with the Government. In an
+
+exercise of its discretion, the Court concludes that the presented logistical and fairness concerns
+
+do not make severance necessary.
+
+       Finally, both the Bilodeau Defendants and MR claim that they will be prejudiced by the
+
+admission of hearsay evidence inadmissible as to them if they are tried with their current co-
+
+defendants, in violation of United States v. Bruton, 391 U.S. 123 (1968). However, neither has
+
+made a sufficiently specific showing of the hearsay the Government plans to enter against their
+
+co-defendants such that the Court may rule for severance on these grounds. In general, courts
+
+asked to determine whether severance is warranted based on a Bruton concern are presented with
+
+specific out-of-court statements the Government plans to enter, along with the Government’s
+
+proposed redactions. See, e.g., United States v. Williams, No. 2:15-cr-00069-JDL, 2015 WL
+
+6775920, *2 (D. Me. Nov. 6, 2015). This permits the court to determine (a) whether the
+
+statement’s admission against the objecting defendant in a joint trial would be so “powerfully
+
+incriminating,” even with a limiting instruction, as to violate the objecting defendant’s rights under
+
+the Confrontation Clause, see Bruton, 391 U.S. at 135-37, and (b) whether redactions to the
+
+statement that remove, for example, the objecting defendant’s name and references to the
+
+defendant’s existence, will eliminate the statement’s incriminating effect such that it may be
+
+admitted under Richardson v. Marsh, 481 U.S. 200 (1987) and Gray v. Maryland, 523 U.S. 185
+
+(1998). Here, MR and the Bilodeau Defendants only vaguely allude to Government wiretaps that
+
+they allege contain incriminating content. Without more specificity as to the content of this
+
+evidence, the Court cannot make a ruling on whether they necessitate severance. Likewise,
+
+although MR warns (in its Reply (ECF No. 450), PageID # 1397) that the Government may enter
+
+roadside confessions that would constitute testimonial hearsay and raise Confrontation Clause
+
+
+
+
+                                                  7
+concerns under Crawford v. Washington, 541 U.S. 36, 68 (2004), this assertion is so lacking in
+
+specificity that the Court is unable to rule on it at this time. MR and the Bilodeau Defendants are
+
+free to revisit these claims if and when they are able to make a more detailed and specific showing
+
+of the prejudice they anticipate suffering, but until that point, the Court rejects Bruton or Crawford
+
+concerns as grounds for severance.
+
+
+
+       IV.     CONCLUSION
+
+       For the reasons explained herein, the Court DENIES Defendants’ Motions for Severance
+
+(ECF Nos. 316 & 324). This ruling is without prejudice to the Defendants renewing their requests
+
+to sever as noted herein.
+
+       SO ORDERED.
+
+                                                      /s/ George Z. Singal
+                                                      United States District Judge
+
+Dated this 20th day of December, 2019.
+
+
+
+
+                                                  8
+

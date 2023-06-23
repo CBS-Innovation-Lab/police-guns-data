@@ -1,0 +1,585 @@
+                           UNITED STATES DISTRICT COURT
+
+                                   DISTRICT OF MAINE
+
+
+ UNITED STATES OF AMERICA                       )
+                                                )
+ V.                                             )
+                                                )
+ DAMIAN A. OUELLETTE,                           )   1:19-CR-00011-LEW
+                                                )
+                       Defendant                )
+
+
+                      ORDER ON GOVERNMENT’S OBJECTION
+                           TO PRESENTENCE REPORT
+
+
+       On January 30, 2019, Defendant Damian Ouellette pleaded guilty to possession of a
+
+firearm by a felon, in violation of 18 U.S.C. §§ 922(g)(1) and 924(a)(2). In the Revised
+
+Presentence Investigation Report (“PSR”), the Probation Office determined Mr. Ouellette’s
+
+base offense level to be 14 as he was a “prohibited person” at the time he committed the
+
+instant offense. See U.S.S.G. § 2K2.1(a)(6)(A). The government objected, asserting that
+
+because Mr. Ouellette had previously sustained a felony conviction of robbery with a
+
+dangerous weapon – in its estimation, a “crime of violence,” as defined in U.S.S.G. § 4B1.2
+
+– his base offense level should be 20 pursuant to U.S.S.G. § 2K2.1(a)(4)(A). For the reasons
+
+below, I conclude, albeit with deep reservations, that Mr. Ouellette’s prior conviction of
+
+robbery qualifies as a “crime of violence” and, therefore, his base offense level is 20.
+
+                                        DISCUSSION
+
+       Under the current iteration of United States Sentencing Guidelines § 4B1.2, a prior
+
+conviction qualifies as a “crime of violence” in one of two ways. First, under the “force
+
+clause,” a prior felony conviction is considered a crime of violence if the offense charged “has
+as an element the use, attempted use, or threatened use of physical force against the person of
+
+another.” U.S.S.G. § 4B1.2(a)(1). Second, under the “enumerated offenses clause,” nine
+
+specific crimes – including robbery – are identified as offenses that categorically qualify as
+
+crimes of violence. Id. § 4B1.2(a)(2).
+
+        The parties focus their arguments on whether Mr. Ouellette’s prior robbery1 conviction
+
+– and particularly the requisite degree of force entailed by that conviction – qualifies as a
+
+crime of violence under the enumerated offenses clause. A plain reading of this clause might
+
+lull a casual observer into a false sense of clarity because robbery is among the enumerated
+
+offenses. However, that inclusion “does not end the required analysis.” United States v.
+
+Childers, No. 1:16-CR-00079-JAW, 2017 WL 2559858, at *10 (D. Me. June 13, 2017).
+
+Instead, because robbery is left undefined in the Guidelines, I must apply the analytical
+
+framework established in Taylor v. United States, 495 U.S. 575 (1990), to determine whether
+
+the prior state conviction qualifies as a “crime of violence.” United States v. Ramirez, 708
+
+F.3d 295, 300 – 302 & n.8 (1st Cir. 2013).
+
+
+
+1
+  In 2013, Mr. Ouellette was indicted for violation of 17-A M.R.S. § 651(1)(E). Gov’t Ex. A (charging that
+Mr. Oullette was “armed with a dangerous weapon, brass knuckles” when he “commit[ed] or attempt[ed] to
+commit theft” and “threaten[ed] to use force against [the victim] . . . with the intent to prevent or overcome
+resistance to the taking of the property, or the retention of the property immediately after the taking, or to
+compel the person in control of the property to give it up or to engage in other conduct which aided in the
+taking or carrying away of the property.”). On May 8, 2013, Mr. Ouellette entered a nolo contendere plea and
+was convicted of robbery with a dangerous weapon. Gov’t Exs. B, C.
+The parties do not attempt to revisit the distinction between robbery and robbery with a dangerous weapon.
+As explained by the government:
+        The Government is not arguing, in this case, that this Court should give weight in this
+        determination to the fact that the defendant was convicted of an armed robbery. In making that
+        decision here, the Government is guided by the First Circuit’s interpretation of the
+        Massachusetts robbery statute in United States v. Starks, 861 F.3d 306, 320 (1st Cir. 2017) (no
+        basis for concluding that armed robbery requires a greater degree of force than unarmed
+        robbery).
+Gov’t. Sentencing Mem., 5 n.1.
+                                                      2
+       The first step is determining the applicability of either the categorical or modified
+
+categorical approach. The categorical approach is essentially the default rule; it is used unless
+
+the “defendant’s prior conviction is for violating a ‘divisible statute’ – i.e., a statute that ‘sets
+
+forth one or more elements of a particular offense in the alternative.’” United States v. Ramos-
+
+Gonzalez, 775 F.3d 483, 505 (1st Cir. 2015) (quoting United States v. Fish, 758 F.3d 1, 6 (1st
+
+Cir. 2014)). Using either the categorical or modified categorical approach, the court then
+
+isolates the elements of the crime of conviction (and not the defendant’s actual, related
+
+conduct) and compares those elements to the elements of the “generic definition of the
+
+enumerated offense.” Ramirez, 708 F.3d at 302 n.8; see also Taylor, 495 U.S. at 598
+
+(requiring the distillation of the “generic, contemporary meaning” of an enumerated offense);
+
+Descamps v. United States, 570 U.S. 254, 257 (2013) (“[Courts] compare the elements of the
+
+statute forming the basis of the defendant’s conviction with the elements of the ‘generic’
+
+crime – i.e., the offense as commonly understood.”). If comparison reveals that the Maine
+
+robbery statute has the same elements as the generic crime of robbery or is narrower than
+
+generic robbery, then the prior robbery conviction qualifies as an enumerated offense under
+
+the Guidelines. Childers, 2017 WL 2559858, at *10 – 11. If, however, the “statute sweeps
+
+more broadly than the generic crime,” the prior conviction will not qualify. Descamps, 570
+
+U.S. at 261.
+
+A.     Inquiry I: Crime of Conviction
+
+       In a curious departure from the bedrock principle undergirding the Sentencing
+
+Guidelines – “relevant conduct” – I am required to scrutinize “the statutory definitions of the
+
+prior offenses, and not . . . the particular facts underlying those convictions” through the lens
+
+of either the categorical or modified-categorical approach. Taylor, 495 U.S. at 600. While
+                                                 3
+the resolution of this inquiry is “no walk in the park,” United States v. Mulkern, 854 F.3d 87,
+
+90 (1st Cir. 2017), my task has been simplified by the First Circuit’s conclusion that 17-A
+
+M.R.S. § 651 2 is divisible and, thus, the modified-categorical approach applies. Id. at 91.
+
+Under the modified-categorical approach, I may rely on Shepard 3 documents (for example,
+
+the indictment, jury instructions, or plea agreement and colloquy) to determine what crime,
+
+with what elements, a defendant was convicted of. Id. (quoting Mathis v. United States, 136
+
+S. Ct. 2243, 2249 (2016)).
+
+          The parties agree that the indictment indicates Mr. Ouellette pleaded guilty to a
+
+violation of 17-A M.R.S. § 651(1)(B) (robbery), to include § 651(1)(E) (armed robbery). The
+
+parties’ arguments focus on subsection (B), 4 which defines robbery as “commit[ing] or
+
+
+
+2
+    At the time of Ouellette’s conviction, Maine defined “robbery” as follows:
+          1. A person is guilty of robbery if the person commits or attempts to commit theft and at the
+             time of the person’s actions:
+              A.   The actor recklessly inflicts bodily injury on another. Violation of this paragraph is
+                   a Class B crime:
+              B.   The actor threatens to use force against any person present with the intent:
+                   (1)    To prevent or overcome resistance to the taking of the property, or to the
+                          retention of the property, or to the retention of the property immediately after
+                          the taking; or
+                   (2)    To compel the person in control of the property to give it up or to engage in
+                          other conduct which aids in the taking or carrying away of the property;
+              C.   The actor uses physical force on another which the intent enumerated in paragraph
+                   B, subparagraphs (1) or (2);
+              D.   The actor intentionally inflicts or attempts to inflict bodily injury on another; or
+              E.   The actor or an accomplice to his knowledge is armed with a dangerous weapon in
+                   the course of a robbery as defined in paragraphs A through D.
+17-A M.R.S. § 651(1).
+3
+    See Shepard v. United States, 544 U.S. 13, 26 (2005).
+4
+ As explained by the Defendant: “It appears that §651(1)(E) was charged because an accomplice was armed.
+The government has acknowledged that this fact does not play a role in its argument for applying the
+enhancement.” Def.’s Mem., 2.
+                                                         4
+attempt[ing] to commit theft” and “threaten[ing] to use force against any person present with
+
+the intent: (1) To prevent or overcome resistance to the taking of the property, or to the
+
+retention of the property immediately after the taking; or (2) To compel the person in control
+
+of the property to give it up or to engage in other conduct that aids in the taking or carrying
+
+away of the property.” 17-A M.R.S. § 651(1)(B). The Legislature separately criminalized
+
+robbery effectuated through the actual use of force in subsection (C) of the robbery statute.
+
+       In Raymond v. State, the Maine Supreme Judicial Court addressed the degree of force
+
+required to qualify as robbery under 17–A M.R.S. § 651(1)(C) and, specifically, whether the
+
+act of snatching a bag from the victim’s hand was sufficient to sustain a conviction. 467 A.2d
+
+161, 162 (Me. 1983). The Law Court sustained the defendant’s conviction, and it held that
+
+“any physical force with the intent [to deprive] should be sufficient to raise a theft offense to
+
+the level of robbery.” Id. at 165. See also Mulkern, 854 F.3d at 93 (citing Raymond to like
+
+effect).   In other words, in Maine, the degree of force required to commit “actual force”
+
+robbery is “any physical force,” including the force necessary to snatch an item of property
+
+from someone’s grasp. Defendant argues that because mere “snatching” force would suffice
+
+to sustain a robbery conviction in Maine, his conviction is per se not a crime of violence.
+
+Def.’s Mem. 3. Defendant argues it does not matter that his conviction was under § 651(1)(B)
+
+(robbery by threat) rather than § 651(1)(C) (robbery by use of force). He cites Mulkern in
+
+support of his position, observing that the First Circuit there stated it made no difference for
+
+purposes of the force clause of the Armed Career Criminal Act. Id., citing Mulkern, 854 F.3d
+
+at 93-94. I am not persuaded. In Mulkern, the Court considered whether a Maine robbery
+
+conviction implied a degree of force “capable of causing physical pain or injury,” following
+
+the guidance set by the Supreme Court in Johnson v. United States, 559 U.S. 133, 140 (2010).
+                                               5
+See Mulkern, 854 F.3d at 93-94. Here, on the other hand, I consider whether a Maine robbery
+
+conviction predicated on a threat of force is a “generic” robbery conviction, based on the
+
+contemporary understanding of robbery among the several States.
+
+B.     Inquiry II: Generic, Contemporary Definition
+
+       The second inquiry dictated by the Taylor framework is more difficult: what is “generic
+
+robbery” – more specifically, what degree of force is encompassed by the robbery offense
+
+identified in U.S.S.G. § 4B1.2(a)(2)– and how is it divined? Taylor instructs that I must
+
+determine the “generic, contemporary meaning” of the charged offense through an
+
+examination of how “the term is now used in the criminal codes of most States” and, at times,
+
+supplemented by a review of the Modern Penal Code and contemporary treatises. 495 U.S.
+
+at 589, 598 & n.8 (indicating that the “modern ‘generic’ view” of a crime “roughly
+
+correspond[s] to the definitions of [the crime found] in a majority of the States’ criminal
+
+codes.”). The First Circuit has not yet determined the generic definition of robbery. However,
+
+it has held that a state robbery conviction under a statute that requires at least the threat of
+
+bodily injury “substantially corresponds to the definition of generic robbery.” United States
+
+v. Ball, 870 F.3d 1, 6 (1st Cir. 2017) (applying 2015 Guidelines Manual, § 4B1.2 application
+
+note listing robbery as an exemplar crime of violence). Here we ponder a state statute that
+
+allows a robbery conviction to stand on use of “any force,” so Ball is not decisive.
+
+Additionally, the First Circuit has yet to prescribe the proper methodology for determining
+
+the generic definition of a crime. As I see it, the inquiry boils down to what amount of force
+
+must be threatened to support a conviction for “generic” robbery and whether that amount of
+
+force corresponds with the minimal requirements of Maine law.
+
+
+                                               6
+       While the First Circuit has not yet prescribed a ready answer, other circuit courts have
+
+sanctioned two approaches leading to divergent assessments concerning the amount of force
+
+needed to commit generic robbery. Some circuits conclude that the majority of state criminal
+
+codes provide that generic robbery requires no more than de minimis force. See United States
+
+v. Graves, 877 F.3d 494, 503 (3d Cir. 2017), cert. denied, 139 S. Ct. 159 (2018) (“We now
+
+join the Seventh and Eleventh Circuits and hold that generic robbery requires no more than
+
+de minimis force.”); United States v. Molinar, 881 F.3d 1064, 1073 (9th Cir. 2017) (“Again,
+
+the generic definition of robbery encompasses not only de minimis force sufficient to compel
+
+acquiescence to the taking of or escaping with property, but also the implied threat of force.”
+
+(footnote omitted)). Looking to the Model Penal Code and state laws defining robbery, the
+
+Graves court noted a fundamental “disjunction”: “[T]he MPC requires that there be some
+
+actual or threatened injury to another person for a theft to qualify as robbery. . . . [H]owever,
+
+there are thirty-eight states which define robbery as theft involving the use of even de minimis
+
+force.” Graves, 877 F.3d at 502. Relying on its reading of Taylor, the Graves court concluded
+
+that “the most important factor in defining the generic version of an offense is the approach
+
+of the majority of state statutes defining the crime.” Id. at 504. It reasoned:
+
+       Affording predominant weight to the majority of states best recognizes that
+       “Congress’ basic goal in passing the Sentencing Act was to move the sentencing
+       system in the direction of increased uniformity.” While the MPC is a useful
+       starting point, its definition of ‘robbery’ does not supersede the way in which
+       the majority of states have defined that offense.
+
+Id. (footnotes omitted, quoting United States v. Booker, 543 U.S. 220, 253 (2005)). Similarly,
+
+the Ninth Circuit in Molinar relied primarily on the definition of robbery in the majority of
+
+states to conclude that generic robbery encompasses even de minimis force. Molinar, 881
+
+F.3d at 1072.
+                                               7
+          Other circuits conclude that generic robbery requires the application of something
+
+more than minimal force. United States v. Gattis, 877 F.3d 150, 159 (4th Cir. 2017), cert.
+
+denied, 138 S. Ct. 1572 (2018) (“[J]ust like generic robbery committed through the use of
+
+force, to commit robbery by force in North Carolina, the defendant must do more than
+
+stealthily pickpocket or suddenly snatch; he must direct a degree of force towards the victim
+
+beyond the minimum necessary to remove the item from the victim’s grasp.”); United States
+
+v. Yates, 866 F.3d 723, 730, 734 (6th Cir. 2017) (holding that generic robbery requires the
+
+application of more than “minimal use of force”; looking instead to whether the circumstances
+
+presented immediate danger to the victim); United States v. Santiesteban-Hernandez, 469
+
+F.3d 376, 380 (5th Cir. 2006) (same, abrogated on other grounds). In arriving at this
+
+conclusion, the Sixth Circuit, for example, relies on contemporary scholars to do the heavy
+
+lifting of analysis and, considering the effort of combing through and keeping tabs on the
+
+ever-changing whims of legislative fancy, this approach is perfectly understandable. The
+
+additional appeal to this approach is in its near immutability, which makes marginally easier
+
+the task of applying the modified-categorical approach.
+
+          Nevertheless, Taylor appears, quite plainly, to require me to give priority of importance
+
+to how robbery is now used in the criminal codes of most States and subordinate consideration
+
+to how the Model Penal Code classifies the offense 5 or how scholars have characterized the
+
+
+5
+    As noted by the Graves court:
+          The MPC defines “robbery” as requiring one of three things to occur in the course of
+          committing a theft: the offender must “(a) inflict[ ] serious bodily injury upon another; or (b)
+          threaten[ ] another with or purposively put him in fear of immediate serious bodily injury; or
+          (c) commit[ ] or threaten[ ] immediately to commit any felony of the first or second degree.”
+          Thus, the MPC requires that there be some actual or threatened injury to another person for a
+          theft to qualify as robbery.
+Graves, 877 F.3d at 502 (emphasis added); see also Model Penal Code § 222.1.
+                                                         8
+variations in state criminal codes. Taylor, 495 U.S. at 598. After reviewing the multitude of
+
+statutory provisions defining robbery across the states (including Puerto Rico and the District
+
+of Columbia), I conclude that Maine’s divisible robbery statute may not be entirely generic in
+
+application insofar as it encompasses the act of snatching property from the grip of an
+
+unsuspecting and therefore non-resistant victim. However, as applied to robbery by threat,
+
+which Plaintiff was convicted of, Maine law appears to be generic in its application because
+
+most other states similarly treat dispossession by threat of force as robbery. In a threat
+
+scenario, unlike a snatch scenario, one deprives another person of property by threat of using,
+
+categorically, whatever degree of force is needed to forcibly overcome any resistance that is
+
+offered. 6   Indeed, any lesser degree of force would not be a “threat.”                       Consequently,
+
+Defendant’s prior conviction for robbery (by threat) rests in the heartland of most states’
+
+definitions of robbery (by threat), 7 and therefore, is coextensive with “generic robbery.”
+
+
+
+6
+  The Supreme Court recently held, in a separate but analogous context (the ACCA elements clause), that the
+well-established common law understanding of robbery has long required the use of a degree of force sufficient
+to overcome resistance, “however slight the resistance.” Stokeling v. United States, 139 S. Ct. 544, 551 (2019)
+(quoting W. Clark & W. Marshall, Law of Crimes 553 (H. Lazell ed., 2d ed. 1905)). The Court also decidedly
+opined that, at least as of the 1986 amendment of the ACCA, it was well-established in the common law that
+the force inherent in the crime of robbery does not encompass the mere “snatching” of property. Id. at 555.
+7
+  Many distinctions could be drawn between the various state statutes. However, for purposes of my inquiry,
+I focus on the force dictated by the statutory text of each state’s definition of robbery. The statutory language
+varies; however, like the Maine subsection at issue in this case, 25 states and Puerto Rico define robbery to
+include theft accomplished through the threat of force (and sometimes, even fear) – a degree of force that falls
+short of the Model Penal Code’s severity standard requiring infliction or threat of physical harm or bodily
+injury. For example, in Arizona, an individual commits robbery if they, “in the course of taking any property
+of another from his person or immediate presence and against his will, . . . threaten[] . . . force against any
+person with intent either to coerce surrender of property or to prevent resistance to such person taking or
+retaining property.” Ariz. Rev. Stat. Ann. § 13-1902(A). See also Ala. Code § 13A-8-43(a); Alaska Stat. Ann.
+§ 11.41.510(a); Ark. Code Ann. § 5-12-102(a); Cal. Penal Code § 211; Colo. Rev. Stat. Ann. § 18-4-301(1);
+Conn. Gen. Stat. § 53a-133; Del. Code Ann. tit. 11, § 831(A); Fla. Stat. Ann. § 812.131(1); Haw. Rev. Stat.
+Ann. § 708-841(1); Idaho Code Ann. § 18-6501; 720 Ill. Comp. Stat. Ann. 5/18-1(a); Ind. Code Ann. § 35-42-
+5-1(a); Ky. Rev. Stat. Ann. § 515.030(1); La. Stat. Ann. § 14:65(A); 17-A M.R.S. § 651(1)(B); Minn. Stat.
+Ann. § 609.24; N.H. Rev. Stat. Ann. § 636:1(I); N.Y. Penal Law § 160.00; Okla. Stat. Ann. tit. 21, § 791; Or.
+
+                                                       9
+        While I believe this survey approach is the most faithful to the Supreme Court’s
+
+guidance, I have deep reservations regarding its practical implications. In order to accurately
+
+assess a contemporary definition of robbery, the district judge is obligated to periodically
+
+distill the perpetual potpourri of changes to state criminal codes. Moreover, it would suggest
+
+that in Maine a conviction for robbery by threat might increase the base offense level of a
+
+firearm possession conviction, whereas a conviction for robbery by actual use of force,
+
+
+Rev. Stat. Ann. § 164.395(1); P.R. Laws Ann. Tit. 33, § 4826; 11 R.I. Gen. Laws Ann. § 11-39-1(b); S.D.
+Codified Laws § 22-30-1; Utah Code Ann. § 76-6-301(1); Wis. Stat. Ann. § 943.32(1).
+In contrast, 11 states, along with the Model Penal Code, appear to require a rather dire threat for a robbery
+conviction, such as would arise from an armed robbery scenario, i.e., a threat of force likely to result in
+immediate bodily injury. For example, Pennsylvania law states that “[a] person is guilty of robbery if, in the
+course of committing a theft, he . . . threatens another with or intentionally puts him in fear of immediate
+serious bodily injury.” 18 Pa. Stat. and Cons. Stat. Ann. § 3701(a)(1)(ii). See also Iowa Code Ann. §
+711.1(1)(b); Miss. Code. Ann. § 97-3-73; Mo. Ann. Stat. §§ 570.025, 570.010(13); Mont. Code Ann. § 45-5-
+401(1); N.J. Stat. Ann. § 2C:15-1(a); N.D. Cent. Code Ann. § 12.1-22-01(1);; Tex. Penal Code Ann. § 29.02(a);
+Vt. Stat. Ann. tit. 13, § 608(a); Va. Code Ann. § 18.2-58; Wyo. Stat. Ann. § 6-2-401(a).
+Straddling the gap between these two definitions, 14 states and the District of Columbia criminalize the use of
+force using qualifiers such as “bodily injury” or “violence,” yet also criminalize conduct that would generate
+“fear.” See D.C. Code Ann. § 22-2801 (“Whoever by force or violence, whether against resistance or by
+sudden or stealthy seizure or snatching, or by putting in fear, shall take from the person or immediate actual
+possession of another anything of value, is guilty of robbery”); Ga. Code Ann. § 16-8-40(a); Kan. Stat. Ann. §
+21-5420(a); Mass. Gen. Laws Ann. ch. 277, § 39; Md. Code Ann., Crim. Law § 3-401 (adopting the “judicially
+determined meaning” of robbery); State v. Stewart, 211 A.3d 371, 385 (Md. 2019) (“This Court has
+discussed robbery as the taking and carrying away of the personal property of another from his [or her] person
+or in his [or her] presence by violence or putting in fear.” (internal quotation marks omitted); Mich. Comp.
+Laws Ann. § 750.530(1); Neb. Rev. Stat. Ann. § 28-324(1); Nev. Rev. Stat. Ann. § 200.380(1) (as amended
+by 2019 Nevada Laws Ch. 76 (S.B. 137)); N.M. Stat. Ann. § 30-16-2; N.C. Gen. Stat. Ann. § 14-87.1 (adopting
+the common law definition of robbery); North Carolina v. Smith, 292 S.E.2d 264, 270 (N.C. 1982) (defining
+common law robbery as “felonious, non-consensual taking of money or personal property from the person or
+presence of another by means of violence or fear”); Ohio Rev. Code Ann. § 2911.02; S.C. Code Ann. § 16-11-
+325 (adopting the “common law offense of robbery”); State v. Rosemond, 560 S.E.2d 636, 640 (S.C. Ct. App.
+2002) (“Robbery is defined as the felonious or unlawful taking of money, goods or other personal property of
+any value from the person of another or in his presence by violence or by putting such person in fear.”); Tenn.
+Code Ann. § 39-13-401; Wash. Rev. Code Ann. § 9A.56.190; W. Va. Code Ann. § 61-2-12(c). For purposes
+of this tallying approach, because these statutes criminalize conduct sufficient to cause fear, I include them
+with those, like Maine, which criminalize the threat of force sufficient to overcome resistance.
+In sum, 39 states, the District of Columbia, and Puerto Rico, based on the plain language of the relevant
+statutes, criminalize the threat of force and do not require the heightened standard of a threat of such force as
+would necessarily impose physical harm. In other words, it is generic/typical for robbery to encompass the
+taking of property from another through the threat of force sufficient to dispossess, and not merely through
+application of force sufficient to harm.
+
+                                                       10
+currently classified as a more serious offense in Maine, might not. These vagaries produced
+
+by the categorical approach are nothing new.
+
+        Among the many advantages of Congress or the Sentencing Commission eventually
+
+using plain language to define “crime of violence” is that we might geometrically enhance
+
+our prospects of shared understanding. This would be particularly useful in what should be a
+
+transparent, predictable and uniform approach to federal sentencing. A criminal defendant
+
+ought not have to wait with bated breath while a federal judge counts how many angels can
+
+dance on the head of a pin in arriving at a base offense level. It appears that out of an effort
+
+toward metaphysical certainty, which gave us the current conundrum, we are left with all
+
+metaphysics but no certainty.         This component of the Guidelines sows only disparity and
+
+confusion which, as the First Circuit so aptly put it, results in “a Rube Goldberg jurisprudence
+
+of abstractions piled on top of one another in a manner that renders doubtful anyone’s
+
+confidence in predicting what will pop out at the end.” 8 United States v. Tavares, 843 F.3d
+
+
+
+8
+  Although lengthy, the First Circuit’s frustrations specific to the application of the “elements clause” under
+the Guidelines on this point bear repeating in full:
+        Even a careful reader of this opinion may at this point feel lost. We began with a seemingly
+        simple question. Has Tavares been convicted of a crime of violence? Trying to answer that
+        question then led us down several rabbit holes . . . .
+        In a sensible world, Congress and/or the Sentencing Commission would have made a list of
+        state and federal laws deemed to be crimes of violence that warranted the desired penalties
+        and sentencing enhancements. At its margins, such a list might be over- or under-broad. It
+        would, though, be straightforward.
+        Instead of using a simple list, the drafters adopted abstract descriptions of the crimes that
+        would appear on such a list, employing terms such as “physical force,” “use,” “injury,” and so
+        on. The result is a Rube Goldberg jurisprudence of abstractions piled on top of one another in
+        a manner that renders doubtful anyone's confidence in predicting what will pop out at the end.
+        Cf. Almanza–Arenas v. Lynch, 815 F.3d 469, 483–84 (9th Cir. 2015) (en banc) (Owens, J.,
+        concurring).
+        What pops out matters a great deal. In Fish, one could not know whether certain conduct was
+        lawful or criminal unless one knew whether a prior crime was a crime of violence. Here,
+
+                                                      11
+1, 19 (1st Cir. 2016) (untangling whether a defendant’s prior offenses qualify as “crimes of
+
+violence” under the former residual clause of § 4B1.2(a)(2))).
+
+        I am hardly the first and, I predict, will not be the last federal judge to shout into the
+
+wind on this point. 9 There is cause for optimism that change might soon be on the way. 10 In
+
+the meantime, I am particularly mindful that the Guidelines are merely advisory. However,
+
+if the Guidelines are to provide a meaningful heartland for federal sentencing, we ought not
+
+to confuse painting over the stained ceiling with fixing the leaking roof.
+
+        Despite the frustration with which I apply this convoluted standard, which, in my view,
+
+only undercuts the ability of the Guidelines to effectively fulfill its role as “the lodestone of
+
+sentencing,” Peugh v. United States, 569 U.S. 530, 544 (2013), I conclude that for purposes
+
+of the Sentencing Guidelines, a Maine conviction for robbery by threat counts as a predicate
+
+crime of violence because the offense, categorically, is a generic robbery offense.
+
+                                             CONCLUSION
+
+        For the foregoing reasons, Mr. Ouellette’s prior robbery conviction qualifies as a
+
+“crime of violence,” as enumerated in U.S.S.G. § 4B1.2(a)(2). Therefore, the Government’s
+
+
+
+
+        Tavares could not know—within years—the guidance applicable to his sentencing. Nor could
+        one get confident answers by asking a lawyer—or even a judge. So what do we do here?
+United States v. Tavares, 843 F.3d 1, 19 (1st Cir. 2016).
+9
+  In particular, I appreciate the sentiment expressed by Judge Owens: “I continue to urge the Commission to
+simplify the Guidelines to avoid the frequent sentencing adventures more complicated than reconstructing the
+Staff of Ra in the Map Room to locate the Well of the Souls.” United States v. Perez-Silvan, 861 F.3d 935,
+944 (9th Cir. 2017) (Owens, J., concurring) (citing Raiders of the Lost Ark (Paramount Pictures 1981)).
+10
+  It should be noted that in response to criticisms that the categorical approach is an “overly complex, time
+consuming, resource-intensive analysis that often leads to litigation and uncertainty” and concerns that the
+definition of “generic robbery” is underinclusive, the Sentencing Commission proposed amendments to the
+Federal Sentencing Guidelines in December 2018 that proposed three potential definitions for robbery.
+Sentencing Guidelines for United States Courts, 83 Fed. Reg. 65,400, 65,408, 65,411-12 (Dec. 20, 2018).
+                                                      12
+objection is ALLOWED, and I calculate Mr. Ouellette’s base offense level as 20, pursuant
+
+to U.S.S.G. § 2K2.1(a)(4)(A).
+
+      SO ORDERED.
+
+      Dated this 17th day of September, 2019
+
+
+                                                /s/ Lance E. Walker
+                                                LANCE E. WALKER
+                                                UNITED STATES DISTRICT JUDGE
+
+
+
+
+                                           13
+

@@ -1,0 +1,500 @@
+Case 2:16-cr-00036-NT Document 203 Filed 05/13/22 Page 1 of 10         PageID #: 1548
+
+
+
+
+                      UNITED STATES DISTRICT COURT
+                           DISTRICT OF MAINE
+
+ UNITED STATES OF AMERICA,                )
+                                          )
+ v.                                       ) Docket No. 2:16-cr-00036-NT
+                                          )
+ THEODORE SEALY,                          )
+                                          )
+                    Defendant.            )
+
+
+
+              ORDER ON MOTION FOR RECONSIDERATION
+              AND MOTION FOR COMPASSIONATE RELEASE
+
+      Defendant Theodore Sealy has filed a motion seeking reconsideration of my
+
+earlier order denying his request for compassionate release and bringing a new
+
+request for compassionate release (“Def.’s Mot.”) (ECF No. 196). For the reasons
+
+stated below, the Defendant’s motion is DENIED.
+
+
+                                  BACKGROUND
+
+      On August 3, 2016, Mr. Sealy pleaded guilty to Count One of the Superseding
+
+Indictment, conspiracy to distribute and possess with the intent to distribute cocaine
+
+base, oxycodone, and heroin, in violation of 21 U.S.C. §§ 841(a)(1) and 846.
+
+Superseding Indictment (ECF No. 55); Minute Entry (ECF No. 70). On March 6, 2017,
+
+I sentenced him to eighty-four months imprisonment, followed by five years of
+
+supervised release. Judgment (ECF No. 159).
+
+      Mr. Sealy served the first half of his sentence in prison before being moved by
+
+the Bureau of Prisons (“BOP”) to home confinement on October 28, 2020, due to his
+
+medical conditions and the increased risk of COVID-19 in an institutional setting.
+Case 2:16-cr-00036-NT Document 203 Filed 05/13/22 Page 2 of 10        PageID #: 1549
+
+
+
+
+Def.’s Emergency Mot. for Compassionate Release and Reduction of Sentence from
+
+Home Confinement to Time Served (“Def.’s First Mot.”) 1 (ECF No. 187). On
+
+December 29, 2021, the Defendant filed a motion seeking compassionate release,
+
+meaning a release from home confinement. Def.’s First Mot. The primary basis for
+
+that motion was that the Defendant contended he could not adequately treat his
+
+medical conditions while on home confinement because of the strictures of
+
+supervision that that punishment entails. Def.’s First Mot. 1–3; First Decl. of
+
+Theodore Sealy (“First Sealy Decl.”) 1–2 (ECF No. 187-1). Specifically, he took issue
+
+with the requirement that he receive advance approval for medical appointments and
+
+procedures, which he said did not allow him to be put on wait lists for specialist
+
+appointments and procedures and had delayed the diagnosis and treatment of his
+
+ongoing health issues. First Sealy Decl. 1–2; Def.’s Reply to Gov’t’s Resp. to Def.’s
+
+First Mot. 4 (ECF No. 194).
+
+      On February 8, 2022, I denied the motion, finding that the purported
+
+deficiencies in care that Mr. Sealy had identified were illusory and that he had thus
+
+failed to establish an extraordinary and compelling reason justifying his release.
+
+Order on Mot. for Compassionate Release (“Feb. Order”) 8–11 (ECF No. 195). In
+
+denying his motion, it was also an important aspect of my decision that Mr. Sealy
+
+was “not in a carceral environment where he would be unable to mitigate his risk of
+
+infection.” Feb. Order 6.
+
+      Sixteen days after I issued my order, the Defendant filed a motion that he
+
+characterized as a “Motion for Reconsideration and Renewed Emergency Motion for
+
+
+
+
+                                         2
+Case 2:16-cr-00036-NT Document 203 Filed 05/13/22 Page 3 of 10           PageID #: 1550
+
+
+
+
+Compassionate Release and Reduction of Sentence.” Def.’s Mot. The impetus for this
+
+motion was that—unbeknownst to me and to counsel—in the weeks prior to the
+
+issuance of my February order, Mr. Sealy had had his home confinement revoked and
+
+had been returned to prison. Def.’s Mot. 1–2; Def.’s Reply to Gov’t’s Obj. to Def.’s Mot.
+
+1–2 (“Def.’s Reply”) (ECF No. 198). The parties dispute the circumstances
+
+surrounding Mr. Sealy’s return to custody and the validity of the revocation of his
+
+home confinement. The Defendant has emphasized “that he is not asking this Court
+
+to adjudicate the [propriety of his] remand to the halfway house and to prison.” Def.’s
+
+Status Report Regarding Def.’s Mot. (“Def.’s Status Report”) 2 (ECF No. 200). And,
+
+as I explain in greater detail below, because Mr. Sealy’s risk of infection under the
+
+current circumstances appears low (and thus release is unwarranted), I find it
+
+unnecessary to delve into the details of this dispute.
+
+      After the Defendant filed his second motion (the motion now before me), the
+
+Government objected to my consideration of the motion without requiring Mr. Sealy
+
+to exhaust his administrative remedies. Gov’t’s Obj. to Def.’s Mot. (ECF No. 197). The
+
+Defendant responded that, although he did not believe exhaustion was required, he
+
+had already begun the process to exhaust his administrative remedies. Def.’s Reply
+
+2–4. I thus held Mr. Sealy’s motion in abeyance to wait for this exhaustion to be
+
+complete. Order (ECF No. 199). Mr. Sealy has now exhausted his administrative
+
+remedies, the parties have filed supplemental briefing (Def.’s Status Report; Gov’t’s
+
+Resp. to Def.’s Status Report (ECF No. 201); Def.’s Reply Regarding Def.’s Status
+
+Report (ECF No. 202)), and the Defendant’s motion is ripe for my review.
+
+
+
+
+                                           3
+Case 2:16-cr-00036-NT Document 203 Filed 05/13/22 Page 4 of 10                         PageID #: 1551
+
+
+
+
+                                            ANALYSIS
+
+        Congress enacted the compassionate release statute1 to allow district courts to
+
+modify sentences of imprisonment, as relevant here, upon finding that:
+
+(1) extraordinary and compelling reasons warrant modification, (2) the modification
+
+accords with the § 3553(a) sentencing factors, and (3) the modification is consistent
+
+with “applicable policy statements” of the Sentencing Guidelines. I focus here on the
+
+question of whether there exist extraordinary and compelling reasons warranting Mr.
+
+Sealy’s release.
+
+        The compassionate release statute itself does not define what constitutes an
+
+“extraordinary and compelling reason[ ]” justifying a sentence modification. United
+
+States v. Canales-Ramos, 19 F.4th 561, 566 (1st Cir. 2021); see 18 U.S.C. § 3582(c).
+
+However, the United States Sentencing Commission has done so in the Commentary
+
+
+
+1       Title 18, United States Code, Section 3582(c)(1)(A) governs “[m]odification of an imposed term
+of imprisonment.” Prior to the passage of the First Step Act of 2018, only the Director of the Bureau of
+Prisons (“BOP”) could move for modification of a sentence. See United States v. Ruvalcaba, 26 F.4th
+14, 17 (1st Cir. 2022). In December of 2018, Congress amended § 3582(c) to allow inmates to seek a
+modification of an imposed term of imprisonment from the courts directly. See First Step Act of 2018,
+Pub. L. No. 115-391, § 603(b), 132 Stat. 5194, 5239 (codified at 18 U.S.C. § 3582(c)(1)(A)). Section 3582
+now provides that:
+
+        The court may not modify a term of imprisonment once it has been imposed except
+        that—(1) in any case—(A) the court, upon motion of the Director of the Bureau of
+        Prisons, or upon motion of the defendant after the defendant has fully exhausted all
+        administrative rights to appeal a failure of the Bureau of Prisons to bring a motion on
+        the defendant’s behalf or the lapse of 30 days from the receipt of such a request by the
+        warden of the defendant’s facility, whichever is earlier, may reduce the term of
+        imprisonment (and may impose a term of probation or supervised release with or
+        without conditions that does not exceed the unserved portion of the original term of
+        imprisonment), after considering the factors set forth in section 3553(a) to the extent
+        that they are applicable, if it finds that—(i) extraordinary and compelling reasons
+        warrant such a reduction . . . and that such a reduction is consistent with applicable
+        policy statements issued by the Sentencing Commission . . . .
+
+18 U.S.C. § 3582(c)(1)(A).
+
+
+
+                                                   4
+Case 2:16-cr-00036-NT Document 203 Filed 05/13/22 Page 5 of 10            PageID #: 1552
+
+
+
+
+to its policy statement on compassionate release, located at § 1B1.13 of the sentencing
+
+guidelines. In discussing medical-based reasons, the Commission notes that
+
+extraordinary and compelling reasons exist where:
+
+             (i)    The defendant is suffering from a terminal illness (i.e., a
+                    serious and advanced illness with an end of life trajectory).
+                    A specific prognosis of life expectancy (i.e., a probability of
+                    death within a specific time period) is not required.
+                    Examples include metastatic solid-tumor cancer,
+                    amyotrophic lateral sclerosis (ALS), end-stage organ
+                    disease, and advanced dementia.
+
+             (ii)   The defendant is —
+
+                    (I)     suffering from a serious physical or medical
+                            condition,
+                    (II)    suffering from a serious functional or cognitive
+                            impairment, or
+                    (III)   experiencing deteriorating physical or mental
+                            health because of the aging process,
+
+                    that substantially diminishes the ability of the defendant
+                    to provide self-care within the environment of a
+                    correctional facility and from which he or she is not
+                    expected to recover.
+             ....
+
+Id. § 1B1.13 Commentary n.1. The Commentary addresses age-based and family-
+
+based reasons in subdivisions (B) and (C), and then provides in subdivision (D):
+
+“Other Reasons.—As determined by the Director of the Bureau of Prisons, there
+
+exists in the defendant’s case an extraordinary and compelling reason other than, or
+
+in combination with, the reasons described in subdivisions (A) through (C).” Id.
+
+§ 1B1.13.
+
+      The Defendant does not argue that subdivision (A), (B), or (C) applies. Instead,
+
+he argues that he has “other” extraordinary and compelling reasons that warrant the
+
+
+
+                                           5
+Case 2:16-cr-00036-NT Document 203 Filed 05/13/22 Page 6 of 10          PageID #: 1553
+
+
+
+
+application of subdivision (D). By its terms, subdivision (D) only allows the Director
+
+of the BOP to consider whether “other” extraordinary and compelling reasons exist.
+
+However, this limitation predates Congress’s enactment of the First Step Act, which
+
+granted incarcerated individuals the right to file motions for compassionate release
+
+in the event that the BOP declined or delayed doing so. United States v. Saccoccia, 10
+
+F.4th 1, 3–4, 7 (1st Cir. 2021). Because the Sentencing Commission has lacked a
+
+quorum for the last several years, it has not yet had the opportunity to consider how
+
+the implementation of the First Step Act might affect its policy guidance in § 1B1.13.
+
+Id. at 7. As a result, this out-of-date policy statement is not currently applicable to
+
+prisoner-initiated motions. United States v. Ruvalcaba, 26 F.4th 14, 21 (1st Cir.
+
+2022). And it is currently the case that “district courts—when adjudicating prisoner-
+
+initiated motions for compassionate release—have discretion, unconstrained by any
+
+policy statement currently in effect, to consider whether a prisoner’s particular
+
+reasons are sufficiently extraordinary and compelling to warrant compassionate
+
+release.” Id. at 23. Although, the current policy statement may still “serve as a non-
+
+binding reference.” Id.
+
+      This does not mean that I have unbounded discretion in evaluating whether
+
+the Defendant has put forward an extraordinary and compelling reason justifying his
+
+release. In particular, his asserted justification for why compassionate release is
+
+warranted must truly be “extraordinary” and “compelling.” See id. A reason is
+
+“extraordinary” if it “is beyond the mine-run either in fact or in degree.” Canales-
+
+
+
+
+                                          6
+Case 2:16-cr-00036-NT Document 203 Filed 05/13/22 Page 7 of 10                    PageID #: 1554
+
+
+
+
+Ramos, 19 F.4th at 566. Meanwhile, a “compelling” reason is one “that is both
+
+powerful and convincing.” Id. at 567.
+
+       The Defendant primarily relies on his medical conditions and need for
+
+treatment as a justification for his sentence reduction. “[B]ut not every complex of
+
+health concerns is sufficient to warrant compassionate release. This remains true
+
+even in the midst of the COVID-19 pandemic.” Saccoccia, 10 F.4th at 5. It is only if
+
+“the defendant’s situation constitutes the type of ‘extreme hardship’ that the
+
+compassionate-release statute is designed to ameliorate” that a sentence reduction is
+
+warranted. Id. at 4.
+
+       There is no dispute that the Defendant has a litany of medical conditions,
+
+which he has substantiated with medical records. Def.’s First Mot. 2; Medical Records
+
+(ECF No. 188-1). At least one of these conditions (asthma) is known to be a preexisting
+
+condition that can make it more likely for someone “to get very sick with COVID-19.”
+
+See Centers for Disease Control and Prevention, “COVID-19 (Coronavirus Disease),
+
+People with Certain Medical Conditions,” https://www.cdc.gov/coronavirus/2019-
+
+ncov/need-extra-precautions/people-with-medical-conditions.html (last visited May
+
+13, 2022).2 The Government has not challenged the Defendant’s evidence of his poor
+
+health, and, indeed, the BOP previously found that Mr. Sealy was sick enough that
+
+
+
+2        The Defendant asserted in his original motion (“Def.’s First. Mot.”) that he is
+“immunocompromised.” Def.’s First Mot. 8 (ECF No. 187). The Government points out that he has
+failed to identify which of his conditions purportedly makes him immunocompromised. Gov’t’s Obj. to
+Def.’s First Mot. 4 (ECF No. 192). While it remains unclear why Mr. Sealy believes he is
+immunocompromised, it may be related to his undiagnosed autoimmune disorder, which he says
+remains undiagnosed at least in part because the BOP has put him back into custody. I assume for
+the sake of this Order that Mr. Sealy is immunocompromised.
+
+
+
+                                                7
+Case 2:16-cr-00036-NT Document 203 Filed 05/13/22 Page 8 of 10           PageID #: 1555
+
+
+
+
+it considered it appropriate to release him to home confinement pursuant to the
+
+CARES Act. Gov’t’s Obj. to Def.’s First Mot. 4 n.5 (ECF No. 192); see Memorandum
+
+from the Att’y Gen. to the Dir. of Bureau Prisons 1–2 (Mar. 26, 2020), available at
+
+https://www.bop.gov/coronavirus/docs/bop_memo_home_confinement.pdf            (directing
+
+BOP to evaluate whether “some at-risk inmates who are non-violent and pose
+
+minimal likelihood of recidivism and who might be safer serving their sentences in
+
+home confinement” should be released to home confinement).
+
+       But while Mr. Sealy may be medically more susceptible to a severe case of
+
+COVID-19, this, of course, is only relevant to the extent he is put in a situation where
+
+he is at an elevated risk of contracting the virus. It does not appear that he is in such
+
+a situation. I recognize that cases have been ticking up across the country, and, as
+
+the Defendant notes, on May 2, 2022, Lewisburg USP (the facility where Mr. Sealy is
+
+incarcerated) increased its operational level to a Level 3. Def.’s Reply Regarding Def.’s
+
+Status Report 2. This change was made “due to a high community transmission rate
+
+of COVID-19 within the local area” of the prison. May 2, 2022, Notice to Inmate
+
+Population (ECF No. 202-2). However, what has not changed are the case counts
+
+inside the walls of Lewisburg itself. As of April 28, 2022, Lewisburg was reporting
+
+zero COVID-19 cases among inmates or staff. Gov’t’s Resp. to Def.’s Status Report 4.
+
+That    remains     true    today.    Bureau      of   Prisons,    COVID-19       Cases,
+
+https://www.bop.gov/coronavirus/ (last visited May 13, 2022). In other words, while
+
+cases are increasing in Lewisburg, Pennsylvania, so far, the BOP has been doing an
+
+adequate job of keeping cases out of the prison. So, I have no reason to conclude that
+
+
+
+
+                                           8
+Case 2:16-cr-00036-NT Document 203 Filed 05/13/22 Page 9 of 10                         PageID #: 1556
+
+
+
+
+Mr. Sealy’s health is in jeopardy at this time, and I find that the Defendant is unable
+
+to establish an extraordinary and compelling reason justifying his release. See United
+
+States v. Baptiste-Harris, Docket No. 2:18-cr-00127-NT-1, 2021 WL 1583081, at *3
+
+(Apr. 22, 2021) (“[W]hatever risk of reinfection that might exist is mitigated by the
+
+existence of so few infections at Mr. Baptiste-Harris’s facility.”); United States v.
+
+Greene, Docket No. 1:17-cr-00012-NT-1, 2020 WL 4475892 (D. Me. Aug. 4, 2020), at
+
+*4 (“The decreasing number of infections at FMC Devens also weighs against a
+
+finding that extraordinary and compelling circumstances warrant release.”).3
+
+        While the level of infections at Mr. Sealy’s place of incarceration is an
+
+important factor in evaluating whether he has put forward an extraordinary and
+
+compelling reason justifying release (and in this case it is dispositive), I recognize
+
+that it is volatile. Should the circumstances change (e.g., if the case numbers at
+
+Lewisburg precipitously increase or if Mr. Sealy is moved to a facility with elevated
+
+case numbers), the Defendant is free to renew his motion.
+
+
+
+
+3        The Defendant and the Government squabble over a few additional issues, including who is at
+fault for the Defendant remaining unvaccinated. I have previously noted that a defendant’s decision
+to decline vaccination against medical recommendations weighs against granting a motion for
+compassionate release premised on the risks of a severe COVID-19 infection. See United States v.
+Baptiste-Harris, Docket No. 2:18-cr-00127-NT-1, 2021 WL 1583081, at *2 (Apr. 22, 2021) (“Mr.
+Baptiste-Harris is not free to pick and choose the medical recommendations he wishes to follow. He
+cannot, on the one hand, listen to the Centers for Disease Control’s advice about who is most at risk of
+serious illness, but then ignore the same agency’s advice to get a vaccine.”). But here, Mr. Sealy asserts
+that he has attempted to get a medical recommendation as to whether he should get vaccinated despite
+his undiagnosed autoimmune disorder but that BOP has not responded. Accordingly, I do not hold Mr.
+Sealy’s unvaccinated status against him, and I encourage him to keep trying to get an opinion on
+whether he should receive the vaccination given his condition.
+
+
+
+                                                    9
+Case 2:16-cr-00036-NT Document 203 Filed 05/13/22 Page 10 of 10       PageID #: 1557
+
+
+
+
+                                 CONCLUSION
+
+      For the foregoing reasons, the Defendant’s motion for compassionate release is
+
+ DENIED without prejudice.
+
+
+
+ SO ORDERED.
+
+                                                   /s/ Nancy Torresen
+                                                   United States District Judge
+
+ Dated: May 13, 2022
+
+
+
+
+                                        10
+

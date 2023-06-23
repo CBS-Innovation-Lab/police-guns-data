@@ -1,0 +1,1708 @@
+                Case 1:04-cr-10385-EFH Document 106          Filed 08/04/08 Page 1 of 29
+                                                                                           1
+
+
+
+
+                                         UNITED STATES DISTRICT COURT
+                                      FOR THE DISTRICT OF MASSACHUSETTS
+
+
+
+                                                         )
+                   UNITED STATES OF AMERICA,             )
+                                                         )
+                              Plaintiff,                 )
+                                                         )     Criminal Action
+                   v.                                    )     No. 04-10385-MEL
+                                                         )
+                   JEROME WEEKS,                         )
+                                                         )
+                              Defendant.                 )
+                                                         )
+
+
+
+                                    BEFORE THE HONORABLE MORRIS E. LASKER
+                                     SENIOR UNITED STATES DISTRICT JUDGE
+
+                                                     DISPOSITION
+
+
+
+
+                                  John J. Moakley United States Courthouse
+                                               Courtroom No. 8
+                                             One Courthouse Way
+                                        Boston, Massachusetts 02210
+                                          Wednesday, July 11, 2007
+                                                   11 a.m.
+
+
+
+                                          Marcia G. Patrisso, RMR, CRR
+                                             Official Court Reporter
+                                        John J. Moakley U.S. Courthouse
+                                         One Courthouse Way, Room 3510
+                                          Boston, Massachusetts 02210
+                                                 (617) 737-8728
+
+                               Mechanical Steno - Computer-Aided Transcript
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 2 of 29
+                                                                                         2
+
+
+
+             1     APPEARANCES:
+
+             2           OFFICE OF THE UNITED STATES ATTORNEY
+                         By: Christopher F. Bator, Assistant U.S. Attorney
+             3           John Joseph Moakley Federal Courthouse
+                         One Courthouse Way
+             4           Boston, Massachusetts 02210
+                         On Behalf of the Government
+             5
+                         LAW OFFICE OF J. THOMAS KERNER
+             6           By: J. Thomas Kerner, Esq.
+                         343 Commercial Street - Unit 104
+             7           Boston, Massachusetts 02109
+                         On Behalf of the Defendant
+             8
+                   In Attendance:         Jesse Gomes, U.S. Probation Office
+             9
+
+            10
+
+            11
+
+            12
+
+            13
+
+            14
+
+            15
+
+            16
+
+            17
+
+            18
+
+            19
+
+            20
+
+            21
+
+            22
+
+            23
+
+            24
+
+            25
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 3 of 29
+                                                                                          3
+
+
+
+             1                            P R O C E E D I N G S
+
+             2                (The following proceedings were held in Judge
+
+             3     Lasker's chambers:)
+
+             4                THE COURT:        I received, as I guess everybody
+
+             5     knows -- except I didn't know it myself until this
+
+             6     morning -- a motion from the defendant for release
+
+             7     pending appeal based on the question of whether a
+
+             8     conversation with an individual named Kevin Brown should
+
+             9     have been admitted or not --
+
+            10                Am I correct?
+
+            11                MR. KERNER:        Yes.
+
+            12                THE COURT:        -- as part of the evidence which
+
+            13     would, if admitted, allegedly have been favorable to the
+
+            14     defendant.
+
+            15                You haven't had an opportunity to answer this
+
+            16     yet, have you?
+
+            17                I'm addressing the United States Attorney.
+
+            18                MR. BATOR:        No, your Honor.        I've only -- I
+
+            19     think I saw it for the first time yesterday.
+
+            20                THE COURT:        I saw it for the first time this
+
+            21     morning, which is very troublesome.
+
+            22                MR. KERNER:        I would not necessarily be seeking
+
+            23     a hearing on that motion today.               I just wanted it to be
+
+            24     filed, and then at an appropriate time in the future,
+
+            25     after the government has a chance to respond, have a
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 4 of 29
+                                                                                         4
+
+
+
+             1     hearing.
+
+             2                THE COURT:        All right.       In other words, we'll
+
+             3     proceed with sentencing today?
+
+             4                MR. KERNER:        Yes.
+
+             5                THE COURT:        But you would ask to preserve the
+
+             6     right to have me review the situation of whether he
+
+             7     should be released from custody pending appeal after the
+
+             8     government has answered the motion?
+
+             9                MR. KERNER:        Yes.     Yes.
+
+            10                MR. BATOR:        Preliminarily, I guess it troubles
+
+            11     me, is the right word, too, to receive these motions so
+
+            12     close to the event.           My first reaction, your Honor, is
+
+            13     that the motion should be stricken because it's based
+
+            14     entirely on, essentially, assertions --
+
+            15                THE COURT:        Yeah.     Well --
+
+            16                MR. BATOR:        -- of counsel.
+
+            17                THE COURT:        -- I don't need you to answer at the
+
+            18     moment.
+
+            19                MR. BATOR:        But one relevant consideration is
+
+            20     that I also received at the same time notice of appeal.
+
+            21     And I think this -- which is -- I just saw Mr. Kerner
+
+            22     this morning, and I haven't had a chance --
+
+            23                THE COURT:        I think a notice of appeal is
+
+            24     premature.
+
+            25                MR. BATOR:        I think it's premature, too,
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 5 of 29
+                                                                                               5
+
+
+
+             1     although I assume after the Court imposes sentence,
+
+             2     assuming we go forward today, I anticipate he'll file a
+
+             3     motion for appeal.           But at that point isn't the Court
+
+             4     absent jurisdiction with regard to all these matters?                   I
+
+             5     think one of the issues with regard to this motion is
+
+             6     that it's -- it may be properly the subject matter of an
+
+             7     appellate argument.
+
+             8                THE COURT:        Well, I'm not asking you to take a
+
+             9     position on those questions at the moment.                    I'm
+
+            10     satisfied defense counsel states to me that he does not
+
+            11     intend to ask for relief with regard to this motion
+
+            12     today.
+
+            13                MR. KERNER:        No; I just wanted it filed.
+
+            14                THE COURT:        I'm ready to proceed to sentencing.
+
+            15                MR. KERNER:        Thank you.
+
+            16                (Proceedings in chambers concludes.                 There is a
+
+            17     recess in the proceedings at 11:18 a.m.)
+
+            18                (In open court:)
+
+            19                THE CLERK:        All rise.
+
+            20                Hear ye, hear ye, hear ye, all those having
+
+            21     business before the United States District Court for the
+
+            22     District of Massachusetts draw near, give your
+
+            23     attention, you shall be heard.               Court is now in session.
+
+            24                THE COURT:        Good morning, everyone.
+
+            25                COUNSEL IN UNISON:           Good morning, your Honor.
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 6 of 29
+                                                                                         6
+
+
+
+             1                THE CLERK:        This is Criminal 04-10385, United
+
+             2     States of America versus Jerome Weeks.
+
+             3                Will the attorneys please identify themselves,
+
+             4     and who they represent, for the Court.
+
+             5                MR. BATOR:        Good afternoon, your Honor.
+
+             6     Christopher Bator for the United States.
+
+             7                THE COURT:        Good afternoon, Mr. Bator.
+
+             8                MR. KERNER:        Tom Kerner for Mr. Weeks, your
+
+             9     Honor.
+
+            10                THE COURT:        Good morning, Mr. Kerner.
+
+            11                Before I call on Mr. Kerner, who represents Mr.
+
+            12     Weeks, and before I call on Mr. Weeks, I'll give the
+
+            13     government an opportunity to express any views they have
+
+            14     with regard to the sentencing, if you wish to do so.
+
+            15                MR. BATOR:        I do, your Honor.         Would the
+
+            16     government like to hear what the government's -- would
+
+            17     the Court like to hear what the government's
+
+            18     recommendation and what the basis for it is at this time
+
+            19     or did you want to go through the guideline provisions
+
+            20     first?
+
+            21                THE COURT:        I'm sorry?
+
+            22                MR. BATOR:        Would the Court like to hear from
+
+            23     the government with regard to its recommendation and
+
+            24     basis for it at this time or did the Court --
+
+            25                THE COURT:        Yes, I would.
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 7 of 29
+                                                                                               7
+
+
+
+             1                MR. BATOR:        Okay.     Does the Court intend, if I
+
+             2     may ask, to go through the guidelines issues
+
+             3     subsequently?
+
+             4                THE COURT:        I'm satisfied with the guidelines,
+
+             5     if correctly applied in this case, if you'd like to know
+
+             6     that.     But I would like to hear what the government's
+
+             7     view is.
+
+             8                MR. BATOR:        Again, forgive me for -- because
+
+             9     there are some objections, your Honor.                  I believe just
+
+            10     as a matter of record we'll have to --
+
+            11                THE COURT:        State your position.
+
+            12                MR. BATOR:        On behalf of the government?             I'm
+
+            13     happy to, your Honor.
+
+            14                The government's recommendation is for guideline
+
+            15     sentence, a sentence at the low end of the guideline,
+
+            16     which the applicable guideline the government believes
+
+            17     is 235 months to 293 months.                The government seeks a
+
+            18     sentence at the low end of that guideline, a 235-month
+
+            19     sentence of incarceration, five years of supervised
+
+            20     release, the $100 mandatory special assessment.
+
+            21                With regard to the fine, the government is in a
+
+            22     bit of a quandary because the presentence report
+
+            23     indicates that the defendant has not submitted and has
+
+            24     not -- and has been unwilling to provide requested
+
+            25     financial information.            So as the probation officer in
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 8 of 29
+                                                                                         8
+
+
+
+             1     the presentence report has indicated, there's no
+
+             2     indication of inability to pay a fine.
+
+             3                The government believes it's seeking a very
+
+             4     significant sentence here and does not wish to be
+
+             5     heavy-handed, but in the absence of that information is
+
+             6     a little bit at a loss of what to request and believes
+
+             7     that some -- absent that information, which a defendant
+
+             8     is required to provide to the probation office,
+
+             9     particularly to indicate if there's an inability to pay
+
+            10     a fine -- that absent the provision of that information
+
+            11     some fine, given the seriousness of the charges here and
+
+            12     the complete record of the defendant, would be
+
+            13     appropriate.
+
+            14                But the government would defer to the Court with
+
+            15     regard to what is appropriate, but its position is:
+
+            16     Absent that information, some fine would be appropriate.
+
+            17                THE COURT:        I hear you.
+
+            18                MR. BATOR:        With regard to the basis for the
+
+            19     government's recommendation, the government recognizes
+
+            20     that it is asking for a very significant sentence here.
+
+            21     And particularly in view of the 15-year minimum
+
+            22     mandatory and the guideline range -- armed career
+
+            23     criminal guideline range here -- is somewhat above the
+
+            24     15-year minimum mandatory.
+
+            25                The guideline range is approximately 19 and a
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 9 of 29
+                                                                                               9
+
+
+
+             1     half years to approximately 24 and a half years.                      And
+
+             2     the government is asking for the 235 months, the low end
+
+             3     of that guideline.
+
+             4                The government feels very strongly that a
+
+             5     guideline sentence is appropriate in this case.
+
+             6     Entirely appropriate.            And the reason for that is what
+
+             7     is an established, extensive record of criminal behavior
+
+             8     involving significant violence and drug trafficking of
+
+             9     the defendant over a very long time.
+
+            10                The one thing that I should say honestly, your
+
+            11     Honor, that troubles the government to some extent is
+
+            12     that throughout the tone of the defendant's filings, the
+
+            13     defendant's own letter, there's a suggestion that, as
+
+            14     the defendant says in his letter, I'm not the bad guy,
+
+            15     the prosecutor -- he says the ADA -- the prosecutor
+
+            16     makes me out to be.
+
+            17                And the suggestion is the record isn't very
+
+            18     significant, it's minimal; if he qualifies as an armed
+
+            19     career criminal, it's only just barely.                   And that is
+
+            20     absolutely not the case.             The defendant has, depending
+
+            21     on how you count, four or five armed career criminal
+
+            22     predicates.       He's not barely qualifying, he's adequately
+
+            23     qualifying.       He has a criminal history score of -- the
+
+            24     PSR indicates it's 19 points.               I spoke with Mr. Gomes
+
+            25     having noticed -- this morning, having noticing
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 10 of 29
+                                                                                               10
+
+
+
+             1     something last night.            I think the accurate number is 21
+
+             2     points because he gets two additional points for
+
+             3     having -- under Sentencing Guideline 4A.1.1(d) for
+
+             4     having committed the instant crime while under
+
+             5     supervision of another sentence.                And I'd refer the
+
+             6     Court to Paragraph 4 of the conviction, Paragraph 48.
+
+             7     If that's true, and I believe Mr. Gomes concurs with
+
+             8     that, for purposes of his arguments, he would have 21
+
+             9     points.
+
+            10                There's a First Circuit case, Brown, your Honor,
+
+            11     United States v. Brown, 899 F.2d 94, which holds that a
+
+            12     significant -- a criminal history score significantly
+
+            13     above the 13 points which qualifies you for Category VI
+
+            14     is, itself, a basis for an upward departure.                     Brown is
+
+            15     the case where the criminal -- the defendant had 20
+
+            16     points.      And in the language in Brown the Court -- the
+
+            17     First Circuit says that is off the charts and qualifies
+
+            18     as an appropriate basis for an upward departure from the
+
+            19     guideline.
+
+            20                The government isn't seeking an upward departure
+
+            21     from the guideline; the government is seeking a low-end
+
+            22     guideline sentence.           But I think that's more evidence
+
+            23     that his record is very significant.                  And I'd like to
+
+            24     spend a second detailing it because I think the record
+
+            25     should appropriately reflect that, and I want to make
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 11 of 29
+                                                                                             11
+
+
+
+             1     sure I can draw the Court's attention to it.
+
+             2                Beginning at age 16 through the present there
+
+             3     are just continual, repeated convictions for assault and
+
+             4     battery, assault and battery with a dangerous weapon,
+
+             5     resisting arrest, distributing cocaine.                   The record is
+
+             6     persistent --
+
+             7                THE COURT:        It's considerable.
+
+             8                MR. BATOR:        -- and elaborate.
+
+             9                And it is entirely consistent with the crime of
+
+            10     conviction in this case, and it is, it seems to me,
+
+            11     entirely consistent with the behavior of the defendant
+
+            12     when he did not show up for sentencing having been
+
+            13     given, in the government's view, a considerable break to
+
+            14     be allowed to be out pending sentencing, facing such a
+
+            15     large sentence, that he absconded and --
+
+            16                THE COURT:        Right.
+
+            17                MR. BATOR:        -- was found with what the
+
+            18     government believes are the trappings and tools of a
+
+            19     dangerous criminal.           He was found with two loaded
+
+            20     weapons -- two loaded 9-millimeter -- fully-loaded
+
+            21     9-millimeter weapons -- and five false identity papers
+
+            22     including a birth certificate, a social security card, a
+
+            23     credit card and a couple of others in another name
+
+            24     bearing some of the -- a Georgia driver's license
+
+            25     bearing his picture in another name.                  Those are the
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 12 of 29
+                                                                                                  12
+
+
+
+             1     tools of an armed career criminal, your Honor.                         And I
+
+             2     believe that is the picture that his record
+
+             3     appropriately presents.
+
+             4                I think the other thing I'd point on briefly is
+
+             5     I do believe that the defendant perjured himself during
+
+             6     his trial.       I think that was the jury's determination.
+
+             7     The case essentially came down to a credibility contest
+
+             8     between the defendant and the police officers; in
+
+             9     particular, Officer Darrah.
+
+            10                And I think the defendant came in here and
+
+            11     told -- and lied to the Court and lied to the jury with
+
+            12     regard to this -- what the government believes was this
+
+            13     fairytale about the other car -- the Court will remember
+
+            14     from the trial -- with the man in the Red Sox shirt who
+
+            15     there had been an interaction -- previous interaction
+
+            16     with in the bar, driving not down this alleyway toward
+
+            17     the -- purportedly toward the defendant, Mr. Brown,
+
+            18     firing a gun and then either dropping or leaving a
+
+            19     loaded gun for the defendant to -- Mr. Brown to find.
+
+            20     And the defendant says that happened and of course he
+
+            21     didn't pick up the gun, Mr. Brown did, and he was
+
+            22     unaware of this.
+
+            23                The notion that they would be running -- it's
+
+            24     undisputed the defendants were running in the direction
+
+            25     of this car -- them running in the direction of someone
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 13 of 29
+                                                                                          13
+
+
+
+             1     who was firing shots at them is, among other things,
+
+             2     part of what the government believed was a fairytale and
+
+             3     was bald-face lies in front of the Court and in front of
+
+             4     the jury, for which the government believes the
+
+             5     defendant deserves a two-point obstruction enhancement.
+
+             6     The enhancement already applies, as the PSR indicates,
+
+             7     as a result of the absconding at the time of sentencing.
+
+             8     But I think that is consistent with this picture of the
+
+             9     defendant.
+
+            10                I intended to go on longer but I think the Court
+
+            11     understands the government's position.
+
+            12                THE COURT:        I think you've adequately covered
+
+            13     it.
+
+            14                MR. BATOR:        Thank you, your Honor.
+
+            15                THE COURT:        Thank you, sir.
+
+            16                Mr. Kerner?
+
+            17                MR. KERNER:        Thank you, your Honor.
+
+            18                Your Honor, I filed a sentencing memorandum, and
+
+            19     in that memorandum I indicated that I believed that the
+
+            20     criminal history category was overstated by the
+
+            21     probation department, and that for the reasons stated in
+
+            22     my memorandum that he is -- he should be assessed 17
+
+            23     criminal history points, which still puts him into
+
+            24     Category VI.
+
+            25                I further stated that I believe that if you look
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 14 of 29
+                                                                                           14
+
+
+
+             1     at the nature of his prior convictions, they were all
+
+             2     convictions which resulted in either a probationary
+
+             3     sentence or a relatively short time in a county house of
+
+             4     correction.
+
+             5                My argument was that a Level VI is the worst
+
+             6     category that you can be put into under the guidelines,
+
+             7     and I suggested that even though Mr. Weeks does have a
+
+             8     fairly substantial prior criminal history, that it is
+
+             9     far from being the worst that comes through these
+
+            10     courthouse doors.
+
+            11                The main argument, your Honor, is really whether
+
+            12     or not the assault and battery in Somerville, and
+
+            13     possibly the resisting arrest in Brockton, are violent
+
+            14     felonies for purposes of the ACC.                 And they aren't for
+
+            15     two reasons:        One, they are state misdemeanors,
+
+            16     punishable by two years or less, so they are excluded
+
+            17     under the statute; and, two, they are -- there is
+
+            18     nothing in the -- there's nothing before the Court
+
+            19     admissible under Shepard which would indicate that
+
+            20     either resisting arrest or the assault and battery were
+
+            21     violent felonies; they were just generic assault and
+
+            22     battery, generic resisting arrest.
+
+            23                And there are two ways in which both of those
+
+            24     crimes can be committed; both of those crimes can be
+
+            25     committed without violence.                 And there's nothing to
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 15 of 29
+                                                                                          15
+
+
+
+             1     indicate -- there's nothing before this Court that is
+
+             2     admissible under Shepard to show that it was committed
+
+             3     in a way that was violent.
+
+             4                The police reports are not admissible; there are
+
+             5     no plea colloquies; there is -- I've been provided with
+
+             6     no charging documents which indicate that there was
+
+             7     violence associated with either one of these crimes.                   So
+
+             8     you cannot consider them violent felonies, I would
+
+             9     suggest, based on Shepard, and pursuant to the statute
+
+            10     they are not violent felonies and they cannot be ACC
+
+            11     predicates.       Even if there is something in there which
+
+            12     indicates there was some threat of force or force used,
+
+            13     they are still state misdemeanors punishable by two
+
+            14     years or less; and, thus, they are excluded from the ACC
+
+            15     pursuant to the statute.
+
+            16                My argument, your Honor, is that you should
+
+            17     consider the guidelines at Offense Level 24, and
+
+            18     criminal -- the guideline should be criminal Category
+
+            19     VI, Offense Level 24.            And my suggestion is that given
+
+            20     that even though there are sufficient points to place
+
+            21     Mr. Weeks into Category VI, because of the nature of
+
+            22     most of those convictions -- I would suggest that only
+
+            23     the two drug charges are felonies -- that it would be
+
+            24     appropriate to depart from the guidelines by one
+
+            25     criminal history category to Criminal History Category
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 16 of 29
+                                                                                                   16
+
+
+
+             1     V, and that would put him into a situation where the
+
+             2     guideline range is 92 to 115 months.
+
+             3                Now, Judge, this was a conviction which Mr.
+
+             4     Weeks is appealing.           This is a conviction that was
+
+             5     returned by a jury -- an all-white jury that was chosen
+
+             6     under a system that has now been revamped by this court.
+
+             7     It was objected to at the time of the impaneling; I
+
+             8     objected to the fact that the whole panel consisted of
+
+             9     no African-Americans and I asked for a new panel, and
+
+            10     that was denied.
+
+            11                Since that time this court, the district court,
+
+            12     has revamped its procedures for calling people for jury
+
+            13     duty to get a more representative racial mix of the jury
+
+            14     panels.
+
+            15                THE COURT:        Right.
+
+            16                MR. KERNER:        And so if it was not a fair -- he
+
+            17     was not convicted under a fair jury-picking system
+
+            18     because if it was fair, they would have kept it that
+
+            19     way.    It wasn't fair then -- and it may be fair now, but
+
+            20     it wasn't fair then.            And we objected to that.               And he
+
+            21     was convicted by an all-white jury and he was convicted
+
+            22     by lying white police officers.
+
+            23                And we know that they were lying because we have
+
+            24     a transcript of one police officer from a motion to
+
+            25     suppress hearing before you where he sat right over
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 17 of 29
+                                                                                                   17
+
+
+
+             1     there, and the police officer, whose name is Healy, said
+
+             2     that Darrah, the main police officer, told Healy on the
+
+             3     night of the incident that Mr. Weeks jumped over the
+
+             4     short six-foot fence with the barbed wire.                    And then he
+
+             5     came into court and he lied.                He lied to the jury, he
+
+             6     lied to you, he lied to everybody, and he said that
+
+             7     Darrah told him that he jumped over the eight-foot fence
+
+             8     into that little pen area where the gun and the phone
+
+             9     were found.
+
+            10                And he said that after he was spoken to by the
+
+            11     U.S. Attorney's Office.             And his excuse was, "Oh, I was
+
+            12     confused."       He was not confused because -- I have the
+
+            13     transcript right here.
+
+            14                THE COURT:        We're not retrying the case.
+
+            15                MR. KERNER:        I'm not retrying the case but I'm
+
+            16     pointing out to you that this was an issue that you have
+
+            17     to take into consideration.
+
+            18                THE COURT:        Not with regard to sentencing.                If
+
+            19     the defendant is not guilty, that's one thing; but if
+
+            20     he's guilty, then I have to decide what's an appropriate
+
+            21     sentence.       And that doesn't depend on the issues that
+
+            22     you're now talking about.              The other ones, it does.
+
+            23                MR. KERNER:        Yes.     Well, the government claims
+
+            24     that it's their opinion that Mr. Weeks lied during the
+
+            25     trial.     Well, that's the government's opinion.                      We have
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 18 of 29
+                                                                                               18
+
+
+
+             1     proof that the government lied.
+
+             2                THE COURT:        I don't -- come on.          Calm down.    I
+
+             3     don't accept the government's, quote, opinion either.
+
+             4                MR. KERNER:        Thank you, your Honor.            I'll move
+
+             5     on.    I appreciate that.
+
+             6                If this case were properly brought in the
+
+             7     Brockton District Court where it belonged, he would be
+
+             8     facing a one-year minimum mandatory for possession of a
+
+             9     gun -- if he was convicted -- possession of a gun
+
+            10     without a license.           That's what the punishment is in the
+
+            11     state court.
+
+            12                THE COURT:        Well, your complaint there is with
+
+            13     the executive or the Congress, not with me.
+
+            14                MR. KERNER:        Yes.     And this is my argument for a
+
+            15     departure, all right?
+
+            16                THE COURT:        It's not a recognized argument for
+
+            17     departure.
+
+            18                MR. KERNER:        It could be.
+
+            19                THE COURT:        The fact that a penalty would be
+
+            20     less in the state system is not a recognized argument
+
+            21     for departure.         And I'm a great departer, I'll tell you.
+
+            22                MR. KERNER:        But if you take into consideration
+
+            23     the circumstances under which this case got here it may
+
+            24     be.    Because what happened that night is Mr. Weeks and
+
+            25     Mr. Kelvin Brown were both charged with possessing that
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 19 of 29
+                                                                                          19
+
+
+
+             1     gun.
+
+             2                Mr. Kelvin Brown's case -- it wasn't a situation
+
+             3     where the police didn't know what happened and then a
+
+             4     couple of hours later, or a couple of days later, even
+
+             5     weeks later, hashed things out, dismissed Kelvin Brown
+
+             6     and prosecuted Mr. Weeks.              What happened is that they
+
+             7     figured out that they could get 15 years from Mr. Weeks
+
+             8     and not from Mr. Brown, and that's why the case was
+
+             9     brought here.
+
+            10                MR. BATOR:        I'm going to object, your Honor.
+
+            11                THE COURT:        It would be a perfectly good reason
+
+            12     for bringing it here.            I have nothing to do with that,
+
+            13     and you know that.
+
+            14                MR. KERNER:        I know that you have nothing to do
+
+            15     with it.
+
+            16                THE COURT:        It is nothing that is appropriate
+
+            17     for me to consider.
+
+            18                MR. KERNER:        Thank you, your Honor.
+
+            19                THE COURT:        Would you please get to your
+
+            20     recommendation?
+
+            21                MR. KERNER:        My recommendation is that since
+
+            22     this is a situation where if the case was brought in
+
+            23     state court, he was facing here, I'm asking for a
+
+            24     three-year sentence; I'm asking for 36 months, which is
+
+            25     a considerable sentence.
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 20 of 29
+                                                                                                20
+
+
+
+             1                THE COURT:        It's perfectly justifiable for you
+
+             2     to ask for anything you want to, but you know very well
+
+             3     that that's not going to fly with the Court of Appeals.
+
+             4                MR. KERNER:        Then at the very least, your Honor,
+
+             5     I believe that you should determine that Mr. Weeks is
+
+             6     not an ACC, he does not qualify for the ACC, and that
+
+             7     his guidelines should be 24/VI, and that you would be --
+
+             8     it would be appropriate for you to depart one level on
+
+             9     the criminal history category, from VI to V.                     And under
+
+            10     24/V, the guidelines are 92 to 115 months.                    And I would
+
+            11     ask that you -- then if you are not going to depart
+
+            12     further, then 92 months.
+
+            13                THE COURT:        Thank you very much.
+
+            14                MR. KERNER:        Thank you.
+
+            15                MR. BATOR:        Your Honor, may I be heard just for
+
+            16     the record?
+
+            17                THE COURT:        No.    Nothing further.         I've heard
+
+            18     enough.      I'm ready to proceed.            Please be seated.
+
+            19                MR. BATOR:        Your Honor, for the record above, I
+
+            20     need to responds to his ACC arguments if only to say the
+
+            21     government has previously filed a memorandum and that
+
+            22     its position with regard to his argument whether what
+
+            23     qualifies as an ACC predicate or not, and that
+
+            24     memorandum indicates it's been rejected by the First
+
+            25     Circuit.
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 21 of 29
+                                                                                            21
+
+
+
+             1                I need to say that for the record for above,
+
+             2     your Honor, or we'll be back here.
+
+             3                THE COURT:        I understand.
+
+             4                Mr. Weeks, do you want to stand?
+
+             5                (Defendant rises.)
+
+             6                THE COURT:        Mr. Weeks, here we are all gathered
+
+             7     together because of your case.                 It's a pretty heavy
+
+             8     moment for you, it's a pretty heavy moment for me, too.
+
+             9     You can tell me anything you want before I go ahead and
+
+            10     impose a sentence.           I have to impose a significant
+
+            11     sentence here, and you know it.                 And I'd like to hear
+
+            12     what you have to say before I do it.
+
+            13                THE DEFENDANT:          All right.      First I want to say
+
+            14     I'm sorry for not showing up for sentencing.                     The reason
+
+            15     why I didn't show up was because my father was sick and
+
+            16     I had to take care of my little sisters.                    And I was
+
+            17     having a little baby girl.
+
+            18                I'm 27 years old with two beautiful little girls
+
+            19     that I want to see grow up.                 I'm older now and I know
+
+            20     right from wrong.          I know if I had another chance, I
+
+            21     would stay out of trouble and do the right thing.
+
+            22                While I was on release I never did any drugs or
+
+            23     drink, I took things serious because I wanted to stay
+
+            24     out.    The longest time I ever did in jail was 10 months;
+
+            25     I never did any longer time than that.
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 22 of 29
+                                                                                           22
+
+
+
+             1                I'm asking the Court for mercy, to justify [sic]
+
+             2     a lenient sentence.           Thank you.
+
+             3                THE COURT:        Well, Mr. Weeks, I'm going to have
+
+             4     to go through a little arithmetic, for the record, to
+
+             5     explain why I'm imposing the sentence that I am imposing
+
+             6     and so on.       There's been argument between counsel as to
+
+             7     how you calculate all this stuff.                 But let me just say
+
+             8     that I adopt the calculations made in the presentence
+
+             9     report by the probation department here, and find that
+
+            10     there is a base offense level of 24, with 2 added as an
+
+            11     adjustment for obstruction of justice and failure to
+
+            12     appear for sentencing, an adjusted offense level of 26.
+
+            13                And I conclude with regret, but nevertheless
+
+            14     firmly, that the defendant is subject to the armed
+
+            15     career criminal provision described at 18 U.S.C. Section
+
+            16     924(e) and the guidelines accordingly; second, I
+
+            17     conclude that you have three prior convictions for a
+
+            18     violent felony or a serious drug offense or both,
+
+            19     committed on occasions different from one another; and
+
+            20     that the total offense level is then 33.
+
+            21                Against you, to get back to plain English now,
+
+            22     is the nature of what you did:                Possessing a firearm
+
+            23     after having been convicted of a felony; together with a
+
+            24     considerable prior record commencing when you were only
+
+            25     16 including assault and battery; attempted larceny on a
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 23 of 29
+                                                                                             23
+
+
+
+             1     person resulting in a jail sentence; assault and battery
+
+             2     at age 18 for which a sentence was imposed; a further
+
+             3     assault; knowingly receiving stolen property for which
+
+             4     you received a jail sentence in 1998; sale of cocaine at
+
+             5     the age of 19 where you were sentenced; possession of
+
+             6     cocaine, the one-year committed deemed served; and
+
+             7     battery and resisting arrest in Miami, Florida, in 2002.
+
+             8                Now, according to the calculations of the
+
+             9     probation department, which I believe to be correct, in
+
+            10     this case the guideline range is 235 to 293 months.                    The
+
+            11     statutory minimum is 15 years to life.                   This is one of
+
+            12     those rare cases in which the guideline minimum is well
+
+            13     above the statutory minimum and in which both such
+
+            14     sentences are substantial and long.
+
+            15                I conclude that to impose a sentence of not less
+
+            16     than 235 months, which is the guideline minimum, would
+
+            17     be excessive within the meaning of 18 United States Code
+
+            18     3553(a).      Accordingly, I impose the following sentence:
+
+            19     Pursuant to the Sentencing Reform Act of 1984, and
+
+            20     having considered the sentencing statute enumerated at
+
+            21     18 U.S.C. Section 3553(a), it's the judgment of the
+
+            22     Court that the defendant, Jerome Weeks, is hereby
+
+            23     committed to the custody of the Bureau of Prisons, to be
+
+            24     imprisoned for a term of 180 months, which is the
+
+            25     statutory minimum.
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 24 of 29
+                                                                                          24
+
+
+
+             1                The Court makes the judicial recommendation that
+
+             2     the defendant participate in anger management or
+
+             3     batterer's counseling, if available, at the designated
+
+             4     Bureau of Prisons' facility.
+
+             5                Upon release from imprisonment, the defendant
+
+             6     shall be placed on supervised release for a term of
+
+             7     three years.        Within 72 hours of release from custody of
+
+             8     the Bureau of Prisons, you shall report in person to the
+
+             9     district in which you were released.
+
+            10                No fine is imposed based on the Court's finding
+
+            11     that there is no evidence of your ability to pay a fine
+
+            12     or that you are likely to become able to do so.
+
+            13                While on supervised release you shall comply
+
+            14     with the following conditions:                You shall not commit
+
+            15     another offense; you shall refrain from any unlawful use
+
+            16     of a controlled substance and submit to one drug test
+
+            17     within 15 days of release from imprisonment, at least
+
+            18     two periodic tests thereafter, not to exceed 104 tests
+
+            19     per year; you shall submit to the collection of a DNA
+
+            20     sample; you shall comply with the standard conditions as
+
+            21     has been adopted by the Court which are described in the
+
+            22     guidelines, Section 5D1.3(c); and you're prohibited from
+
+            23     possessing a firearm or other dangerous weapon.
+
+            24                It is further and finally determined that you
+
+            25     shall pay to the United States a special assessment of
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 25 of 29
+                                                                                                25
+
+
+
+             1     $100, which shall be due.
+
+             2                Now, Mr. Weeks, I've gone down as far as it's
+
+             3     possible for me to go, and it's still a very tough
+
+             4     sentence, I realize.            I don't write the laws; I'm
+
+             5     obligated to impose a sentence as the laws are imposed
+
+             6     on me.     You will get time off each year for good
+
+             7     behavior, if you behave well, and that will reduce the
+
+             8     sentence by a number of years, although it's still going
+
+             9     to be long.
+
+            10                You will still, however, not be an old man when
+
+            11     you come out, and I hope and believe and wish that
+
+            12     things will turn around for you and for society and for
+
+            13     your friends and family who are here today, all of whose
+
+            14     letters I received and read and care about.                     But they
+
+            15     must know that I'm not just free to do anything I wish.
+
+            16                I want to tell you that you have the right to
+
+            17     appeal both your conviction and your sentence.                         You have
+
+            18     significant reasons to appeal your conviction because
+
+            19     you have a question of suppression of evidence and other
+
+            20     issues raised by your attorney.
+
+            21                I assume that counsel will arrange to file a
+
+            22     notice of appeal forthwith.                 Am I correct in that
+
+            23     regard?
+
+            24                MR. KERNER:        Yes, your Honor.
+
+            25                THE COURT:        Very good.
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 26 of 29
+                                                                                          26
+
+
+
+             1                MR. GOMES:        Your Honor, perhaps I missed it.
+
+             2     What term of supervised release did you wish to impose?
+
+             3                THE COURT:        Excuse me.       I thought I did.
+
+             4                MR. BATOR:        I believe the Court indicated three
+
+             5     years.
+
+             6                THE CLERK:        Three years.
+
+             7                MR. GOMES:        Three years?        All right.
+
+             8                THE COURT:        Yes.     A three-year term of
+
+             9     supervised release.
+
+            10                That concludes the proceedings for today, and
+
+            11     I --
+
+            12                MR. BATOR:        Your Honor, I need to state -- to be
+
+            13     heard very briefly as a matter of form for the appellate
+
+            14     court.     I need to state an objection to the sentence for
+
+            15     the basis that it's below the minimum mandatory.
+
+            16                I should also point out that pursuant to Federal
+
+            17     Criminal 32 and United States -- the Supreme Court of
+
+            18     the United States, Burns -- United States v. Burns, 501
+
+            19     U.S., 135,136, the Court is -- the parties are required
+
+            20     to give some notice of a sua sponte deviation from the
+
+            21     guidelines.
+
+            22                I assume this is -- the Court indicated this is
+
+            23     not a departure but a deviation under the 35 --
+
+            24                THE COURT:        That's correct.
+
+            25                MR. BATOR:        -- because -- it's part of what the
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 27 of 29
+                                                                                          27
+
+
+
+             1     rule requires in order to give the parties full
+
+             2     opportunity to comment on the basis for the sentence.
+
+             3                THE COURT:        What section are you referring to?
+
+             4                MR. BATOR:        I'm sorry?       Yes.    Rule -- it's
+
+             5     Federal Criminal Rule 32(i)(1)(C) which --
+
+             6                THE COURT:        Excuse me.
+
+             7                MR. BATOR:        -- mandates that the district court
+
+             8     allow parties to comment on -- relating to appropriate
+
+             9     sentence, in the Supreme Court v. Burns, in providing a
+
+            10     guideline --
+
+            11                THE COURT:        Just give me a chance to look, will
+
+            12     you?    You're going too fast for me.                32(i)(1)(C)?
+
+            13                MR. BATOR:        Yeah.     32(i)(1)(C).
+
+            14                THE COURT:        It's some system.
+
+            15                MR. BATOR:        The Court indicated -- I didn't
+
+            16     invent it myself, your Honor.
+
+            17                THE COURT:        Are you referring to the phrase
+
+            18     which says "must allow the parties' attorneys to comment
+
+            19     on the probation officer's determinations and other
+
+            20     matters relating to an appropriate sentence"?
+
+            21                MR. BATOR:        Yes.     As it's been construed by the
+
+            22     Supreme Court in the Burns case, your Honor, which has
+
+            23     indicated that the parties -- gives the parties some
+
+            24     right to be notified that the Court is contemplating
+
+            25     what a sentence will be in order to give full comment.
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 28 of 29
+                                                                                            28
+
+
+
+             1                THE COURT:        I'm amazed that in my 39 years on
+
+             2     the bench, but in my 13 years here in Boston, this has
+
+             3     never been brought to my attention before.                    If you wish
+
+             4     to start from scratch today, go ahead and give me your
+
+             5     position.
+
+             6                MR. BATOR:        Well, I think it's more to -- all
+
+             7     the Court is saying, and I should add that the office --
+
+             8     the assistant U.S. attorneys are routinely making this
+
+             9     objection so that when we come into court we have some
+
+            10     idea of what to argue -- with regard to what the Court
+
+            11     may be thinking.          All the Court has said this morning is
+
+            12     that the guideline sentence, even at the low end, which
+
+            13     the government -- is excessive, and nothing more.
+
+            14                THE COURT:        That is a word that was used in a
+
+            15     recent commutation of sentence also.
+
+            16                MR. BATOR:        No.    No.     And I don't suggest that
+
+            17     there's anything inappropriate about that.                    But it's
+
+            18     very limited in citing -- for the government to have
+
+            19     some sense of why the sentence is excessive and then to
+
+            20     be able to respond in some sense, is what would fulfill
+
+            21     I think, what the requirements of the rule and Burns
+
+            22     say on --
+
+            23                THE COURT:        I'd be glad to hear anything that
+
+            24     you wish to tell me as to why it is not excessive.
+
+            25                MR. BATOR:        Well, I think the government has
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+                 Case 1:04-cr-10385-EFH Document 106       Filed 08/04/08 Page 29 of 29
+                                                                                           29
+
+
+
+             1     made its arguments with regard to that, your Honor.
+
+             2                THE COURT:        That's what I thought.           I heard you
+
+             3     all.    I don't know what more can be done.
+
+             4                MR. BATOR:        Well, I think having some
+
+             5     understanding of why the Court --
+
+             6                THE COURT:        You have the right to appeal, too.
+
+             7                Thank you, everyone.
+
+             8                MR. KERNER:        Thank you, your Honor.
+
+             9                THE CLERK:        All rise.
+
+            10                Court is now in recess.
+
+            11                (The proceedings adjourned at 11:54 a.m.)
+
+            12
+
+            13                               C E R T I F I C A T E
+
+            14
+
+            15                I, Marcia G. Patrisso, RMR, CRR, Official
+
+            16     Reporter of the United States District Court, do hereby
+
+            17     certify that the foregoing transcript constitutes, to
+
+            18     the best of my skill and ability, a true and accurate
+
+            19     transcription of my stenotype notes taken in the matter
+
+            20     of Criminal Action No. 04-10385-MEL, United States v.
+
+            21     Jerome Weeks.
+
+            22
+
+            23                             /s/ Marcia G. Patrisso
+                                           MARCIA G. PATRISSO, RMR, CRR
+            24                             Official Court Reporter
+
+            25
+
+
+
+
+PDF created with pdfFactory trial version www.pdffactory.com
+

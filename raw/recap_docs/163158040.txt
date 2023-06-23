@@ -1,0 +1,455 @@
+         Case 4:14-cr-40042-TSH Document 109 Filed 03/05/21 Page 1 of 9
+
+
+
+
+                      UNITED STATES DISTRICT COURT
+                        DISTRICT OF MASSACHUSETTS
+_______________________________________
+                                        )
+UNITED STATES OF AMERICA                )
+                   Plaintiff,           )         CIVIL ACTION
+                                        )         NO. 4:14-40042-TSH
+                   v.                   )
+                                        )
+JOSE M. RODRIGUEZ,                      )
+                   Defendant.           )
+______________________________________ )
+
+
+      MEMORANDUM AND ORDER ON MOTION TO VACATE (Docket No. 94)
+
+                                        MARCH 5, 2021
+
+
+HILLMAN, D.J.,
+
+       In this habeas petition, Jose M. Rodriguez moves to vacate his August 2015 felon-in-
+
+possession conviction under 18 U.S.C. § 922(g)(1) pursuant to Rehaif v. United States, 139 S. Ct.
+
+2191 (2019), in which the Supreme Court held that the Government must prove that the defendant
+
+knew they belonged to a category of persons the statute prohibits from carrying a gun when they
+
+were in possession to sustain a § 922(g)(1) offense. After hearing, Mr. Rodriguez’s motion to
+
+under 28 U.S.C. § 2255 to vacate his conviction is denied.
+
+
+
+                                          Background
+
+       On August 23, 2015, Rodriguez pled guilty to Conspiracy to Possess with Intent to
+
+Distribute and Distribute Cocaine Base, in violation of 21 U.S.C. § 846 (Count 1); Distribution of
+
+Cocaine Base, in violation of 21 U.S.C. § 841(a)(1) (Counts 2-5); and Felon in Possession of a
+         Case 4:14-cr-40042-TSH Document 109 Filed 03/05/21 Page 2 of 9
+
+
+
+
+Firearm, in violation of 18 U.S.C. § 922(g)(1) (Count 8). He was sentenced to 63 months’
+
+imprisonment and 4 years of supervised release. (Docket No. 64).
+
+
+
+First Motion to Vacate
+
+       Rodriguez filed his first § 2255 motion to vacate his conviction on December 5, 2016,
+
+alleging ineffective assistance of counsel. (Docket No. 76). First, he alleged that his attorney
+
+unreasonably advised him to plead guilty to the § 922(g)(1) felon-in-possession charge because
+
+his transitory possession of the gun did not amount to the required exercise of authority, dominion
+
+or control required by U.S. v. Teemer, 394 F.3d 59 (1st Cir. 2005). Second, he alleged that his
+
+attorney should have challenged the total quantity of cocaine base attributed to him in the Court’s
+
+Presentence Investigation Report. (Id.).
+
+       I found that there was adequate factual support for the Defendant’s guilty plea to the felon-
+
+in-possession charge and that his counsel’s representation did not fall below the objective standard
+
+of reasonableness required by Strickland v. Washington, 466 U.S. 668 (1984), and denied the
+
+motion. (Docket No. 83).
+
+
+
+Rehaif v. United States
+
+       18 U.S.C. § 922(g) bars nine categories of individuals from possessing firearms,
+
+including convicted felons. 1 Knowing violations are punishable by fines or up to 10 years’
+
+imprisonment. § 924(a)(2).
+
+
+
+
+1
+  The nine categories are: 1) convicted felons; 2) fugitives; 3) unlawful users or those addicted to
+controlled substances; 4) individuals adjudicated as a mental defective or who have been
+committed to a mental institution; 5) illegal aliens; 6) individuals with dishonorable discharges
+from the Armed Forces; 7) individuals who have renounced U.S. citizenship; 8) individuals
+                                                 2
+           Case 4:14-cr-40042-TSH Document 109 Filed 03/05/21 Page 3 of 9
+
+
+
+
+          On June 21, 2019, the Supreme Court held that in prosecutions under § 922(g) and §
+
+924(a)(2), the Government must prove that “the defendant knew he possessed a firearm and also
+
+that he knew he had the relevant status when he possessed it.” Rehaif at 2194 (2019) (emphasis
+
+added).
+
+
+
+
+Second Motion to Vacate
+
+          Post-Rehaif and while on supervised release, 2 Rodriguez timely filed a second § 2255
+
+motion to vacate his § 922(g) felon-in-possession conviction on August 18, 2020. (Docket No.
+
+97). His second motion argues that: (1) the Court did not have jurisdiction to sentence him because
+
+the indictment did not allege knowledge of status as an essential element of the offense, in violation
+
+of his Fifth Amendment right to be charged by a grand jury and his Sixth Amendment right to
+
+notice of the charges laid against him; and (2) his guilty plea was not made knowingly and
+
+voluntarily because the Court did not inform him that knowledge of status was an essential element
+
+of the offense, and so violated his Fifth Amendment right to due process.
+
+
+subject to certain types of court orders; and 9) individuals who have been convicted of
+misdemeanor domestic violence.
+2
+  § 2255 petitions may only be filed by “a prisoner in custody under sentence of a court
+authorized by an Act of Congress.” Rodriguez was serving his four-year term of supervised
+release when he filed the instant motion. However, the Supreme Court has construed § 2255’s
+custodial requirement liberally, finding that paroled prisoners are deemed to be in custody when
+the terms of release impose significant restraints on their liberty compared to the restraints on the
+general population. Jones v. Cunningham, 371 U.S. 236, 242-43 (1963). Rodriguez’s conditions
+of supervised release, which include requiring him to obtain permission to travel; allow
+probation officers to visit him at home or elsewhere at any time; cooperate with DNA collection;
+abstain from possessing firearms or any dangerous weapons; obtain or seek employment; avoid
+certain locations associated with the underlying offense; and participate in substance abuse and
+counseling programs, constitute significant and ongoing restraints against his liberty that render
+him “in custody” for purposes of § 2255.
+
+
+                                                  3
+          Case 4:14-cr-40042-TSH Document 109 Filed 03/05/21 Page 4 of 9
+
+
+
+
+                                                Analysis
+
+        The Defendant’s motion is barred because he has not followed the proper procedure laid
+
+out in §§ 2255 and 2244 for successive petitions.
+
+
+
+Successive § 2255 Motions Must be Pre-Certified by an Appellate Court.
+
+        Under the Antiterrorism and Effective Death Penalty Act (“AEDPA”), “a second or
+
+successive motion must be certified as provided in § 2244 by a panel of the appropriate court of
+
+appeals.” § 2244(a)(3)(A) requires a petitioner to “move in the appropriate court of appeals for
+
+an order authorizing the district court to consider the application” before a second or successive
+
+application is filed with the district court.
+
+        Upon receiving an application for a successive petition, a three-judge panel of the court
+
+of appeals determines if the petitioner has made a prima facie showing that the claim for relief
+
+was not presented in a prior petition and either:
+
+        “1) relies on a new rule of constitutional law, made retroactive to cases on
+        collateral review by the Supreme Court, that was previously unavailable; or
+        2) the factual predicate for the claim could not have been discovered earlier
+        through the exercise of due diligence, and the facts would be sufficient to
+        establish by clear and convincing evidence that, but for the constitutional error,
+        no reasonable factfinder could have found the applicant guilty of the underlying
+        offense.”
+    Because this is Rodriguez’ second motion to vacate pursuant to § 2255, the certification rule
+
+applies. Likely owing to the late appointment of CJA counsel, Rodriguez did not seek
+
+certification with the First Circuit before filing this motion.
+
+        When faced with a successive § 2255 petition, a district court must either dismiss it or
+
+transfer it to the appropriate court of appeals. Pratt v. U.S., 129 F.3d 54, 57-58 (1st Cir. 1997).
+
+A district court may transfer an action over which it lacks jurisdiction to an appropriate court
+
+
+                                                    4
+         Case 4:14-cr-40042-TSH Document 109 Filed 03/05/21 Page 5 of 9
+
+
+
+
+where the action could have been brought if transfer is in the interest of justice; the action will
+
+then proceed as if it were filed in the transferee court on the same date that it was filed in the
+
+transferor court. 28 U.S.C. § 1631.
+
+
+
+Transfer to the Appeals Court is Not in the Interest of Justice.
+       If I dismiss this motion, then AEDPA’s one-year statute of limitations for filing § 2255
+
+petitions based on new law will foreclose any avenue to Rehaif relief. See 28 U.S.C. § 2255.
+
+       I am mindful that the U.S. District Court for the District of Massachusetts sought to
+
+prevent defendants who may be eligible for Rehaif relief from falling victim to § 2255’s one-year
+
+bar. On September 18, 2019, the District issued General Order 19-4 directing the Federal Public
+
+Defender (“FPD”) to develop a list of defendants who might be eligible for relief under Rehaif
+
+and authorizing the FPD to file motions for relief on their behalf. General Order 19-4,
+
+https://www.mad.uscourts.gov/caseinfo/pdf/general/09%2018%202019%20General%20Order%
+
+2019-4%20w%20Electronic%20Signatures.pdf . Where a defendant was previously found to be
+
+indigent and represented by a CJA attorney who was no longer on the CJA panel, the Court
+
+ordered the FPD to file a request to be appointed as counsel or refer the case to a member of the
+
+CJA habeas panel or a qualified attorney, who would then file a motion with the Court for an
+
+appointment. Order 19-4 at 2.
+
+       FPD identified Rodriguez as a potential candidate for Rehaif relief. Because his trial
+
+attorney was no longer on the CJA panel, a new attorney needed to be identified. No motion for
+
+appointment was filed for eight months after Order 19-4. When Attorney Tumposky was
+
+appointed on May 27, 2020, he had about three weeks to learn the case, draft and file a motion
+
+for certification with the First Circuit, obtain an answer on certification (the statute provides
+
+
+
+                                                  5
+          Case 4:14-cr-40042-TSH Document 109 Filed 03/05/21 Page 6 of 9
+
+
+
+
+circuit courts up to 30 days to respond), and file a motion in the district court before the one-year
+
+statute of limitations tolled.
+
+        This was not a feasible timeline. On June 19, 2020, Rodriguez filed his second motion to
+
+vacate without having obtained appellate certification.
+
+        Honoring the spirit of Order 19-4, it would be in the interest of justice to transfer rather
+
+than dismiss Rodriguez’s motion— knowing such a dismissal would be fatal—if it might have
+
+merit. Accordingly, I examined whether the First Circuit would be likely to certify the motion if
+
+I transferred it and— if the First Circuit did issue a certification—whether the district court
+
+would be likely to grant relief if it were authorized to act on the motion.
+
+        To obtain certification from the First Circuit, the Defendant must show that his proposed
+
+successive § 2255 motion contains “(1) newly discovered evidence . . .; or (2) a new rule of
+
+constitutional law, made retroactive to cases on collateral review by the Supreme Court, that was
+
+previously unavailable.” 28 U.S.C. § 2255(h). Because there is no new evidence at issue, to
+
+obtain First Circuit certification Rodriguez must show that Rehaif announced a new and
+
+retroactive rule of constitutional law.
+
+        The First Circuit has not issued an opinion on this issue, but the Second, Third, Sixth, and
+
+Eleventh Circuits have held that Rehaif does not authorize successive § 2255 petitions because it
+
+announced a new statutory interpretation, not a new rule of constitutional law. Mata v. United
+
+States, 969 F.3d 91 (2d Cir. 2020) (per curiam); In re Kareem Simpson, (3d Cir. 2020); In re
+
+Palacios, 931 F.3d 1314, 1315 (11th Cir. 2019) (per curiam); Khamisi-El v. United States, 800
+
+F.App’x 344, 349 (6th Cir. 2020).
+
+        I concur with our sister circuits and find that if I transferred Rodriguez’s motion to the
+
+First Circuit, it would likely deny review because Rehaif is not a new rule of constitutional law.
+
+
+
+                                                  6
+         Case 4:14-cr-40042-TSH Document 109 Filed 03/05/21 Page 7 of 9
+
+
+
+
+Rehaif clarifies that under 18 U.S.C. §922(g), which punishes anyone who “knowingly violates”
+
+it with up to ten years in prison, the Government must prove that the defendant knew he violated
+
+each of the material elements of the statute: that he possessed a firearm and that when he
+
+possessed the firearm, he knew he belonged to one of the nine groups listed in the statute. Rehaif
+
+at 2194. It is limited to the mens rea element of §922(g) and did not create a broader
+
+constitutional rule which is applicable outside § 922(g) prosecutions.
+
+       Even if the First Circuit found that Rehaif was a constitutional rule and certified it so that
+
+I could reach the merits, Rodriguez’s Rehaif claim would be procedurally defaulted for failure to
+
+raise it at trial or on direct appeal unless he could show cause for the default and actual prejudice
+
+caused by the error. Bousley v. United States, 523 U.S. 614, 622 (1998).
+
+       I do not reach the issue of procedural default because Rodriguez cannot make the
+
+necessary prejudice showing. To demonstrate actual prejudice in cases that culminate in a plea
+
+rather than a trial, a petitioner “must show that there is a reasonable probability that but for [the]
+
+errors, he would not have pleaded guilty and would have insisted on going to trial.” Hill v.
+
+Lockhart, 474 U.S. 52, 59 (1985).
+
+       Rodriguez claims there is no evidence in the record that he knew he was a felon when he
+
+was apprehended carrying a loaded gun, implying that he might not have pled guilty if he had
+
+known the Government needed to prove knowledge of status.
+
+       I do not find Rodriguez’s argument credible and agree that federal prosecutors would
+
+have been easily able to prove that Rodriguez knew he was a felon when he carried the loaded
+
+handgun based on his prior state convictions. The indictment alleged that Rodriguez committed
+
+the felon-in-possession offense on October 17, 2013. (Indictment at 9, Docket No. 97-1). On
+
+January 10, 2012, he pled guilty in state court to receipt of stolen property, carrying a loaded
+
+
+
+                                                   7
+         Case 4:14-cr-40042-TSH Document 109 Filed 03/05/21 Page 8 of 9
+
+
+
+
+firearm without a license, and reckless driving, and was sentenced to 2.5 years of probation.
+
+(Presentence Investigation Rep. at 12, Docket No. 100). He violated the terms of his probation
+
+and was sentenced to 2.5 years in prison on June 5, 2012, with 60 days to be served and the
+
+remaining sentence suspended for two years. (Id.; Worcester District Court Criminal Docket
+
+Excerpt at 2-3, Docket No. 102-1).
+
+       Rodriguez contends there is a reasonable probability that he would have risked going to
+
+trial if he had known that Government would have to prove that he knew he was a felon in
+
+October 2013 because he had previously only served 2 months of his 30-month sentence for
+
+parole violation. However, at his parole violation hearing 16 months earlier, the state court judge
+
+would have announced the length of his sentence before committing him, as required by state
+
+law. See U.S. v. Burghardt, 939 F. 3d 397, 404 (1st Cir. 2019); MacArthur v. U.S., 2020 WL
+
+1670369 (D. Me. 2020). Notably, Rodriguez did not claim or submit any evidence—such as a
+
+transcript of the state court probation violation proceedings—which showed that he was never
+
+informed that he was being sentenced for a crime punishable by more than one year.
+
+       Finally, Rodríguez argues that the Court’s failure to advise him of the knowledge of
+
+status requirement prior to his guilty plea was structural error, so he does not need to show
+
+prejudice to obtain relief. He notes that the Fourth Circuit vacated a guilty plea on direct appeal
+
+because of the court’s failure to instruct the Defendant on the Rehaif knowledge of status
+
+requirement and has held that such a failure satisfies the third prong of the plain error test. U.S.
+
+v. Gary, 954 F.3d 194, 200-07 (4th Cir. March 23, 2020). However, Gary is at odds with the
+
+First Circuit’s post-Rehaif precedent—as well as precedent from six other circuits— that
+
+defendants like Rodriguez who fail to object to a Rehaif error at trial “must demonstrate
+
+prejudice in the form of “a reasonable probability that, but for this purported error, he would not
+
+
+
+                                                  8
+         Case 4:14-cr-40042-TSH Document 109 Filed 03/05/21 Page 9 of 9
+
+
+
+
+have pled guilty.”” U.S. v. Burghardt, 939 F.3d 397, 402-03 (1st Cir. 2019); U.S. v. Pantone (1st
+
+Cir. 2021) (affirming Burghardt, noting that the Second, Third, Sixth, Seventh, Tenth, and
+
+Eleventh Circuits have adopted similar approaches requiring defendants subject to Rehaif errors
+
+to meet reasonable probability standard).
+
+                                            Conclusion
+
+I find that it is not in the interest of justice to transfer Mr. Rodriguez’s successive § 2255 motion
+
+to vacate his felon-in-possession conviction to the First Circuit. For the reasons stated above, Mr.
+
+Rodriguez’s motion to vacate his conviction is denied.
+
+
+
+SO ORDERED.
+
+                                                                           /s/ Timothy S. Hillman
+                                                                        TIMOTHY S. HILLMAN
+                                                                              DISTRICT JUDGE
+
+
+
+
+                                                 9
+

@@ -1,0 +1,148 @@
+                                   UNITED STATES DISTRICT COURT
+
+                                             DISTRICT OF MAINE
+
+DELON J. ADAMS,                                        )
+                                                       )
+                  Petitioner,                          )
+                                                       )
+         v.                                            )         2:02-cr-00064-DBH-1
+                                                       )
+                                                       )
+UNITED STATES OF AMERICA,                              )
+                                                       )
+                  Respondent                           )
+
+                        RECOMMENDED DECISION ON RULE 60(b) MOTION
+
+         Petitioner Delon J. Adams has filed a motion seeking to vacate, set aside or correct his
+
+sentence. (Motion, ECF No. 66.)1 Petitioner cites Fed. R. Civ. P. 60(b), but in substance he asks
+
+the Court to reopen his prior section 2255 proceeding in this case and vacate his sentence.2
+
+Petitioner argues that Descamps v. United States, 133 S. Ct. 2276 (2013), applies retroactively to
+
+his sentence.3 (Motion at 1-2.) The Government has responded to the motion, and Petitioner filed
+
+a reply in support of the motion. (Response, ECF No. 70; Reply, ECF No. 71.)
+
+
+1
+  Following a jury trial, Petitioner was convicted of being a felon in possession of a firearm and of carrying a firearm
+in relation to a drug trafficking crime; he was acquitted of a third firearms charge. United States v. Adams, 375 F.3d
+108, 110-111 (1st Cir. 2004). Petitioner was sentenced to 120 months in prison, followed by three years of supervised
+release, for firearms possession; for using a gun during a drug robbery, he was sentenced to 84 months, to be served
+consecutively, followed by five years of supervised release. (Judgment, ECF No. 49.) Petitioner appealed the
+conviction, and the First Circuit affirmed it. Adams, 375 F.3d at 111, 114.
+2
+  The prior section 2255 decision is docketed at Adams v. United States, No. 2:05-cv-00138-DBH, ECF No. 11
+(recommended decision), adopted Jan. 19, 2006, ECF No. 14. On September 19, 2006, the First Circuit denied
+Petitioner’s request for a certificate of appealability. Adams v. United States, No. 06-1315.
+3
+  In Descamps v. United States, the Supreme Court addressed the Armed Career Criminal Act (ACCA), which
+“increases the sentences of certain federal defendants who have three prior convictions ‘for a violent felony,’ including
+‘burglary, arson, or extortion.’” 133 S. Ct. 2276, 2281 (2013) (quoting 18 U.S.C. § 924(e)). The Court held that its
+“modified categorical approach merely assists the sentencing court in identifying the defendant’s crime of conviction,”
+but it does not “authorize[] the court to try to discern what a trial showed, or a plea proceeding revealed, about the
+defendant’s underlying conduct.” Id. at 2288. The Court noted that the latter approach violates the Sixth Amendment,
+which “contemplates that a jury−not a sentencing court−will find such facts, unanimously and beyond a reasonable
+doubt.” Id.
+           Although Petitioner attempts to invoke Fed. R. Civ. P. 60(b), his motion is governed by 28
+
+U.S.C. § 2255.4 “We hold . . . that a motion made under Rule 60(b) of the Federal Rules of Civil
+
+Procedure for relief from a judgment previously entered in a section 2255 case ‘should be treated
+
+as a second or successive habeas petition if−and only if−the factual predicate set forth in support
+
+of the motion constitutes a direct challenge to the constitutionality of the underlying conviction.’”
+
+Munoz v. United States, 331 F.3d 151, 152-53 (1st Cir. 2003) (quoting Rodwell v. Pepe, 324 F.3d
+
+66, 67 (1st Cir. 2003)); see also Trenkler v. United States, 536 F.3d 85, 97 (1st Cir. 2008). Because
+
+Petitioner challenges the constitutionality of the underlying conviction, and because Petitioner
+
+previously sought relief under section 2255, Petitioner’s motion is a second or successive section
+
+2255 motion and thus subject to the gatekeeping provisions of 28 U.S.C. §§ 2244, 2255(h).
+
+           Section 2255(h)(2) provides that “[a] second or successive motion must be certified as
+
+provided in section 2244 by a panel of the appropriate court of appeals to contain . . . a new rule
+
+of constitutional law, made retroactive to cases on collateral review by the Supreme Court, that
+
+was previously unavailable.” Title 28 U.S.C. § 2244(b)(3)(A) states: “Before a second or
+
+successive application permitted by this section is filed in the district court, the applicant shall
+
+move in the appropriate court of appeals for an order authorizing the district court to consider the
+
+application.” See also First Circuit Local Rule 22.1. The First Circuit has held: “We have
+
+interpreted [section 2255(h)] as ‘stripping the district court of jurisdiction over a second or
+
+
+4
+    Title 28 U.S.C. § 2255(a) provides:
+
+           A prisoner in custody under sentence of a court established by Act of Congress claiming the right
+           to be released upon the ground that the sentence was imposed in violation of the Constitution or
+           laws of the United States, or that the court was without jurisdiction to impose such sentence, or that
+           the sentence was in excess of the maximum authorized by law, or is otherwise subject to collateral
+           attack, may move the court which imposed the sentence to vacate, set aside or correct the sentence.
+
+Fed. R. Civ. P. 60(b) provides that the Court may relieve a party from a final judgment in certain circumstances which
+include where the judgment has been reversed or vacated, where applying the judgment prospectively would no longer
+be equitable, or some other reason that justifies relief.
+
+                                                             2
+successive habeas petition unless and until the court of appeals has decreed that it may go
+
+forward.’” Trenkler, 536 F.3d at 96 (quoting Pratt v. United States, 129 F.3d 54, 57 (1st Cir.
+
+1997)). This Court, therefore, lacks jurisdiction to consider a second or successive section 2255
+
+motion unless the First Circuit has specifically authorized this Court to consider the motion.
+
+       In this case, the record contains no evidence, and the Court is not aware of any information
+
+to suggest, that the First Circuit has authorized this Court to consider Petitioner’s current motion.
+
+Accordingly, the Court should dismiss the motion.
+
+                                              CONCLUSION
+
+       Based on the foregoing analysis, it is recommended that the Court dismiss the motion. It is
+
+further recommend that the Court deny a certificate of appealability pursuant to Rule 11 of the Rules
+
+Governing Section 2255 Cases, because there is no substantial showing of the denial of a constitutional
+
+right within the meaning of 28 U.S.C. § 2253(c)(2).
+
+
+
+                                               NOTICE
+
+               A party may file objections to those specified portions of a magistrate judge’s
+       report or proposed findings or recommended decisions entered pursuant to 28 U.S.C.
+       636(b)(1)(B) for which de novo review by the district court is sought, together with a
+       supporting memorandum, within fourteen (14) days of being served with a copy thereof.
+       A responsive memorandum shall be filed within fourteen (14) days after the filing of the
+       objection.
+               Failure to file a timely objection shall constitute a waiver of the right to de novo
+       review by the district court and to appeal the district court's order.
+
+                                                         /s/ John C. Nivison
+                                                         U.S. Magistrate Judge
+
+       Dated this 25th day of August, 2014.
+
+
+
+
+                                                    3
+

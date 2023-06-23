@@ -1,0 +1,543 @@
+     Case 3:11-cr-00132-PG Document 41 Filed 11/09/11 Page 1 of 15
+
+                          IN THE UNITED STATES DISTRICT COURT
+                            FOR THE DISTRICT OF PUERTO RICO
+
+
+UNITED STATES OF AMERICA,
+
+v.
+
+MANSIO VICENTE-LUCAS,                                       CRIM. NO. 11-132(PG)
+
+Defendant.
+
+
+
+                                         OPINION & ORDER
+
+      Pending      disposition      by    this    Court     is   defendant      Mansio   Vicente-
+Lucas’ (hereinafter “Vicente-Lucas”) Motion to Suppress. Docket No. 28.
+Vicente-Lucas moves to suppress all of the evidence seized as a result of
+a warrantless search effectuated on his vehicle by Puerto Rico Police
+Department (PRPD) officers on the evening of April 7, 2011. The United
+States opposed his request (Docket No. 29). Upon careful review of the
+parties’ filings as well as the evidence presented at the suppression
+hearing, the Court DENIES Vicente-Lucas’ Motion.
+
+
+                                   I.      Findings of Fact
+
+      The   Court,       after     having    opportunity         to   examine    the     testimony
+proffered    at    the    suppression       hearing    by    PRPD     Officer    Jorge     Dávila-
+Barrios,    taking      into   account      the   witness’       demeanor,      credibility     and
+appearance, makes the following findings of fact.
+      During      the    evening    of    April   7,   2011,     PRPD   Officers       Jorge   Luis
+Dávila-Barrios and Juan Alvarado were on patrol along Puerto Rico Highway
+No. 52 North, near the exit to the town of Salinas. At approximately 8:30
+pm they observed Vicente-Lucas’ vehicle, a dark green Jeep Wrangler,
+driving on the left lane of said highway, at what they thought was a
+relatively low rate of speed. The Officers clocked his speed at 38 mph
+via the use of a radar gun, which would have meant he was violating
+section 5.03(a) of the Puerto Rico Vehicles and Transit Act, Act. No 22
+of January 7, 2000, P.R. LAWS ANN. tit. 9, § 5123 (Law 22), as the section
+      Case 3:11-cr-00132-PG Document 41 Filed 11/09/11 Page 2 of 15
+Crim. No. 11-0132 (PG)                                                                 Page 2
+
+of the Highway in which he was traveling had a posted speed limit of 65
+mph.1
+        After gauging Vicente-Lucas’ speed, Officer Dávila-Barrios drove
+his patrol car alongside Vicente-Lucas’ until both were parallel to each
+other. Officer Dávila-Barrios then observed that Vicente-Lucas’ vehicle
+had     dark       tinted   windows,    and   testified    that   he   could    not   see   the
+occupants of the vehicle nor the dashboard lighting inside.2 In Puerto
+Rico, the altering of a motor vehicle’s windows with tints or other
+materials that produce a percentage of transmission of visible light that
+is less than 35 per cent is illegal. See § 10.05 of Law 22, P.R. LAWS ANN.
+tit.    9,     §    5285.   Having     observed   that   Vicente-Lucas    was   possibly    in
+violation of both sections 5.03 and 10.05 of Law 22, Officer Dávila-
+Barrios engaged his lights and siren and ordered Vicente Lucas to pull
+over his vehicle unto the hard shoulder lane. Officer Dávila-Barrios then
+followed Vicente Lucas’ vehicle and parked his patrol car about five or
+six feet behind, in an area under several lamp posts.
+        Officer Dávila-Barrios approached the vehicle and noticed that the
+driver’s window was open, allowing him to see the driver (Vicente-Lucas)
+and his front passenger, Josué Díaz-Bermúdez, the other co-defendant in
+this case (hereinafter “Díaz-Bermúdez”). Officer Alvarado also approached
+the vehicle along its passenger side, in order to provide cover for his
+partner. Officer Dávila-Barrios testified that at that point he was not
+able to determine whether there were any more occupants in the backseat
+of the vehicle, due to the tinting of the rear windows. He then informed
+Vicente-Lucas of his traffic violations and ordered him to produce his
+
+
+        1
+        Said disposition states that “[i]t shall be illegal for any person to
+drive a vehicle or motor vehicle on any public highway at a speed of less than
+twenty (20) miles under the established maximum speed limit. This provision does
+not apply when safe driving requires reduced speed, or on a hill, or when
+driving a heavy motor vehicle which of necessity or in compliance with the law
+is driven at a slow speed. An infraction of this provision shall be punished as
+an administrative fault, with a fine of fifty dollars ($50).” Defendants at the
+suppression hearing did not argue that any of the exceptions to the statute were
+applicable.
+      2
+        Officer Dávila-Barrios testified that all of the windows of the vehicle
+were tinted.
+     Case 3:11-cr-00132-PG Document 41 Filed 11/09/11 Page 3 of 15
+Crim. No. 11-0132 (PG)                                                               Page 3
+
+driver’s license and registration. Vicente-Lucas turned on a light inside
+his vehicle and started to search for the documents. As he handed over
+his documents, Officer Dávila-Barrios was able to observe the front part
+of a weapon protruding from underneath Vicente-Lucas’ seat. About 12
+inches of the front-end of the weapon were visible to Officer Dávila-
+Barrios.
+       Officer Dávila-Barrios immediately ordered Vicente Lucas to exit
+the vehicle and then proceeded to seize the weapon, which turned out to
+be a fully loaded Carbon-15 Pistol Caliber 5.56 NATO.3 The weapon also
+had an additional magazine attached to it. Upon occupying it, Officer
+Dávila-Barrios unloaded it and instructed Vicente-Lucas to move over next
+to   his   patrol     car.   He    also    instructed     Officer    Alvarado   to   arrest
+passenger Díaz-Bermúdez. Officer Dávila-Barrios then proceeded to arrest
+Vicente-Lucas while reading him his rights under Miranda. During his
+arrest, Vicente-Lucas was standing alongside the patrol car, about five
+feet from the detained vehicle.
+       Once Vicente-Lucas was placed under arrest, he told Officer Dávila-
+Barrios that he had a permit to carry firearms. Vicente-Lucas told the
+Officer that the permit was in his waist pouch, and the Officer proceeded
+to   inspect    it    with   Vicente-Lucas’       permission.      However,   despite   the
+seemingly     valid   license,     at     that   point   Officer    Dávila-Barrios    still
+believed that Vicente-Lucas was in violation of the Puerto Rico Arms Act,
+Act. No. 404 of September 11, 2000, P.R. LAWS ANN. tit. 25, § 455, et seq.
+(the “Arms Act”). Section 2.02(d)(1) of the Arms Act confers licensees
+the right to possess, bear and transport firearms, provided that they be
+“borne, carried, and transported in a hidden and unobtrusive manner…”
+P.R.   LAWS    ANN.   tit.   25,   §    456a(d)(1).      Section    1.02(x)   defines   the
+transportation of a firearm as:
+       the mediate or immediate possession of a weapon for the purpose of
+       taking it from one place to another. Said transportation must be
+       carried out by a person with a current weapons license and the
+
+
+      3
+        Officer Dávila-Barrios testified that it was a “long” firearm, about two
+feet long, which also contained “long” magazines.
+   Case 3:11-cr-00132-PG Document 41 Filed 11/09/11 Page 4 of 15
+Crim. No. 11-0132 (PG)                                                         Page 4
+
+     weapon must be unloaded and transported inside a closed case whose
+     contents are not visible and which may not be in plain sight. P.R.
+     LAWS ANN. tit. 25, § 455(x) (our emphasis).
+
+Officer Dávila-Barrios testified that, at the time he arrested Vicente-
+Lucas,   he   believed   Vicente-Lucas   was   in   violation   of   the   referenced
+dispositions of the Arms Act, as Vicente-Lucas’ weapon was loaded, in
+plain sight and not in a holster.
+     As this was transpiring, Officer Alvarado had already placed Díaz-
+Bermúdez under arrest and had sat him down on the guardrail bordering the
+road, as Díaz-Bermúdez was limping and using crutches. The guardrail was
+an estimated two to three feet from Vicente-Lucas’ vehicle.
+     Officer Dávila-Barrios then asked Vicente-Lucas whether he had any
+additional firearms “or anything else” in the car. Vicente-Lucas replied
+that he had another weapon in his vehicle which was unloaded and rested
+inside a black bag on the backseat. Officer Dávila-Barrios proceeded to
+move Vicente-Lucas right next to his partner and Díaz-Bermúdez. Then, as
+he began to search inside a black bag situated on the back seat which he
+thought contained the weapon, he found an inordinate amount of small
+yellow bags, containing what he believed to be, from his experience as a
+police officer, crack. He also found several blue bags as well as two
+transparent bags containing a white powder, which from his experience he
+understood to be cocaine. Vicente-Lucas allegedly told Officer Dávila-
+Barrios that he did not know what those materials were and that they were
+there because he had given his passenger a lift. Officer Dávila-Barrios
+then took the bag to the patrol car and again asked Vicente-Lucas about
+the location of the second firearm. He again replied that the weapon was
+in the backseat of the car.
+     Officer Dávila-Barrios, this time opening the right rear door of
+the vehicle, was then able to find another black bag resting on the
+backseat. This bag contained an unloaded weapon along with three loaded
+magazines and a box containing an assortment of different bullet types.
+    Case 3:11-cr-00132-PG Document 41 Filed 11/09/11 Page 5 of 15
+Crim. No. 11-0132 (PG)                                                          Page 5
+
+The weapon in question turned out to be an FN Herstal Belgium handgun.4
+Officer Dávila-Barrios then secured this weapon and placed it in the
+patrol car. At this time both defendants were in close proximity (about
+two or three feet) to the right rear door of Vicente-Lucas’ vehicle.
+     Officers Dávila-Barrios and Alvarado then proceeded to pat down
+defendants Vicente-Lucas and Díaz-Bermúdez, respectively, with Officer
+Alvarado occupying a transparent bag with a white powder that he found on
+Díaz-Bermúdez’s person.
+     Afterwards, Officer Dávila-Barrios placed Vicente-Lucas inside his
+patrol car, while Díaz-Bermúdez was placed in another patrol car that had
+just arrived on the scene with two additional agents, one of which was a
+shift supervisor. The Officers took custody of all the aforementioned
+evidence   and   transported   the   defendants   to    the   PRPD   Salinas   Highway
+Division Station. Officer Alvarado was tasked with driving Vicente-Lucas’
+vehicle to the station, where he would rendezvous with the defendants and
+the other officers.
+     There, the vehicle’s windows were tested to determine whether they
+were tinted in excess of the maximum limit prescribed by Law 22. They
+were.5   Vicente-Lucas   was   then    given   two     tickets   for   both    traffic
+violations and an inventory search of the vehicle was carried out.6 The
+search also revealed more drug paraphernalia, as well as electronic gear,
+plates, cards, a blender, spoons and baggies, all of which rested inside
+a blue bag located behind the driver’s seat. Under the passenger seat, a
+radio similar to the ones used by the PRPD was also found.
+     In the end, as a result of this intervention, the seized evidence
+consisted of: (1) a Carbon-15 Pistol 5.56 Caliber NATO; (2) an FN Herstal
+
+
+     4
+        Officer Dávila-Barrios testified that he believed the weapon to be a
+“cop killer,” since it uses an ammunition type similar to the one used by
+rifles.
+      5
+         A test carried out by Officer Alvarado revealed that the tints on
+Vicente-Lucas’ vehicle were only allowing an eight per cent transmission of
+visible light, when § 10.05 of Law 22 establishes a minimum of 35 per cent.
+      6
+        The officers performed a “P.P.R.-128” report on the vehicle, which is a
+report the PRPD makes of a seized vehicle when it’s being investigated for
+felony violations.
+     Case 3:11-cr-00132-PG Document 41 Filed 11/09/11 Page 6 of 15
+Crim. No. 11-0132 (PG)                                                                  Page 6
+
+Belgium handgun; (3) one extended 5.7 x 28 magazine; (4) two standard 5.7
+x 28 magazines; (5) several 5.7 x 28, 7.62 x 39 and .45 caliber rounds;
+(6) seven hundred forty nine (749) baggies of crack cocaine; (7) seventy
+five (75) baggies of cocaine; and (8) various drug paraphernalia items
+including a scale, strainers, a blender, plastic baggies, razors, a plate
+and spoons among other things.
+      Based on the evidence, defendants Vicente-Lucas and Díaz-Bermúdez
+were charged with: (1) possession with intent to distribute controlled
+substances (cocaine), 21 U.S.C. § 841(a)(1), (b)(1)(c); (2) possession
+with intent to distribute controlled substances (cocaine base), 21 U.S.C.
+§   841(a)(1),   (b)(1)(c);    (3)   possession      of    a    firearm     during     and    in
+relation to a drug trafficking crime, 18 U.S.C. § 924(c)(1)(A). Docket
+No. 11.
+      Vicente-Lucas    is   now    requesting   the       suppression       of   all   of    the
+aforementioned     evidence,      claiming    that    it       is   the    product     of     an
+unreasonable     warrantless   search    of   his    vehicle,       in    violation    of    the
+Fourth Amendment to the United States Constitution. Specifically, he
+claims that: (1) the traffic stop was not justified at its inception; and
+(2) that as they were already secured and under arrest at the time the
+search was effectuated, said search was illegal under the search incident
+to arrest doctrine, as modified in the recent Supreme Court case of
+Arizona v. Gant, 556 U.S. 332, 129 S.Ct. 1710 (2009).
+
+
+                                   II.    Discussion
+
+      The Fourth Amendment to the U.S. Constitution states that “[t]he
+right of the people to be secure in their persons, houses, papers, and
+effects,   against    unreasonable       searches    and       seizures,     shall     not   be
+violated...” U.S. CONST. amend. IV.
+      This Constitutional prohibition against unreasonable searches and
+seizures applies to motor vehicles, South Dakota v. Opperman, 428 U.S.
+364 (1976); Hoffa v. United States, 385 U.S. 293 (1966), including their
+interior. New York v. Class, 475 U.S. 106 (1986). When a search of a
+      Case 3:11-cr-00132-PG Document 41 Filed 11/09/11 Page 7 of 15
+Crim. No. 11-0132 (PG)                                                                         Page 7
+
+motor vehicle is conducted without a warrant supported by probable cause,
+it     is     presumptively        invalid,        unless     an    exception    to    the    warrant
+requirement applies. Gant, 129 S.Ct. at 1723-24. The Supreme Court has
+carved out a number of exceptions to searches and seizures in the vehicle
+context, including: (1) the search incident to arrest, Gant, supra; (2)
+the automobile exception, Carroll v. U.S., 267 U.S. 132 (1925); United
+States       v.    Ross,    456    U.S.    798,    820-21;     (3)    the    community    caretaking
+exception, Cady v. Dombrowski, 413 U.S. 433 (1973); and (4) the inventory
+search, Colorado v. Bertine, 479 U.S. 367 (1987), among others.
+        The Court believes that the search conducted in the instant case
+was reasonable and justified under several of the referenced exceptions.
+The Court begins, however, by discussing the legality of the traffic stop
+at its inception.
+     A. The Violations of Puerto Rico’s Traffic Laws
+        Temporary          detentions       of     individuals       during     the    stop   of    an
+automobile by the police, even if only for a brief period and for a
+limited purpose, constitute a “seizure” of “persons” within the meaning
+of the Fourth Amendment. Whren v. United States, 517 U.S. 806, 809-10
+(1996); Delaware v. Prouse, 440 U.S. 648, 653 (1979). An automobile stop
+is     thus       subject    to    the    constitutional           imperative   that     it   not   be
+“unreasonable” under the circumstances. As a general matter, the decision
+to stop an automobile is reasonable where the police have probable cause
+to believe that a traffic violation has occurred. See id. at 659.
+        In     the    instant      case,     the    officers        had   observed     Vicente-Lucas
+traveling in his vehicle at a speed of 38 mph, which is 27 mph less than
+the allowed maximum speed limit of 65 mph for the section of the highway
+in question. Officer Alvarado was able to clock the speed of the vehicle
+via the use of the patrol car’s radar gun, thus allowing the officers to
+acquire probable cause that defendants were in violation of § 5.03(a) of
+Law 22 (traveling at more than 20 mph below the maximum allowed speed
+limit). The officers’ suspicions were further aroused when they detected
+that    Vicente-Lucas’            vehicle    sported        dark    tinted    windows,    which     the
+     Case 3:11-cr-00132-PG Document 41 Filed 11/09/11 Page 8 of 15
+Crim. No. 11-0132 (PG)                                                                         Page 8
+
+officers reasonably believed were over the legal limit, as they were not
+able to peer inside the vehicle to see its occupants. This by itself
+created a reasonable belief in the officers minds that the defendants
+were violating § 10.05 of Law 22 (establishing a limit on the amount of
+tints a vehicle’s windows may have). The Court needs not go any further;
+it concludes that, based on the officers’ observations, they had the
+requisite     probable          cause   to    stop     Vicente-Lucas’          vehicle   for     both
+violations of sections 5.03 and 10.05 of Law 22.
+      Once the officers had signaled Vicente-Lucas to pull over for these
+violations, Officer Dávila-Barrios was able to observe that Vicente-Lucas
+was carrying a weapon in plain view under his seat. It is well settled
+that a police officer's observation of an item in plain view does not
+constitute a search so long as the officer makes his observation from a
+lawful vantage point. Spencer v. Roche, ---F.3d----, 2011 WL 4916925, at
+*6   (1st    Cir.        Oct.     18,   2011).        Here,    Officer        Dávila-Barrios      was
+legitimately positioned right next to the vehicle’s window following a
+lawful traffic stop. From this vantage point, he was able to observe
+about 12 inches of the front part of a weapon protruding from under the
+driver’s seat. As a safety precaution, he ordered Vicente-Lucas to exit
+the vehicle and proceeded to unload the weapon. Subsequently, he lawfully
+placed Vicente-Lucas under arrest as the weapon in question was loaded
+and in plain view, in violation of the Puerto Rico Arms Act.
+      So far, Vicente-Lucas’ arrest and the seizure of his first weapon
+were within the limits of the Fourth Amendment. However, as soon as
+Vicente-Lucas produced his license to carry firearms, defendants argue,
+the officers were required to stop any further search of his vehicle and
+release     him.   The     subsequent        search    to     recover    Vicente-Lucas’        second
+weapon    from     the    backseat      of    the    vehicle,     their       argument   goes,   was
+therefore invalid and a violation of Vicente-Lucas’ Fourth Amendment
+rights. For the reasons outlined below, the Court is unconvinced. The
+Court believes that the search in question was reasonable under the
+circumstances,       and    justified        under    several    of     the    exceptions   to    the
+      Case 3:11-cr-00132-PG Document 41 Filed 11/09/11 Page 9 of 15
+Crim. No. 11-0132 (PG)                                                                         Page 9
+
+warrant requirement for vehicle searches, namely: (i) the search incident
+to    arrest       exception;      (ii)      the    automobile       exception;   and    (iii)    the
+community caretaking doctrine. The Court will explain below.
+     B. The Ensuing Search of the Vehicle
+        i.     The Search Incident to Arrest Doctrine
+       When conducted incident to a lawful custodial arrest, a full search
+of the arrestee’s person for both weapons and evidence is permitted.
+United States v. Robinson, 414 U.S. 218, 235 (1973). Gant has clarified
+that    a    vehicle      search       may   fall    within    the    search-incident-to-arrest
+doctrine only in two very specific situations: (1) “when the arrestee is
+unsecured and within reaching distance of the passenger compartment at
+the time of the search” (the officer-safety justification); or (2) “when
+it is reasonable to believe evidence relevant to the crime of arrest
+might be found in the vehicle” (the evidence-preservation justification).
+Gant, supra at 1719 (internal citations and quotations omitted).
+       Vicente-Lucas argues that the first scenario is not met as Díaz-
+Bermúdez and he were already placed under arrest and secured at the time
+the search was carried out by the officers. The Court does not agree.
+Although      it    is     true   that       both    Vicente-Lucas      and   Díaz–Bermúdez      were
+handcuffed         at    the    time    Officer      Dávila-Barrios      recovered      the    second
+firearm      from       their   vehicle,      they    were    nonetheless     standing    in   close
+proximity to it (about two or three feet) and thus were arguably within
+reaching distance of the passenger compartment. The defendants still had
+not been placed inside the patrol car, had not been patted down, and were
+not outnumbered by the police officers. Hence, the defendants were not
+fully secured at the time, as was the case in Gant, where the defendant
+was already handcuffed and inside the patrol car at the time of the
+search. Furthermore, Officer Dávila-Barrios testified that at the time he
+arrested Vicente-Lucas and asked him whether there were any additional
+firearms in the car, he still did not know whether there were any more
+occupants inside the back of the vehicle, due to the excessive tints on
+the windows.
+   Case 3:11-cr-00132-PG Document 41 Filed 11/09/11 Page 10 of 15
+Crim. No. 11-0132 (PG)                                                                       Page 10
+
+        The    principles        that   underpinned      the      decision     in    Gant,      namely
+officer safety and evidentiary concerns, motivate this holding. Officer
+Dávila-Barrios testified that he ordered Vicente-Lucas to step out of the
+vehicle       for    his   (Dávila-Barrios’)        security,       because    he    did   not    know
+whether there was anybody in the backseat, and because he thought it was
+not common for someone to be carrying such a long firearm in the manner
+carried by Vicente-Lucas, underneath the seat, loaded and partly visible.
+After arresting Vicente-Lucas and learning that he had a second firearm
+in the vehicle, Officer Dávila-Barrios proceeded to seize it as a safety
+precaution. The Court believes this course of action to be reasonable
+under the totality of the circumstances. Whether a search is reasonable
+“is determined by assessing, on the one hand, the degree to which it
+intrudes upon an individual's privacy and, on the other, the degree to
+which     it    is     needed     for    the    promotion      of       legitimate    governmental
+interests.” United States v. Knights, 534 U.S. 112, at 118-19 (internal
+quotation marks omitted).
+        In this case, both defendants were under arrest, not fully secured,
+and had a diminished expectation of privacy as to their persons and the
+vehicle. See Preston v. U.S., 376 U.S. 364, 366-67 (1964) (Although the
+expectation of privacy in an automobile is not as great as that in a
+home, an automobile is entitled to limited Fourth Amendment protection).
+The government’s interest, on the other hand, was substantial. The police
+intervention         was   carried      out    at   night,   on     a    crowded     highway     being
+transited by vehicles traveling at speeds in excess of 65 miles per hour,
+and close to the Salinas exit. Moreover, the first weapon seized was a
+loaded Carbon-15 Pistol Caliber 5.56 NATO, which can handle the same
+bullet    types       as    an    AR-15,      meaning   a    reasonable       officer      in     like
+circumstances would regard the arrestees in this case as armed and highly
+dangerous. It was thus not unreasonable for the officers to seek to
+secure any other firearms in the vehicle before submitting Vicente-Lucas’
+weapons permit to closer scrutiny. See e.g. United States v. McGregor,
+650 F.3d 813, 820 (1st Cir. 2011) (if an officer “has some articulable,
+      Case 3:11-cr-00132-PG Document 41 Filed 11/09/11 Page 11 of 15
+Crim. No. 11-0132 (PG)                                                                 Page 11
+
+reasonable suspicion that the persons stopped may be dangerous, he can
+pat     them        down    and    search     the     car's      interior—including     closed
+compartments—for weapons that they could quickly lay their hands on … but
+the     scope       of     the    search     must   be     limited    to    this    protective
+purpose”)(quoting Michigan v. Long, 463 U.S. 1032, 1037, 1049-50 (1983).
+The Court has no reason to doubt that Officer Dávila-Barrios actions in
+searching the vehicle were limited to the protective purpose of securing
+a potentially dangerous firearm.
+        As     to    the    second     exception      of   the    search-incident-to-arrest
+doctrine, the evidentiary preservation component, Vicente-Lucas argues
+that the officers misunderstood the law as it pertained to his authority
+to carry weapons under his weapons permit. He claims that the officers’
+belief that there was probable cause or reasonable suspicion to search
+his vehicle for evidence pertaining to the crime of his arrest was
+objectively unreasonable, as the officers failed to understand that he
+was authorized to carry those weapons pursuant to his permit. Vicente-
+Lucas’ argument fails, however, as the first weapon that was seized was
+clearly being transported in violation of the Arms Act. As the First
+Circuit has stated in United States v. Polanco, 634 F.3d 39, 43 (1st Cir.
+2011), officers need only a reasonable basis to carry out a search under
+the evidentiary preservation component of Gant. Here, after being told by
+Vicente-Lucas that there was a second firearm in the car, any reasonable
+officer in like circumstances could have reasonably suspected that the
+vehicle contained weapons being transported in violation of the Arms Act.
+        For    these       reasons,    the   search      conducted   by    the   officers   was
+justified under the search-incident-to-arrest doctrine.
+       ii.      The Automobile Exception
+        Generally, the Fourth Amendment does not require that police obtain
+a warrant to search an automobile when they have probable cause to
+believe it contains contraband or evidence of criminal activity. Ross,
+supra at 808-09; United States v. Bucci, 582 F.3d 108, 117-18 (1st Cir.
+2009).       This     exception       to   the   warrant      requirement—the      “automobile
+   Case 3:11-cr-00132-PG Document 41 Filed 11/09/11 Page 12 of 15
+Crim. No. 11-0132 (PG)                                                               Page 12
+
+exception”—stems from both the inherent mobility of vehicles and the
+reduced    expectation        of    privacy     that   results    from     their   pervasive
+regulation. Pennsylvania v. Labron, 518 U.S. 938, 940 (1996). Even if a
+vehicle’s mobility is temporarily restricted or potential drivers have
+been secured, warrantless vehicle searches supported by probable cause
+are generally valid. Id.
+        The First Circuit has noted that the auto exception is distinct
+from the evidence-preservation component of Gant’s search incident to
+arrest analysis, in that the auto exception extends beyond the crime of
+arrest. Polanco, supra at 42-43. The evidence preservation component of
+the Gant search incident to arrest analysis, on its part, does not extend
+to evidence of other offenses, and only requires a “reasonable basis”.
+Id. The auto exception, of course, requires probable cause, focused on
+what the agents knew at the time they searched the car. United States v.
+López,    380       F.3d   538,    543   (1st   Cir.   2004)(internal       quotations    and
+citations omitted).
+        Considering the totality of circumstances present in this case, the
+Court believes that the officers had probable cause to search Vicente-
+Lucas’    vehicle      for    weapons    that   were   possibly    being    transported    in
+violation of the Puerto Rico Arms Act. First of all, defendants were
+travelling in a suspicious manner, riding at 38 mph on a 65 mph marked
+highway, and doing so on the left (or fast) lane. Second, the vehicle in
+question appeared to have its windows tinted to an extent that the
+officers could not peer into the vehicle to see its occupants. As soon as
+the officers flagged the vehicle down and approached it, they became
+aware that it contained a long weapon in plain view, partially hidden
+under Vicente-Lucas’ seat, and which was clearly in violation of the Arms
+Act. At this point, the officers had probable cause to search the vehicle
+for weapons, and even more so after defendant Vicente-Lucas, who had
+already been given Miranda warnings, told officer Dávila-Barrios that
+there    was    a    second   weapon     in   the   car.   When   officer    Dávila-Barrios
+proceeded to secure the weapon, he found a cache of controlled substances
+    Case 3:11-cr-00132-PG Document 41 Filed 11/09/11 Page 13 of 15
+Crim. No. 11-0132 (PG)                                                                       Page 13
+
+which are the focus of this motion to suppress. If, during a weapons
+search, an officer discovers contraband other than weapons, he or she
+need    not    ignore    the   contraband.      Long,      supra    at    1050.    Thus,     as    the
+officers had probable cause to search the vehicle under the automobile
+exception,      for     this   reason    alone       the    Court    is     entitled       to     deny
+defendant’s motion to suppress.
+       iii.    The Community Caretaking Doctrine
+        Lastly, the Court believes that the present search can also be
+justified under the community caretaking doctrine. The Supreme Court
+established the community caretaking doctrine in the case of Cady v.
+Dombrowski,      supra.    There,     after    the   defendant’s         car   struck    a      bridge
+abutment, the police arranged for the disabled car to be towed to a
+privately owned service station. The defendant, who identified himself as
+a   Chicago     policeman,      was     then    arrested      for        drunken    driving        and
+hospitalized because of his injuries. The police, believing that Chicago
+policemen were required to carry their revolvers at all times and noting
+that no weapon had been found on defendant’s person, looked for the
+weapon    in    the     defendant’s     car    but   found    evidence         which    ultimately
+connected defendant with a subsequently discovered murder. The Court,
+after holding that removal of the car to the service station was proper,
+upheld the search, and reasoned that the search was justified due to
+concern
+        for the safety of the general public who might be endangered if an
+        intruder removed a revolver from the trunk of the vehicle.... Where,
+        as here, the trunk of an automobile, which the officer reasonably
+        believed to contain a gun, was vulnerable to intrusion by vandals,
+        we hold that the search was not ‘unreasonable’ within the meaning of
+        the Fourth and Fourteenth Amendments. Cady, supra at 447-48.
+
+It is important to recognize that the community caretaking function is
+“totally divorced from the detection, investigation, or acquisition of
+evidence relating to the violation of a criminal statute.” Cady, supra at
+441; United States v. Rodríguez-Morales, 929 F.2d 780, 785 (1st Cir.
+1991). Thus, as long as such caretaking activities are warranted “either
+in terms of state law or sound police procedure,” they do not offend the
+   Case 3:11-cr-00132-PG Document 41 Filed 11/09/11 Page 14 of 15
+Crim. No. 11-0132 (PG)                                                       Page 14
+
+Fourth Amendment. Consequently, evidence which comes to light during the
+due execution of the caretaking function is ordinarily admissible at
+trial. See United States v. Lott, 870 F.2d 778, 781 (1st Cir. 1989).
+        If the detained vehicle is to be left on the street at the place of
+arrest rather than impounded, then it would appear that the vehicle may
+be immediately searched if there is probable cause to believe it contains
+a weapon. W. LaFave, Search and Seizure, § 7.4(c) (4th ed. 2004). See
+also United States v. Isham, 501 F.2d 989 (6th Cir. 1974) (When officer
+saw a box of ammunition in the defendant’s vehicle he asked defendant if
+he had gun in the vehicle and received affirmative response; held that
+under Cady if police know that weapon is present in car “where it is
+vulnerable to possible theft and criminal use, police seizure of it as a
+public safety measure is “reasonable,” and police are not required to
+post a guard while a warrant is issued).
+        Although the instant case is not factually identical to Cady—as the
+officers had still not taken custody of Vicente-Lucas’s vehicle when the
+search to recover the second weapon was effectuated—the Court believes
+that some of the factors that predicated the decision in Cady are present
+here. The defendants had been arrested for violating the Arms Act and
+their vehicle was on a crowded highway. At that point, it was unclear
+whether the defendants would be taken to a station and whether the
+officers would take custody of the vehicle (which they ended up doing
+after    finding   the   drugs).   The   Court   finds   it   was   reasonable   as   a
+community caretaking function to retrieve the second firearm from the
+vehicle while it was unattended. This in order to prevent third parties
+who might arrive on the scene during the intervention from reaching it or
+in case the vehicle would be left on the highway or at another location
+where it could be subject to theft while the officers conducted further
+background checks on the defendants. While one may argue that Officer
+Dávila-Barrios’ search of the vehicle to retrieve the second weapon was
+carried out pursuant to the police’s investigative and evidence-gathering
+functions, it is also true that the Officer acted out of concerns for his
+   Case 3:11-cr-00132-PG Document 41 Filed 11/09/11 Page 15 of 15
+Crim. No. 11-0132 (PG)                                              Page 15
+
+own safety and that of others in conducting the search. In any event, the
+coexistence of investigatory and caretaking motives will not invalidate
+the seizure. Rodríguez-Morales, supra at 787.
+
+
+                              III. Conclusion
+
+     For the reasons elucidated above, the Court DENIES Vicente-Lucas’
+Motion to Suppress.
+IT IS SO ORDERED.
+     In San Juan, Puerto Rico, November 9, 2011
+
+
+                                            S/ JUAN M. PEREZ-GIMENEZ
+                                            JUAN M. PEREZ-GIMENEZ
+                                            SENIOR U.S. DISTRICT JUDGE
+

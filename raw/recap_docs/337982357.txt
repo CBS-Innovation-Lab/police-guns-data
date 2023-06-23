@@ -1,0 +1,564 @@
+        Case 3:15-cr-30023-MGM Document 196 Filed 05/22/23 Page 1 of 11
+
+
+
+
+                              UNITED STATES DISTRICT COURT
+                               DISTRICT OF MASSACHUSETTS
+
+
+UNITED STATES OF AMERICA,                         )
+                                                  )
+        Plaintiff,                                )
+                                                  )
+        v.                                        )   Criminal Case No. 15-30023-MGM
+                                                  )
+ROBERT CRICHLOW,                                  )
+                                                  )
+        Defendant.                                )
+
+                                 MEMORANDUM AND ORDER
+
+        I.      Relevant background
+
+        On January 23, 2018, defendant Robert Crichlow (Defendant) was convicted on one
+
+count of being a felon in possession of a firearm and one count of possession with intent to
+
+distribute cocaine base. He was sentenced to 84 months of incarceration followed by five years
+
+of supervised release. He was released to probation on October 22, 2021. On August 8, 2022,
+
+the Probation Department filed a Petition and Affidavit for Warrant or Summons for Offender
+
+Under Supervision, subsequently amended, alleging that Defendant had violated his conditions
+
+of supervised release as follows: 1
+
+    •   It is a condition of Defendant’s supervised release that he not commit another federal,
+        state, or local crime. It is alleged that on or around July 29, 2022, he committed a
+        carjacking using a firearm; assault and battery with a dangerous weapon (the firearm);
+        and larceny over $1,200, all in violation of the laws of the Commonwealth of
+        Massachusetts.
+
+    •   It is a condition of Defendant’s supervised release that he not associate with any other
+        person engaged in criminal activity and that he not associate with anyone previously
+        convicted of a felony without prior permission from the Probation Department. It is
+
+1
+  The initial petition alleged that Defendant committed one or more crimes in Holyoke on or
+around August 6, 2022. State court charges related to those allegations have been dismissed and
+the government elected not to proceed on those charges as a basis for alleging that Defendant
+violated his conditions of supervised release.
+                                                 1
+        Case 3:15-cr-30023-MGM Document 196 Filed 05/22/23 Page 2 of 11
+
+
+
+
+        alleged that on or around July 29, 2022, Defendant associated with Nagee Jones in the
+        commission of one or more crimes. Mr. Jones was previously convicted of a felony and
+        is currently serving a term of supervised release on a sentence imposed by this court.
+
+        Defendant had his initial appearance in this court on August 22, 2022, at which time the
+
+court appointed counsel. The government moved for detention pending a final revocation
+
+hearing. Following consultation with counsel, Defendant, who is being held by the
+
+Commonwealth following a dangerousness hearing, agreed to entry of an order of detention
+
+pending a preliminary hearing, without prejudice to his filing a motion seeking pre-hearing
+
+release if he deemed himself in a position to do so. Defendant asserted his right to a preliminary
+
+hearing in compliance with Fed. R. Crim P. 32.1(b)(1)(A), which hearing was held on April 24,
+
+2023.
+
+        II.    Preliminary hearing standard
+
+        In reciting the applicable standard, the court acknowledges the helpful opinion in United
+
+States v. Bowie, No. 1:14-MJ-0189PAS, 2014 WL 4542974 (D.R.I. Sept. 12, 2014), authored by
+
+Magistrate Judge Patricia A. Sullivan.
+
+        The government’s burden to establish probable cause at the preliminary stage is
+        low. … Although mere suspicion does not suffice, probable cause may be found
+        where there is a “fair probability,” based on the totality of the circumstances, that
+        a defendant committed the [violation] charged.” United States v. Mims, 812 F.2d
+        1068, 1072 (8th Cir. 1987) (quoting Illinois v. Gates, 462 U.S. 213, 231 (1983));
+        see United States v. Gomez, 716 F.3d 1, 7 (1st Cir. 2013). Both circumstantial
+        evidence and the reasonable inferences drawn from it can support a finding of
+        probable cause. United States v. Swope, 542 F.3d 609, 616 (8th Cir. 2008);
+        United States v. Hilario, CR No. 1:09-M-167A, 2009 WL 2913957, at *1 (D.R.I.
+        Sept. 9, 2009). With the exception of the rules on privilege, the Federal Rules of
+        Evidence are not applicable at preliminary hearings. Fed. R. Evid. 1101(d)(3).
+        As a result, the probable cause finding may be based, in whole or in part, on
+        hearsay evidence ….
+
+        The Supreme Court has counselled that probable cause is a “fluid concept,”
+        turning on the evaluation of evidence in a “nontechnical, common-sense” manner.
+        Gates, 462 U.S. at 232, 235-36 (1983). “It does not require the fine resolution of
+        conflicting evidence that a reasonable-doubt or even a preponderance standard
+
+                                                  2
+         Case 3:15-cr-30023-MGM Document 196 Filed 05/22/23 Page 3 of 11
+
+
+
+
+         demands, and credibility determinations are seldom crucial in deciding whether
+         the evidence supports a reasonable belief in guilt.” Gerstein v. Pugh, 420 U.S.
+         103, 121 (1975). Based on this guidance, the magistrate judge’s role at the
+         preliminary hearing is simply to determine whether the government has presented
+         sufficient evidence to establish probable cause. United States v. Kin-Hong, 110
+         F.3d 103, 120 (1st Cir. 1997); Ross v. Sirica, 380 F.2d 557, 560 (D.C. Cir. 1967).
+         It is generally inappropriate for the magistrate judge to make credibility
+         determinations, which fall within the province of the [judge] as the trier of fact.
+         United States v. Perez, No. 5:14-MJ-75, 2014 WL 1725759, at *11 (S.D. Tex.
+         Apr. 29, 2014 (at probable cause stage of proceedings, defense’s credibility-
+         focused efforts are essentially irrelevant).
+
+Id. at *1.
+
+         Defendant’s challenge to probable cause is based primarily on the contentions that the
+
+government should not be permitted to rely on hearsay evidence to show probable cause and that
+
+the statements from two witnesses who identified Defendant as a perpetrator of a July 29, 2022
+
+armed carjacking, robbery, and assault and battery with a dangerous weapon are not reliable.
+
+         III.   The preliminary hearing evidence
+
+         At the outset of the hearing, the government informed the court that it would not be
+
+calling either of the two complaining witnesses who identified Defendant as one of the
+
+perpetrators of the carjacking of which they were victims on July 29, 2022. The government
+
+indicated that testifying could implicate the complaining witnesses’ Fifth Amendment rights and
+
+interfere with the on-going prosecution of the related criminal case in Hampden County Superior
+
+Court.
+
+         The government called Felix Perez (Perez), a Springfield Police Department (SPD)
+
+detective assigned to the robbery and homicide division, who testified that he was assigned to
+
+investigate a carjacking and robbery that allegedly occurred on or around July 29, 2022. Perez
+
+testified that the SPD received a 911 call on July 29, 2022 reporting a carjacking and robbery at
+
+501 St. James Avenue in the parking lot of an autobody shop. Perez met with the two
+
+
+
+                                                  3
+        Case 3:15-cr-30023-MGM Document 196 Filed 05/22/23 Page 4 of 11
+
+
+
+
+complaining witnesses, Mr. Figueroa (Figueroa) and Ms. Diebold (Diebold), at the Racing Mart,
+
+a convenience store near the autobody shop, the day after the incident. Figueroa and Diebold
+
+told Perez that, sometime around noon on July 29, 2022, they met with two individuals whom
+
+they knew, although not by name, at the Racing Mart. Figueroa and Diebold arranged to meet
+
+these two individuals later the same day to sell them marijuana. One of these individuals was
+
+wearing a baseball cap on backwards and the other, who was wearing a Boone cap, had a
+
+missing tooth. According to Figueroa and Diebold, one of the men was 6’2”; the other was 6’5”.
+
+Figueroa and Diebold told Perez that, when they got to the rendezvous in the autobody parking
+
+lot that evening, one of the individuals with whom they were meeting pulled out a gun. The man
+
+in possession of the gun used it to hit Figueroa in the back, the individuals took the marijuana
+
+and some personal items from Figueroa and Diebold, then drove off in Diebold’s car. The man
+
+holding the gun was the one shown in the Racing Mart videotape wearing a baseball cap on
+
+backwards.
+
+       As the next step in his investigation, Perez reviewed surveillance videotape from the
+
+Racing Mart. Consistent with the statements from Figueroa and Diebold, the videotape showed a
+
+meeting between Figueroa and Diebold and two individuals, one of whom was wearing a
+
+baseball cap on backwards, and one of whom was wearing a Boone cap and was missing a tooth.
+
+Perez gave a copy of the videotape to an SPD department that created an internal BOLO (be on
+
+the look-out) for identification alerting SPD officers that Perez was looking to identify the
+
+individuals from the Racing Mart surveillance video. The BOLO, which was a single piece of
+
+paper featuring still shots from the Racing Mart video, clearly showed the faces of the two men
+
+with whom Figueroa and Diebold met around noon at the Racing Mart.
+
+
+
+
+                                                 4
+        Case 3:15-cr-30023-MGM Document 196 Filed 05/22/23 Page 5 of 11
+
+
+
+
+       After the BOLO was broadcast on a local television station, Perez immediately heard
+
+from a Holyoke police officer, several correctional officers, and federal probation officer
+
+Christopher Roldan, all of whom identified the man in the backward baseball cap as Defendant
+
+and the man in the Boone cap as Jones. Perez also showed the stills from the Racing Mart video
+
+to Figueroa, who told Perez that the men in the stills from the video were the men he and
+
+Diebold met at the Racing Mart who later carjacked them in the autobody shop parking lot.
+
+Figueroa identified Defendant (the one in backward baseball cap) as the man with the gun.
+
+       Using the identities with which he had been provided, Perez pulled SPD mug shots of
+
+Defendant and Jones and had an officer put together separate photo arrays for Defendant and
+
+Jones. Perez took the photo arrays to Diebold’s apartment, separated Diebold and Figueroa, and
+
+showed each of them the photo arrays. Each selected Defendant and Jones as their assailants.
+
+Figueroa again identified Defendant as the man who wielded the gun during the robbery and
+
+carjacking (Exh. 1). Diebold also identified Defendant as the man with the gun. Perez admitted
+
+that the height estimates of 6’2” and 6’5” provided by Figueroa and Diebold were wildly
+
+inaccurate. Defendant is 5’8” and Jones is not close to 6’5”.
+
+       Perez also attempted to retrieve video surveillance evidence from the autobody shop. He
+
+was told that the system had malfunctioned. The employee with whom Perez spoke could only
+
+bring up one or two stills. Both stills showed Diebold and her vehicle with a tall individual to
+
+Diebold’s left. Following these investigative steps, Perez applied for arrest warrants for
+
+Defendant and Jones.
+
+       On cross-examination, Perez testified that he did not read the reports of the police officer
+
+who responded to the 911 call about the carjacking. Figueroa and Diebold were untruthful in
+
+their reports to the responding officers. Among other things, they did not disclose that they were
+
+
+
+                                                 5
+        Case 3:15-cr-30023-MGM Document 196 Filed 05/22/23 Page 6 of 11
+
+
+
+
+in the autobody shop parking lot to sell marijuana. Perez sent SPD video technicians to retrieve
+
+videotape from the Racing Mart. Although he testified that video from the autobody shop
+
+parking lot would have been very valuable evidence in the case, he never sent a video technician
+
+to the autobody shop to verify that the video surveillance equipment had malfunctioned. Perez
+
+never asked Figueroa and Diebold whether they had smoked marijuana on July 29, 2022 or
+
+consumed any other substance that might have interfered with their ability to perceive events
+
+accurately. Although Figueroa told Perez that he called the men to whom he planned to sell
+
+marijuana, Perez did not ask to see Figueroa’s cellphone. Videotape from the Racing Mart
+
+showed that Figueroa returned to the Racing Mart after his meeting with Defendant and Jones to
+
+buy marijuana from an unidentified individual. Perez did not identify this man. Additional
+
+footage from the Racing Mart recorded Figueroa and Diebold after the carjacking. There was an
+
+individual in a white tee-shirt who went into the Racing Mart around the same time. Figueroa
+
+and Diebold said they did not know the man and, again, Perez did not attempt to identify him.
+
+       On or around August 17, 2022, Figueroa and Diebold reported to Perez that they had
+
+been chased by the individuals who had carjacked them. Defendant and Jones could not have
+
+chased Figueroa and Diebold on August 17, 2022, because both were in custody when the chase
+
+reportedly occurred. Neither Perez nor any other SPD officer checked to see if there was
+
+surveillance video of an August 17, 2022 car chase down State Street, which is a major
+
+thoroughfare in Springfield. Perez did not include this allegation in his report about the case.
+
+       Defendant offered a recording of Diebold’s July 29, 2022 call to 911 into evidence.
+
+While most of the call is difficult to decipher, in large part because Diebold was fearful and
+
+hysterical, one statement that clearly emerges is that she told the 911 operator that she had no
+
+idea of the identities of the individuals who stole her car (Exh. 2).
+
+
+
+                                                  6
+        Case 3:15-cr-30023-MGM Document 196 Filed 05/22/23 Page 7 of 11
+
+
+
+
+       Relying on testimony from Perez, a Hampden County Grand Jury found probable cause
+
+to indict Defendant on charges of carjacking using a firearm; assault and battery with a
+
+dangerous weapon (the firearm); and larceny over $1,200 on or around July 29, 2022.
+
+       IV.     Assessment of probable cause as to alleged violations
+
+       The court turns first to Defendant’s challenge to the government’s reliance on hearsay –
+
+Perez’s account of statements by Figueroa and Diebold – at the preliminary hearing. Hearsay
+
+evidence may be considered at a preliminary hearing, see United States v. Rodriguez, 919 F.3d
+
+629, 635 (1st Cir. 2019) (citing, inter alia, Fed. R. Crim P. 32.1(b)(1)(B)(iii), which applies to
+
+preliminary hearings), because a “defendant has only a limited right of confrontation” and does
+
+not enjoy the full panoply of due process rights that apply when a defendant is initially indicted.
+
+Id. Rule 32.1(b)(1)(B)(iii), which governs requirements for preliminary hearings, provides that
+
+“upon request,” a magistrate judge must give the person charged with a supervised release
+
+violation “an opportunity to question any adverse witness, unless the judge determines that the
+
+interest of justice does not require the witness to appear.” Before relying on hearsay evidence in
+
+a preliminary hearing when a defendant has requested the opportunity to question an adverse
+
+witness, a court “must balance the right to confront witnesses against whatever good cause may
+
+exist for relaxing customary principles of confrontation.” Rodriguez, 919 F.3d at 635 (citing
+
+Rondeau, 430 F.3d at 48; Fed. R. Crim. P. 32.1(b)(1)(B)(iii), 2(C)). In conducting this analysis,
+
+“the court must ‘weigh both the apparent reliability of the hearsay evidence and the
+
+government’s proffered reason for not producing the declarant.’” Id. (quoting United States v.
+
+Fontanez, 845 F.3d 439, 443 (1st Cir. 2017)).
+
+
+
+
+                                                  7
+        Case 3:15-cr-30023-MGM Document 196 Filed 05/22/23 Page 8 of 11
+
+
+
+
+       In relying on Figueroa and Diebold’s Fifth Amendment rights as a reason for not calling
+
+them, the government showed good cause for relaxing the customary principle of confrontation. 2
+
+“[A] witness may invoke the Fifth Amendment if testifying might incriminate him ….” United
+
+States v. Ramos, 763 F.3d 45, 53 (1st Cir. 2014). “The burden on the witness is ‘not a
+
+particularly onerous one.’” United States v. Forty-Febres, 982 F.3d 802, 807 (1st Cir. 2020)
+
+(quoting United States v. Castro, 129 F.3d 226, 229 (1st Cir. 1997)). There is no doubt that had
+
+Figueroa and Diebold been called as witnesses at the preliminary hearing, they would have been
+
+asked to testify under oath about their plan to sell marijuana to Defendant and Jones. Any such
+
+transaction would have been in violation of state and federal law, and testimony on this subject,
+
+if it was consistent with the statements Figueroa and Diebold gave to Perez, would have tended
+
+to incriminate them. Concerns about their reliability as witnesses were offset by the
+
+corroboration from the Racing Mart videotapes about a number of the events at issue and the
+
+multiple identifications of Defendant and Jones from reliable sources. The court finds that the
+
+government properly relied on Perez to present its case for probable cause at the preliminary
+
+hearing.
+
+       Defendant challenges probable cause on two related grounds. He argues, first, that Perez
+
+conducted a cursory investigation in which he failed to follow up obvious investigative avenues
+
+that might have yielded additional relevant evidence, and, second, that the eyewitness
+
+identifications made by Figueroa and Diebold are so unreliable, judged by legal standards
+
+applied to eyewitness identifications, that they cannot give rise to probable cause to believe
+
+Defendant committed the July 29, 2022 carjacking and robbery. The arguments Defendant
+
+
+
+2
+ Because the court deems the Fifth Amendment issue to be a sufficient justification for the
+government’s reliance on hearsay, the court does not reach the government’s additional
+contention about possible interference with an on-going state court prosecution.
+                                                 8
+        Case 3:15-cr-30023-MGM Document 196 Filed 05/22/23 Page 9 of 11
+
+
+
+
+advances may prevail in a different proceeding, when a higher standard of proof applies, but they
+
+are not sufficient at this stage. The court finds that the government has shown probable cause to
+
+believe that Defendant committed a carjacking using a firearm, hit Figueroa with the firearm, and
+
+stole items from Diebold and Figueroa on July 29, 2022.
+
+       Perez reasonably assumed that Figueroa and Diebold were not forthcoming about the
+
+identity of their assailants in the 911 call and their initial contact with police officers because
+
+they had arranged to meet Defendant and Jones for an illegal purpose. This assumption is
+
+plausible. The account of events they gave to Perez the next day was confirmed by objective
+
+evidence in the Racing Mart videotapes, which showed Figueroa and Diebold meeting with
+
+Defendant and Jones around noon, and videotape from the evening that tended to confirm that
+
+Diebold’s car was stolen and that the incident was traumatic. With respect to the identifications
+
+from Figueroa and Diebold, “[r]eliability is the linchpin in determining the admissibility of
+
+identification testimony ….” Manson v. Brathwaite, 432 U.S. 98, 114 (1977). While Defendant
+
+has pointed to significant discrepancies in Figueroa and Diebold’s identifications of Defendant
+
+and Jones, the most significant of which are whether their assailants were tall men and the
+
+claimed car chase on August 17, 2022, there is, on the other side of the scale, substantial
+
+corroboration for the identifications. Independent and particularly reliable sources – a Holyoke
+
+police officer, several correctional officers, and a federal probation officer well known to and
+
+trusted by this court – identified Defendant and Jones as the individuals who met with Figueroa
+
+and Diebold at the Racing Mart. Figueroa’s confirmation to Perez that the men in the Racing
+
+Mart video were the men who stole Diebold’s car at gunpoint was “essential to an ongoing police
+
+investigation.” United States v. Harty, 476 F. Supp. 2d. 17, 23 (D. Mass. 2007) (citing Simmons
+
+v. United States, 390 U.S. 377, 384-85 (1968)). Even if Figueroa’s photo array identifications of
+
+
+
+                                                   9
+       Case 3:15-cr-30023-MGM Document 196 Filed 05/22/23 Page 10 of 11
+
+
+
+
+Defendant and Jones were influenced by his review of the stills from the Racing Mart videotape,
+
+there was no evidence that Diebold’s identifications were similarly influenced, yet she identified
+
+that same individuals as did Figueroa. In essence, Defendant’s challenge to the eyewitness
+
+identifications by Figueroa and Diebold presents a challenge to their credibility, but “the
+
+probable cause determination at the preliminary hearing is not to be based on the weighing of
+
+credibility ....” Bowie, 2014 WL 4542974, at *4.
+
+       It does not appear that Defendant disputes the truth of the claim by the complaining
+
+witnesses that someone stole Diebold’s car on July 29, 2022 during an encounter in the autobody
+
+shop parking lot. That the encounter was violent is supported by Diebold’s hysterical 911 call.
+
+Cf. United States v. Brito, 427 F.3d 53, 61 (1st Cir. 2005) (“Rule 803(2) allows the admission of
+
+excited utterances [as an exception to the hearsay rule] based on the theory that a person
+
+speaking about a startling event, while still under the stress of experiencing or observing that
+
+event, normally does not have either the capacity or the incentive to prevaricate.”). Viewing the
+
+evidence in a non-technical, common-sense manner, the court finds that the government has
+
+shown probable cause to believe that Figueroa and Diebold were the victims of a carjacking and
+
+robbery on July 29, 2022, and that Figueroa was the victim of an assault and battery with a
+
+dangerous weapon. Thus, Defendant’s contentions about shortcomings in Perez’s investigation,
+
+including his reliance on identifications by Figueroa and Diebold, boils down to a claim that
+
+someone else might have done it. The court concludes that the evidence, including statements
+
+from Figueroa and Diebold offered through Perez, the Racing Mart videotapes, and identification
+
+evidence from reliable sources, is sufficient at the probable cause stage to support the
+
+government’s contention that there is a fair probability that Defendant was the man with the gun
+
+responsible for carjacking, robbery, and assault and battery with a dangerous weapon, in the
+
+
+
+                                                 10
+       Case 3:15-cr-30023-MGM Document 196 Filed 05/22/23 Page 11 of 11
+
+
+
+
+autobody shop parking lot on July 29, 2022, and that his associate in that criminal enterprise was
+
+Najee Jones.
+
+       V.      Conclusion
+
+       Based on the foregoing, this court concludes that the evidence presented by the
+
+government satisfies its burden of establishing probable cause to believe that Defendant violated
+
+the conditions of his supervised release as set forth in the petition. The Clerk’s Office is directed
+
+to set a date that is mutually convenient for the parties and the court for a status conference.
+
+       It is so ordered.
+
+Dated: May 22, 2023                                /s/ Katherine A. Robertson
+                                                   KATHERINE A. ROBERTSON
+                                                   U.S. Magistrate Judge
+
+
+
+
+                                                 11
+

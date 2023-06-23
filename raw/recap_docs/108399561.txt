@@ -1,0 +1,364 @@
+                         UNITED STATES DISTRICT COURT
+                              DISTRICT OF MAINE
+
+    UNITED STATES OF AMERICA,                   )
+                                                )
+    v.                                          ) Docket Nos. 2:14-cr-091-NT
+                                                )             2:16-cv-348-NT
+    WALTER HEATHCOTE,                           )
+                                                )
+                       Defendant.               )
+
+
+
+              ORDER ON DEFENDANT’S 28 U.S.C. § 2255 PETITION
+
+         In 2014, Petitioner pleaded guilty to Hobbs Act robbery, 18 U.S.C. § 1951(a),
+
+and possession of a firearm by a felon, 18 U.S.C. § 922(g)(1) and § 924(e)(1). At his
+
+sentencing, I determined that Petitioner had been convicted of at least three
+
+qualifying prior crimes of violence and sentenced him to 180 months under the Armed
+
+Career Criminal Act (“ACCA”), 18 U.S.C. § 924(e)(1). Judgment (ECF No. 44).
+
+         Before me now is Petitioner’s Motion to Correct Sentence under 28 U.S.C.
+
+§ 2255. (ECF No. 52.) For the reasons that follow, I now DENY the motion.
+
+
+                                PROCEDURAL HISTORY
+
+         On December 2, 2013, Petitioner served as the getaway driver for two
+
+individuals who committed an armed robbery of the Family Dollar Store in Biddeford.
+
+Prosecution Version (ECF No. 32). On December 18, 2014, Petitioner pleaded guilty
+
+to aiding and abetting a Hobbs Act robbery and possessing a firearm as a felon. (ECF
+
+No. 35). Because Petitioner had eight burglary convictions under Maine law 1 prior to
+
+
+
+1      Petitioner’s Maine burglary convictions fall under 17-A M.R.S.A. § 401(1). That statute
+provides: “A person is guilty of burglary if: A. The person enters or surreptitiously remains in a
+the commission of his federal offense, he fell under ACCA, 2 and he faced a guideline
+
+sentencing range of 188–234 months and a fifteen-year mandatory minimum
+
+sentence. Presentence Investigation Report at ¶¶ 32, 35, 63. On March 30, 2015, I
+
+sentenced Petitioner to 180 months on Counts One and Two to be served
+
+concurrently. (ECF Nos. 44–45.)
+
+        Petitioner did not file a direct appeal of his sentence, but on June 27, 2016,
+
+following the Supreme Court’s decision in Johnson v. United States, 135 S. Ct. 2551
+
+(2015) (“Johnson II”), holding ACCA’s “residual clause” 3 unconstitutional, Petitioner
+
+filed this habeas petition. Petitioner asserted that because Johnson II struck down
+
+the residual clause and because Maine’s burglary statute was broader than generic
+
+burglary, his burglaries were ineligible 4 to serve as predicates under ACCA’s
+
+
+
+structure knowing that that person is not licensed or privileged to do so, with the intent to commit a
+crime therein.” 17-A M.R.S.A. § 401(1). “Structure” is defined as “a building or other place designed to
+provide protection for persons or property against weather or intrusion, but does not include vehicles
+and other conveyances whose primary purpose is transportation of persons or property unless such
+vehicle or conveyance, or a section thereof, is also a dwelling place.” 17-A M.R.S.A. § 2(24). “Dwelling
+place” is defined as “a structure that is adapted for overnight accommodation of persons, or sections of
+any structure similarly adapted. A dwelling place does not include garages or other structures,
+whether adjacent or attached to the dwelling place, that are used solely for the storage of property or
+structures formerly used as dwelling places that are uninhabitable. It is immaterial whether a person
+is actually present.” 17-A M.R.S.A. § 2(10). Two of Petitioner’s convictions were for burglary of a
+dwelling place, the remaining six were for burglaries of structures. See State v. Heathcote, Dkt. No.
+CR-2009-122 (Me. Super. Ct. 2009) (Indictment) (ECF No. 56-1).
+2        The Armed Career Criminal Act (“ACCA”) provides that “a person who violates section 922(g)
+of [Title 18] and has three previous convictions . . . for a violent felony . . . shall be . . . imprisoned not
+less than fifteen years.” 18 U.S.C. § 924(e)(1). “Violent felony” under the ACCA includes any crime
+that “is burglary, arson, or extortion, involves use of explosives, or otherwise involves conduct that
+presents a serious potential risk of physical injury to another.” 18 U.S.C. § 924(e)(2)(B)(ii).
+3       Section 924(e)(2)(B)(ii) is commonly broken into the “enumerated clause” and the “residual
+clause.” The enumerated clause consists of the listed crimes—burglary, arson, extortion and any
+offense that involves the use of explosives. The now-void residual clause consists of any crime that
+“otherwise involves conduct that presents a serious potential risk of physical injury to another.”
+4      In order to determine whether a statute of conviction is broader than its generic version, courts
+are required to use a categorical or modified categorical approach depending on whether a statute is
+
+                                                      2
+enumerated clause after Mathis v. United States, 136 S. Ct. 2243 (2016). Mathis held
+
+that an Iowa burglary statute encompassing vehicle burglaries could not support an
+
+ACCA sentence because it was broader than the generic definition of burglary. 136 S.
+
+Ct. at 2251. Petitioner’s primary argument was that, because the Maine burglary
+
+statute allows conviction for entry into structures adapted for overnight
+
+accommodation, such as campers and boats, it was too broadly defined to constitute
+
+generic burglary under ACCA’s enumerated clause.
+
+       In response, the Government argued that Petitioner’s prior Maine burglary
+
+convictions were categorically burglaries under ACCA’s “enumerated” clause. See
+
+Gov’t Resp. in Opp’n to Def.’s Mot. to Correct Sentence 5 (ECF No. 56) (citing United
+
+States v. Duquette, 778 F.3d 314 (1st Cir. 2015), cert. denied, 136 S. Ct. 262 (2015)).
+
+In Duquette, the First Circuit concluded that Section 401(1) of Maine’s burglary
+
+statute qualified as a “violent felony” under ACCA, because “[b]y its clear and
+
+unambiguous terms, the statute contains all of the elements of ‘generic burglary’ that
+
+the Supreme Court set forth in Taylor.” Duquette, 778 F.3d at 318.
+
+       In reply, Petitioner argued that Duquette was no longer good law in light of
+
+Mathis. Pet.’s Reply 14–16 (ECF No. 57). Petitioner also added a new argument that
+
+because Maine law allows an inference of burglary based on “exclusive possession” of
+
+
+
+
+divisible. The categorial approach that requires courts to “compare the elements of the statute forming
+the basis of the defendant’s conviction with the elements of the ‘generic’ crime—i.e., the offense as
+commonly understood. The prior conviction qualifies as an ACCA predicate only if the statute’s
+elements are the same as, or narrower than, those of the generic offense.” Descamps v. United States,
+570 U.S. 254, 257 (2013). For a statute that is divisible, courts may consult a limited range of
+documents to determine which portion of the divisible statute the defendant was charged under, and
+then they must compare those elements to the elements of the generic offense. Id. at 262.
+
+
+                                                  3
+property recently stolen in a burglary, 17-A M.R.S.A. § 361(A)(1), it is broader than
+
+generic burglary. Pet.’s Reply 9–10. Because Petitioner raised a new argument in his
+
+Reply, I allowed the Government to file a Sur-reply to address the merits of
+
+Petitioner’s additional arguments. (ECF No. 59.)
+
+      After the motion was fully briefed and under advisement, I stayed decision at
+
+Petitioner’s unopposed request, pending decisions in United States v. Casey, 2016 WL
+
+6581178 (D. Me. Nov. 3, 2016); Collamore v. United States, 2016 WL 6304668 (D. Me.
+
+Oct. 27, 2016); and Dimott v. United States, 2016 WL 6068114 (D. Me. Oct. 14, 2016).
+
+(ECF No. 63.) The First Circuit consolidated these cases and affirmed the lower
+
+courts’ rulings that each of these petitions was procedurally barred. United States v.
+
+Dimott, 881 F.3d 232, 236 (1st Cir. 2018). Each of the petitioners asserted that he
+
+was sentenced under the residual clause invalidated by Johnson II and that his
+
+burglary conviction fell outside ACCA’s enumerated clause under Mathis. Id. The
+
+First Circuit held that each petitioner bore the burden of proving that he was in fact
+
+sentenced under the residual, rather than the enumerated, clause. In two of the cases,
+
+the judge on collateral review (who had also been the sentencing judge) found that
+
+the petitioners had been sentenced pursuant to the enumerated clause, making it
+
+easy for the First Circuit to conclude that the petitioners were actually sentenced
+
+under the enumerated clause. Id. at 236–37. In the third case, the record was silent
+
+on whether the sentencing judge had used the enumerated or residual clause in
+
+finding that the underlying conviction qualified under ACCA. Id. at 238. The First
+
+Circuit affirmed the denial of the third petition on the ground that the petitioner had
+
+
+
+                                          4
+failed his burden of production and proof under § 2255 to show that he was sentenced
+
+under the now-void residual clause. Id. at 240. The First Circuit concluded:
+
+      All three petitions are untimely because they raise Mathis, not Johnson
+      II claims, and Mathis does not reset the one-year statute of limitations
+      under § 2255(f)(3). The petitioners have no Johnson II claims because
+      they have not shown that their original ACCA sentences were based
+      solely on the residual clause.
+
+Id. at 234.
+
+      In December of 2018, the Supreme Court ruled that state burglary statutes
+
+that cover vehicles designed or adapted for overnight use fall within the generic
+
+burglary definition. United States v. Stitt, 139 S. Ct. 399, 406–07 (2018). After Stitt
+
+was decided, Petitioner’s counsel filed a status report conceding that Stitt went
+
+directly to the merits of Petitioner’s primary claim. Status Report (ECF No. 64).
+
+      I held a telephone conference on August 22, 2019, in which defense counsel
+
+maintained that, despite Stitt, he still had viable arguments that he wished to pursue.
+
+See (ECF No. 66). Petitioner asked to file a supplemental brief, in which he developed
+
+three arguments that Maine’s burglary statute is broader than generic burglary. See
+
+Pet.’s Suppl. Mem. (ECF No. 67). First, he contends that because Maine’s statute
+
+defines a structure to include a “place designed to provide protection for persons or
+
+property against weather or intrusion” and could include, for instance, a gazebo, it
+
+goes beyond generic burglary. Pet.’s Suppl. Mem. 3. Second, he argues that Maine’s
+
+statute is broader than generic burglary because it allows a jury to draw an inference
+
+of guilt if it finds a burglary occurred and a defendant was in exclusive possession of
+
+property taken in that burglary. Pet.’s Suppl. Mem. 3–4. Finally, Petitioner claims
+
+
+
+                                          5
+that, because the Maine statute includes attempted burglary, it is broader than
+
+generic burglary. Pet.’s Suppl. Mem. 4–5.
+
+      The Government, after noting that Duquette remains binding Circuit
+
+precedent, filed a responsive supplemental brief addressing the merits of these newly
+
+developed arguments. Gov’t’s Suppl. Mem. (ECF No. 68). At no time has the
+
+Government raised the issue of whether Petitioner has a procedural right under
+
+§ 2255 to bring the claim that he asserts.
+
+
+                                     ANALYSIS
+
+I.    Timeliness
+
+      Petitioner’s § 2255 claim is untimely. Under the Antiterrorism and Effective
+
+Death Penalty Act (AEDPA), a “1-year period of limitation shall apply to a motion
+
+under this section.” 28 U.S.C. § 2255(f). Because Petitioner filed his § 2255 Petition
+
+more than a year after his judgment became final, he depends on the one-year statute
+
+of limitations running from “the date on which the right asserted was initially
+
+recognized by the Supreme Court, if that right has been newly recognized by the
+
+Supreme Court and made retroactively applicable to cases on collateral review.” 28
+
+U.S.C. § 2255(f)(3). While it is clear that Johnson II announced a newly recognized
+
+right made retroactively applicable to cases on collateral appeal by Welch v. United
+
+States, 136 S. Ct. 1257, 1268 (2016), it is also clear that Mathis is not retroactively
+
+applicable. Dimott, 881 F.3d at 236–37.
+
+      Petitioner claims, as did Dimott, Collamore, and Casey, that because Johnson
+
+II struck down the residual clause and because his burglary convictions are not
+
+
+                                             6
+crimes of violence under the enumerated clause after Mathis, he should not have been
+
+sentenced under ACCA. See id. at 234, Pet.’s Suppl. Mem. 1, But in order for
+
+Petitioner to assert such a claim, he has to show that his original ACCA sentence was
+
+based on the residual clause. See Dimott, 881 F.3d at 234. I have reviewed the file
+
+and the transcript from Petitioner’s sentencing. There was no discussion regarding
+
+whether the burglaries fell within the enumerated or the residual clause. At
+
+sentencing, defense counsel focused his arguments not on whether ACCA applied, but
+
+on whether I should grant a downward variance from the higher sentencing guideline
+
+range to the fifteen-year mandatory minimum. The First Circuit had decided
+
+Duquette just months before Petitioner’s sentencing, and, looking back, it is apparent
+
+to me that I considered Petitioner’s burglaries to be ACCA predicates under the
+
+enumerated clause.
+
+      Because he cannot meet his burden of showing that his predicate convictions
+
+fell under ACCA’s residual clause, Petitioner cannot assert a Johnson II claim. Id. at
+
+240. And, as noted above, Petitioner’s Mathis claim cannot support relief under
+
+§ 2255 because Mathis is not retroactive. Id. at 237.
+
+II.   Merits of Petitioner’s Remaining Arguments
+
+      Even if I were to find that Petitioner’s claim was timely, I would reject his
+
+contention that Maine’s burglary statute is broader than generic burglary. Duquette
+
+answered that question, and it has been followed, even in the wake of Mathis, by
+
+three other judges of this District. Casey, 2016 WL 6581178, at **4–5; Collamore,
+
+2016 WL 6304668, at *2; Dimott, 2016 WL 6068114, at **3–4; McCurdy v. United
+
+States, 2017 WL 74695, *5 (D. Me. Jan. 6, 2017). While some of my colleagues have
+                                          7
+acknowledged that Mathis cast doubt on the viability of Duquette, see, e.g., Casey,
+
+2016 WL 6581178, at *5, the Stitt decision has only served to improve the likelihood
+
+that Duquette will survive. Stitt, 139 S. Ct. at 406–07 (explaining that vehicles used
+
+for accommodation have same possibilities of confrontation that lie at heart of generic
+
+burglary). At the end of the day, I agree with my colleagues that I am bound by
+
+Duquette. It is up to the First Circuit to decide whether it wishes to revisit its
+
+conclusion that Maine burglary has all the elements of generic burglary and no more.
+
+
+                                   CONCLUSION
+
+       For the reasons stated above, I DENY Petitioner’s Motion to Correct Sentence
+
+under 28 U.S.C. § 2255.
+
+SO ORDERED.
+
+                                              /s/ Nancy Torresen
+                                              United States District Judge
+
+Dated this 30th day of September, 2019.
+
+
+
+
+                                          8
+

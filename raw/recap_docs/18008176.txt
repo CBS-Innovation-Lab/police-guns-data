@@ -1,0 +1,835 @@
+Case 1:10-cr-00077-JAW Document 82 Filed 05/11/15 Page 1 of 16                                      PageID #: 270
+
+
+
+                                  UNITED STATES DISTRICT COURT
+                                       DISTRICT OF MAINE
+
+   DOUGLAS STEBBINS, JR.,                                  )
+                                                           )
+            Petitioner,                                    )
+                                                           )
+   v.                                                      )        1:10-cr-00077-JAW
+                                                           )        1:14-cv-00368-JAW
+   UNITED STATES OF AMERICA,                               )
+                                                           )
+            Respondent.                                    )
+
+
+                 RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+            In this action, Petitioner Douglas Stebbins, Jr. moves, pursuant to 28 U.S.C. §
+
+   2255, to vacate, set aside or correct his sentence on two claims of ineffective assistance
+
+   of counsel. (Motion, ECF No. 71.) Petitioner contends that (1) counsel failed to argue at
+
+   sentencing for a 30-month credit for Petitioner’s pretrial detention on state charges in
+
+   Massachusetts; and (2) counsel failed to file a motion to modify the sentence based on the
+
+   fact that a Maine state prison contraband charge that influenced the Court’s decision to
+
+   deny Petitioner a reduction in the offense level for acceptance of responsibility was
+
+   dismissed shortly after Petitioner’s federal sentencing.1
+
+            The Government requests a summary dismissal because the two underlying issues
+
+   upon which Petitioner seeks relief in his section 2255 motion were decided against him in
+
+   his direct appeal.        As explained below, the recommendation is that the Court deny
+
+   Petitioner’s request for relief, and dismiss Petitioner’s motion.
+
+
+
+
+   1
+    In his reply, Petitioner stated that he wished to withdraw his second claim, i.e., that counsel failed to file a
+   motion to modify the sentence after the Maine state charge was dismissed. (Reply, ECF No. 81 at 1-2.)
+   His reasons are judicial economy and the desire to demonstrate his acceptance of responsibility. (Id.)
+   Because the issue has been fully briefed and the recommendation is to deny relief, the issue is addressed
+   here on the merits.
+Case 1:10-cr-00077-JAW Document 82 Filed 05/11/15 Page 2 of 16                                 PageID #: 271
+
+
+
+                   I.       FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+           The following facts about the federal charge are derived from the prosecution
+
+   version and the First Circuit’s opinion in Petitioner’s direct appeal. (Prosecution Version,
+
+   ECF No. 12.) United States v. Stebbins, 523 F. App’x 1 (1st Cir. 2013) (unpublished).
+
+   At the plea hearing, Petitioner told the court that the information in the prosecution
+
+   version, with amendments as acknowledged at the plea hearing, was true to his personal
+
+   knowledge. (Plea Tr., ECF No. 44 at 17.)
+
+           On January 28, 2008, Petitioner, who was at that time a convicted felon, was
+
+   arrested during a traffic stop in Holden, Massachusetts, for unlawful possession of two
+
+   firearms. (Prosecution Version at 1.) A search of his vehicle revealed a backpack that
+
+   contained the firearms: a Walther model P22 .22 caliber pistol, and a Smith and Wesson
+
+   model Sigma .40 caliber pistol. (Id.)
+
+           Subsequent investigation revealed that Petitioner had purchased the Walther on
+
+   January 20, 2008, through a straw man who had purchased it from Bait, Bolts and
+
+   Bullets, a federal firearms licensee in Solon, Maine.2 (Id.) Petitioner had accompanied
+
+   the straw man and told him to purchase the Walther. (Id.) Between October 2007 and
+
+   January 2008, at Petitioner’s direction, Petitioner’s straw man purchased seven firearms
+
+   for Petitioner. (Id. at 2; Plea Tr. at 15.) In addition, the straw man purchased a Ruger,
+
+   Model P95DC .9mm pistol for Petitioner at Petitioner’s direction, on November 26, 2008,
+
+   from Jim’s Gun Shop, a federal firearms licensee in Winslow, Maine. (Prosecution
+
+   Version at 2.) Petitioner provided the straw man with cash to complete each of the nine
+
+   2
+     The straw man was identified in the prosecution version as William C. Wheeler, Jr. (Prosecution Version,
+   ECF No. 12 at 1.) Wheeler pled guilty to making and conspiring to make false statements to a licensed
+   federal firearms dealer during firearms purchases, and with knowingly making a false statement to a federal
+   agent. United States v. Stebbins, 523 F. App’x 1, 2 (1st Cir. 2013); United States v. Wheeler, No. 1:10-cr-
+   00078-JAW.
+
+                                                       2
+Case 1:10-cr-00077-JAW Document 82 Filed 05/11/15 Page 3 of 16                                   PageID #: 272
+
+
+
+   firearms purchases, Petitioner obtained possession within a short time after each of the
+
+   straw man’s purchases, and Petitioner paid the straw man $80 to $100 for each of the
+
+   transactions. (Id.)
+
+              All of the firearms sold meet the definition of a firearm under 18 U.S.C. §
+
+   921(a)(3), and all had been shipped or transported in interstate or foreign commerce.
+
+   (Id.) Petitioner had previously been convicted in state court in Maine, pursuant to 17-A
+
+   M.R.S. § 1103, of felony (Class B) drug trafficking, and was sentenced to seven years of
+
+   imprisonment. (Id. at 2-3.)3
+
+              In June 2010, Petitioner waived indictment and pled guilty to an information
+
+   charging him with possession of a single firearm as a felon, which violated 18 U.S.C.
+
+   §922(g)(1), and he thus was subject to the penalties set forth in 18 U.S.C. § 924(a)(2).4
+
+   (Plea Tr. at 2-3, 8, 23-24.) In April 2011, counsel moved to withdraw. (Motion to
+
+   Withdraw, ECF No. 34.) In May 2011, the Court granted the motion and appointed new
+
+   counsel who represented Petitioner through sentencing and the appeal. (Order, ECF No.
+
+   38; Form, ECF No. 39.)
+
+              According to the presentence investigation report, Petitioner was responsible for a
+
+   total of sixteen weapons, comprised of nine that Petitioner obtained from the straw man,
+
+   six additional weapons, and the Smith and Wesson pistol in Petitioner’s backpack.
+
+   3
+    Petitioner’s state drug trafficking conviction is docketed in Somerset County Superior Court at No. CR-
+   03-382. (Prosecution Version, ECF No. 12 at 2-3.)
+   4
+       Title 18 U.S.C. § 922(g)(1) provides:
+
+              It shall be unlawful for any person . . . who has been convicted in any court of, a crime
+              punishable by imprisonment for a term exceeding one year . . . to ship or transport in
+              interstate or foreign commerce, or possess in or affecting commerce, any firearm or
+              ammunition; or to receive any firearm or ammunition which has been shipped or
+              transported in interstate or foreign commerce.
+
+   Title 18 U.S.C. § 924(a)(2) provides in pertinent part that “[w]hoever knowingly violates [18 U.S.C. §
+   922(g) or certain other provisions] shall be . . . imprisoned not more than 10 years.”
+
+                                                         3
+Case 1:10-cr-00077-JAW Document 82 Filed 05/11/15 Page 4 of 16                               PageID #: 273
+
+
+
+   Stebbins, 523 F. App’x at 2.           The report also “summarized wiretap evidence that
+
+   [Petitioner] was a long-time supplier of firearms to drug dealers.” Id.
+
+           The presentence investigation report recommended a base offense level of 20, see
+
+   U.S.S.G. § 2K2.1(a)(4)(A); a four-level increase because between 8 and 24 firearms were
+
+   involved, see § 2K2.1(b)(1)(B); a four-level increase for trafficking in firearms, see §
+
+   2K2.1(b)(5); a four-level increase because Petitioner transferred the firearms with reason
+
+   to believe that they would be used in connection with another felony, see § 2K2.1(b)(6);
+
+   and a three-level reduction for acceptance of responsibility, see § 3E1.1, for a total
+
+   offense level of 29. Stebbins, 523 F. App’x at 2. Based on a total offense level of 29 and
+
+   a criminal history category of IV, the report calculated the advisory guidelines range to
+
+   be 121-151 months of imprisonment. Id. The statutory maximum was 120 months. Id.;
+
+   18 U.S.C. §924(a)(2).
+
+           Petitioner objected to the trafficking enhancement under U.S.S.G. § 2K2.1(b)(5),
+
+   as he argued that he did not know that the firearm was going to be used unlawfully.5
+
+   Stebbins, 523 F. App’x at 2-3. The First Circuit noted:
+
+           When [Petitioner] denied any such knowledge, the Government offered
+           evidence supporting pending drug and firearm charges in Massachusetts,
+           arising out of the conduct charged here, to show that he knew perfectly
+           well how the firearms would be used. In denying a motion to suppress in
+           that case, the Massachusetts Superior Court had found that [Petitioner] had
+           negotiated the exchange of firearms for cocaine or marijuana from two
+           individuals, . . . who were involved in other instances of drug trafficking. .
+           . . At sentencing, the district court admitted into evidence the
+           Massachusetts suppression decision, six indictments naming [Petitioner
+           and the two others] in drug and firearms conspiracies, as well as other
+           corroborative evidence.
+
+
+   5
+     U.S.S.G. § 2K2.1(b)(5) states: “If the defendant engaged in the trafficking of firearms, increase by 4
+   levels.” Application Note 13(A)(ii)(II) to § 2K2.1(b)(5) states that subsection (b)(5) applies if the
+   defendant “knew or had reason to believe that such conduct would result in the transport, transfer, or
+   disposal of a firearm to an individual . . . who intended to use or dispose of the firearm unlawfully.”
+
+                                                      4
+Case 1:10-cr-00077-JAW Document 82 Filed 05/11/15 Page 5 of 16                   PageID #: 274
+
+
+
+   Id. at 3.
+
+           The Government argued that the three-level reduction for acceptance of
+
+   responsibility should not apply due to subsequent criminal conduct that took place while
+
+   Petitioner was incarcerated in Maine and consisted of “trafficking in prison contraband,
+
+   stemming from his attempts to smuggle drugs into prison.”          Id.   In support of its
+
+   argument against a reduction for acceptance of responsibility based on the new criminal
+
+   conduct, the Government introduced the State’s complaint against Petitioner, an
+
+   investigative report, a handwritten note that Petitioner passed to another inmate, and the
+
+   complaint and dismissal of charges against Petitioner’s partner, who brought the drugs
+
+   into the jail on her person. (Sentencing Tr., ECF No. 65 at 44, 47.)
+
+               The Court applied the four-level enhancement under § 2K2.1(b)(5) and denied
+
+   the three-level reduction for acceptance of responsibility, after concluding that it was
+
+   more likely than not that Petitioner committed the crime of attempted trafficking in
+
+   prison contraband. Id. (Sentencing Tr., ECF No. 65 at 33-36, 43-48). The Court’s
+
+   sentencing guideline calculations were as follows: the base offense level was 20, to which
+
+   the Court added four levels for each of three enhancements because Petitioner (1)
+
+   committed an offense involving between 8 and 24 guns, see §2K2.1(b)(1)(B); (2)
+
+   trafficked in firearms, see §2K2.1(b)(5); and (3) possessed or transferred a firearm with
+
+   knowledge, intent, or reason to believe it would be used or possessed in connection with
+
+   another felony offense, see §2K2.1(b)(6). (Sentencing Tr. at 64.) The Court calculated a
+
+   total offense level of 32 and a criminal history category of IV; the findings yielded an
+
+   advisory sentencing range of 168-210 months. Stebbins, 523 F. App’x at 3 (Sentencing
+
+   Tr. at 64.)
+
+
+
+                                                5
+Case 1:10-cr-00077-JAW Document 82 Filed 05/11/15 Page 6 of 16                                   PageID #: 275
+
+
+
+                The Court considered the 18 U.S.C. § 3553 sentencing factors and noted that
+
+   “only three of the guns attributable to [Petitioner] had been recovered, leaving society at
+
+   serious risk from the thirteen. Although [Petitioner] had a tough youth, the court found it
+
+   ‘disturbing’ that he continued to engage in crime, even while awaiting sentencing.”
+
+   Stebbins, 523 F. App’x at 3. The Court imposed the statutory maximum sentence of 120
+
+   months. Id. See 18 U.S.C. §924(a)(2).
+
+              Petitioner appealed from the sentence on four grounds, two of which are the
+
+   subject of Petitioner’s section 2255 motion. First, Petitioner argued that “the district
+
+   court should have reduced his sentence under U.S.S.G. § 5G1.3(b) to account for his
+
+   incarceration for 30 months on the related state drug and firearm charges prior to
+
+   sentencing in this case.”6 Stebbins, 523 F. App’x at 3.                    Although the First Circuit
+
+   reviewed the matter for plain error because the record did not reflect that Petitioner had
+
+   preserved the claim, the First Circuit found no error because section 5G1.3(b) does not
+
+   apply. Id. at 3-4. Section 5G1.3(b) “applies only when the defendant being sentenced on
+
+   federal charges is already serving a sentence imposed by another court.”                          Id. at 4
+
+   (quotation marks omitted). Because Petitioner “was merely detained on pending state
+
+   charges in Massachusetts,” and “was not serving an undischarged term of imprisonment,”
+
+   the district court did not err in failing to apply section 5G1.3(b). Id. (quotation marks
+
+   omitted).
+
+
+   6
+       U.S.S.G. §5G1.3(b)(1) provides that if
+
+              a term of imprisonment resulted from another offense that is relevant conduct to the
+              instant offense . . . and that was the basis for an increase in the offense level for the
+              instant offense . . . the court shall adjust the sentence for any period of imprisonment
+              already served on the undischarged term of imprisonment if the court determines that
+              such period of imprisonment will not be credited to the federal sentence by the Bureau of
+              Prisons.
+
+
+                                                         6
+Case 1:10-cr-00077-JAW Document 82 Filed 05/11/15 Page 7 of 16                                 PageID #: 276
+
+
+
+              The First Circuit also considered the statute that provides for credit for prior
+
+   custody. Stebbins, 523 F. App’x at 4 (citing 18 U.S.C. § 3585(b)).7 The Court noted that
+
+   “[w]hile ‘§ 3585(b) does not authorize a district court to compute the credit at
+
+   sentencing,’ the Bureau of Prisons has authority to provide it as an administrative
+
+   remedy, subject to ultimate judicial review by habeas petition under 28 U.S.C. § 2241.”
+
+   Id. at 4 (citations omitted) (quoting United States v. Wilson, 503 U.S. 329, 334 (1992)).
+
+   The First Circuit found that when an inmate wants to challenge or clarify the amount of
+
+   credit for time served, the inmate must seek an administrative remedy before the Bureau
+
+   of Prisons, and the administrative determination would be subject to review through a
+
+   section 2241 petition. Id. The First Circuit expressed “no opinion on the question of
+
+   ultimate entitlement to administrative relief.” Id.
+
+              Petitioner’s second argument on appeal challenged the Court’s denial of a three-
+
+   level reduction for acceptance of responsibility. Stebbins, 523 F. App’x at 4. The First
+
+   Circuit held that the Court did not err when it denied the reduction because “the evidence
+
+   of the drug-trafficking crime that [Petitioner] allegedly committed in prison after the
+
+   preparation of the [presentence investigation report] militated against the favorable
+
+   treatment.” Id. Petitioner’s third and fourth arguments on appeal are not at issue in this
+
+
+
+
+   7
+       Title 18 U.S.C. §3585(b) states:
+
+              A defendant shall be given credit toward the service of a term of imprisonment for any
+              time he has spent in official detention prior to the date the sentence commences−
+
+                   (1) as a result of the offense for which the sentence was imposed; or
+
+                   (2) as a result of any other charge for which the defendant was arrested after the
+                       commission of the offense for which the sentence was imposed;
+
+              that has not been credited against another sentence.
+
+                                                          7
+Case 1:10-cr-00077-JAW Document 82 Filed 05/11/15 Page 8 of 16                                      PageID #: 277
+
+
+
+   section 2255 motion.8 The Supreme Court denied Petitioner’s application for a writ of
+
+   certiorari on October 7, 2013. Stebbins v. United States, 134 S. Ct. 318 (2013).
+
+            Petitioner timely filed his section 2255 motion on September 15, 2014, in which
+
+   motion Petitioner cited two grounds.9 (Motion at 1; Response, ECF No. 80 at 6 n.2.)
+
+   Petitioner first argues that counsel was constitutionally ineffective because counsel failed
+
+   to argue at sentencing that Petitioner should receive a credit of 30 months for time served
+
+   in pretrial detention in Massachusetts on state drug and firearms charges. (Motion at 2-
+
+   6.) Petitioner filed an affidavit of his plea counsel, in which affidavit counsel asserted
+
+   that “[o]n November 25, 2009, I wrote to Mr. Stebbins that he ‘might be able to get credit
+
+   for the state time that [he was] held before conviction on the federal charges. I cannot tell
+
+   whether that can occur at this stage.’” (Affidavit, ECF No. 71-1 at 1).                        Counsel also
+
+   asserted that the Government told him that it would not oppose credit for time served,
+
+   pursuant to U.S.S.G. § 5G1.3. (Id. at 1-2.) Counsel advised Petitioner to ask the Court to
+
+   find that the federal charges were based on the same conduct as the Massachusetts
+
+   charges. (Id. at 2-3.)
+
+            Petitioner next contends that counsel was ineffective because he failed to file a
+
+   motion to modify the sentence after the Maine state charge for attempted trafficking in
+
+   prison contraband, 17-A M.R.S. § 757(1)(A), was dismissed following Petitioner’s
+
+   8
+     Petitioner’s third argument was that the Court erred when it imposed a four-level enhancement based on
+   its finding that Petitioner knew or had reason to believe that one or both of the persons to whom Petitioner
+   transferred the firearms intended to use or dispose of the firearm(s) unlawfully. Id. at 5. The First Circuit
+   held that the district court did not commit error. Id. Petitioner’s fourth argument was that the sentence was
+   “substantively unreasonable overall.” Id. at 6. The First Circuit held that the district court did not abuse its
+   discretion in sentencing Petitioner to a prison term of the statutory maximum of 120 months. Id.
+   9
+     Petitioner’s motion does not conform to the requirements of Rule 3(d) of the Rules Governing Section
+   2255 Proceedings regarding the prison mailbox rule, but because the petition was filed in Court in advance
+   of the expiration of the one-year statute of limitation, under 28 U.S.C. 2255(f)(1), that is not an issue.
+   Similarly, Petitioner has not complied with Rule 2(b)(5) because he failed to sign the motion “under
+   penalty of perjury by the movant or by a person authorized to sign it for the movant.” However, if the
+   Court adopts this recommendation, that issue will be moot.
+
+                                                          8
+Case 1:10-cr-00077-JAW Document 82 Filed 05/11/15 Page 9 of 16                      PageID #: 278
+
+
+
+   federal sentencing. (Motion at 7-8; State Court Dismissal and Docket Sheet, ECF Nos.
+
+   71-2, 71-3.) Petitioner maintains that because the Court was persuaded by the prison
+
+   contraband charge to deny Petitioner a three-level reduction for acceptance of
+
+   responsibility, logically, upon the appropriate motion, the dismissal of the charge would
+
+   have resulted in a reduction in Petitioner’s sentence. (Id.)
+
+          The Government requests summary dismissal.              In support of its request, the
+
+   Government argues that (1) Petitioner’s claims of ineffective assistance of counsel fail
+
+   because on appeal, the First Circuit decided the issues underlying those claims against
+
+   Petitioner; (2) Petitioner does not have any freestanding claims of constitutional
+
+   dimension; and (3) Petitioner cannot demonstrate either deficient performance by counsel
+
+   or prejudice on his claims of ineffective assistance of counsel. (Response at 9-10.)
+
+          In his reply, Petitioner asserts that he wants to withdraw his second ground, i.e.,
+
+   that counsel was ineffective for failing to file a motion to modify the sentence after the
+
+   state charge for prison contraband was dismissed. (Reply, ECF No. 81 at 1-2.) Petitioner
+
+   continues to press his claim of ineffective assistance of counsel for failure to argue for the
+
+   30-month credit for time served. (Id. at 2-4.) Petitioner alleges that he raised the issue of
+
+   the credit administratively, but the Bureau of Prisons denied his request. (Id. at 3.)
+
+   Petitioner provides an attachment with administrative documents. (Id. at 3; Attachment,
+
+   ECF No. 81-1.) Petitioner also argues that a recent amendment to section 5G1.3 supports
+
+   his argument. (Reply at 4.)
+
+
+
+
+                                                 9
+Case 1:10-cr-00077-JAW Document 82 Filed 05/11/15 Page 10 of 16                                    PageID #: 279
+
+
+
+                                               II.      DISCUSSION
+
+          A. Legal Standard
+
+              A person may move to vacate his or her sentence on one of four different
+
+   grounds: (1) “that the sentence was imposed in violation of the Constitution or laws of
+
+   the United States”; (2) “that the court was without jurisdiction” to impose its sentence;
+
+   (3) “that the sentence was in excess of the maximum authorized by law”; and (4) that the
+
+   sentence “is otherwise subject to collateral attack.” 28 U.S.C. § 2255(a); see Knight v.
+
+   United States, 37 F.3d 769, 772 (1st Cir. 1994).10 Here, given that Petitioner alleges
+
+   ineffective assistance of counsel, and given that Petitioner’s right to counsel is guaranteed
+
+   by the Sixth Amendment, Petitioner argues that the sentence was imposed in violation of
+
+   “the Constitution or laws of the United States.”
+
+              The burden is on the section 2255 petitioner to establish by a preponderance of
+
+   the evidence that he or she is entitled to section 2255 relief. David v. United States, 134
+
+   F.3d 470, 474 (1st Cir. 1998); United States v. DiCarlo, 575 F.2d 952, 954 (1st Cir.
+
+   1978). On a claim of ineffective assistance of counsel, a petitioner “must establish both
+
+   that counsel’s representation fell below an objective standard of reasonableness and that
+
+   there exists a reasonable probability that, but for counsel’s unprofessional errors, the
+
+   result of the proceeding would have been different.” Turner v. United States, 699 F.3d
+
+   578, 584 (1st Cir. 2012) (citing Strickland v. Washington, 466 U.S. 668, 688 (1984)); see
+
+   also Hill v. Lockhart, 474 U.S. 52, 59 (1985) (holding that “in order to satisfy the
+
+   10
+        Title 28 U.S.C. § 2255(a) states:
+
+              A prisoner in custody under sentence of a court established by Act of Congress claiming
+              the right to be released upon the ground that the sentence was imposed in violation of the
+              Constitution or laws of the United States, or that the court was without jurisdiction to
+              impose such sentence, or that the sentence was in excess of the maximum authorized by
+              law, or is otherwise subject to collateral attack, may move the court which imposed the
+              sentence to vacate, set aside or correct the sentence.
+
+                                                         10
+Case 1:10-cr-00077-JAW Document 82 Filed 05/11/15 Page 11 of 16                    PageID #: 280
+
+
+
+   ‘prejudice’ requirement, the defendant must show that there is a reasonable probability
+
+   that, but for counsel’s errors, he would not have pleaded guilty and would have insisted
+
+   on going to trial”). The two prongs of the ineffective assistance test are commonly
+
+   referred to as the “cause” and “actual prejudice” tests. Bucci v. United States, 662 F.3d
+
+   18, 29 (1st Cir. 2011).     The “cause” test is “a ‘fairly tolerant’ one because ‘the
+
+   Constitution pledges to an accused an effective defense, not necessarily a perfect defense
+
+   or a successful defense.’” Moreno-Espada v. United States, 666 F.3d 60, 65 (1st Cir.
+
+   2012) (quoting Scarpa v. Dubois, 38 F.3d 1, 8 (1st Cir. 1994)). The issue is whether
+
+   counsel’s performance was “‘within the wide range of reasonable professional assistance’
+
+   that a competent criminal defense counsel could provide under ‘prevailing professional
+
+   norms.’” Bucci, 662 F.3d at 30 (quoting Strickland, 446 U.S. at 688-89).
+
+          A district court that reviews such claims is not required to address both prongs of
+
+   the test because a failure to meet either prong will undermine the claim. Strickland, 466
+
+   U.S. at 697. “Evidentiary hearings on § 2255 petitions are the exception, not the norm,
+
+   and there is a heavy burden on the petitioner to demonstrate that an evidentiary hearing is
+
+   warranted. An evidentiary hearing ‘is not necessary when a [§] 2255 petition (1) is
+
+   inadequate on its face, or (2) although facially adequate, is conclusively refuted as to the
+
+   alleged facts by the files and records of the case.’” Moreno-Morales v. United States,
+
+   334 F.3d 140, 145 (1st Cir. 2003) (citation omitted) (quoting DiCarlo, 575 F.2d at 954).
+
+      B. Grounds Asserted and Analysis
+
+              1. Claim of ineffective assistance of counsel regarding failure to seek
+                 credit for pretrial detention (Ground One).
+
+          On Petitioner’s direct appeal, the First Circuit held that because Petitioner served
+
+   the time in pretrial detention, and because section 5G1.3 applies only to time served on a
+
+                                               11
+Case 1:10-cr-00077-JAW Document 82 Filed 05/11/15 Page 12 of 16                                  PageID #: 281
+
+
+
+   sentence, U.S.S.G. § 5G1.3 has no applicability. Stebbins, 523 F. App’x at 4. The issue
+
+   of credit for pretrial detention, therefore, “was resolved against [Petitioner] on direct
+
+   appeal, and cannot be collaterally attacked in these proceedings.” Barrett v. United
+
+   States, 965 F.2d 1184, 1190 n.11 (1st Cir. 1992). That is, an issue that the First Circuit
+
+   has rejected on direct appeal may not be reviewed again through a section 2255 motion.
+
+   Singleton v. United States, 26 F.3d 233, 240 (1994). Because Petitioner was not entitled
+
+   to credit for the time served, counsel was not deficient, nor was Petitioner prejudiced, by
+
+   the failure of Petitioner’s counsel to make the argument. See Tse v. United States, 290
+
+   F.3d 462, 465 (1st Cir. 2002) (“Since [Petitioner’s] claims fail on the merits, his related
+
+   claims that counsel rendered ineffective assistance in failing to press the claims at trial or
+
+   on appeal must also fail.”)11
+
+            The First Circuit’s discussion of 18 U.S.C. § 3585(b) provides the procedural path
+
+   that Petitioner must follow if he is to pursue his administrative claim to its conclusion.
+
+   Stebbins, 523 F. App’x at 4. The First Circuit noted that an inmate must seek an
+
+   administrative remedy before the Bureau of Prisons, and, if dissatisfied with the
+
+   administrative decision, the inmate could seek judicial review through a section 2241
+
+   petition. Id. The First Circuit, therefore, did not address on appeal the merits of the time
+
+   served argument. Similarly, the matter is not appropriate for this Court’s consideration in
+
+   this section 2255 proceeding. 12
+
+
+
+
+   11
+     Although it does not appear that Petitioner intends to state a claim of ineffective assistance of counsel
+   against plea counsel, Petitioner’s allegations in any event do not amount to either deficient performance or
+   prejudice with respect to plea counsel’s approach to the issue of time served.
+   12
+     This Court thus need not address the argument that Petitioner makes regarding the effect of an
+   amendment to U.S.S.G. § 5G1.3.
+
+
+                                                       12
+Case 1:10-cr-00077-JAW Document 82 Filed 05/11/15 Page 13 of 16                                   PageID #: 282
+
+
+
+        2. Claim of ineffective assistance of counsel regarding failure to move to modify
+           the sentence (Ground Two).
+
+            Petitioner contends that counsel was ineffective for failing to move to modify the
+
+   sentence when, within a few weeks after Petitioner’s federal sentencing, the state of
+
+   Maine dismissed the prison contraband charge that had been filed against Petitioner.
+
+   (Motion at 7-8.) Specifically, Petitioner contends that at sentencing, the Court might
+
+   have granted a three-point reduction in the offense level for acceptance of responsibility
+
+   if it had known that the prison contraband charge was to be dismissed. (Id.) Petitioner
+
+   argues, therefore, that counsel should have requested a sentence modification as soon as
+
+   possible after the state charge was dismissed. (Id.)
+
+            In his appellate brief, Petitioner informed the First Circuit that the prison
+
+   contraband charge had been dismissed, although the reason Petitioner gave−insufficient
+
+   evidence−was incorrect. (Appellant’s Brief, No. 11-2232 at 10.)13 The First Circuit held
+
+   that this Court did not err when it denied the reduction for acceptance of responsibility
+
+   based on the fact that Petitioner had likely introduced contraband into prison. Stebbins,
+
+   523 F. App’x at 4-5. The First Circuit concluded that the district court’s decision was
+
+   “perfectly consistent” with First Circuit authority that “‘[c]riminal conduct, whatever its
+
+   nature, is a powerful indicium of a lack of contrition.’” Id. at 5 (quoting United States v.
+
+   Jordan, 549 F.3d 57, 61 (1st Cir. 2008)). To the extent that this Court’s sentencing
+
+   decision was based on Petitioner’s conduct, therefore, regardless of the fact that there was
+
+   no state court conviction, the decision may not be relitigated. See Singleton, 26 F.3d at
+
+   13
+      The State’s explanation for the dismissal does not suggest a basis for reconsideration of the Court’s
+   decision not to grant Petitioner a reduction due to an acceptance of responsibility. (Dismissal, ECF No. 71-
+   2.) The State maintains that it dismissed the charge because Petitioner had pled guilty to the federal charge
+   in this case and had been sentenced to ten years in prison. The State’s dismissal notice concludes that
+   “[f]urther prosecution of this matter would serve no useful purpose.” (Id.) The State, therefore, did not
+   dismiss the matter due to concerns about Petitioner’s involvement in the alleged conduct.
+
+
+                                                       13
+Case 1:10-cr-00077-JAW Document 82 Filed 05/11/15 Page 14 of 16                                       PageID #: 283
+
+
+
+   240; Barrett, 965 F.2d at 1190 n.11. The dismissal of the state charge does not alter the
+
+   First Circuit’s analysis regarding this Court’s denial of a reduction for acceptance of
+
+   responsibility based on the conduct that was the subject of the charge.
+
+              Finally, the Court does not have the authority to modify a sentence once it has
+
+   been imposed, unless the reason for the modification is within one of a limited number of
+
+   exceptions.14 The exceptions include (1) where the Director of the Bureau of Prisons
+
+   moves to reduce the term of imprisonment for “extraordinary and compelling reasons, 18
+
+   U.S.C. § 3582(c)(1)(A)(i); (2) where the defendant is over 70 years old, has served at
+
+   14
+        The exceptions are set forth in 18 U.S.C. § 3582(c), which provides:
+
+              The court may not modify a term of imprisonment once it has been imposed except
+              that—
+
+                   (1) in any case—
+
+                       (A) the court, upon motion of the Director of the Bureau of Prisons, may reduce
+                       the term of imprisonment (and may impose a term of probation or supervised
+                       release with or without conditions that does not exceed the unserved portion of
+                       the original term of imprisonment), after considering the factors set forth in
+                       section 3553(a) to the extent that they are applicable, if it finds that—
+
+                            (i) extraordinary and compelling reasons warrant such a reduction; or
+
+                            (ii) the defendant is at least 70 years of age, has served at least 30 years in
+                            prison, pursuant to a sentence imposed under section 3559(c), for the
+                            offense or offenses for which the defendant is currently imprisoned, and a
+                            determination has been made by the Director of the Bureau of Prisons that
+                            the defendant is not a danger to the safety of any other person or the
+                            community, as provided under section 3142(g); and that such a reduction is
+                            consistent with applicable policy statements issued by the Sentencing
+                            Commission; and
+
+                       (B) the court may modify an imposed term of imprisonment to the extent
+                       otherwise expressly permitted by statute or by Rule 35 of the Federal Rules of
+                       Criminal Procedure; and
+
+                   (2) in the case of a defendant who has been sentenced to a term of imprisonment
+                   based on a sentencing range that has subsequently been lowered by the Sentencing
+                   Commission pursuant to 28 U.S.C. 994(o), upon motion of the defendant or the
+                   Director of the Bureau of Prisons, or on its own motion, the court may reduce the
+                   term of imprisonment, after considering the factors set forth in section 3553(a) to the
+                   extent that they are applicable, if such a reduction is consistent with applicable
+                   policy statements issued by the Sentencing Commission.
+
+
+                                                           14
+Case 1:10-cr-00077-JAW Document 82 Filed 05/11/15 Page 15 of 16                   PageID #: 284
+
+
+
+   least 30 years in prison, and the Director of the Bureau of Prisons has determined that the
+
+   defendant is no longer a danger to any person or the community, § 3582(c)(1)(A)(ii); (3)
+
+   where there has been a clerical error in the judgment and the motion is made within
+
+   fourteen days after sentencing, § 3582(c)(1)(B), Fed. R. Crim. P. 35(a); (4) where the
+
+   Government has filed a Rule 35 motion within one year of sentencing to reduce a
+
+   defendant’s sentence for substantial assistance in investigating or prosecuting another
+
+   person, § 3582(c)(1)(B), Fed. R. Crim. P. 35(b); (5) where the Sentencing Commission
+
+   has lowered the sentencing range on which the defendant’s sentence was based, §
+
+   3582(c)(2); or (6) where a defendant filed a notice of appeal to the applicable court of
+
+   appeals and the appeals court has modified the sentence pursuant to 18 U.S.C. §3742(a)
+
+   because it was imposed in violation of law, was greater than the sentencing guidelines
+
+   range, or was imposed for an offense for which there is no sentencing guideline and the
+
+   sentence is “plainly unreasonable.” None of the exceptions applies to Petitioner’s case,
+
+   and, therefore, he is not entitled to a sentence modification.
+
+                                      III.    CONCLUSION
+
+          Based on the foregoing analysis, an evidentiary hearing is not warranted under
+
+   Rule 8 of the Rules Governing Section 2255 Cases. The recommendation is that the
+
+   Court deny Petitioner’s section 2255 motion, and deny a certificate of appealability
+
+   pursuant to Rule 11 of the Rules Governing Section 2255 Cases because there is no
+
+   substantial showing of the denial of a constitutional right within the meaning of 28
+
+   U.S.C. § 2253(c)(2).
+
+                                          NOTICE
+                 A party may file objections to those specified portions of a
+          magistrate judge’s report or proposed findings or recommended decisions
+          entered pursuant to 28 U.S.C. 636(b)(1)(B) for which de novo review by
+
+                                                15
+Case 1:10-cr-00077-JAW Document 82 Filed 05/11/15 Page 16 of 16                  PageID #: 285
+
+
+
+          the district court is sought, together with a supporting memorandum,
+          within fourteen (14) days of being served with a copy thereof. A
+          responsive memorandum shall be filed within fourteen (14) days after the
+          filing of the objection.
+
+                  Failure to file a timely objection shall constitute a waiver of the
+          right to de novo review by the district court and to appeal the district
+          court's order.
+
+                                        /s/ John C. Nivison
+                                        U.S. Magistrate Judge
+
+   Dated this 11th day of May, 2015.
+
+
+
+
+                                              16
+

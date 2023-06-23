@@ -1,0 +1,382 @@
+                              UNITED STATES DISTRICT COURT
+                                   DISTRICT OF MAINE
+
+    UNITED STATES OF AMERICA,                       )
+                                                    )
+                                                    )
+    v.                                              )
+                                                    ) Docket no. 2:18-CR-00061-GZS
+    JONATHAN LARA,                                  )
+                                                    )
+                                                    )
+                          Defendant.                )
+                                                    )
+
+
+                              ORDER ON MOTION TO SUPPRESS
+
+
+         Before the Court is Defendant’s Motion to Suppress (ECF No. 28). The Court held an
+
+evidentiary hearing on this Motion on October 3, 2018, 1 and, thereafter, received supplemental
+
+briefing from Defendant (ECF No. 41). After considering the exhibits and testimony presented at
+
+the hearing, as well as the arguments advanced by counsel, the Court now GRANTS IN PART
+
+AND DENIES IN PART the Motion.
+
+         I.     FACTUAL FINDINGS
+
+         On the morning of August 7, 2017, Special Agent Nicholas Gagnon (“Gagnon”) of the
+
+Maine Drug Enforcement Agency responded to the scene of an overdose at a convenience store in
+
+Auburn. Upon Gagnon’s arrival, he learned that Defendant Jonathan Lara (“Lara”) was the
+
+individual involved, and that he had already been transported to the hospital. In the course of his
+
+investigation, Gagnon discovered that, shortly before Lara’s collapse, a witness saw Lara spend
+
+several minutes in the passenger seat of a black PT Cruiser. After further investigation into the
+
+
+
+1
+  Two witnesses testified at the hearing: Special Agent Nicholas Gagnon of the Maine Drug Enforcement Agency
+and Task Force Officer Scott Hill of the Bureau of Alcohol, Tobacco, Firearms and Explosives.
+Cruiser’s owner, Gagnon searched the Cruiser. Inside, he found a large amount of illegal drugs
+
+and several rounds of live handgun ammunition. Gagnon then arrested the Cruiser’s owner who,
+
+in an effort to cooperate, stated that more drugs and guns could be found in “room 230 something”
+
+at the Ramada Inn.
+
+       Intending to follow up on that lead, Gagnon recruited two other officers and drove to the
+
+Ramada Inn located in Lewiston. There, Gagnon checked the guest list and found that room 236
+
+was registered to Lara, who Gagnon believed was still in the hospital. The officers, all wearing
+
+plain clothes, then walked to room 236. Gagnon knocked and a female voice asked who was there.
+
+Gagnon replied that there was a water issue in the room and requested to come in and “check the
+
+tank.” The woman opened the door and, at that point, could see that the men were police officers
+
+as they had their badges displayed. From his vantage point in the hallway, Gagnon immediately
+
+observed a man slumped over backwards in a chair inside the room. He also saw that the man was
+
+holding a plastic baggie, and that there was a “white chunk” on the desk in front of him, which
+
+appeared to be cocaine. Based on these observations, as well his knowledge that the room’s renter
+
+had overdosed earlier that morning, Gagnon entered the room to check on the man’s well-being.
+
+Gagnon quickly confirmed that the man was breathing. Then, aware that there might be a gun in
+
+the room, and believing that some addicts react violently to being woken up, Gagnon directed
+
+another officer to handcuff the man. Satisfied with their safety, the officers then woke him up and
+
+identified him as Lara. Gagnon believed Lara was under the influence of drugs at that time.
+
+       Gagnon next departed the hotel to apply for a search warrant for room 236. His affidavit
+
+recounted the investigation and listed the evidence of drug related activity he had observed from
+
+the hallway outside the room. A state court judge granted the warrant. With it in hand, Gagnon
+
+
+
+
+                                                2
+returned to room 236 where other officers, including Scott Hill (“Hill”), 2 had been waiting with
+
+Lara. Pursuant to the warrant, Gagnon searched the room and found, among other things, $7,606
+
+in cash, cocaine base rocks, and a .40 caliber handgun. After completing the search, Gagnon
+
+advised Lara that he was under arrest for drug trafficking but did not Mirandize him. Lara then
+
+became agitated and stated that he was a drug user not a drug dealer. In response, Gagnon said
+
+that “drug users don’t have the ability to keep thousands of dollars around” and told Lara that he
+
+could talk to his lawyer. Lara replied by admitting that the firearm was his and asserting that he
+
+stole the money from a drug dealer in Lynn. Officers then transported Lara to an interview room
+
+at the Androscoggin County Jail where he met with Hill. Hill explained that he would be recording
+
+any conversation between them, turned on his recorder, and Mirandized Lara. Lara indicated
+
+verbally that he understood his rights and then signed a written waiver.
+
+         During the ensuing conversation, Lara admitted that he purchased the firearm off the street
+
+but denied being a drug dealer. He claimed that he possessed the drugs in the hotel room because
+
+he is an addict and indicated that he spends over one hundred dollars per day on drugs. Eventually,
+
+Lara reached across the table and turned off the recorder, concluding the interview. According to
+
+Hill’s testimony, Lara appeared tired but not intoxicated during their conversation, and could speak
+
+without slurring his words. In the recording Lara sounds alert, responsive, and lucid. The Court
+
+therefore credits Hill’s testimony regarding his encounter with Defendant.
+
+         II.      DISCUSSION
+
+         Defendant first contends that Gagnon’s use of a ruse to gain visual access to the hotel room
+
+constituted a violation of his Fourth Amendment rights such that all evidence and statements
+
+
+
+2
+  Hill was not present when officers initially gained access to the room. He arrived on the scene shortly after Gagnon
+left to secure the warrant. Thereafter, Hill waited with Lara for over an hour during Gagnon’s absence and remained
+present during the search and Lara’s arrest. Hill departed when other officers transported Lara from the scene.
+
+
+                                                          3
+obtained thereafter are the “fruit of the poisonous tree.” See Utah v. Strieff, 136 S.Ct. 2056, 2061
+
+(2016) (internal quotation marks omitted). This argument fails under existing precedent.
+
+         It is true, as Defendant points out, that he had a reasonable expectation of privacy in his
+
+hotel room. See Stoner v. California, 376 U.S. 483, 490 (1964) (“a guest in a hotel room is entitled
+
+to constitutional protection against unreasonable searches and seizures”). However, Gagnon’s
+
+tactics did not violate that expectation here. In Lewis v. United States, the Supreme Court held
+
+that it is constitutionally permissible for police officers to misrepresent their identities to gain
+
+consent to enter a suspect’s home. See 385 U.S. 206, 208-211 (1966). Numerous courts have
+
+since applied that principle to admit evidence obtained through various methods of government
+
+subterfuge. See, e.g., United States v. Scherer, 673 F.2d 176, 181-182 (7th Cir. 1982) (agent
+
+masquerading as informer’s cousin to secure invitation onto the defendant’s property); United
+
+States v. Wright, 641 F.2d 602, 603-605 (8th Cir. 1981) (officers posing as fellow hotel residents
+
+with car trouble in order to see inside the defendant’s hotel room); United States v. Glassel, 488
+
+F.2d 143, 144-145 (9th Cir. 1973) (officer pretending to be potential drug buyer to garner invitation
+
+into the defendant’s home). As in those cases, Gagnon used only “minimal deception” in
+
+convincing the occupant of the room to allow him a view inside, and his actions, therefore, did not
+
+amount to an illegal warrantless search. 3 Wright, 641 F.2d at 605. Consequently, the evidence
+
+and statements obtained following the interaction at the door cannot be suppressed as the “fruit of
+
+the poisonous tree” on this ground. See Strieff, 136 S.Ct. at 2061.
+
+         Defendant next argues that his statements in the hotel room should be suppressed because
+
+Gagnon elicited them during a custodial interrogation, which was unaccompanied by procedural
+
+
+3
+  The Court notes that a few federal cases have found that ruses involving life-threatening emergencies, such as a gas
+leak or a kidnapped child, are so coercive that they vitiate any consent obtained therefrom. See, e.g., United States v.
+Montes-Reyes, 547 F. Supp. 281, 291 (S.D.N.Y. 2008); United States v. Giraldo, 743 F. Supp. 152, 154 (E.D.N.Y.
+1990). However, the Court concludes that Gagnon’s ruse did not rise even close to that level.
+
+
+                                                           4
+safeguards. See Miranda v. Arizona, 384 U.S. 436, 444 (1966). The Court agrees that Defendant’s
+
+second statement in the hotel room must be suppressed as the product of an un-Mirandized
+
+custodial interrogation, but declines to suppress his first statement.
+
+       Absent a proper Miranda warning, any statements that the government obtains through
+
+“custodial interrogation” must be suppressed. See Illinois v. Perkins, 496 U.S. 292, 296 (1990).
+
+A “custodial” situation arises where a defendant has been formally arrested or has experienced
+
+“restraint on freedom of movement of the degree associated with a formal arrest.” United States
+
+v. Mittel-Carey, 493 F.3d 36, 39 (1st Cir. 2007) (quoting Stansbury v. California, 511 U.S. 318,
+
+322 (1994)). “Interrogation,” on the other hand, involves either “express questioning” or its
+
+“functional equivalent” meaning “words or actions … that the police should know are reasonably
+
+likely to elicit an incriminating response.” Rhode Island v. Innis, 446 U.S. 291, 300-301 (1980).
+
+This inquiry turns on “an objective assessment as to whether the police statements and conduct
+
+would be perceived as interrogation by a reasonable person in the same circumstances.” United
+
+States v. Taylor, 985 F.2d 3, 7 (1st Cir. 1993).
+
+       It is undisputed that, at the time Defendant made the incriminating statements in the hotel
+
+room, he was under arrest and in custody for purposes of Miranda. See Mittel-Carey, 493 F.3d at
+
+39. The critical question in determining whether those statements should be suppressed, therefore,
+
+is whether they were the product of “interrogation.” See United States v. Ventura, 85 F.3d 708,
+
+711-712 (1st Cir. 1996). There was no express questioning in this case, so the answer turns on
+
+whether Gagnon subjected Defendant to the “functional equivalent” of questioning. Innis, 446
+
+U.S. at 301. Defendant’s first statement, that he was a drug user not a drug dealer, was spontaneous
+
+and neither solicited nor coerced by Gagnon in any way. As a result, it is not subject to
+
+suppression. See United States v. Rogers, 41 F.3d 25, 31 (1st Cir. 1994) (upholding decision not
+
+
+
+
+                                                   5
+to suppress statement where there was no evidence that it was anything other than spontaneous).
+
+Defendant’s second statement, however, regarding the gun and theft, was an explanation offered
+
+to counter Gagnon’s assertion that “drug users don’t have the ability to keep thousands of dollars
+
+around.” This assertion by Gagnon was not a “mere description of the evidence and of potential
+
+charges against a suspect, in direct response to the suspect’s importuning.” See United States v.
+
+Conley, 156 F.3d 78, 83 (1st Cir. 1998) (concluding that “mere description of the evidence and of
+
+potential charges” is not interrogatory).                  Rather, objectively viewed, it was uninvited,
+
+confrontational, and essentially “posit[ed] the guilt of the subject.” See Innis, 446 U.S. at 299
+
+(internal quotation marks omitted). Having considered the entire course of conduct of the officers,
+
+the Court concludes that Gagnon’s assertion was “reasonably likely to elicit an incriminating
+
+response” and that he should have known as much. See id. at 301. See also United States v.
+
+Jackson, 544 F.3d 351, 357 (1st Cir. 2008) (suppressing statement as “the product of the unwarned
+
+interrogation” although statement was not made in response to direct questions).                                  Thus,
+
+Defendant’s response to it must be suppressed. 4
+
+         Defendant lastly argues that his interview statements should be suppressed because he was
+
+too intoxicated to have “knowingly and intelligently” waived his Miranda rights. See Miranda
+
+384 U.S. at 444. In deciding this issue, “[t]he district court must begin with the presumption that
+
+
+
+
+4
+  To the extent Defendant argues that his subsequent Mirandized statements should be suppressed as “tainted” by his
+un-Mirandized interrogation in the hotel room, the Court disagrees. The First Circuit has explained, citing Oregon v.
+Elstad, that “in the absence of coercion or improper tactics by law enforcement in obtaining an initial statement, a
+subsequent statement is admissible if the defendant was advised of his Miranda rights and knowingly and voluntarily
+waived those rights.” United States v. Faust, 853 F.3d 39, 47-48 (1st Cir. 2017) (citing 470 U.S. 298, 318 (1985)).
+There is no evidence in this case that Gagnon obtained either statement at the hotel by violence or any other kind of
+“deliberately” coercive or improper tactic. See Elstad, 470 U.S. at 314. Thus, the admissibility of Defendant’s later
+statements turns on whether he knowingly and intelligently waived his rights before making them. See Faust, 853
+F.3d at 47-48. As discussed infra, Defendant did so waive his rights. The Court also notes that Defendant does not
+argue that the officers’ actions here constituted an illegal two-step interrogation. Even if he did, such an argument
+would fail under either test articulated in Missouri v. Seibert. See id. at 48-49 (discussing application of Seibert). See
+generally Missouri v. Seibert, 542 U.S. 600 (2004).
+
+
+                                                            6
+the defendant did not waive his rights.” United States v. Downs-Moses, 329 F.3d 253, 267 (1st
+
+Cir. 2003). “The government bears the burden of proving a valid waiver by a preponderance of
+
+the evidence.” Id. Here, the government has carried its burden.
+
+       “A defendant may waive his Miranda rights if the waiver is made voluntarily, knowingly,
+
+and intelligently.” United States v. Palmer, 203 F.3d 55, 60 (1st Cir. 2000) (citing Miranda, 384
+
+U.S. at 444). A waiver is voluntary if it is “the product of a free and deliberate choice rather than
+
+intimidation, coercion, or deception.” United States v. Bezanson-Perkins, 390 F.3d 34, 39 (1st
+
+Cir. 2004) (quoting Moran v. Burbine, 475 U.S. 412, 421 (1986)). “A waiver is knowing and
+
+intelligent when made with a full awareness of both the nature of the right being abandoned and
+
+the consequences of the decision to abandon it.” Id. (internal quotation marks omitted). “Both
+
+inquiries are judged based on the totality of the circumstances surrounding the interrogation.” Id.
+
+at 39-40 (internal quotation marks omitted).
+
+       As an initial matter, the government has demonstrated that there is no evidence of
+
+intimidation, coercion, or deception. Therefore, it has carried its burden as to voluntariness. See
+
+United States v. Byram, 145 F.3d 405, 407 (1st Cir. 1998) (“only confessions procured by coercive
+
+official tactics should be excluded as involuntary”) (citing Colorado v. Connelly, 479 U.S. 157,
+
+167 (1986)). Second, the totality of the circumstances establishes by a preponderance of the
+
+evidence that Defendant’s waiver was knowing and intelligent. See Bezanson-Perkins, 390 F.3d
+
+at 39. During the interview, as noted above, Defendant was alert, responsive, and lucid. He
+
+answered questions coherently, asked some of his own, and ultimately terminated the conversation
+
+of his own accord, indicating that he knew he was within his right to do so. Regardless of the
+
+condition of Defendant at the time he was awoken by the officers, he no longer showed any sign
+
+of intoxication when he later waived his rights and spoke with Hill. Thus, the Court concludes
+
+
+
+
+                                                 7
+that Defendant had the capacity to, and did, knowingly and intelligently waive his rights before
+
+engaging in the interview. See United States v. Walters, No. CR. 01-37-PH, 2001 WL 1028370,
+
+at *4-5 (D. Me. Sept. 7, 2001) (rec. dec., aff’d Sept. 28, 2001) (finding the defendant’s waiver
+
+knowing and intelligent even where there was evidence that he was still intoxicated at the time of
+
+the waiver). Accordingly, the Court declines to suppress any of the statements Defendant made
+
+during his interview with Hill.
+
+       III.    CONCLUSION
+
+       For the foregoing reasons, Defendant’s Motion to Suppress (ECF No. 28) is GRANTED
+
+IN PART AND DENIED IN PART.
+
+
+
+       SO ORDERED.
+
+                                                    /s/ George Z. Singal
+                                                    United States District Judge
+
+Dated this 26th day of October, 2018.
+
+
+
+
+                                                8
+

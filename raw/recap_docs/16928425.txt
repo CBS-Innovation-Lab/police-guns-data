@@ -1,0 +1,612 @@
+Case 1:05-cr-00009-JAW Document 25 Filed 07/25/05 Page 1 of 12                     PageID #: 57
+
+
+
+                             UNITED STATES DISTRICT COURT
+
+                                     DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA,                    )
+                                             )
+       v.                                    )
+                                             )              Crim. No. 05-09-B-W
+STEVEN McCARTY,                              )
+                                             )
+               Defendant.                    )
+
+               RECOMMENDED DECISION ON MOTION TO SUPRRESS
+
+       Steven McCarty is charged in a two-count indictment with violating federal firearms
+
+laws. He has moved to suppress all evidence obtained during a search of his apartment on the
+
+Fourth Amendment grounds that (1) the officers conducting the search failed to execute the state
+
+warrant during daytime hours, as required by Maine law and (2) the officers failed to knock and
+
+announce as required by the warrant (Docket No. 17). In addition, McCarty moves to suppress
+
+statements on the Fifth Amendment ground that they were made during custodial interrogation
+
+without the benefit of a Miranda warning. I recommend that the court DENY the motion based
+
+on the following proposed findings of fact and legal analysis.
+
+                                   Proposed Findings of Fact
+
+       On July 10, 2004, at approximately 4:18 p.m., an officer with the Waterville Police
+
+Department took a complaint from a woman who had formerly been defendant Steve McCarty's
+
+domestic partner. The complainant stated that she was separated from McCarty, but had very
+
+recently visited McCarty's apartment to collect some of her belongings and observed marijuana
+
+plants growing on the premises. The complainant stated that McCarty had a sawed-off shotgun
+
+on the premises, had threatened her with the weapon and also that McCarty had previously been
+
+institutionalized for mental he alth reasons. The complaint was relayed to Patrol Supervisor
+Case 1:05-cr-00009-JAW Document 25 Filed 07/25/05 Page 2 of 12                                         PageID #: 58
+
+
+
+Charles Rumsey, who assigned Detective Daniel Goss to address the matter around 5:30 p.m.
+
+Detective Goss arrived at the station between 6:00 and 6:15, received a briefing and then spoke
+
+with the complainant and learned the information previously related. Detective Goss also spoke
+
+with the complainant's sister, who confirmed the information provided by the complainant.
+
+Detective Goss thereupon set about drafting a warrant to search McCarty's residence based on
+
+probable cause to suspect that McCarty's apartment contained contraband marijuana plants.
+
+There was no mention of the shotgun in the papers submitted to the complaint justice that
+
+evening. Meanwhile, Patrol Supervisor Rumsey called BATF Special Agent Brent McSweyn to
+
+inform him of the presence of the sawed-off shotgun on the premises. The content and timing of
+
+their communication was not provided, but it is evident that Special Agent McSweyn expressed
+
+an intent to participate in the search of McCarty's premises. 1
+
+         Detective Goss completed drafting his warrant at around 8:00 p.m., had it "approved" by
+
+a district attorney and obtained a complaint justice's signature at approximately 8:30 p.m.
+
+Although no plan had yet been devised for how the search warrant would be executed, it appears
+
+that officers scrambled to assemble in the parking lot of McCarty's apartment building and did so
+
+by approximately 8:56 p.m. 2 Present for the search were Patrol Supervisor Rumsey, Detective
+
+Goss, Officer Todd Burbank, Officer Shawn Weigelt, and an Officer Brame. 3 Special Agent
+
+McSweyn had yet to arrive and the officers went forward with the search conscious of the
+
+1
+          Detective Goss and Patrol Supervisor Rumsey both recalled that it was Rumsey who called Special Agent
+McSweyn. McSweyn recalled that it was Goss who called him. It also appears possible McSweyn was called
+around the same time Detective Goss was assigned to the case, possibly even before Detective Goss was instructed
+to pursue the matter, but the record is unclear as to when McSweyn was notified. According to McSweyn, he
+received the call in the late afternoon or early evening.
+2
+          Patrol Supervisor Rumsey gave the testimony that the officers assembled at 8:56. In order to do so his
+recollection was refreshed by reference to a Call for Service document kept in the ordinary course of department
+operations and the document itself was introduced in evidence. Defense counsel timely objected to this testimony
+on hearsay grounds. However, hearsay evidence is admissible in a hearing on a motion to suppress. Fed. R. Evid.
+104(a), 1101(d)(1). See also United States v. Matlock, 415 U.S. 164, 174 (1974).
+3
+          Officer Brame was not available to testify because he has been deployed to Iraq. Detective Go ss also
+indicated that an Officer Cloutier participated in the search. Officer Cloutier did not appear to testify at the hearing.
+
+
+                                                            2
+Case 1:05-cr-00009-JAW Document 25 Filed 07/25/05 Page 3 of 12                                  PageID #: 59
+
+
+
+impending 9:00 p.m. deadline imposed by the daytime state warrant. Defense counsel elicited
+
+testimony from Detective Goss to the effect that Goss did not feel it was imperative to execute
+
+the warrant that evening. Nevertheless, that was the course of action the officers chose to follow.
+
+Detective Goss also stated that he did not seek to obtain a nighttime, no-knock warrant because
+
+he was familiar with McCarty, knew him to be cooperative with police and had no fear for the
+
+officers' safety.
+
+        After assembling in the parking lot the officers proceeding through the large apartment
+
+complex to McCarty's second- floor apartment and formed a "stack" outside the door. Patrol
+
+Supervisor Rumsey instructed Officer Brame to knock and announce their presence and, because
+
+it was the first time Officer Brame executed a search warrant, instructed him on what to do.
+
+Officer Brame knocked on the door and announced, "Waterville police, search warrant."
+
+According to Officer Burbank, a male later identified as Thomas Merrill opened the door from
+
+inside before the officers entered, just as Officer Brame was announcing "search warrant."4 The
+
+officers thereupon entered the room with weapons drawn, beginning with Officer Burbank, who
+
+carried a shotgun. The premises were secured within two minutes of entry. According to
+
+Rumsey, the Call for Service document reflects that a "Code 4" was issued at 8:58 p.m., which
+
+would signify that the apartment was secured as of that time. Having gained entry and secured
+
+the apartment, the officers began searching within a minute or two of 9:00 p.m.
+
+        After the premises were secured, McCarty was taken, in handcuffs, into the living room
+
+of his apartment. As the officers searched he sat either on the couch or on a table located in front
+
+of it. Officer Burbank testified that he was instructed to stay with McCarty to ensure officer
+
+security and to make sure McCarty did not leave the premises. Officer Burbank also testified
+
+
+4
+        The testimony reflects that there was a slight pause between the knock and the announcement as Patrol
+Supervisor Rumsey relayed instructions to Officer Brame.
+
+
+                                                        3
+Case 1:05-cr-00009-JAW Document 25 Filed 07/25/05 Page 4 of 12                      PageID #: 60
+
+
+
+that before commencing this duty he returned to the parking lot to stow his shotgun in a police
+
+cruiser. There is no evidence that Burbank or any other officer brandished or trained a gun on
+
+McCarty while he waited in the living room. While Officer Burbank waited with McCarty,
+
+McCarty asked to smoke a cigarette. Officer Burbank accompanied McCarty outside of the
+
+apartment and may have removed McCarty's handcuffs at that time or else re-cuffed McCarty so
+
+that his hands were in front. It is also possible that the handcuffs had been removed earlier by
+
+Detective Goss in response to McCarty’s complaint about the handcuffs hurting him. In any
+
+event, Burbank remained in close proximity to McCarty, restricting his movement. As the
+
+search proceeded an officer located a short-barrel shotgun in a duffle bag behind the living room
+
+couch. Detective Goss was notified of the discovery and Goss came into the living room to see.
+
+Goss took up the bag, opened it and pulled out the shotgun in McCarty's presence. As he did so,
+
+McCarty began to talk. Specifically, McCarty volunteered that the gun was an antique and also
+
+stated something about either himself or his grandfather, from whom he received the gun, having
+
+worked as a mercenary soldier in several countries. During these statements McCarty’s
+
+movements were restrained as the handcuffs may or may not have been removed and he was in
+
+the immediate presence of at least two officers (Detective Goss and Officer Burbank).
+
+       Very shortly after these statements were made, Special Agent McSweyn arrived.
+
+McSweyn entered the living room and Detective Goss presented the shotgun to him in front of
+
+where McCarty was seated. McSweyn took out a tape measure and measured the shotgun's
+
+barrel. While the gun was being presented to McSweyn or while he was measuring it, and before
+
+McSweyn directed any questions to McCarty, McCarty stated that the shotgun was an antique,
+
+that it was his, and that it was "an old peacemaker."
+
+
+
+
+                                                 4
+Case 1:05-cr-00009-JAW Document 25 Filed 07/25/05 Page 5 of 12                                       PageID #: 61
+
+
+
+         Based on the barrel's length, McSweyn determined that the shotgun was illegal.
+
+However, he decided not to arrest McCarty that night and notified McCarty that he was not
+
+under arrest, was free to leave and did not have to answer any questions. McCarty stated that he
+
+understood what McSweyn was saying and continued to be talkative all the same. McSweyn
+
+then directed some questions at McCarty. According to McSweyn, he decided there was no need
+
+to give McCarty a Miranda warning because McCarty was no longer in custody at that time.
+
+McCarty then stated in response to questions that he had received the shotgun from his
+
+grandfather, that he had not registered it, that the barrel was its current length when he first
+
+obtained the gun, that he had cut down the stock in order to be better able to shoot it one- handed,
+
+that he had fired the shotgun and that it was in working order. Special Agent McSweyn
+
+remained on the premises for about 30 minutes and left before the Waterville police officers,
+
+who remained on the premises until 10:35 p.m.
+
+                                                     Discussion
+
+         McCarty's motion to suppress raises three issues: (1) whether the execution of the
+
+daytime state warrant between the hours of 8:58 p.m. and 10:35 p.m. violated his Fourth
+
+Amendment rights; (2) whether the officers violated the knock and announce rule; and (3)
+
+whether the officers subjected him to custodial interrogation without the benefit of a Miranda
+
+warning. 5 I address each issue in turn.
+
+
+
+5
+          During the hearing McCarty attempted to interject a new issue by pursuing a line of questioning that was
+designed to determine whether the state warrant was really a sham federal warrant. However, I sustained an
+objection by the government and ruled that he could not pursue this line of questioning because he had never
+identified this issue as one of the bases for which he sought to suppress evidence. McCarty argued that the existence
+of the issue was only made apparent during the hearing, but I found that the facts giving rise to any such argument
+were fairly apparent from the record (police reports) and the issue should have been raised prior to the hearing, at the
+very latest in a reply brief filed after the Government’s response. That the issue was identifiable from the facts is
+demonstrated by the government's response to McCarty's motion, in which it asserted, "The Government agrees with
+the Defendant that the warrant in this case was state in character." (Go v't Resp. at 4.)
+
+
+
+                                                           5
+Case 1:05-cr-00009-JAW Document 25 Filed 07/25/05 Page 6 of 12                        PageID #: 62
+
+
+
+A.     The timing of the execution of the search warrant does not warrant the suppression
+       of evidence.
+
+       McCarty argues that the search of his premises was unconstitutional because the search
+
+was commenced on or about 9:00 p.m. and continued until 10:35 p.m. According to McCarty,
+
+the search "for all intents and purposes was a nighttime search" because it commenced only
+
+minutes before the expiration of daytime hours, as defined by Maine law. (Mot. to Suppress at 3,
+
+Docket No. 17.) Maine law defines daytime, for purposes of executing a search warrant, as the
+
+hours between 7:00 a.m. and 9:00 p.m. Me. R. Crim. P. 41(h) (West 2004). The warrant itself
+
+read: "This warrant shall be executed between the hours of 7:00 AM and 9:00 PM . . . ." (Search
+
+Warrant at 3, Docket No. 19, Elec. Attach. 1.) McCarty fails to cite any precedent supportive of
+
+his proposition. For its part, the government has identified a number of decisions on point which
+
+reflect a general consensus that execution of a daytime search warrant is not rendered
+
+unreasonable simply because the search extends late into the evening hours, so long as the search
+
+is commenced within the timeframe established by the relevant law. See, e.g., United States v.
+
+Balsamo, 468 F. Supp. 1363, 1391 (D. Me. 1979) ("Searches which begin during daytime and
+
+continue into the night are permissible, at least where no invasion of privacy or prejudice has
+
+been shown."); United States v. Bugard, 551 F.2d 190, 193 (8th Cir. 1976) ("We see no merit in
+
+suppressing the fruits of the search simply because the search was still in progress at 10:00 p.m.
+
+and was not completed before 11:00 p.m. . . . Searches which begin during daytime and continue
+
+into the night have been held not to violate the rule.") (citations omitted). In addition to these
+
+cases, the Maine Supreme Court has also ruled that it is not a Fourth Amendment violation for
+
+officers to continue searching a premises beyo nd the 9:00 p.m. timeframe prescribed by Maine
+
+Rule of Criminal Procedure 41. State v. Sargent, 2005 ME 78, ¶¶ 8-12, 875 A.2d 125, 127-28
+
+(concluding that search commenced at 5 p.m. and ended at 11:00 p.m. did not generate a Fourth
+
+
+
+                                                  6
+Case 1:05-cr-00009-JAW Document 25 Filed 07/25/05 Page 7 of 12                       PageID #: 63
+
+
+
+Amendment concern because police did not stay any longer than necessary to complete the
+
+search, they stayed only until 11:00, they did not "intrude upon or frighten the residents by a late
+
+night entry" and the defendant failed to demonstrate any prejudice from the fact that the search
+
+lasted beyond 9:00 p.m.). Although in this case the officers commenced their search at the very
+
+last minute available to them in order to conform the ir conduct to the strictures imposed by the
+
+state warrant, there has been no showing in this case of any heightened invasion of privacy or
+
+extra prejudice by virtue of the timing of the officers' entry. Indeed, the circumstances reflect
+
+that the door was opened by an occupant and that everyone within the apartment was up and
+
+about when entry was gained. As defense counsel was unable to controvert, depending on the
+
+resident's "life style," a 7:00 a.m. entry by police into a home could prove far more invasive of
+
+personal privacy than one occurring at 9:00 p.m. Finally, the relevant standard for determining
+
+the admissibility of evidence obtained during this search is supplied by federal law, not state law.
+
+United States v. Watson, 61 Fed. Appx. 514, 520 (10th Cir. 2003) (unpublished opinion)
+
+("[E]ven if the search was conducted during the 'nighttime' under Utah law, federal constitutional
+
+requirements govern admissibility in federal court of evidence seized under a search warrant
+
+entirely state in character.") (citing United States v. Gibbons, 607 F.2d 1320, 1325 (10th Cir.
+
+1979)). This search was commenced well within the federal guideline supplied by federal Rule
+
+41(h) and extended only an hour beyond the guideline. More significantly, there does not appear
+
+to be any constitutional standard "that forbids continuing a search at night, at least when doing so
+
+is reasonable." United States v. Young, 877 F.2d 1099, 1105 (1st Cir. 1989). Under the
+
+circumstances presented there was nothing unreasonable about the officers' decision to knock
+
+and announce between 8:56 and 8:57 p.m. or to commence searching the apartment at 8:58 p.m.
+
+
+
+
+                                                 7
+Case 1:05-cr-00009-JAW Document 25 Filed 07/25/05 Page 8 of 12                     PageID #: 64
+
+
+
+B.      The knock and announce rule is not implicated in this case.
+
+        The second contention in McCarty's motion is that "discovery makes unclear whether the
+
+executing officers knocked or announced their presence before making entry." (Mot. to Suppress
+
+at 7.) The officers' testimony reflects and I have found that the officers did knock and announce
+
+and that an occupant of the apartment actua lly came to open the door before the police entered.
+
+Accordingly, there is no Fourth Amendment issue in this case related to the knock and announce
+
+rule.
+
+C.      McCarty was not subjected to custodial interrogation.
+
+        The third and final argument made by McCarty is that the statements he made to the
+
+officers and to Special Agent McSweyn should be suppressed because they were the product of
+
+custodial interrogation, or its "functional equivalent," and he was never provided with a Miranda
+
+warning. (Mot. to Suppress at 7-8.) In its responsive memorandum, the government concedes
+
+that McCarty made some statements while he was handcuffed and in custody, but argues that
+
+these statements were not a product of any interrogation. (Gov't Resp. at 11, Docket No. 19.)
+
+According to the government, McCarty was no longer handcuffed when Special Agent
+
+McSweyn was in his presence and had been informed that he need not answer any of McSweyn's
+
+questions. As for these later statements, the government argues they were not the product of a
+
+custodial environment and, therefore, a Miranda warning was not needed and the responses
+
+provided by McCarty were voluntary. (Id. at 11-12.)
+
+        Because McCarty was not administered a prophylactic Miranda warning during the
+
+search of his premises, his motion to suppress would succeed if he were able to demonstrate that
+
+he was subjected to custodial interrogation. In order to do so, McCarty would have to prove that
+
+he was "in custody" when he made the statements he would have the court suppress and that the
+
+
+
+
+                                                8
+Case 1:05-cr-00009-JAW Document 25 Filed 07/25/05 Page 9 of 12                       PageID #: 65
+
+
+
+statements were the product of interrogation or its "functional equivalent." United States v.
+
+Lopez, 380 F.3d 538, 545 (1st Cir. 2004). For purposes of the Fifth Amendment, "in custody"
+
+means that the defendant has been formally arrested or has had his freedom of movement
+
+restrained to the degree associated with a formal arrest. United States v. Ventura, 85 F.3d 708,
+
+710 (1st Cir. 1996). Whether the restraint on movement is sufficient to rise to the level of an
+
+arrest depends on the objective circumstances and how they would be perceived by a reasonable
+
+person standing in the shoes of the suspect. Id. at 711. "Relevant circumstances include whether
+
+the suspect was questioned in familiar or at least neutral surroundings, the number of law
+
+enforcement officers present at the scene, the degree of physical restraint placed upon the
+
+suspect, and the duration and character of the interrogation." Id. (quotation marks and citation
+
+omitted). As for the "functional equivalent" of interrogation, the standard is whether "any words
+
+or actions on the part of the police [were] reasonably likely to elicit an incriminating response
+
+from the suspect." Id. (quoting Rhode Island v. Innis, 446 U.S. 291, 301 (1980)). Statements
+
+made "freely and voluntarily without any compelling influences" are admissible in evidence.
+
+Miranda v. Arizona, 384 U.S. 436, 478 (1965).
+
+       a.      The statements made prior to McSweyn's arrival were not the product of
+               interrogation.
+
+       The government concedes that the statements made by McCarty to Detective Goss when
+
+Goss opened the duffle bag in McCarty's presence were made while McCarty was in police
+
+custody. However, those statements were not the product of interrogation or its functional
+
+equivalent. The evidence reflects only that Detective Goss pulled the shotgun out in McCarty's
+
+view; there is no evidence that Goss made any statements as he did so or that he even looked to
+
+McCarty for an explanation. These circumstances are not functionally equivalent to
+
+interrogation and, therefore, should not be suppressed.
+
+
+
+                                                 9
+Case 1:05-cr-00009-JAW Document 25 Filed 07/25/05 Page 10 of 12                       PageID #: 66
+
+
+
+       b.      The statements made in McSweyn's presence prior to being told he was not under
+               arrest, was free to leave and need not answer any questions were also not the
+               product of interrogation.
+
+       Prior to informing McCarty that he was not under arrest, was free to leave and did not
+
+have to answer any questions, Special Agent McSweyn measured the barrel of the shotgun in
+
+McCarty's presence. At the time, McCarty was no longer in handcuffs. However, McCarty was
+
+also now in the immediate presence of at least three officers of the law, including a newly arrived
+
+ATF agent whom Officer Burbank described as sufficiently imposing to make Burbank feel less
+
+concerned about the fact that McCarty was no longer in handcuffs. On balance, a reasonable
+
+person standing in McCarty's shoes would likely have felt very unsure about his freedom of
+
+movement at that time. Nevertheless, even if McCarty reasonably believed that he was still in
+
+custody, Agent McSweyn's action of measuring of the shotgun's barrel was not functionally
+
+equivalent to interrogation. See United States v. Genao, 281 F.3d 305, 308, 310-11 (1st Cir.),
+
+cert. denied, 537 U.S. 901 (2002) (holding that officer's presentation of numerous packets of
+
+heroin and related paraphernalia to the defendant, coupled with the comment, "We've got a
+
+problem here," was not the functional equivalent of interrogation). Accordingly, the "old
+
+peacemaker" statement should not be suppressed.
+
+       c.      The statements made in McSweyn's presence after being told he was not under
+               arrest, was free to leave and need not answer any questions were the product of
+               questioning, but not "custodial interrogation."
+
+       The final group of statements are those made by McCarty in response to questioning from
+
+McSweyn, but after being informed that he was not under arrest, was free to leave and need not
+
+answer any questions. The government asserts that these statements were not made in a
+
+custodial setting because "[a] reasonable person in the Defendant’s shoes would have understood
+
+that he had been given citations requiring him to appear at a later date, that the police were
+
+
+
+
+                                                 10
+Case 1:05-cr-00009-JAW Document 25 Filed 07/25/05 Page 11 of 12                                   PageID #: 67
+
+
+
+packing up and leaving, that he was not under arrest, that he was free to leave, and that he did not
+
+have to answer questions." (Gov't Resp. at 12.) The problem with this argument is that there
+
+was no evidentiary basis provided at the hearing for the court to find that McCarty received a
+
+citation or that all officers other than Special Agent McSweyn were packing up and leaving the
+
+apartment. In fact, the latter description of the scene appears to conflict with the evidence that
+
+McSweyn was the first person to leave the premises that night and that Officer Burbank
+
+remained with McCarty throughout the entire encounter. In any event, I still conclude that a
+
+reasonable person in McCarty's shoes would have understood that his freedom of movement was
+
+restored after having the handcuffs removed and being informed that he was not under arrest,
+
+was free to leave 6 and did not have to answer any questions. Accordingly, the statements
+
+McCarty made in response to Special Agent McSweyn's questions were not the product of a
+
+custodial environment and, therefore, the fact that the questions were not preceded by a Miranda
+
+warning does not give rise to a Fifth Amendment violation.
+
+                                                  Conclusion
+
+        For the reasons stated above, I RECOMMEND that the court DENY the defendant's
+
+motion to suppress (Docket No. 17).
+
+                                                    NOTICE
+
+                 A party may file objections to those specified portions of a magistrate
+        judge’s report or proposed findings or recommended decisions entered pursuant to
+        28 U.S.C. § 636(b)(1)(B) for which de novo review by the district court is sought,
+        together with a supporting memorandum, and request for oral argument before the
+        district judge, if any is sought, within ten (10) days of being served with a copy
+        thereof. A responsive memorandum and any request for oral argument before the
+        district judge shall be filed within ten (10) days after the filing of the objection.
+
+
+
+6
+          Although the occupant of a residence might not have any desire to "leave" the premises, a reasonable
+person under these circumstances would have understood that he was free to move about the apartment without
+restriction.
+
+
+                                                        11
+Case 1:05-cr-00009-JAW Document 25 Filed 07/25/05 Page 12 of 12                       PageID #: 68
+
+
+
+              Failure to file a timely objection shall constitute a waiver of the right to de
+       novo review by the district court and to appeal the district court’s order.
+
+
+
+                                              /s/ Margaret J. Kravchuk
+                                              U.S. Magistrate Judge
+Dated: July 25, 2005
+
+
+
+
+                                                 12
+

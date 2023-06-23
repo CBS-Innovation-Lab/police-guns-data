@@ -1,0 +1,316 @@
+                            UNITED STATES DISTRICT COURT
+                                 DISTRICT OF MAINE
+
+ARIEN L’ITALIEN,                          )
+                                          )
+              Petitioner,                 )
+                                          )
+       v.                                 )        2:12-cr-00043-NT
+                                          )        2:16-cv-00291-NT
+UNITED STATES OF AMERICA,                 )
+                                          )
+              Respondent                  )
+
+            RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+       In this action, Petitioner Arien L’Italien moves, pursuant to 28 U.S.C. § 2255, to
+
+vacate, set aside or correct his sentence. (Motion, ECF No. 37.) In 2012, following a guilty
+
+plea, Petitioner was convicted of assault of a federal officer, possession of firearms as a
+
+felon, and use of a firearm in furtherance of a crime of violence; he was sentenced to a
+
+total prison term of 220 months. (Judgment, ECF No. 31 at 1-2.) Petitioner did not appeal
+
+from the conviction or the sentence.
+
+       Petitioner asserts a claim pursuant to Johnson v. United States, --- U.S. ---,
+
+135 S. Ct. 2551 (2015). (Motion at 1.)        Following a review of Petitioner’s motion, the
+
+Government’s request for dismissal, and the record, I recommend the Court grant the
+
+Government’s request to dismiss Petitioner’s section 2255 motion.
+
+               I. FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+       Petitioner was convicted of assault of a federal officer, 18 U.S.C. § 111(a), (b)
+
+(Count 1); possession of firearms as a felon, 18 U.S.C. § 922(g)(1) (Count 2); and use of a
+firearm during the commission of a federal crime of violence, 18 U.S.C. § 924(c)(1)(A)(iii)
+
+(Count 3).1 (Judgment at 1.)
+
+          The Court found the sentencing guidelines calculation as follows: the base offense
+
+level was 20, pursuant to USSG § 2K2.1(a)(4)(A), based on a 2008 Maine conviction of
+
+assault of an officer, 17-A M.R.S. 752-A(1)(B); six levels were added, pursuant to
+
+USSG § 3A1.2(c)(1); and three levels were subtracted, pursuant to USSG 3E1.1.
+
+(Sentencing Tr., ECF No. 51 at 52.) The Court found a criminal history category of V,
+
+which, combined with the total offense level of 23, resulted in a guidelines range of
+
+204-225 months. (Id. at 52-53.) The Court found no basis to justify a departure from the
+
+sentencing guidelines range. (Id. at 53-54.)
+
+          The Court considered the sentencing factors, pursuant to 18 U.S.C. § 3553; it noted
+
+Petitioner was “a very violent young man,” based on his criminal history; and it focused
+
+particularly on the need to protect the public. (Id. at 55-60.) The Court sentenced Petitioner
+
+to prison terms of 100 months each on Counts 1 and 2, to run concurrently; and 120 months
+
+on Count 3, to run consecutively to Counts 1 and 2, for a total prison sentence of 220
+
+months. (Judgment at 2.) The prison terms were to be followed by supervised release
+
+terms of three years on Counts 1 and 2, and five years on Count 3, with all supervised
+
+release terms to run concurrently. (Judgment at 3.)
+
+          Petitioner filed a pro se section 2255 motion on June 13, 2016, in which motion he
+
+included a Johnson claim and a request for counsel. (Pro Se Motion, ECF No. 35.) Counsel
+
+
+
+1
+    Title 18 U.S.C. § 924(c)(1)(A)(iii) provides a minimum 10-year prison term if the firearm was discharged.
+
+                                                       2
+was appointed to represent Petitioner with respect to the Johnson claim.           (Order,
+
+ECF No. 36.) Petitioner, represented by counsel, filed a motion for relief under Johnson.
+
+(Motion, ECF No. 37.) Following the Court’s order to show cause, Petitioner agreed the
+
+operative motion is the motion filed at ECF No. 37, and the Court terminated without
+
+prejudice the pro se motion as unnecessary. (Orders, ECF Nos. 40, 43.)
+
+      Petitioner argued in the section 2255 motion, which was filed before the Supreme
+
+Court decided Beckles v. United States, --- U.S. ---, 137 S. Ct. 886 (2017), that he was
+
+entitled to relief under Johnson from the USSG § 2K2.1 increase in the base offense level
+
+in the sentencing guidelines calculation. (Motion at 1.) Petitioner also argued, based on
+
+Johnson, that the section 924(c) conviction (Count 3) should be vacated. (Id.)
+
+                                    II. DISCUSSION
+
+      In Johnson, the statute at issue was the Armed Career Criminal Act,
+
+18 U.S.C. § 924(e) (ACCA), which imposes a 15-year mandatory minimum prison term
+
+when a defendant is convicted of a violation of 18 U.S.C. § 922(g) and has three previous
+
+convictions, committed on separate occasions, “for a violent felony or a serious drug
+
+offense, or both.” 135 S. Ct. at 2555-57. Section 924(e)(2)(B) defines the term “violent
+
+felony” and provides:
+
+      [T]he term “violent felony” means any crime punishable by imprisonment
+      for a term exceeding one year, . . . that—
+
+      (i)    has as an element the use, attempted use, or threatened use of physical
+      force against the person of another; or
+
+      (ii)    is burglary, arson, or extortion, involves use of explosives, or
+      otherwise involves conduct that presents a serious potential risk of physical
+      injury to another.
+
+                                            3
+Section 924(e)(2)(B)(i) is known as the “force” clause or the “elements” clause;
+
+the provision of section 924(e)(2)(B)(ii) that references burglary, arson, extortion, and the
+
+use of explosives is known as the “enumerated offenses” clause; the remainder of section
+
+924(e)(2)(B)(ii), i.e., the provision “or otherwise involves conduct that presents a serious
+
+potential risk of physical injury to another,” is known as the “residual” clause.
+
+United States v. Starks, 861 F.3d 306, 314 (1st Cir. 2017); United States v. Edwards,
+
+857 F.3d 420, 422-23 & n.2 (1st Cir. 2017).
+
+        In Johnson, the Court held the residual clause unconstitutionally vague.
+
+135 S. Ct. at 2555-57. The Court left intact the force clause and the enumerated offenses
+
+clause of section 924(e)(2)(B): “Today’s decision does not call into question application
+
+of the Act to the four enumerated offenses, or the remainder of the Act’s definition of a
+
+violent felony.” 135 S. Ct. at 2563.2
+
+        In Beckles, the Supreme Court held that Johnson does not apply to the
+
+“identically-worded” residual-clause portion of the definition of “crime of violence” in the
+
+advisory sentencing guidelines, i.e., the guidelines as applied after United States v. Booker,
+
+543 U.S. 220, 233 (2005) (concluding the guidelines must be considered advisory rather
+
+than mandatory).3 Beckles, 137 S. Ct. at 890, 894-95. Petitioner’s Johnson claim based on
+
+the sentencing guidelines calculation thus fails.
+
+
+2
+  In Welch v. United States, --- U.S. ---, 136 S. Ct. 1257, 1268 (2016), the Supreme Court held that
+Johnson v. United States, --- U.S. ---, 135 S. Ct. 2551 (2015), “announced a substantive rule that has
+retroactive effect in cases on collateral review.”
+3
+ In his reply, Petitioner acknowledged that following the Supreme Court’s decision in Beckles v.
+United States, --- U.S. ---, 137 S. Ct. 886 (2017), the claim that Petitioner was entitled to relief under
+
+                                                    4
+       The remaining issue is whether the offense of assault of a federal officer, pursuant
+
+to 18 U.S.C. § 111(a) and (b), qualifies as a “crime of violence” for purposes of
+
+18 U.S.C. § 924(c).
+
+       Title 18 U.S.C. § 924(c) imposes mandatory minimum firearms-related sentence
+
+enhancements when a defendant’s federal offense of conviction is a “crime of violence” or
+
+a “drug trafficking crime.” Section 924(c)(3) defines “crime of violence” and provides:
+
+       For purposes of this subsection, the term “crime of violence” means an
+       offense that is a felony and –
+
+       (A) has as an element the use, attempted use, or threatened use of physical
+       force against the person or property of another, or
+
+       (B) that by its nature, involves a substantial risk that physical force against
+       the person or property of another may be used in the course of committing
+       the offense.
+
+       For purposes of section 924(c), the “crime of violence” at issue was Petitioner’s
+
+conviction of assault of a federal officer, 18 U.S.C. § 111(a) and (b). Section 111 provides:
+
+       (a)     In general. —Whoever—
+
+       (1)    forcibly assaults, resists, opposes, impedes, intimidates, or interferes
+       with any person designated in section 1114 of this title while engaged in or
+       on account of the performance of official duties; or
+
+       (2)    forcibly assaults or intimidates any person who formerly served as a
+       person designated in section 1114 on account of the performance of official
+       duties during such person’s term of service,
+
+       shall, where the acts in violation of this section constitute only simple assault,
+       be fined under this title or imprisoned not more than one year, or both, and
+       where such acts involve physical contact with the victim of that assault or the
+
+
+
+Johnson from the Court’s finding of a base offense level of 20, pursuant to USSG § 2K2.1(a)(4)(A), was
+no longer viable. (Reply, ECF No. 56 at 3; Sentencing Tr., ECF No. 51 at 52.)
+
+                                                  5
+       intent to commit another felony, be fined under this title or imprisoned not
+       more than 8 years, or both.
+
+       (b)    Enhanced penalty.--Whoever, in the commission of any acts
+       described in subsection (a), uses a deadly or dangerous weapon (including a
+       weapon intended to cause death or danger but that fails to do so by reason of
+       a defective component) or inflicts bodily injury, shall be fined under this title
+       or imprisoned not more than 20 years, or both.
+
+       In United States v. Taylor, 848 F.3d 476 (1st Cir. 2017), the First Circuit held that
+
+the “enhanced version” of the offense of assault of a federal officer that occurs when the
+
+offense is committed with a deadly or dangerous weapon, pursuant to section 111(b),
+
+constitutes a violent felony under the force clause of section 924(c):
+
+       As we recently observed in assessing Massachusetts’ Assault with a
+       Dangerous Weapon statute: “the harm threatened by an assault is far more
+       violent than offensive touching when committed with a weapon that is
+       designed to produce or used in a way that is capable of producing serious
+       bodily harm or death. As a result, the element of a dangerous weapon imports
+       the ‘violent force’ required by Johnson into the otherwise overbroad simple
+       assault statute.” United States v. Whindleton, 797 F.3d 105, 114
+       (1st Cir. 2015), cert. dismissed, --- U.S. ---, 137 S.Ct. 23, 195 L.Ed.2d 896
+       (2016), and cert. denied, --- U.S. ---, 137 S.Ct. 179, 196 L.Ed.2d 147 (2016);
+       accord United States v. Hudson, 823 F.3d 11, 18 (1st Cir. 2016).
+       The same logic applies here. It is possible to commit simple assault under
+       § 111(a) without using violent force. But, this enhancement necessarily
+       requires the use or threat of force “capable of causing physical pain or injury
+       to another.” [Johnson v. United States, 559 U.S. 133, 140 (2010)]. Even if
+       simple assault under § 111(a) does not require violent force, this enhanced
+       version does.
+
+Taylor, 848 F.3d at 494.4
+
+       Similarly, here, based on Taylor, Petitioner’s conviction, under sections 111(a), (b),
+
+of assault of a federal officer is considered a crime of violence under the force clause of
+
+
+4
+  The Supreme Court’s decision in Johnson v. United States, 559 U.S. 133, 140 (2010) (sometimes referred
+to as “Johnson I”), concerned a different certiorari petitioner than the Court’s decision in Johnson v.
+United States, --- U.S. ---, 135 S. Ct. 2551 (2015) (sometimes referred to as Johnson II).
+
+                                                   6
+section 924(c). See id. at 491, 494. Petitioner’s contention that assault of a federal officer
+
+does not qualify as a crime of violence, therefore, fails.5
+
+                                         III. CONCLUSION
+
+        Based on the foregoing analysis, an evidentiary hearing is not warranted under
+
+Rule 8 of the Rules Governing Section 2255 Cases.                   I recommend the Court deny
+
+Petitioner’s motion for habeas relief under 28 U.S.C. § 2255. I further recommend that the
+
+Court deny a certificate of appealability pursuant to Rule 11 of the Rules Governing
+
+Section 2255 Cases because there is no substantial showing of the denial of a constitutional
+
+right within the meaning of 28 U.S.C. § 2253(c)(2).
+
+                                              NOTICE
+
+                A party may file objections to those specified portions of a magistrate
+        judge’s report or proposed findings or recommended decisions entered
+        pursuant to 28 U.S.C. § 636(b)(1)(B) for which de novo review by the district
+        court is sought, together with a supporting memorandum, and request for oral
+        argument before the district judge, if any is sought, within fourteen (14) days
+        of being served with a copy thereof. A responsive memorandum and any
+        request for oral argument before the district judge shall be filed within
+        fourteen (14) days after the filing of the objection.
+
+               Failure to file a timely objection shall constitute a waiver of the right
+        to de novo review by the district court and to appeal the district court’s order.
+
+                                                /s/ John C. Nivison
+                                                U.S. Magistrate Judge
+
+        Dated this 23rd day of October, 2018.
+
+
+
+
+5
+  Because Petitioner’s claim fails on the merits, there is no need to address the Government’s procedural
+arguments.
+
+                                                   7
+

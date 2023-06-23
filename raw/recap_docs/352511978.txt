@@ -1,0 +1,757 @@
+Case 1:22-cr-00034-MSM-PAS Document 33 Filed 06/09/23 Page 1 of 15 PageID #: 267
+
+
+
+
+                        UNITED STATES DISTRICT COURT
+                      FOR THE DISTRICT OF RHODE ISLAND
+
+
+ __________________________________________
+                                           )
+ UNITED STATES OF AMERICA                  )
+                                           )
+                   v.                      )           No. 1:22-CR-00034-MSM-PAS
+                                           )
+ MIGUEL E. PAVAO,                          )
+                                           )
+ __________________________________________)
+
+
+
+                              MEMORANDUM & ORDER
+
+
+ Mary S. McElroy, United States District Judge.
+
+       Miguel E. Pavao was indicted on March 16, 2022, for possession of a firearm
+
+ after a previous felony conviction. The firearm was seized during a search of his
+
+ vehicle undertaken after a traffic stop for swerving between lanes. Mr. Pavao moved
+
+ to suppress the firearm as the product of an unlawful frisk of his person during an
+
+ unlawfully prolonged detention on the highway. The Court held an evidentiary
+
+ hearing on May 15, 2023, at which Warwick Police Officer Connor R. Bemis, the
+
+ officer responsible for the stop and frisk, testified. Based on Officer Bemis’ testimony,
+
+ after hearing the arguments of counsel, and reaching conclusions on the mixed
+
+ questions of law and fact presented, the Court GRANTS Mr. Pavao’s Motion to
+
+ Suppress the firearm (ECF No. 18), all testimony about the firearm, the marijuana
+
+ found by the police after a call for backup was made and any statements made by Mr.
+
+ Pavao after that call.
+
+                                            1
+Case 1:22-cr-00034-MSM-PAS Document 33 Filed 06/09/23 Page 2 of 15 PageID #: 268
+
+
+
+
+                                      I.     FACTS
+
+          The Court finds the testimony of Officer Bemis both straightforward and
+
+ truthful and the facts found are based on his testimony. At 7:53 p.m. on February 6,
+
+ 2022, Officer Bemis stopped the car Mr. Pavao was driving because it was swerving.
+
+ The vehicle stopped promptly when the cruiser’s lights were activated. A license plate
+
+ check conducted as the officer pulled over came back negative for stolen vehicle. The
+
+ officer then approached the passenger side of the car. Mr. Pavao was alone in the
+
+ vehicle. Mr. Pavao, compliant and cooperative throughout the incident, produced a
+
+ license and registration. 1    Almost immediately, the officer noticed the odor of
+
+ marijuana.      Mr. Pavao’s hand was shaking, and he was chain-smoking cigarettes.
+
+ Officer Bemis described the ensuing conversation this way: “I had asked him why he
+
+ was swerving originally, and he said he had been reaching around or messing around
+
+ with stuff inside the vehicle. He also informed me he had smoked a marijuana joint
+
+ earlier in the day and was tired.” (Tr. at 11.) 2 The officer noticed residue on the
+
+ floorboard, which Mr. Pavao identified as “marijuana crumbs.” (Tr. at 43.)
+
+          At 7:55 p.m. – just two minutes after pulling the Pavao car over — Officer
+
+ Bemis called for backup because he had decided to search the vehicle for additional
+
+ contraband, and it was Warwick’s practice not to permit searches by officers who were
+
+ alone. He testified that he “radioed for back up within a minute or two of [arriving
+
+
+
+ 1 The officer testified he did not want to leave Mr. Pavao in order to go back to the
+ cruiser to verify the license and registration. He acknowledged he had the ability to
+ make those checks from his portable radio, but he chose not to do so.
+
+ 2   The transcript has been filed with the Court.
+                                             2
+Case 1:22-cr-00034-MSM-PAS Document 33 Filed 06/09/23 Page 3 of 15 PageID #: 269
+
+
+
+
+ at the passenger window],” Tr. at 11, which is consistent with the call for backup
+
+ coming just two minutes after he radioed dispatch that he was stopping a vehicle. At
+
+ about the same time, he testified, he saw Mr. Pavao reach down to the waistband of
+
+ his pants as if to adjust his pants, “fidgeting with the waistline.” (Tr. at 15.) This
+
+ was a gesture that Mr. Pavao repeated over the course of the seven or so minutes
+
+ until another officer responded and Mr. Pavao was taken out of his vehicle. During
+
+ that interval, while waiting for backup, Mr. Pavao pulled a baggie that appeared to
+
+ contain marijuana out of his jacket, declaring something to the effect of “now you
+
+ don’t need to search my car, here you go, something along those lines.” 3 (Tr. at 16.)
+
+ As soon as Mr. Pavao was out of the vehicle, he was patted down, revealing a .40
+
+ caliber semi-automatic pistol. The gun was seized, and he was arrested for possession
+
+ of the weapon.
+
+       Officer Bemis made it evident several times in his testimony that he could not
+
+ recall when he saw Mr. Pavao fumble with his waistband in relation to the time he
+
+ radioed for backup. Both events are important. It is the call for backup that indicates
+
+ beyond doubt that the stop was extended for the purpose of searching the vehicle for
+
+ contraband. The officer testified to that, and it is consistent with what he said was
+
+ Warwick’s practice not to allow solo officers to conduct searches of vehicles. Second,
+
+ it is the fumbling with the waistband that the government rests on to establish an
+
+ objective fear for officer safety such that the frisk would be lawful under Terry v.
+
+
+
+ 3A second similar baggie of marijuana was discovered hidden in the vehicle during a
+ subsequent full search of the car. The two baggies together weighed 1.1 oz.
+
+
+                                           3
+Case 1:22-cr-00034-MSM-PAS Document 33 Filed 06/09/23 Page 4 of 15 PageID #: 270
+
+
+
+
+ Ohio, 392 U.S. 1, 21 (1968), and might serve as a basis for prolonging the stop. Officer
+
+ Bemis testified several times about the timing, consistently choosing the words, “[at
+
+ about] the same time.” (Tr. at 59.) But in response to the Court’s questioning, he
+
+ acknowledged that it was the odor of marijuana and the crumbs that caused him to
+
+ detain the car for a further search. 4
+
+                                    II.   ANALYSIS
+
+        Mr. Pavao puts forth two reasons why the seizure of the gun was
+
+ unconstitutional. First, he maintains that instead of simply giving him a citation for
+
+ erratic driving and permitting him to leave, the officer deliberately prolonged the stop
+
+ in order to conduct a search of the vehicle unrelated to the mission of the stop. This
+
+ would violate the proscriptions of Rodriguez v. United States, 575 U.S. 348, 350, 352
+
+ (2015), which mandates that “a police stop exceeding the time needed to handle the
+
+ matter for which the stop was made violates the Constitution’s shield against
+
+ unreasonable seizures,” unless the additional time is supported by “reasonable
+
+ suspicion” of another crime. Second, even if the stop were not unlawfully prolonged,
+
+ Mr. Pavao contends that the pat-down of his person violated Terry because it was not
+
+
+
+ 4      THE COURT: So the waistband touching wasn’t part of you asking for backup
+        to search the car. Your probable cause was the odor of marijuana and the
+        crumbs on the floor?
+
+        THE WITNESS: Originally, yes, and then it developed further.
+
+        THE COURT: Okay. But originally.
+
+        THE WITNESS: Originally, yes, your Honor.
+
+ (Tr. at 59.)
+                                            4
+Case 1:22-cr-00034-MSM-PAS Document 33 Filed 06/09/23 Page 5 of 15 PageID #: 271
+
+
+
+
+ supported by an objectively reasonable fear for the officer’s safety. United States v.
+
+ Harrington, 56 F.4th 195, 203-04 (1st Cir. 2022) (fear for safety is objective, not
+
+ subjective).
+
+          The burden here is on the government to justify, by a preponderance of the
+
+ evidence, 5 both the detention and the frisk.       Whenever a search or seizure is
+
+ performed without a warrant and on less than probable cause, “the government bears
+
+ the burden of proving that the seizure was sufficiently limited in its nature and
+
+ duration to satisfy the conditions of a Terry-type investigative stop.” United States
+
+ v. Acosta-Colon, 157 F.3d 9, 14 (1st Cir. 1998).
+
+          A. Prolonged Stop
+
+          Officer Bemis’ testimony left no doubt that as soon as he saw Mr. Pavao’s hands
+
+ shaking, smelled marijuana and saw crumbs on the floor, he made up his mind to
+
+ search the vehicle: he called for backup and everything that happened next occurred
+
+ only because he was waiting for backup to conduct the search. Because he had by
+
+ that time completed the mission of the stop – which was for the driving infraction of
+
+ swerving – the wait can be justified only by a reasonable suspicion that there was
+
+ additional marijuana in the car which exceeded the 1 oz. demarcation between a civil
+
+ and criminal violation. 6
+
+
+
+ 5   United States v. Matlock, 415 U.S. 164, 177 n.14 (1974).
+
+ 6 Rhode Island decriminalized marijuana in 2013. Ch. 12-221, amending R.I.G.L. §
+ 21-28-4.1(c)(2)(iii). While it remained against the law, the simple possession of less
+ than 1 oz. became a civil infraction. Id. A lawful stop rests upon a reasonable
+ suspicion “that the person apprehended is committing or has committed a criminal
+ offense.” Arizona v. Johnson, 555 U.S. 323, 326 (2009) (emphasis supplied). Thus,
+                                             5
+Case 1:22-cr-00034-MSM-PAS Document 33 Filed 06/09/23 Page 6 of 15 PageID #: 272
+
+
+
+
+       A seizure justified by the interest in issuing a ticket reaches the “unreasonable”
+
+ point “if it is prolonged beyond the time reasonably required to complete that
+
+ mission.” Illinois v. Caballes, 543 U.S. 405, 407 (2005). The brief questioning of Mr.
+
+ Pavao by Officer Bemis after he first approached the passenger window was
+
+ consistent with the stop for a traffic infraction. But nothing in those two minutes
+
+ gave reason to believe Mr. Pavao was committing another crime. Compare United
+
+ States v. Clark, 879 F.3d 1, 5 (1st Cir. 2018) (the three differing dates of birth given
+
+ by the driver led to outstanding warrants); United States v. Dunbar, 553 F.3d 48, 56
+
+ (1st Cir. 2009) (inconsistent answers given by driver while officers were writing out
+
+ the ticket revealed an expired license). Here, everything the officer learned in the
+
+ two minutes before he decided to hold the vehicle for a full search was consistent with
+
+ Mr. Pavao’s declaration that he had smoked a joint earlier in the day. That explained
+
+ the odor of marijuana and the crumbs on the floor. Officer Bemis testified directly
+
+ that he never put Mr. Pavao through a field sobriety test because he did not think he
+
+ was operating under the influence. Clearly the Officer accepted that the odor was
+
+ not connected to then-occurring use of marijuana, but to the past use that Mr. Pavao
+
+
+
+ cause to suspect a civil infraction may not support a constitutional stop. The
+ government defends the stop by pointing to the fact that possession of even residue
+ remained a federal offense. But Officer Bevis made it clear that he was considering
+ only a violation of state law; he testified that had Mr. Pavao had a medical marijuana
+ card pursuant to R.I.G.L. § 21-28.6-4, he would have let him go without conducting
+ a further search. Moreover, for every year since FY 2015, an appropriations rider has
+ prohibited the Department of Justice from using taxpayer funds to enforce federal
+ laws that conflict with state laws decriminalizing or legalizing marijuana, at least for
+ medical purposes. See e.g., Consolidated Appropriation Act, 2023, H.R. 2617 (117th
+ Congress).
+
+
+                                            6
+Case 1:22-cr-00034-MSM-PAS Document 33 Filed 06/09/23 Page 7 of 15 PageID #: 273
+
+
+
+
+ acknowledged. There was nothing at the time of the 7:55 p.m. call for backup to
+
+ indicate that Mr. Pavao possessed any additional marijuana or that, if he did, the
+
+ amount would exceed the 1 oz. that escalated a civil violation to a criminal offense.
+
+       Contrary to the government’s assertion, this case is unlike United States v.
+
+ Sanders, 248 F. Supp. 3d 339 (D.R.I. 2017), where another judge of this District
+
+ upheld a continued detention in order to search a vehicle for contraband. There, the
+
+ “totality of the circumstances” was fed by many factors not present here: in addition
+
+ to the odor of marijuana and admission of smoking earlier in the evening, the
+
+ defendant exhibited “furtive behavior when he moved from one seat to another while
+
+ the car was still in motion,” the driver was “firmly clenching the steering wheel,” he
+
+ was not simply nervous but “overly nervous,” there was an entire marijuana cigarette
+
+ in the ashtray, the defendant kept fiddling with a GPS application on his cellphone,
+
+ he “feign[ed] disinterest” in the interaction with the officer, and he was not wearing
+
+ a jacket on a cool night. Id. at 347. Even these observations alone did not necessarily
+
+ warrant prolonged detention: they justified the decision to “take a few minutes to
+
+ run the BCI/III checks,” and it was “the extensive histories of each of the vehicle’s
+
+ occupants” that provided enough support to hold the car in order to search it. Id. at
+
+ 347-48.
+
+       The Court does not disagree with the Sanders court that the odor of marijuana
+
+ is a relevant circumstance to be considered, along with others, in the determination
+
+ of whether in the “totality of circumstances” there is reasonable suspicion to believe
+
+ a crime is being committed. In Sanders there were numerous other factors; in this
+
+
+
+                                           7
+Case 1:22-cr-00034-MSM-PAS Document 33 Filed 06/09/23 Page 8 of 15 PageID #: 274
+
+
+
+
+ case, there are none but the crumbs on the floor which are also consistent with
+
+ smoking a joint earlier. 7   The government relies on United States v. Staula, 80 F.3d
+
+ 596, 602-03 (1st Cir. 1996). Staula indeed held that the mere odor of burnt marijuana
+
+ justifies a full search of a vehicle, pursuant to which the car can presumably be
+
+ detained. Staula was a 1996 case, nearly two decades before possession of small
+
+ amounts of marijuana became decriminalized. While this Court would not lightly
+
+ chart a course deviant from a First Circuit case, decriminalization puts the whole
+
+ “odor of marijuana” in a different light. A search of a vehicle requires probable cause
+
+ to believe criminal activity is “afoot.” The smell of burnt marijuana no more indicates
+
+ that an unlawful amount of marijuana is possessed than it does that only one joint is
+
+ in the car – or, more accurately, was in the car at the time it was smoked. Yet if there
+
+ is not reasonable suspicion of more than 1 oz. in the car at the time of this stop, there
+
+ was no criminal activity afoot at all.
+
+
+
+ 7
+  The Court finds United States v. Thompson, No. 12-10365, 2014 WL 108312 (D.
+ Mass. 2014), cited by the government, unpersuasive. That Court held that the odor
+ of marijuana justified a prolonged detention at a time when, according to the
+ government, small amounts of marijuana had been decriminalized. The Court is not
+ inclined to agree with Thompson for several reasons. First, for support, it cited
+ Flowers v. Fiore, 359 F.3d 24, 30-31 (1st Cir. 2004), but there was no marijuana, or
+ odor of marijuana, in the Flowers case. Flowers involved the constitutionality of a
+ stop, frisk and brief detention in a situation in which police received a report of a
+ threat to send two African-American men with guns to someone’s house, an
+ observation of two African-American men driving past the house in a small gray or
+ black vehicle, the stop of two men matching the description in a small gray vehicle
+ within a few minutes after the report, about a half mile away from the residence.
+ Second, the decision in Thompson to prolong the stop was made not on the odor of
+ marijuana alone, but “also when coupled with information about the [significant]
+ criminal histories of [the two occupants], …” which included “gangs and guns” for one
+ of them. Third, the Thompson opinion does not address, or even note, the impact of
+ decriminalization.
+                                             8
+Case 1:22-cr-00034-MSM-PAS Document 33 Filed 06/09/23 Page 9 of 15 PageID #: 275
+
+
+
+
+       Officer Bemis testified that it was his practice to search for additional
+
+ marijuana every time he found any marijuana at all, if the subject lacked a medical
+
+ marijuana card. 8 (Tr. at 62.) He justified it by saying he couldn’t know without
+
+ searching whether the suspect possessed an unlawful amount. Id. The law, however,
+
+ does not authorize a search because the officer “doesn’t know” whether a person
+
+ possesses contraband. That rationale, if allowed, would support a search of the
+
+ person, or the vehicle, of everyone who possessed the permitted and thoroughly
+
+ noncriminal amount of less than 1 oz. of marijuana. 9 “Reasonable suspicion” by its
+
+ very terms required Officer Bemis to have at minimum a suspicion of criminal
+
+ possession of marijuana, not simply a failure to have any idea whether Mr. Pavao
+
+ possessed a criminal quantity or not. Continued detention must be “independently
+
+ supported by individualized suspicion” of criminal activity. Rodriguez, 575 U.S. at
+
+ 357. The fact that Mr. Pavao’s hands were shaking, or that he appeared nervous,
+
+ adds nothing to the reasonable suspicion equation. It is not uncommon for those
+
+ stopped by police to exhibit nervousness. See United States v. Garcia, 53 F. Supp.
+
+ 502, 511 (D.N.H. 2014) (unlawful prolonging of stop based on defendant’s
+
+ nervousness and officer’s skepticism of his story that he and the passenger were on a
+
+ “test drive” to check out a car repair). “Nervousness is a common and entirely natural
+
+
+
+ 8 The officer in his testimony seemed to recognize the inconsistency between
+ assuming a possessor of marijuana who lacked a card might be carrying more than
+ the 1 oz. permitted, but not assuming a possessor of a card might be carrying more
+ than the quantity authorized by the card. (Tr. at 62-63.)
+
+ 9 Rhode Island has now gone further and legalized recreational marijuana. R.I.G.L.
+ § 21-28-4.01(c)(2)(iv), (v).
+                                           9
+Case 1:22-cr-00034-MSM-PAS Document 33 Filed 06/09/23 Page 10 of 15 PageID #: 276
+
+
+
+
+  reaction to police presence, …” United States v. McKoy, 428 F.3d 38, 40 (1st Cir.
+
+  2005). “A person stopped by the police is entitled to be nervous without thereby
+
+  suggesting he is armed and dangerous or, indeed, has anything to hide.” United
+
+  States v. Spinner, 475 F.3d 356, 360 (D.C. Cir. 2007). Mr. Pavao’s nervousness was
+
+  not accompanied by aggression or suspicious movements. See United States v. Orth,
+
+  873 F.3d 349, 352 (1st Cir. 2017) (prolonging detention was reasonable where
+
+  occupants exhibited abnormal nervousness, like “deer-in-the-headlights,” and the
+
+  driver would not open glove compartment or produce registration, would not identify
+
+  a “large black” object between his leg and the console, and became verbally
+
+  aggressive). Nor was it accompanied by an unwillingness to provide identification.
+
+  See United States v. Chaney, 584 F.3d 20, 26 (1st Cir. 2009) (reasonable suspicion to
+
+  prolong stop where, in addition to nervousness, the defendant gave implausible
+
+  answers raising a suspicion of having given a false name). Nor did Mr. Pavao
+
+  “adjusting” his waistband add anything. At that point, he had touched his waistband
+
+  only once and, indeed, Officer Bemis was already on his radio calling for backup,
+
+  having made the decision to hold the vehicle to search it.
+
+        Officer Bemis had no lawful basis to prolong the stop. 10 Mr. Pavao’s response
+
+  to the prolonged detention, of throwing out a baggie of marijuana, cannot therefore
+
+  be the basis of cause to continue to hold the vehicle for a further search.
+
+
+
+  10The parties have brought to the Court’s attention State v. Junjie Li, R.I. Super.,
+  K2-2019-1532A (ECF No. 18-2), currently pending on appeal in the Rhode Island
+  Supreme Court. In Junjie, a Rhode Island Superior Court justice, acknowledging the
+  national sea change of decriminalization and legalization of recreational marijuana,
+  and analyzing the effect of that transformation of the contraband landscape upon the
+                                             10
+Case 1:22-cr-00034-MSM-PAS Document 33 Filed 06/09/23 Page 11 of 15 PageID #: 277
+
+
+
+
+        B. The Frisk (pat-down)
+
+        Even if the prolonged detention were lawful, that is insufficient to justify the
+
+  frisk. United States v. Wetmore, 560 F. Supp. 3d 591, 601-02 (D.N.H. 2021), app. vol.
+
+  dism., No. 21-1449, 2021 WL 6101509 (1st Cir. Aug. 25, 2021) (“T]here must be a
+
+  separate analysis of whether the standard for pat-frisks has been met.”). The issue
+
+  here is whether the totality of circumstances would have caused a reasonable police
+
+  officer to fear for his safety, the standard for justifying a pat-down. United States v.
+
+  Sanchez, 817 F.3d 38, 42 (1st Cir. 2016) (“totality of circumstances.”); United States
+
+  v. Cardona-Vincente, 817 F.3d 823, 827 (1st Cir. 2016) (same). Officer Bemis never
+
+  articulated a belief that his safety was in jeopardy; he simply reported that he was
+
+  unsure what Mr. Pavao’s frequent touching of his waistband meant.              But the
+
+  standard is not what the arresting officer subjectively believes; it is the objective
+
+  question of what a reasonable officer would believe. United States v. Guerrero, 19
+
+  F.4th 547, 557 (1st Cir. 2021). The Court finds there were no circumstances here
+
+  prior to the frisk being carried out that would raise any suspicion that Mr. Pavao was
+
+  armed.
+
+        There was nothing in his speech or behavior that was aggressive or
+
+  threatening, from which one might infer he could be violent. On the contrary, he was
+
+
+
+
+  requirements of the Fourth Amendment, held that the odor of marijuana plus
+  nervousness does not provide a basis to prolong a traffic stop in order to conduct a
+  further search. Id. at 19. Junjie shares a factual similarity with this case: there,
+  the officer called for a drug-sniffing canine to respond to the scene, signaling the
+  conversion of the stop from a traffic violation to an investigation for something else.
+  Similarly, the call by Officer Bemis for backup had the same legal meaning.
+                                            11
+Case 1:22-cr-00034-MSM-PAS Document 33 Filed 06/09/23 Page 12 of 15 PageID #: 278
+
+
+
+
+  compliant, cooperative and, while nervous, not agitated. Officer Bemis testified “he
+
+  was very polite, no aggressive actions or anything.”         He was not suspected of
+
+  committing a violent crime, which itself would be reason to think he might be armed.
+
+  See United States v. Belin, 868 F.3d 43, 49 (1st Cir. 2017) (quoting United States v.
+
+  Scott, 270 F.3d 30, 41 (1st Cir. 2001)) (“[w]hen the officer suspects a crime of violence,
+
+  the same information that will support an investigatory stop will without more
+
+  support a frisk.”). There was nothing about the location in which he was stopped that
+
+  might indicate gang or other criminal activity. Compare United States v. Am, 564
+
+  F.3d 25, 30-31 (1st Cir. 2009) (officers also knew of defendant’s gang activity and
+
+  uncharacteristic behavior in location of known gang activity). Police had received no
+
+  information about him indicating he might be armed, as in United States v. Brake,
+
+  666 F.3d 800, 805 (1st Cir. 2011), where, in addition to suspicious conduct reaching
+
+  into or retrieving something from their van, the two men had been reported to be
+
+  engaging in menacing behavior with a gun by a resident in the house they were
+
+  apparently leaving. Mr. Pavao touching his waistband even several times was not a
+
+  threatening gesture, nor one indicative of a person with a weapon, although Officer
+
+  Bemis was concerned enough to tell Mr. Pavao to stop. The officer testified that a
+
+  suspect’s “rapidly staring, you know, at a particular target area multiple times” (Tr.
+
+  at 17) can be a sign of a weapon, but he testified that Mr. Pavao “target glanced his
+
+  waistband” only “at one point.” Id. He unhesitatingly put his hands on his head
+
+  when requested to do so. Officer Bemis testified that the “repeated motions for the
+
+  waistband” made him concerned, Tr. at 19, but that concern must be supported by
+
+
+
+                                             12
+Case 1:22-cr-00034-MSM-PAS Document 33 Filed 06/09/23 Page 13 of 15 PageID #: 279
+
+
+
+
+  specific behavior that would cause a reasonable officer to believe Mr. Pavao was
+
+  armed.
+
+        The Court recognizes the line of cases that rely on a presumption that those
+
+  who engage in drugs can be presumed to be armed. United States v. McCoy, 773 Fed.
+
+  Appx. 164, 165 (4th Cir. 2019) (per curiam). The Court finds that presumption
+
+  inappropriate here for several reasons. First, in many cases there are other indicia
+
+  of dangerousness. In McCoy itself, the officer knew the defendant had been twice
+
+  convicted previously of armed robbery. United States v. McCoy, No. 3:17-cr-00240-
+
+  MOC-DSC, 2018 WL 1144591, *1 (W.D.N.C. Mar. 2, 2018). Second, the First Circuit
+
+  has not relied on such a presumption. Very recently, in United States v. Harrington,
+
+  56 F.4th 195 (1st Cir. 2022), notwithstanding that the defendant appeared under the
+
+  influence of opioids and admitted he had drugs on his person, the Court examined
+
+  whether there were objective and particularized facts to support a reasonable
+
+  suspicion that Harrington was armed and dangerous. While the Court noted a
+
+  common association between drug transactions and weapons, it relied on
+
+  Harrington’s noncompliance with an order to place his hands on top of his head, his
+
+  motions instead toward his pocket, and his reaching back into the car for something
+
+  near the center console after he was removed from the vehicle. 11 Those specific and
+
+  articulable facts “would reasonably warrant the pat-frisk given fear for officer safety.”
+
+
+
+
+  11According to the district court, Harrington was also trying to reach for something
+  on the floor area. United States v. Harrington, 557 F. Supp. 3d 323, 335 (D.N.H.
+  2021).
+
+
+                                             13
+Case 1:22-cr-00034-MSM-PAS Document 33 Filed 06/09/23 Page 14 of 15 PageID #: 280
+
+
+
+
+  Id. at 204. In contrast here, even though by the time of the frisk Mr. Pavao had
+
+  touched his waistband several times, he complied with an order to place his hands on
+
+  his head, and he neither reached for any object nor even put his hand inside his
+
+  waistband as if to retrieve an object.
+
+        Third, such a presumption, if reasonable, attaches to “large-scale trafficking in
+
+  illegal drugs” – crimes that “are ‘associated with’” violence. Belin, 868 F.3d at 50. It
+
+  is the dealing in drugs that is associated with violence and weapons. Id. (noting the
+
+  connection to “street-dealer-level transactions, at least where the suspect also
+
+  appeared unusually anxious at the time of the stop.”).
+
+        Finally, the legitimacy of any presumption that a person who acknowledged
+
+  smoking a joint of marijuana earlier and who dropped residue on the car’s floorboards,
+
+  is armed and dangerous, must today be in question.            In 2013, Rhode Island
+
+  decriminalized the possession of less than 1 oz. of marijuana, held for personal
+
+  recreational use. Thus, persons in possession of small amounts of marijuana were
+
+  not, at the time of this incident, engaging in any criminal behavior at all. And as
+
+  recreational marijuana dispensaries have been licensed in nearby Massachusetts
+
+  since 2018, persons smoking a joint could not be presumed to have obtained their
+
+  marijuana through illicit means. Thus, employing a presumption that Mr. Pavao was
+
+  armed and dangerous simply from his personal marijuana use has no logic to
+
+  recommend it.
+
+
+
+
+                                            14
+Case 1:22-cr-00034-MSM-PAS Document 33 Filed 06/09/23 Page 15 of 15 PageID #: 281
+
+
+
+
+        Accepting the facts testified to by Officer Bemis, the Court finds there were no
+
+  circumstances justifying the frisk of Mr. Pavao and therefore GRANTS his Motion to
+
+  Suppress on that basis as well.
+
+
+        The lawful stop conducted by Officer Bemis was unlawfully prolonged from the
+
+  moment he called for backup and began to detain the vehicle in order to search for
+
+  marijuana. The frisk was unlawful as it was not based on facts that would cause a
+
+  reasonably prudent officer to fear for his safety. For both those reasons, or for either
+
+  independently, Mr. Pavao’s Motion to Suppress (ECF No. 18) is GRANTED.
+
+
+  IT IS SO ORDERED:
+
+
+
+
+  ____________________________________
+  Mary S. McElroy,
+  United States District Judge
+
+  Date: June 9, 2023
+
+
+
+
+                                            15
+

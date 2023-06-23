@@ -1,0 +1,957 @@
+Case 1:07-cr-00018-JAW Document 148 Filed 05/12/08 Page 1 of 18                                    PageID #: 845
+
+
+
+                                  UNITED STATES DISTRICT COURT
+                                       DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA                              )
+                                                      )
+         v.                                           )        CR-07-18-B-W
+                                                      )
+HORACE W. SALLEY III                                  )
+
+
+                       PARTIAL ORDER ON MOTIONS FOR NEW TRIAL
+
+         Following a three-day jury trial, Horace W. Salley III moved for a new trial, claiming that
+
+the prosecutor violated his Fifth Amendment guarantee against self incrimination by
+
+commenting on his decision not to testify. Although the Court finds that the prosecutor did
+
+inappropriately comment on the Defendant‟s failure to testify, the Court concludes that the
+
+Government established beyond a reasonable doubt that the prosecutorial error was harmless,
+
+and that her language affected neither the outcome of the trial, nor the fairness, integrity, or
+
+public reputation of the proceedings.
+
+I.       STATEMENT OF FACTS
+
+         A.       The Government’s Case – A Brief Overview
+
+         On the third day of trial, a jury found Horace W. Salley III guilty of possession of a
+
+firearm by a prohibited person, a violation of 18 U.S.C. § 922(g)(9).1 The Government‟s case
+
+focused on the whereabouts of a Bushmaster Model 17S Bullpup .223 caliber semi-automatic
+
+rifle, tracing it from its purchase at a firearms dealer in New Hampshire to an alleged sale to the
+
+Defendant in central Maine and finally to a bedroom closet in the Defendant‟s home in Smyrna
+
+1
+  Mr. Salley did not stipulate to his status as a prohibited person. See Old Chief v. United States, 519 U.S. 172, 174
+(1997); United States v. Leahy, 473 F.3d 401, 410 (1st Cir. 2007). Mr. Salley was convicted of assault on July 16,
+2003, under a generic misdemeanor assault statute. 17-A M.R.S.A. § 207-A. The Government presented proof that
+the assault was a domestic assault fitting within the definition of 18 U.S.C. § 921(a)(33)(A). It did so through the
+testimony of the victim, Heather Dupont. Whether the Government met its burden on this element of the crime is
+not an issue.
+Case 1:07-cr-00018-JAW Document 148 Filed 05/12/08 Page 2 of 18                     PageID #: 846
+
+
+
+Mills, Maine. In addition, the Government presented testimony of two witnesses who testified
+
+that they saw the Defendant in possession of a similar rifle in Plymouth, Maine during the late
+
+fall of 2005.
+
+       B.       The Theory of Defense
+
+       Mr. Salley did not testify. His defense consisted largely of the theory that Skyla Salley,
+
+his ex-wife, framed him. He contended that she had come penniless into their relationship, that
+
+he had money, which she coveted, and once she got his money, she aimed to use the criminal
+
+process to get rid of him and, thereby, keep her own children.
+
+                1.     A Complicated Tale
+
+       This complicated tale begins with the complex relationship between Mr. and Ms. Salley,
+
+a relationship that Ms. Salley testified was marked by her love and fear of the Defendant. Mr.
+
+and Ms. Salley began dating in May 2005; Ms. Salley had two children from a prior relationship
+
+and on June 13, 2005, she learned that she was pregnant by Mr. Salley. On October 16, 2005,
+
+the state of Maine Department of Human Services (DHS) removed her children from her home.
+
+Ms. Salley explained that the DHS workers believed Mr. Salley represented a threat to the
+
+children, based on allegations that he had physically abused one of his prior girlfriend‟s children.
+
+Ms. Salley acknowledged that DHS was forcing her, in effect, to choose between her boyfriend
+
+and her two older children. On December 13, 2005, Ms. Salley chose her children. She left Mr.
+
+Salley and checked into a women‟s shelter; on December 16, 2005, she obtained a temporary
+
+protection from abuse order against him.
+
+       After about a week at the shelter, however, Mr. Salley and Ms. Salley reconnected and
+
+she left the shelter to live with him. She admitted that if the DHS workers discovered that she
+
+had moved in with Mr. Salley, it was likely that when the baby was born, DHS would remove
+
+
+
+                                                 2
+Case 1:07-cr-00018-JAW Document 148 Filed 05/12/08 Page 3 of 18                   PageID #: 847
+
+
+
+the child from her. On December 28, 2005, while the temporary protection from abuse order
+
+was still in effect, Mr. and Ms. Salley were married.
+
+       Two days later, December 30, 2005, both a real estate closing and a protection from
+
+abuse hearing were scheduled. Ms. Salley attended the real estate closing with Mr. Salley, but
+
+not the protection from abuse hearing. The real estate closing involved the sale of Mr. Salley‟s
+
+land in Detroit, Maine; the proceeds of that transaction, $23,000.00 in cash, went solely to Ms.
+
+Salley. Ms. Salley used the proceeds to purchase a Smyrna Mills, Maine residence, the title for
+
+which was placed solely in her name.
+
+       She failed to attend the December 30, 2005 protection from abuse hearing. Instead, she
+
+left with Mr. Salley for New Hampshire where their baby, HS, was born on February 8, 2006.
+
+Ms. Salley conceded that the reason they had gone to New Hampshire to have the baby was to
+
+avoid DHS involvement with the child. After the birth, Mr. and Ms. Salley returned to Maine
+
+and they continued to live in her house in Smyrna Mills until the fall of 2006. During this
+
+interval, Mr. Salley worked and, in fact, sustained a workers‟ compensation injury.
+
+       On November 25, 2006, with Mr. Salley out of the house, Ms. Salley called 9-1-1,
+
+alleging that Mr. Salley had assaulted her and confirming among other things that he had a
+
+firearm. Trooper Carmen Lilley responded to the 9-1-1 call and found Mr. Salley outside the
+
+house. Trooper Lilley immediately placed Mr. Salley in handcuffs for possible domestic assault.
+
+Mr. Salley denied any assault and Trooper Lilley then placed him in his police cruiser. Trooper
+
+Lilley asked Mr. Salley three different times where the gun was and Mr. Salley responded each
+
+time that to his knowledge, there was no gun. Trooper Lilley proceeded inside the Salley
+
+residence and found Ms. Salley in the bedroom. She told Trooper Lilley about domestic issues
+
+
+
+
+                                                3
+Case 1:07-cr-00018-JAW Document 148 Filed 05/12/08 Page 4 of 18                      PageID #: 848
+
+
+
+regarding the firearm and said that Mr. Salley had obtained the gun through an ad in Uncle
+
+Henry‟s; she retrieved the weapon from under some clothes in the bedroom closet.2
+
+           Even after Mr. Salley was arrested in late November 2006, this contentious relationship
+
+continued. Ms. Salley initially lived in a shelter and later moved in with Mr. Salley‟s mother.
+
+During this time, Ms. Salley received a message from the defendant through his mother to the
+
+effect that he was unhappy with her, that he wanted her to change her testimony about him, and
+
+that if she did not do so, he would come after her and the baby. Subsequently, the state of Maine
+
+initiated criminal charges against Mr. Salley, based on Ms. Salley‟s allegations of sexual assault
+
+and witness tampering. Around this same period, although the timing is unclear, DHS acted
+
+against Ms. Salley to terminate her parental rights to one of her other children and the result was
+
+that Ms. Salley‟s parental rights to this child were terminated.
+
+           On January 18, 2007, outside a Superior Court hearing on the pending state criminal
+
+charges, Ms. Salley told Rebecca Miller, a victim-witness advocate, that she was recanting her
+
+allegations against him. Ms. Miller immediately called DHS and they acted swiftly to remove
+
+HS from Ms. Salley that same day. They explained that they thought Mr. Salley was going to
+
+get out of jail in the near future and that Mr. and Ms. Salley with their baby represented a flight
+
+risk. DHS did not return HS to Ms. Salley until April 2007.
+
+           On October 16, 2007, about three weeks before the trial in this criminal case, Ms. Salley
+
+was divorced from Mr. Salley. Ms. Salley admitted that if Mr. Salley were released from prison
+
+and returned to live with her, DHS would likely reopen the file and remove HS. In fact, Ms.
+
+Salley is currently pregnant by another man and she acknowledged that if Mr. Salley were to get
+
+out of jail and return to her, she would be at risk of having her new baby removed, after the baby
+
+is born.
+2
+    Uncle Henry‟s is a regional classified ad magazine.
+
+                                                          4
+Case 1:07-cr-00018-JAW Document 148 Filed 05/12/08 Page 5 of 18                   PageID #: 849
+
+
+
+               2.     Mr. Salley’s Interpretation
+
+       Mr. Salley staked a large part of his defense on the premise that Ms. Salley set him up.
+
+He contended that Ms. Salley viewed him as a financial mark. Despite a roiling relationship with
+
+Mr. Salley, including a protection from abuse order that she had obtained just weeks before, she
+
+married Mr. Salley on December 28, 2005, and, two days later, he gave her $23,000.00. She
+
+invested the $23,000.00 in the Smyrna Mills home, placing the deed in her name alone. She had
+
+thus succeeded in extracting Mr. Salley‟s financial resources from him.
+
+       Second, Mr. Salley contends that Ms. Salley was in part motivated by hatred. The
+
+evidence establishes that she had reason to dislike him. She herself acknowledged that he
+
+threatened her and her family and that she was afraid of him. There are currently pending state
+
+charges that Mr. Salley sexually assaulted her.
+
+       To complete this portrait, Mr. Salley added the ongoing DHS investigations. DHS had
+
+directly threatened to remove her children if Ms. Salley continued to have a relationship with Mr.
+
+Salley, and she had temporarily lost two of her own children due to her relationship with him.
+
+She knew that as a felon he could not have a firearm and that if she placed a firearm in his
+
+possession, he would be sent to jail. Mr. Salley argued that Ms. Salley was willing to continue to
+
+allow him to stay at her house in Smyrna Mills because he was providing for her. However, she
+
+lived with the knowledge that if DHS caught her with Mr. Salley, she could lose all her children.
+
+       Pulling this saga together, Mr. Salley contended that when Ms. Salley placed a 9-1-1 call
+
+to the police on November 25, 2006, she intended to solve her problems in one fell swoop:
+
+having secured his assets, she would rid herself of Mr. Salley and her love-hate relationship with
+
+him, retain her children by removing the individual who had sparked DHS to remove her
+
+children previously, and succeed in having the police act as her divorce attorneys by placing him
+
+
+
+                                                  5
+Case 1:07-cr-00018-JAW Document 148 Filed 05/12/08 Page 6 of 18                    PageID #: 850
+
+
+
+in jail for firearms possession. In sum, Mr. Salley argued that by the time of her testimony in
+
+this trial, pregnant by another man, Ms. Salley had obtained his assets, put him in prison, secured
+
+custody of H.S., and mollified DHS.
+
+       Thus framed, the defense depended upon the jury‟s firm rejection of Ms. Salley‟s
+
+credibility. She was the person who had called 9-1-1 and she did so while Mr. Salley was away
+
+from the home. If she obtained the firearm, secreted it, put it in their bedroom closet while Mr.
+
+Salley was away, and told the police it was his, she would in effect have sprung the trap. Thus,
+
+whether Mr. Salley knew the firearm was in the bedroom closet was essential to the defense and,
+
+correspondingly, to the Government‟s case.
+
+       C.      The Presentation of the Evidence
+
+       The Government called twelve witnesses; Mr. Salley called nine. The Government
+
+called: (1) Heather Dupont, Mr. Salley‟s ex-girlfriend, who confirmed that Mr. Salley had been
+
+convicted of a domestic assault against her; (2) William Steinhagen, the man who sold the
+
+firearm; (3) Brent McSweyn, an ATF agent; (4) a Verizon Wireless employee; (6) a Unicel Cell
+
+Phone Company employee; (7) a vice president for Uncle Henry‟s; (8-9) James and David
+
+Smith, father and son, who testified that they saw the Defendant with the firearm; (10) Carmen
+
+Lilley, a Maine State Trooper; and, (12) Skyla Salley. The defense called: (1-2) two Smyrna
+
+Mills neighbors of the Salleys; (3-5) three caseworkers for DHS; (6) Harrison Cole, who
+
+performed the marriage between Horace and Skyla Salley; (7) a state of Maine victim-witness
+
+advocate; (8) Joseph Headings, who sold the house to Ms. Salley; and, (8) Rebecca Hughes, who
+
+bought the Salley home in Smyrna Mills and had begun to move in before Mr. Salley was
+
+arrested.
+
+
+
+
+                                                6
+Case 1:07-cr-00018-JAW Document 148 Filed 05/12/08 Page 7 of 18                   PageID #: 851
+
+
+
+       The significance of the testimony of Rebecca Hughes bears explanation. Ms. Hughes
+
+testified that she purchased the Salley residence in Smyrna Mills and that she began to move in
+
+on November 11, 2006. Tr. 382:22-25. She testified that with the assistance of Travis Brooks
+
+and Karl Knight, she boxed up some personal belongings and put them in the residence. Tr.
+
+383:3-19. Ms. Hughes‟ activity took place before November 25, 2006, when Mr. Salley was
+
+arrested, leaving at least the implication that Ms. Hughes herself, one of her friends, or someone
+
+else with access to the Salley residence left the firearm there.
+
+       D.      The Prosecutor’s Closing Argument
+
+       During her Closing, the prosecutor focused on this critical question: did Mr. Salley know
+
+that the firearm was in his bedroom closet:
+
+       The bottom line is the gun that Mr. Steinhagen bought in New Hampshire was
+       recovered from the defendant‟s bedroom on the date alleged in the indictment.
+       There‟s been no suggestion that it was planted there. There‟s been no suggestion
+       that Mr. Salley didn‟t know it was there. And, there‟s been no suggestion that
+       that wasn‟t his bedroom. The government suggests that on this evidence that
+       you‟ve heard over the last few days you have more than enough to determine
+       beyond a reasonable doubt that Horace Salley knowingly possessed this firearm.
+
+Tr. 402:7-13 (emphasis added).
+
+II.    Discussion
+
+       A.      The Prosecutor’s Comment
+
+       The prosecutor‟s comment in the closing argument is problematic.            First, it is an
+
+inaccurate statement of the evidence. Trooper Lilley testified that before he entered the Salley
+
+residence, he asked Mr. Salley three times about a firearm and each time Mr. Salley denied
+
+knowledge of it. Contrary to the prosecutor‟s argument, there had been a suggestion from Mr.
+
+Salley himself, confirmed by the Government‟s own witness, that he was unaware there was a
+
+firearm in the residence.
+
+
+
+                                                  7
+Case 1:07-cr-00018-JAW Document 148 Filed 05/12/08 Page 8 of 18                     PageID #: 852
+
+
+
+       Second, Mr. Salley maintains that the prosecutor‟s argument improperly implies that he
+
+has a burden of proof to demonstrate that he did not know the gun was there. This is a closer
+
+call. The comment could be viewed as a call for the jury to consider that the Defendant had
+
+failed to rebut the Government‟s proof.
+
+       In response, the Government notes that the Defendant did put on a defense, including a
+
+number of witnesses, and suggested an alternative theory: that Ms. Salley (perhaps in
+
+collaboration with others) had set him up. The Government is correct that “[w]hen a defendant
+
+advances a „theory of the case‟ this opens the door to an appropriate response by the prosecution,
+
+commenting on the „quality of his . . . witnesses or . . . attacking the weak evidentiary foundation
+
+on which the defendant‟s theory of the case rested.” United States v. Roberts, 119 F.3d 1006,
+
+1015 (1st Cir. 1997) (quoting United States v. Savarese, 649 F.2d 83, 87 (1st Cir. 1981)). Thus,
+
+the Government “in its response, has some leeway to comment on the defendant‟s failure to
+
+produce evidence supporting the defendant‟s stated theory.” Id. However, Roberts emphasized
+
+that the door is “not open to the prosecutor‟s using such an occasion to comment, even indirectly,
+
+on the defendant‟s failure to testify.” Id.
+
+       This leads to the final and most serious concern: prosecutorial commentary on the
+
+Defendant‟s failure to take the stand. Based on the evidence at trial, only two people had
+
+personal knowledge about whether Mr. Salley actually knew the firearm was in the residence:
+
+Mr. Salley himself and Ms. Salley. The evidence as to his actual knowledge was contradictory:
+
+in his statements to the Trooper, Mr. Salley denied knowledge; in her testimony, Ms. Salley said
+
+it was his gun and he knew it was there. The only means by which Mr. Salley could have
+
+produced additional evidence that he did not know the gun was in the closet would have been to
+
+take the stand and deny it. He had elected not to do so and to rely on his Fifth Amendment
+
+
+
+                                                 8
+Case 1:07-cr-00018-JAW Document 148 Filed 05/12/08 Page 9 of 18                   PageID #: 853
+
+
+
+privilege not to testify. The prosecutor owed a duty not to comment or allude to his assertion of
+
+that right.
+
+        The question is whether she did so. Her comment, “[t]here‟s no suggestion that Mr.
+
+Salley did not know it was there,” is troubling in two ways: (1) it is directed to Mr. Salley
+
+himself and, (2) it is directed to Mr. Salley‟s knowledge. This statement went straight to the
+
+Defendant‟s knowledge, an element that the Government is allowed to prove by circumstantial
+
+evidence, but about which the Defendant is uniquely qualified to testify. Assuming that by using
+
+the term “suggestion” the prosecutor was referring to evidence and not to the burden of proof,
+
+the danger becomes more apparent.
+
+        B.     Legal Overview
+
+        The Fifth Amendment‟s guarantee against self incrimination is violated by “any comment
+
+by a prosecutor on a defendant‟s exercise of the right to remain silent . . . .” United States v.
+
+Henderson, 320 F.3d 92, 107 (1st Cir. 2003). In this case, the critical issue is whether the
+
+statement “[t]here‟s been no suggestion that Mr. Salley didn‟t know it was there,” is
+
+prosecutorial commentary on the failure of the defendant to testify. If yes, the comment is “a
+
+constitutional error, and the burden rests with the government to show the error harmless beyond
+
+a reasonable doubt, not with the defendant to show the comment was harmful.” United States v.
+
+Wihbey, 75 F.3d 761, 772 n.6 (1st Cir. 1996). If no, it is a “non-constitutional inappropriate
+
+comment, [and] the burden rests with the defendant to show that the comment was harmful, i.e.,
+
+that under the totality of the circumstances they affected the trial‟s outcome. Id. (citation
+
+omitted). To determine if this comment triggers the protection of the Fifth Amendment, the
+
+Court inquires, “whether, in the circumstances of the particular case, the language used was
+
+manifestly intended or was of such character that the jury would naturally and necessarily take it
+
+
+
+                                                9
+Case 1:07-cr-00018-JAW Document 148 Filed 05/12/08 Page 10 of 18                                   PageID #: 854
+
+
+
+ to be a comment on the failure of the accused to testify.” United States v. Akinola, 985 F.2d
+
+ 1105, 1111 (1st Cir. 1993) (citation omitted). If the comment is considered a reference to the
+
+ failure of the accused to testify, the Court normally reviews such language for harmless error.
+
+ Id. However, if no contemporaneous objection was raised at the time the comment was made,
+
+ the Court reviews for “plain error, i.e., error that is clear and obvious and that was prejudicial to
+
+ the defendant in that it affected the outcome of the District Court proceedings. And, we exercise
+
+ that discretion only if the plain forfeited error seriously affects the fairness, integrity, or public
+
+ reputation of judicial proceedings . . . .” Wihbey, 75 F.3d at 769 (quoting United States v. Olano,
+
+ 507 U.S. 725, 732-34 (1993)) (internal punctuation omitted). In this case, the Defense did not
+
+ raise a contemporaneous objection.
+
+         C.       Analysis of the Plain Error Standard
+
+                  1.       Inappropriate Prosecutorial Comment
+
+         The statement “[t]here‟s been no suggestion that Mr. Salley didn‟t know it was there,” is
+
+ effectively a comment on Mr. Salley‟s failure to testify. At oral argument, the prosecutor
+
+ assured the Court that she was not referring to Mr. Salley‟s failure to take the stand. She pointed
+
+ out that the Defendant had elicited testimony that some people had moved items of personal
+
+ property into the Salley home before November 25, 2006. She explained that she was referring,
+
+ among other things, to the failure of the defense to produce any evidence that these people – or
+
+ anyone else – claimed that the firearm was theirs. In effect, she meant to say: None of the
+
+ defense witnesses suggested that Mr. Salley did not know the gun was there.3
+
+
+ 3
+  This area is irreducibly tricky for the Government. There is a tension between the right to comment on holes in the
+ defense theory and the obligation not to comment either on the failure of the defendant to take the stand or on a
+ defense burden of proof. The prosecutor has a much freer hand in discussing the strength of the Government‟s case
+ and why it sustained its burden of proof. By contrast, when the prosecutor‟s argument turns to the weaknesses in the
+ defendant‟s case, especially when the defendant has not testified, the prosecutor has a compelling obligation to be
+ especially clear and careful and must navigate between twin shoals, avoiding any reference to the defendant‟s Fifth
+ Amendment privilege and any implication that the defendant bears a burden of proof.
+
+                                                         10
+Case 1:07-cr-00018-JAW Document 148 Filed 05/12/08 Page 11 of 18                                    PageID #: 855
+
+
+
+         Unfortunately, that is not what she said. If the prosecutor intended to refer to the defense
+
+ failure to produce witnesses to confirm the gun was theirs, she should have said so. There is no
+
+ context around the comment that reflects she was referring to the people who were moving boxes
+
+ into the Salley home before November 25, 2006; she did not mention by name Rachel Hughes,
+
+ Travis Brooks, or Karl Knight, nor did she refer to unnamed individuals. If the prosecutor had
+
+ intended to argue, consistent with Roberts, that the defense theory of the case was not supported
+
+ by the evidence, again, she should have said so.
+
+         Instead, she made a direct reference to Mr. Salley, not to other witnesses, arguing that
+
+ there is no suggestion that Mr. Salley did not know the gun was there. Particularly in view of
+
+ Mr. Salley‟s earlier denials to the trooper, the Court finds that the prosecutor‟s comment would
+
+ likely have been seen as a reference to his failure to take the stand and confirm under oath that he
+
+ did not possess the requisite degree of knowledge of the firearm‟s presence to sustain a
+
+ conviction.4
+
+         The Court is not required to adopt the most negative interpretation of the prosecutor‟s
+
+ comment. See United States v. Glantz, 810 F.2d 316, 323 (1st Cir. 1987) (quoting Donnelly v.
+
+ DeChristoforo, 416 U.S. 637, 647 (1974) (“Although the prosecutor‟s language obviously was
+
+ susceptible to more problematic interpretations, we find the Supreme Court‟s language . . . to be
+
+ particularly appropriate here: „A court should not lightly infer that a prosecutor intends an
+
+ ambiguous remark to have its most damaging meaning or that a jury, sitting through lengthy
+
+ exhortation, will draw that meaning from the plethora of less damaging interpretations.‟”)). But,
+
+ here, the prosecutor‟s comment was not ambiguous, and there are not a “plethora of less
+
+ 4
+   In addition, it may be that the comment “impermissibly suggested that [the Defendant] bore the burden of proof.”
+ Wihbey, 75 F.3d at 770. But, this is a closer issue and the Court does not resolve that question. At the same time,
+ the First Circuit has repeatedly instructed against prosecutorial implications that the defendant bears any burden of
+ proof. See id.; United States v. Skandier, 758 F.2d 43, 45-46 (1st Cir. 1985) (holding that a “how-does-counsel-
+ explain” argument is a Griffin violation and an impermissible shift of the burden of proof).
+
+                                                         11
+Case 1:07-cr-00018-JAW Document 148 Filed 05/12/08 Page 12 of 18                        PageID #: 856
+
+
+
+ damaging interpretations.” Id. In the context of the evidence in the case, the Court reluctantly
+
+ concludes that the prosecutor remarked on Mr. Salley‟s failure to take the stand. The Court
+
+ accepts the prosecutor‟s representation that she did not intend to do so and under Akinola, the
+
+ Court concludes her language was not “manifestly intended” to comment on the exercise of the
+
+ Fifth Amendment privilege. Akinola, 985 F.2d at 1111.
+
+        Nevertheless, the Court also concludes that the comment was “of such character that the
+
+ jury would naturally and necessarily take it to be a comment on the failure of the accused to
+
+ testify.” Id.; compare Wihbey, 75 F.3d at 769 (Finding the prosecutor‟s comment – “There‟s just
+
+ no other explanation except the one that‟s been provided from the witness stand by the eight
+
+ witnesses called by the government” – to effectively be commentary on Wihbey‟s failure to
+
+ testify.), and United States v. Flannery, 451 F.2d 880, 882 (1st Cir. 1971) (finding that the
+
+ prosecutor‟s statement regarding “uncontradicted” government testimony impermissible, when
+
+ “contradiction” would have required defendant to testify), with United States v. Wilkerson, 411
+
+ F.3d 1, 9 (1st Cir. 2005) (Finding the prosecutor‟s comment – “there‟s no real evidence” that
+
+ defendant did not go up the alley and “pretty much nothing” to say that defendant ran up
+
+ driveway – within the context of trial, to likely refer to “Wilkerson‟s failure to produce other
+
+ evidence supporting his theory of the case. At most, the comments are ambiguous.”), and United
+
+ States v. Babbitt, 683 F.2d 21, 23-24 (1st Cir. 1982) (finding no error in the comment: “While
+
+ you search out the truth you may wish to ask yourself, „Who has appeared before me in the form
+
+ of a witness?‟”).
+
+                2.      The Impact on the Outcome of the Trial
+
+        Despite the prosecutor‟s comment, the Court concludes that her language did not affect
+
+ the outcome of the trial, nor did it seriously affect the fairness, integrity, or public reputation of
+
+
+
+                                                  12
+Case 1:07-cr-00018-JAW Document 148 Filed 05/12/08 Page 13 of 18                  PageID #: 857
+
+
+
+ the proceedings. There was a virtual mountain of evidence of Mr. Salley‟s guilt. First, by
+
+ calling the victim, Heather Dupont, the Government established that Mr. Salley had been
+
+ convicted of domestic assault. There is no question but that Mr. Salley was a prohibited person
+
+ under 18 U.S.C. § 922(g)(9).
+
+        Next, the Government was required to demonstrate that the firearm had been “shipped or
+
+ transported in interstate . . . commerce.” Id. § 922(g). If the Government established that Mr.
+
+ Salley possessed the Bushmaster firearm, the evidence demonstrated that Mr. Steinhagen
+
+ purchased the firearm in New Hampshire, traveled to Maine, and sold it here. This is sufficient
+
+ to satisfy the interstate nexus requirement.
+
+        This leaves as the last question: whether Mr. Salley possessed the firearm that Trooper
+
+ Lilly found in the Salley closet. The Government called Mr. Steinhagen as a witness. Mr.
+
+ Steinhagen, who is resident of New Hampshire, said that he had purchased a Bushmaster
+
+ Bullpup M17S rifle with a specific serial number at Skip‟s Gun Shop in Bristol, New Hampshire.
+
+ He identified the Bushmaster that was found in the Salley residence as the same firearm he
+
+ bought in New Hampshire. After he acquired the Bushmaster, he said that in late 2005, he
+
+ responded to an ad in Uncle Henry‟s that advertised a 1946 Chevy coupe, called the phone
+
+ number in the ad, and spoke to a man. After some discussion, they agreed on a trade: the
+
+ Bushmaster and a four-wheeler for the 1946 Chevy coupe. Mr. Steinhagen drove to central
+
+ Maine, met a man he could not identify, and made the swap.
+
+        The Government introduced into evidence the Uncle Henry‟s ad that drew Mr.
+
+ Steinhagen‟s attention. The ad had Mr. Salley‟s cell phone number as a contact number and the
+
+ Government introduced cell phone records which demonstrated that Mr. Steinhagen called Mr.
+
+
+
+
+                                                13
+Case 1:07-cr-00018-JAW Document 148 Filed 05/12/08 Page 14 of 18                    PageID #: 858
+
+
+
+ Salley‟s cell phone not only when he initially made the deal, but as he approached the location in
+
+ central Maine where they had agreed to meet.
+
+        The Government called David and James Smith, residents of Plymouth, Maine, who
+
+ knew Mr. Salley. David Smith testified that Mr. Salley came to their home in the fall of 2005
+
+ during hunting season. He said that Mr. Salley was doing a trade with his father, James Smith,
+
+ that Mr. Salley arrived at the Smith residence, and that he and Mr. Salley each shot the
+
+ Bushmaster rifle in the Smith backyard. James Smith confirmed that he saw Mr. Salley holding
+
+ the gun as he proceeded past the house with David Smith. He said he did not see anyone fire the
+
+ gun, but he heard rapid shots, consistent with a semi-automatic firearm. James Smith also
+
+ testified that Mr. Salley had owned a Chevy coupe, the same type of automobile Mr. Steinhagen
+
+ received in trade.
+
+        Finally, there was the testimony of Skyla Salley.        Ms. Salley knitted together the
+
+ disparate parts of the story. She said that she was present at many critical events: when Mr.
+
+ Salley received the phone call from Mr. Steinhagen, when Mr. Salley made the trade for the rifle,
+
+ when Mr. Salley went to the Smiths‟ residence and shot the gun, and when Mr. Salley brought
+
+ the firearm into their home in Smyrna Mills. She also was the one who made the 9-1-1 call to
+
+ the police and she was present when Trooper Lilly discovered the firearm in the bedroom closet.
+
+        The defense theory that Ms. Salley set up Mr. Salley to extract his money and put him in
+
+ jail to satisfy DHS is not entirely implausible. However, even if Ms. Salley‟s testimony were
+
+ discounted, the collective testimony of William Steinhagen, David Smith, and James Smith still
+
+ places the Bushmaster in Mr. Salley‟s possession. Mr. Steinhagen called Mr. Salley‟s cell phone
+
+ number both to make the deal and as he approached the site of the swap, and the Smiths each
+
+ saw Mr. Salley with the firearm. To accept the defense theory, someone else in cahoots with Ms.
+
+
+
+                                                14
+Case 1:07-cr-00018-JAW Document 148 Filed 05/12/08 Page 15 of 18                       PageID #: 859
+
+
+
+ Salley gained access to Mr. Salley‟s cell phone and traded a Chevy coupe for a Bushmaster rifle
+
+ in the fall of 2005. Whatever happened to the rifle between the fall of 2005 and November 25,
+
+ 2006, it reappeared in the Salley bedroom after Ms. Salley made the 9-1-1 call.
+
+        It would take a giant leap to conclude that Ms. Salley engaged in such a long, complex,
+
+ well-concealed conspiracy to frame her husband. The timing is off. If Ms. Salley (or her
+
+ accomplice) got the firearm in the fall of 2005, there would be no obvious reason she would have
+
+ waited until the fall of 2006 to call the police and turn him in. The intervening events are
+
+ inconsistent. Again, if she had the firearm in the fall of 2005 and wanted to wait to obtain his
+
+ money, she could have accomplished this right after he transferred his money to her on
+
+ December 30, 2005, when she got sole title to the Smyrna Mills house. Further, her post-arrest
+
+ conduct is at odds with the defense theory. She initially said she was recanting her testimony
+
+ against Mr. Salley and later recanted her recantation. The evidence fails to paint the portrait of
+
+ the scheming and manipulative person Mr. Salley‟s theory portrays. Furthermore, there was no
+
+ evidence that anyone – other than her – would have had the motive and opportunity to become
+
+ her accomplice.
+
+        Moreover, none of this explains the testimony of the Smiths, who placed the firearm in
+
+ Mr. Salley‟s hands in the fall of 2005. To accept the defense theory, the Smiths would have had
+
+ to be part of the conspiracy against Mr. Salley and there is no evidence they were.
+
+        Against this cumulative evidence is the single sentence by the prosecutor in the course of
+
+ a closing argument, a sentence that itself requires some parsing to understand its
+
+ inappropriateness, which may explain the Defendant‟s failure to object. Moreover, the Court
+
+ instructed the jury on the Defendant‟s right to not testify and on the Government‟s burden of
+
+
+
+
+                                                 15
+Case 1:07-cr-00018-JAW Document 148 Filed 05/12/08 Page 16 of 18                                        PageID #: 860
+
+
+
+ proof.5 The prosecutor‟s isolated comment in the midst of a closing argument was thus mitigated
+
+ by the Court‟s jury instructions. The Court concludes that the Government has established
+
+ beyond a reasonable doubt that the prosecutorial error was harmless, and that her language
+
+ affected neither the outcome of the trial, nor the fairness, integrity, or public reputation of the
+
+ proceedings.
+
+          D.       Defendant’s Outburst as Grounds for a New Trial
+
+          On the last day of trial while the jury was in the courtroom, Mr. Salley suddenly stood up
+
+ and exclaimed “I, Horace Salley, have not been adequately represented by Mr. Smith.” Tr.
+
+ 370:9-10. Mr. Salley‟s attorney immediately approached sidebar and moved for a mistrial. Tr.
+
+
+ 5
+  The relevant portions of the jury instructions are as follows:
+                    Constitutional right not to testify. Horace Salley has a constitutional right not to testify,
+          and no inference or suggestion of guilt or of anything else may be drawn from the fact that he did
+          not testify. For any of you to draw such an inference or suggestion would be wrong; indeed, it
+          would be a violation of your oath as a juror.
+ Tr. 423:6-11.
+                    Presumption of innocence. It is a cardinal principle of our system of justice that every
+          person accused of a crime is presumed to be innocent unless and until his guilt is established
+          beyond a reasonable doubt. The presumption is not a mere formality. It is a matter of the most
+          important substance.
+                    The presumption of innocence alone is sufficient to acquit a defendant unless you are
+          satisfied beyond a reasonable doubt of his guilt after considering all the evidence. The defendant
+          before you, Horace Salley, has the benefit of that presumption throughout the trial, and you are not
+          to convict the defendant unless you are persuaded of his guilt beyond a reasonable doubt.
+                    Proof beyond a reasonable doubt. In a criminal case, the burden is at all times upon the
+          government to prove guilt beyond a reasonable doubt. The law does not require that the
+          government prove guilt beyond all possible doubt. Proof beyond a reasonable doubt is sufficient
+          to convict. This burden never shifts to Horace Salley. It is always the government‟s burden to
+          prove each of the elements of the crime charged beyond a reasonable doubt. Mr. Salley has the
+          right to rely upon the failure or inability of the government to establish beyond a reasonable doubt
+          any essential element of an offense charged against him.
+                    Before you may convict Mr. Salley, the government‟s evidence must satisfy you beyond
+          a reasonable doubt of his guilt of the particular offense charged. If, after fair and impartial
+          consideration of all the evidence, you have a reasonable doubt as to Mr. Salley‟s guilt of the
+          charged offense, it is your duty to acquit him. On the other hand, if, after fair and impartial
+          consideration of all the evidence, you are satisfied beyond a reasonable doubt of Mr. Salley‟s guilt
+          of the charged offense, you should vote to convict him of that offense.
+                    A reasonable doubt does not mean a mere possibility that Mr. Salley may not be guilty;
+          nor does it mean a fanciful or imaginary doubt, nor one based upon groundless conjecture. It
+          means a doubt based on reason. A level of proof that requires you to indulge in conjecture,
+          surmise, or suspicion in order to reach a conclusion of guilt does not constitute proof beyond a
+          reasonable doubt.
+ Tr. 417:17-419:7
+
+                                                            16
+Case 1:07-cr-00018-JAW Document 148 Filed 05/12/08 Page 17 of 18                                   PageID #: 861
+
+
+
+ 371:15-16. The Court excused the jury. Tr. 371:19-20. There was some confusion about what
+
+ Mr. Salley had actually said and whether the jury had understood it. Tr. 372:10-25; 373:1-6.
+
+ After an extended colloquy with the Defendant, the Court denied the motion for mistrial and
+
+ when the jury was brought back into the courtroom, instructed the jury “to disregard [the
+
+ comment], take it out of your mind, just as if it never happened.” Tr. 381:19-20.
+
+            Mr. Salley now argues that this outburst, “so close to the end of the trial and likewise
+
+ close proximity to the Government‟s contested remarks created a cumulative effect in the final
+
+ critical state of the trial which should require a new trial.” Def.’s Supplemental Mot. for New
+
+ Trial at 1 (Docket # 124). To start, “it is well established that a defendant generally may not
+
+ benefit through his own misconduct.” United States v. Cunningham, 194 Fed. Appx. 582, 585
+
+ (11th Cir. 2006). In Cunningham, the Defendant‟s outburst was severe enough to require the
+
+ courtroom security officers to “activate the stun belt Cunningham was wearing and then “tackle”
+
+ him to the floor . . . .” Id. Despite this series of events, the Court found that “[t]here is no
+
+ indication the jury was prejudiced by Cunningham‟s outburst, or by the subsequent security
+
+ measures taken to subdue him,” and “[e]ven if the jurors were prejudiced by Cunningham‟s
+
+ outburst, the security response to that outburst, and the district court‟s explanation that trial
+
+ delays were caused by Cunningham, he may not require a mistrial through his own misconduct.”
+
+ Id.
+
+            In this case, the Court, when the jury returned, provided an immediate instruction to the
+
+ jury to disregard the comment made by Mr. Salley.6 At the time of the outburst, it was unclear
+
+ what exactly Mr. Salley had said, and there is no indication that the jurors were prejudiced by his
+
+ 6
+     The Court instructed:
+           Ladies and gentlemen, just before you left, the defendant stood up and said something; I'm not sure
+           if you understood what he said; I'm not sure if it -- what he said would have any impact on you. But I am
+           instructing you now simply to disregard it, take it out of your mind, just as if it never happened.
+           Tr. 381:15-20.
+
+                                                          17
+Case 1:07-cr-00018-JAW Document 148 Filed 05/12/08 Page 18 of 18                                          PageID #: 862
+
+
+
+ statement. As noted by other courts, if a defendant “were allowed to obtain a new trial because
+
+ of his inappropriate outburst, any defendant in the future could sabotage his case and ensure a
+
+ new trial on appeal by engaging in inappropriate or obstreperous conduct.”                                 Williams v.
+
+ Calderon, 48 F. Supp. 2d 979, 1027 (C.D. Cal. 1998); see also United States v. Stewart, 256 F.3d
+
+ 231, 242 (4th Cir. 2001) (finding that “granting [the Defendant‟s] mistrial motion on the basis of
+
+ [his] own misconduct would subvert the judicial process and allow [the Defendant] to benefit
+
+ from his own wrongdoing.”); United States v. Harris, 2 F.3d 1452, 1456 (7th Cir. 1993) (holding
+
+ that the defendant was not entitled to a mistrial as the result of his own outburst during trial
+
+ because to grant the mistrial would allow the defendant to profit from his own wrong). Mr.
+
+ Salley‟s outburst is not grounds for a new trial.
+
+ III.     CONCLUSION
+
+          The Court DENIES the Defendant‟s Motion for a New Trial (Docket # 106) and
+
+ DENIES, in part, his Supplemental Motion for a New Trial (Docket # 124).7
+
+          SO ORDERED.
+
+
+                                                         /s/ John A. Woodcock, Jr.
+                                                         JOHN A. WOODCOCK, JR.
+                                                         UNITED STATES DISTRICT JUDGE
+
+
+
+ Dated this 12th day of May, 2008
+
+
+
+
+ 7
+  The Court has granted the Defendant‟s oral Motion to Amend his Supplemental Motion for a New Trial (Docket #
+ 147). This decision, therefore, is a partial resolution of the motion for new trial and leaves for later a final resolution
+ of another matter that the parties are in the process of investigating.
+
+                                                            18
+

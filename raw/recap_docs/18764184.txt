@@ -1,0 +1,1736 @@
+      Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 1 of 32
+
+
+
+
+               UNITED STATES DISTRICT COURT FOR THE
+                     DISTRICT OF NEW HAMPSHIRE
+
+
+
+United States of America
+
+     v.                                Criminal No. 04-cr-192-01-JD
+                                       Opinion No. 2006 DNH 008
+Bruce Belton
+
+                               O R D E R
+
+
+     Bruce Belton has moved to suppress evidence allegedly seized
+
+from his home during the execution of a search warrant on the
+
+independent grounds that (1) the warrant application failed to
+
+demonstrate probable cause and (2) the application intentionally
+
+or recklessly omitted facts, which, if included, would have
+
+undermined the determination that probable cause existed.             See
+
+Franks v. Delaware, 438 U.S. 154 (1978).       The government objects,
+
+arguing that probable cause supported the warrant but, even if it
+
+did not, suppression is inappropriate by virtue of the good-faith
+
+exception.   See United States v. Leon, 468 U.S. 897 (1984).           The
+government also maintains that no Franks violation occurred.
+
+Over the government’s objection, the court held an evidentiary
+
+hearing on the Franks aspect of the motion on January 4, 2006.
+
+
+
+                              Background
+
+     The following facts are drawn from the affidavit submitted
+by New Hampshire State Trooper James J. Geraghty in support of
+         Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 2 of 32
+
+
+
+
+the search warrant (“Geraghty Aff.”), except as otherwise noted.1
+
+Geraghty has worked as a detective in the state’s Narcotics
+
+Investigation Unit since September, 1997, and spent eighteen
+
+months as a federal narcotics task force officer beginning in
+
+January 2000.     During that time, Geraghty has worked drug cases
+
+exclusively, including major multi-state narcotics conspiracies,
+
+and has also served in an undercover capacity.
+
+     Geraghty assisted the Vermont Drug Task Force with its
+
+investigation of one Dennis W. Schofield, a member of the
+
+Freelancers motorcycle club who was suspected of distributing
+
+methamphetamine obtained from a source in New Hampshire.             Trooper
+
+Kevin Lane served as the case agent on the investigation for the
+
+Vermont State Police.       On September 18, 2003, police followed
+
+Schofield to the Harley Davidson retail outlet in Tilton, New
+
+Hampshire, where they observed him meeting with a man wearing
+
+Freelancers “colors” who was later identified as Belton.             The
+
+authorities believed that Schofield had made the trip for the
+
+purpose of obtaining methamphetamine, also known as “meth” or
+“speed.”    The affidavit does not describe what, if anything, the
+
+police saw Belton and Schofield do during the meeting.             The
+
+
+     1
+      The balance of the facts are drawn from Geraghty’s
+testimony at the Franks hearing, the affidavit he swore out in
+support of the government’s objection to the hearing (“Second
+Geraghty Aff.”), and the police reports appended to that
+affidavit and received into evidence at the hearing.
+
+
+                                      2
+       Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 3 of 32
+
+
+
+
+police trailed Belton as he left the Tilton outlets in his van,
+
+following him to the Northeast Vietnam Veterans Motorcycle
+
+Clubhouse, a supermarket, and finally his residence, all located
+
+in Franklin, New Hampshire.      Belton lives there at 3 Lilac Lane.
+
+      Four days after this meeting, on September 22, 2003,
+
+Schofield sold four grams of meth to an undercover agent of the
+
+Vermont Drug Task Force and “discussed his past and current deals
+
+. . . .”   Mem. Opp’n Franks Hrg. at 3.       During this discussion,
+
+Schofield said that he “used to get his meth at a much cheaper
+
+rate,” but that his source of supply “at the time was from NH and
+
+they had recently [been] arrested.”       Id.   According to Schofield,
+
+“2 guys were arrested for 5 pounds of meth and they cooperated
+
+and got another 5 pounds from their source of supply in Arizona.”
+
+Id.   Schofield added that “this new [source of supply] is not as
+
+good and it is more expensive . . . .”        Id.   None of this
+
+information about the events of September 23 was included in the
+
+warrant application.
+
+      On October 13, 2003, the undercover agent gave Schofield
+
+$1,000 to buy methamphetamine.      The police followed Schofield as
+
+he traveled from Vermont to Franklin, but “[s]urveillance was
+
+terminated approximately one (1) mile from BELTON’s residence
+
+. . . due to the fact that [he] lives in a small trailer and
+
+vehicles would be easily detected in the immediate area.”
+
+Geraghty Aff. ¶ 4.    The next day, Schofield presented the
+
+
+                                    3
+         Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 4 of 32
+
+
+
+
+undercover officer with 5.5 grams of meth.
+
+     A report prepared by the undercover officer about this
+
+transaction reveals that he ultimately had to track Schofield
+
+down at his home around 3 p.m. on October 14 to retrieve the
+
+drugs, despite Schofield’s representation that he would call the
+
+officer for that purpose while driving back from New Hampshire
+
+early that morning.      These details were not included in the
+
+warrant application.
+
+     After taking an hiatus from his drug distribution activities
+
+because he suspected that he was being investigated, Schofield
+
+went back to selling meth.2       On February 2, 2004, the undercover
+
+Vermont narcotics officer met with Schofield again to set up
+
+another methamphetamine buy.        During the meeting, Schofield
+
+explained that he had yet to get in touch with his source of
+
+supply and used the agent’s cell phone to attempt to contact the
+
+source.    This attempt was unsuccessful–-Schofield did not end up
+
+talking to anyone during the call–-though the warrant application
+
+omits this detail.      The application also fails to mention that,
+
+during his meeting with the undercover officer, Schofield said
+
+that he would be heading to New Hampshire to help a friend move
+
+
+     2
+      The affidavit states simply that “[b]etween October 2003
+and February 2003” the undercover agent learned that Schofield
+had stopped dealing drugs but that he resumed doing so “[a]fter a
+safe period of time had elapsed . . . .” The affidavit does not
+offer any more specific information on the temporal parameters of
+Schofield’s break from distributing narcotics.
+
+                                      4
+        Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 5 of 32
+
+
+
+
+and that he would contact the officer when the source called.
+
+     The police later determined that the number Schofield had
+
+dialed belonged to a business, All Things Imprinted, run by
+
+Belton and located at the same address as his residence.            The
+
+warrant application states that the authorities observed
+
+Schofield driving back toward Vermont “from the area of
+
+Franklin[,] New Hampshire” that night.         In fact, though this
+
+detail was omitted from the warrant application, Schofield was
+
+five to ten miles away from Belton’s residence at that point.
+
+     The warrant application also omits other details of the
+
+undercover officer’s February 2 interaction with Schofield.               In
+
+particular, the officer gave Schofield $1,000 to purchase
+
+methamphetamine when the two met at a private residence in
+
+Lebanon, where Schofield was helping the aforementioned friend
+
+move.   Schofield said “he would be leaving that night and would
+
+contact [the officer] upon his return.”         He failed to do so,
+
+however, and the officer was not able to get in touch with
+
+Schofield until February 5, 2004.        At that point, Schofield
+explained his failure to provide the methamphetamine as the
+
+result of having encountered a police roadblock on his way back
+
+to Vermont, which caused him to throw the drugs out of his car
+
+window.   Schofield also said that police had used a dog to
+
+examine his car.     After the police could not independently verify
+
+this tale, they decided to arrest Schofield, who ultimately
+
+
+                                     5
+       Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 6 of 32
+
+
+
+
+provided neither the methamphetamine nor the $1,000.
+
+      As the warrant application notes, the Vermont State Police
+
+took Schofield into custody on February 6, 2004.          He was
+
+arraigned in the United States District Court for the District of
+
+Vermont three days later and subsequently released after he
+
+agreed to cooperate with the investigation of Belton.
+
+      While in custody, Schofield identified Belton as the source
+
+of his methamphetamine supply and reported that Belton “also
+
+sells cocaine.”    Geraghty Aff. ¶ 7.     Schofield said that he had
+
+been buying speed from Belton since the summer of 2003, in
+
+quantities as large as a half-ounce of crystal methamphetamine
+
+for $1,900, but that Belton also sells crystal meth for $3,600 an
+
+ounce and $600 for an “eight ball,” or eighth-ounce.           Schofield
+
+explained that Belton is a founding member and former vice
+
+president of the Freelancers who “sells to patch wearing members”
+
+of that organization and the Vietnam Veterans Motorcycle Club.
+
+Id.   According to Schofield, Belton “sells from his residence as
+
+well as the clubhouse” and “gets his methamphetamine from a place
+
+identified as ‘The Store,’” known to Schofield only as such.               Id.
+
+Although Schofield also recounted having seen an ounce of crystal
+
+meth at Belton’s residence, the affidavit does not say whether
+
+Schofield related when, or how many times, that happened.              A
+
+check of Schofield’s phone revealed that he had received a call
+
+from Belton’s number on January 31, 2004.
+
+
+                                    6
+      Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 7 of 32
+
+
+
+
+     Following his apprehension, Schofield was willing to assist
+
+the authorities by making “controlled purchases” of
+
+methamphetamine from Belton, but believed that he would have to
+
+wait some time before attempting one because Schofield’s recent
+
+arrest would likely make Belton suspicious of such a ruse.            The
+
+Vermont State Police therefore “decided to delay any ‘active
+
+cooperation’ on Schofield’s part.”      Second Geraghty Aff. ¶ 7.
+
+Although Geraghty was aware of these developments as they
+
+occurred, he did not mention them in the warrant application.
+
+     Through other New Hampshire State Police officers, Geraghty
+
+eventually confirmed Belton’s association with the Freelancers.
+
+On June 21, 2004, the New Hampshire State Police received a call
+
+on its 1-800-NAB-DOPE hotline from an anonymous source, who
+
+reported that “Bruce Pelton,” a motorcycle club president from
+
+Franklin, was selling speed.     Geraghty believed that the tip
+
+confirmed what Schofield had told the police about Belton.            In
+
+line with Geraghty’s “aware[ness] that many honest people with
+
+legitimate information wish to remain anonymous for fear of
+reprisals,” the caller explained that he would be in danger if he
+
+gave his name.   Geraghty Aff. ¶ 14.     According to Geraghty,
+
+motorcycle gangs dominate the methamphetamine trade and often
+
+intimidate those who might report their activities to law
+
+enforcement.   In fact, the Freelancers had dispatched one of
+
+their members to attend the court proceedings on Schofield’s case
+
+
+                                   7
+      Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 8 of 32
+
+
+
+
+and to obtain any papers filed in it, which were brought to the
+
+Freelancers’ clubhouse the day after Schofield’s arraignment on
+
+February 9, 2004.
+
+     On June 24, 2004, Geraghty called the Vermont Drug Task
+
+Force and learned that Schofield “ha[d] failed to actively
+
+cooperate with the investigation” of Belton and that Schofield
+
+“ha[d] subsequently been indicted and is currently awaiting
+
+trial.”   Geraghty Aff. ¶ 16.    While Geraghty’s affidavit in
+
+support of the warrant does not indicate when these events
+
+occurred, court records show that Schofield was indicted in the
+
+District of Vermont for a second time on April 15, 2004.          The
+
+affidavit also does not mention Lane’s statement to Geraghty that
+
+Belton “would not be indicted in Vermont unless [Schofield] came
+
+forward with his attorney and gave an in-depth proffer.”          Franks
+Hrg. Ex. A, at 14.   When Geraghty applied for the warrant on June
+
+30, 2004, he did state that the investigation of Belton “may be
+
+compromised by the fact that SCHOFIELD is no longer cooperating
+
+. . . .   Any evidence that is at BELTON’S residence may be
+
+removed or destroyed if SCHOFIELD alerts BELTON to this
+
+investigation.”   Geraghty Aff. ¶ 17.
+
+     In his affidavit in support of the warrant, Geraghty
+
+explained at length how his training and experience had taught
+
+him that narcotics dealers often keep cash, weapons, drug
+
+paraphernalia, and other evidence of their activities in their
+
+
+                                   8
+         Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 9 of 32
+
+
+
+
+homes.    Geraghty Aff. ¶¶ 20-34.         He added that the evidence
+
+commonly includes records of drug transactions maintained long
+
+after those transactions take place.          Id. ¶¶ 20, 24, 29.
+
+Geraghty gave his “opinion that a search warrant is a vital tool
+
+necessary to obtain evidence, which is necessary for a successful
+
+prosecution of BRUCE BELTON.        There are currently no undercover
+
+officers or cooperating individuals that can make purchases of
+
+controlled drugs from BRUCE BELTON.”          Id. ¶ 18.    The affidavit
+
+also noted that vehicles registered to Belton were observed at
+
+the subject address as recently as June 28, 2004.
+
+     Based on the information contained in Geraghty’s affidavit,
+
+a justice of the Concord District Court issued a warrant on June
+
+30, 2004, authorizing a search of Belton’s residence at 3 Lilac
+
+Lane in Franklin for evidence of drug trafficking.3            The search,
+
+performed late that morning, turned up substantial quantities of
+
+methamphetamine and cocaine, as well as a triple-beam balance,
+
+three handguns, and $40,479 in cash.          A grand jury subsequently
+
+indicted Belton on charges of possessing and conspiring to
+
+distribute methamphetamine and possessing firearms in furtherance
+
+of drug trafficking and in spite of his status as a felon.
+
+
+
+                                 Discussion
+
+
+     3
+      For the sake of consistency with the traditions of Fourth
+Amendment jurisprudence, the court will refer to the Concord
+District Court judge as “the magistrate.”
+
+                                      9
+      Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 10 of 32
+
+
+
+
+     The Fourth Amendment provides that “no [w]arrants shall
+
+issue, but upon probable cause . . . .”        Pursuant to the
+
+exclusionary rule, “[t]he usual remedy for seizures made without
+
+probable cause is to exclude the evidence wrongfully seized
+
+. . . .”   United States v. Brunette, 256 F.3d 14, 19 (1st Cir.
+
+2001) (citing Weeks v. United States, 232 U.S. 383, 391-93
+
+(1914)).   Nevertheless, because “[t]he exclusionary rule is
+
+designed to deter police misconduct rather than to punish the
+
+errors of judges and magistrates,” Leon, 468 U.S. at 916, in most
+cases where “an officer acting with objective good faith has
+
+obtained a warrant from a judge or a magistrate and acted within
+
+its scope . . . . there is no police illegality and thus nothing
+
+to deter” by suppressing the evidence, even if the warrant issued
+
+without probable cause.     Id. at 920.    In such a case, then, the
+
+exclusionary rule does not apply.       Id. at 922.
+
+     While maintaining that probable cause existed to support the
+
+issuance of the warrant, the government argues in the alternative
+
+that, even if probable cause was lacking, the police acted in
+
+good faith in securing and executing the warrant and that the
+
+evidence allegedly found should not be suppressed.          As the
+
+government notes, “Leon allows the trial court, in its ‘informed
+
+discretion,’ to bypass the customary ‘merits’ inquiry into
+
+whether there existed a ‘substantial basis’ for the probable
+
+cause determination made by the issuing magistrate, and simply
+
+
+                                   10
+      Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 11 of 32
+
+
+
+
+decide whether the challenged search in all events came within
+
+the ‘good faith’ exception to the exclusionary rule.”          United
+
+States v. Zayas-Diaz, 95 F.3d 105, 112 (1st Cir. 1996) (quoting
+
+Leon, 468 U.S. at 925).     The court agrees that such an approach
+
+is warranted here, given the absence of any of the countervailing
+
+“prudential considerations” identified by Leon.         Id. at 112 n.8.
+
+The government bears the burden of showing that the good faith
+
+exception applies.     United States v. Diehl, 276 F.3d 32, 42 (1st
+Cir. 2002) (citing Brunette, 256 F.3d at 19).
+
+     “[W]hile Leon restricts the application of the exclusionary
+
+rule, it does not eliminate it.”        United States v. Capozzi, 347
+
+F.3d 327, 332 (1st Cir. 2003).      Exclusion remains appropriate in
+
+certain circumstances, including where facts material to the
+
+decision to issue the warrant were intentionally or recklessly
+
+omitted from the affidavit submitted in support of it, or where
+
+“the affidavit is so lacking in indicia of probable cause as to
+
+render official belief in its existence entirely unreasonable.”
+
+Id.; see also Leon, 468 U.S. at 923; United States v. Brunette,
+
+256 F.3d 14, 19 (1st Cir. 2001).        Belton argues that both of
+
+these scenarios are present here.       The court will address his
+
+contentions in turn.
+
+
+
+
+                                   11
+      Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 12 of 32
+
+
+
+
+I.   Whether Material Facts Were Intentionally or
+     Recklessly Omitted from the Warrant Application
+
+     In Franks, the Supreme Court recognized a defendant’s right
+
+to challenge “the veracity of a sworn statement used by police to
+
+procure a search warrant.”     438 U.S. at 155.      To receive a
+
+hearing for this purpose, a defendant must make “a substantial
+
+preliminary showing that a false statement knowingly and
+
+intentionally, or with reckless disregard for the truth, was
+
+included by the affiant in the warrant affidavit, and [that] the
+allegedly false statement is necessary to the finding of probable
+
+cause . . . .”   Id. at 155-56.
+
+     The omission of a material fact from the affidavit
+
+supporting a warrant is treated as a false statement for purposes
+
+of the Franks analysis.     United States v. Castillo, 287 F.3d 21,
+
+25 (1st Cir. 2002); United States v. Charles, 213 F.3d 10, 23
+
+(1st Cir. 2000).   In the case of an omission, “suppression should
+
+be ordered only if the warrant application, . . . clarified by
+
+disclosure of previously withheld material, no longer
+demonstrates probable cause.”      United States v. Stewart, 337 F.3d
+
+103, 105 (1st Cir. 2003); Castillo, 287 F.3d at 25 n.4 (“With an
+
+omission, the inquiry is whether its inclusion in an affidavit
+
+would have led to a negative finding by the magistrate on
+
+probable cause.”).    This court previously ruled that Belton’s
+
+written submissions succeeded in making the “substantial
+preliminary showing” necessary to entitle him to a Franks
+
+                                   12
+        Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 13 of 32
+
+
+
+
+hearing.    438 U.S. at 155-56.      As the court stated at the
+
+hearing, however, this was simply a preliminary determination:
+
+“[w]hether [a defendant] will prevail at [the Franks hearing] is,
+
+of course, a different matter” from whether he is entitled to
+
+one.”   Id. at 172.
+
+     Belton has identified several categories of information
+
+which, he argues, would have led the magistrate to refuse to find
+
+probable cause had they been included in the warrant application.
+
+The first of these consists of Schofield’s statement on September
+
+22, 2003, that he “used to get his meth at a much cheaper rate,”
+
+but that his source of supply “at the time was from NH and they
+
+had recently [been] arrested” and that his “new [source of
+
+supply] is not as good.”       Belton does not dispute that Schofield
+
+could have been referring to him as the “new” source.            Instead,
+
+he argues that the “recent” arrest of the former source could
+
+have occurred after Schofield’s trip to New Hampshire to purchase
+methamphetamine on September 18 and that this bit of information
+
+tends to cast his meeting with Belton on that date in a more
+
+innocent light, i.e., Schofield could have gone to buy meth from
+
+the old source either before or after he met with Belton for
+
+another, legal purpose.
+
+     In the court’s view, this is a strained interpretation of
+
+Schofield’s statement.      Belton’s reading would have Schofield’s
+
+old source meet with him on September 18, then get arrested,
+
+
+                                     13
+      Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 14 of 32
+
+
+
+
+agree to cooperate with the authorities, and obtain
+
+methamphetamine from Arizona, all in enough time for Schofield to
+
+have learned about it by September 22.       The considerably more
+
+likely scenario is that the former supplier was arrested some
+
+time before Schofield’s September 18 trip to New Hampshire–-a
+
+fact which, as Belton acknowledges, “is neutral and would not
+
+necessarily provide the reviewer of the affidavit with relevant
+
+or necessary information; it’s [sic] omission would not be
+
+material.”   Mem. Supp. Franks Hrg. at [6].       Indeed, although
+
+Belton asked for a Franks hearing in part to ascertain the
+
+correct interpretation of Schofield’s September 22 statement, see
+
+id., he failed to adduce any evidence to that effect at the
+
+hearing itself.   Accordingly, the court determines that the
+
+September 22 statement was not relevant to the magistrate’s
+
+probable cause determination.
+
+     Belton also argues that the application’s description of the
+
+events of October 13 and 14, 2004--when the undercover officer
+
+provided Schofield with $1,000, and Schofield later provided the
+
+officer with a quantity of methamphetamine–-creates the
+
+impression that the authorities “had no problem pinning down
+
+exactly when the drugs were purchased.       The reality is something
+
+quite different.”   Mem. Supp. Franks Hrg. at [6-7].         In reality,
+
+although Schofield had said he would contact the undercover
+
+officer on his way back from his trip to New Hampshire to obtain
+
+
+                                   14
+         Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 15 of 32
+
+
+
+
+the meth in the early morning hours of October 14, he failed to
+
+do so, causing the officer to spend much of that day trying to
+
+track him down to pick up the drugs.          Belton argues that this
+
+omitted information suggests that Schofield had ample opportunity
+
+to obtain the methamphetamine from another source, rather than
+
+during the trip to Belton’s hometown of Franklin which is
+
+described in the warrant application.4
+
+     The problem with this argument is that Geraghty’s affidavit
+
+candidly states that the undercover agent gave Schofield the cash
+
+on October 13 and that Schofield gave the agent the meth on
+
+October 14.     Geraghty Aff. ¶ 4.      As a result, the magistrate
+
+would have been aware of the passage of time between the delivery
+
+of the money and the delivery of the drugs and taken this fact
+
+into consideration in deciding whether the events of October 13
+
+and 14 implicated Belton in Schofield’s illicit conduct.              While
+
+Geraghty’s affidavit did not include everything the police knew
+
+about Schofield’s actions on October 14, none of those actions
+
+(going to deliver wood, working on a tractor in his yard) readily
+
+suggests an opportunity to obtain the methamphetamine from
+
+
+     4
+      Belton also points out that, while the affidavit states
+that the authorities terminated their surveillance of Schofield
+at a point approximately one mile from Belton’s residence,
+Geraghty testified that the distance might have actually been
+between five and ten minutes from Belton’s residence. The court
+attaches no significance to this discrepancy, if in fact it can
+properly be characterized as such. See Capozzi, 347 F.3d at 333
+(noting that such “technical criticism of the form of [a warrant]
+affidavit is insufficient to undermine its veracity”).
+
+                                      15
+         Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 16 of 32
+
+
+
+
+another source.5      Those details were therefore immaterial to the
+
+magistrate’s probable cause determination.           See United States v.
+
+Higgins, 995 F.2d 1, 4 (1st Cir. 1993) (finding fact that
+
+informant unsuccessfully tried to buy drugs from defendant
+
+immaterial to probable cause to search defendant’s home because
+
+“not necessarily inconsistent” with information that defendant
+
+later purchased quantity of drugs).
+
+     Belton also characterizes these details, as well as the rest
+
+of the omitted facts underlying his challenge to the warrant
+
+application, as tending to undermine Schofield’s veracity.                In
+
+addition to Schofield’s failure to call the undercover officer on
+
+the way back from New Hampshire on October 14 as he had promised,
+
+Belton points to the events of February 2, 2004, when the
+
+undercover officer again gave Schofield $1,000 to buy
+
+methamphetamine but he ultimately failed either to deliver the
+
+drugs or to return the cash.         As on October 13, when Schofield
+
+accepted the buy money on February 2, he indicated that he would
+
+call the undercover officer upon returning from New Hampshire,
+
+
+
+     5
+      Schofield called the undercover officer at 9:30 a.m. on
+October 14 and arranged for him to pick up the methamphetamine at
+Schofield’s residence at noon. When the officer arrived there at
+1:30 p.m., Schofield’s girlfriend said that he was not home, but
+that he had the meth with him; she also gave the officer
+directions to Schofield’s location. When the details of what the
+police knew of Schofield’s actions on October 14 but omitted from
+the warrant application are considered in their entirety, then,
+it becomes clearer than they do not seriously call the probable
+cause determination into question.
+
+                                      16
+      Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 17 of 32
+
+
+
+
+but did not do so.    In fact, the undercover officer had no
+
+contact with Schofield until the officer called him on February
+
+5, 2004.   Confronted during this call with his failure to provide
+
+the drugs, Schofield fabricated a story about a police roadblock
+
+that caused him to discard them--an apparent effort to cover up
+
+the fact that he had simply misappropriated the money.
+
+      Belton argues that these facts show that “Schofield is not
+
+and was not a credible informant.       He lied and deceived . . . .”
+
+Mem. Supp. Franks Hrg. at [10].      Given that Schofield was the
+
+only identifiable source of first-hand information about Belton’s
+
+allegedly illegal activities, he argues that the inclusion of
+
+these facts in the warrant application would have therefore led
+
+the magistrate to find probable cause lacking.         Although the
+
+court shares Belton’s view of the importance of Schofield’s
+
+information to the probable cause ruling, it disagrees with
+
+Belton’s ultimate conclusion in this regard.
+
+     As already discussed, Geraghty’s affidavit clearly portrays
+
+Schofield as a drug dealer, describing both a consummated and a
+
+proposed sale of $1,000 in methamphetamine that he made
+
+unwittingly to an undercover police officer.         Geraghty testified
+
+at the Franks hearing that, based on his experience as a
+
+narcotics investigator, the details of Schofield’s behavior which
+
+were omitted from the warrant application simply fit this
+
+profile.   Indeed, Geraghty explained that drug dealers often
+
+attempt to “rip off” customers who are believed to have no
+
+                                   17
+      Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 18 of 32
+
+
+
+
+recourse against them, as Schofield apparently attempted to do in
+
+accepting the undercover agent’s money but failing either to
+
+provide the desired methamphetamine or to return the payment.          It
+
+is likewise unsurprising that, unlike a responsible businessman,
+
+a drug dealer would neglect a promise to call one of his
+
+customers at an appointed time as Schofield did to the undercover
+
+agent on two occasions.
+
+     The omitted facts, then, would not have measurably
+
+contributed to the portrait of Schofield as a drug dealer--and,
+
+consequently, a potentially untrustworthy informant--which
+
+emerges from the warrant application.       In that regard, this case
+
+is similar to United States v. Rumney, 867 F.2d 714 (1st Cir.
+
+1989), where an informant falsely denied participating in a
+
+robbery during two separate police interviews but, after his
+
+arrest, admitted to driving the defendant to the crime scene.
+
+Id. at 716.   The police later obtained a warrant to search the
+
+defendant’s home based largely on an account of the informant’s
+
+statements which omitted any reference to his initial denials of
+
+involvement or his criminal record.       Id.   The circuit concluded
+
+that these omissions would not have affected the magistrate’s
+
+ruling that probable cause existed, reasoning that the
+
+informant’s “credibility was not undercut merely because he made
+
+predictable denials until the police could produce evidence
+
+linking him to the robbery” or by his criminal record, which
+
+“explain[ed] in part why [the defendant] asked [the informant] to
+
+                                   18
+      Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 19 of 32
+
+
+
+
+participate in the robbery” in the first place.         Id. at 720.
+
+     Like the warrant application in Rumney, Geraghty’s affidavit
+
+makes no secret of Schofield’s criminality.        Thus, despite the
+
+omission of certain details of that criminality, the magistrate
+
+“issuing the search warrant[] would manifestly have been aware
+
+. . . that [Schofield] was not a model citizen” in considering
+
+his reliability as an informant.        United States v. Hall, 171 F.3d
+
+1133, 1142 (8th Cir. 1999) (finding omission of informant’s full
+
+criminal history and use of aliases from warrant application
+
+immaterial to probable cause determination where application
+
+mentioned her participation in prostitution and auto theft)
+
+(internal quotation marks omitted); see also United States v.
+Avery, 295 F.3d 1158, 1168 (10th Cir. 2002) (similar).
+
+     The First Circuit’s decision in United States v. Vigeant,
+
+176 F.3d 565 (1st Cir. 1999), on which Belton heavily relies, is
+
+not to the contrary.    There, among six other omissions identified
+
+by the circuit, the warrant application “neglected to mention the
+
+[informant’s] long criminal history, his numerous aliases, his
+
+recent plea agreement, and other indicia of his unreliability.”
+
+Id. at 573-74 (footnote omitted).       In concluding that these
+
+omissions were material, the circuit reasoned that they had
+
+deprived the magistrate of the opportunity to assess the
+
+“totality of the circumstances” underlying the probable cause
+
+determination.   Id. at 573 n.9 (internal quotation marks
+
+omitted).   The same cannot be said of Geraghty’s affidavit in
+
+                                   19
+         Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 20 of 32
+
+
+
+
+this case, which, again, amply conveys that Schofield was
+
+distributing methamphetamine.         The court therefore concludes that
+
+the details of the undercover agent’s attempted February 2 drug
+
+buy and Schofield’s failure to call the agent on October 14 as
+
+promised were not material to the probable cause finding.
+
+     Belton also argues that the relevant police reports, but not
+
+the warrant application, show that Schofield “recanted or at a
+
+minimum altered his position of cooperation.”            Mem. Supp. Franks
+Hrg. at [10].      As an initial matter, none of the evidence
+
+received in connection with the Franks hearing suggests that
+
+Schofield retracted any part of his February 6, 2004, statement
+
+inculpating Belton.       Instead, while Schofield had agreed at that
+
+time to try to make controlled purchases of drugs from Belton, he
+
+ultimately “failed to actively cooperate with the investigation,”
+
+Geraghty Aff. ¶ 15, leading to his indictment on April 15, 2004.
+
+     Although Geraghty’s affidavit did not mention Schofield’s
+
+initial willingness to attempt to make a controlled buy, its
+
+reference to the fact that Schofield failed to cooperate and was
+
+indicted as a result fairly indicates that he had, at some prior
+
+point, agreed to provide cooperation.          The court therefore
+
+disagrees with Belton that the warrant application “omitted” the
+
+fact that Schofield “altered his position of cooperation.”6               In
+
+
+     6
+      Similarly, even if Lane’s statement to Geraghty that Belton
+would not be indicted in Vermont unless Schofield gave an in-
+depth proffer could be understood to mean that Schofield had
+refused to do so, such a refusal would not be inconsistent with
+
+                                      20
+         Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 21 of 32
+
+
+
+
+any event, such an omission would not be material to the probable
+
+cause finding, for the same reason that the omissions of the
+
+details of Schofield’s October 14 and February 2 transactions
+
+with the undercover agent are not:          that an admitted criminal
+
+would agree to cooperate with the authorities while in custody
+
+but fail to make good on that agreement following his release
+
+does not further diminish his reliability to any measurable
+
+degree.7    See Rumney, 867 F.2d at 720.
+
+     Finally, even if the facts omitted from the warrant
+
+application were material, either individually or in the
+
+aggregate, that determination alone does not suffice to show that
+
+a Franks violation occurred.         “Franks protects against omissions
+
+that are designed to mislead, or that are made in reckless
+
+disregard of whether they would mislead, the magistrate.”                 United
+
+States v. Colkley, 899 F.2d 297, 301 (4th Cir. 1990) (citing
+
+United States v. Reivich, 793 F.2d 957, 961 (8th Cir. 1986)); see
+
+also Indelicato v. United States, 106 F. Supp. 2d 151, 160-61 (D.
+
+Mass. 2000); United States v. Salemme, 978 F. Supp. 343, 349 (D.
+
+Mass. 1997); 2 Wayne R. LaFave, Search and Seizure: A Treatise on
+
+the Fourth Amendment § 4.4(b), at 545-46 (4th ed. 2004).              The
+
+
+
+Schofield’s initial amenability to attempt controlled purchases
+from Belton.
+     7
+      Indeed, Schofield might have simply gotten cold feet, given
+that a member of the Freelancers attended his arraignment on
+February 9, 2004, and that the club subsequently held meetings to
+discuss the future of Schofield’s membership.
+
+                                      21
+         Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 22 of 32
+
+
+
+
+evidence adduced in connection with the Franks hearing does not
+
+support the conclusion that Geraghty acted with this requisite
+
+degree of animus in omitting any of the facts in question from
+
+the warrant application.
+
+     Geraghty convincingly testified at the hearing that, while
+
+he recognized the importance of Schofield’s credibility to the
+
+probable cause determination, he left the information as to the
+
+attempt to rip off the undercover agent and the like out of the
+
+affidavit because he considered it unremarkable based on his
+
+experience investigating drug crimes.8          As Geraghty put it, “it
+
+didn’t seem important enough to say, ‘Hey, this guy is a drug
+
+dealer and a liar’–-I think the two go hand-in-hand.”             The case
+
+law on this subject discussed supra makes clear that, far from
+
+being reckless, this was a reasonable belief on Geraghty’s part.
+
+     At the Franks hearing, Belton made much of the fact that
+
+Geraghty did not ask Lane for a copy of his investigative file
+
+before seeking the warrant and therefore left open the
+
+possibility that any exculpatory facts about Belton potentially
+
+noted in the reports would not make it into the warrant
+
+application.      Though the better course might have been to obtain
+
+     8
+      Geraghty explained that he would have included these facts
+in the affidavit if Schofield had behaved in that fashion while
+knowingly cooperating with the authorities, because they would
+have suggested a troubling disregard for necessary investigative
+protocol. Because Schofield was helping the police unwittingly,
+however, he was simply treating the undercover agent with the
+level of disregard common in dealer-user relationships, according
+to Geraghty.
+
+                                      22
+       Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 23 of 32
+
+
+
+
+the reports beforehand, Geraghty testified that he did send
+
+multiple drafts of his affidavit to Lane before submitting it.
+
+In any event, Franks does not provide for suppression “in
+
+instances where police have been merely negligent in checking or
+
+recording the facts relevant to a probable-cause determination.”
+
+438 U.S. at 170.     The court therefore concludes that Geraghty
+
+did not intentionally or recklessly omit any material facts from
+
+the warrant application within the meaning of Franks, which in
+turn provides no obstacle to the government’s reliance on the
+
+good faith exception here.      Cf. Vigeant, 176 F.3d at 573-74
+
+(refusing to apply good faith exception where affiant’s “numerous
+
+omissions of material facts were at least reckless” and
+
+government “offer[ed] no rational explanation” for them).
+
+
+
+II.   Whether the Affidavit Is So Lacking in Indicia
+      of Probable Cause as to Render Official Belief
+      in Its Existence Entirely Unreasonable
+
+      Belton also contends that the government cannot rely on the
+
+good faith exception because Geraghty’s affidavit is “so lacking
+
+in indicia of probable cause as to render official belief in its
+
+existence entirely unreasonable.”        Leon, 468 U.S. at 923
+
+(internal quotation marks omitted).        Specifically, Belton argues
+
+that (1) the affidavit fails to establish Schofield’s reliability
+
+as an informant and (2) in any event, neither Schofield’s
+
+statement nor the other facts set forth in the affidavit show the
+
+requisite nexus between any illegal activity and Belton’s home.
+
+                                    23
+      Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 24 of 32
+
+
+
+
+The court will consider these arguments in turn, keeping in mind
+
+that “the relevant question [is] ‘whether a reasonably well-
+
+trained officer in [Geraghty’s] position would have known that
+
+his affidavit failed to establish probable cause and that he
+
+should not have applied for the warrant.’”        Vigeant, 176 F.3d at
+
+572 (quoting Malley v. Briggs, 475 U.S. 335, 345 (1986)).
+
+
+
+     A.   Schofield’s Credibility
+     The First Circuit has assembled a non-exhaustive list of
+
+factors to consider in evaluating probable cause where facts
+
+supporting the issuance of a warrant originate with an informant,
+
+including his or her apparent veracity or basis of knowledge,
+
+whether his or her statements are self-authenticating, the extent
+
+to which the statements were corroborated where reasonable and
+
+practicable, and any professional assessment of the probable
+
+significance of the statements made by the investigating
+
+authorities.   Zayas-Diaz, 95 F.3d at 111; see also, e.g.,
+
+Capozzi, 347 F.3d at 333; United States v. Barnard, 299 F.3d 90,
+
+93 (1st Cir. 2002).    “‘None of these factors is indispensable;’
+
+the ultimate issue is whether the totality of the circumstances
+
+establishes the credibility of the informant’s story.”          Capozzi,
+
+347 F.3d at 333 (quoting Zayas-Diaz, 95 F.3d at 111).
+
+       Belton argues that the circumstances here fail to show
+
+that the information provided by Schofield was, in fact,
+
+credible, particularly because (1) Schofield was an “unproven”
+
+                                   24
+      Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 25 of 32
+
+
+
+
+informant, (2) the “scant details” he provided cannot be
+
+considered self-authenticating, and (3) his account was not
+
+corroborated by independent police investigation in any
+
+significant respect.    Taking Belton’s points in order, the court
+
+notes that “an informant’s tip can establish probable cause even
+
+though the affidavit does not contain information about the
+informant’s past reliability” where it conveys other facts
+
+tending to establish his or her credibility.         United States v.
+
+Greenburg, 410 F.3d 63, 67 (1st Cir. 2005).
+
+     In Greenburg, for example, though “the informant had no
+
+track record of reliability,” the circuit treated the facts that
+
+the informant had met with the investigator face-to-face and that
+
+the investigator therefore knew the informant’s identity as
+
+significant in bolstering his credibility.        Id.   The circuit
+
+reasoned that such a meeting provided “the opportunity to
+
+question the informant personally about the tip and take measure
+
+of [his] credibility” as well as to “hold [him] responsible if he
+
+provided false information.”      Id.   This reasoning is similarly
+
+applicable here, where Schofield gave his account of Belton’s
+
+allegedly illegal activities directly to Lane.
+
+     Belton also criticizes the level of detail about his
+
+allegedly illegal activities which Schofield provided,
+
+characterizing his account as a “general claim[] that [Belton]
+
+sells drugs.”   Mem. Supp. Mot. Suppress at [7].        As the
+
+                                   25
+      Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 26 of 32
+
+
+
+
+government points out, however, Schofield provided information as
+
+to the types of drugs Belton sold, at what prices, where he sold
+
+them from, and to whom.     Schofield’s statement therefore
+
+transcended “simply identifying [Belton] as a drug dealer.”
+
+United States v. Benedict, 389 F. Supp. 2d 136, 140 (D.N.H. 2005)
+
+(DiClerico, J.) (rejecting similar challenge to credibility of
+
+informant whose story supported warrantless arrest).
+
+     Moreover, like the principal informant in Benedict,
+
+Schofield claimed to have come by his information about Belton’s
+
+illegal activities through first-hand participation in them.           389
+
+F. Supp. 2d at 141 (“‘The credibility of an informant is enhanced
+
+to the extent he has provided information that indicates first-
+
+hand knowledge,’ particularly of ‘concealed illegal activity as
+
+opposed to easily knowable, nonincriminating facts’”) (quoting
+
+Barnard, 299 F.3d at 94).     Also like his counterpart in Benedict,
+
+Schofield implicated himself in criminal conduct beyond what the
+
+authorities already knew, which “tend[s] to support [his]
+
+credibility, given the disincentive to falsely incriminate
+
+oneself.”   Id.
+
+     Furthermore, contrary to Belton’s third criticism of
+
+Schofield’s reliability, the authorities had independent
+
+information corroborating a number of aspects of his story.
+
+First, the police knew that Schofield had a relationship of some
+
+kind with Belton because they had observed the men meeting in
+
+                                   26
+      Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 27 of 32
+
+
+
+
+Tilton on one occasion, and knew from the undercover agent’s cell
+
+phone and Schofield’s own “caller ID” that he had placed and
+
+received calls from a phone number listed to Belton’s business.
+
+Second, the authorities trailed Schofield to within just a short
+
+distance from Belton’s residence after the undercover agent had
+
+given Schofield money to purchase methamphetamine on October 13,
+2003, and spotted Schofield near Belton’s hometown on February 2,
+
+2004, after Schofield had placed a call to Belton’s number in an
+
+apparent attempt to procure more meth.
+
+     It is true, as Belton points out, that the police never
+
+witnessed any inherently suspicious behavior on his part, or even
+
+confirmed that Schofield actually came into contact with Belton
+
+during either of the trips to New Hampshire which followed his
+
+meetings with the undercover agent.       “But even ‘[c]orroboration
+
+of innocent activity can establish the reliability of the
+informant because the activity might come to appear suspicious in
+
+light of the initial tip.’”     Benedict, 389 F. Supp. 2d at 142
+
+(quoting Greenburg, 410 F.3d at 69).       The activity which the
+
+police did observe dovetailed with what Schofield told them about
+
+his drug source both before and after his arrest and therefore
+
+helped to corroborate his statement inculpating Belton.           “It is
+
+enough, for purposes of assessing probable cause, that
+
+corroboration through other sources of information reduced the
+
+chances of a reckless or prevaricating tale, thus providing a
+
+                                   27
+         Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 28 of 32
+
+
+
+
+substantial basis for crediting the [informant’s] hearsay.”
+
+Illinois v. Gates, 462 U.S. 213, 244-45 (1983) (internal
+
+quotation marks and bracketing omitted).
+
+     In sum, while each of Belton’s criticisms of the affidavit’s
+
+indicia of Schofield’s credibility has some validity, the
+
+affidavit sets forth other aspects of Schofield’s account which
+
+tend to bolster his veracity.         In any event, the deficiencies
+
+Belton identifies do not cast Schofield’s information into
+
+sufficient doubt so as to render Geraghty’s belief in the
+
+existence of probable cause entirely unreasonable.             “[An] officer
+
+need not . . . entirely eliminate the risk that an informant is
+
+lying or in error.”9       Capozzi, 347 F.3d at 333 (internal
+
+quotation marks omitted).        Any shortcoming in this regard, then,
+
+is not glaring enough to prevent the government from relying on
+
+the good faith exception.
+
+
+
+
+     9
+      Indeed, “the authorities need corroborate tips only insofar
+as it is “reasonable and practicable” to do so.” Benedict, 389
+F. Supp. 2d 142 (quoting Greenburg, 410 F.3d at 69 n.3) (further
+internal quotation marks omitted). As the warrant application
+explained, the police did not believe they could surveil Belton’s
+residence without detection, due to the character of his
+neighborhood, and had no way to attempt a controlled buy from
+Belton once Schofield refused to cooperate.
+
+                                      28
+      Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 29 of 32
+
+
+
+
+     B.     Nexus to Belton’s Residence
+
+     Belton also contends that the information set forth in the
+
+warrant application fail to demonstrate probable cause that
+
+evidence of drug-related crimes would be found at his residence.
+
+“For evidence to avert suppression, normally the warrant
+
+application must demonstrate probable cause to believe that a
+
+particular person has committed a crime–-the commission element–-
+
+and that enumerated evidence relevant to the probable criminality
+
+likely is located at the place to be searched–-the nexus
+
+element.”    Zayas-Diaz, 95 F.3d at 110-11 (internal quotation
+
+marks and citation omitted); see also Vigeant, 176 F.3d at 569.
+
+Belton argues that, in his case, “the nexus element is virtually
+
+non-existent,” since the only information in the affidavit
+
+linking his home to any illegal activity was Schofield’s “vague”
+
+statements that Belton “sold drugs from his residence” and that
+
+“he saw drugs” there.    Mem. Supp. Mot. Suppress at [3] & n.2.
+
+     The court notes at the outset that this argument rests on a
+
+narrow interpretation of Schofield’s statement as set forth in
+
+the warrant application.     “In determining whether the nexus
+
+element is satisfied, a magistrate has to make ‘a practical,
+
+common-sense decision whether, given all the circumstances set
+
+forth in the affidavit before him, . . . there is a fair
+
+probability that contraband or evidence of a crime will be found
+
+in a particular place.’”     United States v. Ribeiro, 397 F.3d 43,
+
+                                   29
+          Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 30 of 32
+
+
+
+
+48-49 (1st Cir. 2005) (quoting Gates, 462 U.S. at 238).               The
+
+magistrate may draw reasonable inferences from the facts alleged
+
+in the warrant application in making this assessment.              See United
+
+States v. Falon, 959 F.2d 1143, 1147 (1st Cir. 1992); United
+
+States v. Hershenow, 680 F.2d 847, 851 (1st Cir. 1982).
+
+     The warrant application relates Schofield’s statements that
+
+he had been buying methamphetamine from Belton for several
+
+months; that Belton “sells from his residence as well as the
+
+clubhouse;”10 and that “SCHOFIELD has seen an ounce of
+
+methamphetamine at BELTON’s residence.”            Geraghty Aff. ¶ 7.
+
+While other inferences are possible, e.g., that Schofield had
+
+only seen meth at Belton’s residence on one unspecified occasion,
+
+it is reasonable to infer from these facts that Schofield
+
+regularly bought methamphetamine from Belton at his residence.
+
+The information independently gathered by the authorities
+
+supports this inference:         when Schofield attempted to purchase
+
+methamphetamine for the undercover officer, he either traveled
+
+into the vicinity of Belton’s residence or called a phone number
+
+listed for that address.11
+
+
+     10
+      It is unclear from the affidavit whether the “clubhouse”
+in question belongs to the Freelancers or the Vietnam Vets
+Motorcycle Club.
+     11
+      Belton emphasizes that the phone number, registered to his
+business, was listed to a different street address in Franklin as
+well as to his home. A warrant application, however, need
+
+                                       30
+      Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 31 of 32
+
+
+
+
+     “The probable-cause nexus between enumerated evidence of the
+
+crime and the place ‘can be inferred from the type of crime, the
+
+nature of the items sought, the extent of an opportunity for
+
+concealment, and normal inferences as to where a criminal would
+
+hide evidence of a crime.’”     Ribeiro, 397 F.3d at 49 (quoting
+
+United States v. Charest, 602 F.2d 1015, 1017 (1st Cir. 1979))
+
+(bracketing omitted).    Here, these considerations justify the
+
+inference that Belton kept evidence of his drug dealing at his
+
+residence.   Indeed, Geraghty stated in his affidavit that, based
+
+on his training and experience, narcotics dealers often keep
+
+cash, weapons, drug paraphernalia, records of drug transactions,
+
+and other evidence of their activities in their homes.          While
+
+“[a]lone, such generalized observations may not be enough to
+
+satisfy the nexus element,” id. at 50 (citing cases), they do not
+
+stand alone in this instance, but are accompanied by the
+
+statement of an informant with first-hand knowledge of the
+
+connection, corroborated in material respects.         See Zayas-Diaz,
+
+95 F.3d at 112; cf. State v. Silvestri, 136 N.H. 522, 528 (1992)
+
+(reversing denial of motion to suppress based on insufficient
+
+probable cause for warrant for defendant’s home where “there was
+
+nothing to indicate that evidence of the crime was kept at, or
+
+
+demonstrate only ‘“a fair probability that contraband or evidence
+of a crime will be found in a particular place. Zayas-Diaz, 95
+F.3d at 111 (quoting Gates, 462 U.S. at 238).
+
+                                   31
+      Case 1:04-cr-00192-JD Document 42 Filed 01/30/06 Page 32 of 32
+
+
+
+
+picked up from, the defendant’s residence other than the mere
+
+fact that the defendant was suspected of being a criminal”),
+
+discussed in Mem. Supp. Mot. Suppress at [9]-[10].
+
+     Accordingly, the court concludes that a reasonably well-
+
+trained officer in Geraghty’s position would have believed that
+
+his affidavit established probable cause to search Belton’s
+
+residence for drugs and related evidence.        Again, while it may
+
+have been preferable for the police to extract more specifics
+
+from Schofield about the connection between 3 Lilac Lane and
+
+Belton’s illicit dealings, the court believes that the affidavit
+
+contains enough information supporting the link to have
+
+reasonably convinced Geraghty that probable cause existed.             The
+
+warrant application, therefore, is not so lacking in indicia of
+
+probable cause as to preclude the government’s reliance on the
+
+good faith exception.
+
+
+
+                               Conclusion
+
+     For the foregoing reasons, Belton’s motions to suppress
+
+(document nos. 14 and 36) are DENIED.
+
+     SO ORDERED.
+
+
+
+                                        Joseph A. DiClerico, Jr.
+                                        United States District Judge
+
+January 30, 2006
+cc: Paul J. Garrity, Esquire
+     Joseph N. Laplante, Esquire
+     U.S. Probation
+     U.S. Marshal
+
+                                   32
+

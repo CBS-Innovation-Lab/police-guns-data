@@ -1,0 +1,791 @@
+Case 2:06-cr-00013-DBH Document 18 Filed 05/24/06 Page 1 of 16                                                   PageID #: 69
+
+
+
+                                       UNITED STATES DISTRICT COURT
+                                            DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA                                     )
+                                                             )
+v.                                                           )                    Criminal No. 06-13-P-H
+                                                             )
+JUSTIN WOODBURY,                                             )
+                                                             )
+                              Defendant                      )
+
+
+
+                       RECOMMENDED DECISION ON MOTION TO SUPPRESS
+
+
+          Justin Woodbury, charged with being a felon in possession of a firearm (a Star Bonifacio
+
+Echeverria Firestar model .40-caliber pistol bearing serial number 2037122) in violation of 18 U.S.C.
+
+§§ 922(g)(1) and 924(a), seeks to suppress evidence obtained pursuant to what he asserts was the
+
+unlawful entry of his apartment at #7 Leisure Lane, Windham, Maine on or about September 9, 2005.
+
+See Motion To Suppress Evidence, etc. (“Motion”) (Docket No. 12) at 1-3; Indictment (Docket No.
+
+1). For the reasons that follow, I recommend that the Motion be denied.
+
+                                                   I. Factual Backdrop1
+
+          On September 9, 2005 Ernest W. MacVane III, a Windham, Maine police officer cross-
+
+designated and federally deputized as a task-force agent of the federal Drug Enforcement
+
+Administration, applied for a warrant to search “#7 Leisure Lane[,] Windham, Maine[,] believed to be
+
+
+1
+  No evidentiary hearing was held with respect to the instant motion, which challenges the validity of a search warrant. See generally
+Motion. While both parties recite certain facts extrinsic to the warrant, there is no material disagreement between their versions of
+those facts, obviating the need for an evidentiary hearing. Compare Motion at 2-3 with Government’s Objection to Defendant’s
+Motion To Suppress, etc. (“Objection”) (Docket No. 14) at 3-4; see, e.g., United States v. Villegas, 388 F.3d 317, 324 (7th Cir.
+2004) (“Because the purpose of an evidentiary hearing is to resolve material factual disputes among the parties, a hearing is not
+required in the absence of such disputes.”).
+
+
+                                                                  1
+Case 2:06-cr-00013-DBH Document 18 Filed 05/24/06 Page 2 of 16                       PageID #: 70
+
+
+
+the bottom floor left apartment. Said structure is a white multi-unit dwelling with a covered front
+
+porch, and a grey shingled roof. Said dwelling is further described as ‘Attachment A’ to this
+
+affidavit.” Application and Affidavit for Search Warrant (“Application”), Exh. 1 to Motion, at 1-2 &
+
+3 n.1. The Application listed the owner/occupant of the location to be searched as Justin Woodbury.
+
+See id. at 1. In an incorporated affidavit, MacVane stated that on or about May 5, 2005 he spoke with
+
+Sergeant R. Michael Denbow, who passed along information from a confidential source, SOI#1. See
+
+id. at 3, ¶ 2. MacVane added that the identity of SOI#1 was known to Denbow, to whom SOI#1 had
+
+previously provided truthful information, and that SOI#1 was cooperating out of concern for the
+
+community. See id. at 3 n.2. MacVane did not know whether SOI#1 was facing any charges. See id.
+
+MacVane averred that he learned from Denbow:
+
+       A)      That on or about May 5th[,] 2005, a SOI#1 contacted (Sgt. Denbow) and
+               reported that once a week[,] on . . . Friday evenings, Kenneth DURGIN AKA
+               J.D. drives into Portland, ME, and purchases cocaine from an unknown source.
+                The address of the source is unknown, however the SOS name is Mike LNU,
+               he is married, and has a handicap[ped] daughter.
+
+       B)      After DURGIN picks up the cocaine in Portland he travels to an apartment on
+               Lamb Street in Windham, Maine where he delivers the cocaine to a Justin
+               WOODBURY.
+
+       C)      Woodbury then “cuts” (slang for increasing the amount of cocaine by adding
+               other materials) the cocaine at his (WOODBURY’S) apartment and further
+               distributes the cocaine throughout Gorham, Windham and surrounding areas.
+
+       D)      The SOI#1 reported seeing DURGIN delivering a “brick size” block of
+               cocaine to WOODBURY at the Lamb Street location on or about April 5th[,]
+               2005.
+
+       E)      05-08-2005 1740 hrs., CI contacted Sgt. Denbow via telephone to report
+               having subsequent information regarding WOODBURY. CI reported to Sgt.
+               Denbow [that] he/she spoke to Woodbury on or about May 7th[,] 2005, during
+               which time WOODBURY to[ld] the CI that he (WOODBURY) recently
+               purchased a .40 or .44 caliber pistol[.] WOODBURY further bragged to the
+
+
+
+                                                 2
+Case 2:06-cr-00013-DBH Document 18 Filed 05/24/06 Page 3 of 16                                                   PageID #: 71
+
+
+
+                      SOI#1 that he (WOODBURY) was a convicted felon. 2
+
+            F)        The SOI#1 added that two of WOODBURY’S drug customers were Kenneth
+                      DURGIN’S stepfather and the stepfather’s roommate.
+
+Id. at 3-4, ¶ 2. MacVane also stated that on September 9, 2005 he spoke with another officer, Robert
+
+Hunt of the Windham Police Department. See id at 4, ¶ 3. Hunt relayed to MacVane that the previous
+
+day, September 8, 2005, he had stopped a white Camaro for speeding after observing it rapidly
+
+accelerating from Lamb Street in Windham onto Route 35. See id. at 4, ¶¶ 3(a)-(c). Hunt noticed that
+
+the lone driver, SOI#2, appeared nervous and asked why. See id at 4, ¶ 3(c). SOI#2 shrugged and
+
+said that he/she was just nervous. See id. Hunt asked SOI#2 who he/she knew on Lamb Street, and
+
+SOI#2 said he/she had just come from Justin Woodbury’s apartment. See id. MacVane went on:
+
+            Officer Hunt told me that he was familiar with WOODBURY from previous police
+            related intelligence reports as being a distributor of cocaine. SOI#2, without
+            prompting, advised Officer Hunt who further advised me, by stating words to the effect
+            of, that he/she knew what he (Officer Hunt) was thinking and that he/she was not into
+            that kind of thing. Officer Hunt told me that he (Officer Hunt) understood the
+            operator’s comments to mean [that] he/she was a suspected cocaine trafficker.
+
+Id. at 4-5, ¶ 3(d). Saying that he/she had nothing to hide, SOI#2 invited Hunt to search his/her car,
+
+which Hunt did, finding nothing. See id. at 5, ¶¶ 3(d)-(e). When SOI#2 continued to appear nervous,
+
+Hunt asked if he/she was worried about anything. See id. at 5, ¶ 3(e). “SOI #2 told Officer Hunt . . .
+
+that the SOI#2 wanted to talk with someone about illegal activities that he/she knew about, but was
+
+concerned about being seen on the side of the road talking with the police.” Id. Hunt inquired whether
+
+SOI#2 wished to talk to him about Justin Woodbury; SOI#2 confirmed that he/she did, but did not want
+
+his/her name used if his/her information led to police response against Woodbury because he/she
+
+
+
+
+2
+    It is apparent that MacVane’s references to “CI” in this paragraph were meant to be references to “SOI#1.”
+
+
+                                                                 3
+Case 2:06-cr-00013-DBH Document 18 Filed 05/24/06 Page 4 of 16                                            PageID #: 72
+
+
+
+feared retribution from Woodbury’s drug-trafficking organization. See id.3 Hunt later met SOI#2 at a
+
+variety store where SOI#2 told him:
+
+         ?         that the (SOI#2) has been a frequent visitor to Justin WOODBURY’s
+                   apartment; and
+
+         ?         that on several occasions he/she had been present while WOODBURY
+                   prepared cocaine for distribution, and that WOODBURY receives weekly
+                   quantities of cocaine, and that the best time to “hit him” (WOODBURY) with
+                   cocaine is on the weekends.
+
+         ?         [t]hat WOODBURY had recently purchased a new Ford SUV for $9000.00
+                   cash, which he/she believed was purchased with proceeds derived from drug
+                   trafficking.
+
+         ?         [t]hat Woodbury offered the (SOI#2) cocaine during his visit on September
+                   8th[,] 2005, though he/she claimed not to have observe[d] it (cocaine).
+
+         ?         . . . that Woodbury displayed, and further allowed SOI#2 . . . to handle[,] a .40
+                   caliber handgun; and
+
+         ?         that WOODBURY’S handgun is kept in a closet within WOODBURY’S
+                   apartment.
+
+         ?         [t]hat WOODBURY is a convicted felon and does not carry the gun away from
+                   his apartment.
+
+         ?         [t]hat WOODBURY primarily deals his cocaine to lower level customers
+                   throughout Windham and Gorham, Maine, particularly the Little Falls Area of
+                   Gorham.
+
+         ?         [that] Woodbury transports his cocaine concealed in his pants, pinned near his
+                   zipper to avoid detection; and
+
+         ?         that Woodbury only deals in cocaine.
+
+
+Id. at 5-6, ¶ 3(f). MacVane added that he (MacVane) was “aware, through prior law enforcement
+
+
+3
+  MacVane described SOI#2 as a minor and a resident of Windham, Maine. See Application at 4 n.3. Per MacVane, SOI#2 faced
+no charges from the Windham Police Department and was cooperating out of fear of Woodbury’s drug-trafficking organization. See
+id. MacVane knew SOI#2’s identity. See id.
+
+
+                                                              4
+Case 2:06-cr-00013-DBH Document 18 Filed 05/24/06 Page 5 of 16                       PageID #: 73
+
+
+
+contacts, that WOODBURY and other member[]s of his drug trafficking organization have committed
+
+acts of violence and have been in possession of firearms.” Id. at 6, ¶ 4. He concluded:
+
+“Therefore, . . . I believe that there is probable cause that Justin WOODBURY/ DOB: 05-15-1981, is
+
+committing the crime of trafficking cocaine. And that this crime is being committed at or on the
+
+curtilage of, #7 Leisure Lane[,] Windham, Maine.” Id. at 6, ¶ 5.
+
+        On September 9, 2005 Maine District Court Judge Andrew Horton signed a warrant
+
+authorizing search of “#7 Leisure Lane[,] Windham, Maine[,] believed to be the bottom floor left
+
+apartment. Said structure is a white multi-unit dwelling with a covered front porch, and a gray
+
+shingled roof.” Search Warrant (“Warrant”), Exh. 2 to Motion, at 1; see also Motion at 2; Objection
+
+at 3. The Warrant identified Justin Woodbury as the owner or occupant of the premises. See Warrant
+
+at 2.
+
+        On September 9, 2005 multiple officers, including MacVane, Windham police officers and
+
+federal agents, attempted to effectuate the Warrant at #7 Leisure Lane, bottom-floor left apartment.
+
+See Motion at 2; Objection at 3. When MacVane knocked on the door of the bottom-floor left
+
+apartment, its occupant informed him that Woodbury did not live there and redirected the officers to
+
+the top-floor apartment on the left. See id. The officers proceeded to that apartment, knocked loudly
+
+on the door and requested that Woodbury open it. See id. They heard some noises emanating from
+
+inside the apartment. See id. After a brief wait, they announced themselves as police with a search
+
+warrant. See id. MacVane used a ram to forcibly open the door. See id. Once inside, officers
+
+discovered and detained the defendant and searched the apartment, seizing a firearm, drug
+
+paraphernalia and other items. See Motion at 2-3; Objection at 3-4; see also Exhs. 3-4 to Motion.
+
+After being read the Miranda warnings, Woodbury was interrogated and made inculpatory statements.
+
+
+
+                                                 5
+Case 2:06-cr-00013-DBH Document 18 Filed 05/24/06 Page 6 of 16                                                     PageID #: 74
+
+
+
+ See Motion at 3; Objection at 4; Exh. 1 to Objection. 4
+
+                                                           II. Analysis
+
+          Woodbury identifies three errors on the basis of which he seeks suppression of the firearm and
+
+other items seized from his apartment and statements he made on September 9, 2005: that (i) the
+
+Warrant did not permit search of his apartment but rather a different apartment, (ii) in any event, the
+
+Warrant failed to provide probable cause as to the location at #7 Leisure Lane, and (iii) the Warrant
+
+failed to establish probable cause as to the existence of criminal activity or contraband at #7 Leisure
+
+Lane. See Motion at 4-5. The government defends the validity of the Warrant and the search
+
+conducted pursuant thereto and, alternatively, invokes the so-called Leon good-faith exception. See
+
+Objection at 5-13; see also United States v. Leon, 468 U.S. 897, 922-25 (1984). As to all points
+
+raised, I conclude that the government has the better of the argument. Hence, I recommend that the
+
+motion to suppress be denied.
+
+                                             A. Particularity of Description
+
+          The defendant’s first point implicates the command of the Fourth Amendment that “no warrants
+
+shall issue, but upon probable cause, and particularly describing the place to be searched.” United
+
+States v. Bonner, 808 F.2d 864, 866 (1st Cir. 1986) (citation and internal punctuation omitted). The
+
+“manifest purpose” of this particularity requirement “is to prevent wide-ranging general searches by
+
+the police.” Id. As the First Circuit has observed: “The test for determining the adequacy of the
+
+description of the location to be searched is whether the description is sufficient to enable the
+
+executing officer to locate and identify the premises with reasonable effort, and whether there is any
+
+4
+  Per Miranda v. Arizona, 384 U.S. 436 (1966), an accused must be advised prior to custodial interrogation “that he has the right to
+remain silent, that anything he says can be used against him in a court of law, that he has the right to the presence of an attorney, and
+that if he cannot afford an attorney one will be appointed for him prior to any questioning if he so desires.” Miranda, 384 U.S. at
+(continued on next page)
+
+
+                                                                   6
+Case 2:06-cr-00013-DBH Document 18 Filed 05/24/06 Page 7 of 16                           PageID #: 75
+
+
+
+reasonable probability that another premise might be mistakenly searched.” Id. (citations and internal
+
+quotation marks omitted).
+
+          The defendant contends that, in this case, (i) the Warrant unequivocally identified only one
+
+apartment – the bottom-floor left apartment – as the premises to be searched, and (ii) officers did in
+
+fact understand the Warrant as permitting the search of that apartment, which is precisely where they
+
+headed on arrival at #7 Leisure Lane. See Motion at 5; Defendant’s Response to the Government’s
+
+Objection to Defendant’s Motion To Suppress Evidence, etc. (“Reply”) (Docket No. 16) at 1-3.
+
+Therefore, in the defendant’s view, the Warrant clearly did not authorize search of an apartment on the
+
+top floor, left hand side, of #7 Leisure Lane. See id. The government rejoins that, while officers
+
+incorrectly believed that the defendant’s apartment was located on the bottom floor, what they sought,
+
+and what the Warrant authorized, was permission to search the apartment belonging to Justin
+
+Woodbury at #7 Leisure Lane. See Objection at 5-7. I agree.
+
+          “[S]earch warrants and affidavits should be considered in a common sense manner, and
+
+hypertechnical readings should be avoided.” Bonner, 808 F.2d at 868; see also, e.g., Commonwealth
+
+v. Cohen, 382 N.E.2d 1105, 1107 (Mass. App. Ct. 1978) (“[N]either warrants nor their supporting
+
+affidavits require a conveyancer’s precise language, and the rigors of an average criminal
+
+investigation are not to be intensified by a pecksniffian attention to noncrucial detail on review.”)
+
+(citations and internal quotation marks omitted). In keeping with that spirit, the First Circuit has ruled
+
+that a mistaken address, or omission altogether of an address, does not invalidate a search warrant in
+
+circumstances in which, in the totality of the circumstances, there was no reasonable probability that
+
+another premises might mistakenly be searched. See, e.g., United States v. Cunningham, 113 F.3d
+
+
+478-79.
+
+
+                                                    7
+Case 2:06-cr-00013-DBH Document 18 Filed 05/24/06 Page 8 of 16                              PageID #: 76
+
+
+
+289, 294 (1st Cir. 1997) (wiretapping warrant valid when, despite its seriously confusing language,
+
+both judge and executing officer knew what had been proposed and authorized); Bonner, 808 F.2d at
+
+866-67 (description of premises adequate despite inadvertent omission of address when “agents,
+
+having previously conducted the surveillance, knew exactly which house they wanted to search,
+
+described it accurately and in detail in their affidavit, and searched only that house without delay after
+
+the warrant issued”).
+
+        Inasmuch as appears, the First Circuit has not had occasion to consider whether a warrant
+
+identifying the wrong unit in a multi-unit building is sufficiently definite when it correctly identifies the
+
+name of the unit occupant. As the defendant points out, a search warrant for an apartment house, hotel
+
+or other multiple-unit building usually is held invalid if it fails to describe the particular unit to be
+
+searched with sufficient definiteness to preclude an indiscriminate search of one or more units. See
+
+Reply at 4; see also, e.g., United States v. Higgins, 428 F.2d 232, 234-35 (7th Cir. 1970); United
+
+States v. Rivera Rodriguez, 768 F. Supp. 16, 18 (D.P.R. 1991). On the other hand, as noted in Rivera
+
+Rodriguez – one of the cases the defendant cites – accurate identification of the name of the unit
+
+occupant typically has been held adequate to satisfy the Fourth Amendment’s particularity requirement.
+
+See Rivera Rodriguez, 768 F. Supp. at 21 n.5 (“We note that a search warrant directed against a
+
+multi-occupancy structure which fails to accurately describe the particular subunit to be searched will
+
+not ordinarily be held invalid when it adequately specifies the name of the occupant of the subunit.”);
+
+see also, e.g., United States v. Bedford, 519 F.2d 650, 655 (3d Cir. 1975) (warrant was sufficiently
+
+definite when it specified address of multi-unit building and name of person whose apartment was to
+
+be searched); United States v. Vaughan, 875 F. Supp. 36, 42-43 (D. Mass. 1995) (same).
+
+        Here, there is a twist: the combination of a wrong apartment description (bottom left versus top
+
+left) with an accurate listing of a unit occupant’s name. Does that invalidate the Warrant? I think not.
+
+                                                     8
+Case 2:06-cr-00013-DBH Document 18 Filed 05/24/06 Page 9 of 16                         PageID #: 77
+
+
+
+In this case, affiant MacVane made clear that he sought to search the apartment of Justin Woodbury,
+
+that Woodbury lived in a multiple-unit building at #7 Leisure Lane in Windham, and that MacVane
+
+believed the precise location of Woodbury’s apartment was the bottom-floor, left hand side. See
+
+Application at 1-2. In parallel fashion, the Warrant likewise made clear that police were authorized
+
+to search the unit of Justin Woodbury at #7 Leisure Lane, believed to be the bottom-floor, left
+
+apartment. See Warrant at 1-2. This description was sufficient – as it would have been had the
+
+Warrant merely stated that it authorized the search of the apartment of Justin Woodbury at #7 Leisure
+
+Lane – “to enable the executing officer to locate and identify the premises with reasonable effort[.]”
+
+Bonner, 808 F.2d at 866 (citations and internal quotation marks omitted); see also, e.g., United States
+
+v. Dollson, No. CRIM.A. 04-CR-402, 2004 WL 2577551, at *3 (E.D. Pa. Oct. 25, 2004) (“[C]ourts
+
+have authorized warrants listing the name of an apartment’s occupant or describing its physical
+
+characteristics, even if an address is incorrect or unavailable.”). That, indeed, was precisely what
+
+executing officers did upon arriving at #7 Leisure Lane: locate the Woodbury apartment with a
+
+modicum of effort. There was no reasonable probability that the wrong unit would have been
+
+searched.
+
+       The Warrant accordingly authorized the search that transpired of the defendant’s apartment,
+
+describing it with sufficient particularity to pass constitutional muster despite MacVane’s mistake as
+
+to the unit’s precise location within the multiple-unit #7 Leisure Lane.
+
+
+
+                               B. Probable Cause: Nexus Element
+
+       The defendant next challenges the probable-cause underpinnings for issuance of the Warrant.
+
+See Motion at 5-9. As an initial matter, he asserts that the MacVane affidavit fails to demonstrate any
+
+nexus between the #7 Leisure Lane address (which neither confidential source mentions) and the
+
+                                                  9
+Case 2:06-cr-00013-DBH Document 18 Filed 05/24/06 Page 10 of 16                             PageID #: 78
+
+
+
+defendant or his alleged criminal activity. See id. at 5-6.
+
+        “A warrant application must demonstrate probable cause to believe that (1) a crime has been
+
+committed – the ‘commission’ element, and (2) enumerated evidence of the offense will be found at
+
+the place to be searched – the so-called ‘nexus’ element.” United States v. Ribeiro, 397 F.3d 43, 48
+
+(1st Cir. 2005) (citation and internal quotation marks omitted). Both the issuing magistrate and a
+
+subsequent reviewing court look to “the totality of the circumstances indicated [within the four corners
+
+of] a supporting affidavit” to assess the existence vel non of probable cause. United States v.
+
+Schaefer, 87 F.3d 562, 565 (1st Cir. 1996). “Yet such review cannot start from scratch. A
+
+magistrate’s determination of probable cause should be paid great deference by reviewing courts.” Id.
+
+(citation and internal quotation marks omitted).
+
+        “In determining whether the nexus element is satisfied, a magistrate has to make a practical,
+
+common-sense decision whether, given all the circumstances set forth in the affidavit before him,
+
+there is a fair probability that contraband or evidence of a crime will be found in a particular place.”
+
+Ribeiro, 397 F.3d at 48-49 (citation and internal punctuation omitted). “Put differently, the
+
+application must give someone of reasonable caution reason to believe that evidence of a crime will
+
+be found at the place to be searched.” Id. at 49 (citation and internal quotation marks omitted).
+
+        As the defendant argues, see Motion at 5, the two confidential sources described in MacVane’s
+
+affidavit discussed the defendant’s connection to Lamb Street in Windham but not to #7 Leisure Lane,
+
+see Application at 3-6. Nonetheless, MacVane (i) asserted at the outset of his affidavit that he was
+
+investigating a case involving illegal use and trafficking of cocaine by the defendant at #7 Leisure
+
+Lane in Windham, see id at 3, ¶ 1, and (ii) relayed reports from SOI#1 and SOI#2 of criminal
+
+activities allegedly occurring at the defendant’s apartment, see, e.g., id. at 3, ¶ (2)(C) (noting that, per
+
+SOI#1, “Woodbury then ‘cuts’ . . . the cocaine at his (WOODBURY’S) apartment”), 4, ¶ (3)(c)
+
+                                                    10
+Case 2:06-cr-00013-DBH Document 18 Filed 05/24/06 Page 11 of 16                           PageID #: 79
+
+
+
+(SOI#2 “had just come from Justin WOODBURY’S apartment” when stopped by Hunt) & 5, ¶ 3(f)
+
+(SOI#2 had been “a frequent visitor to Justin WOODBURY’S apartment” and had been present on
+
+several occasions while Woodbury prepared cocaine for distribution). The references contained in
+
+the MacVane affidavit to a Lamb Street apartment are ambiguous; one could just as easily conclude
+
+that it is a different apartment than the defendant’s as that it is one and the same. See generally id. In
+
+short, the affidavit sufficed to permit a reviewing judge to believe that evidence of a commission of a
+
+crime (cocaine trafficking) would be found at the defendant’s apartment, which MacVane had
+
+determined was located at #7 Leisure Lane in Windham.
+
+                      C. Probable Cause: Reliance on Confidential Sources
+
+        The defendant next, and finally, attacks the probable-cause underpinning of the Warrant on the
+
+bases that (i) the MacVane affidavit failed to establish the reliability of either confidential informant,
+
+(ii) there was insufficient probable cause to establish that the defendant was a felon in possession of a
+
+firearm, and (iii) the evidence provided by SOI#1 was stale. See Motion at 6-9.
+
+        As the First Circuit has observed, an affiant need not necessarily assess (or otherwise vouch
+
+for) the credibility of informants to demonstrate probable cause for issuance of a warrant. See, e.g.,
+
+Schaefer, 87 F.3d at 566 (“[A]n informant’s tales need not invariably be buttressed by extensive
+
+encomia to his veracity or detailed discussions of the source of his knowledge. While an informant’s
+
+truthfulness and basis of knowledge are highly relevant in determining the value of his report, the
+
+[Supreme] Court has cautioned that these elements should [not] be understood as entirely separate and
+
+independent requirements to be rigidly exacted in every case.”) (citation and internal quotation marks
+
+omitted); see also, e.g., United States v. Spinosa, 982 F.2d 620, 626 (1st Cir. 1992) (“The affidavit
+
+must be viewed in its entirety, and must be given a common-sense and realistic, rather than a
+
+hypertechnical interpretation.”) (citations and internal quotation marks omitted).
+
+                                                   11
+Case 2:06-cr-00013-DBH Document 18 Filed 05/24/06 Page 12 of 16                         PageID #: 80
+
+
+
+       Informants’ credibility can be established in multiple ways, including:
+
+       1.      Consistency among independent reports. See, e.g., Schaefer, 87 F.3d at 566 (“Courts
+
+often have held that consistency between the reports of two independent informants helps to validate
+
+both accounts.”).
+
+       2.      Declarations against penal interest. See, e.g., id. (“The fact that an informant’s
+
+statements are against his or her penal interest adds credibility to the informant’s report.”).
+
+       3.      Consistency with information provided by “ordinary citizens” (such as complaints by
+
+neighbors that an individual was cultivating marijuana) – a type of report that enjoys “special stature
+
+since information provided by ordinary citizens has particular value in the probable cause equation.”
+
+Id.
+
+       4.      Corroboration by external data. See, e.g., id. at 567 (“The record contains several
+
+external data (i) confirming the identities and predilections of Crawford, Spellman, and other growers
+
+in the group, (ii) pinning down Crawford’s and Spellman’s involvement with cannabis cultivation, and
+
+(iii) demonstrating the group’s access to marijuana plants that were being grown indoors.”) (footnote
+
+omitted).
+
+       5.      Self-authentication “through the very specificity and detail with which [an affidavit]
+
+relates the informant’s first-hand description of the place to be searched[.]” United States v. Zayas-
+
+Diaz, 95 F.3d 105, 111 (1st Cir. 1996).
+
+       In this case, the reliability of the reports of SOI#1 and SOI#2 was adequately established by:
+
+       1.      MacVane’s representation that SOI#1 had previously provided truthful information to
+
+Denbow and was cooperating out of concern for the community.
+
+       2.      The manner in which Hunt obtained information from SOI#2, a minor who was not
+
+facing any criminal charge, had essentially volunteered the information after having been stopped for a
+
+                                                  12
+Case 2:06-cr-00013-DBH Document 18 Filed 05/24/06 Page 13 of 16                        PageID #: 81
+
+
+
+speeding violation, and expressed sufficient fear of the defendant’s drug-trafficking organization that
+
+he/she did not want to be seen speaking to police.
+
+       3.      Cross-corroboration between the reports of both confidential sources (both of whom
+
+described the defendant as engaged in cocaine trafficking and having bragged about, or displayed, a
+
+firearm he had recently purchased).
+
+       4.      MacVane’s asserted awareness, from prior law-enforcement contacts, that the
+
+defendant and other members of his drug-trafficking organization had committed acts of violence and
+
+been in possession of firearms.
+
+       5.      Hunt’s asserted familiarity with the defendant from previous police-related intelligence
+
+reports as being a cocaine distributor.
+
+       Nor was SOI#1’s evidence, which was approximately four months old at the time of the
+
+Warrant application, too stale to be taken into consideration. “Staleness must be evaluated in light of
+
+the particular facts of the case and the nature of the criminal activity and property sought.” United
+
+States v. Greany, 929 F.2d 523, 525 (9th Cir. 1991). “When the evidence sought is of an ongoing
+
+criminal business of a necessarily long-term nature, such as marijuana growing, rather than that of a
+
+completed act, greater lapses of time are permitted if the evidence in the affidavit shows the probable
+
+existence of the activity at an earlier time.” Id. By these lights, four-month-old evidence of cocaine
+
+trafficking, freshened by day-old evidence suggestive of an ongoing operation, readily can be
+
+discerned to have no staleness problem. See, e.g., United States v. Feliz, 182 F.3d 82, 87 (1st Cir.
+
+1999) (three-month-old evidence of drug transactions not stale; “courts have upheld determinations of
+
+probable cause in trafficking cases involving similar or even longer periods”); Greany, 929 F.2d at
+
+525 (two-year-old evidence of existence of marijuana-growing venture not stale); United States v.
+
+Reiner, 382 F. Supp.2d 195, 198-99 (D. Me. 2005) (given existence of advertisements
+
+                                                  13
+Case 2:06-cr-00013-DBH Document 18 Filed 05/24/06 Page 14 of 16                            PageID #: 82
+
+
+
+contemporaneous with warrant application suggesting that health club was engaged in business of
+
+prostitution, “slightly more distant but still recent historical data [suggesting the same] were also
+
+relevant.”) (footnote omitted).
+
+       Finally, even assuming arguendo that the MacVane affidavit failed to establish probable cause
+
+to believe that the defendant was a felon in possession in a firearm, that is – as the government
+
+suggests – beside the point. See Objection at 11. The affidavit established probable cause to believe
+
+that the defendant had committed the crime of cocaine trafficking and that fruits of that crime would be
+
+found in his apartment. The search via which the firearm was discovered therefore was lawful.
+
+                                  D. Leon Good-Faith Exception
+
+       Should the court agree that the Warrant sufficiently describes the defendant’s apartment as the
+
+place to be searched and is supported by probable cause, that determination will be dispositive of the
+
+motion to suppress. However, even assuming arguendo that the court finds the Warrant deficient, I
+
+recommend denial of the motion to suppress based on the so-called Leon good-faith exception.
+
+Pursuant to this doctrine, “[e]vidence seized in violation of the Fourth Amendment is admissible in
+
+court if the government placed an objectively reasonable reliance on a neutral and detached magistrate
+
+judge’s incorrect probable cause determination.” United States v. Crosby, 106 F. Supp.2d 53, 58 (D.
+
+Me. 2000), aff’d, 24 Fed. Appx. 7 (1st Cir. 2001) (citation and internal quotation marks omitted). The
+
+Leon exception is itself subject to exceptions:
+
+       There are four exclusions to the Leon good-faith exception: (1) when the magistrate
+       was misled by information in an affidavit that the affiant knew was false or would
+       have known was false except for his reckless disregard for the truth; (2) where the
+       issuing magistrate wholly abandoned his detached and neutral judicial role; (3) where
+       the affidavit is so lacking in indicia of probable cause as to render official belief in its
+       existence entirely unreasonable; and (4) where a warrant is so facially deficient – i.e.
+       in failing to particularize the place to be searched or the things to be seized – that the
+       executing officers cannot reasonably presume it to be valid.
+
+
+                                                   14
+Case 2:06-cr-00013-DBH Document 18 Filed 05/24/06 Page 15 of 16                                                       PageID #: 83
+
+
+
+
+United States v. Owens, 167 F.3d 739, 745 (1st Cir. 1999) (citation and internal punctuation omitted).
+
+ The defendant invokes the fourth exception, arguing:
+
+          [T]he Agent knowingly acted outside the scope of the warrant by forcibly entering an
+          apartment clearly not designated by the Search Warrant. There is absolutely no doubt
+          that the agents knew that they were about to search an apartment that they were not
+          authorized to search in accordance with the search warrant. This was obvious as they
+          climbed the stairs to an alternative apartment in the building.
+
+Reply at 7.5
+
+          The defendant overstates his case. As noted above, the Warrant is most sensibly read as
+
+authorizing a search of the defendant’s apartment located at #7 Leisure Lane. Even if, contrary to my
+
+recommendation, the court were to find the Warrant’s description constitutionally inadequate, it was
+
+not so facially deficient that executing officers could not reasonably have presumed it to be valid.
+
+
+
+                                                         III. Conclusion
+
+          For the foregoing reasons, I recommend that the defendant’s motion to suppress evidence be
+
+DENIED.
+
+
+
+                                                              NOTICE
+
+        A party may file objections to those specified portions of a magistrate judge’s report or
+proposed findings or recommended decisions entered pursuant to 28 U.S.C. § 636(b)(1)(B) for
+which de novo review by the district court is sought, together with a supporting memorandum
+and request for oral argument before the district judge, if any is sought, within ten (10) days
+after being served with a copy thereof. A responsive memorandum and any request for oral
+argument before the district judge shall be filed within ten (10) days after the filing of the
+
+5
+  The defendant originally adverted to the first Leon exception, arguing that “the good[-]faith exception is not available when the affiant
+intentionally omitted facts or was reckless in preparing the affidavit by not including information which was known or easily accessible
+to him.” Motion at 9 (citation and internal quotation marks omitted). However, he has proffered no evidence tending to show
+intentional or reckless omission of facts.
+
+
+                                                                   15
+Case 2:06-cr-00013-DBH Document 18 Filed 05/24/06 Page 16 of 16                        PageID #: 84
+
+
+
+objection.
+
+        Failure to file a timely objection shall constitute a waiver of the right to de novo review by
+the district court and to appeal the district court’s order.
+
+
+       Dated this 24th day of May, 2006.
+
+                                                      /s/ David M. Cohen
+                                                      David M. Cohen
+                                                      United States Magistrate Judge
+
+
+
+
+                                                 16
+

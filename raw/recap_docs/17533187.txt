@@ -1,0 +1,725 @@
+                          UNITED STATES DISTRICT COURT
+                        FOR THE DISTRICT OF MASSACHUSETTS
+
+UNITED STATES OF AMERICA,                     )
+     Plaintiff,                               )
+                                              )
+       v.                                     ) Crim. Action No. 10cr10029-NG
+                                              )
+JEAN JANVIER,                                 )
+     Defendant.                               )
+GERTNER, D.J.
+
+     MEMORANDUM AND ORDER RE: DEFENDANT'S MOTION TO SUPPRESS
+                          July 26, 2011
+
+   The Memorandum and Order of July 11, 2011, is hereby amended and replaced by this
+ Memorandum and Order due to formatting and typographical errors. Every other aspect of the
+                             Memorandum remains intact.
+
+
+       Jean Janvier ("Janvier") was arrested following an anonymous 911 call about a man with
+
+a gun. That call, together with Janvier's behavior when the police arrived at his home, 17
+
+Gleason Street, justified a stop under Terry v. Ohio, 392 U.S. (1968), according to the police. I
+
+disagree.
+
+       The 911 information and the officer's observations supposedly led him to "run after"
+
+Janvier on the steps leading to his apartment, then reach out and touch a gun in Janvier's
+
+waistband. The fruits of the stop led to Janvier's arrest for unlawful possession of a firearm, a
+
+firearm with altered serial numbers, and unlawful possession of ammunition.
+
+       The problem is that the anonymous caller's description of "a man with a gun" did not
+
+match Janvier's. The location identified in the call, at least as an initial matter, covered a number
+
+of houses on Gleason Street, Dorchester, not merely Janvier's. And when the unmarked but very
+
+obvious police car arrived, Janvier, who was standing on the small porch of his own home,
+simply turned to go inside. Nothing about the call should have focused suspicion on him; and
+
+nothing about his behavior at the scene justified the Terry stop.
+
+       Defendant filed a motion to suppress the fruits of the search. The government opposed; I
+
+held a hearing over two days, with multiple exhibits. While I greatly appreciate the need to put
+
+an end to gun violence in Boston, and I understand that the area in which Janvier's home was
+
+located was a "high crime area," there are rules -- constitutional rules -- that define how officials
+
+must go about their investigations. Following the constitution makes for less efficient law
+
+enforcement, to be sure, but, in the final analysis, far more legitimate. Defendant's Motion to
+
+Suppress (document #17) is GRANTED.
+
+I.     FACTS
+
+       A.      The 911 Call
+
+       Exhibit 1 to the December 29, 2010, suppression hearing is the 911 call tape, which the
+
+Court has listened to several times. Some parts are difficult to understand. What follows is an
+
+account of the call, reflecting a consensus account of its contents.
+
+       At about 9:00 p.m. on October 25, 2009, the Boston Police Department ("BPD") received
+
+a call over its emergency 911 system. The caller was a woman, who, after being advised that the
+
+call was being recorded, was asked for the location of her emergency. She said it was Gleason
+
+Street. When asked for further details, the caller said it was between "17, 18, 19 and 23."
+
+Eventually she reported that the man was "standin' up on 18 Gleason Street."
+
+       The caller reported that the man was "harassing" and that he was "trying to find 18
+
+Gleason Street." She indicated that the man had a gun, that he "had it in his pocket, then he
+
+
+
+
+                                                 -2-
+threw it, then he put it in the back of his pants." When asked which back pocket the gun was in,
+
+the caller told the operator that the man had the gun in "his waistband."
+
+        The caller described the man as follows: He was black, less than 30 (although she later
+
+said "like 26, 27, I'm not sure."). He was wearing black jeans, a white t-shirt, black hoodie
+
+sweater, and black sneakers. She described his height as "maybe 5'6", 5''7" and weight, "umm
+
+he's like, I don't know about, maybe . . .maybe 210," and that he had "low cut hair."
+
+        The caller then complained to the operator about the questions she was being asked.
+
+When asked for more details about the man's appearance, the caller hung up.1 She never gave
+
+her name or address. She never expressed a willingness to be called back. While the testimony
+
+suggested that some time later -- after Janvier's arrest -- the BPD was able to identify the
+
+subscriber of the cell phone from which the call was made, no attempt was made to get in touch
+
+with her.
+
+        After receiving the report, the 911 operator sent out the message, dispatching police to
+
+Gleason Street. Sgt. James Tarantino ("Tarantino") responded from an unmarked gang unit
+
+cruiser, which he operated along with Gang Unit Officer Jack Conway ("Conway") and
+
+Massachusetts State Trooper Steve Johnson ("Johnson").
+
+        The radio operator advised these officers that, "Guys, its black male, black hoodie, white
+
+shirt, black jeans, black sneakers, about 210, he has the gun in the back of his waistband." She
+
+then added that the man was "about 5'7."
+
+
+
+
+        1
+           Exhibit 10, which was a computerized "incident history" noted that the caller "wouldn’t give any more
+info, clr hung up." Suppression Hr'g Day 1 Tr. 89:24-25 Dec. 29, 2010 (document #26) [hereinafter "Hr'g Day 1
+Tr."].
+
+                                                        -3-
+       Janvier did not meet the description. The weight, the sneakers, the pants, and the hoodie
+
+did not match. He was wearing blue jeans and a dark jacket, but had on a white sweater with a
+
+hood worn over a white shirt with a large design in the center. He wore white sneakers, and had
+
+on a "big black puffy coat" like a bomber jacket. The height and race of the man was a closer
+
+match; Janvier was 5' 8", Haitian, and 24 years old.
+
+       But the most significant detail that did not match Janvier was his build: He was
+
+considerably slighter than the description by 70 pounds. He weighed 140 pounds – not 210 –
+
+which even the officer characterized as a "slim" build. Boston Police Dep't Booking Form and
+
+Incident Report, 1 (document #19-3) [hereinafter "Police Report"]. As the officer noted, the
+
+details that did match could not have been more generic – "dark top, black man in his 20's." Hr'g
+
+Day 1 Tr. 64:3-7.
+
+       The police saw no one else on Gleason Street but the three men outside of 17, not 18,
+
+Gleason Street.
+
+       B.         The Setting
+
+       The setting of the stop was significant, so significant that the defense sought to have the
+
+Court take a view of the area. When the Court denied that motion, the defendant prepared a
+
+video,2 which I found to be highly probative.
+
+       This was a residential area. Number 17 Gleason Street was a two family home with a
+
+small porch. Janvier lived there with his parent and sisters. The house was surrounded by a
+
+metal fence with a latched gate. There was a street light across the street, but the officer who
+
+made the stop could not recall if there was any light on the porch. Two of Janvier's
+
+
+
+       2
+           Hr'g Day 1 Tr. 12:6-11, Ex. 7.
+
+                                                -4-
+acquaintances were standing in the driveway when the police arrived. At the entrance to the
+
+house, one short stairway lead downstairs to one apartment; another lead upstairs to Janvier's
+
+apartment. The stairway leading to Janvier's apartment had just four steps. A young man like
+
+Janvier could get there in seconds from the front door.
+
+         C.       High Crime Area
+
+         As they responded to the call, Conway and his partners knew that this was an area
+
+frequented by members of the Greenwood Street gang. They also knew there had been two
+
+firearm incidents in the ten days before.3 Police Report, 2. Indeed, the data generated by the
+
+BPD suggested this was a "high crime area." Hr'g Day 1 Tr. 32:8-18.
+
+         The cruiser was a silver Crown Victoria, which, though unmarked, was easily identified
+
+as a police vehicle. Moreover, the officers were wearing their badges around their necks and at
+
+least Conway was dressed in a black long sleeved t-shirt that said "Boston Police" on the front,
+
+and "Gang Unit" on the back.
+
+         D.       The Stop
+
+         Conway testified that when they arrived at 17 Gleason Street, Janvier was on the porch of
+
+his home, talking to his two friends who were in the driveway.4 The officers did not recognize
+
+Janvier; they did recognize one of the individuals in the driveway. When Conway was
+
+specifically asked if any of the three men matched the 911 description he was equivocal: "They
+
+
+
+
+         3
+            Exhibit 2B, generated by the Boston Regional Intelligence Center, suggested that the Greenwood Street
+area in the area of Gleason Street is a "high crime area with respect to firearms." Hr'g Day 1 Tr. 32:8-18 & 33:1-2,
+Ex. 2B.
+         4
+          One of the men in the driveway was William Garrison, a Greenwood gang member, who in fact weighed
+30 pounds more than Janvier. The second individual, Lawrence Reynolds, also was closer to the 911 caller’s
+description in build than was Janvier. Hr'g Day 1 Tr. 71:6-7, 23.
+
+                                                         -5-
+all kind of did with the dark clothing."5 Hr'g Day 1 Tr. 43:17. Conway spoke to the two in the
+
+driveway; "What's up guys?" he said. Hr'g Day 1 Tr. 46:6-7.
+
+        Conway ran after Janvier into the house at 17 Gleason Street, because of Janvier's
+
+behavior when the police arrived. Janvier, Conway testified, was trying to hide the gun, was
+
+looking furtively from "left to right" and was "fleeing" into his home. But Conway's account of
+
+Janvier's behavior on the porch shifted during the suppression hearing, differed from his previous
+
+reports, and from an earlier hearing.
+
+        During direct examination, Conway testified that, even though Janvier was talking to his
+
+two friends who were in front of him -- necessarily facing them, with his back to his house --
+
+Janvier's "back was somewhat exposed." Hr'g Day 1 Tr. 43:11-13.6 Later, he acknowledged that
+
+Janvier's back was not visible to him when he arrived. Indeed, given Janvier's position on the
+
+porch, he did not have to do anything evasive to keep his back from view when the police
+
+arrived. Hr'g Day 1 Tr. 74:21-25.7 Moreover, Janvier was wearing a "puffy jacket" the very
+
+jacket that the government later claimed justified the anonymous caller making a 70-pound
+
+mistake in identifying him. That jacket, as the picture of Janvier suggests, fully covered his
+
+back, including his waistband. Hr'g Day 1 Tr. 52:22, Ex. 4A.
+
+
+
+
+        5
+          The comment was troubling, to say the least. This is a largely black neighborhood; the caller gave a
+generic description of a black man that could have described many young men in the the neighborhood.
+        6
+           At an earlier hearing, Conway claimed that when Janvier saw Conway, he turned his back so that it was
+out of the officer's view. Supervised Release Revocation Hr'g Tr. 12:17-19.
+        7
+          Officer Conway testified that the man on the porch was "blading" which meant "if I'm approaching
+someone and they're concealing a weapon they turn that part of their body away from me, keeping that part away
+from my view." Hr'g Day 1 Tr. 26:16-18. As noted above, the testimony made no sense. Janvier was facing his
+friends with whom he was talking, back against the door. Then he turned, back to the police, opened the door and
+went inside his apartment.
+
+                                                        -6-
+        Conway also reported that Janvier started looking left to right and appeared "nervous,"
+
+not an unreasonable response, if I credit the testimony, for both the innocent and the guilty when
+
+police officers arrive at your doorstep. Conway then "got to the fence and put [his] hands on it"
+
+at which point Janvier took another step closer to the doorway, while keeping his back hidden
+
+from view. Hr'g Day 1 Tr. 45:8-9, 12. On cross-examination, Conway acknowledged that
+
+Janvier actually turned fully to go inside, with his back directly in view. Hr'g Day 1 Tr. 84:7-10.
+
+Without any more information, Conway said that he "believed the gentleman on the porch had
+
+the firearm," and so he pushed open the gate and ran through. Hr'g Day 1 Tr. 46:14-16. In fact,
+
+while Conway may have had a hunch about whether the man on the porch was armed, I find that
+
+he did not have reasonable suspicion as the law required.
+
+        By the time the gate was completely open, Janvier was five to eight feet from Conway.8
+
+Janvier "fled" into the house, according to Conway. Conway chased him -- through the fence, up
+
+the walkway, up the three steps of the porch. Hr'g Day 1 Tr. 77:16-19, 25.9 He never yelled
+
+"stop." Significantly, when the officer entered the door to 17 Gleason Street, Janvier was right
+
+there, essentially at the first step. Conway claimed he could reach out to grab the suspect. Hr'g
+
+Day 1 Tr. 101:11-12. And when he did, both fell. Conway reported, "I reached out and touched
+
+the back of his lower back" and felt a gun. Hr'g Day 1 Tr. 49:19-20. He yelled to the other
+
+officers, "he's got a gun!" Hr'g Day 1 Tr. 50:7-8.
+
+        After feeling the gun, Conway tried to grab Janvier, who regained his footing and went
+
+towards his apartment. The officer caught him on the landing of Janvier's apartment and tackled
+
+
+        8
+            On redirect, the officer changed this to "five feet." Hr'g Day 1 Tr. 94:25.
+         9
+           Conway acknowledged the distance was more like "8 to 10" feet because of the path that he was obliged
+to follow. Hr'g Day 1 Tr. 100:12-14.
+
+                                                           -7-
+him. The force of the contact burst open the Janvier apartment door; both fell to the ground.
+
+The two other officers, who were following closely behind Conway, arrested Janvier after a
+
+struggle, while Conway secured the gun.
+
+         Several parts of the officer's account are troubling. Given the layout of the house, the
+
+only way for the officer to have caught up with Janvier on the steps going up to his apartment
+
+was if a) Janvier was not fleeing at all -- and therefore not behaving in a way that the officer
+
+found to be suspicious, or b) the officer was totally mistaken about the encounter on the steps.10
+
+If Janvier were not running to evade the officer, he would have remained just inside the doorway
+
+of the small common area of the building. If he were fleeing, he would have surely been in his
+
+apartment before the officer had arrived. The porch was small, his apartment four steps up a
+
+flight of stairs. The officer was at some distance from Janvier when he supposedly took chase.
+
+Janvier need only open the door to the building, and in seconds he would be in his apartment,
+
+long before his pursuer. The account of the struggle on the stairs, in short, is inconsistent with
+
+the physical layout of the building.11
+
+         Janvier's mother, Marie Janvier, testified that she had earlier made arrangements for her
+
+son to have dinner, that he went outside while she put the food on the table, and that she then
+
+dozed off for five or ten minutes while waiting for him. At some point, the door to the apartment
+
+opened, her son said "Mommy" as he fell to the floor. Hr'g Day 1 Tr. 111:11-13. According to
+
+her, the three officers then "hit him and beat him." Hr'g Day 1 Tr. 111:20-22.
+
+
+         10
+            Q: [by defense counsel]: "This entire time that you opened the fence, ran up the stairs of the porch onto
+the porch, this man has only moved from the doorway to not even getting to the first step; is that your testimony?"
+Hr'g Day 1 Tr. 80:22-25; A. "Yes, sir." Hr'g Day 1 Tr. 81:1
+         11
+            Defendant claims it would not be so easy to feel a firearm through a heavy coat during the brief encounter
+on the stairs. I do not have to resolve the issue. I believe the officer had no right to reach out to touch him at all.
+
+                                                          -8-
+II.    DISCUSSION
+
+       Even a temporary police detention constitutes a seizure under the Fourth Amendment.
+
+As such, in order to pass constitutional muster that detention must be reasonable by
+
+constitutional standards. Terry v. Ohio, 392 U.S. 1, 19 (1968). A police officer must have a
+
+reasonable, articulable suspicion of an individual's involvement in some criminal activity in
+
+order to make the initial stop. Terry, 392 U.S. at 21. Moreover, actions undertaken pursuant to
+
+that stop must be reasonably related in scope to the stop itself "unless the police have a basis for
+
+expanding their investigation." United States v. Henderson, 463 F.3d 27, 45 (1st Cir. 2006).
+
+There is no question that when Conway touched Janvier on the steps of 17 Gleason Street, it was
+
+a Terry stop.
+
+       Reasonableness has to be judged according to objective criteria, not the individual
+
+officer's subjective perceptions or motives. See Terry, 392 U.S. at 21-22; see also Whren v.
+
+United States, 517 U.S. 806, 813 (1996). And it is a fact-sensitive inquiry, based on the totality
+
+of the surrounding circumstances. See United States v. Romain, 393 F.3d 63, 71 (1st Cir. 2004).
+
+       A.       The Anonymous Call
+
+       At the time that the police arrived at 17 Gleason Street, I find that they had no reasonable
+
+suspicion to believe that Janvier, the man on the porch, was the man with the gun mentioned in
+
+the 911 tape. Indeed, the police agreed that none of the individuals at the house -- the two in the
+
+driveway, Janvier on the porch -- totally fit the description. They all "kind of fit it," an
+
+observation so generic as to be less than helpful. Moreover, of the three, Janvier, the lightest in
+
+weight, least matched the 210-pound description in the call. While the government argues that
+
+the caller could have mistaken Janvier's baggy clothes for the torso of a heavier man, the
+
+
+                                                 -9-
+argument is contrived. If reasonable suspicion is to mean anything, it has to mean that a seventy
+
+pound differential is not irrelevant.
+
+       The fact that the call came from an anonymous source suggests that it may be entitled to
+
+less weight, depending on the circumstances. In Florida v. J.L., 529 U.S. 266, 274 (2000), the
+
+Court held that truly anonymous tips must be corroborated in some meaningful way in order to
+
+justify crossing the reasonable suspicion threshold. The rationale was straightforward: Where
+
+the caller intentionally conceals her identity from police in order to prevent them from "h[olding]
+
+her responsible if her allegations turn[ed] out to be fabricated," it undermines the reliability of
+
+the tip. J.L., 529 U.S. at 270.
+
+       The test is obviously contextual. Not every anonymous call should be discounted; not
+
+every call credited. The First Circuit, for example, applying J.L., expanded on what that
+
+corroboration might entail. In United States v. Ruidiaz, 529 F.3d 25, 30-31 (1st. Cir. 2008), the
+
+court held that when determining whether to afford any weight to an anonymous 911 call, the
+
+proper test "does not hinge on the definition of 'anonymous'" but rather, on whether the call
+
+possessed other indicia of reliability, a determination that must be made "in light of all the
+
+circumstances." Significantly in Ruidiaz, the caller confirmed his telephone number and agreed
+
+that the police could call him back. 529 F.3d at 30-31. He made it clear that he was willing to
+
+be accountable for the information he gave.
+
+       Also significant, the anonymous 911 call in Rudiaz did not provide the basis for the
+
+initial stop, but rather was part of the information justifying a subsequent protective search of the
+
+defendant once he had been lawfully stopped, a distinction which the First Circuit took pains to
+
+underscore. Ruidiaz, 529 F.3d at 31. J.L., in contrast, involved an anonymous tip that the police
+
+
+                                                 -10-
+used to justify the first prong of the Terry analysis, whether there was a reasonable suspicion to
+
+justify the initial stop. Ruidiaz, 529 F.3d at 31 n.1 (citing J.L., 529 U.S. at 274).12 The
+
+distinction between the initial stop and a subsequent protective sweep makes sense. The critical
+
+intrusion, the one that most implicates constitutional rights because it can justify further
+
+searches, is the first one -- stopping the defendant. In the former situation, courts should look at
+
+anonymous 911 calls with care.
+
+         In United States v. Andrade, 551 F.3d 103, 110 (1st. Cir. 2008), the Court found that the
+
+tip was sufficiently reliable, because the caller was prepared to be accountable for the
+
+information and the details were corroborated by police observations on the street. The caller
+
+was not only told the call was being recorded, but he confirmed his address, even though he did
+
+not give his name.13 And his address suggested that he was in the very building where the shots
+
+had been fired.
+
+
+         12
+            In Ruidiaz, as a result of the 911 call, which indicated that shots had been fired on a certain street in
+Brockton, the police went to the location, found a car meeting the description of the 911 call, with a door open and
+the defendant slumped in it. Thinking the defendant was the victim and not the perpetrator, the officers reasonably
+reached into the vehicle and touched the defendant's shoulders. The defendant's response suggested that it was the
+shooter the officers had encountered. The defendant's reaction, coupled with the information from the call provided
+the basis for a protective search of the defendant, which disclosed a loaded handgun. Ruidiaz, 529 F.3d at 27-28.
+         13
+              As the Andrade court recounted the tip:
+
+                    . . . a 911 caller reported a shooting threat to a New Bedford, Massachusetts
+                    police operator. After being told by the operator that he was on a recorded line,
+                    the caller reported that "[t]hree guys [are] looking to start with some other guy
+                    outside on the street here" and confirmed that he was calling from 37 Madison
+                    Street. The caller further stated that each of the three men were wearing a
+                    hooded sweatshirt-one white, one gray, and one black. The caller told the
+                    operator that one of the three men threatened the man who lived in the third floor
+                    of 37 Madison Street, telling him that "I'll come back and shoot you or kill you
+                    or whatever." In addition, the caller stated that the three men were "walking
+                    south on [what] looks like Pleasant Street." The operator, who had a caller ID
+                    display showing the name and address associated with the calling telephone
+                    number, took notes of the caller's statements.
+
+551 F. 3d at 106.
+
+                                                          -11-
+       Likewise in United States v. Bates, 750 F. Supp. 2d 342, 348 (D. Mass. 2010)
+
+circumstances corroborated the reliability of the anonymous 911 call. The information contained
+
+in the call was extraordinarily detailed. She indicated that her mother had called her, telling her
+
+that her niece would be coming over with the niece's boyfriend, and that her mother believed the
+
+boyfriend had a gun in his backpack. After consulting her mother, the caller described the man
+
+with precision and gave his name. She also provided precise information about his location.
+
+Indeed, she identified where he was, the direction he was traveling, while she was on the phone
+
+with the police. While the operator never asked the caller's name, she told the operator her
+
+location and the basis for her information -- that she was the "aunt of the man's girlfriend."
+
+Bates, 750 F. Supp. 2d at 344.
+
+       There was nothing similar to either Bates or Andrade in the case at bar. There was no
+
+attempt -- during the call -- to confirm the caller's identity, to get her permission to call back.
+
+Unlike the callers in Bates or Andrade, the caller here gave limited to no information about who
+
+she was or her vantage point. While she knew that she was being recorded, she was hardly
+
+cooperative. Indeed, at a critical time -- when the police were seeking further details of the tip --
+
+she expressed annoyance and hung up.
+
+       Bates cannot be used for the proposition that, as a general matter, 911 cell phone tips are
+
+not truly anonymous because cell phone callers should understand that their identity can be
+
+traced. To be sure, the court in Bates noted: "[g]iven current cell phone and caller ID
+
+technology, it is likely, even, that the caller knew that her number from a cell phone could be
+
+traced easily by police." 750 F. Supp. 2d at 348. But the constitutional question should not be
+
+resolved by intoning what the caller should have known. Not every cell phone call transforms
+
+
+                                                 -12-
+the 911 tip into one that should be credited. Whether the circumstances corroborate the
+
+reliability of the call and whether the caller is willing to be accountable for her information are
+
+part of the calculus the Court must use to assess reliability.
+
+       Nor can Bates be taken for the proposition that there is a different standard for the
+
+reliability of 911 calls where "public safety" may be at risk. Again, the court in Bates cited to
+
+the part of Ruidiaz, discussed above, which distinguished between anonymous 911 calls
+
+providing a basis for a protective sweep and those that justified an initial stop; public safety
+
+figures more prominently in the former than the latter. 529 F.3d at 31 n.2. In any case, in J.L.,
+
+the Supreme Court was completely unwilling to put all gun stops into the "public safety"
+
+category. It expressly noted that it was rejecting all attempts to modify the Terry analysis to
+
+create a "firearm exception," under which any tip alleging an illegal gun would justify a stop and
+
+frisk even if the accusation failed standard pre-search reliability testing. J.L, 529 U.S. at 272.
+
+The Court added that it would not speculate about the circumstances under which the danger
+
+alleged in an anonymous tip might be so great – e.g., a report of a person carrying a bomb – as to
+
+justify a search even without a showing of reliability." Id. at 273-74.
+
+       In the case at bar, the anonymous caller did not provide reasonable suspicion to stop
+
+Janvier as of the time that the police arrived at his home. Nor did Janvier's behavior, turning and
+
+taking a few steps to go into his own home, change that analysis.
+
+       B.      The "Flight"
+
+       The government justifies the officers' conduct in following the defendant into his home.
+
+The premise of this is that at the moment the officers arrived, Janvier began behaving
+
+suspiciously, both trying to cover up the gun in his back waistband, turning left and right, and
+
+
+                                                 -13-
+then fleeing into the house. Conway followed Janvier into the home, encountered him on the
+
+stairs when he stumbled, reached out and felt a gun in his waistband. I do not accept the
+
+government's characterization of Janvier's behavior at all.
+
+       I do not credit the officer's account – with respect to Janvier's allegedly evasive behavior
+
+on the porch or even the claim that Janvier "fled" into his own home. Janvier was wearing a
+
+large puffy jacket. This was the jacket that the government claims led to a 70-pound "mistake"
+
+on the part of the anonymous caller. It did not take evasive tactics to cover anything up. In
+
+addition, the officer's testimony was inconsistent about what Janvier was or was not doing. It
+
+changed during the hearing; it differed from what he had said at an earlier hearing and in earlier
+
+reports.
+
+       And the flight that the officer described is inconsistent with the layout of the house at 17
+
+Gleason Street. When Conway arrived at the front of the house he was some distance from
+
+Janvier on the porch. He describes Janvier as immediately "fleeing" the minute Conway opened
+
+the fenced gate. To get to Janvier, Conway had to open the fence, go up the driveway and enter
+
+the front door, a distance of perhaps eight to ten feet because of the path he had to follow. Yet
+
+when Conway got to the door of the house and went in, Janvier was right there.
+
+       The video suggested that it would have only taken a few steps for Janvier to get to his
+
+apartment. For Janvier to be where Conway reported he was suggests either that he was not
+
+fleeing at all, or the officer is wholly mistaken about the encounter on the steps.
+
+       Indeed, there is something particularly troubling about the government's argument.
+
+Retreating into one's home, as a matter of law, even if intended to avoid contact with the police,
+
+cannot per se give rise to suspicion of guilt. See Silverman v. U.S., 365 U.S. 505, 511 (1961)
+
+
+                                                -14-
+("At the very core stands the right of a man to retreat into his own home and there be free from
+
+unreasonable governmental intrusion."); see also Illinois v. Wardlow, 528 U.S. 119, 124 (2000)
+
+("avoidance of the police, standing alone, does not give rise to a particularized, reasonable
+
+suspicion that a person is committing a crime"); Florida v. Royer, 460 U.S. 491, 498 (1983)
+
+(plurality opinion) (when an officer, without reasonable suspicion or probable cause, approaches
+
+an individual, the individual has a right to ignore the police and go about his business).
+
+III.   TERRY STOP
+
+       Reaching out to grab a suspect is surely a stop. See United States v. Mendenhall, 446
+
+U.S. 544, 553 (1980); United States v. Smith, 423 F.3d 25, 28 (1st. Cir. 2005); United States v.
+
+Zapata, 18 F.3d 971, 976 (1st. Cir. 1994); United States v. Franklin, 323 F.3d 1298, 1301 (11th
+
+Cir. 2003) (a person can be seized through a show of authority only if he yields to that authority;
+
+if the person flees, he is seized only when he is caught; defendant was only seized when tackled).
+
+In California v. Hodari D., 499 U.S. 621, 628 (1991), the Court held that a reasonable belief that
+
+a person is not free to leave is "a necessary but not sufficient condition for seizure." To be sure,
+
+when a person ism as here, physically touched by the police who are running after him there is
+
+no doubt; it is a seizure. Hodari D., 499 U.S. at 625 (internal citation omitted) ("merely
+
+touching, however slightly" sufficient to constitute a Fourth Amendment intrusion) (citing to
+
+Terry, 392 U.S. at 19 n.16) (a seizure occurs "when the officer, by means of physical force or
+
+show of authority, has in some way, restrained the liberty of a citizen").
+
+       If there was insufficient suspicion to justify stopping Janvier at the moment the officers
+
+arrived, if Janvier's behavior in turning and going into his own home was not suspicious, then
+
+
+
+
+                                                -15-
+there was neither a basis for pursuit, nor surely, for a Terry stop. The stop was illegal; its fruits
+
+must be suppressed.
+
+IV.    CONCLUSION
+
+       For the foregoing reasons, the Defendant's Motion to Suppress (document #17) is
+
+GRANTED.
+
+SO ORDERED.
+
+Date: July 26, 2011                    BáB atÇvç ZxÜàÇxÜ
+                                       NANCY GERTNER, U.S.D.J.
+
+
+
+
+                                                 -16-
+

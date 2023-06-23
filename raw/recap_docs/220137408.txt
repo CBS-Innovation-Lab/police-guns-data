@@ -1,0 +1,977 @@
+          Case 3:18-cr-00451-FAB Document 460 Filed 12/14/22 Page 1 of 20
+
+
+
+
+                     IN THE UNITED STATES DISTRICT COURT
+                       FOR THE DISTRICT OF PUERTO RICO
+
+
+    UNITED STATES OF AMERICA,
+
+          Plaintiff,
+
+                     v.                        Criminal No. 18-451 (FAB)
+
+    JAIRO HUERTAS-MERCADO [1], and
+    ERICK PIZARRO-MERCADO [3],
+
+          Defendants.
+
+
+                                OPINION AND ORDER
+
+BESOSA, District Judge.
+
+        Defendants      Jairo    Huertas-Mercado    (“Huertas”)    and      Erick
+
+Pizarro-Mercado (“Pizarro”) (collectively, “defendants”) move for
+
+a judgment of acquittal of Count 1 of the Third Superseding
+
+Indictment pursuant to Federal Rule of Criminal Procedure 29 (“Rule
+
+29”). 1      (Docket Nos. 427 and 435.)         For the reasons set forth
+
+below, the defendants’ Rule 29 motions are DENIED.
+
+I.      Background
+
+        Huertas and Pizarro committed a succession of violent crimes
+
+within a span of 19 days, escalating from carjacking to kidnapping
+
+and murder.        The trial testimony revealed that these defendants
+
+terrorized unsuspecting victims for financial gain, to avenge the
+
+
+
+1
+ Defendant Huertas makes a general motion for acquittal “on all counts,” but
+only argues that he be acquitted of the charge in Count 1.
+      Case 3:18-cr-00451-FAB Document 460 Filed 12/14/22 Page 2 of 20
+
+
+
+Criminal No. 18-451 (FAB)                                                   2
+
+death of a deceased relative, and to eliminate “enemies” of a drug
+
+trafficking organization in the Lagos de Blasina public housing
+
+project.    (Docket No. 413 at p. 69.)
+
+     On February 11, 2020, a grand jury returned a seventeen-count
+
+third-superseding indictment charging Huertas, Pizarro, Joshua
+
+Luyando-González         (“Luyando”),        Kevin      Villegas-Carrasco
+
+(“Villegas”), Wilkin Michael Cepeda-Colón (“Cepeda”), and Roberto
+
+Meléndez-Hiraldo (“Meléndez”) with carjacking, kidnapping, and
+
+brandishing a firearm during and in relation to a crime of violence
+
+in violation of 18 U.S.C. sections 2119(1) and (2), 18 U.S.C.
+
+sections 1201(1) and (2), and 18 U.S.C. sections 924(c)(1)(A)(ii)-
+
+(iii) and 2, respectively.         (Docket No. 103.)       Count fourteen
+
+charged Huertas, Pizarro, and Luyando with kidnapping resulting in
+
+the death of Luis Sáenz-Martínez (“Sáenz”) in violation of 18
+
+U.S.C. sections 1201(a)(1) and (2).        Id. at p. 8.
+
+     On March 4, 2022, Luyando pled guilty to counts one and
+
+fifteen    of   the   third-superseding    indictment     pursuant    to   an
+
+agreement with the United States (carjacking and brandishing a
+
+firearm during and in relation to a crime of violence).              (Docket
+
+Nos. 329 and 330.) 2    Villegas pled guilty to counts one and three
+
+
+
+2 He also pled guilty to count two of the second superseding indictment in
+
+criminal action 18-516 (FAB) (brandishing a firearm during and in relation to
+a crime of violence). See United States v. Luyando, Case No. 18-516, Docket
+Nos. 179 and 335.)
+      Case 3:18-cr-00451-FAB Document 460 Filed 12/14/22 Page 3 of 20
+
+
+
+Criminal No. 18-451 (FAB)                                                    3
+
+of the third-superseding indictment (carjacking and brandishing a
+
+firearm during and in relation to a crime of violence) pursuant to
+
+a agreement with the United States on March 15, 2021.                  (Docket
+
+No. 262.)     Huertas and Pizarro’s seven-day trial commenced on
+
+September 9, 2022.        (Docket No. 402.)          Luyando and Villegas
+
+testified as government witnesses. 3
+
+      A.    The May 20, 2018 Carjacking: Counts 10 and 11
+
+            Luyando, Cepeda, Huertas and Pizarro “decided to take a
+
+[Toyota] Tacoma” from Carlos Cáez-Delgado (“Cáez”) in Naguabo,
+
+Puerto Rico at approximately 11:00 PM on May 20, 2018.                 (Docket
+
+No. 413 at p. 71.)       Huertas, Pizarro and Cepeda carried loaded
+
+firearms, including an AK-47 rifle and two pistols. Id. at pp. 72-
+
+73.   The defendants blocked the Tacoma on a one-way road, exited
+
+their vehicle, and pointed a “long weapon” at Cáez.                    (Docket
+
+No. 406 at p. 7; Docket No. 413 at p. 73.)               They subsequently
+
+“threw [Cáez] to a grassy area” and frisked him.            (Docket No. 413
+
+at p. 73.)
+
+            The defendants referred to Cáez as “the one [they] were
+
+looking for,” stating that they would shoot him if he moved.
+
+(Docket No. 406 at p. 12.)      Cáez placed his hands behind his head,
+
+informing the defendants that “it was not possible, that [he] could
+
+
+
+3 Cepeda and Meléndez also pled guilty.   (Docket Nos. 246 and 302.)   They did
+not, however, testify at trial.
+     Case 3:18-cr-00451-FAB Document 460 Filed 12/14/22 Page 4 of 20
+
+
+
+Criminal No. 18-451 (FAB)                                                     4
+
+be the person they were looking for.”          Id. at p. 13.       Pizarro and
+
+Cepeda fled Naguabo in the Tacoma, followed by Huertas and Luyando
+
+in an SUV.   Id.   Cáez remained on the ground in “tall grass” for
+
+two minutes until the [defendants] left” with his Tacoma, wallet,
+
+and cellular phone.    (Docket No. 406 at p. 14.)
+
+     B.   The May 27, 2018 Carjacking: Counts Twelve and Thirteen
+
+          On May 27, 2018, Luyando, Huertas, Pizarro and Meléndez,
+
+using the Tacoma they had carjacked from Cáez, stole an Infiniti
+
+FX45 from Gilberto Medina-Cardona (“Medina”) and his family, who
+
+were on a day trip in Río Grande, Puerto Rico.            (Docket No. 406 at
+
+p. 20.)   Medina had parked the Infiniti near a waterfall to take
+
+photos.   Id. at p. 23.       Two of Medina’s family members had gone
+
+down from the roadway to take pictures of the waterfall.                    Two
+
+defendants   emerged   from    the    stolen    Tacoma,    pointing     loaded
+
+firearms at Medina and his family, “screaming and yelling for
+
+[them] to get on [their] knees” and look away.            Id. at pp. 23-24;
+
+Docket No. 413 at p. 74.        The defendants demanded Medina’s car
+
+keys and the family’s “personal belongings, money, jewelry” and
+
+professional grade cameras.      (Docket No. 406 at p. 24.)
+
+          Medina   informed     the   defendants    that     the    keys   were
+
+located “in the cupholder of the [Infiniti].”                Id. at p. 24.
+
+Before driving away, the defendants instructed Medina: “don’t look
+
+back, don’t look back. Count to one hundred and stay there.”               Id.
+        Case 3:18-cr-00451-FAB Document 460 Filed 12/14/22 Page 5 of 20
+
+
+
+Criminal No. 18-451 (FAB)                                                    5
+
+at p. 25. Luyando testified that the defendants stole this vehicle
+
+“by intimidation and force.”          (Docket No. 413 at p. 75.)        Medina
+
+felt “terror,” “panic,” and “unable to manage the situation.”
+
+(Docket No. 406 at p. 26.)         The defendants ultimately burned and
+
+abandoned the Infiniti near an “old factory” in La Central, Puerto
+
+Rico.     (Docket No. 413 at p. 83.)
+
+     C.      The May 31, 2018 Kidnapping and Murder of Luis Sáenz-
+             Martínez: Counts Fourteen, Fifteen, and Sixteen
+
+             Luyando, Huertas, and Pizarro visited an acquaintance at
+
+the Villas Del Río public housing project on May 31, 2018.           (Docket
+
+No. 413 at p. 77.)         They “came up with the idea” of “holding up”
+
+Sáenz, the drug dealer” associated with this location and “enemy”
+
+of the defendants.         Id. at pp. 77-78.
+
+             The defendants initially requested to purchase “weed”
+
+from Sáenz.     Id. at p. 81.      They then aimed a loaded AK-47 and a
+
+pistol at him, forcing Sáenz into the backseat of a Toyota RAV4.
+
+Id. at p. 81.      Luyando, Huertas, and Pizarro asked Sáenz if “he
+
+knew of another person who was of higher rank [in a rival drug
+
+trafficking organization, asking] him if he wanted to give up
+
+somebody else.”       Id. at p. 82.    Sáenz remained silent.     Id.     After
+
+consulting     with   an    individual   named   “Gongo,”   the   defendants
+
+understood that “they were to kill Sáenz.”           Id. at p. 83.
+       Case 3:18-cr-00451-FAB Document 460 Filed 12/14/22 Page 6 of 20
+
+
+
+Criminal No. 18-451 (FAB)                                                     6
+
+            Luyando drove the RAV4 to La Central, “close to the
+
+Infiniti.”      Id.    Pizarro forced Sáenz out of the RAV4, shooting
+
+him in the back with the AK-47.            Id. at p. 85.     A firearm expert
+
+testified that casings recovered from this location emanated from
+
+an AK-47, buttressing the credibility of Luyando’s testimony.
+
+(Docket No. 419 at p. 13.)          Subsequently, Huertas shot Sáenz with
+
+the same firearm.       (Docket No. 413 at p. 87.)          Luyando then “took
+
+[the   AK47]    away   from    [Huertas]   and   also   started   shooting   at
+
+[Sáenz].”       Id.    A forensic pathologist from the Puerto Rico
+
+Institute of Forensic Science testified that Sáenz sustained 26
+
+gunshot wounds to the skull, torso, and lower extremities.              Id. at
+
+p. 31. The defendants unceremoniously “got in [the RAV4] and left”
+
+the scene.      Id. at p. 87.
+
+       D.   The June 3, 2018 Carjacking: Counts Eight and Nine
+
+            On June 3, 2018, Luyando and Huertas “decided to have
+
+another vehicle” in Piñones, Puerto Rico.                (Docket No. 413 at
+
+p. 90.)     Edwin Barreras-Romero (“Barreras”) had driven a Nissan
+
+Altima to this location “early in the morning” to surf, accompanied
+
+by two female friends.             (Docket No. 406 at p. 100.)         Huertas
+
+approached Barreras on the beach with a loaded AR-15, stating:
+
+“Hey, this is a carjacking.”           Id. at p. 101.       Barreras attempted
+
+to   distract    Huertas      by   “joking”   with   him,    hopeful   for   the
+
+opportunity to “take this guy.”            Id.   He observed Luyando emerge
+       Case 3:18-cr-00451-FAB Document 460 Filed 12/14/22 Page 7 of 20
+
+
+
+Criminal No. 18-451 (FAB)                                                  7
+
+“from the bushes,” however, and strike his female friend in the
+
+head with a loaded AK-47.       Id. at p. 102.    Luyando testified that
+
+he “kicked [this female] so that she’d fall to the ground.”
+
+(Docket No. 413 at p. 91.)          Barreras then “had to get down,”
+
+“afraid for [his life].”      Id. at p. 110.     The defendants shouted:
+
+“Stay down or we’re [sic] kill you . . . Stay down.          Don’t look at
+
+us.”    Id. at p. 112.
+
+            Luyando   attempted    to   remove    a   diamond   ring     from
+
+Barrera’s female friend, threatening to “rape” her if she resisted
+
+this demand.    (Docket No. 406 at p. 112.)      He abandoned the diamond
+
+ring, however, in favor of an expeditious escape.            Huertas drove
+
+the Nissan to Loíza, Puerto Rico, with $700 in United States
+
+currency, a surfboard, a watch, and several cell phones which were
+
+inside the vehicle.      (Docket No. 406 at p. 111; Docket No. 413 at
+
+p. 90.)
+
+       E.   The First June 4, 2018 Carjacking: Counts Four and Five
+
+            María Martínez-Figueroa (“Martínez”) and her husband
+
+drove to Punta Santiago, Puerto Rico in their burgundy Toyota Camry
+
+to catch crabs at a nearby beach on June 4, 2018.          (Docket No. 406
+
+at p. 132.)     At approximately 10:30 p.m., Luyando, Pizarro and
+
+Huertas observed this “elderly couple” seated inside the Camry on
+
+a dark road.    (Docket No. 406 at p. 133; Docket No. 413 at pp. 92-
+
+93.)
+      Case 3:18-cr-00451-FAB Document 460 Filed 12/14/22 Page 8 of 20
+
+
+
+Criminal No. 18-451 (FAB)                                                  8
+
+            Earlier that day, “it had occurred to [the defendants]
+
+that [they] should steal a car.”          (Docket No. 413 at p. 92.)
+
+Luyando parked the defendants’ vehicle in front of the Camry.           Id.
+
+at p. 93.    Huertas and Pizarro aimed loaded firearms at the couple.
+
+Id.   Martínez exited the car, but her husband refused to placate
+
+the defendants.     Id.   Huertas “told him that he was gonna shoot
+
+him if he didn’t get out.”     Id. at p. 84.    Luyando reiterated this
+
+threat, shouting that he, too, would “shoot [Martínez’s husband]”
+
+if he remained in the Camry.     Id.   He complied only after Martínez
+
+stated that “it was better to lose the car than [their] lives.”
+
+(Docket No. 406 at p. 137.)         Martínez “[asked] for her purse”
+
+before the defendants fled.        (Docket No. 413 at p. 94.)           They
+
+denied this request, absconding with the Camry and the couple’s
+
+personal belongings.      Id. at p. 95.
+
+            Huertas confessed to this crime and signed a written
+
+statement.    The United States presented the following admission at
+
+trial:
+
+      June 19, 2018, 12:40 PM. Interview with Jairo Huertas-
+      Mercado. He was in Loíza hanging out with some friends
+      in Las Cuevas neighborhood.    There they planned what
+      they were going to do. They said, we’re going to look
+      for a car. They left Las Cuevas neighborhood and took
+      Road No. 3 until we got to Naguabo beach. There we saw
+      this Burgundy car parked. I don’t know the make. We
+      saw the car and turned around and we stopped them. Took
+      the car and drove it to the projects, there we sold it
+      to some guys there. I don’t know their names. [Signed]
+      Jairo Huertas-Mercado, 12:15 PM, June 19, 2018.
+     Case 3:18-cr-00451-FAB Document 460 Filed 12/14/22 Page 9 of 20
+
+
+
+Criminal No. 18-451 (FAB)                                                   9
+
+(Docket No. 406 at p. 153-54, see Trial Ex. 36-A.)                    Huertas
+
+repeated this statement to law enforcement officers, conceding
+
+that he participated in the “carjacking of a burgundy Toyota
+
+Camry.”    (Docket No. 403 at p. 36.)
+
+     F.     The Second June 4, 2018 Carjacking: Counts Six and Seven
+
+            Immediately   after   robbing    Martínez    and   her   husband,
+
+Huertas and Pizarro carjacked a fifth vehicle.          (Docket No. 413 at
+
+p. 96.)    Alicia Roldán-Sánchez (“Roldán”) had “left church to have
+
+[dinner] with some friends” on June 4, 2018.            (Docket No. 406 at
+
+p. 168.)    Huertas and Pizarro passed Roldán’s Kia Sportage in the
+
+Camry they had previously stolen from the elderly couple.                 Id.
+
+They abruptly stopped on the road.          Id.   A defendant exited this
+
+vehicle, pointed a firearm at Roldán’s face, and yelled:                “Walk
+
+towards the vegetation or I’ll fire shots at you.” (Docket No. 406
+
+at p. 171.)      Roldán felt “fearful in a very isolated location.
+
+[She] feared for her life.”       Id.   Pizarro and Huertas stole the
+
+Sportage with Roldán’s cellphone and purse inside the vehicle.
+
+Id. at p. 172.    Huertas confessed to law enforcement officers that
+
+he carjacked a Kia Sportage “from a lady.”              (Docket No. 413 at
+
+p. 36.)
+     Case 3:18-cr-00451-FAB Document 460 Filed 12/14/22 Page 10 of 20
+
+
+
+Criminal No. 18-451 (FAB)                                               10
+
+     G.     The June 5, 2018 Kidnapping of Bryant Meyers: Counts
+            One, Two and Three
+
+            Huertas, Luyando, Pizarro, and Villegas kidnapped Bryan
+
+Robert Rohena-Pérez, also known as Bryant Meyers (“Meyers”), on
+
+June 5, 2018 from a public basketball court.         (Docket No. 412 at
+
+p. 6.)    On this day, Huertas requested that Villegas accompany him
+
+“to the Las Lomas Ward neighborhood where [Meyers’] mother lived”
+
+to settle “some accounts.”        Id. at p. 54.        Huerta’s cousin,
+
+“Corroro,” had previously acquired “some pounds of marijuana” from
+
+Meyers.    Id.   This illicit transaction allegedly resulted in a
+
+dispute that prompted Meyers to pay for Corroro’s murder.           Id. at
+
+p. 54. Meyers, an “urban music singer,” then referred to Corroro’s
+
+demise in a song. Id. at p. 56; Docket No. 413 at p. 38. According
+
+to Luyando, Huertas “had this grudge against [Meyers] . . . because
+
+of his cousin’s death.”     (Docket No. 413 at p. 100.)
+
+            Gongo spoke with Huertas on the phone, instructing the
+
+defendants that if they intended to confront Meyers, they should
+
+“do it well.”    Id. at p. 99.   Subsequently, Huertas drove Luyando,
+
+Pizarro, and Villegas to Las Lomas Ward in the stolen Kia Sportage.
+
+Id. at p. 55.      Villegas carried a “Glock automatic 9 by 19.
+
+[Pizarro] was carrying an AK-47.      [Huertas carried] an AK-47 known
+
+as The Punisher.     [Lastly, Luyando carried] an AR-15.”          Id. at
+
+p. 61.    All firearms were loaded.    Id.
+     Case 3:18-cr-00451-FAB Document 460 Filed 12/14/22 Page 11 of 20
+
+
+
+Criminal No. 18-451 (FAB)                                                  11
+
+          Meyers “[was] playing basketball – there were quite a
+
+few people at the court . . . younger guys, there were several men
+
+. . . from the neighborhood.”       (Docket No. 413 at p. 39.)          María
+
+Elena Pérez-Díaz (“Ms. Pérez”), Meyers’ mother, observed Huertas
+
+passing the front of her parents’ house at approximately 5:45 p.m.
+
+“carrying on his right side a long weapon.”          (Docket No. 412 at
+
+p. 8.)   She attempted to call Meyers.          Id. at p. 9.      Huertas
+
+immediately     located   Meyers,   however,   preventing     Pérez      from
+
+alerting her son.    Id. at p. 10.
+
+          A chaotic “mess ensued” once the defendants entered the
+
+basketball court.    (Docket No. 413 at p. 19.)       During this melee,
+
+the defendants shouted:     “nobody move and look down to the floor.”
+
+Id. at p. 20.    Bystanders gathered around the defendants to thwart
+
+the kidnapping.     Id. at p. 102.       The defendants dispersed the
+
+crowd, however, by firing a shot into the air.         Id. at p. 102.
+
+          Ms. Pérez ran to the basketball court, observing Huertas
+
+pulling her son Meyers by the hair.      Id. at p. 20.    The defendants
+
+aimed their firearms at Meyers, dragging him away from the location
+
+against his will.    Id. at p. 11.    They hit “[him] in the head with
+
+[a] pistol a couple of times.”      (Docket No. 413 at p. 41.)    Indeed,
+
+Luyando testified that Meyers “[fought] back, he didn’t want to
+
+walk, so I hit him on the head with the weapon that I had and we
+       Case 3:18-cr-00451-FAB Document 460 Filed 12/14/22 Page 12 of 20
+
+
+
+Criminal No. 18-451 (FAB)                                                 12
+
+were able to immobilize him somewhat to get him close to the
+
+vehicles.”    (Docket No. 413 at p. 102.)
+
+            Ms. Pérez approached the defendants, “asking why they
+
+were doing that, to leave [Meyers] alone, what was it that they
+
+wanted?”    Id. at pp. 11-12.     Huertas grabbed Ms. Pérez’s phone and
+
+“broke it” before she could call 911.          Id. at p. 12.     She begged
+
+the defendants “to please leave [Meyers] alone and not to harm
+
+him,” offering them money.        Id.    Ms. Pérez grasped onto Meyers’
+
+sneakers while the defendants forced him into the Kia Sportage,
+
+stating “wherever he’s going I’m going too.”          Id.   The defendants
+
+again “hit [Meyers] a couple of times in the head, so [he] couldn’t
+
+see very well.”     (Docket No. 413 at p. 40.)
+
+            Huertas asked Ms. Pérez for the keys to Meyer’s BMW X6
+
+SUV.   (Docket No. 413 at pp. 19 and 40; Docket No. 412 at p. 39.)
+
+Luyando, Pizarro, and Villegas remained in the Kia Sportage with
+
+Meyers while Huertas and Ms. Pérez entered the BMW.                 (Docket
+
+No. 412 at p. 20.)       Huertas placed the AK-47 between his legs,
+
+driving the BMW closely behind the Kia Sportage.             Id. at p. 21.
+
+Ms. Pérez again asked Huertas “what . . . he wanted.”           Id. Huertas
+
+answered:    “I’ve just been ordered . . . It’s an order . . . Just
+
+take it easy, stay calm.”         Id.   Luyando, Pizarro, and Villegas
+
+repeatedly “[asked Meyers] for money . . . [If Meyers] could go
+
+get money and how much money [he] could get.”           (Docket No. 413 at
+     Case 3:18-cr-00451-FAB Document 460 Filed 12/14/22 Page 13 of 20
+
+
+
+Criminal No. 18-451 (FAB)                                               13
+
+p. 45.)     Meyers offered to write the defendants a check.         Id. at
+
+p. 104.   Luyando then asked Meyers:    “[Are you] stupid or something
+
+‘cause if [Meyers] was gonna write a check out . . . when [the
+
+defendants] go cash it [they] would get arrested.”         Id. at p. 104.
+
+            The defendants parked both vehicles at the entrance to
+
+a landfill in Carolina, Puerto Rico. Id. at p. 23. Police officers
+
+who were on patrol subsequently arrived unexpectedly. Id. Huertas
+
+then “opened the [car] door, grabbed his weapon and left running”
+
+to a “woody area.”    Id. at pp. 23 and 25.     Law enforcement pursued
+
+Huertas on foot, but to no avail.      Id.
+
+            Meyers then “jumped out of” the Kia Sportage, injuring
+
+his knee.     (Docket No. 413 at p. 43.)      The remaining defendants
+
+and police officers exchanged fire. Id. A police vehicle collided
+
+with the KIA Sportage, but Luyando “was able to get the patrol car
+
+unhooked from the SUV.”      Id. at p. 105.      Luyando, Pizarro, and
+
+Villegas escaped, “helped [Huertas] get out of the bushes” after
+
+the police officers left, and burned the Kia Sportage.             Id. at
+
+p. 106.
+
+            Huertas confessed to kidnapping Meyers, stating that he
+
+committed this crime because “the artist had made some comments in
+
+a song against a group.”     (Docket No. 403 at p. 30.)       He intended
+
+“to take away [Meyers] to confront him about the comments that he
+
+had made and to ask [him] if he was ready . . . to go to war.”
+      Case 3:18-cr-00451-FAB Document 460 Filed 12/14/22 Page 14 of 20
+
+
+
+Criminal No. 18-451 (FAB)                                                    14
+
+Id.   Huertas’ confession corroborated that:           Luyando and Villegas
+
+participated in the kidnapping, the defendants “grabbed hold” of
+
+Meyers     at    the   basketball   court,   he   carried   an   AR-15   rifle,
+
+Ms. Pérez “tried to intervene on behalf of her son;” he drove
+
+Ms. Pérez in Meyer’s BMW to the Carolina landfill behind the Kia
+
+Sportage, and that the defendants “were able to escape.”                 Id. at
+
+pp. 30-33.        Essentially, Huertas’ confession is consistent with
+
+the testimony adduced by Meyers, Pérez, Luyando, and Villegas.
+
+      H.        The Motions for Judgments of Acquittal
+
+                On September 14, 2022, the jury found Huertas and Pizarro
+
+guilty of counts one through sixteen of the third superseding-
+
+indictment.        (Docket No. 420.)   Huertas and Pizarro challenge the
+
+conviction for count one, carjacking the BMW during the kidnapping
+
+of Bryant Meyers.        (Docket Nos. 427 and 435.)     Huertas argues that
+
+this “vehicle was taken without any intent to cause death or bodily
+
+harm.”     (Docket No. 427 at p. 5.)     The defendants purportedly stole
+
+the BMW “out of convenience.”          Id.   Pizarro adopts this specious
+
+argument, placing responsibility for the carjacking on Meyers’
+
+mother.         (Docket No. 435 at p. 2.)           Ms. Pérez “voluntarily
+
+produced” the BMW “so that she could go together with her son.”
+
+(Docket No. 435 at p. 2.)
+       Case 3:18-cr-00451-FAB Document 460 Filed 12/14/22 Page 15 of 20
+
+
+
+Criminal No. 18-451 (FAB)                                                           15
+
+II.    Rule 29 Legal Standard
+
+       A court may set aside a jury’s guilty verdict and enter a
+
+judgment of acquittal of any offense for which the evidence is
+
+insufficient to sustain a conviction.                See Fed. R. Crim. P. 29.
+
+In reviewing a motion for judgment of acquittal, a court must
+
+consider      the    evidence    “in   the   light    most   favorable    to    the
+
+prosecution” and determine whether the “body of proof, as a whole,
+
+has sufficient bite to ground a reasoned conclusion that the
+
+government proved each of the elements of the charged crime beyond
+
+a reasonable doubt.”            United States v. Lara, 181 F.3d 183, 200
+
+(1st Cir. 1999) (citations omitted).
+
+       Rule 29 motions require a court to “take into account all
+
+evidence,      both    direct    and   circumstantial,       and   [to]   resolve
+
+evidentiary conflicts and credibility disputes in favor of the
+
+jury’s verdict.”        United States v. Valerio, 676 F.3d 237, 244 (1st
+
+Cir. 2012).         The First Circuit Court of Appeals has called this
+
+sufficiency of evidence challenge “a tough sell,” United States v.
+
+Polanco, 634 F.3d 39, 45 (1st Cir. 2011), and a “daunting hurdle,”
+
+United States v. Hatch, 434 F.3d 1, 4 (1st Cir. 2006).
+
+       While the sufficiency of the evidence is at the heart of the
+
+Rule 29 inquiry, deference to the jury’s verdict controls the
+
+Court’s analysis.        To uphold the jury’s guilty verdict, the Court
+
+need   only    determine    that    the   conviction    “finds     support     in   a
+     Case 3:18-cr-00451-FAB Document 460 Filed 12/14/22 Page 16 of 20
+
+
+
+Criminal No. 18-451 (FAB)                                               16
+
+plausible rendition of the record.”        United States v. Shaw, 670
+
+F.3d 360, 362 (1st Cir. 2012).          Ultimately, a defendant must
+
+establish that “the evidence is so scant that a rational factfinder
+
+could not conclude that the government proved all the essential
+
+elements of the charged crime beyond a reasonable doubt.”           United
+
+States v. Vázquez-Soto, 939 F.3d 365, 371 (1st Cir. 2019).
+
+     A.    Carjacking
+
+           The jury had to find that the United States proved each
+
+element of the charged offenses beyond a reasonable doubt to
+
+convict Huertas and Pizarro.       See Powell v. Tompkins, 783 F.3d
+
+332, 354 (1st Cir. 2015) (“The Due Process Clause requires the
+
+prosecution to prove beyond a reasonable doubt all of the elements
+
+included in the definition of the offense of which the defendant
+
+is charged.”) (quoting McMillan v. Pennsylvania, 477 U.S. 79, 85
+
+(1986)).   To secure a conviction, the United States had to satisfy
+
+four elements:
+
+     (1) the taking or attempted taking from the person or
+     presence of another; (2) of a motor vehicle that has
+     been transported, shipped, or received in interstate or
+     foreign commerce; (3) through the use of force,
+     violence, or intimation; (4) with the intent to cause
+     death or serious bodily harm.
+
+United States v. Velázquez-Aponte, 940 F.3d 785 F.3d 785, 797 (1st
+
+Cir. 2019) (citing 18 U.S.C. § 2119).
+      Case 3:18-cr-00451-FAB Document 460 Filed 12/14/22 Page 17 of 20
+
+
+
+Criminal No. 18-451 (FAB)                                                    17
+
+           The    intent   to   cause   death   or    bodily   harm    may   be
+
+“conditional,” encompassing a “willingness to [kill or harm] if
+
+necessary to hijack the car.”        United States v. Evans-García, 322
+
+F.3d 110, 114 (1st Cir. 2003) (citing Holloway v. United States,
+
+526 U.S. 1, 11-12 (1999)) (emphasis added); see United States v.
+
+Meléndez-Rivas, 566 F.3d 41, 43 (“[The] intent requirement is
+
+satisfied if at the time [the defendant] took control of the
+
+motorcycle, he had an intent to kill or cause serious bodily injury
+
+to the driver, whether or not the intent was necessary to take the
+
+vehicle.”).      The relevant intent is the mens rea “at the moment
+
+the   defendant    demanded     or   took   control    over    the    driver’s
+
+automobile.”     United States v. Díaz-Rosado, 857 F.3d 116, 121 (1st
+
+Cir. 2017) (noting that “the government does not have to prove
+
+that the defendant always intended, regardless of the victim’s
+
+actions, to cause serious bodily harm”).
+
+III. Discussion
+
+      Huertas and Pizarro assert that the United States failed to
+
+establish that the defendants obtained the BMW with the intent to
+
+cause death or serious bodily harm.          (Docket Nos. 427 and 435.)
+
+This argument lacks merit.
+
+      The First Circuit Court of Appeals has repeatedly held that
+
+“touching or threatening a victim while brandishing a firearm is
+
+sufficient evidence of intent ‘to cause death or serious bodily
+        Case 3:18-cr-00451-FAB Document 460 Filed 12/14/22 Page 18 of 20
+
+
+
+Criminal No. 18-451 (FAB)                                                      18
+
+harm’ within the meaning of § 2119.”              United States v. Guerrero-
+
+Narváez, 29 F.4th 1, 10-11 (1st Cir. 2022) (citing United States
+
+v. Catalán-Román, 585 F.3d 453, 474 (1st Cir. 2009) (evidence that
+
+the defendant “pointed a nickel-plated pistol at Julia’s face while
+
+demanding [that the driver] exit the car” satisfied the intent
+
+element in a section 2119 prosecution); Díaz-Rosado, 857 F.3d at
+
+121, 126) (“Just as one can use brute force or a variety of items
+
+to kill or cause serious harm, one can also use such force or items
+
+to   manifest     an    intent   to    cause     death   or   serious   harm   if
+
+necessary.”)).
+
+      Huertas and Pizarro ambushed Meyers with loaded firearms in
+
+a public area.         Ms. Pérez testified that Huertas aimed a firearm
+
+at her and broke her phone.            (Docket No. 413 at pp. 19-20.)           A
+
+defendant fired a shot at the basketball court, an intimidating
+
+act heard by Ms. Pérez and Meyers.             Huertas held an AK-47 between
+
+his legs inside the BMW, placing the firearm within reach should
+
+Ms. Pérez resist.         Id. at p. 21.        Ms. Pérez felt “nervous and
+
+scared.”       Id. at p. 22.          Indeed, the record is replete with
+
+testimony establishing that the defendants used violence to kidnap
+
+Meyers and carjack the BMW.
+
+      Ms. Pérez’s efforts to rescue her son do not detract from the
+
+force    and   intimidation      employed   by    the    defendants.    Coerced
+
+facilitation of a carjacking does not negate the defendants’ use
+     Case 3:18-cr-00451-FAB Document 460 Filed 12/14/22 Page 19 of 20
+
+
+
+Criminal No. 18-451 (FAB)                                               19
+
+of force or intimidation.        Accordingly, the defendants cannot
+
+escape liability for carjacking the BMW because Ms. Pérez assisted
+
+Huertas in locating the keys and pursued her son’s assailants.
+
+     Huertas posits that the BMW was “taken incidentally to the
+
+kidnapping” and “out of convenience.”        (Docket No. 427 at p. 5.)
+
+The fruits of illicit endeavors (i.e. cars, drugs, cash) are often
+
+“convenient” for criminals to possess.        Why else would they risk
+
+incarceration to steal these objects?        Huertas carjacked the BMW
+
+precisely because it was convenient for him to escape from the
+
+basketball court in a vehicle of substantial value.         Moreover, the
+
+acquisition of a vehicle need not be the primary objective of a
+
+defendant for section 2119 to attach. See United States v. Rivera-
+
+Figueroa, 149 F.3d 1, 4 (1st Cir. 1989) (“But nothing in the
+
+statute requires that the taking be the ultimate motive of the
+
+crime.   It is enough that the defendant be aware that the action
+
+in which he is engaged, whether by himself or through direction or
+
+assistance to another, involves the taking of a motor vehicle.”);
+
+United States v. García-Álvarez, 541 F.3d 8, 16 (1st Cir. 2008)
+
+(rejecting the defendants’ argument that “the Government [failed
+
+to meet] its burden of establishing the intent element beyond a
+
+reasonable doubt because [the defendants] did not intend to take
+
+[the victim’s] car but only to rob his home;” that the “car was
+
+only an improvised getaway vehicle” was irrelevant).
+      Case 3:18-cr-00451-FAB Document 460 Filed 12/14/22 Page 20 of 20
+
+
+
+Criminal No. 18-451 (FAB)                                                20
+
+IV.   Conclusion
+
+      For the reasons set forth above, Huertas’ and Pizarro’s
+
+motions for judgment of acquittal are DENIED.           (Docket Nos. 427
+
+and 435.)
+
+      IT IS SO ORDERED.
+
+      San Juan, Puerto Rico, December 14, 2022.
+
+
+                                   s/ Francisco A. Besosa
+                                   FRANCISCO A. BESOSA
+                                   SENIOR UNITED STATES DISTRICT JUDGE
+

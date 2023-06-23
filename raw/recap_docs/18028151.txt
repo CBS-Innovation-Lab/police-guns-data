@@ -1,0 +1,537 @@
+Case 2:08-cr-00067-DBH Document 397 Filed 07/23/15 Page 1 of 10      PageID #: 1359
+
+
+
+                      UNITED STATES DISTRICT COURT
+
+                              DISTRICT OF MAINE
+
+
+  UNITED STATES OF AMERICA,                )
+                                           )
+                                           )
+  V.                                       )   CRIMINAL NO. 2:08-CR-67-DBH-01
+                                           )
+  STANLEY JENKINS,                         )
+                                           )
+                          DEFENDANT        )
+
+
+                 ORDER ON MOTION TO MODIFY SENTENCE
+
+
+       The defendant seeks a sentence modification under 18 U.S.C. § 3582(c) on
+
+ account of the lowered Guideline sentencing ranges established in Amendment
+
+ 782 for cocaine base (crack cocaine). The government opposes any sentence
+
+ reduction. In sentencing the defendant in 2009, I did not make a specific crack
+
+ quantity finding, but instead, at the parties’ request, used a quantity range that
+
+ generated a particular Base Offense Level. Under the amended Guidelines, that
+
+ quantity range now covers two different Base Offense Levels. The defendant
+
+ argues that he should get the benefit of the lower level; the government argues
+
+ that he should be held responsible for the higher level. I apply the lower level
+
+ and reduce the defendant’s sentence.
+
+                                   BACKGROUND
+
+       In the Presentence Report for the 2009 sentencing, the Probation Officer
+
+ calculated a specific crack quantity for which he recommended that the
+
+ defendant be held accountable.       Presentence Report ¶ 6.       But both the
+
+ government and the defendant objected to that calculation, and the government
+Case 2:08-cr-00067-DBH Document 397 Filed 07/23/15 Page 2 of 10                   PageID #: 1360
+
+
+
+ stated that because of witness problems it could not prove the amount that the
+
+ Probation Officer proposed.             See Addendum to the Presentence Report
+
+ (“Addendum”), pp. 17-18.1 Ultimately, I accepted a written plea agreement that
+
+ created a binding stipulation under Fed. R. Crim. P. 11(c)(1)(C) that the drug
+
+ quantity for which the defendant was responsible was 500 grams to 1.5
+
+ kilograms of crack. See Agreement to Plead Guilty (With Stipulations and Appeal
+
+ Waiver) (ECF No. 212), p. 3.2 That 500g to 1.5kg range generated a Base Offense
+
+ Level of 34 under the then applicable Guidelines. See U.S.S.G. § 2D1.1(c)(3)
+
+ (2008). The defendant’s Total Offense Level was 37 and his Criminal History was
+
+ Category III.       His sentencing range therefore was 262 to 327 months
+
+ imprisonment. Applying the section 3553(a) statutory factors, see United States
+
+ v. Booker, 543 U.S. 220, 245 (2005), I varied downward from that range and
+
+ sentenced him to 210 months.
+
+        But 500g to 1.5kg is no longer a definitive marker. Instead, a quantity of
+
+ 840g to 2.8kg of crack now generates a Base Offense Level of 32, while a quantity
+
+
+
+
+ 1 The Addendum stated:
+               The government believes the PSR overstates the drug quantity it
+               can prove. The government notes one particular witness that could
+               potentially provide testimony to support a portion of the drugs
+               calculated in the PSR would “likely assert his/her Fifth
+               Amendment right against self-incrimination.” In addition, the
+               government would not call other cooperating defendants to testify
+               in light of the stipulation between the parties to a drug quantity
+               between 500 grams and 1.5 kilograms of cocaine base, resulting in
+               a base offense level 34.
+ Addendum, p. 17.
+ 2 The government says that the parties agreed to the stipulation after the presentence report was
+
+ prepared. Gov’t’s Objection to Court’s Sua Sponte Mot. to Modify Sentence (“Gov’t’s Objection”)
+ (ECF No. 395), p. 1. However, the plea agreement containing the stipulation is dated
+ February 25, 2009, whereas the presentence report was prepared on April 15, 2009, and revised
+ on May 13, 2009.
+
+                                                                                                2
+Case 2:08-cr-00067-DBH Document 397 Filed 07/23/15 Page 3 of 10                  PageID #: 1361
+
+
+
+ of 280g to 840g generates a Base Offense Level of 30.3 Those Base Offense Levels
+
+ generate Total Offense Levels of 35 and 33 when applied to this defendant and,
+
+ with a Criminal History of III, Guideline prison ranges of 210 to 262 months and
+
+ 168 to 210 months, respectively.
+
+        Therefore, the Guideline range for this defendant is lower than that applied
+
+ in 2009 regardless of whether he is responsible for more than, or less than, 840
+
+ grams. But my original sentence of 210 months applied the Booker factors to
+
+ “vary” below the then applicable Guideline range.                   A court applying the
+
+ retroactive crack quantity amendments cannot sentence below the minimum
+
+ sentence of the new Guideline range. See U.S.S.G. § 1B1.10(b)(2)(A). Thus, if
+
+ the defendant’s new Guideline range should be 210 to 262 months, he cannot
+
+ obtain a reduction because his original sentence was already at the bottom of
+
+ that new range. But if the Guideline range of 168 to 210 months applies, the
+
+ defendant can seek a reduction because his sentence could be as low as 168
+
+ months, far lower than the original sentence.
+
+                                           ANALYSIS
+
+        In circumstances like these where the original sentencing judge did not
+
+ make a specific drug quantity calculation, the circuit courts generally have ruled
+
+ that the “modification judge” (here, I am both the original sentencing judge and
+
+
+ 3 The Guidelines changed the relevant quantity markers to 280-840 grams and 840 grams to 2.8
+ kilograms in Amendment 750. See United States Sentencing Commission, Guidelines Manual,
+ App. C-Vol. III, Amendment 750, at 391-98 (Nov. 1, 2011) (re-promulgating as permanent the
+ previously temporary, emergency amendments implementing the Fair Sentencing Act). Most
+ recently, the Commission reduced the Base Offense Levels for each of these crack quantity ranges
+ to their current levels. See United States Sentencing Commission, Guidelines Manual, Suppl. to
+ App. C, Amendment 782, at 65 (Nov. 1, 2014); see also Amendment 788, at 87 (Nov. 1, 2014)
+ (Amendment 782 may be applied retroactively). For simplicity’s sake, I will refer to the “crack
+ quantity amendments.”
+                                                                                               3
+Case 2:08-cr-00067-DBH Document 397 Filed 07/23/15 Page 4 of 10         PageID #: 1362
+
+
+
+ the modification judge) should review the entire record that was before the
+
+ original sentencing judge and make a determination, by a preponderance of the
+
+ evidence, of the quantity for which the defendant is responsible (without
+
+ contradicting any earlier findings). See, e.g., United States v. Wyche, 741 F.3d
+
+ 1284, 1293 (D.C. Cir. 2014); United States v. Anderson, 707 F.3d 973, 975 (8th
+
+ Cir. 2013); United States v. Battle, 706 F.3d 1313, 1319 (10th Cir. 2013); United
+
+ States v. Valentine, 694 F.3d 665, 670 (6th Cir. 2012); United States v. Hall, 600
+
+ F.3d 872, 876 (7th Cir. 2010).         I am unable to make such a quantity
+
+ determination on the record alone. What the record consists of is the defendant’s
+
+ admission at his guilty plea to the prosecution version that asserted a quantity
+
+ of “over 50 grams of cocaine base.” See Gov’t’s Am. Version of the Offense (ECF
+
+ No. 187), pp. 3-4. I also have the Probation Officer’s proposed drug quantity in
+
+ the Presentence Report at the original sentencing, but it is entitled to no weight
+
+ because both parties agreed that it could not be proven and because I accepted
+
+ the Plea Agreement stipulation of 500g to 1.5kg. There was no other evidence
+
+ presented, and thus the record alone does not permit me to determine whether
+
+ the defendant should be held responsible for more than, or less than, 840 grams
+
+ of crack.
+
+       In opposing any reduction, the government says “that the Court must
+
+ make specific findings that the drug quantity involved in this offense results in
+
+ a lower sentencing guideline range. Without such a finding, the defendant has
+
+ failed to establish he is eligible for a sentencing modification.” Gov’t’s Objection,
+
+ pp. 1-2. I have made that finding. As I said above, the new Guideline range is
+
+ lower, regardless of where the defendant fits within the quantity range.
+                                                                                    4
+Case 2:08-cr-00067-DBH Document 397 Filed 07/23/15 Page 5 of 10                    PageID #: 1363
+
+
+
+ Nevertheless, the question remains which of the two possible Guideline ranges
+
+ applies. Under the higher range, my 2009 variant sentence gave the defendant
+
+ all that he can obtain.         But under the lower range, he can seek a further
+
+ reduction.     On the factual issue of precisely what crack quantity should be
+
+ assigned to him, the evidence is in equipoise.                Where a factual issue is in
+
+ equipoise, the conventional way to resolve the decisional dilemma is through
+
+ burden allocation.4
+
+        The statutory basis for a sentence modification like that requested here is
+
+ 18 U.S.C. § 3582(c)(2). It states:
+
+                [I]n the case of a defendant who has been sentenced to a term
+                of imprisonment based on a sentencing range that has
+                subsequently been lowered by the Sentencing Commission
+                pursuant to 28 U.S.C. 994(o), upon motion of the defendant
+                or the Director of the Bureau of Prisons, or on its own motion,
+                the court may reduce the term of imprisonment, after
+                considering the factors set forth in section 3553(a) to the
+                extent that they are applicable, if such a reduction is
+                consistent with applicable policy statements issued by the
+                Sentencing Commission.
+
+ There is no mention of burden allocation. The pertinent Guideline states:
+
+                In a case in which a defendant is serving a term of
+                imprisonment, and the guideline range applicable to that
+                defendant has subsequently been lowered as a result of an
+                amendment to the Guidelines Manual listed in subsection (d)
+                below, the court may reduce the defendant’s term of
+                imprisonment as provided by 18 U.S.C. 3582(c)(2). As
+                required by 18 U.S.C. 3582(c)(2), any such reduction in the
+
+
+ 4 The Probation Officer recommended a sentence reduction in the 2015 Revised Presentence
+ Report on the basis of the “Rule of Lenity.” I agree with the government, see Gov’t’s Objection,
+ p.1, that this is not really a rule of lenity case. See United States v. Almonte, 493 Fed. App’x
+ 830, 832 (8th Cir. 2012) (declining to apply the rule of lenity in sentence modification context
+ because the relevant statutory language is not ambiguous); Yates v. United States, 135 S. Ct.
+ 1074, 1088 (2015) (discussing the rule of lenity as a tool to interpret ambiguous criminal
+ statutes). But the Probation Officer was on the right track, as my analysis reveals and as the
+ Tenth Circuit reflects, in urging that the court “err on the side of caution.” Battle, 706 F.3d at
+ 1320 (citation omitted).
+
+                                                                                                 5
+Case 2:08-cr-00067-DBH Document 397 Filed 07/23/15 Page 6 of 10                    PageID #: 1364
+
+
+
+                  defendant’s term of imprisonment shall be consistent with
+                  this policy statement. . . .
+
+                  A reduction in the defendant’s term of imprisonment is not
+                  consistent with this policy statement and therefore is not
+                  authorized under 18 U.S.C. 3582(c)(2) if—
+                  ...
+                  (B) An amendment listed in subsection (d) does not have the
+                  effect of lowering the defendant’s applicable guideline range.
+
+ U.S.S.G. § 1B1.10(a).5 Once again, there is no mention of burden allocation.
+
+          The circuits are divided on how to proceed in such a case (the First Circuit
+
+ has not spoken). The Ninth Circuit says that once a defendant shows that an
+
+ amendment applies to him:
+
+                  Since the district court, in deciding whether, and to what
+                  extent, a reduction in sentence is warranted, must consider
+                  what sentence it would have imposed had [the amendment]
+                  been in effect at the time the defendant was sentenced,
+                  U.S.S.G. § 1B1.10(b), the burden of proof shifts to the
+                  government to establish the base offense level, that is, the
+                  weight of the controlled substance.
+
+ United States v. Sprague, 135 F.3d 1301, 1307 (9th Cir. 1998) (emphasis added)
+
+ (applying Amendment 484, which excluded the weight of certain components of
+
+ a controlled substance mixture from drug quantity).                   In Battle, the original
+
+ sentencing finding was “well in excess of 1.5 kilograms.” 706 F.3d at 1316. At
+
+ the modification stage, the Tenth Circuit did not use the language of burden, but
+
+ that of caution. It said: “given the complete absence of evidence of drug quantity
+
+ within [a particular] range, the district court was required to ‘err on the side of
+
+ caution,’ and not rely on a ‘theoretical maximum amount’ of cocaine base
+
+ involved.”      706 F.3d at 1320 (emphasis added) (citations omitted).                     It then
+
+ remanded for resentencing at the bottom of the range that the record would
+
+
+ 5   The relevant portions of the crack quantity amendments are listed in subsection (d).
+                                                                                                  6
+Case 2:08-cr-00067-DBH Document 397 Filed 07/23/15 Page 7 of 10                     PageID #: 1365
+
+
+
+ support.6 Thus, in both the Ninth and Tenth Circuits, any inadequacy of proof
+
+ on drug quantity favors the defendant at the modification stage.7
+
+        But the Eleventh Circuit reached a contrary conclusion on who bears the
+
+ burden at modification. In a case where the sentencing judge originally found a
+
+ defendant responsible for “at least” a certain quantity of crack without further
+
+ specificity, the Eleventh Circuit said:
+
+                If, after examining the findings it made at the initial sentence
+                proceedings and, if those are inadequate, after looking at the
+                record and materials that were before it at the time of the
+                original sentence hearing, the district court cannot
+                determine Hamilton’s drug quantity with enough specificity
+                to decide whether Amendment 750 lowers his guidelines
+                range, then Hamilton is ineligible for § 3582(c)(2) relief. As
+                the § 3582(c)(2) movant, Hamilton bears the burden of
+                showing that if Amendment 750 had been in effect at the time
+                of his original sentencing, then he would have received a lower
+                guidelines range. Cf. U.S.S.G. § 1B1.10(b)(1). If Hamilton
+                cannot make that showing, then the court does not have the
+                authority to reduce Hamilton’s sentence under § 3582(c)(2).
+
+ United States v. Hamilton, 715 F.3d 328, 340-41 (11th Cir. 2013) (emphasis
+
+ added). A divided Eighth Circuit agreed, in a case where the record did not
+
+ disclose the respective proportions of crack, powder cocaine, and marijuana that
+
+ produced a marijuana-equivalent calculation, and thus stymied application of a
+
+
+ 6 In Battle, the modification judge found the defendant responsible for 3.4 kilograms, id. at 1314,
+ and granted only a limited reduction. Using the preponderance of the evidence standard, the
+ Tenth Circuit said that the Presentence Report at the original sentencing “demonstrate[d] that
+ Battle was responsible for somewhere between 1.8 and 3.4 kilograms,” id. at 1320, and remanded
+ for resentencing at the 1.8 kilogram level. Id. at 1321.
+ 7 In Valentine, the Sixth Circuit did not address the burden issue burden directly, but its
+
+ references to the “preponderance of the evidence in the record” as the standard, 694 F.3d at 670-
+ 74, are certainly consistent with the Ninth and Tenth Circuits’ approach. In United States v.
+ Mann, the sentencing judge found that the defendant was responsible for “at least 1.5 kilograms.”
+ 709 F.3d 301, 303 (4th Cir. 2013). At the modification stage, the judge refused to find that the
+ defendant was responsible for 8.4 kilograms. The Fourth Circuit “deferr[ed] to the sentencing
+ court’s conclusion that it never made a finding that Mann was responsible for any specific
+ quantity greater than 1.5 kilograms,” id. at 306, and said that the district court “did not err in
+ exercising its discretion not to make additional findings more than a decade after the original
+ sentencing.” Id. at 307.
+                                                                                                  7
+Case 2:08-cr-00067-DBH Document 397 Filed 07/23/15 Page 8 of 10                   PageID #: 1366
+
+
+
+ crack quantity amendment: “[the defendant] was the movant seeking to reduce
+
+ the offense level pursuant to USSG § 1B1.10. If there is a failure of proof, then
+
+ his motion fails.” United States v. Benson, 715 F.3d 705, 708 (8th Cir. 2013).
+
+        In the absence of specific First Circuit guidance and in light of Guideline
+
+ policy and Supreme Court teaching, I find the Ninth and Tenth Circuits’
+
+ approaches persuasive. Certainly a defendant must first show that the Guideline
+
+ amendment applies to his case, in the sense that his original sentence was based
+
+ upon something that the Guideline amendment changed.                         Thus, a person
+
+ convicted for marijuana distribution cannot show that the crack quantity
+
+ amendment applies to him.8             Here, it is indisputable that the defendant’s
+
+ sentence was based on crack quantity and that his new Guideline range is lower
+
+ because both of the possible ranges are lower. At the same time, it has long been
+
+ the rule in this Circuit that the government has the burden of establishing a
+
+ drug quantity that will generate a particular Base Offense Level. See United
+
+ States v. Sepulveda, 15 F.3d 1161, 1198 (1st Cir. 1993) (“For sentencing
+
+ purposes, the government must prove drug quantities by a preponderance of the
+
+ evidence.”).
+
+        The applicable Guideline Policy Statement9 and the Supreme Court
+
+ instruct that once I conclude that a Guideline amendment applies, I must
+
+
+
+ 8 A number of defendants have lost their sentence reduction requests because, although they
+ were convicted of distributing crack, their sentences were ultimately based on career offender
+ status, not crack quantity. See, e.g., United States v. Cardosa, 606 F.3d 16, 19 (1st Cir. 2010).
+ 9 Guideline 1B1.10(b)(1) says: “In determining whether, and to what extent, a reduction in the
+
+ defendant’s term of imprisonment under 18 U.S.C. 3582(c)(2) and this policy statement is
+ warranted, the court shall determine the amended guideline range that would have been
+ applicable to the defendant if the amendment(s) to the guidelines . . . had been in effect at the
+ time the defendant was sentenced.”
+                                                                                                8
+Case 2:08-cr-00067-DBH Document 397 Filed 07/23/15 Page 9 of 10                   PageID #: 1367
+
+
+
+ calculate the sentence as if the Guideline amendment had been in effect when I
+
+ originally sentenced the defendant. See Dillon v. United States, 560 U.S. 817,
+
+ 827 (2010). If I had been applying Amendment 782 in 2009, and if the only
+
+ evidence were that the defendant was responsible for somewhere between 500g
+
+ and 1.5kg of crack, I would have found that the government had not met its
+
+ burden of proof to show that the amount was 840 grams or more and thus I
+
+ would have assigned this defendant a Base Offense Level of 30 with a resulting
+
+ sentencing range of 168 to 210 months (Total Offense Level of 33 and Criminal
+
+ History Category III). I conclude that this defendant is therefore entitled to seek
+
+ a sentence reduction.
+
+        The Eighth and Eleventh Circuits’ apparently contrary conclusions that
+
+ impose the entire burden on the defendant are perplexing.10                        Where the
+
+ Sentencing Commission has made clear that it intends to lower the Guideline
+
+ sentences for crack11 and the defendant seeking a modification shows that he
+
+ had a crack-based sentence; where the Commission and the Supreme Court
+
+ have instructed that the modifying court should derive the sentence that the
+
+ court would have derived if the amended sentencing Guideline had applied at
+
+ the original sentencing; and where the government had the burden of proof at
+
+ the original sentencing to establish relevant drug quantity, why impose the
+
+
+ 10 It is possible to distinguish the Eighth and Eleventh Circuit rulings because in this case the
+ Guideline amendment lowers the Guideline range regardless of whether I select the high end or
+ the low end of the parties’ stipulated drug quantity. But even as distinguished, I find their
+ approach unpersuasive.
+ 11 It is indisputable that the crack quantity amendments were intended to lower sentences for
+
+ crack convictions. See United States Sentencing Commission, Guidelines Manual, App. C-Vol.
+ III, Amendment 750, at 393-94 (Nov. 1, 2011) (describing predicted crack sentence reductions
+ under first round of crack quantity amendments).
+
+                                                                                                9
+Case 2:08-cr-00067-DBH Document 397 Filed 07/23/15 Page 10 of 10                      PageID #: 1368
+
+
+
+ burden on the defendant now to show that he was entitled to the lower part of a
+
+ quantity range?12 That is not within the language of the sentencing statute, the
+
+ Guidelines, or the Supreme Court’s reasoning in Dillon. It certainly does not
+
+ further any purpose of the Commission, which made the crack quantity
+
+ amendments retroactive. I therefore do not follow that approach and instead
+
+ leave the burden with the government, as it was at sentencing.
+
+        In recommending a sentence reduction, the 2015 Revised Presentence
+
+ Report tells me that while in prison this defendant has earned his GED, held
+
+ several work assignments, completed a diversity awareness class, and
+
+ accumulated no disciplinary history.               After considering the section 3553(a)
+
+ factors, as well as public safety and post-sentencing conduct, U.S.S.G. § 1B1.10,
+
+ Cmt. 1(B),13 I REDUCE his sentence to 168 months, the bottom of the new
+
+ Guideline range. The Clerk’s Office shall prepare an AO-247 form accordingly.14
+
+        SO ORDERED.
+
+        DATED THIS 23RD DAY OF JULY, 2015
+
+                                                       /S/D. BROCK HORNBY
+                                                       D. BROCK HORNBY
+                                                       UNITED STATES DISTRICT JUDGE
+
+
+
+
+ 12 There is no issue of “fault” in cases like this. Neither the defendant nor the government can
+ be faulted for selecting a quantity range that avoided controversy under the original Guideline
+ but creates confusion under the amendment. The modification judge’s role is to make a decision
+ based upon review of the record of the original sentencing, not to shift the burden of proof.
+ 13 This is the second step of the “two-step inquiry” that Dillon says is established by § 3582(c)(2).
+
+ 560 U.S. at 826-27.
+ 14 It will be effective only as of November 1, 2015, as required by Guideline 1B1.10(e)(1). A
+
+ concurrent 60-month sentence for another conviction is unaffected by this ruling.
+                                                                                                   10
+

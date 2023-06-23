@@ -1,0 +1,628 @@
+                         UNITED STATES DISTRICT COURT
+                              DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA               )
+                                       )
+        v.                             )     1:12-cr-00163-JAW
+                                       )
+DARLENE FORD                           )
+
+
+     ORDER ON DEFENDANT’S MOTION FOR JUDGMENT OF ACQUITTAL
+                      AND FOR NEW TRIAL
+
+        On February 6, 2014, a federal jury convicted Darlene Ford of conspiracy to
+
+manufacture marijuana, knowingly maintaining a residence for the purpose of
+
+manufacturing marijuana, and aiding and abetting a felon in possession of a
+
+firearm. Ms. Ford renews in writing her oral motion for a judgment of acquittal
+
+under Federal Rule of Criminal Procedure 29(a), arguing that the evidence does not
+
+support a guilty verdict on any of the counts of conviction. In the alternate, Ms.
+
+Ford moves for a new trial under Criminal Rule 33.       Concluding that the trial
+
+evidence was sufficient to support the convictions on all three counts and that the
+
+Court did not err in allowing Trooper James Bruce to testify about the
+
+circumstances leading up to Mr. Ford’s 2004 Massachusetts felony conviction, the
+
+Court denies both motions.
+
+I.      LEGAL STANDARD
+
+        In ruling on a motion for judgment of acquittal, the Court must view the
+
+evidence in the light most favorable to the Government and draw all reasonable
+
+inferences in the Government’s favor. United States v. Lara, 181 F.3d 183, 200 (1st
+
+Cir. 1999); United States v. Andrade, 94 F.3d 9, 12 (1st Cir. 1996).    The Court
+should deny the motion if the evidence, viewed in this manner, is sufficient to
+
+permit a jury to find guilt beyond a reasonable doubt. United States v. Doe, 921
+
+F.2d 340, 343 (1st Cir. 1990).      However, the verdict may not “‘rest on mere
+
+suspicion, speculation, or conjecture, or on an overly attenuated piling of inference
+
+on inference.’” United States v. Rojas Alvarez, 451 F.3d 320, 333 (1st Cir. 2006)
+
+(quoting United States v. Pettigrew, 77 F.3d 1500, 1521 (5th Cir. 1996)). “[E]vidence
+
+is insufficient to support a verdict where mere speculation, rather than reasonable
+
+inference, supports the [G]overnment’s case, . . . or where there is a ‘total failure of
+
+proof of [a] requisite element.’” United States v. Nevils, 598 F.3d 1158, 1167 (9th
+
+Cir. 2010) (quoting Briceno v. Scribner, 555 F.3d 1069, 1079 (9th Cir. 2009))
+
+(internal citations omitted).
+
+      A motion for a new trial should be granted only where “‘there would be a
+
+miscarriage of justice . . . and where the evidence preponderates heavily against the
+
+verdict.’” United States v. Wilkerson, 251 F.3d 273, 278 (1st Cir. 2001) (quoting
+
+United States v. Indelicato, 611 F.2d 376, 387 (1st Cir. 1979)). However, absent
+
+evidence of a “manifest injustice,” Criminal Rule 33 is not an appropriate “vehicle to
+
+relitigate evidentiary rulings with which [the defendant] disagrees.” United States
+
+v. Castro, 669 F. Supp. 2d 288, 293 (E.D.N.Y. 2009), aff’d on other grounds, 411 Fed.
+
+App’x 415 (2d Cir. 2011) (unpublished).
+
+II.   FACTS
+
+      A.     Procedural Posture
+
+      A grand jury indicted Ms. Ford on September 14, 2012, Indictment (ECF No.
+
+1), and issued a superseding indictment on April 23, 2013. Superseding Indictment
+
+
+                                              2
+(ECF No. 80). The superseding indictment charged Ms. Ford with conspiracy to
+
+manufacture marijuana (Count One), id. at 1; using and maintaining a premises for
+
+the purpose of manufacturing marijuana (Count Three), id. at 2; and aiding and
+
+abetting her husband James F. Ford, a felon, in possession of two specific firearms
+
+(Count Six). Id. at 4. The Government brought Ms. Ford to trial on these charges
+
+beginning on September 23, 2013, but on September 26, 2013, the Court declared a
+
+mistrial when the jury was unable to reach a verdict. Oral Decl. of Mistrial (ECF
+
+No. 208).
+
+         On November 27, 2013, the Court reset the case for trial to begin on February
+
+4, 2014. Order Granting Mot. to Continue (ECF No. 256). On January 31, 2014,
+
+Ms. Ford filed a motion in limine to exclude the testimony of Massachusetts State
+
+Trooper James Bruce. Def.’s Mot. in Limine (ECF No. 301). The Court denied that
+
+motion on February 4, 2014, the first day of trial. Order on Mot. in Limine (ECF
+
+No. 310). On February 6, 2014, the jury convicted Ms. Ford on all counts. Verdict
+
+Form (ECF No. 318).
+
+         Ms. Ford filed the present motion for acquittal on February 18, 2014. Mot. of
+
+Def. for J. of Acquittal or in the Alternative Mot. for New Trial (ECF No. 327) (Def.’s
+
+Mot.).     The Government responded in opposition on March 6, 2014.             Gov’t’s
+
+Objection and Resp. to Def.’s Mot. for J. of Acquittal (ECF No. 329) (Gov’t’s Opp’n).
+
+Ms. Ford did not reply to the Government’s opposition.
+
+         B.    Evidence at Trial
+
+         On November 15, 2011, agents and officers with the Maine Drug
+
+Enforcement Agency (MDEA) executed a search warrant at the home of Darlene
+
+
+                                              3
+and James F. Ford, located at 360 Swan Lake Avenue in Monroe, Maine.                              The
+
+structure at this address is a large, barn-like metal building.                    The residential
+
+quarters are located in a partial second floor at the back of the structure. Darlene
+
+Ford, her husband James F. Ford, and their two sons, Paul and James T., were all
+
+in the residence at the time the agents executed the search warrant. All four exited
+
+the Ford home when called out by law enforcement officers, who entered the
+
+residence after securing the four Fords.
+
+       On the first floor of 360 Swan Lake Road, the agents discovered a
+
+sophisticated indoor marijuana manufacturing operation. Within the open garage
+
+area of the structure were either three or four enclosed inner structures containing
+
+dozens of live marijuana plants.1             At least two of the grow rooms contained
+
+extensive environmental controls, including controls for temperature, lighting, and
+
+humidity. Another room was apparently a staging area to care for and process the
+
+plants.    Agents found numerous items typically used in connection with the
+
+manufacture of marijuana strewn about the garage and secured on shelving units.
+
+       Agents also located two dismantled assault-style rifles in the garage, hidden
+
+in a compartment beneath a mattress outside the grow rooms.                            In addition,
+
+throughout the garage agents found component parts for other firearms. Count VI
+
+of the superseding indictment alleged that Ms. Ford had aided and abetted James
+
+
+
+1       The Court acknowledges some confusion as to whether there were three or four rooms in the
+downstairs part of the structure involved in the marijuana grow operation. Without a certified
+transcript and the demonstrative exhibits, it is difficult to piece together this part of the evidence.
+Whether there were three or four rooms, however, is immaterial to the resolution of the pending
+motion.
+
+
+
+
+                                                      4
+F. Ford’s possession of two firearms: (1) a Sig Sauer Model 556, 5.56mm caliber
+
+rifle; and (2) a DSA Inc., Model SA 58, 308 caliber rifle. Superseding Indictment at
+
+4. At trial, the Government presented evidence that Ms. Ford had purchased these
+
+two rifles.
+
+       Agents seized numerous other items of evidence, including a computer,
+
+digital camera, and several electronic storage devices. On these items, agents found
+
+still photos of James F. Ford and his two sons shooting the two firearms that had
+
+been seized in the garage. Agents also found a video clip of James F. Ford firing one
+
+of the rifles at a firing range with audio of Ms. Ford narrating as her husband fires
+
+the rifle. One photo showed Ms. Ford standing with Mr. Ford and two other people
+
+in the first floor of the warehouse, directly in front of one of the grow rooms. The
+
+agents also found an email from James F. Ford to Ms. Ford in which he discussed a
+
+number of matters that, viewed in a light most favorable to the Government,
+
+related to the marijuana grow operation.
+
+       Ms. Ford made statements to MDEA Special Agent Allen Weaver in
+
+compliance with the notice requirements of Miranda v. Arizona, 384 U.S. 436
+
+(1966).   Agent Weaver recorded the interview.             During the interview, Ms. Ford
+
+acknowledged that her husband had been growing marijuana at their home for
+
+several years.2 She acknowledged that she took care of the family finances. When
+
+
+
+2       Ms. Ford argued at trial that this admission reflected knowledge that she had gained only
+earlier that night when, after the police arrived at the house, her son informed her of the
+manufacturing operation on the first floor of her house. However, in view of the jury verdicts, the
+Court is not required to accept Ms. Ford’s version of her statement when ruling on her Rule 29
+motion, and instead views her statements in a manner consistent with the verdicts.
+
+
+
+
+                                                    5
+confronted with her husband’s statements concerning their involvement in growing
+
+and distributing marijuana, Ms. Ford acknowledged the accuracy of his statements.
+
+       Thousands of pages of bank records revealed that Ms. Ford was the only
+
+person to write checks on the multiple bank accounts that she and her husband
+
+owned together.      For example, during approximately two years, she wrote over
+
+$25,000 in checks to the Central Maine Power Company (CMP) to pay the
+
+residential electricity bill for 360 Swan Lake Avenue. A representative of CMP
+
+testified that CMP’s customer service records show no indication of any complaints
+
+or inquiries by Ms. Ford into the amount of her electricity bills. ATF financial
+
+investigator Michael Ballback testified that he analyzed the bank records and
+
+handwritten financial ledgers recovered during the execution of the search warrant,
+
+and that Ms. Ford maintained all of these financial documents. The bank records
+
+and financial ledgers showed that the Fords had made over $500,000 in just over
+
+two years, though neither of them had been lawfully employed.                    Mr. Ballback
+
+further confirmed that the cash deposits into these bank accounts corresponded
+
+with the marijuana “move” dates listed on the calendars found on the first floor of
+
+the Fords’ home.3
+
+       Cassandra Spencer, the former girlfriend of James T. Ford, testified
+
+regarding her conversations with James T. In these conversations, she reported
+
+
+
+3       The calendars presented at trial had abbreviations and code words, such as “H” and “M” at
+certain regular intervals and “Beantown” in the ledgers corresponding with large cash receipts.
+Viewing this evidence in a light most favorable to the Government, the Court concludes that the
+regular “H” indication stood for “harvest,” the regular “M” indication stood for “move,” and
+“Beantown” referred to Boston, Massachusetts.
+
+
+
+
+                                                   6
+that he explained how the “family business” was operated, and he discussed Ms.
+
+Ford’s role as the financial manager of the operation.
+
+      Count VI of the superseding indictment alleged that James F. Ford, Ms.
+
+Ford’s husband, had previously been convicted of a felony, namely a 2004
+
+Massachusetts conviction for possession of marijuana with the intent to
+
+manufacture, distribute, dispense or cultivate.      Superseding Indictment at 4.
+
+Trooper Bruce testified concerning the events surrounding Mr. Ford’s arrest in 2002
+
+and his subsequent conviction in 2004 for state felony marijuana cultivation with
+
+intent to distribute. Trooper Bruce testified that the Fords owned two homes in
+
+Massachusetts across the street from each other and that these homes contained
+
+extensive marijuana grow operations. One of the homes occupied by the Fords had
+
+a room containing multiple marijuana plants near the Fords’ bedroom. Trooper
+
+Bruce testified to the overwhelming odor of marijuana throughout both houses. He
+
+also testified that Ms. Ford was initially present when the search warrant was
+
+being executed at one of the homes. He further testified that one of the homes in
+
+Massachusetts was civilly forfeited to the Commonwealth of Massachusetts in
+
+connection with James F. Ford’s felony conviction.
+
+      Ms. Ford took the stand in her own defense. She testified that she did not
+
+know until the day of the search warrant execution that her husband and sons were
+
+growing marijuana in the first floor of her home at 360 Swan Lake Avenue. She
+
+also testified that she did not know that her husband was growing marijuana at
+
+their homes in Massachusetts. She further testified that she did not know her
+
+
+
+
+                                             7
+husband was a convicted felon. She admitted that she regularly looked down from
+
+the partial second floor into the warehouse to notify Mr. Ford of phone calls or to
+
+call him to dinner.
+
+III.   DISCUSSION
+
+       A.    Position of the Parties
+
+       Ms. Ford initially frames her legal theory of relief under Rules 29 and 33 as
+
+sufficiency of the evidence.   Def.’s Mot. at 1.   However, her argument focuses
+
+entirely on the Court’s decision to admit the testimony of Trooper Bruce. Id. at 3-5.
+
+She argues that this admission was improper under Federal Rule of Evidence
+
+404(b) because it is not relevant to any act by Ms. Ford, was not offered for a proper
+
+purpose, and was unduly prejudicial to Ms. Ford. Id. The Government responds by
+
+incorporating its previous arguments against the motion in limine. Gov’t’s Opp’n at
+
+5.
+
+       B.    Count One: Conspiracy to Manufacture Marijuana
+
+       To prove the conspiracy alleged in Count One, the Government was required
+
+to prove beyond a reasonable doubt that (1) the agreement to manufacture
+
+marijuana plants specified in the indictment existed between at least two people,
+
+and (2) Darlene Ford wilfully joined in that agreement. 21 U.S.C. § 846; United
+
+States v. Piper, 35 F.3d 611, 614-15 (1st Cir. 1994).     The crime underlying the
+
+conspiracy, manufacturing marijuana, required the Government to prove that one
+
+or more conspirators (1) manufactured marijuana; (2) knew that the substance they
+
+were manufacturing was marijuana; and (3) acted knowingly or intentionally. 21
+
+U.S.C. § 841(a)(1).
+
+
+                                             8
+      The Government’s evidence robustly supports the existence of a conspiracy to
+
+commit the underlying crimes. The Government found at least two concealed grow
+
+rooms full of marijuana plants on the first floor of the warehouse where Darlene
+
+and James F. Ford lived, including an extensive atmosphere control system, and an
+
+additional room for processing. There were many tools and materials related to
+
+hydroponic growing in the area around the enclosed grow rooms. The emails among
+
+Mr. Ford, his sons, and Ms. Ford showed thinly disguised conversations regarding
+
+their roles in the manufacturing operation.
+
+      There was also sufficient evidence that Ms. Ford knew of the operation and
+
+wilfully joined in the conspiracy. She lived directly above the operation; she was
+
+photographed with Mr. Ford on the first floor of the warehouse, outside one of the
+
+enclosed grow rooms; her handwriting was found on the ledgers documenting
+
+movement of the harvested marijuana and receipt of large cash sums. She was the
+
+only one in the family who dealt with bank accounts, and was responsible for
+
+depositing the large cash sums into those bank accounts. Mr. Ford was unemployed
+
+during the time that the family received over $500,000 in income, and the jury could
+
+reasonably have rejected Ms. Ford’s explanation that she thought Mr. Ford was still
+
+employed as an independent contractor working from his workshop in the
+
+warehouse. The exceptionally large electricity bills that Ms. Ford paid to CMP,
+
+without comment or complaint, provide further circumstantial evidence that she
+
+knew of the operation. In short, there was plenty of evidence on which to conclude
+
+that Ms. Ford joined the conspiracy and served as its financial manager.
+
+
+
+
+                                              9
+      C.    Count Three: Maintaining a Residence for the Purpose of
+            Manufacturing Marijuana
+
+      To obtain a conviction on Count Three, the Government was required to
+
+prove that (1) Ms. Ford knowingly used or maintained the residence at 360 Swan
+
+Lake Avenue, and (2) did so for the purpose of intentionally manufacturing
+
+marijuana plants.   21 U.S.C. § 856(a)(1).    Because the superseding indictment
+
+charged aiding and abetting in the alternate, the Government could also obtain a
+
+conviction by proving that (1) someone else committed the principal crime, and (2)
+
+Ms. Ford consciously shared the other person’s knowledge of the crime, intended to
+
+help him, and that she took part in the endeavor, seeking to make it succeed. 18
+
+U.S.C. § 2; United States v. Spinney, 65 F.3d 231, 234-35 (1st Cir. 1995).      The
+
+Government was permitted to prove that Ms. Ford acted “knowingly” by proving
+
+that she deliberately closed her eyes to a fact that otherwise would have been
+
+obvious to her. United States v. Gabriele, 63 F.3d 61, 66-67 & n.6 (1st Cir. 1995);
+
+United States v. Brandon, 17 F.3d 409, 451-52 & n.72 (1st Cir. 1994).
+
+      The evidence at trial showed that Ms. Ford lived in and maintained at least
+
+the second floor of the warehouse. The same evidence that was sufficient for a jury
+
+to convict her of conspiracy to manufacture marijuana was also sufficient to find
+
+that she used and maintained the whole warehouse for the purpose of
+
+manufacturing marijuana. See Section III.B, supra.
+
+      D.    Count Six: Aiding and Abetting a Felon in Possession of a
+            Firearm
+
+      To convict Ms. Ford of aiding and abetting a felon in possession of a firearm,
+
+the Government was required to prove that (1) James F. Ford was convicted in any
+
+
+                                             10
+court of a crime punishable by imprisonment for a term exceeding one year; (2)
+
+James F. Ford knowingly possessed one or both of the firearms described in the
+
+indictment; (3) the possessed firearm was connected with interstate commerce; (4)
+
+Ms. Ford had reason to know that James F. Ford had been convicted of the felony;
+
+and (5) Ms. Ford consciously shared James F. Ford’s knowledge that he possessed
+
+one or both of the firearms, intended to help him possess it, and took part in the
+
+endeavor, seeking to make it succeed. 18 U.S.C. § 2; Spinney, 65 F.3d at 234-35;
+
+United States v. Bartelho, 71 F.3d 436, 439 (1st Cir. 1995).
+
+      Abundant evidence supported all of these elements. The parties agreed to a
+
+jury instruction that James F. Ford’s Massachusetts marijuana conviction was a
+
+felony within the meaning of the first element.       They also stipulated that the
+
+firearms specified in the indictment moved in interstate commerce. The evidence
+
+showed that Ms. Ford purchased both firearms, and there was video evidence of
+
+James F. Ford shooting one of the firearms with Ms. Ford narrating. The jury could
+
+readily have concluded from this evidence that Ms. Ford intentionally helped James
+
+F. Ford to possess the firearm.
+
+      Ms. Ford testified to the jury that she did not know that Mr. Ford was a
+
+felon, but the jury could reasonably have rejected that claim. Based on Trooper
+
+Bruce’s testimony, the jury could have reasonably found that Ms. Ford was living in
+
+a house in Massachusetts in which James F. Ford, her husband, was growing
+
+marijuana.    In fact, Trooper Bruce testified that the entire house reeked of
+
+marijuana. She was present when Trooper Bruce and his associates executed the
+
+
+
+
+                                             11
+search warrant at the Fords’ Massachusetts homes, and Mr. Ford was ultimately
+
+convicted of a felony crime. The commonwealth of Massachusetts seized one of the
+
+two houses in a civil forfeiture proceeding connected to that conviction.
+
+      It is possible that Ms. Ford, as James F. Ford’s wife, was unaware that her
+
+husband had been convicted of a felony. This is what Ms. Ford herself insisted
+
+under oath when she testified. However, the jury could reasonably have rejected
+
+her testimony as implausible. After all, during 2002 to 2004, Mr. and Ms. Ford
+
+were living together as husband and wife; they were living in the same
+
+Massachusetts residence that was being used to grow marijuana and reeked of the
+
+distinct smell of marijuana; there was a marijuana grow operation across the street
+
+in a house that the Fords owned; the state police had come to search the homes; her
+
+husband was later charged and convicted of a marijuana felony; and the Fords lost
+
+one of the houses through civil forfeiture to the commonwealth of Massachusetts.
+
+These cumulated facts would not necessarily compel a finding of knowledge on the
+
+part of Ms. Ford of her husband’s prohibited status, but—taken together—they go
+
+far beyond “mere suspicion, speculation, or conjecture, or on an overly attenuated
+
+piling of inference on inference.” Rojas Alvarez, 451 F.3d at 333 (internal quotations
+
+omitted). In other words, although the inference of knowledge was not the only
+
+possible conclusion, it was a permissible conclusion.
+
+      Ms. Ford takes issue with the Court’s decision to permit Trooper Bruce to
+
+testify as to the events in Massachusetts, but that effort is an attempt to relitigate
+
+the motion in limine. The Court’s order denying that motion is the law of the case,
+
+
+
+
+                                             12
+and Ms. Ford has given the Court no grounds to reverse its previous decision.
+
+Order on Mot. in Limine (ECF No. 310).           In short summary, the events in
+
+Massachusetts were relevant to Ms. Ford’s knowledge of James F. Ford’s status as a
+
+felon and to her knowledge of how to grow marijuana; were offered for the proper
+
+purpose of proving an element of one of the charged crimes; and were not unfairly
+
+prejudicial. See id. at 5-9. The Court gave the jury a limiting instruction that they
+
+were to consider the evidence of James F. Ford’s crimes only with respect to Ms.
+
+Ford’s knowledge, and forbade the jury from considering them as evidence of Ms.
+
+Ford’s bad character. Under these circumstances, the Court does not agree with
+
+Ms. Ford that the admission of Trooper Bruce’s testimony worked a manifest
+
+injustice that requires a new trial.
+
+IV.   CONCLUSION
+
+      The Government presented trial evidence sufficient for the jury to convict Ms.
+
+Ford on all three counts, and the Court stands by its decision to allow Trooper
+
+Bruce to testify regarding the events in Massachusetts. The Court DENIES the
+
+Motion of Defendant, Darlene Ford, for Judgment of Acquittal or in the Alternative
+
+Motion for New Trial (ECF No. 327).
+
+      SO ORDERED.
+
+
+
+                                       /s/ John A. Woodcock, Jr.
+                                       JOHN A. WOODCOCK, JR.
+                                       CHIEF UNITED STATES DISTRICT JUDGE
+
+Dated this 31st day of March, 2014
+
+
+
+
+                                            13
+

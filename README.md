@@ -24,6 +24,8 @@ I am also using a large amount of firearm recovery data contributed by The Trace
 
 We are also using data scraped from alerts for federal court filings scraped by The Trace. That data is stored in json files in [raw/gun_cases](raw/gun_cases/) and is cleaned in [task #3](tasks/3-merge-gun-cases).
 
+We are also using data obtained through [the RECAP archive](https://www.courtlistener.com/recap/). The data is stored in individual text files in [raw/recap_docs/](raw/recap_docs/) and is merged in [task #4](tasks/4-merge-recap-docs/)
+
 ## Workflow
 
 This pipeline is split up into tasks in the [tasks](tasks/) folder. Each task folder contains an input folder, which contains symlinks to output files from previous tasks (or the raw data). Each task folder also contains a Makefile which runs the task, and, optionally, a src directory containing task-specific scripts. 

@@ -1,0 +1,347 @@
+                           THE UNITED STATES DISTRICT COURT
+                            FOR THE DISTRICT OF PUERTO RICO
+
+
+
+  FERNANDO BAELLA-PABÓN,
+
+            Petitioner,
+
+            v.                                                   Civil No. 16-2368 (ADC)
+                                                          [Related to Crim. No. 12-766-1 (ADC)]
+  UNITED STATES OF AMERICA,
+
+            Defendants.
+
+
+                                         OPINION AND ORDER
+
+        Petitioner Fernando Baella-Pabón has moved the Court, under 28 U.S.C. § 2255, to vacate
+
+the federal sentence he is currently serving on his convictions of carjacking, 18 U.S.C. § 2119(1),
+
+and brandishing a firearm during a crime of violence, 18 U.S.C. § 924(c)(1)(A)(ii). See ECF Nos.
+
+1, 4. Petitioner states that his § 924(c) conviction must be reversed because the federal carjacking
+
+crime, which was the felony offense he had brandished the firearm during, no longer qualifies
+
+as a “crime of violence.” 1 ECF No. 4 at 11-13.
+
+        Petitioner filed the motion in June 2016, three years after his judgment of conviction had
+
+become final. Nonetheless, the motion is still timely because his claim to relief is predicated
+
+upon the Supreme Court’s recent decision in Johnson v. United States, 135 S. Ct. 2551 (2015). See
+
+
+        118 U.S.C. § 924(c)(1)(A)(ii) provides, in relevant part, that “any person who, during and in relation to
+any crime of violence . . . for which the person may be prosecuted in a Court of the United States,” brandishes
+a firearm “shall, in addition to the punishment provided for such crime of violence . . . be sentenced to a term
+of imprisonment of not less than 7 years.” Thus, to convict petitioner of having violated § 924(c)(1)(A)(ii), the
+Government had to identify a “crime of violence” that he had brandished the firearm during. According to
+the Indictment, petitioner’s crime of violence was his federal carjacking in violation of 18 U.S.C. § 2119(1).
+Civil No. 16-2368 (ADC)                                                                          Page 2
+
+
+
+28 U.S.C. § 2255(f)(3); see also Welch v. United States, 136 S. Ct. 1257, 1265 (2016) (holding that the
+
+rule set forth in Johnson is retroactively applicable to cases on collateral review).
+
+       In Johnson, the Supreme Court held that the residual clause in 18 U.S.C. § 924(e)(2)(B) is
+
+unconstitutionally vague. United States v. Taylor, 848 F.3d 476, 491 (1st Cir. 2017) (citing Johnson,
+
+135 S. Ct. at 2563). Petitioner states that the similar, but not identical, residual clause in 18 U.S.C.
+
+§ 924(c)(3)(B) is now invalid as well. See ECF No. 4 at 4-7. If petitioner is correct, then the only
+
+way his federal carjacking offense can qualify as the requisite crime of violence is if it “is a crime
+
+of violence under the ‘force’ clause” in § 924(c)(3)(A). See Taylor, 848 F.3d at 491 (explaining that
+
+an offense can qualify as a “crime of violence” for purposes of § 924(c) under either the “force”
+
+clause in § 924(c)(3)(A) or the “residual” clause in § 924(c)(3)(B)); see also ECF No. 4 at 9 (arguing
+
+the same). Petitioner asserts, however, that a federal carjacking is not a crime of violence under
+
+the “force” clause because, he further alleges, the federal-carjacking statute criminalizes a single
+
+offense and one of the means of committing that offense – i.e., by intimidation – does not have,
+
+as the clause requires, physical force as an element. ECF No. 4 at 11-13.
+
+       Petitioner’s arguments in support of his motion can succeed if and only if he is right about
+
+carjacking by intimidation. However, the Court finds that he is wrong on that point and, thus,
+
+will dismiss his motion pursuant to Rule 4(b) of the Rules Governing Section 2255 Proceedings.
+
+Carey v. United States, 50 F.3d 1097, 1098 (1st Cir. 1995) (“Summary dismissal of a § 2255 petition
+
+is appropriate if it plainly appears from the face of the motion that the movant is not entitled to
+Civil No. 16-2368 (ADC)                                                                         Page 3
+
+
+
+relief.”). Adhering to “the settled rule to decide no more than is necessary to the case in hand,”
+
+see Elgin Nat’l Watch Co. v. Illinois Watch Case Co., 179 U.S. 665, 670 (1901), the Court expresses
+
+no opinion on petitioner’s other arguments, including whether the federal-carjacking statute is
+
+divisible and whether the “residual” clause in § 924(c)(3)(B) is unconstitutionally vague.
+
+       The “force” clause in § 924(c)(3)(A) provides that a felony offense qualifies as a “crime of
+
+violence” when it “has as an element the use, attempted use, or threatened use of physical force
+
+against the person or property of another.” Physical force, as used in the clause, “means violent
+
+force – that is, force capable of causing physical pain or injury to another person.” Taylor, 848
+
+F.3d at 491 (quoting Johnson v. United States, 559 U.S. 133, 140 (2010)). “To determine whether a
+
+crime requires the use, attempted use, or threatened use of violent force, we apply a categorical
+
+approach.” Id. “That means we consider the elements of the crime of conviction, not the facts
+
+of how it was committed, and assess whether violent force is an element of the crime.” Id. (citing
+
+United States v. Fish, 758 F.3d 1, 5 (1st Cir. 2014)). “Using the element-based analysis, our goal
+
+is ‘to determine whether the conduct criminalized by the statute, including the most innocent
+
+conduct,’ requires the use of violent force.” Id. at 492 (quoting Fish, 758 F.3d at 5). If it does not,
+
+then “the crime cannot support a conviction” under § 924(c). Id. (citing Fish, 758 F.3d at 5).
+
+       The federal-carjacking statute, 18 U.S.C. § 2119, provides that a person commits the felony
+
+of carjacking whenever he, “with the intent to cause death or serious bodily harm, takes a motor
+
+vehicle . . . from the person or presence of another by force and violence or by intimidation, or
+Civil No. 16-2368 (ADC)                                                                                 Page 4
+
+
+
+attempts to do so.” The statute proscribes either two distinct carjacking crimes or two distinct
+
+means of committing a single carjacking crime. See Mathis v. United States, 136 S. Ct. 2243, 2256
+
+(2016) (holding that the “first task” for courts “faced with an alternatively phrased statute is . . .
+
+to determine whether its listed items are elements or means.”). For present purposes, however,
+
+this threshold inquiry of elements versus means can be bypassed. After all, it is not clear to the
+
+Court, based on a quick review of the record currently available in the electronic docket, whether
+
+petitioner pleaded guilty to a carjacking by force and violence or to one by intimidation. 2 In any
+
+event, as noted above, petitioner’s motion depends on the claim that carjacking by intimidation
+
+is not a crime of violence for purposes of the “force” clause in § 924(c)(3)(A).
+
+       Before the Court resolves petitioner’s claim about the nature of intimidation under the
+
+federal carjacking statute, the Court must first consider an uncontested issue. Petitioner does
+
+not dispute that carjacking by force and violence is a crime of violence under the “force” clause,
+
+and for good reason. Carjacking by force and violence plainly involves violent force. Holloway
+
+v. United States, 526 U.S. 1, 11 (1999) (holding that, to convict a defendant of carjacking by force
+
+and violence under § 2119(1), the Government must prove that the crime occurred by means of
+
+him “attempting to inflict, or actually inflicting, serious bodily harm.”); see also United States v.
+
+Evans, 848 F.3d 242, 247 (4th Cir. 2017) (“The act of taking a motor vehicle ‘by force and violence’
+
+
+
+       2  A transcript of the change-of-plea proceeding in United States v. Baella-Pabón, No. 12-CR-766 (D.P.R.
+Jan. 18, 2013), is not in the docket. However, petitioner’s plea agreement in the underlying criminal case
+reflects that he admitted to having committed the carjacking by “force, violence, and intimidation.” United
+States v. Baella-Pabón, No. 12-CR-766 (D.P.R. Jan. 18, 2013), ECF No. 23 at 1.
+Civil No. 16-2368 (ADC)                                                                                 Page 5
+
+
+
+requires the use of violent physical force.”); In re Smith, 829 F.3d 1276, 1280 (11th Cir. 2016) (“an
+
+element requiring that one take or attempt to take by force and violence . . . , which is what the
+
+federal carjacking statute does, satisfies the force clause of § 924(c), which requires the use,
+
+attempted use, or threatened use of physical force.”). Accordingly, the Court finds that a federal
+
+carjacking by force and violence constitutes a crime of violence pursuant to the “force” clause,
+
+18 U.S.C. § 924(c)(3)(A). Thus, assuming that petitioner is correct that the federal carjacking law
+
+prohibits a single crime that can be committed in two different ways – i.e., by force and violence,
+
+and by intimidation – it is now clear that the force-and-violence half is a crime of violence.
+
+       The Court finds further that a federal carjacking by intimidation is also a crime of violence
+
+under the “force” clause. In Holloway, the Supreme Court held that 18 U.S.C. § 2119’s “mens rea
+
+component . . . modifies the act of ‘taking’ the motor vehicle.” 526 U.S. at 8. Thus, to convict an
+
+accused of carjacking by intimidation, the Government must prove that “at the precise moment
+
+he demanded or took control over the car” by means of intimidation, the accused evidenced an
+
+intent to cause death or serious bodily harm to the victim. 3 Id. In other words, the intimidation
+
+he used must have embodied a genuine threat to inflict serious bodily harm. See id. at 11-12 (“an
+
+empty threat, or intimidating bluff, . . . is not enough to satisfy § 2119’s specific intent element”
+
+because “the intent element requires the Government to prove beyond a reasonable doubt that
+
+
+
+       3  In the stipulated Statement of Facts contained within his plea agreement in the underlying criminal
+case, petitioner conceded that he had “intentionally and knowingly carried and brandished” a firearm, “with
+the intent to cause death and serious bodily harm,” in order to commit the carjacking. United States v. Baella-
+Pabón, No. 12-CR-766 (D.P.R. Jan. 18, 2013), ECF No. 23 at 10.
+Civil No. 16-2368 (ADC)                                                                           Page 6
+
+
+
+the defendant would have at least attempted to seriously harm or kill the driver if that action
+
+had been necessary to complete the taking of the car.”). Moreover, the case law is clear that, to
+
+convict a person of carjacking by intimidation, the intimidation must involve “a deliberate threat
+
+of violence.” See id. at 3; see also Evans, 848 F.3d at 247 (“We are not aware of any case in which
+
+a court has interpreted the term ‘intimidation’ in the carjacking statute as meaning anything
+
+other than a threat of violent force.”); In re Smith, 829 F.3d at 1280 (“an element requiring that
+
+one take or attempt to take . . . by intimidation, which is what the federal carjacking statute does,
+
+satisfies the force clause of § 924(c).”); United States v. Jones, 932 F.2d 624, 625 (7th Cir. 1991) (per
+
+Posner, J.) (“Intimidation means the threat of force,” that is “conduct and words . . . calculated
+
+to create the impression that any resistance or defiance . . . would be met with force.”).
+
+       Petitioner insists, nonetheless, that a carjacking by intimidation is not a crime of violence
+
+because intimidation is not a threat of violent force, but of bodily harm, and bodily harm is not
+
+always caused by force. ECF No. 4 at 11-12. The argument appears to be part of a nationwide
+
+campaign by the criminal-defense bar to argue, paradoxically, that obviously violent crimes are
+
+not actually crimes of violence. The campaign has had its successes. See United States v. Doctor,
+
+842 F.3d 306, 315 (4th Cir. 2016) (Wilkinson, J., concurring) (listing numerous federal appellate
+
+decisions finding that violent crimes like attempted murder, armed robbery, aggravated assault,
+
+kidnapping, and rape are not a “crime of violence”). At the same time, these victories may prove
+
+to be Pyrrhic, leading to a reform less favorable to defendants. See id. (“Four Justices have now
+Civil No. 16-2368 (ADC)                                                                          Page 7
+
+
+
+expressed, albeit for varying reasons and to varying degrees, some uneasiness with aspects of
+
+the categorical approach” that courts must use when determining which offenses constitute a
+
+“crime of violence.”). Whatever its past successes, none is to be had here. The Court has found
+
+that intimidation, for purposes of 18 U.S.C. § 2119, necessarily involves the “threatened use of
+
+physical force against the person” of another. See 18 U.S.C. § 924(c)(3)(A). Thus, a carjacking in
+
+violation of 18 U.S.C. § 2119 is necessarily a “crime of violence” for purposes of § 924(c).
+
+       Petitioner’s assertions to the contrary are unavailing. He claims that a “federal carjacking
+
+can be accomplished by putting another in fear of bodily harm, and without [even threatening]
+
+violent physical force.” ECF No. 4 at 12. But he never explains how such a carjacking is possible,
+
+leaving the means to the Court’s imagination. However, “in assessing whether the elements of
+
+[an offense] are overbroad,” and thus do not constitute a crime of violence, the Court “need not
+
+consider fanciful, hypothetical scenarios.” Fish, 758 F.3d at 6 (citing Gonzales v. Duenas-Álvarez,
+
+549 U.S. 183, 193 (2007)). “[T]he Supreme Court has made clear in employing the categorical
+
+approach that to show [an offense] is not a crime of violence ‘requires more than the application
+
+of legal imagination to [the] . . . statute’s language.’” United States v. Hill, 832 F.3d 135, 139 (2d
+
+Cir. 2016) (last two alterations in original) (quoting Gonzales, 549 U.S. at 193). “[T]here must be
+
+‘a realistic probability, not a theoretical possibility,’ that the statute at issue could be applied to
+
+conduct that does not constitute a crime of violence.” Id. at 140 (citing Gonzales, 549 U.S. at 193).
+Civil No. 16-2368 (ADC)                                                                        Page 8
+
+
+
+       To show that a particular reading of the carjacking statute is “realistic,” petitioner “‘must
+
+at least point to his own case or other cases in which the . . . courts in fact did apply the statute
+
+in the . . . manner for which he argues.’” Id. (ellipses in original) (quoting Gonzales, 549 U.S. at
+
+193). But petitioner has not even tried to make that showing and, thus, has failed to establish
+
+that the federal-carjacking statute is overbroad in the manner he alleges. See ECF No. 4 at 11-
+
+12. Indeed, the Court suspects that if petitioner had been convicted of a carjacking under such
+
+fanciful facts (whereby he was accused of having somehow threatened his victim with physical
+
+harm without having also threatened the use of physical force), he would be the first to complain
+
+that the conviction lacks a sufficient factual basis. Accordingly, petitioner has failed to bear his
+
+burden of proof. See Ramos-Martínez v. United States, 638 F.3d 315, 325 (1st Cir. 2011).
+
+       In sum, the Court hereby summarily DISMISSES petitioner’s supplemented motion, see
+
+ECF Nos. 1, 4, pursuant to Rule 4(b) of the Rules Governing Section 2255 Proceedings. The Court
+
+also DISMISSES AS MOOT petitioner’s motion to stay this proceeding, see ECF No. 5.
+
+       There being no pending issues, the case at bar is closed.
+
+       When entering a final order adverse to a Section 2255 petitioner, the Court must decide
+
+if he warrants a certificate of appealability. The Court may issue one only upon “a substantial
+
+showing of the denial of a constitutional right.” 28 U.S.C. § 2253(c)(2); see also Buck v. Davis, 137
+
+S. Ct. 759, 773 (2017). Petitioner made no such showing. Thus, the Court will not grant him a
+Civil No. 16-2368 (ADC)                                                                    Page 9
+
+
+
+certificate. See Rule 11(a) of the Rules Governing Section 2255 Proceedings. Petitioner may still
+
+seek one directly from the Court of Appeals under Federal Rule of Appellate Procedure 22(b)(1).
+
+      SO ORDERED.
+
+      At San Juan, Puerto Rico, on this 19th day of April, 2017.
+
+                                                  S/AIDA M. DELGADO-COLÓN
+                                                  Chief United States District Judge
+

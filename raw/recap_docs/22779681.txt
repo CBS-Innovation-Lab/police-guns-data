@@ -1,0 +1,1905 @@
+                              UNITED STATES DISTRICT COURT
+                                   DISTRICT OF MAINE
+
+DAVID WIDI,                                     )
+                                                )
+                Petitioner,                     )
+                                                )
+       v.                                       )       2:09-cr-00009-GZS
+                                                )       2:14-cv-00015-GZS
+                                                )
+UNITED STATES OF AMERICA,                       )
+                                                )
+                Respondent                      )
+
+
+            RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION and
+                    MOTION TO CERTIFY QUESTION
+
+        In this action, Petitioner David Widi moves, pursuant to 28 U.S.C. § 2255, to vacate,
+
+set aside or correct his sentence. (Motion, ECF No. 369.) Petitioner also moves to certify
+
+a question to the New Hampshire Supreme Court regarding the interpretation of a state
+
+statute. (Motion, ECF No. 395.)1
+
+        Following a jury trial, Petitioner was convicted of possession of firearms and
+
+ammunition by a felon, and of manufacturing marijuana; the Court sentenced Petitioner to
+
+108 months in prison, to be followed by three years of supervised release.2 The First Circuit
+
+affirmed the conviction and sentence on appeal. United States v. Widi, 684 F.3d 216
+
+
+
+
+1
+ References below to “motion” are to Petitioner’s 28 U.S.C. § 2255 motion (ECF No. 369) unless otherwise
+indicated. Petitioner’s supplemental claim is also addressed below as part of the section 2255 motion.
+(Motion for Leave to Amend, ECF No. 392; Supplemental Claim, ECF No. 392-1; Order, ECF No. 394.)
+2
+  Petitioner completed his prison term, and he is currently serving the supervised release term of the
+sentence; the Court recently granted Petitioner’s motion to modify the release conditions.
+(Order, ECF No. 471.)
+(1st Cir. 2012). The Government requests summary dismissal of the section 2255 motion.
+
+(Response, ECF No. 422 at 1.)
+
+          Following a review of Petitioner’s motions and the Government’s request for
+
+dismissal, I recommend the Court grant the Government’s request, and dismiss both the
+
+section 2255 motion and the motion to certify a question of state law to the New Hampshire
+
+Supreme Court.
+
+                  I.       FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+          Petitioner was convicted of possession of firearms and ammunition by a felon,
+
+18 U.S.C. §§ 922(g)(1) and 924(a)(2) (Count 1); and manufacturing marijuana,
+
+21 U.S.C. §§ 841(a)(1) and (b)(1)(D) (Count 2).3 (Judgment, ECF No. 258 at 1.) The
+
+Court sentenced Petitioner to prison terms of 108 months on Count 1, and 60 months on
+
+Count 2, with the terms to be served concurrently, to be followed by terms of three years
+
+of supervised release on each of the counts, with the terms to be served concurrently.
+
+(Id. at 2-3.)
+
+          On January 7, 2013, following Petitioner’s unsuccessful appeal, the Supreme Court
+
+denied Petitioner’s petition for a writ of certiorari. Widi v. United States, 133 S. Ct. 893
+
+(2013).
+
+          In April 2013, Petitioner filed a motion for a new trial in which motion he argued
+
+that there was no valid predicate felony, and that a Franks hearing was justified based on
+
+new evidence. (Motion to Vacate Conviction and Order a New Trial, ECF No. 332.) The
+
+
+
+3
+    Earlier procedural history is discussed below where relevant to Petitioner’s section 2255 claims.
+
+                                                       2
+Court denied the motion. (Order on Defendant’s Motion to Vacate Conviction, ECF No.
+
+341 at 1.) The First Circuit affirmed. (United States v. Widi, Nos. 13-2089, 13-2442 (1st
+
+Cir. Apr. 23, 2015) (“We have carefully reviewed the parties’ briefs and relevant portions
+
+of the record, and we conclude for substantially the same reasons as the district court that
+
+a new trial was not in order.”).) The Supreme Court denied certiorari. Widi v. United
+
+States, No. 15-6202 (U.S. Apr. 23, 2015).
+
+        Petitioner asserts that he placed his section 2255 motion in the prison mailing system
+
+on January 6, 2014. (Motion at 45.) The Government does not dispute the timeliness of
+
+the motion.4 (Response at 2 n.2.) Upon Petitioner’s motions, the action was stayed, and
+
+the stay was extended to December 2015. (Motions to Stay, ECF Nos. 371, 376, 380;
+
+Orders, ECF Nos. 372, 378, 389.)
+
+        Petitioner’s section 2255 motion asserts 26 numbered grounds. In December 2015,
+
+the Court granted Petitioner’s motion for leave to amend or supplement his section 2255
+
+motion to add an additional ground. (Motion for Leave to Amend, ECF No. 392;
+
+Supplemental Claim, ECF No. 392-1; Order, ECF No. 394.)
+
+        In the same month, Petitioner also filed a motion to certify a question to the New
+
+Hampshire Supreme Court regarding the interpretation of a New Hampshire statute.
+
+(Motion to Certify, ECF No. 395.) In January 2016, the Government filed a response to
+
+the motion to certify a question to the New Hampshire Supreme Court (Response, ECF
+
+
+
+
+4
+ See 28 U.S.C. 2255(f) (providing in pertinent part that “[a] 1-year period of limitation shall apply to a
+motion under this section. The limitation period shall run from . . . (1) the date on which the judgment of
+conviction becomes final.”)
+
+                                                    3
+No. 396), and in June 2016, the Government filed a combined response to the section 2255
+
+motion, the supplemental claim, and the motion to certify. (Response, ECF No. 422.)5
+
+          Upon Petitioner’s motion, the Court stayed the case pending the First Circuit’s
+
+decision on Petitioner’s appeal of the denial of Petitioner’s request for counsel. (Motion
+
+to Stay, ECF No. 431; Orders, ECF Nos. 434, 435.) The First Circuit dismissed the appeal
+
+as interlocutory. (Widi v. United States, No. 16-1557 (1st Cir. Nov. 14, 2016).) Petitioner
+
+then filed a motion for leave to conduct discovery; the Court denied the motion. (Motion
+
+for Leave to Conduct Discovery, ECF No. 439; Order, ECF No. 448.)
+
+          In May 2017, Petitioner filed a reply in support of his section 2255 motion. (Reply,
+
+ECF No. 451.)
+
+                                          II.     DISCUSSION
+
+          A. Legal Standards
+
+          A person may move to vacate his or her sentence on one of four different grounds:
+
+(1) “that the sentence was imposed in violation of the Constitution or laws of the United
+
+States”; (2) “that the court was without jurisdiction” to impose its sentence; (3) “that the
+
+sentence was in excess of the maximum authorized by law”; or (4) that the sentence
+
+“is otherwise subject to collateral attack.” 28 U.S.C. § 2255(a); see Knight v. United States,
+
+37 F.3d 769, 772 (1st Cir. 1994). “[I]ssues disposed of in a prior appeal will not be
+
+reviewed again by way of a 28 U.S.C. § 2255 motion.” Singleton v. United States, 26 F.3d
+
+233, 240 (1st Cir. 1994) (quotation marks omitted).
+
+
+
+5
+    References below to the Government’s response are to ECF No. 422 unless otherwise indicated.
+
+                                                    4
+       A collateral challenge is not a substitute for an appeal. United States v. Frady,
+
+456 U.S. 152, 165 (1982); Berthoff v. United States, 308 F.3d 124, 127-28 (1st Cir. 2002).
+
+When a petitioner raises a claim “for the first time on habeas, he must show both ‘cause’
+
+that excuses the procedural default and ‘actual prejudice’ resulting from the alleged error.”
+
+Wilder v. United States, 806 F.3d 653, 658 (1st Cir. 2015) (quoting Bousley v. United
+
+States, 523 U.S. 614, 622 (1998)). Alternatively, a petitioner may demonstrate actual
+
+innocence as a basis for habeas relief. Bousley, 523 U.S. at 622. “‘[A]ctual innocence’
+
+means factual innocence, not mere legal insufficiency.” Id. at 623.
+
+       In Strickland v. Washington, 466 U.S. 668 (1984), the Supreme Court set forth the
+
+federal constitutional standard by which claims of ineffective assistance of counsel are
+
+evaluated; Strickland requires a petitioner to demonstrate that “counsel’s representation
+
+fell below an objective standard of reasonableness,” and that “there is a reasonable
+
+probability that, but for counsel’s unprofessional errors, the result of the proceeding would
+
+have been different. A reasonable probability is a probability sufficient to undermine
+
+confidence in the outcome.” Strickland, 466 U.S. at 688, 694. A court need not “address
+
+both components of the inquiry if the defendant makes an insufficient showing on one . . . .”
+
+Id. at 697. If a petitioner’s “claims fail on the merits, his related claims that counsel
+
+rendered ineffective assistance in failing to press the claims at trial or on appeal must also
+
+fail.” Tse v. United States, 290 F.3d 462, 465 (1st Cir. 2002) (per curiam).
+
+       A petitioner must establish by a preponderance of the evidence that he or she is
+
+entitled to section 2255 relief. David v. United States, 134 F.3d 470, 474 (1st Cir. 1998);
+
+United States v. DiCarlo, 575 F.2d 952, 954 (1st Cir. 1978). “[A] habeas petitioner is not
+
+                                              5
+automatically entitled to a hearing and normally should not receive one if his allegations
+
+are ‘vague, conclusory, or palpably incredible.’” David, 134 F.3d at 478 (quoting
+
+Machibroda v. United States, 368 U.S. 487, 495 (1962)). The First Circuit has held that a
+
+Petitioner who “fails to reasonably substantiate his ineffective assistance of counsel claim
+
+with any material issues of fact . . . has not ‘overcome the presumption of regularity which
+
+the record . . . imports . . . .’” United States v. Butt, 731 F.2d 75, 80 (1st Cir. 1984) (quoting
+
+Walker v. Johnston, 312 U.S. 275, 286 (1941)).
+
+        When “a petition for federal habeas relief is presented to the judge who presided at
+
+the petitioner’s trial, the judge is at liberty to employ the knowledge gleaned during
+
+previous proceedings and make findings based thereon without convening an additional
+
+hearing.” United States v. McGill, 11 F.3d 223, 225 (1st Cir. 1993).
+
+        B. Claims and Analysis
+
+            1. Detention during search (Ground 1)
+
+        Petitioner alleges that he was illegally detained during the execution of a search
+
+warrant at his home. (Motion at 4; Attachment, ECF No. 369-1 at 2.) Petitioner argues
+
+that Bailey v. United States, 568 U.S. 186 (2013), which was decided after the First
+
+Circuit’s 2012 decision on Petitioner’s appeal, provides new grounds for relief.6
+
+6
+  In Bailey v. United States, 568 U.S. 186 (2013), the Court addressed an exception to the requirement that
+to be “reasonable” under the Fourth Amendment, a seizure must be based on probable cause that the person
+involved committed a crime. 586 U.S. at 192. “In [Michigan v. Summers, 452 U.S. 692 (1981)], the Court
+defined an important category of cases in which detention is allowed without probable cause to arrest for a
+crime. Based on the decision, officers executing a search warrant are permitted ‘to detain the occupants of
+the premises while a proper search is conducted.’” Id. at 193 (quoting Summers, 452 U.S. at 705). “In
+Summers and later cases, the occupants detained were found within or immediately outside a residence at
+the moment the police officers executed the search warrant.” Id. In Bailey, on the other hand, the “petitioner
+left the apartment before the search began; and the police officers waited to detain him until he was almost
+a mile away. The issue is whether the reasoning in Summers can justify detentions beyond the immediate
+
+                                                      6
+(Attachment at 3-4.) In support of his argument, Petitioner refers to the Court’s decision
+
+on a motion to dismiss a civil case in which Petitioner alleged constitutional torts related
+
+to his criminal conviction. (Widi v. McNeil, No. 2:12-cv-00188-JAW, Order Denying
+
+Plaintiff’s Motion to Stay; Denying Plaintiff’s Motion to Strike; and Granting Defendant
+
+McNeil’s Motion to Dismiss, ECF No. 170.) In its decision, the Court assumed, without
+
+deciding, that Petitioner’s detention at a location away from his home would have violated
+
+Bailey had the search occurred after Bailey was decided. (Id. at 17.)7
+
+        Petitioner, however, cannot rely on Bailey for relief in this case because “the
+
+Supreme Court has not held that Bailey applies retroactively to cases on collateral review.
+
+‘Unless they fall within an exception to the general rule, new constitutional rules of
+
+criminal procedure will not be applicable to those cases which have become final before
+
+the new rules are announced.’” Reed v. Matevousian, No. 1:15-cv-01019-SKO HC, 2016
+
+WL 7374586, at *9, 2016 U.S. Dist. Lexis 176074, at *25 (E.D. Cal. Dec. 19, 2016)
+
+(quoting Teague v. Lane, 489 U.S. 288, 310 (1989)); Pinion v. United States, Nos. 7:09-
+
+CR-19-FL-1, 7:13-CV-284-FL, 2017 WL 2266853, at *3, 2017 U.S. Dist. Lexis 77800, at
+
+
+
+vicinity of the premises being searched.” Id. at 194. In Bailey, the Court held it did not. Id. at 194-99.
+“Detentions incident to the execution of a search warrant are reasonable under the Fourth Amendment
+because the limited intrusion on personal liberty is outweighed by the special law enforcement interests at
+stake. Once an individual has left the immediate vicinity of a premises to be searched, however, detentions
+must be justified by some other rationale.” Id. at 202.
+7
+  In Petitioner’s civil case, the Court held in part that one of the defendants was entitled to qualified
+immunity because “[a] reasonable police officer could have believed that [the defendant’s] detention of Mr.
+Widi while police executed a search warrant of his dwelling was permissible under Summers,” i.e., under
+the law in effect at the time of the detention. (Widi v. McNeil, No. 2:12-cv-00188-JAW, Order Denying
+Plaintiff’s Motion to Stay; Denying Plaintiff’s Motion to Strike; and Granting Defendant McNeil’s Motion
+to Dismiss, ECF No. 170 at 19.)
+
+
+                                                    7
+*6 (E.D. N.C. May 23, 2017) (holding, for purposes of an issue of timeliness under
+
+28 U.S.C. § 2255(f)(3), that Bailey involved a limitation on the Supreme Court’s holding
+
+in Summers, rather than a newly recognized right). Because Bailey does not apply
+
+retroactively, Petitioner is not entitled to relief based on Bailey.
+
+        Petitioner’s claim is otherwise procedurally defaulted. See Berthoff, 308 F.3d at
+
+127-28. On appeal, Petitioner did not raise the legality of his detention during the search
+
+as an issue.8 United States v. Widi, 686 F. Supp. 2d 107, 112 (D. Me. 2010). Specifically,
+
+the Court concluded that although Petitioner was in custody for purposes of the Fourth
+
+Amendment, he had not been wrongfully detained. Id. at 112. “The Court does not
+
+question the officers’ right to detain the Defendant while they were executing the warrant.
+
+However, the fact that a detention is permissible under the Fourth Amendment does not
+
+make the detention any less custodial for Miranda purposes.” Id. (citing Summers, 452
+
+U.S. at 705).
+
+        Petitioner’s claim of ineffective assistance also fails because counsel successfully
+
+argued that Petitioner was under a de facto arrest when he made the pre-Miranda
+
+statements, and Petitioner obtained a favorable result on the suppression motion as to the
+
+pre-Miranda statements. Id. at 112-13. (Motion to Suppress, ECF No. 92 at 3.) Counsel’s
+
+performance thus was not substandard, and Petitioner was not prejudiced. See Strickland,
+
+
+
+
+8
+ The Court granted in part and denied in part the motion to suppress. United States v. Widi,
+686 F. Supp. 2d 107, 109 (D. Me. 2010). Although the Court granted the motion to the extent it concerned
+statements Petitioner made in response to questions before officers provided the Miranda warning, the Court
+denied the motion to the extent it concerned Petitioner’s post-Miranda statements. Id. at 113, 114.
+
+                                                    8
+466 U.S. at 688, 694. Furthermore, Petitioner presents no evidence of actual innocence.
+
+See Berthoff, 308 F.3d at 127-28.
+
+          2. Miranda (Ground 2)
+
+       Petitioner alleges counsel’s performance was ineffective because counsel failed to
+
+argue in the motion to suppress that Petitioner repeatedly requested an attorney and was
+
+not provided one. (Motion at 5; Attachment, ECF No. 369-1 at 5.)
+
+       First, the issue as to whether Petitioner was denied his right to counsel is
+
+procedurally defaulted because Petitioner did not argue in his motion to suppress that
+
+Petitioner had requested counsel and was denied. (Motion to Suppress, ECF No. 92;
+
+Supplemental Motion to Suppress, ECF No. 117.)
+
+       In addition, regarding the pre-Miranda statements, the Court noted that Petitioner
+
+“succeeded in suppressing evidence seized from his vehicle and pre-Miranda statements
+
+made in response to questioning . . . .” Widi, 684 F.3d at 221. Because the motion was
+
+successful as to the pre-Miranda statements, Petitioner’s ineffective assistance claim fails
+
+both prongs of the Strickland test, to the extent he asserts a claim regarding the pre-Miranda
+
+statements.
+
+       As to the post-Miranda statements, Petitioner argues essentially that his waiver of
+
+Miranda rights was not voluntary because law enforcement did not honor his request for
+
+counsel, and that the setting was coercive given his mental condition. (Attachment at 9-10.)
+
+At the suppression hearing, officers testified that in their presence, Petitioner received the
+
+Miranda warning and waived his Miranda rights. (Suppression Tr., ECF No. 155 at 75,
+
+113.) He then told the officers the safe found inside the home belonged to a friend, and
+
+                                              9
+there was a firearm in the safe. (Id. at 76, 113.) At some point, Petitioner began crying
+
+and, using an expletive, made an allegedly incriminating statement. (Id. at 76, 114.) The
+
+statement, however, was not in response to a question.9 (Id. at 103.) At Petitioner’s
+
+request, he consulted with his grandmother by telephone about whether he should give the
+
+police the combination to the safe; after the conversation with his grandmother, he told
+
+officers he would not provide the combination. (Id. at 115-17.) Petitioner was then
+
+transported to the Eliot Police Department, where he was booked, and where he asked to
+
+speak with his attorney; he was permitted to do so, and he had a telephone conversation, in
+
+the presence of other persons, with his attorney.10 (Id. at 118-20.) The attorney spoke with
+
+the officer and told the officer Petitioner had invoked his Miranda rights and would not
+
+answer further questions. (Id. at 122.)
+
+           At trial, a special agent with the Bureau of Alcohol, Tobacco, Firearms and
+
+Explosives (ATF) testified that Petitioner told him that he lived alone in the apartment, that
+
+
+9
+  The Court noted that its suppression ruling “applies only to statements made by the Defendant in response
+to questioning by the officers. Any inculpatory acts and/or statements that were not made in response to
+questioning are not subject to this ruling.” Widi, 686 F. Supp. 2d at 113; see United States v. Conley, 156
+F.3d 78, 83 (1st Cir. 1998) (noting that “[Edwards v. Arizona, 451 U.S. 477 (1981),] does not bar the
+introduction into evidence of spontaneous utterances merely because the utterances occur subsequent to the
+accused’s invocation of his right to counsel”).
+10
+     This Court noted in its order on the motion to suppress:
+
+           The Court’s instant order does not address any issue related to conversations with legal
+           counsel that occurred in the booking room at the Eliot Police Department because such
+           conversations were not addressed in either Defendant’s Motion to Suppress or in his
+           Supplemental Motion to Suppress. At the Court’s hearing on February 22, 2010, defense
+           counsel indicated that he may file a motion in limine addressing the admissibility of these
+           conversations. If such motion is filed, the Court will address the issue at that time.
+
+Widi, 686 F. Supp. 2d at 110 n.1. The Court denied Petitioner’s motion in limine to exclude attorney-client
+communication. (Motion, ECF No. 160; Order, ECF No. 175.)
+
+
+                                                       10
+he would not give the agent the combination to the safe, that the safe belonged to a friend
+
+and did not belong to Petitioner. (Trial Tr., ECF No. 235 at 41-44.)
+
+        Given that post-Miranda, Petitioner actually asserted his right to counsel, spoke
+
+with his counsel, and declined to provide any further information, Petitioner’s contention
+
+that his post-Miranda statements were coerced or involuntary would have been
+
+unpersuasive. (Suppression Tr. at 115-17.) Petitioner has simply not overcome the
+
+presumption that counsel’s decision not to pursue a voluntariness argument was
+
+reasonable. See Strickland, 466 U.S. at 689.
+
+        Furthermore, officers testified at the suppression hearing that Petitioner waived his
+
+Miranda rights, and there is no evidence, other than Petitioner’s allegations, to the
+
+contrary.11 (Suppression Tr. at 75, 113.) Petitioner’s allegations alone do not entitle him
+
+to an evidentiary hearing.          See David, 134 F.3d at 478.             Finally, Petitioner cannot
+
+demonstrate prejudice, due to the evidence of guilt independent of his post-Miranda
+
+statements. Widi, 684 F.3d at 223.
+
+            3. Predicate conviction (Grounds 3, 4, 5, 6, and Motion to Certify)
+
+        Petitioner alleges counsel provided ineffective assistance based on counsel’s failure
+
+to challenge on a number of grounds the prior New Hampshire state felony conviction that
+
+
+
+
+11
+  Petitioner contends he was prejudiced because he was not permitted to attend the hearing. (Attachment,
+ECF No. 369-1 at 44.) Petitioner was in fact present at the hearing. (Suppression Tr., ECF No. 155 at 3.)
+At the end of the evidentiary hearing, the Court decided to consider the parties’ oral arguments later that
+day in chambers. The Court explained that Petitioner was not entitled to be present for the chambers
+discussion. (Id. at 132.) Petitioner, therefore, was present during the hearing when all of the evidence upon
+which Petitioner relied in support of the motion to suppress was presented.
+
+
+                                                     11
+established Petitioner was a felon for purposes of the federal felon-in-possession charge.12
+
+(Motion at 7-11; Attachment, ECF No. 369-1 at 12-26.) Petitioner argues that, pursuant to
+
+18 U.S.C. § 921(a)(20), his rights had been restored following the prior conviction, and
+
+therefore he was not a felon when he possessed the firearms.13 (Motion at 8; Attachment
+
+at 18-20; Motion to Certify, ECF No. 395.) Petitioner contends that law enforcement
+
+removed from his apartment, and illegally failed to return to him, a “Two Thirds Release
+
+Form” that he maintains would have shown it was legal for him to possess firearms; he
+
+also asserts a related due process claim.14 (Motion at 10; Attachment at 24; Two Thirds
+
+Release Form, Attachment to Motion for New Trial, ECF No. 332-1.) Petitioner alleges
+
+the prior conviction was a misdemeanor, and counsel failed to argue it did not qualify as a
+
+
+12
+  Title 18 U.S.C. § 922(g)(1) provides in relevant part:
+
+        It shall be unlawful for any person . . . who has been convicted in any court of, a crime punishable
+        by imprisonment for a term exceeding one year . . . to . . . possess in or affecting commerce, any
+        firearm or ammunition.
+13
+ In United States v. Estrella, 104 F.3d 3 (1st Cir. 1997), the First Circuit noted that 18 U.S.C. § 921(a)(20)
+“excepts from the definition of conviction” the following:
+
+        [a]ny conviction which has been expunged, or set aside or for which a person has been
+        pardoned or has had civil rights restored . . . unless such pardon, expungement, or
+        restoration of civil rights expressly provides that the person may not ship, transport,
+        possess, or receive firearms.
+
+104 F.3d at 5 (quoting section 921(a)(20)).
+14
+   Petitioner’s due process argument is that the “Two Thirds Release Form” (Attachment to Motion for New
+Trial, ECF No. 332-1), did not provide notice that his rights were not fully restored. (Attachment,
+ECF No. 369-1 at 23.) Petitioner’s section 2255 allegation, that he had the form and relied on it in the
+belief he could possess firearms (id. at 23-24), is inconsistent with his representation in the motion for new
+trial that he was unaware of the document before trial (ECF No. 332 at 4). In addition, the due process
+argument fails on the merits because the document did not inform him that his rights were fully restored;
+rather, it stated his right to vote and hold public office were restored, and he was subject to “no other
+disability by virtue of [his] conviction and sentence except as otherwise provided by this RSA.” (ECF No.
+332-1.) The certificate thus did not “purport[] to restore all civil rights.” United States v. Sullivan, 98 F.3d
+686, 689 (1st Cir. 1996).
+
+                                                      12
+predicate for purposes of the felon-in-possession charge. (Id. at 12.) He also argues he has
+
+the right to possess arms under the Second, Ninth, and Tenth Amendments. (Motion at 11;
+
+Attachment at 25.)
+
+          Petitioner unsuccessfully argued the prior conviction was a misdemeanor.
+
+Widi, 684 F.3d at 224 (noting the argument in Petitioner’s pro se brief on appeal, and
+
+concluding, following the Court’s own review, that Petitioner’s stipulation to the prior
+
+felony “was appropriate”). The underlying issue is thus precluded from collateral review,
+
+and the ineffective assistance claim also fails. See Singleton, 26 F.3d at 240; Tse, 290 F.3d
+
+at 465.
+
+          The First Circuit also addressed Petitioner’s argument regarding the restoration of
+
+his civil rights following the prior conviction. (Widi, Nos. 13-2089, 13-2442 (1st Cir. Apr.
+
+23, 2015). The First Circuit affirmed this Court’s determination that although Petitioner’s
+
+civil rights had been partially restored, his right to serve as a juror was not yet restored
+
+when he committed the felon-in-possession offense in 2008, and, therefore, the evidence
+
+was not likely to lead to an acquittal. (Id.; Order, ECF No. 341 at 5, 8-11) (citing, inter
+
+alia, United States v. Estrella, 104 F.3d 3, 5-6 (1st Cir. 1997) (holding that to qualify as a
+
+post-conviction restoration under section 921(a)(20), the rights to vote, to hold public
+
+office, and to serve on a jury must all be restored)).15
+
+
+
+15
+  This Court made the determination on Petitioner’s motion for new trial. The First Circuit’s decision on
+the appeal of Petitioner’s motion for a new trial was issued after, in another case, it had certified the
+following question to the New Hampshire Supreme Court, and after the state court responded affirmatively:
+
+          Under sections 500–A:7–a(V) and 651:5 of the New Hampshire Revised Statutes and the
+          undisputed facts of this case, is a felon whose conviction is eligible for annulment (that is,
+
+                                                       13
+           Because the restoration-of-rights issue has been rejected as a matter of law on the
+
+merits, the claim is precluded from collateral review, and the due process and ineffective
+
+assistance claims also fail.16 See Singleton, 26 F.3d at 240; Tse, 290 F.3d at 465. For the
+
+same reason, there is no basis on which to certify a question to the New Hampshire
+
+Supreme Court.
+
+               4. Speedy Trial Act (Grounds 7, 8, 9)
+
+           Petitioner alleges his rights under the Speedy Trial Act, 18 U.S.C. § 3161(b), were
+
+violated as to both the original and superseding indictments, and he asserts related claims
+
+of ineffective assistance.17 (Motion at 13-14; Attachment, ECF No. 369-1 at 27, 31.) In
+
+addition, Petitioner alleges counsel unnecessarily delayed the trial, in violation of section
+
+3161(c)(1) and the Sixth Amendment, in part by counsel’s alleged failure adequately to
+
+challenge the continuance ordered, at the Government’s request, for the competency
+
+examination.18 (Motion at 16; Attachment at 39.)
+
+
+           not categorically disqualified from jury service) but who has not applied for or received an
+           annulment of that conviction qualified to sit as a juror?
+
+United States v. Howe, 736 F.3d 1, 5 (1st Cir. 2013) (certifying question); United States v. Howe,
+167 N.H. 143, 106 A.3d 425 (2014) (responding affirmatively to certified question).
+16
+  Petitioner’s Second, Ninth, and Tenth Amendment arguments are procedurally defaulted and fail on the
+merits. See United States v. Torres-Rosario, 658 F.3d 110 (1st Cir. 2011) (rejecting argument that
+18 U.S.C. § 922(g)(1) “is an unconstitutional exercise of Congress’s authority” when predicate crimes were
+for serious drug offenses) (citing District of Columbia v. Heller, 554 U.S. 570 (2008); McDonald v. City of
+Chicago, --- U.S. ---, 130 S. Ct. 3020 (2010)). Because the underlying arguments lack merit, the ineffective
+assistance claim also fails. See Tse v. United States, 290 F.3d 462, 465 (1st Cir. 2002) (per curiam).
+17
+   Title 18 U.S.C. § 3161(b) provides in relevant part: “Any information or indictment charging an
+individual with the commission of an offense shall be filed within thirty days from the date on which such
+individual was arrested or served with a summons in connection with such charges.”
+18
+     Title 18 U.S.C. § 3161(c)(1) provides in relevant part:
+
+
+                                                       14
+       On the original indictment, the First Circuit noted on appeal: “Widi correctly asserts
+
+that the original indictment was outside [the Speedy Trial Act] limit by a week or so;
+
+although one or another possible exception may have applied.” Widi, 684 F.3d at 224-25
+
+(footnote omitted). The Court held that Petitioner waived his right to challenge the original
+
+indictment because he did not do so before trial. Id.
+
+       Regardless of whether Petitioner might have had a meritorious claim of a violation
+
+under section 3161(b), the Speedy Trial Act provides in part:
+
+       In determining whether to dismiss the case with or without prejudice, the
+       court shall consider, among others, each of the following factors: the
+       seriousness of the offense; the facts and circumstances of the case which led
+       to the dismissal; and the impact of a reprosecution on the administration of
+       this chapter and on the administration of justice.
+
+18 U.S.C. § 3162(a)(1). Because Petitioner’s offense was serious, and because the
+
+approximately one-week delay between his arrest and the original indictment was relatively
+
+brief, Petitioner cannot demonstrate a reasonable probability that the original indictment
+
+would have been dismissed with prejudice pursuant to section 3162(a)(1), had counsel
+
+sought dismissal. The claim, therefore, fails both prongs of the Strickland test. 466 U.S. at
+
+689, 694.
+
+       Petitioner also asserts an ineffective assistance claim regarding the application of
+
+the Speedy Trial Act to the superseding indictment. (Motion at 14.) The First Circuit
+
+
+
+       In any case in which a plea of not guilty is entered, the trial of a defendant charged in an
+       information or indictment with the commission of an offense shall commence within
+       seventy days from the filing date (and making public) of the information or indictment, or
+       from the date the defendant has appeared before a judicial officer of the court in which
+       such charge is pending, whichever date last occurs.
+
+
+                                                   15
+rejected the underlying argument on appeal. Widi, 684 F.3d at 225. “[S]ection 3161(b) is
+
+concerned with a timely original indictment and not superseding indictments . . . . While
+
+adding new facts or new counts can always raise issues of notice or delay in trial, these
+
+problems are dealt with by other rules and precedents.” Id. (citation omitted) (emphasis
+
+in original). Because the Court rejected the underlying argument, Petitioner’s related
+
+ineffective assistance claim also fails. See Tse, 290 F.3d at 465.19
+
+        Petitioner further alleges that counsel contravened Petitioner’s express wishes when
+
+counsel waived Petitioner’s Speedy Trial Act rights under section 3161(c)(1) in
+
+conjunction with motions to continue.               (Motion at 16; Attachment, ECF No. 369-1
+
+at 39-40.) Petitioner alleges that “[m]uch of the delay was attributable to Counsel’s motion
+
+practice and multiple unnecessary continuances.” (Attachment at 39.)
+
+        The record does not support Petitioner’s contentions. Petitioner references a letter,
+
+dated December 28, 2009, to counsel regarding pre-trial motions to support his argument.
+
+(Attachment, ECF No. 369-1 at 41.) In the letter, Petitioner lists the motions he believes
+
+counsel should file, and states: “I have asserted my rights to a timely trial.” (Attachment,
+
+ECF No. 369-14 at 1-2.)
+
+        Counsel responded by letter dated January 6, 2010:
+
+19
+   In Ground 8, in addition to asserting Speedy Trial Act violations, Petitioner alleges the Government
+brought a superseding indictment “to overcome Mr. Widi’s defenses.” (Motion at 14; Attachment,
+ECF No. 369-1 at 33, 37.) As Petitioner acknowledges in his section 2255 motion, he made the same
+argument in his supplemental brief on appeal. (Attachment, ECF No. 369-1 at 33; Attachment to Response,
+ECF No. 422-3 at 24.) The First Circuit rejected the argument summarily: “Widi’s remaining arguments
+include other claims of error . . . but the arguments not specifically discussed herein are unpersuasive and
+warrant no further discussion.” United States v. Widi, 684 F.3d 216, 226 (1st Cir. 2012). Collateral review
+of the claim is therefore precluded. See Singleton v. United States, 26 F.3d 233, 240 (1st Cir. 1994).
+Because the claim failed on the merits on direct appeal, the related ineffective assistance claim also fails.
+See Tse v. United States, 290 F.3d 462, 465 (1st Cir. 2002).
+
+                                                     16
+        I have not reviewed the docket record for information about the speedy trial
+        clock. If you have some idea about how many days have passed that count
+        towards the speedy trial period, and that the number of days exceeds 70,
+        let me know. Keep in mind that every time the case is continued or an
+        extension of time is granted, the speedy trial period is tolled.
+
+(Attachment, ECF No. 369-15 at 3.)
+
+        By letter dated January 9, 2010, Petitioner informed counsel that he did not
+
+understand how to calculate the speedy trial clock time, and informed counsel he would
+
+need counsel’s assistance. (Attachment, ECF No. 369-25 at 2.) Petitioner also requested
+
+that counsel raise a number of pre-trial issues, and Petitioner concludes the letter by
+
+requesting counsel file a motion to continue “so that we can have some time to regroup.”
+
+(Id. at 3.)
+
+        On January 20, 2010, counsel filed an unopposed motion to continue a hearing
+
+scheduled for the following day on Petitioner’s motion to suppress; in the motion to
+
+continue, counsel represented to the Court that Petitioner had asked counsel on January 20,
+
+i.e., the date on which counsel filed the motion to continue, to withdraw from representing
+
+Petitioner. (Motion, ECF No. 104.) The record thus reflects that Petitioner requested the
+
+continuance.20
+
+        In short, a review of the record reveals that any delay in the trial due to the parties’
+
+requests for continuances was not the result of counsel’s substandard performance.
+
+Petitioner has also failed to demonstrate prejudice. See United States v. Taylor, 487 U.S.
+
+
+20
+  “A court evaluating a constitutional speedy-trial claim must weigh the following factors: (1) the length
+of the delay, (2) the reasons for the delay, (3) the defendant’s assertion of his right, and (4) prejudice to the
+defendant resulting from the delay.” United States v. Worthy, 772 F.3d 42, 48 (1st Cir. 2014) (quotation
+marks omitted) (citing Barker v. Wingo, 407 U.S. 514, 530 (1972)).
+
+
+                                                       17
+326, 343 (1988) (holding, in a case involving a trial delay under section 3162(a)(2), that
+
+the district court abused its discretion by granting dismissal with prejudice, noting, among
+
+other factors, the defendant’s contribution to the delay by failing to appear for trial).21
+
+               5. Franks (Ground 10)
+
+           Petitioner alleges counsel was ineffective because counsel failed to challenge the
+
+lack of a hearing under Franks v. Delaware, 438 U.S. 154 (1978).22 (Motion at 17.) He
+
+alleges the affidavit for the search warrant omitted material information, and he was
+
+wrongfully excluded from the proceedings on the affidavit. (Id.; Attachment, ECF No.
+
+369-1 at 42-44.) He also alleges counsel’s performance was substandard based on the
+
+failure to argue against the good faith exception under United States v. Leon, 468 U.S. 897
+
+
+21
+   Regarding the claim of delay in the completion of the competency examination, Petitioner cannot
+demonstrate a reasonable probability that any dismissal would have been with prejudice, see
+18 U.S.C. § 3162(a)(2), and, therefore, the ineffective assistance claim fails both prongs of the Strickland
+test. See Strickland v. Washington, 466 U.S. 668, 688, 694 (1984); see also United States v. Noone,
+913 F.2d 20, 26 (1st Cir. 1990) (“Assuming, without deciding, that Speedy Trial Act exclusions for delays
+occasioned by psychiatric examinations are subject to the time limits in [18 U.S.C. § 4247(b)], the entire
+period of time Noone was at Butner for psychiatric examinations was nonetheless excludable under
+[18 U.S.C. § 3161(h)(1)(A)].”).
+22
+     In this Court’s decision on Petitioner’s motion for a new trial, the Court explained:
+
+           In Franks v. Delaware, 438 U.S. 154 (1978), the Supreme Court held that a criminal
+           defendant may obtain an evidentiary hearing to challenge the sufficiency of an executed
+           warrant if he can make a substantial showing that the affidavit supporting the warrant
+           included deliberately or recklessly false statements. To warrant a Franks hearing, a
+           defendant bears the burden of overcoming the presumption of validity that attaches to the
+           affidavit supporting the warrant. Thus, the defendant must make “allegations of deliberate
+           falsehood or of reckless disregard for the truth, and those allegations must be accompanied
+           by an offer of proof.” Id. at 171. However, “if, when material that is the subject of the
+           alleged falsity or reckless disregard is set to one side, there remains sufficient content in
+           the warrant affidavit to support a finding of probable cause, no hearing is required.”
+           Id. at 171-72. Given this standard, “a defendant must meet a high bar even to get a Franks
+           hearing in the first place.” United States v. Tzannos, 460 F.3d 128, 136 (1st Cir. 2006).
+
+(Order, ECF No. 341 at 11-12.)
+
+
+                                                        18
+(1984), and the failure to argue totality of the circumstances under Illinois v. Gates, 462
+
+U.S. 213 (1983). (Attachment at 46-47.)
+
+           In his motion for new trial, Petitioner maintained he was entitled to a Franks
+
+hearing, based on a proffer that the agent who provided the search warrant affidavit failed
+
+to state that he could not corroborate reports of a smell of marijuana at Petitioner’s
+
+residence, and failed to assert that a confidential informant had reported that Petitioner
+
+stole his motorcycle. (Motion, ECF No. 332 at 11-13.)
+
+           On appeal, the First Circuit discussed and decided the issues presented by Leon and
+
+Gates.        Widi, 684 F.3d at 221.            This Court denied the motion for a new trial.
+
+(Order, ECF No. 341.) The First Circuit affirmed. (Widi, Nos. 13-2089, 13-2442 (1st Cir.
+
+Apr. 23, 2015).) The underlying Franks claim is therefore precluded from collateral
+
+review. See Singleton, 26 F.3d at 240. Because the claim fails on the merits, the related
+
+claim of ineffective assistance also fails.23 See Tse, 290 F.3d at 465.
+
+               6. Brady (Grounds 11, 27)
+
+           Petitioner alleges a violation under Brady v. Maryland, 373 U.S. 83 (1963), and a
+
+related claim of ineffective assistance.24 (Motion at 19; Attachment, ECF No. 369-1 at 49;
+
+
+23
+  Petitioner also refers to a discussion during the suppression hearing about whether the agent corroborated
+the report of a confidential informant that the material covering Petitioner’s windows was tin foil.
+(Attachment, ECF No. 369-1 at 43-44.) Although Petitioner apparently alleges counsel failed to raise the
+issue (id. at 44), the record demonstrates counsel did raise it. (Suppression Tr., ECF No. 155 at 139.)
+Therefore, to the extent Petitioner claims ineffective assistance of counsel, the claim fails.
+24
+     The First Circuit has noted:
+
+           In [Brady v. Maryland, 373 U.S. 83, 87 (1963)], the Supreme Court held the Government’s
+           suppression of evidence favorable to the accused violates due process where the evidence
+           is material to guilt or punishment. To establish a Brady violation, a habeas petitioner must
+           demonstrate: (1) the evidence at issue is favorable to him because it is exculpatory or
+
+                                                       19
+Supplemental Claim, ECF No. 392-1.) Petitioner asserts the Government failed to provide
+
+a report with information about a confidential informant who did not testify at trial, but
+
+who was the stepson of a trial witness. (Attachment at 50.) Petitioner contends the report
+
+explained the benefit to the stepson of serving as a confidential informant, and it would
+
+have enabled Petitioner to impeach the witness at trial based on the suggestion that the
+
+witness was responsible for the firearm in Petitioner’s apartment in an effort to help his
+
+stepson avoid prosecution. (Attachment at 49-51.) Petitioner contends he was prejudiced
+
+because without the report, he was “forced to take the stand.” (Id. at 51.)
+
+        While Petitioner evidently concedes the underlying claim is procedurally defaulted
+
+(Reply, ECF No. 451 at 70), he contends the default is the result of ineffective assistance
+
+of counsel. The ineffective assistance claim fails because, had the Government provided a
+
+report of the type Petitioner argues it should have provided, the report would have provided
+
+at best cumulative impeachment evidence on a tangential point, and, as such, it would not
+
+have been material to Petitioner’s guilt or punishment. See Conley v. United States, 415
+
+F.3d 183, 188 (1st Cir. 2005); Moreno-Morales v. United States, 334 F.3d 140, 148 (1st
+
+Cir. 2003) (“noting that cumulative evidence is not usually material if defense had
+
+opportunity to impeach the witness by other means”) (citing Zeigler v. Callahan, 659 F.2d
+
+254, 266 (1st Cir. 1981)).
+
+
+
+        impeaching; (2) the Government suppressed the evidence; and (3) prejudice ensued from
+        the suppression (i.e., the suppressed evidence was material to guilt or punishment).
+
+Conley v. United States, 415 F.3d 183, 188 (1st Cir. 2005) (citing Strickler v. Greene, 527 U.S. 263, 281-82
+(1999)).
+
+
+                                                    20
+        In his supplemental claim, Petitioner alleges he discovered in May 2015 that the
+
+Government violated Brady when it failed to produce before trial a document he refers to
+
+as an “Eliot Police Interdepartmental Memorandum.” (Supplemental Claim at 2.)
+
+Petitioner asserts the memorandum provides evidence of “the systematic falsification of
+
+reports by Eliot Police Officers . . . .” (Id.)25 Petitioner contends the memorandum would
+
+have corroborated his sole defense “that law enforcement had manipulated evidence in the
+
+case,” and that it also may have influenced sentencing facts regarding the location of the
+
+marijuana and guns, and the Court’s determination at sentencing that Petitioner committed
+
+perjury at trial. (Id. at 3.)
+
+        Regardless of whether the underlying Brady claim was filed timely, the claim fails
+
+because there is not “a reasonable probability that, had the evidence been disclosed to the
+
+defense, the result of the proceeding would have been different.” United States v. Caro–
+
+
+
+25
+  Petitioner refers to news articles and cites to ECF No. 388-25. (Motion for Leave to Amend or
+Supplement § 2255 Motion, ECF No. 392 at 1-2.) It appears Petitioner may have intended to cite to ECF
+No. 388-24. The following are excerpts from the news articles to which he refers:
+
+        [Former Eliot Police Department Deputy Chief Kevin Cady] testified Friday before Justice
+        John O’Neil Jr. during a hearing in an unrelated criminal case that he presented a 60-plus-
+        page report to the chief documenting how he discovered that four of the department’s six
+        patrol officers had repeatedly lied in their reports, claiming they patrolled areas in town,
+        while GPS mapping data from their cruisers proved they hadn’t.
+
+(Attachment to Letter, ECF No. 388-24 at 5.)
+
+        Another former officer of the Eliot police force, Kevin Curran, also testified in court on
+        Friday that he gave [Eliot Police Chief Theodor Short] a memo reminding the chief of
+        Cady’s report and his duty to turn it over to prosecutors in criminal cases to share with
+        defense attorneys. Curran testified that Short emailed him back acknowledging he had
+        received [the] memo.
+
+(Id.)
+
+
+                                                    21
+Muñiz, 406 F.3d 22, 29 (1st Cir. 2005) (quotation marks omitted).26 Any failure to provide
+
+the report or memorandum to Petitioner before trial was not a Brady violation, because the
+
+record fails to demonstrate that the content of the information was exculpatory as to
+
+Petitioner, or was otherwise related to the work of the officers involved in the investigation
+
+that resulted in the prosecution and conviction of Petitioner. To the contrary, the record
+
+demonstrates that the two officers (Cady and Curran) called the Eliot Police Department’s
+
+attention to the issue of false patrol reports.27 See Conley, 415 F.3d at 188. Petitioner,
+
+therefore, has failed to establish a basis for a Brady claim.
+
+        Because the underlying Brady claim fails, Petitioner’s related claim of ineffective
+
+assistance also fails. See Tse, 290 F.3d at 465.
+
+            7. Competency (Ground 12)
+
+        Petitioner alleges the Court “failed to conduct an adequate competency hearing or
+
+have [Petitioner] further evaluated and counsel was ineffective for failing to raise the issue
+
+or advocate for incompetency.” (Motion at 20; Attachment, ECF No. 369-1 at 52.) More
+
+specifically, Petitioner argues the Court failed to establish the proper burden of proof, and
+
+it should have heard expert testimony. (Motion at 20.) He asserts a related claim of
+
+ineffective assistance. (Motion at 20; Attachment at 52, 59.)
+
+
+
+26
+  This discussion assumes, without specifically addressing the issue, that Petitioner could demonstrate the
+supplemental claim is timely under 28 U.S.C. § 2255(f)(4), which provides a one-year limitation period
+from “the date on which the facts supporting the claim or claims presented could have been discovered
+through the exercise of due diligence.”
+27
+  An additional Eliot police officer also testified at trial, but it appears his testimony is not the subject of
+Petitioner’s supplemental claim. (Supplemental Claim, ECF No. 392-1 at 2-3; Trial Tr., ECF No. 235 at
+203-07.)
+
+                                                      22
+          The First Circuit addressed the underlying issue of competency on appeal;
+
+the Court assumed for the sake of argument that it would apply a standard of review of
+
+clear error to its review of this Court’s factual findings, and it found no clear error. Widi,
+
+684 F.3d at 219, 221. The First Circuit noted that counsel concluded Petitioner could assist
+
+adequately in his own defense, that this Court observed Petitioner was competent, and that
+
+Petitioner insisted he was competent to stand trial. Id. at 220. The underlying issue was
+
+decided on appeal and is therefore precluded on collateral review. See Singleton, 26 F.3d
+
+at 240.
+
+          Because the underlying claim failed on the merits on appeal, Petitioner’s related
+
+claim of ineffective assistance also fails. See Tse, 290 F.3d at 465.
+
+             8. Duplicity (Ground 13)
+
+          Petitioner argues trial counsel’s performance was substandard in several respects,
+
+and Petitioner was prejudiced, regarding the issue of duplicity or multiplicity of the charges
+
+and a related issue of Petitioner’s proposed jury instructions.28 (Motion at 22; Attachment,
+
+ECF No. 369-1 at 60.)
+
+          Petitioner alleges counsel failed to argue that the Government should be judicially
+
+estopped from making an argument; in particular, Petitioner alleges that in the
+
+28
+  The Court decided the disputed issue of multiplicity of the charges in its order denying Petitioner’s motion
+to dismiss the (first) superseding indictment (Order, ECF No. 156), and it decided the issue of duplicity of
+the charges in its order denying Petitioner’s motion to dismiss the second superseding indictment
+(Order, ECF No. 191).
+
+        “Multiplicity is charging the same offense in two or more counts of an indictment or information.
+The danger of multiplicity is that the jury may believe the defendant has committed more criminal acts and
+may reach a compromise verdict on what is really only one crime.” (Order, ECF No. 156 at 5 (citing United
+States v. Smith, 231 F.3d 800, 815 (11th Cir. 2000) (citation omitted).) In its order denying Petitioner’s
+motion to dismiss the (first) superseding indictment, the Court concluded that Count 1 (alleging possession
+
+                                                     23
+Government’s response to Petitioner’s motion to dismiss the first superseding indictment,
+
+the Government characterized the firearms and ammunition as having been found in
+
+different locations within Petitioner’s apartment, whereas in the Government’s response to
+
+Petitioner’s motion to dismiss the second superseding indictment, the Government argued,
+
+inconsistently with its prior argument, that Petitioner’s apartment constituted a single
+
+location where the firearms and ammunition were found. (Attachment, ECF No. 369-1 at
+
+
+
+
+of firearms) and Count 3 (alleging possession of ammunition) were multiplicitous, but that Petitioner had
+not demonstrated prejudice, and the parties were free to submit proposed jury instructions and/or a verdict
+form to minimize potential prejudice. (Order, ECF No. 156 at 8.)
+
+         “‘Duplicity is the joining in a single count of two or more distinct and separate offenses.’” (Order,
+ECF No. 191 at 1 (quoting United States v. Martinez Canas, 595 F.2d 73, 78 (1st Cir. 1979).)
+“‘The prohibition against duplicitous indictments arises primarily out of a concern that the jury may find a
+defendant guilty on a count without having reached a unanimous verdict on the commission of any
+particular offense.’” (Id. (quoting United States v. Valerio, 48 F.3d 58, 63 (1st Cir. 1995).) In its order
+denying Petitioner’s motion to dismiss Count 1 (alleging possession of both firearms and ammunition) of
+the second superseding indictment (Second Superseding Indictment, ECF No. 181) for lack of prejudice,
+the Court concluded that the items “were found in close enough proximity so as to constitute a single
+§ 922(g) offense.” (Order, ECF No. 191 at 2.) On the basis that “a jury need not be unanimous as to the
+particular firearm that they believe Defendant possessed,” the Court also rejected Petitioner’s argument that
+the firearms and ammunition found in the safe, where the issue was Petitioner’s dominion and control,
+should be charged separately from the firearms and ammunition found outside the safe and particularly in
+the nightstand, where the issue was Petitioner’s knowledge. (Id. at 2-3 (citing, inter alia United States v.
+Verrecchia, 196 F.3d 294, 301 (1st Cir. 1999).)
+
+        At trial, Petitioner proposed the following jury instruction on unanimity:
+
+        It is alleged in this case that firearms were located in two different places within the
+        searched premises. One place, the safe, allegedly contained six firearms. Another place,
+        the nightstand, allegedly contained one firearm.
+
+                 You are instructed that, with regard to each location, you must find unanimously,
+        all of the elements of the offense of possession of a firearm by a felon, in order to return a
+        verdict of guilty with regard to either the firearms in the safe or the firearm in the
+        nightstand.
+
+(Proposed Jury Instruction Number Two, ECF No. 197.) The Court denied the proposed instruction. (Trial
+Tr., ECF No. 236 at 79.)
+
+
+                                                     24
+61; Response to Motion to Dismiss (First) Superseding Indictment, ECF No. 153 at 2;
+
+Response to Motion to Dismiss Second Superseding Indictment, ECF No. 190 at 3.)
+
+       Counsel’s performance was not deficient based on lack of a judicial estoppel
+
+argument, nor was Petitioner prejudiced, because the Court did not accept the
+
+Government’s argument in its order on the motion to dismiss the first superseding
+
+indictment: “Because Counts One and Three of the Superseding Indictment charge
+
+Defendant with the same crime and involve firearms and ammunition seized from the same
+
+location on a single day, those counts are multiplicitous.” (Order, ECF No. 156 at 7.) See
+
+Perry v. Blum, 629 F.3d 1, 11 (1st Cir. 2010) (“The party proposing an application of
+
+judicial estoppel must show that the relevant court actually accepted the other party’s
+
+earlier representation.”). Given that Petitioner’s underlying judicial estoppel argument
+
+fails on the merits, his related claim of ineffective assistance of counsel also fails. See Tse,
+
+290 F.3d at 465.
+
+       Petitioner also alleges counsel was ineffective based on the failure to request a jury
+
+instruction on the issue of unanimity regarding the alleged possession of ammunition.
+
+(Motion at 22.) Petitioner maintains that although counsel’s proposed jury instruction
+
+addressed the firearms, the instruction was substandard because it did not address the
+
+ammunition charged in the same count. (Attachment, ECF No. 369-1 at 62.)
+
+       The First Circuit’s decision on appeal precludes relief on the jury instruction issue.
+
+Widi, 684 F.3d at 222-23. On appeal, the First Circuit applied a harmless error standard
+
+of review, and affirmed the denial of the proposed instruction based on the evidence of
+
+ammunition in plain view:
+
+                                              25
+        The request made below was that the jury had to agree unanimously that Widi
+        possessed the guns in the safe or unanimously that he possessed the gun in
+        the nightstand. Sensibly, counsel seeks to offer at least a token doubt as to
+        each scenario, suggesting that the jury could, on the evidence, have plausibly
+        believed that he had no access to the safe and that the gun in the night table
+        was planted. Thus, the jury could have convicted without unanimously
+        agreeing as to either scenario.
+
+        Putting aside other testimony connecting Widi with a gun purchase, any
+        disagreement about the guns would have been harmless since ammunition
+        recovered in the apartment was also charged and, unlike the guns, the
+        ammunition was in plain view and confirmed by photographs of the scene.
+        So even if none of the jurors believed Widi possessed any of the guns, he
+        was still patently guilty of the single felon in possession count based on the
+        ammunition.
+
+Widi, 684 F.3d at 222 (footnote omitted). The Court thus concluded that had Petitioner not
+
+been “patently guilty” based on the plain-view ammunition, there might have been a risk
+
+that, without a unanimity instruction, the other evidence might have led to a verdict that
+
+was not unanimous. Id. at 223. Given the evidence, however, there was no need for a
+
+unanimity instruction. Id. at 222-23. Because Petitioner’s underlying argument regarding
+
+a unanimity instruction fails on the merits, his related claim, that counsel was ineffective
+
+for failing to include an argument about the ammunition in the proposed jury instruction
+
+on unanimity, also fails. See Tse, 290 F.3d at 465.29
+
+
+
+
+29
+   Petitioner also argues counsel’s performance was deficient based on the failure to move for
+reconsideration of the Court’s adverse ruling on Petitioner’s motion to dismiss duplicitous charges.
+(Attachment, ECF No. 369-1 at 61.) Trial counsel’s performance was not deficient: “Counsel was not
+required to rehash through a motion for rehearing the position the court had once rejected.” United States
+v. Tajeddini, 945 F.2d 458, 463 (1st Cir. 1991) (per curiam) (abrogated on other grounds, Roe v. Flores-
+Ortega, 528 U.S. 470, 478 (2000)).
+
+                                                   26
+          9. Evidence seized (Grounds 14, 15, 16)
+
+       Petitioner alleges counsel’s performance was ineffective because counsel failed to
+
+challenge the Government’s failure to file a return with a detailed inventory of items seized
+
+and the locations from which the evidence was seized. (Motion at 23, 25.) Petitioner also
+
+alleges ineffective assistance for the failure to challenge the ammunition and marijuana on
+
+grounds of lack of a chain of custody and a failure to authenticate evidence. (Id. at 23, 25,
+
+26.)
+
+       Petitioner raised the issues in his supplemental brief on appeal. (Attachment to
+
+Response, ECF No. 422-3 at 33-34.) The First Circuit rejected the arguments summarily.
+
+Widi, 684 F.3d at 226. Because the issues were decided on appeal, collateral review is
+
+precluded. See Singleton, 26 F.3d at 240. Given that the underlying arguments failed on
+
+the merits on appeal, Petitioner’s related claim of ineffective assistance also fails. See Tse,
+
+290 F.3d at 465.
+
+          10. Misjoinder (Ground 17)
+
+       Petitioner alleges counsel’s performance was substandard, and he was prejudiced,
+
+because counsel failed to include in the motion to sever an argument that Petitioner wanted
+
+to testify as to the firearms charge without risk of incrimination on the marijuana charge,
+
+and because counsel failed to renew the motion at the end of the trial. (Motion at 28;
+
+Attachment, ECF No. 369-2 at 8-10.) Petitioner testified to the marijuana grow operation.
+
+(Trial Tr., ECF No. 227 at 8-9.)
+
+       In a letter, counsel explained to Petitioner why counsel did not include the argument
+
+in the motion to sever:
+
+                                              27
+       I did not argue that your right to testify will be hampered because you would
+       be inclined to testify on one count and to do so would incriminate you on the
+       other count. If I were to make that argument, I would need to make an offer
+       of proof as to what you would testify to. I do not think that it is a good idea
+       to do that at this point and, even if we wanted to do that, I do not see how
+       testifying on one count would incriminate you on the other.
+
+(Letter, ECF No. 369-15 at 1.)
+
+       The First Circuit held on appeal that this Court did not err when it denied Petitioner’s
+
+motion to sever the charges. Widi, 684 F.3d at 222. Therefore, the underlying issue
+
+regarding the motion to sever may not be addressed on collateral review. See Singleton,
+
+26 F.3d at 240. Furthermore, counsel’s explanation to Petitioner reflects that counsel
+
+considered Petitioner’s argument, but rejected it, apparently to keep trial options open and
+
+to prevent the Government from obtaining advance notice of Petitioner’s anticipated
+
+testimony. Petitioner has failed to overcome the “strong presumption that counsel’s
+
+conduct falls within the wide range of reasonable professional assistance,” and he has failed
+
+to demonstrate prejudice. Strickland, 466 U.S. at 689, 694.
+
+          11. Prosecutorial Misconduct (Ground 18)
+
+       Petitioner alleges ineffective assistance based on the failure to pursue various
+
+instances of alleged prosecutorial misconduct. (Motion at 29.) Each alleged instance of
+
+ineffective assistance is discussed below.
+
+       Petitioner alleges ineffective assistance regarding Brady violations, but the evidence
+
+at issue was not exculpatory or material to impeachment. (Attachment, ECF Nos. 369-2 at
+
+11, 369-4.) See Conley, 415 F.3d at 188.
+
+
+
+
+                                              28
+       Counsel moved to suppress “some fuses that might be used to make bombs,” and
+
+the prosecutor represented she would not seek to introduce them.                  (Attachment,
+
+ECF No. 369-2 at 11; Trial Tr., ECF No. 235 at 7.) When counsel requested a sidebar
+
+discussion in which he objected that a photograph on display showed a fuse, the Court
+
+concluded it looked “like a piece of string,” and the prosecutor represented the Government
+
+would not identify it or use it in argument. (Id. at 69.) The Court stated, “Let’s move on.”
+
+(Id. at 70.) Because counsel raised the issue with the Court in a suppression motion and
+
+during the trial, Petitioner cannot prevail on an ineffective assistance claim.
+
+       Counsel did not object to the prosecutor’s reference to evidence (a manual for a
+
+suppressor) that the Court had excluded. (Attachment at 11-12; Trial Tr., ECF No. 235 at
+
+5-7, 93-94.) On direct examination of the ATF agent, the prosecutor referred to “an
+
+agreement about a piece of evidence, we just want to make sure it’s not in here. If you
+
+could just show me,” to which the witness responded: “Hide it, then.” (Trial Tr. at 93-94.)
+
+The evidence was not referenced by name, nor was it made available in any way to the
+
+jury. A failure to object was neither substandard performance nor prejudicial, given that
+
+an objection merely would have called attention to something the Government had not
+
+identified. See Strickland, 466 U.S. at 689, 694.
+
+       Counsel did not object when the prosecutor asked Petitioner whether he had “many
+
+more firearms” than found on the search, whether he ever buried firearms, or whether he
+
+kept firearms at his mother’s or grandmother’s house. (Attachment at 12; Trial Tr., ECF
+
+No. 227 at 22.) An objection likely would have been overruled. See United States v.
+
+Cunningham, 633 F. App’x 920 (11th Cir. 2015) (holding that the admission of uncharged
+
+                                             29
+firearms in trial for a drug distribution crime in a Fed. R. Evid. 402, 403 ruling was not an
+
+abuse of discretion). Counsel’s failure to object, therefore, does not constitute ineffective
+
+assistance.
+
+       Counsel did not object when the prosecutor asked Petitioner about facts not in
+
+evidence, such as whether other persons smelled marijuana coming from Petitioner’s
+
+apartment. (Attachment at 12; Trial Tr., ECF No. 227 at 33.) Given that the agent testified
+
+he smelled marijuana when he walked through the door into Petitioner’s apartment,
+
+Petitioner cannot demonstrate his Sixth Amendment rights to confrontation and to an
+
+impartial jury were prejudiced by counsel’s failure to object. (Trial Tr., ECF No. 235
+
+at 38.) See United States v. Mercer, 834 F.3d 39, 46 (1st Cir. 2016).
+
+       Counsel did not object when the prosecutor asked Petitioner whether other witnesses
+
+had lied under oath. (Attachment at 13; Trial Tr., ECF No. 227 at 45.) While “it is
+
+improper for an attorney to ask a witness whether another witness lied on the stand,” United
+
+States v. DeSimone, 699 F.3d 113, 127 (1st Cir. 2012) (quotation marks omitted),
+
+Petitioner has failed to demonstrate prejudice: “Even if the government’s questions
+
+intruded into the jury’s role, the line of questioning was harmless,” as there were obvious
+
+inconsistencies between Petitioner’s testimony and that of the other witnesses. See id.
+
+       Counsel did not object when the prosecutor asked a witness whether he had had
+
+“regular contact” with Petitioner “since Friday night.” (Attachment at 13; Trial Tr.,
+
+ECF No. 236 at 59.) Counsel had asked the witness on direct examination whether he was
+
+in jail. (Trial Tr. at 4, 55.) An objection may have served only to alert the jury to draw the
+
+connection that Petitioner and the witness had been incarcerated in the same facility; a
+
+                                             30
+failure to object thus was not substandard performance or prejudicial. See Strickland, 466
+
+U.S. at 689, 694.
+
+       Counsel did not object when an officer testified “the ATF wanted him to provide
+
+the combination to the safe . . . .” (Trial Tr., ECF No. 235 at 192.) Petitioner argues the
+
+testimony did not accurately reflect the recorded conversation. (Attachment at 13.) The
+
+witness was asked to testify to his memory of the conversation; Petitioner objected to the
+
+question, and the Court overruled the objection. (Trial Tr. at 192.) Petitioner asked the
+
+witness whether he remembered Petitioner “saying, it’s not my safe, I don’t know the
+
+combination.” (Id. at 194.) Counsel also asked the witness whether he had previously
+
+testified he was not sure whether Petitioner had said “get them the combination” or “give
+
+them the combination.” (Id. at 195.) Counsel’s efforts to address the testimony, both with
+
+the Court and through examination of the witness, were reasonable and do not constitute
+
+ineffective assistance.
+
+       In sum, the record fails to demonstrate any basis for a finding that counsel’s
+
+performance was substandard or that he was prejudiced in any of the instances cited by
+
+Petitioner. See Strickland, 466 U.S. at 689, 694.
+
+          12. Defense witnesses (Ground 19)
+
+       Petitioner alleges counsel was ineffective because he failed to raise the
+
+Government’s alleged threats to a defense witnesses.        (Motion at 31; Attachment,
+
+ECF No. 369-2 at 17-18.) Petitioner contends that if the Government had not threatened
+
+certain witnesses with loss of employment and loss of parental rights, the witnesses would
+
+have testified that firearms found at Petitioner’s apartment were possessed by someone else
+
+                                            31
+shortly before the search. (Attachment at 17.) Petitioner evidently also alleges ineffective
+
+assistance for the failure to obtain appropriate clothing for a jailed defense trial witness.30
+
+(Id. at 18.)
+
+        At trial, counsel represented that Petitioner wanted counsel to withdraw; Petitioner
+
+told the Court he disagreed with counsel about whether to call a particular witness, and
+
+Petitioner requested a continuance; the Court denied both requests.                            (Trial Tr.,
+
+ECF No. 236 at 6-9.) The record lacks any evidence to support a claim that counsel’s
+
+performance was substandard, or that Petitioner was prejudiced, based on the decision not
+
+to call particular witnesses. See Strickland, 466 U.S. at 688, 694. That counsel may not
+
+have been able to procure other clothing for the trial witness does not, without more,
+
+amount to substandard performance, nor has Petitioner demonstrated prejudice. See id.
+
+(Trial Tr. at 4-5, 55.)
+
+            13. Grand jury (Ground 20)
+
+        Petitioner alleges counsel was ineffective because counsel failed to challenge the
+
+grand jury proceedings. (Motion at 32; Attachment, ECF No. 369-2 at 19.) He contends
+
+the grand jury that considered the superseding indictment was erroneously led to believe it
+
+was to consider only the new evidence that led to the superseding indictment, rather than
+
+the evidence in its entirety, because it heard live testimony as to the new allegations, but
+
+only the transcript from the initial grand jury proceedings as to the remaining allegations.
+
+
+
+30
+   Petitioner also alleges the trial witness was arrested and jailed during Petitioner’s trial on “trumped up
+state charges,” but he was not later prosecuted. (Attachment, ECF No. 369-2 at 18.) The allegation is not
+ground for either a claim of misconduct relating to the prosecution of Petitioner or a claim of ineffective
+assistance of counsel.
+
+                                                     32
+(Motion at 32; Attachment at 19-20.) Petitioner also alleges the prosecutor made improper
+
+statements to the grand jury, and that the prosecutor improperly influenced the grand jury
+
+to return the superseding indictment. (Attachment at 19-20.)
+
+       The Government was permitted under Rule 6(e)(3)(C) to disclose the transcript from
+
+the initial grand jury proceeding to the grand jury that considered the superseding
+
+indictment: “An attorney for the government may disclose any grand-jury matter to
+
+another federal grand jury.” Fed. R. Crim. P. 6(e)(3)(C); In re United States, 441 F.3d 44,
+
+55 (1st Cir. 2006) (noting that “the government is free to transfer evidence from one grand
+
+jury to a later one”). For that reason, counsel’s failure to challenge the superseding
+
+indictment based on the Government’s use of the transcript of the initial grand jury
+
+proceeding was not substandard, and Petitioner was not prejudiced. See Strickland,
+
+466 U.S. at 688, 694.
+
+       Petitioner alleges counsel should have challenged the superseding indictment
+
+because, Petitioner argues, in the grand jury proceeding, the prosecutor improperly referred
+
+to the Miranda warning and thus may have biased the grand jury. (Attachment, ECF No.
+
+369-2 at 20.) The ineffective assistance claim regarding the reference to Miranda fails
+
+because the underlying argument lacks merit. A review of the grand jury transcript reveals
+
+that the reference to Miranda was simply to orient the witness to the time-frame about
+
+which the prosecutor was inquiring (i.e., post-Miranda), which was consistent with the
+
+
+
+
+                                            33
+Court’s ruling on the motion to suppress. (Id.) Widi, 686 F. Supp. 2d at 114 (denying
+
+Petitioner’s motion to suppress post-Miranda statements).31
+
+          Petitioner also contends the witness erroneously testified someone had told him that
+
+Petitioner took a gun, when later trial testimony revealed the person had left the gun with
+
+Petitioner. (Attachment, ECF No. 369-2 at 20.) The ineffective assistance claim fails
+
+because the superseding indictment charged possession, and whether there was a
+
+discrepancy between the grand jury testimony and the trial testimony as to how Petitioner
+
+came into possession is immaterial. See United States v. Casas, 425 F.3d 23, 38 n.13
+
+(1st Cir. 2005) (“We have previously noted that even ‘prosecutorial efforts to mislead a
+
+grand jury into returning an indictment normally may be addressed by more measured
+
+means’ than dismissal of the indictment.”) (quoting United States v. Mangual-Corchado,
+
+139 F.3d 34, 41-42 (1st Cir. 1998) (holding that a variance in a description of events to a
+
+grand jury was not sufficiently material to require dismissal of the indictment, and that the
+
+guilty verdict of a petit jury demonstrates that a grand jury would have indicted if it had
+
+been fully apprised of inconsistent pretrial statements)).
+
+               14. Alternate juror (Ground 21)
+
+          Petitioner alleges ineffective assistance because counsel failed to challenge the
+
+Court’s decision regarding jury deliberations following the dismissal of the alternate juror.
+
+(Motion at 34; Attachment, ECF No. 369-2 at 21.) The Court explained to the jury that the
+
+Court had neglected to identify and excuse the alternate juror before excusing the jury to
+
+
+
+31
+     The grand jury transcript is under seal. (Grand Jury Tr., ECF No. 430 at 8.)
+
+                                                      34
+deliberate. (Trial Tr., ECF No. 236 at 132-33.) Four minutes elapsed from when the jury
+
+left the courtroom to when it reentered for the excusal of the alternate juror. (Id.) Petitioner
+
+argues he is entitled to conduct discovery to determine whether he was prejudiced by the
+
+presence of the alternate juror during the four minutes. (Reply, ECF No. 451 at 121-22.)
+
+         “‘[T]he primary if not exclusive purpose of jury privacy and secrecy is to protect
+
+the jury’s deliberations from improper influence.’” United States v. Rodriguez,
+
+759 F.3d 113, 117 (1st Cir. 2014) (quoting United States v. Olano, 507 U.S. 725, 737-38
+
+(1993)). In Rodriguez, the Court noted:
+
+        The gravamen of Rodriguez’s appeal is that the court failed to protect the
+        regular jurors from outside influences, including those that may have come
+        from the alternates. Thus, rather than focusing on [Fed. R. Crim. P.] 24(c)(3),
+        we frame our analysis in terms of a criminal defendant’s Sixth Amendment
+        right to an impartial jury.
+
+759 F.3d at 117.32
+
+        In Olano, the issue was “whether the presence of alternate jurors during jury
+
+deliberations was a ‘plain error’ that the Court of Appeals was authorized to correct under
+
+Federal Rule of Criminal Procedure 52(b).” 507 U.S. at 727. “Of course, the issue here is
+
+
+32
+  In United States v. Olano, 507 U.S. 725 (1993), the Supreme Court observed: “The presence of alternate
+jurors during jury deliberations is no doubt a deviation from [Fed. R. Crim. P.] 24(c).” 507 U.S. at 737.
+Since Olano, the rule has changed, and at the time of Petitioner’s trial it provided:
+
+        The court may retain alternate jurors after the jury retires to deliberate. The court must
+        ensure that a retained alternate does not discuss the case with anyone until that alternate
+        replaces a juror or is discharged. If an alternate replaces a juror after deliberations have
+        begun, the court must instruct the jury to begin its deliberations anew.
+
+Fed. R. Crim. P. 24(c)(3). Although under United States v. Rodriguez, 759 F.3d 113, 117 (1st Cir. 2014),
+the issue is analyzed under the Sixth Amendment right to an impartial jury, had Petitioner’s claim been
+analyzed under Rule 24(c)(3), the analysis would have been under the current version of the rule, rather
+than under the version in effect when Olano was decided.
+
+
+                                                    35
+whether the alternates’ presence sufficed to establish remedial authority under Rule 52(b),
+
+not whether it violated the Sixth Amendment or Due Process Clause, but we see no reason
+
+to depart from the normal interpretation of the phrase ‘affecting substantial rights.’”
+
+Id. at 739. The Court held that the presence of alternate jurors was not inherently
+
+prejudicial: “The presence of alternate jurors during jury deliberations is not the kind of
+
+error that ‘affect[s] substantial rights’ independent of its prejudicial impact.” Id. at 737.
+
+        Petitioner requests discovery to determine whether he could develop the claim.
+
+(Reply, ECF No. 451 at 122.) The judge who presided at the trial may take into account
+
+the circumstances of the trial in determining whether Petitioner should be permitted
+
+discovery or a hearing.33 See McGill, 11 F.3d at 225. The record lacks any evidence to
+
+suggest that the four-minute interlude between the exit of the jury from the courtroom and
+
+its re-entry into the courtroom for the identification and excusal of the alternate juror
+
+substantially affected Petitioner’s right to an impartial jury. See Olano, 507 U.S. 737-38;
+
+Rodriguez, 759 F.3d at 117. To the contrary, the very short time period suggests a lack of
+
+opportunity for the alternate juror to have affected Petitioner’s right to an impartial jury.
+
+             15. Judicial fact-finding at sentencing (Ground 22)
+
+        Petitioner alleges counsel was ineffective based on the failure to challenge judicial
+
+fact-finding at sentencing that Petitioner “maintained several firearms with his marijuana
+
+
+
+
+33
+  The Government argues that, based on (1) the short amount of time before the jury was brought back into
+the court room; (2) the location of the jury room in relation to the courtroom at the time of Petitioner’s trial;
+and (3) the Court’s statement “before I let you start deliberating,” the Court may have concluded at the time
+that the jury had not actually started deliberating. (Response at 81-82; Trial Tr., ECF No. 236 at 133.)
+
+
+                                                       36
+grow operation . . . .”34 (Motion at 35; Attachment, ECF No. 369-2 at 23; Sentencing Tr.,
+
+ECF No. 286 at 91.) The finding led to a four-level sentencing enhancement, pursuant to
+
+USSG § 2K2.1(b)(6). (Sentencing Tr. at 91-92.) Petitioner argues the sentencing finding
+
+circumvented a prosecution under 18 U.S.C. § 924(c), as to which Petitioner would have
+
+had the protections of a jury trial right and a higher burden of proof. (Attachment at 23.)
+
+           The issue is procedurally defaulted because Petitioner did not raise it on appeal.35
+
+The ineffective assistance claim regarding prosecution under 18 U.S.C. § 924(c) fails
+
+because Petitioner was not charged, convicted or sentenced under section 924(c).
+
+           Petitioner’s underlying argument regarding the sentencing findings lacks merit,
+
+because there was no mandatory minimum sentence under either 18 U.S.C. 924(a)(2) or
+
+21 U.S.C. § 841(b)(1)(D). See Alleyne v. United States, --- U.S. ---, 133 S. Ct. 2151, 2155
+
+(2013) (“Mandatory minimum sentences increase the penalty for a crime. It follows, then,
+
+that any fact that increases the mandatory minimum is an ‘element’ that must be submitted
+
+to the jury.”) In other words, because there was no mandatory minimum sentence, Alleyne
+
+34
+     In addition, the Court found:
+
+           With regard to the objection regarding the firearm and its relationship to the drug offense,
+           I find specifically that the firearms were used to protect the marijuana-growing operation.
+           The use of guns in connection with drugs is well known, and the presence of this type of
+           gun in particular is not unusual with regard to a marijuana-growing operation. I note that
+           one of the firearms in this case, the Derringer, was particularly close to the bed. In my
+           view that was there to protect against intruders attempting to take his drugs. It’s not
+           uncommon in this type of operation.
+
+(Sentencing Tr., ECF No. 286 at 90.)
+35
+  On appeal, Petitioner challenged the factual basis for the section 2K2.1(b)(6) four-level enhancement.
+Widi, 684 F.3d at 224. The First Circuit reviewed the evidence of the proximity of the firearms to the
+marijuana operation in Petitioner’s apartment, the evidence of Petitioner’s access to the firearms, and
+Petitioner’s assertion that the firearm in the nightstand “had nothing to do with drug cultivation,” and the
+Court concluded that “[i]t was not error at all, let alone clear error, to impose the enhancement.” Id.
+
+                                                       37
+does not apply to Petitioner’s case.           See id.; United States v. Ramírez-Negrόn,
+
+751 F.3d 42, 50 (1st Cir. 2014) (“[N]o Alleyne error occurs when there is no mandatory
+
+minimum sentence imposed which is triggered by judicial factfinding.”)
+
+          Furthermore, the facts the Court found at sentencing did not result in a prison term
+
+beyond the statutory maximum. See Apprendi v. New Jersey, 530 U.S. 466, 490 (2000)
+
+(“Other than the fact of a prior conviction, any fact that increases the penalty for a crime
+
+beyond the prescribed statutory maximum must be submitted to a jury, and proved beyond
+
+a reasonable doubt.”) Apprendi does not apply to Petitioner’s case, because any facts found
+
+by the Court at sentencing did not increase the penalty beyond the prescribed statutory
+
+maximum of 10 years applicable to the possession count, pursuant to 18 U.S.C. § 924(a)(2).
+
+See id.
+
+          Because the underlying claim fails on the merits, the related claim of ineffective
+
+assistance also fails. See Tse, 290 F.3d at 465.
+
+             16. Sentence (Grounds 23, 24, 25)
+
+          Petitioner alleges counsel failed adequately to challenge the reasonableness of the
+
+sentence (Ground 23), the perjury enhancement (Ground 24), or the conditions of
+
+supervised release (Ground 25). (Motion at 37-38, 40.)
+
+          As to the reasonableness of the sentence, Petitioner alleges counsel failed to object
+
+when the Court, by considering its finding of a connection between the firearms and the
+
+marijuana operation under both USSG § 2K2.1(b)(6) and 18 U.S.C. § 3553(a),
+
+“double counted” the finding.         (Motion at 37; Attachment, ECF No. 369-2 at 29;
+
+Sentencing Tr. at 90-93.)
+
+                                               38
+       The ineffective assistance claim fails because the underlying argument lacks merit:
+
+       In the criminal sentencing context, double counting is a phenomenon that is
+       less sinister than the name implies. When formulating its overall sentencing
+       rationale, a sentencing court is not normally foreclosed from considering the
+       same nucleus of operative facts that grounded an enhancement. In the
+       absence of an express or implied prohibition−and we discern none here−a
+       district court may rely on a particular fact for multiple sentencing purposes.
+
+United States v. Sepúlveda-Hernández, 817 F.3d 30, 34-35 (1st Cir. 2016) (quotation marks
+
+and citations omitted) (holding that “[t]he overlap between the sentencing enhancement
+
+under USSG § 3B1.1 and the sentencing factors made relevant by 18 U.S.C. § 3553(a) does
+
+not   furnish   a   basis    for   a   claim        of   impermissible   double   counting”);
+
+United States v. Maisonet-González, 785 F.3d 757, 764 (1st Cir. 2015) (noting that the
+
+“overlap between the Guidelines and other sentencing factors enumerated in
+
+18 U.S.C. § 3553(a) did not constitute double counting and is neither surprising nor
+
+impermissible”).
+
+       Petitioner alleges counsel failed to request specific findings regarding the two-level
+
+enhancement for obstruction of justice. (Motion at 38; Attachment, ECF No. 369-2 at 31.)
+
+Petitioner argues the Court did not find all the elements of perjury, and counsel failed to
+
+object. (Attachment at 31-32.)
+
+       The court found Petitioner committed perjury “when he testified that the ATF agent
+
+planted the marijuana plants, denied they were his.” (Sentencing Tr. at 89.) The issue was
+
+addressed on appeal; the First Circuit concluded the trial evidence was sufficient to support
+
+
+
+
+                                               39
+a finding of perjury at sentencing.36 Widi, 684 F.3d at 224. The underlying issue therefore
+
+may not be addressed again on collateral review. See Singleton, 26 F.3d at 240. Because
+
+the underlying argument lacks merit, the ineffective assistance claim also fails. See Tse,
+
+290 F.3d at 465.
+
+        Petitioner alleges ineffective assistance of counsel based on the failure to challenge
+
+a condition of release regarding Petitioner’s medication regimen.                       (Motion at 40;
+
+Attachment, ECF No. 369-2 at 33-34.) Even if a challenge to a condition of release
+
+regarding medical treatment would be cognizable on habeas review, Petitioner’s conditions
+
+of release have changed as a result of an order granting an unopposed motion to modify
+
+conditions of release, and therefore the section 2255 claim, which pertains to a prior order,
+
+is moot. (Initial Appearance Tr., ECF No. 472 at 12-16; Order, ECF No. 471; Unopposed
+
+Motion to Modify Conditions of Release, ECF No. 470; Order Setting Conditions of
+
+Release, No. 17-4509 LHG (D. N.J. July 17, 2017.) On that basis, dismissal of the section
+
+2255 claim regarding release conditions is warranted.
+
+            17. Cumulative error (Ground 26)
+
+        Petitioner alleges counsel was ineffective because counsel failed to challenge the
+
+cumulative effect of errors that Petitioner argues deprived him of due process and a fair
+
+trial. (Motion at 41; Attachment, ECF No. 369-2 at 35.) There is no basis for the claim
+
+that counsel’s performance was substandard, or that Petitioner was prejudiced, by counsel’s
+
+
+
+
+36
+  Although the perjury finding, affirmed on appeal, Widi, 684 F.3d at 224, was itself a sufficient basis for
+the obstruction of justice sentencing enhancement, the Court also based the enhancement on a threat
+Petitioner made against a trial witness. (Sentencing Tr. at 89.)
+
+                                                    40
+failure to make a cumulative error argument. See United States v. Sampson, 486 F.3d 13,
+
+51 (1st Cir. 2007) (concluding that because none of the district court’s rulings “worked any
+
+cognizable harm” to the appellant, the doctrine of cumulative error did not apply).
+
+Accordingly, Petitioner’s cumulative error claim must fail.
+
+                                    III.   CONCLUSION
+
+       Based on the foregoing analysis, an evidentiary hearing is not warranted under Rule
+
+8 of the Rules Governing Section 2255 Cases. In addition, I recommend that the Court
+
+deny Petitioner’s motion for habeas relief under 28 U.S.C. § 2255 and motion to certify a
+
+question to the New Hampshire Supreme Court. I further recommend that the Court deny
+
+a certificate of appealability pursuant to Rule 11 of the Rules Governing Section 2255
+
+Cases because there is no substantial showing of the denial of a constitutional right within
+
+the meaning of 28 U.S.C. § 2253(c)(2).
+
+                                           NOTICE
+
+              A party may file objections to those specified portions of a magistrate
+       judge’s report or proposed findings or recommended decisions entered
+       pursuant to 28 U.S.C. 636(b)(1)(B) for which de novo review by the district
+       court is sought, together with a supporting memorandum, within fourteen
+       (14) days of being served with a copy thereof. A responsive memorandum
+       shall be filed within fourteen (14) days after the filing of the objection.
+
+              Failure to file a timely objection shall constitute a waiver of the right
+       to de novo review by the district court and to appeal the district court's order.
+
+
+                                                   /s/ John C. Nivison
+                                                   U.S. Magistrate Judge
+
+       Dated this 31st day of August, 2017.
+
+
+
+                                              41
+

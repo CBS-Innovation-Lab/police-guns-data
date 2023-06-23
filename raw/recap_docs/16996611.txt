@@ -1,0 +1,708 @@
+      Case 1:05-cr-10358-PBS Document 32 Filed 01/17/07 Page 1 of 13
+
+
+
+                     UNITED STATES DISTRICT COURT
+                       DISTRICT OF MASSACHUSETTS
+
+
+                                     )
+UNITED STATES OF AMERICA             )
+                                     )
+             v.                      )     CRIMINAL ACTION NO.
+                                     )     05-10358-PBS
+ANTONIO SANTOS,                      )
+                  Defendant.         )
+                                     )
+
+                         MEMORANDUM AND ORDER
+
+                           January 17, 2007
+
+Saris, U.S.D.J.
+
+                               I. INTRODUCTION
+
+     On June 16, 2005 Taunton Police seized evidence from the
+
+apartment of defendant Antonio Santos pursuant to a search
+
+warrant.    Santos moves for a Franks Hearing and moves to suppress
+
+all evidence derived from the search, alleging that the warrant
+
+affidavit made material misrepresentations and that the resulting
+
+warrant lacked sufficient particularity.         After hearing oral
+
+argument, I DENY the motion for Franks hearing and to suppress
+evidence.
+
+                               II. BACKGROUND
+
+     On June 16, 2005 Taunton Police Detective Edward Pearson
+
+filed an application for a state warrant to search 19 Harrison
+
+Avenue in Taunton.    Included with the application were Detective
+
+Pearson’s affidavit, a copy of the Board of Probation criminal
+
+history for Santos, the search warrant and the warrant return.
+
+The application detailed Pearson’s law enforcement training and
+      Case 1:05-cr-10358-PBS Document 32 Filed 01/17/07 Page 2 of 13
+
+
+
+experience, and the facts that he relied upon to establish
+
+probable cause which were acquired from four main sources.
+
+     First, as explained in his affidavit, Pearson acquired much
+
+of the information from a confidential informant (“CI”) who had
+
+supposed familiarity with Santos’s drug trafficking activities.
+
+Pearson detailed the reliability of the CI, established by the
+
+arrests of or indictments against several named individuals.           The
+
+CI reported that it purchased crack cocaine at 19 Harrison Avenue
+
+from a person known as “T” who drove a gray Honda Civic.           The CI
+
+agreed to make a controlled buy for Pearson, which was completed
+
+sometime between June 13 and June 16, 2005.        Pearson watched the
+
+CI enter 19 Harrison Avenue for the controlled buy, and the CI
+
+returned to Pearson with crack cocaine.        The CI confirmed that
+
+“T” sold the CI the crack cocaine, “T” is a black male with an
+
+Afro type hairdo tied in a bun, and “T” drives a gray Honda Civic
+
+which is parked at 19 Harrison Avenue.
+
+     Second, Pearson reported that the CI’s information was
+
+corroborated by nearby residents.       The Taunton Police had
+
+received numerous calls from neighbors complaining of “drug
+
+activity” by “a black man with bushy hair tied in the back.”
+
+Several callers also indicated that the dealer operated the Honda
+
+Civic parked in front of 19 Harrison Avenue.
+
+     Third, Pearson indicated that “T” had been identified as
+
+Santos.   The identification was made with the assistance of
+
+Taunton Police Officer Jeffrey Martin.       Martin was able to stop
+
+                                    2
+      Case 1:05-cr-10358-PBS Document 32 Filed 01/17/07 Page 3 of 13
+
+
+
+the Honda Civic for a defective taillight, at which time the
+
+driver produced an identification card identifying himself as
+
+Antonio Santos.    Because the car was stopped nearby, the officer
+
+then watched Santos enter the dwelling at 19 Harrison Avenue.
+
+Pearson’s affidavit also summarized the attached criminal history
+
+record, noting that Santos had a “15 item criminal history
+
+consisting of 4 counts of possession of a class D substance, 2
+
+counts of possession with intent to distribute a class D
+
+controlled substance, and one count of unlawful possession of a
+
+firearm.”
+
+     Finally, Pearson referenced police surveillance of 19
+
+Harrison Avenue.   During surveillance, several “known drug
+
+addicts” were observed entering the building and exiting minutes
+
+later in a manner consistent with drug traffic.         Santos was also
+
+observed “keeping watch” out of his second floor window.
+
+     Based on the application, on June 16, 2005 a clerk
+
+magistrate of Taunton District Court issued the search warrant to
+
+Pearson.    Although Pearson’s affidavit described the premises to
+
+be searched as “19 Harrison Ave 2nd floor,” the actual warrant
+
+refers only to 19 Harrison Avenue, which it says “consists of 2
+
+floors and a cellar.”    There is also no mention of Santos’s
+
+roommate, Jason Glass, who jointly rented the apartment with
+
+Santos and used one of the bedrooms.
+
+     The dwelling at 19 Harrison Avenue was in fact a two family
+
+home, with an apartment on each floor.       The first floor was
+
+                                    3
+      Case 1:05-cr-10358-PBS Document 32 Filed 01/17/07 Page 4 of 13
+
+
+
+occupied by the landlord and property owner, Daniel Salamone, and
+
+his family.   Santos and Glass rented the second floor apartment.
+
+Both apartments were accessible only through a common front door
+
+which remained locked.
+
+     On June 16, 2005 Pearson accompanied other Taunton police
+
+officers to 19 Harrison Avenue to execute the search warrant.
+
+The police gained entry to the building and the second floor
+
+apartment using keys recovered from Santos during a traffic stop
+
+for driving with a suspended license.       The officers entered only
+
+the second floor apartment.     Inside the living room, they
+
+recovered a .22 caliber pistol, two digital scales and a scanner.
+
+In the bedrooms, they found a citation issued to Santos, an AK 47
+
+with a loaded ammunition clip, copies of a suppression motion
+
+filed by Santos, a bank passbook in Santos’s name, a baggie
+
+containing six .22 caliber bullets, an empty 30-round banana
+
+clip, two Chinese fighting stars, $220 in cash, Santos’s
+
+identification card, and a pair of jeans in the closet containing
+
+3 large rocks of crack cocaine weighing approximately 10 grams.
+
+                            III. DISCUSSION
+
+A.   Request for Franks Hearing
+
+     To warrant a Franks hearing, a defendant must make
+
+“allegations of deliberate falsehood or of reckless disregard for
+
+the truth, and those allegations must be accompanied by an offer
+
+of proof.”    United States v. Rumney, 867 F.2d 714, 720 (1st Cir.
+
+
+
+                                    4
+       Case 1:05-cr-10358-PBS Document 32 Filed 01/17/07 Page 5 of 13
+
+
+
+1989) (quoting Franks v. Delaware, 438 U.S. 154, 171 (1978)).
+
+Furthermore, the defendant must show that the misrepresentations
+
+or omissions were material such that the if the affidavit were
+
+corrected, it would no longer support a finding of probable cause
+
+to issue the search warrant.       Id.
+
+      1.   Misrepresentation of Criminal History
+
+      Defendant argues that Pearson misrepresented the extent of
+
+Mr. Santos’s criminal history.       Specifically, defendant contents
+
+that Pearson represented to the court that Mr. Santos’s criminal
+
+history included six drug related crimes, when he had only been
+
+convicted of four such offenses, and that Pearson noted that the
+
+criminal history was fifteen items long without mentioning that
+
+only six of the items actually resulted in a conviction.            This,
+
+defendant contends, “created the impression that Mr. Santos had
+
+been found guilty of nine more crimes than he had actually been
+
+convicted of.”    (Def. Mot. for Franks Hr’g and to Supp. Evidence
+
+9.)
+
+      Defendant’s argument is unpersuasive.        In the search warrant
+
+affidavit, Pearson wrote:
+
+      That Santos has a 15 item criminal history consisting
+      of 4 counts of possession of a class D controlled
+      substance. Two counts of possession [with intent to]
+      distribute class D controlled substance. And one count
+      of unlawful possession of a firearm. See Criminal
+      history attached and incorporated herein.
+
+(Search Warrant Aff. ¶ 11, Docket No. 28-2.)         There are in fact
+
+fifteen items listed in Santos’s criminal history.          (See Board of
+
+
+                                     5
+      Case 1:05-cr-10358-PBS Document 32 Filed 01/17/07 Page 6 of 13
+
+
+
+Probation Criminal History, Docket No. 28-2 at 8-9.)          While the
+
+term “items” is ambiguous, it does not suggest that they are all
+
+convictions nor can defendant show that Pearson made the
+
+statement with reckless disregard for the truth.         Pearson
+
+actually understated Santos’s criminal history because the
+
+criminal history shows that there were five, rather than four,
+
+Class D Possession charges.     (See id.)    Furthermore, all evidence
+
+confirms that the criminal history was attached to the affidavit,
+
+and thus available to the magistrate for clarification of any
+
+ambiguities.     (See Search Warrant Aff. ¶ 11; Pearson Aff. ¶ 6,
+
+Docket No. 30.)
+
+     Finally, regardless of whether Pearson’s statements were
+
+misrepresentations, defendant cannot show that they were material
+
+to the probable cause determination.       It is undisputed that
+
+Santos was convicted of six crimes, four of which were drug
+
+possession charges, two of those with the intent to distribute.
+
+This provides sufficient support, along with the additional
+
+evidence from the CI, the surveillance and the residents, to find
+
+probable cause to search the apartment for evidence of illegal
+
+drug activity.
+
+     2.     The Apartment Omissions
+
+      Defendant first asserts that Pearson’s affidavit omitted
+
+any reference to the fact that 19 Harrison Avenue had two
+
+apartment units and that the second floor unit had more than one
+
+occupant.    Defendant contends that these omissions were material
+
+                                    6
+      Case 1:05-cr-10358-PBS Document 32 Filed 01/17/07 Page 7 of 13
+
+
+
+to the probable cause determination because they show that the
+
+high volume of visitors to the building could be explained by the
+
+presence of multiple occupants rather than drug activity.
+
+     While there is little evidence to help determine whether
+
+Pearson acted with reckless disregard for the truth, there is
+
+ample evidence to show that the omissions were not material to
+
+the probable cause determination.        First, heavy foot traffic, as
+
+described by Pearson, is in itself suggestive of drug activity.
+
+See United States v. Hernandez Leon, 379 F.3d 1024, 1027 (8th
+
+Cir. 2004) (“observations of heavy foot and vehicle traffic”
+
+supported a finding of probable cause based on a narcotics
+
+officer’s experience); see also United States v. Moore, 235 F.3d
+
+700, 703-04 (observing “significant foot traffic suggesting
+
+ongoing drug sales” supported a finding that Terry stop was
+
+reasonable).    Pearson also identified by name three drug addicts
+
+whom he had seen visiting 19 Harrison Avenue.          (Search Warrant
+
+Aff. ¶ 12.)    Neighbors had also called to complain about drug
+
+activity at 19 Harrison Avenue.      (Id. ¶ 10.)       Neighbors
+
+specifically described the person dealing drugs as “a black male
+
+with bushy hair tied in the back.”        (Id.)   This was consistent
+
+with the CI’s description of “T.”        Finally, the CI made a
+
+controlled buy of crack cocaine from “T” in the second floor
+
+apartment of 19 Harrison Avenue.        (Id. ¶ 7-8.)    There was more
+
+than enough evidence to give probable cause that drug sales were
+
+occurring on the second floor of 19 Harrison Avenue, regardless
+
+                                    7
+      Case 1:05-cr-10358-PBS Document 32 Filed 01/17/07 Page 8 of 13
+
+
+
+of whether it was a one or two unit dwelling.
+
+     In addition, it makes no difference whether Santos occupied
+
+the apartment alone or with a roommate.        “Search warrants are not
+
+directed at persons; they authorize the search of ‘place[s]’ and
+
+the seizure of ‘things,’ and as a constitutional matter they need
+
+not even name the person from whom the things will be seized.”
+
+Zurcher v. The Stanford Daily, 436 U.S. 547, 555 (1978) (internal
+
+quotes omitted).   The search warrant affidavit provided probable
+
+cause to believe that the second floor of 19 Harrison Avenue
+
+contained evidence of drug activity, regardless of whether or not
+
+anyone else shared the apartment with the defendant.          See United
+
+States v. Owens, 167 F.3d 739, 745 (1st Cir. 1999) (affirming
+
+denial of Franks hearing despite the omission of evidence that
+
+defendant resided with another person because it is “immaterial
+
+whether [defendant] was living there alone or with others”).
+
+     Defendant also asserts that Pearson omitted the fact that
+
+the front door to 19 Harrison Avenue was locked and required a
+
+key or the assistance of a tenant for entry.        This, he contends,
+
+was material because it makes it “extremely implausible that a
+
+constant stream of ‘drug addicts’ could have been accessing the
+
+building, at least without arousing the attention of Salamone,
+
+who noticed no such unusual traffic.”       Defendant relies upon the
+
+unsworn statements of Salamone, obtained during a phone call with
+
+a private investigator, stating that “there was no noticeable
+
+traffic into [Santos’s and Glass’s] apartment.”         (Docket No. 25-2
+
+                                    8
+      Case 1:05-cr-10358-PBS Document 32 Filed 01/17/07 Page 9 of 13
+
+
+
+at 20.)
+
+     A defendant’s allegations for the purposes of a Franks
+
+hearing should be supported by “affadavits or sworn or otherwise
+
+reliable statements of witnesses.”       Franks, 438 U.S. at 171.
+
+Here, the unsworn testimony by Salamone is called into question
+
+by statements that Salamone reportedly made to an agent of the
+
+Bureau of Alcohol, Tobacco, Firearms & Explosives.         The agent’s
+
+report indicates that “Salamone said that his bedroom door was
+
+right by the front door and advised that there was a lot of
+
+activity in and out of that front door going upstairs.”
+
+     Furthermore, including the information that the common front
+
+door was locked would support other information provided by
+
+Pearson’s affidavit and thus strengthen the probable cause
+
+determination.   The existence of the locked door corroborates
+
+Pearson’s report that he “observed Santos keeping watch out of
+
+his 2nd floor window.”    Presumably, since the door was locked
+
+Santos would have to know when visitors arrived so that he could
+
+go downstairs to let them inside.       This is consistent with the
+
+reports of high foot traffic into the building.
+
+     3.   The Omission of Jason Glass
+
+     Defendant’s final argument is that “Pearson may have omitted
+
+the possible involvement of Jason Glass with the police and/or
+
+the CI with reckless disregard for the truth.”         Defendant notes
+
+that it is “curious” that Pearson neglected to ever mention Glass
+
+despite doing surveillance of 19 Harrison Avenue and identifying
+
+                                    9
+      Case 1:05-cr-10358-PBS Document 32 Filed 01/17/07 Page 10 of 13
+
+
+
+several visitors to the dwelling.        Defendant also suggests that
+
+the CI must have known that Glass lived in the apartment given
+
+his meetings there with Santos, and further suggests a possible
+
+involvement between Glass and the police or the CI.
+
+      As indicated by the language used in defendant’s brief, the
+
+argument is highly speculative.       First, to warrant a Franks
+
+hearing the omission from a search warrant affidavit must be
+
+“only that of the affiant, not of any nongovernmental informant.”
+
+Franks, 438 U.S. at 171.     Thus, even if the CI knew Glass and
+
+deliberately did not mention him, it is immaterial to this
+
+analysis.     Second, the CI reported seeing no one else in the
+
+apartment and Pearson stated under oath that he was not aware of
+
+the existence of Glass until after the search warrant had been
+
+executed.     (Pearson Aff. ¶ 3).   Finally, Pearson stated under
+
+oath that he doesn’t know of any connection between Glass and the
+
+CI.   (Id.)    Defendant thus fails to make a showing that the
+
+omission of Glass was done with deliberateness or recklessness.
+
+      Defendant has failed to make a substantial showing that
+
+Pearson made any misrepresentations or omissions that were
+
+intentional, reckless, or material.       The motion for the Franks
+
+hearing is denied.
+
+B.    Particularity of the Search Warrant
+
+      Defendant moves to suppress all evidence seized pursuant to
+
+the search warrant, contending that the warrant and Pearson’s
+
+affidavit failed to describe the place to be searched with
+
+                                    10
+     Case 1:05-cr-10358-PBS Document 32 Filed 01/17/07 Page 11 of 13
+
+
+
+sufficient particularity.     Defendant specifically notes that the
+
+warrant authorizes a search of the entire dwelling at 19 Harrison
+
+Avenue, and that Pearson’s affidavit refers to the entire second
+
+floor, thus including the bedroom of Glass.
+
+     The Fourth Amendment particularity requirement “ensures that
+
+the search will be carefully tailored to its justifications, and
+
+will not take on the character of the wide-ranging exploratory
+
+searches the Framers intended to prohibit.”        Maryland v.
+
+Garrison, 480 U.S. 79, 84.     “[S]earch warrants and affidavits
+
+should be considered in a common sense manner, and hypertechnical
+
+readings should be avoided.”     United States v. Bonner, 808 F.2d
+
+864, 868 (1st Cir. 1986).     “The test for determining the adequacy
+
+of the description of the location to be searched is whether the
+
+description is sufficient ‘to enable the executing officer to
+
+locate and identify the premises with reasonable effort, and
+
+whether there is any reasonable probability that another premise
+
+might be mistakenly searched.’”      United States v. Pervaz, 118
+
+F.3d 1, 9 (1st Cir. 1997) (quoting United States v. Bonner, 808
+
+F.2d 864, 866 (1st Cir. 1986)).
+
+     Although the search warrant facially referred only to 19
+
+Harrison Avenue, Pearson’s affidavit made several references to
+
+the second floor of the dwelling as the site of the criminal
+
+activity.   “An affidavit may be referred to for purposes of
+
+providing particularity if the affidavit accompanies the warrant,
+
+and the warrant uses suitable words of reference which
+
+                                   11
+        Case 1:05-cr-10358-PBS Document 32 Filed 01/17/07 Page 12 of 13
+
+
+
+incorporate the affidavit."        United States v. Roche, 614 F.2d 6,
+
+8 (1st Cir. 1980) (quoting United States v. Klein, 565 F.2d 183,
+
+186 n.3 (1st Cir. 1977)).        Here, the warrant and the affidavit
+
+can be read together to reference the second floor of the
+
+dwelling because Pearson’s affidavit was attached to the search
+
+warrant and the warrant included sufficient language of
+
+incorporation.
+
+     Furthermore, the knowledge of executing officers can be
+
+considered in determining the sufficiency of the description of
+
+the premises to be searched.        United States v. Vega-Figueroa, 234
+
+F.3d 744, 756 (1st Cir. 2000).        In Vega-Figueroa, the court found
+
+that despite the fact that the search warrant mistakenly listed
+
+the incorrect building, the warrant was valid because the officer
+
+who made the reports upon which the warrant was based was also
+
+the officer who executed the warrant and correctly directed his
+
+team to the defendant’s apartment.         Id.   Here, Pearson made
+
+personal observations of the dwelling, his affidavit was the
+
+basis for the warrant, and he led the search warrant execution
+
+team successfully to Santos’s apartment.          Thus, contrary to what
+
+the defendant argued, there was no reasonable possibility that
+
+anywhere other than the second floor apartment could have been
+
+searched.
+
+     Finally, the reference to the second floor apartment was
+
+sufficient particularity, regardless of whether Santos shared the
+
+unit.    See United States v. Gilman, 684 F.2d 616, 618 (9th Cir.
+
+                                      12
+     Case 1:05-cr-10358-PBS Document 32 Filed 01/17/07 Page 13 of 13
+
+
+
+1982) (“The general rule voiding the warrant for an undisclosed
+
+multiunit structure does not apply if the defendant was in
+
+control of the whole premises or they were occupied in common, if
+
+the entire premises were suspect, or if the multiunit character
+
+of the premises was not known to the officers.”).         Here, the
+
+apartment was a single unit for residential use.         Santos had
+
+access to all areas of the apartment.       Pearson testified that he
+
+had no knowledge of Glass or that another person resided on the
+
+second floor.   (Pearson Aff. ¶ 3.)      There is also evidence that
+
+Glass had moved out of the apartment at some point.         (See Glass
+
+Grand Jury Test., December 14, 2005, 11-12, Docket No. 28-4;
+
+Pearson Grand Jury Test., Aug. 30, 2005, 31, Docket No. 25-2.)
+
+The search warrant was sufficiently particular to allow the
+
+officers to identify the suspected location of drug activity, and
+
+the officers did in fact properly identify that location.
+
+                                 ORDER
+
+     The defendant’s motion for a Franks hearing and to suppress
+
+evidence is DENIED.
+
+
+
+                                  S/PATTI B. SARIS
+                                 United States District Judge
+
+
+
+
+                                   13
+

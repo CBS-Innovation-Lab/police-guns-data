@@ -1,0 +1,629 @@
+        Case 1:07-cr-10435-NMG Document 23 Filed 12/15/08 Page 1 of 12
+
+
+
+                      United States District Court
+                        District of Massachusetts
+
+________________________________
+                                 )
+UNITED STATES OF AMERICA,        )
+                                 )
+          v.                     )
+                                 )          Criminal No.
+MOISES CINTRON,                  )          07-10435-NMG
+                                 )
+          Defendant.             )
+________________________________ )
+
+                           MEMORANDUM & ORDER
+
+GORTON, J.
+
+     The defendant is charged with one count of being a felon in
+
+possession of a firearm and ammunition in violation of 18 U.S.C.
+
+§ 922(g)(1).     He has moved to suppress evidence discovered in
+
+connection with a vehicle stop and statements made after that
+
+stop.
+
+     A.      Factual Background
+
+     The government alleges, and has submitted supporting
+
+affidavits, that the following events occurred on November 5,
+
+2007.     On that morning the Massachusetts State Police received
+
+several reports that a blue Nissan Maxima, with Massachusetts
+
+plate number 85AE76, was being operated erratically.            Trooper
+
+Richard Gaudet (“Gaudet”) subsequently observed the vehicle
+
+traveling north on Route 128 in Lynnfield, Massachusetts.            Gaudet
+
+observed the vehicle being driven in an erratic manner, weaving
+
+in and out of marked lanes and at one point almost hitting the
+
+                                     -1-
+     Case 1:07-cr-10435-NMG Document 23 Filed 12/15/08 Page 2 of 12
+
+
+
+center barrier of the highway.     Upon witnessing this he activated
+
+his lights and the car came to a stop in the left travel lane of
+
+Route 128.
+
+     Gaudet approached the vehicle and observed three occupants:
+
+a female driver, a young girl in the front passenger seat and a
+
+male passenger, later identified as the defendant Moises Cintron
+
+(“Cintron”), in the back seat.     Cintron was lying across the back
+
+seat and appeared to be asleep or unconscious.
+
+     Gaudet asked the driver to get out of the vehicle and
+
+another Trooper who had arrived on the scene knocked on the rear
+
+passenger window in an effort to wake Cintron.        When Cintron did
+
+not respond the Trooper opened the car door, shook him and, when
+
+he awoke, ordered him out of the car.      As Cintron was getting out
+
+Gaudet, who was on the driver’s side, saw the black handle of
+
+what appeared to be a handgun in Cintron’s left jacket pocket.
+
+Upon seeing this Gaudet ran around to the passenger side of the
+
+car, grabbed Cintron’s pocket and, upon feeling what he believed
+
+to be a handgun, removed the weapon.      Cintron was placed under
+
+arrest for possession of a handgun.
+
+     Following his arrest, but later on the same day, Cintron was
+
+interviewed by Special Agent Michael Turner (“Turner”) of the
+
+Bureau of Alcohol, Tobacco, Firearms and Explosives.         Turner
+
+began the interview by reading Cintron his Miranda warnings and
+
+obtaining a signed waiver.    When asked his name by Turner,
+
+
+                                  -2-
+      Case 1:07-cr-10435-NMG Document 23 Filed 12/15/08 Page 3 of 12
+
+
+
+Cintron responded “Elizear Caceres.”       Turner knew that
+
+fingerprints had identified the defendant as Cintron and upon
+
+further questioning Cintron admitted his true identity.          He also
+
+told Turner that he had purchased the firearm from a black male
+
+in Brockton, Massachusetts, for $250.       Turner knew that Cintron
+
+had previously told Massachusetts State Police that he purchased
+
+the gun for $150.    Turner spoke with Cintron again on January 7,
+
+2008, at which time Cintron again told him that he purchased the
+
+firearm for $250 from a “drug guy” on the street.
+
+      B.   Procedural History
+
+      Cintron was indicted on December 19, 2007 and filed the
+
+pending motion to suppress on July 18, 2008.        In that motion he
+
+requests an evidentiary hearing.      A non-evidentiary status
+
+conference was held on October 21, 2008.        At that conference the
+
+Court determined that an evidentiary hearing would be necessary
+
+but granted the government time to file supplemental affidavits
+
+in an effort to eliminate the need for such a hearing.          The Court
+
+also granted the defendant an opportunity to respond with
+
+counter-affidavits within 10 days of the government’s filing.
+
+      After being granted an extension, the government filed
+
+affidavits of two law enforcement officers on November 26, 2008.
+
+The defendant has filed no affidavits in response.
+
+II.   Defendant’s Motion to Suppress
+
+      In evaluating Cintron’s motion to suppress, the Court
+
+
+                                   -3-
+     Case 1:07-cr-10435-NMG Document 23 Filed 12/15/08 Page 4 of 12
+
+
+
+scrutinizes separately each step of the interaction between the
+
+police and the defendant.      With respect to each step the Court
+
+must determine whether it was justified by the information known
+
+to officers at that time.      United States v. McKoy, 428 F.3d 38,
+
+39 (1st Cir. 2005).    In this case Cintron challenges the
+
+validity, scope and duration of the traffic stop.        He asserts
+
+that all evidence obtained subsequently, including the seized
+
+handgun and his statements to law enforcement, are fruit of the
+
+poisonous tree.    He also contends that his statements were
+
+involuntary and not made pursuant to a knowing and intentional
+
+waiver of his Miranda rights.
+
+     A.     The Initial Stop
+
+            1.    Legal Standard
+
+     The Fourth Amendment to the United States Constitution
+
+guarantees each citizen the right to be free from unreasonable
+
+searches and seizures.    Police officers may, however, approach
+
+citizens and investigate potential criminal activity even without
+
+probable cause to make an arrest for the purposes of crime
+
+prevention and detection.      Terry v. Ohio, 392 U.S. 1, 22 (1968).
+
+An officer may conduct a brief investigatory stop if he has
+
+“reasonable, articulable suspicion that criminal activity is
+
+afoot.”    United States v. Romain, 393 F.3d 63, 71 (1st Cir.
+
+2004).    Reasonable suspicion must be based on specific and
+
+articulable facts taken together with the rational inferences to
+
+
+                                   -4-
+     Case 1:07-cr-10435-NMG Document 23 Filed 12/15/08 Page 5 of 12
+
+
+
+be drawn from those facts.    United States v. Woodrum, 202 F.3d 1,
+
+6 (1st Cir. 2000).   The government bears the burden of proving
+
+that a vehicle stop without a warrant was justified.         United
+
+States v. Monteiro, 447 F.3d 39, 43 (1st Cir. 2006).         A court
+
+must look at the totality of the circumstances in order to
+
+determine the reasonableness of the stop.       United States v.
+
+Cortez, 449 U.S. 411, 417 (1981).
+
+     A traffic stop is generally reasonable if “the police have
+
+probable cause to believe that a traffic violation has occurred.”
+
+Whren v. United States, 517 U.S. 806, 810 (1996).        Furthermore,
+
+the fact that a traffic violation operates merely as a pretext
+
+for stopping motorists about whom the police harbor unrelated
+
+suspicions is irrelevant to the Fourth Amendment analysis.            Id.
+
+at 813 (“subjective intentions play no role in ordinary,
+
+probable-cause Fourth Amendment analysis”).
+
+          2.   Application
+
+     The government has established through affidavits that
+
+officer Gaudet observed the vehicle in which Cintron was a
+
+passenger being driven erratically, weaving in and out of lanes
+
+and almost hitting a barrier in the median.        The defendant
+
+responds that any traffic violations that were allegedly observed
+
+were a pretext for the vehicle stop in question.        Regardless of
+
+subjective intentions, however, Whren clearly establishes that a
+
+stop is reasonable if officers have probable cause to believe a
+
+
+                                  -5-
+     Case 1:07-cr-10435-NMG Document 23 Filed 12/15/08 Page 6 of 12
+
+
+
+traffic violation occurred.    517 U.S. at 810.       Here, Trooper
+
+Gaudet observed what he believed were several traffic violations
+
+thus justifying his stop of the vehicle.
+
+     B.    Scope of the Stop
+
+           1.   Legal Standard
+
+     Officers making a traffic stop do not violate the Fourth
+
+Amendment by requiring the driver and passengers to exit the
+
+vehicle.   Pennsylvania v. Mimms, 434 U.S. 106, 109-11 (1977)
+
+(driver); Maryland v. Wilson, 519 U.S. 408, 415 (1997)
+
+(passengers).   Furthermore, police actions that might otherwise
+
+exceed the permissible scope of a vehicle stop do not violate the
+
+Fourth Amendment if they fall within the so-called “community
+
+caretaking” doctrine.    See Lockhart-Bembery v. Sauro, 498 F.3d
+
+69, 75 (1st Cir. 2007).    That doctrine permits warrantless
+
+searches and seizures when they relate to
+
+     community caretaking functions, totally divorced from
+     the detection, investigation, or acquisition of
+     evidence relating to the violation of a criminal
+     statute.
+
+Cady v. Dombrowski, 413 U.S. 433, 441 (1973).       Responding to
+
+vehicle-related problems often falls under the caretaking role of
+
+law enforcement.   United States v. Rodriguez-Morales, 929 F.2d
+
+780, 785 (1st Cir. 1991).
+
+     2.    Application
+
+     Cintron’s motion to suppress does not specify how the
+
+vehicle search in this case exceeded the permissible scope.
+
+                                  -6-
+     Case 1:07-cr-10435-NMG Document 23 Filed 12/15/08 Page 7 of 12
+
+
+
+Nevertheless, a review of the actions taken by law enforcement
+
+demonstrates that the Fourth Amendment was not violated.
+
+     Removal of the vehicle’s occupants was clearly permissible
+
+even absent a showing of probable cause.       See    Mimms, 434 U.S. at
+
+109-11; Wilson, 519 U.S. at 415.     Opening the door and shaking
+
+Cintron to awaken him also did not violate the Fourth Amendment
+
+because of the community caretaker doctrine.         That act was not
+
+undertaken by the state police as part of their investigation but
+
+rather out of concern for Cintron’s safety.       See Dombrowski, 413
+
+U.S. at 441.    Here, two reasons justified waking Cintron.       First,
+
+he was unresponsive and lying across the back seat of the car.
+
+It was certainly reasonable to believe he might need medical
+
+attention.    Second, the vehicle had come to a stop in the passing
+
+lane on a major highway.    The state police had a legitimate
+
+concern that the removal of all occupants was necessary to ensure
+
+their safety and Cintron could not be removed without being
+
+awakened.
+
+     To the extent that Cintron challenges these aspects of the
+
+search, his contentions are without merit.       The actions of the
+
+state police were justified and did not violate the Fourth
+
+Amendment.
+
+     C.     Seizure of the Gun
+
+     With respect to the seizure of the gun from his person,
+
+Cintron argues that the doctrine of plain view is inapplicable
+
+
+                                  -7-
+     Case 1:07-cr-10435-NMG Document 23 Filed 12/15/08 Page 8 of 12
+
+
+
+because officers had unlawfully seized the vehicle and its
+
+occupants prior to observing the weapon.       That assertion is based
+
+on the premise that the traffic stop and the subsequent “seizure”
+
+of occupants were a violation of the Fourth Amendment.         Having
+
+already determined that those actions were permissible, this
+
+Court finds Cintron’s argument with respect to plain view to be
+
+without merit.   Trooper Gaudet states in his sworn affidavit that
+
+he observed the gun protruding from Cintron’s pocket as Cintron
+
+got out of the vehicle and thus its seizure, pursuant to the
+
+doctrine of plain view, was amply justified.       See, e.g., United
+
+States v. Taylor, 511 F.3d 87, 92 (1st Cir. 2007) (noting that
+
+plain view applies where officers observed the butt of a firearm
+
+protruding from under a towel during a traffic stop).
+
+     D.   Voluntariness of Cintron’s Statements
+
+     Cintron also asserts that any statements he made following
+
+the vehicle stop are fruit of the poisonous tree and were
+
+involuntary and not made pursuant to a knowing and intentional
+
+waiver of his Miranda rights.     Having already determined that no
+
+Fourth Amendment violation occurred, Cintron’s fruits argument
+
+can be readily disposed of.
+
+     With respect to the voluntariness of his statements and his
+
+waiver of Miranda rights, Cintron does not specify how either
+
+were constitutionally deficient nor does he identify specific
+
+statements that he seeks to suppress.      His motion simply requests
+
+
+                                  -8-
+     Case 1:07-cr-10435-NMG Document 23 Filed 12/15/08 Page 9 of 12
+
+
+
+that all statements made 1) at the scene of his arrest, 2) en
+
+route to police facilities or 3) at the police station, be
+
+suppressed.   The government bears the burden of proving a waiver
+
+of Miranda by a preponderance of the evidence.        United States v.
+
+Downs-Moses, 329 F.3d 253, 267 (1st Cir. 2003).
+
+     The government has identified the following statements made
+
+by Cintron to police following his arrest:
+
+     1)   statements to Trooper Stevie Browning (“Browning”),
+          made on the day of the arrest, in which Cintron falsely
+          identified himself and said that he purchased the gun
+          for $150;
+
+     2)   statements to Gaudet, made on the day of the arrest at
+          the Danvers Police Station, in which he said he
+          purchased the gun for $400;
+
+     3)   statements to Turner, made on the day of the arrest, in
+          which Cintron confirmed his true identity and explained
+          how he obtained the gun for a price of $250; and
+
+     4)   statements to Turner on January 7, 2008, in which he
+          said that he bought the gun from a “drug guy” on the
+          street for $250.
+
+The government asserts that all of those statements were preceded
+
+by Miranda warnings.   Police reports submitted with the
+
+government’s opposition indicate that Cintron was Mirandized by
+
+Browning at the time of his arrest, at the scene and before
+
+making the first two statements.     The reports also indicate that
+
+he was Mirandized for a second time by Turner before making the
+
+third and fourth statements.
+
+     Despite the police reports, however, the only record
+
+materials of evidentiary quality before this Court are the
+
+                                  -9-
+     Case 1:07-cr-10435-NMG Document 23 Filed 12/15/08 Page 10 of 12
+
+
+
+affidavits of Gaudet and Turner.      Neither of those affidavits
+
+establishes that Cintron was Mirandized at the time of his
+
+arrest, or at any other time before being Mirandized by Turner.
+
+Accordingly, there is no evidence in the record regarding whether
+
+the first two statements (made to Browning and Gaudet) were made
+
+after a valid waiver of Miranda rights.       An evidentiary hearing
+
+is therefore necessary to determine whether those statements
+
+should be suppressed.
+
+     With respect to the third and fourth statements (made to
+
+Special Agent Turner), the government has met its burden by
+
+proffering an affidavit from Turner with a Miranda waiver signed
+
+by Cintron.1   The defendant does not deny that he was given
+
+Miranda warnings by Turner nor does he offer any reason why his
+
+subsequent statements were involuntary.       Accordingly, any
+
+statements made by Cintron after signing the waiver will not be
+
+suppressed.
+
+     E.   Need for an Evidentiary Hearing
+
+     Although Cintron has requested an evidentiary hearing, such
+
+hearings are required only when a defendant alleges facts that
+
+are “sufficiently definite, specific, detailed, and
+
+nonconjectural, to enable the court to conclude that a
+
+substantial claim is presented.”      United States v. Lewis, 40 F.3d
+
+
+     1
+      Although the signature on the waiver appears to read
+“Elizear Caceres,” Turner’s affidavit establishes that Cintron
+attempted to use that alias and is unrefuted.
+
+                                  -10-
+     Case 1:07-cr-10435-NMG Document 23 Filed 12/15/08 Page 11 of 12
+
+
+
+1325, 1332 (1st Cir. 1994) (citation and internal quotation marks
+
+omitted).   A defendant must make a “sufficient threshold showing”
+
+that “there are factual disputes which, if resolved in his favor,
+
+would entitle him to the requested relief.”        United States v.
+
+Staula, 80 F.3d 596, 603 (1st Cir. 1995); Lewis, 40 F.3d at 1332
+
+(“The defendant must allege facts that, if proven, would entitle
+
+him to relief.”).
+
+     Based on the defendant’s allegations and the evidence
+
+proffered, this Court concludes that a limited evidentiary
+
+hearing is required to address only whether Cintron’s statements
+
+to Gaudet and Browning (i.e., his first two statements) were
+
+preceded by Miranda warnings.     Accordingly, an evidentiary
+
+hearing will proceed as scheduled on December 19, 2008, but
+
+testimony will be limited to the issue of whether Cintron was
+
+given Miranda warnings at the time of his arrest.
+
+     With respect to the remaining issues raised in Cintron’s
+
+motion to suppress, there are no disputed facts that require an
+
+evidentiary hearing.    The government has submitted two affidavits
+
+detailing the circumstances of Cintron’s arrest but Cintron has
+
+submitted no affidavit in response and the relevant facts related
+
+to his arrest are unrefuted.     Cintron’s affidavit, submitted
+
+contemporaneously with his motion to suppress, establishes only
+
+that he did not consent to being stopped, arrested or searched.
+
+Because consent is neither in dispute nor necessary to validate a
+
+
+                                  -11-
+     Case 1:07-cr-10435-NMG Document 23 Filed 12/15/08 Page 12 of 12
+
+
+
+search, Cintron has not shown a factual dispute requiring an
+
+evidentiary hearing.    See Staula, 80 F.3d at 603.
+
+
+
+                                 ORDER
+
+     In accordance with the foregoing, Cintron’s motion to
+
+suppress (Docket No. 15) is, with the exception of statements
+
+made to Troopers Gaudet and Browning after his arrest, DENIED.
+
+The Court reserves its ruling on the remaining statements until
+
+after the evidentiary hearing.
+
+
+
+So ordered.
+                                  /s/ Nathaniel M. Gorton
+                                 Nathaniel M. Gorton
+                                 United States District Judge
+Dated December 15, 2008
+
+
+
+
+                                  -12-
+

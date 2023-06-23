@@ -1,0 +1,181 @@
+                            UNITED STATES DISTRICT COURT
+                                 DISTRICT OF MAINE
+
+UNITED STATES OF AMERICA                       )
+                                               )
+       v.                                      )       CR-06-57-B-W
+                                               )
+WILLIAM C. BURHOE                              )
+
+             ORDER DENYING MOTION TO DISMISS INDICTMENT
+
+       William Burhoe moves to dismiss the Indictment under 18 U.S.C. § 922(g)(4)
+
+on Second and Fifth Amendment grounds. The Court has previously addressed and
+
+rejected each argument Mr. Burhoe now presents.                      Consistent with its earlier
+
+decisions, the Court denies Mr. Burhoe’s Motion to Dismiss the Indictment.
+
+I.     STATEMENT OF FACTS
+
+       A.      Factual Background and Procedural History1
+
+       In 1997, Mr. Burhoe was committed to a mental institution under 34-B
+
+M.R.S.A. § 3863, a Maine statute that allows for emergency hospitalization of those
+
+believed to be mentally ill and to pose a risk of serious harm because of the illness.
+
+Def.’s Mot. to Dismiss Indictment at 2 (Docket # 219) (Def.’s Mot.); 34-B M.R.S.A. §
+
+3863 (1), (2), (3). Mr. Burhoe concedes that he was committed according to the
+
+Maine statute’s three-step process. See Def.’s Mot. at 2. Although 34-B M.R.S.A. §
+
+1 The Court has misgivings about accepting Mr. Burhoe’s assertions of what took place in 1997 in
+ruling on his motion to dismiss. Whitehouse v. United States Dist. Court, 53 F.3d 1349, 1359-60 (1st
+Cir. 1995) (stating that [a] court should exercise its authority to dismiss cautiously, since to dismiss
+an indictment "directly encroaches upon the fundamental role of the grand jury"). By accepting his
+version of events, his motion sounds more like a motion for summary judgment, which is unknown in
+criminal law. Rather, the Court views his factual contentions as providing context for his claim that
+a commitment under the Maine statute cannot legally be used as a predicate for an alleged violation
+of 18 U.S.C. § 922(g)(4). The Court’s misgivings however persist because Mr. Burhoe asserts that he
+is making an “as applied” challenge to the Indictment. Def.’s Mot. at 2-3. A separate basis for the
+Court’s ruling might well be that Mr. Burhoe must await trial to develop facts that would support his
+as applied constitutional challenge.
+3863 does not provide a patient with a formal hearing prior to initial commitment,
+
+a District Court must provide a patient with a formal hearing before any extended
+
+involuntary commitment. 34-B M.R.S.A. § 3863(5)(B)(2)2).
+
+          In 2006, a federal grand jury indicted Mr. Burhoe under 18 U.S.C. §
+
+922(g)(4), and charged him with knowingly possessing firearms after having been
+
+committed to a mental institution. Indictment at 1 (Docket #1).3 On August 23,
+
+2010, Mr. Burhoe moved to dismiss the indictment “on grounds that the Second and
+
+Fifth [A]mendments prohibit use of an emergency, ex parte psychiatric commitment
+
+as a predicate to a violation under 18 U.S.C. § 922(g)(4).” Def.’s Mot. at 1. The
+
+Government responded on September 1, 2010.
+
+          B.      Legal Contentions
+
+          Mr. Burhoe’s Fifth Amendment due process argument challenges the First
+
+Circuit’s holding that emergency psychiatric commitment under 34-B M.R.S.A. §
+
+3863 constitutes being “committed to a mental institution” under 18 U.S.C. §
+
+922(g)(4). Id. at 3-4 (citing United States v. Holt, 464 F.3d 101, 105 (1st Cir. 2001),
+
+and United States v. Chamberlain, 159 F.3d 656, 661 (1st Cir. 1998)). That holding
+
+establishes that Maine’s three-step process for emergency commitment may satisfy
+
+the “committed to a mental institution” element of § 922(g)(4).
+
+
+
+
+2
+    34-B M.R.S.A. 3863(5) was repealed, effective April 14, 2010.
+3
+    18 U.S.C. § 922(g)(4) states in relevant part:
+          (g) It shall be unlawful for any person . . . (4) who has been adjudicated as a mental
+          defective or who has been committed to a mental institution; to ship or transport in
+          interstate or foreign commerce, or possess in or affecting commerce, any firearm or
+          ammunition; or to receive any firearm or ammunition which has been shipped or
+          transported in interstate or foreign commerce.
+
+                                                    2
+      Mr. Burhoe contends that “the level of intrusion in an unreviewed detention
+
+can only be justified by its temporary nature and the interests of society in the
+
+temporary restraint.” Id. at 4. The First Circuit’s holdings, he argues, “turn an
+
+emergency admission into a permanent deprivation of liberty without the process
+
+due under the Fifth Amendment for a civil commitment.” Id.
+
+      Mr. Burhoe’s Second Amendment argument is related to his due process
+
+argument. He argues that § 922(g)(4) deprives individuals of an individual right
+
+under the Constitution without an adequate hearing process to determine whether
+
+they are a danger to themselves or others.       Id. at 5   “Because many who are
+
+mentally ill are not also dangerous,” Mr. Burhoe argues, the application of §
+
+922(g)(4) “to those who have never been found to be both mentally ill and dangerous
+
+creates an over-broad deprivation of a core constitutional right that does not
+
+withstand intermediate scrutiny” Id.
+
+      The government responds that the Court has already considered and rejected
+
+all Mr. Burhoe’s arguments. Government’s Resp. to Def.’s Mot. to Dismiss Indictment
+
+at 1 (Docket # 223) (Government’s Resp.) (citing United States v. Zetterman, CR-09-
+
+54-B-W, 2010 WL 1049870 (D. Me. Mar. 17, 2010); United States v. Small, CR-09-
+
+184-B-W, 2010 WL 583643 (D. Me. Feb. 16, 2010); and United States v. Murphy, 681
+
+F. Supp. 2d 95 (D. Me. 2010)). Mr. Burhoe does not contend that there are any
+
+legally relevant differences between this case and those already decided by the
+
+Court. Id. Therefore, the Government argues, the Court should deny Mr. Burhoe’s
+
+Motion in accordance with its previous rulings. Id. at 2.
+
+
+
+                                          3
+II.    DISCUSSION
+
+       In Zetterman, Small, and Murphy, the Court addressed the due process and
+
+Second Amendment issues presented here. See Zetterman, 2010 WL 1049870;
+
+Small, 2010 WL 583643; Murphy, 681 F. Supp. 2d 95). Mr. Burhoe has presented
+
+no justification for the Court to alter its rulings – no intervening contrary case law
+
+in the First Circuit, this District, or elsewhere. Indeed, Mr. Burhoe acknowledges
+
+as much in his own Motion, which he files only to preserve these issues on appeal.
+
+Def.’s Mot. at 5. Accordingly, the Court applies its reasoning in Zetterman, Murphy,
+
+and Small to the issues here and arrives at the same result.
+
+III.   CONCLUSION
+
+       The Court DENIES the Defendant’s Motion to Dismiss the Indictment
+
+(Docket #219).
+
+       SO ORDERED.
+
+
+                                 /s/ John A. Woodcock, Jr.
+                                 JOHN A. WOODCOCK, JR.
+                                 CHIEF UNITED STATES DISTRICT JUDGE
+
+Dated this 21st day of September, 2010
+
+
+
+
+                                          4
+

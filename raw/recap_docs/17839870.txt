@@ -1,0 +1,298 @@
+ Case 2:13-cr-00048-DBH Document 35 Filed 10/22/13 Page 1 of 6                     PageID #: 95
+
+
+
+                             UNITED STATES DISTRICT COURT
+                                  DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA                      )
+                                              )
+v.                                            )              No. 2:13-cr-48-DBH
+                                              )
+ADAM WHITE,                                   )
+                                              )
+               Defendant                      )
+
+
+
+               MEMORANDUM DECISION ON MOTION FOR DISCOVERY
+
+
+       The defendant, charged with possession with intent to distribute of 500 grams or more of
+
+a mixture or substance containing cocaine, in violation of 21 U.S.C. § 841(a)(1), and possession
+
+of a firearm in furtherance of a drug trafficking crime, in violation of 18 U.S.C. § 924(c)(1),
+
+Indictment (ECF No. 1) at 1-2, asks the court to order the government to produce certain records
+
+concerning the drug dog that was used to sniff his vehicle before his arrest, the dog’s handler,
+
+and the handler’s previous drug dog. Defendant’s Motion for Discovery (“Motion”) (ECF No.
+
+25) at 1-2. He asserts that he seeks this material for review by his “potential drug dog expert,”
+
+who “will opine that the dog’s actions during the stop and sniff did not create a positive alert and
+
+generally reflect inadequate training of the dog.” Id. at 2. I deny the motion.
+
+                                            Discussion
+
+       In its response, the government states that it has already produced the following:
+
+certification documents for the handler; certification documents for the drug dog involved
+
+(Aros); all training records on file related to Aros; and a complete copy of the manual used to
+
+train and certify Aros.      Government’s Objection to Defendant’s Motion for Discovery
+
+(“Objection”) (ECF No. 32) at 2.     It identifies the materials requested by the defendant that it
+
+                                                  1
+ Case 2:13-cr-00048-DBH Document 35 Filed 10/22/13 Page 2 of 6                     PageID #: 96
+
+
+
+has declined to produce as all certification documents for the handler’s previous drug dog (Caro)
+
+and all records, reports, and videos generated in other criminal investigations in which Aros has
+
+been involved. Id. at 3. The defendant does not disagree with this statement. Defendant’s Reply
+
+to the Government’s Objection to His Motion for Discovery (”Reply”) (ECF No. 34) passim.
+
+       The parties also agree that Florida v. Harris, __ U.S. __, 133 S.Ct. 1050 (2013),
+
+establishes the legal standard for review of the defendant’s discovery demand in this case. In
+
+Harris, the defendant refused consent to search his truck after a traffic stop, a trained narcotics
+
+dog alerted at the driver’s side door handle, and a subsequent search of the truck yielded
+
+ingredients for manufacturing methamphetamine, but nothing that the dog was trained to detect.
+
+133 S.Ct. at 1053-54. The defendant moved to suppress this evidence on the ground that the
+
+dog’s alert had not provided the officer with probable cause for a search. Id. at 1054.
+
+       The state supreme court upheld the granting of the motion to suppress, creating a list of
+
+information that the state must present when a drug dog’s alert is challenged, including
+
+            the dog’s training and certification records, an explanation of the
+            meaning of the particular training and certification, field performance
+            records (including any unverified alerts), and evidence concerning the
+            experience and training of the officer handling the dog, as well as any
+            other objective evidence known to the officer about the dog’s reliability.
+
+Id. at 1055.    The state court “particularly stressed the need for ‘evidence of the dog’s
+
+performance history,’ including records showing ‘how often the dog has alerted in the field
+
+without illegal contraband having been found.’” Id.
+
+       The Supreme Court rejected the use of a mandatory checklist in such circumstances,
+
+observing in addition that “[m]aking matters worse, the decision below treats records of a dog’s
+
+field performance as the gold standard in evidence, when in most cases they have relatively
+
+
+
+
+                                                 2
+ Case 2:13-cr-00048-DBH Document 35 Filed 10/22/13 Page 3 of 6                        PageID #: 97
+
+
+
+limited import.” Id at 1056. “The better measure of a dog’s reliability thus comes away from the
+
+field, in controlled testing environments.” Id.at 1057.
+
+       The Court elaborated:
+
+                For that reason, evidence of a dog’s satisfactory performance in a
+            certification or training program can itself provide sufficient reason to
+            trust his alert. If a bona fide organization has certified a dog after testing
+            his reliability in a controlled setting, a court can presume (subject to any
+            conflicting evidence offered) that the dog’s alert provides probable cause
+            to search. The same is true, even in the absence of formal certification,
+            if the dog has recently and successfully completed a training program
+            that evaluated his proficiency in locating drugs. . . .
+
+                A defendant, however, must have an opportunity to challenge such
+            evidence of a dog’s reliability, whether by cross-examining the testifying
+            officer or by introducing his own fact or expert witnesses. The
+            defendant, for example, may contest the adequacy of a certification or
+            training program, perhaps asserting that its standards are too lax or its
+            methods faulty. So too, the defendant may examine how the dog (or
+            handler) performed in the assessments made in those settings. Indeed,
+            evidence of the dog’s (or handler’s) history in the field, although
+            susceptible to the kind of misinterpretation we have discussed, may
+            sometimes be relevant[.] . . . (“[T]he defendant can ask the handler, if the
+            handler is on the stand, about field performance, and then the court can
+            give that answer whatever weight is appropriate”). And even assuming a
+            dog is generally reliable, circumstances surrounding a particular alert
+            may undermine the case for probable cause – if, say, the officer cued the
+            dog (consciously or not), or if the team was working under unfamiliar
+            conditions.
+
+               In short, a probable-cause hearing focusing on a dog’s alert should
+            proceed much like any other. . . . The question—similar to every inquiry
+            into probable cause—is whether all the facts surrounding a dog’s alert,
+            viewed through the lens of common sense, would make a reasonably
+            prudent person think that a search would reveal contraband or evidence
+            of a crime. A sniff is up to snuff when it meets that test.
+
+Id. at 1057-58.
+
+       In the instant case, the defendant has offered no reason why he should be entitled to
+
+information beyond that contemplated by the Supreme Court in the run-of-the-mill drug-sniffing
+
+dog case. He relies on United States v. Thomas, 726 F.3d 1086 (9th Cir. 2013), Motion at 8-9,
+
+                                                  3
+    Case 2:13-cr-00048-DBH Document 35 Filed 10/22/13 Page 4 of 6                                  PageID #: 98
+
+
+
+but incorrectly characterizes that opinion as “affirm[ing] the importance of the types of requests
+
+made herein[,]” id. at 8. In Thomas, the Ninth Circuit directed the district courts in that circuit to
+
+provide the following information when a defendant “requests dog-history discovery to pursue a
+
+motion to suppress”: the handler’s log, training records and score sheets, certification records,
+
+and training standards and manuals pertaining to the dog in question. Thomas. 726 F.3d at 1096.
+
+This list clearly does not include records of a different dog previously handled by the same
+
+officer, or any records of other sniff searches by the dog in question. The government had
+
+produced the listed documents, but they were heavily redacted, and that alone was the basis of
+
+the Ninth Circuit’s reversal of the trial court’s denial of the defendant’s motion to suppress. Id.
+
+at 1098. There has been no suggestion of redaction in this case; indeed, the government
+
+represents that the records provided are “un-redacted.” Objection at 4.
+
+         The defendant lists “several salient facts” that he contends that the government does not
+
+contest at pages 2-3 of his reply memorandum, all of which are drawn from the affidavit of his
+
+expert witness, Steven Nicely. All of these “facts,” as well as the opinions included in several of
+
+them, were ascertained by Nicely without resort to the additional evidence sought by the
+
+defendant. The only exception is the final item in the list, which reports that Nicely wishes to
+
+compare the training records of the previous dog with which Aros’s handler worked “in order to
+
+establish the differences in the training of each dog, and to determine if there were deficiencies
+
+in Aros’ training.” Reply at 3. The defendant makes no showing that differences in the training
+
+of each dog would necessarily demonstrate deficiencies in the training of Aros.1 That is a
+
+
+
+
+1
+  I reject the defendant’s assertion that “[t]hese facts should be deemed admitted when this Court enters an Order on
+the Defendant’s Motion. The Government has not contradicted these facts, or presented its own expert in
+opposition.” Reply at 3. In this court, in criminal cases at the pretrial stage, facts are established only by written
+stipulation signed by all parties or at an evidentiary hearing. Neither has yet occurred in this case.
+
+                                                          4
+    Case 2:13-cr-00048-DBH Document 35 Filed 10/22/13 Page 5 of 6                             PageID #: 99
+
+
+
+necessary threshold issue to be determined before the demand for such evidence may be
+
+considered.
+
+        According to this court’s research, Nicely has been able in the past to testify that drug-
+
+sniffing dogs were inadequately trained and that their alerts were false positives based on
+
+information no more extensive than that which has already been made available in this case. For
+
+example, in the Eastern District of Louisiana, Nicely testified earlier this year that a narcotics
+
+detection dog who alerted to several areas of the defendant’s vehicle during two passes after a
+
+highway stop was inadequately trained and was cued to alert by his handler, based on a video
+
+recording of the sniff. United States v. Guyton, Criminal Action No. 11-271, 2013 WL 2394895,
+
+at *6-*8 (E.D. La. Apr. 16, 2013).
+
+        Nicely testified similarly at a suppression hearing in United States v. Lindsay, Cause No.
+
+A-13-CR-032-LY, 2013 WL 3864675 (W.D. Tex. July 24, 2013).                           He reviewed the dog’s
+
+training records and a video of the dog’s alert. Id. at *3. Nicely testified that he does not agree
+
+with the Supreme Court’s ruling in Harris, id. at *7, but that opinion is binding on this court.
+
+There is no suggestion in the Lindsay opinion that Nicely sought additional evidence, like that
+
+sought here, in order to bolster his opinions.2
+
+        On the showing made, the defendant is not entitled to production of the evidence sought
+
+in this motion. See also United States v. Poole, No. CR13-3003-MWB, 2013 WL 3808243, at *9
+
+(N.D. Iowa July 22, 2013) (applying Harris to expert testimony that handler committed errors
+
+while deploying drug-detection dog and that dog did not genuinely indicate presence of drugs);
+
+United States v. Salgado, No. CR 12-30088-OL-02-RAL, 2013 WL 1348264, at *7-*8 (D.S.D.
+
+Apr. 1, 2013) (applying Harris to deny defendant access to “real-world records” of a drug-
+
+2
+ The presiding judge also noted that “Nicely’s behavioral-science approach to detection-dog training has not been
+adopted by the courts or the law-enforcement community as either a recognized method or the standard for
+analyzing the reliability of drug-detection dogs.” 2013 WL 3864675 at *8.
+
+                                                       5
+Case 2:13-cr-00048-DBH Document 35 Filed 10/22/13 Page 6 of 6                     PageID #: 100
+
+
+
+detection dog). Nicely can present his opinions without access to the additional information that
+
+the defendant has requested.
+
+                                           Conclusion
+
+       For the foregoing reasons, the defendant’s motion for discovery is DENIED.
+
+
+
+                                            NOTICE
+
+       In accordance with Federal Rule of Civil Procedure 72(a), a party may serve and file
+an objection to this order within fourteen (14) days after being served with a copy thereof.
+
+         Failure to file a timely objection shall constitute a waiver of the right to review by the
+district court and to any further appeal of this order.
+
+
+       Dated this 22nd day of October, 2013.
+
+                                                     /s/ John H. Rich III
+                                                     John H. Rich III
+                                                     United States Magistrate Judge
+
+
+
+
+                                                6
+

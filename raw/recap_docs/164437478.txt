@@ -1,0 +1,287 @@
+Case 2:13-cr-00193-GZS Document 504 Filed 03/18/21 Page 1 of 6              PageID #: 2930
+
+
+
+
+                            UNITED STATES DISTRICT COURT
+                                 DISTRICT OF MAINE
+
+GLENN MURCHISON,                          )
+                                          )
+              Petitioner,                 )
+                                          )
+       v.                                 )      2:13-cr-00193-GZS-1
+                                          )      2:20-cv-00222-GZS
+UNITED STATES OF AMERICA,                 )
+                                          )
+              Respondent                  )
+
+
+            RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+       Petitioner moves pursuant to 28 U.S.C. § 2255 to vacate, set aside or correct his
+
+sentence. (Motion, ECF No. 467.) The Government asks the Court to dismiss the matter
+
+because Petitioner filed the motion after the statute of limitations expired. (Response, ECF
+
+No. 486.)
+
+       Following a review of Petitioner’s section 2255 motion, the Government’s response,
+
+and the record, I recommend the Court dismiss the motion.
+
+                 FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+       In April 2014, the grand jury issued a second superseding indictment against
+
+Petitioner for one count of conspiracy to distribute and possess with intent to distribute
+
+cocaine base in violation of 21 U.S.C. §§ 846, 841(a)(1), two counts of distribution of
+
+cocaine base in violation of 21 U.S.C. § 841(a)(1), and one count of possession with intent
+
+to distribute cocaine base in violation of 21 U.S.C. §§ 841(a)(1). (Second Superseding
+
+Indictment, ECF No. 116.) In May 2015, the Government filed an information pursuant to
+
+21 U.S.C. § 851 charging Petitioner with a prior Massachusetts conviction for possession
+Case 2:13-cr-00193-GZS Document 504 Filed 03/18/21 Page 2 of 6              PageID #: 2931
+
+
+
+
+with intent to distribute a controlled substance, subjecting him to increased penalties if
+
+convicted. (Information, ECF No. 141.) In June 2014, Petitioner pled guilty to the
+
+conspiracy charge. (Change of Plea Hearing, ECF No. 167.)
+
+      In January 2015, the Court sentenced Petitioner to 188 months imprisonment and
+
+eight years of supervised release. (Judgment, ECF No. 323.) In January 2019, the First
+
+Circuit granted a discretionary remand for the Court to consider the effect of the non-
+
+retroactive guideline Amendment 798, which eliminated the residual clause of the career
+
+offender guidelines, because one of Petitioner’s prior convictions was for resisting arrest
+
+and would no longer qualify as a predicate offense for purposes of the career offender
+
+guidelines. (Judgment of the Court of Appeals, ECF No. 450.) On April 8, 2019, the Court
+
+resentenced Petitioner to 151 months imprisonment, which was consistent with the parties’
+
+joint recommendation. (Amended Judgment, ECF No. 459; Joint Agreement on Amended
+
+Sentence, ECF No. 457.) Petitioner had also filed a § 2255 motion while his direct appeal
+
+was pending, which the Court dismissed as moot. (Order, ECF No. 458.)
+
+      Petitioner dated the current § 2255 motion on June 14, 2020, and the Court docketed
+
+it on June 23, 2020. (Motion, ECF No. 467.)
+
+                                       DISCUSSION
+
+      Title 28 U.S.C. § 2255(f) provides:
+
+      A 1-year period of limitation shall apply to a motion under this section. The
+      limitation period shall run from the latest of –
+
+          (1) the date on which the judgment of conviction becomes final;
+
+          (2) the date on which the impediment to making a motion created by
+          governmental action in violation of the Constitution or laws of the United
+
+                                            2
+Case 2:13-cr-00193-GZS Document 504 Filed 03/18/21 Page 3 of 6                           PageID #: 2932
+
+
+
+
+            States is removed, if the movant was prevented from making a motion by
+            such governmental action;
+
+            (3) the date on which the right asserted was initially recognized by the
+            Supreme Court, if that right has been newly recognized by the Supreme
+            Court and made retroactively applicable to cases on collateral review; or
+
+            (4) the date on which the facts supporting the claim or claims
+            presented could have been discovered through the exercise of due
+            diligence.
+
+When there are multiple claims at issue, “the period of limitation in 28 U.S.C. § 2255(f)
+
+should be applied on a claim-by-claim basis.” Capozzi v. United States, 768 F.3d 32, 33
+
+(1st Cir. 2014).
+
+        Petitioner does not allege, nor does the record reflect, that the Government imposed
+
+an impediment to a timely filing; Petitioner’s claims do not rely on a right newly-
+
+recognized by the Supreme Court and made retroactively applicable to cases on collateral
+
+review; and Petitioner does not allege newly-discovered facts in support of his section 2255
+
+claims. Because paragraphs (2), (3), and (4) do not apply, therefore, the limitations period
+
+began to run when Petitioner’s amended judgment of conviction became final.1
+
+        The Court entered Petitioner’s amended judgment of conviction on April 8, 2019.
+
+(Amended Judgment, ECF No. 459.) Because Petitioner did not appeal the new sentence,
+
+the judgment became final after his fourteen-day period for filing an appeal expired on
+
+April 22, 2019. See Fed. R. App. P. 4(b)(1)(A); Martinez-Serrano v. United States, No.
+
+CIV. 11-1077 JAF, 2012 WL 6016663, at *1 (D.P.R. Nov. 30, 2012) (“Neither the
+
+
+1
+ The AEDPA restrictions are “interpreted with respect to the judgment challenged.” See Magwood v.
+Patterson, 561 U.S. 320, 331–33, 338–39 (2010). Because Petitioner was resentenced, it is generally the
+new “intervening judgment” that controls the analysis of the statute of limitations and second or successive
+petitions. Id.; Burton v. Stewart, 549 U.S. 147, 156–57 (2007) (per curiam).
+
+                                                     3
+Case 2:13-cr-00193-GZS Document 504 Filed 03/18/21 Page 4 of 6                  PageID #: 2933
+
+
+
+
+Supreme Court nor the First Circuit, to our knowledge, has decided when an unappealed
+
+federal criminal conviction becomes ‘final’ for the purposes of § 2255(f)(1). All of the
+
+circuit courts that have answered this question, to our knowledge, have held that such a
+
+conviction becomes final when the time for filing an appeal expires”); see also, Yeaton v.
+
+United States, No. CIV. 06-138-P-S, 2007 WL 551759, at *1 (D. Me. Feb. 21, 2007)
+
+(collecting cases). The limitation period for filing a section 2255 motion to challenge the
+
+judgment expired one year later, on April 22, 2020. See Rogers v. United States, 180 F.3d
+
+349, 355 n.13 (1st Cir. 1999) (“‘When a statute of limitations is measured in years, the last
+
+day for instituting the action is the anniversary date of the start of the limitations period.’”)
+
+(quoting Ross v. Artuz, 150 F.3d 97, 103 (2d Cir. 1998)). Petitioner filed his motion in
+
+June 2020, approximately two months after the limitations period expired.
+
+       “[T]he AEDPA statute of limitations defense is not jurisdictional” and “is subject
+
+to equitable tolling in appropriate cases.” Holland v. Florida, 560 U.S. 631, 645 (2010)
+
+(internal quotations omitted). “To obtain tolling . . . a petitioner bears a substantial burden
+
+to establish . . . that he exercised reasonable diligence in trying to preserve his rights but
+
+was prevented from timely filing by extraordinary circumstances.” Dominguez v. Duval,
+
+527 F. App’x 38, 40 (1st Cir. 2013); see also Trapp v. Spencer, 479 F.3d 53, 61 (1st Cir.
+
+2007) (discussing illustrative cases). “The diligence prong covers those affairs within the
+
+petitioner’s control, while the extraordinary-circumstances prong covers matters outside
+
+
+
+
+                                               4
+Case 2:13-cr-00193-GZS Document 504 Filed 03/18/21 Page 5 of 6                             PageID #: 2934
+
+
+
+
+his control.” Blue v. Medeiros, 913 F.3d 1, 8 (1st Cir. 2019). Petitioner does not allege
+
+any circumstances warranting equitable tolling.2
+
+        In sum, because Petitioner did not file the § 2255 motion within the applicable
+
+limitation period, and because equitable tolling does not apply, dismissal is warranted.3
+
+                                              CONCLUSION
+
+        Based on the foregoing analysis, I recommend that the Court dismiss Petitioner’s
+
+motion for habeas relief under 28 U.S.C. § 2255. I further recommend that the Court deny
+
+
+2
+  To the extent Petitioner were to contend the COVID-19 pandemic is cause for equitable tolling, “the
+COVID-19 pandemic does not automatically warrant equitable tolling for any petitioner who seeks it on
+that basis. The petitioner must establish that he was pursuing his rights diligently and that the COVID-19
+pandemic specifically prevented him from filing his motion.” United States v. Henry, No. 2:17-cr-00180,
+2020 WL 7332657, at *4 (W.D. Pa. Dec. 14, 2020) (emphasis in original). The record lacks any evidence
+that would support an equitable tolling finding.
+3
+  Petitioner challenges two enhancements that were applied to calculate his guideline sentencing range, a
+career offender enhancement based on his prior convictions and a firearms enhancement. Even if the
+motion was filed timely, Petitioner would not be entitled to relief on those claims because: (1) he
+procedurally defaulted his claims by failing to raise them before the district court or on appeal and has not
+established cause to excuse the defaults or prejudice, see Berthoff v. United States, 308 F.3d 124, 127–28
+(1st Cir. 2002); (2) non-constitutional claims of legal error, such as misapplications of advisory sentencing
+guidelines, are noncognizable on postconviction review unless the error was so serious that it “amount[s]
+to a fundamental defect which inherently results in a complete miscarriage of justice,” which Petitioner
+cannot establish, see Mateo v. United States, 398 F.3d 126, 136 (1st Cir. 2005) (quotation omitted); and (3)
+Petitioner has not shown that the Court made any error in applying the guideline enhancements.
+
+The Government also acknowledges that Petitioner’s filings could arguably be construed to challenge the
+ten-year statutory mandatory minimum because Petitioner’s prior conviction that was included in the § 851
+information no longer qualifies as a predicate offense following the enactment of the First Step Act of 2018.
+(Response at 11 n.5.) The Government asserts that the ten-year statutory mandatory minimum was proper
+at the 2019 resentencing because the statutory changes do not apply to anyone who was sentenced before
+the First Step Act was enacted, even if the pre-enactment sentence was later vacated. While the First Step
+Act changes do not provide a basis to challenge a pre-enactment sentence, even when a direct appeal from
+that sentence was still pending at the time of enactment, United States v. Cruz-Rivera, 954 F.3d 410, 413
+(1st Cir. 2020), it appears to be an open legal question whether the relevant new provisions of the First Step
+Act apply at resentencing following a post-enactment vacatur on other grounds. See United States v.
+Bethea, No. 19-4618, 2021 WL 219201, at *3 n.6, *4–7 (4th Cir. Jan. 21, 2021) (summarizing circuit split
+and noting that several circuit courts acknowledge the open question); United States v. Crowe, No. CR 11-
+20481, 2019 WL 7906591, at *3–4 (E.D. Mich. Aug. 28, 2019) (applying new First Step Act provisions
+following post-enactment vacatur). Regardless of the ultimate resolution of that question, however, on this
+record, the Government’s assertion of the statute of limitations is determinative.
+
+                                                      5
+Case 2:13-cr-00193-GZS Document 504 Filed 03/18/21 Page 6 of 6                 PageID #: 2935
+
+
+
+
+a certificate of appealability pursuant to Rule 11 of the Rules Governing Section 2255
+
+Cases because there is no substantial showing of the denial of a constitutional right within
+
+the meaning of 28 U.S.C. § 2253(c)(2).
+
+                                          NOTICE
+
+              A party may file objections to those specified portions of a magistrate
+       judge’s report or proposed findings or recommended decisions entered
+       pursuant to 28 U.S.C. § 636(b)(1)(B) for which de novo review by the district
+       court is sought, together with a supporting memorandum, within fourteen
+       (14) days of being served with a copy thereof. A responsive memorandum
+       shall be filed within fourteen (14) days after the filing of the objection.
+
+              Failure to file a timely objection shall constitute a waiver of the right
+       to de novo review by the district court and to appeal the district court’s order.
+
+
+                                                   /s/ John C. Nivison
+                                                   U.S. Magistrate Judge
+
+Dated this 18th day of March, 2021.
+
+
+
+
+                                              6
+

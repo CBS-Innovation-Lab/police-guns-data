@@ -1,0 +1,188 @@
+                           UNITED STATES DISTRICT COURT
+                            DISTRICT OF MASSACHUSETTS
+
+                              CRIMINAL NO. 12-10196-GAO
+
+                              UNITED STATES OF AMERICA
+
+                                              v.
+
+ PHILLIP ASARO, PHILLIP R. CONSOLO, STEVEN J. CAMERON, MICHAEL NAPIER,
+ SALVATORE RUSSO, DEREK DURBANO, JOSEPH BRENNAN, RICHARD MORETTO,
+ CALOGERO R. LOGRASSO, NICHOLAS GREGORY, JR., NICHOLAS GREGORY, SR.,
+                           and BASSAM ALSHARFA,
+                                  Defendants.
+
+
+                                  OPINION AND ORDER
+                                      June 20, 2014
+
+O’TOOLE, D.J.
+
+       This is a drug conspiracy case involving twelve defendants. The investigation leading up
+
+to the indictment in this case involved the issuance of several wiretap orders between October
+
+2011 and April 2012, under Title III of the Omnibus Crime Control and Safe Streets Act of 1968
+
+(“Title III”), 18 U.S.C. § 2510 et seq. The initial wiretap order, issued October 5, 2011,
+
+authorized the wiretap of Target Telephone #1 used by defendant Asaro. The second order,
+
+issued November 4, 2011, authorized the wiretaps of Target Telephone #2 used by an unindicted
+
+co-conspirator and Target Telephone #3 used by defendant Nicholas Gregory, Jr.
+
+       Gregory, Jr. moves to suppress telephone communications intercepted pursuant to the
+
+November 2011 wiretap order, and any derivative evidence. Defendant Joseph Brennan
+
+separately moves to suppress calls intercepted from all wiretaps conducted in the case and any
+
+derivative evidence.
+I.     Legal Framework
+
+       Under Title III, the issuing judge must find that a wiretap application demonstrates
+
+“probable cause for belief that an individual is committing, has committed, or is about to
+
+commit” a criminal offense; that “there is probable cause for belief that particular
+
+communications concerning that offense will be obtained through such interception”; and that
+
+“normal investigative procedures have been tried and have failed or reasonably appear to be
+
+unlikely to succeed if tried or to be too dangerous.” 18 U.S.C. § 2518(3)(a)-(c).
+
+       On a motion to suppress, the Court must evaluate whether “the facts set forth in the
+
+application were minimally adequate to support the determination” that a wiretap was necessary.
+
+United States v. Nelson-Rodriguez, 319 F.3d 12, 32 (1st Cir. 2003) (quoting United States v.
+
+Scibelli, 549 F.2d 222, 226 (1st Cir. 1977)).
+
+II.    Gregory, Jr.’s Motion to Suppress
+
+       Gregory, Jr. contends that the November 2011 wiretap order authorizing interception of
+
+his telephone was improperly issued because there was an insufficient showing of probable
+
+cause. He has withdrawn his additional argument that the affidavit failed to show necessity
+
+because it did not include all known investigative facts, as the same argument was rejected in
+
+United States v. Yeje-Cabrera, 430 F.3d 1, 7 (1st Cir. 2005) (“The requirement of a full and
+
+complete statement cannot possibly mean that every single detail, even if relevant to the wiretap,
+
+must be included.”).
+
+       The November 2011 affidavit incorporated by reference an October 2011 affidavit
+
+submitted in support of an application to intercept a phone used by co-defendant Asaro. The
+
+judge who authorized electronic surveillance of Asaro’s phone on the basis of the October
+
+affidavit declined to include Gregory, Jr. as a target interceptee, presumably because an
+
+
+
+                                                 2
+insufficient showing had been made of probable cause as to him. The November application
+
+sought authority to intercept Gregory, Jr.’s phone. He argues that what information the
+
+November 2011 affidavit added as to him was still insufficient to amount to probable cause.
+
+       The November affidavit presented information about four intercepted telephone calls
+
+between him and Asaro on the latter’s phone. Gregory, Jr. may fairly argue that his intercepted
+
+calls, when viewed in isolation, were not obviously criminal in nature. However, the affidavit
+
+included ample supplementary evidence to support probable cause. Gregory, Jr.’s pen register
+
+phone records showed frequent communications with several Canadians, in particular Carmelo
+
+Marsala, who was believed to be associated with organized crime and drug trafficking based on
+
+intelligence investigators received from Canadian police and ICE agents stationed in Canada.
+
+The affidavit described Gregory, Jr.’s travel to Montreal on one occasion and his purchase of a
+
+plane ticket for Marsala to come to Boston from Montreal on another. The October affidavit had
+
+described another drug conspiracy operating between Montreal and Boston, and the November
+
+affidavit added that Gregory, Jr. had traveled to and from Montreal on a single day shortly after a
+
+major seizure from two Canadians of what were thought to be drug proceeds. The affidavit
+
+provided facts strongly suggesting the proceeds had been collected from the occupant of a car
+
+registered to Gregory, Jr.’s father, Gregory, Sr.
+
+       The November affidavit also recited that Gregory, Jr. spoke with Asaro about an
+
+anticipated visit from a “cousin” from Montreal. The evidence of Asaro’s drug dealing was
+
+substantial and included visual surveillance of his home. The government’s suspicion was that
+
+the “cousin” expected to visit was a courier for the conspiracy. Gregory, Jr. was also in frequent
+
+contact with other target subjects, particularly Lonano (user of Target Telephone #2).
+
+
+
+
+                                                    3
+       When viewed in its entirety, and in light of all the circumstances, the November affidavit
+
+together with the October affidavit provided a substantial basis to support a fair probability that
+
+evidence of criminal conduct would be discovered by interception communications over
+
+Gregory, Jr.’s phone. His motion is DENIED.
+
+III.   Brennan’s Motion to Suppress
+
+       Brennan challenges all wiretap orders issued in this case, contending that they were all
+
+tainted by the insufficiency of the initial October 2011 order. As an initial matter, the
+
+government asserts, and Brennan does not refute, that Brennan’s voice was only intercepted over
+
+the wiretap on co-defendant Consolo’s phone (Target Telephone #6) authorized by the February
+
+9, 2012 order. Therefore, Brennan lacks standing to challenge the other orders, as he is not an
+
+“aggrieved person” under Title III as to these orders. See United States v. Charles, 1998 WL
+
+204696, at *11 (D. Mass. Jan. 13, 1998) (holding that standing is limited to those “whose voices
+
+were actually intercepted”), aff’d, 213 F.3d 210 (1st Cir. 2000).
+
+       Brennan presents no specific argument that the order permitting electronic surveillance of
+
+Consolo’s telephone, the only one as to which he has standing, was invalid.
+
+       Brennan originally claimed in his motion that the wiretaps were improperly authorized,
+
+but later waived this argument.
+
+       For the reasons set forth, Brennan’s motion is DENIED.
+
+IV.    Conclusion
+
+       Gregory, Jr.’s Motion to Suppress Electronic Surveillance (dkt. no. 147) and Brennan’s
+
+Motion to Suppress Wiretap Evidence (dkt. no. 186) are DENIED.
+
+       It is SO ORDERED.
+
+                                                     /s/ George A. O’Toole, Jr.
+                                                     United States District Judge
+
+                                                 4
+

@@ -1,0 +1,791 @@
+Case 1:08-cr-00019-JAW Document 52 Filed 05/27/08 Page 1 of 15                    PageID #: 168
+
+
+
+                             UNITED STATES DISTRICT COURT
+                                  DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA                     )
+                                             )
+       v.                                    )       CR-08-19-B-W
+                                             )
+RUSSELL E. BOOKER                            )
+
+
+
+                    ORDER ON MOTION TO DISMISS INDICTMENT
+
+       Convicted under Maine‟s generic assault statute, Russell Booker faces an indictment that
+
+charges him with possession of a firearm by a prohibited person.           He seeks to have the
+
+indictment dismissed because the Maine assault statute does not contain the domestic status of
+
+the assault victim as an element of the offense and because the Maine assault statute contains
+
+reckless conduct as a potential mens rea element. The Court denies the Defendant‟s motion on
+
+the first issue, because his argument runs counter to clear First Circuit authority. It denies his
+
+motion on the second issue, because his position runs counter to clear congressional intent.
+
+I.     STATEMENT OF FACTS
+
+       On January 16, 2008, a federal grand jury indicted Russell Booker on two counts for
+
+possessing firearms after having been convicted of a misdemeanor crime of domestic violence, a
+
+violation of 18 U.S.C. § 922(g)(9). Indictment (Docket # 1). The Indictment alleges that Mr.
+
+Booker was convicted on March 4, 1998 in Somerset County Superior Court for the state of
+
+Maine of assault in State v. Booker, No. 98-272 (Me. Dist. Ct., Skowhegan, Mar. 4, 1998).
+
+Count One alleges that Mr. Booker possessed a Remington rifle on November 28, 2007 and
+
+December 13, 2007; Count Two alleges that he possessed two shotguns and a Browning rifle on
+
+December 13, 2007. Id.
+Case 1:08-cr-00019-JAW Document 52 Filed 05/27/08 Page 2 of 15                                 PageID #: 169
+
+
+
+        On February 7, 2008, Mr. Booker moved to dismiss the indictment on the ground that
+
+discovery revealed a failure of proof as to an essential element. 1                  Def.’s Mot. to Dismiss
+
+Indictment as Disc. Indicates a Failure of Proof as to an Essential Element of the Crimes
+
+Charged (Docket # 11) (Def.’s Mot.). The Government responded on February 28, 2008. Resp.
+
+of the United States to Def.’s Mot. to Dismiss Indictment (Docket # 23) (Govt’s Resp.). Mr.
+
+Booker replied on March 10, 2008. Reply to Gov’t Resp. to Dismiss Indictment for Failure of
+
+Proof (Docket # 28) (Def.’s Reply).
+
+II.     DISCUSSION
+
+        A.       Whether the Prior Conviction Can be a Predicate Conviction Even Though
+                 the State Statute Does Not Contain as an Element a Domestic Relationship
+                 Between the Perpetrator and the Victim
+
+        Mr. Booker raises a question that he says has “dogged the Circuit Courts of Appeal and
+
+on which they still are in conflict.” Def.’s Mot. at 2. The “issue is whether the statute under
+
+which a prior conviction was obtained must have, as an element, the domestic relationship
+
+between the victim and the person convicted of the misdemeanor offense.” Id. Until February 1,
+
+2008, the state of Maine did not have in effect a separate statute criminalizing domestic assault.
+
+See 17-A M.R.S.A. § 207; 17-A M.R.S.A. § 207-A (effective February 1, 2008). Thus, when
+
+Mr. Booker was convicted of assault on March 4, 1998, the Maine assault statute did not contain
+
+as an element of proof a domestic relationship between the defendant and the victim.2
+
+        Federal law prohibits the possession of a firearm by a person “who has been convicted in
+
+any court of a misdemeanor crime of domestic violence.” 18 U.S.C. § 922(g)(9). The law
+
+defines a “misdemeanor crime of domestic violence” as a misdemeanor that:
+
+1
+  Mr. Booker also moves to dismiss by reason of entrapment by estoppel; the Government seeks to exclude this
+defense in a separate motion in limine at Docket # 13. The Court will address this issue in a separate Order.
+2
+  The Maine assault statute requires the state to prove that the defendant “intentionally, knowingly or recklessly
+cause[d] bodily injury or offensive physical contact to another person.” 17-A M.R.S.A. § 207(1)(A). A violation of
+this subsection of the statute is a Class D crime, a misdemeanor. Id.
+
+                                                        2
+Case 1:08-cr-00019-JAW Document 52 Filed 05/27/08 Page 3 of 15                      PageID #: 170
+
+
+
+       has, as an element, the use or attempted use of physical force . . . committed by a
+       current or former spouse, parent, or guardian of the victim, by a person with
+       whom the victim shares a child in common, by a person who is cohabiting with or
+       has cohabited with the victim as a spouse, parent, or guardian, or by a person
+       similarly situated to a spouse, parent, or guardian of the victim.
+
+18 U.S.C. § 921(33)(A)(ii). Mr. Booker says that as the Maine statute fails to require proof of a
+
+domestic relationship, a violation of the Maine misdemeanor assault statute does not constitute a
+
+predicate offense for purposes of § 922(g)(9).
+
+       Mr. Booker acknowledges that the law in this Circuit is against him. Def.’s Mot. at 3
+
+(stating “Mr. Booker raises this issue to preserve it should the Supreme Court address this
+
+conflict within the Circuits regarding the interpretation of the relevant statute”). He is right. In
+
+United States v. Meade, the First Circuit addressed this issue and ruled that “only the mode of
+
+aggression, not the relationship between perpetrator and victim, must appear within the formal
+
+definition of an antecedent misdemeanor to constitute it as a predicate offense.” 175 F.3d 215,
+
+218-19 (1st Cir. 1999). As Meade observed, “it is, after all, fair to presume that a misdemeanant
+
+will know his relationship with his victim.” Id. at 222.
+
+       Within the First Circuit, Meade remains good and binding law. See Eulitt v. Maine Dep’t
+
+of Educ., 386 F.3d 344, 349 (1st Cir. 2004) (stating that “[u]ntil a court of appeals revokes a
+
+binding precedent, a district court within the circuit is hard put to ignore that precedent unless it
+
+has unmistakably been cast into disrepute by supervening authority”); Gately v. Mass., 2 F.3d
+
+1221, 1226 (1st Cir. 1993). The rare and narrow circumstances in which a district court should
+
+strike out on its own in the face of First Circuit precedent are not present here. See Eulitt v.
+
+Maine Dep’t of Educ., 307 F. Supp. 2d 158, 161 (D. Me. 2004).
+
+
+
+
+                                                 3
+Case 1:08-cr-00019-JAW Document 52 Filed 05/27/08 Page 4 of 15                       PageID #: 171
+
+
+
+       B.      Mr. Booker’s Prior Conviction and the Definition of a “Misdemeanor Crime
+               of Violence”
+
+               1.      Introduction: Mens Rea under the Maine Assault Statute and the
+                       Definition of “Misdemeanor Crime of Domestic Violence”
+
+       Next, focusing on the mens rea requirements of the Maine assault statute, Mr. Booker
+
+argues that the elements of the Maine statute do not meet the predicate requirements for a
+
+misdemeanor crime of domestic violence because the statute includes assaults that are carried out
+
+“recklessly.” 17-A M.R.S.A. § 207(1)(A). This is a serious and complicated issue. The Maine
+
+assault statute under which Mr. Booker was convicted criminalizes “intentionally, knowingly or
+
+recklessly caus[ing] bodily injury or offensive physical contact to another person.” Id.; State v.
+
+Patterson, 2005 ME 55, ¶ 8, 881 A.2d 649, 651 (stating that “recklessness is the minimum
+
+required mens rea requirement for assault pursuant to 17-A M.R.S.A. § 207(1)(A)”).
+
+       Maine law defines “reckless” as when a person “consciously disregards a risk that the
+
+person‟s conduct will cause such a result” or, as regards attendant circumstances, when the
+
+person “consciously disregards a risk that such circumstances exist.” 17-A M.R.S.A. § 35(3)(A),
+
+(B). The law further states that “the disregard of the risk, when viewed in light of the nature and
+
+purpose of the person‟s conduct and the circumstances known to the person, must involve a gross
+
+deviation from the standard of conduct that a reasonable and prudent person would observe in
+
+the same situation.” Id. § 35(3)(C). As a culpable state of mind, recklessness falls between the
+
+higher standard of “knowingly” (“the person is aware that it is practically certain that the
+
+person‟s conduct will cause such a result”) and “criminal negligence” (“the person fails to be
+
+aware of a risk that the person‟s conduct will cause such a result”). Id. § 35(2), (4).
+
+       Federal criminal law prohibits possession of a firearm by a person who has been
+
+convicted of a misdemeanor crime of domestic violence. 18 U.S.C. § 922(g)(9). The law
+
+
+
+                                                  4
+Case 1:08-cr-00019-JAW Document 52 Filed 05/27/08 Page 5 of 15                      PageID #: 172
+
+
+
+contains three requirements: first, that the crime is a misdemeanor under Federal, State, or Tribal
+
+law; second, that it is a crime of domestic violence which “has, as an element, the use or
+
+attempted use of physical force, or the threatened use of a deadly weapon”; and third, that it is a
+
+crime for which the victim and the perpetrator have a particular relationship. 18 U.S.C. §
+
+921(33).
+
+       Mr. Booker examines the federal definition of “misdemeanor crime of domestic
+
+violence” and extracts the phrase “has, as an element, the use or attempted use of physical
+
+force.” Id. He says that a United States Supreme Court case, Leocal v. Ashcroft, 543 U.S. 1
+
+(2004), stands for the proposition that this language “use or attempted use of physical force”
+
+requires intentional behavior.    Since Mr. Booker may have been merely reckless when he
+
+assaulted his wife, he argues that the state of Maine conviction does not fit the definition of
+
+misdemeanor crime of domestic assault under federal law. Without a predicate offense, he
+
+reasons, the indictment must be dismissed.
+
+               2.      Leocal
+
+       In Leocal, the Supreme Court addressed whether driving under the influence is a crime of
+
+violence. Leocal, 543 U.S. at 3-4. Mr. Leocal, a Haitian citizen and lawful permanent resident
+
+of the United States, had been convicted of driving under the influence and causing serious
+
+bodily injury, a violation of Florida state law. Id. at 3. While he was serving his sentence, the
+
+Immigration and Naturalization Service initiated removal proceedings, claiming that he had
+
+committed an aggravated felony and was deportable. Id. Section 101(a)(43) of title 8 defines an
+
+aggravated felony to include a crime of violence as defined in section 16 of title 18:
+
+           (a) An offense that has as an element the use, attempted use, or threatened
+           use of physical force against the person or property of another, or
+
+
+
+
+                                                 5
+Case 1:08-cr-00019-JAW Document 52 Filed 05/27/08 Page 6 of 15                     PageID #: 173
+
+
+
+           (b) any other offense that is a felony and that, by its nature, involves a
+           substantial risk that physical force against the person or property of another
+           may be used in the course of committing the offense.
+
+18 U.S.C. § 16. Leocal observed:
+
+       While one may, in theory, actively employ something in an accidental manner, it
+       is much less natural to say that a person actively employs physical force against
+       another person by accident. Thus, a person would „use . . . physical force against‟
+       another when pushing him; however, we would not ordinarily say a person „use[s]
+       . . . physical force against‟ another by stumbling and falling into him.
+
+Leocal, 543 U.S. at 9 (emphasis in original). Leocal concluded that “[t]he key phrase in § 16(a)
+
+– the „use . . . of physical force against the person or property of another‟ – most naturally
+
+suggests a higher degree of intent than negligent or merely accidental conduct.” Id.
+
+       In arriving at this conclusion, the Supreme Court noted that it was attempting to
+
+determine the meaning of “crime of violence,” which, under the “ordinary meaning of the term,”
+
+combined with “§ 16‟s emphasis on the use of physical force against another person (or the risk
+
+of having to use such force in committing a crime), suggests a category of violent, active crimes
+
+that cannot be said naturally to include DUI offenses.” Id. at 11. Moreover, stressing a point
+
+that carried “significant weight,” Leocal discussed Congress‟s use of the term “crime of
+
+violence” in the Immigration and Naturalization Act (INA). Id. at 11-12. The INA elsewhere
+
+defined a “serious criminal offense” to include a “crime of violence” and “any crime . . . of
+
+driving under the influence of alcohol . . . if such crime involves personal injury to another.” Id.
+
+at 12 (quoting 8 U.S.C. § 1101(h)). Leocal found that Congress‟s separate listing of the crime of
+
+driving under the influence causing injury to be “revealing.” Id. at 12. Finally, Leocal was
+
+careful to emphasize that it was not presented “with the question whether a state or federal
+
+offense that requires proof of the reckless use of force against a person or property of another
+
+qualifies as a crime of violence under 18 U.S.C. § 16.” Id. at 13.
+
+
+
+                                                 6
+Case 1:08-cr-00019-JAW Document 52 Filed 05/27/08 Page 7 of 15                     PageID #: 174
+
+
+
+                3.     The Taylor Analysis
+
+         In 1990, the United States Supreme Court issued Taylor, which set out a two-tiered
+
+analysis for determining whether a prior conviction fits within the Armed Career Criminal Act
+
+(ACCA). Taylor v. United States, 495 U.S. 575, 595 (1990); see also Shepard v. United States,
+
+544 U.S. 13, 26 (2005) (applying Taylor). The two-step categorical approach requires the court
+
+first to review the statutory elements of the underlying crime and compare them to the elements
+
+of a qualifying crime under the ACCA. United States v. Cadieux, 500 F.3d 37, 42-43 (1st Cir.
+
+2007).    If it does, the “inquiry ends and the prior conviction may be used as an ACCA
+
+predicate.” United States v. Miller, 478 F.3d 48, 50 (1st Cir. 2007). If the “underlying statute
+
+sweeps more broadly and defines [the crime in question] in terms that encompass but exceed the
+
+parameters of the [qualifying] definition, the court must move to the second step of the Taylor
+
+parvane in order to determine if the particular conviction actually embodied every element of a
+
+violent felony.” Id. at 51 (internal punctuation omitted). In doing so, the court must “restrict its
+
+inquiry to documents within the carapace of the record of conviction, such as the charging
+
+documents, the terms of the plea agreement or transcript of the colloquy between judge and
+
+defendant in which the factual basis for the plea was confirmed by the defendant, or some
+
+comparable judicial record of this information.” Id. (internal punctuation and citation omitted).
+
+         To determine if a person has been convicted of a crime of violence within the meaning of
+
+18 U.S.C. § 16, the law requires a similarly categorical approach, looking “only to the fact of
+
+conviction and the statutory definition of the offense, not the person‟s actual conduct.” Oyebanji
+
+v. Gonzales, 418 F.3d 260, 262 (3d Cir. 2005) (Alito, J.); Fernandez-Ruiz v. Gonzales, 466 F.3d
+
+1121, 1124-25 (9th Cir. 2006) (en banc). This same methodology would appear to apply with
+
+
+
+
+                                                 7
+Case 1:08-cr-00019-JAW Document 52 Filed 05/27/08 Page 8 of 15                                       PageID #: 175
+
+
+
+equal force to determine if a person has been convicted of a misdemeanor crime of domestic
+
+violence within the meaning of 18 U.S.C. § 921(33).
+
+                  4.       Leocal and Case Law in Other Circuits
+
+         Mr. Booker seeks to take the next step with Leocal and apply it to the state of Maine
+
+assault statute that uses recklessness as a possible element of the offense. Mr. Booker argues that
+
+“[i]n Leocal, the Supreme Court interpreted this exact same language, albeit as it occurs in 18
+
+U.S.C. § 16 (Crime of Violence) and found that crimes which do not have any intent element, or
+
+which can be committed through negligence, do not meet the definition of „use‟ as provided by
+
+Congress.” 3 Def.’s Mot. at 5.
+
+         Mr. Booker draws support from several circuits that have held that recklessness does not
+
+meet the § 16 requirement discussed in Leocal.4 United States v. Torres-Villalobos, 487 F.3d
+
+607, 616-17 (8th Cir. 2007) (overturning earlier precedent and finding that involuntary
+
+manslaughter, which can be committed “recklessly” does not meet the standard set out in §
+
+16(b)); Fernandez-Ruiz, 466 F.3d at 1130 (holding that “the reckless use of force is „accidental‟
+
+and crimes of recklessness cannot be crimes of violence [under § 16(b)]”); United States v.
+
+Portela, 469 F.3d 496, 499 (6th Cir. 2006) (holding “that a crime requiring only recklessness
+
+does not qualify as a „crime of violence‟ under 18 U.S.C. § 16”); Oyebanji, 418 F.3d 260, 264
+
+3
+  Some courts have found that sections 16(a) and 921(1)(33)(A) are analogous. Hernandez v. United States Att’y
+Gen., 513 F.3d 1336, 1340 (11th Cir. 2008) (stating that 18 U.S.C. § 921(a)(33)(A) contains “essentially the same
+definition of a „crime of violence‟ as in 18 U.S.C. § 16(a)” and applying analysis regarding § 921 to a case
+concerning § 16(a)); U.S. v. Nobriga, 474 F.3d 561, 565 (9th Cir. 2006) (collecting cases and holding that because
+recklessness does not meet the mens rea requirement under § 16 it also does not meet the § 921(a)(33)(A) standard).
+4
+  Some of these cases concerning whether reckless behavior meets the § 16 and Leocal standards consider 18 U.S.C.
+§ 16(b), which states that a “crime of violence” is “any other offense that is a felony and that, by its nature, involves
+a substantial risk that physical force against the person or property of another may be used in the course of
+committing the offense.” 18 U.S.C. § 16(b). Of course, this standard varies dramatically from the § 16(a) standard
+regarding “the use . . . of physical force.” Id. § 16(a). The Supreme Court has enunciated that “[s]ection 16(b)
+sweeps more broadly than § 16(a) . . . but does not thereby encompass all negligent misconduct.” Leocal, 543 U.S.
+at 10. Because 16(b) is broader than 16(a), if a court finds that a reckless crime does not meet the 16(b) standard,
+then it certainly does not meet the 16(a) standard. Thus, since § 16(a) is more restrictive than § 16(b), if a court has
+found that reckless criminal behavior does not meet the § 16(b) standard, that same behavior will also also fail to
+meet the § 16(a) standard.
+
+                                                           8
+Case 1:08-cr-00019-JAW Document 52 Filed 05/27/08 Page 9 of 15                     PageID #: 176
+
+
+
+(stating that the court “[could not] overlook the [Leocal] Court‟s repeated statement that
+
+„accidental‟ conduct (which would seem to include reckless conduct) is not enough to qualify as
+
+a crime of violence”); Bejarano-Urrutia v. Gonzales, 413 F.3d 444, 449 (4th Cir. 2005) (“The
+
+conclusion of the Leocal Court that „[i]n no „ordinary or natural‟ sense can it be said that a
+
+person risks having to „use‟ physical force against another person in the course of operating a
+
+vehicle while intoxicated and causing injury,‟ [543 U.S. at 11], strongly indicates that the result
+
+in Leocal would have been the same even had a violation of the statute there at issue required
+
+recklessness rather than mere negligence.”); Jobson v. Ashcroft, 326 F.3d 367, 373-74 (2nd Cir.
+
+2003) (regarding § 16(b), stating that “an unintentional accident caused by recklessness cannot
+
+properly be said to involve a substantial risk that a defendant will use physical force”). But see
+
+United States v. Zunie, 444 F.3d 1230, 1235 n.2 (10th Cir. 2006) (holding that conviction for
+
+“assault resulting in serious bodily injury under 18 U.S.C. § 113(a)(6)[, which] requires proof
+
+that a person acted with purpose, knowledge, or recklessness,” meets the mens rea standard for §
+
+16(a)).
+
+                 5.     First Circuit Law Before and After Leocal
+
+          In response, the Government contends that the First Circuit has considered a related
+
+question, and found that “offensive physical conduct” under the Maine statute meets the
+
+“physical force” requirement of § 921(g). Govt’s Resp. at 4-5; United States v. Nason, 269 F.3d
+
+10 (1st Cir. 2001); United States v. Nason, No. 00-CR-37-B-S, 2001 U.S. Dist. LEXIS 17680 (D.
+
+Me. Feb. 13, 2001).      Both cases were decided before Leocal.         Mr. Booker counters that
+
+“[a]lthough the Court found that „offensive physical contact‟ was sufficient to satisfy, as a matter
+
+of law, the mode of aggression, nowhere in the opinion does the Court address the level of intent
+
+inherent in the „mode of aggression.‟” Def.’s Reply at 2. The Defendant is correct that Nason
+
+
+
+                                                 9
+Case 1:08-cr-00019-JAW Document 52 Filed 05/27/08 Page 10 of 15                                     PageID #: 177
+
+
+
+does not focus on whether a “reckless” mens rea meets the “use or attempted use of physical
+
+force” requirement, although it does approve of counting a conviction under the Maine law at
+
+issue here as crime of domestic violence under § 921(g). Nason, 269 F.3d at 21. See also United
+
+States v. Duval, 496 F.3d 64, 84 (1st Cir. 2007) (relying on Nason).5
+
+                  6.       Interpreting 28 U.S.C. §§ 921(33) & 922(g)(9), the Maine Assault
+                           Statute, and Leocal
+
+                           a.       Statutory Construction & Leocal
+
+         Statutory analysis “begins with the language of the statute.” Leocal, 543 U.S. at 8. The
+
+language in § 921(33) – “has as an element the use, attempted use, or threatened use of physical
+
+force against the person of another” – is identical to the language of § 16(a) and Leocal teaches
+
+that this language “suggests a higher degree of intent than negligent or merely accidental
+
+conduct.” Id. at 9. Leocal itself provides a constrictive starting point for this analysis. The
+
+Supreme Court in Leocal stated that it had not been presented with “the question whether a state
+
+or federal offense that requires proof of the reckless use of force against a person or property of
+
+another qualifies as a crime of violence under 18 U.S.C. § 16.” Id. at 13. In fact, as Leocal
+
+described it, “[t]he key phrase in § 16(a) – the „use . . . of physical force against the person or
+
+property of another‟ – most naturally suggests a higher degree of intent than negligent or merely
+
+accidental conduct.” Id. at 9. To act recklessly under Maine law is to act with a “higher degree
+
+of intent than negligent or merely accidental conduct.” Id. Therefore, Leocal does not directly
+
+answer the question this motion raises.
+
+         Courts analyzing Leocal also provide some guidance. It is true that in Oyebanji, then-
+
+Judge Alito expressed the prevailing view that Leocal distinguished between intentional and
+
+5
+  After Leocal, the First Circuit ruled that a Rhode Island law defining assault as “an unlawful attempt or offer, with
+force or violence, to do a corporal hurt to another, whether from malice or wantonness,” meets the Supreme Court‟s
+standard. Lopes v. Keisler, 505 F.3d 58, 63 (1st Cir. 2007) (quoting State v. McLaughlin, 621 A.2d 170, 177 (R.I.
+1993)) (emphasis in Lopes).
+
+                                                         10
+Case 1:08-cr-00019-JAW Document 52 Filed 05/27/08 Page 11 of 15                       PageID #: 178
+
+
+
+accidental conduct and that reckless conduct seems accidental. Oyebanji, 418 F.3d at 264. A
+
+countervailing interpretation, set forth in the Fernandez-Ruiz dissent, is that Leocal distinguished
+
+between the “active employment of force” and merely accidental or negligent actions.
+
+Fernandez-Ruiz, 466 F.3d at 1141 (Wardlaw, J., dissenting).            The Fernandez-Ruiz dissent
+
+observed that recklessness occurs when a person “consciously disregards” a risk, which contains
+
+a level of volition above negligent or accidental conduct. Id. In assessing recklessness along the
+
+volitional scale, the dissent in Fernandez-Ruiz concluded that recklessness “lies closer to
+
+intentionality than to negligence.” Id. at 1141-42. Here, the Court concludes that the better
+
+statutory argument rests with the Fernandez-Ruiz dissent.
+
+        In addition, considering the state statute, Maine‟s definition of “recklessly” is identical to
+
+some, but not all, definitions of “recklessly.”        Compare Oyebanji, 418 F.3d at 263 n.4
+
+(considering a New Jersey law similar to the Maine statute); with Fernandez-Ruiz, 466 F.3d at
+
+1130 (noting that that the Arizona definition of reckless includes not only consciously
+
+disregarding a substantial and known risk, but also being unaware of such risk solely by reason
+
+of voluntary intoxication); Bejarano-Urrutia, 413 F.3d at 449 (noting that the Virginia definition
+
+of voluntary manslaughter requires proof that the defendant engaged in “acts of commission or
+
+omission of a wanton or willful nature, showing a reckless or indifferent disregard for the rights
+
+of others, under circumstances reasonably calculated to produce injury, or which make it not
+
+improbable that injury will be occasioned, and the offender knows, or is charged with knowledge
+
+of, the probable result of his acts”).
+
+        Finally, in the Leocal statutory analysis, the Supreme Court discussed a separate statutory
+
+provision, which differentiated DUI from crimes of violence, and stated that its separate
+
+treatment carried “significant weight in the particular context of this case.” 543 U.S. at 12 n.9.
+
+
+
+                                                 11
+Case 1:08-cr-00019-JAW Document 52 Filed 05/27/08 Page 12 of 15                   PageID #: 179
+
+
+
+By contrast, here, there is no separate federal statutory provision that suggests Congress has
+
+elsewhere distinguished between a knowing or intentional domestic assault and a reckless one.
+
+See Leocal, 543 U.S. at 11-12. In Maine and elsewhere, there is no such treatment of assault in
+
+the context of domestic violence.
+
+                      b.      Congressional Intent
+
+       To parse the statutory language without regard to its context becomes an academic
+
+exercise, but one with real life consequences. In Leocal, the Supreme Court was influenced by
+
+Congress‟s desire to differentiate between crimes that justify deportation and those that do not;
+
+the Court explained that in limiting the category of deportable crimes to “crimes of violence,”
+
+Congress did not naturally include driving under the influence. Leocal, 543 U.S. at 11-12.
+
+       Applying the same analysis, there is a striking contrast between the clarity of the
+
+congressional intent driving the deportation statute in Leocal and the firearm possession
+
+restrictions for those who commit acts of domestic violence. Unlike the questionable proposition
+
+that Congress intended to capture DUI as a crime of violence under § 16, there can be no mistake
+
+about the congressional determination to keep firearms from those who commit domestic
+
+assaults. There is no evidence that Congress intended to keep firearms out of the hands of only
+
+those individuals who intentionally or knowingly assault their domestic partners, but not those
+
+who recklessly do so. See United States v. Hartsock, 347 F.3d 1, 4-5 (1st Cir. 2003) (stating that
+
+the purpose of § 922(g)(9) was to “remedy the disparate treatment between those convicted of a
+
+felony involving domestic assault and those convicted of a misdemeanor involving domestic
+
+assault”) (quoting United States v. Meade, 986 F. Supp. 66, 68 (D. Mass. 1997)). It is one thing
+
+to say that someone who recklessly drives under the influence should not be removed from this
+
+
+
+
+                                               12
+Case 1:08-cr-00019-JAW Document 52 Filed 05/27/08 Page 13 of 15                                   PageID #: 180
+
+
+
+Country. It is an altogether different matter to say that someone who recklessly assaults a
+
+domestic partner may possess a gun.
+
+        The legislative history is crystal clear. Section 922(g)(9) is also known as the Lautenberg
+
+Amendment to the Gun Control Act of 1968, which passed in 1996 as part of the Omnibus
+
+Consolidated Appropriations Act of 1997. Id. at 4. Congress “established with the Lautenberg
+
+Amendment a policy of „zero tolerance when it comes to guns and domestic violence.‟” Id. at 5
+
+(quoting statement of Sen. Lautenberg, 142 Cong. Rec. S8831 (daily ed. July 25, 1996)). As the
+
+First Circuit noted:
+
+        Observing that “nearly 65 percent of all murder victims known to have been
+        killed by intimates were shot to death,” 142 Cong. Rec. S10379 (daily ed. Sept.
+        12, 1996) (statement of Sen. Murray), Congress hoped that closing this loophole
+        would help to reduce the 150,000 instances of household violence involving
+        firearms that are reported each year. 142 Cong. Rec. S8831 (daily ed. July 25,
+        1996) (statement of Sen. Lautenberg).
+
+Id.
+
+        The practical implications of the Defendant‟s position on federal firearms possession law
+
+in the state of Maine are profound and disturbing. Unrelated branches of judicial decision-
+
+making, including Taylor and Leocal, combine to cast doubt on the continued viability of nearly
+
+every state of Maine assault conviction as a predicate for the federal crime of possession by a
+
+prohibited person.6        This is true because Taylor limits what the court may consider in
+
+determining whether a particular conviction is an appropriate predicate. If the Maine statute is
+
+deemed broader than the federal predicate statute, courts will be required to turn to whatever
+
+Taylor documents are available within the Maine state court system to attempt to demonstrate
+
+whether the defendant acted knowingly, intentionally, or recklessly when the assault occurred. It
+
+6
+  The new Maine domestic violence assault statute would not be immune from attack under Leocal. The newly-
+effective Maine statute addresses the question of whether the assault was a domestic assault, but it imports § 207‟s
+mens rea requirements, including recklessly, into its provisions. 17-A M.R.S.A. § 207-A(1) (“A person is guilty of
+domestic violence assault if [t]he person violates section 207 . . . .”) (internal subheading omitted).
+
+                                                        13
+Case 1:08-cr-00019-JAW Document 52 Filed 05/27/08 Page 14 of 15                     PageID #: 181
+
+
+
+is questionable whether in the busy Maine district court system, where domestic assaults are
+
+commonly resolved, Taylor documents even exist, especially since the distinction among the
+
+degrees of culpability that may be so critical for federal purposes is of no moment for state
+
+purposes.
+
+       Currently, in § 922(g)(9) trials involving prior convictions under a generic assault statute,
+
+the prosecutor typically offers proof – usually the testimony of the victim – that the assault was
+
+in fact a domestic assault.    However, here, even if the evidence were irrefutable that the
+
+defendant committed a knowing and intentional domestic assault, this evidence would not be
+
+admissible under Taylor constraints, and an absence of the particular type of proof that Taylor
+
+requires would mean that the state assault conviction could not serve as a predicate conviction,
+
+thus voiding the federal firearms charge. This result would cast a long legal shadow over federal
+
+firearm possession prosecutions based on convictions under the Maine assault statute. The
+
+ultimate impact could be that, despite manifest evidence of congressional intent to the contrary,
+
+countless individuals, many of whom in fact committed knowing and intentional domestic
+
+assaults and are precisely the people Congress intended to prohibit from gun possession, would
+
+be immune from federal firearms prosecution. Since the instances where Taylor proof would be
+
+available would be rare, prosecutions even of clear violations of federal firearms possession law
+
+in domestic assault cases would become the exception, not the rule, and the repercussions of
+
+such a decision would fall hard upon the victims of domestic violence.
+
+       This sea change in federal criminal law would be the inescapable consequence of the
+
+rigorous application of statutory construction without a scintilla of evidence that such a result
+
+would be consistent with congressional intent, without any congressional action to amend a
+
+statute that has resulted in countless prosecutions, convictions, sentences, and appeals, and in the
+
+
+
+                                                14
+Case 1:08-cr-00019-JAW Document 52 Filed 05/27/08 Page 15 of 15                   PageID #: 182
+
+
+
+face of consistent and well-documented expressions of a congressional directive to take guns
+
+from the hands of people who commit domestic assaults.
+
+       Finally, to the extent the First Circuit has spoken on this issue, it has consistently held
+
+that a conviction under a generic state assault statute, where the Government has proven that the
+
+assault was committed against one of the individuals listed in § 921(33) qualifies as a predicate
+
+offense for a violation of § 922(g)(9). This was the First Circuit‟s position before Leocal.
+
+Nason, 269 F.3d at 21; United States v. Denis, 297 F.3d 25, 31 n.3 (1st Cir. 2002). It has
+
+remained the First Circuit‟s position since Leocal. Duval, 469 F.3d at 84-85; Lopes, 505 F.3d at
+
+63 (addressing a Leocal challenge to the Rhode Island assault statute). Unless and until directed
+
+otherwise, the Court will continue to apply First Circuit precedent. Eulitt, 307 F. Supp. 2d at
+
+161.
+
+III.   CONCLUSION
+
+       The Court DENIES Mr. Booker‟s Motion to Dismiss Indictment as Discovery Indicates a
+
+Failure of Proof as to an Essential Element of the Crimes Charged (Docket # 11) but reserves
+
+ruling on the entrapment by estoppel defense.
+
+       SO ORDERED.
+
+
+
+                                            /s/ John A. Woodcock, Jr.
+                                            JOHN A. WOODCOCK, JR.
+                                            UNITED STATES DISTRICT JUDGE
+
+
+Dated this 27th day of May, 2008
+
+
+
+
+                                                15
+

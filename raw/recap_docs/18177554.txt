@@ -1,0 +1,705 @@
+Case 1:11-cr-00205-JAW Document 905 Filed 09/30/16 Page 1 of 14                     PageID #: 4344
+
+
+
+                              UNITED STATES DISTRICT COURT
+                                   DISTRICT OF MAINE
+
+ MANUEL TRINIDAD-ACOSTA,                       )
+                                               )
+                Petitioner,                    )
+                                               )
+        v.                                     )      No. 1:11-cr-00205-JAW-1
+                                               )      No. 1:15-cv-00366-JAW
+                                               )
+ UNITED STATES OF AMERICA,                     )
+                                               )
+                Respondent                     )
+
+
+                     RECOMMENDED DECISION ON PETITIONER’S
+                        MOTION PURSUANT TO 28 U.S.C. § 2255
+
+        In this action, Petitioner Manuel Trinidad-Acosta moves, pursuant to 28 U.S.C. § 2255, to
+
+ vacate, set aside or correct his sentence. (Motion, ECF No. 880.) Following a jury trial, Petitioner
+
+ was convicted of conspiracy to possess with intent to distribute cocaine and 28 grams or more of
+
+ cocaine base, pursuant to 21 U.S.C. §§ 841(a)(1), 841(b)(1)(B); and of possession of a firearm in
+
+ furtherance of a drug trafficking crime, pursuant to 18 U.S.C. § 924(c)(1)(A)(i). (Judgment, ECF
+
+ No. 489 at 1-2.) The Court sentenced him to 180 months in prison on the possession charge and
+
+ to 60 months on the firearm charge, with the sentences to be served consecutively, followed by
+
+ four years of supervised release on each count, to be served concurrently. (Judgment at 1-2.) The
+
+ First Circuit upheld the sentence on appeal. United States v. Trinidad-Acosta, 773 F.3d 298 (1st
+
+ Cir. 2014), cert. denied sub nom. Cogswell v. United States, 135 S. Ct. 1867 (2015).
+
+        Petitioner’s section 2255 motion was filed timely. (Motion at 1.) Petitioner asserts four
+
+ grounds for relief. First, he contends that he was denied due process and that he received
+
+ ineffective assistance of counsel regarding counsel’s alleged failure to investigate and impeach at
+
+ trial perjured testimony that allegedly affected the drug amount attributed to Petitioner.
+Case 1:11-cr-00205-JAW Document 905 Filed 09/30/16 Page 2 of 14                     PageID #: 4345
+
+
+
+ (Attachment to Motion, ECF No. 880-1 at 4-5.) Second, Petitioner contends he was penalized, in
+
+ violation of his Sixth Amendment rights, because he went to trial rather than plead guilty. (Id. at
+
+ 5.) Third, Petitioner contends that counsel provided ineffective assistance at sentencing because
+
+ counsel failed to argue for a downward departure on the basis that Petitioner is a deportable alien.
+
+ (Id. at 7.) Fourth, Petitioner contends that there was insufficient evidence to support the firearm
+
+ conviction. (Id. at 8.)
+
+         The Government has moved for summary dismissal. (Response, ECF No. 887.)
+
+         Following a review of Petitioner’s motion and the Government’s request for dismissal, I
+
+ recommend the Court grant the Government’s request, and dismiss Petitioner’s motion.
+
+                   I.      FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+         In November 2011, Petitioner and three others were indicted for conspiring to distribute
+
+ and to possess with intent to distribute cocaine and cocaine base between September 2010 and
+
+ approximately November 3, 2011 (Count 1). Petitioner was also indicted for possession of a 9mm
+
+ pistol in furtherance of the drug trafficking crime alleged in Count 1. (Indictment, ECF No. 40.)
+
+         Petitioner’s first counsel was appointed in December 2011, Petitioner was arraigned, and
+
+ he pled not guilty. (Minute Entry, ECF No. 65.) In January 2012, the Government filed a
+
+ superseding indictment, which named additional co-defendants on the conspiracy charge and
+
+ added counts against defendants other than Petitioner. (Superseding Indictment, ECF No. 81 at 1-
+
+ 3.) In February 2012, Petitioner filed a motion to appoint new counsel; the Court granted the
+
+ motion, and Petitioner’s second appointed counsel represented him through the January 2013 trial
+
+ and the notice of appeal. (Motion, ECF No. 151; Order, ECF No. 156; Notice of Appeal, ECF No.
+
+ 499.)
+
+
+
+
+                                                  2
+Case 1:11-cr-00205-JAW Document 905 Filed 09/30/16 Page 3 of 14                                    PageID #: 4346
+
+
+
+          At Petitioner’s sentencing hearing in June 2013, the Court made the following sentencing
+
+ guidelines calculations: The Court held Petitioner accountable for 4.9 kilograms of cocaine base,
+
+ which resulted in a base offense level of 36. (Sentencing Tr., ECF No. 597 at 48.) A two-level
+
+ increase was added, pursuant to U.S.S.G. § 2D1.1(b)(12), because Petitioner maintained a
+
+ premises to facilitate the distribution of a controlled substance. (Id.) Petitioner’s criminal history
+
+ category was I, which, combined with a total offense level of 38, yielded a sentencing guideline
+
+ range of 235 to 293 months. (Id.) The Court noted that, pursuant to U.S.S.G. § 2K2.4, Comment
+
+ 2(A), the 60-month prison term on the firearm charge runs consecutively to the sentence imposed
+
+ on the conspiracy charge, and, therefore, the applicable guideline range was 295 to 353 months.
+
+ (Id.)
+
+          The Court then considered each of the factors set forth in 18 U.S.C. § 3553(a), focusing on
+
+ “[Petitioner’s] past, his age, his roles in the conspiracy, and the need for punishment.”
+
+ Trinidad-Acosta, 773 F.3d at 310. (Sentencing Tr. at 49-55.) The Court imposed a 240-month
+
+ total sentence, which was 55 months below the low end of the guidelines range. (Sentencing Tr.
+
+ at 56.) The Court’s reason for the downward departure was that the guidelines range for the total
+
+ sentence was “too harsh.” (Id. at 55.)
+
+          On appeal, Petitioner argued two issues: (1) that the Court erred when it denied his motion
+
+ for a mistrial, and (2) that the sentence was unreasonable. Trinidad-Acosta, 773 F.3d at 305-10.
+
+ Petitioner has not raised the mistrial issue in his section 2255 motion.1 On the sentencing issue,
+
+ the First Circuit discussed Petitioner’s burden to demonstrate that the sentence was unreasonable,
+
+
+ 1
+   The motion for a mistrial was based on identification testimony at trial. United States v. Trinidad-Acosta, 773 F.3d
+ 298, 305 (1st Cir. 2014). Defense counsel asked a witness on cross-examination whether she could identify Petitioner
+ more easily than his co-defendant because Petitioner was “the only dark-skinned person in the courtroom.” Id. The
+ witness responded that she could identify Petitioner more easily “because ‘[s]he walk[s] past him every day. [She is]
+ in jail with him.’” Id. The First Circuit held that “[c]onsidering the totality of the circumstances, we conclude that
+ [Petitioner] has not shown that [the witness’s] comment constituted clear prejudice that would render the district
+ court’s denial of his request for a mistrial a manifest abuse of discretion.” Id. at 308.
+
+                                                           3
+Case 1:11-cr-00205-JAW Document 905 Filed 09/30/16 Page 4 of 14                       PageID #: 4347
+
+
+
+ given that it was below the applicable advisory range. Id. at 309. “‘It is a rare below-the-range
+
+ sentence that will prove vulnerable to a defendant’s claim of substantive unreasonableness.’” Id.
+
+ (quoting United States v. Merritt, 755 F.3d 6, 12 (1st Cir. 2014).
+
+        Trinidad has not carried his burden. The district court carefully considered all
+        relevant factors and explained in detail the basis for its conclusion that Trinidad
+        was not a “soldier” or a “low-level peddler,” as he claimed to be. The district court
+        emphasized that Trinidad had three major roles in the conspiracy, consisting of: (1)
+        “watch[ing] the drugs coming in and out and watch[ing] other people with the
+        drugs” (the “Babysitter Role”); (2) actual drug dealing; and (3) depositing the drug
+        proceeds in Cabrera's bank account (the “Depositor Role”). It noted that the
+        Depositor Role was a “pretty significant role” that put him in a different level than
+        simply an “outside soldier.” The district court also noted that Trinidad carried a
+        gun in furtherance of the conspiracy, which also put him in a category different
+        from that of other lower-level conspirators.
+
+        Trinidad tries to minimize his Depositor Role and his carrying of a gun by arguing
+        that he sometimes required help at the bank due to his lack of proficiency in English,
+        that the conspiracy leaders viewed him as dispensable since he was required to go
+        into the open with large sums of money, and that the reason for getting the gun was
+        “opaque.” However, Trinidad's different view about the significance of his roles
+        does not mean that the district court's view was unreasonable.
+
+ Id. at 309–10. The First Circuit affirmed the sentence. Id. at 310.
+
+                                         II.     DISCUSSION
+
+        A. Legal Standards
+
+        A person may move to vacate his or her sentence on one of four different grounds: (1) “that
+
+ the sentence was imposed in violation of the Constitution or laws of the United States”; (2) “that
+
+ the court was without jurisdiction” to impose its sentence; (3) “that the sentence was in excess of
+
+ the maximum authorized by law”; or (4) that the sentence “is otherwise subject to collateral
+
+ attack.” 28 U.S.C. § 2255(a); see Knight v. United States, 37 F.3d 769, 772 (1st Cir. 1994).
+
+        A section 2255 petitioner has the burden to establish by a preponderance of the evidence
+
+ that he or she is entitled to section 2255 relief. David v. United States, 134 F.3d 470, 474 (1st Cir.
+
+ 1998); United States v. DiCarlo, 575 F.2d 952, 954 (1st Cir. 1978). When “a petition for federal
+
+
+                                                   4
+Case 1:11-cr-00205-JAW Document 905 Filed 09/30/16 Page 5 of 14                        PageID #: 4348
+
+
+
+ habeas relief is presented to the judge who presided at the petitioner’s trial, the judge is at liberty
+
+ to employ the knowledge gleaned during previous proceedings and make findings based thereon
+
+ without convening an additional hearing.” United States v. McGill, 11 F.3d 223, 225 (1st Cir.
+
+ 1993).
+
+          A collateral challenge is not a substitute for an appeal. United States v. Frady, 456 U.S.
+
+ 152, 165 (1982); Berthoff v. United States, 308 F.3d 124, 127 (1st Cir. 2002). “Accordingly, a
+
+ defendant’s failure to raise a claim in a timely manner at trial or on appeal constitutes a procedural
+
+ default that bars collateral review, unless the defendant can demonstrate cause for the failure and
+
+ prejudice or actual innocence.” Berthoff, 308 F.3d at 127-28. Procedural default is an affirmative
+
+ defense. Sotirion v. United States, 617 F.3d 27, 32 (1st Cir. 2010). The First Circuit has
+
+ recognized that “federal courts have the authority to consider procedural default sua sponte.”
+
+ Rosenthal v. O'Brien, 713 F.3d 676, 683 (1st Cir. 2013) (citing, inter alia, Brewer v. Marshall,
+
+ 119 F.3d 993, 999 (1st Cir. 1997)); see also Daniels v. United States, 532 U.S. 374, 382-83 (2001)
+
+ (recognizing that “procedural default rules developed in the habeas corpus context apply in § 2255
+
+ cases”) (citing Frady, 456 U.S. at 167-68).
+
+          An allegation of ineffective assistance of counsel can excuse a procedural default, but only
+
+ if the petitioner demonstrates both that counsel’s representation fell below an objective standard
+
+ of reasonableness and that counsel’s deficient performance prejudiced the petitioner’s defense.
+
+ Turner v. United States, 699 F.3d 578, 584 (1st Cir. 2012) (citing Strickland v. Washington,
+
+ 466 U.S. 668, 688 (1984)); Owens v. United States, 483 F.3d 48, 63 (1st Cir. 2007). A district
+
+ court reviewing a claim of ineffective assistance of counsel need not address both prongs of the
+
+ test because a failure to meet either prong will undermine the claim. Strickland, 466 U.S. at 697.
+
+ If a petitioner’s “claims fail on the merits, his related claims that counsel rendered ineffective
+
+
+
+                                                   5
+Case 1:11-cr-00205-JAW Document 905 Filed 09/30/16 Page 6 of 14                       PageID #: 4349
+
+
+
+ assistance in failing to press the claims at trial or on appeal must also fail.” Tse v. United States,
+
+ 290 F.3d 462, 465 (1st Cir. 2002).
+
+         “Evidentiary hearings on § 2255 petitions are the exception, not the norm, and there is a
+
+ heavy burden on the petitioner to demonstrate that an evidentiary hearing is warranted. An
+
+ evidentiary hearing ‘is not necessary when a [§] 2255 petition (1) is inadequate on its face, or (2)
+
+ although facially adequate, is conclusively refuted as to the alleged facts by the files and records
+
+ of the case.’” Moreno-Morales v. United States, 334 F.3d 140, 145 (1st Cir. 2003) (citation
+
+ omitted) (quoting DiCarlo, 575 F.2d at 954 (quotation marks omitted)). In determining whether
+
+ an evidentiary hearing is required, the court must “take as true the sworn allegations of fact set
+
+ forth in the petition ‘unless those allegations are merely conclusory, contradicted by the record, or
+
+ inherently incredible.’” Owens, 483 F.3d at 57 (quoting Ellis v. United States, 313 F.3d 636, 641
+
+ (1st Cir. 2002)). Summary dismissal of a motion is permitted when the allegations are “‘vague,
+
+ conclusory, or palpably incredible,’” even “‘if the record does not conclusively and expressly belie
+
+ [the] claim.’” David, 134 F.3d at 478 (quoting Machibroda v. United States, 368 U.S. 487, 495
+
+ (1962)). The Court can reasonably require a petitioner to supply the Court with salient details of
+
+ the claim prior to permitting discovery or a hearing. Id. (holding that “the district court did not
+
+ abuse its discretion in refusing to license a fishing expedition”).
+
+         B. Claims and Analysis
+
+               1. Claim that Petitioner was penalized for going to trial (Ground Two)
+
+         Petitioner claims that the Court violated his Sixth Amendment right to a trial because the
+
+ Court imposed a heavier sentence in part because Petitioner went to trial and did not plead guilty.
+
+ (Attachment at 5-6.) Petitioner also includes a related claim of ineffective assistance of counsel.
+
+ (Id. at 6.)
+
+
+
+                                                   6
+Case 1:11-cr-00205-JAW Document 905 Filed 09/30/16 Page 7 of 14                      PageID #: 4350
+
+
+
+        The First Circuit addressed on appeal Petitioner’s argument that the Court penalized him
+
+ for his choice to go to trial. Trinidad-Acosta, 773 F.3d at 310 n.5. The Court held that Petitioner
+
+ waived the issue:
+
+        In the summary of the argument section of his brief, Trinidad briefly alleges that
+        his sentence constitutes a punishment for going to trial, since another co-conspirator
+        whom he asserts was similar in “level” to him received an 84-month sentence.
+        Although Trinidad does not identify the “similar in level co-conspirator,” we must
+        note that many of Trinidad's co-conspirators received downward departures for
+        substantial assistance to the government and that Jacob García, who received an
+        84-month sentence, was one of them. Cooperation with the government is a
+        legitimate basis for a disparity in sentence. United States v. Vázquez–Rivera, 470
+        F.3d 443, 449 (1st Cir. 2006). In any event, Trinidad did not develop this argument
+        in his brief and, therefore, it is waived. See United States v. Martínez, 762 F.3d
+        127, 132 n. 2 (1st Cir. 2014) (“[I]ssues adverted to in a perfunctory manner,
+        unaccompanied by some effort at developed argumentation, are deemed waived.”
+        (alteration in original) (quoting United States v. Zannino, 895 F.2d 1, 17 (1st. Cir.
+        1990))).
+
+ Id. Petitioner may not pursue by collateral action relief the First Circuit denied on appeal. See
+
+ Frady, 456 U.S. at 165. Petitioner, therefore, cannot prevail on his claim that the Court improperly
+
+ imposed the sentence in part as a punishment for his decision to go to trial.
+
+        Petitioner’s ineffective assistance claim (Attachment at 6) also fails. Petitioner included
+
+ with his motion a letter that he alleges counsel sent him regarding counsel’s recollection of the
+
+ plea negotiations. (Id. at 6; Letter, ECF No. 880-3.) The letter reads in relevant part:
+
+        It is my recollection that before we started trial you were given an opportunity by
+        the prosecutor to plead guilty and cooperate against Mr. Cogswell, and if you had
+        done so you would have earned acceptance of responsibility credit and potentially
+        cooperation credit as well. It is my recollection that we did a very rough calculation
+        in the courthouse, and, if you had taken this step, you may have potentially gotten
+        out in 5-7 years. This was the extent of the plea discussions. You refused this
+        course of action and elected to proceed to trial.
+
+ (Letter at 1.) Petitioner also alleges counsel informed him that the Government would offer a plea
+
+ with a recommended sentence of eight to ten years. (Attachment at 6.) The fact that Petitioner
+
+ received a sentence that was longer than it might have been had Petitioner pled guilty does not
+
+
+                                                  7
+Case 1:11-cr-00205-JAW Document 905 Filed 09/30/16 Page 8 of 14                     PageID #: 4351
+
+
+
+ amount to ineffective assistance of counsel, because “[c]ooperation with the government is a
+
+ legitimate basis for a disparity in sentence.” Trinidad-Acosta, 773 F.3d at 310 n.5 (citing Vázquez–
+
+ Rivera, 470 F.3d at 449). In other words, the fact that the plea negotiations were unsuccessful
+
+ because Petitioner chose not to plea and cooperate is not a basis for a successful ineffective
+
+ assistance claim.
+
+            2. Claim regarding perjured testimony (Ground One)
+
+         Petitioner alleges that counsel was ineffective for counsel’s failure adequately to
+
+ investigate and impeach witness Robert Jordan at trial. (Attachment at 4-5.) Petitioner argues
+
+ that he was prejudiced because the witness’s testimony “was crucial regarding the drug amount
+
+ attributed to [P]etitioner.” (Attachment at 4.)
+
+        It is undisputed that the witness gave testimony that was inaccurate; the Government
+
+ represents (1) that it first became aware of the witness’s “lack of candor” when the Probation
+
+ Office issued its second revised presentence investigation report on the witness in April 2014
+
+ (Response at 8.); (2) that the Government sent a letter to counsel for Petitioner in August 2014
+
+ regarding the discrepancies in the witness’s testimony (Id.); and (3) that the witness minimized his
+
+ use of drugs, denied that he had been treated for mental illness when he had been treated briefly,
+
+ exaggerated facts about his employment, misstated facts about his military discharge, and
+
+ exaggerated facts regarding an abduction of the witness during the drug conspiracy. (Id. at 9.)
+
+ The Government notes that Petitioner’s counsel established on cross-examination that the witness
+
+ exaggerated facts regarding the abduction. (Id.; Trial Tr. II at 101-02.)
+
+        At sentencing, the Court found that the witness’s testimony was credible for purposes of
+
+ establishing that Petitioner’s role in the conspiracy started “as late as August 2010.” (Sentencing
+
+ Tr. at 30.) The Court determined the end date of the conspiracy and the drug amount based on
+
+
+
+                                                   8
+Case 1:11-cr-00205-JAW Document 905 Filed 09/30/16 Page 9 of 14                         PageID #: 4352
+
+
+
+ other evidence. (Id. at 30-31.) The Court concluded that from September 2010 through October
+
+ 2011, the drug quantity involved was 4.9 kilograms. (Id. at 31.)
+
+         Petitioner contends that the witness’s testimony about drug amounts prejudiced Petitioner.
+
+ (Reply, ECF No. 888 at 2.) Petitioner also argues that had counsel conducted a more thorough
+
+ investigation, counsel’s cross-examination would have been more effective, and the result would
+
+ have affected the outcome of the trial. (Id.) Petitioner thus essentially argues that Petitioner might
+
+ not have been found guilty at trial, or the Court might not have held him responsible for as great a
+
+ drug amount at sentencing, if counsel had uncovered before trial the inaccuracies that the Probation
+
+ Office later discovered. (Attachment at 4; Reply at 2.)
+
+         Petitioner fails to explain how or why the information would have generated a different
+
+ result at trial. (Id.) Indeed, the inaccuracies in the witness’s testimony related to matters collateral
+
+ to the charges against Petitioner. Similarly, Petitioner has failed to show that prejudice resulted
+
+ from the Court’s reliance on the witness’s testimony at sentencing, because the inaccuracies in the
+
+ witness’s testimony do not relate to the start date of Petitioner’s involvement in the conspiracy.
+
+ Furthermore, to the extent that there may be other corroborating evidence of the date when
+
+ Petitioner’s role in the conspiracy started, the Court may consider that evidence in its determination
+
+ of the issue of prejudice. See McGill, 11 F.3d at 225.
+
+         Plaintiff thus has failed to demonstrate prejudice. Just as importantly, the record lacks any
+
+ evidence of deficient performance by counsel, as there is nothing to suggest information regarding
+
+ the inaccuracies was available to counsel. The fact that the inaccuracies were only discovered by
+
+ the government after Petitioner’s trial and on the second presentence report in connection with the
+
+ witness’s case suggests the information was not known by either party at the time of the trial. In
+
+
+
+
+                                                    9
+Case 1:11-cr-00205-JAW Document 905 Filed 09/30/16 Page 10 of 14                                     PageID #: 4353
+
+
+
+ short, Petitioner has not demonstrated a basis for a finding of substandard performance or
+
+ prejudice.
+
+              3. Claim that the evidence was insufficient (Ground Four)
+
+          Petitioner contends that the evidence of possession of a firearm in furtherance of a drug
+
+ trafficking crime is insufficient. (Attachment at 8.) The claim is procedurally defaulted, as
+
+ Petitioner did not raise it on appeal. Petitioner, therefore, must demonstrate both cause for the
+
+ default and prejudice as a result of the default. See Berthoff, 308 F.3d at 127-28.
+
+          The First Circuit has held:
+
+          For a conviction under § 924(c)(1)(A), “the government must prove that the
+          defendant (1) committed a drug trafficking crime; (2) knowingly possessed a
+          firearm; and (3) possessed the firearm in furtherance of the drug trafficking crime.”
+          United States v. Vázquez–Castro, 640 F.3d 19, 25 (1st Cir. 2011). We have noted
+          an important caveat to the second and third prongs of this analysis: “[u]nder
+          Pinkerton v. United States, [328 U.S. 640] (1946), the defendant does not need to
+          have carried the gun himself to be liable under § 924(c).” United States v.
+          Flecha-Maldonado, 373 F.3d 170, 179 (1st Cir. 2004).
+
+ United States v. Rodríguez, 735 F.3d 1, 7 (1st Cir. 2013).
+
+          A cooperating witness testified at trial that she was addicted to crack cocaine and purchased
+
+ it from Petitioner. (Trial Tr. V, ECF No. 596 at 30, 32.) The witness testified that she purchased
+
+ a Ruger P95 for Petitioner, that she paid for it with money Petitioner and his girlfriend gave her,
+
+ and that she gave the gun to Petitioner on the same day as the purchase; in return, Petitioner gave
+
+ her cocaine. (Trial Tr. II, ECF No. 593 at 3, 17; Trial Tr. V at 36-42.)2 The gun the witness
+
+ purchased was seized in Petitioner’s apartment; it was found in a locked safe that also contained
+
+ crack cocaine. (Trial Tr. IV, ECF No. 595 at 124; Trial Tr. V at 123-25, 151-53.)
+
+
+
+
+ 2
+   The witness at first testified that the gun she purchased for Petitioner was a Taurus pistol, but upon further
+ questioning, she testified that she purchased a Ruger P95 for Petitioner, and she purchased a Taurus pistol for someone
+ else. (Trial Tr. V, ECF No. 596 at 39, 41-42.)
+
+                                                           10
+Case 1:11-cr-00205-JAW Document 905 Filed 09/30/16 Page 11 of 14                       PageID #: 4354
+
+
+
+        The evidence is sufficient to support the finding in this case. The First Circuit has held that
+
+ “‘possession of a firearm to protect drugs or sales proceeds’ is sufficient to establish the nexus
+
+ between the firearm and the drug crime.’” Rodríguez, 735 F.3d at 8 (quoting United States v.
+
+ Marin, 523 F.3d 24, 27 (1st Cir. 2008)). It is reasonable to infer that the gun was there to protect
+
+ the drugs. See Musacchio v. United States, --- U.S. ---, ---, 136 S. Ct. 709, 715 (2016) (noting
+
+ that, on a challenge to the sufficiency of the evidence, the court reviews the evidence “in the light
+
+ most favorable to the prosecution,” and it is “the jury’s role ‘to resolve conflicts in the testimony,
+
+ to weigh the evidence, and to draw reasonable inferences from basic facts to ultimate facts’”)
+
+ (quoting Jackson v. Virginia, 443 U.S. 307, 319 (1979)).
+
+        Because Petitioner’s underlying claim would have failed on the merits, Petitioner cannot
+
+ establish prejudice, and counsel was not ineffective for failure to make a meritless argument. See
+
+ Tse, 290 F.3d at 465.
+
+            4. Claim regarding the sentence (Ground Three)
+
+        Petitioner argues that counsel provided ineffective assistance because counsel failed to
+
+ argue for a greater downward departure based on Petitioner’s status as a deportable alien.
+
+ (Attachment at 7.) He argues that he was prejudiced because, given his status as an alien, it was
+
+ less likely that he would receive at least part of the sentence as home confinement. (Id.)
+
+        Petitioner’s claim is procedurally defaulted because he did not raise it on appeal. Rather,
+
+ Petitioner only argued on appeal that the length of the sentence was unreasonable because
+
+ Petitioner had a low-level role in the conspiracy.        (Petitioner’s Appellate Brief at 25-26.)
+
+ Petitioner, therefore, must demonstrate both cause for the default and prejudice as a result of the
+
+ default. See Berthoff, 308 F.3d at 127-28.
+
+
+
+
+                                                  11
+Case 1:11-cr-00205-JAW Document 905 Filed 09/30/16 Page 12 of 14                        PageID #: 4355
+
+
+
+        In support of his argument on the merits, Petitioner cites 18 U.S.C. § 3624(c), which
+
+ concerns prerelease custody and provides in pertinent part:
+
+        (1)     In general.--The Director of the Bureau of Prisons shall, to the extent
+        practicable, ensure that a prisoner serving a term of imprisonment spends a portion
+        of the final months of that term (not to exceed 12 months), under conditions that
+        will afford that prisoner a reasonable opportunity to adjust to and prepare for the
+        reentry of that prisoner into the community. Such conditions may include a
+        community correctional facility.
+
+        (2)    Home confinement authority.--The authority under this subsection may
+        be used to place a prisoner in home confinement for the shorter of 10 percent of the
+        term of imprisonment of that prisoner or 6 months.
+
+ The First Circuit has addressed, but apparently has not decided, the specific issue whether
+
+ ineligibility for home confinement due to deportable alien status may justify a downward
+
+ departure; in United States v. Bamdele, 141 F.3d 1150 (1st Cir. 1998) (per curiam) (unpublished)
+
+ the Court noted:
+
+          The more interesting issue in the case, which we need not decide on the merits, is
+          appellants’ claim that a downward departure was appropriate because of their status
+          as aliens. 18 U.S.C. § 3624(c) instructs the Bureau of Prisons, “to the extent
+          practicable,” to move prisoners from prisons into transitional detention, like
+          halfway houses, during the last tenth of their sentences. Under Bureau of Prisons
+          policy, this arrangement (we are told) is not available to convicted aliens.
+          Therefore, the appellants reason, district courts should be allowed to reduce by ten
+          percent the length of aliens’ sentences.
+          ...
+          We are satisfied that the district court refused to exercise its discretion to depart,
+          and we reserve for another time the question whether such a departure would ever
+          be permitted.
+ Id. (citations omitted).
+
+        Although the First Circuit has not decided the specific issue, the Court has held that, absent
+
+ extraordinary circumstances, a more lenient sentence may not be granted simply because Petitioner
+
+ will likely be deported after serving the sentence. See United States v. Maldonado, 242 F.3d 1, 4
+
+ (1st Cir. 2001).
+
+
+
+
+                                                   12
+Case 1:11-cr-00205-JAW Document 905 Filed 09/30/16 Page 13 of 14                           PageID #: 4356
+
+
+
+         In short, a deportable alien who commits a crime is still within the “heartland” of
+         the guidelines, absent something more. See United States v. Garay, 235 F.3d 230,
+         233-34 (5th Cir. 2000); United States v. Farouil, 124 F.3d 838, 847 (7th Cir. 1997).
+         If deportability, expense, or some combination of the two justifies a departure, it
+         would have to be based on case-specific findings that made the case unusual. Cf.
+         United States v. Wong, 127 F.3d 725, 728 (8th Cir. 1997). Under Koon v. United
+         States, [518 U.S. 81, 96] (1996), the Sentencing Commission's silence might give
+         the district court latitude in the extraordinary case; but the common facts of a long
+         sentence and likely deportation are not by themselves extraordinary. Accord United
+         States v. Tejeda, 146 F.3d 84, 88 (2d Cir. 1998) (per curiam). And that is all that
+         was present here.
+
+ Id. at 5.
+
+         Petitioner’s situation is not extraordinary; on the contrary, if, as he alleges, he is not eligible
+
+ for home confinement under section 3624(c) due to his status as a deportable alien, his ineligibility
+
+ is usual and routine and does not, in itself, justify a downward departure under Maldonado.
+
+ Because Petitioner’s underlying claim would have failed on the merits, Petitioner cannot establish
+
+ prejudice, and counsel was not ineffective for failure to make a meritless argument. See Tse, 290
+
+ F.3d at 465.
+
+                                          III.    CONCLUSION
+
+         Based on the foregoing analysis, an evidentiary hearing is not warranted under Rule 8 of
+
+ the Rules Governing Section 2255 Cases.            In addition, I recommend that the Court deny
+
+ Petitioner’s motion for habeas relief under 28 U.S.C. § 2255. I further recommend that the Court
+
+ deny a certificate of appealability pursuant to Rule 11 of the Rules Governing Section 2255 Cases
+
+ because there is no substantial showing of the denial of a constitutional right within the meaning
+
+ of 28 U.S.C. § 2253(c)(2).
+
+                                                 NOTICE
+
+                A party may file objections to those specified portions of a magistrate
+         judge’s report or proposed findings or recommended decisions entered pursuant to
+         28 U.S.C. 636(b)(1)(B) for which de novo review by the district court is sought,
+         together with a supporting memorandum, within fourteen (14) days of being served
+
+
+                                                     13
+Case 1:11-cr-00205-JAW Document 905 Filed 09/30/16 Page 14 of 14                      PageID #: 4357
+
+
+
+        with a copy thereof. A responsive memorandum shall be filed within fourteen (14)
+        days after the filing of the objection.
+
+               Failure to file a timely objection shall constitute a waiver of the right to de
+        novo review by the district court and to appeal the district court's order.
+
+                                                      /s/ John C. Nivison
+                                                      U.S. Magistrate Judge
+
+ Dated this 30th day of September, 2016.
+
+
+
+
+                                                 14
+

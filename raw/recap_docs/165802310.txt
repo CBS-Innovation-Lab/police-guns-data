@@ -1,0 +1,727 @@
+Case 2:17-cr-00147-JDL Document 146 Filed 04/05/21 Page 1 of 14           PageID #: 822
+
+
+
+
+                         UNITED STATES DISTRICT COURT
+                              DISTRICT OF MAINE
+
+UNITED STATES OF AMERICA                )
+                                        )
+                                        )
+                    v.                  ) 2:17-cr-00147-JDL-1
+                                        )
+SEAN MULKERN,                           )
+                                        )
+      Defendant.                        )
+
+
+      ORDER ON DEFENDANT’S MOTION FOR RECONSIDERATION
+
+      Defendant Sean Mulkern was charged by indictment on October 18, 2017 with
+
+possession of a controlled substance with intent to distribute in violation of 21
+
+U.S.C.A. § 841(a)(1), (b)(1)(B) (West 2021), possession of a firearm in furtherance of
+
+a drug trafficking crime in violation of 18 U.S.C.A. § 924(c)(1)(A)(i) (West 2021), and
+
+as a felon in possession of a firearm in violation of 18 U.S.C.A. 922(g)(1), 924(a), (e)
+
+(West 2021) (ECF No. 1).      Mulkern sought to suppress all of the evidence and
+
+statements obtained by the police as a result of a stop of his vehicle and search of his
+
+person and vehicle, and all of the evidence obtained thereafter following the issuance
+
+of a search warrant (ECF No. 31, 33). Following a hearing, Mulkern’s motion to
+
+suppress was granted in part and denied in part (ECF No. 82).
+
+      Mulkern conditionally pleaded guilty to the possession with intent to distribute
+
+charge and the felon in possession charge on March 14, 2019, and he is awaiting
+
+sentencing. He now brings the instant motion, urging this Court to reconsider its
+
+previous ruling denying in part his motion to suppress (ECF No. 129). I held a
+Case 2:17-cr-00147-JDL Document 146 Filed 04/05/21 Page 2 of 14         PageID #: 823
+
+
+
+
+hearing on the motion on February 9, 2021. For the reasons that follow, I deny the
+
+motion for reconsideration.
+
+                                I. BACKGROUND
+
+      A full recitation of the facts is available in my Order on Mulkern’s motion to
+
+suppress (ECF No. 82). I summarize the key facts here.
+
+A.    The Timberline Country Store Incident
+
+       On May 24, 2017, two Buxton police officers—Officers Jessica Ramsay and
+
+Warren Day—responded to a dispatch call regarding a reported incident involving
+
+road rage and a threat with a gun at the Timberline Country Store in Buxton. The
+
+911 dispatcher relayed a report that the driver of a white Corvette with red rims had
+
+pulled a gun on a man at the store. The driver was described as a thin male wearing
+
+a white shirt and baseball cap. The dispatcher also provided the Maine motor vehicle
+
+registration number for the Corvette, which had left the scene. The dispatcher
+
+advised, however, that the Maine registration number provided, “2512 VW,” was
+
+assigned to a black Lexus, and not a white Corvette.
+
+      While en route to the store, Officer Day spoke by phone to the individual who
+
+made the 911 call, and was told that a man in a white Corvette had pulled out a gun
+
+and threatened him with it.      At the store, Officer Ramsay viewed the store’s
+
+surveillance video, which showed that following an initial verbal altercation with
+
+three men, the white male driver of the white Corvette—which had red stripes
+
+running the length of the vehicle and red rims—reached for an unidentifiable object
+
+and held it at the center of his chest. The video showed that upon seeing this object,
+
+the behavior of the three men became elevated and they started yelling and pointing.
+
+                                          2
+Case 2:17-cr-00147-JDL Document 146 Filed 04/05/21 Page 3 of 14         PageID #: 824
+
+
+
+
+Due to the quality of the video, however, Officer Ramsay could not confirm that the
+
+object was a gun. Officer Ramsay also spoke to a store employee who had witnessed
+
+the incident. The employee described seeing a skinny man around fifty years of age
+
+operating a white car with two red stripes get into an altercation with three men.
+
+      After the investigation at the store, Office Ramsay issued a “be-on-the-lookout”
+
+bulletin to the statewide police broadcast, which read:
+
+      *** Caution Officer Safety ***
+      On today[’]s date Buxton Police Department took a report of a male in a
+      white Corvette with red rims [who] was in a[n] altercation at Timberline
+      Country Store 222 Narragansett Trail. The operator[,] a male in his 40’s
+      white shirt and ball cap, pulled out a hand gun and showed it to the
+      victim. The vehicle was last seen headed toward Gorham. If located stop
+      and identify the driver.
+      Thank you for any assistance.
+
+B.    The Traffic Stop, Search, and Arrest
+
+      On May 25, 2017, at approximately 2:15 p.m., Sgt. Timothy Morrell of the
+
+Westbrook Police Department, who had read the bulletin, spotted a white Corvette
+
+with red rims in Westbrook. The Corvette matched the description from the Bulletin,
+
+and it bore Maine registration 2513 VW. Sgt. Morrell ran a search of the Corvette’s
+
+registration number in the Bureau of Motor Vehicles (“BMV”) database, which
+
+identified Sean Mulkern as the registered owner. Sgt. Morrell observed that the
+
+driver was a white man in his forties wearing a baseball cap. He then contacted the
+
+Buxton Police Department and spoke with Chief Troy Cline, who confirmed that the
+
+Corvette’s registration was one digit off from the registration number 2512 VW that
+
+had been reported the previous day. This led Sgt. Morrell to believe that the Corvette
+
+was the same vehicle identified in the bulletin.
+
+
+                                          3
+Case 2:17-cr-00147-JDL Document 146 Filed 04/05/21 Page 4 of 14          PageID #: 825
+
+
+
+
+      Sgt. Morrell continued his surveillance of the Corvette, which was now parked
+
+in the driveway of a residence, and he also ran a criminal background check on
+
+Mulkern, which revealed that he was a convicted felon with a history of drug-related
+
+charges.   After observing Mulkern standing outside the Corvette, Sgt. Morrell
+
+positively identified Mulkern based on a photograph of Mulkern in the Bureau of
+
+Motor Vehicles database.
+
+      Sgt. Morrell was joined by two additional Westbrook police officers to assist
+
+with surveillance. After observing Mulkern getting into the Corvette, beginning to
+
+back out of the driveway, and then abruptly changing the direction of his car so as to
+
+travel away from the police officers, Sgt. Morrell intuited that Mulkern had spotted
+
+the police cruiser. At that point, Sgt. Morrell and another officer approached the
+
+Corvette, ordered Mulkern out of the vehicle, and directed him to place his hands on
+
+the rear of the car.
+
+      In an ensuing pat down search, one of the officers felt an object which he
+
+recognized to be a hypodermic needle in Mulkern’s jacket pocket. When the officer
+
+asked if the object was a needle, Mulkern replied “no” and then reached for his pocket.
+
+At that point, the officer placed Mulkern in handcuffs and removed the needle. In
+
+response to further questions, Mulkern stated that the needle was not his and was
+
+unused.
+
+      The officer believed that the needle was drug-related contraband and
+
+continued searching Mulkern. He felt a package of cigarettes in Mulkern’s jacket
+
+pocket, which he removed. The package contained what appeared to be a crystal of
+
+crack cocaine. Mulkern volunteered that “[t]his is mine . . . the needle isn’t.” The
+
+                                           4
+Case 2:17-cr-00147-JDL Document 146 Filed 04/05/21 Page 5 of 14           PageID #: 826
+
+
+
+
+officer then asked Mulkern why he was fidgety, and Mulkern replied that he didn’t
+
+want to get in trouble for a “little piece of crack.”
+
+       The officer then conducted a search of the Corvette, and discovered several
+
+baggies of what appeared to be crack cocaine and a large amount of cash. Mulkern
+
+stated, unprompted, “[t]here you go, you got it right there,” or words to that effect.
+
+An officer then read Mulkern Miranda warnings, and Mulkern was placed in a police
+
+cruiser. A .9mm handgun was also ultimately found in the Corvette.
+
+       During the course of the vehicle search, Officer Ramsay and Officer Day
+
+arrived at the scene to interview Mulkern about the Timberline incident. Officer Day
+
+also read Miranda warnings to Mulkern, who responded that he was not in Buxton
+
+the prior day and was not going to answer any questions.
+
+       Later that day, an agent of the Maine Drug Enforcement Agency obtained a
+
+warrant to search a Winnebago registered to Mulkern. In the Winnebago, agents
+
+found additional drugs, drug paraphernalia, and firearms. The warrant affidavit was
+
+based in part on the evidence and statements obtained during Mulkern’s stop and
+
+arrest on May 25, along with a proffer statement made by an informant eight days
+
+earlier and a statement given by an occupant of the residence where Mulkern was
+
+parked immediately prior to the stop and search.
+
+C.     The Original Motion to Suppress and Order
+
+       In his motion to suppress, Mulkern argued that (1) the traffic stop of his vehicle
+
+was an unreasonable search and seizure under the Fourth Amendment, and all of the
+
+evidence discovered during and as a result of the search must be suppressed; (2) even
+
+if the traffic stop was lawful, the search of his person was not, and all of the evidence
+
+                                             5
+Case 2:17-cr-00147-JDL Document 146 Filed 04/05/21 Page 6 of 14          PageID #: 827
+
+
+
+
+discovered during that search, as well as the evidence discovered pursuant to the
+
+search warrant, must be suppressed; and (3) any statements he made after being
+
+handcuffed and before he was read his Miranda rights must be suppressed because
+
+he was in custody.
+
+      I determined that the stop of Mulkern’s car and the searches that followed were
+
+supported by probable cause to arrest Mulkern for the crime of having been a felon
+
+in possession of a firearm during the Timberline incident on May 24, 2017. I noted
+
+that the collective information available to the police gave them a reasonable basis to
+
+believe that: (1) the operator of the Corvette was in possession of a firearm at the
+
+Timberline on May 24, 2017, (2) Mulkern was that person who had been operating
+
+the Corvette at the Timberline, and (3) Mulkern was a convicted felon. I further noted
+
+that because there was probable cause to arrest Mulkern for being a felon in
+
+possession of a firearm, the officers had sufficient cause to conduct searches of both
+
+Mulkern’s person and his vehicle. I noted that there was no reason under the Fourth
+
+Amendment to suppress Mulkern’s unsolicited statements made in reaction to those
+
+searches, nor was there any reason to invalidate the warrant, which was based on
+
+evidence obtained as a result of those searches. However, I did suppress all of
+
+Mulkern’s non-spontaneous statements made in response to, or prompted by, the
+
+questioning that took place after the crystal of cocaine was found on Mulkern’s body
+
+and before he was read a Miranda warning, as I found that those statements were
+
+obtained in violation of the Fifth Amendment.
+
+      Mulkern now asks that I reconsider my order denying in part his motion to
+
+suppress. He cites what he characterizes as newly discovered evidence in the form of
+
+                                          6
+Case 2:17-cr-00147-JDL Document 146 Filed 04/05/21 Page 7 of 14                       PageID #: 828
+
+
+
+
+a portion of the dashcam video footage of the search of the Corvette—which was
+
+included in the video evidence received and admitted during the suppression
+
+hearing—showing one of the officers removing a license plate reading “6163 PV” from
+
+the trunk area of the vehicle. He also submits several documents associated with his
+
+registration of the Corvette at the Scarborough Branch of the BMV on May 24, 2017, 1
+
+and two records of inquiries made by the Buxton Police Department. One of these
+
+records shows a query by a Buxton Police dispatcher at 2:24 p.m. on May 25, 2017
+
+regarding license plate number 2513 VW which indicates that it belongs to the white
+
+1989 Corvette registered to Mulkern. The other shows a query by Officer Ramsay at
+
+6:37 p.m. on May 25, 2017 regarding license plate number 2512 VW, which indicates
+
+that it belongs to a black 2015 Lexus registered to another individual.                           The
+
+Government does not object to the Court’s receipt and consideration of these
+
+documents, and it has submitted a State of Maine Vehicle Registration document
+
+showing that the 2513 VW license plate was registered to Mulkern as early as
+
+February 24, 2017, as well as a document generated by the Buxton Police
+
+Department’s Court Officer/Crime Analyst on the morning of the hearing which
+
+indicates that the 2513 VW plate was run by Buxton Police on May 24, 2017 at 3:54
+
+p.m.    Mulkern does not object to the Court’s receipt and consideration of the
+
+Government’s additional exhibits.
+
+
+
+ 1 These include a bill of sale for the Corvette dated May 23, 2017; a receipt from the Scarborough
+Branch of the BMV indicating that he paid an $8.00 transfer fee on May 24, 2017 at 4:45 p.m.; a vehicle
+registration document for a white 1989 Corvette with the registration number 2513 VW titled “New-
+Registration Transfer”; correspondence from the BMV dated April 30, 2020 regarding Mulkern’s
+transactions on May 24, 2017; correspondence from the BMV dated July 17, 2020 regarding Mulkern’s
+transactions on May 24, 2017; and a temporary insurance card dated May 24, 2017.
+
+                                                  7
+Case 2:17-cr-00147-JDL Document 146 Filed 04/05/21 Page 8 of 14            PageID #: 829
+
+
+
+
+                               II. LEGAL STANDARD
+
+      “[M]otions for reconsideration in criminal cases are not specifically authorized
+
+either by statute or by rule.” United States v. Ortiz, 741 F.3d 288, 292 n.2 (1st Cir.
+
+2014). However, the First Circuit has applied standards derived from the Federal
+
+Rules of Civil Procedure in analyzing motions for reconsideration submitted in
+
+criminal cases. See United States v. Allen, 573 F.3d 42, 53 (1st Cir. 2009) (considering
+
+a motion for reconsideration of a motion to suppress); see also United States v. Peña-
+
+Fernández, 394 F. Supp. 3d 205, 207 (D.P.R. 2019).
+
+      “[M]otions for reconsideration are appropriate only in a limited number of
+
+circumstances: if the moving party presents newly discovered evidence, if there has
+
+been an intervening change in the law, or if the movant can demonstrate that the
+
+original decision was based on a manifest error of law or was clearly unjust.” Allen,
+
+573 F.3d at 53 (citing Marie v. Allied Home Mortg. Corp., 402 F.3d 1, 7 n.2 (1st Cir.
+
+2005)). “A court will deny a motion for reconsideration based on the ‘new evidence’
+
+exception if that evidence ‘in the exercise of due diligence[] could have been presented
+
+earlier.’” Id. (quoting Emmanuel v. Int'l Bhd. of Teamsters, Local Union No. 25, 426
+
+F.3d 416, 422 (1st Cir. 2005)). Additionally, a showing that the original decision was
+
+clearly unjust is “difficult to achieve” and “requires a definite and firm conviction that
+
+a prior ruling on a material matter is unreasonable or obviously wrong.” Ellis v.
+
+United States, 313 F.3d 636, 648 (1st Cir. 2002).
+
+      “Motions for reconsideration are not to be used as ‘a vehicle for a party to undo
+
+its own procedural failures [or] allow a party to advance arguments that could and
+
+should have been presented to the district court prior to judgment.’” Allen, 573 F.3d
+
+                                            8
+Case 2:17-cr-00147-JDL Document 146 Filed 04/05/21 Page 9 of 14             PageID #: 830
+
+
+
+
+at 53 (alteration in original) (quoting Iverson v. City of Bos., 452 F.3d 94, 104 (1st Cir.
+
+2006)).
+
+                                   III. DISCUSSION
+
+      I address Mulkern’s reconsideration motion by first deciding whether the
+
+evidence submitted is newly discovered, and then considering whether the proffered
+
+evidence leads to factual findings that are different than those set forth in my
+
+December 7, 2018 Order on Mulkern’s Motion to Suppress and that would render that
+
+decision clearly unjust.
+
+A.    Newly Discovered Evidence
+
+      The evidence that Mulkern proffers as “newly discovered” consists of dashcam
+
+footage from the May 25, 2017 search of the Corvette, along with documents related
+
+to Mulkern’s purchase of the Corvette on May 23, 2017 and his registration of the
+
+Corvette on May 24, 2017, and records of two license plate inquiries made by the
+
+Buxton Police Department.
+
+      Mulkern contends that the portion of the dashcam footage beginning at minute
+
+23:14 of the video, which depicts an officer removing a license plate reading “6163
+
+PV” from the area behind the front passenger seat of the Corvette, was so difficult to
+
+discover that “it was as if this evidence did not exist.” ECF No. 129 at 7. He notes
+
+that “discovery of th[e] evidence was no easy task” as it required reviewing multiple
+
+hours’ worth of video footage, and that the 6163 PV license plate was not mentioned
+
+in any police reports or other discovery materials. Id. Accordingly, he contends that
+
+this evidence is “newly discovered.” Id.
+
+
+
+                                            9
+Case 2:17-cr-00147-JDL Document 146 Filed 04/05/21 Page 10 of 14            PageID #: 831
+
+
+
+
+      Mulkern acknowledges that the dashcam video was provided to him by the
+
+Government and that the entire video was admitted as evidence at the hearing on
+
+the motion to suppress. While the few seconds in the video that depict the officer
+
+removing the 6163 PV license plate from the Corvette are no doubt fleeting, the
+
+officer’s actions and the license plate itself are plainly visible. This portion of the
+
+video falls squarely in the category of evidence that, “in the exercise of due diligence[]
+
+could have been presented earlier.” Allen, 573 F.3d at 53. Indeed, the entire video
+
+actually was presented earlier at the hearing on the motion to suppress, although
+
+neither party focused their arguments on the few seconds now at issue. Regardless
+
+of whether the portion of the video depicting the removal of the license plate is
+
+characterized as evidence which was actually presented earlier or evidence which in
+
+the exercise of due diligence could have been presented earlier, the evidence is not
+
+newly discovered.
+
+      The same conclusion applies to the various motor vehicle documents related to
+
+Mulkern’s purchase and registration of the Corvette.           Mulkern notes that the
+
+evidence relating to his registration of the Corvette was not within his “custody and
+
+control” at the time he filed his motion to suppress, and that he had no need to obtain
+
+these documents until he discovered the dashcam video showing the retrieval of the
+
+6163 PV license plate. ECF No. 137 at 3. Again, however, Mulkern presents no
+
+plausible reason why he could not have completed the investigative steps of watching
+
+the dashcam video, discovering the allegedly important footage of the 6163 PV license
+
+plate, and requesting the relevant documents from the BMV prior to the suppression
+
+hearing. Mulkern does not allege any delay or reluctance on the part of the BMV to
+
+                                           10
+Case 2:17-cr-00147-JDL Document 146 Filed 04/05/21 Page 11 of 14        PageID #: 832
+
+
+
+
+furnish the records, and he was clearly aware of their existence since it was his
+
+actions that led to the creation of the documents. Again, this evidence could have
+
+been obtained earlier, and therefore it is not newly discovered.
+
+       As to the records of the two license plate inquiries made by the Buxton Police
+
+Department—which Mulkern filed on the morning of the hearing on the motion for
+
+reconsideration, separately from the motion itself—Mulkern has provided no
+
+explanation as to where or how he obtained these documents. At the hearing on the
+
+motion for reconsideration, the Government contended that these records were
+
+available to Mulkern at the time of the suppression hearing, which Mulkern did not
+
+dispute. Thus, this evidence is also not newly discovered.
+
+B.     If Considered, the Evidence Does Not Affect the Court’s Factual
+       Finding that Mulkern was the Operator of the White Corvette on May
+       24, 2017, and Does Not Render the Order Denying the Motion to
+       Suppress Clearly Unjust
+
+     Mulkern argues that the newly proffered evidence supports his motion to
+
+suppress in three ways: first, by establishing an alibi defense by showing that he was
+
+at the BMV at the time of the Timberline incident, second, by showing that the 2513
+
+VW license plate could not have been on the Corvette at the time of the incident at
+
+the Timberline Country Store, and third, by showing that the police did not know
+
+what license plate belonged to the Corvette involved in the Timberline incident on
+
+May 24, 2017. According to Mulkern, these final two points indicate that the officers
+
+lacked probable cause to arrest Mulkern at the time of the stop on May 25 for having
+
+been a felon in possession of a firearm on May 24. Ultimately, Mulkern appears to
+
+
+
+
+                                          11
+Case 2:17-cr-00147-JDL Document 146 Filed 04/05/21 Page 12 of 14                       PageID #: 833
+
+
+
+
+argue that his newly proffered evidence renders my December 7, 2018 Order on the
+
+Motion to Suppress clearly unjust. His argument is unpersuasive.
+
+       Mulkern correctly notes that the registration documents from the BMV
+
+indicate that he registered the Corvette at the BMV’s Scarborough branch on May
+
+24, 2017 at 4:45 p.m. The correspondence from the BMV further indicates that
+
+Mulkern may have arrived at the BMV at 4:24 p.m. However, Mulkern’s contention
+
+that this was “the very day and time he was allegedly seen driving a Corvette and
+
+getting into an encounter in Buxton” is contrary to the evidence. ECF No. 129 at 6-
+
+7.
+
+       At the suppression hearing, Officer Ramsay testified that she was first alerted
+
+to the incident at the Timberland Country Store at 3:58 p.m., and that the 911 call
+
+initially came in at 3:52 p.m. 2 Citing MapQuest, the Government has posited that
+
+the drive from the Timberline Country Store to the Scarborough Branch of the BMV
+
+takes approximately nineteen minutes. Mulkern did not dispute this contention in
+
+his reply or at the hearing. 3 While Mulkern argues that it is unlikely that the same
+
+individual involved in the Timberline incident could have been at the BMV by 4:24
+
+p.m., in reality more than thirty minutes passed between the 911 call and the time
+
+
+
+
+ 2 In its opposition, the Government notes that Officer Ramsay’s report indicates that she was notified
+
+of the incident at 2:58 p.m. However, at the suppression hearing, Officer Ramsay testified that she
+was actually notified at 3:58 p.m.
+
+ 3 Federal Rule of Evidence 201(a)(2) permits courts to take judicial notice of a fact that “can be
+
+accurately and readily determined from sources whose accuracy cannot reasonably be questioned.”
+See also Rindfleisch v. Gentiva Health Sys., Inc., 752 F. Supp. 2d 246, 259 n.13 (E.D.N.Y.
+2010) (explaining that courts “commonly use internet mapping tools to take judicial notice of distance
+and geography”).
+                                                12
+Case 2:17-cr-00147-JDL Document 146 Filed 04/05/21 Page 13 of 14        PageID #: 834
+
+
+
+
+the BMV estimates that Mulkern arrived to register his vehicle—more than enough
+
+time for Mulkern to drive from the Timberline Country Store to the BMV.
+
+         Mulkern’s contention that the 2513 VW license plate could not have been on
+
+the Corvette at the time of the Timberline incident is no more persuasive. Mulkern
+
+argues in his motion for reconsideration that the documents from the BMV reveal
+
+that he was not driving with the 2513 VW license plate on the Corvette on May 24,
+
+2017. However, as the Government notes, the BMV documents indicate that Mulkern
+
+simply transferred his license plate number at the BMV. In keeping with Maine law,
+
+a person “who transfers the ownership or discontinues the use of a registered motor
+
+vehicle” and who “applies for registration of another motor vehicle” may “use the
+
+same number plates on payment of a transfer fee of $8.” 29-A M.R.S.A. § 502(1) (West
+
+2021).
+
+         Based on the $8.00 fee that Mulkern paid to the BMV and the fact that the
+
+vehicle registration document is titled “New-Registration Transfer,” ECF No. 129-1
+
+at 5, it appears highly likely that Mulkern possessed the 2513 VW license plate prior
+
+to when he registered the Corvette on May 24, 2017. This fact is made even more
+
+certain by the document submitted by the Government at ECF No. 132-1, which
+
+establishes that Mulkern had been assigned the 2513 VW license plate prior to May
+
+24, 2017. The fact that police officers discovered another license plate—6163 PV—in
+
+the Corvette behind the front passenger seat as documented in the dashcam video
+
+does not detract from this finding. In short, Mulkern offers no evidence to indicate
+
+that the 2513 VW license plate was not on the Corvette at the time of the Timberline
+
+incident.
+
+                                         13
+Case 2:17-cr-00147-JDL Document 146 Filed 04/05/21 Page 14 of 14        PageID #: 835
+
+
+
+
+      Finally, Mulkern’s argument that the two license plate queries reveal that the
+
+police did not know what license plate was on the Corvette involved in the Timberline
+
+incident on May 24, 2017 is not consistent with the evidence presented at the
+
+suppression hearing. The first query as to the Corvette on May 25, 2017 at 2:24 p.m.
+
+is entirely consistent with the evidence that the Corvette had been spotted by Sgt.
+
+Morrell roughly ten minutes earlier, and that Sgt. Morrell had contacted the Buxton
+
+Police Department to confirm that the Corvette’s registration was one digit off from
+
+the number that had been reported the prior day. The second query as to the 2512
+
+VW plate which came roughly three hours after Mulkern’s arrest also does not
+
+contradict the factual findings that I made in my December 7, 2018 Order. The police
+
+may have looked up the 2512 VW plate for any number of reasons which are
+
+consistent with my initial factual findings.
+
+      Accordingly, the new evidence proffered by Mulkern, even if admitted, has no
+
+effect on the findings of fact contained in my Order dated December 7, 2018, nor does
+
+it change the outcome of the probable cause analysis. Accordingly, I conclude that
+
+that decision was just and does not merit reconsideration.
+
+                                 IV. CONCLUSION
+
+      For the reasons stated above, Mulkern’s Motion for Reconsideration (ECF No.
+
+129) is DENIED.
+
+      SO ORDERED.
+
+      Dated: April 5, 2021
+
+
+                                                     /s/ JON D. LEVY
+                                                CHIEF U.S. DISTRICT JUDGE
+
+                                          14
+

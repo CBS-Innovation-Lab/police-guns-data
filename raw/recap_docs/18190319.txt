@@ -1,0 +1,390 @@
+Case 1:09-cr-00103-JAW Document 72 Filed 11/14/16 Page 1 of 8                                       PageID #: 288
+
+
+
+                                   UNITED STATES DISTRICT COURT
+                                        DISTRICT OF MAINE
+
+RAYMOND L. ELLIS, JR.,                                 )
+                                                       )
+                  Petitioner,                          )
+                                                       )
+         v.                                            )         1:09-cr-00103-JAW
+                                                       )         1:16-cv-00003-JAW
+                                                       )
+UNITED STATES OF AMERICA,                              )
+                                                       )
+                  Respondent.                          )
+
+
+                  RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+         In this action, Petitioner Raymond L. Ellis, Jr., moves, pursuant to 28 U.S.C. § 2255, to
+
+vacate, set aside or correct his sentence. (Motion, ECF No. 59.) Following a guilty plea, Petitioner
+
+was convicted of theft of firearms from a federal firearms licensee, conspiracy to commit theft,
+
+and possession of firearms as a convicted felon. (Judgment, ECF No. 29 at 1.) The Court
+
+sentenced Petitioner to 120 months in prison. (Id. at 2.) In 2011, the First Circuit upheld the
+
+sentence on appeal. United States v. Ellis, No. 10-1052 (1st Cir. Mar. 17, 2011).
+
+         Petitioner alleges that he signed his section 2255 motion in December 2015, and it was
+
+filed in January 2015. (Motion at 1, 13.) Petitioner argues that the Court erred as a matter of law
+
+when it enhanced his sentence pursuant to U.S.S.G. § 2K2.1(b)(6); he contends that the applicable
+
+guidelines range was 92 to 115 months rather than the 135 to 168 months found by the Court at
+
+sentencing.1 (Motion at 4; Attachment, ECF No. 59-1 at 1-3.) Petitioner also asserts a related
+
+claim of ineffective assistance of counsel. (Motion at 5; Attachment at 4-5.) Petitioner requests
+
+resentencing. (Motion at 13; Attachment at 7.)
+
+
+1
+ U.S.S.G. § 2K2.1(b)(6) states in relevant part: “If the defendant used or possessed any firearm or ammunition in
+connection with another felony offense; or possessed or transferred any firearm or ammunition with knowledge, intent,
+or reason to believe that it would be used or possessed in connection with another felony offense, increase by 4 levels.”
+Case 1:09-cr-00103-JAW Document 72 Filed 11/14/16 Page 2 of 8                     PageID #: 289
+
+
+
+       The Court ordered the Government to respond, and to limit the response to the statute of
+
+limitations issue. (Order, ECF No. 62.) The Government requests that the motion be dismissed
+
+as untimely. (Response, ECF No. 69.) Following a review of Petitioner’s motion and the
+
+Government’s request for dismissal, I recommend the Court grant the Government’s request, and
+
+dismiss Petitioner’s motion.
+
+                  I.     FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+       At a hearing in July 2009, Petitioner waived indictment and pled guilty to a three-count
+
+information in which the Government alleged that: (1) on or about February 8, 2009, in violation
+
+of 18 U.S.C. § 922(u), Petitioner stole twelve firearms, which previously had been shipped and
+
+transported in interstate commerce, from a licensed firearms dealer in Benton, Maine (Count 1);
+
+(2) from February 8, 2009, to February 10, 2009, in violation of 18 U.S.C. § 371, Petitioner
+
+conspired with others to steal the firearms (Count 2); and (3) on or about February 8, 2009, in
+
+violation of 18 U.S.C. § 922(g)(1), Petitioner, having been convicted previously of burglarizing a
+
+dwelling, knowingly possessed the twelve firearms (Count 3).             (Waiver of Indictment,
+
+Arraignment, and Plea Tr., ECF No. 17 at 4-10, 26-27.) During the plea colloquy, Petitioner told
+
+the Court that he believed that the information contained in the prosecution version of the offense
+
+was true. (Id. at 17.)
+
+       The prosecution version states that Petitioner committed the robbery with another person.
+
+(Prosecution Version, ECF No. 8 at 1-3.) Petitioner was armed with a baseball bat, and his partner
+
+had a metal pipe or rod. (Id. at 1-2.) They donned disguises, and after they entered the store,
+
+Petitioner brandished the baseball bat, and he and his partner twice ordered the store employees to
+
+the ground. (Id. at 2.) When the employees were on the ground, Petitioner used the baseball bat
+
+to break the glass of a display case, and he removed the firearms and a silencer. (Id. at 2-3.)
+
+
+
+                                                2
+Case 1:09-cr-00103-JAW Document 72 Filed 11/14/16 Page 3 of 8                       PageID #: 290
+
+
+
+Petitioner’s partner took approximately $2,000 in cash, and they left. (Id. at 3.) Petitioner and his
+
+partner divided the proceeds from the robbery; Petitioner’s partner received two of the firearms
+
+and approximately $500, and Petitioner kept the remaining firearms, the silencer, and
+
+approximately $1,500. (Id.) The next day, Petitioner, his girlfriend, and another person travelled
+
+to New Hampshire; Petitioner kept one of the firearms and the silencer, and he “gave the remaining
+
+firearms to his girlfriend and her cousin for the purpose of selling the firearms for money and/or
+
+trading the firearms for cocaine.” (Id. at 3-4.)
+
+       Following the plea colloquy, the Court made the requisite findings and accepted
+
+Petitioner’s guilty plea. (Waiver of Indictment, Arraignment, and Plea Tr. at 27.) At Petitioner’s
+
+sentencing hearing in December 2009, the Court told Petitioner that the Court intended to rely on
+
+the contents of the revised presentence investigation report. (Sentencing Tr., ECF No. 52 at 4.)
+
+The Court asked Petitioner whether he had reviewed the report, whether he understood it, and
+
+whether he had found anything incorrect or inaccurate in the report. (Id.) Petitioner replied that
+
+he had reviewed the report, he understood it, and he did not know of anything incorrect or
+
+inaccurate in the report. (Id.)
+
+       The Court determined, consistent with the revised presentence investigation report, that the
+
+base offense level was 26. (Id. at 5.) The Court applied two four-level increases, one pursuant to
+
+U.S.S.G. § 2K2.1(b)(1)(B), because the offense involved more than eight firearms; the other
+
+pursuant to U.S.S.G. § 2K2.1(b)(4)(B), because the serial numbers on two of the firearms had been
+
+obliterated. (Id.) Given that the cumulative offense level may not exceed 29, the offense level
+
+was reduced to 29, pursuant to U.S.S.G. 2K2.1(b). (Id.) The Court then applied an additional
+
+four-level increase, pursuant to U.S.S.G. § 2K2.1(b)(6), because Petitioner possessed a firearm or
+
+
+
+
+                                                   3
+Case 1:09-cr-00103-JAW Document 72 Filed 11/14/16 Page 4 of 8                                     PageID #: 291
+
+
+
+ammunition (the Count 3 offense) in connection with another felony offense (the Count 1 offense).
+
+(Id.)
+
+         From an adjusted offense level of 33, the Court applied a three-level reduction for
+
+acceptance of responsibility, pursuant to U.S.S.G. § 3E1.1. (Id. at 6.) The Court determined the
+
+applicable sentencing guideline range to be from 135 to 168 months, based on a total offense level
+
+of 30 and a criminal history category of IV. (Id.) All of the Court’s sentencing guideline
+
+calculations were consistent with the revised presentence investigation report.
+
+         The Court then considered the sentencing factors set forth in 18 U.S.C. § 3553(a), in
+
+particular Petitioner’s history and characteristics, and the nature and circumstances of the offense.
+
+(Id. at 60.) The Court sentenced Petitioner to a below-guidelines prison term of 120 months on
+
+each of Counts 1 and 3, and to 60 months on Count 2, with all counts to be served concurrently
+
+with one another.2 (Sentencing Tr. at 6; Judgment at 2.)
+
+         Petitioner appealed from the sentence. On March 17, 2011, the First Circuit concluded that
+
+this Court did not err when it considered the Government’s exhibits at the sentencing hearing, and
+
+the First Circuit affirmed the judgment. Ellis, No. 10-1052. Petitioner did not challenge on direct
+
+appeal the section 2K2.1(b)(6) enhancement. Id. (Appellant’s Brief at 6.)
+
+         Petitioner asserts that he placed his section 2255 motion in the prison mailing system on
+
+December 29, 2015. (Motion at 13.) The motion was filed on January 4, 2016. (Id. at 1.)
+
+
+
+
+2
+  The judgment also provides that, pursuant to U.S.S.G. § 5G1.3(c), the federal sentence is to be served consecutively
+to a 90-day state court sentence originally imposed in State v. Ellis, No. 2008-426 (Me. Super. Ct., Som. Cnty.), but
+concurrently with the 41-month probation revocation sentence imposed in that case. (Judgment, ECF No. 29 at 2.)
+
+
+                                                          4
+Case 1:09-cr-00103-JAW Document 72 Filed 11/14/16 Page 5 of 8                                           PageID #: 292
+
+
+
+         The Government filed a response in June 2016 in accordance with an extension of time
+
+granted by the Court; Petitioner timely filed a reply in July 2016.3 (Order, ECF No. 68; Response
+
+at 1; Reply, ECF No. 70 at 1.)
+
+                                                  II.      DISCUSSION
+
+         Petitioner’s claims are subject to a one-year statute of limitations, which runs from the
+
+latest of
+
+              (1) the date on which the judgment of conviction becomes final;
+
+              (2) the date on which the impediment to making a motion created by
+              governmental action in violation of the Constitution or laws of the United States
+              is removed, if the movant was prevented from making a motion by such
+              governmental action;
+
+              (3) the date on which the right asserted was initially recognized by the Supreme
+              Court, if that right has been newly recognized by the Supreme Court and made
+              retroactively applicable to cases on collateral review; or
+
+              (4) the date on which the facts supporting the claim or claims presented could
+              have been discovered through the exercise of due diligence.
+
+28 U.S.C. § 2255(f).
+
+         Petitioner did not file a petition for certiorari, and thus the one-year limitation period started
+
+to run upon expiration of the time to file a petition for certiorari. See In re Smith, 436 F.3d 9, 10
+
+n.1 (1st Cir. 2006) (per curiam) (citing Clay v. United States, 537 U.S. 522, 532 (2003)). Pursuant
+
+to Rule 13 of the Rules of the United States Supreme Court, a petition for certiorari must be filed
+
+within 90 days after the entry of judgment.4 Petitioner’s period of limitation under section
+
+
+3
+ Petitioner’s reply does not contain a declaration that Petitioner makes the allegations under penalty of perjury,
+pursuant to Rule 2(b)(5) of the Rules Governing Section 2255 Proceedings, which requires that the section 2255
+motion “be signed under penalty of perjury by the movant or by a person authorized to sign it for the movant.” See
+28 U.S.C. § 1746. This recommended decision assumes, without recommending a decision on the issue, that the Court
+would permit Petitioner to file a copy that contained the required declaration.
+4
+  Rule 13(1) of the Rules of the United States Supreme Court states in pertinent part: “Unless otherwise provided by
+law, a petition for a writ of certiorari to review a judgment in any case, civil or criminal, entered by a . . . United States
+court of appeals . . . is timely when it is filed with the Clerk of this Court within 90 days after entry of the judgment.”
+
+                                                              5
+Case 1:09-cr-00103-JAW Document 72 Filed 11/14/16 Page 6 of 8                                     PageID #: 293
+
+
+
+2255(f)(1) thus began to run 90 days after the First Circuit’s March 17, 2011, judgment, and it
+
+expired one year later, in June 2012. Because Petitioner placed his motion in the prison mailing
+
+system in December 2015, i.e., more than three years after the expiration of the limitations period,
+
+Petitioner did not timely file the motion in accordance with section 2255(f)(1). In addition,
+
+Petitioner has not alleged any facts or made any arguments to suggest that the time period is
+
+governed by 2255(f)(2), (3), or (4). See Barreto-Barreto v. United States, 551 F.3d 95, 99-100
+
+(1st Cir. 2008) (noting that undeveloped arguments are deemed waived).5
+
+         Petitioner asks the Court to determine that the limitations period was equitably tolled due
+
+in part by his lack of access to legal materials during periods when he was placed in more restrictive
+
+prison housing conditions in 2013 and 2014. (Reply at 5-7.) Petitioner also alleges the delay was
+
+caused in part by his lack of knowledge of the law. (Motion at 6; Reply at 1-2.)
+
+         The one-year limitations period under section 2255(f) “is subject to equitable tolling in
+
+appropriate instances.” Ramos–Martínez v. United States, 638 F.3d 315, 322 (1st Cir. 2011).
+
+“Equitable tolling is a doctrine that provides that in exceptional circumstances, a statute of
+
+limitations may be extended for equitable reasons not acknowledged in the statute creating the
+
+limitations period.” Id. at 321 (quotation marks omitted); see also Menominee Indian Tribe of
+
+Wisconsin v. United States, 136 S. Ct. 750, 755-56 & n.2 (2016). The burden is on a petitioner to
+
+establish the basis for equitable tolling. Id.; Ramos-Martínez, 638 F.3d at 323. A petitioner must
+
+
+
+
+5
+  It appears Petitioner alleges that from August to November 2013, and from April to October 2014, he was under
+prison housing restrictions that severely limited his access to legal materials. (Reply, ECF No. 70 at 6.) The Court
+need not consider whether the restrictions Petitioner alleges constitute a government impediment, pursuant to
+28 U.S.C. § 2255(f)(2), because, according to Petitioner’s allegations, the restrictions began in 2013, which was after
+the one-year limitation period had expired. See United States v. Briggs, Nos. 96-336-1, 06-cv-3142, 2014 WL 940341,
+at *4 n.8, 2014 U.S. Dist. Lexis 30854, at *16 n.8 (E.D. Pa. Mar. 7, 2014) (noting that the petitioner “has cited no
+authority suggesting limited access to federal legal materials constitutes the type of ‘governmental action’ impeding
+timely filing contemplated by § 2255(f)(2),” and the petitioner did not “allege any intentional misconduct or that any
+governmental entity actively prevented him from filing a § 2255 motion”).
+
+                                                          6
+Case 1:09-cr-00103-JAW Document 72 Filed 11/14/16 Page 7 of 8                    PageID #: 294
+
+
+
+prove “‘(1) that he has been pursuing his rights diligently, and (2) that some extraordinary
+
+circumstance stood in his way and prevented timely filing.’” Menominee Indian Tribe of
+
+Wisconsin, 136 S. Ct. at 755 (quoting Holland v. Florida, 560 U.S. 631, 649 (2010) (quotation
+
+marks omitted)).
+
+       Petitioner’s arguments for equitable tolling are unpersuasive. Significantly, he has not
+
+alleged that his access to materials was restricted during the one-year limitation period. In
+
+addition, restricted access to the courts due to incarceration and limited knowledge of the law
+
+would not support a finding of equitable tolling. See Lattimore v. Dubois, 311 F.3d 46, 55 (1st
+
+Cir. 2002) (limited knowledge of the law and limited access to the courts do not in themselves
+
+warrant application of the doctrine of equitable estoppel).
+
+       In sum, Petitioner filed his section 2255 motion more than three years after the expiration
+
+of the one-year limitation period, and the record lacks support for Petitioner’s equitable tolling
+
+argument. Petitioner, therefore, cannot prevail on his motion.
+
+                                         III.     CONCLUSION
+
+       Based on the foregoing analysis, an evidentiary hearing is not warranted under Rule 8 of
+
+the Rules Governing Section 2255 Proceedings. Accordingly, I recommend that the Court deny
+
+Petitioner’s motion for habeas relief under 28 U.S.C. § 2255. I further recommend that the Court
+
+deny a certificate of appealability pursuant to Rule 11 of the Rules Governing Section 2255
+
+Proceedings because there is no substantial showing of the denial of a constitutional right within
+
+the meaning of 28 U.S.C. § 2253(c)(2).
+
+                                                NOTICE
+
+              A party may file objections to those specified portions of a magistrate
+       judge’s report or proposed findings or recommended decisions entered pursuant to
+       28 U.S.C. 636(b)(1)(B) for which de novo review by the district court is sought,
+       together with a supporting memorandum, within fourteen (14) days of being served
+
+
+                                                  7
+Case 1:09-cr-00103-JAW Document 72 Filed 11/14/16 Page 8 of 8                    PageID #: 295
+
+
+
+     with a copy thereof. A responsive memorandum shall be filed within fourteen (14)
+     days after the filing of the objection.
+
+            Failure to file a timely objection shall constitute a waiver of the right to de
+     novo review by the district court and to appeal the district court's order.
+
+                                                   /s/ John C. Nivison
+                                                   U.S. Magistrate Judge
+
+     Dated this 14th day of November, 2016.
+
+
+
+
+                                               8
+

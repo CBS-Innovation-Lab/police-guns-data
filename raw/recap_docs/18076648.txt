@@ -1,0 +1,708 @@
+Case 1:06-cr-00080-JAW Document 362 Filed 12/14/15 Page 1 of 14        PageID #: 3453
+
+
+
+                        UNITED STATES DISTRICT COURT
+                             DISTRICT OF MAINE
+
+
+ UNITED STATES OF AMERICA                )
+                                         )
+       v.                                )    1:06-cr-00080-JAW
+                                         )
+ MARK MCCURDY                            )
+
+
+  ORDER DENYING MOTION TO APPEND AND CORRECT THE RECORD
+
+       More than six years after his sentencing hearing, Mark McCurdy moves the
+
+ Court to make factual findings about matters he contends are contained in his
+
+ Presentence Investigation Report and are inaccurate. The Court denies the motion
+
+ because it made the findings Mr. McCurdy contends it should have made, because
+
+ Mr. McCurdy waived the right to the relief he has requested, because the Court is
+
+ without jurisdiction to hear his motion, and because the Court was not required to
+
+ make the findings in the first place.
+
+ I.    BACKGROUND
+
+       On October 16, 2015, Mark McCurdy filed a motion to append and correct the
+
+ record in this case. Pet’r’s Mot. to Append and Correct the R. (ECF No. 357) (Def.’s
+
+ Mot.); Def.’s Mot. Attach. 1 Court Determinations on Pet’r’s Objections to PSR (ECF
+
+ No. 357) (Def.’s Factual Objections). On October 27, 2015, the Government objected.
+
+ Gov’t’s Opp’n to ‘Pet’r’s Mot. to Append and Correct the R.’ (ECF No. 358) (Gov’t’s
+
+ Opp’n). On November 9, 2015, Mr. McCurdy replied. Pet’r’s Reply to Gov’t’s Opp’n to
+
+ Mot. to Append and Correct the R. (ECF No. 361) (Def.’s Reply).
+Case 1:06-cr-00080-JAW Document 362 Filed 12/14/15 Page 2 of 14          PageID #: 3454
+
+
+
+       When Mark McCurdy was twenty-five, he committed four violent felonies in
+
+ the space of about two weeks, burglarizing two pharmacies and robbing two other
+
+ pharmacies at gunpoint. Revised Presentence Investigation Report ¶¶ 31-32 (PSR).
+
+ From at least April 14, 1984, when he was sentenced for the first two burglaries, Mr.
+
+ McCurdy has been prohibited as a matter of federal law from possessing a firearm.
+
+ See 18 U.S.C. § 922(g)(1). The same prohibition is a matter of state law, and on
+
+ December 30, 1994, Mr. McCurdy was convicted in Hancock County Superior Court
+
+ for the state of Maine of being a felon in possession of a firearm. PSR ¶ 34.
+
+       On November 15, 2006, a federal grand jury indicted Mr. McCurdy for
+
+ possessing a firearm on March 26, 2006 after having been convicted of a felony, an
+
+ alleged violation of 18 U.S.C. § 922(g)(1). Indictment (ECF No. 1). On October 9,
+
+ 2007, Mr. McCurdy pleaded guilty to the charge. Min. Entry (ECF No. 57). However,
+
+ at the Rule 11 proceeding, the Court had informed Mr. McCurdy that the maximum
+
+ period of incarceration was ten years, and after the PSR was completed, it was
+
+ discovered that because of his prior criminal history, he was subject to the enhanced
+
+ penalties of the Armed Career Criminal Act. Order Granting Mot. to Withdraw Guilty
+
+ Plea (ECF No. 74). The Court allowed Mr. McCurdy to withdraw his guilty plea. Id.
+
+       The Court held a three-day jury trial beginning December 29, 2009. Min.
+
+ Entries (ECF Nos. 144, 146, 147). On December 31, 2008, a jury found Mr. McCurdy
+
+ guilty. Jury Verdict (ECF No. 148). On July 20, 2009, the Court sentenced Mr.
+
+ McCurdy to 210 months incarceration, the bottom of the United States Sentencing
+
+ Commission Guideline range. J. (ECF No. 195); Tr. of Proceedings 38:14-39:6 (ECF
+
+
+
+                                           2
+Case 1:06-cr-00080-JAW Document 362 Filed 12/14/15 Page 3 of 14           PageID #: 3455
+
+
+
+ No. 208) (Sentencing Hr’g). Mr. McCurdy has never accepted either the verdict or the
+
+ sentence, and ever since July 20, 2009, he has set about a determined course of
+
+ contention, objecting to matters large and small.
+
+ II.   THE POSITIONS OF THE PARTIES
+
+       A.     Mark McCurdy’s Motion
+
+       The focus of this motion is some of the contents of the PSR that Mr. McCurdy
+
+ contends are erroneous and are now having an adverse impact on his time in prison.
+
+ Def.’s Factual Objections at 1-3. Specifically, Mr. McCurdy objects to the statements
+
+ in the PSR (1) that he violated bail conditions, (2) that he was using opiate-based
+
+ medications, amphetamines, marijuana, and alcohol illegally up to and including
+
+ November 2007, and (3) that he failed a drug treatment program in 1979. Id.
+
+       Mr. McCurdy states that the Bureau of Prisons (BOP) is using these
+
+ statements in the PSR to deny him “programs.” Id. Citing United States v. Cruz, 981
+
+ F.2d 613, 619 (1st Cir. 1992); United States v. Geer, 923 F.2d 892, 897 (1st Cir. 1991);
+
+ and United States v. Jimenez-Rivera, 842 F.2d 545, 551 (1st Cir. 1988), Mr. McCurdy
+
+ says that Rule 32(i)(3)(C) requires the sentencing court to make determinations about
+
+ disputed facts in the PSR and to attach a copy of those determinations to the PSR.
+
+ Def.’s Mot. at 2. He contends that this Court erred in failing to make mandatory Rule
+
+ 32 determinations. Id.
+
+       B.     The Government’s Opposition
+
+       The Government opposes Mr. McCurdy’s motion. Gov’t’s Opp’n at 1-5. First,
+
+ the Government says that in 2002, the Criminal Rules Advisory Committee clarified
+
+
+
+                                            3
+Case 1:06-cr-00080-JAW Document 362 Filed 12/14/15 Page 4 of 14             PageID #: 3456
+
+
+
+ that Rule 32 does not require a sentencing court to resolve all factual disputes with
+
+ the PSR. Id. at 2-3 (quoting FED. R. CRIM. P. 32 advisory committee note to 2002
+
+ amendments).
+
+        Next, the Government says that, contrary to Mr. McCurdy’s assertions, the
+
+ PSR did not claim that Mr. McCurdy violated bail conditions; that the Court never
+
+ found Mr. McCurdy had used opiate-based medications, amphetamines, marijuana,
+
+ and alcohol illegally up to and including November 2007; and that the Court never
+
+ found that he had failed a drug treatment program in 1997. Id. at 3-4.
+
+        C.    Mark McCurdy’s Reply
+
+        Mr. McCurdy replied to the Government’s opposition. First, he maintains that
+
+ the BOP “utilizes the PSR for all its classification decisions.” Def.’s Reply at 1 (citing
+
+ United States v. Caparotta, No. 1:10-cr-00147-JAW, 2011 U.S. Dist. LEXIS 32522, *7
+
+ (D. Me. Mar. 28, 2011)). He argues that the “Government’s suggestion that Petitioner
+
+ provide the BOP with his sentencing transcripts to prove that allegations in his PSR
+
+ are in error is misguided.” Id. at 1-2. Mr. McCurdy then presents a synopsis of
+
+ conversations he has had with a Mr. Kee of the BOP in which Mr. Kee insists that
+
+ the PSR’s factual recitations (to which Mr. McCurdy objected) are accurate. Id. at 2-
+
+ 3.
+
+ III.   DISCUSSION
+
+        A.    The Facts
+
+        As a preliminary matter, the Court is struck by the inaccuracy of Mr.
+
+ McCurdy’s underlying contention: that the Court failed to make findings concerning
+
+
+
+                                             4
+Case 1:06-cr-00080-JAW Document 362 Filed 12/14/15 Page 5 of 14            PageID #: 3457
+
+
+
+ his factual disputes. As a matter of practice, at the outset of a sentencing hearing,
+
+ the Court reviews the contents of the PSR with the defendant. The Court did so in
+
+ painstaking detail in Mr. McCurdy’s case. Sentencing Hr’g at 3:17-17:19.         As the
+
+ Court went through the contents of the PSR with Mr. McCurdy and his counsel, if
+
+ Mr. McCurdy informed the Court that the statement was inaccurate, the Court
+
+ generally accepted his contention. The Court’s actual ruling on those objections is
+
+ reflected in the Court’s recitation of the facts at the end of the sentencing hearing.
+
+       To present an easy example, during the colloquy, Mr. McCurdy corrected his
+
+ age. Between the last revision of the PSR and the sentencing hearing, he had turned
+
+ 52, and during the colloquy about the PSR, Mr. McCurdy informed the Court that he
+
+ was 52, not 51. Id. 5:1-11. The Court thanked Mr. McCurdy for this clarification and
+
+ during its recitation of the facts at the end of the hearing, the Court noted: “Turning
+
+ to the history and characteristics of the defendant, the defendant is a 52-year-old man
+
+ living in Whiting in Washington County.” Id. 64:23-25. This was a factual finding
+
+ based on Mr. McCurdy’s correction.
+
+       Contrary to the premise of Mr. McCurdy’s motion, during the sentencing
+
+ hearing, the Court heard factual objections to the contents of the PSR and ruled in
+
+ favor of Mr. McCurdy on each objection.         The favorable rulings are found by
+
+ comparing the initial colloquy at the beginning of the sentencing hearing with the
+
+ Court’s summary of the facts toward the end of the hearing. In reviewing Mr.
+
+ McCurdy’s current objections, with the exception of the bail violation issue, the
+
+ sentencing transcript reveals that the Court ruled on his factual objections at the
+
+
+
+                                            5
+Case 1:06-cr-00080-JAW Document 362 Filed 12/14/15 Page 6 of 14            PageID #: 3458
+
+
+
+ sentencing hearing. The Court did not rule on the bail violation issue, because Mr.
+
+ McCurdy did not raise it at the sentencing hearing, and, in any event, his contention
+
+ that the PSR states that he violated his bail conditions is simply incorrect.
+
+              1.     The PSR and Defendant’s Violation of Bail Conditions
+
+       Mr. McCurdy claims that the “PSR stated that Petitioner violated bail
+
+ conditions.” Def.’s Factual Objections at 1. He is wrong.
+
+       Mr. McCurdy does not cite a specific paragraph in the PSR where he contends
+
+ this statement appears. Id. The Court reviewed the PSR and found one reference to
+
+ bail conditions:
+
+       On May 20, 2008, a Petition to Revoke pretrial release was filed and an
+       arrest warrant issued. The Government alleged that the defendant
+       violated conditions of release by failing to report by telephone as directed
+       and leaving the State of Maine without permission. On June 24, 2008,
+       the defendant was arrested, and on June 26, 2008, he appeared before
+       Chief Judge Woodcock at which time conditions of release were amended
+       to include 1) $10,000 cash bond; 2) No contact with Donald Fletcher; 3)
+       No association with felons; and 4) Home confinement with electronic
+       monitoring.
+
+ PSR ¶ 1. The docket reveals that the Government initiated a petition for revocation
+
+ on May 20, 2008. Mot. for the Issuance of an Arrest Warrant, for Revocation of Order
+
+ Setting Conditions of Release, for an Order Directing the Def.’s Pretrial Detention and
+
+ to Seal (ECF No. 75). After Mr. McCurdy was arrested on June 24, 2008, he made
+
+ his initial appearance before the Court on June 25, 2008, and the docket indicates
+
+ that “Counsel will notify the court tomorrow regarding conditions for release pending
+
+ hearing on the motion for revocation of pretrial release.” Min. Entry (ECF No. 81).
+
+ On June 26, 2008, the Court held a bail hearing and released Mr. McCurdy with the
+
+
+
+                                            6
+Case 1:06-cr-00080-JAW Document 362 Filed 12/14/15 Page 7 of 14           PageID #: 3459
+
+
+
+ additional conditions set forth in paragraph one of the PSR. Min. Entry (ECF No.
+
+ 82); Am. Order Setting Conditions of Release (ECF No. 84). On June 26, 2008, the
+
+ Government orally withdrew its motion to revoke bail. Oral Withdrawal of Mot. (ECF
+
+ No. 86).
+
+       In his motion, Mr. McCurdy cites a colloquy between the Court and AUSA
+
+ Casey after the jury verdict on December 31, 2008 in which Mr. Casey represented to
+
+ the Court that there had been no bail violations, and the Court released Mr. McCurdy
+
+ with the same bail conditions earlier imposed.       Def.’s Factual Objections at 1-2
+
+ (quoting Tr. of Proceedings III 86:22-87:8 (ECF No. 211) (Trial Tr. III)).          Mr.
+
+ McCurdy’s citation of this colloquy is consistent with the Court’s conclusion that there
+
+ never was a judicial determination that he violated his pretrial bail conditions and
+
+ that the PSR never claims there was.
+
+       In short, on this point, Mr. McCurdy is factually incorrect. The PSR does not
+
+ state that he violated bail conditions. It states that the Government moved to revoke
+
+ his bail and that he was arrested and released with amended conditions. The docket
+
+ confirms that, consistent with the contents of the PSR, the Court never made a
+
+ finding that he violated his bail conditions, and in fact, the Government withdrew the
+
+ bail revocation petition. His assertion to the contrary is in error.
+
+              2.     The Defendant’s Drug Use
+
+       Mr. McCurdy objects to paragraph 50 of the PSR, which states: “The defendant
+
+ advised, and family members confirmed, that he has struggled with substance abuse
+
+ for several years. Beginning in the mid-to-late 1970s, he was using Methadone, other
+
+
+
+                                            7
+Case 1:06-cr-00080-JAW Document 362 Filed 12/14/15 Page 8 of 14               PageID #: 3460
+
+
+
+ opiate-based medications, amphetamines, marijuana and alcohol. This substance
+
+ abuse continued until November 2007.” PSR ¶ 50. Mr. McCurdy says that “[t]his is
+
+ simply not true and Petitioner objected to this allegation.” Def.’s Factual Objections
+
+ at 2.
+
+         Mr. McCurdy is correct that he raised this objection at the sentencing hearing.
+
+ The relevant colloquy reads:
+
+         MR. SILVERSTEIN: Yes, and the second-to-last sentence states, this
+         substance abuse continued until November 2007, and Mr. McCurdy’s
+         position is that he was prescribed narcotic painkillers since his ankle
+         injury in ’93 - - is that correct - - and does not deny using those up until,
+         at the very least, the time of his arrest here, but the suggestion that he
+         was using other opiate-based medications, amphetamines, marijuana,
+         and alcohol through November 2007 is denied and objected to.
+         THE COURT: So his contention is that he used a prescriptive
+         medication until November 2007?
+         THE DEFENDANT: Yes.
+         THE COURT: All right.
+
+ Sentencing Hr’g 13:19-14:6.
+
+         Just before issuing its sentence, the Court reviewed the 18 U.S.C. § 3553(a)
+
+ factors, including his history and characteristics. In addressing its findings regarding
+
+ his substance abuse history, the Court stated:
+
+         The defendant has a significant history of substance abuse. There is an
+         indication that his substance abuse began as early as 13 years old. He
+         has - - he had a significant snowmobile accident when he - - in 1971 when
+         he was 13, and he was prescribed Darvon for pain. From the mid-1970s,
+         he began using methadone, amphetamines, marijuana, and alcohol. In
+         1979, he completed a detoxification program in Portland, but after that
+         began using morphine and Dilaudid. From 1980 to 1982, he was
+         prescribed methadone. At the University of Maine, he was using
+         methadone illegally and barbiturates. He underwent residential
+         treatment in Hampstead, New Hampshire, in 1983 and continued with
+         outpatient treatment in Machias in 1984. In 1994, he crushed his ankle
+
+
+
+                                              8
+Case 1:06-cr-00080-JAW Document 362 Filed 12/14/15 Page 9 of 14           PageID #: 3461
+
+
+
+           in a motor vehicle accident, and from 1994 to November 2007, he was
+           prescribed methadone and oxycodone for pain.
+
+ Id. 65:16-66:8. Comparing the Court’s recitation of the facts with Mr. Silverstein’s
+
+ objection to the PSR, it is apparent that the Court did not adopt the PSR’s statement
+
+ that Mr. McCurdy was using other opiate-based medications, amphetamines,
+
+ marijuana, and alcohol through November 2007. Instead, the Court accepted Mr.
+
+ McCurdy’s statement of the drugs he was using from 1993 to November 2007 and
+
+ incorporated his version into its sentencing findings. Again, Mr. McCurdy is factually
+
+ incorrect.
+
+                 3.    The Defendant’s Failing a Drug Treatment Program in
+                       1979
+
+           In his motion, Mr. McCurdy says that the PSR stated that he “failed a drug
+
+ treatment program in 1979.” Def.’s Factual Objections at 2. In paragraph 51 of the
+
+ PSR, the following appears: “In 1979, he attempted and failed a detox program at the
+
+ Portland, Maine, Medical Center.” PSR ¶ 51. The PSR also states in paragraph 51:
+
+ “From 1980 to 1982, he was prescribed Methadone in Lubec, Maine, but once off the
+
+ maintenance program, he resumed opiate-medication use within one month.” Id. Mr.
+
+ McCurdy says that he not only completed the drug treatment program in 1979 but
+
+ continued with aftercare by Dr. McBride in Lubec, Maine. Def.’s Factual Objections
+
+ at 2-3.
+
+           Mr. McCurdy is correct that he objected to the PSR’s assertion that he failed
+
+ the 1979 detoxification program at his sentencing hearing. Sentencing Hr’g 14:7-18
+
+ (“THE DEFENDANT: I completed the detox program in Portland”). Again, however,
+
+
+
+                                             9
+Case 1:06-cr-00080-JAW Document 362 Filed 12/14/15 Page 10 of 14          PageID #: 3462
+
+
+
+ the Court accepted Mr. McCurdy’s factual objection. During its recitation of his
+
+ substance abuse history, the Court expressly stated that “[i]n 1979, he completed a
+
+ detoxification program in Portland . . . .” Id. 65:24-25.
+
+       His objection to the PSR’s reference to the interval between 1980 and 1982,
+
+ when he was receiving methadone from Dr. McBride of Lubec, was that “there was
+
+ no specific maintenance program that was run or sponsored or administered, but that
+
+ his doctor had prescribed him methadone . . . .” Sentencing Hr’g 14:24-15:1. Mr.
+
+ McCurdy’s counsel indicated that he had no objection to a reference to the methadone
+
+ program so long as it referred to a doctor’s prescription, which was discontinued. Id.
+
+ 15:1-3. Once again, in its recitation of findings, the Court stated: “From 1980 to
+
+ 1982, he was prescribed methadone.” Id. 66:1-2. The Court therefore made the
+
+ findings that Mr. McCurdy complains were not made.            Mr. McCurdy is simply
+
+ factually incorrect.
+
+ IV.   DISCUSSION
+
+       A.     Waiver
+
+       Although not raised by the parties, there is a question as to whether Mr.
+
+ McCurdy waived the right to request that the Court revise the PSR. If a defendant
+
+ fails to alert the sentencing court that it failed to adequately address his objections
+
+ to the PSR, the defendant has waived the issue. United States v. Wagner-Dano, 679
+
+ F.3d 83, 94 (2d Cir. 2012) (“Wagner-Dano waived her Rule 32(i)(3) argument by
+
+ failing to alert the district court of her procedural objection that the court had not
+
+ adequately addressed her disagreements with the PSR”).           Here, Mr. McCurdy
+
+
+
+                                            10
+Case 1:06-cr-00080-JAW Document 362 Filed 12/14/15 Page 11 of 14                          PageID #: 3463
+
+
+
+ objected to certain portions of the PSR, and the Court made findings. See generally
+
+ Sentencing Hr’g. The Court made findings in response to his objections, and at the
+
+ sentencing hearing, Mr. McCurdy never alerted the Court that he considered the
+
+ Court’s findings to be inadequate or insufficient. Now, more than nine years after
+
+ the sentencing hearing, Mr. McCurdy returns and asks the Court to do what he did
+
+ not ask the Court to do in 2006. He has long since waived these factual issues.
+
+         B.      Jurisdiction
+
+         Furthermore, the Court does not have jurisdiction to address Mr. McCurdy’s
+
+ recently filed Rule 32 objections to the PSR. The First Circuit has plainly held that
+
+ “Rule 32, ‘standing alone, does not provide the district court with jurisdiction to hear
+
+ a motion making a post-judgment collateral attack on one’s sentence for a Rule 32
+
+ violation.’” United States v. MacPherson, No. 91-2019, 1992 U.S. App. LEXIS 28765,
+
+ *7 (1st Cir. Apr. 7, 1992) (quoting United States v. Fisher, 821 F.2d 557, 558 (11th
+
+ Cir. 1987) (per curiam)). In other words, “Criminal Rule 32 provides no independent
+
+ foundation for a postsentence motion to correct a PSI Report . . . .” United States v.
+
+ Angiulo, 57 F.3d 38, 41 (1st Cir. 1995).            “A defendant who wants to mount a post-
+
+ sentencing challenge to an alleged violation of Rule 32(c)(3)(D) must do so either in
+
+ his direct appeal (which [defendant] did not do here) or by way of a timely Rule 35
+
+ motion.”1 MacPherson, 1992 U.S. App. LEXIS 28765 at *7. Here, Mr. McCurdy failed
+
+ to raise these issues on direct appeal and has not filed a timely Rule 35 motion,
+
+
+
+ 1       The citation to Rule 32(c)(3)(D) is to a provision now eliminated from the Rule. Nevertheless,
+ the principle that Rule 32 is not available as a vehicle to challenge the contents of a presentence report
+ long after sentencing remains valid.
+
+                                                    11
+Case 1:06-cr-00080-JAW Document 362 Filed 12/14/15 Page 12 of 14                         PageID #: 3464
+
+
+
+ raising these issues and the Court does not have jurisdiction to hear his current
+
+ motion.
+
+         C.      Rule 32(i)(3)(C)
+
+         Rule 32(i)(3)(C) reads: “At sentencing, the court must append a copy of the
+
+ court’s determinations under this rule to any copy of the presentence report made
+
+ available to the Bureau of Prisons.” FED. R. CRIM. P. 32(i)(3)(C).2 In 2002, the
+
+ advisory committee on the Rules of Criminal Procedure clarified Rule 32(i)(3):
+
+         Revised Rule 32(i)(3) addresses changes to current Rule 32(c)(1). Under
+         the current rule, the court is required to “rule on any unresolved
+         objections to the presentence report.” The rule does not specify,
+         however, whether that provision should be read literally to mean every
+         objection that might have been made to the report or only on those
+         objections that might in some way actually affect the sentence. The
+         Committee believed that a broad reading of the current rule might place
+         an unreasonable burden on the court without providing any real benefit
+         to the sentencing process.        Revised Rule 32(i)(3) narrows the
+         requirement for court findings to those instances when an objection
+         addresses a “controverted matter.” If the objection satisfies that
+         criterion, the court must either make a finding on the objection or decide
+         that a finding is not required because the matter will not affect
+         sentencing or that the matter will not be considered at all in sentencing.
+
+ FED. R. CRIM. P. 32, advisory committee note to 2002 amendments. The advisory
+
+ committee also addressed those factual disputes that might affect service of the
+
+ sentence:
+
+         To avoid unduly burdening the court, the Committee elected not to
+         require resolution of objections that go only to the service of the
+         sentence. However, because of the presentence report’s critical role in
+         post-sentencing administration, counsel may wish to point out to the
+         court those matters that are typically considered by the [BOP] in
+         designating the place of confinement. For example, the [BOP] considers:
+         “the type of offense, the length of the sentence, the defendant’s age, the
+
+ 2       As authority for his motion, Mr. McCurdy also relies on Rule 36, which addresses clerical error.
+ Def.’s Mot. at 1 (citing FED. R. CRIM. P. 36). There is no evidence of a clerical error in this record.
+
+                                                   12
+Case 1:06-cr-00080-JAW Document 362 Filed 12/14/15 Page 13 of 14                         PageID #: 3465
+
+
+
+         defendant’s release residence, the need for medical or other special
+         treatment, and any placement recommendations made by the court.”
+         Further, a question as to whether or not the defendant has a “drug
+         problem” could have an impact on whether the defendant would be
+         eligible for prison drug abuse treatment programs.
+
+ Id. (citations omitted).
+
+         Mr. McCurdy’s citation of three First Circuit cases about the mandatory nature
+
+ of sentencing court findings all predate the 2002 amendments to Rule 32, and thus,
+
+ they have been superseded by rule. As described by the advisory committee, there
+
+ are two reasons that a sentencing court could resolve factual disputes: first, if the
+
+ issue is relevant to the sentence; second, if the issue is relevant to the service of the
+
+ sentence. The Court resolved these factual issues only to the extent that they were
+
+ relevant to Mr. McCurdy’s sentence.3 At the sentencing hearing, Mr. McCurdy never
+
+ contended that the disputed matters had any relevance to the service of his sentence.
+
+ In any event, as the Court has described, the Court made the sentencing findings that
+
+ Mr. McCurdy claims it should have made.
+
+
+ 3        Reviewing these factual objections, none of Mr. McCurdy’s factual objections had any
+ significant bearing on the Court’s sentence. The Court was itself aware whether Mr. McCurdy had
+ violated his bail conditions because it presided over the revocation hearing, released him on additional
+ conditions, and received the Government’s withdrawal of the petition for revocation. Whether Mr.
+ McCurdy successfully completed a drug treatment program in 1979 had no influence on the Court’s
+ sentence thirty years later in 2009. Whether he was in a formal or informal methadone program
+ between 1980 and 1982 was of no moment. His exact drug use leading up to November 2007 did not
+ matter, because the Court concluded that Mr. McCurdy’s problems in life had been largely caused by
+ his abuse of drugs. Sentencing Hr’g 70:3-7 (“First, a lot of the troubles in your life seem to be related
+ to substance abuse, and it seems that you finally, I think belatedly in your life, have learned that you
+ have a serious problem with drug abuse and you need to continue with treatment”).
+          Nevertheless, the Court will typically resolve any factual disputes pressed by a defendant even
+ if the issue has tangential relevance to the sentence. The reason is that the Court always asks a
+ defendant whether the contents of the PSR are accurate (except the Court never asks a defendant who
+ has gone to trial—as was the case here—whether the description of the offense is accurate). If a
+ defendant informs the Court that a portion of the PSR is not accurate, the Court attempts to resolve
+ the issue or indicates that it will not consider the disputed fact in determining the sentence. In
+ addition, the PSR sometimes contains information unflattering to a defendant, and, if inaccurate, the
+ Court typically accommodates a defendant’s desire to clear his name.
+
+                                                   13
+Case 1:06-cr-00080-JAW Document 362 Filed 12/14/15 Page 14 of 14          PageID #: 3466
+
+
+
+ V.    SUMMARY
+
+       The premises of Mr. McCurdy’s motion are incorrect. First, as regards his
+
+ argument about the contents of the PSR regarding an alleged bail violation, he is
+
+ wrong. The PSR does not say what he says it says. Second, regarding the remaining
+
+ factual issues, contrary to his assertions, the Court made the factual findings at the
+
+ sentencing hearing that he claims it did not and should have made. Third, he has
+
+ long since waived his right to have this Court correct the contents of the PSR. Fourth,
+
+ the Court has no jurisdiction to hear his motion to correct the contents of the PSR.
+
+ Fifth, Mr. McCurdy is wrong about the obligation of the sentencing court to make
+
+ findings on disputed facts. Yet, it does not matter because the Court actually made
+
+ the findings at the sentencing hearing.
+
+ VI.   CONCLUSION
+
+       The Court DENIES Mark McCurdy’s Motion to Append and Correct the Record
+
+ (ECF No. 357).
+
+       SO ORDERED.
+
+
+
+                                        /s/ John A. Woodcock, Jr.
+                                        JOHN A. WOODCOCK, JR
+                                        UNITED STATES DISTRICT JUDGE
+
+ Dated this 14th day of December, 2015
+
+
+
+
+                                           14
+

@@ -1,0 +1,182 @@
+    Case 1:09-cr-00184-JAW Document 23 Filed 02/16/10 Page 1 of 4                                  PageID #: 79
+
+
+
+                                   UNITED STATES DISTRICT COURT
+                                        DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA                              )
+                                                      )
+         v.                                           )         CR-09-184-B-W
+                                                      )
+BENJAMIN JAMES SMALL                                  )
+
+
+              ORDER ON DEFENDANT’S MOTION TO DISMISS INDICTMENT
+
+         Plaintiff contends that emergency hospitalization for a mental illness cannot qualify as
+
+“committed to a mental institution” for purposes of 18 U.S.C. § 922(g)(4) and moves to dismiss
+
+the indictment for violating the Fifth and Second Amendments.                           The Court has recently
+
+considered and rejected similar arguments in United States v. Brian Murphy, CR-09-157-B-W,
+
+and does so again.
+
+I.       STATEMENT OF FACTS
+
+         On May 2, and on May 27, 1998, Benjamin Small was involuntarily hospitalized.
+
+Application for Emergency Involuntary Admission to a Mental Hospital Ex. A, B (Docket # 12)
+
+(App. for Adm.). The May 2 hospitalization occurred after Mr. Small “overdosed on Klonopine
+
+and caused a fire as a result.” Id. Ex. A. The May 27 hospitalization occurred because Mr.
+
+Small was “suicidal, delusional, paranoid, psychotic and non-compliant . . . [and] unable to care
+
+for [him]self. Id. Ex. B. Both times, consistent with Maine law, three steps were taken to ensure
+
+Mr. Small needed hospitalization. 34-B M.R.S.A. § 3863.1 First, an applicant completed and
+
+signed an application for emergency committal or “blue paper” describing why she believed Mr.
+
+
+
+1
+ Title 34-B, Section 3863 allows for emergency hospitalization based on the asserted belief by an applicant and a
+doctor‟s certification. Id. § 3863(1)(2). This ex parte procedure provides no opportunity for the patient to respond,
+but the patient can only be held temporarily. After three days, the hospital must either release the patient or move to
+continue the period of commitment. Id. § 3863(5)(B)(2).
+    Case 1:09-cr-00184-JAW Document 23 Filed 02/16/10 Page 2 of 4                                  PageID #: 80
+
+
+
+Small was mentally ill and posed a likelihood of serious harm.2 Id. at § 3863(1). Second, a
+
+physician certified that he examined Mr. Small on the date of the application and agreed that Mr.
+
+Small was mentally ill and posed a likelihood of serious harm. Id. at § 3863(2). Third, a judicial
+
+officer, in this case a justice of the peace, certified that the application complied with Maine law.
+
+Id. at § 3863(3).3
+
+         On November 14, 2009, Mr. Smith was indicted under 18 U.S.C. § 922(g)(4) for
+
+possession of a .357 Astra magnum revolver on March 23, 2009 after he had previously “been
+
+committed to a mental institution.” Indictment (Docket # 1).4 Mr. Small‟s commitments were
+
+his two emergency hospitalizations in May 1998.
+
+         On December 18, 2009, Mr. Murphy moved to dismiss the indictment, claiming that the
+
+charges violate the Second and Fifth Amendments of the United States Constitution. Def.’s Mot.
+
+to Dismiss (Docket # 10) (Mot. to Dismiss). The Government responded on January 7, 2010.
+
+Gov’t’s Resp. to Def.’s Mot. to Dismiss (Docket # 15) (Gov’t’s Resp.). Mr. Small replied to the
+
+Government on January 21, 2010. Def.’s Reply to Gov’t’s Resp. to Def.’s Mot. to Dismiss
+
+(Docket # 22) (Def.’s Reply).
+
+II.      DISCUSSION
+
+         18 U.S.C. § 922(g)(4) prohibits the possession of a firearm by persons “who have been
+
+committed to a mental institution.” Mr. Small argues that section 922(g)(4) is unconstitutional
+
+under both the Fifth and Second Amendments. For his Fifth Amendment argument, Mr. Small
+
+contends that he “never received notice that he was a prohibited person, and the laws of Maine
+
+2
+   On May 2, the applicant was Mr. Small‟s mother, and on May 28, the applicant was an emergency medical
+professional. App. for Adm. Ex. A, B.
+3
+  Maine law requires that a physician or psychologist examine the patient within 24 hours of admission. Either the
+patient is again certified as suffering from a mental illness and posing a likelihood of serious harm or the patient is
+immediately discharged. § 3863(7). The record does not contain any information about this second certification.
+4
+   The indictment alleges that “[o]n or about March 23, 2009, in the District of Maine, the defendant, Benjamin
+James Small, having been committed to a mental institution did knowingly possess in and affecting interstate
+commerce a firearm, that is, a .357 Astra magnum revolver, serial no. R198770.” Indictment at 1.
+
+                                                          2
+ Case 1:09-cr-00184-JAW Document 23 Filed 02/16/10 Page 3 of 4                   PageID #: 81
+
+
+
+do not establish that a Blue Paper proceeding comports with the Due Process requirements of a
+
+legitimate „commitment to a mental hospital,‟” therefore § 922(g)(4) is unconstitutionally vague.
+
+Def.’s Mot. at 3.    Mr. Small also argues that section 922(g)(4) infringes on his Second
+
+Amendment right to bear arms because “§ 922(g)(4) is deemed to reach those who have never
+
+had a right to a hearing on whether they qualify to be committed to a mental hospital.” Def.’s
+
+Mot. at 10.
+
+       This Court addressed and rejected both arguments in United States v. Brian Murphy, CR-
+
+09-157-B-W (Order).       After a thorough review of Mr. Murphy‟s arguments, the Court
+
+determined that the “[o]rdinary meaning, First Circuit precedent, and statutory context provided
+
+ample notice that emergency hospitalization under Maine law qualified as committed under §
+
+922(g)(4).” Order at 8. In United States v. Chamberlain, 159 F.3d 656 (1st Cir. 1998), the First
+
+Circuit rejected the defendant‟s argument that section 922(g)(4) requires “notice and issuance by
+
+a state judge of a formal order of commitment following a full hearing at which the person has
+
+had the opportunity to be heard,” id. at 661, and found emergency hospitalization under § 3863
+
+“implicates the potential for harm Congress sought to regulate under the firearms ban” of
+
+922(g)(4). Id. at 665. In Murphy, this Court concluded that the Supreme Court‟s recognition of
+
+an individual right to bear arms in District of Columbia v. Heller, 128 S. Ct. 2783, 2799 (2008)
+
+did not alter First Circuit precedent. Order 13-14.
+
+       For the same reasons set forth in its decision in Murphy, the Court finds that section
+
+922(g)(4) adequately put Mr. Small on notice that “commitment to a mental institution” would
+
+include emergency hospitalization under Maine law and the law violates neither the Fifth nor
+
+Second Amendments.
+
+
+
+
+                                                3
+ Case 1:09-cr-00184-JAW Document 23 Filed 02/16/10 Page 4 of 4         PageID #: 82
+
+
+
+III.   CONCLUSION
+
+       The Court DENIES Mr. Small‟s Motion to Dismiss (Docket # 10).
+
+       SO ORDERED.
+
+                                         /s/ John A. Woodcock, Jr.
+                                         JOHN A. WOODCOCK, JR.
+                                         CHIEF UNITED STATES DISTRICT JUDGE
+
+Dated this 16th day of February, 2010
+
+
+
+
+                                            4
+

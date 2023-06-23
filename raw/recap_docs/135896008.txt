@@ -1,0 +1,994 @@
+Case 1:07-cr-00073-JAW Document 101 Filed 06/09/20 Page 1 of 20        PageID #: 223
+
+
+
+                        UNITED STATES DISTRICT COURT
+                             DISTRICT OF MAINE
+
+UNITED STATES OF AMERICA               )
+                                       )
+                   v.                  )     1:07-cr-00073-JAW
+                                       )
+THOMAS I. HICKEY, III                  )
+
+                           RESENTENCING ORDER
+
+      Pursuant to Johnson v. United States, 135 S. Ct. 2551 (2015), this Court
+
+granted a defendant’s habeas corpus petition and resentenced him without applying
+
+the enhanced sentencing provisions of the Armed Career Criminal Act (ACCA). This
+
+opinion explains this Court’s resolution of two legal issues that arose during his
+
+resentencing. The Court rejects the defendant’s proposal for so-called “banked time,”
+
+which could allow the defendant to credit overserved time against a future sentence
+
+if his supervised release is revoked on this crime or if he commits a new federal
+
+offense.   The Court also rejects the defendant’s request to reduce his term of
+
+supervised release to account for overserved time on the original sentence of
+
+incarceration.
+
+I.    BACKGROUND
+
+      On January 17, 2020, the Court granted Thomas I. Hickey, III’s Motion to
+
+Vacate, Set Aside, or Correct Sentence that he filed pursuant to 28 U.S.C. § 2255,
+
+ordered the United States Probation Office (PO) to complete a new Presentence
+
+Investigation Report (PSR), and requested a conference of counsel to discuss the
+
+prospect of resentencing Mr. Hickey. Order on 28 U.S.C. § 2255 Mot. at 4 (ECF No.
+
+80). On January 28, 2020, the Court held a telephone conference of counsel, Min.
+Case 1:07-cr-00073-JAW Document 101 Filed 06/09/20 Page 2 of 20             PageID #: 224
+
+
+
+Entry (ECF No. 83), and on February 3, 2020, the PO completed the PSR. Presentence
+
+Investigation Report at 1 (PSR). At the conference of counsel, the Court set February
+
+21, 2020, as the deadline for counsel to file a stipulation and for Mr. Hickey to file his
+
+memorandum and, if applicable, a waiver of the right to be present at the anticipated
+
+resentencing hearing. Min. Entry (ECF No. 83). The Court set March 13, 2020, as
+
+the date by which the United States (Government) would respond. Id.
+
+      In accordance with the deadlines, counsel filed a stipulation on February 20,
+
+2020. Joint Stips. for Sentencing (ECF No. 84) (Stip.). Also on February 20, 2020,
+
+Mr. Hickey filed a waiver of the right to be present at his resentencing. Def.’s Waiver
+
+of Presence at Resentencing Hr’g (ECF No. 85). On February 21, 2020, Mr. Hickey
+
+filed his sentencing memorandum.        Def.’s Sentencing Mem. (ECF No. 86) (Def.’s
+
+Mem.). On March 13, 2020, the Government filed its response. Gov’t’s Resp. to Def.’s
+
+Sentencing Mem. (ECF No. 87) (Gov’t’s Resp.). On April 23, 2020, at the Court’s
+
+request, the parties filed a further stipulation placing the documents in the District
+
+of Massachusetts case to which the earlier stipulation referred on this Court’s docket.
+
+Joint Supp. Stip. for Sentencing (ECF No. 89) (Supp. Stip.).
+
+      On May 18, 2020, the case was scheduled for a sentencing hearing by
+
+videoconference.    Min. Entry (ECF No. 91).        The Coronavirus Aid, Relief, and
+
+Economic Security Act (CARES Act), H.R.748, 116th Cong. (2020), together with the
+
+orders of the Chief Judge of this District allow a videoconference sentencing hearing
+
+if the judge “in the particular case finds for specific reasons that the . . . sentencing
+
+in that case cannot be further delayed without serious harm to the interests of justice”
+
+
+
+                                            2
+Case 1:07-cr-00073-JAW Document 101 Filed 06/09/20 Page 3 of 20        PageID #: 225
+
+
+
+and “the defendant consents to proceeding by video teleconference . . . after
+
+consultation with counsel.” General Order 2020-4 (D. Me. Mar. 31, 2020).
+
+      Although counsel for the Government and Mr. Hickey agreed to a
+
+videoconference hearing and even though Mr. Hickey previously waived his right to
+
+be physically present at the sentencing hearing, he waived the right to be present at
+
+the resentencing hearing before Congress enacted the CARES Act. Def.’s Waiver of
+
+Presence at Resentencing Hr’g (ECF No. 85). As explained by counsel, Mr. Hickey’s
+
+waiver was based on his current custody in state jail in Massachusetts and the
+
+difficulty transporting him to Maine and back for the resentencing. However, he had
+
+not waived the right to be present, as is now possible, at a videoconference
+
+resentencing. Accordingly, the Court continued the resentencing hearing to allow
+
+counsel to explore whether a videoconference resentencing, which would include Mr.
+
+Hickey remotely, would be possible from his state jail in Massachusetts connecting
+
+him with a videoconference proceeding in the District of Maine and, if so, whether he
+
+wished to be present by videoconference at a rescheduled sentencing hearing or to
+
+waive that right as well. On May 27, 2020, Mr. Hickey filed a second signed waiver
+
+in which he waived his right to be present through videoconference at the
+
+resentencing hearing. Def.’s Waiver of Presence by Video-Conf. at Resentencing Hr’g
+
+(ECF No. 93).
+
+      On June 8, 2020, the Court held a resentencing hearing by videoconference and
+
+the Court resentenced Mr. Hickey to time served, three years of supervised release,
+
+a $100 special assessment, and no fine. Am. J. (ECF No. 99).
+
+
+
+                                         3
+Case 1:07-cr-00073-JAW Document 101 Filed 06/09/20 Page 4 of 20           PageID #: 226
+
+
+
+II.   THE    PRESENTENCE    INVESTIGATION                           REPORT        AND
+      STIPULATIONS OF COUNSEL
+
+      On July 2, 2009, the Court imposed a term of incarceration of ninety-nine
+
+months for Mr. Hickey’s possession of a firearm after being convicted of a felony with
+
+five years of supervised release to follow.      PSR ¶ 1.     Applying United States
+
+Sentencing Guideline (U.S.S.G.) § 5K1.1 and 18 U.S.C. § 3553(e), the Court’s sentence
+
+was below the mandatory minimum of 180 months of incarceration then applicable
+
+to an Armed Career Criminal. Id. Mr. Hickey did not appeal the conviction or the
+
+sentence. Mr. Hickey was released on August 14, 2015, and began the five-year term
+
+of supervised release. Id. ¶ 2.
+
+      On February 3, 2016, as Mr. Hickey is a native of Boston, Massachusetts, this
+
+Court transferred jurisdiction of Mr. Hickey’s case to the District of Massachusetts.
+
+Id.; Transfer of Juris. (ECF No. 69). On November 30, 2016, the PO filed a violation
+
+report with the United States District Court for the District of Massachusetts. Supp.
+
+Stip., Attach. 1, Violation Report (Violation Report I). The Violation Report describes
+
+Mr. Hickey’s failure to comply with seven supervised release conditions. Violation
+
+Report I at 3-6. The violations in general reflect a supervisee who was struggling to
+
+reintegrate into society after a significant period of incarceration, including multiple
+
+drug violations, failure to maintain contact with his supervising officer, and failure
+
+to regularly report to and maintain contact with his officer. Id.
+
+      On December 1, 2016, after Mr. Hickey admitted the violations, the United
+
+States District Court for the District of Massachusetts sentenced him to six months
+
+of incarceration to be followed by thirty-six months of supervised release. PSR ¶ 2;
+
+                                           4
+Case 1:07-cr-00073-JAW Document 101 Filed 06/09/20 Page 5 of 20          PageID #: 227
+
+
+
+Stip. ¶ 1 (citing Min. Entry, United States v. Hickey, 1:16-cr-10056-RGS (D. Mass.)
+
+(ECF No. 28)). During the revocation sentencing, the District Judge reviewed the
+
+PO’s proposal for Mr. Hickey’s second release from prison and confirmed that the PO
+
+had developed a “thoughtful recommendation.”         Gov’t’s Resp., Attach. 1, Tr. of
+
+Probation Revocation Hr’g at 3:10-7:07        He was released from BOP custody on
+
+February 15, 2017, and began his second period of supervised release. PSR ¶ 2.
+
+      On April 28, 2017, the PO completed a second violation report on Mr. Hickey.
+
+Supp. Stip. Attach. 2, Violation Report (Violation Report II). This report alleges that
+
+Mr. Hickey had violated two conditions of supervised release, including drug and
+
+alcohol conditions and a requirement that he participate in drug treatment. Violation
+
+Report II at 2-3. On May 17, 2017, Mr. Hickey again admitted the violations and the
+
+United States District Court for the District of Massachusetts sentenced him to eight
+
+months of incarceration and twelve months of supervised release. PSR ¶ 2; Stip. ¶ 2
+
+(citing Min. Entry, Hickey, 1:16-cr-10056-RGS (ECF No. 39)).         Mr. Hickey was
+
+released on December 22, 2017. PSR ¶ 2.
+
+      On May 1, 2018, Mr. Hickey was arrested for his third violation of the terms of
+
+his supervised release. Id.; Stip. ¶ 3 (citing Min. Entry, Hickey, 1:16-cr-10056-RGS
+
+(ECF No. 46)). The Court released Mr. Hickey and scheduled a revocation hearing
+
+for June 13, 2018. PSR ¶ 2; Min. Entry, Hickey, 1:16-cr-10056-RGS (ECF No. 46).
+
+Mr. Hickey failed to appear at the June 13, 2018, hearing and a warrant issued. PSR
+
+¶ 2; Min. Entry, Hickey, 1:16-cr-10056-RGS (ECF No. 49).
+
+
+
+
+                                          5
+Case 1:07-cr-00073-JAW Document 101 Filed 06/09/20 Page 6 of 20                          PageID #: 228
+
+
+
+        On December 6, 2018, the Boston Police Department arrested Mr. Hickey and
+
+charged him with Armed and Masked Robbery, Assault with a Dangerous Weapon,
+
+and Assault and Battery. 1 PSR ¶ 2. Mr. Hickey made his initial appearance on the
+
+revocation proceeding in the District of Massachusetts on January 16, 2019, and he
+
+was ordered detained until released from state custody. Id. He was remanded to the
+
+custody of the United States Marshall Service to be returned to state custody. Id. In
+
+addition to violations of the drug conditions, the Third Amended Petition dated
+
+January 16, 2020, describes the incidents that led to the new state criminal charges:
+
+(1) a September 5, 2018, assault and battery of his ex-girlfriend and her brother and
+
+a September 17, 2018, violation of an active restraining order; and, (2) a November
+
+30, 2018, bank robbery with a firearm. Supp. Stip., Attach. 3, 3rd Am. Pet. and Aff.
+
+for Warrant or Summons for Offender Under Supervision at 2-3 (Third Am. Pet.). As
+
+of March 13, 2020, the revocation hearing on the third supervised release violation is
+
+scheduled in Massachusetts for later in the month of June. Gov’t’s Resp. at 2.
+
+III.    THE 28 U.S.C. § 2255 ORDER AND ITS IMPACT
+
+        On June 20, 2019, Mr. Hickey filed a pro se habeas corpus petition, seeking a
+
+ruling that his original sentencing of July 2, 2009, violated the United States
+
+
+
+
+1        In United States v. Marrero-Pérez, 914 F.3d 20 (1st Cir. 2019), the First Circuit wrote that “as
+a matter of judicial policy, in this case and henceforth, no weight should be given in sentencing to
+arrests not buttressed by convictions or independent proof of conduct.” Id. at 22. As further explained
+by the First Circuit, a sentencing court may consider arrests when there is “greater indicia of
+reliability” beyond the mere fact of arrest to assure the court that “the conduct underlying the arrest[s]
+took place.” United States v. Rodríguez-Reyes, 925 F.3d 558, 565 (1st Cir. 2019) (emphasis omitted)
+(quoting Marrero-Pérez, 914 F.3d at 24). Here, the Government and Mr. Hickey stipulated that the
+Court may consider for purposes of resentencing a set of documents, including the contents of the Third
+Amended Petition and Affidavit for Warrant or Summons for Offender Under Supervision (Third
+Amended Petition). Supp. Stip.
+
+                                                    6
+Case 1:07-cr-00073-JAW Document 101 Filed 06/09/20 Page 7 of 20           PageID #: 229
+
+
+
+Supreme Court case of Johnson v. United States, 135 S. Ct. 2551. Mot. Under 28
+
+U.S.C. § 2255 to Vacate, Set Aside, or Correct Sentence by Person in Fed. Custody
+
+(ECF No. 70). He claimed that his prior convictions, which counted as predicate
+
+convictions for the ACCA in 2009, no longer counted under Johnson v. United States.
+
+Id. On September 27, 2019, the Government conceded. Gov’t’s Resp. to Mot. to Correct
+
+Sentence Under 28 U.S.C. § 2255 at 1 (ECF No. 79). On January 17, 2020, the Court
+
+issued an order granting Mr. Hickey’s petition and ordering his resentencing. Order
+
+on 28 U.S.C. § 2255 Mot. at 4 (ECF No. 80).
+
+      To assess the practical impact of this order, the Court turns first to Mr.
+
+Hickey’s July 2, 2009, sentencing. At the 2009 sentencing hearing, the Court found
+
+that Mr. Hickey had at least two prior felony convictions for crimes of violence, fixing
+
+his base offense level under the U.S.S.G. at twenty-four. PSR ¶ 5. However, the
+
+Court also found that Mr. Hickey had at least three violent felony convictions and
+
+therefore applied the provisions of the ACCA to him, resulting in an escalated base
+
+offense level of thirty-three. Id. The Court found that Mr. Hickey was entitled to a
+
+three-level reduction for acceptance of responsibility with a resulting total offense
+
+level of thirty. Id. Mr. Hickey had a criminal history category of VI. Id. His
+
+preliminary guideline sentencing range was 168 to 210 months of incarceration. Id.
+
+Because he qualified as an armed career criminal, however, he faced a mandatory
+
+minimum term of incarceration of 180 months, id., and therefore his guideline
+
+sentence range was 180 to 210 months. Id.
+
+
+
+
+                                           7
+Case 1:07-cr-00073-JAW Document 101 Filed 06/09/20 Page 8 of 20          PageID #: 230
+
+
+
+      Mr. Hickey benefitted from the provisions of U.S.S.G. § 5K1.1 and 18 U.S.C.
+
+§ 3553(e) and the Court was not bound by the mandatory statutory minimum
+
+sentence.   Id. ¶¶ 1, 5.    The Court imposed a term of ninety-nine months of
+
+incarceration and five years of supervised release. Id. ¶ 5; J. at 2-3 (ECF No. 67).
+
+Mr. Hickey served a total of seven years, five months, and eleven days or a total of
+
+eighty-nine months and eleven days before the Bureau of Prisons released him and
+
+he began to serve the five-year term of supervised release. PSR ¶ 2.
+
+      In its recently revised PSR, the Court fixed Mr. Hickey’s new total offense level
+
+at twenty-one. Id. ¶ 16. Mr. Hickey’s criminal history category remains VI. Id. ¶ 17.
+
+His newly-calculated guideline range for incarceration is seventy-seven to ninety-six
+
+months. Id. His term of supervised release under the Guidelines is one to three
+
+years. Id. The removal of the ACCA not only eliminates the fifteen-year statutory
+
+minimum sentence but also lowers the maximum statutory sentence to ten years and
+
+the maximum statutory term of supervised release to three years. Id. ¶ 3. The PO
+
+reclassified this federal crime as a Class C Felony. Id. ¶ 17.
+
+IV.   THE PARTIES’ POSITIONS
+
+      A.     Thomas I. Hickey, III’s Position
+
+      Mr. Hickey acknowledges that the “posture of this case is unusual” in that he
+
+has already served the full sentence of incarceration that the Court imposed on July
+
+2, 2009. Def.’s Mem. at 2. Mr. Hickey says that there is “value alone” in having a
+
+corrected sentence on the record, but he asks the Court for a further “accommodation”
+
+to “reduce his exposure in his revocation proceedings now pending in the District of
+
+
+
+                                           8
+Case 1:07-cr-00073-JAW Document 101 Filed 06/09/20 Page 9 of 20          PageID #: 231
+
+
+
+Massachusetts.” Id. Mr. Hickey asks the Court to resentence him at the bottom of
+
+the newly-calculated guideline sentence range of seventy-seven months. Id. He says
+
+that such a sentence would “expose him to no additional time in his supervised release
+
+revocation proceedings.” Id.
+
+      Mr. Hickey writes:
+
+      There is ample reason to conclude that, had [Mr. Hickey] been sentenced
+      in 2009 under the imprisonment range from the revised presentence
+      report, his sentence would have been even lower than this given the
+      substantial downward departure he received at the time. In other
+      words, he has served more than enough time in connection with his
+      firearm conviction.
+
+Id. at 2-3. Mr. Hickey says that under federal law, his argument is characterized as
+
+“banked time.” Id. at 3. He admits that for First Step Act cases where the sentences
+
+of certain incarcerated defendants were statutorily reduced, there is a guideline
+
+provision, U.S.S.G. § 1B1.10(b)(2)(C), that does not allow banked time. Id. But he
+
+says his case is different because his overserved time does not arise from a statutory
+
+or guideline change but from a decision of the United States Supreme Court, which
+
+found a portion of the ACCA unconstitutional. Id.
+
+      Anticipating the Government’s argument against banked time, Mr. Hickey
+
+argues that the policy issues are blunted in his case because (1) he “did not seek a
+
+reduction of his original sentence until after he had been summonsed for the
+
+supervised release violation (and had served sentences on 2 earlier revocations)” and
+
+(2) he “will realize no benefit against any state sentence he might receive.” Id.
+
+      Mr. Hickey also anticipates that the Government will argue that he should
+
+seek relief not from this Court in resentencing him for the original offense but from
+
+                                          9
+Case 1:07-cr-00073-JAW Document 101 Filed 06/09/20 Page 10 of 20          PageID #: 232
+
+
+
+ the United States District Court in Massachusetts, which will be sentencing him on
+
+ his newest revocation petition. Id. at 3-4. Although he agrees that he “could argue”
+
+ to the Massachusetts federal judge that he should receive credit for any sentence
+
+ imposed on the revocation petition because he overserved time on his original
+
+ sentence, he stresses that the Court has the discretion at this resentencing to “order
+
+ a prison sentence that is fair and reasonable considering relevant sentencing factors
+
+ under 18 U.S.C. § 3553.” Id. at 4. Mr. Hickey views this alternative as appropriate
+
+ even though the result would be that he is not exposed to any further incarceration
+
+ under the pending revocation proceeding in Massachusetts because “it would result
+
+ from [Mr. Hickey]’s having already served sufficient time in connection with this
+
+ offense, and would cause no injustice.”
+
+       As an alternative, Mr. Hickey urges the Court to impose no term of supervised
+
+ release in this resentencing. Id. Citing Fourth Circuit authority, Mr. Hickey says
+
+ that the Court has the discretion to order no supervised release for a federal
+
+ defendant who has overserved his period of incarceration. Id. (citing United States v.
+
+ Ketter, 908 F.3d 61, 66 (4th Cir. 2018)).
+
+       In sum, Mr. Hickey asks that the Court “impose a sentence of 77 months or,
+
+ should the Court decide to impose a longer sentence, that the Court order no term of
+
+ supervised release in resentencing [Mr. Hickey] in this matter.” Id.
+
+       B.     The Government’s Position
+
+       In its response, the Government observes that Mr. Hickey fails to cite any case
+
+ that has adopted the position regarding banked time that he is espousing here.
+
+
+
+                                             10
+Case 1:07-cr-00073-JAW Document 101 Filed 06/09/20 Page 11 of 20            PageID #: 233
+
+
+
+ Gov’t’s Resp. at 3. The Government cites caselaw that has disapproved the concept
+
+ of banked time on public policy grounds. Id. at 3-4. The Government argues that the
+
+ Court’s adoption of either of Mr. Hickey’s proposals would constrain the
+
+ Massachusetts federal judge’s options in addressing the pending petition for
+
+ revocation: “he could avoid punishment for conduct that occurred while he was
+
+ serving a lawful term of supervised release and any ‘banked’ time could have a real
+
+ and serious impact on his future performance on supervised release.” Id. at 4. The
+
+ Government rejects Mr. Hickey’s claim that he should now benefit from his prior
+
+ cooperation, noting that he has “received the benefit of the departure that his
+
+ cooperation produced.” Id.
+
+       The Government notes that Mr. Hickey “has not made good use of the time
+
+ that he earned.” Id. at 5. The Government points out that Mr. Hickey is facing his
+
+ third revocation proceeding and the latest allegations concern new criminal conduct.
+
+ Id.
+
+       Regarding Mr. Hickey’s request that the Court shorten or eliminate the term
+
+ of supervised release to make up for overserved time, the Government observes that
+
+ this Court previously rejected a similar request. Id. (citing United States v. Powell,
+
+ 1:03-cr-00061-JAW, 2015 WL 8957629, 2015 U.S. Dist. LEXIS 168585 (D. Me. Dec.
+
+ 15, 2015)).
+
+       Finally, the Government notes that one alternative for Mr. Hickey would be to
+
+ file a motion to modify or terminate his term of supervised release. Id.
+
+
+
+
+                                          11
+Case 1:07-cr-00073-JAW Document 101 Filed 06/09/20 Page 12 of 20            PageID #: 234
+
+
+
+       The Government urges the Court to impose a time-served sentence followed by
+
+ three years of supervised release. Id. at 6.
+
+ V.    DISCUSSION
+
+       A.     The Impact of Changed Sentencing Classifications on Thomas I.
+              Hickey, III: A Summary
+
+
+       As the Court understands it, the new arithmetic underlying Mr. Hickey’s
+
+ banked time argument starts with the new sentencing classification for his felon in
+
+ possession of a firearm crime from a Class A to a Class C felony. See 18 U.S.C.
+
+ §§ 922(g)(1), 924(a)(2), 3581(b). The reduced classification lowers the statutory term
+
+ of incarceration from a mandatory minimum of fifteen years to a maximum of life to
+
+ a maximum of not more than ten years. Compare 18 U.S.C. § 924(e)(1), with 18
+
+ U.S.C. § 924(a)(2). With the reduced classification, the new statutory maximum term
+
+ of supervised release is lowered from five to three years, compare 18 U.S.C.
+
+ § 3583(b)(1), with 18 U.S.C. § 3583(b)(2), and the new statutory term of imprisonment
+
+ for violation of supervised release is lowered from five to two years for each violation.
+
+ See 18 U.S.C. § 3583(e)(3). The maximum term of additional supervised release is
+
+ three years reduced by any term of imprisonment imposed on a revocation of his
+
+ supervised release. See 18 U.S.C. § 3583(h).
+
+       The practical effect of these new numbers is that by statute on resentencing,
+
+ the Court may not impose a term of more than one hundred and twenty months and
+
+ may not impose a term of supervised release of more than three years. Mr. Hickey
+
+ faces a potential term of incarceration of not more than two years on the pending
+
+
+
+                                            12
+Case 1:07-cr-00073-JAW Document 101 Filed 06/09/20 Page 13 of 20                        PageID #: 235
+
+
+
+ revocation petition.       His potential maximum term of three years of additional
+
+ supervised release after any revocation sentence must be reduced by the amount of
+
+ time he has served on prior revocation proceedings or by fourteen months. See PSR
+
+ ¶ 2. This would leave twenty-two months available as a potential term of supervised
+
+ release after serving any term of imprisonment imposed at the upcoming revocation
+
+ hearing.
+
+        B.      Banked Time
+
+        At this resentencing, the Court will not bank time that Mr. Hickey overserved.
+
+ It is controversial whether a sentencing court can or should credit an individual like
+
+ Mr. Hickey with overserved time by allowing him to bank the overserved time against
+
+ a future sentence.
+
+        As Mr. Hickey concedes, the U.S.S.G. prohibit banking overserved time. Def.’s
+
+ Mem. at 3. U.S.S.G. § 1B1.10(b)(2)(C) provides:
+
+        (C) PROHIBITION. —In no event may the reduced term of
+        imprisonment be less than the term of imprisonment the defendant has
+        already served.
+
+ But Mr. Hickey argues that his request is not based on an application of the U.S.S.G.
+
+ and therefore § 1B1.10(b)(2)(C)’s prohibition does not apply. Def.’s Mem. at 3. Mr.
+
+ Hickey explains that the “sentencing change does not arise from a Guideline
+
+ amendment, but rather as a result of the Supreme Court’s having found a portion of
+
+ the A[CCA] unconstitutional.” Id. Mr. Hickey cites no case where a federal court
+
+ allowed a defendant to bank time. 2
+
+
+ 2        Mr. Hickey cites United States v. Lewis, 398 F. Supp. 3d 945 (D.N.M. 2019) for the proposition
+ that “[t]his issue appears to have come up from time-to-time in connection with the First Step Act.”
+
+                                                   13
+Case 1:07-cr-00073-JAW Document 101 Filed 06/09/20 Page 14 of 20                        PageID #: 236
+
+
+
+        The Government cites caselaw that casts doubt of the practice of banking
+
+ overserved time. Gov’t’s Resp. at 3-4 (citing Miller v. Cox, 443 F.2d 1019, 1021 (4th
+
+ Cir. 1971); United States v. McDonald, No. 3:09-cr-0006, 2020 WL 1016351, at *3,
+
+ 2020 US Dist. LEXIS 36116 (W.D. Va. Mar. 3, 2020); United States v. Smith, No. 5:05-
+
+ cr-30044, 2019 WL 3557886, at *3-4, 2019 U.S. Dist. LEXIS 130825 (W.D. Va. Aug.
+
+ 5, 2019); United States v. Jackson, No. 5:03-cr-30093, 2019 WL 613500, at *3-4, 2019
+
+ U.S. Dist. LEXIS 24039 (W.D. Va. Feb. 13, 2019)). As expressed by the Fourth Circuit
+
+ in Miller, banked time would “provide a sense of immunity and an incentive to engage
+
+ in criminal conduct.” Miller, 443 F.2d at 1021.
+
+        Around the same time the Government filed its memorandum, the Fourth
+
+ Circuit handed down United States v. Jackson. 952 F.3d 492 (4th Cir. 2020). The
+
+ Fourth Circuit reviewed the different circumstances where the concept of banked
+
+ time might be applicable. Id. at 497-98. Significantly, the Fourth Circuit affirmed
+
+ its conclusion in Miller that it is “unthinkable” that a defendant could bank time for
+
+ a vacated conviction against new criminal conduct. Id. at 498 (quoting Miller, 443
+
+ F.2d at 1021).
+
+        The Jackson Court limited the possibility of banked time to whether, as Mr.
+
+ Hickey is proposing here, a defendant who overserved a term of incarceration could
+
+ gain a credit against future supervised release violations for the same crime. Id. at
+
+ 498-99. But, in Jackson, the district court considered a case where a defendant had
+
+
+
+
+ Def.’s Mem. at 3 (citing Lewis, 398 F. Supp. 3d at 973). But he does not claim that Lewis supports his
+ argument that he should be allowed to bank time. The Court reviewed Lewis and concludes that it is
+ not germane to the issue before the Court in this motion.
+
+                                                  14
+Case 1:07-cr-00073-JAW Document 101 Filed 06/09/20 Page 15 of 20            PageID #: 237
+
+
+
+ been originally sentenced to 240 months of incarceration, which was subject to a
+
+ reduced sentence under the First Step Act. Id. at 494. The defendant had served
+
+ approximately 177 months and the district court imposed a time-served sentence. Id.
+
+ at 494-95. The defendant urged the sentencing judge to impose a sentence of 120
+
+ months and allow him to bank the excess time of fifty-seven months against a future
+
+ term of imprisonment if he violated his supervised release. Id. The district judge
+
+ rejected his request for a 120-month sentence, reasoning that “the need to protect the
+
+ public and the need for deterrence dictated that [the defendant] not be given banked
+
+ time to offset the penalties for future violations of his supervised release, including
+
+ future crimes.” Id. at 495. The Defendant appealed, claiming that it was improper
+
+ for the district court even to consider the possibility of banked time in arriving at an
+
+ appropriate sentence. Id.
+
+       On this narrow question, the Fourth Circuit first concluded that “a defendant
+
+ is not entitled to a sentence that would result in banked time.” Id. at 499. At the
+
+ same time, the Jackson Court also concluded that the district judge did not abuse her
+
+ discretion in considering the possibility of banked time in determining an appropriate
+
+ sentence on resentencing and whether to resentence a defendant for less than the
+
+ time he has already served. Id. at 495.
+
+       Neither counsel cited a First Circuit case on the appropriateness of banked
+
+ time and the Court found none. This Court is skeptical about the notion that a
+
+ defendant should be allowed to bank time against either new criminal conduct or a
+
+ supervised release violation, even if the person is serving a period of supervised
+
+
+
+                                           15
+Case 1:07-cr-00073-JAW Document 101 Filed 06/09/20 Page 16 of 20                       PageID #: 238
+
+
+
+ release as part of the unitary sentence for which there was overserved prison time.
+
+ The Court concurs with the Fourth Circuit that a credit against a sentence for new
+
+ criminal conduct would be “unthinkable.” Similarly, a credit against a violation of
+
+ the conditions of supervised release (a wider range of misconduct including
+
+ potentially, as here, new criminal conduct) is also inadvisable. To credit overserved
+
+ time against future misconduct would grant impunity to the extent of the credit and
+
+ correspondingly limit the authority of a court or supervising officer. To allow banked
+
+ time against future violations of law or supervised release strikes the Court as
+
+ terrible public policy.
+
+        Finally, even if a court could in the exercise of its discretion grant a particular
+
+ defendant banked time, the Court would not do so in Mr. Hickey’s case. Mr. Hickey’s
+
+ right to resentencing did not come about as a result of circumstances unique to his
+
+ case; rather, he was the beneficiary of an intervening Supreme Court case that
+
+ applied to all defendants in his situation.             In other words, the Court properly
+
+ sentenced Mr. Hickey in 2009 based on the law as it then existed and did not commit
+
+ a sentencing error that resulted in Mr. Hickey overserving time. Nor has Mr. Hickey
+
+ demonstrated during his period of supervised release that his history and
+
+ characteristics, the nature and circumstances of his offense and supervised release
+
+ violations, and the other factors in 18 U.S.C. § 3553(a) justify according him banked
+
+ time against future misbehavior. 3
+
+
+ 3       Mr. Hickey correctly points out that the banked time credit would not apply to the pending
+ criminal charges in the commonwealth of Massachusetts. Def.’s Mem. at 3. Even so, there is no
+ guarantee the federal government will not elect to prosecute Mr. Hickey for bank robbery, which is
+ often, though not always, charged federally, even when initially charged by the state. If the federal
+
+                                                  16
+Case 1:07-cr-00073-JAW Document 101 Filed 06/09/20 Page 17 of 20                       PageID #: 239
+
+
+
+        C.      Overserved Time to Reduce Term of Supervised Release
+
+        In addition, the Court will not reduce Mr. Hickey’s term of supervised release
+
+ by the amount of his overserved time. The Court generally addressed this issue in
+
+ Powell and concluded that United States v. Johnson, 529 U.S. 53 (2000), and Pepper
+
+ v. United States, 562 U.S. 476 (2011), as well as Francis v. Maloney, 798 F.3d 33 (1st
+
+ Cir. 2015), counsel against crediting overserved sentences against terms of
+
+ supervised release. 2015 WL 8957629, at *1-2, 2015 U.S. Dist. LEXIS 168585, at *3-
+
+ 5. The Supreme Court interpreted 18 U.S.C. § 3624(e) to mean that the term of
+
+ supervised release begins at the point the inmate is released from prison. United
+
+ States v. Johnson, 529 U.S. at 60 (“The statute, by its own necessary operation, does
+
+ not reduce the length of a supervised release term by reason of excess time served in
+
+ prison”). In Pepper, the Supreme Court wrote that “[s]upervised release follows a
+
+ term of imprisonment and serves an entirely different purpose than the sentence
+
+ imposed under [18 U.S.C.] § 3553(a).” 562 U.S. at 502 n.15. In Francis, the First
+
+ Circuit concluded that “[United States v. ]Johnson binds us.” 798 F.3d at 39.
+
+        Even though the issue in United States v. Johnson, Pepper, and Francis was
+
+ slightly different, each decision suggests that, if not forbidden, a court should be
+
+ careful about trading time in incarceration for time on supervised release because the
+
+ two types of penalties serve different purposes. Courts have considered a federal
+
+ sentence, often a period of incarceration followed by a period of supervised release, to
+
+ be unitary; nevertheless, courts have also acknowledged that the purposes of
+
+
+ government charges and convicts Mr. Hickey with the bank robbery, the issue of credit for new federal
+ crimes will become real, not hypothetical.
+
+                                                  17
+Case 1:07-cr-00073-JAW Document 101 Filed 06/09/20 Page 18 of 20                         PageID #: 240
+
+
+
+ incarceration and supervised release differ. Jackson, 952 F.3d at 498 (“Although
+
+ custodial and supervised release terms are components of one unitary sentence, they
+
+ serve different purposes” (internal citation omitted)). 4
+
+        The only case where the First Circuit even obliquely addressed this issue is
+
+ United States v. Carter, 860 F.3d 39 (1st Cir. 2017), a case not cited by the parties.
+
+ In Carter, the First Circuit wrote:
+
+        The fact that Carter has completed his prison sentence does not moot
+        his sentencing challenge. In simple terms, if the sentencing guidelines
+        treated his criminal conduct as warranting much less prison time than
+        the district court thought was the case, the district court might well
+        adjust the length of supervised release deemed appropriate.
+
+ Id. at 43 (internal citation omitted).           The Carter case, however, did not involve
+
+ overserved time and is not directly relevant to the issues before the Court here.
+
+        Assuming the Court could trade excess time in prison for time on supervised
+
+ release, and Carter suggests it is possible, this is not the case to do it. Mr. Hickey
+
+
+
+ 4        Mr. Hickey cites Ketter, a Fourth Circuit case, in support of his contention that a court may
+ reduce a term of supervised release to account for overserved prison time. Def.’s Mot. at 4 (citing
+ Ketter, 908 F.3d at 66). In citing Ketter, Attorney Haddow, who is a precise and careful attorney, used
+ the citation “Cf.” THE BLUEBOOK: A UNIFORM SYSTEM OF CITATION R. 1.2 (Columbia Law Review Ass’n
+ et al. eds., 20th ed. 2015) (“Cf. Cited authority supports a proposition different from the main
+ proposition but sufficiently analogous to lend support”). The Court agrees with Attorney Haddow that
+ the authority in Ketter is different but analogous.
+          In Ketter, the Fourth Circuit was not addressing whether a court could or should reduce a
+ period of supervised release to make up for overserved prison time. The defendant in Ketter, like Mr.
+ Hickey, benefitted from Johnson v. United States and on resentencing the district judge resentenced
+ him to time served, even though a time-served sentence substantially exceeded his newly-calculated
+ guideline range. Id. at 64. The defendant challenged the time-served sentence on the ground that the
+ trial judge failed to adequately explain why he varied upward from the newly-calculated guideline
+ range. Id. at 66-67. The Fourth Circuit noted that the trial judge reduced the defendant’s term of
+ supervised release to account for his overserved time and the Fourth Circuit used the district court’s
+ explanation for doing so to justify the upward variance. Id. at 67. The Fourth Circuit did not directly
+ address whether a district court can or should trade overserved prison time for a reduced term of
+ supervised release since the issue was not before it. Even so, Attorney Haddow is correct that the
+ Fourth Circuit did not disapprove of the sentencing judge’s trade-off in Ketter. This Court finds Ketter
+ to be of limited usefulness in addressing the issue now before it.
+
+                                                   18
+Case 1:07-cr-00073-JAW Document 101 Filed 06/09/20 Page 19 of 20            PageID #: 241
+
+
+
+ has had an exceedingly difficult time complying with the terms of supervised release
+
+ despite the considerable efforts of the PO in the District of Massachusetts to ease his
+
+ transition from prison to freedom.      Unfortunately, despite efforts of the PO to
+
+ structure comprehensive re-entry programs, Mr. Hickey repeatedly violated the
+
+ terms of the programs and was uncooperative with mandated treatment. The most
+
+ recent charges indicate that Mr. Hickey is not merely a risk to himself but to others.
+
+ Mr. Hickey’s history suggests that the United States District Court in Massachusetts
+
+ should have the ability to consider the possibility of further supervised release in its
+
+ attempt to fashion an appropriate sentence at the upcoming revocation hearing.
+
+       Second, the Court has not seen Mr. Hickey for almost eleven years; the Court
+
+ sentenced him in 2009 and has not seen him since. His case has been formally
+
+ transferred to the District of Massachusetts, he has appeared twice before a judge of
+
+ the United States District Court in Massachusetts for revocation hearings and
+
+ sentences, and he is scheduled for a third. If the decision to reduce supervised release
+
+ is discretionary, it makes no practical sense for this Court with its distant direct
+
+ encounters with Mr. Hickey to constrain the range of options available to the District
+
+ Judge in Massachusetts in the upcoming revocation hearing and the Court will not
+
+ do so. Finally, the highly experienced District Judge in Massachusetts, who will
+
+ sentence Mr. Hickey for his recent violations, is no doubt thoroughly familiar with
+
+ the workings of the Commonwealth’s criminal justice system and in a much better
+
+ position to integrate the likely result of the pending state charges in fashioning a
+
+ revocation sentence, including any federal supervised release, that considers the
+
+
+
+                                           19
+Case 1:07-cr-00073-JAW Document 101 Filed 06/09/20 Page 20 of 20          PageID #: 242
+
+
+
+ possibility that Mr. Hickey may serve prison time in the Commonwealth and, upon
+
+ release, be subject to a period of state probation.
+
+ VI.   CONCLUSION
+
+       In resentencing the Defendant, the Court imposes a term of time-served in his
+
+ resentencing and a period of supervised release to follow not to exceed three years.
+
+       SO ORDERED.
+
+                                          /s/ John A. Woodcock, Jr.
+                                          JOHN A. WOODCOCK, JR.
+                                          UNITED STATES DISTRICT JUDGE
+
+ Dated this 9th day of June, 2020
+
+
+
+
+                                            20
+

@@ -1,0 +1,506 @@
+      Case 1:07-cr-10407-NMG Document 80 Filed 11/12/09 Page 1 of 10
+
+
+
+                   United States District Court
+                     District of Massachusetts
+________________________________
+                                  )
+UNITED STATES OF AMERICA,         )
+                                  )
+          v.                      )
+                                  )    Criminal No.
+CARLOS LANDAN,                    )    07-10407-NMG
+                                  )
+          Defendant.              )
+________________________________ )
+
+                            MEMORANDUM & ORDER
+
+GORTON, J.
+
+     One of the defendants in this case, Carlos Landan
+
+(“Landan”), is charged with firearm possession and drug offenses.
+
+He has moved to suppress items seized during the search of his
+
+home and statements made to police on the grounds that the search
+
+was conducted without a warrant and without his consent, that the
+
+statements were not preceded by the giving of Miranda warnings
+
+and that any statements made were involuntary.         This Court
+
+conducted an evidentiary hearing on October 30, 2009.
+
+I.   Background
+
+     A.   Factual Background
+
+     Landan was arrested on the morning of December 7, 2007 in
+
+Haverill, Massachusetts, as part of an investigation by the
+
+Federal Bureau of Investigation’s North Shore Gang Task Force
+
+(“the FBI Gang Task Force”).      The arrest was made pursuant to a
+
+warrant and effectuated by the Massachusetts State Police (“MSP”)
+
+
+                                   -1-
+     Case 1:07-cr-10407-NMG Document 80 Filed 11/12/09 Page 2 of 10
+
+
+
+Special Tactics and Operations Program (“STOP Team”).         That unit
+
+was called on because of concerns about Landan’s history of
+
+violence and, in particular, his prior conviction for assault and
+
+battery with a dangerous weapon which involved the near fatal
+
+stabbing of an undercover MSP trooper.
+
+     At approximately 6:00 a.m. on the morning of the arrest,
+
+members of the STOP Team, without knocking or announcing their
+
+presence, entered Landan’s residence.      Landan was in bed with his
+
+girlfriend and the mother of his child, Marisol Crespo
+
+(“Crespo”).   Police entered the bedroom, arrested Landan and
+
+subsequently handcuffed him.     He was then separated from Crespo
+
+who was taken to another room in the apartment with some
+
+children.
+
+     After Landan was arrested and the apartment secured by the
+
+STOP Team, Lieutenant Ernest Doherty (“Doherty”) of the MSP and
+
+Special Agent Darwin Suelen (“Suelen”) of the FBI assumed control
+
+of the scene.   Doherty testified that he then advised Landan of
+
+his Miranda rights and that Landan responded that he understood
+
+those rights.   In response to questions, Landan told Doherty that
+
+there was cocaine and a gun in the apartment.
+
+     Landan was subsequently taken to the living room area.
+
+Although no search warrant had been issued for Landan’s
+
+residence, Doherty testified that he asked Landan if he would
+
+consent to a search of the apartment and Landan answered
+
+
+                                  -2-
+     Case 1:07-cr-10407-NMG Document 80 Filed 11/12/09 Page 3 of 10
+
+
+
+affirmatively.   According to Doherty, Suelen also showed Landan a
+
+consent to search form and an “advise of rights” form and read
+
+them both to him.   Landan purportedly said that he understood his
+
+rights and consented to a search of the apartment.        After
+
+discussing whether to “un-cuff” Landan so he could sign the
+
+forms, Suelen and Doherty demurred for the sake of officer
+
+safety.   Doherty instead signed both forms as a “witnessing
+
+officer” in the presence of Suelen.
+
+     Although he did not testify at the hearing, Landan asserts
+
+in an affidavit that he repeatedly declined to assent to a search
+
+when officers asked for his permission.      The parties do not
+
+dispute, however, that Crespo did orally consent to a search and
+
+sign a consent-to-search form.
+
+     The apartment was searched and law enforcement officers
+
+found a firearm, ammunition, cocaine and a scale in a bedroom
+
+closet.   Landan has moved to suppress that evidence as well as
+
+the statements he made to police.
+
+     B.    Procedural History
+
+     Landan was indicted on December 6, 2007 and a Superseding
+
+Indictment was returned on August 14, 2008.       Landan filed the
+
+pending motion to suppress on April 17, 2009, along with an
+
+affidavit and an affidavit of his then-counsel Larry Tipton.          The
+
+government filed an opposition to that motion on May 4, 2009,
+
+along with an affidavit from Doherty.      An evidentiary hearing was
+
+
+                                  -3-
+      Case 1:07-cr-10407-NMG Document 80 Filed 11/12/09 Page 4 of 10
+
+
+
+held on October 30, 2009 and the parties subsequently submitted
+
+supplemental memoranda.
+
+II.   Analysis
+
+      In moving to suppress physical evidence and statements made
+
+to the police, Landan argues that: 1) the search was conducted
+
+without a warrant and without his consent, 2) he was not given
+
+the required Miranda warnings before he made the statements, 3)
+
+if there was consent or a waiver under Miranda, it was
+
+involuntary and 4) the officers’ violation of the “knock and
+
+announce rule”, although not mandating suppression, requires some
+
+alternate remedy.      The Court considers those arguments seriatim.
+
+      A.   Consent to Search Landan’s Residence
+
+           1.      Legal Standard
+
+      Although searches without a warrant are presumptively
+
+unreasonable under the Fourth Amendment, “[c]onsensual searches
+
+are a recognized exception to the Fourth Amendment’s warrant
+
+requirement.”      United States v. Vanvliet, 542 F.3d 259, 264 (1st
+
+Cir. 2008).      The government bears the burden of proving, by a
+
+preponderance of the evidence, that the defendant gave his
+
+consent voluntarily.
+
+      Voluntariness is a question of fact that turns on the
+
+totality of the circumstances attending the interaction between
+
+the defendant and searching officers.       Id.   Consent is not
+
+voluntary if it is either coerced or was granted only in
+
+
+                                    -4-
+         Case 1:07-cr-10407-NMG Document 80 Filed 11/12/09 Page 5 of 10
+
+
+
+submission to a claim of lawful authority.           Schneckloth v.
+
+Bustamonte, 412 U.S. 218, 233 (1973).          Consent is voluntary where
+
+the defendant makes an “essentially free and unconstrained choice
+
+[and his will has not] been overborne and his capacity for
+
+self-determination [not] critically impaired.”            United States v.
+
+Forbes, 181 F.3d 1, 5 (1st Cir. 1999) (citations and quotations
+
+omitted).
+
+             2.    Application
+
+     It is undisputed that the search of Landan’s residence was
+
+not pursuant to a search warrant although the arrest was made
+
+pursuant to a warrant.        Thus, Landan’s motion turns first on
+
+whether he consented (as Doherty testified) or objected (as he
+
+contends by affidavit) to the search of the apartment.1             For the
+
+government, Doherty both submitted an affidavit and testified
+
+that Landan consented to the search.          He contends that due to a
+
+fear for officer safety, however, Landan was not un-cuffed to
+
+sign the consent form.
+
+     Landan rebuts the government’s proof by 1) submitting an
+
+affidavit asserting that he continuously refused to allow the
+
+search and 2) seeking, at the evidentiary hearing, to cast doubt
+
+
+
+     1
+        Although the government also maintains that the search
+was justified based upon Crespo’s written consent, the Court
+declines to rely on that assertion because consent by a co-tenant
+cannot justify a search if the other tenant refuses, as Landan
+alleges here. See Georgia v. Randolph, 547 U.S. 103, 114-15
+(2006).
+
+                                      -5-
+     Case 1:07-cr-10407-NMG Document 80 Filed 11/12/09 Page 6 of 10
+
+
+
+on Doherty’s testimony.    Specifically, he questions the officers’
+
+so-called safety concerns with respect to un-cuffing him under
+
+the circumstances in which 1) several heavily-armed officers were
+
+present in the apartment, 2) his prior stabbing of an officer
+
+(the only basis given for officer safety concerns) was over ten
+
+years prior to his arrest and the victim was acting undercover
+
+and 3) Landan was seated, calm and very cooperative.         Thus, with
+
+no reason to be fearful, Landan contends, reasonable officers
+
+would have had him sign the form.       Their failure to do so
+
+arguably implies that Landan actually withheld his consent.
+
+     Although Landan has forcefully questioned the reasonableness
+
+of the decision to keep him handcuffed, the Court finds Doherty’s
+
+affidavit and sworn testimony on the witness stand to have been
+
+credible.   See, e.g., United States v. Hemmings, No. 07-cr-
+
+421(NG)(JMA), 2009 WL 1616517, at *6-7 (E.D.N.Y. June 9, 2009)
+
+(finding a testifying officer more credible than the affidavit of
+
+a defendant who chooses not to testify at a suppression hearing
+
+even though he was entitled to do so without the risk that it be
+
+used against him at trial).    Accordingly, the Court finds that,
+
+by a preponderance of the evidence, the government has shown that
+
+Landan gave his consent to search the apartment.
+
+     That does not, however, end the inquiry because Landan
+
+contends that, even if the Court finds that he consented to the
+
+search, such consent was involuntary.       He points again to the
+
+
+                                  -6-
+        Case 1:07-cr-10407-NMG Document 80 Filed 11/12/09 Page 7 of 10
+
+
+
+circumstances of the arrest, particularly to the presence of many
+
+heavily armed officers.       The Court is unpersuaded.      In fact, the
+
+circumstances upon which Landan relies as supporting his argument
+
+that he did not consent to the search contradict his argument
+
+here.     He was calm and cooperative and the fact that armed
+
+officers were in the apartment or had roused him from bed moments
+
+before does not render involuntary his statements given in a non-
+
+confrontational, controlled setting.         Thus, the Court finds that
+
+his consent was not unconstitutionally coerced.
+
+     B.      Statements to Police
+
+             1.    Legal Standard
+
+     The familiar requirements of Miranda v. Arizona, provide
+
+that a criminal defendant must be advised of certain rights prior
+
+to being subjected to custodial interrogation.           384 U.S. 436, 444
+
+(1966).     Questioning may thereafter proceed only if the defendant
+
+makes a voluntary, knowing and intelligent waiver of those
+
+rights.     Id.   The government bears the burden of proving a waiver
+
+of Miranda by a preponderance of the evidence.           United States v.
+
+Downs-Moses, 329 F.3d 253, 267 (1st Cir. 2003).           If the court
+
+finds no Miranda violation “then the standard shifts” and only
+
+confessions procured by coercive tactics will be excluded.               See
+
+id. (“For example, police may not get a Miranda waiver and then
+
+beat a confession out of a suspect....”).
+
+     Here, there is no dispute that the questioning of Landan
+
+
+                                     -7-
+     Case 1:07-cr-10407-NMG Document 80 Filed 11/12/09 Page 8 of 10
+
+
+
+after his arrest qualifies as custodial interrogation.         Rather,
+
+the issue is identical to that of consent: Doherty’s testimony
+
+that Landan was advised and read his rights (but not required to
+
+sign a form) is disputed by Landan’s affidavit.        For the same
+
+reasons outlined above, the Court credits Doherty’s testimony
+
+over Landan’s affidavit and, accordingly, finds that the
+
+government has demonstrated that Miranda warnings were given.
+
+     Landan again urges that his statements should be suppressed
+
+because they were the “result of coercion and not voluntarily
+
+made” due to the circumstances surrounding the arrest.         The Court
+
+reiterates that this argument lacks merit.       The actions taken by
+
+police were a far cry from the sort of “physical or psychological
+
+pressure” that would justify a finding that Landan’s statements
+
+were involuntary and not a product of free choice.        See Moran,
+
+475 U.S. at 421; cf. Mincey v. Arizona, 437 U.S. 385, 401 (1978).
+
+     C.   Knock and Announce Violation
+
+     In addition to seeking the suppression of physical evidence
+
+and statements made to law enforcement, Landan requests a remedy
+
+for the officers’ alleged violation of the so-called “knock and
+
+announce” rule.   Specifically, he seeks a ruling that there was a
+
+“knock and announce” violation that should be presented to the
+
+jury at trial.
+
+     Both the Fourth Amendment and federal law require that, in
+
+most circumstances, police officers armed with a warrant must
+
+
+                                  -8-
+     Case 1:07-cr-10407-NMG Document 80 Filed 11/12/09 Page 9 of 10
+
+
+
+knock and announce their presence before entering a suspect’s
+
+residence.   See 18 U.S.C. § 3109; Wilson v. Arkansas, 514 U.S.
+
+927, 934 (1995).   Several exceptions to the rule have developed
+
+to relieve officers of that burden where compliance would prove
+
+unhelpful or dangerous.    Officers are not required to knock and
+
+announce their presence
+
+     under circumstances presenting a threat of physical
+     violence, or where police officers have reason to believe
+     that evidence would likely be destroyed if advance notice
+     were given.
+
+Richards v. Wisconsin, 520 U.S. 385, 391 (1997) (citation and
+
+internal quotation marks omitted).
+
+     Here, the Court is persuaded by the government’s contention
+
+that the failure to knock and announce was justified by a threat
+
+of physical violence to police officers due to Landan’s prior
+
+conviction for assault and battery with a deadly weapon in
+
+connection with a near fatal stabbing of a MSP Trooper.         That
+
+criminal history is sufficient to give police a “reasonable
+
+suspicion that knocking and announcing their presence, under the
+
+particular circumstances, would be dangerous.”        See Richards, 520
+
+U.S. at 394.   Consequently, the knock and announce rule was not
+
+violated and Landan is entitled to no affirmative remedy.
+
+
+
+
+                                  -9-
+     Case 1:07-cr-10407-NMG Document 80 Filed 11/12/09 Page 10 of 10
+
+
+
+                                 ORDER
+
+     In accordance with the foregoing, the defendant’s motion to
+
+suppress (Docket No. 64) is DENIED.
+
+
+
+So ordered.
+
+                                 /s/ Nathaniel M. Gorton
+                                 Nathaniel M. Gorton
+                                 United States District Judge
+
+Dated November 12, 2009
+
+
+
+
+                                  -10-
+

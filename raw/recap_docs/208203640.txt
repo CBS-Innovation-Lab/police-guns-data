@@ -1,0 +1,604 @@
+         Case 1:12-cr-10201-DJC Document 123 Filed 08/02/22 Page 1 of 11
+
+
+
+
+                      UNITED STATES DISTRICT COURT
+                       DISTRICT OF MASSACHUSETTS
+__________________________________________
+                                           )
+                                           )
+UNITED STATES OF AMERICA                   )
+                                           )
+                                           )
+            v.                             ) Case No. 12-cr-10201-DJC
+                                           )
+MODESTO CRUZ,                              )
+                                           )
+                  Defendant.               )
+                                           )
+__________________________________________)
+
+                                 MEMORANDUM AND ORDER
+
+CASPER, J.                                                                         August 2, 2022
+
+I.      Introduction
+
+        Petitioner Modesto Cruz (“Cruz” or “Petitioner”) has filed a petition for a writ of habeas
+
+corpus pursuant to 28 U.S.C. § 2255 (the “Petition”). D. 113. The government opposes the
+
+Petition. D. 122. For the reasons discussed below, the Court DENIES the Petition.
+
+II.     Standard of Review
+
+        Under § 2255, an incarcerated individual may move to vacate their sentence if it “(1) was
+
+imposed in violation of the Constitution, or (2) was imposed by a court that lacked jurisdiction, or
+
+(3) exceeded the statutory maximum, or (4) was otherwise subject to collateral attack.” David v.
+
+United States, 134 F.3d 470, 474 (1st Cir. 1998) (citing Hill v. United States, 368 U.S. 424, 426–
+
+27 (1962)). Such motions are also subject to a one-year statute of limitations that runs from the
+
+latest of four possible dates:
+
+        (1) the date on which the judgment of conviction becomes final;
+
+        (2) the date on which the impediment to making a motion created by governmental
+        action in violation of the Constitution or laws of the United States is removed, if
+        the movant was prevented from making a motion by such governmental action;
+
+
+                                                 1
+        Case 1:12-cr-10201-DJC Document 123 Filed 08/02/22 Page 2 of 11
+
+
+
+
+       (3) the date on which the right asserted was initially recognized by the Supreme
+       Court, if that right has been newly recognized by the Supreme Court and made
+       retroactively applicable to cases on collateral review; or
+
+       (4) the date on which the facts supporting the claim or claims presented could have
+       been discovered through the exercise of due diligence.
+
+28 U.S.C. § 2255(f). The petitioner shoulders the burden “to make out a case for section 2255
+
+relief.” David, 134 F.3d at 474 (citing Mack v. United States, 635 F.2d 20, 26–27 (1st Cir. 1980)).
+
+III.   Factual and Procedural Background
+
+       On March 27, 2013, Cruz was charged in a superseding information with one count of
+
+conspiracy to possess with intent to distribute and to distribute 100 grams or more of heroin, in
+
+violation of 21 U.S.C. § 846; four counts of distribution of heroin, in violation of 21 U.S.C. §§
+
+841(a)(1) and 841(b)(1)(B); and one count of being a felon in possession of a firearm and
+
+ammunition, in violation of 18 U.S.C. § 922(g)(1). D. 73. He pleaded guilty to these counts
+
+pursuant to a plea agreement with the government. D. 74; D. 76.
+
+       Under the agreement, among other things, Cruz agreed to plead guilty to all six counts and
+
+the government, in light of Cruz’s concessions, agreed not to file an Information pursuant to 21
+
+U.S.C. § 851. D. 76 at 1–2. The parties also agreed that Cruz was “a career offender, within the
+
+meaning of USSG §4B1.1(b)(a), and, accordingly, his base offense level was 34 and that his
+
+Criminal History Category (“CHC”) was VI. Id. at 3. As a result, the guideline sentencing range,
+
+based upon a total offense level of 31 (reflecting acceptance of responsibility) and CHC of VI was
+
+188–235 months and the government recommended a sentence of 188 months. D. 80 at 1.
+
+       Significantly for our purposes here, Cruz also agreed in his plea agreement to “waive[] any
+
+right he has to challenge his conviction on direct appeal or in a collateral challenge.” D. 76 at 7.
+
+Further, the agreement explained that “[i]n exchange for the U.S. Attorney’s agreement not to file
+
+
+
+
+                                                 2
+        Case 1:12-cr-10201-DJC Document 123 Filed 08/02/22 Page 3 of 11
+
+
+
+
+an Information pursuant to 21 U.S.C. § 851, Defendant agrees that he will not file a direct appeal
+
+nor collaterally challenge his sentence (including any orders relating to supervised release, fines,
+
+forfeiture, and restitution).” Id. The only exception to this appellate waiver was that Cruz
+
+“reserves the right to claim that [his] lawyer was ineffective in connection with the negotiation of
+
+this plea agreement or the entry of the guilty plea.” Id.
+
+       At the March 27, 2013 plea hearing, in response to the Court’s questions, Cruz indicated
+
+that he entered into a plea agreement with the government, he signed the agreement, he had the
+
+opportunity to read and discuss the agreement with his attorney, the agreement included all the
+
+terms to which he agreed, and he understood the terms of the agreement. D. 119 at 10–11. During
+
+the plea colloquy, the Court asked Cruz to turn to the specific page and section of the plea
+
+agreement discussing the appellate waiver to ensure that he understood the nature of the rights he
+
+was waiving. Id. at 16. Regarding this waiver, the Court specifically asked him whether he
+
+understood that he was “waiving [his] right to challenge or appeal [your] conviction.” Id. at 16.
+
+Cruz replied “yes.” Id. at 17. The Court also asked him if he understood that he was “agree[ing]
+
+not to appeal or collaterally challenge any sentence that [the Court] might impose.” Id. Again,
+
+Cruz stated that he understood. Id. In accepting the Cruz’s plea, the Court found him “fully
+
+competent and capable of entering an informed plea” and “aware of the nature of all of the charges
+
+and the consequences of [his] plea,” and that his guilty plea was “knowing and voluntary.” Id. at
+
+27.
+
+       At the July 10, 2013 sentencing, after hearing the parties’ sentencing recommendations,
+
+the Court sentenced Cruz to 188 months’ incarceration, four years of supervised release and $600
+
+special assessment. D. 82; D. 84. At sentencing, the Court asked Cruz if he recalled the waiver
+
+provision in his plea agreement:
+
+
+
+
+                                                 3
+         Case 1:12-cr-10201-DJC Document 123 Filed 08/02/22 Page 4 of 11
+
+
+
+
+       [THE COURT:] Mr. Cruz, you may recall, when you pled guilty, I asked you about
+       certain appellate rights that you gave up in your plea agreement. Do you remember
+       that discussion?
+
+       THE DEFENDANT: Yes.
+
+       THE COURT: And I note in looking at your plea agreement again that you’d
+       waived any right to challenge your conviction on direct appeal or collateral
+       challenge, and that you had also given up certain of your appellate rights in regards
+       to your sentence; but to the extent that any appellate rights survive your plea
+       agreement, you can appeal your conviction or your sentence. If you’re unable to
+       pay the costs of any appeal, you may ask permission to have those costs waived
+       and appeal without paying. You must file any notice of appeal within 14 days after
+       the entry of judgment. If you request, the Clerk will immediately prepare and file
+       a notice of appeal on your behalf. Do you understand?
+
+       THE DEFENDANT: Yes.
+
+D. 103 at 14. Cruz did not appeal his conviction or sentence.
+
+       Over six years after his sentencing, on August 19, 2019, Cruz filed an application with the
+
+First Circuit, requesting leave to file a second or successive habeas petition pursuant to § 2255(h).
+
+See D. 112. As Cruz had not filed any prior motion under § 2255, the First Circuit denied the
+
+motion “as unnecessary” on September 17, 2019. D. 112. On January 13, 2020, Cruz filed this
+
+Petition in this Court, attaching his previously-filed application to the First Circuit. D. 113.
+
+IV.    Discussion
+
+       Cruz seeks habeas relief on the grounds that the Supreme Court’s decision in Burrage v.
+
+United States, 571 U.S. 204 (2014), renders him factually innocent of his convictions pursuant to
+
+21 U.S.C. §§ 841, 846; that 21 U.S.C. § 846 is an unconstitutional bill of attainder; and that his
+
+plea agreement is ambiguous, so he did not actually waive his right to appeal or collaterally attack
+
+his conviction or sentence. D. 113-1 at 9–20.
+
+       A.      Cruz Waived This Collateral Attack to His Conviction and Sentence.
+
+       Before proceeding to the merits of Cruz’s claims, the Court must first determine whether
+
+
+
+
+                                                  4
+         Case 1:12-cr-10201-DJC Document 123 Filed 08/02/22 Page 5 of 11
+
+
+
+
+Cruz’s waiver of his right to bring a collateral challenge is enforceable. Such a waiver is
+
+enforceable if (1) “the written waiver . . . comprise[s] a clear statement describing the waiver and
+
+specifying its scope”; (2) “the record . . . show[s] that the judge’s interrogation suffice[d] to ensure
+
+that the defendant freely and intelligently agreed to waive [his or] her right to appeal”; and (3)
+
+even if the first two prongs are satisfied, the denial of a “right to appeal would [not] work a
+
+miscarriage of justice.” United States v. Morillo, 910 F.3d 1, 2 (1st Cir. 2018) (third and fourth
+
+alterations in original) (quoting United States v. Teeter, 257 F.3d 14, 24–25 (1st Cir. 2001))
+
+(internal quotation marks omitted); see Fed. R. Crim. P. 11(b)(1)(N) (requiring that before a court
+
+accepts a plea, the district court inform, and determine that the defendant understands, any terms
+
+in the plea agreement that waive the right to appeal or collaterally attack the sentence).
+
+       Applying this rubric, Cruz’s waiver of his right to appeal or collaterally attack his
+
+conviction or sentence, including by a § 2255 petition, is plainly enforceable. As an initial matter,
+
+the plea agreement states explicitly that Cruz waives any right he has to challenge his conviction
+
+or sentence on direct appeal or in a collateral challenge. D. 76 at 7. Despite this clear language,
+
+Cruz argues that paragraphs (a) and (e) of the waiver contradict each other, rendering his plea
+
+agreement ambiguous as to the scope of his waiver. D. 113-1 at 19. The Court does not agree.
+
+Paragraph (a) explains that Cruz conferred with his attorney and understands the scope of his rights
+
+to appeal and collaterally challenge his conviction or sentence. D. 76 at 6–7. Paragraph (e)
+
+explains that “notwithstanding any previous subparagraphs” Cruz retains the right to claim
+
+ineffective assistance of counsel “in connection with the negotiation of this plea agreement or entry
+
+of the guilty plea.” Id. at 7. When viewed in its totality, the waiver, its scope, and application are
+
+all clear. Paragraph (a) states which rights Cruz is entitled to, paragraphs (b) and (c) waives those
+
+rights, and paragraph (e) excepts from the waiver only ineffective assistance of counsel claims
+
+
+
+
+                                                   5
+         Case 1:12-cr-10201-DJC Document 123 Filed 08/02/22 Page 6 of 11
+
+
+
+
+relating to the negotiation of the plea agreement and entry of his guilty plea, which Cruz does not
+
+raise here. Id. at 6–7.
+
+       Further, to ensure Cruz understood the waiver, the Court queried him about it during the
+
+plea hearing. The Court turned Cruz’s attention to the specific page and section in the plea
+
+agreement, detailing his waiver. D. 119 at 16. The Court specifically questioned Cruz whether he
+
+understood he was agreeing to waive his right to appeal or collaterally attack his conviction and
+
+his sentence and he answered affirmatively. Id. at 16-17. At sentencing, the Court returned to
+
+this topic, if only as a prelude to the standard recitation of appellate rights. D. 103 at 14.
+
+Accordingly, the Court invoked the colloquy at the Rule 11 hearing, in which the Court had asked
+
+him about waiver of certain appellate rights. Id. When Cruz responded affirmatively, the Court
+
+then reminded him that he had “waived any right to challenge [his] conviction on direct appeal or
+
+collateral challenge,” and that he had given up certain appellate rights as to his sentence but “to
+
+the extent” any such rights remain, the timeframe for filing any appeal was fourteen days after the
+
+entry of judgment. Id. Cruz indicated that he understood. Id.
+
+       Lastly, enforcement of this waiver would not amount to a miscarriage of justice. When a
+
+plea agreement confers “significant benefits” on a defendant, the First Circuit has explained that
+
+enforcing an appellate or collateral challenge waiver is unlikely to create a miscarriage of justice.
+
+Sotirion v. United States, 617 F.3d 27, 38 (1st Cir. 2010). In the case at bar, Cruz reaped significant
+
+benefits from the plea agreement. Most notably, the government agreed to forgo filing a 21 U.S.C.
+
+§ 851 information, the effect of which was to lower Cruz’s guideline sentencing range from 262–
+
+327 months to 188–235 months (and the applicable minimum mandatory sentence). D. 80 at 2; D.
+
+122 at 6-7. Under the agreement, the government also agreed to recommend a sentence “at the
+
+low end of the Sentencing Guideline range.” D. 76 at 5. In light of these concessions on the part
+
+
+
+
+                                                  6
+        Case 1:12-cr-10201-DJC Document 123 Filed 08/02/22 Page 7 of 11
+
+
+
+
+of the government, the Court does not conclude enforcement of Cruz’s waiver would amount to a
+
+miscarriage of justice.
+
+       Nevertheless, Cruz urges the Court to look to the Fourth Circuit’s decision in Whiteside v.
+
+United States, 748 F.3d 541 (4th Cir. 2014), rev’d en banc on other grounds, 775 F.3d 180 (4th
+
+Cir. 2014), which he contends supports his argument. There, the defendant’s plea agreement
+
+excepted from his waiver claims involving ineffective assistance of counsel, prosecutorial
+
+misconduct, and the career offender enhancement. Whiteside, 748 F.3d at 545. In the very next
+
+paragraph, however, the agreement stated that the defendant could only challenge his sentence on
+
+ineffective assistance or prosecutorial misconduct grounds. Id. The panel of the Fourth Circuit
+
+believed the agreement contradicted itself on this issue, “leaving it impossible to say exactly which
+
+rights Whiteside waived” and finding “that Whiteside did not waive his right to challenge the
+
+career offender enhancement in a collateral proceeding.” Id. at 545–46. Here, there is no
+
+contradiction regarding the provisions of the waiver. The language makes clear that Cruz only
+
+retained appellate rights and rights to collateral challenge as to ineffective assistance of counsel
+
+relating to the negotiation of his plea agreement and entry of his guilty plea. He otherwise waived
+
+his right for other challenges to his conviction and sentence and acknowledged his waiver of same
+
+at the Rule 11 hearing. Further, there is no language in Cruz’s plea agreement that would exempt
+
+from such waiver the claims he wishes to raise now—namely, that Burrage renders him factually
+
+innocent of his convictions and that 21 U.S.C. § 846 is an unconstitutional bill of attainder. As
+
+such, Cruz’s waiver was knowingly and voluntarily made and remains enforceable.
+
+       B.      Cruz’s Petition Is Also Untimely
+
+       Cruz’s Petition also remains untimely and therefore barred. Section 2255(f) requires
+
+petitioners to bring their actions within one year from the latest of four possible dates—only three
+
+
+
+
+                                                 7
+        Case 1:12-cr-10201-DJC Document 123 Filed 08/02/22 Page 8 of 11
+
+
+
+
+of which are relevant here and none of which prove availing.
+
+       First, under § 2255(f)(1), petitioners must file their suit within one year of the date of their
+
+conviction becoming final. 28 U.S.C. § 2255(f)(1). Here, Cruz did not file an appeal, so his
+
+conviction became final when the time for filing an appeal expired. Fed. R. App. P. 4(b)(1)(A).
+
+The judgment was entered on July 17, 2013, D. 85, but he did not file the Petition until January
+
+13, 2020, D. 113, well after the one-year limitation expired.
+
+       Second, Cruz makes a passing reference in the Petition to § 2255(f)(2), which allows
+
+petitioners to file their motions within one year of “the date on which the impediment to making a
+
+motion created by governmental action in violation of the Constitution or laws of the United States
+
+is removed.” 28 U.S.C. § 2255(f)(2); D. 113 at 10. Nevertheless, he does not address this issue
+
+in his memorandum to this Court, rendering the issue waived. The First Circuit has repeatedly
+
+held that “issues adverted to in a perfunctory fashion, unaccompanied by some effort at developed
+
+argumentation, are deemed waived.” Watson v. Trans Union LLC, 223 F. App’x 5, 6 (1st Cir.
+
+2007) (quoting United States v. Zannino, 895 F.2d 1, 17 (1st Cir. 1990)) (internal quotation marks
+
+omitted). Even though pro se litigants are afforded a wider latitude than counseled litigants,
+
+Ahmed v. Rosenblatt, 118 F.3d 886, 890 (1st Cir. 1997), they are still subjected to this requirement,
+
+United States v. Nishnianidze, 342 F.3d 6, 18 (1st Cir. 2003). A barebones assertion that a
+
+governmental impediment prohibited Cruz from filing the instant Petition does not satisfy this
+
+standard.
+
+       Finally, Cruz relies upon § 2255(f)(3), which allows petitioners to file their motions within
+
+one year of “the date on which the right asserted was initially recognized by the Supreme Court.”
+
+28 U.S.C. § 2255(f)(3); D. 113 at 1. In this regard, Cruz relies upon the Supreme Court’s decision
+
+in Burrage, 571 U.S. at 204, which was decided on January 27, 2014. Even assuming that Cruz’s
+
+
+
+
+                                                  8
+           Case 1:12-cr-10201-DJC Document 123 Filed 08/02/22 Page 9 of 11
+
+
+
+
+application with the First Circuit could be construed as his § 2255 petition, that application was
+
+not filed until August 19, 2019, some five years after Burrage. Whether you consider the date of
+
+his application to the First Circuit or the January 13, 2020 filing of the Petition here, both dates are
+
+well past the date on which Burrage was decided. 1 More substantively, the supposed right
+
+announced in Burrage has no bearing on Cruz’s case. In Burrage, the Supreme Court interpreted
+
+the statutory language of 21 U.S.C. § 841, which imposes a 20-year mandatory minimum sentence
+
+on a defendant who unlawfully distributes a Schedule I or II drug, when “death or serious bodily
+
+injury results from the use of such substance.” 21 U.S.C. § 841(a)(1), (b)(1)(A)–(C); Burrage, 571
+
+U.S. at 206.    The Court held that “a defendant cannot be [held] liable under the penalty
+
+enhancement provision . . . unless such use [of the drug distributed by the defendant] is a but-for
+
+cause of the death or injury.” Burrage, 571 U.S. at 218–19. While Cruz did indeed plead guilty
+
+to a heroin distribution conspiracy charge in violation of § 846 and four counts of distribution of
+
+heroin, in violation of 21 U.S.C. §§ 841(a)(1) and 841(b)(1)(B), he did not plead to nor was
+
+sentenced under this particular penalty enhancement provision. Cruz should be well aware of this
+
+fact because, at the plea hearing, the government explained that the maximum penalty for the
+
+conspiracy count (involving 100 grams or more of heroin) was forty years’ imprisonment and a
+
+mandatory minimum term of five years and the maximum penalty for the distribution counts was
+
+twenty years’ imprisonment (with no minimum mandatory), D. 119 at 12, and Cruz indicated that
+
+he understood these penalties when the Court inquired. Accordingly, Burrage has no application
+
+here and the Petition is untimely.
+
+
+
+       1
+          Cruz also relies upon the Sixth Circuit’s August 13, 2018 decision in Harrington v.
+Ormond, 900 F.3d 246 (6th Cir. 2018), which relied upon Burrage. However, § 2255(f)(3)
+(referring to the “date on which the right asserted was initially recognized by the Supreme Court”)
+does not encompass decisions by the circuit courts.
+
+
+                                                   9
+        Case 1:12-cr-10201-DJC Document 123 Filed 08/02/22 Page 10 of 11
+
+
+
+
+        C.      Even on the Merits, Habeas Relief Is Not Warranted
+
+        Even if Cruz had not waived his right to file the Petition, and even if the Petition had not
+
+been untimely, the Petition would still fail on the merits. As discussed above, Burrage does not
+
+aid Cruz as to the timing of the Petition, but also does not aid him on the merits for the same
+
+reasons. Cruz’s contention that 21 U.S.C. § 846 is an unconstitutional bill of attainder also fails.
+
+D. 113-1 at 13–17. “A bill of attainder is a law that inflicts punishment upon identifiable members
+
+of a class without providing a judicial trial.” Charles v. Rice, 28 F.3d 1312, 1318 (1st Cir. 1994)
+
+(citing Nixon v. Adm’r of Gen. Servs., 433 U.S. 425, 468–69 (1977)). Cruz does not adequately
+
+explain how § 846 constitutes a bill of attainder, legislatively determining his guilt and inflicting
+
+punishment without a judicial trial. In Cruz’s view, § 846 satisfies the criteria for a bill of attainder
+
+because it “specifies the affected persons are those who are convicted of conspiracy to commit a
+
+crime,” imposes incarceration as punishment, and does not involve a trial in the sense that “all the
+
+government needs to show is that there was an agreement to commit an offense,” not that the
+
+defendant acted in furtherance of the conspiracy. D. 113-1 at 15–16. Cruz’s reliance on United
+
+States v. Brown, 381 U.S. 437 (1965) misses the mark. In Brown, the Supreme Court explained
+
+that Congress must pass “rules of general applicability” and “cannot specify the people upon whom
+
+the sanction it prescribes is to be levied.” Brown, 381 U.S. at 461. “Under our Constitution,
+
+Congress possesses full legislative authority, but the task of adjudication must be left to other
+
+tribunals.” Id. Unlike the statute at issue in Brown, criminalizing service as an officer or employee
+
+of a labor union if also a member of the Communist Party, § 846 is a generally applicable statute
+
+decreeing that any individual who conspires to commit a crime will face the same penalty for the
+
+crime which was the object of the conspiracy. Id. at 438; 21 U.S.C. § 846. It does not target any
+
+specific person or group, as have other laws struck down by the Supreme Court as bills of attainder.
+
+
+
+
+                                                   10
+        Case 1:12-cr-10201-DJC Document 123 Filed 08/02/22 Page 11 of 11
+
+
+
+
+See, e.g., Brown, 381 U.S. 437 (targeting Communist Party members); United States v. Lovett,
+
+328 U.S. 303, 315 (1946) (targeting “subversives”). Further, it was the judicial branch, not the
+
+legislative branch, that adjudicated Cruz’s guilt, after he pled guilty to the crimes and received all
+
+the protections accorded to the criminally accused under our Constitution. See United States v.
+
+Castaing-Sosa, 338 F. App’x 852, 854 (11th Cir. 2009) (holding that the statutory mandatory
+
+minimum sentence provision in 21 U.S.C. § 841 applied to a defendant convicted of a heroin
+
+conspiracy under § 846 was not an unconstitutional bill of attainder).
+
+        For all of these reasons, the Petition fails.
+
+V.      Conclusion and Certificate of Appealability
+
+        For the foregoing reasons, the Court DENIES the Petition, D. 113. Cruz may receive a
+
+certificate of appealability only if he “has made a substantial showing of the denial of a
+
+constitutional right.” 28 U.S.C. § 2253(c)(2). A certificate of appealability is appropriate when
+
+“reasonable jurists would find the district court’s assessment of the constitutional claim debatable
+
+or wrong.” Miller-El v. Cockrell, 537 U.S. 322, 338 (2003) (quoting Slack v. McDaniel, 529 U.S.
+
+473, 484 (2000)) (internal quotation marks omitted). Based upon the analysis of the record and
+
+the applicable law in this Memorandum and Order, the Court does not, at this juncture, conclude
+
+that reasonable jurists would debate its conclusions. The Court, therefore, is not inclined to issue
+
+a certificate of appealability, but will give Petitioner until August 23, 2022 to file a memorandum,
+
+if he seeks to address the issue of whether a certificate of appealability is warranted as to the
+
+Petition.
+
+        So Ordered.
+
+                                                              /s/ Denise J. Casper
+                                                              United States District Judge
+
+
+
+
+                                                   11
+

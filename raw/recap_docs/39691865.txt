@@ -1,0 +1,751 @@
+                               UNITED STATES DISTRICT COURT
+                                    DISTRICT OF MAINE
+
+THOMAS PAUL BRICHETTO, JR.,                       )
+                                                  )
+                Petitioner,                       )
+                                                  )
+        v.                                        )        2:03-cr-00024-GZS
+                                                  )        2:11-cv-00045-GZS
+UNITED STATES OF AMERICA,                         )
+                                                  )
+                Respondent                        )
+
+                             RECOMMENDED DECISION
+                ON 28 U.S.C. § 2255 MOTION and MOTION TO STRIKE
+
+        In this action, Petitioner Thomas Paul Brichetto, Jr., moves, pursuant to
+
+28 U.S.C. § 2255, to vacate, set aside or correct his sentence. (Motion, ECF No. 168.)
+
+The First Circuit granted Petitioner leave to file the motion “to pursue in the district court
+
+a   challenge      to    his    ‘career     offender’      designation      based     on     [Johnson      v.
+
+United States, --- U.S. ---, 135 S. Ct. 2551 (2015)].”                   (Brichetto v. United States,
+
+No. 16-1796 (1st Cir. Nov. 30, 2017).)1
+
+1
+ In Johnson v. United States, --- U.S. ---, 135 S. Ct. 2551 (2015), the Supreme Court held unconstitutionally
+vague the so-called “residual clause” of the Armed Career Criminal Act, 18 U.S.C. § 924(e) (ACCA);
+the residual clause, contained in section 924(e)(2)(B)(ii), defined a “violent felony,” for purposes of an
+enhanced sentence based on prior convictions, as “any felony that ‘involves conduct that presents a serious
+potential risk of physical injury to another.’” 135 S. Ct. at 2555-57.
+
+          In Petitioner’s case, the First Circuit noted that its decision to grant leave to pursue a second or
+successive 28 U.S.C. § 2255 motion was in accordance with its decisions in Hardy v. United States,
+871 F.3d 85 (1st Cir. 2017), and Moore v. United States, 871 F.3d 72 (1st Cir. 2017). (Brichetto v. United
+States, No. 16-1796 (1st Cir. Nov. 30, 2017).) In Moore, the First Circuit granted the petitioner
+authorization “to argue in the district court that the new rule created by [Johnson] invalidates the residual
+clause of the career offender guideline applied at his sentencing, which occurred before United States v.
+Booker, [543 U.S. 220 (2005)], made the guidelines advisory.” 871 F.3d at 74 (citing Booker, 543 U.S. at
+245). The Court explicitly expressed no opinion as to whether Petitioner’s claim under Johnson has merit;
+whether the claim is timely and/or procedurally defaulted; or whether the motion contains any additional
+claims that present gatekeeping issues under 28 U.S.C. § 2255(h). (Brichetto, No. 16-1796
+(1st Cir. Nov. 30, 2017).)
+       Petitioner’s motion to strike two exhibits attached to the Government’s response is
+
+also pending; the Government submitted the exhibits as evidence of two prior Maine state
+
+court burglary convictions. (Motion to Strike, ECF No. 181; Response, ECF No. 177 at
+
+22 & n.10; Attachments, ECF Nos. 177-2, 177-3.)
+
+       Following a review of the section 2255 motion and the record, and after
+
+consideration of the parties’ arguments, I recommend the Court dismiss the section 2255
+
+motion, and recommend the Court dismiss as moot the motion to strike.
+
+                 I. FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+       In December 2001, Petitioner and three accomplices robbed at gunpoint a branch of
+
+a credit union in Gorham, Maine. United States v. Brichetto, 121 F. App’x 876, 876
+
+(1st Cir. 2005). In 2004, following a jury trial, Petitioner was convicted of one count of
+
+armed bank robbery, 18 U.S.C. § 2113(a), (d), § 2 (Count 1), and one count of using and
+
+carrying a firearm in relation to a crime of violence, 18 U.S.C. § 924(c)(1)(A)(ii)
+
+(Count 2).2 (Indictment, ECF No. 4; Jury Verdict, ECF No. 96; Judgment, ECF No. 119
+
+at 1.) The Court sentenced Petitioner to prison terms of 300 months on Count 1, and 84
+
+months on Count 2, to be served consecutively to the term on Count 1. (Judgment at 2.)
+
+The prison terms were to be followed by terms of supervised release of five years on each
+
+count, to be served concurrently. (Id. at 3.)
+
+       At sentencing, the Court found Petitioner was a career offender under the sentencing
+
+guidelines, pursuant to USSG § 4B1.1, based on two or more prior felony crimes of
+
+2
+  The jury found Petitioner not guilty of a felon-in-possession offense, 18 U.S.C. § 922(g)(1), 924(e)
+(Count 3). (Indictment, ECF No. 4 at 2; Jury Verdict, ECF No. 96 at 2.)
+
+
+                                                  2
+violence, as set forth in the revised presentence investigation report. (Sentencing Tr.,
+
+ECF No. 123 at 32-34; Report, ¶¶ 28-36.) The addendum to the revised presentence
+
+investigation report and the sentencing transcript reflect that Petitioner did not object to the
+
+finding that he had five career offender predicate convictions (Sentencing Tr. at 32-34.)
+
+Two of the prior offenses (¶¶ 28, 29) were Maine residential burglaries; three were
+
+non-residential burglaries – two in Maine (¶¶ 31, 34) and one in Massachusetts (¶ 33).3
+
+        The uncontroverted record does not reflect that the Court found as fact, either at
+
+sentencing or in a prior habeas proceeding, that Petitioner’s prior Maine burglary offenses
+
+were predicates based on the career offender residual clause then in effect,
+
+USSG § 4B1.2(a)(2). (Response at 10; Reply, ECF No. 180 at 5-6.) Petitioner, however,
+
+contends the Court’s citation to United States v. Rodriguez, 311 F.3d 435 (1st Cir. 2002),
+
+in one of his prior habeas proceedings, demonstrates that he had been sentenced based on
+
+the Court’s determination that the prior Maine burglaries qualified as career offender
+
+predicates under the residual clause. (Reply at 5-6.)
+
+        Because the Court found that Petitioner qualified as a career offender, the Court
+
+determined the total offense level was 34, rather than the lower level of 26 that otherwise
+
+
+
+3
+  The revised presentence investigation report refers to each of the two Maine burglaries at issue in the
+pending section 2255 motion as a “residential burglary.” (Report, ¶¶ 28, 29.) Because nothing in this
+recommended decision turns on whether the reference is to “residential burglary,” as in the revised
+presentence investigation report, or “burglary of a dwelling,” as in the version of USSG § 4B1.2(a)(2) in
+effect when Petitioner was sentenced, no distinction is made in this recommended decision.
+
+        The Government represents that its review of the Shepard documents, see Shepard v. United States,
+544 U.S. 13, 16 (2005), for one of the burglaries listed as a residential burglary in the revised presentence
+investigation report (Report, ¶ 34) reveals the burglary was of a business rather than a residence.
+(Response, ECF No. 177 at 22 n.10.)
+
+
+                                                     3
+would have applied to Count 1.4 (Sentencing Tr. at 32-33.) The Court also found a criminal
+
+history Category VI; according to a portion of the presentence investigation report on
+
+which the Court relied at sentencing, Category VI applied based on either Petitioner’s
+
+career offender status or his 21 criminal history points. (Id. at 33-35; Report ¶¶ 35-36.)
+
+The Court noted that because Petitioner was convicted under 18 U.S.C. § 2113(d), which
+
+provides a statutory maximum of 25 years (300 months), the guidelines range was 262 to
+
+300 months, rather than the otherwise applicable range of 262 to 327 months. (Sentencing
+
+Tr. at 34-35.)
+
+        The Court sentenced Petitioner to the statutory maximum of 300 months on Count 1,
+
+pursuant to 18 U.S.C. § 2113(d), and to the statutory minimum of 84 months in prison on
+
+Count 2, pursuant to 18 U.S.C. § 924(c)(1)(A)(ii), to be served consecutively to the term
+
+on Count 1, pursuant to section 924(c)(1)(D)(ii). (Sentencing Tr. at 36-37;
+
+Judgment at 1-2.)       The     Court      assessed       the   sentencing      factors,    pursuant      to
+
+18 U.S.C. § 3553(a), relevant to the sentence, and explained the bases of the sentence:
+
+        The reasons for this sentence are that I consider this defendant to be a
+        principal actor in the offense conduct, that this was severely egregious
+        conduct posing inordinate and unjustifiable risk to the public safety,
+        specifically to the safety of those who happened to be in the institution that
+        was the subject of the robbery and more specifically to the safety of [a teller
+        at the credit union].
+
+(Sentencing Tr. at 38-39.)
+
+
+
+
+4
+  At sentencing, the Court noted that the Government withdrew, but preserved its argument, that an
+additional two-level increase would have applied to the non-career offender total offense level, on the basis
+Petitioner was a leader, supervisor, or manager.            (Sentencing Tr., ECF No. 123 at 32-33.)
+See USSG § 3B1.1(c).
+
+                                                      4
+        Petitioner argued on appeal that the jury verdict was inconsistent given the acquittal
+
+on the felon-in-possession charge; the First Circuit concluded there was “more than
+
+sufficient evidence” to find Petitioner guilty on Counts 1 and 2, and the Court affirmed the
+
+conviction.5 Brichetto, 121 F. App’x at 876-78.
+
+        In this action, Petitioner contends he is entitled to relief under Johnson from both
+
+the career offender sentence on Count 1 and the 18 U.S.C. § 924(c) sentence on Count 2.6
+
+(Motion at 5-6.)
+
+                                              II. DISCUSSION
+
+        A. Background on Johnson
+
+        Petitioner challenges the Court’s career offender sentence enhancement, which was
+
+based on prior “crimes of violence” under the sentencing guidelines; his claim, and the
+
+First Circuit’s authorization, are based on Johnson, which addressed a sentencing
+
+enhancement pursuant to the Armed Career Criminal Act, 18 U.S.C. § 924(e) (ACCA).
+
+Section 924(e)(1) provides in part that a defendant “who violates [18 U.S.C. § 922(g)] and
+
+has three previous convictions . . . for a violent felony or a serious drug offense, or both,
+
+
+
+
+5
+ The First Circuit also noted Petitioner “appropriately waived [his] Booker claim of sentencing error . . . .”
+Id. at 878. The prior waiver under Booker pre-dated Johnson and has no bearing on the Johnson claim
+authorized by the First Circuit.
+6
+  Petitioner initially filed the Johnson claim on June 20, 2016, in the First Circuit, in an application for leave
+to file a second or successive section 2255 motion. (Brichetto v. United States, No. 16-1796, First Circuit
+Docket Record.) In November 2017, the First Circuit granted the application, and the Court ordered the
+matter transferred to this Court for filing as a section 2255 motion. (Brichetto, No. 16-1796 (1st Cir. Nov.
+30, 2017).) The Court directed the motion to be “deemed filed in the district court on the date petitioner’s
+original second or successive application was filed” in the First Circuit. (Id.) The Johnson claim, therefore,
+is deemed filed in this Court on June 20, 2016.
+
+
+                                                        5
+committed on occasions different from one another, . . . shall be . . . imprisoned not less
+
+than fifteen years . . . .” Section 924(e)(2)(B) provides:
+
+       [T]he term “violent felony” means any crime punishable by imprisonment
+       for a term exceeding one year, . . . that—
+
+       (i)    has as an element the use, attempted use, or threatened use of physical
+       force against the person of another; or
+
+       (ii)   is burglary, arson, or extortion, involves use of explosives, or
+       otherwise involves conduct that presents a serious potential risk of physical
+       injury to another.
+
+Section 924(e)(2)(B)(i) is known as the “force” clause or the “elements” clause; the
+
+provision of section 924(e)(2)(B)(ii) that references burglary, arson, extortion, or the use
+
+of explosives is known as the “enumerated offenses” clause; the remainder of section
+
+924(e)(2)(B)(ii), i.e., the provision “or otherwise involves conduct that presents a serious
+
+potential risk of physical injury to another,” is known as the “residual” clause.
+
+United States v. Starks, 861 F.3d 306, 314 (1st Cir. 2017); United States v. Edwards,
+
+857 F.3d 420, 422-23 & n.2 (1st Cir. 2017).
+
+       In Johnson, the Court left intact the force clause and the enumerated offenses clause
+
+of section 924(e)(2)(B): “Today’s decision does not call into question application of the
+
+Act to the four enumerated offenses, or the remainder of the Act’s definition of a violent
+
+felony.” 135 S. Ct. at 2563. In Welch v. United States, --- U.S. ---, 136 S. Ct. 1257, 1268
+
+(2016), the Supreme Court held that “Johnson announced a substantive rule that has
+
+retroactive effect in cases on collateral review.”
+
+       In Beckles v. United States, --- U.S. ---, 137 S. Ct. 886 (2017), the Supreme Court
+
+held that Johnson does not apply to career offender sentences imposed after the sentencing
+
+                                              6
+guidelines became advisory, i.e., after the Supreme Court’s 2005 decision in Booker.
+
+137 S. Ct. at 890, 894. Beckles did not involve the issue of whether Johnson applies to
+
+sentences imposed before Booker, when the sentencing guidelines were mandatory. Id. at
+
+903 n.4 (Sotomayor, J., concurring).
+
+       The career offender provision of the sentencing guidelines, USSG § 4B1.1, provides
+
+in relevant part: “A defendant is a career offender if . . . (3) the defendant has at least two
+
+prior felony convictions of either a crime of violence or a controlled substance offense.”
+
+USSG § 4B1.1(a). Section 4B1.2(a) provided at the time of Petitioner’s sentencing:
+
+       The term “crime of violence” means any offense under federal or state law,
+       punishable by imprisonment for a term exceeding one year that –
+
+       (1) has as an element the use, attempted use, or threatened use of physical
+           force against the person of another, or
+
+       (2) is burglary of a dwelling, arson, or extortion, involves use of
+           explosives, or otherwise involves conduct that presents a serious
+           potential risk of physical injury to another.
+
+After Johnson, the residual clause was deleted from section 4B1.2. USSG Supp. to App. C,
+
+amend. 798 (Aug. 1, 2016). However, the amendment does not apply retroactively.
+
+USSG § 1B1.10; United States v. Strevig, 663 F. App’x 908, 912 (11th Cir. 2016)
+
+(per curiam) (“The Sentencing Commission . . . has not made Amendment 798 retroactive
+
+to individuals sentenced prior to the effective date of the amendment.”).
+
+
+
+
+                                              7
+        B. Claim and Analysis
+
+                 1. The successive section 2255 motion
+
+        The First Circuit authorized Petitioner to pursue his claim that Johnson invalidates
+
+his career offender sentence because the sentence was imposed when the guidelines were
+
+mandatory.7 (Brichetto, No. 16-1796 (1st Cir. Nov. 30, 2017).)
+
+        As the First Circuit noted in Moore, before this Court may address the merits of a
+
+second or successive section 2255 motion, it must conduct the gatekeeping analysis
+
+required under 28 U.S.C. § 2244(b)(4) and section 2255(h): “[T]he district court is required
+
+to redo the very analysis performed in this opinion before entertaining a successive § 2255
+
+motion.” Moore, 871 F.3d at 85. Section 2244(b)(4) provides: “A district court shall
+
+
+
+7
+  It appears the First Circuit’s authorization relates to the career offender portion of the sentence only.
+(Brichetto, No. 16-1796 (1st Cir. Nov. 30, 2017).) Petitioner also includes a Johnson claim under
+18 U.S.C. § 924(c) (Motion at 6), and thus he evidently intends to raise a Johnson challenge not only the
+career offender portion of his sentence, but also his conviction under section 924(c). The First Circuit did
+not explicitly authorize the claim. (Brichetto, No. 16-1796 (1st Cir. Nov. 30, 2017).) Had the claim been
+certified, it would not have met the gatekeeping requirements under section 2255(h) on this Court’s review
+under 28 U.S.C. § 2244(b)(4), because this Court is bound by the First Circuit’s decision in Hunter v.
+United States, 873 F.3d 388 (1st Cir. 2017) (holding that federal bank robbery and federal armed bank
+robbery are crimes of violence under the force clause of section 924(c)(3)). Hunter forecloses a Johnson
+claim as to both Count 1 and Count 2.
+
+         Petitioner also includes several additional claims the First Circuit did not authorize and that are not
+addressed further in this recommended decision. Some of the additional claims are related to Petitioner’s
+career offender status, including the claims that Petitioner’s prior non-residential burglary offenses are not
+valid career offender predicates; that prior concurrent sentences should count as a single prior offense; that
+convictions entered more than 15 years ago should not have counted; that an offense in which Petitioner’s
+role was driver should not have counted; that an offense involving conduct that did not include entering a
+structure should not have counted; and that Petitioner is entitled to relief under Descamps v. United States,
+570 U.S. 254 (2013), and Alleyne v. United States, 570 U.S. 99 (2013). (Motion at 5.) Petitioner’s motion
+also asserts a claim based on his alleged mental incompetence at trial. (Id.) This Court previously addressed
+and rejected, as an unauthorized second or successive section 2255 motion, a freestanding claim and a
+related ineffective assistance claim in which Petitioner alleged mental incompetence at trial.
+(Recommended Decision, ECF No. 138; Order Affirming, ECF No. 142.) (Brichetto v. United States,
+No. 11-1452 (1st Cir. June 17, 2011) (denying authorization for a second or successive
+section 2255 motion).)
+
+                                                       8
+dismiss any claim presented in a second or successive application that the court of appeals
+
+has authorized to be filed unless the applicant shows that the claim satisfies the
+
+requirements of this section.” See Moore, 871 F.3d at 85 (citing section 2244(b)(4)).
+
+       When a second or successive claim is based on “a new rule of constitutional law,
+
+made retroactive to cases on collateral review by the Supreme Court, that was previously
+
+unavailable,” pursuant to section 2255(h)(2), a petitioner “must ‘make [] a prima facie
+
+showing,’” pursuant to section 2244(b)(3)(C), that the claim actually relies on the new rule
+
+of constitutional law. 871 F.3d at 78. A motion does not meet gatekeeping requirements
+
+for certification if “‘it is clear as a matter of law, and without the need to consider contested
+
+evidence, that the petitioner’s identified constitutional rule does not apply to the
+
+petitioner’s situation.’” Moore, 871 F.3d at 79 (quoting Evans-García v. United States,
+
+744 F.3d 235, 240 (1st Cir. 2014)).
+
+       The First Circuit held in Dimott v. United States, 881 F.3d 232 (1st Cir. 2018),
+
+cert. denied, sub nom Casey v. United States, 138 S. Ct. 2678 (2018), that a petitioner who
+
+cannot show the sentence was based solely on the residual clause does not present a
+
+Johnson claim. 881 F.3d at 243 (“We hold that to successfully advance a [Johnson] claim
+
+on collateral review, a habeas petitioner bears the burden of establishing that it is more
+
+likely than not that he was sentenced solely pursuant to ACCA’s residual clause.”);
+
+United States v. Dancy, 640 F.3d 455, 466 n.9 (1st Cir. 2011) (“We have held that ‘the
+
+terms “crime of violence” under the career offender Guideline and “violent felony” under
+
+the ACCA are nearly identical in meaning, so that decisions construing one term inform
+
+the construction of the other.’”) (quoting United States v. Willings, 588 F.3d 56, 58 n.2
+
+                                               9
+(1st Cir. 2009)). In Dimott, therefore, the First Circuit explained the burden a petitioner
+
+must meet, particularly with a sentencing and habeas record that is silent as to whether the
+
+sentencing court relied on the residual clause, before the Court may address the merits of
+
+a Johnson claim. Id. at 240-43. Although Dimott did not involve a second or successive
+
+review,8 the Court’s reasoning in Dimott is relevant to the threshold question of whether a
+
+petitioner can sustain a Johnson challenge to a career offender finding under the guidelines;
+
+if a petitioner cannot demonstrate the sentence was based solely on the residual clause,
+
+Johnson does not apply, Dimott, 881 F.3d at 234, and the case does not meet the
+
+gatekeeping requirements of sections 2244(b)(2) and 2255(h)(2), Moore, 871 F.3d at 79.
+
+The preliminary issue in this case is thus whether the Court relied solely upon the residual
+
+clause of the guidelines when it concluded Petitioner was a career offender.
+
+        As was the case regarding the ACCA sentences of each of the three petitioners in
+
+Dimott, 881 F.3d at 234-35, the record of Petitioner’s sentencing under the guidelines does
+
+not reflect under which clause of the career offender guideline−enumerated or
+
+residual−Petitioner’s sentence was enhanced. (Sentencing Tr. at 32-34.) In Dimott, the
+
+reviewing judge in the habeas petitions of petitioners Dimott and Collamore had presided
+
+at sentencing and found as fact on collateral review that the sentences were pursuant to the
+
+enumerated offenses clause; the First Circuit concluded that Dimott’s and Collamore’s
+
+petitions therefore did not raise Johnson challenges. 881 F.3d at 236-37.
+
+
+
+
+8
+ Dimott v. United States, 881 F.3d 232, 233-34 (1st Cir. 2018), cert. denied, sub nom Casey v. United States,
+138 S. Ct. 2678 (2018)), was a consolidated appeal involving three petitioners who had filed initial
+section 2255 motions.
+
+                                                     10
+       The First Circuit concluded the factual record in both the sentencing and habeas
+
+proceedings was silent as to whether the third petitioner, Casey, was sentenced solely under
+
+the residual clause. Id. at 238. The First Circuit noted that this Court denied Casey’s
+
+section 2255 motion based on a finding that the claim was procedurally defaulted, and
+
+“Casey failed to demonstrate that his procedural default would unfairly prejudice him
+
+‘[b]ecause extant First Circuit caselaw holds that Casey’s prior Maine burglary convictions
+
+remain qualifying enumerated violent felonies even after Johnson’s invalidation of the
+
+residual clause.’” Id. at 235. The First Circuit held that, with a silent factual record at
+
+sentencing and in the habeas proceeding, Casey had not met his burden to establish he was
+
+sentenced solely under the residual clause. Id. at 243. “Accordingly, we find Casey’s
+
+petition, which−like those of Dimott and Collamore−relies solely on the non-retroactive
+
+decision in [Mathis v. United States, --- U.S. ---, 136 S. Ct. 2243 (2016)], untimely.” Id.
+
+       In Petitioner’s case, as in Casey’s, the sentencing record is silent as to whether
+
+Petitioner’s career offender sentence was under the residual clause or the enumerated
+
+offenses clause. Notably, at Petitioner’s sentencing, the Court relied in part on paragraphs
+
+of the revised presentence investigation report (Report, ¶¶ 28, 29) that alleged two prior
+
+residential burglaries, and Petitioner did not object.       (Sentencing Tr. at 32, 34.)
+
+See Shepard v. United States, 544 U.S. 13, 16 (2005) (holding a sentencing court may
+
+examine, among other things, “any explicit factual finding by the trial judge to which the
+
+defendant assented” in determining “whether an earlier guilty plea necessarily admitted,
+
+and supported a conviction for, generic burglary”); In re Hires, 825 F.3d 1297, 1302
+
+(11th Cir. 2016) (“In determining the nature of a defendant’s prior convictions and whether
+
+                                             11
+to classify the defendant as an armed career criminal under the ACCA, the sentencing court
+
+may rely on Shepard-approved documents and any undisputed facts in the presentence
+
+investigation report.”). At least two of the prior burglaries would appear to qualify as
+
+career offender predicates under the enumerated offenses clause.
+
+        Furthermore, as with petitioner Casey’s habeas record in Dimott, there is no factual
+
+finding in Petitioner’s prior habeas record that establishes Petitioner was sentenced solely
+
+under the residual clause. Petitioner relies on this Court’s 2006 decision on collateral
+
+review to meet his burden under Dimott.9 In particular, Petitioner relies on this Court’s
+
+reference to Rodriguez, which involved a career offender determination under the residual
+
+clause, for his claim that he was sentenced under the residual clause. This Court wrote in
+
+its 2006 decision:
+
+        Brichetto . . . claims that his attorney erred by not arguing that his Maine
+        burglary conviction was not a crime of violence and, therefore, not a
+        predicate crime under the career offender guideline. The law is clear that a
+        conviction under the Maine burglary [statute] is a crime of violence.
+        See United States v. Rodriguez, 311 F.3d 435, 438-439 (1st Cir. 2002)
+        (conviction under Maine burglary statute is a crime of violence). Thus, there
+        was no basis upon which counsel could have challenged Brichetto’s prior
+        Maine burglary convictions.
+
+
+
+9
+  In this Court’s 2006 decision, it addressed, among other claims, Petitioner’s freestanding claim that “the
+Court erroneously determined that prior convictions were crimes of violence and not submitting the
+question to the jury,” and Petitioner’s claim that counsel was ineffective for the failure to object to
+Petitioner’s career offender status. (Brichetto v. United States, No. 2:06-cv-00057-GC, Order, ECF No. 12
+at 2, 9.) Brichetto v. United States, No. 2:06-cv-00057-GC, 2006 WL 3545001, at *1, 5, 2006 U.S. Dist.
+Lexis 89456, at *3, 15 (D. Me. Dec. 8, 2006). The Court concluded the freestanding claim was procedurally
+defaulted because Petitioner failed to raise it on appeal (citing United States v. Frady, 456 U.S. 152, 165
+(1982)); because he failed to allege cause for the procedural default; and because he failed to argue the
+“‘fundamental miscarriage of justice’ exception to procedural default, namely, that he is actually innocent”
+(citing Schlup v. Delo, 513 U.S. 298, 321 (1995)).               (Brichetto, No. 2:06-cv-00057-GC, Order,
+ECF No. 12 at 3.) Brichetto, No. 2:06-cv-00057-GC, 2006 WL 3545001, at *1, 2006 U.S. Dist. Lexis
+89456, at *3-4.
+
+                                                    12
+(Brichetto v. United States, No. 2:06-cv-00057-GC, Order, ECF No. 12 at 9-10.) Brichetto,
+
+2006 WL 3545001, at *5, 2006 U.S. Dist. Lexis 89456, at *15 (D. Me. Dec. 8, 2006).
+
+         This Court’s reference to Rodriguez does not constitute a record finding, and
+
+therefore the reference does not alter the fact that the record is silent as to which clause of
+
+USSG 4B1.2(a)(2) rendered the prior offenses career offender predicates. The mere fact
+
+that the Court cited Rodriguez cannot be deemed as an acknowledgement or determination
+
+that at sentencing, the residual clause governed the Court’s finding that Petitioner was a
+
+career offender. In short, the Court’s reference to Rodriguez in its rejection of Petitioner’s
+
+ineffective assistance argument cannot reasonably be construed as a finding that Petitioner
+
+was sentenced solely under the residual clause.10
+
+        Given the silent record on the issue, the fact that the presentence report upon which
+
+the Court relied at sentencing identified two prior qualifying convictions under the
+
+enumerated offenses clause, and the lack of any other reliable evidence to suggest the
+
+Court’s career offender determination was based solely on the residual clause, Petitioner
+
+cannot maintain a Johnson claim. As in Dimott, therefore, this Court need not address the
+
+merits of Petitioner’s Johnson claim (here, whether Johnson applies to Petitioner’s pre-
+
+
+10
+   Because Petitioner has failed to meet his burden under Dimott, 881 F.3d at 243, to demonstrate, as a
+matter of fact, that he was sentenced solely under the residual clause, the analysis ends there, and the Court
+need not independently analyze whether Petitioner was properly sentenced under either the force clause,
+or, as relevant here, the enumerated offenses clause.
+
+          However, if the Court determines the analysis is necessary to the decision, Petitioner’s prior Maine
+“residential” burglaries, which the revised presentence investigation report reflects were burglaries of
+individuals’ homes, qualified as career offender predicates under the enumerated offenses clause of the
+version of USSG § 4B1.2 in effect at his sentencing in 2004. See United States v. Wiese, 896 F.3d 720, 724
+(5th Cir. 2018) (revised) (“We join the majority of our sister circuits in concluding that we must look to the
+law at the time of sentencing to determine whether a sentence was imposed under the enumerated offenses
+clause or the residual clause.”) (citing, inter alia, Dimott).
+
+                                                     13
+Booker sentence); Petitioner would not be entitled to relief, regardless of how the issues
+
+identified in Moore are eventually decided.                   See United States v. Hall,
+
+No. 2:02-cr-00063-DBH       (D. Me.      Dec.        21,   2017)   (Recommended   Decision,
+
+ECF No. 79 at 5; Order Affirming, ECF No. 80) (noting the issue of whether Johnson
+
+invalidates the pre-Booker sentencing guidelines residual clause has not been decided, but
+
+it need not be resolved in Hall’s case, because regardless of how the Court ruled on the
+
+issue, the petitioner would qualify as a career offender under the force clause.) Hall v.
+
+United States, 2017 WL 6045423 (D. Me. Dec. 6, 2017) (recommended decision).
+
+Petitioner’s Johnson claim thus fails.
+
+       In the absence of a Johnson claim, Petitioner’s motion fails to meet the requirement,
+
+set forth in section 2255(h)(2), that the motion rely on “a new rule of constitutional law,
+
+made retroactive to cases on collateral review by the Supreme Court, that was previously
+
+unavailable.” See United States v. Murphy, 887 F.3d 1064, 1068 n.1 (10th Cir. 2018)
+
+(noting that “‘in the context of a [§] 2255 motion, the phrase “the requirements of this
+
+section” in [§] 2244(b)(4) refers to the requirements set out in [§] 2255’”)
+
+(quoting United States v. Villa-Gonzalez, 208 F.3d 1160, 1164 n.4 (9th Cir. 2000));
+
+United States v. Wiese, 896 F.3d 720, 726 (5th Cir. 2018) (revised) (holding “the district
+
+court did not have jurisdiction to reach the merits” of a Johnson motion, because
+
+“Johnson only applied to the residual clause and cannot be used to attack sentences under
+
+
+
+
+                                                14
+the enumerated offenses clause”).11 Dismissal of the section 2255 motion, therefore, is
+
+warranted.
+
+                        2. The motion to strike
+
+        Petitioner moves to strike Shepard documents offered by the Government on
+
+collateral review; the documents were not part of the sentencing record. (Attachments to
+
+Response, ECF Nos. 177-2, 177-3; Motion to Strike, ECF No. 181 at 2.) The documents
+
+consist of, among other things, copies of the indictments, each of which alleges the burglary
+
+was of a dwelling place; and the judgments, which, because they reflect the crime in each
+
+case was a “Class B” burglary, are consistent with burglary of a dwelling place under the
+
+statute alleged in the indictments: 17-A M.R.S. § 401. (ECF Nos. 177-2, 177-3.)
+
+        Petitioner alleges the documents were “altered and/or redacted.” (Motion to Strike
+
+at 2.) The Government represents that it redacted certain personal identifying information
+
+about Petitioner and the victims, pursuant to Fed. R. Crim. P. 49.1. (Response to Motion
+
+to Strike, ECF No. 182 at 5.)
+
+        The Court has the authority to expand the record on collateral review, pursuant to
+
+Rule 7 of the Rules Governing Section 2255 Motions. See Advisory Committee Notes to
+
+2004 Amendments (“Revised Rule 7(a) is not intended to restrict the court’s authority to
+
+expand the record through means other than requiring the parties themselves to provide the
+
+information.”) The records at issue (ECF Nos. 177-2, 177-3), however, are not necessary
+
+
+11
+   The First Circuit “express[ed] no opinion as to the merits of petitioner’s claim, nor as to whether
+petitioner’s claim is timely and/or procedurally defaulted.” (Brichetto, No. 16-1796 (1st Cir. Nov. 30,
+2017).) If the Court agrees with this recommended decision that Petitioner does not have a Johnson claim,
+the Court need not decide the issues of timeliness or procedural default.
+
+
+                                                   15
+to the decision, because Petitioner has the burden, under Dimott, 811 F.3d at 243, to
+
+demonstrate he was sentenced solely under the residual clause; the Government does not
+
+have the burden to establish Petitioner was sentenced under some other clause of the career
+
+offender guideline. Accordingly, although Petitioner’s motion to strike would fail on the
+
+merits because Petitioner alleges no alteration or redaction other than those the
+
+Government represents were required under Fed. R. Crim. P. 49.1, the motion to strike
+
+should be dismissed as moot.12
+
+                                           III. CONCLUSION
+
+        Based on the foregoing analysis, an evidentiary hearing is not warranted under
+
+Rule 8 of the Rules Governing Section 2255 Cases. I recommend that the Court deny
+
+Petitioner’s motion for habeas relief under 28 U.S.C. § 2255. I also recommend the Court
+
+dismiss as moot the motion to strike. I further recommend that the Court deny a certificate
+
+of appealability pursuant to Rule 11 of the Rules Governing Section 2255 Cases because
+
+there is no substantial showing of the denial of a constitutional right within the meaning of
+
+28 U.S.C. § 2253(c)(2).
+
+                                                NOTICE
+
+               A party may file objections to those specified portions of a magistrate
+        judge’s report or proposed findings or recommended decisions entered
+        pursuant to 28 U.S.C. 636(b)(1)(B) for which de novo review by the district
+        court is sought, together with a supporting memorandum, within fourteen
+        (14) days of being served with a copy thereof. A responsive memorandum
+        shall be filed within fourteen (14) days after the filing of the objection.
+
+12
+   Alternatively, if the Court determines it must analyze whether Petitioner’s prior burglaries qualified as
+career offender predicates under the enumerated offenses clause of the version of USSG § 4B1.2 in effect
+at his sentencing in 2004, the Court may deny the motion to strike, expand the record, and consider the
+documents (ECF Nos. 177-2, 177-3).
+
+                                                    16
+       Failure to file a timely objection shall constitute a waiver of the right
+to de novo review by the district court and to appeal the district court’s order.
+
+                                            /s/ John C. Nivison
+                                            U.S. Magistrate Judge
+
+Dated this 10th day of September, 2018.
+
+
+
+
+                                       17
+

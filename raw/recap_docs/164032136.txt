@@ -1,0 +1,1485 @@
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 1 of 29         PageID #: 5374
+
+
+
+
+                        UNITED STATES DISTRICT COURT
+                             DISTRICT OF MAINE
+
+
+ UNITED STATES OF AMERICA               )
+                                        )
+       v.                               )      No. 1:11-cr-00205-JAW-8
+                                        )
+ ED COGSWELL                            )
+
+            ORDER ON MOTION FOR COMPASSIONATE RELEASE
+
+       An inmate serving a fifteen-year sentence for his involvement in a cocaine base
+
+ distribution conspiracy moves for compassionate release in light of his medical
+
+ conditions and an alleged risk of serious complications should he contract the
+
+ COVID-19 virus in prison. The Court dismisses the motion without prejudice because
+
+ (1) the inmate has not shown extraordinary and compelling reasons for his release,
+
+ (2) releasing the inmate would endanger public safety, and (3) the 18 U.S.C. § 3553(a)
+
+ factors do not support release.
+
+ I.    PROCEDURAL BACKGROUND
+
+       On August 20, 2013, following a jury verdict rendered January 31, 2013, Jury
+
+ Verdict Form (ECF No. 390), the Court sentenced Ed Cogswell to one hundred eighty
+
+ months of imprisonment, five years of supervised release, a $100 special assessment,
+
+ and no fine for his part in a conspiracy to distribute twenty-eight grams or more of
+
+ cocaine base. J. (ECF No. 533); Am. J. (ECF No. 554); Second Am. J. (ECF No. 560).
+
+ Mr. Cogswell appealed his conviction and sentence, Notice of Appeal (ECF No. 535),
+
+ and on December 5, 2014, the Court of Appeals for the First Circuit affirmed both the
+
+ conviction and sentence. United States v. Trinidad-Acosta, 773 F.3d 298, 303 (1st
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 2 of 29        PageID #: 5375
+
+
+
+
+ Cir. 2014), superseded in part on other grounds by regulation as stated in United
+
+ States v. De la Cruz-Gutiérrez, 881 F.3d 221 (1st Cir. 2018).
+
+       On August 6, 2020, Mr. Cogswell filed a pro se motion for compassionate
+
+ release under 18 U.S.C. § 3582(c)(1)(A).      Mot. for Compassionate Release (ECF
+
+ No. 1029).   The next day, however, the Court dismissed Mr. Cogswell’s motion
+
+ without prejudice because he failed to comply with the compassionate release
+
+ statute’s exhaustion requirement. Order on Mot. for Compassionate Release (ECF
+
+ No. 1030).
+
+       On December 3, 2020, Mr. Cogswell filed a second pro se motion for
+
+ compassionate release and further requested that the Court appoint Attorney Hunter
+
+ Tzovarras to represent him.       Mot. for Sentence Reduction Under 18 U.S.C.
+
+ § 3582(c)(1)(A) (ECF No. 1033) (Def.’s Pro Se Mot.); Mot. for Appointment of Counsel,
+
+ to be Represented for (RIS) Compassionate Release (ECF No. 1034). The following
+
+ day, the Court granted Mr. Cogswell’s motion to appoint counsel and ordered
+
+ Mr. Cogswell to file an amended petition for compassionate release within seven
+
+ days, or to notify the Court that the case will proceed on the initial petition.
+
+ Appointment of Counsel & Scheduling Order (ECF No. 1038).
+
+       On January 15, 2021, after a series of extensions, Mr. Cogswell filed his
+
+ amended motion for compassionate release. Am. Pet. for Compassionate Release
+
+ (ECF No. 1055) (Def.’s Mot.). On January 26, 2021, the Government responded in
+
+ opposition. Gov’t’s Obj. to Def.’s Mot. for Compassionate Release Under 18 U.S.C.
+
+ § 3582(c)(1)(A)(i) (ECF No. 1063) (Gov’t’s Opp’n). On February 2, 2021, Mr. Cogswell
+
+
+
+                                           2
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 3 of 29          PageID #: 5376
+
+
+
+
+ replied. Reply to Gov’t’s Obj. to Am. Pet. for Compassionate Release (ECF No. 1068)
+
+ (Def.’s Reply).
+
+ II.    FACTUAL BACKGROUND
+
+        The Court recounts Mr. Cogswell’s criminal history and offense conduct. The
+
+ Court draws much of this information from the Revised Presentence Investigation
+
+ Report (PSR), prepared by United States Probation & Pretrial Services (PO) in
+
+ anticipation of Mr. Cogswell’s sentencing. Restricted U.S. Probation Filing, Attach.
+
+ 1, PSR (ECF No. 1036). The Court relied upon and adopted the PSR, subject to minor
+
+ revisions, when it sentenced Mr. Cogswell. Id., Attach. 3, Statement of Reasons at 1.
+
+ At his sentencing hearing, except for his offense conduct, Mr. Cogswell affirmed the
+
+ accuracy of the facts in the PSR other than minor revisions concerning his receipt of
+
+ a GED while incarcerated and his place of residence. Tr. of Proceedings – Sentencing
+
+ Proceedings at 2:11-6:8 (ECF No. 617) (Cogswell Sentencing Tr.).
+
+        A.     Criminal History
+
+        Mr. Cogswell had a number of convictions in state court prior to his federal
+
+ conviction. On April 22, 1997, he was sentenced to a $1,000 fine following a conviction
+
+ for Theft by Misapplication of Property. PSR ¶ 33. He was also arrested for Theft by
+
+ Unauthorized Taking or Transfer on December 17, 1997 concerning the theft of
+
+ $702.45 of property. PSR ¶ 34. On August 31, 1998, Mr. Cogswell was sentenced to
+
+ a 364-day suspended jail sentence, one year of probation, and ordered to pay $727.45
+
+ in restitution for the second theft offense. Id.
+
+
+
+
+                                            3
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 4 of 29         PageID #: 5377
+
+
+
+
+       Mr. Cogswell had six convictions for Negotiating a Worthless Instrument.
+
+ Id. ¶¶ 35-39. According to his PSR, these offenses occurred in 2001, 2005, and 2007
+
+ and arose from Mr. Cogswell’s knowing use of bad checks to purchase items from
+
+ several stores. Id. ¶¶ 35-39. Although the PSR does not include the purported face
+
+ value of every bad check, it appears that in most cases the face values of the bad
+
+ checks were less than fifty dollars. Id. ¶¶ 35-39. However, on one occasion Mr.
+
+ Cogswell was sentenced to pay $294.25 in restitution, which suggests the face value
+
+ of this bad check was significantly more than the others. Id. ¶ 39. For most of these
+
+ offenses, Mr. Cogswell received no jail time and was sentenced to pay fines and
+
+ restitution. Id. ¶¶ 35-39. However, Mr. Cogswell’s two 2007 Negotiating a Worthless
+
+ Instrument offenses resulted in concurrent forty-day and sixty-day incarcerative
+
+ sentences. Id. ¶¶ 38-39.
+
+       On October 28, 2009, Mr. Cogswell was fined $150 for Representing Another’s
+
+ License or ID as his Own. Id. ¶ 40. That same day, he was also fined $200 for Forgery.
+
+ Id. ¶ 41.   An additional count charging Operating While License Suspended or
+
+ Revoked was deferred. Id. According to Court records, Mr. Cogswell used a check
+
+ and identification belonging to Michael Foster to make a purchase at a Big Apple
+
+ convenience store. Id. However, the Big Apple cashier knew the real Michael Foster
+
+ because he was her sister’s boyfriend’s father. Id. The cashier contacted her sister
+
+ who told her that Mr. Foster was in jail. Id. The cashier then called the authorities
+
+ and reported the incident.    Id.   Police located Mr. Cogswell and found him in
+
+ possession of Mr. Foster’s checkbook and identification. Id. Finally, on May 28, 2009,
+
+
+
+                                           4
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 5 of 29                        PageID #: 5378
+
+
+
+
+ Mr. Cogswell was sentenced to a $250 fine for operating a motor vehicle while his
+
+ license was suspended or revoked. Id. ¶ 42. For Guideline purposes, Mr. Cogswell
+
+ was a criminal history category II. Id. ¶ 43; Statement of Reasons, Attach. 1, Findings
+
+ Affecting Sentence ¶ 5 (ECF No. 534) (Cogswell Sentencing Findings).
+
+        B.      Offense Conduct 1
+
+        Mr. Cogswell’s prior state convictions pale in comparison to the seriousness of
+
+ his federal offense.       The investigation into Mr. Cogswell’s federal offense was
+
+ undertaken by a Drug Enforcement Administration (DEA) task force comprised of
+
+ federal and local law enforcement. PSR ¶ 3. In October 2010, the DEA task force
+
+ learned from a confidential informant (CI) that an individual in Maine was selling
+
+ cocaine base on behalf of a drug trafficking operation headed by individuals of
+
+ Dominican descent living in New York. Id. The CI advised that the individual
+
+ received cocaine base from these New Yorkers, led by an individual known only as
+
+ “Boss Man.” Id. Law enforcement later identified “Boss Man” as Dawlin Cabrera. Id.
+
+ Authorities also learned that members of Mr. Cabrera’s drug trafficking organization
+
+ routinely sold cocaine base for $375 in “ten packs” containing ten half-gram bags. Id.
+
+ The operation also sold “twenty packs” containing twenty half-gram bags for $800.
+
+ Id.
+
+        Over the ensuing months, the DEA task force gathered intelligence on
+
+ Mr. Cabrera’s organization. Id. ¶ 4. They determined the organization consisted of
+
+ multiple individuals, including Manuel Trinidad-Acosta, also known as “Fish,” who
+
+
+ 1       While the Court recounts the complete history of the investigation and criminal activity in this
+ case, the First Circuit’s opinion in Trinidad-Acosta, 773 F.3d at 303-05, provides the abridged version.
+
+                                                    5
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 6 of 29           PageID #: 5379
+
+
+
+
+ sold cocaine base and cocaine in the Bangor, Maine area. Id. Near the outset of the
+
+ investigation, law enforcement learned that several of the distributors were
+
+ depositing large sums of cash into bank accounts in the name of Mr. Cabrera’s alias,
+
+ Rolando Rosario-Andujar, at a Bank of America location in Bangor. Id. Investigators
+
+ also became aware that the distributors were depositing more cash into accounts
+
+ under other names at the same Bank of America location. Id.
+
+       In November 2010, Mr. Cabrera spent more than $800 on a cellular telephone
+
+ and “air time” for his distributors to use as the drug sale phone. Id. Initially, the CI
+
+ told law enforcement about drug transactions taking place in Bangor at properties on
+
+ Kenduskeag Avenue, Catell Street, and First Street.                Id.    However, in
+
+ December 2010, Mr. Trinidad-Acosta rented an apartment on Ohio Street in Bangor.
+
+ Id. From that point forward, the Ohio Street apartment became the principal base
+
+ of operations for Mr. Cabrera and his associates. Id.
+
+       On October 21, 2010, and again on November 8, 2010, Mr. Trinidad-Acosta and
+
+ a man named Jacob Garcia deposited $8,000 into an account under the name Rolando
+
+ Rosario-Andujar at Bank of America’s Bangor location. Id. ¶ 5. The two men made
+
+ another deposit to the same bank account on November 30, 2010. Id. Each deposit
+
+ was confirmed through the bank’s surveillance system. Id.
+
+       On October 29, 2010, authorities went to an apartment on Kenduskeag Avenue
+
+ in Bangor and asked if any men of Dominican descent were living there. Id. ¶ 6. An
+
+ occupant admitted that a man he knew as “Fish” had been staying there but had left
+
+ several days earlier. Id.
+
+
+
+                                            6
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 7 of 29         PageID #: 5380
+
+
+
+
+       On November 12, 2010, authorities arranged for a cooperating individual
+
+ (CI-1) to purchase cocaine base from one of Mr. Cabrera’s associates. Id. ¶ 7. Agents
+
+ watched the transaction and saw CI-1 buy 12.9 grams of cocaine base for $2,400 in
+
+ pre-recorded funds.    Id.   A short time later, officers from the Brewer Police
+
+ Department conducted a traffic stop on the vehicle involved in the drug transaction.
+
+ Id.
+
+       On June 16, 2011, another cooperating individual (CI-2) contacted a different
+
+ member of the conspiracy, Jowenky Nuñez, and arranged to purchase two “twenty
+
+ packs” of cocaine base. Id. ¶ 8. Shortly thereafter, agents watched Mr. Trinidad-
+
+ Acosta and his paramour and co-conspirator, Pari Proffitt, arrive at a predetermined
+
+ location. Id. Upon arrival, Ms. Proffitt exited her car and entered a nearby business.
+
+ Id. CI-2 briefly climbed into Mr. Trinidad-Acosta’s car. Id. Then, CI-2 exited the car
+
+ and Mr. Trinidad-Acosta drove away by himself. Id. Law enforcement attempted to
+
+ follow Mr. Trinidad-Acosta’s vehicle, which was heading toward the Ohio Street
+
+ apartment; however, the vehicle made a series of random turns and stops so officers
+
+ ended the surveillance. Id. Ten minutes or so later, Mr. Trinidad-Acosta returned to
+
+ the pre-determined location, where he picked up Ms. Proffitt and CI-2. Id. CI-2
+
+ bought approximately 9.8 grams of cocaine base from Mr. Trinidad-Acosta for $1,600
+
+ in pre-recorded funds. Id. Ms. Proffitt counted the money. Id.
+
+       The investigation continued. Id. ¶ 9. Law enforcement interviewed various
+
+ customers of the operation and one advised that he/she had seen a large bag of cocaine
+
+ base at the Ohio Street apartment in January 2011 as well as a handgun. Id. Later
+
+
+
+                                           7
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 8 of 29          PageID #: 5381
+
+
+
+
+ in the same month, the same customer saw five “twenty packs” and a distributor
+
+ carrying a handgun. Id. A different customer told police that he/she bought seven to
+
+ ten “twenty packs” of cocaine base from a seller who had obtained the drugs from
+
+ Mr. Cabrera in October 2010 for $700 each. Id. ¶ 10. That customer further reported
+
+ buying five one-half gram bags of cocaine base on three occasions from the Ohio Street
+
+ apartment. Id. Three customers reported similar purchases from Mr. Trinidad-
+
+ Acosta, Mr. Garcia, and Mr. Nuñez. Id. ¶¶ 11-13.
+
+       Mr. Cogswell joined the cocaine conspiracy in September 2010. Id. ¶ 14. Acting
+
+ predominantly as a middleman, Mr. Cogswell would obtain cocaine base from the
+
+ conspirators and sell it to customers. Id. On August 12 and 19, 2011, he made two
+
+ sales of cocaine base that were recorded by agents. Id. During one of these sales,
+
+ Mr. Cogswell stated that he “couldn’t do anything until he was off the clock,” meaning
+
+ that he could not use drugs until he was done working. Id. Mr. Cogswell lived with
+
+ his girlfriend at the Ohio Street apartment beginning in approximately
+
+ September 2011.     Id.    Following his arrest, Mr. Cogswell gave a post-Miranda
+
+ statement in which he initially denied selling cocaine. Id. Mr. Cogswell ultimately
+
+ admitted that he obtained cocaine for friends but described this involvement as he
+
+ “helped people out.” Id.
+
+       As   the    investigation   continued,   several   co-defendants/co-conspirators
+
+ cooperated with the government and provided further information. Id. ¶ 15. Co-
+
+ defendants repeatedly identified Mr. Cabrera as “Boss Man,” stating that he
+
+ orchestrated the conspiracy. Id. Mr. Nuñez acted as Mr. Cabrera’s chief lieutenant,
+
+
+
+                                           8
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 9 of 29        PageID #: 5382
+
+
+
+
+ managing the operation in Maine while Mr. Cabrera was in New York City. Id.
+
+ Mr. Cabrera hired various couriers to transport cocaine base from New York to Maine
+
+ by commercial bus. Id. The drug proceeds were either returned to Mr. Cabrera in
+
+ New York or deposited in Bank of America accounts in Maine. Id. Bank of America
+
+ records show that between October 2010 and late October 2011, a total of $202,559
+
+ was deposited under the name Rolando Rosario-Andujar. Id. Mr. Cabrera used that
+
+ money for his own personal benefit and to pay his supplier for more cocaine base. Id.
+
+ Various co-defendants informed authorities that from September 2010 through
+
+ October 2011, at least 350 grams of cocaine base per month was transported by
+
+ Mr. Cabrera’s distributors in Maine, for re-sale purposes. Id. Others reported that
+
+ as much as 700 grams of cocaine base were sent to Maine each month. Id.
+
+       On November 3, 2011, law enforcement executed search and arrest warrants
+
+ at the Ohio Street apartment. Id. ¶ 16. Authorities found drug and expense ledgers,
+
+ along with mail and furniture rental receipts in the name of Rolando Rosario-
+
+ Andujar. Id. They also found a Hi-Point pistol and later determined Mr. Cogswell
+
+ had traded this pistol to the conspiracy in exchange for drugs. Id. Acting on tips
+
+ from witnesses, the authorities discovered several hidden compartments under the
+
+ Ohio Street apartment where cocaine base was often stored. Id.
+
+       That same day, law enforcement executed a search warrant for an apartment
+
+ on Garland Street in Bangor where Mr. Trinidad-Acosta and Ms. Proffitt lived. Id.
+
+ Officers had been tipped off that a quantity of drugs had been moved to the Garland
+
+ Street apartment following the search at the Ohio Street apartment. Id. There,
+
+
+
+                                          9
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 10 of 29         PageID #: 5383
+
+
+
+
+  officers found 368 grams of cocaine base inside a safe. Id. Various co-defendants
+
+  reported Mr. Cabrera was responsible for providing this quantity of cocaine base. Id.
+
+  Inside the same safe, investigators also found a Ruger 9mm pistol and a copy of the
+
+  lease for the Ohio Street apartment. Id. The lease identified Mr. Trinidad-Acosta as
+
+  the tenant and other evidence established Mr. Trinidad-Acosta or Mr. Garcia paid
+
+  the monthly rent for the Ohio Street apartment in cash. Id.
+
+        The PO determined Mr. Cogswell was responsible for 4.9 kilograms of cocaine
+
+  base. Id. ¶ 18. This calculation was based on the statements of co-defendants who
+
+  consistently told authorities that at least 350 grams of cocaine base per month was
+
+  sent from New York City to Bangor, Maine, over a period of fourteen months. Id.
+
+  The PO acknowledged this may be a conservative estimate because some co-
+
+  defendants stated that as much as 700 grams of cocaine base were sent to Maine each
+
+  month during the conspiracy. Id. The PO further reasoned Mr. Cogswell knew the
+
+  conspiracy was distributing this much cocaine base because of how long he was
+
+  involved in the conspiracy and the fact that he lived at an apartment used to
+
+  distribute the cocaine base. Id.
+
+        C.     Guideline Calculations
+
+        The Court determined Mr. Cogswell was criminally responsible for between
+
+  840 grams and 2.8 kilograms of cocaine base, resulting in a base offense level of 34.
+
+  Cogswell Sentencing Findings ¶ 2. The Court added two levels because Mr. Cogswell
+
+  possessed a firearm. Id. ¶ 3. The Court added another two levels because Mr.
+
+  Cogswell obstructed justice. Id. ¶ 4. He was a Criminal History Category II. Id. ¶ 5.
+
+
+
+                                           10
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 11 of 29             PageID #: 5384
+
+
+
+
+          The Court imposed the obstruction enhancement because of a letter
+
+  Mr. Cogswell wrote to another inmate while incarcerated at the Piscataquis County
+
+  Jail. PSR ¶ 20. That letter is signed “Eddie” and contains references to an upcoming
+
+  knee surgery for Mr. Cogswell, a desire to be released on bail for that purpose, his
+
+  prosecution, and the names of several individuals who testified at trial. Id. In the
+
+  letter, Mr. Cogswell discusses the trial and those who testified, referring to them as
+
+  the Government’s “‘lil’ snitchie-bitchie’s.” Id. He also goes on to state the following
+
+  with regard to testifying witnesses “Bo” and “Ranger”:
+
+          Oh well, little does he know when everything is all done & I have nothing
+          to do w/anyone in the Bangor area, all set w/supervised release, then I’ll
+          take care of “Bo” the (the next words are scratched out) . . . my people
+          are gonna love hanging him up & setting him on fire, he’s not even gonna
+          get the mercy of a bullet when he scream’s [sic] for it. I’ll watch & laugh
+          & that will be that.
+
+  Id. As the Court explained at sentencing, “Bo” is Keith “Beau” Lewis who testified
+
+  against Mr. Cogswell and cooperated with the Government. Sentencing Tr. at 22:17-
+
+  26:4.
+
+          As a Criminal History Category II with a Total Offense Level of 38,
+
+  Mr. Cogswell’s applicable guideline range of imprisonment was 262 to 327 months.
+
+  Cogswell Sentencing Findings ¶ 6. The guideline range for supervised release was
+
+  four to five years. Id. ¶ 8. The guideline fine range was $25,000 to $5,000,000. Id.
+
+  ¶ 9. To prevent unwarranted sentencing disparities among similarly situated co-
+
+  defendants, the Court sentenced Mr. Cogswell to 180 months of imprisonment, five
+
+  years of supervised release, a $100 special assessment, and no fine. J.; Am. J.; Second
+
+  Am. J.; Statement of Reasons at 3.
+
+                                              11
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 12 of 29          PageID #: 5385
+
+
+
+
+  III.   THE PARTIES’ POSITIONS
+
+         A.    Ed Cogswell’s Amended Motion
+
+         After recounting the procedural history of this case, his medical history, risk
+
+  factors for COVID-19, and the applicable legal standard, Mr. Cogswell turns to the
+
+  merits of his motion. Def.’s Mot. at 1-7. Mr. Cogswell first claims his “numerous
+
+  medical conditions place him at high risk of death from COVID-19 and are compelling
+
+  and extraordinary circumstances.” Id. at 8. Specifically, he asserts that his “severe
+
+  sleep apnea, asthma, and obesity, along with his prior exposure to tuberculosis place
+
+  him at high risk of [COVID-19] complications.” Id. at 9. He cites several articles,
+
+  including guidance from the Centers for Disease Control and Prevention (CDC), in
+
+  support of his argument that asthma, obesity, and sleep apnea increase a person’s
+
+  risk of complications from COVID-19 infection. Id. at 9-10. He also suggests his prior
+
+  exposure to tuberculosis while in BOP custody “increases his risk of [COVID-19]
+
+  complications.” Id. at 10.
+
+         Mr. Cogswell next urges he is at risk of contracting COVID-19 while in BOP
+
+  custody. Id. at 10-11. He claims that “38,535 inmates and 3,553 staff have recovered”
+
+  but “[t]here have been 190 federal inmate deaths and 3 BOP staff member deaths
+
+  attributed to COVID-19 disease.”      Id. at 11.   At his BOP facility, FCI Butner,
+
+  Mr. Cogswell states “[t]here have been 223 inmates and 8 staff at Butner FCI who
+
+  have tested positive for COVID-19” and that “Butner FCM lists 1 inmate and 9 staff
+
+  members currently infected with [COVID-19].” Id. Even so, he points out that
+
+  “[a]lthough COVID-19 appears to be well-entrenched within the BOP facilities, and
+
+
+
+                                           12
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 13 of 29            PageID #: 5386
+
+
+
+
+  at Butner, it does not need to be rampant or prevalent in a prison to be considered a
+
+  factor in granting compassionate release.” Id.
+
+        Mr. Cogswell then contends “[t]he applicable sentencing factors support
+
+  reducing [his] sentence for early release.” Id. at 13. He observes that he is fifty-five
+
+  years old and has “served approximately 124 months of the 180 month sentence”
+
+  which is “approximately two-thirds of his sentence.” Id. at 13. He also contends his
+
+  “conviction involves a non-violent drug offense, and his early release will not pose a
+
+  danger to society.” Id. On this front, Mr. Cogswell urges the Court to disregard the
+
+  threatening letter he wrote while incarcerated.       Id.   He calls the letter “out of
+
+  character” and observes he “had no history of violence before or after writing the letter
+
+  8 years ago.” Id. He concludes “the 8 year old isolated letter does not establish a
+
+  current threat to society.” Id.
+
+        Mr. Cogswell also argues that his criminal history and his general compliance
+
+  while on pre-trial release weigh in favor of granting his motion. Id. at 13-14. He
+
+  notes that, although he received an enhanced sentence “for the presence of a firearm
+
+  in the conspiracy, [he] never used a firearm as part of the conspiracy, or committed
+
+  any acts of violence.” Id. at 13-14. Aside from his federal offense, “Mr. Cogswell’s
+
+  criminal history is for nonviolent, non-drug crimes, such as writing bad checks, thefts,
+
+  and driving charges.” Id. at 14. He also believes he “has demonstrated he can be
+
+  successful on supervision.” Id. He notes that while on pre-trial release, with the
+
+  exception of one positive drug test following a surgery in which he was prescribed
+
+  pain medication, “he was clean and sober and overcame his drug addiction.” Id. He
+
+
+
+                                             13
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 14 of 29            PageID #: 5387
+
+
+
+
+  suggests that “[w]ith the passage of several years of incarceration, and removal from
+
+  his prior life, it is even more likely [he] will be able to live a law-abiding life while
+
+  being supervised by the probation office.” Id.
+
+        Finally, Mr. Cogswell suggests the need to prevent unwarranted sentencing
+
+  disparities favors his release. Id. at 14-15. He points out that “[t]he two leaders of
+
+  the conspiracy Dawlin Cabrera and Jowenky Nunez both received sentences of 97
+
+  months and have completed their initial sentences.” Id. at 14. He states that those
+
+  “co-defendants are far more responsible and culpable for the conspiracy than
+
+  Mr. Cogswell” and that “[r]educing Mr. Cogswell’s sentence to credit for time served
+
+  (approximately 124 months), is more consistent with the lighter sentences imposed
+
+  on the leaders of the conspiracy.” Id. at 15.
+
+        B.     The Government’s Opposition
+
+        The Government opposes Mr. Cogswell’s motion noting that although he “is
+
+  considered obese, the Court should deny the motion because [Mr. Cogswell] has not
+
+  met [his] burden of establishing that a sentence reduction is warranted under the
+
+  statute. [Mr. Cogswell] was an armed drug trafficker who was actively involved in a
+
+  significant crack cocaine trafficking conspiracy. [He] is dangerous and granting him
+
+  an early release from prison would not be consistent with the sentencing factors set
+
+  forth in 18 U.S.C. § 3553(a).” Gov’t’s Opp’n at 1.
+
+        The Government concedes Mr. Cogswell satisfied the compassionate release
+
+  statute’s administrative exhaustion requirement by submitting a request for a
+
+  sentence reduction within the Bureau of Prisons (BOP) on August 18, 2020. Id. at 6.
+
+
+
+                                             14
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 15 of 29              PageID #: 5388
+
+
+
+
+  It notes the BOP denied that request on August 28, 2020 and therefore the Court may
+
+  consider the merits of his motion. Id. Next, relying on a review of Mr. Cogswell’s
+
+  medical record performed by Dr. J. Gavin Muir, Chief Medical Officer of Amoskeag
+
+  Health in Manchester, New Hampshire, the Government “agrees that [Mr. Cogswell]
+
+  has shown [his obesity is] an extraordinary and compelling reason for release . . ..”
+
+  Id. at 7. However, the Government acknowledges that “[a]lthough [Mr. Cogswell]
+
+  also may have additional conditions, those other conditions appear to be well
+
+  controlled and, other than his childhood asthma, are not identified by the CDC as
+
+  conditions that put him at increased risk of serious illness.” Id. at 7-8.
+
+        The Government cautions that it may not be appropriate to grant
+
+  compassionate release on the basis of Mr. Cogswell’s obesity alone. Id. at 8. It notes
+
+  that unlike many medical conditions “obesity is not an immutable condition.” Id. The
+
+  Government cites several cases in support and points out that “[i]f obesity alone
+
+  qualifies an individual for compassionate release, over half the inmate population
+
+  would be eligible for release.” Id. at 8-9
+
+        Mr. Cogswell’s obesity notwithstanding, the Government urges the Court to
+
+  deny his motion “because his release poses a danger to the community and, after
+
+  considering the statutory sentencing factors, release is not warranted.” Id. at 9. The
+
+  Government accuses Mr. Cogswell of minimizing “his criminal conduct by calling it a
+
+  ‘non-violent’ drug offense.” Id. at 10. It believes this characterization “ignores [Mr.
+
+  Cogswell’s] active and ongoing role selling crack cocaine in the greater Bangor area.”
+
+  Id. Moreover, Mr. Cogswell “was not a minor participant in the conspiracy . . ..” Id.
+
+
+
+                                               15
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 16 of 29              PageID #: 5389
+
+
+
+
+  The Government similarly emphasizes that the Court imposed the firearms
+
+  enhancement for good reason, because Mr. Cogswell “owned it, possessed it, and used
+
+  it as part of the drug trafficking conspiracy.” Id. at 11. It also states its position that
+
+  Mr. Cogswell’s threat against the testifying witness should not be discounted because
+
+  “it was specific, it was targeted, and it revealed a chilling side of the defendant’s
+
+  character that the Court should not ignore.” Id. at 12. Thus, in light of his criminal
+
+  history, offense conduct, and threat to a trial witness the Government concludes
+
+  Mr. Cogswell is a danger to the community and asks the Court to deny his motion.
+
+  Id. at 12-13.
+
+        Finally, the Government considers the 18 U.S.C. § 3553(a) factors and
+
+  concludes they weigh against release. Id. at 13. The Government takes issue with
+
+  Mr. Cogswell’s argument that the fact that many of his co-defendants have served
+
+  their sentences justifies reducing his own.       Id.   It observes “the Court already
+
+  considered the need to avoid sentencing disparities and imposed a downward variant
+
+  sentence on that basis.” Id. Furthermore, the Government reminds the Court of its
+
+  observations at sentencing that Mr. Cogswell differs from several of co-defendants
+
+  because he did not plead guilty, did not accept responsibility for his actions, and
+
+  obstructed justice. Id. at 14. Thus, the Government concludes “[r]equiring [Mr.
+
+  Cogswell] to serve his full sentence is necessary” to effectuate the § 3553(a) factors.
+
+  It also claims that his proposed release plan to the Bangor area is “inadequate”
+
+  because he “does not identify what legitimate employment he may pursue or where
+
+  in Bangor he will live.” Id. at 14-15.
+
+
+
+                                              16
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 17 of 29            PageID #: 5390
+
+
+
+
+        C.     Ed Cogswell’s Reply
+
+        Mr. Cogswell makes three points in reply to the Government’s opposition.
+
+  Def.’s Reply. First, he argues that his medical conditions, including obesity, sleep
+
+  apnea, asthma, and prior exposure to tuberculosis “are an extraordinary and
+
+  compelling circumstance for release.” Id. at 1-2. Second, he contends that he “does
+
+  not pose a danger to society if released in 2021 rather than in 2025.” Id. at 2. He
+
+  states that he is “10 years removed from the criminal conduct in this case” and “had
+
+  no history of violence before this conviction.” Id. at 3. He also points out that he “has
+
+  no disciplinary issues for violence or threats” and characterizes his other infractions
+
+  as “relatively minor.” Id. He says he has completed some educational programming
+
+  too. Id. Third, he puts forth that his release plan “is adequate and appropriate.” Id.
+
+  at 4. He believes he “previously demonstrated he can be successful on supervision”
+
+  and “has financial resources through social security benefits.” Id. He asks the Court
+
+  to infer “it is likely [he] will again be successful if he re-establishes himself in the
+
+  Bangor area while on supervised release.” Id.
+
+  IV.   LEGAL STANDARD
+
+        Over the course of the COVID-19 pandemic, the Court has addressed the legal
+
+  standard for deciding a motion for compassionate release on several occasions. See,
+
+  e.g., United States v. Crosby, 1:17-cr-00123-JAW-01, 2020 U.S. Dist. LEXIS 199085,
+
+  at *16-23 (D. Me. Oct. 27, 2020). Put succinctly, 18 U.S.C. § 3582(c)(1)(A)(i) permits
+
+  a court to modify a term of imprisonment when (1) “extraordinary and compelling
+
+  reasons warrant” the movant’s release, (2) release is consistent with “the factors set
+
+
+
+                                             17
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 18 of 29                         PageID #: 5391
+
+
+
+
+  forth in [18 U.S.C. §] 3553(a)”, and (3) release comports with “applicable policy
+
+  statements issued by the Sentencing Commission . . ..” 18 U.S.C. § 3582(c)(1)(A). 2
+
+          The United States Sentencing Commission issued a policy statement under
+
+  United States Sentencing Guideline § 1B1.13 for addressing compassionate release
+
+  motions under § 3582(c)(1)(A). 3 This policy statement compels a movant to meet the
+
+  “requirements of subdivision (2),” which provides that a court must determine that
+
+  “the defendant is not a danger to the safety of any other person or to the community,
+
+  as provided in 18 U.S.C. § 3142(g).” U.S. SENTENCING GUIDELINES MANUAL § 1B1.13
+
+  cmt. n.1 (U.S. SENTENCING COMM’N 2018) (U.S.S.G). Section 3142(g) sets forth four
+
+  factors that a court must consider before releasing a person pending trial. They
+
+  include: (1) the nature and circumstances of the offense, specifically whether the
+
+
+  2        Section 1B1.13 of the United States Sentencing Commission Guidelines addresses reductions
+  in the terms of imprisonment under 18 U.S.C. § 3582(c)(1)(A). But the Commission promulgated these
+  provisions before Congress enacted the First Step Act. See United States v. Brooker, 976 F.3d 228,
+  230-34 (2d Cir. 2020) (discussing the history of § 1B1.13 and the First Step Act). As Judge Hornby of
+  this District noted, the “Second, Fourth, Sixth and Seventh Circuits have . . . ruled that the Guideline
+  policy statement applies only to motions brought by the Director of the Bureau of Prisons, not to
+  motions for relief brought by defendants, and nothing limits judges’ discretion in considering ‘the full
+  slate of extraordinary and compelling reasons that an imprisoned person might bring before them in
+  motions for compassionate release.’” United States v. Almeida, Nos. 2:17-cr-52-DBH-01, 2:11-cr-127-
+  DBH-01, 2021 U.S. Dist. LEXIS 364, at *4 (D. Me. Jan. 4, 2021) (quoting Brooker, 976 F.3d at 235-37
+  and citing United States v. McCoy, 981 F.3d 271, 281-83 (4th Cir. 2020); United States v. Jones, 980
+  F.3d 1098, 1108-11 (6th Cir. 2020); United States v. Gunn, 980 F.3d 1178, 1180 (7th Cir. 2020)); see
+  United States v. Gowdy, No. 20-60800 Summary Calendar, 2020 U.S. App. LEXIS 40409, at *3 (5th
+  Cir. Dec. 28, 2020) (describing whether § 1B1.13 applies to motions for compassionate release as an
+  “open question”); United States v. Pelloquin, No. 20-12818-DD, 2020 U.S. App. LEXIS 39966, at *4
+  (11th Cir. Dec. 21, 2020) (characterizing the issue as “not frivolous”).
+  3        As the Court has previously discussed, “[t]he Sentencing Commission promulgated this policy
+  statement before the emergence of the COVID-19 pandemic and before the changes to § 3582 put in
+  place by the FIRST STEP Act; its provisions are therefore not directly related to the unique
+  circumstances presented by a global pandemic. Nevertheless, the Court finds the policy provisions are
+  a useful starting point for its analysis of the compassionate release motion.” Crosby, 2020 U.S. Dist.
+  LEXIS 199085, at *20 n.1. Similarly, Judge Hornby of this district has ruled that this policy statement
+  “‘provides helpful guidance’ but ‘is not ultimately conclusive given the statutory change.’” United
+  States v. Rembert, No. 2:12-CR-66-DBH, 2020 U.S. Dist. LEXIS 210841, at *1 (D. Me. Nov. 11, 2020)
+  (quoting United States v. Fox, No. 2:14-cr-03-DBH, 2019 U.S. Dist. LEXIS 115388, at *5 (D. Me. July
+  11, 2019), aff’d, No. 19-1785 (1st Cir. July 23, 2020)). The Court agrees.
+
+                                                    18
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 19 of 29                     PageID #: 5392
+
+
+
+
+  crime is a crime of violence or involves a controlled substance; (2) the weight of the
+
+  evidence against the person; (3) the history and characteristics of the person; and (4)
+
+  the nature and seriousness of the danger to any person or the community that would
+
+  be posed by the person’s release. 18 U.S.C. § 3142(g).
+
+         The policy statement also provides criteria for determining whether
+
+  “extraordinary and compelling reasons” exist to release the defendant. U.S.S.G.
+
+  § 1B1.13 cmt. n.1. These reasons include certain enumerated terminal illnesses and
+
+  similar conditions, physical, functional, mental, or cognitive impairments, age, family
+
+  circumstances, and other unenumerated reasons. Id. § 1B1.13 cmt. n.1 (A-D). The
+
+  policy statement further provides that “an extraordinary and compelling reason need
+
+  not have been unforeseen at the time of sentencing in order to warrant a reduction in
+
+  the term of imprisonment.” Id. § 1B1.13 cmt. n.2. Finally, it states that “[p]ursuant
+
+  to 28 U.S.C. § 994(t), rehabilitation of the defendant is not, by itself, an extraordinary
+
+  and compelling reason for purposes of this policy statement.” Id. cmt. n.3.
+
+         The movant bears the burden of proving that he is entitled to a sentence
+
+  reduction, and “the Court has broad discretion in deciding whether to grant or deny
+
+  a motion for sentence reduction.” United States v. Curtis, No. 1:14-cr-00140-JAW,
+
+  2020 U.S. Dist. LEXIS 102045, at *12 (D. Me. June 11, 2020) (quoting United States
+
+  v. Britton, 473 F. Supp. 3d 14, 16 (D.N.H. 2020) (internal citations omitted)).
+
+  V.     DISCUSSION 4
+
+
+  4       18 U.S.C. § 3582(c)(1)(A) contains a mandatory claim processing rule, which bars some
+  compassionate release motions as untimely. See Crosby, 2020 U.S. Dist. LEXIS 199085, at *17 (citing
+  United States v. Lugo, No. 2:19-cr-00056-JAW, 2020 U.S. Dist. LEXIS 63673, at *3 (D. Me. Apr. 10,
+  2020)). The Government conceded Mr. Cogswell exhausted his administrative remedies through an
+
+                                                  19
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 20 of 29                  PageID #: 5393
+
+
+
+
+         The Court concludes Mr. Cogswell’s alleged medical conditions, which are not
+
+  accompanied by any corroborating medical records, do not present an extraordinary
+
+  and compelling reason for his release. The Court further concludes Mr. Cogswell is
+
+  too dangerous to be released and the § 3553(a) factors do not warrant a modification
+
+  of his sentence.
+
+         A.     Extraordinary and Compelling Reasons
+
+         To grant Mr. Cogswell’s motion under 18 U.S.C. § 3582(c)(1)(A)(i), the Court
+
+  must find “extraordinary and compelling reasons warrant[ing]” a reduction in
+
+  sentence. According to the Centers for Disease Control and Prevention (CDC), there
+
+  are several factors that increase a person’s risk of severe illness from COVID-19.
+
+  CDC guidance suggests the most decisive risk factor is a person’s age. Older Adults,
+
+  CDC,        https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/older-
+
+  adults.html (last visited Mar. 15, 2021). Generally, the risk of COVID-19 increases
+
+  as a person ages, and over eighty percent of deaths occur in people who are sixty-five
+
+  or older. Id. However, people younger than sixty-five may still face high risk of
+
+  complications. Id. Mr. Cogswell’s PSR indicates he is currently fifty-five years of age.
+
+  PSR at 3. Thus, while his age suggests he may face some risk of serious complications
+
+  from COVID-19, he is not within the CDC’s age-related high risk category.
+
+         People with certain medical conditions may also face high risk of serious
+
+  complications.          People      with      Certain      Medical      Conditions,      CDC,
+
+
+
+  internal request within the BOP on August 18, 2020 and the BOP’s August 28, 2020 denial. Gov’t’s
+  Opp’n at 6. The Court agrees.
+
+                                                20
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 21 of 29           PageID #: 5394
+
+
+
+
+  https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-
+
+  medical-conditions.html (last visited Mar. 15, 2021) (CDC COVID Med. Conditions).
+
+  Mr. Cogswell has not met his burden to show he has such conditions because neither
+
+  Mr. Cogswell nor the Government submitted his medical records to the Court.
+
+  Without medical records corroborating his asserted medical conditions, the Court is
+
+  chary of finding that Mr. Cogswell’s medical conditions warrant his release from
+
+  prison. However, even if the Court were able to review the records, the parties’
+
+  submissions indicate those records likely fail to provide any extraordinary and
+
+  compelling reason to release Mr. Cogswell. Both Mr. Cogswell and the Government
+
+  reviewed his BOP medical records and agree that he suffers from obesity, which may
+
+  increase his risk of severe complications from COVID-19, as well as obstructive sleep
+
+  apnea. See Def.’s Mot. at 2-3; Gov’t’s Opp’n, Attach. 4, Letter from J. Gavin Muir, MD.
+
+  The Government disputes whether Mr. Cogswell’s records indicate a current asthma
+
+  diagnosis. Gov’t’s Opp’n at 6-8. On this last point, as the burden falls on Mr.
+
+  Cogswell to demonstrate he is entitled to compassionate release, the absence of
+
+  corroborating records falls against him and the Court has not considered his alleged
+
+  asthma diagnosis as proven.
+
+        Current guidance from the CDC establishes obesity, defined as a body mass
+
+  index (BMI) of 30 kg/m2 or higher, increases a person’s risk of severe complications
+
+  from COVID-19 infection and moderate-to-severe asthma may also heighten the risk.
+
+  CDC COVID Med. Conditions. Here, the Court is not persuaded that Mr. Cogswell’s
+
+  circumstances are extraordinary and compelling. Although the parties agree he is
+
+
+
+                                            21
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 22 of 29              PageID #: 5395
+
+
+
+
+  obese with a BMI of 32, they dispute his asthma diagnosis, and he is in his mid-fifties.
+
+  Thus, while Mr. Cogswell faces some risk of serious complications from COVID-19
+
+  infection, the Court finds that his age and lack of underlying medical conditions other
+
+  than obesity mitigate whatever risk COVID-19 poses to Mr. Cogswell and he has not
+
+  demonstrated that his risk is extraordinary and compelling. Mr. Cogswell bears the
+
+  burden of proof on this issue and he failed to meet it. By itself, this is a sufficient
+
+  basis to deny his motion for compassionate release.
+
+        B.     Danger to the Community
+
+        The Court is concerned that Mr. Cogswell’s release would endanger the safety
+
+  of the community for two reasons. First, the nature of Mr. Cogswell’s offense. For
+
+  over a year, Mr. Cogswell operated as a middleman and distributor for an interstate
+
+  crack cocaine distribution conspiracy operating in the Bangor area. At sentencing,
+
+  the Court explained that it viewed this as “a very significant role.”           Cogswell
+
+  Sentencing Tr. at 61:22. “Big-city drug conspiracies who begin to operate in a small
+
+  city like Bangor have to have people just like [Mr. Cogswell].” Id. at 61:23-24. After
+
+  all, “local people are very reluctant to deal with strangers from a big city. But they’re
+
+  not as reluctant to deal with their own friends, a known commodity, a local boy.” Id.
+
+  at 62:4-7. The Court still views it as especially troubling that Mr. Cogswell’s role was
+
+  increasing during the life of the conspiracy, and he even moved in with his Dominican
+
+  co-conspirators to help handle the drug proceeds.         Id. at 62:14-23.     Moreover,
+
+  Mr. Cogswell was “fundamentally unrepentant” for his actions. Id. at 63:1.
+
+
+
+
+                                             22
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 23 of 29           PageID #: 5396
+
+
+
+
+        Additionally, Mr. Cogswell’s offense involved a firearm. Def.’s Reply at 3.
+
+  Mr. Cogswell traded a Hi-Point .380 pistol to the drug dealers in December 2010 in
+
+  exchange for ten bags of crack cocaine. Cogswell Sentencing Tr. at 17:23-25. By then,
+
+  he was already a part of the conspiracy. Id. Moreover, as the Court previously
+
+  explained, Mr. Cogswell’s assertions that he did not have access to the gun are
+
+  contradicted by testimony from his co-conspirators, namely Jowenky Nuñez. Id.
+
+  at 18:5-8. Mr. Nuñez said that the gun was always in the house and he carried it
+
+  frequently but that the conspiracy continued to view the gun as belonging to Mr.
+
+  Cogswell. Id. at 18:8-12. In any event, because the gun was essentially a house gun
+
+  possessed by co-conspirators but viewed as Mr. Cogswell’s, he had constructive
+
+  possession of the gun for purposes of the firearms enhancement. Id. at 18:15-21.
+
+        The fact that Mr. Cogswell “did not carry the gun himself as part of the
+
+  trafficking,” Def.’s Mot. at 3, does not alter the Court’s analysis.         Some of
+
+  Mr. Cogswell’s co-conspirators, particularly Jowenky Nuñez, were also dangerous.
+
+  Therefore, the distinction Mr. Cogswell attempts to draw between carrying the gun
+
+  himself and merely providing it to other members of the conspiracy does not support
+
+  his release. Furnishing the gun to his co-conspirators amplified the risk that it would
+
+  be used in a crime of violence. It is easy to see why. Mr. Cogswell’s co-conspirators
+
+  kept the gun at the conspiracy’s headquarters where drug sales took place and where
+
+  the drugs were stored. Guns and crack cocaine endanger the public safety in their
+
+  own right. Mr. Cogswell mixed the two and, based on his past conduct, his release
+
+  would endanger the public.
+
+
+
+                                            23
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 24 of 29            PageID #: 5397
+
+
+
+
+        The second reason the Court believes Mr. Cogswell is dangerous is the letter
+
+  dated March 17, 2013 that he wrote to another inmate while incarcerated at the
+
+  Piscataquis County Jail. In the letter, Mr. Cogswell threatened to have “his people”
+
+  kill a cooperating witness, Mr. Lewis, by hanging him and burning him alive. Mr.
+
+  Cogswell intended to mirthfully observe the torturous ordeal, writing “I’ll watch &
+
+  laugh & that will be that.”
+
+        The Court still “views this threat as a most serious threat.”            Cogswell
+
+  Sentencing Tr. at 26:6. Persistently troubling for the Court is that Mr. Cogswell’s
+
+  letter about Mr. Lewis had significant undertones of racially motivated violence. Mr.
+
+  Lewis is African American, and Mr. Cogswell essentially threatened to lynch him.
+
+  The Court continues to deem these threats “especially chilling in light of this
+
+  country’s tragic racial history, and it was calculated, in the [C]ourt’s view, to instill
+
+  added fear in Mr. Lewis.” Id. at 26:12-14. In addition, Mr. Cogswell wrote the letter
+
+  after January 31, 2013, when he was convicted by a jury of engaging in this drug
+
+  trafficking conspiracy. The Court remains troubled that Mr. Cogswell would blame
+
+  others for his own criminal activity and that he would do so, when he was awaiting
+
+  federal sentencing, a time when most defendants are extremely cautious.
+
+        Armed drug traffickers belong in prison, especially when they plan to lynch a
+
+  cooperating witness. The Court’s statements to Mr. Cogswell at sentencing ring true
+
+  to this day: “the letter reveals the real Ed Cogswell – a soldier for a criminal
+
+  enterprise.” Id. at 63:12-13. Mr. Cogswell, “[w]hat your letter told me . . . is that
+
+  you’re biding your time. You’ll serve your sentence. When you get out, you’ll track
+
+
+
+                                             24
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 25 of 29            PageID #: 5398
+
+
+
+
+  [Mr. Lewis] down and you may hurt him. And from my perspective, that requires me
+
+  to impose a sentence that is fairly significant because it’s not only your role directly
+
+  in the conspiracy, it is your utter lack of self-awareness about your own role in causing
+
+  yourself to be where you are today that causes me concern.” Id. at 63:18-64:1. Thus,
+
+  the Court concludes Mr. Cogswell’s release would endanger public safety and declines
+
+  to release him.
+
+        C.     The Section 3553(a) Factors
+
+        The Court also concludes the § 3553(a) factors weigh against Mr. Cogswell’s
+
+  release. The Court considered these factors when it sentenced Mr. Cogswell and
+
+  Mr. Cogswell has not given the Court reason to overturn its prior determinations. As
+
+  just discussed, the nature and circumstances of Mr. Cogswell’s offense and the need
+
+  to protect the public favor continued incarceration.             Deterrence does too.
+
+  Mr. Cogswell was an indispensable cog in the conspiracy’s wheel. He worked for the
+
+  conspiracy, which was led by individuals from New York, and leveraged his own
+
+  connections in Maine to sell drugs. When the Court imposed a substantial sentence
+
+  against Mr. Cogswell, it intended to send a message not only to Mr. Cogswell but also
+
+  to others that involvement in sophisticated drug trafficking organizations would lead
+
+  to a significant period of incarceration. Releasing Mr. Cogswell before the end of his
+
+  sentence would undermine this goal.
+
+        Mr. Cogswell is correct that two of his co-defendants who led the conspiracy,
+
+  Dawlin Cabrera and Jowenky Nuñez, were far more culpable than him yet received
+
+  more lenient sentences.      Even so, the Court does not find this warrants a
+
+
+
+                                             25
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 26 of 29                     PageID #: 5399
+
+
+
+
+  compassionate release reduction in Mr. Cogswell’s sentence. The Court considered
+
+  the need to avoid unwarranted sentencing disparities among similarly situated
+
+  defendants when it sentenced Mr. Cogswell. Cogswell Sentencing Tr. at 60:6-20. At
+
+  sentencing, the Court observed that “it is difficult to draw a clear, bright line through
+
+  these sentences” because “[e]ach of these defendants [had] different criminal
+
+  histories, different roles, some pleaded guilty, some went to trial . . ..” Id. In other
+
+  words, many defendants were not similarly situated to Mr. Cogswell. The First
+
+  Circuit agreed with this Court when it rejected Mr. Cogswell’s appeal. Trinidad-
+
+  Acosta, 773 F.3d at 321-22 (“[Mr.] Cogswell is not similarly situated to his
+
+  coconspirators since, at a minimum, he did not plead guilty and accept responsibility
+
+  for his crimes nor did he cooperate with the government”). Therefore, as the First
+
+  Circuit affirmed, the differences in the Defendants’ sentences were, in fact,
+
+  warranted.
+
+         Mr. Cogswell specifically raises Mr. Cabrera’s comparably lenient sentence,
+
+  though the argument is entirely unpersuasive. It is true that Mr. Cabrera led the
+
+  conspiracy while Mr. Cogswell was a middleman, and despite this, Mr. Cogswell
+
+  received a prison sentence that was five years longer.
+
+         But, as Mr. Cogswell well knows, there are very significant differences between
+
+  Mr. Cabrera and him. 5 One difference is that Mr. Cabrera pleaded guilty and Mr.
+
+  Cogswell went to trial. Because Mr. Cabrera entered a guilty plea, he received a
+
+
+  5       There are similar differences between Mr. Cogswell and Jowenky Nuñez, but the Court will
+  examine only Mr. Cabrera specifically. A similar analysis applies to Mr. Nuñez, who also cooperated
+  with the Government, and who testified against Mr. Cogswell and Manuel Trinidad-Acosta. See Tr.
+  of Proceedings, Jury Trial, at 306:12-337:2 (ECF No. 593); Id. at 341:19-413:21 (ECF No. 594).
+
+                                                  26
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 27 of 29             PageID #: 5400
+
+
+
+
+  three-level reduction in the calculation of his offense level under the Guidelines;
+
+  whereas, Mr. Cogswell did not. Compare Cogswell Sentencing Findings ¶¶ 1-6, with
+
+  Statement of Reasons, Attach. 1, Findings Affecting Sentencing ¶ 6 (ECF No. 497)
+
+  (Cabrera Sentencing Findings).       A second difference is that Mr. Cogswell was a
+
+  criminal history category II and Mr. Cabrera was a criminal history category I.
+
+  Compare Cogswell Sentencing Findings, ¶ 5, with Cabrera Sentencing Findings ¶ 8.
+
+  Mr. Cabrera was held responsible for a slightly greater drug quantity and received
+
+  several enhancements, his total offense level was 41, which at a criminal history
+
+  category I, resulted in a guideline sentence range of 324 to 405 months. Cabrera
+
+  Sentencing Findings ¶¶ 1-12.       By contrast, Mr. Cogswell’s guideline calculation
+
+  resulted in a total offense level of 38, which at a criminal history category II, resulted
+
+  in a guideline sentence range of 262 to 267 months. Cogswell Sentencing Findings,
+
+  ¶¶ 1-9.
+
+        The most critical difference, however, is that Mr. Cabrera cooperated with the
+
+  Government and testified on its behalf in two criminal trials, including Mr. Cogswell’s
+
+  jury trial. Partial Tr. of Proceedings, Jury Trial at 36:9-97:7 (ECF No. 412); United
+
+  States v. Kizzy Fader, No. 1:12-cr-00007-JAW, Partial Tr. of Proceedings, Test. of:
+
+  Dawlin Cabrera at 3:18-89:12 (ECF No. 73). As a consequence of his cooperation, the
+
+  Government moved to reduce Mr. Cabrera’s sentence pursuant to U.S.S.G. § 5K1.1.
+
+  See Tr. of Proceedings, Sentencing Proceedings at 5:24-25 (ECF No. 579) (“I have
+
+  reviewed the contents of the government’s 5K1 motion. I am hereby granting that
+
+  motion”). At Mr. Cabrera’s sentencing hearing, the Government recommended that
+
+
+
+                                             27
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 28 of 29                     PageID #: 5401
+
+
+
+
+  the Court impose a sentence of 120 months in view of his cooperation, the sentence
+
+  the Court originally imposed. Id. at 7:22-24; J. (ECF No. 496). 6 By contrast, Mr.
+
+  Cogswell elected not only to go to trial, but not to cooperate with the Government.
+
+  These were his choices and he cannot now gain the sentencing benefit of choices he
+
+  did not make, but Mr. Cabrera did. In short, Mr. Cogswell is not similarly situated
+
+  to Mr. Cabrera.
+
+         Finally, the Court expressly took Mr. Cabrera’s lenient sentence into account
+
+  when it later sentenced Mr. Cogswell. Cogswell Sentencing Tr. at 60:21-61:6. As the
+
+  Court pointed out then, a troubling aspect of Mr. Cogswell’s case was that his
+
+  inappropriate conduct seemed to have been increasing, not decreasing, especially in
+
+  view of his “vile threat to Mr. Lewis to hang and burn him after his time in prison
+
+  and his supervised release ended.” Id. at 59:25-60:5. For this reason, Mr. Cogswell’s
+
+  one hundred eighty-month sentence, approximately seven years below his guideline
+
+  range of two hundred sixty-two to three hundred twenty-seven months, was
+
+  appropriate in 2013 and remains appropriate today.
+
+         No modification of sentence is appropriate. Section § 3553(a) calls upon a
+
+  district judge to weigh a number of factors when determining the appropriate
+
+  sentence for a criminal defendant. A further reduction in Mr. Cogswell’s sentence
+
+  would be contrary to this Court’s obligation under 18 U.S.C. § 3553(a)(2)(A) to
+
+  consider “the seriousness of the offense, to promote respect for the law, and to provide
+
+
+  6      On March 31, 2015, the Court reduced Mr. Cabrera’s sentence to 97 months pursuant to an
+  amendment of the Guidelines retroactively reducing his offense level by two levels based on changes
+  in drug quantity calculations. See Def.’s Am. Mot. for Sentence Modification (ECF No. 842); Order
+  Regarding Mot. for Sentence Reduction Pursuant to 18 U.S.C. § 3582(c)(2) (ECF No. 855).
+
+                                                  28
+Case 1:11-cr-00205-JAW Document 1080 Filed 03/15/21 Page 29 of 29         PageID #: 5402
+
+
+
+
+  just punishment.” Mr. Cogswell’s conduct during the course of the crack cocaine
+
+  distribution conspiracy was serious organized criminal activity, which necessitates a
+
+  significant punishment.     Thus, the Court concludes the § 3553(a) factors do not
+
+  support release.
+
+  VI.   CONCLUSION
+
+        The Court DISMISSES without prejudice Ed Cogswell’s Amended Petition for
+
+  Compassionate Release (ECF No. 1055).
+
+
+        SO ORDERED.
+
+                                         /s/ John A. Woodcock, Jr.
+                                         JOHN A. WOODCOCK, JR.
+                                         UNITED STATES DISTRICT JUDGE
+
+  Dated this 15th day of March, 2021.
+
+
+
+
+                                           29
+

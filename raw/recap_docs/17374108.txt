@@ -1,0 +1,893 @@
+       Case 1:07-cr-10240-RGS Document 292 Filed 04/15/10 Page 1 of 18
+
+
+
+                         UNITED STATES DISTRICT COURT
+                          DISTRICT OF MASSACHUSETTS
+
+                            CRIMINAL NO. 07-10240-RGS
+
+                           UNITED STATES OF AMERICA
+
+                                           v.
+
+                                   SCOTT TOWNE
+
+
+                      MEMORANDUM AND ORDER ON
+                DEFENDANT’S MOTION TO SUPPRESS EVIDENCE
+                        AND MOTION TO DISMISS
+
+                                    April 15, 2010
+
+STEARNS, D.J.
+
+      In these two motions, defendant Scott Towne seeks to suppress evidence seized
+
+from his home at 42 Belmont Street in East Bridgewater, Massachusetts. The search was
+
+conducted pursuant to a warrant issued by a Magistrate of the Brockton District Court.
+
+Towne contests the affiant’s showing of probable cause, and contends that, in any event,
+
+the searching officers exceeded their authority under the warrant. Towne also seeks a
+
+dismissal of the underlying indictment on grounds of outrageous government misconduct.
+
+On January 15, 2010, the court heard evidence on the motion to suppress. Counsel also
+
+presented argument on the motion to dismiss.
+
+                                   BACKGROUND
+
+      Towne and fourteen members of the Taunton chapter of the Outlaws Motorcycle
+
+Club (Outlaws) were indicted for conspiring to distribute cocaine and marihuana. The
+           Case 1:07-cr-10240-RGS Document 292 Filed 04/15/10 Page 2 of 18
+
+
+
+indictment was the culmination of a two-year joint federal and state investigation.1 In
+
+tandem with the indictment, search warrants were obtained by members of the
+
+investigating task force. Among the searches authorized was that of Towne’s East
+
+Bridgewater residence. The affiant who applied for and obtained the warrant was Sgt.
+
+Thomas Higginbotham of the Massachusetts State Police (MSP).
+
+                             THE MOTION TO SUPPRESS
+
+       Findings of Fact
+
+       The following facts are taken from the testimony presented at the January 15, 2010
+
+hearing, and more particularly, the affidavit submitted in support of the search warrant.
+
+Higginbotham (who is now retired) served thirty-one years as an MSP officer. Over the
+
+course of his career, he participated in over 100 drug investigations and was responsible
+
+for some 50 to 100 search warrant applications.2 He is an expert on the Outlaws and on
+
+motorcycle theft.3
+
+       The essential facts presented to the Magistrate in the affidavit are as follows. The
+
+investigation began in 2005 with the introduction of an undercover federal agent
+
+(referenced in the affidavit as UC-1) to members of the Taunton chapter of the Outlaws
+
+
+       1
+       The Outlaws is an international motorcycle club founded in Illinois in 1935. It has
+over one hundred chapters in the United States. The Outlaws makes little effort to conceal
+its double life as a criminal syndicate. Its main rival in the United States is the Hells
+Angels Motorcycle Club.
+       2
+       Higginbotham served as a member of the MSP Drug Unit from 1981 until his
+retirement.
+       3
+        Higginbotham is a member of the International Outlaws Motorcycle Gang
+Investigators Association and instructs law enforcement officers on the subjects of
+motorcycle gangs and vehicle theft.
+
+                                            2
+           Case 1:07-cr-10240-RGS Document 292 Filed 04/15/10 Page 3 of 18
+
+
+
+and their associates. Among those befriended by UC-1 was Towne who, although not a
+
+member of the Outlaws, was friendly with many of its members. Towne confided in UC-1
+
+that the Hells Angels respected him (Towne) because he had emerged victorious in past
+
+fights with Hells Angels and had forced his victims to part with their “colors.”4 On August
+
+13-14, 2005, Towne invited UC-1 to an Outlaws party in Brockton and then back to his
+
+home. There he showed UC-1 a set of Hells Angels colors that he had taken in a “beat
+
+down” of a member of Hells Angels. On December 15, 2005, Towne invited UC-1 to his
+
+home for a showing of a second set of captured Hells Angels colors.
+
+       On July 21, 2006, UC-1 was present when Towne agreed to purchase a 2004
+
+Vulcan motorcycle from Joseph Noe, the President of the Taunton chapter of the Outlaws.
+
+The true owner of the Vulcan intended to report it as stolen for insurance fraud purposes.5
+
+On July 22, 2006, UC-1 was present when Towne paid Noe $7,000 for the Vulcan and
+
+agreed to alter its Vehicle Identification Number (VIN). The Vulcan was reported stolen
+
+to the Avon Police later that day.
+
+       In February of 2007, UC-1 hired Towne to repair his 1993 Harley Davidson “Fat
+
+Boy” motorcycle. While visiting at Towne’s home, UC-1 saw the Vulcan, and asked Towne
+
+whether he had changed the VIN. Towne told UC-1 that he had not altered the VIN, but
+
+
+       4
+        The term “colors” refers to the distinctive jacket patches worn by members of a
+motorcycle gang, such as the Hells Angels or Outlaws. The Outlaws “colors” consist of a
+skull and crossed pistons, while the Hells Angels display a winged death’s head.
+According to Higginbotham, a motorcycle gang’s colors are “sacred,” and the gangs rob
+colors from one another to display as “trophies.”
+       5
+        Over the course of the investigation, UC-1 bought thirteen vehicles (cars, trucks,
+and motorcycles) from members and associates of the Taunton Outlaws chapter as part
+of a purported insurance fraud scheme.
+
+                                            3
+           Case 1:07-cr-10240-RGS Document 292 Filed 04/15/10 Page 4 of 18
+
+
+
+planned to remove the VIN plate and weld on a new plate with a different VIN.
+
+       On July 27, 2007, UC-1 told Higginbotham that he had spoken with Towne by
+
+telephone. Towne told UC-1 that he had sent the fenders and fuel tank of the Vulcan out
+
+to be repainted. UC-1 also advised Higginbotham that Towne had replaced the fenders
+
+and tank on UC-1's Fat Boy.
+
+       On July 31, 2007, after Towne’s arrest, Higginbotham and five other officers
+
+executed the warrant at Towne’s home. The warrant authorized the search for and seizure
+
+of the following.
+
+       Proof of (residency/ownership). Two (2) sets of Stolen Hells Angels
+       Motorcycle Club “COLORS” or any part thereof, Black gas tank, front and
+       rear Harley Davidson fenders which is the property of the Federal Bureau of
+       Investigation, A Stolen 2004 Vulcan motorcycle, Massachusetts Registration
+       MZ4410, VIN: 1V9SSV6A54H086039, die stamps and tools used to alter or
+       deface vehicle identification numbers, notes, records, receipts, and all other
+       documents pertaining to the purchase of a stolen 2004 Vulcan motorcycle.
+
+       After the home was secured, officers under Higginbotham’s supervision began the
+
+search at 6:10 a.m.6 As items were located by search team members, they were brought
+
+to Higginbotham who made the decision whether or not to seize them. The team first
+
+found gang-related clothing and insignias in the master bedroom.              In a bedroom
+
+entertainment center, the team found a prescription pill bottle. In a dresser next to the bed,
+
+they found ten rounds of .38 caliber ammunition. Ten minutes later, $39,000 wrapped in
+
+$1,000 bundles was discovered in a canvas bag hidden behind the dresser. Almost
+
+simultaneously, in the kitchen, officers (including Higginbotham) came across evidence
+
+
+
+       6
+       Vicki Mager, Towne’s girlfriend and the mother of his child, was present during the
+search. She did not testify at the hearing.
+
+                                              4
+        Case 1:07-cr-10240-RGS Document 292 Filed 04/15/10 Page 5 of 18
+
+
+
+of drug use (a scale, a spoon with residue, and plastic sandwich bags, among other items).
+
+In Mager’s bedroom, the officers found a portable cash drawer containing $4,400. An
+
+unlocked safe located near the first floor entryway was found to contain syringes and
+
+prescription steroid drugs. Officers discovered another bag on top of the refrigerator in the
+
+kitchen containing $2,000 and steroid drugs. Next, four plastic garbage bags containing
+
+marihuana were found in the attic of the detached garage. In the garage, the officers also
+
+found the Fat Boy and two sets of motorcycle fuel tanks and fenders. At various points
+
+during the search, papers showing Towne’s ownership of the home and the Vulcan
+
+motorcycle were seized. The search ended at 9:45 a.m.
+
+       Rulings of Law
+
+       A search warrant may issue on a showing of probable cause — something more
+
+than a suspicion, but something significantly less than proof beyond a reasonable doubt.
+
+See Safford Unified Sch. Dist. No. 1 v. Redding, 129 S.Ct. 2633, 2639 (2009) (probable
+
+cause is a fluid concept taking its substantive content from the particular circumstances
+
+– “the best that can be said generally about the required knowledge component of
+
+probable cause . . . is that it raise a ‘fair probability,’ . . . or a ‘substantial chance,’ . . . of
+
+discovering evidence of criminal activity.”).            Probable cause is concerned with
+
+probabilities, “the factual and practical considerations of everyday life on which reasonable
+
+and prudent men, not legal technicians, act.” Brinegar v. United States, 338 U.S. 160, 175
+
+(1949). The standards defining probable cause are “not readily, or even usefully, reduced
+
+to a neat set of legal rules.” Illinois v. Gates, 462 U.S. 213, 232 (1983). Probable cause
+
+“merely requires that the facts available to the officer would ‘warrant a man of reasonable
+
+
+                                                 5
+           Case 1:07-cr-10240-RGS Document 292 Filed 04/15/10 Page 6 of 18
+
+
+
+caution in the belief’ that certain items may be contraband or stolen property or useful as
+
+evidence of a crime; it does not demand any showing that such a belief be correct or more
+
+likely true than false.” Texas v. Brown, 460 U.S. 730, 742 (1983) (plurality opinion)
+
+(internal citation omitted). “The standard of probable cause is the probability, not a prima
+
+facie showing, of criminal activity.” United States v. Ciampa, 793 F.2d 19, 22 (1st Cir.
+
+1986).7
+
+       Towne challenges the showing of probable cause on three grounds: (1) that the
+
+affidavit failed to establish any probability that Towne had committed a crime “with the
+
+possible exception of aiding and abetting the filing of a fraudulent insurance claim
+
+regarding the 2004 Vulcan motorcycle”8; (2) the failure to establish a nexus between the
+
+items designated to be seized and his home; and (3) to the extent that such a connection
+
+was made, the supporting information contained in the affidavit was “stale.”
+
+                a.     Failure to Allege a Crime
+
+       This argument is difficult to parse, as Towne concedes that the affidavit describes
+
+an insurance fraud scheme in which he was a participant. See Mass. Gen. Laws ch. 266,
+
+§ 111B. See also Mass. Gen. Laws ch. 268, § 39 (false reports of vehicle theft).
+
+Moreover, Towne, by his own account, had taken the two sets of Hells Angels colors by
+
+
+
+       7
+        Towne does not challenge the sufficiency of the affidavit based on the fact that it
+relies heavily on an informant’s (UC-1) reports. See Gates, 462 U.S. at 227-228. This is
+understandable, as UC-1's credibility as an officer informant is presumed. United States
+v. Ventresca, 380 U.S. 102, 108 (1965). Moreover, his basis of knowledge – personal
+observation – is unchallengeable. Cf. Spinelli v. United States, 393 U.S. 410, 425 (1969)
+(White, J., concurring).
+       8
+           Def.’s Mot. to Suppress Mem. at 7.
+
+                                                6
+       Case 1:07-cr-10240-RGS Document 292 Filed 04/15/10 Page 7 of 18
+
+
+
+force and intimidation, an admission to the crime of unarmed robbery. Mass. Gen. Laws
+
+ch. 265, § 19. Finally, Towne’s stated intention to alter the VIN of the Vulcan motorcycle
+
+is itself a crime under Massachusetts law punishable by a sentence to state prison. See
+
+Mass. Gen. Laws ch. 266, § 139.
+
+             b.     Connection to the Premises
+
+      There must be reasonable cause to believe that the place to be searched is
+
+connected to the underlying criminal activity and is thus a likely repository of evidence.
+
+“[T]he nexus between the items to be seized and the place to be searched need not be
+
+based on direct observation. The nexus may be found in ‘the type of crime, the nature of
+
+the missing items, the extent of the suspects’ opportunity for concealment, and normal
+
+inferences as to where a criminal would be likely to hide stolen property [or other
+
+contraband].’” Commonwealth v. Cinelli, 389 Mass. 197, 213 (1983). “Items that are
+
+durable, of continuing utility, and not inherently incriminating, are of the kind that are
+
+reasonably likely to be found in a defendant’s home after a crime.” Commonwealth v.
+
+Wilson, 427 Mass. 336, 343 (1998). The nexus here is provided by UC-1's observation
+
+of the Vulcan motorcycle and the gang colors on the premises of 42 Belmont Street.
+
+             c.     Staleness
+
+      Conceding the plausibility of a connection between these items and his home,
+
+Towne nonetheless argues that the information was too dated to provide probable cause
+
+to believe that the Vulcan motorcycle and the gang colors would be found on the premises
+
+at 42 Belmont Street. Police are not required to seek a warrant the moment they have
+
+information sufficient to establish probable cause, but stale information cannot be
+
+
+                                            7
+       Case 1:07-cr-10240-RGS Document 292 Filed 04/15/10 Page 8 of 18
+
+
+
+considered in the probable cause analysis. Sgro v. United States, 287 U.S. 206, 210-211
+
+(1932). Whether or not information is stale depends on the nature of the property to be
+
+seized, the nature of the alleged crime, and the nature of the premises to be searched.
+
+Andresen v. State, 331 A.2d 78, 105 (Md. Ct. Spec. App. 1975), aff’d, Andresen v.
+
+Maryland, 427 U.S. 463 (1976). “The likelihood that the evidence sought is still in place
+
+is a function not simply of watch and calendar but of variables that do not punch a clock.”
+
+Id., 331 A.2d at 106. Burglar’s tools, for example, might reasonably remain in the hands
+
+of a professional thief for ten months. Commonwealth v. Scanlan, 9 Mass. App. Ct. 173,
+
+180-181 (1980). Pedophiles typically hide child pornography in the secrecy of their homes
+
+and rarely discard the images, hence a pornography collection might reasonably remain
+
+in the possession of a pedophile for an indefinite period of time. See United States v.
+
+Lacy, 119 F.3d 742, 745 (9th Cir. 1997) (ten months); People v. Russo, 487 N.W.2d 698,
+
+707-711 (Mich. 1992) (six and one-half years); Commonwealth v. Kenney, 449 Mass. 840,
+
+846 (2007) (“Perhaps a lifetime.”). Collectors of illegal firearms also carefully preserve
+
+their weapons. See United States v. Batchelder, 824 F.2d 563, 564 (7th Cir. 1987) (illegal
+
+silencers properly seized on nine-month-old information). See also State v. Bova, 690
+
+A.2d 1370, 1384 (Conn. 1997) (items that are not facially incriminating are more likely to
+
+remain undisturbed on a premises than are items that are obviously inculpatory).
+
+       The argument that the information regarding the Vulcan was stale has no traction
+
+given the July 27, 2007 conversation between UC-1 and Towne in which Towne stated that
+
+he had sent the Vulcan’s fenders and gas tank out to be repainted. The statement invited
+
+
+
+
+                                            8
+           Case 1:07-cr-10240-RGS Document 292 Filed 04/15/10 Page 9 of 18
+
+
+
+a compelling inference that the Vulcan (or most of it) was still at the premises.9 UC-1's
+
+information regarding the Hells Angels colors was more dated, but given Towne’s bragging
+
+over his prowess at wresting colors from Hells Angels, it is no more likely that he would
+
+have disposed of these spoils of combat than a pedophile his library of child pornography
+
+or a weapons collector his illegal arsenal.
+
+       Execution of the Warrant
+
+       The second aspect of Towne’s challenge to the warrant goes to its manner of
+
+execution. “Even if the warrant was supported by probable cause, the search exceeded
+
+the bounds of the warrant and was not conducted in good faith, which essentially caused
+
+it to become an instrument for conducting a general search.” Def.’s Mot. to Supp. Mem.
+
+at 11. Because of the breadth of the search, Towne argues that the court should suppress
+
+all of the evidence seized.10
+
+       The fruits of such a search must be suppressed in toto because “a search
+       that greatly exceeds the bounds of a warrant and is not conducted in good
+       faith is essentially indistinguishable from a general search.” . . . Thus,
+       “blanket suppression” is required when it is clear from the circumstances that
+       the search conducted by law enforcement agents “actually resemble[d] a
+       general search” and that they did not comply with the warrant in good faith.
+
+Id. at 12 (quoting United States v. Liu, 239 F.3d 138, 141 (2d Cir. 2000)).
+
+       The government concedes that “[m]uch of the evidence seized was not listed in the
+
+
+
+       9
+         The statement – and Towne’s procrastination in altering the Vulcan’s VIN – also
+tend to explain why Towne had not been seen riding the Vulcan during the five months
+prior to the warrant’s execution.
+       10
+        Towne acknowledges that the warrant authorized the seizure of the club colors,
+the Vulcan, the motorcycle parts, and documents evidencing Towne’s ownership of the
+same. Id. at 14-15.
+
+                                              9
+       Case 1:07-cr-10240-RGS Document 292 Filed 04/15/10 Page 10 of 18
+
+
+
+warrant,” but argues that the seizures are nonetheless justified under the plain view
+
+doctrine. Plain view rises to constitutional significance as a justification for warrantless
+
+seizures, not searches. “It is important to distinguish ‘plain view,’ as used . . . to justify
+
+seizure of an object, from an officer’s mere observation of an item left in plain view.
+
+Whereas the latter generally involves no Fourth Amendment search . . . , the former
+
+generally does implicate the Amendment’s limitations upon seizures of personal property.”
+
+Brown, 460 U.S. at 738 n.4 (emphasis in original). “If an article is already in plain view,
+
+neither its observation nor its seizure would involve any invasion of privacy. . . . A seizure
+
+of the article, however, would obviously invade the owner’s possessory interest.” Horton
+
+v. California, 496 U.S. 128, 133-134 (1990).
+
+       “Plain view” is best understood not as an exception to the warrant requirement but
+
+as an extension of the prior justification that brings an officer without a warrant into the
+
+presence of evidence or contraband. Brown, 460 U.S. at 738-739. The lawful view of an
+
+exposed item does not by itself justify a “plain view” seizure. For a seizure to be valid,
+
+there are two mutually dependent prerequisites: (1) a prior valid intrusion by officers into
+
+a constitutionally protected area; and (2) “immediate” recognition of the item’s evidentiary
+
+significance (that is, probable cause for its seizure). Coolidge v. New Hampshire, 403 U.S.
+
+443 (1971) (plurality opinion); Horton, 496 U.S. at 140.11 Police executing a valid search
+
+
+
+       11
+         “[T]he use of the phrase ‘immediately apparent’ [in Coolidge] was very likely an
+unhappy choice of words, since it can be taken to imply that an unduly high degree of
+certainty as to the incriminatory character of evidence is necessary for an application of
+the ‘plain view’ doctrine.” Brown, 460 U.S. at 741. The doctrine requires only that an
+officer have probable cause before seizing an incriminating item. Minnesota v. Dickerson,
+508 U.S. 366, 376 (1993).
+
+                                             10
+         Case 1:07-cr-10240-RGS Document 292 Filed 04/15/10 Page 11 of 18
+
+
+
+or arrest warrant may seize evidence encountered in plain view. United States v. Robles,
+
+45 F.3d 1, 6 (1st Cir. 1995); United States v. Aguirre, 839 F.2d 854, 858-859 (1st Cir.
+
+1988).
+
+         Towne’s objection, however, is not to the doctrine in the abstract, but to the intensity
+
+of the search that exposed the items that were seized.
+
+         [T]he circumstances of the search strongly suggest bad faith. In particular,
+         the fact that the agents indiscriminately searched the bedrooms, kitchen,
+         dining room, front room, as well as the attic of the detached garage,
+         suggests that they were not simply searching for motorcycle parts and Hells
+         Angels colors but were looking for whatever they could find.
+
+Def.’s Mot. to Suppress Mem. at 15-16.
+
+         The warrant issued by the Magistrate authorized the search of the property at 42
+
+Belmont Street without restriction (other than by designating the items to be seized). If
+
+there is probable cause to believe that criminal activity is afoot in one room of a household,
+
+a warrant to search the entire dwelling is not overly broad. Commonwealth v. Waltson,
+
+724 A.2d 289, 293 (Pa. 1998).          A warrant authorizing officers to search an entire
+
+“premises” also permits the search of areas and structures “appurtenant to” (within the
+
+curtilage of) the main building. Wayne R. LaFave, 2 Search and Seizure: A Treatise on
+
+the Fourth Amendment § 4.10(a) (4th ed. 2004). See also Houser v. Geary, 465 F.2d 193,
+
+195-196 (9th Cir. 1972) (hothouse, shed, and garage adjacent to the main dwelling);
+
+United States v. Ferreras, 192 F.3d 5,10-11 (1st Cir. 1999) (attic); United States v. Fagan,
+
+577 F.3d 10, 14 (1st Cir. 2009) (storage closet eight feet from an apartment’s front door);
+
+United States v. Canestri, 518 F.2d 269, 273-274 (2d Cir. 1975) (basement storeroom).
+
+
+
+
+                                               11
+       Case 1:07-cr-10240-RGS Document 292 Filed 04/15/10 Page 12 of 18
+
+
+
+       The intensity of a search “is defined by the object of the search and the places in
+
+which there is probable cause to believe that it may be found.” Maryland v. Garrison, 480
+
+U.S. 79, 84 (1987), quoting United States v. Ross, 456 U.S. 798, 824 (1982). Thus,
+
+officers may search until all possibility that evidence identified in the warrant is concealed
+
+somewhere on the premises is exhausted. Commonwealth v. Wood, 389 Mass. 552, 558
+
+(1983). Any unlocked or locked container on the premises that could reasonably conceal
+
+an item described in the warrant may be opened and searched. See United States v.
+
+Giwa, 831 F.2d 538, 543-544 (5th Cir. 1987). See also United States v. Gonzalez, 940
+
+F.2d 1413, 1420 (11th Cir. 1991) (locked briefcase); United States v. Gray, 814 F.2d 49,
+
+51 (1st Cir. 1987) (pockets of a jacket found on the premises); United States v. Wright, 704
+
+F.2d 420, 422 (8th Cir. 1983) (officers searching for drugs opened a locked safe); United
+
+States v. Criswell, 696 F.2d 636, 640 (8th Cir. 1983) (refrigerator freezer compartment);
+
+United States v. Micheli, 487 F.2d 429, 432 (1st Cir. 1973) (briefcase).12
+
+
+       12
+         The case cited by Towne as “fatal” to the government’s plain view argument,
+United States v. Comprehensive Drug Testing, Inc., 579 F.3d 989 (9th Cir. 2009) (CDT),
+while earning both praise and criticism, is not apropos. In CDT, Chief Judge Kozinski,
+writing for an en banc majority, sought to flesh out rules for limiting searches of
+electronically stored information, where unlike the case of a seizure of file cabinets
+containing a reasonably limited universe of documents, “even inexpensive electronic
+storage media today can store the equivalent of millions of pages of information.” Id. at
+1004. The dilemma Judge Kozinski identified is created by the necessity of sorting
+through this enormous mass of undifferentiated electronic data at an off-site location,
+which when done at leisure by government agents means that every shred of stored
+information will automatically come into plain view, thereby rendering the limits of the
+doctrine a nullity. Id. at 998. Judge Kozinski did not disavow the plain view doctrine,
+instead he promulgated a rule (over vigorous dissent) requiring the government to waive
+reliance on plain view as an exception to the warrant requirement unless it was willing to
+have the sorting task performed by a neutral third party under a Magistrate Judge’s
+oversight. Id. Here, of course, no electronically stored data is at issue and what little
+sorting of papers that needed be done was done by Higginbotham at the scene and with
+
+                                             12
+       Case 1:07-cr-10240-RGS Document 292 Filed 04/15/10 Page 13 of 18
+
+
+
+       However, once articles described in the warrant have been located, the authority
+
+to search expires. See LaFave, supra, 2 Search and Seizure § 4.10(d). See also United
+
+States v. Gagnon, 635 F.2d 766, 769 (10th Cir. 1980). If items are seized outside the
+
+scope of the warrant, “the normal remedy is to suppress the use of all items improperly
+
+taken.” United States v. Hamie, 165 F.3d 80, 84 (1st Cir. 1999). If, however, officers
+
+grossly exceed the scope of a warrant they may invite the blanket suppression of all items
+
+seized. See United States v. Foster, 100 F.3d 846, 850-851 (10th Cir. 1996) (officers
+
+executing a drug and firearms warrant seized “everything of value” in defendant’s home);
+
+United States v. Medlin, 842 F.2d 1194, 1199 (10th Cir. 1988) (federal agents executing
+
+a warrant for firearms permitted a local sheriff to seize 667 unlisted items that he believed
+
+were stolen).
+
+       Here, sequence matters. The issue is whether the searching officers had found
+
+everything contemplated by the warrant before the search was extended through the
+
+house and into the garage, or whether the “plain view” seizures fell within the natural
+
+progression of the authorized search. As the timeline set out earlier in this opinion makes
+
+clear, the motorcycle parts which were identified in the warrant were found only at the end
+
+
+
+
+dispatch. The Seventh Circuit’s commentary on CDT in United States v. Mann, 592 F.3d
+779, 785 (7th Cir. 2010), summarizes the dissenting view succinctly: “Although the Ninth
+Circuit’s rules provide some guidance in a murky area, we are inclined to find more
+common ground with the dissent’s position that jettisoning the plain view doctrine entirely
+in digital evidence cases is an ‘efficient but overbroad approach.’ We too believe the more
+considered approach ‘would be to allow the contours of the plain view doctrine to develop
+incrementally through the normal course of fact-based case adjudication.’” (quoting CDT,
+579 F.3d at 1013).
+
+                                             13
+       Case 1:07-cr-10240-RGS Document 292 Filed 04/15/10 Page 14 of 18
+
+
+
+of the search when the search team reached the detached garage.13 There is no evidence
+
+that police deliberately delayed the search of the garage in order to continue the search
+
+of the house or its contents or otherwise acted in bad faith. Consequently, the items
+
+unnamed in the warrant were properly seized as they came into plain view.
+
+       Outrageous Government Misconduct
+
+       Towne’s motion to dismiss the indictment is an equitable extension of the affirmative
+
+defense of entrapment. Towne alleges that the underlying crime was orchestrated by an
+
+undercover FBI agent whose methods swept Towne into a “virtual reality show” – “written,
+
+produced, and directed by the United States Government.” Def.’s Mot. to Dismiss Mem.
+
+at 3-4. As Towne sums up his argument: “[T]he Government’s conduct in orchestrating
+
+the drug transaction was outrageous . . . because it went over the edge of what otherwise
+
+might be considered a reasonable exercise of creativity in the Government’s ‘War on
+
+Drugs.’” Id. at 5-6.14 What Towne has in mind is the fact that UC-1 used deception to
+
+ingratiate himself with Towne and other defendants, invented imaginary Mexican and
+
+
+       13
+         Although not argued by the government, there is significant authority supporting
+the proposition that police who find some evidence of drug activity have probable cause
+to believe that additional evidence of drug activity will be found on a premises. See United
+States v. Washington, 852 F.2d 803, 804-805 (4th Cir. 1988); United States v. Rey, 923
+F.2d 1217, 1220-1221 (6th Cir. 1991).
+       14
+          An alternative theory suggested in defendant’s brief is that by the staging of the
+penultimate drug sting (some seven months before the search of Towne’s residence) in
+the parking lot of a shopping mall (the Westgate Mall), government agents recklessly
+exposed innocent third-party civilians to harm. “[T]he atmosphere was tense. The
+potential for violence leading to injury or death to the public and the participants was
+enormous.” Id. at 3. Whether or not true, Towne does not have standing to press the
+potential emotional distress claims of third-party observers or, as he suggests at one point
+in his brief, the safety interests of the law enforcement officers involved. See Rakas v.
+Illinois, 439 U.S. 128, 138-139 (1978).
+
+                                            14
+       Case 1:07-cr-10240-RGS Document 292 Filed 04/15/10 Page 15 of 18
+
+
+
+Canadian organized crime “connections,” and arranged a fictitious delivery of drugs
+
+supplied by the government in a transaction in which Towne’s only role was to provide
+
+“protection.”15
+
+       Entrapment is an issue of fact and is therefore an inappropriate subject for a motion
+
+to dismiss. However, related to entrapment is a defense at law – the claim that the
+
+conduct of the government in engendering a prosecution was so outrageous that as a
+
+matter of law it violated the fundamental principles of fairness embodied in the Due
+
+Process Clause of the Fifth and Fourteenth Amendments (notwithstanding any
+
+predisposition on the defendant’s part to commit the crime).16 See Hampton v. United
+
+States, 425 U.S. 484, 491-495 (1976) (Powell, J., concurring); United States v. Russell,
+
+411 U.S. 423, 431-432 (1973) (dicta); United States v. Panitz, 907 F.2d 1267, 1272 (1st
+
+Cir. 1990); Commonwealth v. Monteagudo, 427 Mass. 484, 485-486 (1998). The issue of
+
+whether government misconduct amounted to a due process violation is for the trial judge,
+
+not the jury. Hampton, 425 U.S. at 497; United States v. Johnson, 565 F.2d 179, 181-182
+
+(1st Cir. 1977).
+
+       “[A] successful due process defense must be predicated on intolerable government
+
+conduct which goes beyond that necessary to sustain an entrapment defense.” United
+
+
+
+       15
+        It bears noting that Magistrate Judge Sorokin, who presided at Towne’s lengthy
+detention hearing, found that the protection detail had been organized by Towne and co-
+defendant Joseph Noe, the President of the Taunton chapter of the Outlaws, and that
+Towne on his own initiative had recruited others to act as “lookouts.”
+       16
+         Although the government devotes most of its brief to rehearsing Towne’s role in
+the events that led to his arrest, Towne does not deny (although he does minimize) his role
+in providing “protection” for the main players in the supposed drug transaction.
+
+                                            15
+       Case 1:07-cr-10240-RGS Document 292 Filed 04/15/10 Page 16 of 18
+
+
+
+States v. Jannotti, 673 F.2d 578, 607 (3d Cir. 1982) (en banc). The conduct at issue must
+
+be “most egregious” and “so repugnant and excessive” as to “shock the [judicial]
+
+conscience.” United States v. Alexandro, 675 F.2d 34, 39, 40 (2d Cir. 1982). As Justice
+
+Powell predicted in Hampton (a reverse sting drug case), the degree of outrageous
+
+behavior contemplated was so extreme that it would be a rare case in which a due process
+
+defense prevailed. Only two federal appeals court decisions since Hampton (one of which
+
+was subsequently withdrawn) have upheld the dismissal of an indictment for outrageous
+
+government misconduct. See United States v. Solorio, 37 F.3d 454 (9th Cir. 1994)
+
+(contingent informers’ fees), withdrawn and superseded by, 53 F.3d 341 (9th Cir. 1995);
+
+United States v. Twigg, 588 F.2d 373, 380-381 (3d Cir. 1978) (government established,
+
+stocked, and ran an illegal drug laboratory). See also United States v. Tucker, 28 F.3d
+
+1420, 1427 (6th Cir. 1994) (the due process entrapment defense “simply does not exist”);
+
+United States v. Santana, 6 F.3d 1, 4 (1st Cir. 1993) (the doctrine is “moribund”). Cf.
+
+United States v. Miller, 891 F.2d 1265, 1271 (7th Cir. 1989) (Easterbrook, J., concurring)
+
+(“Why waste litigants’ and judges’ time searching for and rejecting on the facts defenses
+
+that ought not exist as a matter of law?”).
+
+       Because the due process test is an objective one, “[e]ven a willing defendant may
+
+claim a violation of due process.” United States v. Bradley, 820 F.2d 3, 7 (1st Cir. 1987).
+
+“[T]he focus . . . is not on the propensities and predisposition of a specific defendant, but
+
+on ‘whether the police conduct revealed in the particular case falls below standards, to
+
+which common feelings respond, for the proper use of governmental power.’” United
+
+States v. Russell, 411 U.S. 423, 441 (1973) (Stewart, J., dissenting), quoting Sherman v.
+
+
+                                              16
+       Case 1:07-cr-10240-RGS Document 292 Filed 04/15/10 Page 17 of 18
+
+
+
+United States, 356 U.S. 369, 382 (1958). For a representative sample of cases in which
+
+the defense has been examined and rejected, see United States v. Mazzella, 768 F.2d
+
+235, 238-239 (8th Cir. 1985) (sale of precursor chemicals by drug agents to defendant was
+
+not “outrageous”); United States v. Ford, 918 F.2d 1343, 1349 (8th Cir. 1990) (same,
+
+agents provided a small sample of drugs to facilitate a “reverse sting”); United States v.
+
+Santana, 6 F.3d at 11-12 (same, 13.3 grams of 92 percent pure heroin later distributed by
+
+the recipient); United States v. Mosley, 965 F.2d 906, 911-912 (10th Cir. 1992) (“supply
+
+and buy” drug transactions); United States v. Smith, 802 F.2d 1119, 1125-1126 (9th Cir.
+
+1986) (agents used defendant’s brother as an informant); United States v. Simpson, 813
+
+F.2d 1462, 1464-1468 (9th Cir. 1987) (informant developed and exploited a sexual
+
+relationship with defendant), further proceedings, 927 F.2d 1088 (9th Cir. 1991); United
+
+States v. Nolan-Cooper, 155 F.3d 221, 232-235 (3d Cir. 1998) (undercover agent wined,
+
+dined, and eventually had intercourse with a defendant).
+
+       When measured against the sometimes sordid facts in this array of cases in which
+
+the defense has failed, I cannot say as an objective matter that there is anything about this
+
+garden variety “sting” that shocks or even pricks the conscience of the court.17 The
+
+
+       17
+         Towne also suggests a theory of sentencing manipulation, that UC-1 “solely
+determined the weight and kind of controlled substances” (forty kilograms of cocaine and
+one thousand pounds of marihuana) that would be involved in the sting. “Sentencing
+factor manipulation” describes a species of “outrageous government conduct” consisting
+of a series of inducements offered to a willing defendant solely as a means of ratcheting
+up his sentence. See United States v. Jones, 18 F.3d 1145, 1152-1154 (4th Cir. 1994).
+Cf. United States v. Cotts, 14 F.3d 300, 306 n.2 (7th Cir. 1994) (distinguishing “sentencing
+manipulation” from “sentencing entrapment” – inducing a defendant disposed to commit
+a lesser crime into committing a greater one of the same general character). The
+sentencing manipulation and sentencing entrapment theories have had a hostile reception
+in the federal courts. See United States v. Washington, 44 F.3d 1271, 1279-1280 (5th
+
+                                             17
+       Case 1:07-cr-10240-RGS Document 292 Filed 04/15/10 Page 18 of 18
+
+
+
+government (and particularly UC-1), it is true, fooled Towne and the others and betrayed
+
+their misplaced trust, but the law has long approved of the trap set “for the unwary
+
+criminal.” Sherman, 356 U.S. at 372. See United States v. Coady, 809 F.2d 119, 122 (1st
+
+Cir. 1987); United States v. Fera, 616 F.2d 590, 596 (1st Cir. 1980).
+
+                                        ORDER
+
+      For the foregoing reasons, the motion to suppress is DENIED. The motion to
+
+dismiss is also DENIED.
+
+                                                SO ORDERED
+
+                                                /s/ Richard G. Stearns
+
+
+                                                UNITED STATES DISTRICT JUDGE
+
+
+
+
+Cir. 1995) (“trendy” theories in passing vogue); United States v. Garcia, 79 F.3d 74, 76
+(7th Cir. 1996) (rejecting sentencing manipulation as a matter of law); United States v.
+Williams, 954 F.2d 668, 672-673 (11th Cir. 1992) (same, sentencing entrapment); United
+States v. Walls, 70 F.3d 1323, 1329 (D.C. Cir. 1995) (same). See also United States v.
+Gibbens, 25 F.3d 28, 31 (1st Cir. 1994) (courts should proceed with caution in staking out
+rules that might inhibit government undercover operations); United States v. Montoya, 62
+F.3d 1, 4 (1st Cir. 1995) (“[G]arden variety manipulation claims are largely a waste of
+time.”).
+
+                                           18
+

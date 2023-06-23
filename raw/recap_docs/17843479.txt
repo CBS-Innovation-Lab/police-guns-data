@@ -1,0 +1,351 @@
+Case 1:03-cr-00020-GZS Document 42 Filed 11/05/13 Page 1 of 7                        PageID #: 106
+
+
+
+                              UNITED STATES DISTRICT COURT
+
+                                      DISTRICT OF MAINE
+
+MATTHEW W. BROOKS,                             )
+                                               )
+               Movant,                         )
+                                               )
+       v.                                      )       1:13-cv-00388-GZS
+                                               )       1:03-cr-00020-GZS
+                                               )
+UNITED STATES OF AMERICA,                      )
+                                               )
+               Respondent                      )
+
+
+               RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+       Defendant Matthew W. Brooks has filed a motion to vacate, set aside, or correct his
+
+sentence, pursuant to 28 U.S.C. §2255. (Motion, ECF No. 41.) He was sentenced in 2003 after
+
+he pleaded guilty to being a felon in possession of firearms and ammunition, in violation of 18
+
+U.S.C. §§ 922(g)(1), 924(e). He argues that the sentencing court erroneously classified him as
+
+an armed career criminal. I have screened Brooks’s claims, pursuant to Rule 4(b) of the Rules
+
+Governing Section 2255 Proceedings, and recommend that the court summarily dismiss the
+
+motion without requiring the government to file an answer, because Brooks’s motion is
+
+untimely.
+
+                                  Facts and Procedural History
+
+       Brooks was indicted in March 2003 on three counts for being a felon in possession of
+
+firearms (counts one and two) and ammunition (count three). (Indictment, ECF No. 11.) In
+
+support of the allegation that Brooks is a convicted felon, the indictment lists five state
+
+convictions that occurred between 1990 and 1998 in Massachusetts. These include two drug
+
+crimes, one for possession and another for distribution near a school or park; assault and battery
+Case 1:03-cr-00020-GZS Document 42 Filed 11/05/13 Page 2 of 7                        PageID #: 107
+
+
+
+on a police officer; breaking and entering in the night with intent to commit a felony; and assault
+
+by use of a dangerous weapon. In July 2003, Brooks pleaded guilty to all three counts of the
+
+felon-in-possession indictment, pursuant to a plea agreement. (ECF No. 29.) The signed plea
+
+agreement states, among other things, that “[t]he parties further agree and understand that the
+
+maximum statutory penalty that may be imposed upon conviction on each of Counts One, Two
+
+and Three of the Indictment is imprisonment of not less than 15 years or more than life . . . .”
+
+(Plea Agreement at 1, ECF No. 28.) In November 2003, Brooks was convicted and sentenced to
+
+fifteen years (180 months) of imprisonment on each of the three counts, to be served
+
+concurrently, followed by three years of supervised release on each of the counts, to be served
+
+concurrently. (Judgment, ECF No. 33.)
+
+       Brooks, acting pro se, filed a notice of appeal in October 2004. The First Circuit issued a
+
+mandate dismissing the appeal as untimely. (Mandate, ECF No. 39.)
+
+       In October 2013, Brooks filed a motion pursuant to 28 U.S.C. §2255. He attacks three of
+
+his five prior state convictions listed in the 2003 indictment, in an effort to fall below the
+
+minimum three previous convictions required under the Armed Career Criminal Act, 18 U.S.C. §
+
+924(e)(1), for the imposition of an enhanced fifteen-year sentence. Two of these are the drug
+
+convictions, which he argues were improperly considered “serious drug offenses,” as that term is
+
+defined under section 924(e)(2)(A), for purposes of his 2003 sentencing on the felon-in-
+
+possession offenses. He asserts that because he was prosecuted in the state’s District Court, the
+
+maximum term of imprisonment was limited to two and one half years. Because section
+
+924(e)(2)(A) provides that to qualify as a “serious drug offense,” a maximum sentence of ten
+
+years or more must have been imposed, and the two prior drug convictions carried lesser
+
+sentences, neither of them qualifies. Brooks cites Carachuri-Rosendo v. Holder, 560 U.S. 563
+
+
+
+                                                   2
+Case 1:03-cr-00020-GZS Document 42 Filed 11/05/13 Page 3 of 7                      PageID #: 108
+
+
+
+(2010), and other cases in support. The third prior conviction he attacks is the one for assault
+
+and battery on a police officer, which he argues should not be considered a “violent felony,”
+
+pursuant to section 924(e)(2)(B). He asserts that the First Circuit recently held that a
+
+Massachusetts assault conviction cannot categorically be considered a “violent felony” under
+
+section 924(e)(2)(B). Finally, Brooks cites to Alleyne v. United States, 133 S. Ct. 2151 (2013),
+
+arguing that facts found in support of an enhanced sentence under the Armed Career Criminal
+
+Act must be decided by the jury and found beyond a reasonable doubt.
+
+                                            Discussion
+
+       The statute of limitations for post-conviction petitions is set forth in 28 U.S.C. § 2255(f),
+
+which provides:
+
+       A 1-year period of limitation shall apply to a motion under this section. The
+       limitation period shall run from the latest of―
+
+               (1) the date on which the judgment of conviction becomes final;
+
+               (2) the date on which the impediment to making a motion created by
+                   governmental action in violation of the Constitution or laws of the
+                   United States is removed, if the movant was prevented from making a
+                   motion by such governmental action;
+
+               (3) the date on which the right asserted was initially recognized by the
+                   Supreme Court, if that right has been newly recognized by the
+                   Supreme Court and made retroactively applicable to cases on collateral
+                   review; or
+
+               (4) the date on which the facts supporting the claim or claims presented
+                   could have been discovered through the exercise of due diligence.
+
+See Turner v. United States, 699 F.3d 578, 582 (1st Cir. 2012).
+
+       Brooks’s judgment became final on November 17, 2003, which was ten days after the
+
+judgment was entered, pursuant to the version of Fed. R. App. P. 4(b)(1)(A) then applicable.
+
+Although the First Circuit apparently has not yet decided the issue of when an unappealed
+
+
+
+                                                 3
+Case 1:03-cr-00020-GZS Document 42 Filed 11/05/13 Page 4 of 7                       PageID #: 109
+
+
+
+judgment is final, the Second Circuit has held that “an unappealed federal criminal judgment
+
+becomes final when the time for filing a direct appeal expires.” Moshier v. United States, 402
+
+F.3d 116, 118 (2d Cir.2005); see also Martinez–Serrano v. United States, 3:11-cv-01077-JAF,
+
+3:07-cr-00453-JAF-9, 2012 WL 6016663, at *1, 2012 U.S. Dist. Lexis 171941, at *3-5 (D.P.R.
+
+Nov.30, 2012) (collecting cases and noting that although the Supreme Court and the First Circuit
+
+had apparently not yet decided the issue, most if not all other circuit courts that have addressed
+
+the issue have held that an unappealed federal criminal conviction is final when the time for
+
+filing an appeal expires); but see Mendoza-Miguel v. United States, 7:10-cv-00205-BO; 7:08-cr-
+
+00127-BO-1, 2010 WL 5353970, at *1-2, 2010 U.S. Dist. Lexis 135077, at *3-4 (E.D.N.C. Dec.
+
+21, 2000) (collecting cases and noting that circuit courts are split, citing United States v. Sanders,
+
+247 F.3d 139, 142 (4th Cir.2001) (holding that an unappealed judgment of conviction becomes
+
+final on the date the district court enters judgment)). Of course, either way, his motion is
+
+untimely under section 2255(f)(1).
+
+       Brooks relies on Carachuri-Rosendo to challenge his prior drug convictions. (Motion at
+
+3.) Carachuri-Rosendo was decided on June 14, 2010. 560 U.S. 563. Brooks did not file his
+
+collateral attack until October 17, 2013, i.e., more than one year after “the date on which the
+
+right asserted was initially recognized by the Supreme Court,” and therefore after the limitations
+
+period set forth in section 2255 (f)(3). I need not address whether the Court’s holding in
+
+Carachuri-Rosendo is applicable at all or whether that case is retroactively applicable to cases on
+
+collateral review. See United States v. Odom, No. 2:08-cr-67-DBH-05, 2013 WL 2435915, *2
+
+n.7, 2013 U.S. Dist. Lexis 79191, *6 n. 7 (D. Me. June 4, 2013).
+
+       To the extent Brooks challenges the determination that his conviction for assault and
+
+battery on a police officer constituted a conviction for a “violent felony” as that term is defined
+
+
+
+                                                  4
+Case 1:03-cr-00020-GZS Document 42 Filed 11/05/13 Page 5 of 7                                       PageID #: 110
+
+
+
+in 18 U.S.C. § 924(e)(2)(B), that argument is also unavailing. Although Brooks does not name
+
+the recent case on which he relies, he states that the First Circuit has held that a Massachusetts
+
+conviction for assault does not qualify as a “violent felony” for purposes of sentencing under the
+
+Armed Career Criminal Act. He may be referring to United States v. Holloway, 630 F.3d 252,
+
+262 (1st Cir. 2011) (“In sum, because the Massachusetts simple assault and battery statute covers
+
+multiple offenses, at least one of which, reckless battery, is categorically not a violent felony, a
+
+court may only rely on an assault and battery conviction if it can ascertain that the defendant was
+
+convicted of the violent form of the offense (e.g., harmful battery).”).
+
+         In order to trigger the limitations period set forth in 28 U.S.C. §2255(f)(3), the applicable
+
+precedent must be newly recognized by the Supreme Court; new case law from the First Circuit
+
+does not provide grounds to trigger the start of a new limitations period under section 2255(f)(3).
+
+See Dodd v. United States, 545 U.S. 353, 357-59 (2005) (holding that section 2255(f)(3)
+
+“unequivocally identifies one, and only one, date from which the 1-year limitation period is
+
+measured: ‘the date on which the right asserted was initially recognized by the Supreme
+
+Court’”). Thus, new First Circuit precedent would not help Brooks, even if he had filed his
+
+petition within a year of the publication of a favorable First Circuit opinion. 1
+
+         To the extent Brooks relies on Alleyne, that case is not applicable. The Supreme Court’s
+
+holding in Alleyne is an extension of its holding in Apprendi v. New Jersey, 530 U.S. 466, 477
+
+(2000). As the plurality explained in Alleyne, the Court held in Apprendi that “any fact that
+
+increased the prescribed statutory maximum sentence must be an ‘element’ of the offense to be
+
+found by the jury.” Alleyne, 133 S. Ct. at 2157 (emphasis added) (citing Apprendi, 530 U.S. at
+
+1
+         Incidentally, there is additional First Circuit precedent that is not in Brooks’s favor. See United States v.
+Dancy, 640 F.3d 455, 468-70 (1st Cir. 2011) (holding that a Massachusetts conviction for assault and battery on a
+police officer qualifies as a “violent felony” and hence a predicate offense under section 924(e)(2)(B)(ii), for
+purposes of enhanced sentencing of not less than fifteen years, pursuant to section 924(e)(1)), cert. denied, 132 S.
+Ct. 564 (2011).
+
+                                                           5
+Case 1:03-cr-00020-GZS Document 42 Filed 11/05/13 Page 6 of 7                        PageID #: 111
+
+
+
+483, n.10, 490). In Alleyne, reasoning from Apprendi, the Supreme Court held that because
+
+mandatory minimum sentences increase the penalty for a crime, “any fact that increases the
+
+mandatory minimum is an ‘element’ that must be submitted to the jury.” Id. at 2155. However,
+
+there is no current authority for the proposition that Alleyne applies to the fact of prior
+
+convictions: “Other than the fact of a prior conviction, any fact that increases the penalty for a
+
+crime beyond the prescribed statutory maximum must be submitted to a jury and proved beyond
+
+a reasonable doubt.” Apprendi, 530 U.S. at 490. In other words, the existence or not of a prior
+
+conviction is not a fact that must be submitted to a jury. Id.
+
+       Furthermore, by pleading guilty, Brooks admitted the facts set forth in the indictment,
+
+which include the convictions that are the subject of his section 2255 motion. Even in his current
+
+motion he does not deny that he was convicted of these offenses; his arguments pertain to the
+
+legal significance of the offenses, not the fact of conviction. He does not dispute that his plea
+
+was knowing and voluntary. When the defendant pleads guilty to facts that support a sentence in
+
+excess of the statutory maximum, those facts need not be proved to a jury. See United States v.
+
+Booker, 543 U.S. 220, 244 (2005) (“Any fact (other than a prior conviction) which is necessary
+
+to support a sentence exceeding the maximum authorized by the facts established by a plea of
+
+guilty or a jury verdict must be admitted by the defendant or proved to a jury beyond a
+
+reasonable doubt.”) (emphasis added); United States v. Wilson, 185 F. App’x 6, 8 (1st Cir.
+
+2006). There is no reason why the same rationale would not apply to a prior conviction which is
+
+necessary to support a mandatory minimum sentence as well.
+
+                                             Conclusion
+
+       For the reasons stated above, I conclude that no evidentiary hearing is warranted under
+
+Rule 8 of the Rules Governing Section 2255 Cases and I recommend that the Court deny
+
+
+
+                                                  6
+Case 1:03-cr-00020-GZS Document 42 Filed 11/05/13 Page 7 of 7                       PageID #: 112
+
+
+
+Brooks’s motion for habeas relief under 28 U.S.C. § 2255. I further recommend that the Court
+
+deny a certificate of appealability pursuant to Rule 11 of the Rules Governing Section 2255
+
+Cases because there is no substantial showing of the denial of a constitutional right within the
+
+meaning of 28 U.S.C. § 2253(c)(2).
+
+
+
+                                             NOTICE
+
+              A party may file objections to those specified portions of a magistrate
+       judge’s report or proposed findings or recommended decisions entered pursuant to
+       28 U.S.C. 636(b)(1)(B) for which de novo review by the district court is sought,
+       together with a supporting memorandum, within fourteen (14) days of being
+       served with a copy thereof. A responsive memorandum shall be filed within
+       fourteen (14) days after the filing of the objection.
+
+              Failure to file a timely objection shall constitute a waiver of the right to de
+       novo review by the district court and to appeal the district court's order.
+
+                                                      /s/ Margaret J. Kravchuk
+                                                      U.S. Magistrate Judge
+
+       November 5, 2013
+
+
+
+
+                                                 7
+

@@ -1,0 +1,778 @@
+Case 1:19-cr-00204-JAW Document 65 Filed 07/19/21 Page 1 of 15              PageID #: 369
+
+
+
+
+                       UNITED STATES DISTRICT COURT
+                            DISTRICT OF MAINE
+
+UNITED STATES OF AMERICA                 )
+                                         )
+      v.                                 )       No. 1:19-cr-00204-JAW
+                                         )
+MARC J. KARUN                            )
+
+
+               ORDER ON MOTION TO DISMISS INDICTMENT
+
+      A defendant moves to dismiss an indictment, arguing that 18 U.S.C.
+
+§§ 922(g)(1) and 922(k) violate his rights under the Second Amendment of the United
+
+States Constitution and exceed Congress’ legislative power under the Commerce
+
+Clause of Article I of the United States Constitution.         Because the defendant’s
+
+position is contrary to clear United States Supreme Court and First Circuit Court of
+
+Appeals precedent, the Court dismisses without prejudice the defendant’s motion to
+
+dismiss.
+
+I.    BACKGROUND
+
+      On November 6, 2019, a grand jury returned a one-count indictment against
+
+Marc Karun, charging him with possession of a firearm by a felon in violation of
+
+18 U.S.C. § 922(g)(1). Indictment (ECF No. 1). On December 11, 2019, a grand jury
+
+returned   a   two-count   superseding       indictment,   charging   Mr.   Karun   with
+
+(1) possession of a firearm by a felon in violation of 18 U.S.C. § 922(g)(1), and
+
+(2) possession of a firearm with an obliterated serial number in violation of 18 U.S.C.
+
+§ 922(k). Superseding Indictment (ECF No. 21). On August 24, 2020, Mr. Karun filed
+
+a motion to suppress firearms and ammunition seized by police during a search of his
+Case 1:19-cr-00204-JAW Document 65 Filed 07/19/21 Page 2 of 15          PageID #: 370
+
+
+
+
+home. Def.’s Mot. to Suppress Evid. Obtained in Violation of the Fourth Amendment
+
+(ECF No. 41). On January 21, 2021, the Court denied the motion to suppress. Order
+
+on Mot. to Suppress (ECF No. 53).
+
+      On June 1, 2021, after several extensions of time, Mr. Karun filed a motion to
+
+dismiss the indictment, arguing that 18 U.S.C. §§ 922(g)(1) and 922(k) violate his
+
+rights under the Second Amendment to the United States Constitution and exceed
+
+Congress’ authority under the Commerce Clause of Article I of the United States
+
+Constitution. Def.’s Mot. to Dismiss the Indictment (ECF No. 62) (Def.’s Mot.). On
+
+June 22, 2021, the Government responded in opposition. Gov’t Resp. to Def.’s Mot. to
+
+Dismiss the Indictment (ECF No. 64) (Gov’t’s Opp’n). Mr. Karun did not reply.
+
+II.   THE PARTIES’ POSITIONS
+
+      A.     Marc Karun’s Motion
+
+      Mr. Karun asks that the Court dismiss the indictment on the grounds that 18
+
+U.S.C. §§ 922(g)(1) and 922(k) “violate his rights under the Second Amendment to the
+
+United States Constitution and exceed the authority of Congress pursuant to the
+
+Commerce Clause of Article I of the United States Constitution.” Def.’s Mot. at 1. He
+
+first argues that section 922(g)(1) “is a violation of the individual right to possess
+
+firearms guaranteed by the Second Amendment and is therefore facially
+
+unconstitutional.” Id. at 3. Relying on the dissent of Justice Barrett, then a judge on
+
+the Seventh Circuit Court of Appeals, in Kanter v. Barr, 919 F.3d 437 (7th Cir. 2019),
+
+Mr. Karun “adopts the position that all people have an inherent right to keep and
+
+bear arms and that no particular class of person necessarily falls outside the scope of
+
+
+
+                                          2
+Case 1:19-cr-00204-JAW Document 65 Filed 07/19/21 Page 3 of 15            PageID #: 371
+
+
+
+
+the Second Amendment.”         Id. (citing Kanter, 919 F.3d at 451-52 (Barrett, J.,
+
+dissenting)).
+
+      Mr. Karun claims his position is supported by the United States Supreme
+
+Court’s conclusion in District of Columbia v. Heller, 554 U.S. 570 (2008), and that
+
+“the word ‘people’ in the text of the Second Amendment refers to ‘all Americans.’” Id.
+
+(citing Heller, 554 U.S. at 580). He acknowledges dicta in Heller that describe the
+
+“longstanding prohibitions on the possession of firearms by felons” as “presumptively
+
+lawful regulatory measures,” but he argues the Heller Court “did not ‘undertake an
+
+exhaustive historical analysis . . . of the full scope of the Second Amendment.’” Id.
+
+(citing Heller, 554 U.S. at 626). Mr. Karun provides his own historical analysis,
+
+attempting to undermine three historical arguments “generally offered in support” of
+
+a categorical ban on possession of firearms by felons: (1) “some founding-era
+
+legislatures may have prohibited felons from exercising the right to bear arms,” (2)
+
+“the existence of capital punishment for felony offenses at the time of the founding
+
+supports the notion that felons could also be deprived of the right to possess firearms,”
+
+and (3) “founding-era legislatures imposed virtue-based restrictions on certain civic
+
+rights, and the right to possess firearms is a civic right.” Id. (citing Kanter, 919 F.3d
+
+at 454 (Barrett, J., dissenting)).
+
+      Mr. Karun next argues that sections 922(g)(1) and 922(k) “exceed the authority
+
+of Congress pursuant to the Commerce Clause of Article I of the United States
+
+Constitution.” Id. at 7. Relying on Justice Thomas’ concurrence in United States v.
+
+Lopez, 514 U.S. 549 (1995), Mr. Karun contends that “[n]either the text nor the
+
+
+
+                                           3
+Case 1:19-cr-00204-JAW Document 65 Filed 07/19/21 Page 4 of 15          PageID #: 372
+
+
+
+
+structure of Article I, section 8 support the proposition that Congress has the
+
+authority to regulate any activity that ‘substantially affects’ interstate commerce.”
+
+Id. at 7-8 (citing Lopez, 514 U.S. at 587-88 (Thomas, J., concurring)). He asserts that
+
+“mere intrastate possession of a firearm is not a form of interstate commerce within
+
+the reach of the federal criminal law” and argues that merely because “the firearms
+
+named in the indictment were once ‘shipped and transported in interstate commerce’
+
+does not change the fact that [Mr. Karun’s] alleged conduct involves nothing more
+
+than possession within the State of Maine.” Id. at 9. He concludes by stating “[i]f the
+
+federal government is to be one of limited powers, then the commerce power cannot
+
+extend to any activity involving objects or materials that once moved across state
+
+lines.” Id.
+
+      B.      The Government’s Opposition
+
+      The Government opposes Mr. Karun’s motion, arguing that neither the Second
+
+Amendment nor the Commerce Clause argument “find support in [Mr. Karun’s] cited
+
+authorities, and both have been rejected by the First Circuit.” Gov’t’s Opp’n at 2. The
+
+Government first addresses Mr. Karun’s Second Amendment argument, asserting
+
+that “Mr. Karun has been convicted of multiple violent and dangerous felonies and is
+
+therefore appropriately barred from possessing firearms under 18 U.S.C. § 922(g)(1).”
+
+Id. The Government quotes Heller as expressly rejecting Mr. Karun’s argument:
+
+“[N]othing in our opinion should be taken to cast doubt on longstanding prohibitions
+
+on the possession of firearms by felons and the mentally ill, or laws forbidding the
+
+carrying of firearms in sensitive places such as schools and government buildings, or
+
+
+
+                                          4
+Case 1:19-cr-00204-JAW Document 65 Filed 07/19/21 Page 5 of 15          PageID #: 373
+
+
+
+
+laws imposing conditions and qualifications on the commercial sale of arms.” Id. at 3
+
+(quoting Heller, 554 U.S. at 626-27) (emphasis added by the Government). The
+
+Government next contends that “appellate courts, including the First Circuit, have
+
+consistently upheld § 922(g)(1) after Heller,” and claims that “no circuit court to
+
+address the issue has held that violent or otherwise dangerous felons are not
+
+properly, and constitutionally, barred from possessing firearms.” Id. at 6-8. Finally,
+
+the Government argues that “Mr. Karun’s criminal history and criminal conduct
+
+place him squarely within the realm of conduct appropriately regulated by statute.”
+
+Id. at 8.
+
+       The Government next argues that “Congress’s restriction on possession of
+
+firearms in Sections 922(g)(1) and 922(k) are within the scope of its Commerce Clause
+
+powers.” Id. It contends that “[t]he charges in the indictment allege violations of
+
+18 U.S.C. §§ 922(g)(1) and 922(k), which each contain a jurisdictional element
+
+relating to the possession of the firearm in interstate or foreign commerce, or to the
+
+firearm’s own status of having previously travelled in . . . interstate or foreign
+
+commerce.” Id. at 8-9. The Government further argues that “even if the connection
+
+to interstate commerce had not been explicit in the subject statutes, Congress also
+
+derives Commerce Clause authority from the substantial effect firearms have on
+
+interstate commerce.” Id. at 9.
+
+III.   LEGAL STANDARD
+
+       Unlike civil actions, an indictment is not generally subject to dispositive
+
+motion practice. United States v. Poulin, 645 F. Supp. 2d 17, 22 (D. Me. 2009); see
+
+
+
+                                          5
+Case 1:19-cr-00204-JAW Document 65 Filed 07/19/21 Page 6 of 15               PageID #: 374
+
+
+
+
+also United States v. Li, 206 F.3d 56, 62 (1st Cir. 2000). “[D]ismissing an indictment
+
+is an extraordinary step,” Li, 206 F.3d at 62 (quoting United States v. Stokes, 124
+
+F.3d 39, 44 (1st Cir. 1997)), because, by returning an indictment, a grand jury is
+
+carrying out a constitutionally sanctioned function. See U.S. CONST. amend. V (“No
+
+person shall be held to answer for a capital, or otherwise infamous crime, unless on
+
+a presentment or indictment of a Grand Jury . . ..”). In the First Circuit’s words,
+
+“[w]hen a federal court uses its supervisory power to dismiss an indictment it directly
+
+encroaches upon the fundamental role of the grand jury.” Whitehouse v. U.S. Dist.
+
+Ct., 53 F.3d 1349, 1360 (1st Cir. 1995).         This power is “appropriately reserved,
+
+therefore, for extremely limited circumstances,” id. (citing Bank of Nova Scotia v.
+
+United States, 487 U.S. 250, 263 (1988)), and should be “exercised with caution,”
+
+United States v. Cameron, 662 F. Supp. 2d 177, 180 (D. Me. 2009).
+
+       In addressing a challenge to an indictment, a district court must simply
+
+determine “whether the document sketches out the elements of the crime and the
+
+nature of the charge so that the defendant can prepare a defense and plead double
+
+jeopardy in any future prosecution for the same offense.” United States v. Guerrier,
+
+669 F.3d 1, 3 (1st Cir. 2011) (citation omitted). The Court should not inquire into the
+
+sufficiency of the evidence supporting the indictment. United States v. Maceo, 873
+
+F.2d 1, 2-3 (1st Cir. 1989) (citation omitted) (“an indictment returned by a legally
+
+constituted and unbiased grand jury, . . . if valid on its face, is enough to call for trial
+
+of the charge on the merits”). Rather, at this stage, the Court “must accept the
+
+allegations in the indictment as true.” United States v. Young, 694 F. Supp. 2d 25,
+
+
+
+                                             6
+Case 1:19-cr-00204-JAW Document 65 Filed 07/19/21 Page 7 of 15                          PageID #: 375
+
+
+
+
+27 (D. Me. 2010) (citing Boyce Motor Lines, Inc. v. United States, 342
+
+U.S. 337, 343 n.16 (1952)); see FED. R. CRIM. P. 12(b)(1) (“A party may raise by pretrial
+
+motion any defense, objection, or request that the court can determine without a trial
+
+on the merits”).
+
+IV.     DISCUSSION
+
+        The superseding indictment charges Mr. Karun with violating 18 U.S.C.
+
+§§ 922(g)(1) and 922(k). Section 922(g)(1) prohibits a felon from possessing a firearm
+
+that has been shipped or transported in interstate commerce. 1                        Section 922(k)
+
+prohibits possession of a firearm with an obliterated serial number that has been
+
+shipped or transported in interstate commerce. 2
+
+        The superseding indictment alleges that Mr. Karun knowingly possessed sixty
+
+firearms, including pistols, revolvers, rifles, and a shotgun, as well as 14,632 rounds
+
+of assorted-caliber ammunition. Superseding Indictment at 1-4. The superseding
+
+
+1       Section 922(g)(1) provides:
+
+        It shall be unlawful for any person . . . who has been convicted in any court of, a crime
+        punishable by imprisonment for a term exceeding one year . . . to ship or transport in
+        interstate or foreign commerce, or possess in or affecting commerce, any firearm or
+        ammunition; or to receive any firearm or ammunition which has been shipped or
+        transported in interstate or foreign commerce.
+
+18 U.S.C. § 922(g)(1).
+
+2       Section 922(k) provides:
+
+        It shall be unlawful for any person knowingly to transport, ship, or receive, in
+        interstate or foreign commerce, any firearm which has had the importer’s or
+        manufacturer’s serial number removed, obliterated, or altered or to possess or receive
+        any firearm which has had the importer’s or manufacturer’s serial number removed,
+        obliterated, or altered and has, at any time, been shipped or transported in interstate
+        or foreign commerce.
+
+18 U.S.C. § 922(k).
+
+
+                                                   7
+Case 1:19-cr-00204-JAW Document 65 Filed 07/19/21 Page 8 of 15              PageID #: 376
+
+
+
+
+indictment further alleges that the firearms and ammunition were shipped and
+
+transported in interstate commerce, and that at the time of possession, Mr. Karun
+
+knew he had been previously convicted of multiple felonies, including sexual assault
+
+in the first degree, attempted sexual assault in the first degree, burglary in the third
+
+degree, and larceny in the third degree. Id. at 4. Finally, the superseding indictment
+
+alleges that Mr. Karun knowingly possessed a rifle that had been shipped and
+
+transported in interstate commerce, and the manufacturer’s serial number had been
+
+removed, altered and obliterated. Id. at 5.
+
+      Notwithstanding these allegations, Mr. Karun urges the Court to dismiss the
+
+indictment because 18 U.S.C. §§ 922(g)(1) and 922(k) violate his Second Amendment
+
+rights and exceed Congress’ powers under the Commerce Clause.
+
+      A.     Second Amendment
+
+      The Second Amendment to the United States Constitution states that “[a] well
+
+regulated militia, being necessary to the security of a free state, the right of the people
+
+to keep and bear arms, shall not be infringed.” U.S. CONST. amend. II. Mr. Karun
+
+argues that section 922(g)(1) is facially unconstitutional because “all people have an
+
+inherent right to keep and bear arms and . . . no particular class of person necessarily
+
+falls outside the scope of the Second Amendment.” Def.’s Mot. at 3. In Mr. Karun’s
+
+opinion, section 922(g)(1) is facially unconstitutional because it bans an entire class
+
+of people—namely, felons—from possessing firearms. Mr. Karun does not argue that
+
+18 U.S.C. § 922(k) violates the Second Amendment.
+
+
+
+
+                                            8
+Case 1:19-cr-00204-JAW Document 65 Filed 07/19/21 Page 9 of 15             PageID #: 377
+
+
+
+
+      Mr. Karun’s Second Amendment arguments are wrong as a matter of law. As
+
+the Government notes, this Court is bound by Supreme Court and First Circuit
+
+precedent. In District of Columbia v. Heller, 554 U.S. 570 (2008), the Supreme Court
+
+recognized an individual right under the Second Amendment to bear arms and struck
+
+down the District of Columbia’s outright ban on handgun possession. However, the
+
+Heller Court also emphasized that “the right secured by the Second Amendment is
+
+not unlimited” and “nothing in [its] opinion should be taken to cast doubt on
+
+longstanding prohibitions on the possession of firearms by felons and the mentally
+
+ill . . ..” 554 U.S. at 626. The Heller Court referred to felon in possession laws as
+
+“presumptively lawful regulatory measures.” Id. at 627 n.26. The Supreme Court
+
+has since explained that it “made it clear in Heller that [its] holding did not cast doubt
+
+on such longstanding regulatory measures as ‘prohibitions on the possession of
+
+firearms by felons . . ..’” McDonald v. City of Chicago, 561 U.S. 742, 786 (2010).
+
+      In United States v. Torres-Rosario, 658 F.3d 110 (1st Cir. 2011), a defendant
+
+convicted of violating section 922(g)(1) argued that after Heller and McDonald,
+
+section 922(g)(1) is unconstitutional. Id. at 112. The First Circuit rejected the
+
+defendant’s argument, noting that “[a]ll of the circuits to face the issue post Heller
+
+have rejected blanket challenges to felon in possession laws.” Id. at 113; see id. at
+
+113 n.1 (collecting cases). The Torres-Rosario Court explained that the Heller Court’s
+
+statement that felon in possession bans were “presumptively lawful” “at most . . .
+
+reserves the possibility of yet to be developed qualifications.”        Id.   “Assuming
+
+arguendo that the Supreme Court might find some felonies so tame and technical as
+
+
+
+                                            9
+Case 1:19-cr-00204-JAW Document 65 Filed 07/19/21 Page 10 of 15            PageID #: 378
+
+
+
+
+to be insufficient to justify the ban,” the First Circuit concluded that “drug dealing is
+
+not likely to be among them.” Id. Other First Circuit precedent is in accord. See,
+
+e.g., United States v. Booker, 644 F.3d 12, 22-26 (1st Cir. 2011) (rejecting a Second
+
+Amendment challenge to 18 U.S.C. § 922(g)(9)); see also United States v. Emond, No.
+
+2:12-cr-00044-NT, 2012 U.S. Dist. LEXIS 149295, at *9-17 (D. Me. Oct. 17, 2012)
+
+(rejecting a Second Amendment challenge to 18 U.S.C. § 922(g)(3)).
+
+      Mr. Karun acknowledges the Supreme Court’s stance in Heller but quotes the
+
+Heller majority as saying that it did not “undertake an exhaustive historical analysis
+
+. . . of the full scope of the Second Amendment.” Mr. Karun then supplies his own
+
+historical analysis, leaning heavily on then-Judge Barrett’s dissent in Kanter v. Barr,
+
+919 F.3d 437 (7th Cir. 2019). Def.’s Mot. at 3 (quoting Heller, 554 U.S. at 626).
+
+Mr. Karun is correct that Justice Scalia’s otherwise extensive historical analysis did
+
+not extend to cases not before the Supreme Court, and he demurred from performing
+
+a historical exposition as to the “the full scope of the Second Amendment.” Heller,
+
+554 U.S. at 626. Justice Scalia’s complete sentence on this subject reads:
+
+      Although we do not undertake an exhaustive historical analysis today
+      of the full scope of the Second Amendment, nothing in our opinion should
+      be taken to cast doubt on longstanding prohibitions on the possession of
+      firearms by felons and the mentally ill, or laws forbidding the carrying
+      of firearms in sensitive places such as schools and government
+      buildings, or laws imposing conditions and qualifications on the
+      commercial sale of arms.
+
+Id. at 626 (emphasis supplied). Thus, to the extent the Heller majority discussed
+
+whether the “longstanding prohibition[]” against felons possessing firearms was
+
+
+
+
+                                           10
+Case 1:19-cr-00204-JAW Document 65 Filed 07/19/21 Page 11 of 15           PageID #: 379
+
+
+
+
+constitutional in light of the individual right to bear arms, Justice Scalia strongly
+
+suggested that these laws would survive Heller.
+
+      Following Heller, circuit courts have been presented with the contention that
+
+the broad statutory ban against felons of all stripes possessing firearms conflicts with
+
+the right of personal possession Heller recognized.       As the majority in Kanter
+
+observed, “every federal court of appeals to address the issue has held that § 922(g)(1)
+
+does not violate the Second Amendment on its face.”         Kanter, 919 F.3d at 442
+
+(collecting cases from eleven circuits). As Mr. Karun has been careful to point out,
+
+his Second Amendment challenge to § 922(g)(1) is limited to a facial challenge. Def.’s
+
+Mot. at 6 (“Mr. Karun therefore respectfully requests that this Court dismiss the
+
+indictment in the above-captioned matter on the grounds that the statute on which
+
+it is based violates the Second Amendment on its face”) (emphasis supplied). There
+
+is no reason to think that the First Circuit, if squarely presented with a facial
+
+challenge on Second Amendment grounds to § 922(g)(1), would not join its sister
+
+circuits in their unanimous rejection of a facial challenge to the constitutionality of
+
+the statute.
+
+      Even though Mr. Karun has not made an “as applied” claim of constitutional
+
+infirmity, the only authority that gives a glimmer of hope to his Second Amendment
+
+argument involves “as applied” challenges. The most powerful authority in favor of
+
+constitutional limitations on section 922(g)(1) (and its Wisconsin statutory
+
+counterpart) is Justice Barrett’s Kanter dissent, but as then-Judge Barrett pointed
+
+out, her dissent was grounded on an as-applied, not facial challenge. Kanter, 919
+
+
+
+                                          11
+Case 1:19-cr-00204-JAW Document 65 Filed 07/19/21 Page 12 of 15          PageID #: 380
+
+
+
+
+F.3d at 451 (Barrett, J., dissenting) (“[The federal and state statutes’] dispossession
+
+of all felons—both violent and nonviolent—is unconstitutional as applied to Kanter”)
+
+(emphasis in original).
+
+      Yet, even if the Court charitably construes Mr. Karun’s motion as including an
+
+“as applied” challenge, his argument still fails. In Kanter, the majority cited five
+
+circuit courts as holding that prohibitions against felons being in possession of
+
+firearms is “always constitutional as applied to felons as a class, regardless of their
+
+individual circumstances or the nature of their offenses” and three circuit courts as
+
+having “left room for as-applied challenges to the statute.” Id. at 442-43 (collecting
+
+cases).   Discussing Torres-Rosario, the Kanter majority suggested that the First
+
+Circuit “has not foreclosed as-applied challenges, but it has expressed some
+
+skepticism about them.” Id. at 443.
+
+      Even assuming that Torres-Rosario stands for the proposition that there might
+
+be some categories of timid felons for whom the prohibition against firearm
+
+possession could violate the Second Amendment, Mr. Karun does not fit within any
+
+conceivable exception to the general prohibition. In her dissent in Kanter, now-
+
+Justice Barrett was careful to point out that the conviction in that case involved mail
+
+fraud, and therefore “the reasoning that supports the categorical disarmament of
+
+violent felons—that past violence is predictive of future violence—simply does not
+
+apply.” Kanter, 919 F.3d at 467 (Barrett, J., dissenting). Mr. Karun, on the other
+
+hand, has previously been convicted of first degree sexual assault, first degree
+
+attempted sexual assault, third degree burglary, and third degree larceny.
+
+
+
+                                          12
+Case 1:19-cr-00204-JAW Document 65 Filed 07/19/21 Page 13 of 15            PageID #: 381
+
+
+
+
+“[A]ssuming arguendo that the Supreme Court might find some felonies so tame and
+
+technical as to be insufficient to justify the ban,” violent felonies, such as the sexual
+
+assault and burglary felonies in this case, are “not likely to be among them.” Torres-
+
+Rosario, 658 F.3d at 113. The bottom line is that even if a case could be made that,
+
+as applied, a ban against felons possessing firearms violates the Second Amendment,
+
+Mr. Karun’s case is not that case.
+
+      Whether the Court views Mr. Karun’s motion to dismiss the indictment on
+
+Second Amendment grounds as a facial or as-applied challenge, this Court is
+
+foreclosed from granting his motion because to do so would violate this Court’s
+
+obligation to follow the law as pronounced by the higher courts to which this Court
+
+owes allegiance. Eulitt v. Me. Dep’t of Educ., 386 F.3d 344, 348 (1st Cir. 2004)
+
+(“[S]tare decisis ‘renders the ruling of law in a case binding in future cases before the
+
+same court or other courts owing obedience to the decision’”) (quoting Gately v.
+
+Massachusetts, 2 F.3d 1221, 1226 (1st Cir. 1993)) (emphasis in original).
+
+      B.     Commerce Clause
+
+      The Commerce Clause of the United States Constitution states that “Congress
+
+shall have power . . . to regulate commerce with foreign nations, and among the
+
+several states, and with the Indian tribes.” U.S. CONST., art. I, § 8, cl. 3. Mr. Karun
+
+contends that sections 922(g)(1) and 922(k) exceed Congress’ Commerce Clause power
+
+because the Commerce Clause does not support the proposition that “Congress has
+
+the authority to regulate any activity that ‘substantially affects’ interstate
+
+commerce.” Def.’s Mot. at 7. He argues that “mere intrastate possession of a firearm
+
+
+
+                                           13
+Case 1:19-cr-00204-JAW Document 65 Filed 07/19/21 Page 14 of 15          PageID #: 382
+
+
+
+
+is not a form of interstate commerce within the reach of the federal criminal law.” Id.
+
+at 9.
+
+        The Court is again bound by controlling precedent.       In United States v.
+
+Scarborough, 431 U.S. 563 (1977), the Supreme Court established the “minimal
+
+nexus” standard, which requires only that the firearm has traveled in interstate
+
+commerce “at some time.” Id. at 575-77. In United States v. Wilkerson, 411 F.3d 1
+
+(1st Cir. 2005), the First Circuit clarified that “the evidence that a firearm has
+
+traveled at some time in interstate commerce is sufficient to establish a nexus
+
+between the firearm and interstate commerce.” Id. at 10.
+
+        In United States v. Roszkowski, 700 F.3d 50 (1st Cir. 2012), the defendant was
+
+convicted under sections 922(g)(1) and 922(k). Id. at 52. The defendant challenged
+
+his conviction on appeal, arguing that sections 922(g)(1) and 922(k) exceeded
+
+Congress’ Commerce Clause authority, and were therefore unenforceable. Id. at 57.
+
+The Roszkowski Court quickly rejected the defendant’s argument as “a claim which
+
+we have repeatedly and unreservedly rejected,” and concluded that sections 922(g)
+
+and 922(k) “reside in the heartland of Congress’s authority under the Commerce
+
+Clause.” Id. at 57-59. See United States v. Joost, 133 F.3d 125, 131 (1st Cir. 1998)
+
+(rejecting a Commerce Clause challenge to 18 U.S.C. § 922(g)(1) as “hopeless”); United
+
+States v. Diaz-Martinez, 71 F.3d 946, 953 (1st Cir. 1995) (concluding 18 U.S.C.
+
+§ 922(k) is a valid exercise of Congress’ Commerce Clause powers).
+
+        The Court readily rejects Mr. Karun’s argument that pursuant to United
+
+States v. Lopez, 514 U.S. 549 (1995), Congress lacks the authority to regulate activity
+
+
+
+                                          14
+Case 1:19-cr-00204-JAW Document 65 Filed 07/19/21 Page 15 of 15           PageID #: 383
+
+
+
+
+that “substantially affects” interstate commerce for two reasons. First, it flies in the
+
+face of the Supreme Court’s holding that “Congress has the power to regulate
+
+activities that substantially affect interstate commerce.” Gonzales v. Raich, 545 U.S.
+
+1, 17 (2005). Second, Mr. Karun’s argument is inapposite because sections 922(g) and
+
+922(k) both explicitly require the firearm be transported or shipped in interstate
+
+commerce, which is enough to satisfy the minimal nexus standard.             See Diaz-
+
+Martinez, 71 F.3d at 953 (distinguishing Lopez because section 922(k) contains a
+
+jurisdictional element, unlike the statute at issue in Lopez).        The superseding
+
+indictment in this case specifically alleges that Mr. Karun’s firearms had been
+
+“shipped and transported in interstate commerce,” and he does not argue otherwise.
+
+Superseding Indictment at 4-5. Mr. Karun may not agree with the reach of the
+
+Commerce Clause, but this Court is bound by controlling Supreme Court and First
+
+Circuit precedent.    See Eulitt, 386 F.3d at 348.      Therefore, the Court rejects
+
+Mr. Karun’s Commerce Clause challenge to sections 922(g)(1) and 922(k).
+
+V.    CONCLUSION
+
+      The Court DISMISSES without prejudice Marc Karun’s Motion to Dismiss the
+
+Indictment (ECF No. 62).
+
+      SO ORDERED.
+
+                                               /s/ John A. Woodcock, Jr.
+                                               JOHN A. WOODCOCK, JR.
+                                               UNITED STATES DISTRICT JUDGE
+
+
+Dated this 19th day of July, 2021
+
+
+
+
+                                          15
+

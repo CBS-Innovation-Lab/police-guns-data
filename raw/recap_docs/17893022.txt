@@ -1,0 +1,239 @@
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF RHODE ISLAND
+
+ 
+
+ 
+
+)
+
+UNITED STATES OF AMERICA )
+Plaintiff, )
+
+)
+
+v. ) C. R.No. 11-123-M
+
+)
+
+ALPHONSO JOHNSON )
+Defendant. )
+
+)
+
+MEMORANDUM & ORDER
+
+Before the Court is Mr. Alphonso Johnson’s motion under 28 U.S.C. § 2255 to vacate, set
+aside, or correct his twenty-six year prison sentence that Was the negotiated result of his guilty
+plea to five counts of Hobbs Act robbery, use and possession of a firearm during a crime of
+violence, and being a felon in possession of a firearm. Mr. Johnson asks the Court to vacate his
+sentence due to alleged ineffective assistance he received from his attorney during his plea
+negotiation and sentencing The Court finds no merit to Mr. Johnson’s Writ and thus,
+DISMISSES his petition.
+
+I. FACTS
+
+On October 10, 2012, Alphonso Johnson pled guilty to five counts of a six count
+Superseding Indictment charging him With Hobbs Act Robbery, in violation of 18 U.S.C.
+§ 1951(a) (Counts I and IV), Use and Possession of a Firearm During a Crime of Violence, in
+violation of 18 U.S.C. § 924(c)(l)(A)(ii) (Count V), and Felon in Possession of a Firearm, in
+violation of 18 U.S.C. §§ 922(g)(1) and 924(a)(2) (Counts III and VI). (ECF No. 5).
+
+Mr. Johnson and the Government negotiated the terms of his plea as set forth in a Written
+plea agreement In that agreement and in exchange for his plea of guilty, the Government agreed
+
+to dismiss Count 11 of the Superseding Indictment, Which charged Mr. Johnson With possession
+
+of a firearm in furtherance of a crime of violence in violation of 18 U.S.C. § 924(c) and would
+have required an additional twenty-five year consecutive prison sentence. (ECF No. 49, 11 2(e)).
+With Count II dismissed, Mr. Johnson and the Government agreed to recommend a total
+sentence of twenty-six years (312 months) imprisonment (ECF No. 49, 11 2(a)). In addition,
+Mr. Johnson agreed that he qualified as a Career Offender pursuant to U.S.S.G. § 4B1.1 having
+been convicted of at least two crimes of violence as defined in the Sentencing Guidelines. (ECF
+No. 49, 11 3(a)).
+
+At sentencing, the Court took into account that Mr. Johnson was a Career Offender, had a
+criminal history category of VI, and a sentencing guideline range of 262-327 months. The Court
+heard the parties’ joint recommendation of the twenty-six year sentence and sentenced
+Mr. Johnson as recommended, noting that, “both sides [appeared] to have negotiated in good
+faith and [came] to a resolution that [did] the best for all issues raised.” (ECF No. 67 at 10).
+
+Mr. Johnson did not appeal his judgment of conviction or sentencing, Approximately
+one year later, Mr. Johnson filed the instant motion to vacate with this Court. (ECF No. 63).
+The Government objects on procedural grounds as well as on the merits.
+
+II. ANALYSIS
+
+Mr. Johnson’s motion is rooted in part in his classification as a Career Offender under
+USSG § 4B1.1 because he was previously convicted of at least two crimes of violence as defined
+in the guidelines. He claims ineffective assistance of counsel on his first two points, arguing that
+his counsel failed to object to the qualifying offenses. His third claim is that the robbery charge
+under the Hobbs Act should not have been charged under that Act because the robbery did not
+
+interfere with interstate commerce The Court will begin its analysis with Mr. Johnson’s third
+
+ground as it requires the least discussion after a brief primer on the standard of review on § 2255
+motions.
+
+Generally, the grounds justifying relief under § 2255 are limited. Section 2255 provides,
+in pertinent part, that:
+
+[a] prisoner in custody under sentence of a court established by Act of Congress claiming
+
+the right to be released upon the grounds that the sentence was imposed in violation of
+
+the Constitution or laws of the United States, or that the court was without jurisdiction to
+
+impose such sentence, or that the sentence was in excess of the maximum authorized by
+
+the law, or is otherwise subject to collateral attack, may move the court which imposed
+
+the sentence to vacate, set aside or correct the sentence
+28 U.S.C. § 2255(a). In short, a court may grant relief only if a prisoner’s motion demonstrates a
+lack of jurisdiction, constitutional error, or a fundamental error of law in sentencing United
+States v. Addonizio, 442 U.S. 178, 185 (1979). Moreover, “an error of law does not provide a
+basis for collateral attack unless the claimed error constituted a fundamental defect which
+inherently results in a complete miscarriage of justice.” Id. (internal quotation and citation
+omitted).
+
+A. Procedural Default of Hobbs Act Claim
+
+While a motion under § 2255 provides a prisoner with an avenue of relief from
+sentencing errors, it is not a substitute for direct appeal. United States v. Frady, 456 U.S. 152,
+165 (1982). A movant is procedurally precluded from obtaining § 2255 review of claims not
+raised on direct appeal absent a showing of both “cause” and “prejudice” or alternatively that he
+is “actually innocent” of the offense of which he Was convicted. Bousley v. United States, 523
+U.S. 614, 622 (1996). Reflecting on the stande of review, the Court finds that Mr. Johnson did
+not directly appeal his conviction or sentence of the Hobbs Act robbery on April 20, 2011. Thus,
+
+because relief under § 2255 is limited and Mr. Johnson failed to assert this claim on direct
+
+appeal, the Court need not consider his argument in a § 2255 proceeding unless he can explain
+
+why he failed to appeal and show actual prejudice. Damon v. United States, 732 F.3d l, 4 (lst
+Cir. 2013).
+
+Mr. Johnson does not show cause as to why he did not appeal his conviction and
+sentencingl Moreover, the Court agrees with the Government that Mr. Johnson cannot
+demonstrate prejudice amounting to “a complete miscarriage of justice” because the Court
+imposed the very sentence that he, represented by very able counsel, and the Government
+recommended to the Court through the negotiated plea agreement See Addonizio, 442 U.S. at
+185. Additionally, Mr. Johnson received a benefit from admitting the underlying facts and
+pleading guilty to the charges under the terms as well; the Government agreed to dismiss a count
+that would have added twenty-five years to his sentence. Therefore, because Mr. Johnson failed
+to raise this issue on appeal and cannot demonstrate cause and prejudice justifying relief under
+§ 2255, the Court denies his motion to vacate on this ground.
+
+B. Ineffective Assistance of Counsel
+
+Mr. Johnson’s claims of ineffective assistance of counsel do not suffer the same
+procedural fate, however. These claims may be brought under 28 U.S.C. § 2255, “whether or not
+the petitioner could have raised the claim on direct appeal.” Massaro v. United States, 538 U.S.
+500, 504 (2003); Knight, 37 F.3d at 774. Mr. Johnson registers two complaints against his
+
+counsel’s representation that he argues merits this Court’s review and removal of his conviction.2
+
+ 
+
+1 The Court suspects that Mr. Johnson did not appeal because, under the terms of his plea
+agreement with the Government, he agreed not to appeal if he was sentenced to the term of
+imprisonment jointly recommended by the parties. He received the recommended sentence.
+
+2 To the extent that Mr. Johnson’s claims, couched as ineffective assistance claims, are based on
+the application of the Sentencing Guidelines, his motion must be denied because that claim is not
+cognizable for review under § 2255. He does not allege a constitutional error, lack of
+jurisdiction, or that his sentence exceeded the statutory maximum so his only avenue is to
+demonstrate that the sentence was fundamentally defective Km'ght v. United Slates, 37 F.3d
+769, 772 (lst Cir. 1994). Several circuit courts have considered the availability of collateral
+
+4
+
+He first argues that his counsel failed to object that his conviction of making threats to a public
+official in 2009 Was not a crime of violence and thus was not an offense that would qualify him
+as a career offender under the Sentencing Guidelines. He also argues that his counsel should
+have challenged that underlying crime because he was intoxicated and did not have the specific
+intent to make threats or to act on those threats to the public official. On these two points,
+Mr. Johnson argues that he received ineffective assistance of counsel in violation of his Sixth
+Amendment right.
+
+The Court’s analysis of Mr. Johnson’s ineffective assistance claims is under Strz`ckland v.
+Washington, 466 U.S. 668 (1984). Under that two-part test, in order to demonstrate that counsel
+did not provide reasonably effective legal assistance, a defendant must show (1) that counsel’s
+representation “fell below an objective standard of reasonableness,” and (2) that counsel’s
+deficient performance prejudiced the defendant Strickland, 466 U.S. at 688, 692. “The burden
+is on the petitioner to demonstrate ineffective assistance by a preponderance of the evidence.”
+Lema v. United States, 987 F.2d 48, 51 (lst Cir. 1993).
+
+The first prong of the Strickland test is satisfied where counsel’s performance is “so
+inferior as to be objectively unreasonable.” United Stales v. McGill, 11 F.3d 223, 226 (lst Cir.
+1993). An attomey’s conduct will be reasonable if it is found to fall “within the range of
+competence expected of attorneys in criminal cases.” United States v. Bosch, 584 F.2d 1113,
+
+1121 (lst Cir. 1978) (citations omitted). Moreover, “[t]his court’s review of counsel’s
+
+ 
+
+attack for various errors in the application of the Guidelines and have concluded that such errors
+are not cognizable under § 2255. Id. at 773 (collecting cases). Although the First Circuit has not
+foreclosed the possibility that a Guidelines’ application error could constitute a complete
+miscarriage of justice, “exceptional circumstances” must be present before such an error may be
+cognizable under § 2255, Id. at 773-74. Here, the Court finds that no such exceptional
+circumstances exist that would make Mr. Johnson’s sentence a “complete miscarriage of justice.”
+
+performance must be deferential, and reasonableness must be considered in light of prevailing
+professional norms.”’ Peralta v. United States, 597 F.3d 74, 79 (lst Cir. 2010) (citing
+Strickland, 466 U.S. at 688). The second prong requires that the defendant show “a reasonable
+probability that, but for counsel’s unprofessional errors, the result of the proceeding would have
+been different A reasonable probability is a probability sufficient to undermine confidence in
+the outcome.” Strickland, 466 U.S. at 694.
+
+Nothing in Mr. Johnson’s § 2255 motion or his opposition papers demonstrates that his
+attorney’s conduct was inferior or objectively unreasonable His attorney’s performance was
+well within the range of competence expected by criminal defense attorneys, especially in light
+of the deal he secured on Mr. Johnson’s behalf. The plea agreement reduced Mr. Johnson’s
+sentence by twenty-five years because his counsel secured the Government’s agreement to
+dismiss one count from the Indictment in exchange for his guilty plea to the remaining five
+counts. Even assuming arguendo that Mr. Johnson’s attomey’s representation was less than
+effective, Mr. Johnson has not and cannot meet the second prong’s prejudice requirement He
+received the exact sentence that he bargained for in the plea agreement so he cannot now argue
+that the result of the proceeding would have been different if his counsel were not ineffective.
+
+C. Effect of the Plea Agreement
+
+Because none of Mr. Johnson’s grounds for relief survives the Court’s analysis under the
+§ 2255 standards for ineffective assistance or procedural default, there is no need to analyze
+those claims on the merits. To be thorough, however, even if he did have a valid § 2255 claim, it
+would be curbed by the binding terms of the plea agreement The First Circuit has “analogized
+
+plea agreements to contracts, binding upon the prosecution and the defense alike.” United States
+
+v. Teeter, 257 F.3d 14, 28 (lst Cir. 2001) (finding that “defendants ordinarily should be held to
+plea-agreement terms that they knowingly and voluntarily accept.”)
+
+Mr. Johnson admitted the facts of five counts of the Superseding Indictment, pled guilty,
+and was sentenced according to the agreement he reached With the Government The
+Government dropped one count against him in exchange for his guilty plea that would have
+increased his sentence by twenty-five years. Moreover, Mr. Johnson agreed to waive his right to
+appeal his conviction and sentence, if the Court imposed a term of imprisonment that the parties
+jointly recommended (ECF No. 49 at 1[ 10). The Court did impose the agreed-to sentence of
+312 months so based on that, and all the other conditions made in the plea agreement and met by
+the parties, Mr. Johnson’s right to collaterally attack his sentence has been foreclosed. Teeter,
+257 F.3d at 29.
+
+III. CONCLUSION
+
+Mr. Johnson’s request for relief from his sentence under § 2255 is DENIED and his
+
+petition is DISMISSED. He has failed to demonstrate a lack of jurisdiction, constitutional error,
+
+or a fundamental error of law in sentencing for the five counts to which he pled guilty.
+
+ITISS ORD RED. d § 1
+
+John J. McConne , Jr.
+United States District Judge
+
+ 
+
+August 4, 2014
+

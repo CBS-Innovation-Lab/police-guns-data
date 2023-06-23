@@ -1,0 +1,500 @@
+                          UNITED STATES DISTRICT COURT
+
+                                   DISTRICT OF MAINE
+
+
+ UNITED STATES OF AMERICA                       )
+                                                )
+ V.                                             )
+                                                )   1:18-CR-00155-LEW
+ RYAN D. MERRILL,                               )
+                                                )
+                       Defendant                )
+
+                          DECISION AND ORDER ON
+                      DEFENDANT’S MOTION TO SUPPRESS
+
+
+       On October 12, 2018, Ryan Merrill was indicted on one count of possession of an
+
+unregistered silencer, in violation of 26 U.S.C. §§ 5841, 5861(d), and 5871, as well as one
+
+count of possession of a silencer not identified by a serial number, in violation of 26 U.S.C.
+
+§§ 5842, 5861(i), and 5871. Indictment (ECF No. 33). He now moves to suppress evidence
+
+gathered from his home on July 17, 2018. Mot. to Suppress (ECF No. 49). The motion is
+
+DENIED.
+
+                                     BACKGROUND
+
+       As established in the evidentiary hearing, Merrill resides at 14 Holly Hill Lane in
+
+Augusta, Maine. On July 17, 2018, Augusta Police Officers Christopher Hutchings and
+
+Todd Nyberg responded to reports of gunshots being fired at the residence. En route,
+
+dispatch advised Officer Hutchings that police had been called to Merrill’s residence before
+
+in response to Merrill firing blank ammunition. Dispatch did not provide any additional
+
+information regarding Merrill and neither Officer Hutchings nor Nyberg checked the
+
+Augusta Police Department’s “In House File” before responding to the call.
+          Officers Hutchings and Nyberg arrived at Merrill’s trailer at nearly the same time. 1
+
+Both were armed and in uniform. Before approaching the front door of the trailer, the
+
+officers saw a figure—Merrill—through a large window and motioned for him to come to
+
+the door. The officers then climbed the stairs to the deck by the front door and knocked on
+
+the door. Officer Nyberg stood behind Officer Hutchings during the initial conversation.
+
+          Merrill opened the door. In a relaxed tone, Officer Hutchings asked Merrill whether
+
+he had been shooting blanks, to which Merrill responded in the affirmative. When Officer
+
+Hutchings requested to see the gun, Merrill told Officer Hutchings that his mother had
+
+taken the gun. When Officer Hutchings asked Merrill if he could speak with Merrill’s
+
+mother, Merrill indicated the gun was in his residence.
+
+          At this point, Officer Hutchings said: “I need to see the gun and I will get out of
+
+here.” Merrill responded by stepping back from the door and stating, “Come on in.” After
+
+a brief conversation, Merrill directed the officers’ attention to a firearm with an attached
+
+silencer leaning against the wall in the hallway. Merrill warned that the gun was loaded
+
+and after unloading the gun, the officers seized the weapon.
+
+          Officer Hutchings testified that throughout the interaction, Merrill’s tone remained
+
+“relaxed, very cooperative, [and] very understanding.” By Officer Hutchings’ account,
+
+Merrill’s demeanor and attitude toward the two officers was “accommodating, hospitable
+
+. . . overly friendly and very cooperative, [he] was almost happy to answer our questions.”
+
+
+
+1
+    None of the initial interaction between the parties was captured on the officers’ recording equipment. As
+    stated in United States v. Coombs, this failure to utilize the recording equipment is “unfortunate” because
+    “recording suspects’ interviews is a salutary way to eliminate future questions that may arise both about
+    how a particular interview was conducted and about what was said.” 857 F.3d 439, 450 (1st Cir. 2017).
+                                                        2
+Merrill did not appear to be confused and didn’t give any indication of mental incapacity.
+
+Merrill did ask to take anxiety medicine near the end of the encounter.
+
+       Unbeknownst to the officers at the time of their interaction with Merrill, Merrill has
+
+a history of mental illness. Six days prior to this interaction, Merrill was released from
+
+Maine General Medical Center against medical advice following a two-week involuntary
+
+commitment “for evaluation of a manic decompensation with psychotic features.” Motion
+
+2; Def.’s Ex. 8.
+
+                                      DISCUSSION
+
+       Merrill argues the Augusta Police Officers violated his rights under the Fourth
+
+Amendment by “unreasonably enter[ing] and search[ing] his home, without a warrant,
+
+without valid consent, and without exigent circumstances.”         Motion 5.     During the
+
+evidentiary hearing, the core of the parties’ arguments focused on Merrill’s ability to
+
+voluntarily consent due to his mental health concerns. Upon questioning by the court at
+
+the conclusion of evidence, the issue was more refined; to wit, that Mr. Merrill’s mental
+
+health made him more susceptible to feeling coerced by the APD officers to agree to enter
+
+his residence without a warrant. No claim was made that the officers’ search was warranted
+
+by exigent circumstances.
+
+       The Fourth Amendment guarantees the “right of the people to be secure in their
+
+persons, houses, papers, and effects, against unreasonable searches and seizures.” U.S.
+
+CONST. amend. IV. “It is a ‘basic principle of Fourth Amendment law’ that searches and
+
+seizures inside a home without a warrant are presumptively unreasonable.” Payton v. New
+
+York, 445 U.S. 573, 586 (1980) (quoting Coolidge v. New Hampshire, 403 U.S. 443, 477
+
+                                             3
+(1971)). However, a warrantless search – even of a home – is not per se unreasonable if
+
+“proper consent” is “voluntarily given.” United States v. Matlock, 415 U.S. 164, 165–66
+
+(1974); Schneckloth v. Bustamonte, 412 U.S. 218, 219 (1973) (“It is equally well settled
+
+that one of the specifically established exceptions to the requirements of both a warrant
+
+and probable cause is a search that is conducted pursuant to consent.”). Of potential
+
+significance here, “where the officer’s real objective is search and seizure the
+
+householder’s consent should not only be clearly voluntary, but also specifically directed
+
+toward search and not merely toward entry.” Robbins v. MacKenzie, 364 F.2d 45, 49 (1st
+
+Cir. 1966).
+
+          Although Officers Hutchings and Nyberg did not have a warrant to search Merrill’s
+
+home, my factual findings establish that Merrill, the homeowner, consented to the officers
+
+entering his home for the very purpose of seeing the firearm when he said “come on in”
+
+and stepped away from his door. Once inside, Merrill directed the officers to the firearm.
+
+The parties do not contest whether Merrill expressed his consent 2 and instead focus on
+
+whether Merrill’s consent was voluntary in light of Merrill’s mental illness.
+
+A.        Voluntary Consent
+
+          Whether consent is voluntarily given “turns on an assessment of the totality of the
+
+circumstances,” particularly the “vulnerability of the consenting party.” United States v.
+
+Barnett, 989 F.2d 546, 554–55 (1st Cir. 1993) (citing United States v. Mendenhall, 446
+
+U.S. 544, 557 (1980)). In this assessment, courts in the First Circuit consider “age,
+
+
+2
+    In his brief, Merrill offers some argument that “this entry was without voluntary consent,” but did not
+     resume this argument in the hearing. Motion 1 (ECF No. 49, #61). Regardless, I credit the officers’
+     testimony on this point.
+                                                     4
+education, experience, intelligence, and knowledge of the right to withhold consent” as
+
+well as more generalized factors such as “whether the consenting party was advised of his
+
+or her constitutional rights and whether permission to search was obtained by coercive
+
+means or under inherently coercive circumstances.” Id. at 555. The government shoulders
+
+the burden of proving by a preponderance of evidence that consent was given knowingly
+
+and voluntarily. Schneckloth, 412 U.S. at 222; United States v. Perez-Montanez, 202 F.3d
+
+434, 438 (1st Cir. 2000).
+
+           1. Mental health considerations
+
+           Specific to the issue of mental health, the First Circuit stated that “[a] consenting
+
+party’s mental frailties may have a bearing upon this analysis,” but these “frailties are
+
+entitled to little weight in the abstract.” 3 United States v. Coombs, 857 F.3d 439, 449 (1st
+
+Cir. 2017). In order for a defendant’s mental illness to tip the scales against a finding of
+
+voluntary consent, “there must be evidence of some nexus between, say, the individual’s
+
+mental condition and the giving of consent, . . . or some evidence that officers obtained
+
+consent by exploiting a known vulnerability.” Id.
+
+           In Coombs, the First Circuit addressed an appellant’s argument that “his history of
+
+mental illness—anxiety, depression, and bipolar disorder—vitiated his consent.” 857 F.3d
+
+at 449. Based on the facts of the case and primarily on the testimony of the police officers
+
+indicating that the appellant had remained calm and able to carry on a conversation despite
+
+
+3
+    When confronting the question of whether a confession was “voluntary,” the Supreme Court stated that
+    while “the mental condition of the defendant” is a “more significant factor in the ‘voluntariness’ calculus
+    . . . this fact does not justify a conclusion that a defendant’s mental condition, by itself and apart from its
+    relation to official coercion, should ever dispose of the inquiry into constitutional ‘voluntariness.’”
+    Colorado v. Connelly, 479 U.S. 157, 164 (1986).
+                                                         5
+being arrested and brought to the ground, the court saw no “nexus between the appellant’s
+
+psychiatric history and the giving of consent.” Id. Therefore, the First Circuit upheld the
+
+district court’s conclusion “that the appellant, even given his afflictions, was not so stressed
+
+by the circumstances that his consent could be regarded as either coerced or otherwise
+
+involuntary.” Id. at 449.
+
+          Similarly, in United States v. Grap, the Seventh Circuit adopted a standard that
+
+looks to the presence of “objective facts, as presented to a reasonable inquirer, that would
+
+reasonably put him or her on notice that a voluntary consent could not be given.” 4 403
+
+F.3d 439, 445 (7th Cir. 2005). In the absence of such facts, the Seventh Circuit upheld the
+
+district court’s conclusion that a third-party was able to voluntarily consent to a warrantless
+
+search of her garage despite having been diagnosed with a documented “delusional
+
+disorder that impaired her ability to make rational decisions.” Id. at 441. The court relied
+
+on the police officer’s testimony that there was “no indication that [the third-party] was
+
+suffering from delusional symptoms, or that she was ‘out of touch’ with reality” and
+
+
+
+
+4
+    When applying this standard, the court commented that “reasonableness is the touchstone of validity of
+    third-party consent to a search.” Grap, 403 F.3d at 444. The Seventh Circuit persuasively reasoned:
+        The standard of what is reasonably apparent to a reasonable inquiring officer, with its emphasis
+        on the deterrence rationale of the exclusionary rule, is the correct approach. The purpose of
+        suppression of evidence obtained in an unreasonable search is to deter violations by officers of
+        the Fourth Amendment. Obviously, they cannot be deterred by circumstances that are unknown
+        to them, like the psychiatric history of the person consenting to a search. . . . The proper inquiry
+        here focuses upon the objective facts, as presented to a reasonable inquirer, that would
+        reasonably put him or her on notice that a voluntary consent could not be given. . . . And it
+        should not be assumed . . . that anyone suffering from some type of mental disease or defect is
+        inevitably incapable of giving a voluntary consent to a search.
+    Id. at 444-45 (citations omitted).
+
+                                                         6
+concluded that “however potentially serious the effects of her psychosis, [her] behavior did
+
+not indicate that she lacked the requisite mental capacity to consent.” 5 Id. at 443.
+
+          I am persuaded by this line of reasoning and am satisfied that despite Merrill’s
+
+mental health struggles, his consent was voluntarily given. The record establishes Officers
+
+Hutchings and Nyberg were unaware of Merrill’s mental illness at the time of their
+
+warrantless search. 6 Given the officers’ lack of knowledge of Merrill’s illness, I find that
+
+they did not “obtain[] consent by exploiting a known vulnerability.” Coombs, 857 F.3d at
+
+449. Furthermore, nothing in their interactions with Merrill indicated he was suffering
+
+from a severe mental illness that manifestly would have vitiated his voluntary consent to
+
+enter the residence. To the contrary, Merrill’s behavior suggests he was understood and
+
+was amenable to the police officers’ requests. Like the defendant in Coombs, Merrill
+
+remained calm and carried on a cogent conversation with the officers throughout their
+
+interaction. He responded to their questions appropriately, even eagerly.
+
+
+5
+    See also United States v. Mustapher, 459 F. Supp. 2d 752, 758 (N.D. Ill. 2006) (“Voluntariness is
+    measured by whether a reasonable observer would determine that the consenting person acted
+    voluntarily.”).
+6
+    Defendant argues that although the individual officers had no actual knowledge of his mental illness, the
+    Augusta Police Department had in its possession reports arising from previous interactions with Merrill,
+    including an incident which resulted in Merrill being “blue papered” or involuntarily committed.
+    Defendant contends this information should have been “imputed” to the officers at the scene. I am
+    unaware of cases supporting an extension of the collective knowledge or fellow-officer rule to the context
+    of this case and Defendant’s argument, while innovative, is unpersuasive. Even if the collective
+    knowledge of the Augusta Police Department could be imputed to Officers Hutchings and Nyberg, at
+    most, they would have been ‘aware’ that Merrill had been involuntarily committed and suffered from
+    “mental issues.” Def.’s Ex. 1. The Augusta Police Department was not privy to Merrill’s medical
+    progress notes and even if it had, its officers were not likely equipped with the training to understand or
+    predict how Merrill’s medical diagnosis may, if at all, impact his ability to voluntarily consent. To
+    presume that all suspects with a similarly vague history of mental illness cannot voluntarily consent to a
+    search of the residence is untethered from scientific reason and philosophical notions of free will. More
+    to the point, it is an unworkably paternalistic formulation of constitutional protections, burdening law
+    enforcement officers with an epistemological conundrum far beyond the reach of their training that has
+    never been part of Fourth Amendment jurisprudence.
+                                                       7
+       I see nothing in the record that would have put a reasonable officer on notice that
+
+Merrill’s underlying mental health conditions precluded him from providing voluntary
+
+consent at the time of the officers’ search, and Defendant offered no positive evidence to
+
+the contrary. See, e.g., United States v. Reynolds, 646 F.3d 63, 73-74 (1st Cir. 2011)
+
+(similarly relying on external indicators such as testimony that the defendant was
+
+“responsive, lucid, and cooperative with the police officers” to conclude that “there was no
+
+evidence that [the defendant] was affected by any underlying illness during the time of the
+
+search.”); United States v. Coraine, 198 F.3d 306, 309–10 (1st Cir. 1999) (rejecting the
+
+defendant’s claim that “an anxiety attack induced him to consent” and relying on external
+
+indicators of his ability to consent by stating: “even if [the defendant] had a medical
+
+condition that made him susceptible to an anxiety attack, and even if he became somewhat
+
+upset at a point during his interrogation, his speech and demeanor appeared to be normal
+
+when they asked for permission to search his mobile home”). In short, I see no evidence
+
+of a “nexus between the appellant’s psychiatric history and the giving of consent.”
+
+Coombs, 857 F.3d at 449.
+
+       2. Coercion
+
+       Merrill argues that due to his ongoing mental health issues, he was more susceptible
+
+to coercion or more inclined to perceive aggression than the average defendant.
+
+Essentially, Merrill argues that he is what we would label in a civil context an “eggshell
+
+plaintiff.” Motion 6-7. I am not persuaded by this argument. As explained above, I see
+
+no nexus between Merrill’s mental health condition and his consent. Vague allusions to
+
+the historical fact that Merrill was involuntarily committed simply is not enough to
+
+                                             8
+establish a nexus between his diagnosis and consent. There are presumably many mental
+
+health diagnoses that do not diminish a person’s ability to voluntarily consent.
+
+Contrariwise, there may be other mental health conditions that do diminish the ability to
+
+consent. Merrill did not offer any evidence that the officers should have known that his
+
+particular mental health issues fell into the latter but not the former category. Moreover, it
+
+is not clear how the APD officers would have known.
+
+           Despite my determination that Merrill’s consent was not nullified by his mental
+
+illness, as directed by First Circuit precedent, I look to the totality of the circumstances and
+
+consider whether Merrill’s consent was “obtained by coercive means or under inherently
+
+coercive circumstances.” 7 Barnett, 989 F.2d at 554–55. I find his consent was not coerced.
+
+           In this case, the officers never drew their guns or physically threatened Merrill.
+
+Merrill was not placed in custody or restrained by the officers. Merrill was not dramatically
+
+outnumbered by the officers. Although, as Defendant argues, the officers voiced an
+
+imperative by stating they needed to see the gun before leaving, the officers did not threaten
+
+force or that they would get a warrant. Even if they had, I am unconvinced such a statement
+
+would have risen to a level of coercion that would vitiate Merrill’s consent. See Perez-
+
+Montanez, 202 F.3d at 438–39 (“an officer’s statement that he will ‘obtain other means’ to
+
+seize evidence is not the same as saying that he is presently entitled, without the “other
+
+means,” to the evidence. . . . Nor is there anything false or unduly coercive about a
+
+
+
+7
+    The First Circuit has stated: “In the context of the voluntariness of a confession, a defendant’s mental state
+     by itself and apart from its relation to official coercion never disposes of the inquiry into constitutional
+     voluntariness.” United States v. Palmer, 203 F.3d 55, 61-62 (1st Cir. 2000). Although speaking to
+     concerns regarding the voluntariness of post-arrest statements, this logic nevertheless applies in this case.
+                                                         9
+statement of an intention to seek other means to obtain access to property.”); United States
+
+v. Marshall, 348 F.3d 281, 286 (1st Cir. 2003) (“[T]he fact that the officers told [the
+
+defendant] that they were going to search the apartment regardless of whether she
+
+consented because they intended to get a warrant is not inherently coercive.”).
+
+       The record establishes Merrill gave verbal and physical indications of his consent
+
+to the officers entering his home. Once the officers were in his home, Merrill directed their
+
+attention to the gun sitting in plain view, warned that the gun was loaded, explained his
+
+purpose in having the firearm, offered to “show [the police] forensic evidence of where the
+
+rounds struck to assist” in their investigation, and even stated that he “understood before
+
+[he] [shot the gun], it was illegal.” Gov’t Ex. B-1. Merrill’s conduct under the totality of
+
+the circumstances demonstrates consent free of coercion. See, e.g., United States v. Reith,
+
+66 F. Supp. 2d 52, 56 (D. Me. 1999) (“Defendant not only led police into the bedroom of
+
+his home and pointed out the briefcase containing the gun, but provided police with the
+
+combination to the briefcase and warned them to use caution when opening it because the
+
+gun might be loaded. Such conduct is strongly indicative of consent.”); United States v.
+
+Reynolds, 2009 WL 1090674, at *6 (D. Me. Apr. 21, 2009), aff’d, 646 F.3d 63 (1st Cir.
+
+2011) (“Although the situation may have been inherently coercive, this is not
+
+determinative; the fact that [the defendant] immediately responded to [the officer’s]
+
+question, and volunteered more information than he sought, shows that she was not coerced
+
+into doing so.”).
+
+
+
+
+                                             10
+          3. Summary
+
+          Although a few factors in the present case run contrary to a finding of voluntary
+
+consent—for example, Merrill was not advised that he could withhold consent 8—the
+
+totality of the circumstances militate strongly toward the conclusion that Merrill not only
+
+possessed the capacity to consent, but that he in fact voluntarily consented. Thus, I am
+
+satisfied the government has met its burden by establishing by a preponderance of evidence
+
+that Merrill voluntarily consented to the officers’ search of his home.
+
+                                            CONCLUSION
+
+          Because Merrill voluntarily consented to the Officers’ search of his home, and the
+
+parties offer no argument that the search exceeded the scope of his consent, I conclude that
+
+the search was reasonable under the Fourth Amendment.
+
+          Defendant Merrill’s Motion to Suppress (ECF No. 49) is DENIED.
+
+
+          SO ORDERED.
+
+          Dated this 19th day of February, 2019.
+
+
+                                                          /s/ Lance E. Walker
+                                                          LANCE E. WALKER
+                                                          UNITED STATES DISTRICT JUDGE
+
+
+
+
+8
+    Schneckloth v. Bustamonte, 412 U.S. 218, 227 (1973) (“While knowledge of the right to refuse consent is
+     one factor to be taken into account, the government need not establish such knowledge as the sine qua
+     non of an effective consent.”).
+                                                     11
+

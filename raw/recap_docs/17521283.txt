@@ -1,0 +1,1545 @@
+                             UNITED STATES DISTRICT COURT
+                                  DISTRICT OF MAINE
+
+UNITED STATES OF AMERICA,                     )
+                                              )
+v.                                            )              No. 2:10-cr-123-DBH
+                                              )
+ROBERT WAYNE INFANTE,                         )
+                                              )
+               Defendant                      )
+
+
+
+                RECOMMENDED DECISION ON MOTIONS TO SUPPRESS
+
+       Robert Wayne Infante, charged with one count of possession of firearms and ammunition
+
+by a felon in violation of 18 U.S.C. §§ 922(g)(1) and 924(a), one count of possession of an
+
+unregistered destructive device in violation of 26 U.S.C. §§ 5861(d), 5841, 5845(f), and 5871,
+
+one count of manufacturing marijuana in violation of 21 U.S.C. § 841(a)(1), one count of
+
+possession of a firearm, to wit, a destructive device, in relation to a drug trafficking offense, in
+
+violation of 18 U.S.C. § 924(c)(1)(B)(ii), and one count of possession of a firearm, to wit, a
+
+revolver, in violation of 18 U.S.C. § 924(c)(1)(A)(i), see Indictment (Docket No. 12), seeks to
+
+suppress (i) all evidence secured as a result of a warrantless search of his home in Alfred, Maine,
+
+by firefighters on June 25, 2010, see First Motion To Suppress Evidence (“First Motion”)
+
+(Docket No. 24) at 1, and all statements that he made during the course of an interview
+
+conducted principally by Daniel Young of the Maine Fire Marshal‟s Office at Southern Maine
+
+Medical Center (“SMMC”) in Biddeford, Maine, the same day, see Second Motion To Suppress
+
+Evidence (“Second Motion”) (Docket No. 25) at 1.
+
+       An evidentiary hearing was held before me on December 2 and 3, 2010, at which the
+
+defendant appeared with counsel. The government tendered eight witnesses and offered two
+
+exhibits, which were admitted without objection. The defendant tendered no witnesses and
+
+                                                  1
+offered 13 exhibits, which were admitted without objection.1 After both sides rested, counsel for
+
+each argued orally. I now recommend that the following findings of fact be adopted and that
+
+both motions be denied.
+
+                                       I. Proposed Findings of Fact
+
+                                 A. Evidence Relevant to First Motion
+
+        At approximately 8:50 a.m. on June 25, 2010, the defendant, sounding agitated and
+
+breathing heavily, placed a 911 call stating that he needed an ambulance. See Transcription re:
+
+Robert Infante 911 call (“911 Transcript”), Dft‟s Exh. 1, at 1.2 He explained that he had just
+
+taken off the tip of his finger and about an inch on the side of his hand when “[a] propane tank
+
+went off on me.” Id. In response to a dispatcher‟s question, he affirmed that he was home alone
+
+at the scene of the emergency, 60 Avery Road in Alfred, Maine. See id. He added that “a small
+
+little hand-held propane tank exploded on me.” Id. at 2. In response to the question whether
+
+anything was still burning or smoldering, he stated: “No, it just went bang big time.” Id. at 3.
+
+        He affirmed that he was safe and out of danger, outside of the house, and that no clothing
+
+was burning or smoldering. See id. at 4. The dispatcher told him that help was on the way and
+
+asked him not to move unless it was absolutely necessary. See id. The defendant stated that he
+
+was just going to take care of things that he needed to take care of and secure his house because
+
+he was not going to be there. See id.
+
+        At approximately 8:53 a.m., the Sanford Communications Center, a regional
+
+communications center for Alfred and other towns (“Sanford Dispatch”), broadcast the following
+
+
+1
+  The government conditioned its lack of objection to the admission of Defendant‟s Exhibits 9, 11, 12, and 15 on the
+parties‟ stipulation that those photographs were taken after 8:30 p.m. on June 25, 2010.
+2
+   The defendant offered into evidence an audio disc of his 911 calls, related dispatch communications, and
+interviews at SMMC, see Dft‟s Exh. 17, as well as transcripts of all of those recordings, see Dft‟s Exhs. 1-2, 5. In
+setting forth these proposed facts, I have relied not only on the transcripts but also on information gleaned from
+listening carefully to the underlying recordings.
+
+
+                                                         2
+bulletin: “Sanford ME with a fire and rescue for Alfred, 60 Avery Road for a propane explosion.
+
+Male with a large cut, finger amputated. . . . Male, by himself has a large cut, and finger
+
+amputated.”    Transcription re: Sanford Dispatch Robert Infante Call (“Sanford Dispatch
+
+Transcript”), Dft‟s Exh. 2, at 1. The Alfred Fire Department responded, inquiring whether there
+
+was any fire and any structure involved. See id. Sanford Dispatch replied, “None that I‟m
+
+seeing, doesn‟t list anything, just a propane explosion, and the finger amputation.” Id. Sanford
+
+Dispatch did not relay the information that the explosion reportedly had been caused by a small
+
+propane tank. At all relevant times, communications both to and from Sanford Dispatch were
+
+broadcast to fire and rescue personnel. However, fire and rescue personnel never heard the
+
+underlying 911 calls.
+
+       The Sanford Dispatch bulletin was heard at the Alfred fire station by George Donovan, a
+
+48-year veteran of the Alfred Fire Department, and Andrew Stevenson, a firefighter paramedic
+
+who works full-time for the City of Biddeford, Maine, but was on his first day on the job as a
+
+part-time paramedic for the Alfred Fire Department and was receiving orientation from
+
+Donovan.
+
+       Stevenson checked a map to locate the address in question, with which neither he nor
+
+Donovan was familiar, donned his firefighting gear, and departed in an ambulance, Alfred
+
+Rescue One, toward 60 Avery Road by way of Gore Road. Donovan also donned his firefighting
+
+gear and followed in a fire engine, Alfred Engine Two. Both activated their sirens and flashing
+
+lights. According to dispatch records, they were en route by 8:56 a.m. See id. at 2. About a
+
+minute later, Alfred Fire Department Lieutenant Marc Cunningham, referred to in the transcript
+
+as “Alfred C7,” who had heard the dispatch call for help from his home, radioed Sanford
+
+Dispatch that he, too, was en route. See id. Cunningham was the highest ranking Alfred Fire
+
+
+
+                                               3
+Department official involved in the response to the 911 call that day. Greg Roussin, another
+
+Alfred Fire Department volunteer firefighter who had heard the Sanford Dispatch bulletin while
+
+at home, also headed to 60 Avery Road by way of Gore Road in his personal vehicle.
+
+       At approximately 9:00 a.m., the defendant again phoned 911, advising that he was going
+
+to the hospital himself because rescue was taking too long. See 911 Transcript at 5. After
+
+Cunningham turned onto Avery Road, a rural dirt road with few houses, he saw a vehicle pass
+
+him going the opposite direction at a high rate of speed, being chased by a dog. While still on
+
+Gore Road, Roussin, who was behind Cunningham, passed a vehicle headed in the opposite
+
+direction that he guessed was that of the 911 caller because the driver had one hand on the
+
+steering wheel and the other cradled in a rag.
+
+       Cunningham arrived at 60 Avery Road and radioed Sanford Dispatch that he was on the
+
+scene. See Sanford Dispatch Transcript at 4. Sanford Dispatch broadcast a bulletin that the 911
+
+caller had left the area and was en route to Gore Road and SMMC. See id.
+
+       Stevenson, who was by then traveling on Gore Road, heard the Sanford Dispatch
+
+broadcast at about the same time as he saw a lone male drive past him in the opposite direction
+
+with four-way hazard lights flashing. He suspected this was the 911 caller and so advised
+
+Sanford Dispatch, which informed him that dispatchers had the caller on the phone and were
+
+trying to persuade him to pull over so that Stevenson could attend to his hand. See id. The
+
+driver, who was the defendant, pulled over, and Stevenson turned the ambulance around and
+
+pulled it behind him.
+
+       Donovan, who had overheard this radio traffic, radioed Cunningham to ask if any fire
+
+was showing at 60 Avery Road. See id. Cunningham responded: “[n]egative.” Id. Donovan
+
+stated that he was turning around to assist Stevenson. See id.
+
+
+
+                                                 4
+        The defendant exited his car and informed Stevenson that he needed a tourniquet.
+
+Stevenson stated that he would not give him a tourniquet until he had looked at his hand.
+
+Stevenson observed that the defendant was wearing shorts and shoes but no shirt, had a number
+
+of superficial gunpowder- or birdshot-like wounds on his chest, had one hand wrapped in a
+
+bloody towel, and seemed anxious, like anyone who was experiencing a traumatic injury, albeit
+
+coherent. Stevenson suggested that the defendant get into the ambulance, and the defendant did
+
+so. At about that time, Donovan joined Stevenson and the defendant.
+
+        Stevenson unwrapped the towel and saw that the defendant was missing the top of the
+
+middle finger of his left hand. The defendant had also sustained a deep cut between his thumb
+
+and index finger. Bleeding was mostly controlled. As Stevenson was bandaging the defendant‟s
+
+wounds, he asked how the injury had occurred. The defendant said that he was filling up a
+
+butane lighter, and the lighter exploded. He told Stevenson once or twice that this had occurred
+
+inside his residence.3      Stevenson urged the defendant to permit him to transport him via
+
+ambulance to Maine Medical Center in Portland, which was best equipped to handle trauma of
+
+the sort the defendant had experienced.              Stevenson was concerned that because of the
+
+defendant‟s agitation and the possibility that he could go into shock or lose consciousness, he
+
+posed a danger to himself or the public if he continued to drive. The defendant adamantly
+
+refused transport by ambulance, stating that he was going to drive himself to SMMC.
+
+        At approximately that time, Robert Plumpton, an Alfred Fire Department volunteer
+
+firefighter who had heard the Sanford Dispatch call while at home, came upon the defendant‟s
+
+car, the ambulance, and the fire engine as he drove his personal vehicle on Gore Road toward 60
+
+
+
+3
+ Donovan testified that he (Donovan) asked the defendant twice where the explosion occurred and whether it had
+happened outside in the yard, but he got no clear answer.
+
+
+                                                      5
+Avery Road. He pulled his vehicle behind the others, got out, and walked up to the ambulance,
+
+where he overheard Stevenson exhorting the defendant to accept ambulance transportation.
+
+        The defendant asked Stevenson what would happen to his car if he agreed to be
+
+transported by ambulance – specifically, whether it would be towed. Stevenson responded that it
+
+might be towed but that arrangements might be able to be made for someone to drive it back to
+
+the defendant‟s residence. There was some discussion of the possibility of Plumpton‟s driving
+
+the defendant‟s car.
+
+        The defendant stated that no one could drive his car or return to his residence, explaining
+
+that he had a loose wolf on the property, which Stevenson understood to be a wolf-dog.
+
+Stevenson then advised that, if the defendant insisted on driving himself, he take himself to
+
+Goodall Hospital in Sanford, Maine, which was closer than SMMC. The defendant adamantly
+
+refused to do so, citing a dispute he had had with Goodall.
+
+        Before the defendant left, Stevenson tried one last time to persuade him not to drive
+
+himself to the hospital, warning him of the risks of doing so. The defendant indicated that he
+
+understood those risks and proceeded to exit through the side door of the ambulance past
+
+Donovan, get into his car, and drive away.4 He had been with Stevenson for a total of about
+
+eight minutes. Stevenson radioed Sanford Dispatch to report that his patient had adamantly
+
+refused transport and signed off AMA, or against medical advice, and that he was returning to
+
+the fire station. See id. at 5. When he returned, he called SMMC to apprise staff there of the
+
+situation.
+
+
+
+4
+  Donovan testified that as the defendant left the ambulance, he shoved Donovan off the bottom step, swore at him,
+and told him that he was going to Southern Maine Medical Center. Neither Stevenson nor Plumpton recalled
+witnessing that interaction. I need not resolve the discrepancy, which has no bearing on the outcome of this
+recommended decision.
+
+
+                                                        6
+       When Cunningham arrived at 60 Avery Road, he checked the exterior of the defendant‟s
+
+house looking for signs of a fire or explosion, and found none. He walked about 25 feet into the
+
+woods behind the house, to the site of a fire pit, and five to 10 feet out from the sides of the
+
+house. He determined that the exterior doors to the house were locked. He heard a hissing
+
+sound that concerned him given the reported explosion. Roussin, Plumpton, and Donovan
+
+arrived, in that order, shortly thereafter. Upon arrival, Roussin and Plumpton donned their
+
+firefighting gear. Donovan told Cunningham that he had asked the defendant if the explosion
+
+had happened inside or outside of the house and could not get a straight answer from him.
+
+       From the time of their respective arrivals at 60 Avery Road to the time they entered the
+
+residence, none of the four firefighters observed evidence of an explosion of any kind, a fire,
+
+smoke, or a propane tank as they walked around the perimeter of the residence. There was no
+
+evidence of damage to the house, and no sign of the presence of another person.
+
+       Upon his arrival, Plumpton observed a loose dog barking and a school bus, but no other
+
+vehicle, parked in the driveway. Donovan observed that the school bus did not appear to be
+
+registered or driveable. As Plumpton walked on the driveway, he observed an item that he
+
+described as a cigarette lighter lying on the ground. Roussin observed that the lighter was
+
+broken but did not appear to have exploded and that there was no blood or human tissue near it.
+
+Cunningham did not see the lighter. Plumpton observed containers filled with fireworks in the
+
+parked school bus.      Cunningham either noted or was informed about the presence of the
+
+fireworks in the bus.
+
+       Cunningham radioed Sanford Dispatch to request that an animal control officer be sent to
+
+contain the loose dog so that firefighters could secure the residence. See id. at 6. He also
+
+radioed Stevenson to verify that the defendant had stated that the explosion occurred inside the
+
+
+
+                                               7
+house. See id. Stevenson affirmed that he had. See id. Cunningham learned from Stevenson,
+
+Donovan, or both that the defendant had stated that a butane lighter had exploded in his hand.
+
+        The firefighters did not enter the house until an animal control officer had arrived and
+
+contained the loose dog, a process that took about 25 to 30 minutes from the time that
+
+Cunningham placed the call. There was no observable change in the exterior of the house or its
+
+surroundings during that time.
+
+        As Plumpton assisted the animal control officer, Cunningham, Roussin, and Donovan
+
+walked up onto a side porch of the house, and Donovan looked through a window into what
+
+appeared to be a living room. The window was open, albeit covered by a screen, and the wind
+
+was blowing the curtains.5 Donovan saw a trail of blood on the floor, starting at a door that he
+
+presumed led to the cellar. He had seen no blood on the porch or on the steps leading up to the
+
+porch. Upon peering into the window, he did not see or smell any signs of smoke or fire.
+
+Roussin and Cunningham also looked through the same window. Both observed blood on the
+
+floor. The blood drops appeared to Cunningham, Donovan, and Roussin to be consistent with
+
+the defendant‟s reported injuries.           Roussin also heard a hissing sound, which he told his
+
+companions he thought was running water.
+
+        Cunningham, who made the official decision to enter the house, considered it his
+
+obligation to do so to search for the source of the explosion. In a similar vein, Donovan testified
+
+
+5
+  On direct examination, Donovan described the curtains as not only partway open but also transparent. On cross-
+examination, he admitted that Defendant‟s Exhibit 12, a photograph of the interior of the defendant‟s living room
+that was admitted with the stipulation that it was taken considerably later the same day, depicts a dark curtain or
+window treatment covering the window at issue. However, he testified that the window either lacked that covering
+or that the covering was blowing in the wind in such a way as to permit a clear sight of the living room when he
+looked through the window. On cross-examination, Donovan, Roussin, and Cunningham all testified without
+hesitation or doubt that they were able to see into the house through the window in question and in fact saw blood
+drops on the floor. I am satisfied that, regardless of the exact nature of the window covering, it was sheer enough
+and/or the wind was blowing the covering in such a manner as to enable the firefighters to see the blood drops on the
+floor.
+
+
+                                                         8
+that firefighters decided to enter the house because it was apparent that the explosion had
+
+occurred there and because they had to ensure that there was no chance of further fire or
+
+explosion and that no one else was present on the premises.6 Roussin testified that firefighters
+
+went in mainly to see whether anyone else was hurt, whether there was a possibility of a
+
+secondary explosion, or whether there was a fire. Plumpton testified that, despite a lack of
+
+objective indicia at the site of any fire or explosion, he would not have been comfortable simply
+
+leaving without further investigation because, in view of the 911 report of a propane explosion
+
+and the defendant‟s serious injuries, some kind of explosion obviously had happened.
+
+        Donovan popped the screen from the frame of the open window, and Cunningham
+
+crawled through the window into the house and unlocked the door, through which Donovan,
+
+Roussin, and Plumpton, who by then had rejoined his colleagues, entered. There was no smell or
+
+sign of smoke or fire. Upon entering, Cunningham verified that the hissing noise was caused by
+
+water running from a bathroom faucet, which he turned off. Plumpton smelled a strong odor of
+
+marijuana. Roussin smelled a sweet smell and saw the glow of lighting in the cellar. Donovan
+
+called out to see if anyone else was in the house, and no one answered.
+
+        The firefighters followed the trail of blood from a bathroom to a cellar door and
+
+downstairs to the cellar, observing droplets of blood on the cellar steps as they descended. Upon
+
+reaching the bottom of the stairs, Cunningham, who was in the lead, turned and immediately
+
+observed a number of what appeared to be marijuana plants, together with growing equipment.
+
+There was no visible sign or smell of a fire in the cellar.
+
+        Cunningham instructed Roussin, who was bringing up the rear, to go out and obtain a
+
+camera from the fire engine, and Roussin did so. By the time Cunningham gave this direction,
+
+6
+ Donovan testified that he had asked the defendant, while in the ambulance, whether there was anyone else in the
+house and never got an answer.
+
+
+                                                       9
+he knew that there was no fire in the house and that no one else was present there. Cunningham
+
+advised the remaining firefighters to continue to search for the source of the explosion and not to
+
+touch the plants. Roussin returned with the camera and joined in the search. As Donovan
+
+searched, he stepped on an object on the floor that looked like an upside down hubcap. He
+
+picked it up and found what appeared to be three pipe bombs. While he was able to recognize
+
+the pipe bombs based on his training, neither he nor the other firefighters present was trained or
+
+experienced in handling or disarming bombs. Roussin took photographs of the plants and the
+
+apparent pipe bombs, and the firefighters departed the residence. They seized nothing from the
+
+cellar. Before leaving the house, where they had been for a total of no more than 10 minutes, the
+
+firefighters did not find the source of the reported explosion.
+
+       Using his cell phone to avoid a public broadcast, Cunningham called Sanford Dispatch
+
+and requested backup from a state trooper and the state fire marshal‟s office.
+
+Individuals from those agencies eventually arrived and toured the cellar. The state fire marshal‟s
+
+office investigator ordered the surrounding area evacuated and called an ambulance as backup
+
+prior to arranging for the disposal of the suspected pipe bombs.
+
+                            B. Evidence Relevant to Second Motion
+
+       At about 9:26 a.m. on June 25, 2010, Daniel Lee Young, an investigator for the state fire
+
+marshal‟s office and 25-year veteran of the Portland Police Department, received orders from
+
+one of his supervisors, Sergeant Ken Grimes, to travel to SMMC to investigate a subject injured
+
+in a propane explosion. When Young arrived at the SMMC emergency room at approximately
+
+10:30 a.m., he encountered another law enforcement officer waiting to interview the defendant,
+
+Maine Drug Enforcement Agency (“MDEA”) agent Paul Shaw. Both Young and Shaw were in
+
+plainclothes. Young had a visible badge on his belt, and both Young and Shaw were wearing
+
+
+
+                                                 10
+guns. Young interviewed the defendant at SMMC twice that day, conducting an initial interview
+
+that lasted about 26 minutes and a second interview that lasted about 21 minutes. At no point
+
+during either interview did Young read the defendant his rights pursuant to Miranda v. Arizona,
+
+384 U.S. 436 (1966).7
+
+        The first interview occurred at about 11:30 a.m., when Young and Shaw were shown into
+
+a treatment room in the emergency room in which the defendant was lying in a bed with his
+
+bandaged hand elevated.           Emergency room staff had completed an initial assessment and
+
+treatment and had administered morphine to the defendant to control his pain while he awaited
+
+hand surgery.
+
+        As Young and Shaw entered the room, Young turned on a tape recorder and informed the
+
+defendant that he was recording their conversation. The door to the treatment room was closed,
+
+although Young could not recall whether he or Shaw closed it or whether it was self-closing.
+
+Young stood at the foot of one side of the defendant‟s hospital bed, between the defendant and
+
+the door to the room, and Shaw primarily sat in a chair on the other side of the bed. Young‟s gun
+
+and badge, which were at hip level, would have been clearly visible to the defendant. Young did
+
+not recall any hospital personnel entering the room during the first interview. Grimes briefly
+
+entered the treatment room.
+
+        Throughout the first interview, the defendant was coherent, responsive, and did not
+
+appear impaired or otherwise under the influence of any substance. He was not handcuffed or
+
+restrained in any way, and neither Young nor Shaw touched him or otherwise restricted his
+
+movement in any way. The defendant noted at one point that his hand hurt, and he requested
+
+7
+  Pursuant to Miranda, an accused must be advised prior to custodial interrogation “that he has the right to remain
+silent, that anything he says can be used against him in a court of law, that he has the right to the presence of an
+attorney, and that if he cannot afford an attorney one will be appointed for him prior to any questioning if he so
+desires.” Miranda, 384 U.S. at 478-79.
+
+
+                                                        11
+additional morphine, but he lay quietly in bed and did not appear to Young or Shaw to be in
+
+anguishing pain. After introducing himself and Shaw, Young told the defendant:
+
+       This is your voluntary statement. You don‟t have to give it to me, you don‟t have
+       to talk to me if you don‟t want to. You‟re in a hospital bed. Obviously you can‟t
+       leave. You have some serious hand injuries. So, we‟re giving you the
+       opportunity to talk with us if you want. There‟s a couple things I want to ask you
+       about. . . . Ok, and again this is all voluntary. You‟re not in custody. You‟re not
+       under arrest at this point. Ok. But I need to know a couple of things.
+
+Transcription re: Robert Infante interview w/Danny Young, State Fire Marshal‟s Office (“Young
+
+Interview Transcript”), Dft‟s Exh. 5, at 1. He began asking the defendant questions about a
+
+wired battery that had been observed in the back seat of his car in the SMMC parking lot, raising
+
+sufficient concern to cause the parking lot to have been secured, and sought consent to search the
+
+defendant‟s car. See id. at 1-2. He explained that officers were concerned about the battery
+
+because, among other things, of some things found in the defendant‟s home. See id. at 2. The
+
+defendant asked why and how police got into his house, but gave his consent to search the car.
+
+See id. He denied knowledge of the whereabouts of his car keys. See id. Young asked some
+
+additional questions about the battery and the car, and the following conversation ensued:
+
+       Y[oung:]       . . . [D]o you want to tell us at all, again, totally voluntary, at this
+                      point you‟re not under arrest, you‟re not in custody.
+
+       I[nfante:]     Well you‟ve already raided the hell out of the house, what‟s the
+                      sense of talking to you?
+
+       Y[oung:]       I want to ask, well because.
+
+       Sgt Ken Grimes[:]      Two sides to every story.
+
+       Y[oung:]       Exactly. You‟ve got an injury to your hand obviously. We have to
+                      investigate that. If you want to. This is your chance to be honest
+                      with us and to talk to us about it. You don‟t have to obviously,
+                      voluntary. But, if you‟d like to, we‟d love very much to hear from
+                      you.
+
+       I[nfante:]     Well, since you‟ve already been in my house,
+
+                                                12
+        Y[oung:]         Yeah
+
+        I[nfante:]       I may as well just plead the 5th and go for a lawyer.
+
+        Y[oung:]         Ok. Very good.8
+
+        G[rimes:]        Do you have a second?
+
+        S[haw:]          I do.9
+
+        Y[oung:]         That will be fine. And that‟s totally your. But apparently, and I
+                         don‟t know, I wasn‟t at the scene, I was sent directly here to talk to
+                         you. But apparently um,
+
+        I[nfante:]       I‟ll take it that you guys are going to charge me now.
+
+        Y[oung:]         Well, ATF [the Bureau of Alcohol, Tobacco, Firearms and
+                         Explosives] is on the way down as well as the bomb squad, and
+                         umm, and MDEA obviously for marijuana plants.
+
+        I[nfante:]       I‟d just like to know how the hell you guys get into my house.
+
+        Y[oung:]         Well, I think what happens is, the fire department goes in under
+                         what they call exigent circumstances because of some kind of
+                         explosion or something that occurred which they have every right
+                         to do. And when they make observations when they‟re in there
+                         doing that, and then they call the appropriate authorities, which is
+                         us. So that‟s how we get into your house. **** wants a lawyer.
+
+        I[nfante:]       I mean, what else is there to say?
+
+        Y[oung:]         Sir, let me explain this to you. Ok. You‟ve been through this
+                         twice before from what I‟m understanding.10 All I‟m saying to you
+                         is this. I‟m here and I need to find out what happened. You‟ve
+                         already asked for an attorney, I can‟t talk to you any further unless
+                         you revoke that, and say you want to explain things to me.
+
+        I[nfante:]       What is there to explain? Well we‟ve still got the tape recorder
+                         going[.]
+
+
+8
+  Young, who made notes during the interview, wrote: “Pled 5th[.] Wants a lawyer 11:36[.]” Dft‟s Exh. 27.
+9
+  Shaw left the treatment room briefly with Grimes, closing the door behind him. He reentered the treatment room
+shortly thereafter.
+10
+   On cross-examination, Young agreed that this was a reference to the defendant‟s prior criminal history.
+
+
+                                                      13
+        Y[oung:]        Absolutely. I will not take that off.
+
+        I[nfante:]      There‟s nothing to explain.
+
+        Y[oung:]        Well, we understand there may be some bomb making, some pipe
+                        bomb making material in there, as well as marijuana plants. My,
+                        my question to you is if you‟re able to, so *** you can‟t talk to me,
+                        I can‟t elicit any responses from you unless you take that back.
+                        But if you wish to do it, I‟ll stand here and listen to you. But I
+                        guess what I‟m trying to do is, what the heck‟s going on, and how
+                        did you do that. That‟s where I have to write my report as to how
+                        you damaged your hand. If you don‟t want to tell me fine. You‟ve
+                        already asked for an attorney.
+
+        I[nfante:]      OK. How I did this?
+
+        Y[oung:]        First of all, let me explain something. Do you wish to talk to me
+                        now, without
+
+        I[nfante:]      Yeah, I‟ll talk to you.
+
+        Y[oung:]        And waive the right to an attorney.
+
+        I[nfante:]      I may as well give the information that you‟re looking for.
+
+Id. at 4-6. Later in the interview, after Young began to ask the defendant about pipe bomb
+
+materials that might be present in his home, the defendant asked: “[I]s there any way I can have a
+
+cigarette real quick?” Id. at 11. Young replied, “Not in here because they have oxygen.” Id.
+
+Shaw added: “I don‟t even think right on hospital property you can anymore.” Id.
+
+        The first interview concluded at about 11:54 a.m., after the defendant asked for more
+
+medications for his hand. See id. at 18. Young turned off the recorder, then went outside to
+
+meet with Grimes and a Maine State Police bomb squad specialist with respect to the defendant‟s
+
+car. The defendant invited Shaw back into the room, and the two engaged in small talk. Shaw
+
+left either before or shortly after the start of the second interview.
+
+        At about 1:06 p.m., Young returned to the defendant‟s treatment room, again activating
+
+his tape recorder. He asked the defendant if he would permit investigators to take custody of his
+
+                                                  14
+clothing, which a nurse was about to remove, stating: “Well, you have the right not to, I mean,
+
+like I said, you‟re not under arrest. You‟re not, right now, I‟m sure at some point you probably
+
+will be. But right now you‟re not under arrest, you‟re not in custody. Our main focus right now
+
+is you getting your hand fixed. Ok. So that‟s why.” Id. at 19. The defendant agreed to give
+
+Young his clothes. See id. Young phoned investigator Ken McMaster, who was out in the
+
+parking lot, and McMaster, who also was in plainclothes, came to the treatment room to collect
+
+the clothes. At one point, Young asked the defendant how he was feeling, and the defendant said
+
+that he was thirsty and wanted ice chips with water. See id. at 22-23. Young called the request
+
+to the attention of a nurse, who discussed it with the defendant. See id. at 26.11
+
+            Young observed no change in the defendant during the second interview. Again, Young
+
+did not touch the defendant or restrain his freedom of movement in any way. Hospital personnel
+
+came and went during the interview. The second interview ended at 1:27 p.m.
+
+            The hospital posted a security guard in the hallway across from the defendant‟s treatment
+
+room. However, Young did not ask that the security guard be there, and the guard was not
+
+visible from the defendant‟s hospital bed. A uniformed Biddeford police officer was stationed
+
+outside in the parking lot. However, the parking lot was not visible from the defendant‟s
+
+treatment room. At no point during the interviews did the defendant ask Young, Shaw, or any
+
+other law enforcement officer to leave the room. At a few points during both the first and second
+
+interviews, the defendant joked with investigators. See, e.g., id. at 8, 19, 25-26.
+
+            Medical records reflect that the defendant was administered morphine injections at 9:51
+
+a.m., 10:12 a.m., and 12:47 p.m. and a lidocaine injection at 10:10 a.m. See Dft‟s Exh. 6 at 166.
+
+The defendant underwent surgery from approximately 2:22 p.m. to 3:45 p.m. See id. at 174. A
+
+
+11
+     The nurse is identified in the transcript as “HS,” or Hospital Staffer.
+
+
+                                                              15
+doctor who assessed the defendant in the emergency room noted that he was alert and oriented.
+
+See id. at 153.
+
+         Although the defendant told Young during the initial interview that he did not know
+
+where his keys were, investigators eventually found the keys underneath a bush near the
+
+Emergency Department entrance. An SMMC video shows the defendant hiding his keys in the
+
+bushes just prior to entering the hospital.
+
+                                                  II. Discussion
+
+                                                 A. First Motion
+
+         In his first motion to suppress, the defendant challenges the lawfulness of firefighters‟
+
+initial warrantless entry into his residence on June 25, 2010, seeking to suppress not only
+
+observations made and photographs taken at that time but also, as fruit of the poisonous tree,
+
+evidence seized in subsequent searches of his home and vehicle. See First Motion at 1.12
+
+         The government does not dispute that Fourth Amendment protection pertains to
+
+firefighters‟ as well as police officers‟ warrantless entries of homes.                         See Government‟s
+
+Objection to Defendant‟s First Motion to Suppress Evidence (“Objection/First Motion”) (Docket
+
+No. 28) at 4-8; see also, e.g., Michigan v. Tyler, 436 U.S. 499, 506 (1978) (“[T]here is no
+
+diminution in a person‟s reasonable expectation of privacy nor in the protection of the Fourth
+
+Amendment simply because the official conducting the search wears the uniform of a firefighter
+
+rather than a policeman, or because his purpose is to ascertain the cause of a fire rather than to
+
+look for evidence of a crime[.]”).
+
+12
+  “Under the „fruit of the poisonous tree‟ doctrine, all evidence derived from the exploitation of an illegal search or
+seizure must be suppressed, unless the Government shows that there was a break in the chain of events sufficient to
+refute the inference that the evidence was a product of the Fourth Amendment violation.” United States v. Rivas,
+157 F.3d 364, 368 (5th Cir. 1998). During the defendant‟s hearing, his counsel clarified that the First Motion rises
+and falls on the lawfulness of firefighters‟ initial entry. The defendant does not challenge, other than as fruit of the
+poisonous tree of the initial entry, later entries of his residence, including entries by the state trooper and the fire
+marshal investigator.
+
+
+                                                          16
+       The government bears the burden of demonstrating the validity of a warrantless search or
+
+seizure. See, e.g., United States v. Longmire, 761 F.2d 411, 417 (7th Cir. 1985) (“The general
+
+federal rule on who bears the burden of proof with respect to an allegedly illegal search or
+
+seizure is based upon the warrant-no warrant dichotomy: If the search or seizure was effected
+
+pursuant to a warrant, the defendant bears the burden of proving its illegality; if the police acted
+
+without a warrant, the prosecution bears the burden of establishing legality.”).
+
+       To meet that burden in this case, the government invokes the so-called “emergency
+
+doctrine” exception to the warrant requirement, a subcategory of the larger doctrine of “exigent
+
+circumstances.” See Objection/First Motion at 4-5; see also, e.g., United States v. Beaudoin, 362
+
+F.3d 60, 66 (1st Cir. 2004), vacated and remanded on other grounds sub nom. Champagne v.
+
+United States, 534 U.S. 1102 (2005) (“[W]arrantless entries are most often justified by „exigent
+
+circumstances,‟ the best examples being hot pursuit of a felon, imminent destruction or removal
+
+of evidence, the threatened escape by a suspect, or imminent threat to the life or safety of the
+
+public, police officers, or a person in residence.”) (citation, internal quotation marks, and
+
+emphasis omitted).
+
+       In this circuit, the test for determining exigent circumstances “is whether there is such a
+
+compelling necessity for immediate action as will not brook the delay of obtaining a warrant.”
+
+United States v. Almonte, 952 F.2d 20, 22 (1st Cir. 1991) (citation and internal quotation marks
+
+omitted). For example, “[a]n officer‟s reasonable belief that the delay needed to obtain a
+
+warrant would pose a threat to police or the public safety is sufficient to create exigent
+
+circumstances.” Fletcher v. Town of Clinton, 196 F.3d 41, 49 (1st Cir. 1999) (citation and
+
+internal quotation marks omitted) (emphasis in original).
+
+
+
+
+                                                17
+       The “standard of reasonableness is comparatively generous to the police in cases where
+
+potential danger, emergency conditions or other exigent circumstances are present.” Id. (citation
+
+and internal quotation marks omitted). Analysis of exigent circumstances is fact intensive; after
+
+all, the “exceptions – by their very nature – turn upon the objective reasonableness of ad hoc,
+
+fact-specific assessments contemporaneously made by government agents in light of the
+
+developing circumstances at the scene[.]” McCabe v. Life-Line Ambulance Serv., Inc., 77 F.3d
+
+540, 545 (1st Cir. 1996).
+
+       “Generally, under the emergency doctrine, there must be a reasonable basis, sometimes
+
+said to be approximating probable cause, both to believe in the existence of the emergency and to
+
+associate that emergency with the area or place to be searched.” Beaudoin, 362 F.3d at 66
+
+(footnote omitted). “The analysis must be with reference to the circumstances confronting the
+
+officer, including, as one commentator has put it, the need for a prompt assessment of sometimes
+
+ambiguous information concerning potentially serious consequences.” Id. (citations and internal
+
+quotation marks omitted).
+
+       At hearing, counsel for the government argued that firefighters lawfully entered the
+
+defendant‟s residence to determine the source of the original explosion and to satisfy themselves
+
+that there was no danger of a secondary explosion. She identified, inter alia, the following as
+
+objective facts reasonably known to the four firefighters present at 60 Avery Road before they
+
+made their initial entry:
+
+       1.      That the defendant had called 911, suggesting the existence of an emergency;
+
+       2.      That the defendant reported a propane explosion and significant personal injury, a
+
+finger amputation;
+
+
+
+
+                                               18
+       3.      That the defendant refused treatment from Stevenson and told a different story as
+
+to the source of his injuries, stating that they were caused by the explosion of a butane lighter,
+
+raising suspicion and concern as to what might be going on at his residence;
+
+       4.      That the defendant reported to Stevenson, and Stevenson relayed to Cunningham,
+
+that the explosion occurred within the residence;
+
+       5.      That there was no obvious sign of an explosion, smoke, debris, or blood outside
+
+the residence, warranting entry of the residence to determine the source;
+
+       6.      That officers heard a hissing noise coming from inside the residence, which may
+
+or may not have been running water, and, if running water, might have been left on by a person
+
+remaining in the residence but incapacitated; and
+
+       7.      That firefighters observed a visible blood trail upon peering through the window,
+
+reinforcing the belief that the source of the explosion and injury would be found inside.
+
+       She reasoned that, in these circumstances, it would have been irresponsible of the
+
+firefighters not to enter the house to determine the source of the explosion that caused the
+
+defendant‟s obvious injuries and that, therefore, exigent circumstances justified entry without a
+
+warrant. She analogized the instant case to United States v. Finnigin, 113 F.3d 1182 (10th Cir.
+
+1997), in which the court rejected a defendant‟s assertion that firefighters unlawfully entered his
+
+home after he had extinguished a fire, ending any exigency. See Finnigin, 113 F.3d at 1185
+
+(“[T]he Supreme Court in Tyler rejected the notion that the exigency justifying a warrantless
+
+entry to fight a fire ends with the dousing of the last flame. . . . Fire officials are charged not
+
+only with extinguishing fires, but with finding their causes. Prompt determination of the fire‟s
+
+origin may be necessary to prevent its recurrence[.] For this reason, fire officials need no
+
+
+
+
+                                                19
+warrant to enter and remain in a building for a reasonable time to investigate the cause of a blaze
+
+after it has been extinguished.”) (citations and internal quotation marks omitted).
+
+        In rebuttal, defense counsel argued that:
+
+        1.     The emergency doctrine does not dispense with the necessity to establish probable
+
+cause, albeit probable cause as to the existence of the emergency rather than of the commission
+
+of a crime, a proposition for which he cited Judge Lipez‟s dissent in Beaudoin. See Beaudoin,
+
+362 F.3d at 80 (“Whether articulated as a reasonable belief or a probability, the probable cause
+
+element of the emergency doctrine requires the same heightened standard that applies to other
+
+warrantless searches and seizures in a private residence where the object of the search and
+
+seizure is criminal activity. However, under the emergency doctrine, the separate elements of
+
+exigent circumstances and probable cause come together. In other words, probable cause in the
+
+emergency context focuses on the threat to an individual‟s life or safety – that is, on the exigency
+
+itself. Unless the objective basis for suspicion of an emergency rises to the level of probable
+
+cause, a warrantless residential search or seizure violates the Fourth Amendment.”) (Lipez, J.,
+
+dissenting).
+
+        2.     The only emergencies cognizable under the emergency doctrine are threats to
+
+public safety, police safety, or the safety of an individual in a residence, not emergencies
+
+implicating potential property damage, a proposition for which he cited both Judge Lipez‟s
+
+dissent in Beaudoin and the First Circuit‟s listing of examples of exigent circumstances, see, e.g.,
+
+id. at 66.
+
+        He contended that the government fell short of meeting these standards in view of:
+
+
+
+
+                                                    20
+         1.    The lack of any objective indicia at the defendant‟s home of the presence of an
+
+explosion or fire, the hissing noise having been observed by Roussin to be the sound of running
+
+water;
+
+         2.    The lack of any objective reason to believe that anyone was in the defendant‟s
+
+house, given the Sanford Dispatch report that the defendant had been alone, the firefighters‟
+
+knowledge that the defendant had driven himself to SMMC, and the lack of any driveable
+
+vehicle parked in his driveway;
+
+         3.    The lack of any evidence as to the proximity of neighbors‟ homes, coupled with
+
+the evidence that Avery Road was in a rural area with few houses;
+
+         4.    Conflicting evidence as to whether the explosion occurred inside or outside the
+
+residence, with the defendant not having specified the location during the 911 call and having
+
+given Donovan an equivocal response;
+
+         5.    The firefighters‟ failure to rule out other obvious possible sites of the explosion,
+
+including the parked school bus containing fireworks or wooded areas beyond those searched by
+
+Cunningham;
+
+         6.    The lack of any evidence as to the likelihood of a secondary fire or explosion in
+
+either of the possible scenarios of which firefighters were aware: that the defendant‟s injuries had
+
+been caused by a small propane tank explosion or had been caused by a butane lighter explosion;
+
+and
+
+         7.    The consistency of the blood droplets with the defendant‟s injuries, suggesting
+
+that no one else was present in the home and that there was no ongoing emergency, the defendant
+
+having driven himself to SMMC.
+
+
+
+
+                                                21
+       Defense counsel distinguished Finnigin on grounds that, in that case, there had been a
+
+visible fire and, therefore, evidence of an ongoing process, whereas, in this case, there was none.
+
+He reasoned that whereas, in Finnigin, the existence of an ongoing process justified firefighters
+
+in entering the suspect‟s house to ensure that the process (the fire) had been extinguished, in this
+
+case, firefighters only speculated, in the face of a lack of objective evidence, that any such
+
+process had transpired or was continuing to transpire in the defendant‟s house.
+
+       The defendant construes First Circuit caselaw too narrowly in arguing that the emergency
+
+doctrine in no circumstance encompasses threats to property. The First Circuit itself has clarified
+
+that its list of examples of exigent circumstances “is not an exclusive compendium[.]” United
+
+States v. Martins, 413 F.3d 139, 146-47 (1st Cir. 2005). It has recognized that, pursuant to the
+
+emergency doctrine, “the police, in an emergency situation, may enter a residence without a
+
+warrant if they reasonably believe that swift action is required to safeguard life or prevent
+
+serious harm.”    Id. (emphasis added).     Other United States circuit courts of appeals have
+
+expressly recognized that, pursuant to the emergency doctrine, the prevention of destruction to
+
+property can justify warrantless entry of a residence. See, e.g., Hunsberger v. Wood, 570 F.3d
+
+546, 555 (4th Cir. 2009) (emergency-doctrine inquiry is whether circumstances known to officer
+
+“would create an objectively reasonable belief that an emergency existed that required immediate
+
+entry to render assistance or prevent harm to persons or property within”) (citations and internal
+
+quotation marks omitted); Sheik-Abdi v. McClellan, 37 F.3d 1240, 1244 (7th Cir. 1994) (same).
+
+See also, e.g., United States v. Lawlor, 324 F. Supp.2d 81, 86 (D. Me. 2004) (“[W]hen
+
+policemen, firemen or other public officers are confronted with evidence which would lead a
+
+prudent and reasonable official to see a need to protect life or property, they are authorized to act
+
+
+
+
+                                                 22
+on that information, even if ultimately found erroneous.”) (citation and internal punctuation
+
+omitted).
+
+       More importantly, the Supreme Court has recognized that, with respect to the firefighting
+
+function in particular, the need to enter a burning building and to remain for a reasonable period
+
+of time thereafter to determine the cause of the blaze on its face presents an exigency of
+
+sufficient proportions to justify warrantless entry. See, e.g., Michigan v. Clifford, 464 U.S. 287,
+
+293 (1984) (“A burning building of course creates an exigency that justifies a warrantless entry
+
+by fire officials to fight the blaze. Moreover, in Tyler we held that once in the building, officials
+
+need no warrant to remain for a reasonable time to investigate the cause of the blaze after it has
+
+been extinguished. . . . The aftermath of a fire often presents exigencies that will not tolerate the
+
+delay necessary to obtain a warrant or to secure the owner‟s consent to inspect fire-damaged
+
+premises. Because determining the cause and origin of a fire serves a compelling public interest,
+
+the warrant requirement does not apply in such cases.”) (citation, footnotes, and internal
+
+quotation marks omitted). In so holding, the Court did not deem it necessary to parse whether
+
+the danger posed was to persons, property, or both.
+
+       Of course, in this case, as defense counsel repeatedly emphasized, the defendant‟s house
+
+was not ablaze.    Indeed, firefighters found no indicia whatsoever of an explosion or fire.
+
+Nonetheless, I conclude that the government has met its burden of demonstrating that there was
+
+“a reasonable basis, . . . approximating probable cause, both to believe in the existence of [an]
+
+emergency and to associate that emergency with the area or place to be searched.” Beaudoin,
+
+362 F.3d at 66 (footnote omitted).
+
+       The First Circuit has observed:
+
+       Probable cause exists when [firefighters], relying on reasonably trustworthy facts
+       and circumstances, have information upon which a reasonably prudent person
+
+                                                 23
+       would believe [that an emergency exists and is associated with the area or place to
+       be searched]. The inquiry into probable cause focuses on what the [firefighter]
+       knew at the time of the [entry], and should evaluate the totality of the
+       circumstances. Probable cause is a common sense, nontechnical conception that
+       deals with the factual and practical considerations of everyday life on which
+       reasonable and prudent men, not legal technicians, act.
+
+United States v. Vongkaysone, 434 F.3d 68, 73-74 (1st Cir. 2006) (citations and internal
+
+punctuation omitted). A determination need not be “ironclad” or even “highly probable” to
+
+satisfy the standard of probable cause; it need only have been “reasonable.” United States v.
+
+Winchenbach, 197 F.3d 548, 555-56 (1st Cir. 1999); see also, e.g., Roche v. John Hancock Mut.
+
+Life Ins. Co., 81 F.3d 249, 255 (1st Cir. 1996) (“[O]ne who asserts the existence of probable
+
+cause is not a guarantor either of the accuracy of the information upon which he has reasonably
+
+relied or of the ultimate conclusion that he reasonably drew therefrom.”).
+
+       In the circumstances presented, firefighters were not obliged to rule out every possible
+
+locale of the explosion that injured the defendant before inferring that it had occurred inside his
+
+house. The defendant‟s self-reports of an explosion, his obvious and serious injuries consistent
+
+with an explosion, his report to Stevenson, conveyed to Cunningham, that the explosion had
+
+occurred inside his house, the lack of any sign of an explosion outside of his house, the sound of
+
+hissing that probably, but not necessarily, was the sound of running water, and firefighters‟
+
+sighting through the window of a blood trail inside consistent with the occurrence of the
+
+defendant‟s injuries therein, collectively sufficed to convey probable cause that there had been
+
+some kind of an explosion and that it had occurred within the house.
+
+       In the circumstances, firefighters reasonably perceived an emergency – an urgent need to
+
+enter the house to determine the origin of the explosion and to satisfy themselves that it
+
+presented no further danger, whether to persons or property. That there was no detectable sign of
+
+an ongoing process (for example, smoke or other damage) did not obviate the need for
+
+                                                24
+examination, the firefighters having possessed probable cause to believe that an explosion
+
+recently had occurred within. See, e.g., United States v. Klump, 536 F.3d 113, 118 (2d Cir.
+
+2008) (despite absence of smoke or flames, firefighters reasonably made warrantless entry of
+
+warehouse to investigate cause of odor that fire chief believed indicated something burning;
+
+“Nothing in the Fourth Amendment required them to wait until they saw actual smoke or flames
+
+to enter a building that they reasonably believed might be on fire.”); Finnigin, 113 F.3d at 1185
+
+(“The firefighters had an obligation to make sure the fire no longer presented a danger to the
+
+trailer and to the surrounding residences, and were not required to rely on Mr. Finnigin‟s
+
+obscenity-laced assertions that the fire was out.”).
+
+         In short, Cunningham and the three volunteer firefighters who responded to the call for
+
+aid confronted “the need for a prompt assessment of sometimes ambiguous information
+
+concerning potentially serious consequences.” Beaudoin, 362 F.3d at 66 (citations and internal
+
+quotation marks omitted). They need not have been certain that such consequences existed to
+
+justify their warrantless entry; indeed, they could not rule out their existence unless they
+
+entered.13
+
+         The First Motion accordingly should be denied.
+
+                                               B. Second Motion
+
+         By way of his second motion, the defendant seeks to suppress statements made during the
+
+course of interviews conducted principally by Young at SMMC on June 25, 2010, on grounds
+
+that (i) he was subjected to custodial interrogation without benefit of Miranda warnings and
+
+13
+   The defendant cites United States v. Struckman, 603 F.3d 731, 744 (9th Cir. 2010), for the proposition that
+conjecture about what may or might have happened is insufficient to satisfy the government‟s heavy burden of
+proving exigent circumstances. See Replies to Government Responses to Defendant‟s Motions To Suppress
+(“Replies”) (Docket No. 35) at 2. In Struckman, the government relied heavily, in attempting to show exigent
+circumstances, on an officer‟s testimony that once a suspect shed his jacket, he believed that the suspect intended to
+flee or fight the officers. See Struckman, 603 F.3d at 744. In this case, firefighters reasonably deduced, from
+objective facts, that an explosion had occurred in the defendant‟s home.
+
+
+                                                         25
+(ii) investigators failed to heed his unambiguous invocation of his Fifth Amendment right to
+
+remain silent and his Sixth Amendment right to counsel, continuing to question him after he
+
+invoked those rights. See Second Motion at 1. He also seeks to suppress evidence seized as a
+
+result of his purported consent to the search of his vehicle as fruit of the poisonous tree of the
+
+unlawful questioning. See id. at 1-2.
+
+        The government, which bears the burden of proving Miranda compliance, see, e.g.,
+
+United States v. Barone, 968 F.2d 1378, 1384 (1st Cir. 1992), rejoins, inter alia, that the
+
+defendant never was in custody during the interviews in question, as a result of which no
+
+Miranda warnings were required and his purported invocation of his rights to remain silent and
+
+to counsel were inapposite, see Government‟s Objection to Defendant‟s Second Motion to
+
+Suppress Evidence (“Objection/Second Motion”) (Docket No. 29) at 7-9. This argument is
+
+persuasive.14
+
+        The obligation of an officer to administer Miranda warnings attaches “only where there
+
+has been such a restriction on a person‟s freedom as to render him „in custody.‟” Stansbury v.
+
+California, 511 U.S. 318, 322 (1994) (citations and internal quotation marks omitted). Whether
+
+a person can be considered to have been in custody depends on all of the circumstances
+
+surrounding the interrogation, but “the ultimate inquiry is simply whether there [was] a „formal
+
+arrest or restraint on freedom of movement‟ of the degree associated with a formal arrest.” Id.
+
+(citation omitted).
+
+        “[T]he initial determination of custody depends on the objective circumstances of the
+
+interrogation, not on the subjective views harbored by either the interrogating officers or the
+
+14
+  The government alternatively argued, both in its papers and at hearing, that the defendant‟s purported invocation
+of his rights was ambiguous and, hence, ineffectual and that, even if it were unambiguous, Young appropriately did
+not continue questioning until the defendant clearly waived his invocation of those rights. See, e.g.,
+Objection/Second Motion at 10-14. I need not and do not reach these alternative grounds for denial of the motion.
+
+
+                                                        26
+person being questioned.” Id. at 323. See also United States v. Quinn, 815 F.2d 153, 157 (1st
+
+Cir. 1987) (relevant inquiry “is how a reasonable man in the suspect‟s position would have
+
+understood his situation”) (citation and internal quotation marks omitted). “Among the factors to
+
+consider” in making a Miranda custody determination “are whether the suspect was questioned
+
+in familiar or at least neutral surroundings, the number of law enforcement officers present at the
+
+scene, the degree of physical restraint placed upon the suspect, and the duration and character of
+
+the interrogation.” United States v. Nishnianidze, 342 F.3d 6, 13 (1st Cir. 2003) (citation and
+
+internal quotation marks omitted).
+
+       As counsel for the government noted during the hearing, this court has at least twice had
+
+occasion to consider whether a hospitalized suspect was “in custody” for Miranda purposes. In
+
+United States v. Nanos, No. 06-52-P-H, 2006 WL 3469633 (D. Me. Nov. 30, 2006) (rec. dec.,
+
+aff’d Dec. 20, 2006), the court found it significant, in holding a police officer‟s initial interview
+
+of a hospitalized suspect non-custodial, that the officer (i) never told the suspect or implied to
+
+him that he was under arrest, but rather simply announced that he wanted to ask him questions
+
+about the suspect‟s own report of a dog attack, (ii) never touched the suspect, otherwise
+
+restricted his freedom of movement, or conveyed by display of weaponry or voice commands
+
+that the suspect was not free to leave, (iii) came alone to the hospital and stayed less than an
+
+hour, and (iv) separated the suspect‟s girlfriend from him only when the suspect and the
+
+girlfriend became irritated with each other, impeding the progress of the interview, and permitted
+
+the girlfriend to rejoin them when the suspect asked for her. See Nanos, 2006 WL 3469633, at
+
+*9.
+
+       In United States v. Turcotte, No. CRIM.01-74-B-S, 2002 WL 265108 (D. Me. Feb. 22,
+
+2002) (rec. dec., aff’d Mar. 18, 2002), the court found two emergency-room interviews of a
+
+
+
+                                                 27
+defendant whose hand had been injured in a pipe bomb explosion non-custodial in circumstances
+
+in which (i) the defendant was noted to be calm, collected, and oriented to time, place, and
+
+person and to show no signs of impairment from an administration of morphine, (ii) the
+
+defendant initially was interviewed in an examination area for 15 to 20 minutes by an officer in
+
+plainclothes, accompanied by a uniformed officer, in circumstances in which doors and curtains
+
+to the room remained open and medical staff continued to move throughout the area, and (iii) the
+
+defendant was interviewed 20 minutes later in the same setting for approximately five minutes
+
+by a state fire marshal‟s office investigator, accompanied by the initial investigating police
+
+officer. See Turcotte, 2002 WL 265108, at *1-*2. The court concluded:
+
+       The circumstances surrounding [the defendant‟s] interrogation were benign. . . .
+       The interview took place under circumstances, discussed above, best described as
+       nonthreatening and noninvasive. None of the police officers suggested at any
+       point in time that [the defendant‟s] freedom would be restrained in any fashion.
+       Medical personnel were freely coming and going during the course of both police
+       interviews. As the government notes, the hospital was a neutral setting, over
+       which the police exercised no control.
+
+Id. at *4 (internal punctuation omitted).
+
+       At hearing, counsel for the government posited that the instant case is materially
+
+indistinguishable given that the defendant was coherent and responsive to questions, did not
+
+appear to be under the influence or impaired, and was never arrested, handcuffed, or restrained.
+
+Defense counsel rejoined that:
+
+       1.      The defendant was not free to leave, whether because of police conduct or the
+
+necessity of immediate surgery. At the start of the first interview, Young underscored this fact to
+
+him.
+
+       2.      The defendant understood, and a reasonable person in his shoes would have
+
+understood, that he was about to be charged with crimes, given (i) Young‟s revelations that
+
+
+
+                                                28
+investigators had found marijuana and pipe bombs in his home, were sufficiently concerned
+
+about a suspicious battery in his car to secure the SMMC parking lot, and were aware of his
+
+criminal history and (ii) the presence in his room of two armed specialized agents, one from the
+
+fire marshal‟s office and one from the MDEA.
+
+        3.       Young stood between the defendant and the door, which was closed.
+
+        4.       Young exercised control by refusing to turn off the tape recorder.
+
+        5.       The defendant at one point asked the officers if he could have a cigarette and at
+
+another point if he could have a drink of water, suggesting that he viewed them as in control of
+
+the scene.
+
+        6.       The officers took the defendant‟s clothes, reinforcing the notion that he was not
+
+free to leave.
+
+        The government has the better argument. Young expressly stated, and repeated during
+
+both interviews, that the interview was voluntary, that the defendant did not have to talk to him,
+
+and that the defendant was not under arrest or in custody. Consistent with those statements,
+
+neither Young, Shaw, nor the two other law enforcement officers who were briefly present in the
+
+defendant‟s treatment room, Grimes and McMaster, handcuffed him, restrained his movement in
+
+any way, or controlled his environment. Young and Shaw were in plainclothes. While their
+
+guns would have been visible, they did not brandish them. Nor did they impede hospital
+
+personnel from coming and going freely.          Indeed, a nurse was present during the second
+
+interview. The interviews were relatively short, lasting 26 minutes and 21 minutes, respectively.
+
+While, during the second interview, Young arranged for McMaster to collect the defendant‟s
+
+clothes, he did so only after seeking and obtaining the defendant‟s permission to do so.
+
+Compare, e.g., Nanos, 2006 WL 3469633, at *10 (hospitalized suspect found to have been “in
+
+
+
+                                                 29
+custody” after officer had stripped him of his clothing without his consent, searched him for
+
+weapons, told him not to leave his room, and denied him contact with his girlfriend).
+
+       That the defendant understood that he would be charged with crimes, as would any
+
+reasonable person in his shoes, did not transform the interviews themselves into custodial
+
+interrogations. He had expressly been informed that he was not then in custody or under arrest
+
+and did not have to talk with investigators. While he was not free to leave the treatment room
+
+because of his serious injuries and imminent surgery, he could have chosen to send investigators
+
+away or otherwise refuse to talk to them. That he understood this is plain: shortly into the first
+
+interview, he did state that he might as well plead the Fifth Amendment and ask for an attorney.
+
+       While it is true that the defendant at one point asked Young and Shaw whether he could
+
+smoke a cigarette, no one else evidently was in the room at that time. Young and Shaw‟s
+
+responses indicated that they did not believe smoking was permissible at the hospital, not that
+
+they independently exercised authority over whether the defendant could smoke. Young merely
+
+conveyed the defendant‟s request for water and ice chips to a nurse, who fielded the inquiry.
+
+       In the circumstances, any inference of custody flowing from the closing of the treatment
+
+room door and/or Young‟s positioning between the defendant and the door during the first
+
+interview was effectively neutralized.
+
+       Finally, it is significant that, as in Turcotte, despite the defendant‟s pain and/or
+
+discomfort and the administration of morphine and lidocaine, he was at all relevant times
+
+coherent and responsive and showed no signs of mental impairment. Indeed, he was able at
+
+times to laugh and joke with investigators, was savvy enough to lie to them concerning the
+
+whereabouts of his car keys, and felt comfortable enough with them to invite Shaw to remain in
+
+his room in the interval between interviews.
+
+
+
+                                               30
+        The defendant was not, at any point, “in custody” during the first or second interviews.15
+
+        As the government suggests, see Objection/Second Motion at 7-9, this is dispositive not
+
+only of his claim concerning the failure to administer Miranda warnings but also of his assertion
+
+that officers failed to honor his unambiguous invocation of his rights to remain silent and to have
+
+counsel present, see, e.g., McNeil v. Wisconsin, 501 U.S. 171, 182 n.3 (1991) (“We have in fact
+
+never held that a person can invoke his Miranda rights anticipatorily, in a context other than
+
+„custodial interrogation[.]‟”); United States v. Ellison, No. 09-1234, 2010 WL 1493847, at *3
+
+(1st Cir. Apr. 15, 2010) (“[E]ven if Ellison had clearly expressed a desire to speak with a lawyer,
+
+he could not have invoked any constitutional right to do that in a non-custodial interrogation
+
+conducted before he was formally charged.”); United States v. Vega-Figueroa, 234 F.3d 744,
+
+749 (1st Cir. 2000) (“In order for Miranda rights to be invoked, there must be (1) custody and
+
+(2) interrogation.”).
+
+        The Second Motion accordingly should be denied.
+
+                                                III. Conclusion
+
+        For the foregoing reasons, I recommend that both of the defendant‟s motions to suppress
+
+be DENIED.
+
+
+
+                                                    NOTICE
+
+
+      A party may file objections to those specified portions of a magistrate judge’s report or
+proposed findings or recommended decisions entered pursuant to 28 U.S.C. § 636(b)(1)(B) for
+which de novo review by the district court is sought, together with a supporting memorandum
+
+15
+  The defendant cites State v. Grant, 2008 ME 14, 939 A.2d 93, for the proposition that a hospitalized suspect can
+be found to have been in custody when interviewed in a hospital room. See Replies at 4. Grant is distinguishable.
+The suspect in Grant, found by police at the scene of a car accident, was subdued with the use of considerable force,
+handcuffed, secured to a long board, and accompanied by police in an ambulance to the hospital. See Grant, 2008
+ME 14, ¶ 28; 939 A.2d at 101-02. He remained handcuffed as he entered the hospital to undergo surgery and was
+subjected afterward to the persistent return of officers to his bedside. See id. at ¶¶ 28-30, 939 A.2d at 102.
+
+
+                                                        31
+and request for oral argument before the district judge, if any is sought, within fourteen (14)
+days after being served with a copy thereof. A responsive memorandum and any request for
+oral argument before the district judge shall be filed within fourteen (14) days after the filing
+of the objection.
+
+        Failure to file a timely objection shall constitute a waiver of the right to de novo review
+by the district court and to appeal the district court’s order.
+
+
+       Dated this 3rd day of January, 2011.
+
+                                                     /s/ John H. Rich III
+                                                     John H. Rich III
+                                                     United States Magistrate Judge
+
+
+
+
+                                                32
+

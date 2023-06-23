@@ -1,0 +1,1034 @@
+                      UNITED STATES DISTRICT COURT
+                           DISTRICT OF MAINE
+
+ UNITED STATES OF AMERICA,                 )
+                                           )
+ v.                                        )
+                                           )
+ MARCOS HERNANDEZ, et al.,                 ) Docket No. 2:16-cr-37-NT
+                                           )
+                     Defendants.           )
+
+
+
+              ORDER ON DEFENDANTS’ MOTION TO DISMISS
+
+      The Grand Jury returned an indictment charging the Defendants with
+
+conspiracy to commit a Hobbs Act robbery in violation of 18 U.S.C. § 1951(a) (Count
+
+One); Hobbs Act robbery in violation of 18 U.S.C. §§ 2, 1951(a) (Count Two); and
+
+brandishing a firearm in furtherance of a crime of violence, in violation of 18 U.S.C.
+
+§§ 2, 924(c)(1)(A)(ii) (Count Three). (ECF No. 1). The Defendants move to dismiss
+
+Count Three on the grounds that conspiracy to commit Hobbs Act robbery and Hobbs
+
+Act robbery do not constitute crimes of violence as defined in § 924(c)(3). (ECF No.
+
+121). For the following reasons, the motion is DENIED.
+
+
+                             METHOD OF ANALYSIS
+
+      In the parties’ initial briefing, both sides assumed that a categorical analysis
+
+of the Hobbs Act was required. To perform a categorical analysis, I am required to
+
+identify the minimum criminal conduct necessary for conviction under the predicate
+
+offense’s statutory elements without regard to the underlying facts in the case. United
+States v. Acosta, 470 F.3d 132, 135 (2d Cir. 2006).1 If a Hobbs Act robbery could be
+
+committed without “the use, attempted use, or threatened use of physical force
+
+against the person or property of another,” then the crime categorically is not a crime
+
+of violence for purposes of § 924(c)(3)(A).
+
+        At oral argument, I invited the parties to address whether it made sense to use
+
+a categorical approach in the context of a motion to dismiss a § 924(c) count of an
+
+indictment. It seemed strange to perform the categorical analysis for a count that is
+
+heading to trial. Both parties pointed me to a First Circuit opinion holding that it was
+
+not error to instruct a jury that the predicate crimes of tampering with and retaliating
+
+against an informant were, as a matter of law, crimes of violence for purposes of §
+
+924(c). See United States v. Weston, 960 F.2d 212, 217 (1st Cir. 1992) abrogated on
+
+other grounds by Stinson v. United States, 508 U.S. 36 (1993). While the First Circuit
+
+did not use the term “categorical” in Weston, the parties nonetheless believe that
+
+categorical analysis is required.
+
+
+
+
+1        If a statute is divisible and an offense can be committed in alternate ways, I may peek at a
+limited number of documents (charging instrument, jury instructions, plea colloquy, plea agreement)
+to see if I can determine which of the alternate offenses supported the conviction. Descamps v. United
+States, 133 S. Ct. 2276, 2281-85 (2013). Once that is done, I return to a fact-blind analysis of whether
+the minimum criminal conduct necessary for conviction under the alternative of the offense involved,
+has as an element, the use, attempted use or threatened use of physical force against the person or
+property of another.
+
+         The parties agree on the question of divisibility, and I will go along with their conclusions:
+(i) that the Hobbs Act is divisible; (ii) that the dividing line is between Hobbs Act extortion and Hobbs
+Act robbery; and (iii) that the robbery portion of the Hobbs Act is not divisible. Defs.’ Mot. to Dismiss
+6 (ECF No. 121) (citing United States v. Williams, 179 F. Supp. 3d 141, 149 (D. Me. 2016)); Gov.’s
+Opp’n 8-9 (ECF No. 128). Because the Defendants do not contest that they are being charged with
+Hobbs Act robbery, there is no need to do any further modified categorical analysis.
+
+
+                                                   2
+       The Third Circuit recently addressed this precise question. Despite the
+
+defendant and government’s agreement that categorical analysis was appropriate,
+
+the Third Circuit resisted:
+
+       We do not agree that the categorical approach applies here. When the
+       predicate offense, Hobbs Act robbery, and the § 924(c) offense are
+       contemporaneous and tried to the same jury, the record of all necessary
+       facts [are] before the district court. The jury’s determination of the facts
+       of the charged offenses unmistakably shed[s] light on whether the
+       predicate offense was committed with “the use, attempted use, or
+       threatened use of physical force against the person or property of
+       another.”
+
+United States v. Robinson, No. 15-1402, 2016 WL 7336609, at *3 (3rd Cir. Dec. 19,
+
+2016). In addition to Robinson, a number of lower courts have pointed out that
+
+categorical analysis does not make much sense in the case of a contemporaneously
+
+charged § 924(c) count.2
+
+       This growing consensus is based on the origins and purposes behind categorical
+
+analysis. The categorical approach was designed to guide courts in determining
+
+whether a predicate offense constitutes a crime of violence for the purposes of
+
+fashioning an appropriate sentence under the Armed Career Criminal Act, 18 U.S.C.
+
+§ 924(e) (“ACCA”). Taylor v. United States, 495 U.S. 575 (1990). At issue in Taylor
+
+was whether the defendant’s two prior state burglary convictions should be
+
+considered violent felonies under ACCA. The Supreme Court unanimously held that
+
+
+
+2       See, e.g., United States v. Jimenez-Segura, No. 07-146, 2016 WL 4718949, at *9-11 (E.D. Va.
+Sept. 8, 2016); United States v. McCallister, No. 15-171, 2016 WL 3072237, at *2-7 (D.D.C. May 31,
+2016); United States v. Wells, No. 14-280, 2015 WL 10352877, at *4 (D. Nev. Dec. 30, 2015); United
+States v. Morgan, No. 14-20610, 2015 WL 9463975, at *2-5 (E.D. Mich. Dec. 18, 2015); United States
+v. Standberry, 139 F. Supp. 3d 734, 739 (E.D. Va. 2015); United States v. McDaniels, 147 F. Supp. 3d
+427, 430-33 (E.D. Va. 2015).
+
+
+                                                 3
+to determine whether the burglaries qualified, the sentencing court could look only
+
+to the conviction and the statutory definition of the offense, not to the underlying
+
+facts involved in the particular offense.
+
+       In reaching this conclusion, the Taylor Court focused on three factors. First,
+
+the Court noted that “[s]ection 924(e)(1) refers to ‘a person who . . . has three previous
+
+convictions’ for—not a person who has committed—three previous violent felonies or
+
+drug offenses.” Id. at 600. The Court interpreted this text as congressional intent to
+
+focus on the category of the conviction, not the underlying facts. See id. Second, the
+
+legislative history of ACCA suggested that a categorical approach was intended. “If
+
+Congress had meant to adopt an approach that would require the sentencing court to
+
+engage in an elaborate factfinding process regarding the defendant’s prior offenses,
+
+surely this would have been mentioned somewhere in the legislative history.” Id. at
+
+601. Third, the Court pointed out “the practical difficulties and potential unfairness
+
+of a factual approach.” Id. The Court was concerned that facts not found by a jury
+
+would be used to enhance the Defendant’s sentence and envisioned the practical
+
+difficulties of determining the factual basis for a defendant’s past, potentially old,3
+
+convictions. Id.
+
+       The Supreme Court has repeatedly restated the rationale for using categorical
+
+analysis under ACCA. See Mathis v. United States, 136 S. Ct. 2243, 2252-53 (2016);
+
+Descamps v. United States, 133 S. Ct. 2276, 2287 (2013). The categorical approach
+
+
+
+3       As the Third Circuit pointed out in Robinson, the most recent of Taylor’s prior burglary
+convictions occurred seventeen years before the proposed application of ACCA enhancements.
+Robinson, 2016 WL 7336609, at *3.
+
+
+                                               4
+has been refined, Shepard v. United States, 544 U.S. 13 (2005) (applying categorical
+
+analysis to a defendant entering a plea instead of having a trial) and extended to
+
+other statutes and guidelines. See Moncrieffe v. Holder, 133 S. Ct. 1678, 1684 (2013)
+
+(using categorical analysis to determine whether a crime is an aggravated felony
+
+under the Immigration and Nationality Act); Leocal v. Ashcroft, 543 U.S. 1, 9-11
+
+(2004) (applying categorical analysis under definition of crime of violence in 18 U.S.C.
+
+§ 16); Stinson, 508 U.S. at 39 (applying categorical analysis under the career offender
+
+guideline, U.S.S.G. § 4B1.1). All these applications involve a backward look at a prior
+
+conviction.
+
+        The reasons used to support categorical analysis in Taylor do not fit the § 924(c)
+
+context. First, the text of § 924(c), which uses the term “offense,” is different than
+
+that of § 924(e), which speaks in terms of “previous convictions.” Second, the elaborate
+
+fact-finding process that Taylor was concerned about is not going to pose the same
+
+problems in a contemporaneously charged § 924(c) offense. The government must
+
+plead and prove the § 924(c) count beyond a reasonable doubt to a jury, or the
+
+defendant must admit a factual basis for a plea, so there are no fairness or Sixth
+
+Amendment concerns.4 Finally, there are no concerns about having to relitigate the
+
+factual basis for old convictions or rely on old, possibly inaccurate recitations of fact.
+
+Rather, there will either be “a live case where fresh evidence will be presented to a
+
+
+
+4       Although Weston indicates that the determination of whether a predicate felony constitutes a
+crime of violence is a matter of law, this does not preclude a jury from doing the fact-finding regarding
+how a predicate act was committed. I can envision either staged deliberations or questions on a special
+verdict form that would allow the jury to determine the means of committing the offense before going
+on to decide a § 924(c) count.
+
+
+                                                   5
+jury,” United States v. Woodley, No. 15-cr-20007, 2015 WL 7770859, at *4 (E.D. Mich.
+
+Dec. 5, 2015), or a guilty plea that will be based on an adequate factual basis to
+
+demonstrate whether the way in which the crime was committed had the requisite
+
+use of physical force. Despite the agreement of the parties to the contrary, I conclude
+
+that categorical analysis is not appropriate here and would deny the motion to
+
+dismiss on that basis alone. But, out of an abundance of caution and because it does
+
+not affect the outcome, I will conduct the categorical analysis.
+
+
+                                     DISCUSSION
+
+I.    Statutory Background
+
+      The categorical analysis requires a close look at the language of both § 924(c)
+
+and the Hobbs Act.
+
+             Using or Carrying a Firearm During a Crime of Violence,
+             18 U.S.C. § 924(c)
+
+      Under § 924(c),
+
+      any person who, during and in relation to any crime of violence . . . uses
+      or carries a firearm, or who, in furtherance of any such crime, possesses
+      a firearm, shall, in addition to the punishment provided for such crime
+      of violence . . . if the firearm is brandished, be sentenced to a term of
+      imprisonment of not less than 7 years . . . .
+
+18 U.S.C. § 924(c)(i)(A), (ii). The term “crime of violence” as used in §924(c) means:
+
+      an offense that is a felony and—
+
+      (A) has as an element the use, attempted use, or threatened use of
+      physical force against the person or property of another, or
+
+      (B) that by its nature, involves a substantial risk that physical force
+      against the person or property of another may be used in the course of
+      committing the offense.
+
+
+                                           6
+18 U.S.C. § 924(c)(3)(A)-(B). Section 924(c)(3)(A) is commonly referred to as the “force
+
+clause,” and § 924(c)(3)(B) as the “residual clause.”
+
+        The parties have not pointed to a Supreme Court or First Circuit case defining
+
+the term “physical force” under § 924(c)(3). In Johnson v. United States, the Supreme
+
+Court defined the term “physical force” for purposes of ACCA as “violent force
+
+. . . capable of causing physical pain or injury to another person.” 559 U.S. 133, 140
+
+(2010) (“Johnson I”). Here, the parties agree that the Johnson I definition of physical
+
+force applies. It is not clear to me that § 924(c)(3) requires violent force,5 but I will
+
+accept the Government’s concession, at least as it is applied to the portion of §
+
+924(c)(3) that deals with physical force against the person of another.
+
+        Whether the residual clause under § 924(c)(3) is still valid is an open question
+
+in this Circuit. In United States v. Johnson, the Supreme Court held that a similar,
+
+but not identical, residual clause of ACCA was unconstitutionally vague. 135 S. Ct.
+
+2551 (2015) (“Johnson II”).
+
+
+
+5       In United States v. Nason, the First Circuit interpreted the term “physical force” as it is used
+in the definition of a misdemeanor crime of domestic violence in 18 U.S.C. § 921(a)(33)(A). 269 F.3d 10
+(1st Cir. 2001). After consulting Black’s Law Dictionary and other dictionaries, the First Circuit
+determined that the “widely accepted” meaning of “physical force” was “characterized as power,
+violence, or pressure directed against another person's body.” Id. at 16. “ ‘Violence’ is essentially a
+subset of physical force involving injury or risk of harm.” Id. at 17. The parties do not analyze whether
+Congress intended the term “physical force” to have a more demanding standard under § 924(c), and
+I do not undertake to do that research myself. I would note that two district courts within the Second
+Circuit have refused to apply the “violent force” definition from Johnson I to § 924(c). United States v.
+Pena, 161 F. Supp. 3d 268, 272 (S.D.N.Y. 2016) (“Pena I”); United States v. Pena, No. 14- 555-3, 2016
+WL 3208913 (E.D.N.Y. June 3, 2016) (“Pena II”). Instead, the courts in the Pena cases used the “power,
+violence, or pressure directed against a person or thing” standard that the Second Circuit had used
+under 18 U.S.C. § 16’s definition of “crime of violence,” which has an identical force clause as § 924(c).
+Pena II, 2016 WL 3208913, at *3 (quoting Santana v. Holder, 714 F.3d 140, 144 (2d Cir. 2013)).
+“Although the Johnson [I] definition may be the law of the land in the context of the ACCA—which
+uses a force clause that lacks reference to the use of force against property—the Santana definition
+remains ‘forceful’ in the context of 18 U.S.C. § 16, and, in this Court’s view, § 924(c)(3).” Id.
+
+
+                                                    7
+             The Hobbs Act, 18 U.S.C. § 1951
+
+      The Hobbs Act provides that:
+
+      Whoever in any way or degree obstructs, delays, or affects commerce or
+      the movement of any article or commodity in commerce, by robbery or
+      extortion or attempts or conspires to do so, or commits or threatens
+      physical violence to any person or property in furtherance of a plan or
+      purpose to do anything in violation of this section shall be fined under
+      this title or imprisoned not more than twenty years, or both.
+
+18 U.S.C. § 1951(a).
+
+      The Hobbs Act defines “robbery” as:
+
+      The unlawful taking or obtaining of personal property from the person
+      or in the presence of another, against his will, by means of actual or
+      threatened force, or violence, or fear of injury, immediate or future, to his
+      person or property, or property in his custody or possession, or the
+      person or property of a relative or member of his family or of anyone in
+      his company at the time of the taking or obtaining.
+
+18 U.S.C. § 1951(b)(1) (emphasis added).
+
+II.   The Defendants’ Arguments
+
+      The Defendants make essentially three arguments in support of their motion
+
+to dismiss the § 924(c) charge: (i) a Hobbs Act robbery is not a crime of violence
+
+because it does not have as an element the use, attempted use or threatened use of
+
+physical force as required under the § 924(c) force clause; (ii) a conspiracy to commit
+
+Hobbs Act robbery is similarly not a crime of violence; and (iii) the § 924(c) residual
+
+clause is unconstitutional in the wake of Johnson II.
+
+             Hobbs Act Robbery and the Force Clause
+
+      The First Circuit has not yet addressed whether Hobbs Act robbery
+
+categorically constitutes a crime of violence post-Johnson II. Before Johnson II, the
+
+First Circuit concluded that Hobbs Act robbery was categorically a crime of violence,
+
+                                           8
+but it did not specifically do so under the force clause. See United States v. Morales-
+
+Machuca, 546 F.3d 13, 21 (1st Cir. 2008) (not specifying whether Hobbs Act robbery
+
+was a crime of violence under the force or residual clause); United States v. Turner,
+
+501 F3.d 59, 67-68 (1st Cir. 2007) (finding conspiracy to commit Hobbs Act robbery
+
+was a crime of violence under the residual clause).
+
+       At least two Circuits have addressed the question post-Johnson II and
+
+concluded that the Hobbs Act categorically qualifies as a crime of violence under
+
+§ 924(c)(3)(A). United States v. Hill, 832 F.3d 135, 141-44 (2d Cir. 2016) (rejecting
+
+claim that “fear of injury” under Hobbs Act can be accomplished without the “use,
+
+attempted use or threatened use of physical force”); United States v. Howard, 650
+
+Fed. App’x. 466, 468 (9th Cir. 2016) (“Hobbs Act robbery by means of ‘fear of injury’ .
+
+. . qualifies as crime of violence.”).
+
+       Three judges within this District have also recently concluded that Hobbs Act
+
+robbery constitutes a crime of violence under § 924(c)(3)(A). United States v. Williams,
+
+179 F. Supp. 3d 141, 154-55 (D. Me. 2016); Craig v. United States, No. 16-303, 2016
+
+WL 5874965, at *5 (D. Me. Oct. 7, 2016); United States v. Pomerleau, No. 7-115, 2016
+
+WL 6471202, at *2 (D. Me. Nov. 1, 2016). Numerous district courts outside this
+
+Circuit have likewise concluded that Hobbs Act robbery categorically is a crime of
+
+violence under the § 924(c) force clause.6
+
+
+6       Blackstone v. United States, No. 99-257, 2016 WL 7469579, at *5 (C.D. Cal. Dec. 27, 2016);
+United States v. Barrows, No. 13-185, 2016 WL 4010023, at *2-4 (D. Nev. July 25, 2016); United States
+v. Bailey, No. 14-328, 2016 WL 3381218, at *2-6 (C.D. Cal. June 8, 2016); Pena, 2016 WL 3208913, at
+*1-4; McCallister, 2016 WL 3072237, at *7-8; United States v. Smith, No. 11-58, 2016 WL 2901661, at
+*4-5 (D. Nev. May 18, 2016); United States v. Reed, No. 15-113-1, 2016 WL 2892055, at *3-4 (W.D. La.
+May 16, 2016); United States v. Coleman, No. 14-664, 2016 WL 1435696, at *1-3 (N.D. Ill. Apr. 12,
+2016); United States v. Clarke, 171 F. Supp. 3d 449, 453 (D. Md. 2016); United States v. Hancock, 168
+
+                                                 9
+       The Defendants argue that Hobbs Act robbery categorically fails to qualify as
+
+a crime of violence under the force clause for three reasons. First, Defendants contend
+
+that the minimum criminal conduct required for a Hobbs Act robbery conviction
+
+would be a threat of damage to property, which could be accomplished without violent
+
+force. Second, they claim that putting a victim in fear of injury to her person could
+
+also be accomplished without violent force. Third, and this argument is buried within
+
+the Defendants’ fear of injury argument, the Defendants contend that Hobbs Act
+
+robbery by “actual or threatened force” could be accomplished by force not amounting
+
+to violent force.7
+
+       Interestingly, the issue of whether a Hobbs Act robbery is a crime of violence
+
+under § 924(c) is tearing through the district courts. New opinions are being filed on
+
+this topic practically every week. So far, all the courts have rejected the argument
+
+that the force required to generate “fear of injury to person or property” is less than
+
+
+
+
+F. Supp. 3d 817, 824 (D. Md. 2016); Pena, 161 F. Supp. 3d at 284; United States v. Lenzy, No. 14-25,
+2016 WL 1019712, at *3 (N.D. Ga. Feb. 4, 2016); United States v. Bennett, No. 15-134, 2016 WL 354753,
+at *4 (E.D. Va. Jan 27, 2016); United States v. Crawford, No. 15-70, 2016 WL 320116 (N.D. Ind. Jan.
+27, 2016); United States v. Walker, No. 15-49, 2016 WL 153088, at *5-6 (E.D. Va. Jan. 12, 2016);
+McDaniels, 147 F. Supp. 3d at 430-33; United States v. Anglin, No. 14-3, 2015 WL 6828070, at *6 (E.D.
+Wis. Nov. 6, 2015); United States v. Redmond, No. 14-226, 2015 WL 5999317, at *4 (W.D.N.C. Oct. 13,
+2015); Standberry, 139 F. Supp. 3d at 740; United States v. Hunter, No. 12-124, 2015 WL 6443084, at
+*2 (E.D.Va. Oct. 23, 2015); United States v. Brownlow, No. 15-34, 2015 WL 6452620, at *5 (N.D. Ala.
+Oct. 26, 2015); United States v. Merinord, No. 15-136, 2015 WL 6457166, at *5 (E.D.N.C. Oct, 26, 2015).
+7        The Defendants also suggest that Hobbs Act robbery could be accomplished without the
+“intentional threat of physical force” and therefore categorically fail to satisfy an implied intent
+requirement under § 924(c)(3)(A). Defs.’ Mot. to Dismiss 2, 7. The Defendants do not develop this
+argument, however, and I will not make it for them. Díaz-Colón v. Fuentes-Agostini, 786 F.3d 144, 149
+(1st Cir. 2015) (“[w]e deem waived claims not made or claims adverted to in a cursory fashion,
+unaccompanied by developed argument.”). I note, however, that other courts who have considered this
+argument have rejected it. See, e.g., United States v. Hill, 832 F.3d 135, 143 n.10 (2d Cir. 2016);
+Williams, 179 F. Supp. 3d at 153-54; Barrows, 2016 WL 4010023, at *3-4; Bailey, 2016 WL 3381218,
+at *5-6; Pena, 161 F. Supp. 3d at 283-84.
+
+
+                                                  10
+the force required by § 924(c).8 But the Defendants’ third argument—that the
+
+quantum of force needed for a Hobbs Act robbery committed with “actual or
+
+threatened force” is less than violent force—appears to have been squarely presented
+
+only to one court. See United States v. Johnson, No. 16-29, 2016 WL 7223264, at *3-4
+
+(C.D. Cal. Dec. 12, 2016) (holding that Hobbs Act robbery is categorically a crime of
+
+violence). I address each of the Defendants’ arguments in turn.
+
+             1.      Whether Fear of Injury to Property Requires Violent
+                     Physical Force
+
+      In support of their first argument, the Defendants posit a number of
+
+hypotheticals that they claim demonstrate the minimal culpable conduct required for
+
+a Hobbs Act robbery. A perpetrator could commit a Hobbs Act robbery by putting
+
+someone in fear of injury to his property, for example, by merely threatening to pour
+
+out an expensive bottle of wine, flush drugs down the toilet, delete computer records,
+
+contaminate food, or deface art. Defs.’ Reply 2 (ECF No. 137). Since these actions do
+
+not involve physical force capable of causing injury, they conclude, Hobbs Act robbery
+
+categorically fails as a predicate for a § 924(c) charge.
+
+      There are two problems with this argument. First, under the categorical
+
+analysis, judges are directed to determine not whether there is a “theoretical
+
+possibility” that the minimum criminal conduct would require the use of physical
+
+force, but rather whether there is a “realistic probability.” Gonzales v. Duenas-
+
+Alvarez, 549 U.S. 183, 193 (2007); see also United States v. Fish, 758 F.3d 1, 6 (1st
+
+
+
+
+8     See supra note 5.
+
+
+                                           11
+Cir. 2014) (“[i]n assessing whether the elements of the candidate proposed as a
+
+predicate crime are overbroad, we need not consider fanciful, hypothetical
+
+scenarios.”). To show a “realistic probability,” the defendant must point to a case
+
+where “courts in fact did apply the statute” in the manner he claims they would.
+
+Duenas-Alvarez, 549 U.S. at 193. Here, the Defendants have not pointed to any cases
+
+with similar factual scenarios that were actually prosecuted. The Defendants
+
+examples are theoretically possible, but not realistically probable, and under Duenas-
+
+Alvarez, I am not required to consider them.
+
+        Second, the Defendants’ argument assumes that the Johnson I definition of
+
+“physical force against the person of another” under ACCA extends to the meaning of
+
+physical force against property under § 924(c)(3).9 Johnson I interprets the ACCA
+
+force clause as requiring violent force or force “capable of causing physical pain or
+
+injury to another person.” 559 U.S. at 140. Applying the logic of Johnson I to the
+
+context of force against property, it would seem reasonable to focus on the effect of
+
+the force on the property and to require force capable of causing damage to property.
+
+Therefore, a Hobbs Act robbery involving the fear of injury to property is logically a
+
+threat of force capable of causing damage to property. Accordingly, I am unpersuaded
+
+by the Defendants’ arguments that their Hobbs Act robbery hypotheticals—which all
+
+
+
+
+9        Section 924(c)(3)’s force clause reads “has as an element the use, attempted use, or threatened
+use of physical force against the person or property of another . . . .” 18 U.S.C. § 924(c)(3)(A) (emphasis
+added). ACCA’s force clause requires that the predicate offense “has as an element the use, attempted
+use, or threated use of physical force against the person of another.” 18 U.S.C. § 924(e)(2)(B)(i).
+
+
+                                                   12
+involve a fear of damage or destruction of property—would not have as an element
+
+the threatened use of physical force against property required by § 924(c)(3)(A).
+
+             2.     Whether Fear of Injury to Person Requires Use of Violent
+                    Physical Force
+
+      Defendants’ second argument is that a Hobbs Act robbery committed by
+
+placing a victim in fear of injury to their person could be committed without violent
+
+force if, for example, they had an intimidating style of dress or demeanor or simply
+
+told a victim to “give me your wallet.” Defs.’ Mot. to Dismiss 9. The Government
+
+responds that a Hobbs Act robbery by means of fear of injury is designed to reach
+
+conduct where the defendant did not make a threat, but “intentionally instilled or
+
+exploited the victim’s fear of injury from the use of force.” Gov.’s Opp’n 12 (ECF No.
+
+128) (quoting United States v. Pena, 161 F. Supp. 268, 280 (S.D.N.Y. 2016)).
+
+      The Defendants have offered nothing new here. Their hypotheticals are far-
+
+fetched, not backed up by real-life cases, and have been rejected by numerous other
+
+courts. For the reasons set forth in Hill and echoed in Williams and every other court
+
+that has considered it, I agree that the “fear of injury” prong of the Hobbs Act should
+
+be interpreted as a fear of injury from the use of force capable of causing injury to a
+
+person or property. See Hill, 832 F.3d at 141-44; Williams, 179 F. Supp. 3d at 151;
+
+Howard, 650 Fed. App’x. at 468; cases collected supra, note 5.
+
+             3.     Whether Actual or Threatened Force Requires Use of
+                    Violent Physical Force
+
+      In their third argument—that the means of “actual or threatened force” itself
+
+does not necessarily involve the type of violent force required by Johnson I—the
+
+Defendants are breaking new ground. The cases cited by the parties have mostly
+
+                                          13
+assumed or the defendants have conceded that the “actual or threatened force” clause
+
+has as an element the use, attempted use, or threatened use of physical force. See,
+
+e.g., Hill, 832 F.3d at 141-44; Williams, 179 F. Supp. 3d at 152. But here, the
+
+Defendants boldly go where few have gone before, taking issue with the statement in
+
+Williams that it is “self-evident that a Hobbs Act robbery committed by means of
+
+‘actual or threatened force’ or violence meets the required ‘physical force’ element.”
+
+Defs.’ Mot. to Dismiss 8 (quoting Williams, 179 F. Supp. 3d at 152). The Defendants
+
+argue “[a]ll force is not violent force” and provide as an example a purse snatching,
+
+which they claim “meets the ‘actual force’ requirement of a Hobbs Act robbery, yet
+
+does not amount to the level of force required for a crime of violence post-Johnson [I].”
+
+Mot. to Dismiss 8.
+
+      The Government assumes that a Hobbs Act robbery requires “violent force” as
+
+defined in Johnson I and points to Williams and Hill. But, as discussed, those cases
+
+addressed arguments made under the “fear of injury” clause. The Government does
+
+not address the argument that the term “actual force” could require less force than
+
+“violent force” under Johnson I. I do not blame the Government for not discerning
+
+the Defendants’ argument, however, because it is poorly developed and hidden within
+
+the Defendants’ section on “fear of injury.”
+
+      At issue is the level of force required for a Hobbs Act robbery conviction under
+
+the “actual or threatened force” clause. The Defendants rely on Jackson v. United
+
+States for their argument that actual force could be less than violent force. No. 06-94,
+
+2016 WL 3167073 (D. Me. June 6, 2016). In Jackson, Judge Singal concluded that a
+
+
+
+                                           14
+conviction for robbery under the Maine robbery statute, 17-A M.R.S.A. § 651(1)(C),
+
+did not categorically qualify as a violent felony under ACCA’s force clause. The
+
+Jackson decision relied on a Law Court opinion in a purse snatching case that
+
+interpreted the Maine robbery “physical force” requirement as “any physical force.”
+
+2016 WL 3167073, at *2 (quoting Raymond v. State, 467 A.2d 161, 164-65 (Me. 1983)).
+
+      I agree with the Government that Jackson is distinguishable. Under Maine
+
+law any degree of physical force is sufficient to elevate theft to a robbery, and that
+
+categorically removes Maine robbery as a violent felony predicate under ACCA.
+
+Jackson would be persuasive in this case only if I were to interpret Hobbs Act robbery
+
+as committable by any degree of force.
+
+      To interpret the “actual or threatened force” clause of the Hobbs Act for the
+
+amount of force required, I follow the roadmap for statutory construction set down in
+
+United States v. Nason. 269 F.3d 10 (1st Cir. 2001). First, I examine the text of the
+
+Hobbs Act, which, as stated above, defines “robbery” as:
+
+      the unlawful taking or obtaining of personal property from the person
+      or in the presence of another, against his will, by means of actual or
+      threatened force, or violence, or fear of injury, immediate or future, to his
+      person or property, or property in his custody or possession, or the
+      person or property of a relative or member of his family or of anyone in
+      his company at the time of the taking or obtaining.
+
+18 U.S.C. § 1951(b)(1) (emphasis added). In interpreting the term “actual force,” I
+
+assume “absent evidence to the contrary, that Congress knew and adopted the widely
+
+accepted legal definitions of meanings associated with the specific words enshrined
+
+in the statute.” Nason, 269 F.3d at 16. As the First Circuit did in Nason, I consult
+
+Black’s Law Dictionary, which defines “actual force” as “[f]orce consisting in a
+
+
+                                           15
+physical act, esp. a violent act directed against a robbery victim.”10 Black’s Law Dict.
+
+(10th ed. 2014).
+
+       “Ultimately, context determines meaning.” Johnson I, 559 U.S. at 139; see also
+
+United States v. Castleman, 134 S. Ct. 1405, 1410-12 (2014) (defining “physical force”
+
+differently in the context of domestic violence than in the ACCA context of a violent
+
+felony). Here the context for the term “actual force” is the Hobbs Act robbery statute,
+
+which requires an “unlawful taking or obtaining of personal property from the person
+
+or in the presence of another, against his will” that “obstructs, delays, or affects
+
+commerce.” 18 U.S.C. § 1951(a)-(b)(1). Black’s Law Dictionary’s definition of “actual
+
+force” and its reference to a violent act against a robbery victim, suggests to me that
+
+the ordinary meaning of “actual force” in the robbery context involves something more
+
+than any physical force. It is reasonable, therefore, that the meaning of Hobbs Act
+
+“actual force” is force “capable of causing pain or injury” or force “capable of damaging
+
+property.”
+
+       In Nason, the First Circuit went on to consider whether the wording of adjacent
+
+statutory provisions or the legislative history suggested a meaning other than the
+
+ordinary meaning of the term used there. The Defendants here offer no statutory
+
+comparisons and make no legislative history arguments that would suggest a
+
+different definition. In fact, other than to suggest that a purse snatching has the
+
+
+
+
+10      Interestingly, Black’s Law Dictionary’s definition of “actual force” cross references the term
+“physical force.”
+
+
+                                                 16
+requisite force to constitute a violation of the Hobbs Act, the Defendants offer no
+
+exegesis of what level of force is required by the term “actual force” in the Hobbs Act.
+
+      This brings me back to the purse snatching scenario. In my opinion, a purse
+
+snatching is capable of causing pain or injury to person and/or property. Thus, if it
+
+met the commerce element, it could be the basis for a Hobbs Act robbery and could be
+
+considered a crime of violence under § 924(c)(3). The Defendants have not met their
+
+burden under Duenas-Alvarez of providing examples of real Hobbs Act robbery
+
+prosecutions involving actual or threatened force not capable of causing injury. See
+
+549 U.S. at 193.
+
+      To summarize, I conclude that all the means of committing a Hobbs Act
+
+robbery—actual or threatened force, violence, and placing a person in fear of injury
+
+to person or property—have as an element the use, attempted use or threatened use
+
+of physical force as defined by Johnson I.
+
+             Hobbs Act Conspiracy and the Force Clause
+
+      The Defendants argue that conspiracy to commit Hobbs Act robbery does not
+
+“have as an element the use, attempted use, or threatened use of physical force
+
+against the person or property of another.” Defs.’ Mot. to Dismiss 9. Because
+
+conspiracy requires as little as a “tacit understanding” with no overt act, the
+
+Defendants argue, there is no conduct element that would satisfy § 924(c)(3)(A). Defs.’
+
+Reply 3 (quoting United States v. Palmer, 203 F.3d 55, 63 (1st Cir. 2000)).
+
+      The First Circuit has previously held that conspiracy to commit a crime of
+
+violence is itself a crime of violence under § 924(c). Turner, 501 F.3d at 68. However,
+
+this conclusion was made in the context of the residual clause’s “substantial risk” of
+                                             17
+physical force requirement. It seems plain to me that the “use, attempted use, or
+
+threatened use of physical force against the person or property of another” is not an
+
+element of conspiracy, which requires simply the intent to enter into an agreement
+
+and the intent to achieve the criminal objective of that agreement. See United States
+
+v. Gore, 636 F.3d 728, 731 (5th Cir.2011); United States v. White, 571 F.3d 365, 368-
+
+69 (4th Cir. 2009), abrogated on other grounds by Johnson II, 135 S. Ct. 2551; United
+
+States v. King, 979 F.2d 801, 801-03 (10th Cir.1992); United States v. Baires-Reyes,
+
+No. 15-122, 2016 WL 3163049, at *2 (N.D. Cal. June 7, 2016); United States v.
+
+Edmundson, 153 F. Supp. 3d 857, 859-60 (D. Md. 2015). I therefore conclude that
+
+conspiracy to commit Hobbs Act robbery is categorically not a crime of violence under
+
+the force clause of § 924(c)(3)(A).
+
+              The Residual Clause
+
+       My conclusion that conspiracy is not categorically a crime of violence under
+
+§ 924(c)(3)(A) raises the issue of whether conspiracy to commit Hobbs Act robbery
+
+constitutes a crime of violence under § 924(c)(3)(B). As introduced above, § 924(c)’s
+
+definition of “crime of violence” has a residual clause in addition to a force clause,
+
+which covers any felony “that by its nature, involves a substantial risk that physical
+
+force against the person or property of another may be used in the course of
+
+committing the offense.” § 924(c)(3)(B).
+
+       In Johnson II, the Supreme Court addressed the constitutionality of the
+
+residual clause found in ACCA. The ACCA residual clause defines a violent felony as
+
+“any crime punishable by imprisonment for a term exceeding one year . . . that . . . is
+
+burglary, arson, or extortion, involves use of explosives, or otherwise involves conduct
+                                           18
+that presents a serious potential risk of physical injury to another.” § 924(e)(2)(B)(ii).
+
+The Supreme Court held:
+
+       Two features of [ACCA’s] residual clause conspire to make it
+       unconstitutionally vague. In the first place, the residual clause leaves
+       grave uncertainty about how to estimate the risk posed by a crime. It
+       ties the judicial assessment of risk to a judicially imagined “ordinary
+       case” of a crime, not to real-world facts or statutory elements. . . .
+
+       At the same time, the residual clause leaves uncertainty about how
+       much risk it takes for a crime to qualify as a violent felony. It is one
+       thing to apply an imprecise “serious potential risk” standard to real-
+       world facts; it is quite another to apply it to a judge-imagined
+       abstraction. By asking whether the crime “otherwise involves conduct
+       that presents a serious potential risk,” moreover, the residual clause
+       forces courts to interpret “serious potential risk” in light of the four
+       enumerated crimes—burglary, arson, extortion, and crimes involving
+       the use of explosives. . . . By combining indeterminancy about how to
+       measure the risk posed by a crime with indeterminancy about how much
+       risk it takes for the crime to qualify as a violent felony, the residual
+       clause produces more unpredictability and arbitrariness than the Due
+       Process Clause tolerates.
+
+Johnson II, 135 S. Ct. at 2557-58. In reaching its conclusion, the Supreme Court
+
+noted that Johnson II marked the fifth time it had dealt with whether a crime fell
+
+under ACCA’s residual clause. Id. at 2558-60.
+
+       The Defendants argue that § 924(c)’s residual clause, like ACCA’s, is
+
+unconstitutionally vague.11 Defs.’ Mot. to Dismiss 11-13. Both statutes, the
+
+Defendants argue, call for categorical analysis to determine whether conduct in the
+
+“ordinary case” of an offense poses a “substantial risk.” See Defs.’ Mot. to Dismiss 11-
+
+13; see also Johnson II, 135 S. Ct. at 2557-58.
+
+
+
+11     Under the Fifth Amendment, a criminal statute is impermissibly vague where it “fails to give
+ordinary people fair notice of the conduct it punishes, or so standardless that it invites arbitrary
+enforcement.” United States v. Johnson, 135 S. Ct. 2551, 2556 (2015) (“Johnson II”).
+
+
+                                                19
+       The Government argues that § 924(c)’s residual clause remains viable after
+
+Johnson II because it is distinguishable from ACCA’s residual clause in five material
+
+aspects. For its first two arguments, the Government focuses on the differences in the
+
+language in the statutes. It claims that § 924(c)’s residual clause is “more targeted
+
+and straightforward” because it “confines the risk assessment to only those risks that
+
+arise during the commission of the offense” and speaks in terms of “force” rather than
+
+“injury.” Gov.’s Opp’n 15-16. Third, the Government contends that the enumerated
+
+list in ACCA’s residual clause introduces a level of confusion not found in §
+
+924(c)(3)(B). Gov.’s Opp’n 16-17. Fourth, the Government argues that § 924(c), which
+
+sets forth a new offense only if perpetrated with a firearm, functions differently and
+
+more narrowly than ACCA, which identifies offenses for a recidivist enhancement.
+
+Gov.’s Opp’n at 17. Finally, the Government points out that “[i]n contrast to its ACCA
+
+jurisprudence, the Court has never had occasion to resolve a disputed question about
+
+the meaning” of § 924(c)’s residual clause. Gov.’s Opp’n 17. And, when the Court
+
+addressed the 18 U.S.C. § 16(b) residual clause, which is worded identically to
+
+§ 924(c)(3)(B), its interpretation of what conduct constitutes an “ordinary case” was
+
+unanimous. Gov.’s Opp’n 17 (citing Leocal, 543 U.S. at 10).
+
+       I acknowledge that if a categorical approach is mandated,12 § 924(c)’s residual
+
+clause requires an assessment of risk as applied to an “ordinary case” abstraction.
+
+Whether § 924(c)’s residual clause survives depends on whether one reads Johnson
+
+
+
+12      Again, I am reminded how this whole controversy could be avoided if we jettisoned the
+categorical approach for contemporaneously charged § 924(c) counts. To me it makes little sense to
+imagine the “ordinary case” when we will have real-world facts that can be tried to a jury.
+
+
+                                               20
+II broadly or narrowly. See, e.g., United States v. Gonzalez-Longoria, 831 F.3d 670,
+
+675-76 (5th Cir. 2016) (en banc) (upholding the constitutionality of § 16(b)’s residual
+
+clause and suggesting that Johnson II should be read narrowly “as a long-considered
+
+ill-ease and eventual repudiation of the categorical approach in the specific context of
+
+the Armed Career Criminal Act’s residual clause.”). I see little point in getting out
+
+ahead of the Supreme Court in this complicated area.
+
+        I agree with the Second, Sixth, and Eighth Circuits that § 924(c)’s residual
+
+clause is distinct enough from ACCA’s residual clause to uphold its constitutionality.
+
+Hill, 832 F.3d at 146-50; United States v. Taylor, 814 F.3d 340, 375-79 (6th Cir. 2016);
+
+United States v. Prickett, 839 F.3d 697, 698-700 (8th Cir. 2016); cf. Gonzalez-
+
+Longoria, 831 F.3d at 675-77 (finding Johnson II does not render § 16(b)
+
+unconstitutional). But cf. Golicov v. Lynch, 837 F.3d 1065, 1072 (10th Cir. 2016)
+
+(Johnson II renders § 16(b) void for vagueness); Shuti v. Lynch, 828 F.3d 440 (6th Cir.
+
+2016); United States v. Vivas-Ceja, 808 F.3d 719, 723 (7th Cir. 2015); Dimaya v.
+
+Lynch, 803 F.3d 1110, 1120 (9th Cir. 2015), cert. granted Lynch v. Dimaya, 137 S.Ct.
+
+31 (2016).13 The Sixth Circuit succinctly summarized the differences:
+
+        [S]everal factors distinguish the ACCA residual clause from
+        § 924(c)(3)(B). First, the statutory language of § 924(c)(3)(B) is distinctly
+
+
+13      The majority of district courts to consider this issue have also distinguished § 924(c)(3)(B) from
+ACCA’s residual clause. See United States v. Moreno-Aguilar, No. 13-496, 2016 WL 4089563, at *6-9
+(D. Md. Aug. 2, 2016); Kundo v. United States, No. 16-436, 2016 WL 3079755, at *2-3 (D. Utah, May
+31, 2016); United States v. Green, No. 15-526, 2016 WL 277982, at *3-5 (D. Md. Jan. 22, 2016); United
+States v. Tsarnaev, 157 F. Supp. 3d 57, 71-74 (D. Mass. 2016); United States v. Checora, 155 F. Supp.
+3d 1192, 1201-03 (D. Utah 2015); McDaniels, 147 F. Supp. 3d at 436-37; United States v. Lusenhop,
+No. 14-122, 2015 WL 5016514, at *3 (S.D. Ohio Aug. 25, 2015). But see United States v. Herr, No. 16-
+10038, 2016 WL 6090714, at *2 (D. Mass. Oct. 18, 2016); United States v. Baires-Reyes, No. 15-122,
+2016 WL 3163049, at *4-5 (N.D. Cal. June 7, 2016) (relying on Dimaya v. Lynch, 803 F.3d 1110, 1120
+(9th Cir. 2015)).
+
+
+                                                   21
+      narrower, especially in that it deals with physical force rather than
+      physical injury. Second, the ACCA residual clause is linked to a
+      confusing set of examples that plagued the Supreme Court in coming up
+      with a coherent way to apply the clause, whereas there is no such
+      weakness in § 924(c)(3)(B). Third, the Supreme Court reached its void-
+      for-vagueness conclusion only after struggling mightily for nine years to
+      come up with a coherent interpretation of the clause, whereas no such
+      history has occurred with respect to § 924(c)(3)(B). Finally, the Supreme
+      Court was clear in limiting its holding to the particular set of
+      circumstances applying to the ACCA residual clause, and only some of
+      those circumstances apply to § 924(c)(3)(B).
+
+Taylor, 814 F.3d at 376.
+
+      Because I hold that the residual clause under § 924(c) is constitutional after
+
+Johnson II, I easily conclude that the Hobbs Act conspiracy count is a crime of
+
+violence under the residual clause. Turner, 501 F.3d at 68 (“[c]onspiracy under the
+
+Hobbs Act constitutes a ‘crime of violence’ for purposes of 18 U.S.C. § 924(c)).
+
+
+                                   CONCLUSION
+
+       For the reasons stated above, the Court DENIES the Defendants’ motion.
+
+
+
+SO ORDERED.
+
+                                               /s/ Nancy Torresen
+                                               United States Chief District Judge
+
+Dated this 11th day of January, 2017.
+
+
+
+
+                                          22
+

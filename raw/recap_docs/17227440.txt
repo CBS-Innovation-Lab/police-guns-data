@@ -1,0 +1,1061 @@
+Case 2:07-cr-00099-GZS Document 43 Filed 01/25/08 Page 1 of 21                                                     PageID #: 97
+
+
+
+                                        UNITED STATES DISTRICT COURT
+                                             DISTRICT OF MAINE
+
+
+
+UNITED STATES OF AMERICA                                       )
+                                                               )
+v.                                                             )                    Criminal No. 07-99-P-S
+                                                               )
+CHRISTOPHER POULOS,                                            )
+                                                               )
+                               Defendant                       )
+
+
+
+                       RECOMMENDED DECISION ON MOTION TO SUPPRESS
+
+
+          Christopher Poulos, charged with four counts of cocaine distribution in violation of 21 U.S.C.
+
+§ 841(a)(1) and one count of possession of a firearm (a Ruger .357 revolver) in furtherance of a drug-
+
+trafficking crime in violation of 18 U.S.C. § 924(c)(1)(A)(i), seeks to suppress evidence seized from
+
+his Portland, Maine apartment on April 9, 2007 pursuant to a search warrant. See Indictment (Docket
+
+No. 3); Motion To Suppress Evidence, etc. (“Motion”) (Docket No. 25).1 An evidentiary hearing was
+
+held before me on January 18, 2008 at which the defendant appeared with counsel and at the
+
+conclusion of which counsel for both sides argued orally. I now recommend that the following
+
+findings of fact be adopted and that the Motion be denied.
+
+                                               I. Proposed Findings of Fact
+
+          In February 2007 Kevin Cashman, a Portland, Maine police detective assigned to work as a
+
+special agent for the Maine Drug Enforcement Agency (“MDEA”), received information from a
+
+
+1
+  The defendant also initially sought to suppress statements, see Motion at 11-12; however, at hearing, counsel for the government
+confirmed that the government will not seek to introduce, in its case-in-chief, any statements made by the defendant to officers on April
+(continued on next page)
+
+                                                                   1
+Case 2:07-cr-00099-GZS Document 43 Filed 01/25/08 Page 2 of 21                                               PageID #: 98
+
+
+
+confidential informant (“CI”) that an individual named Christopher Poulos (the “defendant”) was
+
+selling drugs. The CI agreed to participate in controlled purchases of drugs from the defendant and
+
+proceeded to do so on four occasions (March 1, 6, 14 and 23, 2007). Following one of the controlled
+
+drug purchases, the CI informed Cashman that he saw the defendant placing a silver handgun above a
+
+ceiling tile in the kitchen/living-room area as he entered the defendant’s apartment.
+
+         Subsequently, in April 2007, Cashman learned that Portland police were investigating a
+
+suspected discharge of a firearm from the defendant’s apartment (located in the basement of 202 Coyle
+
+Street in Portland, Maine). Cashman became involved in that investigation and was assigned the task
+
+of preparing an affidavit in support of an application for a warrant to search the defendant’s apartment.
+
+On April 9, 2007 he prepared an affidavit and a proposed warrant authorizing that search. The
+
+affidavit sought, and the proposed warrant stated that it would grant, authority to search for the
+
+following property or articles:
+
+         A.        Firearms, ammunition, explosive devices or other devices which by design or
+                   use are capable of producing serious bodily injury, and which by their
+                   concealment, placement or condition are used, intended for use, or capable of
+                   use to defend, protect, guard or secure the premises to be searched, its
+                   contents, and/or any occupant. Items, including, but not limited to: Bullet
+                   casings, Gun shot residue, and Damage to the interior of the residence caused
+                   by the discharge of a firearm.
+
+         B.        Evidence demonstrating identity, possession, dominion, custody or control by
+                   any and all individuals over/in the premises to be searched or any portion
+                   thereof ONLY IF SUCH PREMISES IS IN FACT FOUND TO CONTAIN
+                   any other described item(s), including, but not limited to: fingerprints, hairs,
+                   fibers, nail clippings; clothing such as shirts, shoes; documents such as titles,
+                   deeds, bills, books, receipts, blank checks containing names and/or addresses,
+                   canceled checks containing names and/or addresses, records, addressed mail;
+                   photographs; videotapes, keys; prescription bottles; personalized property
+                   such as engraved trophies, stationery, pens; all of which are evidence of the
+                   offenses of possession, furnishing, and/or trafficking scheduled drugs and
+____________________________
+9, 2007. Defense counsel agreed that the government’s position moots that portion of his motion seeking suppression of statements.
+
+
+                                                                2
+Case 2:07-cr-00099-GZS Document 43 Filed 01/25/08 Page 3 of 21                         PageID #: 99
+
+
+
+               which are seizable pursuant to Maine Rule of Criminal Procedure 41 and/or
+               Maine Rule of Civil Procedure 80I.
+
+Search Warrant (“Warrant”), Joint Exh. 1, at 2; Affidavit and Request For Search Warrant
+
+(“Affidavit”), attached thereto, at [2]. In the Affidavit, under the heading “Reason for Seizure,”
+
+Cashman checked boxes indicating: “Property that constitutes evidence of the commission of a
+
+criminal offense”; “Contraband under 17-A.M.R.S.A. § 211 Reckless Conduct”; “The fruits of crime,
+
+or things otherwise criminally possessed, to wit, Reckless Conduct (17-A M.R.S.A. § 211)”; and
+
+“Property designed or intended for use or which is or has been used as the means of committing a
+
+criminal offense.” Affidavit at [2]. Cashman described, in section III of his Affidavit, the following
+
+as facts and circumstances supporting probable cause for issuance of the requested warrant:
+
+               A.     I am currently conducting an ongoing investigation concerning the
+       alleged discharge of a firearm from the residence of Christopher Poulos at 202 Coyle
+       St. (basement apartment) into the first floor apartment of the same building.
+
+               B.      On 04/09/07, I received a copy of a Portland PD [Police Department]
+       report detailing an investigation into an alleged firearm discharge in the apartment of
+       Christopher Poulos, located at 202 Coyle St. (basement apartment) in Portland, Maine.
+
+                C.      The report states that [on] 04/08/07, at approximately 2100 hours,
+       Portland Police Officers Ryan Rooney and Chris Mitchell responded to 202 Coyle St.
+       (basement apartment) to meet with Christopher and Christina Marsh (202 Coyle St. #1)
+       for a report of a possible bullet hole in their apartment. Christopher Marsh told
+       Officers that he noticed a hole in his kitchen cabinet on 04/04/07. There were shards
+       of wood spread throughout his kitchen. It appeared to Marsh that someone had tried to
+       drill a hole from the outside in and he found this suspicious. Marsh called his landlord
+       who checked with the upstairs apartment and did not notice anything suspicious from
+       that location.
+
+               D.      The report also states that Marsh then told Officers that on 04/08/07, at
+       approximately 1900 hours, he noticed a small hole in his kitchen floor. He did not
+       notice this earlier. He wrote in his statement that he thought it was a bullet hole
+       because the hole was caused by something that came from downstairs. Marsh told
+       Officers that his downstairs neighbor was Christopher Poulos [Affiant note: I have
+       spoken with Portland Police Detective Mary Sauschuck on several occasions.
+       Detective Sauschuck is assigned to the Portland PD intelligence unit and part of her
+       responsibility is collecting information on known gang members in the Portland
+
+                                                  3
+Case 2:07-cr-00099-GZS Document 43 Filed 01/25/08 Page 4 of 21                         PageID #: 100
+
+
+
+       area. Detective Sauschuck told me that Christopher Poulos is a known member of
+       FSU, a Portland gang known to traffic in drugs and firearms as well as engage in
+       suspected intimidation and extortion. FSU members have both been convicted of
+       and suspected of numerous aggravated assaults in the Portland area over the past
+       several years. FSU is also a known support group for the Outlaws motorcycle club,
+       a known organized criminal entity].
+
+               E.       Officer Rooney wrote that Portland Police Evidence technician
+       Christopher Stearns responded and took photographs of the damage. E/T Stearns was
+       not able to find the discharged bullet. Attempts to reach Poulos in his apartment were
+       unsuccessful.
+
+               F.      On 04/05[/]07, I spoke with MDEA SS/A Scott Pelletier. SS/A
+       Pelletier told me that he had spoken to a source of information (hereafter referred to as
+       a SOI) and the SOI told him the following, in substance: The SOI [Note: SS/A
+       Pelletier told me that the SOI has provided reliable and accurate information
+       leading to the seizure of drugs during an ongoing investigation] told SS/A Pelletier
+       on 04/05/07 that IT had heard that Christopher Poulos had fired a machine gun through
+       his bedroom ceiling in the past few days. The SOI told SS/A Pelletier that Poulos
+       thought the bullet had entered the apartment above him.
+
+               G.       On 04/06/07, I spoke with a source of information (hereafter referred to
+       as SOI 2). SOI 2 has provided me with reliable information in the past that has led to
+       the seizure of drugs during an ongoing investigation. SOI 2 told me that Poulos told IT
+       that he shot a machine gun in his apartment and was surprised that the Police had not
+       shown up as he observed that the bullet went through his bedroom ceiling, into the
+       apartment above him.
+
+               H.      On 04/09/07, I spoke with Portland Police Evidence Technician
+       Christopher Stearns and he told me that based on his training, education, and
+       experience, a high velocity bullet caused the holes. He also told me that he used a
+       trajectory rod and was able to align the holes and determine the bullet had originated
+       from below the kitchen floor.
+
+               I.      On 04/09/07, I spoke with MDEA SS/A Scott Pelletier and he told me
+       that at 1335 hours, on 04/09/07, MDEA S/A’s Jeffrey Calloway and Patrick Lally
+       made contact with Poulos as he arrived at his apartment. He has not given consent for
+       a search to his apartment as of this time.
+
+Id. at [3]-[4]. In a different section of his Affidavit (section V(A)) Cashman added, inter alia, that
+
+based on his experience, education, training and/or study and the known facts of the investigation, he
+
+knew that:
+
+
+                                                  4
+Case 2:07-cr-00099-GZS Document 43 Filed 01/25/08 Page 5 of 21                        PageID #: 101
+
+
+
+       It is . . . common for those involved in the illegal trafficking/furnishing of scheduled
+       drugs to possess, carry, maintain, and keep with, near and by them, in vehicles, and/or
+       at the site(s) of drug operations or their residences firearms, ammunition and/or other
+       dangerous devices . . . for the purpose of defending, guarding, and protecting their
+       drugs, drug proceeds, drug operations, drug records and/or themselves.
+
+Id. at [5]. Cashman included nothing in the Affidavit regarding the controlled drug purchases or the
+
+defendant’s alleged placement of a handgun in a ceiling tile. He excluded reference to the drug
+
+purchases because the investigation was still ongoing and he did not want to reveal the name of the CI,
+
+which he felt might jeopardize that individual’s safety given the defendant’s affiliation with a street
+
+gang some of whose members had been convicted of, or suspected of, assault and other violent crimes.
+
+He was aware that court documents can be sealed but not that they can be sealed from the beginning of
+
+a case, before return of a search warrant. Of course, sealed court documents can be ordered unsealed,
+
+a decision over which Cashman has no control.
+
+       Cashman began drafting the Affidavit and proposed Warrant at the Portland MDEA office at
+
+about noon on April 9, 2007. At some point during the drafting process, he learned from Calloway
+
+that the defendant had stopped by his Coyle Street apartment. Either then or later that day, Calloway
+
+told Cashman that the defendant had told him he no longer had the gun.
+
+       Cashman finished his draft by about 2 p.m. Consistent with his usual practice, he ran it by his
+
+supervisor and an assistant attorney general. He followed suggestions of the assistant attorney general
+
+that he incorporate more detail from the Portland Police Department report and that he speak directly
+
+to Stearns, the evidence technician. After revising and finalizing his Affidavit, he departed for the
+
+Maine District Court building in Portland, arriving there between 2:30 and 2:40 p.m.
+
+         At the courthouse, Cashman typically makes contact with a court officer, who escorts him to
+
+the judges’ waiting area and informs an administrative assistant that he is looking to have a judge
+
+review a search-warrant application. A judge then typically reviews his papers and either comes out
+
+                                                  5
+Case 2:07-cr-00099-GZS Document 43 Filed 01/25/08 Page 6 of 21                         PageID #: 102
+
+
+
+to see him or calls him in. Cashman does not go through a warrant application page by page with a
+
+judge but, rather, answers any questions the judge might have. He swears to the truth of his affidavit
+
+and signs it in front of the judge.
+
+        Cashman does not recall whether, when he presented the instant application at the Maine
+
+District Court building, a judge was available immediately. He met with Maine District Court Judge
+
+Paul Eggert at about 3 p.m., and Judge Eggert signed the Warrant at that time. Before doing so, Judge
+
+Eggert pointed out that Cashman had neglected to put his name on the front page of the Warrant.
+
+Cashman handwrote in his name, and both he and Judge Eggert initialed the change. See Warrant at 1.
+
+Cashman does not know how much time Judge Eggert spent reviewing the papers.
+
+        Cashman now is aware that the Affidavit and proposed Warrant contain several errors in
+
+addition to that caught by Judge Eggert:
+
+        1.      In section II(B) of his Affidavit, and in paragraph B of the proposed Warrant, he should
+
+have deleted reference to “evidence of the offenses of possession, furnishing, and/or trafficking
+
+scheduled drugs” and substituted “evidence of the offense of reckless conduct.” See Affidavit at [2];
+
+Warrant at 2.
+
+        2.      In section III(C) of his Affidavit, he should not have included the parenthetical
+
+expression “(basement apartment)” to describe the Marshes’ apartment, which is upstairs from the
+
+defendant’s basement apartment. See Affidavit at [3].
+
+        3.      He should not have included Section V(A) of his Affidavit, detailing his knowledge of
+
+drug dealers’ common practice of keeping firearms and other weapons, which is irrelevant to the
+
+reckless-conduct charge. See id. at [5].
+
+        Cashman, an MDEA agent, typically seeks warrants involving crimes of drug trafficking. In
+
+drafting the instant proposed Warrant and Affidavit, he modified a template he uses to seek search
+
+                                                   6
+Case 2:07-cr-00099-GZS Document 43 Filed 01/25/08 Page 7 of 21                                                PageID #: 103
+
+
+
+warrants involving drug-trafficking crimes. In so doing, he neglected to delete or modify all irrelevant
+
+portions of his boilerplate language. Despite the errors, Cashman understood that the Warrant
+
+authorized a search for evidence of the crime of reckless conduct, as is reflected in the section of his
+
+Affidavit titled “Reason for Seizure.” He understood, despite the mistaken references to drug-
+
+trafficking crimes, that the Affidavit did not establish probable cause to search for evidence of the
+
+crime of drug trafficking and that the Warrant did not authorize such a search.
+
+          After making copies of the signed Warrant and Affidavit, Cashman proceeded to the
+
+defendant’s apartment. There he met with his supervisor, Pelletier, as well as fellow agents Lally,
+
+Calloway and Scott Durst.2 A briefing was held to confirm that the Warrant had been signed and that it
+
+authorized a search for evidence of the crime of reckless conduct. Copies of the signed Warrant and
+
+Affidavit were available at the defendant’s apartment. At approximately 3:20 p.m., following the
+
+briefing, agents commenced their search. The defendant’s apartment is relatively small, consisting of
+
+a small closet, a bedroom, a kitchen/living-room area, a bathroom and, across from the exterior
+
+entryway to the apartment, a small storage area. Pelletier searched for and immediately found a bullet
+
+hole in the defendant’s bedroom ceiling. Cashman found a ladder and used it to begin peering above
+
+the ceiling tiles in search of the handgun the CI had described having seen. He recovered a Ruger .357
+
+handgun loaded with rounds of ammunition from above a ceiling tile, a discovery reflected in the
+
+MDEA crime-scene evidence log as Item 1ND [non-drug]. See Joint Exh. 2. In addition, agents
+
+seized the following items during the search: (i) Item 2ND, ammunition (various .357 rounds and one
+
+.22 round), from a kitchen cabinet; (ii) Item 3ND, eighteen shotgun shells, from a kitchen cabinet; (iii)
+
+Item 4ND, a savings deposit book and an electric bill, from a kitchen cabinet, (iv) Item 5ND, a
+
+
+2
+ Cashman did not recall whether an evidence technician was then present. Nothing turns on the point at which the evidence technician
+(continued on next page)
+
+                                                                 7
+Case 2:07-cr-00099-GZS Document 43 Filed 01/25/08 Page 8 of 21                         PageID #: 104
+
+
+
+handwritten note, from the bar area of the counter, (v) Item 6ND, a handgun holster, from the bedroom,
+
+(vi) Item 7D [drug], suspected Psilocybin (or mushrooms), from the bottom of a kitchen garbage can,
+
+(vii) Item 8ND, an Arm and Hammer box containing a suspected bullet hole, from the bottom of a
+
+kitchen garbage can, (viii) Item 9ND, the top of a digital scale, from a kitchen drawer, (ix) Item 10ND,
+
+the top of a grinder and a tinfoil FSU sign, from the kitchen, (x) Item 11ND, a shoebox containing
+
+numerous baggies, two digital scales, a grinder and two Inositol bottles, from the storage area, and (xi)
+
+Item 12ND, an empty Inositol bottle, from the bedroom. See, e.g., id; Gov’t Exhs. 1-15. The
+
+suspected Psilocybin and the Arm and Hammer box were not visible upon peering into the kitchen
+
+trash can; agents had to hunt through the can to find them. The shoebox seized from the storage area
+
+was covered by a lid, which agents had to remove to ascertain its contents. Kitchen drawers or
+
+cabinets from which various items were seized were closed upon agents’ entry into the apartment.
+
+         Psilocybin is a controlled substance. In Cashman’s estimation, the quantity found was
+
+distribution-level rather than personal-use level. In Cashman’s experience, digital scales are used by
+
+drug traffickers to weigh their wares prior to sale, and grinders are used by drug traffickers to
+
+combine powdered cocaine with a cutting agent, Inositol, which has a similar texture and color as
+
+cocaine. By combining cocaine with a cutting agent, a drug trafficker can increase the volume of his
+
+wares, and hence his or her profits, without actually increasing the amount of the drug.
+
+         Cashman is not an expert in bullets and does not know whether high-velocity bullets can be
+
+fired only from high-velocity weapons. The bullet fired through the ceiling into the upstairs apartment
+
+was never recovered. Cashman does not agree with the proposition that a handgun is not a high-
+
+velocity weapon. He cannot tell by looking at the Ruger whether that gun caused the bullet hole agents
+
+____________________________
+arrived at the defendant’s apartment.
+
+
+                                                   8
+Case 2:07-cr-00099-GZS Document 43 Filed 01/25/08 Page 9 of 21                         PageID #: 105
+
+
+
+were investigating.
+
+                                            II. Discussion
+
+         In his motion, the defendant argues that:
+
+         1.      The Warrant’s description of items to be seized is overly broad inasmuch as probable
+
+cause was established only for search for a high-velocity weapon, casing(s), gunshot residue and
+
+damage to the bedroom ceiling. See Motion at 9.
+
+         2.      By the time the Warrant was obtained, authorities were aware it was stale inasmuch as
+
+they knew the gun had been discharged at least five days prior thereto and had been told by the
+
+defendant that he no longer had the gun. See id. at 9 n.2.
+
+         3.      The inventory of items seized was defective inasmuch as it did not contain all items
+
+seized and was not verified as required by Maine Rule of Criminal Procedure 41(d). See id. at 9-10.
+
+         4.      The Ruger handgun and holster were not evidence of any criminal conduct and were
+
+improperly seized under any analysis. See id. at 10.
+
+         5.      Identity evidence (Items 4ND and 5ND) must be suppressed inasmuch as the Warrant
+
+sought identity items related to crimes of drug trafficking but did not establish probable cause to
+
+believe drug trafficking had occurred. See id. at 10-11.
+
+         6.      Inasmuch as the Affidavit did not establish probable cause to believe the defendant had
+
+been engaged in drug trafficking, all drug-trafficking evidence seized by agents must be suppressed.
+
+See id. at 11.
+
+         7.      Statements given before and after Miranda warnings should be suppressed. See id. at
+
+11-12.
+
+         At hearing, defense counsel confirmed – as the government had represented in its brief, see
+
+Government’s Objection to Defendant’s Motion To Suppress Evidence, etc. (“Response”) (Docket
+
+                                                     9
+Case 2:07-cr-00099-GZS Document 43 Filed 01/25/08 Page 10 of 21                          PageID #: 106
+
+
+
+No. 30) at 7 n.10 – that he has withdrawn his argument concerning the making of a defective inventory.
+
+ Counsel for the government also reiterated, as stated in the government’s brief, see id. at 1 n.1, that
+
+the government does not intend to introduce in its case-in-chief any statements made by the defendant
+
+to police on April 9, 2007, thereby mooting the defendant’s challenge to the admission of statements.
+
+        With respect to the defendant’s remaining points, the government rejoins that (i) while the
+
+Warrant mistakenly includes references to the crime of drug trafficking, those mistakes are not fatal to
+
+its validity; (ii) there is no staleness problem; (iii) the Warrant’s description of items to be seized is
+
+not overly broad, and the Ruger handgun, holster and ammunition properly were seized pursuant
+
+thereto, (iv) evidence of the crime of drug trafficking properly was seized pursuant to the plain-view
+
+exception to the warrant requirement, as was the Ruger handgun, assuming arguendo that it was not
+
+properly seized pursuant to the Warrant itself, and, (v) even assuming arguendo that the Warrant was
+
+overly broad or lacking in probable cause, agents acted in good faith, rendering suppression
+
+inappropriate pursuant to United States v. Leon, 468 U.S. 897 (1984). See id. at 6-16. In his papers
+
+and at hearing, defense counsel countered that as many as three of four exclusions to the Leon
+
+exception apply. See, e.g., Defendant’s Reply to the Government’s Objection to Defendant’s Motion
+
+To Suppress Evidence (“Reply”) (Docket No. 33) at 3-4.
+
+        A defendant bears the burden of proving the illegality of a warrant; if he succeeds, the burden
+
+shifts to the government to prove entitlement to the Leon good-faith exception. See, e.g., United States
+
+v. Longmire, 761 F.2d 411, 417 (7th Cir.1985) (“The general federal rule on who bears the burden of
+
+proof with respect to an allegedly illegal search or seizure is based upon the warrant-no warrant
+
+dichotomy: If the search or seizure was effected pursuant to a warrant, the defendant bears the burden
+
+of proving its illegality; if the police acted without a warrant, the prosecution bears the burden of
+
+establishing legality.”); see also, e.g., United States v. Koerth, 312 F.3d 862, 868 (7th Cir. 2002) (“If
+
+                                                   10
+Case 2:07-cr-00099-GZS Document 43 Filed 01/25/08 Page 11 of 21                         PageID #: 107
+
+
+
+a defendant is successful in establishing the invalidity of the search warrant, the burden then shifts to
+
+the Government to establish that the police relied in good faith on the judge’s decision to accept the
+
+affidavit and issue the warrant.”).
+
+        “[P]olice officers may seize an object in ‘plain view’ without a warrant if they have probable
+
+cause to believe it is contraband without conducting some further search of the object, i.e., if its
+
+incriminating character is immediately apparent.” United States v. Schiavo, 29 F.3d 6, 9 (1st Cir.
+
+1994) (citation and internal quotation marks omitted). The government bears the burden of proving
+
+entitlement to the plain-view exception to the warrant requirement. See, e.g., United States v.
+
+Ribeiro, 397 F.3d 43, 53 & n.8 (1st Cir. 2005).
+
+         For the reasons that follow, I conclude that (i) the defendant fails to carry his burden of
+
+proving the invalidity of the Warrant, (ii) in any event, assuming arguendo that the Warrant is in some
+
+respects invalid, the government carries its burden of proving applicability of the Leon good-faith
+
+exception, (iii) the defendant falls short of demonstrating that any exclusion to the Leon exception
+
+applies, and (iv) to the extent the police seized items beyond the scope of the Warrant, the government
+
+meets its burden of showing that those items lawfully were seized inasmuch as they were in plain
+
+view.
+
+                              A. Warrant Particularity Requirement
+
+        The defendant’s first point implicates the command of the Fourth Amendment that “no warrants
+
+shall issue, but upon probable cause, and particularly describing the place to be searched.” United
+
+States v. Bonner, 808 F.2d 864, 866 (1st Cir. 1986) (citation and internal punctuation omitted). The
+
+“manifest purpose” of this particularity requirement “is to prevent wide-ranging general searches by
+
+the police.” Id. The defendant relies heavily on United States v. Roche, 614 F.2d 6 (1st Cir. 1980),
+
+in which the First Circuit held overbroad a warrant authorizing seizure of all of an insurer’s
+
+                                                   11
+Case 2:07-cr-00099-GZS Document 43 Filed 01/25/08 Page 12 of 21                       PageID #: 108
+
+
+
+documents for evidence of violation of 18 U.S.C. § 1341 when the police had established probable
+
+cause only to believe that the crime had been committed with respect to automobile insurance. See
+
+Motion at 6-9; Roche, 614 F.2d at 7 (“Here, the government could have limited the objects of search
+
+and seizure to documents and records pertaining to automobile insurance, but declined to do so. This
+
+impermissibly broadened the scope of the search beyond the foundation of probable cause.”)
+
+(footnotes omitted).
+
+       The defendant posits that the instant Warrant authorized precisely the type of wide-ranging
+
+general rummaging the particularity requirement is designed to guard against inasmuch as it permitted
+
+search for a wide variety of weapons and drug-trafficking evidence when the accompanying Affidavit
+
+established probable cause to search only for a machine gun or similar high-velocity weapon,
+
+casing(s), gunshot residue and damage to the bedroom ceiling. See Motion at 7-9. In such
+
+circumstances, defense counsel argued at hearing, the appropriate remedy is blanket suppression of all
+
+evidence seized pursuant to the warrant – a proposition for which he cited United States v.
+
+Fitzgerald, 724 F.2d 633 (8th Cir. 1983), and 12A Federal Procedure: Lawyers’ Edition § 33:697.
+
+He contended that, alternatively, the court should grant partial suppression on particularity grounds,
+
+banning the introduction of evidence seized on April 9, 2007 that does not fall within the confines of
+
+the Warrant as he posits it should have been tailored, including the Ruger handgun and all drug-related
+
+evidence seized from the defendant’s apartment.
+
+       As a threshold matter, insofar as appears from my research, the First Circuit has declined to
+
+embrace blanket suppression as a remedy in cases in which a warrant is partially valid. See, e.g.,
+
+United States v. Falon, 959 F.2d 1143, 1149 (1st Cir. 1992) (“The remedy in the case of a seizure
+
+that casts its net too broadly is, as we held in United States v. Riggs, 690 F.2d 298, 300 (1st Cir.
+
+
+
+                                                  12
+Case 2:07-cr-00099-GZS Document 43 Filed 01/25/08 Page 13 of 21                         PageID #: 109
+
+
+
+1982), not blanket suppression but partial suppression.”). In any event, on the record made in this
+
+case, even partial suppression is unwarranted.
+
+        The defendant’s characterization of the Warrant is itself overbroad. Most notably, the Warrant
+
+does not authorize search for evidence of the crime of drug trafficking. See Warrant at 2. Rather, it
+
+authorizes search for only two categories of evidence: (i) weapons and (ii) identity evidence. See id.
+
+As counsel for the government underscored at hearing, the crime of drug trafficking is mentioned only
+
+in connection with authorization to search for identity evidence, i.e., “[e]vidence demonstrating
+
+identity, possession, dominion, custody or control by any and all individuals over/in the premises to
+
+be searched[,]” including fingerprints, hairs, fibers and documents. Id.
+
+        With respect to the first category of items to be searched – the weapons category – the
+
+defendant falls short of establishing that the Warrant is overbroad insofar as it authorizes a search for
+
+firearms-related evidence. See id. The bullet that penetrated the defendant’s ceiling and entered his
+
+neighbors’ apartment was never recovered. While the Affidavit represented that Stearns, the evidence
+
+technician, had established that the bullet hole was caused by a high-velocity bullet, the Affidavit did
+
+not represent that such a bullet can be fired only from a machine gun or similar weapon. Nor did the
+
+defendant adduce any evidence at hearing suggesting that (i) that is in fact the case, (ii) Cashman knew
+
+it to be the case, or (iii) any reasonable law-enforcement officer would have known it to be the case.
+
+        The defendant makes much of the fact that the Affidavit also relayed that two confidential
+
+informants, who had provided reliable information in the past, had reported that the defendant told
+
+them he had fired a machine gun from his apartment. See Motion at 8; Reply at 2. Nonetheless, even
+
+if, as the Affidavit suggests, the informants accurately relayed the substance of their conversation with
+
+the defendant, their reports do not definitively establish that the offending weapon was a machine gun.
+
+ The Affidavit provided no indication that (i) either informant had seen a machine gun in the
+
+                                                   13
+Case 2:07-cr-00099-GZS Document 43 Filed 01/25/08 Page 14 of 21                                                  PageID #: 110
+
+
+
+defendant’s possession or in his apartment, (ii) the defendant necessarily told the informants the truth
+
+about the nature of the weapon fired, or (iii) the police were able to confirm following investigation
+
+that the weapon was a machine gun. In the circumstances, and in the absence of any evidence tending
+
+to show that officers could or should have differentiated among firearms capable of firing a high-
+
+velocity bullet, the Warrant permissibly authorized a search, inter alia, for firearms and ammunition
+
+(such as Items 1ND, 2ND and 3ND). See, e.g., United States v. Morris, 977 F.2d 677, 681 (1st Cir.
+
+1992) (“General descriptions in warrants . . . have been accepted when the surrounding circumstances
+
+render it reasonable.”); United States v. Fuccillo, 808 F.2d 173, 176 (1st Cir. 1987) (“general
+
+descriptions are permissible only in special contexts in which there [is] substantial evidence to
+
+support the belief that the class of contraband [is] on the premises and in practical terms the goods to
+
+be described [can] not be precisely described.”) (citation and internal quotation marks omitted).3
+
+While the holster (Item 6ND) and Arm and Hammer box containing a suspected bullet hole (Item 8ND)
+
+are not among items expressly enumerated in the weapons category of the Warrant, authority to search
+
+is “not limited to” the enumerated items. See Warrant at 2. Officers permissibly seized the holster as
+
+evidence linking the defendant to a firearm from which the bullet might have been fired and the Arm
+
+and Hammer box as evidence tending to incriminate the defendant with respect to the crime in
+
+question.
+
+          With respect to the second category of items to be seized – identity evidence – I agree with the
+
+government that it is reasonably clear from examination of the Warrant and Affidavit (which is
+
+attached to and incorporated by reference in the Warrant, see Warrant at 1, and therefore validly may
+
+
+3
+ Even assuming arguendo that, with respect to ammunition, the Warrant should have authorized a search only for high-velocity
+ammunition, the defendant adduced no evidence that the ammunition actually seized is not high-velocity ammunition. He thus falls short
+of demonstrating a basis for suppression of any of that ammunition.
+
+
+                                                                 14
+Case 2:07-cr-00099-GZS Document 43 Filed 01/25/08 Page 15 of 21                        PageID #: 111
+
+
+
+be taken into account in assessing whether the Warrant is overbroad, see, e.g., Roche, 614 F.2d at 8)
+
+that the language referencing drug trafficking was mistakenly included. The Affidavit makes clear that
+
+the “Reason for Seizure” is to obtain evidence of the crime of reckless conduct; the focus of its
+
+customized facts section is the alleged firearm discharge. See Affidavit at [2]-[4]. What is more, as
+
+the government suggests, see Response at 10, Cashman, who had drafted the proposed Warrant and
+
+Affidavit and understood the Warrant only to authorize search for evidence of the crime of reckless
+
+conduct, was present throughout the search, including during a briefing at which all participating
+
+agents were advised that the Warrant authorized search for evidence of the crime of reckless conduct.
+
+As the government notes, see id., such circumstances militate in favor of a finding that an error is
+
+merely technical, see, e.g., United States v. Bianco, 998 F.2d 1112, 1117 (2d Cir. 1993) (“The
+
+affidavit was present at the time of the search, and spells out quite clearly the nature and purpose of
+
+the proposed search. It explains in detail the motivation behind the search and the nature of the
+
+documents sought. When the warrant and affidavit are read together, there is no ambiguity. Moreover,
+
+although the warrant may not have explicitly incorporated the affidavit, the presence and activity of
+
+agent Hutton, who had read the affidavit and who approved each seizure, satisfies us that the
+
+limitations included in the affidavit were observed.”).
+
+       In any event, it is difficult to see how the mistake in question could have made any difference
+
+in the nature of the ensuing search. The identity-evidence section of the Warrant authorizes search for
+
+documents establishing the identity of the apartment’s occupants/visitors – things such as Item 4ND,
+
+the savings-deposit book and electricity bill, and Item 5ND, the handwritten note. The final clause in
+
+that section of the Warrant merely describes the nature of the crime with respect to which those items
+
+have evidentiary value; it does not transmute the character of the evidence to be sought or seized. See
+
+Warrant at 2.
+
+                                                  15
+Case 2:07-cr-00099-GZS Document 43 Filed 01/25/08 Page 16 of 21                                                 PageID #: 112
+
+
+
+          For all of the foregoing reasons, the defendant fails to make a persuasive case that suppression
+
+of any of the firearms-related or identity evidence seized (Items 1ND, 2ND, 3ND, 4ND, 5ND, 6ND
+
+and 8ND) is appropriate on grounds of the asserted overbreadth of the Warrant. 4
+
+                                                 B. Staleness Argument
+
+          The defendant next asserts that by the time the Warrant was obtained, authorities were aware it
+
+was stale because they knew the gun had been discharged at least five days earlier and had been told
+
+by the defendant that he no longer had the gun. See Motion at 9 n.2. This assertion is without merit.
+
+Officers sought a warrant within a day of taking a complaint from the defendant’s upstairs neighbors
+
+that they had discovered what appeared to be a bullet hole in their apartment. That complaint, in turn,
+
+appeared to have been lodged within a matter of a few days of the apparent gun discharge. Cashman,
+
+the only witness at hearing, did not recall whether he learned before or after applying for the Warrant
+
+that the defendant had a conversation with Calloway in which the defendant claimed he no longer had
+
+the gun. In any event, officers were not obliged to take the defendant’s claim at face value, and they
+
+sought other evidence besides the gun – for example, evidence of gunshot residue and damage to the
+
+defendant’s ceiling. In the circumstances, the information possessed by officers was not too stale to
+
+convey probable cause for the search. Compare, e.g., United States v. Bizier, 111 F.3d 214, 219 (1st
+
+Cir. 1997) (“a long delay in seeking a search warrant can create difficulties if the information is
+
+stale”) (emphasis omitted).
+
+                                            C. Leon Good-Faith Exception
+
+          In the event the court should disagree with my conclusion that the defendant falls short of
+
+
+4
+  This analysis is dispositive of the defendant’s fourth and fifth points – that the Ruger handgun and holster were not contraband or
+evidence of any criminal conduct and were improperly seized under any analysis, and that documents seized as evidence of possessing,
+distributing or trafficking in scheduled drugs (i.e., Items 4ND and 5ND) must be suppressed. See Motion at 9-10. Accordingly, I do
+(continued on next page)
+
+                                                                16
+Case 2:07-cr-00099-GZS Document 43 Filed 01/25/08 Page 17 of 21                             PageID #: 113
+
+
+
+proving the invalidity of the Warrant, I consider the government’s backstop Leon argument. See
+
+Response at 13-16. Pursuant to Leon, “[e]vidence seized in violation of the Fourth Amendment is
+
+admissible in court if the government placed an objectively reasonable reliance on a neutral and
+
+detached magistrate judge’s incorrect probable cause determination.” United States v. Crosby, 106 F.
+
+Supp.2d 53, 58 (D. Me. 2000), aff’d, 24 Fed. Appx. 7 (1st Cir. 2001) (citation and internal quotation
+
+marks omitted). The Leon exception is itself subject to exceptions:
+
+         There are four exclusions to the Leon good-faith exception: (1) when the magistrate
+         was misled by information in an affidavit that the affiant knew was false or would
+         have known was false except for his reckless disregard for the truth; (2) where the
+         issuing magistrate wholly abandoned his detached and neutral judicial role; (3) where
+         the affidavit is so lacking in indicia of probable cause as to render official belief in its
+         existence entirely unreasonable; and (4) where a warrant is so facially deficient – i.e.
+         in failing to particularize the place to be searched or the things to be seized – that the
+         executing officers cannot reasonably presume it to be valid.
+
+United States v. Owens, 167 F.3d 739, 745 (1st Cir. 1999) (citation and internal punctuation omitted).
+
+ The defendant bears the burden of rebutting the government’s good-faith showing by demonstrating
+
+that one or more of the Leon exclusions applies. See, e.g., Koerth, 312 F.3d at 868.
+
+         The government meets its Leon burden, showing that (i) Cashman, who was modifying a
+
+template geared toward drug-trafficking crimes, mistakenly included references relevant to such
+
+crimes (and irrelevant to the crime of reckless conduct) in his Affidavit and proposed Warrant, (ii) as
+
+per his usual practice, Cashman sought review of the Affidavit and proposed Warrant by his
+
+supervisor and an assistant attorney general, neither of whom picked up on the mistakes, and
+
+(iii) Cashman understood the Warrant to authorize only search for evidence of the crime of reckless
+
+conduct.
+
+         At hearing and in his papers, the defendant invoked the first, second and fourth Leon
+
+____________________________
+not separately address those points.
+
+
+                                                     17
+Case 2:07-cr-00099-GZS Document 43 Filed 01/25/08 Page 18 of 21                          PageID #: 114
+
+
+
+exclusions, arguing that:
+
+        1.      Given the time sequences and the fact that the issuing judge missed blatant errors in the
+
+Affidavit and proposed Warrant, it can be fairly inferred that he simply rubber-stamped the Warrant.
+
+        2.      The agent should have known it was an invalid warrant because indeed it was, and he
+
+acknowledges that.
+
+        3.      Cashman omitted to include in the Affidavit information known to him.
+
+        The defendant fails to make a persuasive case as to any of these points. Defense counsel
+
+argued at hearing that the court should find, as a factual matter, that Judge Eggert signed the Warrant at
+
+approximately the same time as he first saw the papers (at about 3 p.m.). However, Cashman’s
+
+testimony was that he arrived at the courthouse twenty to thirty minutes prior to the time Judge Eggert
+
+signed the Warrant. Although Cashman did not remember precisely what happened in that instance, he
+
+testified that he typically hands his papers to a court officer, who provides them to a judge for review,
+
+and that the judge meets with him afterward (after having had an opportunity to review the papers). In
+
+the circumstances, I am unwilling to infer that the judge failed to scrutinize these papers. Further,
+
+while the judge did not detect the mistaken reference to the crime of drug trafficking, he did pick up on
+
+an error in the Warrant, the omission of Cashman’s name on the front page. I am unpersuaded that the
+
+issuing judge “wholly abandoned his detached and neutral judicial role[.]” Owens, 167 F.3d at 745
+
+(citation and internal quotation marks omitted).
+
+        While Cashman acknowledged that the Affidavit and proposed Warrant contained several
+
+mistakes, most of which (including incorporation of irrelevant drug-trafficking language) resulted from
+
+his failure to delete those sections from the boilerplate language he used as a starting point, he never
+
+admitted that the Warrant was invalid. Nor can it be said that it was so facially deficient that
+
+executing officers could not reasonably presume it to be valid. As noted above, the Warrant
+
+                                                   18
+Case 2:07-cr-00099-GZS Document 43 Filed 01/25/08 Page 19 of 21                            PageID #: 115
+
+
+
+authorized search for two categories of things: weapons evidence and identity evidence. The
+
+Affidavit provided ample probable cause to believe that evidence of the crime of reckless conduct
+
+would be discovered in the defendant’s apartment. Both categories of evidence listed in the Warrant
+
+were relevant to that crime.
+
+        Finally, the defendant posits that Cashman omitted important information from the Affidavit,
+
+failing to inform the issuing judge of the ongoing drug investigation, including the confidential
+
+informant’s report that the defendant had placed a handgun in a ceiling tile. See, e.g., Reply at 4 n.4.
+
+Nonetheless, the defendant fails to explain how inclusion of that information could have altered the
+
+judge’s analysis. Nor is the materiality of the information, which Cashman omitted for good reason
+
+(concern for the safety of the informant), otherwise apparent. The drug-investigation information was
+
+irrelevant, and the handgun information simply would have added additional heft (although no more
+
+was required) to the probable-cause finding. It therefore is difficult to discern how these omissions
+
+“misled” the issuing judge.
+
+        For these reasons, to the extent the court finds the Warrant to have been invalid, the Leon good-
+
+faith exception applies, and the Motion should be denied to the extent it seeks suppression of items
+
+seized pursuant to the Warrant.
+
+                                       D. Plain-View Doctrine
+
+        A final category remains: drugs or drug-trafficking-related items. The government concedes
+
+that seizure of these items was not authorized by the Warrant but asserts that officers validly seized
+
+them inasmuch as they were in plain view. See Response at 12-13. The governments meets its burden
+
+of proving the validity of their seizure.
+
+        “It has long been settled that objects falling in the plain view of an officer who has a right to be
+
+in the position to have that view are subject to seizure and may be introduced in evidence.” United
+
+                                                    19
+Case 2:07-cr-00099-GZS Document 43 Filed 01/25/08 Page 20 of 21                         PageID #: 116
+
+
+
+States v. Meada, 408 F.3d 14, 23 (1st Cir. 2005) (citation and internal quotation marks omitted).
+
+“[P]olice officers may seize an object in ‘plain view’ without a warrant if they have probable cause to
+
+believe it is contraband without conducting some further search of the object, i.e., if its incriminating
+
+character is immediately apparent.” Schiavo, 29 F.3d at 9 (citation and internal quotation marks
+
+omitted); see also, e.g., United States v. Friel, 448 F. Supp.2d 222, 227 (D. Me. 2006) (“[O]nce law
+
+enforcement reached the head of defendant’s bed pursuant to a search warrant that included the entire
+
+residence, they were entitled to seize the weapon in ‘plain view,’ because given the defendant’s status
+
+as a felon, it was illegal for him to possess the firearm and, therefore, it was reasonable for them to
+
+believe that the gun was evidence of a crime.”).
+
+        The items in issue are Item 7D, the suspected Psilocybin (or mushrooms) seized from the
+
+bottom of a kitchen garbage can; Item 9ND, the top of a digital scale, seized from a kitchen drawer;
+
+Item 10ND, the top of a grinder, seized from the kitchen; Item 11ND, a shoebox containing numerous
+
+baggies, two digital scales, a grinder and two Inositol bottles, seized from the storage area; and Item
+
+12ND, an empty Inositol bottle, seized from the bedroom. See, e.g., Joint Exh. 2.
+
+        Officers had a right to be in the position to have a view of each of those items. The Warrant
+
+authorized search not only for firearms but also for much smaller items such as bullet casings and
+
+ammunition. Officers legitimately searched through the contents of the kitchen garbage can, opened
+
+drawers and cabinets and removed the lid from the shoebox found in the storage room in search of the
+
+authorized items. The incriminating character of the drug-related items seized was immediately
+
+apparent to Cashman, a trained MDEA agent, and presumably to his MDEA colleagues assisting in the
+
+search. He recognized the bagged mushrooms as Psilocybin, a controlled substance, and recognized
+
+the digital scales, grinder, baggies and Inositol bottles as items commonly used in the drug-trafficking
+
+trade in general or in aid of cocaine trafficking specifically. Those items accordingly were validly
+
+                                                   20
+Case 2:07-cr-00099-GZS Document 43 Filed 01/25/08 Page 21 of 21                       PageID #: 117
+
+
+
+seized pursuant to the plain-view exception to the warrant requirement.
+
+                                          III. Conclusion
+
+       For the foregoing reasons, I recommend that the proposed findings of fact herein be adopted
+
+and that the Motion be DENIED.
+
+
+                                               NOTICE
+
+        A party may file objections to those specified portions of a magistrate judge’s report or
+proposed findings or recommended decisions entered pursuant to 28 U.S.C. § 636(b)(1)(B) for
+which de novo review by the district court is sought, together with a supporting memorandum,
+within ten (10) days after being served with a copy thereof. A responsive memorandum shall be
+filed within ten (10) days after the filing of the objection.
+
+        Failure to file a timely objection shall constitute a waiver of the right to de novo review by
+the district court and to appeal the district court’s order.
+
+
+       Dated this 25th day of January, 2008.
+
+
+                                                      /s/ David M. Cohen
+                                                      David M. Cohen
+                                                      United States Magistrate Judge
+
+
+
+
+                                                 21
+

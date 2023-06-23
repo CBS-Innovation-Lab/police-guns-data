@@ -1,0 +1,757 @@
+Case 1:09-cr-00157-JAW Document 38 Filed 02/03/10 Page 1 of 14                                  PageID #: 122
+
+
+
+                                 UNITED STATES DISTRICT COURT
+                                      DISTRICT OF MAINE
+
+UNITED STATES OF AMERICA                             )
+                                                     )
+         v.                                          )       CR-09-157-B-W
+                                                     )
+BRIAN MURPHY                                         )
+
+              ORDER ON DEFENDANT’S MOTION TO DISMISS INDICTMENT
+
+         Plaintiff contends that emergency hospitalization for a mental illness cannot qualify as
+
+“committed to a mental institution” for purposes of 18 U.S.C. § 922(g)(4) without making the
+
+word “commitment” unconstitutionally vague and violating the Second Amendment. The Court
+
+denies the motion.
+
+I.       STATEMENT OF FACTS1
+
+         On April 22, 2009, Brian Murphy was involuntarily hospitalized after he attempted
+
+suicide. Application for Emergency Involuntary Admission to a Mental Hospital Ex. A (Docket
+
+# 24).    Consistent with Maine law, three steps were taken to ensure Mr. Murphy needed
+
+hospitalization. 34-B M.R.S.A. § 3863. First, a psychiatric clinician filled-out and signed an
+
+application for emergency committal or “blue paper,”2 describing why she believed Mr. Murphy
+
+was mentally ill and posed a likelihood of serious harm. Id. at § 3863(1). Second, a physician
+
+certified that she examined Mr. Murphy on the date of the certification and agreed that Mr.
+
+Murphy was mentally ill and posed a likelihood of serious harm. Id. at § 3863(2). Third, a
+
+
+
+
+1
+  The Defendant prudently frames the statement of facts as reflecting facts that the Government provided in
+discovery and intends to prove at trial.
+2
+  “Blue paper” is the short hand parlance for emergency involuntary admission applications in Maine because
+historically the three part forms were printed on blue paper. United States v. Smith, 511 F.3d 77, 79 n.1 (1st Cir.
+2007) (citing United States v. Flanders, Crim. No. 03-76-B-W, 2004 WL 444027, at *2 n.1 (D. Me. Mar. 4, 2004)).
+Case 1:09-cr-00157-JAW Document 38 Filed 02/03/10 Page 2 of 14                                     PageID #: 123
+
+
+
+judicial officer, here the Chief Judge of the Maine District Court, certified that the application
+
+complied with Maine law. Id. at § 3863(3).3
+
+         On April 27, 2009 the hospital moved to formally commit Mr. Murphy through 34-B
+
+M.R.S.A. § 3864‟s hearing process. Mot. and Order for Dismissal Ex. C (Docket # 24).4 On
+
+April 29, 2009, the State informed Mr. Murphy of the hospital‟s intentions. Notice of Hearing,
+
+Order to Examine, and Appointment of Counsel Ex. B (Docket # 24). This notice, entitled
+
+Notice of Hearing, Order to Examine and Appointment of Counsel, stated in part:
+
+         If an Order of Involuntary Commitment is ultimately entered in this case, the
+         patient would be considered a “prohibited person” and may not own, possess, or
+         have under that person‟s control a firearm pursuant to Title 15, Section 393,
+         Subsection 1.
+
+Id. On that same day, however, Eric Kuntz, M.D., interim Chief Medical Officer of Acadia
+
+Hospital, moved that the pending application be dismissed because “the said patient may be
+
+discharged from involuntary hospitalization with safety.” Mot. and Order for Dismissal Ex. C.
+
+The state court granted the motion on April 30, 2009. Id. On June 2, 2009, Mr. Murphy was
+
+arrested for having a gun at the Bangor Mall and on October 14, 2009, he was indicted under 18
+
+U.S.C. § 922(g)(4) for possession of a gun by someone “who has been committed to a mental
+
+institution.” Indictment (Docket # 1). Mr. Murphy‟s sole commitment was his emergency
+
+hospitalization in April 2009.
+
+         On December 16, 2009, Mr. Murphy moved to dismiss the indictment under both the
+
+Second and Fifth Amendments. Def.’s Mot. to Dismiss (Docket # 24) (Mot. to Dismiss). The
+
+Government responded on January 5, 2010. Gov’t’s Resp. to Def.’s Mot. to Dismiss (Docket #
+3
+  Maine law requires that a physician or psychologist examine the patient within 24 hours of admission. Either the
+patient is again certified as suffering from a mental illness and posing a likelihood of serious harm or the patient is
+immediately discharged. § 3863(7). The record does not contain any information about this second certification.
+4
+  Section 3863(5)(B)(2) states that the application for commitment “must be filed within 3 days from the date of
+admission of the patient under this section, except that, if the 3rd day falls on a weekend or holiday, the application
+must be filed on the next business day.” Normally the hospital would have had to file its application on April 25,
+2009. However, because April 25, 2009 was a Saturday, the hospital submitted its application on April 27.
+
+                                                          2
+Case 1:09-cr-00157-JAW Document 38 Filed 02/03/10 Page 3 of 14                                  PageID #: 124
+
+
+
+31) (Gov’t’s Resp.). Mr. Murphy replied to the Government on January 19, 2010. Def.’s Reply
+
+to Gov’t’s Resp. to Def.’s Mot. to Dismiss (Docket # 36) (Def.’s Reply).
+
+        A.       34-B M.R.S.A. § 3863 and 34-B M.R.S.A. § 3864
+
+        As Mr. Murphy‟s experience demonstrates, Maine law has two separate procedures for
+
+hospitalization when there is concern that a patient poses a likelihood of serious harm because of
+
+a mental illness. Section 3863 allows for emergency hospitalization based on the asserted belief
+
+by an applicant and a doctor‟s certification. This ex parte procedure provides no opportunity for
+
+the patient to respond, but the patient can only be held temporarily. After three days, the hospital
+
+must either release the patient or move to continue the period of commitment. 34-B M.R.S.A. §
+
+3863(5)(B)(2).5
+
+        Section 3864, on the other hand, allows for long-term commitment: the patient can be
+
+committed for up to 4 months after the first hearing and a period not to exceed one year after all
+
+subsequent hearings. 34-B M.R.S.A. § 3864(7). However, commitment under § 3864 is allowed
+
+only after a formal hearing during which the patient is afforded extensive procedural rights,
+
+including access to an attorney; the ability to testify, present witnesses, and cross-examine; and
+
+the right to appeal. Id. at § 3864(5).
+
+        B.       18 U.S.C. § 922(g)(4), Chamberlain, and Holt
+
+        Section 922(g)(4) makes it unlawful for anyone “who has been adjudicated as a mental
+
+defective or who has been committed to a mental institution” to possess a gun. The ban is
+
+without exception and is effectively permanent.6
+
+
+
+5
+  Although the statute allows for three days, the temporary hospitalization need not end on a weekend or a holiday.
+34-B M.R.S.A. § 3863(5)(B)(2). In such instances, as happened here, the patient can be held until the next business
+day. Id.
+6
+  Under 18 U.S.C. § 925(c) a person previously committed to a mental institution can petition the Attorney General
+for relief from the firearm ban. Since 1992, however, Congress has prohibited the use of appropriated funds for
+investigating and acting on such petitions. United States v. Booker, 570 F. Supp. 2d 161, 164 n.2 (D. Me. 2008).
+
+                                                        3
+Case 1:09-cr-00157-JAW Document 38 Filed 02/03/10 Page 4 of 14                                      PageID #: 125
+
+
+
+         Congress did not define the phrase “committed to a mental institution,” and in United
+
+States v. Chamberlain, the First Circuit grappled with the phrase‟s definition in the context of an
+
+emergency commitment under Maine law. 159 F.3d 656, 658 (1st Cir. 1998). Like Mr. Murphy,
+
+the defendant in Chamberlain had been hospitalized pursuant to 34-B M.R.S.A. § 3863. A
+
+clinician filed an application for involuntary commitment; a physician certified, after
+
+examination, that the defendant posed a danger of serious harm due to mental illness; and a
+
+Maine District Court judge endorsed the application and ordered him admitted to Acadia
+
+Hospital for no more than five days, the maximum length of time of an emergency detention
+
+under § 3863. Id. at 657.7 Within 24-hours of Mr. Chamberlain‟s admission, a second physician
+
+certified that he was mentally ill and posed a likelihood of serious harm. Eleven months later,
+
+Mr. Chamberlain was found with a firearm, and he was subsequently indicted for violating 18
+
+U.S.C. § 922(g)(4). Mr. Chamberlain contended that “he had not, as a matter of law been
+
+„committed to a mental institution‟ within the meaning of § 922(g)(4).” Id. at 658.
+
+         The First Circuit rejected the defendant‟s argument “that a person can be deemed
+
+„committed‟ under Maine law for purposes of the federal firearms ban only after notice and
+
+issuance by a state judge of a formal order of commitment following a full hearing at which the
+
+person has had the opportunity to be heard.” Id. at 661.8 The First Circuit concluded that it did
+
+not appear that “Congress intended that only those persons conclusively found to be suffering
+
+
+7
+  Section 3863 allows for a three-day emergency detention. Presumably, the defendant, like Mr. Murphy, was
+ordered hospitalized on a Thursday, effectively pushing his day of release back two additional days.
+8
+  Mr. Chamberlain also argued that Maine state law distinguished between an “involuntary admission” under the
+emergency procedures and a “commitment” under longer-term detention. Id. at 661. Observing that whether a
+defendant is “committed” is a question of federal law, id. at 658, the First Circuit noted that “the proper
+interpretation of the phrase „committed to a mental institution,‟ should not turn primarily on the label attached by the
+state legislature to its procedure, but rather on the substance of those procedures.” Id. at 663. The First Circuit
+concluded that the “procedures followed in this case, whether denominated as an „involuntary admission‟ or a
+„commitment‟ by the Maine Legislature, constituted in all functional respects a „commitment‟ for purposes of §
+922(g)(4).” Id. at 663.
+
+
+                                                           4
+Case 1:09-cr-00157-JAW Document 38 Filed 02/03/10 Page 5 of 14                     PageID #: 126
+
+
+
+from mental illnesses or difficulties after have been afforded the fullest possible panoply of due
+
+process rights be deemed to have been „committed to a mental institution‟ for purposes of the
+
+firearms ban.” Id. at 664.
+
+        The First Circuit again addressed the Maine commitment statute in United States v. Holt.
+
+464 F.3d 101 (1st Cir. 2006).         In Holt, a licensed clinical social worker applied for the
+
+defendant‟s involuntary admission to a mental institution, and a psychiatrist certified that he had
+
+examined the defendant and that the defendant posed a “likelihood of serious harm due to a
+
+mental illness.” Id. at 102. The next day, a Maine District Judge reviewed the application and
+
+authorized the county sheriffs to transport the defendant to a medical facility. What happened
+
+next is unclear, but within a couple of months, the defendant was no longer in a medical facility
+
+and was in possession of a firearm. Id. He was indicted for violating 18 U.S.C. § 922(g)(4) and
+
+after a jury trial, found guilty. Id. at 103.
+
+        On appeal, the defendant challenged whether he had ever been committed within the
+
+meaning of § 922(g)(4). He contended that a commitment occurs “only after an application for
+
+involuntary commitment has been approved by a state judge, the person has been taken to a
+
+medical facility, and a follow-up examination has been performed within 24 hours of the
+
+involuntary admission.”      Id. at 102-03.     In Holt, there was no evidence that a follow-up
+
+examination had taken place. The First Circuit stated that “[w]e do not think that the existence
+
+of a 24-hour examination makes a difference in the outcome, nor did Chamberlain suggest it
+
+should.” Id. at 105. The Court explained that in Chamberlain, “at the time the judicial order was
+
+issued, and before the second examination had occurred, Chamberlain was ordered „detained in a
+
+mental institution for five days‟ based on a judicial order that this was in accordance with law.
+
+This process meets the ordinary definition of „commitment‟ embraced in Chamberlain.” Id. The
+
+
+
+                                                  5
+Case 1:09-cr-00157-JAW Document 38 Filed 02/03/10 Page 6 of 14                 PageID #: 127
+
+
+
+Court concluded that “the term „committed‟ in the statute refers to a judicial (or possibly an
+
+administrative) order of commitment and does not depend on the ultimate outcome of the
+
+commitment.” Id.
+
+II.    DISCUSSION
+
+       A.     Vagueness
+
+              1.   The Defendant’s Vagueness Argument
+
+       Mr. Murphy‟s vagueness argument turns on the meaning of the word “committed.”
+
+Relying on the Supreme Court cases Addington v. Texas, 441 U.S. 418 (1979) and Vitek v. Jones,
+
+445 U.S. 480 (1980), Mr. Murphy says that “committed” must refer only to a commitment that
+
+followed proceedings that accorded the person a panoply of rights. Mot. to Dismiss at 6-7. Mr.
+
+Murphy contends that because he was involuntarily admitted to a hospital without any due
+
+process rights, what happened to him during the Maine blue papering process cannot be deemed
+
+“committed” under federal law. Id.
+
+       Mr. Murphy acknowledges that Chamberlain found the process in Maine was a
+
+commitment under § 924(g)(4). Id. However, he asserts that the First Circuit was not asked to
+
+address the question he has raised here. He notes that the defendant in Chamberlain argued that
+
+the “procedure set out for an emergency admission pursuant to a “Blue Paper” was not the
+
+equivalent to a “commitment” for purposes of § 924(g)(4)” and that the First Circuit “rejected
+
+this argument by finding that Congress had not defined the term „commitment‟ and that the
+
+dictionary meaning of that term renders an „involuntary admission‟ under section 3863 to seem
+
+no different from a „commitment.‟” Id. at 7 (quoting Chamberlain, 159 F.3d at 661) (quotations
+
+omitted). But he insists the First Circuit was never asked to address whether a “commitment”
+
+
+
+
+                                              6
+Case 1:09-cr-00157-JAW Document 38 Filed 02/03/10 Page 7 of 14                                    PageID #: 128
+
+
+
+without Addington-Vitek due process rights was a “commitment” within the meaning of the
+
+federal statute, and the appellate court never ruled on this issue.9
+
+         Having framed the legal backdrop, Mr. Murphy turns to his main argument: since the
+
+Supreme Court defined “commitment” in a fashion that would not include the process Mr.
+
+Murphy underwent and the First Circuit defined “commitment” in a fashion that would, the
+
+inconsistent use of the same term “renders the meaning of „commitment‟ constitutionally vague.”
+
+Mot. to Dismiss at 9.
+
+                  2.   Unconstitutional Vagueness
+
+         A statute is unconstitutionally vague “only if it „prohibits . . . an act in terms so uncertain
+
+that persons of average intelligence would have no choice but to guess at its meaning and modes
+
+of application.‟” United States v. Nieves-Castano, 480 F.3d 597, 603 (1st Cir. 2007) (quoting
+
+United States v. Councilman, 418 F.3d 67, 84 (1st Cir. 2005)); see also Welch v. United States,
+
+750 F.2d 1101, 1112 (1st Cir. 1985) (“All due process requires is that a statutory prohibition be
+
+„…set out in terms that the ordinary person exercising ordinary common sense can sufficiently
+
+understand and comply with.‟”) (quoting Arnett v. Kennedy, 416 U.S. 134, 159 (1974)). Here,
+
+the statute adequately put Mr. Murphy on notice that “commitment to a mental institution”
+
+would include emergency hospitalization under Maine law and the Supreme Court has not
+
+provided an inconsistent definition.
+
+                           a.   Readily Evident Meaning
+
+         The First Circuit in Chamberlain gave “commitment” its ordinary meaning: it found
+
+Maine‟s emergency admission procedure qualified under § 922 based on the dictionary definition
+
+
+9
+  Mr. Murphy puts the matter less delicately. He states that “the First Circuit entirely missed the fact that the
+Supreme Court had held that there can be no constitutionally valid „commitment‟ without the notice, appointment of
+counsel, and right to cross examination set forth in [Addington] and later re-affirmed in [Vitek].” Mot. to Dismiss at
+7-8.
+
+                                                          7
+Case 1:09-cr-00157-JAW Document 38 Filed 02/03/10 Page 8 of 14                  PageID #: 129
+
+
+
+of “commitment.” Chamberlain, 159 F.3d at 661. In Holt, the First Circuit refined Chamberlain
+
+and concluded that for purposes of §922(g)(4), a person was “committed” upon the issuance of a
+
+“judicial (or possibly administrative) order of commitment.” Holt, 464 F.3d at 105. Because
+
+“the evaluation of the constitutionality of the statute is also made in light of judicial
+
+constructions of the statute,” Nieves-Castano, 480 F.3d at 603 (citations omitted), the clear
+
+holding in Chamberlain and the refinement in Holt removes any doubt that hospitalization under
+
+§ 3863 qualifies as “commitment” under § 922(g)(4). In accordance with clear First Circuit
+
+precedent, when the Maine District Judge signed the emergency commitment order, Mr. Murphy
+
+was “committed” under § 922(g)(4).
+
+       Statutory context is consistent with the First Circuit‟s construction. Because Congress
+
+banned firearm possession by those “adjudicated as mentally defective” separately from its ban
+
+on those “committed to a mental institution,” Congress evidently intended to “cast a wider net.”
+
+Id. at 664. “Requiring an adversary hearing and a judicial finding of mental illness would
+
+conflate two of the categories Congress singled out for the firearms prohibition.”           Id.
+
+Furthermore, Congress affirmatively requires minimum procedural protections before the firearm
+
+ban is applied to perpetrators of domestic violence. 18 U.S.C. § 922(g)(8). The absence of
+
+similar protections with respect to determining who has been “committed to a mental institution”
+
+implies none is required. Chamberlain, 159 F.3d at 665. Ordinary meaning, First Circuit
+
+precedent, and statutory context provided ample notice that emergency hospitalization under
+
+Maine law qualified as committed under § 922(g)(8).
+
+                      b. Treatment by the Supreme Court
+
+       The Supreme Court has not provided an alternative definition for the phrase “committed
+
+to a mental institution.” The word “committed” is not a term of art for civil commitment
+
+
+
+                                               8
+Case 1:09-cr-00157-JAW Document 38 Filed 02/03/10 Page 9 of 14                                    PageID #: 130
+
+
+
+procedures that comport with the due process requirements of Addington. In Addington, the
+
+Supreme Court addressed the minimum constitutional procedures required before “indefinite
+
+commitment.” 441 U.S. at 420 (emphasis added). Rather than holding that all commitments
+
+automatically required notice, appointment of counsel, and right to cross examination, the
+
+Supreme Court carefully delineated how the term was used: the appellant had been “committed
+
+temporarily” in the past and now he contested his “indefinite commitment.” Id.10
+
+         After Addington, courts have upheld state laws that allow temporary commitment without
+
+the Addington procedural protections. Simon v. Cook, 261 Fed. Appx. 873 (6th Cir. 2008)
+
+(stating that “[t]he omission of legal counsel and the right to call witnesses makes sense since the
+
+decision to hospitalize is being made in response to an immediate presentment of an individual
+
+and is only going to last 72 hours”); Jensen v. Lane County, 312 F.3d 1145 (9th Cir. 2002)
+
+(rejecting defendant‟s argument that the lack of a civil commitment hearing before a 5-day
+
+involuntary admission violated his due process rights); Rodriguez v. City of New York, 72 F.3d
+
+1051 (2d Cir. 1995) (same). Although recognizing that all involuntary civil commitments must
+
+comport with the requirements of due process, the Ninth Circuit in Jenson distinguished between
+
+the procedures required for long-term involuntary commitment and short-term emergency
+
+commitment.        Id. at 1146-48.         In essence, the Jenson Court recognized that the word
+
+“commitment” encompasses both “temporary hospitalization” and “long-term commitment
+
+requiring due process proceedings.” The qualifier, such as “temporary” or “indefinite,” not the
+
+word “commitment,” determines the scope of constitutionally mandated due process.
+
+                           c. State Law Definitions and First Circuit Authority
+
+
+
+10
+  In Vitek v. Jones, the Supreme Court addressed the procedural rights to be accorded a state prisoner before being
+involuntarily transferred for treatment from prison to a state mental hospital. 445 U.S. 480, 482 (1980). There is no
+suggestion that the transfer was an emergency.
+
+                                                         9
+Case 1:09-cr-00157-JAW Document 38 Filed 02/03/10 Page 10 of 14                                    PageID #: 131
+
+
+
+         Mr. Murphy seeks to infuse confusion into the definition of “committed” by arguing that
+
+Maine state law only “considers the [§ 3864] proceeding that was dismissed against Mr. Murphy
+
+to be a „commitment.‟” Mot. to Dismiss at 9.11 The First Circuit has already twice rejected this
+
+argument. In Chamberlain, the First Circuit clarified that the definition of “commitment” is a
+
+question of federal, not state law, and that the definition included the emergency involuntary
+
+hospitalization procedure that was followed here. Chamberlain, 159 F.3d at 663. In Holt, the
+
+First Circuit reaffirmed its holding in Chamberlain that “the substance of the mental institute
+
+admission procedures, rather than the label of the procedures as a „commitment,‟ is controlling
+
+for the federal statute.” Holt, 464 F.3d at 105.
+
+         Moreover, the First Circuit has rejected the premise of Mr. Murphy‟s argument—that
+
+Maine state law recognizes a difference between an “involuntary admission” and a
+
+“commitment.” Chamberlain, 159 F.3d at 661. In Chamberlain, the First Circuit expressly
+
+stated: “We find no evidence, however, that the Maine Legislature consciously used the
+
+11
+   In support of his position, Mr. Murphy writes that “[i]t is because the Supreme Court has supplied the definition
+as to what a constitutionally permitted „commitment‟ must involve, as opposed to the definition proved by the First
+Circuit in Chamberlain that renders the statute impermissibly vague.” Mot. to Dismiss at 8 (emphasis supplied).
+Mr. Murphy explains that “[t]he Second Circuit noted that two other circuits had relied on state law procedure that
+separated emergency admissions from formal commitment proceedings (as does Maine) and had found that a person
+emergently admitted but not later subject to an adversary hearing did not meet the federal definition of
+„commitment.‟” Id. at 8-9 (citing United States v. Waters, 23 F.3d 29, 31 (2d Cir. 1994); United States v. Giardina,
+861 F.2d 1334, 1335 (5th Cir. 1988); United States v. Hansel, 474 F.2d 1120, 1122-23 (8th Cir. 1973)).
+          First, it is the First Circuit, not the Second, Fifth or Eighth, to which this Court owes direct allegiance.
+Eulitt v. Me. Dep’t of Educ., 386 F.3d 344, 349 (1st Cir. 2004) (stating that “[u]ntil a court of appeals revokes a
+binding precedent, a district court within the circuit is hard put to ignore that precedent unless it has unmistakably
+been cast into disrepute by supervening authority”). Although the Court has the ability to follow clearly intervening
+Supreme Court authority, the First Circuit issued Chamberlain and Holt after Addington and Vitek so Mr. Murphy‟s
+argument amounts to the contention that the First Circuit erred, a proposition Mr. Murphy is free to argue, but not a
+proposition this Court is free to accept.
+          Second, the First Circuit viewed its approach as “similar to the analysis in Waters.” Chamberlain, 159 F.3d
+at 663. The Chamberlain Court interpreted Waters as not following the label attached by the state legislature: “these
+procedures whether termed an „admission‟ or a „commitment‟ [by the legislature] . . . established „commitment‟
+procedures under New York State law, and Waters was „committed‟ pursuant to those procedures.” Id. at 663
+(quoting Waters, 23 F.3d at 34) (quotations omitted). So, as analyzed by the First Circuit, Waters stands against Mr.
+Murphy‟s argument, not for it.
+          Finally, in Chamberlain, the First Circuit discussed both Giardina and Hansel and declined to follow them.
+Chamberlain, 159 F.3d at 662 (stating that “we respectfully decline to follow the approach of Giardina and
+Hansel”).
+
+                                                         10
+Case 1:09-cr-00157-JAW Document 38 Filed 02/03/10 Page 11 of 14                    PageID #: 132
+
+
+
+„involuntary admission‟ language to distinguish between that and a „commitment.‟ To the
+
+contrary, the legislature has used the terms „admission‟ and „commitment‟ interchangeably.” Id.
+
+       In sum, there is no authority for the proposition that Maine state law treats an admission
+
+differently than a commitment or for the contention that the Maine emergency involuntary
+
+commitment procedure under § 3863 is not a commitment under § 922(g)(4).
+
+                      d. Vagueness and Mr. Murphy
+
+       The record in this case reveals that on April 22, 2009, a psychiatric clinician signed an
+
+“Application for Emergency Involuntary Admission to a Mental Hospital.” Application for
+
+Emergency Involuntary Admission to a Mental Hospital Ex. A. The application stated that Mr.
+
+Murphy had attempted suicide by overdosing on a bottle of sleep medication and drinking
+
+whiskey. Id. A licensed medical doctor examined Mr. Murphy and expressed the opinion that
+
+he had a mental illness that posed a substantial risk of physical harm to himself. Id. She
+
+certified that an ambulance was the least restrictive form of transportation that meets the
+
+patient‟s clinical needs. Id. The application was taken before a state of Maine District Court
+
+Judge, and on April 22, 2009 at 6:50 a.m., the Judge issued the following order:
+
+       Upon review pursuant to 34-B M.R.S.A. § 3863(3), I find this application and
+       certificate to be regular and in accordance with the law, and I hereby authorize
+       Any Ambulance Service to take Brian Murphy into custody and transport him or
+       her to Acadia Mental Hospital.
+
+Id. A week later another Judge of the Maine District Court issued the Notice of Hearing, Order
+
+to Examine and Appointment of Counsel, requiring Mr. Murphy to undergo a psychological
+
+examination on May 5 and scheduling a hearing for May 8, 2009. Notice of Hearing, Order to
+
+Examine, and Appointment of Counsel Ex. B.
+
+       Legal arguments sometimes assume an otherworldly air, and real life experiences get lost
+
+in definitional subtleties. Although neither the Defendant‟s nor Government‟s memorandum
+
+                                               11
+Case 1:09-cr-00157-JAW Document 38 Filed 02/03/10 Page 12 of 14                                 PageID #: 133
+
+
+
+confirms all the underlying details, the Court infers that the State Judge‟s April 22, 2009 Order
+
+was complied with, that Mr. Murphy was taken pursuant to judicial fiat to a psychiatric hospital,
+
+was held at the hospital for a period long enough for a psychological evaluation to take place,
+
+and was allowed to leave the hospital only after the District Judge granted the motion to dismiss
+
+the application for emergency commitment on April 30, 2009. To be ambulanced pursuant to
+
+court order to a psychiatric hospital, detained there for psychiatric evaluation, and released only
+
+when a judge signed a further order would place the ordinarily reasonable citizen on notice that
+
+he or she had been involuntarily committed within the meaning of the law.12
+
+        B.       Second Amendment
+
+        Mr. Murphy addresses “the level of process that is due before a person is labeled as one
+
+who, due to mental incapacity, has lost an individual right otherwise conferred by the
+
+Constitution.” Mot. to Dismiss at 10. Mr. Murphy argues that the Second Amendment right to
+
+bear arms, recognized in Heller, can only be deprived after mental status is determined by
+
+adjudication. District of Columbia v. Heller, 128 S. Ct. 2783 (2008). In other words, because
+
+erratic behavior can stem from either mental illness or misinterpreted abnormal behavior, Mr.
+
+Murphy contends that Addington procedures are necessary to ensure that § 922(g)(4) is
+
+“narrowly tailored to address the harm sought to be avoided.” Def.’s Reply at 7.13
+
+
+
+
+12
+   Although not considered for purposes of this motion, the Government alleges that Mr. Murphy admitted that he in
+fact knew he was not allowed to possess a gun. His alleged concession dovetails with the Court‟s common sense
+assessment.
+13
+   Mr. Murphy appears to make a hybrid argument. Although arguing under an intermediate level of review, he asks
+the Court to find that certain minimal procedural protections are necessary to prevent the non-mentally ill or the
+non-dangerous mentally ill from being wrongly deprived of their Second Amendment rights. A threshold question,
+however, is whether the procedural rights afforded by the Fifth Amendment apply to the Second. Constitutional
+rights do not necessarily yield due process rights and no other court has afforded procedural protections to the
+Second Amendment. Until the Supreme Court or the First Circuit extends due process rights to the Second
+Amendment, the Court does not reach the merits of the due process aspects of Mr. Murphy‟s argument.
+
+
+                                                       12
+Case 1:09-cr-00157-JAW Document 38 Filed 02/03/10 Page 13 of 14                     PageID #: 134
+
+
+
+       Mr. Murphy argues that procedural protections are relevant to whether § 922(g)(4) is
+
+narrowly tailored to the goal of preventing possession by the mentally ill who pose a threat of
+
+harm. He contends that absent a hearing to determine actual dangerousness, “the Government
+
+has not established that Mr. Murphy falls within a class of those who are „inherently dangerous‟
+
+due to a mental illness.” Def.’s Reply at 7. Although Chamberlain found that commitment
+
+under § 3863 was sufficiently related to dangerousness, Ms. Murphy contends Chamberlain is
+
+not controlling because it was written before Heller and decided under rational review. Mr.
+
+Murphy argues that hospitalization under § 3863 is not sufficiently related under the intermediate
+
+or strict scrutiny that applies post-Heller. The Court disagrees for two reasons.
+
+       First, the Court takes Heller at its word that “nothing in our opinion should be taken to
+
+cast doubt on longstanding prohibitions on the possession of firearms by felons and the mentally
+
+ill.” Heller, 128 S. Ct. at 2816-17. Based on this language, this Court in Booker found it
+
+unnecessary to delineate the appropriate level of scrutiny for the prohibition of firearm
+
+possession by those convicted of misdemeanor crimes of domestic violence. Booker, 570 F.
+
+Supp. 2d at 163 (finding the misdemeanor crime of domestic violence sufficiently similar to
+
+possession of firearms by felons and the mentally ill “to justify its inclusion in the list of
+
+„longstanding prohibitions‟ that survive Second Amendment scrutiny”). The Court‟s conclusion
+
+in Booker applies with more force given Heller‟s express reference to the mentally ill.
+
+       The First Circuit has also intimated that groups subject to “longstanding prohibitions”
+
+against gun possession might not have full Second Amendment rights. United States v. Rene E.,
+
+583 F.3d 8 (1st Cir. 2009). In Rene E., the First Circuit concluded that, based on longstanding
+
+prohibitions against firearm possession by juveniles, “the right to keep arms in the founding
+
+period did not extend to juveniles.” Id. at 16; see also United States v. Skoien, 587 F.3d 803, 809
+
+
+
+                                                13
+Case 1:09-cr-00157-JAW Document 38 Filed 02/03/10 Page 14 of 14                                PageID #: 135
+
+
+
+n.3 (7th Cir. 2009) (describing the holding in Rene E. as “[t]he court concluded that the
+
+founding-era understanding of the Second Amendment right likely excluded juvenile handgun
+
+possession from the scope of the right”). Prohibitions against firearm possession by mental
+
+incompetents are as long-standing. Id. at 15-16 (describing historical prohibitions against gun
+
+possession by juveniles and the mentally ill as similar); cf. Skoien, 587 F.3d at 810 (basing
+
+conclusion that misdemeanants had not forfeited Second Amendment rights on the lack of
+
+argument by the government and the inconsistent historical treatment).
+
+        Second, Mr. Murphy‟s argument relies on a distinction between emergency and
+
+adjudicated commitments that the First Circuit specifically found did not exist. Mr. Murphy
+
+argues that a three-day emergency commitment cannot justify a life-long ban on gun possession
+
+but accepts that adjudicated commitment can.14 In Chamberlain, however, the First Circuit
+
+found temporary hospitalization under Maine law “implicates the potential for harm Congress
+
+sought to regulate under the firearms ban.” Chamberlain, 159 F.3d at 665. Because the First
+
+Circuit concluded that both forms of involuntary hospitalization under Maine law indicate the
+
+same potential for future harm, this Court cannot now decide that they do not.
+
+III.    CONCLUSION
+
+        The Court DENIES Mr. Murphy‟s Motion to Dismiss (Docket # 24).
+
+        SO ORDERED.
+
+                                                    /s/ John A. Woodcock, Jr.
+                                                    JOHN A. WOODCOCK, JR.
+                                                    CHIEF UNITED STATES DISTRICT JUDGE
+
+Dated this 3rd day of February, 2010
+
+14
+   A more precise description of Mr. Murphy‟s argument is that the lack of accuracy prevents a reasonable fit.
+Accuracy, however, is a question of due process—an argument rejected above. Instead, the question of “reasonable
+fit” asks whether, assuming that emergency hospitalization was necessary, such a temporary commitment justifies a
+permanent ban on gun possession. In fairness to Mr. Murphy, the Court treats him as having also made this second
+argument.
+
+                                                       14
+

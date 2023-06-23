@@ -1,0 +1,661 @@
+Case 2:19-cr-00073-JAW Document 64 Filed 07/20/20 Page 1 of 13                       PageID #: 218
+
+
+
+                           UNITED STATES DISTRICT COURT
+                                DISTRICT OF MAINE
+
+UNITED STATES OF AMERICA                       )
+                                               )
+       v.                                      )      2:19-cr-00073-JAW
+                                               )
+DANNY RYDLE                                    )
+
+                           ORDER ON SENTENCING ISSUES
+
+       A defendant asserts that three deferred dispositions should not be allocated
+
+criminal history points for the purpose of calculating his guideline sentence range
+
+under the United States Sentencing Guidelines (U.S.S.G.) because in his view the
+
+Court should view them as expungements.                  Finding that under Maine law, the
+
+defendant admitted guilt to be eligible for deferred dispositions, the Court concludes
+
+that the three contested deferred dispositions are not expungements under the
+
+U.S.S.G. and are instead diversionary dispositions eligible for the allocation of points
+
+to determine the defendant’s criminal history category. 1
+
+I.     GENERAL BACKGROUND
+
+       On May 3, 2019, Danny Rydle waived indictment for a count of Conspiracy to
+
+Commit Theft from a Licensed Firearm Dealer in violation of 18 U.S.C. §§ 371 and
+
+922(u) and a count of Theft from a Licensed Firearm Dealer and Aiding and Abetting
+
+in violation of 18 U.S.C. §§ 2 and 922(u). Waiver of Indictment (ECF No 24); Min.
+
+Entry (ECF No. 25); Criminal Compl. (ECF No. 1). Mr. Rydle entered a plea of guilty
+
+
+
+
+1       Regarding terminology, the Maine statute, 17-A M.R.S. § 1903(1), refers to “deferred
+disposition”; U.S.S.G. § 4A1.2(f) uses the term “diversionary disposition.” In general, when referring
+to Maine law, the Court has used deferred disposition and when referring to the U.S.S.G., the Court
+has used diversionary disposition.
+Case 2:19-cr-00073-JAW Document 64 Filed 07/20/20 Page 2 of 13           PageID #: 219
+
+
+
+on both counts on the same day. Min. Entry (ECF No. 25). The Court held a
+
+presentence conference on September 6, 2019. Min. Entry (ECF No. 36). On April 3,
+
+2020, the Could held a continued presentence conference. Min. Entry (ECF No. 52).
+
+       On April 13, 2020, Mr. Rydle filed his sentencing memorandum. Sentencing
+
+Mem. (ECF No. 55) (Def.’s Mem.). Mr. Rydle filed a motion to delay sentencing due
+
+to the COVID-19 pandemic on April 17, 2020. Letter from Att’y Andrews to Judge
+
+Woodcock (ECF No. 56). On April 20, 2020, the Court granted the motion to delay
+
+and scheduled a conference of counsel for July 22, 2020. Order Granting Without Obj.
+
+Mot. to Delay Sentencing During Acute Phase of COVID-19 (ECF No. 57); Notice of
+
+Hr’g (ECF No. 58). The United States (Government) filed its responsive sentencing
+
+memorandum on April 21, 2020. Gov’t’s Sentencing Mem. (ECF No. 61) (Gov’t’s
+
+Mem.). On July 3, 2020, the Court ordered the Government to file a corrected set of
+
+docket records for the deferred dispositions at issue. Order on Underlying Docs. (ECF
+
+No. 62). The Government complied on July 9, 2020. Notice (ECF No. 63); id., Attachs.
+
+1-3.
+
+II.    THE CONTESTED CONVICTIONS
+
+       In its Second Revised Presentence Report (PSR), the United States Probation
+
+Office (PO) allocated three criminal history points to three deferred disposition cases.
+
+The first point is for a state theft charge the court dismissed after a period of
+
+deferment; 2nd Revised Presentence Investigation Report ¶ 27 (PSR), the second for a
+
+state domestic violence assault charge in which the court entered a deferred
+
+
+
+
+                                           2
+Case 2:19-cr-00073-JAW Document 64 Filed 07/20/20 Page 3 of 13            PageID #: 220
+
+
+
+disposition, id. ¶ 28, and the third for a state unlawful possession of scheduled drug
+
+charge the court dismissed after a period of deferment. Id. ¶ 29.
+
+III.   PARTIES’ POSITIONS
+
+       A.    Danny Rydle’s Sentencing Memorandum
+
+       Mr. Rydle contests three of the six criminal history points the PO allocated in
+
+the PSR. Def.’s Mem. at 1. Mr. Rydle argues that the dismissal of a charge after a
+
+period of deferment is akin to an expungement of the conviction which under U.S.S.G.
+
+§ 4A1.2(j) cannot be attributed criminal history points. Def.’s Mem. at 1-4 (quoting
+
+U.S. SENTENCING GUIDELINES MANUAL § 4A1.2(j) (U.S. SENTENCING COMM’N 2018)).
+
+       Mr. Rydle argues the first charge should not be allocated criminal history
+
+points because disorderly conduct, the second count which Mr. Rydle also pleaded
+
+guilty to, is one of the enumerated offenses contained in U.S.S.G. § 4A1.2, and so a
+
+sentence of confinement for longer than thirty days or a sentence of probation for
+
+longer than a year is required to attribute a criminal history point to that charge. Id.
+
+at 1-2. Therefore, Mr. Rydle asserts, “[w]ithout addressing the deferred disposition
+
+on the theft charge, this paragraph cannot be counted because the only actual
+
+conviction is for disorderly conduct, which resulted in a fine as a sentence.” Id. at 2.
+
+       Mr. Rydle next contends that, for all three deferred disposition charges,
+
+dismissal after a period of deferment should not be treated as a diversionary
+
+disposition with a finding of guilt, which would be allocated criminal history points
+
+under U.S.S.G. § 4A1.2(f). Id. at 2-3. Rather, Mr. Rydle states, the dismissed charges
+
+in Mr. Rydle’s case are expungements. Id. at 3.
+
+
+
+                                           3
+Case 2:19-cr-00073-JAW Document 64 Filed 07/20/20 Page 4 of 13          PageID #: 221
+
+
+
+      Mr. Rydle concedes that diversionary dispositions can be allocated criminal
+
+history points. Id. at 3-4. However, Mr. Rydle argues the admission of guilt required
+
+for the diversionary disposition to be allocated points is negated by “the procedure
+
+where the plea is withdrawn and the charge dismissed . . ..” Id. at 4. Mr. Rydle points
+
+to application note ten to U.S.S.G. § 4A1.2, which states that expungement is limited
+
+to instances where a charge is dismissed for reasons of “innocence or errors of
+
+law . . ..” Id. (quoting U.S. SENTENCING GUIDELINES MANUAL § 4A1.2 cmt. n.10 (U.S.
+
+SENTENCING COMM’N 2018)). Mr. Rydle says it is thus necessary to look to the
+
+legislative intent behind the Maine deferred disposition statute to determine whether
+
+Mr. Rydle’s deferred dispositions were due to innocence or errors of law. Id. Mr.
+
+Rydle asserts that the deferred dispositions within Maine Revised Statutes, title 17-
+
+A, section 1903 should be interpreted as expungements because the statute directs
+
+the court to dismiss the charging instrument with prejudice if the court allows the
+
+defendant to withdraw his or her plea. Id. He says that “[t]he act of withdrawing the
+
+plea and dismissing the charging instrument is something more than setting aside
+
+the conviction or allowing it to stand on the record.” Id.
+
+      Mr. Rydle argues that the Court should focus solely on “why the plea was
+
+withdrawn and the charging instrument dismissed . . ..” Id. at 5. He cites First
+
+Circuit caselaw and asserts that the holding in Mateo v. United States, 398 F.3d 126
+
+(1st Cir. 2005)—which involved vacated convictions—indicates the dismissals should
+
+be treated as expungements here. Id. at 5-6.
+
+
+
+
+                                           4
+Case 2:19-cr-00073-JAW Document 64 Filed 07/20/20 Page 5 of 13             PageID #: 222
+
+
+
+          B.       The Government’s Sentencing Memorandum
+
+          The Government argues that the three deferred dispositions disputed by Mr.
+
+Rydle are diversionary dispositions and should be allocated criminal history points
+
+because the dismissal after a period of deferment occurred after an admission of guilt.
+
+Gov’t’s Mem. at 4. The Government looks at the language of U.S.S.G. § 4A1.1(c),
+
+which states that each prior sentence not counted in U.S.S.G. § 4A1.1(a) or (b) should
+
+be allocated one point, “up to a total of 4 points for this subsection.” Id. at 2 (quoting
+
+U.S. SENTENCING GUIDELINES MANUAL § 4A1.1(c) (U.S. SENTENCING COMM’N 2018)).
+
+The Government argues this subsection applies to the three charges Mr. Rydle
+
+disputes as they constitute prior sentences and are not counted in U.S.S.G. § 4A1.1(a)
+
+or (b).        Id. at 2-3.   The Government further views the three prior charges as
+
+diversionary dispositions within the meaning of U.S.S.G. § 4A1.2(f) because they
+
+“came about after a finding of guilt had been entered . . ..” Id.
+
+          The Government opposes Mr. Rydle’s argument that the disputed charges are
+
+expungements, stating the docket record itself reflects the charges were dismissed as
+
+diversionary dispositions, not expungements. Id. at 3. The Government argues that
+
+even if designated as expungements by Maine state law, the charges should not be
+
+considered expungements within the U.S.S.G. because in this context expungements
+
+are not counted for criminal history points only if they result from convictions that
+
+have been vacated or reversed due to innocence or errors of law or have been ruled
+
+constitutionally invalid. Id. The Government discusses cases in other circuits that
+
+it says support this proposition. Id. at 3-4 (quoting United States v. Stubblefield, 265
+
+
+
+                                              5
+Case 2:19-cr-00073-JAW Document 64 Filed 07/20/20 Page 6 of 13              PageID #: 223
+
+
+
+F.3d 345, 347 (6th Cir. 2001); United States v. Hayden, 255 F.3d 768, 770-74 (9th Cir.
+
+2001); United States v. Hines, 133 F.3d 1360, 1362-66 (10th Cir. 1998)).                 The
+
+Government asserts that since it is “irrefutably clear” that Mr. Rydle’s charges were
+
+not dismissed due to innocence, errors of law, or constitutional validity, the three
+
+criminal history points should remain. Id. at 4.
+
+IV.    UNITED STATES SENTENCING GUIDELINES
+
+       U.S.S.G. § 4A1.1(a) requires three points to be added “for each prior sentence
+
+of imprisonment exceeding one year and one month.” U.S. SENTENCING GUIDELINES
+
+MANUAL § 4A1.1(a) (U.S. SENTENCING COMM’N 2018). Section 4A1.1(b) “[a]dds 2
+
+points for each prior sentence of imprisonment of at least sixty days not counted in
+
+(a).” Id. § 4A1.1(b). Section 4A1.1(c) “[a]dd[s] 1 point for each prior sentence not
+
+counted in (a) or (b), up to a total of 4 points for this subsection.” Id. § 4A1.1(c).
+
+       Section 4A1.2(f) states that “[a] diversionary disposition resulting from a
+
+finding or admission of guilt . . . in a judicial proceeding is counted as a sentence
+
+under § 4A1.1(c) even if a conviction is not formally entered . . ..” Id. § 4A1.2(f).
+
+Section 4A1.2(j) states that “[s]entences for expunged convictions are not
+
+counted . . ..” Id. § 4A1.2(j).
+
+       Application notes six, nine, and ten to U.S.S.G. § 4A1.2 clarify when vacated
+
+convictions, diversionary dispositions, and set aside convictions are to be allocated
+
+criminal history points. Note six states that “[s]entences resulting from convictions
+
+that . . . have been reversed or vacated because of errors of law or because of
+
+subsequently discovered evidence exonerating the defendant, or . . . have been ruled
+
+
+
+                                             6
+Case 2:19-cr-00073-JAW Document 64 Filed 07/20/20 Page 7 of 13                   PageID #: 224
+
+
+
+constitutionally invalid in a prior case are not to be counted.” Id. § 4A1.2 cmt. n.6.
+
+Note nine explains that adult diversionary dispositions are counted under § 4A1.2(j)
+
+“if they involved a judicial determination of guilt or an admission of guilt in open
+
+court.” Id. § 4A1.2 cmt. n.9. The note goes on to describe the U.S.S.G. policy to not
+
+extend leniency to “defendants who receive the benefit of a rehabilitative sentence
+
+and continue to commit crimes . . ..” Id. Note ten describes that convictions set aside
+
+“for reasons unrelated to innocence or errors of law, e.g., in order to restore civil rights
+
+or to remove the stigma associated with a criminal conviction,” are counted. Id.
+
+§ 4A1.2 cmt. n.10. “However, expunged convictions are not counted.” Id.
+
+V.     DISCUSSION
+
+       The Court approaches this issue in two ways: first, it assesses whether any of
+
+the three deferred dispositions qualify as expungements under U.S.S.G. § 4A1.2(j)
+
+and second, it addresses whether any count as diversionary dispositions under
+
+U.S.S.G. § 4A1.2(f). 2
+
+       A.     Expungements Under U.S.S.G. § 4A1.2(j)
+
+       The First Circuit interpreted expungements under U.S.S.G. § 4A1.2(j) as solely
+
+addressing charges dismissed because of innocence or errors of law. See Mateo, 398
+
+F.3d at 134-35 & 134 n.8 (stating that in addition to constitutional invalidity, the
+
+sentencing guidelines “provide that sentences resulting from convictions that have
+
+
+
+
+2       The Court does not reach Mr. Rydle’s contention that the disorderly conduct conviction in
+paragraph twenty-seven of the PSR should not be counted. See Def.’s Mot. at 1-2 (citing U.S.S.G.
+§ 4A1.2(c)(1)). This is because once the deferred disposition of the theft charge in Count One of
+paragraph twenty-seven is counted and assigned one criminal history point, the disorderly conduct
+conviction becomes immaterial to the calculation of his criminal history score.
+
+                                               7
+Case 2:19-cr-00073-JAW Document 64 Filed 07/20/20 Page 8 of 13           PageID #: 225
+
+
+
+been set aside ‘for reasons unrelated to innocence or errors of law’ should be counted”
+
+(emphasis in original) (quoting U.S. SENTENCING GUIDELINES MANUAL § 4A1.2(f)
+
+(U.S. SENTENCING COMM’N 2018))); United States v. Dubovsky, 279 F.3d 5, 9-10 (1st
+
+Cir. 2002) (noting that the federal sentencing guidelines have their basis in
+
+congressional, not state, policy and holding that the state record purge did not count
+
+as an expungement for guideline purposes because it was done to give a defendant a
+
+fresh start, not to correct errors of law or vindicate innocence).
+
+      In United States v. Dubovsky, the First Circuit discussed three approaches
+
+taken by different circuit courts on expungements and it adopted “the ‘prevailing
+
+view’” that “expungement within the meaning of the Guidelines's structure is best
+
+determined by considering whether the conviction was set aside because of innocence
+
+or errors of law.” 279 F.3d at 8, 9 n.5 (quoting United States v. Dubovsky, Criminal
+
+No. 99-37-B, 2001 U.S. Dist. LEXIS 8993, at *3-4 (D.N.H. Jan. 24, 2001)). The First
+
+Circuit reasoned that its interpretation is justified by “the explicit language of note
+
+ten to Guideline § 4A1.2(j) . . ..” Id. at 8-9. Thus, in Dubovsky, the defendant’s prior
+
+marijuana charge had been sealed and dismissed; however, the charge was still
+
+allocated criminal history points because the case not been sealed or dismissed “for
+
+reasons of innocence or errors of law, and . . . the related records were not completely
+
+destroyed.” 279 F.3d at 8, 10. The First Circuit’s interpretation of § 4A1.2(f) and (j)
+
+is shared by the Tenth, Fifth, and D.C. Circuits. See, e.g., Hines, 133 F.3d at 1362-
+
+66; United States v. Ashburn, 20 F.3d 1336, 1343 (5th Cir. 1994), reinstated in part
+
+
+
+
+                                            8
+Case 2:19-cr-00073-JAW Document 64 Filed 07/20/20 Page 9 of 13           PageID #: 226
+
+
+
+and vacated in part by United States v. Ashburn, 38 F.3d 803 (5th Cir. 1994) (en banc);
+
+United States v. McDonald, 991 F.2d 866, 871-72 (D.C. Cir. 1993).
+
+      The Dubovsky Court touched on the argument Mr. Rydle is making here,
+
+namely that the intent of the Maine Legislature should control this Court’s
+
+application of U.S.S.G. § 4A1.2(j). The First Circuit explained that the “intent of the
+
+state legislature is relevant to show whether the sealing procedure is related to
+
+innocence or legal errors.” 279 F.3d at 10 (citing Hines, 133 F.3d at 1364). However,
+
+“any collateral consequences of sealing under state law are irrelevant to the
+
+application of the federal Sentencing Guidelines, which have their basis in
+
+congressional, not state policy.” Id. In Dubovsky, the First Circuit rejected the
+
+defendant’s contention that his Massachusetts diversionary dispositions should not
+
+count in that “‘[t]he obvious purpose of this sealing provision is to give a defendant a
+
+fresh start,’ Dubovsky, 2001 [U.S. Dist. LEXIS 8993, at *6], not to correct errors of
+
+law or vindicate innocence.” 279 F.3d at 10 (some alterations in original). Dubovsky
+
+remains the law of the circuit. See Mateo, 398 F.3d at 135; Mackenzie v. United
+
+States, Criminal Action No. 13-10149-FDS, 2017 U.S. Dist. LEXIS 189484, at *19-20
+
+(D. Mass. Nov. 16, 2017).
+
+      The Court turns to whether deferred dispositions under Maine law are because
+
+of innocence, errors of law, or unconstitutionality or whether they reflect a state
+
+policy to give qualifying defendants a fresh start.     First, to qualify for deferred
+
+disposition under Maine law, defendants must have “pled guilty.”          17-A M.R.S.
+
+§ 1903(1). Next, defendants must demonstrate “by a preponderance of the evidence
+
+
+
+                                           9
+Case 2:19-cr-00073-JAW Document 64 Filed 07/20/20 Page 10 of 13            PageID #: 227
+
+
+
+that the person has complied with the court-imposed deferment requirements . . ..”
+
+Id. The Court then formally “shall impose a sentencing alternative authorized for
+
+the crime to which the person pled guilty and consented to in writing at the time
+
+sentencing was deferred” unless the prosecutor, “prior to sentence imposition, moves
+
+the court to allow the person to withdraw the plea of guilty.” Id. The statute describes
+
+the procedure if the prosecutor files a motion to allow the withdrawal of the guilty
+
+plea:
+
+        Except over the objection of the person, the court shall grant the State’s
+        motion. If the court grants the State’s motion, the attorney for the State
+        shall dismiss the pending charging instrument with prejudice. If the
+        court finds that the person has inexcusably failed to comply with the
+        court-imposed deferment requirements, the court shall impose a
+        sentencing alternative authorized for the crime to which the person pled
+        guilty.
+
+Id.
+
+        What is apparent from this statutory procedure is that the defendant must
+
+acknowledge guilt by entering a plea of guilty and the later dismissal of the charge is
+
+not based on the defendant’s innocence, errors of law, or unconstitutionality, but on
+
+whether the      defendant    has complied      with the    “court-imposed    deferment
+
+requirements . . ..”   Id.   This view of the Maine deferred disposition statute is
+
+corroborated by the Maine Supreme Judicial Court’s interpretations of the statute.
+
+Just recently, the Maine Law Court addressed a situation where a defendant had
+
+entered into a deferred disposition and had allegedly violated the terms of the
+
+deferment requirements by committing new criminal conduct. State v. Hourdeh, 2020
+
+ME 69, ¶¶ 1-5. The trial court suppressed evidence of the search that formed the
+
+
+
+                                           10
+Case 2:19-cr-00073-JAW Document 64 Filed 07/20/20 Page 11 of 13          PageID #: 228
+
+
+
+basis of the new criminal charge and the state dismissed the new charge. Id. ¶ 3.
+
+Nevertheless, the state moved to terminate the defendant’s deferred disposition and
+
+the question was whether evidence of the suppressed search could be admitted at the
+
+deferred disposition hearing. Id. ¶¶ 7-12.
+
+      The Hourdeh Court affirmed the admission of evidence of the new crime at the
+
+deferred disposition hearing, reasoning that by entering his guilty plea subject to the
+
+conditions of deferred disposition, the defendant was not “in the position of a
+
+defendant who had simply been accused of a crime. [The defendant] had already
+
+entered a guilty plea to a Class C charge of trafficking in prison contraband.” Id.
+
+¶ 11. Thus, the defendant “had admitted guilt and accepted future punishment . . ..”
+
+Id. ¶ 12.
+
+      The Maine Law Court observed that its decision to allow the admission of
+
+evidence of a defendant’s violation of the deferred disposition agreement, even though
+
+it had been suppressed in the new criminal case, is consistent with its prior precedent
+
+of allowing the admission of a defendant’s admission of guilt in a later proceeding
+
+even when the underlying charge is eventually dismissed. Id. (citing Gordon v.
+
+Cheskin, 2013 ME 113, ¶ 19, 82 A.3d 1221; State v. Foisy, 384 A.2d 42, 44 (Me. 1978);
+
+State v. Caron, 334 A.2d 495, 499 & n.5 (Me. 1975)). The Hourdeh Court based its
+
+conclusion in part on the proposition that “[d]eferred dispositions allow defendants in
+
+criminal matters to avoid some of the negative consequences of a criminal conviction.
+
+In exchange, however, defendants must openly acknowledge and take responsibility
+
+for their conduct.” Id. ¶ 11 (quoting Gordon, 2013 ME 113, ¶ 19).
+
+
+
+                                          11
+Case 2:19-cr-00073-JAW Document 64 Filed 07/20/20 Page 12 of 13           PageID #: 229
+
+
+
+      In short, neither the statutory language of 17-A M.R.S. § 1903 nor the Maine
+
+Supreme Judicial Court’s interpretation of that language supports Mr. Rydle’s
+
+contention that his deferred dispositions were based on legislative policy reflecting
+
+his actual innocence, errors of law, or unconstitutionality as opposed to a fresh start.
+
+The Court concludes that none of Mr. Rydle’s deferred dispositions qualifies as an
+
+expungement under U.S.S.G. § 4A1.2(j) as interpreted by the First Circuit.
+
+      B.     Diversionary Dispositions Under U.S.S.G. § 4A1.2(f)
+
+      Having concluded that none of the three deferred dispositions qualifies as an
+
+expungement, the Court turns to whether any qualify as diversionary dispositions
+
+within the meaning of U.S.S.G. § 4A1.2(f).       The Court concludes that the same
+
+rationale underlying the conclusion that none of these deferred dispositions
+
+constitutes the basis for an expungement applies with equal force to the conclusion
+
+that they are all diversionary dispositions that count toward Mr. Rydle’s criminal
+
+history score under U.S.S.G. § 4A1.2(f): namely, that to obtain a deferred disposition
+
+under Maine law, Mr. Rydle had to plead guilty to the crimes and his convictions were
+
+dismissed because he complied with the terms of the deferred dispositions, not
+
+because he was actually innocent of any of the crimes and not because the crimes
+
+were constitutionally or legally infirm.
+
+      In United States v. Roberts, 39 F.3d 10 (1st Cir. 1994), the First Circuit noted
+
+that where “an admission to sufficient facts occurs and is accepted at the second tier,
+
+[the First Circuit] think[s] that the defendant has in substance admitted to his guilt.”
+
+Id. at 13. Once it is resolved that a defendant admitted guilt, the diversionary
+
+
+
+                                           12
+Case 2:19-cr-00073-JAW Document 64 Filed 07/20/20 Page 13 of 13         PageID #: 230
+
+
+
+disposition counts under U.S.S.G. § 4A1.2(f). See United States v. Fraser, 388 F.3d
+
+371, 375 (1st Cir. 2004); United States v. Nelson, No. 2:16-cr-60-DBH, Civil No. 2:17-
+
+cv-387-DBH, 2018 U.S. Dist. LEXIS 130449, at *4 n.3 (D. Me. Aug. 3, 2018) (“It is
+
+well established that a diversionary disposition resulting from an admission of guilt
+
+is a ‘sentence’ that counts towards a defendant's criminal history score”). As the
+
+Court has discussed, Mr. Rydle’s deferred dispositions under Maine law required an
+
+admission of guilt, and therefore the three deferred dispositions in the PSR count for
+
+purposes of his criminal history under U.S.S.G. § 4A1.2(f).
+
+VI.    SUMMARY
+
+       The Court concludes that the three deferred dispositions set forth in PSR
+
+paragraphs twenty-seven, twenty-eight, and twenty-nine are not expungements
+
+under U.S.S.G. § 4A1.2(j) and are diversionary dispositions resulting from a finding
+
+or admission of guilt under U.S.S.G. § 4A1.2(f).
+
+
+VII.   CONCLUSION
+
+       The Court ORDERS that the three criminal history points Danny Rydle
+
+disputes must be counted for purposes of calculating his criminal history and
+
+concludes that his criminal history category is Category III.
+
+       SO ORDERED.
+
+                                       /s/ John A. Woodcock, Jr.
+                                       JOHN A. WOODCOCK, JR.
+                                       UNITED STATES DISTRICT JUDGE
+
+Dated this 20th day of July, 2020
+
+
+
+
+                                         13
+

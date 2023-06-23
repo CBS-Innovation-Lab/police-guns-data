@@ -1,0 +1,910 @@
+Case 1:11-cr-00205-JAW Document 1081 Filed 03/22/21 Page 1 of 18        PageID #: 5403
+
+
+
+
+                        UNITED STATES DISTRICT COURT
+                             DISTRICT OF MAINE
+
+ UNITED STATES OF AMERICA               )
+                                        )
+       v.                               )     No. 1:11-cr-00205-JAW-06
+                                        )
+ JOWENKY NUÑEZ                          )
+
+      ORDER ON MOTION TO FILE MEDICAL RECORDS UNDER SEAL
+
+       In support of his motion for compassionate release under 18 U.S.C.
+
+ § 3582(c)(1)(A), an inmate moves to file his mother’s medical record under seal. The
+
+ Court concludes that sealing the entire record is inconsistent with First Circuit
+
+ precedent. The Court further concludes that redacting a portion of the medical record
+
+ appropriately balances the inmate’s mother’s privacy interest and the public’s
+
+ common law right of access to judicial records. The Court has docketed a partially
+
+ redacted version of the inmate’s mother’s medical records under seal after redacting
+
+ (1) personal identifying information, and (2) information wholly irrelevant to the
+
+ compassionate release motion. Consistent with the same criteria, the Court has also
+
+ docketed a partially redacted version of the Court’s sealed appendix to the order
+
+ denying the inmate’s motion for compassionate release. The Court intends to unseal
+
+ these redacted documents after affording the parties an opportunity to object to the
+
+ proposed redactions and resolving any such objections.
+
+ I.    BACKGROUND
+
+       On February 10, 2021, Jowenky Nuñez moved to file his mother’s medical
+
+ records under seal in support of his then-pending motion for compassionate release,
+
+ citing no authority but claiming that the records contain “personal information.”
+Case 1:11-cr-00205-JAW Document 1081 Filed 03/22/21 Page 2 of 18             PageID #: 5404
+
+
+
+
+ Def.’s Mot. to File Under Seal – Mother’s Medical R. at 1 (ECF No. 1073) (Mot. to Seal).
+
+ On February 12, 2021, Mr. Nuñez filed his mother’s three-page record of a visit with
+
+ a nurse practitioner at Harlem Hospital Center on January 18, 2019. Def.’s Mot. to
+
+ File Under Seal – Mother’s Medical R. (ECF No. 1074) (Med. R.). On February 16,
+
+ 2021, the Court issued (1) an order denying Mr. Nuñez’s motion for compassionate
+
+ release, (2) a separate sealed appendix to the order denying Mr. Nuñez’s motion for
+
+ compassionate release addressing the effect of Mr. Nuñez’s mother’s medical record
+
+ on his motion, and (3) a separate order on Mr. Nuñez’s motion to seal his mother’s
+
+ medical record, requiring the parties to brief the issue as to whether the mother’s
+
+ medical record should be sealed, redacted, or unsealed.             Order on Mot. for
+
+ Compassionate Release (ECF No. 1075) (Compassionate Release Order); App. to Order
+
+ on Mot. for Compassionate Release (ECF No. 1077) (Sealed App.); Order on Mot. to
+
+ Seal (ECF No. 1076).
+
+       On February 23, 2021, Mr. Nuñez responded to the Court’s February 16, 2021
+
+ order by submitting further briefing on the sealing issue. Br. in Supp. of Def.’s Mot.
+
+ to File Under Seal – Mother’s Medical R. (ECF No. 1078) (Def.’s Mem.). Two days
+
+ later, the Government replied. Gov’t’s Resp. to Def.’s Br. in Supp. of Def.’s Mot. to File
+
+ Under Seal (ECF No. 1079) (Gov’t’s Opp’n).
+
+ II.   THE PARTIES’ POSITIONS
+
+       A.     Jowenky Nuñez’s Brief in Support of Sealing
+
+       Mr. Nuñez “contends that privacy interests held by [his] mother as to the
+
+ entirety of her medical records provided to the court, if disclosed, overcomes any
+
+
+
+                                             2
+Case 1:11-cr-00205-JAW Document 1081 Filed 03/22/21 Page 3 of 18            PageID #: 5405
+
+
+
+
+ presumption of public access.” Def.’s Mem. at 1. Mr. Nuñez rests his argument on
+
+ United States v. Kravetz, 706 F.3d 47 (1st Cir. 2013). Id. at 1-3. He argues that, in
+
+ Kravetz, “the First Circuit stated that there are certain records provided by parties
+
+ to a court which either were used in that court’s decisional calculus or could have
+
+ been used in that court’s decisional calculus, which are the type of records imbued
+
+ with ‘privacy interests implicated by disclosure [which] may overcome the
+
+ presumption of public access.’” Id. at 1 (quoting Kravetz, 706 F.3d at 62) (alteration
+
+ in original). Quoting at length from Kravetz, Mr. Nuñez believes that “records of . . .
+
+ illnesses . . . and similar matters will weigh more heavily against access than conduct
+
+ affecting a substantial portion of the public.” Id. at 1-2 (quoting Kravetz, 706 F.3d
+
+ at 62).     He further contends that under Kravetz, “[m]edical information is, as
+
+ intimated above, universally presumed to be private, not public.” Id. at 2 (quoting
+
+ Kravetz, 706 F.3d at 62) (internal quotation marks omitted).
+
+           Mr. Nuñez concludes by stating “there is the threshold question as to whether
+
+ third-party medical records even constitute ‘judicial records’ subject to” Kravetz’s
+
+ requirement that a court balance public and private interests when ruling on a
+
+ motion to seal. Id. He cites In re Boston Herald, Inc., 321 F.3d 174, 190 (1st Cir. 2003)
+
+ for the proposition that the decision to provide medical treatment to a prisoner is not
+
+ judicial and therefore a prisoner’s medical records are not judicial documents. He
+
+ further urges that “[r]egardless, In Re [Boston] Herald also noted that in balancing
+
+ respective interests, privacy interests of ‘innocent third parties’ deserve increased
+
+ weight.” Id. at 3 (citing In re Boston Herald, 321 F.3d at 191).
+
+
+
+                                             3
+Case 1:11-cr-00205-JAW Document 1081 Filed 03/22/21 Page 4 of 18            PageID #: 5406
+
+
+
+
+       B.     The Government’s Opposition
+
+       The Government opposes continued sealing of Mr. Nuñez’s mother’s medical
+
+ records and the Court’s sealed appendix to its order denying Mr. Nuñez’s motion for
+
+ compassionate release.     Gov’t’s Opp’n at 1.    Rather than continue the seal, the
+
+ Government proposes that Mr. Nuñez redact his mother’s medical records to remove
+
+ “(i) identification information; (ii) information irrelevant to the compassionate release
+
+ motion; and (iii) information about the relevant medical conditions that is not already
+
+ part of the public record and not relied on in the Court’s order.” Id.
+
+       After summarizing the procedural history, the Government turns to the
+
+ merits. Id. at 1-2. First, the Government urges that Mr. Nuñez’s mother’s medical
+
+ records are judicial records. Id. at 2. The Government notes that “[i]n Kravetz, the
+
+ First Circuit explained that judicial records are those materials on which a court
+
+ relies in determining the litigants’ substantive rights.” Id. (quoting Kravetz, 706 F.3d
+
+ at 54) (internal quotation marks omitted). Again relying on Kravetz, the Government
+
+ argues “that this definition should be read broadly to include not only documents
+
+ expressly relied on by the court but to ‘relevant documents which are submitted to,
+
+ and accepted by, a court of competent jurisdiction in the course of adjudicatory
+
+ proceedings . . ..’” Id. (quoting Kravetz, 706 F.3d at 58). Given this standard, the
+
+ Government concludes Mr. Nuñez’s mother’s medical records are “documents to
+
+ which the presumption of public access applies” because the Court “expressly
+
+ considered and relied on the medical records” in denying Mr. Nuñez’s motion for
+
+ compassionate release. Id. at 3.
+
+
+
+                                            4
+Case 1:11-cr-00205-JAW Document 1081 Filed 03/22/21 Page 5 of 18           PageID #: 5407
+
+
+
+
+       Next, the Government puts forth that “unsealing the medical records with
+
+ appropriate redactions will protect [Mr. Nuñez’s] mother’s privacy interests while
+
+ providing the public access to records relevant to the Court’s decision.” Id. The
+
+ Government notes that this case is somewhat distinguishable from Kravetz, writing
+
+ that “unlike the defendant in Kravetz, [Mr. Nuñez] submitted medical records of his
+
+ mother—a third party to the litigation.” Id. As third-party medical records, the
+
+ Government instructs that “the Court should ‘consider the degree to which the subject
+
+ matter is traditionally considered private rather than public’ and weigh ‘[t]he nature
+
+ and degree of injury’ to the third party if the information is made public.” Id. (citing
+
+ Kravetz, 706 F.3d at 62) (alteration in original).
+
+       The Government contends medical records are presumptively private. Id. at 4.
+
+ As such, it suggests redacting medical records may be appropriate when the records
+
+ are “third-party medical records that are tangential to the issue being adjudicated.”
+
+ Id. In such instances, the Government reasons that redacting peripheral information
+
+ from medical records, while leaving the relied-upon portion of the medical record
+
+ unredacted, is the best way to balance a third party’s interest in privacy with the
+
+ right of public access to judicial records. Id.
+
+       Here, the Government believes “redaction can mitigate any potential harm
+
+ public disclosure may cause third parties like [Mr. Nuñez’s] mother.” Id. However,
+
+ it believes such harm “is already done” because Mr. Nuñez “has already made his
+
+ mother’s stroke and blindness part of the public record.”          Id.   Even so, the
+
+
+
+
+                                             5
+Case 1:11-cr-00205-JAW Document 1081 Filed 03/22/21 Page 6 of 18            PageID #: 5408
+
+
+
+
+ Government acknowledges “there could be additional harm to her privacy interest by
+
+ further—and more detailed—publication of her medical information.” Id. at 4-5.
+
+        Turning to the public’s interest in accessing the medical records, the
+
+ Government suggests that interest is “tempered” for two reasons. Id. at 5. First,
+
+ although “[t]he Court considered the medical records in its analysis” the Government
+
+ avers they were not “a necessary basis of the Court’s decision.” Id. Rather, “the Court
+
+ found that [Mr. Nuñez] failed to demonstrate that the § 3553(a) factors weigh in favor
+
+ of his early release.” Id. The Government notes “[t]his independent basis for denying
+
+ [Mr. Nuñez’s] motion did not require any analysis of the medical records.” Id. Second,
+
+ the Government highlights that “the medical records were not the sole basis for
+
+ rejecting the . . . caretaker argument.” Id. Instead, the Court’s unsealed opinion
+
+ “considered a letter from [Mr. Nuñez’s] brother that showed [Mr. Nuñez] had other
+
+ siblings that could take care of his mother and that ‘the hardship that his
+
+ incarceration has caused to his family is likely to abate after he is released from BOP
+
+ custody in little over a month’s time.’” Id. (quoting Compassionate Release Order
+
+ at 21-23).
+
+        The Government concludes “unsealing the medical records with appropriate
+
+ redaction is appropriate here.” Id. at 6. It suggests “redaction of identification
+
+ information and information irrelevant to the compassionate release motion is
+
+ appropriate” as is “redaction of specific information about the relevant medical
+
+ conditions that is not already part of the public record and not relied on in the Court’s
+
+ order . . ..” Id.
+
+
+
+                                            6
+Case 1:11-cr-00205-JAW Document 1081 Filed 03/22/21 Page 7 of 18            PageID #: 5409
+
+
+
+
+ III.   DISCUSSION
+
+        “There is no special perquisite of the judiciary which enables it, as
+
+ distinguished from other institutions of democratic government, to suppress, edit, or
+
+ censor events which transpire in proceedings before it.”        Craig v. Harney, 331
+
+ U.S. 367, 374 (1947). “[T]he courts of this country recognize a general right to inspect
+
+ and copy public records and documents, including judicial records and documents.”
+
+ Nixon v. Warner Commc’ns, Inc., 435 U.S. 589, 597 (1978). However, the public’s
+
+ right to access judicial records is “not unfettered.” United States v. Kravetz, 706
+
+ F.3d 47, 59 (1st Cir. 2013). In certain circumstances, “the most compelling reasons”
+
+ may require a Court to prioritize an individual’s privacy interests above the public
+
+ right of access or, alternatively, strike a balance between the two. Id.
+
+        At issue is how the Court should balance the public’s presumptive right to
+
+ access judicial records against a third party’s privacy interests in her medical records
+
+ that her son filed in Court to support his motion for release from prison. Mr. Nuñez
+
+ argues no portion of his mother’s medical records should be publicly accessible. The
+
+ Government disagrees and urges that only the portions of Mr. Nuñez’s mother’s
+
+ records relevant to his release argument should be unsealed but that the remaining
+
+ portions of the record, unrelated to his release argument, should remain private and
+
+ sealed.
+
+        Ultimately, the Court concludes that the Government’s argument is more
+
+ persuasive and strikes what it views as the proper balance between public access and
+
+ respecting third-party privacy interests. The Court has redacted the portions of the
+
+
+
+                                            7
+Case 1:11-cr-00205-JAW Document 1081 Filed 03/22/21 Page 8 of 18               PageID #: 5410
+
+
+
+
+ medical records and sealed appendix containing personally identifying information
+
+ and wholly relevant information. The Court will give the parties the opportunity to
+
+ object to these redactions and, after resolving any objections, the Court intends to
+
+ unseal the redacted versions of the medical record and sealed appendix.
+
+           A.    Legal Standard: Sealing Judicial Records
+
+           In the First Circuit, the leading case on sealing is United States v. Kravetz, 706
+
+ F.3d 47 (1st Cir. 2013). Kravetz explains that “the common law right of access applies
+
+ to documents that constitute ‘judicial records,’ which are defined as ‘materials on
+
+ which a court relies in determining the litigants’ substantive rights.’” McKenzie v.
+
+ Brannan, No. 2:20-cv-00262-JAW, 2020 U.S. Dist. LEXIS 211557, at *10 (D. Me.
+
+ Nov. 12, 2020) (quoting Kravetz, 706 F.3d at 54). Put slightly differently, “once a
+
+ party submits information to a court and urges consideration of the information for
+
+ purposes of making a judicial ruling, the public right of access presumptively applies
+
+ to that information . . ..” Cole v. Maine Office of Info. Tech., No. 1:17-cv-00071-JAW,
+
+ 2018 U.S. Dist. LEXIS 676, at *4-5 (D. Me. Jan. 3, 2018) (citing Kravetz, 706 F.3d
+
+ at 54).
+
+           “Though the public’s right of access is vibrant, it is not unfettered.” Kravetz,
+
+ 706 F.3d at 59 (quoting Siedle v. Putnam Invs., Inc., 147 F.3d 7, 10 (1st Cir. 1998)).
+
+ Kravetz sets forth a framework for determining whether judicial records should be
+
+ sealed:
+
+           When addressing a request to unseal, a court must carefully balance the
+           presumptive public right of access against the competing interests that
+           are at stake in a particular case, keeping in mind that “‘only the most
+
+
+
+                                               8
+Case 1:11-cr-00205-JAW Document 1081 Filed 03/22/21 Page 9 of 18           PageID #: 5411
+
+
+
+
+       compelling reasons can justify non-disclosure of judicial records’ that
+       come within the scope of the common-law right of access.”
+
+ Id. (quoting In re Providence Journal Co., Inc., 293 F.3d 1, 10 (1st Cir. 2002) (quoting
+
+ Fed. Trade Comm’n v. Standard Fin. Mgmt. Corp., 830 F.2d 404, 409 (1st Cir. 1987))).
+
+ When sealing judicial records, a district court must explain why a seal is proper and
+
+ the district court’s “reasons must be specific enough to permit a reviewing court to
+
+ determine whether sealing was appropriate.” Kravetz, 706 F.3d at 60 (citing Press-
+
+ Enter. Co. v. Super. Ct. of Cal., 464 U.S. 501, 510 (1984)).
+
+       “[P]rivacy rights of participants and third parties are among those interests
+
+ which, in appropriate cases, can limit the presumptive right of access to judicial
+
+ records.” Standard Fin. Mgmt., 830 F.3d at 411 (quotation marks omitted). “Third-
+
+ party privacy interests, in particular, have been referred to as ‘a venerable common
+
+ law exception to the presumption of access, and weigh heavily in a court’s balancing
+
+ equation.’” Kravetz, 706 F.3d at 62 (quoting United States v. Amodeo, 71 F.3d 1044,
+
+ 1050-51 (2d Cir. 1995) (Amodeo II)) (internal citations and quotation marks omitted).
+
+ When determining whether a judicial record contains private information that may
+
+ justify a seal, the First Circuit instructs “that courts should ‘consider the degree to
+
+ which the subject matter is traditionally considered private rather than public.’” Id.
+
+ (quoting In re Boston Herald, Inc., 321 F.3d 174, 190 (1st Cir. 2003)).           Thus,
+
+ “‘[f]inancial records of a wholly owned business, family affairs, illnesses,
+
+ embarrassing conduct with no public ramifications, and similar matters will weigh
+
+ more heavily against access than conduct affecting a substantial portion of the
+
+ public.’” Id. (quoting Amodeo II, 71 F.3d at 1051).
+
+                                            9
+Case 1:11-cr-00205-JAW Document 1081 Filed 03/22/21 Page 10 of 18            PageID #: 5412
+
+
+
+
+        Another factor that a court should consider when ruling on a motion to seal is
+
+  the “nature and degree of injury” that will arise from revealing private information
+
+  about third parties. Id. (quoting Amodeo II, 71 F.3d at 1051). That requires a court
+
+  to assess “not only the sensitivity of the information and the subject but also . . . how
+
+  the person seeking access intends to use the information.” Id. (quoting Amodeo II, 71
+
+  F.3d at 1051). The information’s reliability is also relevant. Id. “Raw, unverified
+
+  information should not be as readily disclosed as matters that are verified” and “a
+
+  court may consider whether the nature of the materials is such that there is a fair
+
+  opportunity for the subject to respond to any accusations contained therein.” Id.
+
+  (quoting Amodeo II, 71 F.3d at 1051).
+
+        Ruling on a motion to seal does not require a district court to make a binary
+
+  choice between a blanket seal or providing unfettered public access to sensitive
+
+  information. There is a comfortable middle ground. “[W]here the public’s right of
+
+  access competes with privacy rights, ‘it is proper for the district court, after weighing
+
+  competing interests, to edit and redact a judicial document in order to allow access to
+
+  appropriate portions of the document.’” Id. at 62 (quoting United States v. Amodeo,
+
+  44 F.3d 141, 147 (2d Cir. 1995) (Amodeo I)).
+
+        B.     Application
+
+               1.     The Medical Record Is a Judicial Record Subject to a
+                      Presumptive Right of Public Access.
+
+        At the outset, the Court readily concludes Mr. Nuñez’s mother’s medical
+
+  records are judicial records. Mr. Nuñez based his motion for compassionate release
+
+  on his need to serve as a caregiver for “his ailing mother.” Jowenky Nunez’s Reply to
+
+                                             10
+Case 1:11-cr-00205-JAW Document 1081 Filed 03/22/21 Page 11 of 18            PageID #: 5413
+
+
+
+
+  Gov’t’s Obj. to Def.’s Mot for Compassionate Release and Mot. for Modification of
+
+  Sentence Pursuant to 18 U.S.C. § 3582(c)(1)(A) at 1-2 (ECF No. 1065) (Def.’s
+
+  Compassionate Release Reply). He filed the medical record to corroborate his claim
+
+  that his mother was in poor health and to convince the Court to release him. Mot. to
+
+  Seal; Med. R.
+
+        As a document filed in support of Mr. Nuñez’s motion for release from federal
+
+  custody, the medical record is unquestionably a judicial record. See Kravetz, 706 F.3d
+
+  at 57-58 (concluding “[t]he presumptive right of access plainly attaches” to letters
+
+  from third parties proffered to a district court at sentencing in support of a
+
+  defendant’s argument for leniency). Mr. Nuñez argues otherwise, see Def.’s Mem.
+
+  at 2-3, but he is mistaken. He cites In re Boston Herald, 321 F.3d at 190 for the
+
+  premise that medical records are not judicial records; however, his argument takes
+
+  the cited passage out of context. Def.’s Mem. at 2-3. The language Mr. Nuñez
+
+  references stands only for the proposition that a jail’s administrative records about a
+
+  prisoner’s medical care are not automatically judicial records just because the
+
+  decision to provide or withhold prison medical care may implicate the prisoner’s
+
+  constitutional rights.   See In re Boston Herald, 321 F.3d at 190 (distinguishing
+
+  between judicial records and administrative records). Kravetz makes clear that a
+
+  document’s subject does not determine whether the document is a judicial record. 706
+
+  F.3d at 54.     The dispositive question is instead whether a party submitted the
+
+  document to a court for consideration when ruling on a party’s substantive rights.
+
+  See id. (“[Judicial records] are those ‘materials on which a court relies in determining
+
+
+
+                                            11
+Case 1:11-cr-00205-JAW Document 1081 Filed 03/22/21 Page 12 of 18            PageID #: 5414
+
+
+
+
+  the litigants’ substantive rights’”) (quoting In re Providence Journal, 293 F.3d at 9-
+
+  10).
+
+         Nor to fit under the definition of “judicial record” is it necessary to prove that
+
+  a court actually relied on the record in making its decision. Id. at 58. In Kravetz, the
+
+  First Circuit made it clear that the test is whether a party “meant to effect the judge’s
+
+  sentencing determination.” Id. If so, the documents “take on the trappings of a
+
+  judicial document under the common law.” Id. (quoting United States v. Gotti, 322 F.
+
+  Supp. 2d 230, 249 (E.D.N.Y. 2004)). Here, the Court can conceive of no reason Mr.
+
+  Nuñez would have filed his mother’s medical record if not to influence this Court’s
+
+  decision on his motion for compassionate release. Under this view, Mr. Nuñez’s
+
+  mother’s medical record falls well within the definition of judicial record.
+
+         As a judicial record, Kravetz establishes that the public possesses a
+
+  presumptive right of access to the medical record Mr. Nuñez filed, as well as the
+
+  Court’s sealed appendix analyzing those records. Id. However, the medical record
+
+  contains potentially sensitive health information about a third party to Mr. Nuñez’s
+
+  case. Med. R. at 3-5. Thus, on its face, the medical record implicates some of the
+
+  privacy interests the Kravetz Court identified as potentially justifying sealing. See
+
+  Kravetz, 706 F.3d at 62 (discussing how a court may protect privacy interests of third-
+
+  party information and medical information by sealing or redaction).
+
+               2.     Under Kravetz, Partial Redaction Best Balances the Public
+                      and Private Interests at Stake.
+
+         Mr. Nuñez’s request for a seal is ultimately unpersuasive. Under Kravetz, a
+
+  blanket seal would insufficiently balance his mother’s privacy interests with the
+
+                                             12
+Case 1:11-cr-00205-JAW Document 1081 Filed 03/22/21 Page 13 of 18            PageID #: 5415
+
+
+
+
+  public’s presumptive right to access judicial records. “Courts have long recognized
+
+  ‘that public monitoring of the judicial system fosters the important values of quality,
+
+  honesty and respect for our legal system.’” Kravetz, 706 F.3d at 52 (quoting In re
+
+  Providence Journal, 293 F.3d at 9).        Several weeks ago, the Court dismissed
+
+  Mr. Nuñez’s motion to be released from incarceration to care for his allegedly ailing
+
+  mother, just one month before his sentence would end. Compassionate Release Order
+
+  at 27. The public has a right to know why.
+
+        If denied the opportunity to review the medical record and the sealed appendix
+
+  interpreting that record, some members of the public may question whether the Court
+
+  correctly found Mr. Nuñez’s mother’s conditions were not serious enough to merit his
+
+  early release. Transparency, by contrast, strengthens the public’s faith that the
+
+  federal judiciary impartially applies the law to the credible evidence before it. This
+
+  public interest endures even though the Court denied Mr. Nuñez’s compassionate
+
+  release motion on multiple grounds and identified other record evidence refuting his
+
+  caretaker argument. Despite these other bases for denying Mr. Nuñez’s motion, the
+
+  medical record is likely the most reliable and probative piece of evidence describing
+
+  Mr. Nuñez’s mother’s conditions. As such, denying public access to the record and
+
+  the Court’s sealed appendix interpreting the record considerably impairs public
+
+  monitoring of the courts.
+
+        In the Court’s view, redacting the medical record is the better way to proceed.
+
+  On this point, the First Circuit’s analysis in Kravetz is instructive. The Kravetz Court
+
+  considered whether a district judge properly declined to unseal various documents
+
+
+
+                                            13
+Case 1:11-cr-00205-JAW Document 1081 Filed 03/22/21 Page 14 of 18            PageID #: 5416
+
+
+
+
+  filed with the court in connection with the defendant’s sentencing. Kravetz, 706 F.3d
+
+  at 51-52. Several judicial records were in dispute, including letters to the court
+
+  requesting a lenient sentence. Id. at 62. Some of these letters from third parties
+
+  “contain[ed] discussion of the ill health of members of the authors’ families, incidents
+
+  of domestic violence, and other domestic relations matters.” Id. The First Circuit
+
+  recognized this information was “highly personal” and “appear[ed] to have no direct
+
+  bearing upon the public’s assessment of the sentences imposed.” Id. Accordingly, the
+
+  First Circuit concluded “the privacy interests implicated by disclosure may overcome
+
+  the presumption of public access” but reserved to the district court the ultimate
+
+  decision as to whether those interests would be best protected through either a seal
+
+  or redaction. Id.
+
+        The Kravetz Court also considered the defendants’ privacy interest in
+
+  information concerning their own physical and mental health. Id. at 63. Although
+
+  the Court recognized “[m]edical information is . . . universally presumed to be private,
+
+  not public” it clarified that “[t]he privacy interest in medical information is neither
+
+  fundamental nor absolute and can be waived or otherwise overcome by a variety of
+
+  means.” Id. (internal citations and quotation marks omitted). For example, an
+
+  alleged privacy interest in medical information “may lose some force” when the
+
+  information has already been publicly disclosed. Id. (citing Cox Broad. Corp. v. Cohn,
+
+  420 U.S. 469, 494-95 (1975)). Thus, a Kravetz defendant’s argument for sealing was
+
+  less persuasive because at his sentencing “he articulated not only the full panoply of
+
+
+
+
+                                            14
+Case 1:11-cr-00205-JAW Document 1081 Filed 03/22/21 Page 15 of 18            PageID #: 5417
+
+
+
+
+  ailments from which he suffers, but also the dire predictions for his health should he
+
+  fail to take immediate steps to improve his condition.” Id. at 63-64.
+
+        The Court views Mr. Nuñez’s mother’s medical record as raising largely the
+
+  same issue as the third-party sentencing letters. Much like the sentencing letters,
+
+  Mr. Nuñez’s mother’s medical record contains some sensitive and typically private
+
+  information about a third party. Here though, there is a legally significant difference.
+
+  Unlike the sentencing letters, most of the third-party medical information is central
+
+  to resolving Mr. Nuñez’s argument that his mother’s poor health justified his release
+
+  from prison. Thus, although the medical information is presumptively private, it was
+
+  not peripheral to the disposition Mr. Nuñez’s motion for compassionate release.
+
+  Therefore, the public right of access weighs in favor redacting any peripheral or
+
+  irrelevant information within the record, rather than an outright seal.
+
+        The Kravetz defendant’s medical information provides another useful point of
+
+  comparison. Mr. Nuñez’s medical records are similar to the Kravetz defendant’s
+
+  medical information because they both contain presumptively private medical
+
+  information.    Another similarity is that Mr. Nuñez had already disclosed a
+
+  substantial portion of the sensitive information in public settings. As the Kravetz
+
+  Court noted, prior public disclosure of private information may abrogate or diminish
+
+  the presumption of privacy. Id. at 63 (“Levitin’s claim of privacy in his medical
+
+  records, however, may lose some force in light of his prior publication of the
+
+  information that he now seeks to protect”). In these instances, prior public disclosure
+
+  weighs against sealing certain otherwise sensitive judicial records.
+
+
+
+                                            15
+Case 1:11-cr-00205-JAW Document 1081 Filed 03/22/21 Page 16 of 18                       PageID #: 5418
+
+
+
+
+         Here, the public docket entries contain considerable information about
+
+  Mr. Nuñez’s mother’s health. In fact, Mr. Nuñez spoke about his mother’s health in
+
+  open court at the final hearing for revocation of his supervised release Tr. of
+
+  Proceedings – Continued Final Revocation Hr’g at 69:20-71:20 (ECF No. 1011)
+
+  (Revocation Tr.). He mentioned her stroke, claimed she was blind, 1 said that he cooks
+
+  for her, and stated he helps her with using the bathroom. Id. Mr. Nuñez cited these
+
+  statements in support of his motion for compassionate release. Suppl. to Jowenky
+
+  Nunez’s Reply to Gov’t’s Obj. to Def.’s Mot. for Compassionate Release and Mot. for
+
+  Modification of Sentence Pursuant to 18 U.S.C. § 3582(c)(1)(A) at 2 (ECF No. 1069)
+
+  (Def.’s Compassionate Release Suppl. Reply).                  In support of his motion for
+
+  compassionate release, Mr. Nuñez also filed an email from his brother discussing
+
+  their mother’s medical conditions. Id., Attach. 1, Email from Alfarabick Mally (Mally
+
+  Email). In that email, Mr. Nuñez’s brother mentioned their mother’s stroke and
+
+  stated she needs assistance eating, bathing, going to the bathroom, and putting on
+
+  clothes. Id. He also described a recent fall she had experienced. Id.
+
+         In sum, the medical record largely repeats publicly accessible information on
+
+  the docket. Therefore, the nature and scope of the harm to Mr. Nuñez’s mother does
+
+  not support a seal. The Court also finds it unlikely that disclosing Mr. Nuñez’s
+
+  mother’s medical record would further harm her privacy interests. In the Court’s
+
+
+
+  1       The Court discussed whether Mr. Nuñez’s mother is actually blind in the sealed appendix.
+  Without revealing what the medical record and sealed appendix show about his mother’s blindness,
+  the Court points out to Mr. Nuñez that this particular issue exemplifies the problems that may result
+  from sealing docket entries. Here, the sealed evidence was the most reliable evidence—a medical
+  record directly from a healthcare provider—that the Court used to determine whether Mr. Nuñez’s
+  mother was blind.
+
+                                                   16
+Case 1:11-cr-00205-JAW Document 1081 Filed 03/22/21 Page 17 of 18            PageID #: 5419
+
+
+
+
+  view, she has no conditions that carry particular stigma. As such, disclosure of the
+
+  medical record does not raise the Kravetz Court’s concerns about revealing
+
+  information that “gratif[ies] private spite or promote[s] public scandal,” nor would
+
+  “public access simply cater to a morbid craving for that which is sensational and
+
+  impure.” See Kravetz, 706 F.3d at 63 (quoting Nixon, 435 U.S. at 598 and Amodeo II,
+
+  71 F.3d at 1051).
+
+        Pursuant to Kravetz and the Court’s interest-balancing analysis, the Court
+
+  concludes it is appropriate to redact (1) personal identifying information as set forth
+
+  in Federal Rule of Criminal Procedure 49.1 and (2) information wholly irrelevant to
+
+  the compassionate release motion from the medical record and sealed appendix
+
+  interpreting the record. Mr. Nuñez put his mother’s health in dispute when he moved
+
+  for compassionate release to care for her. Her medical record is a key piece of evidence
+
+  underlying Mr. Nuñez’s claim for release. The sealed appendix analyzes and quotes
+
+  at length from the medical record which, as discussed, predominantly contains
+
+  information that is either (1) already public or (2) unlikely to injure Ms. Nuñez if
+
+  made public. Thus, there is reason to redact some information in the medical record
+
+  itself, and the reasoning applies to the contents of the appendix, which largely repeats
+
+  the contents of the medical record. Contemporaneously with this order, the Court
+
+  has docketed redacted versions of both documents under seal. The Court intends to
+
+  unseal the redacted versions after providing both parties with the opportunity to
+
+  challenge it.
+
+
+
+
+                                            17
+Case 1:11-cr-00205-JAW Document 1081 Filed 03/22/21 Page 18 of 18      PageID #: 5420
+
+
+
+
+  IV.   CONCLUSION
+
+        The Court GRANTS in part and DENIES in part Jowenky Nuñez’s Motion to
+
+  File Under Seal – Mother’s Medical Record (ECF No. 1073). The Court ORDERS
+
+  Mr. Nuñez to file any objections to the Court’s proposed redacted versions of his
+
+  Mother’s Medical Record (ECF No. 1074) and the Appendix to Order on Motion for
+
+  Compassionate Release (ECF No. 1077) within seven days.       The Court further
+
+  ORDERS the Government to file its response, if any, within seven days of any
+
+  objection by Mr. Nuñez.
+
+        SO ORDERED.
+
+                                        /s/ John A. Woodcock, Jr.
+                                        JOHN A. WOODCOCK, JR.
+                                        UNITED STATES DISTRICT JUDGE
+
+  Dated this 22nd day of March, 2021.
+
+
+
+
+                                         18
+

@@ -1,0 +1,580 @@
+Case 2:04-cr-00135-DBH Document 33 Filed 04/05/05 Page 1 of 12                                                     PageID #: 45
+
+
+
+                                        UNITED STATES DISTRICT COURT
+                                             DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA                                       )
+                                                               )
+v.                                                             )                    Criminal No. 04-135-P-H
+                                                               )
+RYAN P. HOPKINS,                                               )
+                                                               )
+                               Defendant                       )
+
+
+
+
+                       RECOMMENDED DECISION ON MOTION TO SUPPRESS
+
+
+          Ryan P. Hopkins, charged with one count of possession of a sawed-off shotgun in violation of
+
+26 U.S.C. §§ 5841, 5845(a), 5861(d) and 5871, one count of possession of a firearm by a felon in
+
+violation of 18 U.S.C. §§ 922(g)(1) and 924(a)(2), and one count of being a drug user in possession of
+
+a firearm in violation of 18 U.S.C. §§ 922(g)(3) and 924(a)(2), seeks to suppress statements that he
+
+asserts were elicited in violation of the protections of Miranda v. Arizona, 384 U.S. 436 (1966).1 See
+
+Indictment (Docket No. 1); Defense Motion To Suppress Statements, etc. (“Motion”) (Docket No.
+
+18).2 An evidentiary hearing was held before me on March 31, 2005 at which the defendant appeared
+
+with counsel and at the conclusion of which counsel for both the defendant and the government argued
+
+orally. I now recommend that the following findings of fact be adopted and that the Motion be denied.
+
+
+
+
+1
+  Per Miranda, an accused must be advised prior to custodial interrogation “that he has the right to remain silent, that anything he says
+can be used against him in a court of law, that he has the right to the presence of an attorney, and that if he cannot afford an attorney
+one will be appointed for him prior to any questioning if he so desires.” Miranda, 384 U.S. at 478-79.
+2
+  Shawn D. Hopkins, Ryan Hopkins’ co-defendant, had also filed a motion to suppress statements he made. See Motion To Suppress
+Statements (Docket No. 17). However, at the start of the hearing held on March 31, 2005, counsel for Shawn Hopkins stated that his
+client was withdrawing that motion. To avoid confusion, I henceforth refer to Ryan Hopkins as “Ryan” and Shawn Hopkins as
+“Shawn.”
+Case 2:04-cr-00135-DBH Document 33 Filed 04/05/05 Page 2 of 12                          PageID #: 46
+
+
+
+                                    I. Proposed Findings of Fact
+
+        On May 22, 2004 the Maine State Police (“MSP”) Tactical, or “SWAT,” Team arrested
+
+brothers Shawn and Ryan Hopkins alongside the Maine Turnpike in Cumberland, Maine. Shawn and
+
+Ryan both were arrested on material-witness warrants in connection with the murder of Julius
+
+Petrovic in Yarmouth, Maine on May 17, 2004. Shawn was arrested, in addition, on a probation-
+
+violation charge, and Ryan was arrested, in addition, on a charge of failure to appear in court in
+
+connection with an operating-after-suspension (“OAS”) charge. In the course of the arrest, both
+
+Shawn and Ryan were pulled from their vehicle and placed on the ground.
+
+        Following their arrest, Shawn and Ryan were taken to the Cumberland County Jail (“CCJ”).
+
+MSP Detective Angela Blodgett, the primary detective in the Petrovic murder investigation, and MSP
+
+Detective Scott Harakles interviewed Ryan in a room in the CCJ intake area. See Gov’t Exh. 1A. At
+
+that time, Blodgett was aware from various interviews that Shawn and Ryan were drug users, and she
+
+assumed they currently were using drugs. She also had obtained evidence linking the brothers to the
+
+Petrovic murder and considered them suspects in that case. Blodgett does not, herself, conduct drug
+
+investigations. If a case involves drugs, she contacts either the Maine Drug Enforcement Agency or
+
+the federal Drug Enforcement Agency. Ryan was not charged with any state drug offenses.
+
+        According to a transcript of the interview, which commenced at 9:25 p.m., Blodgett read Ryan
+
+his Miranda rights, and he stated that he understood them. See id. at 1-2. He then told the detectives
+
+that he did not wish to talk to them at that time and wanted to consult with a lawyer because he was not
+
+feeling well and did not understand completely what was going on. See id. at 2-3. Harakles left to get
+
+a correction officer to escort Ryan back to his cell. See id. at 3. In that interval Blodgett asked Ryan
+
+several questions that she told him were biographical, all of which he answered. See id. at 4-6. In
+
+addition to inquiring about Ryan’s date of birth, employment status, most recent address, Social
+
+                                                   2
+Case 2:04-cr-00135-DBH Document 33 Filed 04/05/05 Page 3 of 12                           PageID #: 47
+
+
+
+Security number, probation status and the name and location of his probation officer, Blodgett asked
+
+the following:
+
+        AB       And, RYAN, do you have any medical conditions that I should let them know
+                 about? Ah, any medications or medical problems that you’re having right
+                 now?
+
+        RH       Yeah, I think they’re aware of my medical problems right now.
+
+        AB       Okay. All right.
+
+        RH       Yeah, I, hopefully, they’ll (inaudible)
+
+        AB       Okay. Don’t hesitate to speak up if, um, if you’re not feeling well and let them
+                 know that . . .
+
+        RH       Right. Right. Yeah. They’ve been more than . . .
+
+        AB       Okay.
+
+        RH       More than helpful.
+
+        AB       Good.
+
+        RH       Kind and . . .
+
+Id. at 4-5. The interview terminated at 9:28 p.m. See id. at 1. Although Blodgett has a form she
+
+typically uses to ask questions of this nature, she did not recall following it during her interview with
+
+Ryan. However, it is her practice to ask biographical questions of MSP arrestees who are brought to
+
+the jail. She then completes a sheet for CCJ personnel that contains biographical information, the
+
+charges against the arrestee and sometimes a short narrative explaining why the person is being
+
+brought to the jail. Blodgett was aware of the circumstances of Shawn’s and Ryan’s arrest and was
+
+interested in ascertaining whether they had been injured during that process or otherwise needed
+
+medical attention.
+
+        When Blodgett finished her interview with Ryan, she interviewed Shawn. She then returned to
+
+
+                                                    3
+Case 2:04-cr-00135-DBH Document 33 Filed 04/05/05 Page 4 of 12                            PageID #: 48
+
+
+
+her office in Gray, Maine. While en route, she received a phone call from Ryan and placed him on
+
+hold until she could get to her desk. She took the call, and Ryan asked her when discovery would be
+
+available. She has not conversed with him since.
+
+        That Monday, May 24, Ryan met with CCJ Classification Officer Barbara Seely, whose job it
+
+was to classify inmates into security levels (normal, medium or maximum) and pods. Seely, who
+
+wore a guard uniform, met with inmates in their pods or in a classroom. She met on Monday mornings
+
+with inmates who had been arrested over the weekend. Her practice was to read questions verbatim
+
+from a form and write down whatever the inmate said in response. She did not read inmates Miranda
+
+warnings. The inmate whom she was interviewing typically would be sitting alongside or across from
+
+her. At the end of the interview both she and the inmate would sign the form she had just completed.
+
+She would then return to her office and score the form, using it to help determine where in the facility
+
+to house the inmate and programs for which the inmate might qualify.
+
+        Seely had no independent memory of her interview with Ryan. However, the form she
+
+completed, which was admitted into evidence without objection, indicates that Ryan’s status was
+
+“PA” and “PT,” which Seely explained meant “pre-arraignment” and “pre-trial,” and that the charges
+
+then pending against him were “Material Witness” and “Port. D/C FTA OAS,” the latter meaning
+
+failure to appear in District Court in Portland for OAS charges. See Gov’t Exh. 3. The form contains
+
+six categories of questions, titled (i) prior criminal history, (ii) pending criminal charges, (iii) escape
+
+risk, (iv) chemical dependency/mental health, (v) community ties and (vi) housing program referrals.
+
+See id. Questions asked under the heading of chemical dependency/mental health include: “Do you
+
+use drugs? Describe usage and type[.]” Id. at [1]. Seely wrote “yes” to the question whether Ryan
+
+used drugs, and “Heroin – every day – several times” to describe the usage and type. Id. Both Ryan
+
+and Seely signed the form. See id. at [2]. No attorney was present when Seeley conducted her
+
+                                                    4
+Case 2:04-cr-00135-DBH Document 33 Filed 04/05/05 Page 5 of 12                           PageID #: 49
+
+
+
+interview with Ryan.
+
+                                             II. Discussion
+
+        If a suspect unambiguously invokes his Miranda rights, “he is not subject to further
+
+interrogation by the authorities . . . unless the accused himself initiates further communication,
+
+exchanges, or conversations with the police.” James v. Marshall, 322 F.3d 103, 108 (1st Cir. 2003)
+
+(citation and internal quotation marks omitted). Ryan contends, in essence, that the authorities (in the
+
+persons of MSP Detective Blodgett and CCJ Classification Officer Seely) impermissibly subjected
+
+him to further interrogation in the face of his unambiguous invocation of his rights to remain silent and
+
+to have counsel present during any further questioning. In issue are responses elicited by Blodgett and
+
+Seely concerning drug usage that bear on the current federal charge of being a drug user in possession
+
+of a firearm.
+
+        The government counters that Blodgett’s and Seely’s questions cannot fairly be categorized as
+
+“interrogation,” but rather fit within the confines of the so-called “routine booking exception” to the
+
+Miranda rule. See Government’s Objection to Defendants’ Motion To Suppress (Docket No. 20) at 4-
+
+7. I agree.
+
+        The booking exception “exempts from Miranda’s coverage questions to secure the
+
+biographical data necessary to complete booking or pretrial services.” Pennsylvania v. Muniz, 496
+
+U.S. 582, 601 (1990) (citation and internal quotation marks omitted). However, there is an exception
+
+to the exception: It does not apply “where the law enforcement officer, in the guise of asking for
+
+background information, seeks to elicit information that may incriminate.” United States v. Reyes, 225
+
+F.3d 71, 76 (1st Cir. 2000) (citation and internal quotation marks omitted). Although this inquiry is
+
+“phrased in terms of the officer’s intention,” it is “actually an objective one: whether the questions and
+
+circumstances were such that the officer should reasonably have expected the question to elicit an
+
+                                                    5
+Case 2:04-cr-00135-DBH Document 33 Filed 04/05/05 Page 6 of 12                        PageID #: 50
+
+
+
+incriminating response.” Id. at 76-77.
+
+       As defense counsel acknowledged at hearing, the First Circuit had occasion to construe the
+
+booking exception in Reyes and United States v. Doe, 878 F.2d 1546 (1st Cir. 1989). In Reyes, an
+
+Immigration and Naturalization Service (“INS”) agent assigned to work with the Drug Enforcement
+
+Administration (“DEA”) questioned the defendant for purposes of booking him following his arrest on
+
+a charge of participating in a criminal drug conspiracy. See Reyes, 225 F.3d at 74. The INS agent
+
+advised the defendant of his Miranda rights but did not seek a waiver of those rights prior to
+
+requesting his name, date of birth and Social Security number. See id. Although the drug-conspiracy
+
+charge against the defendant was dropped, he ultimately was charged with making false statements in
+
+violation of 18 U.S.C. § 1001 based on an allegedly false name, date of birth and Social Security
+
+number given in response to the booking questions. See id. at 75.
+
+       The First Circuit held that the booking exception applied, rendering the statements admissible,
+
+inasmuch as (i) the INS agent asked only those questions found on the standard DEA booking form,
+
+with no reference to the charge on which the defendant was being booked, (ii) the booking interview
+
+was conducted separate from any substantive interrogation, which was performed by a different
+
+officer in a different room at a different time, and (iii) it was not reasonably foreseeable that the
+
+questions would elicit an incriminating response inasmuch as they bore no direct relevance to the
+
+charge of criminal drug conspiracy on which the defendant was being booked. See id. at 77. The First
+
+Circuit observed:
+
+       [W]e think that it would be a rare case indeed in which asking an individual his name,
+       date of birth, and Social Security number would violate Miranda. We can imagine
+       situations, of course, that would present a closer case than this one. For example,
+       asking a person’s name might reasonably be expected to elicit an incriminating
+       response if the individual were under arrest for impersonating a law enforcement
+       officer or for some comparable offense focused on identity; likewise, asking an
+       individual’s date of birth might be expected to elicit an incriminating response if the
+
+                                                 6
+Case 2:04-cr-00135-DBH Document 33 Filed 04/05/05 Page 7 of 12                         PageID #: 51
+
+
+
+       individual were in custody on charges of underage drinking; and questions about an
+       individual’s Social Security number might be likely to elicit an incriminating response
+       where the person is charged with Social Security fraud. In such scenarios, the
+       requested information is so clearly and directly linked to the suspected offense that we
+       would expect a reasonable officer to foresee that his questions might elicit an
+       incriminating response from the individual being questioned.
+
+Id.
+
+       In Doe, by contrast, the First Circuit held that the booking exception did not apply. See Doe,
+
+878 F.2d at 1550-52. In that case, Coast Guard officers aboard a U.S. Navy destroyer sought to board
+
+a British-registered sailboat in the Caribbean. See id. at 1548. The sailboat maneuvered dangerously
+
+close to the destroyer, caught fire and sank, whereupon several bales of marijuana rose to the surface.
+
+See id. The Coast Guard rescued and arrested the sailboat’s occupants. See id. Prior to
+
+administering any Miranda warning, the Coast Guard asked the defendants their names and
+
+citizenship. See id. at 1550. They stated that they were American citizens. See id. The defendants
+
+ultimately were charged, inter alia, with violation of a statute making it an offense for any United
+
+States citizen on board any vessel to possess drugs with intent to distribute them. See id. The First
+
+Circuit observed:
+
+       [T]he administrative need for initial background questioning seems less great here than
+       typically present at a police station, where one officer may book a suspect in one room
+       before another questions the suspect at greater length elsewhere. Here, the same
+       officer asked the identification questions as the substantive questions, and the record
+       suggests that he could easily have offered a Miranda warning before asking about
+       citizenship. For another thing, questions about citizenship, asked on the high seas, of a
+       person present on a foreign vessel with drugs aboard, would (in our view) seem
+       reasonably likely to elicit an incriminating response. When, or whether, the United
+       States can prosecute a person found on such a ship is not immediately obvious; and the
+       possibility that prosecution will turn upon citizenship is great enough (and should be
+       well enough known to those in the drug enforcement world) that Coast Guard officers
+       ought to know that answers to such questions may incriminate.
+
+Id. at 1551-52 (citation and internal quotation marks omitted) (emphasis in original).
+
+       At hearing defense counsel posited, as an initial matter, that the Blodgett and Seely questioning
+
+                                                  7
+Case 2:04-cr-00135-DBH Document 33 Filed 04/05/05 Page 8 of 12                          PageID #: 52
+
+
+
+in this case is materially distinguishable from that in the Reyes and Doe cases in that Ryan invoked his
+
+rights to counsel and to remain silent. However, I fail to see how that distinction has any bearing on
+
+the question whether the booking exception applies. The issue presented in Reyes, Doe and this case
+
+is whether questions asked in purported violation of Miranda constitute a permissible routine booking
+
+interview or an impermissible custodial interrogation. The focus is not on how the transgression
+
+allegedly occurred – e.g., as the result of an absence of any Miranda warnings (as in Doe) or an
+
+absence of a valid Miranda waiver following warnings (as in Reyes) – but rather on the nature of the
+
+questions asked. See, e.g., United States v. Foster, 227 F.3d 1096, 1102-03 (9th Cir. 2000) (noting
+
+that officers permissibly may ask routine booking questions even after a suspect invokes right to
+
+counsel); United States v. Mitchell, 58 Fed. Appx. 14, 16 (4th Cir. 2003) (noting, in context in which
+
+defendant had invoked right to counsel, that “[q]uestions normally attendant to arrest and custody do
+
+not constitute interrogation for Miranda purposes”); United States v. Granero, Nos. CRIM.91-578-1,
+
+CIV.94-5040, 1995 WL 394140, at *7 (E.D. Pa. June 30, 1995) (noting that routine booking questions
+
+“may be asked of a suspect who has invoked the right to remain silent without violating his or her
+
+constitutional rights”).
+
+        Defense counsel also pointed out that, with respect to Blodgett’s interview, Blodgett did not
+
+follow a preprinted form and was the same officer who attempted to ask substantive questions at the
+
+same place and time. He further argued that, in this case, there was a link between the questions and
+
+the allegations. He conceded that, in Maine, there is no state statute criminalizing possession of a
+
+weapon by a drug user. However, he contended that inasmuch as (i) Blodgett knew that Ryan
+
+reportedly was a significant drug user, and (ii) there was speculation that the Petrovic killing involved
+
+an attempt to get money to buy drugs, Blodgett should have known that a question dealing with medical
+
+issues was likely to elicit an incriminating answer regarding drug usage.
+
+                                                   8
+Case 2:04-cr-00135-DBH Document 33 Filed 04/05/05 Page 9 of 12                          PageID #: 53
+
+
+
+        While it is true that Blodgett (i) did not follow a preprinted form, (ii) was indeed the same
+
+officer who had attempted to ask substantive questions at the same time and place, and (iii) suspected
+
+that Ryan was a drug user and had been involved in the Petrovic murder, I find that the government
+
+carries its burden of demonstrating that this portion of her interview with Ryan constituted routine
+
+booking questioning, not interrogation. As an initial matter, Blodgett testified that it was her practice
+
+to ask biographical questions of MSP detainees who were brought to the CCJ for purposes of
+
+completing standard paperwork. Further, as counsel for the government argued at hearing, the MSP
+
+and the CCJ had an obligation to attend to any medical needs Ryan may have had. In the
+
+circumstances, Blodgett’s inquiry whether he had any medical conditions about which the CCJ should
+
+know was a reasonable sort of screening question: Apart from his suspected drug usage, he had that
+
+day, as Blodgett knew, been forcibly taken from his vehicle and placed on the ground incident to his
+
+arrest by the MSP SWAT Team. See, e.g., United States v. Bishop, 66 F.3d 569, 572 n.2 (3d Cir.
+
+1995) (“[T]he district court did not commit clear error in finding that the police officer’s question
+
+about Stokes’ limp was part of the booking procedure designed to fulfill the government’s obligation
+
+to provide medical attention if necessary.”).
+
+        Finally, and most importantly, I am unpersuaded that Blodgett reasonably should have known
+
+that her facially neutral question, inquiring whether Ryan had any medical condition of which jail
+
+personnel should be aware, would likely elicit an incriminating response. Tellingly, her question did
+
+not actually elicit such a response: Ryan said nothing at all about the Petrovic murder, firearm
+
+possession or his drug usage, merely stating that jail personnel already were aware of his medical
+
+problems. In any event, Blodgett had no reason to know that her question might elicit an answer that
+
+would be incriminating for purposes of the current federal charge. She was not concerned with, and
+
+did not handle, drug violations, and Maine does not have a parallel state law criminalizing possession
+
+                                                   9
+Case 2:04-cr-00135-DBH Document 33 Filed 04/05/05 Page 10 of 12                          PageID #: 54
+
+
+
+of a weapon by a drug user. Thus, this case more closely resembles Reyes (in which the defendant
+
+was being booked on charges that bore no direct relevance to the booking questions asked) than Doe
+
+(in which the Coast Guard reasonably should have foreseen that its pointed question regarding
+
+citizenship would bear on the government’s ability to prosecute the defendants, who were aboard a
+
+foreign vessel, in connection with their apparent drug dealing).
+
+        Turning to the Seely interview, defense counsel argued at hearing that the routine booking
+
+exception was inapplicable inasmuch as there is no such thing as a “classification exception.” The
+
+argument is without merit. The Supreme Court in Muniz described the booking exception as pertaining
+
+not only to questions asked to complete booking but also to those asked “to complete pretrial
+
+services.” Muniz, 496 U.S. at 601 (citation and internal quotation marks omitted). My research
+
+reveals no case holding that classification questions cannot, as a matter of law, fall within the booking
+
+exception. Instead, courts appear to have assumed that the booking-exception analysis applies in such
+
+situations. See, e.g., United States v. Webb, 755 F.2d 382, 386, 388-89 (5th Cir. 1985) (analyzing
+
+whether classification officer’s question met booking exception; concluding it did not inasmuch as,
+
+inter alia, question deviated from standard script and was reasonably likely to elicit incriminating
+
+response given charges officer knew were pending against defendant); Nika v. State, 951 P.2d 1047,
+
+1056-57 (Nev. 1997), overruled on other grounds, 59 P.3d 440 (Nev. 2002) (analyzing whether
+
+classification questions met booking exception; concluding that they did inasmuch as, inter alia,
+
+classification officer followed standard script and safety of prisoners was purpose of questioning).
+
+        In this case, I am persuaded that the Seely interview fits the confines of the booking exception.
+
+Seely performed a routine classification interview in the manner, at the time and in the setting in
+
+which she typically conducted such interviews. There is no evidence that she knew anything about
+
+Ryan other than what was disclosed on her interview form – that he was arrested as a material witness
+
+                                                   10
+Case 2:04-cr-00135-DBH Document 33 Filed 04/05/05 Page 11 of 12                        PageID #: 55
+
+
+
+and for failure to appear in court on OAS charges. She asked Ryan exactly the same questions she
+
+asked all detainees, reading verbatim from a preprinted form. Although the CCJ’s standardized
+
+questions concerning drug usage were pointed, defense counsel does not argue that they served no
+
+legitimate jail-related administrative purpose. Plainly, for purposes of both discouraging contraband
+
+traffic in jail and attending to detainees’ medical needs, jailors would find such information useful –
+
+even arguably essential.     Finally, while one certainly could posit circumstances in which a
+
+classification officer would have reason to know that pointed questions such as these would likely
+
+elicit incriminating answers, that is not the case here. From all that appears, Seely had no reason to
+
+expect that Ryan would answer in the affirmative or that any affirmative response would prove
+
+incriminating with respect to the state charges on which he had been booked, let alone the federal
+
+charges later lodged against him. For all of these reasons, and although I am unable to find any case
+
+considering whether a pointed question regarding drug usage can be subsumed under the booking
+
+exception, I am persuaded that the Seely interview properly is classified as routine booking, rather
+
+than as custodial interrogation, pursuant to the teachings of Reyes and Doe.
+
+                                           III. Conclusion
+
+       For the foregoing reasons, I recommend that defendant Ryan Hopkins’ motion to suppress
+
+evidence be DENIED.
+
+                                              NOTICE
+
+        A party may file objections to those specified portions of a magistrate judge’s report or
+proposed findings or recommended decisions entered pursuant to 28 U.S.C. § 636(b)(1)(B) for
+which de novo review by the district court is sought, together with a supporting memorandum
+and request for oral argument before the district judge, if any is sought, within ten (10) days
+after being served with a copy thereof. A responsive memorandum and any request for oral
+argument before the district judge shall be filed within ten (10) days after the filing of the
+objection.
+
+
+
+                                                  11
+Case 2:04-cr-00135-DBH Document 33 Filed 04/05/05 Page 12 of 12                        PageID #: 56
+
+
+
+        Failure to file a timely objection shall constitute a waiver of the right to de novo review by
+the district court and to appeal the district court’s order.
+
+
+       Dated this 5th day of April, 2005.
+                                                      /s/ David M. Cohen
+                                                      David M. Cohen
+                                                      United States Magistrate Judge
+
+
+
+
+                                                 12
+

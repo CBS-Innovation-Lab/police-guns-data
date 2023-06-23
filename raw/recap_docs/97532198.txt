@@ -1,0 +1,492 @@
+                          UNITED STATES DISTRICT COURT
+
+                                   DISTRICT OF MAINE
+
+
+ UNITED STATES OF AMERICA                       )
+                                                )
+ V.                                             )
+                                                )
+ DANIEL EASLER,                                 )   1:19-CR-00049-LEW
+                                                )
+                       Defendant                )
+
+
+                          DECISION AND ORDER ON
+                      DEFENDANT’S MOTION TO SUPPRESS
+
+        Defendant Daniel Easler is indicted as a felon in possession of firearms and
+
+ammunition in violation of 18 U.S.C. §§ 922(g)(1) and 924(a)(2). Indictment (ECF No.
+
+5). Easler moves to suppress evidence gathered from his person on the night of December
+
+4, 2018. Mot. Suppress 1 (ECF No. 26). A hearing on the motion was held on June 24,
+
+2019.    After careful consideration of the evidence and the arguments of counsel,
+
+Defendant’s motion to suppress is DENIED.
+
+                                     BACKGROUND
+
+        On the evening of December 4, 2018, the Caribou Police Department received a call
+
+from a citizen who reported witnessing a GMC pickup suddenly veer off the road and into
+
+a snow bank. The citizen indicated that when he pulled over to assist, the driver (who was
+
+later identified as Defendant Easler) approached his car and asked for a ride, saying: “I
+
+need to get out of here.” Because Easler was “acting odd” and “something seemed off,”
+
+the citizen declined to give Easler a ride. Easler went back to his truck and the citizen (who
+
+remained at the scene) did not see him again.
+           Eric Depner, an officer with the Caribou Police Department, arrived at the scene
+
+approximately 15 minutes later and observed the GMC pickup stuck in a snowbank, but
+
+was unable to locate Easler. Officer Depner then identified a fresh set of footprints in the
+
+snow and followed the footprints past a nearby apartment building, into the surrounding
+
+woods, and then through a potato field. When his flashlight malfunctioned, Officer Depner
+
+called for backup and returned to the GMC pickup. Officer Depner reported that it was
+
+extremely cold that evening.
+
+           Sergeant Keith Ouellette 1 arrived on the scene and while Officer Depner directed
+
+traffic near the GMC pickup, Sergeant Ouellette followed the footprints. Based on the
+
+trajectory of the footprints, Sergeant Ouellette directed Officer Depner to an area where he
+
+anticipated Easler may be located. Officer Depner drove his police cruiser to the general
+
+area indicated by Sergeant Ouellette, got out of his cruiser, and found Easler lying face
+
+down in the snow with his hands above his head. Officer Depner instructed Easler to his
+
+feet. After Easler stood up, Officer Depner observed a shotgun on Easler’s person hanging
+
+from a sling. Officer Depner drew his gun, directed Easler to the roadway, ordered him to
+
+the ground, and updated dispatch.                  Officer Depner noted that Easler matched the
+
+description provided by the citizen.
+
+           Officer Ouellette and Officer Gerard Lemoine arrived on the scene, secured Easler
+
+by handcuffing him, and then searched him. In addition to the loaded pump-action shotgun
+
+visible on Easler’s body, this search revealed a loaded Highpoint brand 9-mm handgun, a
+
+drug kit, a clear bag which the officers believed contained methamphetamine, a set of
+
+1
+    Sergeant Ouellette was an officer at the time of this interaction.
+                                                         2
+handcuffs, and a methamphetamine pipe. At all times Easler refused to identify himself.
+
+The officers formally arrested Easler and brought him to the police station.
+
+          At the police station, Easler continued to refuse to identify himself. Police officers
+
+then used a fingerprint scanner and identified him as Daniel Easler.               During this
+
+identification process, the officers learned that Easler was a felon whose driver’s license
+
+had been revoked and who had several outstanding warrants and sets of bail conditions.
+
+Officers also learned that the handgun discovered on Easler’s person had been reported as
+
+stolen.
+
+                                         DISCUSSION
+
+          In support of his motion to suppress Easler advances two arguments. First, he argues
+
+that the officers did not have a “reasonable, articulable suspicion of criminal activity at the
+
+time of the search” as required by the Fourth Amendment. Mot. Suppress, ¶ 7. Second,
+
+he asserts that even if the stop was initially lawful and officers could articulate a reasonable
+
+suspicion of criminal activity, the stop nevertheless evolved into a de facto arrest
+
+unsupported by probable cause, as evidenced by “the method and circumstances of the
+
+detention . . . at the time of the search and seizure.” Id. ¶ 8, 10-11. I will address each
+
+argument in turn.
+
+I.        TERRY STOPS
+
+          The Fourth Amendment guarantees the “right of the people to be secure in their
+
+persons, houses, papers, and effects, against unreasonable searches and seizures.” U.S.
+
+CONST. amend. IV. When an officer temporarily detains an individual, they effectuate a
+
+“seizure” that necessarily implicates the Fourth Amendment. United States v. Romain, 393
+
+                                                3
+F.3d 63, 70-71 (1st Cir. 2004). However, a temporary detention, also known as a “Terry
+
+stop,” is not violative of a defendant’s constitutional rights if the stop is “based on a
+
+reasonable suspicion that criminal activity may be afoot.” United States v. Rabbia, 699
+
+F.3d 85, 89 (1st Cir. 2012); see also Terry v. Ohio, 392 U.S. 1, 22 (1968) (“[A] a police
+
+officer may in appropriate circumstances and in an appropriate manner approach a person
+
+for purposes of investigating possibly criminal behavior even though there is no probable
+
+cause to make an arrest.”). When evaluating a Terry stop, courts consider whether an
+
+officer reasonably suspected criminal activity before engaging with the individual – in
+
+other words, whether the stop was “justified at its inception” – and whether, as the stop
+
+progressed, the officer’s actions were “reasonably related in scope to the circumstances
+
+which justified the interference.” United States v. Pontoo, 666 F.3d 20, 26 (1st Cir. 2011)
+
+(quoting United States v. Acosta–Colon, 157 F.3d 9, 14 (1st Cir. 1998)).
+
+       A.     Reasonable Suspicion
+
+       The lynchpin of the first inquiry, reasonable articulable suspicion, requires “more
+
+than a naked hunch that a particular person may be engaged in some illicit activity,” but
+
+yet “does not require either probable cause or evidence of a direct connection linking the
+
+suspect to the suspected crime.” United States v. Chhien, 266 F.3d 1, 6 (1st Cir. 2001); see
+
+also United States v. Sokolow, 490 U.S. 1, 7 (1989) (“The officer, of course, must be able
+
+to articulate something more than an ‘inchoate and unparticularized suspicion or hunch.’”
+
+(quoting Terry, 392 U.S. at 27)). In addition to an officer’s own observations, information
+
+provided by onlookers may form the basis of reasonable suspicion if “the information
+
+carrie[s] enough indicia of reliability.” Adams v. Williams, 407 U.S. 143, 147 (1972).
+
+                                             4
+Whether an officer’s suspicions are based on his or her observations, information provided
+
+by a third party, or some combination thereof, courts assess the reasonableness of the
+
+officer’s suspicions     through “broad-based consideration of             all the attendant
+
+circumstances.” Chhien, 266 F.3d at 6 (citing Florida v. Royer, 460 U.S. 491, 500 (1983)).
+
+       Easler asserts that while his behavior may be “considered by some to be odd,” none
+
+of his actions – which he characterizes as “[m]oving one’s vehicle to the side of a
+
+roadway,” “walking through the woods and into a field,” and “openly carrying a firearm”
+
+– are, in themselves, criminal activities. Mot. Suppress ¶ 7. Ultimately, he argues that
+
+because “it is impossible to distinguish from the reports what crime the police were
+
+investigating and the police never indicated what criminal activity they suspected in their
+
+reports prior to the search,” the responding officers are somehow foreclosed from
+
+articulating a reasonable suspicion of criminal activity to justify this Terry stop. Id.
+
+Easler’s argument misconstrues both the legal standard and the record.
+
+       To withstand constitutional scrutiny, officers need not accurately point to a specific
+
+crime before conducting a Terry stop. See Pontoo, 666 F.3d at 28 (“In carrying out
+
+a Terry stop, a police officer is not required to possess the clarity of vision that arises only
+
+in hindsight.”); see also United States v. Guardado, 699 F.3d 1220, 1224 (10th Cir. 2012)
+
+(“Terry demands suspicion not certainty”); United States v. Bonilla, 357 F. App’x 693, 703
+
+(6th Cir. 2009) (“It is well-settled that reasonable suspicion that ‘criminal activity may be
+
+afoot’ does not require suspicion of a specific crime, but rather criminal activity in general.”
+
+(quoting Terry, 392 U.S. at 30)). Instead, the standard requires only a “particularized and
+
+objective basis for suspecting the person stopped of criminal activity, rooted firmly ‘in
+
+                                               5
+specific and articulable facts.’” United States v. Brake, 666 F.3d 800, 804 (1st Cir. 2011)
+
+(quoting Pontoo, 666 F.3d at 28); see also United States v. Pack, 612 F.3d 341, 356 (5th
+
+Cir.), opinion modified on denial of reh’g, 622 F.3d 383 (5th Cir. 2010) (“While the
+
+[Supreme] Court clearly requires the police to be able to articulate a ‘particularized . . .
+
+basis’ for suspecting wrongdoing, it has often spoken of the wrongdoing itself in general
+
+terms. . . . Requiring police to have particularized facts that support a finding that ‘criminal
+
+activity may be afoot’ is different from requiring the police to articulate particularized facts
+
+that support a finding that a particular specific crime is afoot” (citations omitted)).
+
+          When viewed holistically, the circumstances of the day could certainly lead a
+
+reasonably prudent officer to suspect criminal activity. Prior to any direct interaction with
+
+Easler, a sufficiently reliable source 2 informed officers that Easler’s vehicle had
+
+“suddenly” drifted off the road and come to a stop upon a snowbank and then Easler had
+
+demanded help in ineluctably suspicious terms: “I need to get out of here.” This third-
+
+party emphasized that Easler had acted “odd” when asking for a ride and then, once his
+
+demand was denied, disappeared from the scene. See Illinois v. Wardlow, 528 U.S. 119,
+
+124 (2000) (“Our cases have also recognized that nervous, evasive behavior is a pertinent
+
+factor in determining reasonable suspicion. Headlong flight – wherever it occurs – is the
+
+consummate act of evasion: It is not necessarily indicative of wrongdoing, but it is certainly
+
+
+2
+    The citizen’s report demonstrated sufficient indicia of reliability as the citizen identified himself, sought
+    immediate police assistance, contemporaneously notified the police of what he personally observed,
+    remained at the scene and participated in further discussion with the police, and provided an accurate
+    description of Easler. See, e.g., Adams, 407 U.S. at 146-47 (relying on a similar set of considerations as
+    “enough indicia of reliability”); see also United States v. Aviles-Vega, 783 F.3d 69, 75 (1st Cir. 2015)
+    (finding that an anonymous caller’s tip was sufficiently reliable due to “the eyewitness basis of knowledge
+    and the contemporaneous nature of the tip”). Importantly, the citizen’s report was corroborated by the
+    police officers’ own observations, especially regarding Easler’s apparent desire to flee the scene.
+                                                         6
+suggestive of such.” (internal citations omitted)). Easler was then found in a nearby field
+
+lying on the ground, in the snow, with a shotgun clearly visible on his person. Although
+
+none of Easler’s actions, standing alone, may have been obviously criminal, the citizen’s
+
+description of Easler’s demeanor coupled with Easler’s erratic, evasive, and – to coin the
+
+phrase utilized by the Terry Court – “unusual” conduct throughout the evening nevertheless
+
+provided a sufficient factual basis to support the officers’ suspicion of criminal activity.
+
+See, e.g., Terry, 392 U.S. at 30 (permitting a Terry stop when “a police officer observes
+
+unusual conduct which leads him reasonably to conclude in light of his experience that
+
+criminal activity may be afoot” (emphasis added)); see also Wardlow, 528 U.S. at 125-26
+
+(noting that even when a defendant’s suspicious conduct is “by itself lawful,” Terry permits
+
+law enforcement officers to conduct a Terry stop to “resolve the ambiguity” and “briefly
+
+investigate further”).
+
+       Contrary to Defendant’s assertions, a reasonable articulable suspicion is not
+
+undermined by alternative theories for unusual conduct, however plausible those theories
+
+might be. See, e.g., Wardlow, 528 U.S. at 125-26. In other words, it is always possible
+
+that the basis for an officer’s suspicion may be dispelled upon further investigation but that
+
+does not, standing alone, undermine the constitutional propriety of the stop in the first
+
+instance. However, in this case, nothing was discovered upon further investigation that
+
+dispelled the basis for the stop or called into question its scope. As in most of life, context
+
+matters. Atomized into its component parts and blinkered to all of the other component
+
+parts, Easler argues that it is his prerogative to park his truck on a snowbank, express his
+
+urgent desire to “get out of here,” and to walk through the fields and woods at night in near
+
+                                              7
+zero-degree temperatures. It is, likewise, his right to open carry while sojourning through
+
+the lustrous winter wonderland of an Aroostook County night to lie in repose in a field on
+
+a fresh bed of snow. However, when those expressions of individual liberty are quilted
+
+together, the tapestry reveals that the law enforcement officers’ suspicion was based on
+
+something far north of a hunch. The stop was justified as having been based on a
+
+reasonable articulable suspicion.
+
+       B.     Scope of the Stop
+
+       When police subject an individual to a Terry stop based on a reasonable suspicion
+
+of criminal activity, the extent of the officer’s intrusion is necessarily limited. Pontoo, 666
+
+F.3d at 30. If, as the stop progresses, the officer utilizes means that are “too intrusive in
+
+nature or too long in duration,” then the officer’s actions no longer “reasonably relate[] in
+
+scope to the circumstances which justified the interference” and the stop may be
+
+transformed from “a valid Terry stop” into “its invalid counterpart (commonly known as a
+
+de facto arrest).” Id. at 26, 30 (citations and quotation marks omitted); see also Royer, 460
+
+U.S. at 500 (“The scope of the detention must be carefully tailored to its underlying
+
+justification. . . . [A]n investigative detention must be temporary and last no longer than is
+
+necessary to effectuate the purpose of the stop. Similarly, the investigative methods
+
+employed should be the least intrusive means reasonably available to verify or dispel the
+
+officer’s suspicion in a short period of time.”).
+
+       As stated by the First Circuit, “[t]here is no ‘litmus-paper test’ . . . to determine
+
+whether any particular mode of detention amounted to a de facto arrest.” Acosta-Colon,
+
+157 F.3d at 14 (quoting Royer, 460 U.S. at 506). As with reasonable suspicion, courts
+
+                                              8
+evaluating the scope of a stop look to the totality of the circumstances and consider a variety
+
+of factors. United States v. Sowers, 136 F.3d 24, 28 (1st Cir. 1998). In practice, this
+
+multifactorial inquiry is commonly reduced to one core consideration: “whether ‘a
+
+reasonable man in the suspect’s position would have understood his situation’ . . . to be
+
+tantamount to being under arrest.” United States v. Zapata, 18 F.3d 971, 975 (1st Cir.
+
+1994) (quoting Berkemer v. McCarty, 468 U.S. 420, 442 (1984)). However, it is important
+
+to note:
+
+              Where an investigatory stop is justified at its inception, it will
+              generally not morph into a de facto arrest as long as “the actions
+              undertaken by the officer[s] following the stop were reasonably
+              responsive to the circumstances justifying the stop in the first place as
+              augmented by information gleaned by the officer[s] during the stop.”
+
+United States v. Chaney, 647 F.3d 401, 409 (1st Cir. 2011) (quoting United States v.
+
+Trueber, 238 F.3d 79, 92 (1st Cir. 2001).
+
+          Easler argues that even if officers could have reasonably suspected him of engaging
+
+in criminal conduct, by handcuffing him and then searching him the officers escalated the
+
+interaction beyond the level of a Terry stop to that of a “de facto arrest” unsupported by
+
+probable cause. 3 Mot. Suppress ¶¶ 10, 11. Therefore, he argues, the search was unlawful
+
+and I must suppress the evidence gathered from his person. Id. ¶ 11. Contrary to Easler’s
+
+assertions, this is not a case where the investigatory stop “mutate[d] into the functional
+
+equivalent of an arrest.” United States v. Lee, 317 F.3d 26, 31 (1st Cir. 2003).
+
+
+
+3
+    When police subject an individual to a “temporary detention,” that detention, as discussed above, must
+    be based upon a “showing equivalent to reasonable suspicion.” Morelli v. Webster, 552 F.3d 12, 19 (1st
+    Cir. 2009). However, if the interaction at issue transforms into an arrest or de facto arrest, the government
+    must shoulder the “qualitatively different” and more stringent burden of establishing probable cause. Id.
+                                                        9
+       It is a bedrock principle that “‘[w]hen an officer is justified in believing that the
+
+individual whose suspicious behavior he is investigating at close range is armed and
+
+presently dangerous to the officer or to others,’ he may conduct a limited protective search
+
+for concealed weapons.” Adams, 407 U.S. at 146 (quoting Terry, 392 U.S. at 24); see also
+
+Romain, 393 F.3d at 71 (“[I]n determining whether a pat-down search is an appropriate
+
+step following a valid Terry stop, the key is whether, under the circumstances, ‘the officer
+
+is justified in believing that the person is armed and dangerous to the officer or others.’”
+
+(quoting United States v. Schiavo, 29 F.3d 6, 8 (1st Cir.1994))). Easler – a suspect who
+
+had reportedly been “acting oddly,” fled his vehicle, was discovered lying on the ground
+
+in a snowy field at night in zero-degree temperatures, and was armed with an exposed
+
+shotgun clearly posed a substantial degree of risk to the officers. The officers’ search of
+
+Easler’s body was eminently appropriate.
+
+       These same circumstances also guide my determination that the officers’ decision
+
+to handcuff Easler was both reasonable and appropriate. While it is true that “the use of
+
+handcuffs, being one of the most recognizable indicia of a traditional arrest, ‘substantially
+
+aggravates the intrusiveness’ of a putative Terry stop,” it is also clear that officers may
+
+handcuff a suspect when “the use of such restraints [is] necessary to carry out the legitimate
+
+purposes of the stop without exposing law enforcement officers, the public, or the suspect
+
+himself to an undue risk of harm.” Acosta-Colon, 157 F.3d at 19; see also Pontoo, 666
+
+F.3d at 30 (“When officer safety is a legitimate concern, a Terry stop appropriately may
+
+involve the application of handcuffs.”). This is the paradigmatic scenario supporting the
+
+application of handcuffs while conducting a Terry stop. Easler roamed away from his truck
+
+                                             10
+left atop a snowbank, after requesting transportation because he had to “get out of here.”
+
+He was found in a field of snow on a cold night with a pistol-grip shotgun hanging from a
+
+sling in plain view.           The officers’ actions, although plainly restrictive, were both
+
+proportional and reasonably responsive to the potential danger they faced which did not
+
+transform this Terry stop into a de facto arrest before the officers uncovered the evidence
+
+Easler seeks to suppress. 4
+
+                                             CONCLUSION
+
+          For the foregoing reasons, Defendant’s Motion to Suppress (ECF No. 26) is
+
+DENIED.
+
+          SO ORDERED.
+
+          Dated this 1st day of July, 2019
+
+
+                                                           /s/ Lance E. Walker
+                                                           LANCE E. WALKER
+                                                           UNITED STATES DISTRICT JUDGE
+
+
+
+
+4
+    Easler concedes that once the officers searched his person, they had probable cause to arrest him. Mot.
+    Suppress ¶ 12. I agree. The officers’ lawful search revealed “enough evidence to warrant an arrest”: a
+    second loaded firearm, a drug kit, a clear bag which the officers believed contained methamphetamine, a
+    set of handcuffs, and a methamphetamine pipe. See United States v. Quinn, 815 F.2d 153, 161 (1st Cir.
+    1987); see also United States v. Rasberry, 882 F.3d 241, 249-50 (1st Cir.), cert. denied, 139 S. Ct. 591
+    (2018) (“It is common ground that a Terry stop can evolve to a point at which there is probable cause to
+    make an arrest.”).
+                                                      11
+

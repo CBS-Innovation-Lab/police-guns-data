@@ -1,0 +1,434 @@
+    Case 1:05-cr-00073-JAW Document 43 Filed 01/06/06 Page 1 of 8                                  PageID #: 93
+
+
+
+                                   UNITED STATES DISTRICT COURT
+
+                                            DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA,                             )
+                                                      )
+         v.                                           )        Crim. No. 5-73-B-JAW
+                                                      )
+CHRISTOPHER SMITH,                                    )
+                                                      )
+                           Defendant.                 )
+
+
+                 RECOMMENDED DECISION ON MOTION TO SUPPRESS
+               AND SUPPLEMENTAL MOTION TO SUPPRESS AND DISMISS
+
+         Christopher Smith is currently charged in a one-count indictment with violating Sections
+
+922(a)(6) and 924(a)(2) of Title 18 of the United States Code, by knowingly making a false
+
+statement on ATF Form 4473 in connection with an attempt to purchase a handgun, when he
+
+answered "No" to a question regarding whether he had ever been committed to a mental
+
+institution. Smith has filed two pretrial motions. The first motion seeks suppression of police
+
+reports obtained from the Bangor Police Department and a "blue paper"1 disclosed to the
+
+Government by Acadia Hospital pursuant to an order of this Court. The second motion is a
+
+supplemental motion to suppress the blue paper application and it also requests dismissal of the
+
+charges as a sanction for the Government's alleged violation of Section 290dd-2 of Title 42 of
+
+the United States Code and regulations promulgated thereunder pertaining to the confidentiality
+
+of alcohol and drug abuse patient records. I recommend the Court adopt the following factual
+
+statement and deny both motions.
+
+
+
+1
+         Pursuant to Maine law an application for involuntary commitment is made through a three-part process,
+requiring the signatures of three separate endorsers: an applicant, a certifying examiner, and a judicial officer. See
+34-B M.R.S.A. § 3863. The form used to complete this process is commonly blue in color, hence it is referred to as
+a "blue paper."
+    Case 1:05-cr-00073-JAW Document 43 Filed 01/06/06 Page 2 of 8                                     PageID #: 94
+
+
+
+                                             FACTUAL S TATEMENT2
+
+         On July 20, 2005, Erik Tall, a Bangor police detective assigned to an ATF Task Force,
+
+received an ATF Form 4473 completed in the name of and signed by Christopher Smith (d/o/b:
+
+8/5/84). The Form 4473 was received from Orlando Frati FFL d/b/a Frati the Pawnbrokers at 55
+
+State Street in Bangor, Maine. On the form, Mr. Smith indicated that he wanted to purchase a
+
+handgun. (Tall Aff. ¶ 1, Docket No. 24, Ex. A.) Smith did not, however, indicate that he had
+
+been previously involuntarily committed. (Id. ¶ 3.) On July 20, 2005, Tall reviewed computer
+
+records maintained by the Bangor Police Department and, based on his review of those records,
+
+he determined that Smith had been "transported" by two Bangor police officers on April 2, 2005.
+
+(Id. ¶ 4.) On July 20, 2005, Tall obtained a copy of a Bangor Police Department report that was
+
+prepared by Officer Russell Twaddell on April 2, 2005. The report indicated that Smith was
+
+transported from Eastern Maine Medical Center (EMMC) to Acadia Hospital for involuntary
+
+committal. Attached to the report was an EMMC inpatient face sheet completed in the name of
+
+Christopher Smith. (Id. ¶ 5.)
+
+
+
+
+2
+        The Government presented as its factual record the affidavit of Officer Erik Tall, which was submitted to me
+in support of the Government's Motion for Disclosure of Commitment Records and to Seal in connection with grand
+jury proceedings, and a sealed copy of the commitment paper, a/k/a the "blue paper." (See Doc. No. 24, Ex. A &
+B.) I have adopted those facts as the only facts necessary for resolution of this motion. I agree with the Government
+that there has been no factual showing that any material facts are in dispute regarding what Officer Tall did to obtain
+the Order of Disclosure. The questions presented by these motions are issues of law. In response to the
+Government's position that no evidentiary hearing is warranted, defendant submitted the following:
+
+         Mr. Smith need not make factual showing to obtain suppression hearing where facts supporting
+         motion to suppress are provided by the government in discovery. The documents and testimony
+         that support Mr. Smith’s suppression arguments were provided by the government through
+         discovery. As such, it makes little sense for the government to insist on defense affidavits,
+         especially where, as in this case, the evidence at issue is central to the government’s case at trial.
+
+(Def.'s Reply at 1-2, Docket No. 29.) I am not sure if the defendant is suggesting that an evidentiary hearing is
+warranted or not. To the extent he is arguing that he is entitled to have this motion decided upon its merits, I agree
+with him. To the extent he is suggesting that an evidentiary hearing should be convened, I fail to see the point.
+
+
+
+                                                            2
+Case 1:05-cr-00073-JAW Document 43 Filed 01/06/06 Page 3 of 8                      PageID #: 95
+
+
+
+       On July 25, 2005, Tall interviewed Smith’s mother, Linda McBrearity. Ms. McBrearity
+
+stated that Smith was involuntarily committed to Acadia Hospital in April 2005 for a period of
+
+two weeks. (Id. ¶ 6.) Later that day Tall met with Smith, who acknowledged that he had been
+
+involuntarily committed to Acadia Hospital in April of 2005. (Id. ¶ 7.)
+
+       On August 19, 2005, the Government filed its Motion for Disclosure of Commitment
+
+Records and to Seal in which it sought disclosure of the blue paper authorizing the defendant’s
+
+involuntary commitment to Acadia Hospital in April 2005. (Ex. A.) I granted the Government’s
+
+motion that same day. (Id.) A copy of the Order was served on Acadia Hospital and on August
+
+30, 2005, the Government received a copy of Smith's blue paper reflecting his April 2, 2005,
+
+involuntary commitment. (Ex. B (submitted under seal).)
+
+                                           DISCUSSION
+
+A.     The Motion to Suppress
+
+       Smith's motion to suppress is based upon the argument that agent Tall violated state law,
+
+specifically 34-B M.R.S.A. § 1207(4), when he reviewed computer records and police reports
+
+related to transporting Smith from EMMC to Acadia Hospital for involuntary committal.
+
+Subsection four makes it a Class D crime to violate any of the confidentiality provisions within §
+
+1207. Section 1207(1) reads:
+
+       1. GENERALLY. All orders of commitment, medical and administrative
+       records, applications and reports, and facts contained in them, pertaining to any
+       client shall be kept confidential and may not be disclosed by any person . . . .
+
+Section 1207 then lists exceptions to that general rule, but, argues Smith, none of the exceptions
+
+have any applicability to the police reports and computer records reviewed by Tall. In Smith's
+
+view, although in this case the application for commitment with its judicial endorsement was
+
+obtained pursuant to a court order on the Government's motion for disclosure, one of the
+
+
+
+
+                                                 3
+    Case 1:05-cr-00073-JAW Document 43 Filed 01/06/06 Page 4 of 8                               PageID #: 96
+
+
+
+enumerated exceptions, id. § 1207(1)(C), Tall had already violated the statute by using the
+
+Bangor Police Department's report and records to obtain that order from me, which tainted the
+
+subsequent court order.
+
+         The legal basis for Smith's argument is not that Tall violated the Fourth Amendment.
+
+Rather he relies upon United States v. Sutherland, 929 F.2d 765 (1st Cir. 1991), and its progeny,
+
+United States v. Wilson, 36 F.3d 205 (1st Cir. 1994), a curious pair of cases to cite in support of
+
+his proposition that suppression of the police report and records and the resulting involuntary
+
+commitment application is warranted. Wilson simply acknowledged that Sutherland leaves room
+
+for the court to exercise its supervisory powers to exclude evidence where federal officials seek
+
+to capitalize on an "extreme case of flagrant abuse of the law" by state law enforcement
+
+officials. 3 Wilson, 36 F.3d at 208. Neither case actually ordered that evidence seized in
+
+violation of state law be suppressed.
+
+         In Sutherland we learn that under Massachusetts law the warrantless interception of oral
+
+and wire communications is prohibited absent consent of all the parties. 929 F.2d at 769. The
+
+Massachusetts Supreme Judicial Court has held that engaging in warrantless surveillance violates
+
+the right of privacy protected by the Massachusetts Declaration of Rights, even though it does
+
+not violate the federal Constitution. Id. (citing Commonwealth v. Blood, 507 N.E.2d 1029,
+
+1032-35 (Mass. 1987)). Tape recordings therefore cannot be used as substantive evidence in
+
+Massachusetts prosecutions pursuant to a state, judicially crafted, exclusionary rule. Id. As a
+
+3
+         At one point in his initial memorandum Smith argues this case is distinguishable from Wilson because this
+case involves a federal investigator who "violated State law as an accessory to the Bangor Police disclosure of the
+reports." (Docket No. 21 at 4.) However, Tall states in the opening paragraph of his affidavit: "I am a Detective
+with the Bangor, Maine Police Department and am currently assigned as a Task Force Officer with the Bureau of
+Alcohol, Tobacco, Firearms and Explosives." I am not convinced that his hybrid status changes the analysis under
+Wilson and Sutherland. Smith does not explain in his memorandum why the distinction makes a difference and it is
+not readily apparent to me why Tall's status as a "federal" law enforcement officer, to the extent he could be so
+considered, would impact the analysis in a way favorable to Smith. Both Wilson and Sutherland make clear that
+"[e]vidence obtained in violation of neither the Constitution nor federal law is admissible without regard to state
+law." Wilson, 36 F.3d at 208 (quoting Sutherland, 929 F.2d at 769) (emphasis added).
+
+
+                                                         4
+ Case 1:05-cr-00073-JAW Document 43 Filed 01/06/06 Page 5 of 8                       PageID #: 97
+
+
+
+result of an appeal from an in limine order entered against one of Sutherland's co-defendants
+
+named Fini, the Massachusetts Supreme Court ruled that the taped conversations could not even
+
+be used for impeachment purposes. In the face of that ruling the state dismissed its charges and
+
+Sutherland, Fini, and a third defendant were indicted by a federal grand jury. The First Circuit
+
+Court of Appeals went to considerable lengths to explain the non-applicability of the so called
+
+"silver platter" exception doctrine, wherein a federal court dismisses a federal prosecution
+
+because of a violation of state law by state law enforcement officers. Id. at 771 ("We write here
+
+to clarify that, in this circuit, there is no such exception. We prefer this approach to forcing
+
+courts into intricate analytical maneuvers to escape a poorly conceived exception.").
+
+       If the facts of Sutherland did not give rise to a case of "flagrant abuse," then this case
+
+certainly does not. First, as the Government notes in its memorandum, there is an argument
+
+about whether § 1207, located in a chapter pertaining to the Department of Mental Health and
+
+Retardation, and relating to control of the conduct of state institutions and related community
+
+agencies providing services to the mentally ill, has any application at all to police agencies
+
+engaged in the process of responding to calls for assistance regarding preadmission
+
+transportation of individuals. Second, no Maine court anywhere, in any reported decision I could
+
+find, has ever held that a violation of § 1207 would result in the suppression of evidence in a
+
+criminal proceeding. Nor is there a state statutory provision regarding the exclusion of such
+
+evidence from criminal proceedings. Even assuming that Tall violated the confidentiality
+
+prohibition by using the information in the police report to obtain the federal court order, there is
+
+no reason to presume that the State of Maine would craft a state exclusionary rule in criminal
+
+proceedings against Smith. Thus, this case does not even begin to approach the factual scenario
+
+of Sutherland, which was itself insufficient to support a finding of "flagrant abuse." I can find no
+
+
+
+
+                                                  5
+    Case 1:05-cr-00073-JAW Document 43 Filed 01/06/06 Page 6 of 8                                  PageID #: 98
+
+
+
+legal basis for suppressing the police report and records or the blue paper because of an alleged
+
+violation of state law.
+
+B.       Supplemental Motion to Suppress and Motion to Dismiss
+
+         Smith's supple mental motion to suppress or dismiss is grounded on federal regulations
+
+rather than state law. Pursuant to 42 U.S.C. § 290dd-2 and the regulations promulgated
+
+thereunder, alcohol and drug abuse records are confidential and can only be made subject to
+
+disclosure by a court order under certain circumstances. In this case Smith claims that the copy
+
+of the emergency involuntary admission application was provided in violation of federal
+
+regulation because the application describes the reason for the requested admission as an
+
+"amphetamine overdosed psychosis" and the Government did not obtain a court order that
+
+complied with the applicable regulations. 4 Of course, when the Government filed the motion to
+
+obtain a court order regarding the application for commitment, neither it nor this Court had any
+
+reason to know that drug abuse information would appear in the application. If the release of
+
+information pertaining to drug abuse on the blue paper application is a violation of the federal
+
+regulation, the Maine state Probate Judge who endorsed the application was also a recipient of
+
+the same confidential information in violation of the federal regulation. It seems unlikely to me
+
+
+4
+          The parties expend some ink discussing whether or not the charge in this case, providing false information
+on a federal firearms application, is a "serious crime" within the regulatory definition. The regulations provide that
+a court may order disclosure of patient records when "[t]he crime involved is extremely serious, such as one which
+causes or directly threatens loss of life or serious bodily injury including homicide, rape, kidnapping, armed robbery,
+assault with a deadly weapon, and child abuse and neglect." See 42 C.F.R. § 2.65(d)(1). The Government did not
+seek this court order under that regulation and I did not issue the order for disclosure in reliance upon any
+determination that I made under that regulation. The Government moved for disclosure of the application and
+related court orders pursuant to 28 U.S.C. § 1651 ("All-Writs Act"), 45 C.F.R. § 164.512(a)(1) (the HIPAA
+regulations), and applicable state law. As the magistrate judge who issued the order upon which the hospital and the
+Government apparently relied in good faith, I note that I never for one moment considered whether the application
+might mention the word "drugs" and therefore became a patient record within in the meaning of 42 C.F.R. §
+2.65(d). As I am not persuaded that state court emergency commitment applications become patient records within
+the meaning of 42 U.S.C. § 290dd-2, I see no reason to make a determination now whether this alleged crime is
+sufficiently "serious" to fit within the regulation. In any event if I, as the magistrate judge who issued the order of
+disclosure, erred as a matter of law under 42 C.F.R. § 2.65 (d)(1), suppression or dismissal of the charges is not the
+remedy as is established by the cases cited by the Government and discussed herein.
+
+
+                                                          6
+ Case 1:05-cr-00073-JAW Document 43 Filed 01/06/06 Page 7 of 8                       PageID #: 99
+
+
+
+that a state court-authorized form for involuntary commitment is the type of drug abuse treatment
+
+"record" contemplated by the federal regulation and therefore I think the federal regulation has
+
+no applicability to this case.
+
+         However, if I accept Smith's premise that the involuntary committal application is
+
+covered by the regulations he cites, the fact remains that absent a constitutional violation, a
+
+violation of a statute or regulation does not generally entitle a criminal defendant to the
+
+suppression of evidence unless that statute or regulation provides for such a remedy. United
+
+States v. Li, 206 F.3d 56, 61 (1st Cir. 2000); see also United States v. Thompson, 936 F.2d 1249,
+
+1252 (11th Cir. 1991) (“Absent a specific reference to an exclusionary rule, it is not appropriate
+
+for the courts to read such a provision into [an] act.”); United States v. Kington, 801 F.2d 733,
+
+737 (5th Cir. 1986) (asserting that rights created by Congress are not enforceable by suppression
+
+unless Congress has specifically provided for that remedy). The same is true with respect to
+
+ordering the dismissal of an indictment based upon a violation of a statute or an act. Li, 206 F.3d
+
+at 62.
+
+         Finally, Smith argues that any statements he made to Erik Tall must be suppressed
+
+because his knowledge that he had been involuntarily committed could only have come from his
+
+review of his own drug treatment records and, thus, his oral statements are likewise a violation of
+
+the confidentiality regulations. There is no evidentiary basis in this record to support that factual
+
+assertion, but assuming for one moment that the factual assertion is true, the Government does
+
+not seek to use Smith's drug treatment records to substantiate a criminal prosecution in violation
+
+of the drug abuse confidentiality rules. The only relevant statement made by Smith was his
+
+acknowledgement to Tall tha t he had been involuntarily committed. The reason for the
+
+commitment, whether drug abuse or some other cause, does not substantiate the criminal charge
+
+
+
+
+                                                  7
+Case 1:05-cr-00073-JAW Document 43 Filed 01/06/06 Page 8 of 8                       PageID #: 100
+
+
+
+under investigation by the Government. Thus, the use of Smith's voluntary statement regarding
+
+the mere fact of his involuntary commitment does not run afoul of 42 C.F.R. § 2.23(b)'s
+
+prohibition against using a patient's own access to his records to initiate or substantiate criminal
+
+charges or to conduct a criminal investigation of the patient. The Government does not need any
+
+statement from Smith regarding his drug abuse to substantiate the charge in this case. There is
+
+no reason to suppress his oral acknowledgement that he was committed to a mental institution.
+
+
+
+                                            Conclusion
+
+       Based upon the foregoing I recommend the court DENY both the motion to suppress
+
+(Docket No. 21) and the supplemental motion to suppress and motion to dismiss (Docket No.
+
+23).
+
+                                              NOTICE
+
+                A party may file objections to those specified portions of a magistrate
+       judge’s report or proposed findings or recommended decisions entered pursuant to
+       28 U.S.C. § 636(b)(1)(B) for which de novo review by the district court is sought,
+       together with a supporting memorandum, and request for oral argument before the
+       district judge, if any is sought, within ten (10) days of being served with a copy
+       thereof. A responsive memorandum and any request for oral argument before the
+       district judge shall be filed within ten (10) days after the filing of the objection.
+
+              Failure to file a timely objection shall constitute a waiver of the right to de
+       novo review by the district court and to appeal the district court’s order.
+
+
+
+                                               /s/ Margaret J. Kravchuk
+                                               U.S. Magistrate Judge
+Dated: January 6, 2006
+
+
+
+
+                                                  8
+

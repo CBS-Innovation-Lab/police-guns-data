@@ -1,0 +1,1468 @@
+                    UNITED STATES DISTRICT COURT
+                  FOR THE DISTRICT OF RHODE ISLAND
+
+_________________________________
+                                 )
+UNITED STATES OF AMERICA,        )
+                                 )
+     v.                          )
+                                 )             CR. No. 05-137-S
+                                 )
+DOMINGO GONZALEZ.                )
+                                 )
+_________________________________)
+
+                          MEMORANDUM AND ORDER
+
+WILLIAM E. SMITH, Chief Judge.
+
+     Domingo Gonzales has filed a Motion to Vacate, Set Aside,
+
+or   Correct   Sentence   by   a   Person      in    Federal   Custody     (the
+
+“Motion”)   (ECF No.   203)    pursuant   to    28   U.S.C. §    2255. 1     No
+
+hearing is necessary. 2    For the reasons stated below, the Motion
+
+is DENIED and DISMISSED.
+
+
+     1
+       Included in Gonzalez’s Motion is a request to proceed in
+forma pauperis.     (Motion to Vacate, Set Aside, or Correct
+Sentence by a Person in Federal Custody (the “Motion”) 14-15,
+ECF No. 203.)   As there is no filing fee for a motion brought
+under § 2255, that request is denied.
+     2
+        Although Gonzalez requests an evidentiary hearing, a
+defendant is not entitled to an evidentiary hearing in a § 2255
+proceeding as a matter of right.    David v. United States, 134
+F.3d 470, 477 (1st Cir. 1998) (citing United States v. McGill,
+11 F.3d 223, 225 (1st Cir. 1993)). The Court of Appeals for the
+First Circuit has stated that, even if requested, a hearing is
+unnecessary when a § 2255 motion is “inadequate on its face
+. . . the movant’s allegations, even if true, do not entitle him
+to relief, or . . . the movant’s allegations ‘need not be
+accepted as true because they state conclusions instead of
+facts, contradict the record, or are inherently incredible.’”
+Id. (quoting McGill, 11 F.3d at 225-26); see also United States
+I.   Background 3
+
+     This   case    arises   out    of       a   drug   transaction   involving
+
+Gonzalez and five other men.                 On December 14, 2005, after a
+
+drug-trafficking investigation jointly conducted by the United
+
+States Drug Enforcement Agency (“DEA”) and various Rhode Island
+
+law enforcement agencies, Gonzalez and five co-defendants were
+
+indicted for a number of drug-related offenses.                   Specifically,
+
+Gonzalez    was    charged   with   conspiracy          to   distribute   and   to
+
+possess with intent to distribute 500 grams or more of cocaine
+
+(Count I); possession with intent to distribute 500 grams or
+
+more of cocaine (Count II); possession with intent to distribute
+
+an unspecified quantity of cocaine (Count IV); and possession of
+
+a firearm in furtherance of a drug trafficking crime (Count V).
+
+He was not charged in Count III.
+
+
+
+
+v. Mosquera, 845 F.2d 1122, 1124 (1st Cir. 1988) (“Generally,
+when a court disposes of a § 2255 petition without a hearing,
+allegations must be accepted as true except to the extent they
+are contradicted by the record, inherently incredible, or
+conclusions rather than statements of fact.”).       It is the
+defendant/petitioner’s burden to establish the need for an
+evidentiary hearing.   McGill, 11 F.3d at 225.   Here, Gonzalez
+has not met his burden of showing that his allegations need not
+be accepted as true because they state conclusions instead of
+facts and/or are contradicted by the record.           Thus, an
+evidentiary hearing is unnecessary.
+     3
+       The facts are taken primarily from the First Circuit’s
+opinion in United States v. Gonzalez, 570 F.3d 16 (1st Cir.
+2009).    That opinion contains a lengthy description of the
+events leading up to Gonzalez’s arrest, which this Court need
+not repeat.
+                                         2
+      Gonzalez’s         co-defendants        pled          guilty    before       trial.       On
+
+April     24,    2006,     after      a   four-day          jury     trial,    Gonzalez         was
+
+convicted on Counts I and II, but acquitted on Counts IV and V.
+
+On    March     6,      2007,    Gonzalez         was       sentenced     to       121    months
+
+incarceration on each count, to be served concurrently, followed
+
+by five years of supervised release.
+
+      Gonzalez appealed his conviction to the Court of Appeals
+
+for     the     First     Circuit.         The      First          Circuit     affirmed         the
+
+conviction in an opinion dated June 24, 2009.                             United States v.
+
+Gonzalez, 570 F.3d 16 (1st Cir. 2009).                               Thereafter, Gonzalez
+
+timely filed the instant Motion.
+
+II.   Discussion
+
+      Generally, the grounds justifying relief under § 2255 4                                   are
+
+limited.         A   court      may   grant    relief          pursuant       to    §    2255   in
+
+instances       where     the    court     finds        a    lack    of   jurisdiction,          a
+
+constitutional error, or a fundamental error of law. See United
+
+      4
+          Title 28 U.S.C. § 2255 provides in pertinent part:
+
+      A prisoner in custody under sentence of a court
+      established by Act of Congress claiming the right to
+      be released upon the ground that the sentence was
+      imposed in violation of the Constitution or laws of
+      the United States, or that the court was without
+      jurisdiction to impose such sentence, or that the
+      sentence was in excess of the maximum authorized by
+      law, or is otherwise subject to collateral attack, may
+      move the court which imposed the sentence to vacate,
+      set aside or correct the sentence.
+
+28 U.S.C. § 2255(a).
+
+                                              3
+States v. Addonizio, 442 U.S. 178, 185 (1979).                                 “[A]n error of
+
+law does not provide a basis for collateral attack unless the
+
+claimed error constituted a fundamental defect which inherently
+
+results   in       a       complete    miscarriage         of    justice.”           Id.   at   185
+
+(internal citation omitted).
+
+      Gonzalez             raises    four     grounds      for    relief       under       § 2255.
+
+First, he alleges that his trial counsel was ineffective because
+
+counsel      had        an     undisclosed        conflict        of   interest,           thereby
+
+violating         Gonzalez’s           Sixth     Amendment         right       to      effective
+
+assistance        of       counsel.         Second,       Gonzalez     contends        that     the
+
+Government knowingly or unknowingly used false evidence at his
+
+trial, in violation of his due process rights.                                Third, Gonzalez
+
+again claims that his trial counsel was ineffective for failing
+
+to investigate the allegedly false evidence and certain wiretaps
+
+and   phone       calls.            Finally,    Gonzalez        asserts       that    there     was
+
+insufficient evidence presented at trial to convict him.
+
+      A. Ineffective Assistance of Counsel Claims
+
+      “The     Sixth         Amendment       guarantees         criminal      defendants        the
+
+right   to    effective             assistance       of   counsel.”           Lema    v.    United
+
+States, 987 F.2d 48, 51 (1st Cir. 1993) (citing Strickland v.
+
+Washington,        466        U.S.     668,     687       (1984)).         However,         “[t]he
+
+Constitution           does    not     guarantee      a    defendant      a    letter-perfect
+
+defense      or        a     successful        defense;      rather,       the       performance
+
+standard is that of reasonably effective assistance under the
+
+                                                 4
+circumstances then obtaining.”                           United States v. Natanel, 938
+
+F.2d 302, 309-10 (1st Cir. 1991).
+
+     A defendant who claims that he was deprived of his Sixth
+
+Amendment      right          to     effective             assistance             of     counsel        must
+
+demonstrate:
+
+     (1)      that his counsel’s performance fell below an objective
+              standard of reasonableness; and
+     (2)      a reasonable probability that, but for counsel’s
+              unprofessional errors, the result of the proceeding
+              would have been different.
+
+Strickland v. Washington, 466 U.S. at 687-88, 694; accord United
+
+States   v.    Manon,          608    F.3d          126,      131       (1st      Cir.       2010).       In
+
+assessing     the        adequacy         of   counsel’s            performance,             a   defendant
+
+“‘must   identify            the    acts       or    omissions              of    counsel        that   are
+
+alleged not to have been the result of reasonable professional
+
+judgment,’         and       the    court      then           determines          whether,        in    the
+
+particular     context,             the    identified            conduct           or    inaction       was
+
+‘outside       the           wide         range          of      professionally                  competent
+
+assistance.’”            Manon, 608 F.3d at 131 (quoting Strickland, 466
+
+U.S. at 690).            With respect to the prejudice requirement under
+
+Strickland,        a     “reasonable           probability              is       one    sufficient       to
+
+undermine     confidence             in    the       outcome.           .    .    .     In   making      the
+
+prejudice assessment, [the court] focus[es] on the fundamental
+
+fairness      of       the    proceeding.”                 Id.      (internal           citations        and
+
+quotation     marks          omitted).              “Unless         a       defendant        makes      both
+
+showings, it cannot be said that the conviction . . . resulted
+
+                                                     5
+from   a   breakdown      in    the    adversary     process    that    renders      the
+
+result     unreliable.”          Strickland,     466   U.S.    at     687;   see     also
+
+Reyes-Vejerano      v.    United       States,   117    F.    Supp.    2d    103,    107
+
+(D.P.R. 2000) (“The petitioner has the burden of proving both
+
+prongs of this test, and the burden is a heavy one.”).
+
+       Strickland instructs that “[j]udicial scrutiny of counsel’s
+
+performance must be highly deferential.”                     Id. at 689; see also
+
+id. (“It is all too tempting for a defendant to second-guess
+
+counsel’s assistance after conviction or adverse sentence, and
+
+it is all too easy for a court, examining counsel’s defense
+
+after it has proved unsuccessful, to conclude that a particular
+
+act or omission of counsel was unreasonable.”).                              The court
+
+“must indulge a strong presumption that counsel's conduct falls
+
+within     the   wide    range    of    reasonable     professional      assistance;
+
+that is, the defendant must overcome the presumption that, under
+
+the circumstances, the challenged action ‘might be considered
+
+sound trial strategy.’”               Id. (quoting Michel v. Louisiana, 350
+
+U.S. 91, 101 (1955)).            Moreover, “[a]n error by counsel, even if
+
+professionally unreasonable, does not warrant setting aside the
+
+judgment of a criminal proceeding if the error had no effect on
+
+the judgment.”          Id. at 691.        Finally, “[a] fair assessment of
+
+attorney     performance        requires    that   every      effort    be    made    to
+
+eliminate the distorting effects of hindsight, to reconstruct
+
+the    circumstances       of     counsel’s      challenged     conduct,       and     to
+
+                                           6
+evaluate the conduct from counsel’s perspective at the time.”
+
+Id. at 689.
+
+     Gonzalez makes essentially two arguments in support of his
+
+claim    that     his   trial    counsel,    Robert     B.     Mann,       provided
+
+ineffective assistance.          First, he alleges that counsel had an
+
+undisclosed      actual     conflict   of    interest        which     prejudiced
+
+Gonzalez’s case. 5        (Mot. 5.)    Second, he asserts that counsel
+
+failed   to     investigate     allegedly   false   testimony        and    wiretap
+
+evidence.     (Id. at 7-8.)
+
+     The Supreme Court noted in Strickland that “counsel owes
+
+the client a duty of loyalty, a duty to avoid conflicts of
+
+interest.”      466 U.S. at 688 (citing Cuyler v. Sullivan, 446 U.S.
+
+335, 346 (1980) 6).       However, there is no per se rule of prejudice
+
+
+     5
+        Gonzalez states that after his sentencing, counsel
+disclosed that he had previously represented Lisa Torres and
+stated that “any arguments that he raised with respect to her
+would be a conflict.”     (Gonzalez Aff. ¶ 6.)    According to
+Gonzalez, he “continued to insist that [counsel] use wiretap
+evidence to exculpate [him] but that would incriminate Ms.
+Torres.”    (Id. at ¶ 7.)    Instead, counsel withdrew as his
+appellate attorney. (Id.)
+     6
+         Sullivan    dealt   with    multiple,   or   concurrent,
+representation, Strickland v. Washington, 466 U.S. 668, 698
+(1984); Cuyler v. Sullivan, 446 U.S. 335, 347 (1980), not
+subsequent representation, Mickens v. Taylor, 535 U.S. 162, 175-
+76 (2002).    Gonzalez contends that the same arguments should
+apply   to  both   concurrent   and   subsequent  representation.
+(Gonzalez Mem. 19-21 (citing United States v. Agosto, 675 F.2d
+965, 970-71 (8th Cir. 1982)).)     The Mickens decision does not
+support Gonzalez’s interpretation.     See 535 U.S. at 176 (“In
+resolving this case . . ., we do not rule upon the need for the
+Sullivan prophylaxis in cases of successive representation.
+                                       7
+in such cases.       Id. at 692.     Rather, “[p]rejudice is presumed
+
+only    if   the   defendant   demonstrates    that   counsel     ‘actively
+
+represented conflicting interests’ and that ‘an actual conflict
+
+of interest adversely affected his lawyer’s performance.’”                Id.
+
+(quoting Sullivan, 446 U.S. at 350); see also Mickens, 535 U.S.
+
+at 171, 173-74 (emphasizing that an actual conflict of interest
+
+does not result in an automatic reversal; in almost all cases,
+
+some showing of an adverse effect is still required).
+
+       “[T]he possibility of conflict is insufficient to impugn a
+
+criminal conviction.     In order to demonstrate a violation of his
+
+Sixth   Amendment    rights,   a   defendant   must   establish    that    an
+
+
+Whether Sullivan should be extended to such cases remains, as
+far as the jurisprudence of this Court is concerned, an open
+question.”); Taillon v. United States, No. 11-cv-470-SM, 2013 WL
+2107509, at *6 n.3 (D.N.H. May 15, 2013) (“It remains an open
+question as to whether the actual conflict standard applies in
+the circumstances of successive representation.” (citing United
+States v. DeCologero, 530 F.3d 36, 77 n.24 (1st Cir. 2008))).
+     Gonzalez further states that “the rule is that once a court
+is apprised of the potential conflict, that there must be some
+sort of on-the-record inquiry. In this case Petitioner was not
+afford[ed] his due process to have this critical inquiry by the
+court.”   (Gonzalez Mem. 20.)   Gonzalez misinterprets the rule.
+See Mickens, 535 U.S. at 175 (“Not all attorney conflicts
+present comparable difficulties. Thus, the Federal Rules of
+Criminal Procedure treat concurrent representation and prior
+representation differently, requiring a trial court to inquire
+into the likelihood of conflict whenever jointly charged
+defendants are represented by a single attorney (Rule 44(c)),
+but not when counsel previously represented another defendant in
+a substantially related matter, even where the trial court is
+aware of the prior representation.” (citing Sullivan, 446 U.S.
+346 n.10)).   Moreover, here the Court was not apprised of any
+conflict.   (Gonzalez Aff. ¶ 6 (noting that Gonzalez confronted
+counsel after the trial and sentencing).)
+
+                                     8
+actual      conflict     of    interest        adversely      affected     his    lawyer’s
+
+performance.”           Sullivan, 446 U.S. at 350; see also Brien v.
+
+United States, 695 F.2d 10, 15 (1st Cir. 1982) (“[T]he conflict
+
+must       be   real,   not    some   attenuated         hypothesis       having    little
+
+consequence to the adequacy of representation.”).                          “In cases of
+
+‘successive representation, conflicts of interest may arise if
+
+the cases are substantially related or if the attorney reveals
+
+privileged        communications          of   the   former      client    or    otherwise
+
+divides his loyalties.’”              United States v. Lemieux, 532 F. Supp.
+
+2d 225, 230 (D. Mass. 2008) (quoting Mannhalt v Reed, 847 F.2d
+
+576, 580 (9th Cir 1988)); see also United States v. Lopez, 625
+
+F. Supp. 2d 76, 80 (D.R.I. 2008) (quoting Lemieux).                              The First
+
+Circuit         has   “require[d]     a    defendant       to    show   that:     (1)   the
+
+attorney        could   have    pursued        a   plausible      alternative      defense
+
+strategy and (2) the alternative trial tactic was inherently in
+
+conflict         with   or    not   pursued        due   to     the   attorney’s     other
+
+loyalties or interests.”              Familia-Consoro v. United States, 160
+
+F.3d 761, 764 (1st Cir. 1998).
+
+       Gonzalez argues that counsel’s prior representation of Lisa
+
+Torres affected his performance at trial, specifically (1) his
+
+reluctance to cross-examine the Government’s witnesses regarding
+
+the wiretap on Waskar Pena’s 7 phone, (Mot. 5; Gonzalez Mem. 8,
+
+ECF No. 203-1), because any arguments he raised with regard to
+
+       7
+           Waskar Pena was one of Gonzalez’s co-defendants.
+                                               9
+Torres would be a conflict, (Gonzalez Aff. ¶ 6, ECF No. 203-1);
+
+and   (2)   his     failure       to     call    Torres          as   a   defense       witness,
+
+(Gonzalez Mem. 8).               Gonzalez states that the alleged conflict
+
+“precluded      [counsel]        from    disclosing            and    arguing        exculpatory
+
+evidence to the jury and the Court.”                             (Gonzalez Mem. 18; see
+
+also Mot. 5.)         Gonzalez further contends that Torres’ subsequent
+
+indictment for conspiracy, obstruction of justice, and making
+
+false statements in an unrelated matter supports his assertions.
+
+(Gonzalez Aff. ¶ 7; Gonzalez Mem. 9.)                            The Government responds
+
+that: (1) counsel’s representation of Torres occurred nearly ten
+
+years   prior      to   Gonzalez’s        trial;          2)   there      is    no   connection
+
+between her case and Gonzalez’s; and 3) she did not testify at
+
+Gonzalez’s trial.           (Memorandum of Law in Support of Government’s
+
+Objection     to      Petitioner’s        Motion          to   Vacate,         Set   Aside,    or
+
+Otherwise Correct Sentence Pursuant to 28 U.S.C. § 2255 (“Gov’t
+
+Mem.”) 18-19, ECF No. 210.)
+
+      First     and     foremost,        Gonzalez          cannot      show      that   counsel
+
+“actively” represented conflicting interests.                             Gonzalez does not
+
+dispute that Torres was a prior, not current client, of counsel.
+
+(Gonzalez     Aff.      ¶   6;    Mann    Aff.       1,    ECF    No.     227-1.)        As    the
+
+Government      notes,      and    Court    records            confirm,        counsel’s      last
+
+representation of Torres terminated nearly ten years prior to
+
+
+
+
+                                                10
+Gonzalez’s trial. 8       (Gov’t Mem. 18.)          Nor does Gonzalez assert,
+
+or provide any evidence, that there was a connection between
+
+Torres’ and Gonzalez’s cases.            Both Gonzalez and counsel agree
+
+that       the   conversation   regarding    the     fact      that   Torres    was   a
+
+previous client of counsel occurred after sentencing.                       (Gonzalez
+
+Aff. ¶ 6; Mann Aff. 1.)             Counsel states that he was unaware of
+
+any    conflict      during   the   trial,   (Mann      Aff.    2),   and     Gonzalez
+
+states that he was not aware of counsel’s alleged conflict of
+
+interest during the trial either, (Petitioner’s Reply Mot. to
+
+Gov’t       Objection   (“Gonzalez    Reply”)      7,   ECF     No.   214).      Logic
+
+dictates that if counsel was not aware of an alleged actual
+
+conflict during Gonzalez’s trial, (Mann Aff. 2), and Gonzalez
+
+did not raise the issue with counsel until after sentencing,
+
+(Gonzalez Aff. ¶ 6; Mann Aff. 1), there could be no effect on
+
+counsel’s representation of Gonzalez during the trial.
+
+       With regard to Gonzalez’s allegations that counsel failed
+
+to question the Government’s witnesses more vigorously due to
+
+his past representation of Torres, the trial transcript belies
+
+Gonzalez’s accusations.             Although it is clear from Gonzalez’s
+
+synopsis of the taped conversations and his attached exhibits
+
+that Torres is a participant in many of these conversations,
+
+(Gonzalez Mem. 10-14; Gonzales Reply, Ex. L), not once does she
+
+       8
+       Court records reflect that counsel last represented Lisa
+Torres in April of 1995.
+
+                                        11
+refer to Gonzalez by name.                In fact, Gonzalez does not appear on
+
+any of the tapes, nor is he even mentioned, as counsel elicited
+
+at trial.         (Tr. I:57:6-11.) 9           Counsel questioned Agent Anthony
+
+Cardello     regarding         the     drug   trade       and     the     wiretaps.      (Tr.
+
+I:56:10-I:58:15.)             He questioned Special Agent James McCormack
+
+regarding, among other things, cellular telephone technology and
+
+the   use    of    cell       phones    in    the    drug       trade.      (Tr.     II:46:3-
+
+II:49:2.)              In     addition,       counsel       questioned         the     Sprint
+
+representative,             Andrew    Arnold,       at    length     regarding       cellular
+
+telephone technology and records, in particular (based on the
+
+records) what constituted a completed call, what did not, and a
+
+comparison        of    Gonzalez’s       cell       phone       records    with     those   of
+
+Alejandro Pujols. 10            (Tr. II:114:6-II:127:5.)                  Even if counsel
+
+did not question these witnesses as “vigorously” as Gonzalez
+
+would have liked, it is unclear what more counsel could have
+
+done in this regard.                 See Phoenix v. Matesanz, 233 F.3d 77, 83
+
+(1st Cir. 2000) (“[C]hoices in emphasis during cross-examination
+
+are prototypical examples of unchallegeable strategy.”).
+
+      Moreover, Gonzalez provides no information regarding what
+
+“exculpatory       evidence”          would   have       been    disclosed     or    provided
+
+
+
+
+      9
+       “Tr. I:57:6-11” refers to the transcript of the first day
+of trial, page 57, lines 6-11.
+      10
+           Alejandro Pujols was another of Gonzalez’s co-defendants.
+                                              12
+absent counsel’s alleged conflict.             He argues that the wiretaps
+
+and pen registers
+
+      do not inculpate Domingo Gonzalez in any drug
+      transaction or conspiracy.    The conflict of interest
+      precluded Attorney Mann from introducing [sic] the
+      evidence to rebut the presentation being made by the
+      United States and calling Ms. Torres to correct the
+      presumption being presented to the jury by Government
+      Counsel that the phone taps and phone pen-registers
+      somehow incriminated Petitioner.
+
+(Gonzalez Mem. 19.)       Again, however, he fails to indicate what
+
+evidence would have been presented.             In short, he has not shown
+
+that a plausible alternative strategy existed with regard to
+
+counsel’s   cross-examination      of    Government      witnesses    which   was
+
+not undertaken due to counsel’s prior representation of Torres.
+
+      As for Gonzalez’s claim that counsel should have called
+
+Torres as a witness, there is no evidence that counsel did not
+
+do   so   because   of   any   alleged       conflict.     Although    Gonzalez
+
+apparently believes that Torres was a “main player[]” in the
+
+conspiracy, (Mot. 5), and describes her as the “‘star’ witness”
+
+against him, (Gonzalez Mem. 8), in fact Torres never testified
+
+at Gonzalez’s trial, (Gov’t Mem. 19).               Counsel states that he
+
+“never contemplated calling Ms. Torres as a defense witness.”
+
+(Mann Aff. 2.)      He added that “to the best of [his] knowledge
+
+there was no conflict between [his] representation of Ms. Torres
+
+and Mr. Gonzalez as Ms. Torres had no relation to the case
+
+against Mr. Gonzalez.”         (Id.)    Gonzalez asserts that “the prime
+
+
+                                        13
+defense strategy should have been to call the witness who was on
+
+the phone wiretap tapes --- to wit, Lisa Torres.” (Gonzalez Mem.
+
+37 (bold added).)       However, the decision whether or not to call
+
+a particular witness involves a dispute over trial strategy,
+
+clearly    within   counsel’s    purview,      which    does    not    constitute
+
+ineffective assistance of counsel.              See Lema, 987 F.2d at 54
+
+(“The decision whether to call a particular witness is almost
+
+always    strategic,    requiring   a    balancing     of   the    benefits      and
+
+risks of the anticipated testimony.”).                In any event, there is
+
+no evidence that counsel did not call Torres because of his
+
+alleged past loyalty to her.
+
+     Even    assuming    that   calling      Torres    as   a   witness    was   an
+
+alternative defense strategy, there is no evidence that such
+
+strategy was plausible.         See Familia-Consoro, 160 F.3d at 767
+
+(noting that calling certain witness “would hardly have been a
+
+plausible   alternative”).       One     can   only    speculate      as   to   what
+
+Torres would have said on the witness stand or if, in fact, she
+
+would have testified at all.           Torres, an “unindicted [sic] ‘co-
+
+conspirator,’” (Gonzalez Mem. 2), was an initial target of the
+
+investigation.      She may have asserted her Fifth Amendment right
+
+against self-incrimination.         See Familia-Consoro, 160 F.3d at
+
+767 (finding non-conflict motive where prospective witness not
+
+called because potential witness “would likely have asserted the
+
+Fifth Amendment privilege against self-incrimination”).                    She may
+
+                                        14
+have been impeached based on her prior criminal record.                           (Gov’t
+
+Mem. 21 n.6.)        While it is possible that her testimony may have
+
+helped Gonzalez, it is equally possible that it could have hurt
+
+his   case.     See    Lema,     987    F.2d    at    54    (“The   witness     may   not
+
+testify as anticipated, or the witness’s demeanor or character
+
+may   impress        the    jury     unfavorably           and   taint    the     jury’s
+
+perceptions      of        the     accused;      or    the       testimony,       though
+
+sympathetic, may prompt jurors to draw inferences unfavorable to
+
+the accused.”) (citation omitted); see also Brien, 695 F.2d at
+
+15 (noting that “the tactics Brien suggests that his attorney
+
+could have pursued appear to be merely hypothetical choices”).
+
+      The Court finds that Gonzalez has failed to show an actual
+
+conflict based on counsel’s much earlier representation of Lisa
+
+Torres.   Nor has he demonstrated that counsel failed to pursue a
+
+plausible defense strategy due to his alleged loyalty to Torres.
+
+Accordingly, Gonzalez’s conflict claim fails.
+
+      Gonzalez next argues that counsel failed to make a “full
+
+and through [sic] investigation of the case prior to going to
+
+trial,”   thereby      rendering        ineffective        assistance.        (Gonzalez
+
+Mem. 36.)      In particular, in his Motion he faults counsel for
+
+failing   to   investigate         false   evidence,        specifically      Detective
+
+Joseph Colanduono’s testimony, or file a motion to suppress that
+
+testimony;     and    failing      to   investigate         wiretaps     and/or    phone
+
+calls before December 8, 2005.                  (Mot. 7-8; Gonzalez Aff. ¶ 8.)
+
+                                           15
+In his memorandum, Gonzalez additionally alleges that counsel
+
+should      have    investigated        whether       Torres    “was      the     same    Lisa
+
+Torres he had previously represented.”                   (Gonzalez Mem. 36.) 11
+
+       The Supreme Court has stated that “counsel has a duty to
+
+make reasonable investigations or to make a reasonable decision
+
+that     makes      particular      investigations           unnecessary.            In    any
+
+ineffectiveness case, a particular decision not to investigate
+
+must     be    directly         assessed      for     reasonableness         in    all     the
+
+circumstances,           applying      a      heavy    measure       of     deference          to
+
+counsel’s judgments.”              Strickland, 466 U.S. at 691.                   The Court
+
+must make this assessment from the perspective of counsel at the
+
+time of the judgment, avoiding indulging in hindsight.                                  Id. at
+
+689.
+
+       With    respect     to     Colanduono’s        testimony,       Gonzalez      alleges
+
+that     Colanduono        testified       falsely      regarding          what    he     saw.
+
+Gonzalez asserts that because of the location of Colanduono’s
+
+vehicle       relative     to    the    Lincoln 12     (in     which      Gonzalez       was    a
+
+passenger)         and    the     target      location,        234     Gallatin      Street,
+
+Colanduono       “could    never       have    seen”    what    he     testified     he    saw
+
+
+
+       11
+       Any additional arguments regarding failure to investigate
+are largely duplicative of other arguments already raised and,
+therefore, need not be addressed separately.
+       12
+         The Lincoln is described as both a Continental and a Town
+Car.    For simplicity, the Court refers to it as the “Lincoln.”
+
+                                               16
+Gonzalez and Garcia do after parking the Lincoln.                              (Gonzalez
+
+Mem. 37.)
+
+       Colanduono testified 13 in relevant part that he was assigned
+
+to a task force with the Drug Enforcement Agency investigating
+
+narcotics crimes.            On December 11, 2005, he and his partner,
+
+Detective Enright, were conducting surveillance of the “target
+
+location,” which was to be the object of search warrants.                           They
+
+were        in   an    unmarked      vehicle      parked    on        Ruskin     Street,
+
+perpendicular to Gallatin Street and directly across the street
+
+from the target location.                Colanduono testified that he and his
+
+partner had a view of 234 Gallatin Street.                            Eventually they
+
+observed the owner of the residence, Waskar Pena, drive up and
+
+park on the street.               Pena was followed by a “purplish colored”
+
+Lincoln, bearing Massachusetts license plates, which turned into
+
+the    driveway       at   234    Gallatin   Street   and   parked.           Colanduono
+
+stated that he could see into the Lincoln.                    He did not believe
+
+the windows were tinted.                 Two Hispanic males, the operator and
+
+the    passenger,          were    the    only    occupants      of     the    vehicle.
+
+Colanduono testified that he saw them turn toward the rear of
+
+the seat and appear to be manipulating something in the rear
+
+
+       13
+        Detective Colanduono testified on the first day of
+Gonzalez’s trial.   His testimony can be found at Tr. I:82:15-
+I:116-11.   In the interest of brevity, however, the Court does
+not cite to specific pages and line numbers in its narration of
+Colanduono’s testimony.
+
+                                             17
+seat.        However,     he    could       not     see    their      hands.        After
+
+approximately 30-45 seconds, they exited the Lincoln and entered
+
+the residence, presumably via the side door. 14                           According to
+
+Colanduono,     it     did     not    appear      that     Gonzalez     was    carrying
+
+anything.       The    next    time    Colanduono         saw   Gonzalez      was   while
+
+executing the search warrants inside 234 Gallatin Street and
+
+securing the premises.               Gonzalez was in the basement of the
+
+house,      being     handcuffed       by    other        officers.        Thereafter,
+
+Colanduono and other officers went outside and inspected the
+
+Lincoln.     They found a hidden compartment in the rear backing of
+
+the passenger seat, as well as a battery and jumper cables.
+
+Colanduono testified that the officers were looking for a hidden
+
+compartment     because       that    was   a     way   drug    dealers    transported
+
+drugs. 15
+
+      Although Gonzalez asserts in his Motion that he “was not
+
+familiar with the 234 Gallatin St. surrounding, he ha[d] no way
+
+
+      14
+       Gonzalez makes much of the fact that Colanduono initially
+testified that he saw Gonzalez and Christopher Garcia, the
+driver of the Lincoln, enter the house from the side door but
+also testified that he could not see the door.    (Gonzalez Mem.
+23-24, 27; Tr. I:90:8; Tr. I:110:8.)        However, on cross-
+examination, Colanduono clarified that he assumed that Gonzalez
+and Garcia entered by way of the side door but that he could not
+really see. (Tr. I:102:3-5.)
+      15
+        In fact, an undetermined amount of cocaine, a loaded
+handgun, ammunition, and a scale were found in the hidden
+compartment, although not by Detective Colanduono.      (Tr.
+II:15:3-4.)
+
+                                            18
+of knowing where Ruskin St. was located or what angle Colanduono
+
+might      or    might    not   has   had   [sic]   to     the   Lincoln      when    he
+
+testified at trial,” (Mot. 8), Gonzalez states in his memorandum
+
+that the Government discovery package included a photograph of
+
+the location of Detective Colanduono’s vehicle, (Gonzalez Mem.
+
+28-29).         Thus, the position of Detective Colanduono’s vehicle
+
+was   not       unknown    to   Gonzalez    or   counsel.        Moreover,     counsel
+
+cross-examined           Colanduono    thoroughly        regarding,    among       other
+
+things, the location of his surveillance vehicle relative to the
+
+Lincoln; 16 whether Colanduono and his partner videotaped or took
+
+pictures of what they saw; what Detective Colanduono actually
+
+saw Gonzalez do; whether he could see Gonzalez’s hands; whether
+
+Gonzalez had anything in his hands or was carrying anything when
+
+he    exited       the     Lincoln;     whether     he     attempted     to    obtain
+
+fingerprints from either the battery found in the back seat of
+
+the Lincoln or the back of the passenger seat; and how much
+
+money      ($10.00)       was   in    Gonzalez’s    possession        when    he     was
+
+arrested.        Counsel also questioned Gonzalez at length regarding
+
+his actions when he and Garcia arrived at 234 Gallatin Street
+
+and parked in the driveway, as well as Gonzalez’s knowledge—or
+
+lack thereof—of the presence of a secret compartment, drugs, and
+
+a weapon in the vehicle.
+
+
+      16
+        Gonzalez acknowledges that counsel “subjected Colanduono
+to a lengthy cross-examination.” (Gonzalez Reply 14.)
+                                            19
+       The jury acquitted Gonzalez on Counts IV and V, the counts
+
+related to the drugs and weapon found in the car.                          (Gonzalez
+
+Mem.    6.)      While     this      fact    is    not   determinative      of    the
+
+reasonableness       of    counsel’s        decisions,      it   does    attest   to
+
+counsel’s competence in discrediting Colanduono’s testimony.
+
+       Whether further investigation is necessary is a question
+
+left to the discretion of counsel; counsel may make a reasonable
+
+decision      that   makes      a   particular      investigation       unnecessary.
+
+Strickland, 466 U.S. at 691.                As noted previously, a particular
+
+decision not to investigate must be assessed for reasonableness
+
+considering      all      the       circumstances,       according       significant
+
+deference to counsel’s judgments.                 See id.   In the circumstances
+
+of this case, the Court concludes that counsel made a reasonable
+
+decision that further investigation pertaining to the location
+
+of Colanduono’s vehicle and his line of sight from that position
+
+was not needed. 17        Moreover, there was no prejudice to Gonzalez
+
+
+       17
+        Gonzalez states that he has “newly discovered evidence”
+in the form of “Google Earth” photographs of the scene and a
+private investigator’s conclusion that Colanduono could not have
+seen what he testified he saw Garcia and Gonzalez do before
+exiting the Lincoln.   (Gonzalez Mem. 7; id., Ex. F.)    Even if
+Gonzalez could meet the “cause and prejudice” standard—which is
+doubtful at best—this evidence is unnecessary as the jury
+acquitted him on both counts related to items seized from the
+Lincoln.
+     Moreover, Gonzalez’s statement that Colanduono is “now an
+indicted drug dealer and alleged perjurer,” (Gonzalez Mem. 23),
+is irrelevant to counsel’s decisions during Gonzalez’s trial.
+The same is true with regard to Lisa Torres.      See Discussion
+§ A, supra at 10.
+                                            20
+because, as noted, he was acquitted on the counts pertaining to
+
+the drugs and weapon found in the Lincoln.
+
+      Regarding   the     wiretap       and   telephone   records, 18   Gonzalez
+
+states that counsel should have done further investigation of
+
+the   wiretaps    prior     to    December      8,    2005,     and   that   such
+
+investigation     “would         have     show[n]     Garcia      and    Pujol’s
+
+relationship with Pena more deeply.”                (Mot. 8.)     It is unclear
+
+to the Court how showing the relationship between those three
+
+men “more deeply” would have helped Gonzalez. 19                It is undisputed
+
+that Gonzalez was not heard on the Pena wiretaps produced at
+
+
+
+
+      18
+          Special Agent Anthony Cardello testified regarding the
+wiretaps at issue. (Tr. I:6:21-I:8:2.) Specifically, he stated
+that the cell phones tapped both belonged to Waskar Pena.
+(I:6:25-I:7:1.)   Cardello further testified that the wiretap on
+the first phone was in effect from October 31, 2005, through
+December 11, 2005 (Tr. I:7:10-13), and that the wiretap on the
+second was in effect from December 8, 2005, through December 11,
+2005, (Tr. I:7:14-24).    Pena’s cell phones were the only ones
+tapped.     (Tr. I:7:25-I:8:2).   Special Agent James McCormack
+testified regarding the use of cell phones in drug trafficking.
+(Tr.    I:142:13-I:145:21.)      Andrew   Arnold,   the   Sprint
+representative, brought the customer printout records pursuant
+to a subpoena. (Tr.II:101:23-II:103:1; Tr. II:106:14-II:107:8.)
+      19
+       It is possible that Gonzalez is referring to his argument
+that the wiretaps “do not inculpate Domingo Gonzalez in any drug
+transaction or conspiracy.” (Gonzalez Mem. 19.) However, there
+he is referencing the wiretaps presented at trial, not the
+wiretaps prior to December 8, 2005. There is no evidence before
+the Court as to what information may have been on the earlier
+wiretaps.   Accordingly, the Court concludes that Gonzalez is
+engaging in speculation.   See Brien, 695 F.2d at 15 (referring
+to suggested tactics as “hypothetical choices”).
+
+                                         21
+trial, (Gonzalez Mem. 7; Gov’t Mem. 27; Tr. I:57:6-8), or even
+
+mentioned, (Tr. I:57:9-11).
+
+       Again, the Court notes that the matter of investigations is
+
+a strategic decision left to counsel.              Strickland, 466 U.S. at
+
+691.     There is no evidence that further investigation of the
+
+Pena wiretaps would have served any purpose.                  Thus, it is within
+
+counsel’s    ambit    to    decide    whether     or    not     to   pursue   such
+
+investigation, and this Court will not second-guess counsel’s
+
+strategy.        Cf. Phoenix, 233 F.3d at 84 (“Defense counsel is
+
+allowed to make strategic decisions, within the wide bounds of
+
+professional competence, as to which leads to follow up, and on
+
+which areas to focus his energies.”).
+
+       As to Torres, the Court has already discussed the conflict
+
+issue and need not repeat that discussion here, except to make
+
+one    further    point.      “The    decision     to     interview     potential
+
+witnesses, like the decision to present their testimony, must be
+
+evaluated    in     light   of    whatever      trial     strategy     reasonably
+
+competent   counsel     devised      in   the   context    of    the   particular
+
+case.”    Lema, 987 F.2d at 55 (emphasis in original); see also
+
+id. (rejecting argument that strategic considerations should be
+
+entitled to little or no deference because counsel failed to
+
+investigate potential witnesses’ testimony).
+
+       Gonzalez has not met the Strickland standard; although he
+
+has specified the acts or omissions which he alleges were not
+
+                                          22
+the result of reasonable judgment, he has not shown that “the
+
+identified conduct or inaction ‘was outside the wide range of
+
+professionally competent assistance.’”                      Manon, 608 F.3d at 131
+
+(quoting Strickland, 466 U.S. at 690); see also Strickland, 466
+
+U.S.    at    689   (quoting      Michel,     350    U.S.    at    101)   (noting     that
+
+defendant       “must      overcome     the       presumption       that,   under     the
+
+circumstances, the challenged action ‘might be considered sound
+
+trial       strategy’”).         The   Court,     therefore,      rejects    Gonzalez’s
+
+ineffective assistance claim as it pertains to counsel’s alleged
+
+failure to investigate.
+
+       B.      False and Misleading Testimony Claim
+
+       Gonzalez      next    claims      that     the   Government        knowingly    or
+
+unknowingly used false evidence at his trial, in violation of
+
+his due process rights. 20               (Mot. 6.)          Specifically, Gonzalez
+
+argues:       “1) that the arresting agent 21 falsely testified as to
+
+his observations leading up to and at the time of the arrest;
+
+and 2) that the Governmetn [sic] Counsel used the wiretap to
+
+mislead       the   jury    as    to   the   content    and       meaning   of   wiretap
+
+transcripts, synopsis, and pen-registers.”                    (Gonzalez Mem. 22.)
+
+
+
+       20
+       Gonzalez subsequently avers that the Government’s alleged
+use of false evidence was done knowingly and intentionally.
+(Gonzalez Mem. 31.)
+       21
+        Although Gonzalez refers to the “arresting agent,”
+(Gonzalez Mem. 22), he is actually referencing Detective
+Colanduono, as is abundantly clear from Gonzalez’s argument.
+                                             23
+       The    “false       evidence”         to    which      Gonzalez       refers      is     the
+
+testimony      of     Detective         Colanduono.            Gonzalez       contends         that
+
+“Colanduono’s         testimony        is    completely         false       and   contrary      to
+
+physical evidence.”              (Id. at 27.)           Gonzalez further argues that
+
+“the    United        States      attorney          trying      this    case       undoubtedly
+
+‘rehearsed’      Colanduono’s           testimony        with    him    and       knew    exactly
+
+what he was going to say.”                   (Id. at 25.)         Gonzalez asserts that
+
+once Government counsel learned that Colanduono was going to
+
+testify “to something that could not be seen, as shown by [the
+
+Government’s]            own     discovery          materials,”         the       Government’s
+
+attorney should have averted such testimony.                           (Id. at 25-26).
+
+       As     evidence         that    the    Government’s           attorney       knew       that
+
+Colanduono’s        testimony          was    false,      Gonzalez       states      that      the
+
+Assistant United States Attorney (the “AUSA”) knew the position
+
+of the Lincoln to which Colanduono was going to testify, that
+
+the    AUSA    had       in    her     possession        a    videotape       showing         “that
+
+Colanduono was nowhere close to 234 Galla[]tin St.,” (id. at
+
+28),    and    that      the    AUSA    selectively           introduced      into       evidence
+
+photographs         in    the        Government’s        discovery          package,       (id.).
+
+Gonzalez also states that Colanduono’s partner “had a better
+
+angle    of    view      to    the    driveway         than   Colanduono,”         (id.),      and
+
+questions the Government’s failure to call Enright as a witness.
+
+       Even    assuming,         solely       for      the    sake     of    argument,         that
+
+Gonzalez’s allegation that Colanduono testified falsely is true,
+
+                                                  24
+Gonzalez fails in his attempt to link the Government to said
+
+testimony.             Gonzales        assumes    that     the    AUSA       “undoubtedly
+
+rehearsed” Colanduono’s testimony with him and speculates, but
+
+provides no evidence, that the Government knowingly presented
+
+false testimony.             Id. at 25.      That the AUSA may have discussed,
+
+even     “rehearsed,”         Colanduono’s       testimony      with   him    before      the
+
+trial        fails    to      show,    explicitly     or     implicitly,        that     the
+
+Government was aware that Colanduono would testify untruthfully.
+
+Id.     In fact, the Government represents that it “believed, and
+
+continues        to     believe,        Detective     Colandu[o]no’s          testimony,”
+
+(Gov’t Mem. 22), regarding his observations.                       The videotape and
+
+photographs           were     provided     to      Gonzalez      as     part       of   the
+
+Government’s          discovery       package.      Gonzalez     states      that    “[t]he
+
+government’s failure to call Enright as a witness to colaborate
+
+[sic]         Colanduono’s            testimony      creates       very         suspicious
+
+circumstance           that     the      prosecutor      knew     that       Colanduono’s
+
+testimony was false, since Enright had a better angle of view to
+
+the driveway.”          (Gonzalez Mem. 28.)           This is pure speculation on
+
+Gonzalez’s part as there is no evidence in the record as to why
+
+the Government did not call Enright.
+
+        With    regard        to   the    videotape 22     and    photographs,           what
+
+evidence to introduce at trial is clearly a strategic choice
+
+
+        22
+       A videotape was introduced as a full exhibit and played
+for the jury on the first day of Gonzalez’s trial. (Tr. I:63:2—
+                                             25
+which the AUSA is entitled to make, as is the decision whether
+
+to call a particular witness to testify.                    It is certainly not up
+
+to Gonzalez to determine how the Government should conduct its
+
+case.     The Court cannot conclude that the Government knowingly
+
+presented false evidence based solely on Gonzalez’s allegations.
+
+       Turning      to    the    wiretap     and      phone    record/pen           register
+
+evidence,      Gonzalez        accuses    the    Government        of    attempting      to
+
+mislead     the    Court   and    the     jury   by    misrepresenting         what    they
+
+showed:       “This type of prossecution [sic] was continued when the
+
+Government        introduced     the     wiretaps     and   pen     registers       against
+
+Petitioner at trial.            They continually mischaracterized them and
+
+made    references       that    were     not    correct      nor      did    the    actual
+
+exhibits show what was alleged to be there.”                            (Gonzalez Mem.
+
+26.)     In short, Gonzalez contends that the Government portrayed
+
+as completed calls that were not in order to link him to the
+
+conspiracy.
+
+       Once    more      the    trial     transcript        contradicts        Gonzalez’s
+
+contention.        The Government presented witnesses who testified in
+
+detail regarding cell phone technology, the use of cell phones
+
+in   drug     trafficking,       what     was    indicated        in    the    subscriber
+
+records, and, especially, when those records showed completed
+
+calls.         (Tr.      I:142:13-I:145:21;           Tr.   II:46:10-II:49:2;           Tr.
+
+
+
+I:70:12.)   It is unclear whether this is the video to which
+Gonzalez refers.
+                                            26
+II:101:23-II:126:25.)       Records were compared side-by-side.           (Tr.
+
+II:107:13-II:126:25.)       Moreover, counsel had the opportunity to
+
+cross-examine these witnesses and took full advantage of that
+
+opportunity.    (Tr. II:43:9-II:49:2; Tr. II:114:6-II:126:25.)
+
+     Noting that he was acquitted on Counts IV and V, Gonzalez
+
+states that “the jury felt that the case was a close call, and
+
+with a proper defense and evidence would have acquitted on all
+
+crimes.”     (Gonzalez Mem. 21.)       Again, Gonzalez is engaging in
+
+speculation as there is no way of knowing what the jury would or
+
+would not have done had additional evidence been presented, or
+
+existing evidence presented differently.
+
+     There is simply no merit to Gonzalez’s allegation that the
+
+Government     knowingly     used    false    evidence    at      trial     or
+
+misrepresented wiretap and pen-register evidence.               Gonzalez has
+
+provided no evidence which would allow the Court to conclude
+
+otherwise.     He has not met the Strickland standard.           Strickland,
+
+466 U.S. at 687, 690.       The Court, therefore, rejects Gonzalez’s
+
+false and misleading testimony claim.
+
+     C.    Insufficient Evidence Claim
+
+     Lastly,    according    to   Gonzalez,   “[t]he   entire    premise    of
+
+Petitioner being involved in the conspiracy and drug sale, is
+
+based on what Colanduono claimed to have witnessed and of the
+
+wiretaps and pen-registers.”          (Gonzalez Mem. 26-27.)          Absent
+
+Colanduono’s    testimony     and   the   wiretap   and   phone     records,
+
+                                     27
+according      to    Gonzalez,          “there       is    absolutely          nothing         on   the
+
+record      that    links     petitioner           to    the    drug        transaction        in   any
+
+fashion, way or manner. . . . Indeed, there is not a single
+
+piece of evidence or action whatsoever, that the Government can
+
+point out that petitioner did or said in furtherance of the drug
+
+conspiracy.”         (Id. at 38.)             Gonzalez asserts that now the “real
+
+truth”      has      been        established            about     Detective            Colanduono’s
+
+testimony      and    the     wiretaps         and      telephone       records.           (Mot.     9;
+
+Gonzalez      Mem.        38.)         He     therefore         requests           the    Court     to
+
+reconsider his motion for acquittal, because the Court (and the
+
+Government) “explicitly relied on Colanduono’s false testimony
+
+and    on    the     undeveloped             conflicting         wiretaps          and    telephone
+
+records” in denying his motion.                      (Gonzalez Mem. 38.)
+
+       On the second day of his trial, after the Government had
+
+rested its case-in-chief, Gonzalez’s counsel made an oral motion
+
+for judgment of acquittal.                    (See Docket.)             The Court denied the
+
+motion by oral order that same day.                            (Id.)        Counsel renewed his
+
+oral   motion       for    judgment          of    acquittal      after        the      defense     had
+
+rested      its     case    and        the    Government         had        presented      rebuttal
+
+evidence.         (Id.)     District Judge Ernest C. Torres again denied
+
+the motion.          (Id.)         Clearly he was persuaded that there was
+
+sufficient         evidence       to    allow       the    case        to    go    to    the    jury.
+
+Additionally,        as     evidenced         by     its   conviction             of    Gonzalez     on
+
+
+
+                                                   28
+Counts I and II, 23 the jury was convinced as to the sufficiency
+
+of the evidence against Gonzalez with regard to those counts.
+
+Cf. United States v. Woods, 210 F.3d 70, 77 (1st Cir. 2000)
+
+(finding “abundant evidence from which a rational jury could
+
+infer beyond a reasonable doubt [the defendant’s] knowledge that
+
+he was purchasing cocaine with intent to sell”).
+
+      Moreover, Gonzalez’s insufficient evidence claim is based
+
+on his previous arguments, which the Court has already rejected.
+
+Accordingly, the Court finds that Gonzalez’s insufficiency of
+
+evidence claim lacks merit and declines to revisit the ruling on
+
+his motion for judgment of acquittal.
+
+      III. Conclusion
+
+      Gonzalez has failed to demonstrate that his trial counsel
+
+had   an    actual   conflict   of   interest    that   affected   counsel’s
+
+performance.     Nor has he shown that his counsel’s representation
+
+fell below an objective standard of reasonableness and that, but
+
+for counsel’s errors, the result of the proceeding would have
+
+been different.         Thus, he has not met the Strickland standard.
+
+The   Court    cannot    conclude    that   counsel   rendered   ineffective
+
+assistance.      Moreover, Gonzalez has not established that the
+
+Government presented perjured testimony or misled the Court and
+
+the jury regarding wiretap evidence.            Finally, his argument that
+
+
+      23
+           As noted previously, Gonzalez was acquitted on Counts IV
+and V.
+                                       29
+there was insufficient evidence to support his conviction lacks
+
+merit.     Therefore,        for    the     foregoing       reasons,       and   for      the
+
+reasons    stated       in   the    Government’s          memorandum,      the   instant
+
+Motion    pursuant      to   28     U.S.C.    §     2255    is    hereby    DENIED        and
+
+DISMISSED.
+
+
+                  RULING ON CERTIFICATE OF APPEALABILITY
+
+       Pursuant to Rule 11(a) of the Rules Governing Section 2255
+
+Proceedings in the United States District Courts, this Court
+
+hereby finds that this case is not appropriate for the issuance
+
+of a certificate of appealability (“COA”) because Gonzalez has
+
+failed    to   make      a   substantial         showing     of    the   denial      of    a
+
+constitutional right as to any claim, as required by 28 U.S.C. §
+
+2253(c)(2).
+
+       Gonzalez    is    advised     that     any    motion       to   reconsider      this
+
+ruling will not extend the time to file a notice of appeal in
+
+this   matter.        See    Rule    11(a),       Rules    Governing       Section     2255
+
+Proceedings.
+
+IT IS SO ORDERED:
+
+
+
+
+William E. Smith
+Chief Judge
+Date: March 24, 2014
+
+
+
+
+                                            30
+

@@ -1,0 +1,1234 @@
+Case 1:16-cr-00091-JAW Document 66 Filed 03/22/17 Page 1 of 24          PageID #: 391
+
+
+
+                         UNITED STATES DISTRICT COURT
+                              DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA                )
+                                        )
+      v.                                )     1:16-cr-00091-JAW
+                                        )
+JONATHAN GARDINER                       )
+
+
+           ORDER AFFIRMING THE RECOMMENDED DECISION
+                    OF THE MAGISTRATE JUDGE
+
+      Charged with two counts of possession of a firearm after having been
+
+previously convicted of crimes punishable for a term of more than one year of
+
+imprisonment, in violation of 18 U.S.C. § 922(g)(1), Jonathan Gardiner moves to
+
+suppress any and all evidence seized from his residence on November 13, 2014
+
+following a warrantless search. After a de novo determination, the Court affirms the
+
+Magistrate Judge’s recommended decision and concludes that the scope of the consent
+
+for the search was not limited and that it extended to the attic, and in any event, the
+
+Magistrate Judge correctly applied the inevitable discovery exception to the
+
+exclusionary rule.
+
+I.    PROCEDURAL BACKGROUND
+
+      On July 13, 2016, a federal grand jury indicted Jonathan Gardiner with two
+
+counts of possession of a firearm after having previously been convicted of crimes
+
+punishable for a term of more than one year of imprisonment, in violation of 18 U.S.C.
+
+§ 922(g)(1). Indictment (ECF No. 3). Mr. Gardiner pleaded not guilty to both counts
+
+on July 20, 2016. Min. Entry (ECF No. 10).
+Case 1:16-cr-00091-JAW Document 66 Filed 03/22/17 Page 2 of 24        PageID #: 392
+
+
+
+      On September 19, 2016, Mr. Gardiner filed a motion to suppress any and all
+
+evidence seized from his residence on November 13, 2014 following a warrantless
+
+search. Def.’s Mot. to Suppress (ECF No. 30). The Government responded to the
+
+Defendant’s motion to suppress on October 4, 2016. Gov’t’s Resp. to Def.’s Mot. to
+
+Suppress (ECF No. 33).
+
+      On December 7, 2016, the Magistrate Judge held a suppression hearing, which
+
+was completed on December 12, 2016.        Min. Entry (ECF Nos. 37, 49); Tr. of
+
+Proceedings, Mot. to Suppress (Dec. 7, 2016) (ECF No. 63) (Suppression Tr.); Tr. of
+
+Proceedings, Ctd. Mot. to Suppress & Initial Appearance (Dec. 12, 2016) (ECF No. 64)
+
+(Ctd. Suppression Tr.).   On January 6, 2017, the Magistrate Judge issued a
+
+recommended decision in which he made twenty-two factual findings. Recommended
+
+Decision on Mot. to Suppress (ECF No. 59) (Rec. Dec.).      Based on those factual
+
+findings, the Magistrate Judge concluded that the warrantless search and seizure
+
+complied with the Fourth Amendment and recommended that the Court deny Mr.
+
+Gardiner’s motion to suppress. Id.
+
+      Mr. Gardiner objected to the recommended decision on January 23, 2017.
+
+Def.’s Objs. to the Magistrate’s Recommended Order & Decision (ECF No. 61) (Def.’s
+
+Objs.). The Government responded to Mr. Gardiner’s objections on January 27, 2017.
+
+Gov’t’s Resp. to Def.’s Objs. to the Magistrate’s Recommended Order & Decision (ECF
+
+No. 62).
+
+
+
+
+                                            2
+Case 1:16-cr-00091-JAW Document 66 Filed 03/22/17 Page 3 of 24          PageID #: 393
+
+
+
+II.   PROPOSED FACTUAL FINDINGS
+
+      On November 13, 2014, at approximately 6 p.m., two deputies of the Penobscot
+
+County Sheriff’s office (Deputies Allen and Roy) responded to a call from a residence
+
+in Glenburn, Maine, regarding the discharge of a weapon.         Rec. Dec. ¶ 1.    An
+
+individual at the residence informed the officers that shots were fired outside a
+
+nearby house. Id. ¶ 2. The house identified by the individual was Mr. Gardiner’s
+
+house located at 184 Lakeview Drive in Glenburn (the property). Id. ¶ 3.
+
+      When the officers arrived at the property, Deputy Allen knocked on the front
+
+door. Id. ¶ 4. Angela Barry appeared at the door. Id. Ms. Barry informed the officers
+
+that she was Mr. Gardiner’s girlfriend, and that she resided on the property with Mr.
+
+Gardiner and their child. Id. ¶ 5. She also informed the officers that three other
+
+individuals lived on the property. Id. Ms. Barry told the officers that Mr. Gardiner
+
+was not at home, that he was at work, and that he worked at Burger King. Id. ¶ 6.
+
+When the officers advised Ms. Barry that they had received a complaint of shots fired
+
+outside the residence, Ms. Barry said she had no knowledge of any shots fired. Id. ¶
+
+7.
+
+      Deputy Allen asked Ms. Barry if the officers could search the outside of the
+
+residence, to which Ms. Barry consented. Id. ¶ 8. During the search, Deputy Allen
+
+located a shooting target area in the back of the property. Id. ¶ 9. The officers also
+
+found some shell casings in the area. Id. Through dispatch, the officers learned that
+
+both Ms. Barry and Mr. Gardiner were convicted felons. Id. ¶ 10. They also learned
+
+of an outstanding arrest warrant for Mr. Gardiner for the failure to pay a fine. Id.
+
+
+
+
+                                             3
+Case 1:16-cr-00091-JAW Document 66 Filed 03/22/17 Page 4 of 24          PageID #: 394
+
+
+
+When Deputy Allen reported to Ms. Barry the results of the search, Ms. Barry said
+
+she had no knowledge of the target area. Id. ¶ 11. The officers asked Ms. Barry for
+
+consent to search the residence. Id. ¶ 12. Ms. Barry declined to consent to the search.
+
+Id.
+
+      At approximately the same time the officers were concluding their
+
+conversation with Ms. Barry, a vehicle approached the property but then changed
+
+direction and began to travel away from the property. Id. ¶ 13. Deputy Allen followed
+
+the vehicle, stopped the vehicle, and learned the driver of the vehicle was Jennifer
+
+Marshall, one of the individuals who lived on the property. Id. Deputy Allen returned
+
+to the property with Ms. Marshall. Id.
+
+      As Deputy Allen was following Ms. Marshall’s vehicle, Deputy Roy spoke with
+
+Ms. Barry at the front of the house. Id. ¶ 14. When he was speaking with Ms. Barry,
+
+Deputy Roy heard a male voice from inside the house say “don’t let him in here – they
+
+can’t come in without a warrant.” Id. Ms. Barry said the person was Forrest, one of
+
+the individuals who also lived on the property. Id. Ms. Barry then closed the door.
+
+Id. Deputy Roy then planned to wait for backup and to secure the property. Id. ¶ 15.
+
+As he walked to the back of the property, he observed an individual who appeared to
+
+be running from the rear of the house. Id. Deputy Roy enlisted Deputy Allen’s
+
+assistance in the pursuit of the individual, but the officers were unable to apprehend
+
+the person. Id.
+
+      Sergeant Sheehan arrived at the scene to assist. Id. ¶ 16. When Sergeant
+
+Sheehan spoke to Ms. Barry and Ms. Marshall, Ms. Barry told him that the person
+
+
+
+
+                                              4
+Case 1:16-cr-00091-JAW Document 66 Filed 03/22/17 Page 5 of 24           PageID #: 395
+
+
+
+who was running was Forrest, but she did not know his last name. Id. When Ms.
+
+Barry and Ms. Marshall spoke with Sergeant Sheehan, Ms. Barry and Ms. Marshall
+
+consented to the search of the property.      Id. ¶ 17.   Contrary to Mr. Gardiner’s
+
+assertion, the scope of the consent was not limited to a search for Mr. Gardiner. Id.
+
+      Officers then searched the house. Id. ¶ 18. As part of the search, Deputies Roy
+
+and Allen went into the bedroom Ms. Barry shared with Mr. Gardiner. Id. While in
+
+the bedroom, the officers observed some debris, including what appeared to be pieces
+
+of insulation, on some of the items in the closet. Id. A panel in the ceiling above the
+
+closet appeared to have some insulation hanging from it. Id. The officers were
+
+concerned that a person had accessed the attic through the panel, and could be hiding
+
+in the attic. Id. When the officers pointed out their observations to Ms. Barry, and
+
+asked Ms. Barry whether anyone was in the attic, she said no. Id. Deputy Roy
+
+decided to look above the ceiling panel. Id. ¶ 19. Ms. Barry, who could see the officers
+
+in the bedroom, did not raise any objection to the scope of the search. Id. Deputy Roy
+
+stood on a stool and looked into the attic. Id. He saw what appeared to be a soft
+
+firearms case, and removed the case from the attic. Id. The case was camouflaged,
+
+and the shape and weight of the content of the case were consistent with a gun. Id.
+
+Deputy Roy opened the case, and found a sawed-off shotgun inside the case. Id.
+
+      Following the search, Ms. Barry and Ms. Marshall signed forms entitled
+
+“Permission to Search.” Id. ¶ 20. According to the forms, Ms. Barry and Ms. Marshall
+
+authorized a search of the “Residence (Bed Room) (common areas).” Id. The forms
+
+also stated that Ms. Barry and Ms. Marshall gave “permission to the [] officer, and
+
+
+
+
+                                              5
+Case 1:16-cr-00091-JAW Document 66 Filed 03/22/17 Page 6 of 24                        PageID #: 396
+
+
+
+any other law enforcement officer that he needs to assist him, to conduct a search of
+
+the computer, CDs, floppy discs, and zip discs.” Id. When questioned by Deputy Allen
+
+about the results of the search, Ms. Barry did not assert that her consent did not
+
+include consent to search the attic or to search for firearms. Id. ¶ 21. She did not
+
+raise any objection to the scope of the search. Id. If Ms. Barry had not consented to
+
+the search, the officers would have secured the premises and requested a warrant to
+
+conduct a search of the house. Id. ¶ 22.
+
+III.   DISCUSSION
+
+       As the Magistrate Judge’s Recommended Decision is on a motion to “suppress
+
+evidence in a criminal case,” 28 U.S.C. § 636(b)(1)(A), this Court reviews the
+
+Recommended Decision de novo under 28 U.S.C. § 636(b)(1)(B).
+
+       A.      Factual Objections
+
+       Mr. Gardiner makes three objections to the facts found by the Magistrate
+
+Judge. First, Mr. Gardiner objects to the Magistrate Judge’s finding in paragraph 15
+
+that “[Deputy Roy] observed an individual who appeared to be running from the rear
+
+of the house.” Def.’s Objs. at 1. Second, he objects to the finding in paragraph 17 in
+
+so far as it suggests that “the scope of the consent was not limited to a search for
+
+Defendant.” Id. at 2. Third, Mr. Gardiner objects to the finding in paragraph 181 in
+
+so far as it suggests that “[w]hen the officers pointed out their observations to Ms.
+
+Barry, and asked Ms. Barry whether anyone was in the attic, she said no.” Id.
+
+
+1       Mr. Gardiner states that he objects to the proposed finding at paragraph 19 but quotes the
+finding from paragraph 18. Later, in his discussion, Mr. Gardiner confirms that he believes the factual
+finding from paragraph 18 is flawed: “This conclusion fails when measured against the flawed factual
+finding that Ms. Barry was ‘asked by officers whether anyone was in the attic.’” Def.’s Objs. at 2. The
+Court infers that Mr. Gardiner objects to the finding in paragraph 18, not 19.
+
+
+                                                      6
+Case 1:16-cr-00091-JAW Document 66 Filed 03/22/17 Page 7 of 24          PageID #: 397
+
+
+
+             1.     Individual Running from Rear of the House
+
+      The Magistrate Judge stated in his recommended decision that “[a]s [Deputy
+
+Roy] walked to the back of the property, he observed an individual who appeared to
+
+be running from the rear of the house.” Rec. Dec. ¶ 15. He later discussed this finding
+
+and concluded that this fact, among others, “would have been sufficient to establish
+
+probable cause in support of a search warrant.” Rec. Dec. at 8. The Magistrate Judge
+
+further stated that he was “satisfied the officers would have secured the property,
+
+requested and obtained a search warrant, and conducted a search that would have
+
+revealed the gun confiscated during the search,” and therefore concluded that the
+
+evidence “would have been discovered by a means that does not offend the protections
+
+of the Fourth Amendment.” Id.
+
+      Mr. Gardiner objects to this factual finding arguing that “Deputy Roy’s
+
+testimony did not contain facts supporting this conclusion.” Def.’s Objs. at 1. He goes
+
+on to say that the Court’s finding, “while perhaps inferred from that and other facts,
+
+is not directly supported by any witness’s testimony.” Id.
+
+      The Court overrules Mr. Gardiner’s objection. The objection is based on a
+
+fallacy. Contrary to Mr. Gardiner’s position that the factfinder in a suppression
+
+hearing must consider only direct evidence, the Magistrate Judge and this Court, as
+
+factfinders, are permitted to draw reasonable inferences from the evidence; direct
+
+support for facts is not required. See United States v. Ortiz, 966 F.2d 707, 712 (1st
+
+Cir. 1992) (permitting factfinders to “draw reasonable inferences from the evidence
+
+based on shared perceptions and understandings of the habits, practices, and
+
+inclinations of human beings”); see also United States v. Brown, 621 F.3d 48, 55 (1st
+
+
+                                              7
+Case 1:16-cr-00091-JAW Document 66 Filed 03/22/17 Page 8 of 24          PageID #: 398
+
+
+
+Cir. 2010) (“[Underlying] factual findings are reviewed for clear error, giv[ing] due
+
+weight to inferences drawn from those facts by resident judges”); United States v.
+
+Espinoza, 490 F.3d 41, 46 (1st Cir. 2007) (“[I]f the district court chooses to draw a
+
+reasonable (though not inevitable) inference from a particular combination of facts,
+
+that inference is entitled to deference”).
+
+      The Magistrate Judge’s proposed finding is a reasonable inference from the
+
+record evidence. First, the Magistrate Judge’s finding does not state that Deputy Roy
+
+did, in fact, see an individual run from the rear of the house; it states that “he
+
+observed an individual who appeared to be running from the rear of the house.” Rec.
+
+Dec. ¶ 15 (emphasis supplied). This inference is supported by Deputy Roy’s testimony
+
+in which he said that as he returned to position himself at the back of the property,
+
+“somebody ran from just behind me in the treeline and off toward the neighbor’s
+
+property.” Suppression Tr. 102:24-103:5. Deputy Roy also testified that he heard “a
+
+lot of loud crashing, tree branches breaking,” id. 103:8-9, and that he saw “one male
+
+subject running across the front of [the neighboring] property and around to the back
+
+on the far side.” Id. 103:11-13.
+
+      Additionally, before Deputy Roy moved to the back of the property and saw the
+
+individual running, he was talking to Ms. Barry at the door and heard a male’s voice
+
+from inside the residence tell Ms. Barry not to let the officers in. Id. 99:22-100:20.
+
+Ms. Barry told Deputy Roy the male was Forrest, another roommate. Id. 100:21-24.
+
+Although Ms. Barry testified that she thought that she and her son were the only
+
+ones home, and that she did not remember if the deputies asked her if anyone exited
+
+
+
+
+                                             8
+Case 1:16-cr-00091-JAW Document 66 Filed 03/22/17 Page 9 of 24           PageID #: 399
+
+
+
+the house, Ctd. Suppression Tr. 42:16-43:7, she stated in her interview with Deputy
+
+Allen later in the evening after the search that Forrest was in the residence when the
+
+police arrived and that “I know he took off because obviously he’s not in the house.”
+
+Gov’t’s Resp. to Def.’s Mot. to Suppress Attach. 4 Interview of Angela Barry by Deputy
+
+Ryan Allen on 11/13/14 at 20:45 at 1–2 (Barry Interview).
+
+      Based on the fact that Deputy Roy heard a male’s voice from inside the home,
+
+and shortly thereafter heard the sound of tree branches breaking and saw a male
+
+individual running from behind the property, and the fact that Ms. Barry confirmed
+
+that a male “took off,” the Magistrate Judge’s inferential finding that Deputy Roy saw
+
+an individual who appeared to be running from the rear of the house is reasonable
+
+and supported by the evidence.
+
+             2.     The Scope of the Consent
+
+      The Magistrate Judge stated in his recommended decision that “[c]ontrary to
+
+Defendant’s assertion, the scope of the consent was not limited to a search for
+
+Defendant.” Rec. Dec. ¶ 17. The Court noted that there is conflicting evidence
+
+surrounding the scope of the search but that “the officers’ testimony is more credible.”
+
+Id. ¶ 17 n.2. Later in his discussion, the Magistrate Judge explains that “Sergeant
+
+Sheehan credibly testified that the scope of the search was not limited” and that “[t]he
+
+officers’ conduct during the search, and Ms. Barry’s response, or lack thereof, to the
+
+scope of the search are consistent with Sergeant Sheehan’s testimony.” Id. at 6. He
+
+states that “[l]ogic suggests that had Ms. Barry limited the consent as Defendant
+
+maintains, she would have objected to the scope of the officers’ search” and therefore
+
+
+
+
+                                              9
+Case 1:16-cr-00091-JAW Document 66 Filed 03/22/17 Page 10 of 24            PageID #: 400
+
+
+
+concludes that the consent included consent to search the attic and consent to search
+
+for firearms. Id. at 6–7.
+
+      Mr. Gardiner objects to this finding, stating that “Ms. Barry swore under oath
+
+that the Deputy asked her for permission to search the home for the Defendant and
+
+that she gave consent for that quest.       Indeed, her live testimony repeated and
+
+reaffirmed that position.” Def.’s Objs. at 2.
+
+      There is a conflict in the evidence concerning whether the scope of the consent
+
+to search was limited to a search for persons only. In her affidavit, Ms. Barry testified
+
+that the officers asked her consent to search the home for the presence of persons
+
+only. Aff. of Angela Barry ¶¶ 6, 13 (ECF No. 31). Ms. Barry’s testimony reaffirmed
+
+that she consented to a search for persons only. Ctd. Suppression Tr. 11:10-11, 12:3-
+
+5, 53:17-54:2.
+
+      According to the officers, however, the search was not limited to persons only.
+
+Sergeant Sheehan testified that “[Ms. Barry] said that we could go in and search the
+
+residence.    I then asked her to explain further about the firearms inside the
+
+residence.”   Suppression Tr. 134:11-13.        Deputies Allen and Roy testified that
+
+Sergeant Sheehan advised them that Ms. Barry had given consent to search the
+
+residence. Id. 28:14-25, 104:17-19. The fact that the search was not limited is also
+
+reflected in the officers’ reports written the day after the incident. Gov’t’s Resp. to
+
+Def.’s Mot. to Suppress Attach. 1 Free Form Narrative by James E. Roy at 3 (Roy
+
+Report) (“SHEEHAN advised the roommate, MARSHALL had spoken with BARRY
+
+and they agreed to give consent to search the home for firearms and the presence of
+
+
+
+
+                                                10
+Case 1:16-cr-00091-JAW Document 66 Filed 03/22/17 Page 11 of 24            PageID #: 401
+
+
+
+GARDINER”); id. Attach. 2 Suppl. Narrative by R. Allen at 2 (Allen Report) (“When I
+
+returned to the residence we were given consent to search the residence”); id. Attach.
+
+3 Suppl. Narrative by William Sheehan at 2 (“Angela then stated that I could search
+
+the residence if I wanted to. I told Angela that we will search it when the other
+
+Deputies return”).
+
+      Where there is conflicting testimony, a factfinder is empowered to make a
+
+determination based on the witnesses’ credibility. The Magistrate Judge credited
+
+Sergeant Sheehan’s testimony that the scope of the consent was not limited. Rec.
+
+Dec. at 6. In performing its de novo determination under § 636(b)(1), the Court has
+
+the authority to recall the witnesses to assess their credibility regarding the scope of
+
+the consent. See United States v. Raddatz, 447 U.S. 667, 676 (1980) (“If [the district
+
+court] finds there is a problem as to the credibility of a witness or witnesses or for
+
+other good reason, it may, in the exercise of its discretion, call and hear the testimony
+
+of a witness or witnesses in an adversary proceeding”) (quoting H.R. Rep. No. 94-
+
+1609, at 3–4) (alteration in original) (emphasis omitted). However, Mr. Gardiner
+
+gives the Court no reason to do so. He points to no reason why Ms. Barry is more
+
+credible than the officers. Indeed, Ms. Barry’s memory during her testimony was
+
+weak, see Ctd. Suppression Tr. 49:2-12, and she contradicted herself during her live
+
+testimony. Compare id. 16:9-11 (“Q: And is [the attic] an area that you knew existed
+
+prior to that day? A: No”), with id. 54:17-21 (“Q: Prior to this occasion, you’d lived
+
+there at this house a couple years, right? A: Right. Q: You knew the attic was there,
+
+right? A: Yes”). She also made statements during her interview shortly after the
+
+
+
+
+                                              11
+Case 1:16-cr-00091-JAW Document 66 Filed 03/22/17 Page 12 of 24            PageID #: 402
+
+
+
+search of the residence that conflicted with her live testimony at the suppression
+
+hearing. Compare Barry Interview at 1 (“Allen: Who else was in the residence at the
+
+time we arrived? Barry: It was Forrest and Jenny came”), with Ctd. Suppression Tr.
+
+8:4-8 (“Q: And to your knowledge, was anybody else home at the time? . . . A: There
+
+was me and my son”).
+
+      Nor does it make sense in the context of the law enforcement investigation that
+
+the search would be limited to persons. The deputies were investigating a possible
+
+gun crime. The complaint was about gun fire coming from the house at 184 Lakeview
+
+Drive. By the time the deputies asked for permission to search the house, they had
+
+learned: (1) that there was a shooting target in the back of the property, (2) that there
+
+were shell casings in that area, (3) that both Ms. Barry and Mr. Gardiner were
+
+convicted felons, (4) that there was an outstanding arrest warrant for Mr. Gardiner,
+
+(5) that a male voice had come from inside the house, telling Ms. Barry not to let the
+
+deputy into the house without a warrant, and (6) that someone appeared to run from
+
+the rear of the house. Although the deputies may have been interested in finding Mr.
+
+Gardiner to execute the arrest warrant, they were obviously also at least as interested
+
+in whether there were firearms in the house. In this context, it is reasonable for the
+
+Magistrate Judge to have found, as he did, that Ms. Barry’s consent was not limited
+
+to a search of the house for persons.
+
+      Having had the advantage of observing the witnesses during their testimony,
+
+including direct, cross, and redirect examination, the Magistrate Judge credited the
+
+truthfulness of the officers’ testimony as to whether Ms. Barry limited the consent of
+
+
+
+
+                                              12
+Case 1:16-cr-00091-JAW Document 66 Filed 03/22/17 Page 13 of 24          PageID #: 403
+
+
+
+the search.       On this record, the Court finds no reason to doubt the officers’
+
+truthfulness, nor any reason to doubt the Magistrate Judge’s ability to assess it. The
+
+Court overrules Mr. Gardiner’s objection.
+
+              3.      Questioning Ms. Barry about the Attic
+
+      The Magistrate Judge stated in his recommended decision that “[w]hen the
+
+officers pointed out their observations to Ms. Barry, and asked Ms. Barry whether
+
+anyone was in the attic, she said no.” Rec. Dec. ¶ 18. He discusses this finding:
+
+      Significantly, Ms. Barry could see the officers in the bedroom, was
+      informed about the officers’ findings in the closet, was asked by the
+      officers whether anyone was in the attic, yet did not raise any objections
+      to the scope of the search. Logic suggests that had Ms. Barry limited
+      the consent as Defendant maintains, she would have objected to the
+      scope of the officers’ search.
+
+Rec. Dec. at 6.
+
+      Mr. Gardiner objects to this factual finding.     He states that Deputy Roy
+
+testified that Ms. Barry was in the living room with her son while he was searching
+
+the bedroom area and that Ms. Barry indicated that she could not see the closet area
+
+from her location and could not see Deputy Roy accessing the attic. Def.’s Objs. at 2.
+
+He also states that Deputy Roy did not testify that he sought permission or approval
+
+from Ms. Barry or that he asked Ms. Barry about the attic before accessing it himself.
+
+Id.
+
+      Mr. Gardiner is correct that neither of the deputies, nor Ms. Barry, provided
+
+any testimony during the suppression hearing concerning whether the officers
+
+pointed out their observations about the attic to Ms. Barry or whether they asked her
+
+if anyone was in the attic. See Suppression Tr. 30:11-33:20, 105:10-106:16, 115:20-
+
+
+
+                                             13
+Case 1:16-cr-00091-JAW Document 66 Filed 03/22/17 Page 14 of 24            PageID #: 404
+
+
+
+117:12; Ctd. Suppression Tr. 16:7-21:23. However, Deputy Roy and Deputy Allen’s
+
+reports, written the day after the incident, do reflect this fact. See Roy Report at 3
+
+(“There was a 2’ x 2’ attic access panel above the closet that also had insulation debris
+
+hanging out of it. It appeared the disturbance was recent. We then questioned
+
+BARRY about this and she stated she did not know why anyone would have been up
+
+there or used the attic space”); Allen Report at 2 (“We could see that the panel to the
+
+attic also had insulation jammed into it. Deputy Roy and I pointed this out to Angela.
+
+We asked her if anyone was in the attic. She told us that there was not”). Nothing
+
+in the witnesses’ testimony at the hearing contradicted these facts from the reports.
+
+The Court overrules Mr. Gardiner’s objection to the finding in paragraph 18.
+
+      B.     Legal Objections
+
+      Mr. Gardiner argues that the Magistrate Judge’s conclusion that “‘[l]ogic
+
+suggests that had Ms. Barry limited the consent as Defendant maintains, she would
+
+have objected to the scope of the officers’ search,’ is unsupported and clearly
+
+erroneous.” Def.’s Objs. at 3. The Defendant also objects to the Magistrate Judge’s
+
+legal conclusion that consent to search the residence includes the attic. Id. Finally,
+
+the Defendant objects to the Magistrate Judge’s application of the inevitable
+
+discovery doctrine to these facts. Id. at 4.
+
+             1.     Search Not Limited in Scope
+
+      The Fourth Amendment protects “the right of the people to be secure against
+
+unreasonable searches and seizures of their persons, houses, papers and effects.”
+
+United States v. Carrasco, 540 F.3d 43, 49 (1st Cir. 2008). “The Fourth Amendment
+
+generally requires the police to obtain a warrant before entering and searching a
+
+
+                                               14
+Case 1:16-cr-00091-JAW Document 66 Filed 03/22/17 Page 15 of 24        PageID #: 405
+
+
+
+person’s home.” United States v. Meada, 408 F.3d 14, 20 (1st Cir. 2005). As law
+
+enforcement did not obtain a search warrant, the search of Mr. Gardiner’s home is
+
+“presumptively unreasonable.” Michigan v. Fisher, 558 U.S. 45, 47 (2009) (quoting
+
+Groh v. Ramirez, 540 U.S. 551, 559 (2004)). Nevertheless, the presumption “can be
+
+overcome.” Id.
+
+      One exception to the warrant requirement is consent. “It is a fundamental
+
+principle of Fourth Amendment law that a warrantless search may be conducted with
+
+the voluntary consent of a person authorized to give such consent.” United States v.
+
+Chaney, 647 F.3d 401, 405–06 (1st Cir. 2011) (citing United States v. Stierhoff, 549
+
+F.3d 19, 23 (1st Cir. 2008) (citing Schneckloth v. Bustamonte, 412 U.S. 218, 222
+
+(1973))). “‘Consent searches are part of the standard investigatory techniques of law
+
+enforcement agencies’ and are ‘a constitutionally permissible and wholly legitimate
+
+aspect of effective police activity.’” Fernandez v. California, 134 S. Ct. 1126, 1132
+
+(2014) (quoting Schneckloth, 412 U.S. at 231–32).
+
+      However, a warrantless search may not exceed the scope of the consent
+
+communicated by the consenting party. Chaney, 647 F.3d at 406. The scope of
+
+consent is measured by an objective standard, i.e., what “the typical reasonable
+
+person [would] have understood by the exchange between the officer and the suspect.”
+
+Florida v. Jimeno, 500 U.S. 248, 251 (1991). “[Courts] therefore look beyond the
+
+language of the consent itself, to the overall context, which necessarily encompasses
+
+contemporaneous police statements and actions.” United States v. Marshall, 348 F.3d
+
+281, 286–87 (1st Cir. 2003) (quoting United States v. Melendez, 301 F.3d 27, 32 (1st
+
+
+
+
+                                            15
+Case 1:16-cr-00091-JAW Document 66 Filed 03/22/17 Page 16 of 24           PageID #: 406
+
+
+
+Cir. 2002)). Consent may be “express or inferred from conduct,” also called “implied-
+
+in-fact consent.” United States v. Winston, 444 F.3d 115, 121–22 (1st Cir. 2006).
+
+       The Magistrate Judge concluded that the scope of Ms. Barry’s consent to search
+
+the residence was not limited to persons and included the attic.         He based his
+
+conclusion in part on Sergeant Sheehan’s testimony that the consent was not limited,
+
+which he found to be more credible than Ms. Barry’s contrary testimony.
+
+Additionally, the Magistrate Judge concluded that “had Ms. Barry limited the
+
+consent as Defendant maintains, she would have objected to the scope of the officers’
+
+search.” Rec. Dec. at 6.
+
+       Mr. Gardiner argues that Ms. Barry was not aware of the actual search scope
+
+and therefore her failure to object to the scope is evident:
+
+       Ms. Barry was in the living room and had a limited vantage point to see
+       what Roy was doing. She did not see him as he stood atop a stool and
+       entered into the attic. Nor, did Roy notify her that he was doing so.
+       Hence, she was in no position to have to have (sic) objected as she didn’t
+       know what was happening. Roy only notified her after he removed the
+       gun case from the attic.
+
+Def.’s Objs. at 3.
+
+       The Court disagrees with Mr. Gardiner that the scope of Ms. Barry’s consent
+
+was limited. As already discussed, the Court accepts the Magistrate Judge’s finding
+
+that Ms. Barry’s express consent was not limited to persons only. Moreover, even if
+
+the scope of Ms. Barry’s express consent was limited to a search of the residence for
+
+persons as Mr. Gardiner contends, the officers’ decision to search the attic would not
+
+have exceeded that scope. Deputies Roy and Allen both testified that they believed
+
+that someone may be hiding in the attic space, Suppression Tr. 31:3-5, 106:2-8, which
+
+
+
+                                              16
+Case 1:16-cr-00091-JAW Document 66 Filed 03/22/17 Page 17 of 24           PageID #: 407
+
+
+
+is a reasonable belief given the insulation debris on the floor under the attic and
+
+lodged in the panel.
+
+      Additionally, the Court concludes that the scope of Ms. Barry’s consent to
+
+search the residence extended to the attic. Mr. Gardiner argues that legally, consent
+
+to search the residence does not include consent to search the attic. Def.’s Objs. at 3–
+
+4. He points out that the First Circuit has not directly addressed the issue and
+
+distinguishes the facts of this case from those in the cases relied upon by the
+
+Magistrate Judge because here, the attic was not a living quarter and was not readily
+
+accessible. Id.
+
+      Although the First Circuit has not explicitly held that consent to search a
+
+residence includes attics, the United States Supreme Court and the First Circuit have
+
+established the general test for determining the scope of consent: what the typical
+
+reasonable person would have understood by the exchange between the officer and
+
+the suspect. Jimeno, 500 U.S. at 251; Chaney, 647 F.3d at 406. In the context of this
+
+test, as the Magistrate Judge points out, courts have interpreted consent to search a
+
+residence to include consent to search attached spaces, like basements and attics. J.
+
+of the Ct. of Appeals for the First Circuit at 1, United States v. McCurdy, No. 06-cr-
+
+80-JAW (D. Me. Nov. 16, 2010), ECF No. 218 (“There is also no clear error in the
+
+district court’s finding that Sawtelle’s consent to the search of the attic was validly
+
+inferred from her conduct”); United States v. Winston, 444 F.3d 115, 120–21 (1st Cir.
+
+2006) (scope of protective sweep of basement deemed constitutional); see also United
+
+States v. Comstock, 531 F.3d 667, 676 (8th Cir. 2008); United States v. Dominguez,
+
+
+
+
+                                              17
+Case 1:16-cr-00091-JAW Document 66 Filed 03/22/17 Page 18 of 24                         PageID #: 408
+
+
+
+911 F. Supp. 261, 262–63 (S.D. Tex. 1995), aff’d, 103 F.3d 126 (5th Cir. 1996); United
+
+States v. Jackson, 131 F.3d 1105, 1109 (4th Cir. 1997). Mr. Gardiner’s argument that
+
+the facts of these cases are different is not persuasive. The attic in this case may not
+
+have had stairs, but it was still readily accessible. The entrance was a two-by-two
+
+pop panel and insulation was lodged into the panel, as well as present on the clothing
+
+underneath, as if someone had recently accessed the space. Suppression Tr. 30:17-
+
+31:11. All that Deputy Roy required to see into the attic was a chair. Id. 31:16-17.2
+
+        Moreover, the fact that Ms. Barry’s consent extended to the attic can be implied
+
+from her conduct.         As the Court already discussed, the evidence supports the
+
+Magistrate Judge’s finding that the officers pointed out their observations about the
+
+attic to Ms. Barry and asked her if anyone was in the attic, and she replied no. In
+
+addition, Ms. Barry herself testified that she could see into the closet from the living
+
+room where she was positioned. Ctd. Suppression Tr. 20:1-6. Although at one point
+
+during the suppression hearing Ms. Barry testified that she was not aware that the
+
+officers had accessed the attic area, id. 20:7-12, she testified shortly thereafter that
+
+she did not remember if, at any point in time, she could see them accessing the attic.
+
+Id. 21:18-23. Both Deputy Allen and Deputy Roy testified that Ms. Barry was in their
+
+vicinity and could see them during the search of the attic but never objected.
+
+Suppression Tr. 31:14-24, 33:5-20, 108:1-17, 115:20-116:12. Given the conduct of the
+
+officers and Ms. Barry, as well as Ms. Barry’s express consent and failure to object
+
+
+
+2       Additionally, albeit not exactly on point, the First Circuit has concluded that an attic was part
+of the apartment in the context of a search warrant that read “30 Pekin Street, 2nd floor apartment
+and basement.” United States v. Ferreras, 192 F.3d 5, 8, 10–11 (1st Cir. 1999).
+
+
+                                                       18
+Case 1:16-cr-00091-JAW Document 66 Filed 03/22/17 Page 19 of 24            PageID #: 409
+
+
+
+during the search of the attic, the Court agrees with the Magistrate Judge that the
+
+consent was not limited.
+
+              2.     Inevitable Discovery Doctrine
+
+       The Defendant also objects to the Magistrate Judge’s application of the
+
+inevitable discovery doctrine to the facts of this case.        The Magistrate Judge
+
+concluded that even if the consent was limited in scope, exclusion of the evidence
+
+would not be warranted because the officers had probable cause to obtain a search
+
+warrant and would have done so if consent had not been granted. Rec. Dec. at 7–8.
+
+The Defendant argues that the inevitable discovery doctrine only applies when there
+
+is “some actual evidence that pursuit of a warrant was active, ongoing, or even
+
+initiated.” Def.’s Objs. at 4.
+
+       In Nix v. Williams, 467 U.S. 431 (1984), the United States Supreme Court
+
+adopted the inevitable discovery doctrine as an exception to the exclusionary rule. Id.
+
+at 448. The government bears the burden of demonstrating by a preponderance of
+
+the evidence that the evidence that was obtained by unlawful means would have been
+
+inevitably secured in some other lawful way. Id. at 444. The First Circuit has
+
+established a test to determine whether the inevitable discovery rule operates to bar
+
+suppression of evidence: “(i) the lawful means of its discovery are independent and
+
+would necessarily have been employed, (ii) discovery by that means is in fact
+
+inevitable, and (iii) application of the doctrine in a particular case will not sully the
+
+prophylaxis of the Fourth Amendment.” United States v. Zapata, 18 F.3d 971, 978
+
+(1st Cir. 1994).
+
+
+
+
+                                              19
+Case 1:16-cr-00091-JAW Document 66 Filed 03/22/17 Page 20 of 24                          PageID #: 410
+
+
+
+        In the context of search warrants, the First Circuit has explicitly rejected Mr.
+
+Gardiner’s “ongoing” test in favor of a more flexible analysis. See United States v.
+
+Silvestri, 787 F.2d 736, 746 (1st Cir. 1986). At the same time, the Silvestri Court
+
+suggested that where a warrant is never obtained, as is the case here, the doctrine
+
+may require active pursuit of the alternative investigation to be underway. Id.
+
+Ultimately, the Silvestri Court found that even though the search warrant process
+
+was not initiated at the time of the unlawful search, because the search warrant was
+
+obtained afterwards, the tainted evidence inevitably would have been discovered. Id.
+
+        Since Silvestri, the First Circuit has addressed the application of the inevitable
+
+discovery doctrine in the context of search warrants in at least two other cases:
+
+United States v. Hughes, 640 F.3d 428 (1st Cir. 2011) and United States v. Jadlowe,
+
+628 F.3d 1 (1st Cir. 2010). In both of these cases, although the officers did not have
+
+a search warrant at the time of the search, they eventually sought and obtained
+
+warrants, and the First Circuit concluded that the district court properly applied the
+
+inevitable discovery doctrine. See Jadlowe, 628 F.3d at 7, 12; Hughes, 640 F.3d at
+
+440–41.3
+
+        Mr. Gardiner’s case is a harder one because no search warrant was ever sought
+
+or obtained. In Silvestri, the First Circuit distinguished between those cases in which
+
+
+
+
+3       In 1991, a judge from this District extended the Silvestri case and applied the inevitable
+discovery doctrine to a situation in which an officer had probable cause and could have gotten a
+warrant but did not. United States v. Thurston, 774 F. Supp. 666, 668–69 (D. Me. 1991). Other district
+courts in this Circuit have reached the opposite conclusion, reasoning that the fact that an officer could
+have obtained a warrant is too speculative and would weaken the Fourth Amendment’s protections.
+See United States v. Torres, 274 F. Supp. 2d 146, 162–63 (D.R.I. 2003); United States v. Matthews, No.
+05-10073-NG, 2006 U.S. Dist. LEXIS 7701, at *23–24 (D. Mass. Mar. 1, 2006).
+
+
+                                                       20
+Case 1:16-cr-00091-JAW Document 66 Filed 03/22/17 Page 21 of 24         PageID #: 411
+
+
+
+a search warrant is eventually obtained and those in which a search warrant is never
+
+obtained:
+
+      [T]he application of the inevitable discovery rule where no warrant is in
+      fact obtained would substitute proof by a preponderance of the evidence
+      that a warrant could and would have been obtained for the requirement
+      of the fourth amendment that a warrant must in fact be obtained
+      through a neutral and detached magistrate prior to a search. Such an
+      approach substantially weakens the protection provided by the fourth
+      amendment.
+      ...
+      The stakes are somewhat different in cases where a warrant has been
+      obtained subsequent to the illegal search. The fact that a warrant has
+      been obtained removes speculation as to whether a magistrate would in
+      fact have issued a warrant on the facts and also ensures us that the
+      fourth amendment has not been totally circumvented.
+
+Silvestri, 787 F.2d at 744–45.
+
+      Here, the absence of a search warrant raises the puzzling question of whether
+
+the officers would have done something they wrongly thought they did not need to do.
+
+Here, the officers testified that they would have sought a search warrant had Ms.
+
+Barry not given them consent to search the property. Suppression Tr. 49:16-55:18.
+
+The Magistrate Judge credited the officers’ testimony, noting that the nature of the
+
+investigation and the fact that there were three law enforcement officers on site
+
+supported the fact that the officers would have secured the property and requested a
+
+search warrant had they not received consent. Rec. Dec. at 8. The Magistrate Judge
+
+also concluded that given all of the facts known to the officers when they obtained
+
+consent, there would have been sufficient probable cause in support of the search
+
+warrant. Id. Specifically, the Magistrate Judge noted:
+
+      When they obtained consent for the search, the officers had received a
+      report that shots had been fired on the property; the officers knew that
+
+
+
+                                            21
+Case 1:16-cr-00091-JAW Document 66 Filed 03/22/17 Page 22 of 24          PageID #: 412
+
+
+
+       Defendant and Ms. Barry, occupants of the home, were convicted felons
+       and thus prohibited from possessing firearms; the officers had located a
+       shooting target area on the property; the officers found empty shell
+       casings on the property; the officers were aware there was an
+       outstanding warrant for Defendant’s arrest; one of the officers heard a
+       male voice in the house despite Ms. Barry’s assertion that Defendant
+       was not present; and the officers observed at least one person flee from
+       the house.
+
+Id.
+
+       The Court concurs with the Magistrate Judge that the Government satisfied
+
+the first two elements of the Zapata test. In the circumstances of this case, where
+
+the deputies were concerned that one or two of the residents had unlawfully possessed
+
+and perhaps shot a firearm and had sufficient facts to establish probable cause in
+
+support of a search warrant, it is highly unlikely that they would have just walked
+
+away without attempting to secure a search warrant to determine whether there were
+
+firearms in the house, or that they would have deliberately conducted an illegal
+
+warrantless search and risked having all of the evidence excluded. Therefore, “(i) the
+
+lawful means of discovery are independent and would necessarily have been
+
+employed, [and] (ii) discovery by that means is in fact inevitable.” Zapata, 18 F.3d at
+
+978.
+
+       This leaves the third element—whether “application of the doctrine in a
+
+particular case will not sully the prophylaxis of the Fourth Amendment.” Id. This is
+
+a most serious concern. The right of the people to be secure against unreasonable
+
+searches guaranteed by the Fourth Amendment is among the most fundamental and
+
+important rights in the Bill of Rights, and central to the protections of the Fourth
+
+Amendment is the warrant requirement. Mincey v. Arizona , 437 U.S. 385, 390 (1978)
+
+
+
+                                             22
+Case 1:16-cr-00091-JAW Document 66 Filed 03/22/17 Page 23 of 24             PageID #: 413
+
+
+
+(“[I]t is a cardinal principle that ‘searches conducted outside the judicial process,
+
+without prior approval by judge or magistrate, are per se unreasonable under the
+
+Fourth Amendment—subject only to a few specifically established and well-
+
+delineated exceptions’”) (quoting Katz v. United States, 389 U.S. 347, 357 (1967)); Ker
+
+v. State of California, 374 U.S. 23, 32 (1963) (“Implicit in the Fourth Amendment's
+
+protection from unreasonable searches and seizures is its recognition of individual
+
+freedom.    That safeguard has been declared to be as of the very essence of
+
+constitutional liberty the guaranty of which is as important and as imperative as are
+
+the guaranties of the other fundamental rights of the individual citizen”) (quotations
+
+omitted). Taken to an extreme, the inevitable discovery exception could subsume the
+
+warrant requirement, making the exception the rule, and eroding the rights
+
+guaranteed by the Fourth Amendment. See Johnson v. United States, 333 U.S. 10,
+
+14 (1948) (“Any assumption that evidence sufficient to support a magistrate's
+
+disinterested determination to issue a search warrant will justify the officers in
+
+making a search without a warrant would reduce the Amendment to a nullity and
+
+leave the people's homes secure only in the discretion of police officers . . . When the
+
+right of privacy must reasonably yield to the right of search is, as a rule, to be decided
+
+by a judicial officer, not by a policeman or Government enforcement agent”).
+
+      In the circumstances of this particular case, the Court concludes that there is
+
+not a danger that the doctrine’s application will “provide an incentive for police
+
+misconduct or significantly weaken fourth amendment protections.” Silvestri, 787
+
+F.2d at 744. The Magistrate Judge found that the officers received consent to search
+
+
+
+
+                                               23
+Case 1:16-cr-00091-JAW Document 66 Filed 03/22/17 Page 24 of 24         PageID #: 414
+
+
+
+from Ms. Barry and relied upon that consent in making the decision not to obtain a
+
+search warrant.   They did not purposefully circumvent the Fourth Amendment.
+
+Carrasco, 540 F.3d at 49 (“[S]o long as law enforcement officers reasonably believe
+
+that the person who gives consent has the authority to do so, they may rely on that
+
+consent”). The situation would be starkly different if the officers illegally searched
+
+the home and sought to justify an otherwise illegal search by claiming that they could
+
+have and would have sought and obtained a search warrant all along.
+
+IV.   CONCLUSION
+
+      The Court concludes that the warrantless search and seizure was valid under
+
+the Fourth Amendment. The Court AFFIRMS the Magistrate Judge’s Recommended
+
+Decision on the Motion to Suppress (ECF No. 59) for the reasons set forth in that
+
+decision as further explained here. The Court DENIES Mr. Gardiner’s Motion to
+
+Suppress (ECF No. 30).
+
+      SO ORDERED.
+
+
+
+                                       /s/ John A. Woodcock, Jr.
+                                       JOHN A. WOODCOCK, JR
+                                       UNITED STATES DISTRICT JUDGE
+
+Dated this 22nd day of March, 2017
+
+
+
+
+                                             24
+

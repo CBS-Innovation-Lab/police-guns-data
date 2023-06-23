@@ -1,0 +1,1847 @@
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 1 of 36                                                    PageID #: 340
+
+
+
+                                        UNITED STATES DISTRICT COURT
+                                             DISTRICT OF MAINE
+
+
+
+UNITED STATES OF AMERICA                                       )
+                                                               )
+v.                                                             )                    Criminal No. 05-66-P-S
+                                                               )
+EVANS ETRONS STROMAN,                                          )
+                                                               )
+                               Defendant                       )
+
+
+
+
+                      MEMORANDUM DECISION ON MOTION TO STRIKE AND
+                      RECOMMENDED DECISION ON MOTION TO SUPPRESS
+
+
+          Evans Etrons Stroman, charged with being a felon in possession of a firearm (a Stallard Arms
+
+model JS, 9 millimeter-caliber pistol bearing serial number 065563) in violation of 18 U.S.C.
+
+§§ 922(g)(1) and 924(a)(2), seeks to suppress statements and other evidence purportedly obtained in
+
+contravention of his Fourth, Fifth, Sixth and Fourteenth Amendment rights and in violation of Miranda
+
+v. Arizona, 384 U.S. 436 (1966).1 See Indictment (Docket No. 21); Motion To Suppress Evidence
+
+(“Motion To Suppress”) (Docket No. 29). An evidentiary hearing was held before me on December
+
+15, 2005 at which the defendant appeared with counsel. Immediately after the close of evidence I
+
+heard oral argument. Post-hearing, the government submitted what it styled a “notice” regarding
+
+Maine’s concealed-weapon statute, see Government’s Notice Regarding Maine’s Concealed Weapon
+
+Statute (“Post-Hearing Notice”) (Docket No. 39), which the defendant moved to strike, see
+
+1
+  Per Miranda, an accused must be advised prior to custodial interrogation “that he has the right to remain silent, that anything he says
+can be used against him in a court of law, that he has the right to the presence of an attorney, and that if he cannot afford an attorney
+(continued on next page)
+
+
+                                                                   1
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 2 of 36                                                PageID #: 341
+
+
+
+Defendant’s Motion To Strike Government’s Notice Regarding Maine’s Concealed Weapons Statute
+
+(“Motion To Strike”) (Docket No. 44). For the reasons discussed below, I deny the Motion To Strike.
+
+With the benefit of the parties’ motion papers and oral argument, and based on the evidence adduced
+
+at the hearing, I recommend that the following findings of fact be adopted and that the Motion To
+
+Suppress be denied.
+
+                                             I. Proposed Findings of Fact
+
+          At about 5:10 a.m. on July 15, 2003 Lieutenant Donald Mailhot and Sergeant Mark Cornelio of
+
+the Lewiston Police Department (“LPD”) heard a radio broadcast from LPD dispatch as Mailhot was
+
+entering Cornelio’s cruiser at police headquarters in Lewiston, Maine. The dispatcher stated that a
+
+female caller had reported that two black males in t-shirts, one of whom was named “B.J.,” were
+
+attempting to kick in the outside door of an apartment building at 287 Bates Street (“287 Bates”) in
+
+Lewiston. LPD officers knew the neighborhood in which 287 Bates was located to be a low-income,
+
+high-crime, high-drug-trafficking area. Cornelio and other officers (but not Mailhot) also were
+
+personally familiar with a black male named B.J. Almeida, with whom they had previous law-
+
+enforcement encounters primarily concerning drug violations. Although Mailhot and Cornelio heard
+
+other officers indicate that they were responding to the call, they were only a block away and thus
+
+immediately drove there themselves.
+
+          Upon arriving at 287 Bates at about 5:13 a.m. Mailhot and Cornelio saw one black male
+
+standing on its front porch. Cornelio observed (and told Mailhot) that the man on the porch was not
+
+B.J. Almeida, whom Cornelio knew to be a heavyset man.2 Mailhot and Cornelio questioned the man,
+
+
+____________________________
+one will be appointed for him prior to any questioning if he so desires.” Miranda, 384 U.S. at 478-79.
+2
+  LPD Officer David M. Levesque, who also was personally familiar with B.J. Almeida, testified that he was a chubby black male
+about five feet six inches tall who usually wore his hair in cornrows. Levesque could not recall whether, on the morning of July 15,
+(continued on next page)
+
+                                                                 2
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 3 of 36                                                   PageID #: 342
+
+
+
+who later was identified as B.J. Almeida’s brother Jose Almeida, about his identity, but the man was
+
+uncooperative, denying that he had any identification documents and declining to provide any
+
+information other than to say that he was from Massachusetts. At about 5:23 a.m. Cornelio radioed
+
+dispatch to check whether there were any outstanding warrants for B.J. Almeida’s arrest. He and
+
+Mailhot learned that there was an outstanding warrant for carrying a concealed weapon.
+
+          By this time other officers had arrived. Mailhot got into Cornelio’s cruiser to see if he could
+
+find either B.J. Almeida or a vehicle nearby with Massachusetts license plates, which might provide a
+
+clue to the identity of the man on the porch. At that time it still was not clear to Mailhot what was
+
+going on; for all he knew, a burglary or home invasion might be in process. He drove down Bates
+
+Street, turned right on Maple Street, turned right on Knox Street and pulled into a parking lot at 66
+
+Knox Street, behind 315 Bates Street (“315 Bates”). There he spotted a blue Subaru Legacy with
+
+Massachusetts license plates parked not in a parking slip but rather in an unusual position alongside
+
+the back stairwell of 315 Bates – a location approximately three hundred feet (or three telephone
+
+poles) from 287 Bates. He saw two people in the backseat – as far as he could tell, a male and a
+
+female.
+
+          Mailhot stopped the cruiser about twenty-five feet behind the car and, at about 5:35 a.m.,
+
+radioed its license-plate number into dispatch. He then alighted from his vehicle, turned on his
+
+portable radio and cautiously began to approach the car. Approximately seventeen or eighteen
+
+seconds prior to the time he called in the license-plate number, Cornelio and another officer (Patrick
+
+Griffin) radioed that they had located B.J. Almeida.3 Although Cornelio’s cruiser was equipped with
+
+
+____________________________
+2003, dispatch provided a description of B.J. Almeida.
+3
+  After Mailhot left, Cornelio began to search 287 Bates for B.J. Almeida while other officers searched for him outside the building and
+one officer remained on the porch with Jose Almeida. Cornelio found B.J. Almeida hiding in an enclosed fire-egress hallway in the
+(continued on next page)
+
+                                                                   3
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 4 of 36                                                     PageID #: 343
+
+
+
+a police radio and Mailhot was wearing a working portable radio, his attention was focused on the
+
+individuals he had spotted, and he did not hear the announcement. 4 He therefore did not realize that
+
+B.J. Almeida had been apprehended. Even had he heard the announcement, he still would have
+
+proceeded to attempt to identify the vehicle’s occupants. He could not have been certain that the
+
+original two suspects had acted alone.
+
+          As he approached the vehicle a black male (later identified as the defendant) exited the car
+
+with his hands in his pockets and began walking away from Mailhot toward the stairway of 315 Bates.
+
+He was wearing a bandana and ball cap on his head and a heavy, insulated leather coat inappropriate
+
+for the season. Mailhot, who had twenty-four years’ experience with the LPD, knew that such jackets
+
+sometimes were worn in summer for the purpose of concealing weapons. All of these factors –
+
+including the high-crime nature of the neighborhood, the reported threat to break down the door at 287
+
+Bates, the uncooperativeness of the suspect on the porch, what Mailhot then (erroneously) believed to
+
+be the unknown whereabouts of B.J. Almeida, the Massachusetts license plate, the odd parking
+
+position of the car, the presence of the man and woman awake in the backseat of the car at that hour of
+
+the morning in the vicinity of the site of the reported disturbance, the defendant’s attire and the fact that
+
+he had his hands in his pockets and was walking away – caused Mailhot to be very concerned for his
+
+safety as well as that of his fellow officers still investigating the report at 287 Bates. By then, as he
+
+____________________________
+basement of the building. He radioed for backup, and Griffin promptly joined him. After reconfirming the existence of the warrant,
+Cornelio arrested B.J. Almeida. On cross-examination of Cornelio, defense counsel established that it was possible Cornelio might
+have found B.J. Almeida as early as 5:23 a.m., when he first radioed dispatch regarding the outstanding warrant. See Gov’t Exh. 9.
+However, the following persuade me that Cornelio discovered B.J. Almeida at approximately 5:35 a.m.: (i) Mailhot’s explanation that
+Cornelio radioed dispatch to check on the status of B.J. Almeida’s warrant while both men were standing on the porch of 287 Bates,
+(ii) Cornelio’s testimony that he probably found B.J. Almeida closer to 5:35 a.m., and (iii) dispatch notations that, as explicated by
+officers’ testimony, indicate that Cornelio was “rear with BJ,” or at the rear of 287 Bates with B.J. Almeida, at 5:35:37 a.m. and Griffin
+was “rear with BJ” at 5:35:38 a.m.
+4
+  After Mailhot alighted from the cruiser, he turned on his portable radio. If, as is possible, the broadcast of B.J. Almeida’s
+apprehension was made during that interval, he could have missed it for that reason.
+
+
+                                                                   4
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 5 of 36                       PageID #: 344
+
+
+
+described it: “I was very, what we would consider on red alert. You know, bells and whistles were
+
+going off.”
+
+       Mailhot called to the defendant to stop and not to move. He intended to identify him to see
+
+whether he was B.J. Almeida and pat him down for the presence of weapons. The defendant turned
+
+partway toward him, hands still in his pockets, protesting that Mailhot was picking on him because he
+
+was black and that he was doing nothing wrong. Mailhot then approached him, forcibly took his hands
+
+out of his pockets and placed them on top of his head, intending to grab his fingers with one hand and
+
+pat him down with the other. However, before Mailhot could do so, the defendant broke away,
+
+peeling out of his leather jacket, and ran toward 66 Knox Street, where he made a right turn toward
+
+Birch Street and disappeared from Mailhot’s view. Mailhot, who was left holding the jacket and the
+
+ballcap, was unable to give chase given his age and physical condition. At about 5:38 a.m. he radioed
+
+to fellow officers that a tall black male was running away from him.
+
+       Levesque, who had responded to the reported disturbance at 287 Bates and had been searching
+
+on foot for B.J. Almeida, heard Mailhot’s broadcast and then saw a black male running on Knox
+
+Street. Levesque knew that the fleeing man, who was more than six feet tall and thin, was not B.J.
+
+Almeida, whom he knew to be short and stocky. He began to give chase. At approximately the same
+
+time LPD Officer Joel Gagne, who was driving nearby in his cruiser, also responded to Mailhot’s
+
+call. As he turned the corner onto Knox Street he observed a male running westbound in the middle of
+
+the street. He exited his cruiser and began chasing the male, calling out “alone” as he did so. He
+
+spotted Levesque, and the two together pursued the suspect. The man ducked in between some
+
+buildings, and the officers temporarily lost sight of him; however, they suspected he might have fled
+
+into a four-floor apartment building at 54 Knox Street (“54 Knox”). Fearful for their safety, they
+
+
+
+                                                  5
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 6 of 36                                                 PageID #: 345
+
+
+
+ascended the narrow stairwell of the apartment building with guns drawn.5
+
+          Levesque, with Gagne following close behind him, found the defendant lying face-down on top
+
+of a sweatshirt on the fourth-floor hallway in an apparent attempt to hide. The officers loudly
+
+commanded the defendant not to move. Levesque kept his gun trained on the defendant while Gagne
+
+holstered his weapon and immediately handcuffed him. Gagne then patted the defendant down and
+
+found in his right front pocket a sheathed four-inch-long throwing knife. He placed the defendant under
+
+arrest for unlawful trafficking in dangerous knives. He also seized the sweatshirt but did not then
+
+examine it. In the circumstances his goal was to remove the defendant from the building as quickly as
+
+possible: The lighting was low, quarters were tight on the stairwell, the defendant for reasons
+
+unknown to Gagne had been fleeing Mailhot, and Gagne had just found what he considered to be a
+
+dangerous weapon concealed on the defendant’s person. He and Levesque escorted the defendant
+
+from the building, and he placed the defendant in his cruiser and drove him to the parking lot behind
+
+315 Bates, where Mailhot, the commanding officer in charge of the investigation, had remained.
+
+          In the interval during which Levesque and Gagne were chasing and arresting the defendant,
+
+Mailhot had directed the female occupant of the car to step out and had patted her down to search for
+
+weapons. He found no weapons on her person, but during that interaction noticed a large sword and a
+
+folding knife on the passenger rear floor. He retrieved these items and secured them in Cornelio’s
+
+cruiser. He identified the female as Kellie Rust of Weymouth, Massachusetts. Jose Almeida, who had
+
+been released after eventually identifying himself to officers, approached Mailhot and asked him for
+
+the leather jacket that the defendant had been wearing. Mailhot asked him if the jacket was his, and he
+
+5
+ Gagne had heard the initial radio broadcast naming “B.J.” as a person involved in the disturbance. He considered B.J. Almeida a
+very dangerous person, having had prior dealings with him concerning crimes against persons and having been told by him that he (B.J.
+Almeida) had stabbed someone while in prison. Given the possible connection between the fleeing suspect and B.J. Almeida, the
+(continued on next page)
+
+
+                                                                 6
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 7 of 36                                        PageID #: 346
+
+
+
+denied that it was. Mailhot refused to give it to him. After Gagne drove the handcuffed defendant to
+
+the scene, one of the officers placed the leather jacket on the back of Gagne’s cruiser. Jose Almeida
+
+persisted in his effort to retrieve the jacket, signaling to the defendant and approaching Gagne’s cruiser
+
+even after Gagne warned him to step back. Gagne then directed LPD Officer Christopher T. Murphy
+
+to place Jose Almeida under arrest for obstructing government administration. While at the scene,
+
+Gagne asked the defendant his name, and the defendant responded that he was Evans Stroman.
+
+Because of the distraction caused by Jose Almeida, Gagne deferred further investigation of the
+
+defendant.
+
+         Gagne transported the defendant, and Murphy separately transported Jose Almeida, to the
+
+Androscoggin County Jail (the “Jail”) for booking. While in the booking area of the Jail sometime
+
+between 6:06 and 6:39 a.m., Murphy overheard Jose Almeida say something to the defendant in street
+
+lingo to the effect of, “Yo, dog, these ‘po’ could have got ten whack,” or “ten bang.” Murphy gathered
+
+that Jose Almeida was referring to the police as having been lucky, but otherwise had no idea what he
+
+was talking about. He mentioned the comment to Gagne.
+
+         At the Jail Gagne completed his search of the defendant and items found with him, including
+
+the sweatshirt, from which he retrieved a plastic baggie containing ten smaller baggies of what he
+
+suspected was crack cocaine, as well as $170, a cell phone and a pager. Based on his training and
+
+experience, he considered these items consistent with drug trafficking. He also found two forms of
+
+identification on the defendant’s person, one for an Evans Stroman and the other for a different
+
+individual. Because Gagne intended to add a drug-trafficking charge against the defendant, he wanted
+
+to be certain he correctly identified him. He asked what he described as several typical identifying
+
+____________________________
+dangerousness of the neighborhood, the tight corners in the stairway of 54 Knox, and Gagne’s lack of knowledge of what was
+(continued on next page)
+
+
+                                                            7
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 8 of 36                                             PageID #: 347
+
+
+
+questions, the answers to which he double-checked with appropriate agencies and departments,
+
+including: Have you ever been arrested before? Where have you been arrested? The defendant, who
+
+was born on October 19, 1983, see Gov’t Exh. 12, and was then 19 years old, responded that he had
+
+served a year at the “Dartmouth” facility. Gagne contacted the New Bedford, Massachusetts Police
+
+Department, which, in addition to confirming the defendant’s identity, advised that he was known to
+
+carry a .25-caliber handgun. Gagne radioed that information to officers still on the scene at 287 Bates,
+
+among them Levesque.
+
+          After hearing Gagne’s report, Levesque returned to the fourth-floor stairwell at 54 Knox. He
+
+looked up and saw a blue bandana sticking out of a ceiling tile directly above the spot where the
+
+defendant had been found. He climbed onto the railing, pushed aside the tile and retrieved a black
+
+nine-millimeter handgun wrapped in a blue bandana. Levesque brought the gun back to the police
+
+station and unloaded it, discovering that there was a hollow-point round in the chamber and a solid-
+
+point, or full-metal-jacket, round in the clip. Hollow-point bullets mushroom out on impact and, thus,
+
+are more lethal. Upon learning that Levesque had retrieved a gun at 54 Knox, Murphy concluded that
+
+Jose Almeida’s street-lingo comment to the defendant had referred to the gun.
+
+          Police never pressed charges relating to the reported attempt to break down the front door at
+
+287 Bates. On August 5, 2003 the defendant was indicted on one count of unlawful trafficking in
+
+scheduled drugs in violation of 17-A M.R.S.A. § 1103(1-A)(A) and one count of trafficking in
+
+dangerous knives in violation of 17-A M.R.S.A. § 1055(1). See Gov’t Exh. 12. Effective August 8,
+
+2003 attorney George Hess was appointed to represent the defendant, who pleaded not guilty at his
+
+arraignment. See Gov’t Exh. 15 at 1-2. On November 5, 2003 the State filed an information adding a
+
+____________________________
+transpiring other than that someone was fleeing a fellow officer, he was quite concerned for his safety.
+
+
+                                                                  8
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 9 of 36                                                 PageID #: 348
+
+
+
+third count against the defendant – unlawful furnishing of scheduled drugs in violation of 17-A
+
+M.R.S.A. § 1106(1-A)(A). See Gov’t Exh. 13. That day, the defendant pleaded guilty to the third
+
+count only. See Gov’t Exh. 14. The court accepted his plea and sentenced him on that count to two
+
+years’ imprisonment with all but six months suspended, to be followed by two years’ probation. See
+
+id.; Gov’t Exh. 15 at 3-4. The same day, the State dismissed the remaining two charges. See Gov’t
+
+Exh. 15 at 4. At no time, in connection with the state charges, did the defendant admit to having
+
+possessed a gun. 6
+
+          Shortly after the defendant was arrested on state charges, on or about July 21, 2003, the LPD
+
+referred his case to Trevor Campbell, an LPD officer who serves as a special agent of the Central
+
+Maine Violent Crimes Task Force (“Task Force”). The Task Force investigates such matters as
+
+possession by felons of firearms, stolen-firearms complaints and cases involving armed career
+
+criminals. Campbell took custody of the firearm that had been retrieved from 54 Knox and sent it to
+
+the Maine State Police (“MSP”) crime laboratory for fingerprint analysis. He also ran criminal-
+
+history and firearms checks on the defendant. On December 3, 2003 Campbell received results of the
+
+fingerprint analysis. Campbell was aware that the defendant had been convicted of state drug charges
+
+and was serving his sentence at the Jail. On December 19, 2003 he and Deputy United States Marshal
+
+Christopher Clifford, then a newly appointed coordinator for the Task Force, traveled to the Jail to
+
+interview the defendant regarding the firearm. Campbell did not seek to interview the defendant prior
+
+to that time because he had been awaiting the results of the fingerprint analysis.
+
+          Jailors brought the defendant to the photo room, an eight-by-ten-foot room within the booking
+
+6
+  In his motion papers, the defendant asserted that following the discovery of the gun he was arrested, inter alia, on a charge of
+possession of a handgun by a prohibited person in violation of 17 M.R.S.A. § 393. See Motion at 3. He contended that the State did
+not file that charge against him because of insufficient evidence: The gun had been discovered after his arrest, and he denied having
+(continued on next page)
+
+
+                                                                 9
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 10 of 36                                                  PageID #: 349
+
+
+
+area of the Jail. The outer door was left slightly ajar. There, Campbell read him his Miranda rights
+
+from a Task Force form, indicating after each that the defendant had responded “Yeah” or “Yes” when
+
+asked if he understood that right. See Gov’t Exh. 10. Campbell also indicated that the defendant
+
+responded “Yes” when asked if, having those rights in mind, he wished to answer questions at that
+
+time. See id. The defendant and Campbell both signed the form. See id. Campbell told the defendant
+
+that he had obtained results of a fingerprint analysis. He inquired whether the defendant had any
+
+reason to believe his fingerprints would be on the gun, adding that this was an opportunity for him to
+
+preserve some integrity by telling the truth. In fact, the defendant’s fingerprints had not been found on
+
+the gun. However, Campbell, who would have had no case without the defendant’s confession,
+
+insinuated that they had been, consistent with interrogation techniques he had been taught. The
+
+defendant, who appeared nervous and was avoiding eye contact with Campbell, denied that he had any
+
+involvement with the gun or had any reason to believe his fingerprints would be found on it. He did
+
+not ask for a lawyer at any point during the interview, which lasted a total of about ten minutes.7 At its
+
+conclusion, Campbell gave the defendant a business card and encouraged him to call if he decided he
+
+wanted to tell the truth.8 Campbell recalled that the defendant had mentioned that he was due to be
+
+____________________________
+possessed it. See id. at 4. At hearing, the defendant adduced no documentary evidence of these facts; however, on cross-examination
+one of the government’s witnesses, Trevor Campbell, essentially corroborated this story.
+7
+  Clifford testified that he did not remember whether, on December 19, 2003, the defendant concluded the interview by asking for a
+lawyer, saying he already had a lawyer or advising that he did not want to talk to Campbell and Clifford. However, both Campbell
+and the defendant testified, and I find, that the defendant did not request a lawyer that day.
+8
+  At hearing, the defendant in some respects painted a different picture of what transpired on December 19, 2003, testifying that
+Campbell (i) flatly told him his fingerprint had been found on the gun, (ii) promised him he would be released and would not be charged
+with any crime if he cooperated, and (iii) advised him that if he did not cooperate, he would continue to be held after his scheduled
+release date of December 29 and was “going to be looking at some serious time.” The defendant testified that it was very important to
+him to be released as scheduled so that he could be present at the birth of his child, and accordingly he contacted Campbell three days
+later to make a statement. The defendant acknowledged that on December 19 Campbell read him his Miranda rights; however, he
+claimed that he did not understand them. I do not find the defendant’s version of events to be wholly credible. Prior to his July 15,
+2003 encounter with the LPD, the defendant had twice been jailed for crimes. He had been read his Miranda rights and had been
+represented by counsel in both instances. He has an eighth grade education and can read and write. He was represented by counsel
+during prosecution of the state charges stemming from the July 15, 2003 encounter with police. At no time, in connection with that
+(continued on next page)
+
+                                                                 10
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 11 of 36                                                        PageID #: 350
+
+
+
+released soon (on December 29, 2003); however, Campbell denied that this fact had any particular
+
+significance for him with respect to his federal investigation. 9
+
+          On December 22, 2003 Campbell received a phone call from a Jail corrections officer who
+
+informed him that the defendant wished to speak with him. The same day, Campbell and Clifford
+
+returned to the Jail, where they again met with the defendant in the photo room with the outer door
+
+slightly ajar. Campbell reminded the defendant that he was still “under” his Miranda rights – that is,
+
+that they remained operative.10 The defendant said that he wanted to come clean, explaining that he
+
+was worried that he would not be released on his scheduled release date if he did not tell the truth. He
+
+admitted that he did possess the gun on the morning of July 15, 2003 and that he had hidden it at 54
+
+Knox. Campbell asked if the defendant would provide a written statement, and he agreed to do so. He
+
+provided the statement in his own handwriting and signed it, with Campbell serving as a witness. See
+
+Gov’t Exh. 11. At no point did the defendant request to see a lawyer.
+
+          The defendant was released from Jail on his scheduled release date. Campbell did not seek a
+
+detainer. Campbell requested an Interstate Nexus Statement (“Nexus Report”), which was completed
+
+on February 5, 2004. See Criminal Complaint and Affidavit (“Complaint”) (Docket No. 5) ¶ 9. That
+
+____________________________
+prosecution, did he make any confession regarding possession of the gun. In the circumstances, his testimony that on December 19,
+2003 he did not understand his Miranda rights rings hollow. His testimony that Campbell promised he would be released as
+scheduled if he cooperated, and threatened to detain him if he did not, likewise is not credible. On cross-examination, counsel for the
+government elicited contradictory testimony from the defendant that illustrates a willingness to tailor his testimony to suit his needs at the
+moment. The defendant initially testified on cross-examination that he made up (or fabricated) his December 22, 2003 confession.
+Upon being read portions of his written confession by counsel for the government, he stated that some aspects were true; however, he
+continued to maintain that portions regarding his or Jose Almeida’s possession of a gun were false.
+9
+  Campbell denied that during the December 19 interview he knew the defendant had a newborn baby or told the defendant that he
+might not be leaving jail. He did not recall telling the defendant that he was going to charge him with a crime.
+10
+   At hearing, defense counsel established that Campbell typically includes all details he believes important or essential in his police
+reports and affidavits supporting criminal complaints but that he omitted any mention of the Miranda reminder from his police report
+and affidavit supporting the criminal complaint filed in this matter. See Gov’t Exh. 16. Nonetheless, inasmuch as (i) Campbell stated
+on cross-examination that he had an independent memory of having advised the defendant on December 22, 2003 that he still was
+Mirandized and (ii) Clifford, who was sequestered during Campbell’s testimony, testified that Campbell did in fact give such a
+reminder, I credit their testimony that such a reminder was given.
+
+
+                                                                     11
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 12 of 36                           PageID #: 351
+
+
+
+report, by Bureau of Alcohol, Tobacco and Firearms Special Agent Brent McSweyn, determined that
+
+the pistol retrieved at 54 Knox was not manufactured in the State of Maine and therefore had traveled
+
+in interstate commerce. See id. After receiving the Nexus Report, Campbell forwarded the case to the
+
+United States Attorney’s Office for a decision whether to prosecute. On June 10, 2004 the government
+
+filed its complaint initiating the instant case, charging the defendant with being a felon in possession of
+
+a firearm in violation of 18 U.S.C. §§ 922(g)(1) and 924(a)(2). See Complaint at 2. The predicate
+
+felony offense on which the government relied was the defendant’s 2002 conviction in the State of
+
+Massachusetts for possession of a firearm without a license in violation of Mass. Gen. Laws ch. 269, §
+
+10(a). See id..
+
+                                             II. Discussion
+
+                                         A. Threshold Issues
+
+        Before proceeding to the merits of the Motion To Suppress, I pause to consider both the
+
+defendant’s Motion To Strike and two threshold issues raised by the government: that the defendant (i)
+
+fails to demonstrate entitlement to an evidentiary hearing on the Motion To Suppress and (ii) lacks
+
+standing to seek suppression of the firearm retrieved by Levesque from the ceiling of 54 Knox. See
+
+Government’s Memorandum of Law in Opposition to Defendant’s Pretrial Motion (“Opposition”)
+
+(Docket No. 34) at 8-14.
+
+                                         1. Motion To Strike
+
+        The government’s Post-Hearing Notice consisted of the following two sentences: “At the
+
+hearing on defendant’s motion to suppress, the Government argued that the defendant’s possession of
+
+the knife (GX 19) violated Maine’s concealed weapon statute. That statute is found at 25 MRSA §
+
+2001 (1988).” Post-Hearing Notice. The defendant moved to strike this document and preclude the
+
+
+
+                                                    12
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 13 of 36                            PageID #: 352
+
+
+
+court’s consideration of the underlying statute on grounds that (i) the filing of the Post-Hearing Notice
+
+violated the court’s declination to take post-hearing briefs, (ii) the government waived its argument
+
+that the statute applied by failing to articulate it either in its Opposition brief or during oral argument,
+
+(iii) the statute is in any event inapplicable as a matter of law because the knife in question was a
+
+standard hunting knife, and (iv) officers did not rely on the statute as a basis to arrest the defendant.
+
+See generally Motion To Strike; Defendant’s Response to Government’s Memorandum of Law in
+
+Opposition to Defendant’s Motion To Strike Government’s Notice Regarding Maine’s Concealed
+
+Weapon Statute and in Response to Defendant’s Supplemental Memorandum (“Strike Reply”) (Docket
+
+No. 51). The defendant moved, in the alternative, for reopening of the hearing for the purpose of
+
+taking testimony from a private investigator and/or expert witness, and additional oral argument, on the
+
+asserted inapplicability of the concealed-weapons statute (25 M.R.S.A. § 2001) to the knife found on
+
+his person. See Motion To Strike at 3; Supplemental Memorandum in Support of Defendant’s Motion
+
+To Strike Government’s Notice Regarding Maine’s Concealed Weapons Statute (Docket No. 45).
+
+        I decline either to strike the Post-Hearing Notice, ignore the concealed-weapons statute or
+
+reopen the hearing. As the government points out, the Post-Hearing Notice is not a brief containing
+
+legal argument but simply a notice of a statutory citation – the type of information of which the court, in
+
+any event, must take judicial notice. See Government’s Memorandum of Law in Opposition to
+
+Defendant’s Motion To Strike Government’s Notice Regarding Maine’s Concealed Weapon Statute
+
+and in Response to Defendant’s Supplemental Memorandum (“Strike Opposition”) (Docket No. 48) at
+
+6-7; see also, e.g., White v. Gittens, 121 F.3d 803, 805 n.1 (1st Cir. 1997) (“The law of any State of
+
+the Union, whether depending upon statutes or upon judicial opinions, is a matter of which the courts
+
+of the United States are bound to take judicial notice, without plea or proof.”) (citation and internal
+
+quotation marks omitted).
+
+                                                    13
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 14 of 36                                                      PageID #: 353
+
+
+
+          Beyond this, and more importantly, the government did indeed argue at hearing that officers
+
+had probable cause to arrest the defendant for carrying a concealed weapon. See Strike Opposition at
+
+4-7; see also Transcript of Proceedings (Docket No. 46) at 10-12, 16-17. The defendant did not then
+
+object to that line of argument, join issue with it or seek to reopen the hearing in response.
+
+Accordingly, it is appropriate to consider the merits of the government’s argument on the basis of the
+
+record made at hearing. 11
+
+                                        2. Entitlement to Evidentiary Hearing
+
+          In its Opposition, the government argued that inasmuch as the defendant had not proffered an
+
+affidavit based on personal knowledge or any other proof establishing that there was a factual dispute
+
+necessitating an evidentiary hearing, his request for such a hearing should be denied. See id. at 8-9.
+
+While it is true, as the government observes, that a criminal defendant moving to suppress evidence is
+
+not automatically entitled to an evidentiary hearing, see id. at 9-10; United States v. Lewis, 40 F.3d
+
+1325, 1332 (1st Cir. 1994), in this district a defendant need not submit an affidavit based on personal
+
+knowledge (or comparable proof) to obtain one.
+
+          Federal Rule of Criminal Procedure 47 provides, in relevant part: “A motion may be
+
+supported by affidavit.” Fed. R. Crim. P. 47(b). As use of the word “may” suggests, this provision is
+
+“permissive only.” Charles Alan Wright, Nancy J. King & Susan R. Klein, 3B Federal Practice
+
+and Procedure § 802, at 315 (3d ed. 2004). “The court has inherent power to require that supporting
+
+affidavits be filed, but in the absence of a court order, or a local rule requiring affidavits, it is not
+
+11
+  Although, for the reasons stated above, there is no need to reach the defendant’s arguments regarding the merits of application of the
+concealed-weapons statute (25 M.R.S.A. § 2001) in this case, I note that I have reviewed them and found them wanting. In addition,
+the defendant raises three arguments in his reply brief that were not previously proffered in his motion: that (i) the knife found on his
+person did not qualify as a “throwing knife,” (ii) he was placed under arrest prior to discovery of the knife, and (iii) although he had no
+privacy interest in the common area at 54 Knox, the gun still may be suppressed as fruit of the poisonous tree. See Strike Reply at [4]-
+[6]. At least one of those arguments – the second – goes beyond the permissible confines of “replying to new matter raised in the
+(continued on next page)
+
+                                                                   14
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 15 of 36                                       PageID #: 354
+
+
+
+required that affidavits be submitted.” Id. (footnotes omitted).
+
+         The government argues that this district’s Local Rule 147 does require such affidavits;
+
+however, it misapprehends the import of the rule. See Opposition at 9. The rule provides, in relevant
+
+part: “Every motion shall incorporate a memorandum of law, including citations and supporting
+
+authorities. Affidavits and other documents setting forth or evidencing facts on which the motion is
+
+based shall be filed with the motion.” Loc. R. 147(a). Like its similarly worded civil counterpart,
+
+Local Rule 7(a), the rule does not require that affidavits be filed with every motion, but rather directs
+
+that if they are filed, they must be filed with the motion. Compare id. with Loc. R. 7(a).
+
+         Nor has the First Circuit held otherwise. As it has observed: “[T]he district court is entrusted
+
+with deciding whether to hold an evidentiary hearing [in connection with a motion to suppress] and we
+
+will not overrule the refusal to convene an evidentiary hearing unless the district court is shown to
+
+have abused its discretion.” Lewis, 40 F.3d at 1332. An evidentiary hearing is “required” (and a
+
+district court hence would abuse its discretion in denying one) only if a defendant “allege[s] facts that,
+
+if proven, would entitle him to relief.” Id. “To make this showing the defendant must allege facts,
+
+sufficiently definite, specific, detailed, and nonconjectural, to enable the court to conclude that a
+
+substantial claim is presented.” Id. (citation and internal quotation marks omitted). Tellingly, the
+
+basic test enunciated by the First Circuit is that a defendant must “allege” such facts, not that the
+
+defendant must proffer them via an affidavit made on personal knowledge. While the First Circuit in
+
+Lewis did note that neither defendant had personally sworn out an affidavit in support of their motion
+
+to suppress, it upheld the district court’s denial of an evidentiary hearing on the basis that the
+
+defendants had not alleged (in any format) sufficiently definite, specific, detailed, and nonconjectural
+
+____________________________
+objection or opposing memorandum.” Loc. R. 147(c). Compare Strike Opposition at 7-8 with Strike Reply at [4]-[6].
+
+
+                                                           15
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 16 of 36                          PageID #: 355
+
+
+
+facts that, if proven, would entitle them to relief. See id. Rather, all they offered (in contrast to the
+
+government’s proffer of sworn, detailed affidavits by two officers) was an affidavit of defense counsel
+
+containing “only conclusory allegations that the police lacked probable cause or a reasonable
+
+articulable suspicion of criminal activity when they arrested [the defendants].” Id.
+
+        In this case, the defendant offered more. He recited in his brief (that is, alleged) detailed,
+
+specific facts that, if ultimately proven, would entitle him to relief. See Motion To Suppress at 1-5. In
+
+short, he made a sufficient threshold showing to enable the court to conclude that a substantial claim
+
+was presented. Accordingly, the requested evidentiary hearing was held.
+
+                             3. Standing To Seek Suppression of Gun
+
+        The government makes a considerably more persuasive case with respect to its second
+
+threshold argument: that the defendant lacks standing to seek suppression of the gun retrieved by
+
+Levesque from 54 Knox. See Opposition at 10-13. The defendant shoulders the burden of establishing
+
+standing for Fourth Amendment purposes. See, e.g., United States v. Romain, 393 F.3d 63, 68 (1st
+
+Cir. 2004) (“The Fourth Amendment does not protect privacy in any and all circumstances. Among
+
+other limitations, a criminal defendant who wishes to embark upon a Fourth Amendment challenge
+
+must show that he had a reasonable expectation of privacy in the area searched and in relation to the
+
+items seized. Although the usage is imprecise, courts frequently refer to this threshold requirement as
+
+implicating ‘standing.’ For simplicity’s sake, we shall adopt that nomenclature here.”) (citations and
+
+internal quotation marks omitted).
+
+        The defendant adduced no evidence at hearing establishing that he harbored a reasonable
+
+expectation of privacy either in the locale in which the gun was found or in the gun itself. From all that
+
+appears, he never set foot in the apartment building at 54 Knox before he sought refuge there while
+
+fleeing police on the morning of July 15, 2003. In any event, even had he demonstrated that he resided
+
+                                                   16
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 17 of 36                        PageID #: 356
+
+
+
+there, the location of the gun in a ceiling tile of a common hallway would have counseled against a
+
+finding of standing with respect to any items seized therefrom. See, e.g., United States v. Paradis,
+
+351 F.3d 21, 31 (1st Cir. 2003) (“Paradis had no protectible privacy interest under the Fourth
+
+Amendment in the bag of .22 caliber ammunition left on the back porch of the building because he had
+
+no expectation of privacy in the common areas of a multi-family building.”) (footnote omitted); United
+
+States v. Garner, 338 F.3d 78, 80 (1st Cir. 2003) (“[A] tenant lacks a reasonable expectation of
+
+privacy in the common areas of an apartment building[.]”) (citation and internal quotation marks
+
+omitted).
+
+       Nor did the defendant establish that he harbored any reasonable expectation of privacy in the
+
+gun. At hearing, he denied that he had possessed it. Even assuming arguendo the truth of his
+
+December 22, 2003 written confession that he hid it in the ceiling tile at 54 Knox on the morning of
+
+July 15, 2003 (and accordingly possessed it), he still would lack standing to contest its seizure
+
+inasmuch as he abandoned it. See, e.g., Paradis, 351 F.3d at 31 (“[N]o person can have a reasonable
+
+expectation of privacy in an item that he has abandoned[.]”) (citation and internal quotation marks
+
+omitted).
+
+       The defendant therefore lacks standing to seek suppression of the gun or any fruits of its
+
+allegedly unconstitutional seizure. See, e.g., id. at 32 (“[A] defendant can prevail on a ‘fruit of the
+
+poisonous tree’ claim only if he has standing regarding the violation which constitutes the poisonous
+
+tree[.]”) (citation and internal punctuation marks omitted). In any event, even assuming arguendo that
+
+the defendant had established the requisite standing, I would recommend that the Motion To Suppress
+
+as it concerns the firearm be denied for the reasons discussed below.
+
+                                 B. Merits of Motion To Suppress
+
+       I proceed to the merits of the Motion To Suppress. The defendant seeks suppression on
+
+                                                  17
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 18 of 36                       PageID #: 357
+
+
+
+several bases of (i) the firearm, (ii) evidence of illegal drugs and (iii) all statements made. See
+
+Defendant’s Reply to the Government’s Memorandum of Law in Opposition to Defendant’s Pretrial
+
+Motion (Docket No. 35) at 3. He argues that:
+
+       1.      LPD officers violated his Fourth Amendment rights inasmuch as they lacked either
+
+reasonable and articulable suspicion to detain him pursuant to Terry v. Ohio, 392 U.S. 1 (1968), or
+
+probable cause to effectuate his warrantless arrest. See Motion To Suppress at 5-8. Accordingly, he
+
+asserts, all evidence seized and statements made must be suppressed as “fruit of the poisonous tree”
+
+pursuant to Wong Sun v. United States, 371 U.S. 471 (1963). See id. at 7-8.
+
+       2.      Police on July 15, 2003 obtained statements regarding his identity in the absence of the
+
+requisite Miranda warning. See id. at 8. As a result, he seeks not only suppression of the July 15,
+
+2003 statements but also suppression of the firearm as fruit of the poisonous tree and both December
+
+2003 statements as tainted by the earlier Miranda transgression. See id. In any event, he asserts,
+
+police elicited his December 22, 2003 confession in the absence of any Miranda warning, as a result
+
+of which it should be suppressed. See id. at 9.
+
+       3.      Police obtained his December 19 and December 22, 2003 statements in violation of his
+
+Sixth Amendment right to counsel, which attached when he was prosecuted on state charges. See id. at
+
+9-10. Alternatively, state and federal authorities colluded to end-run that Sixth Amendment right. See
+
+id. at 10-11. On either basis, he posits, his December 2003 statements should be suppressed. See id.
+
+at 9-11.
+
+       4.      Police elicited his confession by means of threats and/or promises, in violation of his
+
+Fifth Amendment protection against self-incrimination and his Fourteenth Amendment due-process
+
+rights. See id. at 11. As a result, he contends, the confession should be suppressed. See id.
+
+       With respect to all points the defendant raises except collusion in violation of his Sixth
+
+                                                  18
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 19 of 36                           PageID #: 358
+
+
+
+Amendment rights, the government bears the burden of demonstrating the lawfulness of the challenged
+
+conduct. See, e.g., United States v. Leon-Delfis, 203 F.3d 103, 110 (1st Cir. 2000) (intentional
+
+relinquishment of right to counsel); United States v. Ramos-Morales, 981 F.2d 625, 628 (1st Cir.
+
+1992) (warrantless search or seizure); United States v. Barone, 968 F.2d 1378, 1384 (1st Cir. 1992)
+
+(Miranda compliance); United States v. Jackson, 918 F.2d 236, 241 (1st Cir. 1990) (voluntariness of
+
+confession). With respect to a claim of collusion between sovereigns, the First Circuit has adopted a
+
+shifting burden of proof:
+
+        [T]he defendant must produce some evidence tending to prove that . . . one sovereign
+        was a pawn of the other, with the result that the notion of two supposedly independent
+        prosecutions is merely a sham. If the defendant proffers evidence sufficient to support
+        such a finding – in effect, a prima facie case – the government must shoulder the
+        burden of proving that one sovereign did not orchestrate both prosecutions, or, put
+        another way, that one sovereign was not a tool of the other.
+
+United States v. Guzman, 85 F.3d 823, 827 (1st Cir. 1996).
+
+        For the reasons that follow, I find that the government carries its burden of proof with respect
+
+to all matters as to which it bears that burden, and the defendant fails to establish a prima facie case of
+
+collusion.
+
+                                         1. Terry Stop; Arrest
+
+        In elucidating the bounds of permissible Terry stops, the First Circuit has observed:
+
+        The law governing investigative stops is well understood. A law enforcement officer
+        ordinarily may not stop someone and restrain his freedom to walk away unless the
+        officer has a reasonable and articulable suspicion of criminal activity. The reasonable
+        suspicion test has been described as an intermediate standard requiring more than
+        unfounded speculation but less than probable cause. At a minimum, the officer must
+        have a particularized and objective basis for suspicion. When determining the
+        legitimacy of an investigative stop, a court must undertake a contextual analysis using
+        common sense and a degree of deference to the expertise that informs a law
+        enforcement officer’s judgments about suspicious behavior.
+
+        An investigative stop also must be reasonably related in scope to the circumstances
+
+
+                                                    19
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 20 of 36                          PageID #: 359
+
+
+
+        which justified the interference in the first place. If a law enforcement officer
+        reasonably suspects criminal activity, he may briefly question the suspect about his
+        concerns. If he has a reasonable basis to suspect that the subject of his inquiry may be
+        armed, he also may frisk the suspect and undertake a limited search of the passenger
+        compartment of any vehicle in which he is sitting. Once again, context is vital in
+        determining the permissible scope of an investigative stop.
+
+United States v. Cook, 277 F.3d 82, 85 (1st Cir. 2002) (citations and internal quotation marks
+
+omitted). In this case, the government handily carries its burden of demonstrating that Mailhot’s initial
+
+stop of the defendant and Levesque’s and Gagne’s subsequent pursuit, handcuffing and patdown of him
+
+passed muster pursuant to these principles.
+
+        Mailhot spied the blue Subaru Legacy with Massachusetts plates at approximately 5:30 in the
+
+morning in the wake of a report that two black males, one of whom was “B.J.,” were attempting to
+
+break down the front door of an apartment house in a high-crime, high-drug-trafficking area of
+
+Lewiston. “B.J.” was believed to be B.J. Almeida, a person who had previous law-enforcement
+
+encounters in Lewiston, was considered dangerous and was the subject of an outstanding warrant for
+
+carrying a concealed weapon. Only one suspect was found on the porch of 287 Bates, and he would
+
+not initially cooperate in revealing his identity other than to state that he was from Massachusetts. B.J.
+
+Almeida was nowhere to be seen. Mailhot reasonably set out in search of B.J. Almeida or a car with
+
+Massachusetts license plates, which might provide a clue to the identity of the suspect on the porch
+
+and/or aid officers in comprehending what was transpiring.
+
+        Within three hundred feet of the site of the reported disturbance, Mailhot spotted the car in
+
+which the defendant and a female companion were sitting. Not only did the car have Massachusetts
+
+license plates, but it also was parked near the rear steps of the building rather than in a parking slip.
+
+In the circumstances, Mailhot’s suspicions understandably were raised. He reasonably decided to
+
+approach and question the occupants. At approximately that time, either because he had not yet
+
+
+                                                   20
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 21 of 36                        PageID #: 360
+
+
+
+switched on his portable radio or because his attention was focused on the individuals he had spotted
+
+in these rather tense circumstances, Mailhot, who was not himself familiar with B.J. Almeida, did not
+
+hear radio traffic indicating that B.J. Almeida had been apprehended.
+
+       At hearing, counsel for the defendant posited that, pursuant to the so-called “fellow officer” or
+
+“collective knowledge” rule, knowledge of B.J. Almeida’s appearance and the fact of his
+
+apprehension should be imputed to Mailhot. It is unlikely that the First Circuit would recognize what
+
+amounts to a “reverse” fellow-officer-rule argument intended to establish the absence, rather than the
+
+presence, of reasonable suspicion and/or probable cause. See, e.g., United States v. Meade, 110 F.3d
+
+190, 194 (1st Cir. 1997) (“The fellow officer rule underlies the well-worn maxim that the collective
+
+knowledge and information of all the officers involved establishes probable cause for the arrest. The
+
+‘collective knowledge’ or ‘pooled knowledge’ principle has been used to validate arrests in two
+
+ways: (1) by tracing the arresting officer’s action back to an individual in a law enforcement agency
+
+who possessed information sufficient to establish probable cause, and (2) by finding that the directing
+
+agency as a whole possessed the necessary facts.”) (citations and internal quotation marks omitted)
+
+(emphasis in original).
+
+       In any event, even assuming arguendo that such an argument is cognizable and that Mailhot
+
+knew as he exited his cruiser that B.J. Almeida no longer was at large, questioning of the occupants of
+
+the Legacy remained reasonable in the circumstances. Mailhot could not have been certain that the
+
+two suspects who were the subject of the earlier distress call acted alone. The identity of the man on
+
+the porch then remained unknown. The car with the Massachusetts plates and two occupants was
+
+parked suspiciously near the scene of the disturbance in an odd manner (against the back of a building
+
+rather than in a parking slip) at 5:30 in the morning in a high-crime, high-drug-trafficking
+
+neighborhood. Once the defendant exited the Legacy wearing a heavy, insulated jacket inappropriate
+
+                                                  21
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 22 of 36                         PageID #: 361
+
+
+
+for the season and began walking away from Mailhot (and possibly toward other officers investigating
+
+the earlier call), Mailhot’s suspicions reasonably were heightened. Mailhot knew, from his twenty-
+
+four years’ experience as a police officer, that seasonally inappropriate clothing such as the
+
+defendant’s leather jacket could be used to conceal weapons. At that hour of the morning, at that high-
+
+crime location and near the scene of the earlier distress call, Mailhot’s fear for his and his fellow
+
+officers’ safety was sufficient to justify a brief detention and patdown of the defendant’s person. See,
+
+e.g., Florida v. J.L., 529 U.S. 266, 272 (2000) (given serious threat firearms and armed criminals
+
+pose to public safety, “Terry’s rule . . . permits protective police searches on the basis of reasonable
+
+suspicion rather than demanding that officers meet the higher standard of probable cause”); Romain,
+
+393 F.3d at 71 (“[I]n determining whether a pat-down search is an appropriate step following a valid
+
+Terry stop, the key is whether, under the circumstances, the officer is justified in believing that the
+
+person is armed and dangerous to the officer or others.”) (citation and internal quotation marks
+
+omitted).
+
+        Before Mailhot could succeed in patting the defendant down he fled, peeling out of his leather
+
+jacket and running out of sight. This development reasonably heightened Mailhot’s safety fears. See,
+
+e.g., Illinois v. Wardlow, 528 U.S. 119, 124 (2000) (“Headlong flight – wherever it occurs – is the
+
+consummate act of evasion: It is not necessarily indicative of wrongdoing, but it is certainly suggestive
+
+of such.”). What is more, the defendant fled into an apartment building presumably occupied by
+
+sleeping residents, compounding safety concerns. When Levesque and Gagne finally caught up to him,
+
+they approached him with guns drawn and immediately handcuffed him. However, in the unfolding
+
+drama of the circumstances, even restraints of that magnitude did not exceed the bounds of the
+
+reasonable or convert the Terry stop into a full-blown arrest. Mailhot, Levesque and Gagne all
+
+harbored a reasonable suspicion that the defendant might be armed and dangerous. See, e.g., United
+
+                                                   22
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 23 of 36                        PageID #: 362
+
+
+
+States v. Maguire, 359 F.3d 71, 78 (1st Cir. 2004) (“Dorrance’s use of his weapon when he
+
+encountered Maguire was permissible during an investigatory stop. It is well established that the use
+
+or display of a weapon does not alone turn an investigatory stop into a de facto arrest.”); United
+
+States v. Navarrete-Barron, 192 F.3d 786, 791 (8th Cir. 1999) (in light of dangerous nature of
+
+suspected crime of drug trafficking and good possibility driver or passenger had weapon, limits of
+
+Terry stop were not exceeded when suspect was handcuffed while officers searched truck; “Several
+
+other circuits also have found that using handcuffs can be a reasonable precaution during a Terry
+
+stop.”); Gallegos v. City of Colorado Springs, 114 F.3d 1024, 1030 (10th Cir. 1997) (“[A] Terry
+
+stop does not automatically elevate into an arrest where police officers use handcuffs on a suspect or
+
+place him on the ground. Police officers are authorized to take such steps as are reasonably necessary
+
+to protect their personal safety and to maintain the status quo during the course of a Terry stop.”)
+
+(citations and internal punctuation omitted); United States v. Le, 377 F. Supp.2d 245, 254 (D. Me.
+
+2005) (“Of course, officers may take necessary steps to protect themselves if the circumstances
+
+reasonably warrant such measures without transforming a Terry stop into an arrest. This includes
+
+drawing weapons when reasonable, such as when officers are faced with a report of an armed threat.
+
+The First Circuit has also allowed the reasonable use of handcuffs and backup officers as the situation
+
+requires.”) (citations and internal quotation marks omitted).
+
+       After Gagne patted the defendant down he seized from his right front pocket a sheathed four-
+
+inch-long knife – a so-called throwing knife – and placed him under arrest for trafficking in dangerous
+
+knives. The defendant argues that officers lacked probable cause to effectuate his arrest inasmuch as
+
+the throwing knife did not qualify as a dangerous knife pursuant to the applicable statute, 17-A
+
+M.R.S.A. § 1055. See Motion To Suppress at 7. The government rejoins that (i) officers did possess
+
+probable cause to arrest the defendant pursuant to section 1055, (ii) alternatively, they had probable
+
+                                                  23
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 24 of 36                        PageID #: 363
+
+
+
+cause to arrest him for a different offense, possession of a concealed weapon in violation of 25
+
+M.R.S.A. § 2001, and (iii) even assuming arguendo his arrest was without probable cause, the
+
+evidence in issue inevitably would have been discovered apart from that illegality. I conclude that
+
+while police did not possess probable cause to arrest the defendant for trafficking in dangerous knives,
+
+they did have probable cause to arrest him for carrying a concealed weapon. I do not reach the
+
+government’s alternative inevitable-discovery argument.
+
+       Probable cause exists “when the facts and circumstances within [the police officer’s]
+
+knowledge and of which [he] had reasonably trustworthy information were sufficient to warrant a
+
+prudent [person] in believing that the [defendant] had committed or was committing an offense.”
+
+Suboh v. District Attorney’s Office of Suffolk Dist., 298 F.3d 81, 96 (1st Cir. 2002). An officer’s
+
+determination that a crime has been committed need not be “ironclad” or even “highly probable”; it
+
+need only have been “reasonable” to satisfy the standard of probable cause. United States v.
+
+Winchenbach, 197 F.3d 548, 555-56 (1st Cir. 1999); see also, e.g., Roche v. John Hancock Mut. Life
+
+Ins. Co., 81 F.3d 249, 255 (1st Cir. 1996) (“[O]ne who asserts the existence of probable cause is not
+
+a guarantor either of the accuracy of the information upon which he has reasonably relied or of the
+
+ultimate conclusion that he reasonably drew therefrom.”).
+
+       While the “threshold for probable cause in a criminal case is low[,]” Suboh, 298 F.3d at 96, I
+
+conclude, upon careful review of the testimony adduced at hearing and examination of the knife that
+
+Gagne seized from the defendant’s right front pocket, see Gov’t Exh. 19, that LPD officers did not have
+
+probable cause to arrest the defendant for the crime of trafficking in dangerous knives. The statute in
+
+issue, 17-A M.R.S.A. § 1055, provides, in relevant part:
+
+       A person is guilty of trafficking in dangerous knives, if providing he has no right to do
+       so, he . . . knowingly possesses . . . any knife which has a blade which opens
+       automatically by hand pressure applied to a button, spring or other device in the handle
+
+                                                  24
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 25 of 36                                        PageID #: 364
+
+
+
+         of the knife, or any knife having a blade which opens or falls or is ejected into position
+         by the force of gravity, or by an outward, downward or centrifugal thrust or movement.
+
+17-A M.R.S.A. § 1055(1). As the Law Court has noted, section 1055 targets, inter alia, butterfly
+
+knives, the use of which it has described as follows: “[T]he wielder releases one of the halves of the
+
+handle and through a combination of gravity and centrifugal force, the latter generated by a movement
+
+of the arm or wrist, the wielder swings that half of the handle around until it meets the other half.
+
+These forces also swing the blade into position.” State v. Michael M., 772 A.2d 1179, 1180-81 n.1
+
+(Me. 2001) (citation and internal punctuation omitted) (emphasis in original).
+
+         The knife in question plainly does not meet the any of the requisites of section 1055. It has no
+
+opening mechanism whatsoever; it is nothing more than a solid piece of metal housed in a black cloth
+
+sheath. The facts and circumstances within LPD officers’ knowledge therefore were insufficient to
+
+warrant a prudent person in believing that the defendant had committed that particular offense.
+
+         Nonetheless, I agree with the government that, at the moment of the arrest, LPD officers did
+
+possess probable cause to believe that the defendant was committing the crime of carrying a concealed
+
+dangerous weapon. The statute in question, 25 M.R.S.A. § 2001, as in effect on July 15, 2003,
+
+provided:
+
+         No person may display in a threatening manner, or wear under his clothes or conceal
+         about his person, any firearm, slung shot, knuckles, bowie knife, dirk, stiletto or other
+         dangerous or deadly weapons usually employed in the attack on or defense of a person,
+         unless excepted by a provision of law.
+
+25 M.R.S.A. § 2001 (2003).12 It listed five exceptions pertaining to: (i) permits to carry concealed
+
+firearms, (ii) disabling chemicals, (iii) hunting knives, (iv) law-enforcement and corrections officers
+
+and (v) private investigators. See id.
+
+12
+  Section 2001 was repealed effective July 1, 2004 and superseded on that date by 25 M.R.S.A. § 2001-A. See Historical and
+(continued on next page)
+
+
+                                                           25
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 26 of 36                            PageID #: 365
+
+
+
+         The knife that Gagne seized from the defendant is a four-inch-long throwing knife bearing the
+
+logo “Special Forces,” accompanied by an etching of a human skull wearing a beret. See Gov’t Exh.
+
+19. No one reasonably could mistake it for an ordinary kitchen or pocket knife. It fairly can be said to
+
+resemble a weapon.
+
+         A reasonable officer standing in Gagne’s and Levesque’s shoes on the morning of July 15,
+
+2003 (i) would have known that the knife had been concealed on the defendant’s person,
+
+(ii) reasonably could have believed based on the knife’s appearance that it was a “dangerous or
+
+deadly weapon[] usually employed in the attack on or defense of a person[,]” and (iii) would not have
+
+been aware of any fact or circumstance tending to qualify the defendant for any of the five enumerated
+
+exceptions to the concealed-weapons prohibition. LPD officers thus had probable cause to arrest the
+
+defendant for carrying a concealed weapon in violation of 25 M.R.S.A. § 2001. For purposes of
+
+Fourth Amendment analysis, the fact that Gagne and Levesque did not actually arrest the defendant for
+
+that crime is immaterial. See, e.g., United States v. Jones, 2005 WL 3454678, No. 04-1606, slip op.
+
+at 12-13 (1st Cir. Dec. 19, 2005) (“As the Supreme Court has recently reiterated, . . . the probable
+
+cause inquiry is not necessarily based upon the offense actually invoked by the arresting officer but
+
+upon whether the facts known at the time of the arrest objectively provided probable cause to arrest.
+
+Thus it is irrelevant that the booking officer cited Jones for ‘intent to rob while armed.’ If, on the facts
+
+known to the arresting officers, there was probable cause to believe he was committing another crime,
+
+the arrest was valid.”) (citation omitted).
+
+         To summarize, I conclude that (i) officers had reasonable and articulable suspicion to conduct
+
+a Terry-type investigation of the defendant, and (ii) at the time of his arrest, they possessed probable
+
+____________________________
+Statutory Notes to 25 M.R.S.A. § 2001; see also 25 M.R.S.A. § 2001-A.
+
+
+                                                         26
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 27 of 36                        PageID #: 366
+
+
+
+cause to arrest him, albeit not on the charge for which he actually was then arrested. Their conduct on
+
+July 15, 2003 thus did not violate the defendant’s Fourth Amendment rights.
+
+                            2. Statements: Asserted Miranda Violations
+
+        The defendant identifies two discrete Miranda violations, arguing as an initial matter that his
+
+July 15, 2003 statements regarding his identity and criminal history were elicited in the absence of a
+
+required Miranda warning. See Motion To Suppress at 8. In response, the government invokes the
+
+so-called “routine booking” exception to the Miranda rule, see Opposition at 14, which “exempts
+
+from Miranda’s coverage questions to secure the biographical data necessary to complete booking or
+
+pretrial services[,]” Pennsylvania v. Muniz, 496 U.S. 582, 601 (1990) (citation and internal
+
+quotation marks omitted).
+
+        Inasmuch as appears, officers queried the defendant as to his identity and his criminal history
+
+as part of their quest to confirm that he was indeed Evans Etrons Stroman. Nonetheless, that is not the
+
+end of the analysis: Although the routine-booking exception is “phrased in terms of the officer’s
+
+intention, the inquiry into whether [it] is thus inapplicable is actually an objective one: whether the
+
+questions and circumstances were such that the officer should reasonably have expected the question
+
+to elicit an incriminating response.” United States v. Reyes, 225 F.3d 71, 76-77 (1st Cir. 2000). As
+
+the First Circuit has further elucidated:
+
+        [W]e think that it would be a rare case indeed in which asking an individual his name,
+        date of birth, and Social Security number would violate Miranda. We can imagine
+        situations, of course, that would present a closer case than this one. For example,
+        asking a person’s name might reasonably be expected to elicit an incriminating
+        response if the individual were under arrest for impersonating a law enforcement
+        officer or for some comparable offense focused on identity; likewise, asking an
+        individual’s date of birth might be expected to elicit an incriminating response if the
+        individual were in custody on charges of underage drinking; and questions about an
+        individual’s Social Security number might be likely to elicit an incriminating response
+        where the person is charged with Social Security fraud. In such scenarios, the
+
+
+                                                  27
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 28 of 36                        PageID #: 367
+
+
+
+       requested information is so clearly and directly linked to the suspected offense that we
+       would expect a reasonable officer to foresee that his questions might elicit an
+       incriminating response from the individual being questioned. In contrast, the appellant
+       here was being booked on charges of participating in a criminal drug conspiracy, to
+       which his name, date of birth, and Social Security number bore no direct relevance.
+
+Id. at 77. At hearing, counsel for the defendant posited that questions regarding the defendant’s
+
+criminal history were reasonably likely to elicit an incriminating response because they bore on
+
+whether he was a felon in possession of a firearm. Nonetheless, the defendant was questioned prior to
+
+discovery of the firearm at 54 Knox. Police could not reasonably have been expected to foresee that
+
+they might be laying the predicate for a charge related to firearm possession. The government carries
+
+its burden of demonstrating that the circumstances surrounding the July 15, 2003 statements meet the
+
+routine-booking exception.
+
+       The defendant next asserts that his December 22, 2003 statements were elicited in violation of
+
+Miranda because obtained without benefit of a Miranda warning. See Motion To Suppress at 9.
+
+Nonetheless, Campbell had given the defendant a Miranda warning just three days earlier, on
+
+December 19, 2003, and reminded him at the start of the December 22 interview that his Miranda
+
+rights still were operative.    In circumstances such as these, courts have discerned no Miranda
+
+violation. See, e.g., United States v. Clay, 408 F.3d 214, 221-22 (5th Cir. 2005) (“Clay argues that
+
+Officer Rabb’s failure to advise him of his Miranda rights before he filled out the Bill of Particulars
+
+renders the form inadmissible. Clay fails to explain, however, why the Miranda warning officers
+
+gave him two days earlier, at the time of his arrest, was no longer effective. While the passage of time
+
+between a defendant’s receipt of his Miranda rights and his confession may be a factor in determining
+
+the voluntariness of the confession, the passage of time is not itself necessarily sufficient to render
+
+Miranda warnings ineffective.”); United States. v. Rodriguez-Preciado, 399 F.3d 1118, 1128-29 (9th
+
+Cir.), modified on other grounds, 416 F.3d 939 (9th Cir. 2005) (officers were not required to
+
+                                                  28
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 29 of 36                        PageID #: 368
+
+
+
+readminister Miranda warnings to suspect on second day of interrogation, in circumstances in which
+
+“there were no intervening events which might have given Rodriguez-Preciado the impression that his
+
+rights had changed in a material way”); Brewer v. Yearwood, 30 Fed. Appx. 713, 714 (9th Cir. 2002)
+
+(“[W]e reject Brewer’s argument that the authorities were obliged to provide fresh Miranda warnings
+
+before the second interview or before the initiation of questioning by the second interviewer. The
+
+circumstances of Brewer’s detention had not changed so seriously that his answers no longer were
+
+voluntary, knowing, and intelligent. He could still recall the Miranda warnings given the day before,
+
+and there is no evidence of coercion.”) (citations omitted).
+
+       The government accordingly meets its burden of demonstrating that requisite Miranda
+
+warnings were given or an exception to the need for such warnings pertained.
+
+                            3. Asserted Sixth-Amendment Violations
+
+       The defendant next asserts that Campbell and Clifford interviewed him in December 2003 in
+
+violation of the Sixth Amendment right to counsel that attached in connection with his state
+
+prosecution. See Motion To Suppress at 9-10. Alternatively, he suggests, that right was violated
+
+when state and federal authorities colluded to end-run its protections. See id. at 10-11.
+
+       During the pendency of the instant motion, the First Circuit handed down a case definitively
+
+resolving the first of the defendant’s points. In United States v. Coker, 2005 WL 3536544, No. 04-
+
+2154 (1st Cir. Dec. 28, 2005), the First Circuit held that, in accordance with the so-called “dual
+
+sovereignty doctrine,” a right to counsel that attaches in connection with a state prosecution does not
+
+attach to an identical, uncharged federal offense. See Coker, No. 04-2154, slip op. at 6-7, 18. Thus,
+
+federal agents did not run afoul of any Sixth Amendment right arising from the defendant’s state
+
+prosecution when questioning him with respect to the uncharged federal offense.
+
+       In any event, as the government points out, even assuming arguendo that the defendant did not
+
+                                                  29
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 30 of 36                          PageID #: 369
+
+
+
+face the dual-sovereignty bar, his premise would miss the mark for at least two reasons: (i) the knife-
+
+possession and drug-distribution offenses for which he was prosecuted by the state are separate and
+
+distinct from the firearms-possession charge that federal authorities were investigating, and, (ii) in any
+
+event, his Sixth Amendment right to counsel had terminated prior to his questioning by Campbell in
+
+December 2003. See Opposition at 17-18.
+
+        The First Circuit has observed:
+
+        The right to counsel attaches only upon the initiation of adversary judicial criminal
+        proceedings against the defendant, and thereafter the right applies to all critical stages
+        of the prosecution, before, during and after trial. After the right to counsel has
+        attached, the government and its agents are constitutionally prohibited from
+        deliberately seeking information from an accused in the absence of defense counsel.
+        The right to counsel is offense specific, however, so an accused charged with one
+        crime cannot invoke a right to counsel with respect to other uncharged crimes.
+
+United States v. Bartelho, 129 F.3d 663, 674-75 (1st Cir. 1997) (citations and internal quotation
+
+marks omitted); see also, e.g., Coker, No. 04-2154, slip op. at 6 (The “right to counsel does not attach
+
+until a prosecution is commenced, that is, at or after the initiation of adversary judicial criminal
+
+proceedings – whether by way of formal charge, preliminary hearing, indictment, information, or
+
+arraignment.”) (citation and internal quotation marks omitted).
+
+        There is no evidence that the State ever initiated “adversary judicial criminal proceedings”
+
+against the defendant with respect to the charge of possession of firearm by a felon. Hence, even
+
+assuming arguendo – contrary to the First Circuit’s holding in Coker – that the right to counsel arising
+
+upon prosecution of a state crime applied to the investigation of a parallel, uncharged federal crime,
+
+no such right arose in this case. See, e.g., United States v. Nocella, 849 F.2d 33, 37 (1st Cir. 1988)
+
+(“[W]e conclude rather easily that, even after the state marijuana charge was proffered, it was entirely
+
+proper for the task force to continue its investigation of defendant’s suspected criminal involvement in
+
+other offenses, such as dealing harder drugs.”).
+
+                                                   30
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 31 of 36                          PageID #: 370
+
+
+
+        In any event, as the government points out, see Opposition at 17-18, the defendant’s Sixth
+
+Amendment right to counsel arising from the state prosecution terminated before Campbell
+
+interviewed him in December 2003. On November 5, 2003 the defendant pleaded guilty to one state
+
+charge, and the remaining state charges against him were dismissed. His Sixth Amendment right to
+
+counsel with respect to those charges ended at that time. See, e.g., United States ex rel. Espinoza v.
+
+Fairman, 813 F.2d 117, 124-25 (7th Cir. 1987), abrogated on other grounds as recognized in
+
+United States v. LaGrone, 43 F.3d 332 (7th Cir. 1994) (“The Sixth Amendment right vests when an
+
+individual becomes the accused. From that point on the accused is entitled to have an attorney present
+
+at all critical stages of the prosecution. This right continues for as long as the individual remains the
+
+accused. That is, until the individual is either convicted or freed by reason of acquittal or dismissal of
+
+the charges.”) (citations and internal punctuation omitted).
+
+        As the defendant suggests, see Motion To Suppress at 10, “collusion by the prosecutorial
+
+authorities to circumvent the right to counsel may cause Sixth Amendment protection to bridge the gap
+
+between separate and non-intertwined offenses[,]” United States v. Martinez, 972 F.2d 1100, 1105
+
+(9th Cir. 1992). However, the collusion exception pertains only if a defendant “proffer[s] evidence
+
+sufficient to establish a prima facie case that the two prosecutions were for the same offense.” Coker,
+
+No. 04-2154, slip op. at 15 (citation and internal quotation marks omitted). “In other words, [a
+
+defendant] must produce some evidence tending to prove that one sovereign was a pawn of the other,
+
+with the result that the notion of two supposedly independent prosecutions is merely a sham.” Id.
+
+(citation and internal punctuation omitted); see also, e.g., Guzman, 85 F.3d at 827 (recognizing a
+
+“narrow” exception to rule that double jeopardy does not bar parallel state, federal prosecutions when
+
+“one sovereign so thoroughly dominates or manipulates the prosecutorial machinery of another that the
+
+latter retains little or no volition in its own proceedings”).
+
+                                                   31
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 32 of 36                        PageID #: 371
+
+
+
+        The defendant falls short of making out even a prima facie case of collusion. No evidence
+
+was adduced at hearing from which one could conclude, either directly or by reasonable inference,
+
+that State or federal authorities dominated or manipulated each other in this case. From all that
+
+appears, the State decided it lacked sufficient evidence to press a felon-in-possession charge against
+
+the defendant. It made a garden-variety referral to federal authorities for investigation of possible
+
+federal firearms-related charges. It then proceeded, on its own timetable, to prosecute the defendant
+
+on other charges. For their part, federal investigators conducted an independent investigation on their
+
+own timetable. One might speculate, based on the fact that Campbell initiated his investigation in July
+
+2003 but did not question the defendant until December 2003 (when his Sixth Amendment right to
+
+counsel had lapsed) that Campbell schemed to avoid involvement of the defendant’s counsel, George
+
+Hess. However, Campbell explained that (i) he did not want to interview the defendant until after he
+
+received the results of the MSP’s fingerprint analysis, and (ii) he did not receive those results until
+
+early December 2003. This is an uncontroverted, and perfectly reasonable, explanation for the timing
+
+of the interview.
+
+        In sum, the government carries its burden of demonstrating that the defendant’s Sixth
+
+Amendment right to counsel was not violated, and the defendant fails to make out a prima facie case of
+
+collusion in violation of that right.
+
+                            4. Challenge to Voluntariness of Confession
+
+        I turn to the defendant’s final assertion: that his confession was extracted involuntarily, as a
+
+result of promises and/or threats, in violation of the Fifth Amendment’s protection against self-
+
+incrimination and the due-process clause of the Fourteenth Amendment. See Motion To Suppress at
+
+11. The government rejoins that the defendant’s confession was voluntary and that he voluntarily and
+
+knowingly waived his Miranda rights. See Opposition at 14-18. I agree.
+
+                                                  32
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 33 of 36                        PageID #: 372
+
+
+
+       As the First Circuit has noted, “The requirement that a confession must be voluntary in order to
+
+be admitted into evidence rests on two constitutional bases: the Fifth Amendment right against self-
+
+incrimination and the Due Process Clause of the Fourteenth Amendment.”               United States v.
+
+Faulkingham, 295 F.3d 85, 90 (1st Cir. 2002) (citation and internal quotation marks omitted). To the
+
+extent the defendant makes a Fifth Amendment argument, he argues, in essence, that statements were
+
+elicited in non-compliance with Miranda. See, e.g., id. (“Faulkingham’s statements were obtained in
+
+violation of the Fifth Amendment because he was not given a Miranda warning.”); Dickerson v.
+
+United States, 530 U.S. 428, 435 (2000) (“[In Miranda, we] concluded that the coercion inherent in
+
+custodial interrogation blurs the line between voluntary and involuntary statements, and thus heightens
+
+the risk that an individual will not be accorded his privilege under the Fifth Amendment . . . not to be
+
+compelled to incriminate himself.”) (citation and internal quotation marks omitted). To the extent he
+
+presses a Fourteenth Amendment voluntariness argument, the government bears the burden of showing,
+
+based on the totality of the circumstances, that investigating agents neither “broke” nor overbore his
+
+will. Chambers v. Florida, 309 U.S. 227, 239-40 (1940).
+
+       As the First Circuit recently has summarized the confluence of these concepts:
+
+       Determining the validity of a Miranda waiver usually entails two separate inquiries.
+       The waiver must be both voluntary, and knowing and intelligent. A waiver is
+       voluntary when it is the product of a free and deliberate choice rather than
+       intimidation, coercion, or deception. A waiver is knowing and intelligent when made
+       with a full awareness of both the nature of the right being abandoned and the
+       consequences of the decision to abandon it. Both inquiries are judged based on the
+       totality of the circumstances surrounding the interrogation. Assuming there has been no
+       Miranda violation, then the standard shifts: Only confessions procured by coercive
+       official tactics should be excluded as involuntary.
+
+United States v. Bezanson-Perkins, 390 F.3d 34, 39-40 (1st Cir. 2004) (citations and internal
+
+punctuation omitted) (emphasis in original).
+
+       I first consider the voluntariness of the defendant’s Miranda waiver. From all that appears,
+
+                                                  33
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 34 of 36                        PageID #: 373
+
+
+
+the defendant had no substantive communication at all with Campbell and Clifford prior to being read
+
+his Miranda rights and agreeing to waive them. He chose to talk to the agents; he was not intimidated,
+
+coerced or tricked into doing so. At hearing he testified, in effect, that his waiver was not knowing
+
+and intelligent – that is, that he did not understand his rights. As noted above, I do not find this
+
+testimony credible. The defendant told Campbell at the time that he did understand each right as it was
+
+read to him. From all that appears, this was true. Although he was young (then 20 years old), he was
+
+no stranger to the criminal-justice system. Twice prior to his July 2003 arrest he had been jailed for
+
+crimes. On both of those prior occasions, he had been read his Miranda rights and had been
+
+represented by counsel. He had also been represented by counsel in connection with the state charges
+
+stemming from his July 2003 arrest. At no time during those proceedings had he made any confession
+
+concerning possession of the gun retrieved at 54 Knox. Finally, the defendant had an eighth-grade
+
+education and could read and write. There is no evidence that his mental faculties were impaired or
+
+that he was otherwise, for any reason, incapable of understanding his rights. Nor is there any evidence
+
+that the defendant’s circumstances changed between December 19, 2003, when he first was advised of
+
+and waived his Miranda rights, and December 22, 2003, when he contacted agents to state that he
+
+wanted to come clean. I find that the government has carried its burden of proving that on December
+
+19, 2003 the defendant voluntarily, knowingly and intelligently waived his Miranda rights for
+
+purposes of both the December 19 and December 22, 2003 interviews with agents.
+
+       The question remains whether, despite, a voluntary, knowing and intelligent waiver of
+
+Miranda rights, the defendant’s confession nonetheless was extracted by coercive official tactics.
+
+See, e.g., Bezanson-Perkins, 390 F.3d at 40 (“There are surely situations in which statements made
+
+after a valid Miranda waiver are subject to suppression, for a number of reasons. For example,
+
+police may not get a Miranda waiver and then beat a confession out of a suspect and hope to have the
+
+                                                  34
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 35 of 36                         PageID #: 374
+
+
+
+confession admitted into evidence. Such a confession would be procured by coercive tactics. Nor
+
+may police, against the suspect’s wishes, induce intoxication or a drugged state such that any further
+
+statement by the suspect is coerced.”) (citations omitted); Rice v. Cooper, 148 F.3d 747, 750 (7th Cir.
+
+1998) (in context of voluntariness of confession, “[t]he relevant constitutional principles are aimed not
+
+at protecting people from themselves but at curbing abusive practices by public officers.”) (citation
+
+omitted).
+
+        I am satisfied that in this case the evidence as a whole indicates that the defendant’s will was
+
+not overborne by coercive police activity. As discussed above, I do not find credible the defendant’s
+
+testimony that Campbell promised him he would be released on his scheduled release date if he
+
+confessed and alternatively threatened that he would not be released on that date if he did not confess.
+
+ At hearing, defense counsel suggested that the fact that his client was freed on his scheduled release
+
+date – after confessing – tended to corroborate that such a threat and promise had been made. This is
+
+highly improbable. The defendant’s release date was December 29, 2003. The government
+
+introduced evidence that, after the December 22, 2003 interview, Campbell requested a Nexus Report
+
+for purposes of demonstrating that the firearm in question had traveled in interstate commerce. That
+
+report was not completed until February 5, 2004. Campbell then forwarded the case to the United
+
+States Attorney’s Office for a decision whether to prosecute. There is no reason to believe the
+
+government would have been in a position to seek to detain the defendant any earlier than this point in
+
+time. See, e.g., Carchman v. Nash, 473 U.S. 716, 719 (1985) ( “A detainer is a request filed by a
+
+criminal justice agency with the institution in which a prisoner is incarcerated, asking the institution
+
+either to hold the prisoner for the agency or to notify the agency when release of the prisoner is
+
+imminent. Detainers generally are based on outstanding criminal charges, outstanding parole- or
+
+probation-violation charges, or additional sentences already imposed against the prisoner.”) (citations
+
+                                                   35
+Case 2:05-cr-00066-DBH Document 52 Filed 01/09/06 Page 36 of 36                       PageID #: 375
+
+
+
+omitted).
+
+       The government accordingly carries its burden of demonstrating that the defendant voluntarily,
+
+knowingly and intelligently waived his Miranda rights and that his December 22, 2003 confession
+
+was not the product of coercive official tactics.
+
+                                          III. Conclusion
+
+       For the foregoing reasons, I DENY the Motion To Strike and recommend that the Motion To
+
+Suppress be DENIED.
+
+
+                                              NOTICE
+
+
+        A party may file objections to those specified portions of a magistrate judge’s report or
+proposed findings or recommended decisions entered pursuant to 28 U.S.C. § 636(b)(1)(B) for
+which de novo review by the district court is sought, together with a supporting memorandum,
+within ten (10) days after being served with a copy thereof. A responsive memorandum shall be
+filed within ten (10) days after the filing of the objection.
+
+        Failure to file a timely objection shall constitute a waiver of the right to de novo review by
+the district court and to appeal the district court’s order.
+
+
+       Dated this 9th day of January, 2006
+
+                                                         /s/ David M. Cohen
+                                                         David M. Cohen
+                                                         United States Magistrate Judge
+
+
+
+
+                                                    36
+

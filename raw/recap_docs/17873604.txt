@@ -1,0 +1,422 @@
+                      UNITED STATES DISTRICT COURT
+                           DISTRICT OF MAINE
+
+UNITED STATES OF AMERICA                 )
+                                         )
+      v.                                 )
+                                         )         1:12-cr-00163-JAW
+DARLENE FORD                             )
+
+
+                       ORDER ON MOTION IN LIMINE
+
+      In 2004, James F. Ford and Darlene Ford were living as husband and wife in
+
+Wakefield, Massachusetts, when the police executed a search warrant of their
+
+premises. The search included both their residence and a home across the street to
+
+which they had access and revealed a substantial marijuana grow operation. Mr.
+
+Ford, but not Ms. Ford, was charged and convicted of a state felony, possession of
+
+marijuana with the intent to distribute. Ms. Ford now faces federal charges in the
+
+District of Maine for engaging in a conspiracy with her husband to manufacture
+
+marijuana, maintaining a drug-involved place, and aiding and abetting Mr. Ford’s
+
+unlawful possession of a firearm. She seeks to obtain a pretrial ruling forbidding
+
+the Government from admitting evidence of the events in Massachusetts in 2004.
+
+Because evidence of the events in 2004 is relevant to her knowledge of her
+
+husband’s prohibited status for purposes of the firearms charge, the Court
+
+concludes that the evidence is admissible on the firearms charge. Because evidence
+
+of her involvement with the marijuana grow operation has special relevance to the
+
+drug charges and because its probative value is not outweighed by unfair prejudice,
+
+the evidence is admissible under Federal Rule of Evidence 404(b), subject to a
+
+
+
+                                         1
+limiting instruction. The Court denies the Defendant’s motion in limine seeking
+
+exclusion.
+
+I.     STATEMENT OF FACTS
+
+       With trial scheduled to start on Tuesday, February 4, 2014, Darlene Ford
+
+filed a motion in limine on Friday, January 31, 2014, to exclude evidence of co-
+
+defendant James F. Ford’s conduct leading to his 2004 commonwealth of
+
+Massachusetts conviction for possession of marijuana with the intent to distribute.
+
+Def.’s Mot. in Limine (ECF No. 301) (Def.’s Mot.). The Government responded on
+
+Monday, February 3, 2014. Gov’t’s Resp. in Opp’n to Def.’s Mot. in Limine (ECF No.
+
+306) (Gov’t’s Opp’n).
+
+       Darlene Ford stands charged with three federal felonies: (1) conspiring with
+
+others, including James F. Ford, her husband, to manufacture 100 or more
+
+marijuana plants; (2) maintaining a drug involved premises in Monroe, Maine; and
+
+(3) aiding and abetting James F. Ford’s illegal possession of a firearm. 1
+
+Superseding Indictment (ECF No. 80). Mr. Ford’s prohibited status arises from a
+
+2004 Massachusetts felony conviction for the possession of marijuana with the
+
+intent to distribute. Id. at 4; Jury Verdict Form at 2 (ECF No. 250).
+
+       This is the second jury trial for Ms. Ford on these charges. In September
+
+2013, on the third day of trial, the jury deadlocked and the Court declared a
+
+mistrial. Order (ECF No. 208). At the prior trial, the Government called as a
+
+1      James F. Ford was also charged in the same indictment with four counts: (1) conspiracy to
+manufacture marijuana; (2) manufacture of marijuana; (3) maintaining a drug involved premises;
+and (4) being a felon in possession of a firearm. Superseding Indictment (ECF No. 80). On
+November 21, 2013, a federal jury convicted Mr. Ford of each charged crime. Verdict Form (ECF No.
+250).
+
+                                               2
+witness James Bruce, a Massachusetts state trooper, who investigated the
+
+circumstances surrounding the 2004 conviction. Partial Tr. of Proceedings at 117,
+
+126-36 (ECF No. 226) (Bruce Test.). Trooper Bruce testified that on October 11,
+
+2002, he participated in the execution of a search warrant for 2 Fellsmere Avenue,
+
+Wakefield, Massachusetts. Id. 126:6-17. He said that he arrived at the residence
+
+and knocked on the door, but no one answered.          Id.   Through his previous
+
+investigation, he was aware that the house across the street at 5 Fellsmere Avenue
+
+was also associated with the operation at 2 Fellsmere; he went across the street and
+
+knocked on the door at 5 Fellsmere. Id. 126:18-21. After there was no answer at 5
+
+Fellsmere, he returned to 2 Fellsmere and, using a battering ram, made a forced
+
+entry into 2 Fellsmere. Id. 126:22-24. The house at 2 Fellsmere was not inhabited.
+
+Id. 127:1-2. However, inside 2 Fellsmere, there was a strong odor of marijuana, but
+
+he could not enter the second floor of the house because a locked grate blocked
+
+access. Id. 127:3-7.
+
+      While pondering how to get beyond the locked grate, Trooper Bruce noticed
+
+that the Defendant and her husband had pulled into the driveway at 5 Fellsmere.
+
+Id. 127:10-14. Mr. Ford came over the 2 Fellsmere and unlocked the grate. Id.
+
+127:17-22.   Once on the second floor, Trooper Bruce discovered an extensive
+
+marijuana grow operation, consisting of over 100 plants in three different rooms
+
+complete with grow lamps, periodicals on how to grow marijuana, a digital scale and
+
+similar items. Id. 127:23-128:6.
+
+
+
+
+                                         3
+      After completing the search of 2 Fellsmere, Trooper Bruce went across the
+
+road to 5 Fellsmere, but the Fords had left. Id. 128:20-24. Trooper Bruce noticed
+
+the odor of marijuana coming from 5 Fellsmere and went inside. Id. 128:24-129:1-3.
+
+Although he was able to enter the second floor at 5 Fellsmere, he found his way to a
+
+second story bedroom blocked by a locked grate similar to the one at 2 Fellsmere.
+
+Id. 129:1-8. Within another ungated bedroom, Trooper Bruce said he found maybe
+
+two dozen marijuana plants. Id. 129:9-12. The Trooper was ultimately able to gain
+
+access to the gated bedroom and found a butcher-block table consistent with use for
+
+marijuana preparation. Id. 129:14-21. Inside this room was a stairway that led to a
+
+third floor, where there were two more rooms of growing marijuana plants,
+
+complete with a filtration system and heat lamps. Id. 129:22-130-1. Trooper Bruce
+
+said that the bedroom at 5 Fellsmere across from the barricaded door was James
+
+and Darlene’s bedroom. Id. 130:11-24.
+
+II.   THE PARTIES’ POSITIONS
+
+      A.     Darlene Ford’s Motion
+
+      Darlene Ford acknowledges that evidence of James F. Ford’s 2004 felony
+
+conviction is admissible at trial, but she objects to evidence of the facts underlying
+
+the conviction. Def.’s Mot. at 1. Ms. Ford contends that this evidence would be
+
+admissible only under Rule of Evidence 404(b) and, citing Huddleston v. United
+
+States, 485 U.S. 681 (1988), Ms. Ford objects to allowing the Government to “parade
+
+past the jury a litany of potentially prejudicial similar acts that have been
+
+established or connected to the defendant only by unsubstantiated innuendo.” Id.
+
+
+
+                                          4
+at 689. Ms. Ford maintains that there is no evidence that she knew about Mr.
+
+Ford’s status as a felon or his interest in growing marijuana. Def.’s Mot. at 3. She
+
+is worried that the jury will use Trooper Bruce’s evidence to conclude that Ms. Ford
+
+is a bad person or that she has criminal propensities. Id. at 3-4.
+
+       B.    The Government’s Response
+
+       In its response, the Government disagrees that Trooper Bruce’s testimony
+
+about the 2004 search would be admissible only under Rule of Evidence 404(b).
+
+Gov’t’s Opp’n at 1-2. The Government points out that it is required to prove to the
+
+jury that Ms. Ford knew that her husband had been previously convicted of a
+
+felony. Id. at 2. The Government argues that evidence of the extensive nature of
+
+the 2004 grow operation is probative evidence from which a jury could infer that
+
+Ms. Ford knew that her husband was later convicted of the Massachusetts
+
+marijuana felony. Id.
+
+       The Government also contends that Trooper Bruce’s testimony is admissible
+
+under Rule 404(b) to prove Ms. Ford’s knowledge, intent and absence of mistake or
+
+accident with regard to the conspiracy and drug premises charges. Id. at 2-3. The
+
+Government says that this evidence is particularly relevant to Count III, the drug
+
+premises count, because it includes a “willful blindness” scienter element. Id. at 4.
+
+III.   DISCUSSION
+
+       A.    The Firearms Charge
+
+       In order to prove that Darlene Ford aided and abetted the possession of a
+
+firearm by a felon, namely her husband, James F. Ford, the Government must
+
+
+
+                                          5
+prove that Ms. Ford knew that James F. Ford had been convicted of a felony. 2
+
+United States v. Gardner, 488 F.3d 700, 716 (6th Cir. 2007). To prove that Ms. Ford
+
+knew her husband was a felon, the Government intends to produce evidence: (1)
+
+that Ms. Ford was married to James F. Ford; (2) that they were living together; (3)
+
+that there was a significant marijuana grow at their home in Wakefield,
+
+Massachusetts in 2004; (4) that there was a significant marijuana grow in the home
+
+to which her husband had access across the street from their home in Wakefield; (5)
+
+that Ms. Ford drove in the driveway of their home while the police were searching
+
+the home across the street; (6) that Mr. Ford was charged with the Massachusetts
+
+felony of cultivating marijuana; and (7) that he was convicted of that charge. These
+
+facts, including the nature and extent of the marijuana grow in Wakefield,
+
+Massachusetts in 2004 would go directly to whether Ms. Ford had knowledge that
+
+her husband was a convicted felon. On the firearms charge, therefore, this evidence
+
+is not evidence of other crimes or bad acts under Rule 404(b) on the part of Ms.
+
+Ford. It is instead direct evidence that goes to her knowledge of his prohibited
+
+status.    On this issue, it clearly meets the Rule 403 standard for admissibility
+
+because its probative value of her knowledge of his felony status is not
+
+“substantially outweighed by a danger of . . . unfair prejudice, confusion of the
+
+issues, misleading the jury, undue delay, wasting time, or needlessly presenting
+
+cumulative evidence.” FED. R. EVID. 403.
+
+2       “With regard to aiding and abetting a felon in possession of a firearm, there is a circuit split
+as to whether the aider and abettor must know or should have known that the principal was a
+convicted felon.” United States v. Ecklin, 837 F. Supp. 2d 589, 592 (E.D. Va. 2011) (discussing cases).
+Here, the Government concedes that it must prove that Ms. Ford knew or had reason to know that
+James F. Ford was a convicted felon. Gov’t’s Req. Jury Instrucs. at 11-12 (ECF No. 276).
+
+                                                   6
+      B.     The Marijuana Charges
+
+      Evidence of the facts underlying the 2004 marijuana charge against James F.
+
+Ford is admissible in the drug charges against Darlene Ford under Federal Rule of
+
+Evidence 404(b). Ms. Ford was not charged with any crime in 2004, but according
+
+to Trooper Bruce’s testimony, she was living in a house where marijuana was being
+
+grown. This testimony, if believed by the jury, would be evidence of Ms. Ford’s
+
+commission of a prior bad or criminal act, not probative of her bad character or
+
+propensity to commit the charged crimes, but admissible to prove her knowledge,
+
+intent, preparation, plan, and absence of mistake.
+
+      Federal Rule of Evidence 404(b) requires that “[e]vidence of a crime, wrong,
+
+or other act is not admissible to prove a person's character in order to show that on
+
+a particular occasion the person acted in accordance with the character.” The First
+
+Circuit directs that courts engage in a two-step process when evaluating evidence of
+
+prior acts under Rule 404(b). United States v. Varoudakis, 233 F.3d 113, 118 (1st
+
+Cir. 2000). “First, the evidence must have ‘special relevance’ to an issue in the case
+
+such as intent or knowledge, and must not include ‘bad character or propensity as a
+
+necessary link in the inferential chain.’” Id. (quoting United States v. Frankhauser,
+
+80 F.3d 641, 648 (1st Cir. 1996)). “Second, under [Federal] Rule [of Evidence] 403,
+
+evidence that is specially relevant may still be excluded if its probative value is
+
+substantially outweighed by the danger of unfair prejudice.” Id.
+
+       Rule 404(b) contains an important limitation. “Rule 404(b) does not exclude
+
+evidence of prior crimes of persons other than the defendant.” United States v.
+
+
+
+                                          7
+Gonzalez-Sanchez, 825 F.2d 572, 583 (1st Cir. 1987). This last limitation on Rule
+
+404(b)’s scope means that Ms. Ford cannot invoke the Rule to exclude testimony
+
+about James F. Ford’s relevant prior acts themselves as evidence of Ms. Ford’s bad
+
+character or propensity. The Rule simply does not reach that far.
+
+      At the same time, Trooper Bruce’s testimony is probative of Ms. Ford’s own
+
+culpability for the events of 2004; it tends to show that she conspired with or aided
+
+and abetted James F. Ford’s criminal conduct.        To that extent, the proffered
+
+testimony requires a Rule 404(b) analysis because it is evidence of Darlene Ford’s
+
+own prior criminal acts.
+
+      The Court concludes that evidence of the prior marijuana grow operation in
+
+the Fords’ home in 2004 in Massachusetts has special relevance for Count One, the
+
+marijuana manufacturing conspiracy count, and for Count Three, the drug-involved
+
+premises count. This evidence of the events underlying the police search of the
+
+Fords’ Massachusetts residence could be viewed by a jury as probative of Ms. Ford’s
+
+knowledge of marijuana, its distinctive odor, and its growing requirements, the
+
+equipment and methods to successfully grow marijuana, her husband’s interest in
+
+marijuana production, and other factors relevant to the Government’s charges. This
+
+evidence also bears on Ms. Ford’s intent and lack of mistake or accident. All of
+
+these are permissible purposes for admission under Rule 404(b).
+
+      Finally, the Court must also determine whether the probative value of the
+
+evidence is substantially outweighed by the danger of unfair prejudice. FED. R.
+
+EVID. 403. Virtually all evidence that the Government puts on against a criminal
+
+
+
+                                         8
+defendant is “prejudicial” in some sense; if not, the prosecutor would be unlikely to
+
+present it. The concern that Rule 403 addresses is the risk of unfair prejudice; for
+
+example, the risk that the jury might be tempted to convict the defendant for
+
+reasons unrelated to evidence of the crimes charged in the indictment. It is true
+
+that there is some risk of unfair prejudice to Ms. Ford if the jury hears testimony of
+
+James F. Ford’s prior criminal activities in Massachusetts.       The jury might be
+
+tempted to convict Ms. Ford because in 2004 she was married to a lawbreaker.
+
+However, this slight risk of unfair prejudice is outweighed by the probative value of
+
+the evidence, particularly in light of the likely similar evidence of James F. Ford’s
+
+marijuana grow operation in Monroe.
+
+      Moreover, there is some risk that a jury will view evidence of Ms. Ford’s close
+
+association with a marijuana grow operation in Massachusetts to conclude that she
+
+is a person of bad character or a person with a propensity to commit crimes. Upon
+
+request of the Defendant, the Court will instruct the jury as to the limited purposes
+
+for which it may use this evidence in considering the drug charges and, in any
+
+event, that the members of the jury may not use this evidence as character
+
+evidence.
+
+      The Court DENIES Darlene Ford’s Motion in Limine (ECF No. 301).
+
+      SO ORDERED.
+
+
+                                 /s/ John A. Woodcock, Jr.
+                                  JOHN A. WOODCOCK, JR.
+                                 CHIEF UNITED STATES DISTRICT JUDGE
+
+Dated this 4th day of February, 2014
+
+                                          9
+

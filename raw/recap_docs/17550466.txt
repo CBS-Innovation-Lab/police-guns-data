@@ -1,0 +1,1733 @@
+                     UNITED STATES DISTRICT COURT
+                       DISTRICT OF MASSACHUSETTS
+
+JAMONT DUBOSE,
+     Petitioner,
+
+            v.                        CR. No. 07-10313-PBS
+                                      (Related to C.A. 11-11249-PBS)
+UNITED STATES OF AMERICA,
+     Respondent.
+
+                         MEMORANDUM AND ORDER
+                          September 23, 2011
+
+SARIS, D.J.
+                           I.   INTRODUCTION
+
+       Now pending before this Court is defendant Jamont F.
+
+Dubose’s (“Dubose”) Motion to Vacate, Set Aside, or Correct
+
+Sentence pursuant to 28 U.S.C. § 2255 (Docket No. 62), and the
+
+Government’s Initial Request for Summary Dismissal (Docket No.
+
+64).
+
+A.     Relevant Procedural History
+
+       On September 19, 2007, an Indictment was returned charging
+
+Dubose with being a felon in possession of a firearm and
+
+ammunition in violation of 18 U.S.C. § 922(g).      During the
+
+criminal proceedings, an evidentiary hearing was held on Dubose’s
+
+motion to suppress evidence, and on March 31, 2008, this Court
+
+denied the motion.    See Memorandum and Order (Docket No. 27).
+
+       On June 10, 2008, Dubose entered a change of plea and pled
+
+guilty.   On October 2, 2008, a sentencing hearing was held.     This
+
+Court found the Armed Career Criminal Act (“ACCA”), 18 U.S.C.
+§ 924(e)(1), applied to Dubose, and sentenced him to a term of
+
+imprisonment of 180 months.    See Judgment (Docket No. 39).
+
+Dubose filed a Notice of Appeal (Docket No. 40) on October 8,
+
+2008.    Thereafter, an Amended Judgment (Docket No. 47) entered.
+
+        On September 1, 2009, the United States Court of Appeals for
+
+the First Circuit (“First Circuit”) affirmed this Court’s denial
+
+of Dubose’s motion to suppress.    See Judgment (Docket No. 56);
+
+Mandate (Docket No. 59, entered Oct. 20, 2009)(denying petition
+
+for rehearing and petition for rehearing en banc); United States
+
+v. Dubose, No. 08-2382 (1st Cir. 2009).     On November 1, 2010,
+
+Dubose’s petition for writ of certiorari to the United States
+
+Supreme Court was denied.    See DuBose v. United States, 131 S.Ct.
+
+536 (2010)(No. 10-6629).
+
+        On April 25, 2011, Dubose filed a pleading entitled
+
+“Affidavit to Vacate A.C.C.A. Enhancement” (Docket No. 60).    In
+
+that pleading, Dubose requested this Court consider his motion
+
+for relief from his enhanced sentence, pursuant to 18 U.S.C.
+
+§ 3582.    He alleged that his ACCA sentence was imposed in error
+
+because one of the predicate offenses, a Massachusetts assault
+
+and battery on a police officer (“ABPO”) was based, improperly,
+
+on a plea colloquy from this prior conviction.1    He maintained
+
+
+1
+ Dubose argued that the plea colloquy was concurrent with another
+criminal case, involving a misdemeanor for simple assault, and
+
+                                   2
+that the Government had not met its initial burden of proving the
+
+predicate conviction.   In addition, Dubose argued that this Court
+
+erred in concluding that every ABPO qualified as a “violent
+
+felony” under the ACCA.
+
+     On May 13, 2011, this Court issued a Memorandum and Order
+
+(Docket No. 61) construing Dubose’s “Affidavit to Vacate
+
+A.C.C.A. Enhancement” (Docket No. 60) as a motion to
+
+modify the judgment of conviction pursuant to 18 U.S.C. § 3582.
+
+This Court denied the motion because none of Dubose’s arguments
+
+fell within the three narrow exceptions for modification set
+
+forth in 18 U.S.C. § 3582(c).2    See United States v. Dubose, 2011
+
+WL 1842825, *2 (D. Mass. 2011).
+
+B.   The Section 2255 Motion
+
+     After the denial of the § 3582 motion, on July 15, 2011,
+
+Dubose filed the instant § 2255 motion, along with an
+
+incorporated Memorandum in support (Docket No. 62).    This Court
+
+directed service of the motion and a response by the respondent.
+
+See Service Order (Docket No. 64).
+
+
+
+
+thus was not a basis for application of the ACCA.
+
+2
+ This Court also noted that there was a fundamental problem with
+Dubose’s claims because a review of the Presentence Report did
+not reveal any predicate offenses of Assault and Battery on a
+Police Officer, as Dubose argued.
+
+                                  3
+     In Dubose’s § 2255 motion, he seeks relief from his
+
+conviction and/or sentence, either by dismissal of the
+
+Indictment, or the grant of a new trial.    He raises four grounds
+
+in support, although he discusses two of these grounds together
+
+as Ground Two.    Additionally, he raises other grounds in the
+
+Memorandum in Support that are not contained in the § 2255 motion
+
+itself.   These grounds, considered together, are as follows.
+
+     1.      Challenges to Prior Convictions Used for ACCA
+             Enhancement
+
+             A.   The Assault and Battery Offense
+
+     First, Dubose contends that his Massachusetts Assault and
+
+Battery plea colloquy from the conviction (Docket No. 0607-cr-
+
+0758) did not categorically qualify as a “violent felony” under
+
+the ACCA.3    He claims that he never pled to facts constituting a
+
+
+3
+ The criminal history record summary of this state case is set
+forth in the Presentence Report (“PSR”), ¶ 40. On April 27,
+2006, Dubose was charged in the Dorchester District Court with
+Assault and Battery, and was convicted. He was sentenced on
+August 16, 2006 to 18 months probation. On February 23, 2007, he
+was detained for a violation of probation due to a new arrest.
+On March 1, 2007, he was found to be violation of probation and
+received 2.5 years in the House of Correction, 18 months
+committed, with the balance suspended and probation to March 1,
+2009, with credit for 13 days. On June 13, 2008 he was released
+and transferred into federal custody. As background, the PSR,
+¶ 40 states:
+
+     Court records reflect that the defendant was
+     represented by counsel. The complaint alleges that the
+     defendant “did assault and beat” a female victim. The
+     offense occurred on 1/28/06 in Dorchester, MA. A
+
+                                   4
+violent felony, and that, despite the charging instrument’s use
+
+of the phrase “did assault and beat,” he did not commit a crime
+
+of violence.   He also argues that the Massachusetts assault and
+
+battery statute covers offenses that are both violent and non-
+
+violent (including those that are nothing more than an offensive
+
+touching).   See Section 2255 Motion (Docket No. 62 at 4, ¶ 12).
+
+Finally, in his Memorandum in support, Dubose claims that his
+
+plea was to a simple assault, and constituted a misdemeanor
+
+because he received a sentence of 18 months probation (i.e., a
+
+term of imprisonment of 100 days or less).   See Section 2255
+
+Motion (Docket No. 62-3 at 2).   Therefore, he contends, this
+
+conviction may not be deemed to be a “violent felony” under the
+
+
+
+
+      warrant issued, and the defendant was arrested on
+      4/7/06.
+
+      Information from the Boston Police Department reflects
+      that on 1/28/06 at 3:45 p.m., officers responded to a
+      domestic violence call. The victim indicated that she
+      had an argument with her boyfriend, the defendant, over
+      use of her checking account. According to the victim,
+      when she refused to let the defendant use her account,
+      he punched her in the face. Officers observed the
+      victim to have a swollen lip with blood on it. The
+      victim refused medical attention and was advised to
+      seek a restraining order.
+
+      The Probation Office has attempted, but not yet had the
+      opportunity, to speak with the defendant’s probation
+      officer.
+
+Id.
+
+                                 5
+ACCA.
+
+             B.   The December 1, 2003 Resisting Arrest Offense
+
+        Dubose also presents a separate challenge to the use of
+
+another state conviction as a prior violent felony conviction
+
+under the ACCA.    He claims that his Resisting Arrest charge out
+
+of the Dorchester District Court (Docket No. 0307-7480H), for
+
+which he received six months in the House of Correction on June
+
+22, 2004, was not a “crime of violence.”    Id. at 2.4
+
+
+4
+ The criminal history record summary of this state case is set
+forth in the PSR, ¶ 39. On December 1, 2003, Dubose was charged
+in the Dorchester District Court with Resisting Arrest, and was
+convicted. On June 22, 2004, he received a sentence of six
+months in the House of Correction, committed, concurrent with
+Docket No. 03-7001. He was also charged with various other
+offenses, including traffic and motor vehicle offenses. The PSR,
+¶ 39 states:
+
+        Court records reflect that the defendant was
+        represented by counsel. On Count A, the defendant was
+        originally charged with Possession to Distribute a
+        Class D Drug. On Count E, the defendant was originally
+        charged with Malicious Destruction of Property Over
+        $250. Both charges were amended prior to disposition.
+        The offense occurred and the defendant was arrested on
+        11/29/03 in Dorchester, MA.
+
+        Information from the Boston Police Department reflects
+        that on 11/29/03 at 5:20 a.m., officers on patrol
+        observed a vehicle with an attached plate. Officers
+        followed the vehicle and it took off at a high rate of
+        speed. The defendant, who was operating the vehicle,
+        drove into a school parking lot and jumped out of the
+        vehicle while it was moving, causing the vehicle to
+        crash into a fence on school property. The defendant
+        fled from officers on foot and dropped a jacket that he
+        was wearing along the way. The defendant eventually
+
+                                   6
+           C.   The November 10, 2003 Drug Offense and the
+                Resisting Arrest Offense
+
+      Next, Dubose contends that his prior state convictions
+
+arising out of Massachusetts District Court cases do not amount
+
+to felonies; rather, they are misdemeanor offenses only.     Dubose
+
+argues in his Memorandum in Support that the state district
+
+courts do not have jurisdiction to sentence prisoners to a state
+
+prison.   Since he was tried in the district court, -- and not the
+
+state superior court -- he contends that his offenses may not be
+
+considered as felonies.   Thus, he asserts that his drug offenses
+
+(Docket No. 0307-cr-7001D), which ran concurrent with other
+
+charges, cannot be used to enhance his sentence under the ACCA.5
+
+Dubose does not address specifically the concurrent Resisting
+
+
+
+
+      stopped running and was arrested. Officers found six
+      plastic bags of marijuana in his jacket pockets, along
+      with a cell phone, and $150 in cash. The defendant’s
+      motor vehicle registration had been revoked and the
+      defendant acknowledged that he did not have a license.
+
+Id.
+
+5
+ The criminal history record summary of this state case is set
+forth in the PSR, ¶ 38. On November 10, 2003, Dubose was charged
+in the Dorchester District Court with Drug Violations Near a
+School/Park, Resisting Arrest, other drug offenses. On June 22,
+2004, he received a sentence of two years in the House of
+Correction, committed, concurrent with Docket No. 03-7480 and 99-
+10481-01.
+
+                                 7
+Arrest charge (Docket No. 0307-cr-7001E).6
+
+
+
+
+6
+ With respect to the underlying factual background, the PSR, ¶ 38
+states:
+
+     Court records reflect that the defendant was
+     represented by counsel. The offense occurred and the
+     defendant was arrested on 11/7/03 in Dorchester, MA.
+
+     Information from the Boston Police Department reflects
+     that on 11/7/03 at 7:20 p.m., members of the drug unit
+     observed a man making calls, counting currency, and
+     waiting in front of a Dunkin’ Donuts near Bailey Street
+     and Dorchester Avenue. Officers observed the defendant
+     pull up in a vehicle, exit the vehicle, take money from
+     the man who had been waiting, and give the man a small
+     object. Believing that a drug transaction had
+     occurred, officers stopped the man on the street, who
+     admitted to swallowing two $30 bags of drugs that he
+     had just purchased from the defendant. Other officers
+     followed the defendant’s vehicle and stopped him. As
+     they approached the defendant, they saw him putting an
+     object in his mouth and swallowing it. The defendant
+     pushed away from officers and fled, leading officers on
+     a pursuit. Officers caught the defendant, and he
+     struggled while they were placing him under arrest.
+     They noticed him gagging and then observed him spit out
+     three plastic bags containing what was believed to be
+     cocaine. Several officers were treated for injuries.
+     Upon arrest, the defendant was found in possession of
+     two plastic bags of marijuana, $536 in cash, and a cell
+     phone.
+
+Id. Dubose was convicted of the Resisting Arrest offense (Docket
+No. 0307-cr-7001E) and sentenced to six months in the House of
+Correction, concurrent with Count D (the drug violation charge).
+The Addendum to the PSR reflects that defense counsel made
+Objections to ¶¶ 37-40, and also contested the application of the
+ACCA. The Probation Officer responded to these Objections and
+made no revisions.
+
+                                8
+     2.   Challenges Based on Ineffective Assistance of Counsel
+          and District Court Error in Relying on the PSR
+
+     Second, Dubose asserts an ineffective assistance of counsel
+
+claim against his defense counsel, Attorney Daniel J. Cloherty,
+
+both as trial counsel and as appellate counsel.7   He claims that
+
+counsel failed to object to the plea colloquy with respect to the
+
+assertion that the ACCA applied to Dubose.   Id. at 5.8   He also
+
+asserts counsel failed to investigate his version of the facts
+
+and/or failed to investigate properly his past criminal history
+
+or present evidence about this, and failed to object to the PSR
+
+conclusion that he falls under the ACCA.
+
+     In the same paragraph, Dubose asserts a third ground for
+
+relief -- that this Court improperly relied on the U.S. Probation
+
+
+
+
+7
+ Although Dubose’s Motion itself contains claims of ineffective
+assistance of counsel and District Court error in finding him
+eligible for ACCA enhancement under Ground Two, his attached
+Memorandum in support intermingles these claims as part of his
+Ground One and Ground Two. See Section 2255 Motion (Docket No.
+62-2 at 1).
+
+8
+ In his Memorandum in Support, Dubose contends that Attorney
+Cloherty allowed him to be misled in court, and made him believe
+he was eligible for an ACCA enhancement. As a result, he
+accepted a plea bargain which included an ACCA enhancement.
+Additionally, Dubose contends that during the appeal process,
+Attorney Cloherty failed to raise “very substantial, serious
+issues” that he wanted him to raise, and thus the outcome of the
+decision would have been different. Dubose does not state what
+those issues were, or how or why the outcome would have been
+different. See Section 2255 Motion (Docket No. 62-4 at 1).
+
+                                9
+Office’s “misinformation” in the PSR with respect to the charging
+
+documents, in order to find Dubose eligible for an enhancement
+
+under the ACCA.   He asserts the PSR mischaracterized his past
+
+criminal history and offense conduct, leading this Court to find
+
+prior convictions constituted “violent felonies.”   He further
+
+claims this Court failed to review properly his criminal record
+
+de novo.   Section 2255 Motion (Docket No. 62 at 5).
+
+     3.    Challenges to the Conviction Based on Police Officers’
+           Alleged Violations of Law
+
+     Dubose’s fourth ground for relief challenges the validity of
+
+his conviction rather than his enhanced sentence.   He contends
+
+that his constitutional rights were violated when the Police
+
+Officers concluded they had a reasonable suspicion to stop him as
+
+they observed him approach and lean into a car in the mid-
+
+afternoon in a neighborhood that was not a high crime area.9
+
+
+9
+ This Court outlined the underlying factual background in the
+Memorandum and Order denying Dubose’s Motion to Suppress. To
+reiterate for completeness, the relevant background is as
+follows:
+
+     On February 22, 2007 at about 2:30 p.m., Boston Police
+     Officers Emanuel Canuto and Matthew Ryan were in plain
+     clothes in an unmarked car, driving on a routine patrol
+     on Washington Street, headed toward Fuller Street, in
+     Dorchester. They were driving 15-20 m.p.h. The area
+     that they were patrolling is primarily residential, but
+     also includes several small shops. Although a shooting
+     had occurred about four months earlier in this general
+     area, it was not a so-called “hot spot” with a
+     recent unusually active pattern of crime. The officers
+
+                                10
+observed a Toyota Camry with two male occupants driving
+on Fairmount Street towards its intersection with
+Washington Street. The Camry double-parked on
+Fairmount, approximately two to three car lengths from
+the intersection. At the same time, the officers saw a
+male, later identified as Defendant Jamont DuBose,
+walking on Washington Street and then turning onto
+Fairmount Street, heading directly for the Camry.
+After Defendant reached the Camry, the officers saw him
+lean into the car through the window of the driver’s
+side door; Defendant’s body from the waist up and both
+of his hands were inside the car. He then walked away
+from the car. The whole encounter was brief. The
+officers could not see what he was doing inside the
+car.
+
+Suspecting they had witnessed a drug transaction, the
+officers immediately turned around at the intersection
+of Washington and Fuller Streets and saw the Camry take
+a left on Washington Street, heading towards Fuller
+Street. They also saw Defendant backtrack, returning
+in the same direction on Fairmount Street to the
+intersection, and then taking a left on Washington
+Street towards Fuller Street. The police officers
+believed this was a pre-arranged meeting. The officers
+then parked at an angle on the wrong side of Washington
+Street and exited the car in order to talk to
+Defendant. Both officers had badges displayed
+prominently around their necks. At that time,
+Defendant was walking away from the officers with his
+back to them. Officer Canuto asked Defendant, who was
+approximately ten feet away, “Excuse me, sir, can I
+talk to you for a second?” Officer Canuto did not yell
+at Defendant, but spoke loudly enough to ensure that he
+would be heard. Defendant continued walking away and
+kept his right hand inside the pocket of his hoodie.
+Speaking more loudly, Officer Canuto asked Defendant at
+least one or two additional times to turn around and
+speak with him. Officer Canuto believed, correctly,
+that Defendant heard him and ignored him the first
+couple of times that Officer Canuto spoke to him.
+Finally complying with Officer Canuto’s order,
+Defendant turned around, keeping his right hand in his
+
+                          11
+     hoodie pocket. At this time, Officer Ryan was speaking
+     to some teenage males who were standing nearby, in
+     front of a pizza shop, and who had asked him why the
+     police were stopping. Officer Ryan was not with
+     Officer Canuto when Defendant finally stopped and
+     turned to Officer Canuto. Officer Canuto feared that
+     Defendant was carrying a gun and told him to remove his
+     hand from his pocket. Defendant refused to comply.
+     Officer Canuto repeated the order several more times
+     and Defendant eventually complied. Fearing for his own
+     safety, Officer Canuto performed a pat-frisk of
+     Defendant’s pocket. In this pocket, Officer Canuto
+     felt a hard object he believed to be consistent with a
+     firearm. Officer Canuto touched the item through
+     Defendant’s hoodie and asked, “What is this?” Defendant
+     responded, “That’s not mine.” Officer Canuto reached
+     into the pocket and pulled out a silver .22 caliber
+     Imperial revolver. After Officer Canuto alerted
+     Officer Ryan that he had retrieved a gun, Defendant ran
+     towards Croftland Avenue. After a brief foot chase,
+     which ended in front of 882 Washington Street,
+     Defendant was caught and placed in handcuffs. As he
+     was being placed under arrest, Defendant spontaneously
+     stated, “I just found it and picked it up.” After
+     arresting Defendant, the officers saw the same black
+     Camry that they had observed approximately five minutes
+     earlier. They performed a traffic stop. A Field
+     Interrogation and Observation was conducted of both the
+     driver and passenger; they were both released after
+     they were pat-frisked and the car was searched. Both
+     claimed that they did not know Defendant. The gun was
+     loaded with seven rounds of ammunition.
+
+Memorandum and Order (Docket No. 27) at 1-5. This Court found
+that when Dubose was seized by Officer Canuto, who was
+prominently wearing his badge, and told Dubose to remove his
+hands from his pocket, at that point, a reasonable person would
+believe that he was not free to ignore the police order and leave
+the scene. Id. at 6. This Court further found that Officer
+Canuto was entitled to frisk Dubose for his own safety. Id. at
+7.
+
+
+
+                               12
+The next allegation concerning the Officers’ conduct regarding a
+
+pat frisk of Dubose after the stop is not set forth clearly;
+
+however, it appears he also contends that the Officers did not
+
+have reasonable suspicion to pat frisk him because Dubose had
+
+complied with the order to remove his hands from his pocket.10
+
+In his Memorandum in Support, Dubose contends that the Police
+
+Officers did not observe any kind of interaction, exchange, or
+
+involvement of Dubose with the occupants of the motor vehicle,
+
+that the occupants were not known to them, and that there were no
+
+reports of any criminal activity involving him, the vehicle, or
+
+the area.11   He further contends that the Police Officers
+
+
+
+
+10
+ In his Memorandum in Support, Dubose also interposes other
+issues related to the Police Officers’ conduct as well as their
+knowledge at the time of the incident (e.g., whether the Camry
+and the individuals were known to the Officers, whether there had
+been any report of criminal activity in the area, whether
+anything had occurred after he leaned into the car that would
+support a reasonable suspicion that a crime had occurred, whether
+the Officers conduct involved a “Clandestine Meeting,” [between
+him and the occupants of the vehicle], whether the Officers
+observed an interaction involving Dubose and other passengers in
+the vehicle, whether he had been given his Miranda rights, etc.).
+See Section 2255 Motion (Docket No. 62-2 at 1-2).
+
+11
+ Dubose attaches to his motion excerpts of the Evidentiary
+Hearing on the Motion to Suppress, along with the Boston Police
+Report regarding his arrest on February 22, 2007. See Section
+
+                                 13
+harassed and intimidated him by following him in their vehicle,
+
+and then, later, grabbing him by the elbow and demanding he take
+
+his hands out of his pockets, and barring him from leaving.
+
+After Dubose fled the scene and was caught a half a block away
+
+after a foot chase, he was questioned and placed in the back of
+
+the police cruiser.   Dubose claims that while being held in the
+
+cruiser, he was never given his Miranda rights.
+
+       In the body of the Memorandum in Support of his § 2255
+
+petition, Dubose seeks appointment of counsel.
+
+C.     The Government’s Response and Motion for Summary Dismissal
+
+       On July 21, 2011, the Government responded to the § 2255
+
+petition by seeking summary dismissal.   See Response (Docket No.
+
+64).   As grounds for dismissal, the Government contends that: (1)
+
+Dubose seeks to relitigate issues previously raised and decided
+
+against him both in this Court and on direct appeal;12(2)
+
+Dubose’s assertions are contradicted by the PSR, as well by
+
+recent decisions of the First Circuit in United States v.
+
+
+
+2255 Motion (Docket No. 62-8).
+
+12
+ The Government cites to, inter alia, United States v. Butt, 731
+F.2d 75, 76 n. 1 (1st Cir. 1984)(“It is settled that a § 2255
+motion may not revive issues previously determined on direct
+appeal”); United States v. Moran, 107 F.3d 1 (1st Cir.
+1997)(same); and Singleton v. United States, 26 F.3d 233, 240
+(1st Cir. 1993).
+
+
+                                 14
+Holloway, 630 F.3d 252, 252 (1st Cir. Jan. 21, 2011) and United
+
+States v. Dancy, 640 F.3d 455 (1st Cir. Apr. 13, 2011);(3) even
+
+if Holloway applied in this case (to exclude the Assault and
+
+Battery offense from ACCA consideration), Dubose would still be
+
+considered an Armed Career Criminal because he has three other
+
+ACC predicate offenses; and (4) knowing the problems with his
+
+criminal record, Dubose has attempted to transform his ACC claim
+
+into one involving ineffective assistance of counsel, but he has
+
+failed to provide any information as to what any investigation by
+
+defense counsel would have uncovered, or how any investigation or
+
+objections would have impacted his ACC status.
+
+     On August 1, 2011, Dubose filed a Response to the
+
+Government’s request for summary dismissal (Docket No. 65).
+
+Virtually all but one of his arguments in the Response reiterate
+
+the claims in his original § 2255 motion and memorandum in
+
+support.13   He raises a new argument, i.e., that the Resisting
+
+
+13
+ The repeated arguments in the Response are as follows. Dubose
+again argues that three prior convictions (i.e., Resisting Arrest
+(No. 0307-CR-7480H), Assault and Battery (No. 0607-CR-0758), and
+Possession of Class B with intent to distribute (No. 0307-CR-
+7001D)) cannot constitute predicate convictions under the ACCA.
+He also contends that, with respect to the drug offense, “[t]he
+District Court may not impose a sentence to a state prison”
+(reiterating the claim that his offense was a misdemeanor and not
+a felony because it was imposed by the state district court and
+not the superior court). Response (Docket No. 64 at 2). Next,
+Dubose reasserts his ineffective assistance of counsel claims,
+arguing that his defense counsel failed to investigate the facts
+
+                                 15
+Arrest and the Assault and Battery offenses are “crimes of
+
+violence” under the Career Offender Guidelines, but cannot be
+
+considered for purposes of the ACCA, which provides for “violent
+
+felonies.”     He maintains that the definitions for “crimes of
+
+violence” and “violent felonies” are similar, but not identical.
+
+He does not expound on the impact any differences would have in
+
+this case.14
+
+
+and criminal history; failed to file objections to the
+Presentence Report which certified his ACCA status; “failed to
+investigate the P.S.I.R. and sentencing proceeding and
+violations,” id.; and “[f]ailed to raise any serious issues that
+was very important for the outcome of the decision.” Id.
+Further, Dubose contends that his counsel failed to object to the
+plea colloquy that charged him with being an Armed Career
+Criminal. Finally, Dubose contends that this Court improperly
+relied on the Probation Office’s misinformation on charging
+documents to find him eligible for an ACCA enhancement. He
+contends that this Court failed to review properly the predicate
+offenses before deeming them to constitute violent felonies.
+
+14
+ Without the need to address this issue in detail, this Court
+rejects Dubose’s argument. The First Circuit in Holloway has
+stated that “[t]he terms ‘crime of violence’ and ‘violent felony’
+are nearly identical in meaning. Because of this, ‘decisions
+construing one term inform the construction of the other.’”
+Holloway, 630 F.3d at 254 n.1 citing United States v. Willings,
+588 F.3d 56, 58 n. 2 (1st Cir. 2009). See Miller v. United
+States, 2011 WL 2422845 (D. Mass. June 16, 2011 (same). See also
+United States v. Almenas, 553 F.3d 27, 34 n.7 (1st Cir. 2009)
+(stating that: “Even though the Court in Begay [v. United States,
+553 U.S. 137 (2008)] was interpreting the violent felony
+definition of the Armed Career Criminal Act (ACCA), 18 U.S.C.
+§ 924(e)(2)(B), and though much of its analysis appeared specific
+to that statute, ‘for both prudential and precedential reasons,
+we have read that statute and the almost parallel guideline
+language at issue [in the guidelines definition of crime of
+violence] as being in pari passu.’ [United States v.] Williams,
+
+                                  16
+                           II.   DISCUSSION
+
+A.   The Request For Appointment of Counsel
+
+     Although this Court has previously stated the issues raised
+
+by Dubose are complex, appointment of counsel under 18 U.S.C.
+
+§ 3006A is not in the interests of justice in light of the lack
+
+of merit of his § 2255 motion, as discussed below.
+
+     Accordingly, this Court DENIES Dubose’s request for counsel,
+
+contained in the body of his § 2255 motion.
+
+B.   Standard of Review
+
+     1.     Review of Section 2255 Motions
+
+     Section 2255 of Title 28 provides that “[a] prisoner in
+
+custody under sentence of a court established by Act of Congress
+
+claiming the right to be released ... may move the court which
+
+imposed the sentence to vacate, set aside or correct the
+
+sentence.   28 U.S.C. § 2255(a).    “[T]he statute provides for
+
+post-conviction relief in four instances, namely, if the
+
+
+
+529 F.3d [1] at 6 [1st Cir. 2008].”)[brackets added]. In other
+words, the terms are interchangeable. See United States v.
+Glover, 558 F.3d 71, n.3 (1st Cir. 2009)(“The Guidelines'
+definition of “crime of violence” closely tracks the definition
+of “violent felony” in the Armed Career Criminal Act (“ACCA”), 18
+U.S.C. § 924(e), and the residual clauses in each are identically
+worded. We have considered these residual clauses to be
+relatively interchangeable, and have treated interpretations of
+one as persuasive authority relative to the other.”).
+
+
+
+
+                                   17
+petitioner’s sentence (1) was imposed in violation of the
+
+Constitution, or (2) was imposed by a court that lacked
+
+jurisdiction, or (3) exceeded the statutory maximum, or (4) was
+
+otherwise subject to collateral attack.”   David v. United States,
+
+134 F.3d 470, 474 (1st Cir. 1998)(citing Hill v. United States,
+
+368 U.S. 424, 426-427 (1962)).
+
+     The defendant bears the burden of establishing the need for
+
+relief under § 2255.   David, 134 F.3d at 474.   See Mack v. United
+
+States, 635 F.2d 20, 26-27 (1st Cir. 1980).   In order to obtain
+
+collateral relief, a petitioner “must clear a significantly
+
+higher hurdle than would exist on direct appeal.”   United States
+
+v. Frady, 456 U.S. 152, 166 (1982).15   Indeed, there is a
+
+presumption of finality of criminal convictions once all direct
+
+appeals have been completed.   Singleton v. United States, 26 F.3d
+
+233, 236 (1st Cir. 1994) (citing Brecht v Abrahamson, 507 U.S.
+
+
+
+15
+ The Supreme Court in Frady rejected the plain error standard of
+review, stating: “We believe the proper standard for review of
+[petitioner’s § 2255] motion is the ‘cause and actual prejudice’
+standard enunciated in Davis v. United States, 411 U.S. 233, 93
+S.Ct. 1577, 36 L.Ed.2d 216 (1973), and later confirmed and
+extended in Francis v. Henderson, 425 U.S. 536, 96 S.Ct. 1708, 48
+L.Ed.2d 149 (1976), and Wainwright v. Sykes, 433 U.S. 72, 97
+S.Ct. 2497, 53 L.Ed.2d 594 (1977). Under this standard, to
+obtain collateral relief based on trial errors to which no
+contemporaneous objection was made, a convicted defendant must
+show both (1) ‘cause’ excusing his double procedural default, and
+(2) ‘actual prejudice’ resulting from the errors of which he
+complains.” Frady, 456 U.S. at 167-68.
+
+                                 18
+619 (1993) and Frady, 456 U.S. at 164-65).   “Postconviction
+
+relief on collateral review is an extraordinary remedy, available
+
+only on a sufficient showing of fundamental unfairness.”
+
+Singleton, 26 F.3d at 236.
+
+     Additionally, issues disposed of on direct appeal may not be
+
+reviewed in a subsequent § 2255 proceeding absent an intervening
+
+change in the law or a showing that manifest injustice would
+
+otherwise result.   See United States v. Conley, 323 F.3d 7, 22
+
+(1st Cir. 2003)(“Claims that previously have been addressed on
+
+direct review, however, may not be readjudicated collaterally
+
+under § 2255 absent equitable considerations, such as actual
+
+innocence or cause or prejudice.”); United States v. Michaud, 901
+
+F.2d 5, 6 (1st Cir. 1990)(“We note that certain other claims
+
+raised in the § 2255 motion were decided on direct appeal and may
+
+not be relitigated under a different label on collateral
+
+review.”; citing Tracey v. United States, 739 F.2d 679, 682 (1st
+
+Cir. 1984), cert. denied, 469 U.S. 1109 (1985) and Robson v.
+
+United States, 526 F.2d 1145, 1147 (1st Cir. 1975)).    See also
+
+United States v. Butt, 731 F.2d 75, 77 n.1 (1st Cir. 1984)(“It is
+
+settled that a § 2255 motion may not revive issues previously
+
+determined on direct appeal, Dirring v. United States, 370 F.2d
+
+862, 864 (1st Cir. 1967)”).
+
+     Unless the petitioner claims a jurisdictional or
+
+                                19
+constitutional violation, a § 2255 claim will not be considered
+
+cognizable unless “the alleged error presents a ‘fundamental
+
+defect which inherently results in a complete miscarriage of
+
+justice,’ or ‘an omission inconsistent with rudimentary demands
+
+of fair procedure.’”   Cofske v. United States, 290 F.3d 437, 441
+
+(1st Cir. 2002)(citing Hill, 368 U.S. at 428).
+
+     2.   Review of Ineffective Assistance of Counsel Claims
+
+     With respect to the standard for § 2255 claims raised under
+
+the Sixth Amendment16 alleging ineffective assistance of counsel,
+
+a petitioner must prove by a preponderance of the evidence that
+
+“(1) counsel’s performance was deficient, and (2) the deficient
+
+performance prejudiced the defense.”   Bucuvalas v. United States,
+
+98 F.3d 652, 658 (1st Cir. 1996) (citing Strickland v.
+
+Washington, 466 U.S. at 687).   See Peralta v. United States, 597
+
+F.3d 74, 79 (1st Cir. 2010)(“To succeed on a claim of ineffective
+
+assistance of counsel under the Sixth Amendment, [petitioner]
+
+must show both deficient performance by counsel and resulting
+
+prejudice.”).
+
+
+
+16
+ The Sixth Amendment of the United States Constitution states
+that: “[i]n all criminal prosecutions, the accused shall enjoy
+the right ... to have the Assistance of Counsel for his defense.”
+U.S. Const. amend. VI. A defendant is not merely entitled to the
+assistance of counsel, but the effective assistance of counsel.
+Strickland v. Washington, 466 U.S. 668, 686 (1984)(citing McMann
+v. Richardson, 397 U.S. 759, 774 n.14 (1970)).
+
+                                20
+     The first prong of the Strickland test is satisfied where
+
+counsel’s performance is “so inferior as to be objectively
+
+unreasonable.”   United States v. McGill, 11 F.3d 223, 226 (1st
+
+Cir. 1993).   An attorney’s conduct will be reasonable if it is
+
+found to fall “within the range of competence expected of
+
+attorneys in criminal cases.”   United States v. Bosch, 584 F.2d
+
+1113, 1121 (1st Cir. 1978)(citations omitted).   Moreover, courts
+
+have stressed that “effective representation” is not synonymous
+
+with “errorless representation;” the courts’ review of counsel’s
+
+performance must be deferential, and reasonableness must be
+
+considered in light of “prevailing professional norms.”    Peralta,
+
+597 F.3d at 79 (citing Strickland, 466 U.S. at 688).   The
+
+prejudice prong of the test requires that Dubose show “a
+
+reasonable probability that, but for counsel’s unprofessional
+
+errors, the result of the proceeding would have been different.”
+
+Smiley v. Maloney, 422 F.3d 17, 20 (1st Cir. 2005)(citing
+
+Strickland, 446 U.S. at 694).
+
+     3.   Review of Prior Convictions Under the ACCA
+
+     Section 924(e)(1) of the ACCA provides:
+
+     In the case of a person who violates section 922(g) of
+     this title and has three previous convictions by any
+     court referred to in section 922(g)(1) of this title
+     for a violent felony or serious drug offense, or both,
+     committed on occasions different from one another, such
+     person shall be fined under this title and imprisoned
+     not less than fifteen years, and, notwithstanding any
+
+                                21
+     other provision of law, the court shall not suspend the
+     sentence of, or grant a probationary sentence to, such
+     person with respect to the conviction under section
+     922(g).
+
+18 U.S.C. § 924(e)(1).
+
+     ACCA predicate offenses include certain drug offenses and
+
+“violent felonies.”   Under section 924(e)(2)(B)(i) and (ii):
+
+     [T]he term ‘violent felony” means any crime punishable
+     by imprisonment for a term exceeding one year ... that
+     --
+
+     (i) has as an element the use, attempted use, or
+     threatened use of physical force against the person of
+     another; or
+
+     (ii) is burglary, arson, or extortion, involves use of
+     explosives, or otherwise involves conduct that presents
+     a serious potential risk of physical injury to another.
+
+18 U.S.C. § 924(e)(2)(B)(i) and (ii).   See United States v.
+
+Dancy, 640 F.3d 455, 464-65 (1st Cir. 2011).
+
+     In the ACCA sentencing statute, “[c]lause (i) is sometimes
+
+referred to as the ‘force clause.’   The portion of clause (ii)
+
+following the enumerated offenses is known as the ‘residual
+
+clause.’” Id. at 465 (quoting Holloway, 630 F.3d at 256; other
+
+citations omitted).   See United States v. Oliveira, 2011 WL
+
+2909816, *4-5 (D. Mass. July 21, 2011)(outlining history of the
+
+ACCA, application of the residual clause of the ACCA, and noting
+
+troubling matters concerning application of the ACCA).
+
+     The Supreme Court has employed a “categorical approach” in
+
+
+
+                                22
+determining whether an offense is a violent felony.   Under this
+
+approach:
+
+     “[courts] look only to the fact of conviction and the
+     statutory definition of the prior offense, and do not
+     generally consider the particular facts disclosed by
+     the record of conviction. That is, we consider whether
+     the elements of the offense are of the type that would
+     justify its inclusion within the residual provision,
+     without inquiring into the specific conduct of this
+     particular offender." James [v. United States], 550
+     U.S. [192], at 202 [127 S.Ct. 1586] (internal quotation
+     marks and citations omitted); see also Taylor v. United
+     States, 495 U.S. 575, 599–602, 110 S.Ct. 2143, 109
+     L.Ed.2d 607 (1990).
+
+Sykes v. United States, 131 S.Ct. 2267 (June 9, 2011).
+
+     “Only where the crime includes a range of conduct, some of
+
+which falls outside the ACCA’s definition, may the court ‘peek
+
+under the coverlet’ to determine what offense was at issue in the
+
+underlying conviction.”   Oliveira, 2011 WL 2909816 at *7 citing
+
+United States v. Gautier, 590 F. Supp. 2d 214 at 222 (for ACCA
+
+purposes in determining an offense to be a violent felony, the
+
+sentencing judge court could not look to underlying police
+
+reports or complaint applications not adopted by the defendant as
+
+part of the plea or colloquy; the court may look only to the jury
+
+instructions, charging document, plea agreement, the transcript
+
+of the plea colloquy, or any facts confirmed by the defendant at
+
+sentencing and any comparable judicial record) and citing
+
+Shepard v. United States, 544 U.S. 13, 16 (2005)(other citations
+
+
+
+                                23
+omitted).   “Where the defendant is convicted under a statute that
+
+encompasses both violent and non-violent offenses (as in assault
+
+and battery), and the government has failed to show under Shepard
+
+that the defendant was convicted of the more violent offense, the
+
+court applies the categorical approach to the non-violent
+
+offense.”   Oliveira, 2011 WL 2909816, at *7.
+
+     With these standards in mind, the Court turns to Dubose’s
+
+claims, starting with the claim that his Assault and Battery
+
+offense does not qualify as a predicate violent felony offense
+
+under the ACCA.
+
+C.   The Assault and Battery Charge
+
+     This Court finds that Dubose is correct when he asserts that
+
+his 2006 Assault and Battery conviction (see PSR, ¶ 40), may not
+
+be used as a predicate office under the ACCA, because the
+
+Government has not shown that this offense was a “violent felony”
+
+under the ACCA, in light of recent First Circuit case law, see
+
+Holloway, supra; the fact that the charging instrument against
+
+Dubose contained the language “did assault and beat” is not
+
+sufficient to constitute a “violent felony” for ACCA purposes.
+
+     To expound further, the First Circuit in Holloway revisited
+
+and rejected its prior holding in United States v. Mangos, 134
+
+F.3d 460, 464 (1st Cir. 1998) and ruled that Mangos was no longer
+
+good law, because the boilerplate language “did assault and beat”
+
+                                24
+in the charging instrument, standing alone, did not establish a
+
+violent felony.   Holloway, 630 F.3d at 255-56.   The Holloway
+
+Court required further analysis before district courts could
+
+conclude whether a simple Assault and Battery qualified under the
+
+ACCA; this analysis normally would involve looking to certain
+
+documents, and consideration whether the conduct described in
+
+those documents fell within the force clause or the residual
+
+clause of the ACCA.
+
+     Here, the Government does not strenuously object to Dubose’s
+
+argument in this regard.   Thus, applying Holloway, and without
+
+additional Shepard-approved evidence, this Court will not
+
+consider the Assault and Battery offense as a predicate offense
+
+under the ACCA.
+
+     Nevertheless, even if this Court were to discount the
+
+Assault and Battery charge in ¶ 40 of the PSR, Dubose still has
+
+at least three predicate offenses rendering the ACCA applicable,
+
+as discussed below.
+
+D.   The Armed Robbery Offense Constitutes a Predicate Offense
+     For ACCA Purposes
+
+     The parties do not dispute that the Armed Robbery offense
+
+contained in the PSR, ¶ 37, falls within the ACCA definition of a
+
+
+
+
+                                25
+violent felony.17
+
+     Accordingly, this Court finds this conviction to constitute
+
+the a predicate conviction for ACCA purposes.
+
+E.   The Resisting Arrest Offenses Constitute Two Prior Felony
+     Convictions For ACCA Purposes
+
+     Dubose’s criminal history reflects two separate offenses for
+
+Resisting Arrest.   See PSR ¶¶ 38 and 39.18
+
+
+17
+ The PSR, ¶ 37, also notes that Dubose was convicted of Armed
+Assault with Intent to Rob, and Assault and Battery with a
+Dangerous Weapon. These would also qualify as predicate offenses
+under the ACCA, but are treated together as one predicate
+offense.
+
+18
+ Dubose does not suggest that the Resisting Arrest charge in the
+PSR, ¶ 39 (Docket No. 0307-CR 7480H), and the Resisting Arrest
+charge in the PSR, ¶ 38 (Docket No. 0307-cr-7001E), should not be
+treated as separate charges pursuant to Amendment 709 to the
+Sentencing Guidelines in order to undermine the enhancement of
+his sentence under the ACCA. Amendment 709 was proposed in May
+2007, and became effective on November 1, 2007. It restated the
+rules for determining when multiple crimes are to be counted as
+one for criminal history calculation purposes. U.S. SENTENCING
+GUIDELINES § 4A1.2(a)(2)(2009)(as amended by Supp. to App. C.,
+Amend. 709 (2009)). Amendment 709 provides:
+
+     Prior sentences are counted separately if the sentences
+     were imposed for offenses that were separated by an
+     intervening arrest. If there is no intervening arrest,
+     prior sentences are counted separately unless (A) the
+     sentences resulted from offenses contained in the same
+     charging instrument; or (B) the sentences were imposed
+     on the same day.
+
+Id. In this case, the first arrest occurred on November 7, 2003,
+and Dubose was charged on November 10, 2003. There was an
+intervening arrest (on November 29, 2003); Dubose was charged on
+December 1, 2003. Thus, notwithstanding that Dubose was
+sentenced on both Resisting Arrest charges on the same day (June
+
+                                26
+     Dubose’s argument -- that the offenses arising out the
+
+Massachusetts District Court (rather than the Superior Court)
+
+constitute “misdemeanors” and not “felonies”, and therefore
+
+cannot be used as predicate offenses -- is misplaced, as is his
+
+argument that the sentence must be to a “state prison” rather
+
+than a house of correction.    The First Circuit has made clear
+
+that a Resisting Arrest conviction under Massachusetts law is a
+
+prior felony conviction, because, under Massachusetts law, it
+
+carries a punishment of up to two and one-half years in jail or
+
+the house of correction.19    See United States v. Almenas, 553
+
+F.3d 27, 31-32 (1st Cir. 2009] citing Mass. Gen. Laws ch. 268,
+
+§ 32B.   Almenas also stated that:
+
+     Neither the fact that Massachusetts law categorizes
+     resisting arrest as a misdemeanor, nor the fact that
+     [defendant] was not actually imprisoned for a term
+     exceeding one year, affects our analysis. A crime
+     ‘punishable’ by imprisonment for a term exceeding one
+
+
+
+22, 2004), Amendment 709 provides that each conviction shall be
+counted separately.
+
+19
+ The ACCA provides that “any State offenses classified by the
+laws of the State as a misdemeanor and punishable by a term of
+imprisonment of two years or less” are not “crime[s] punishable
+by imprisonment for a term exceeding one year.” Dancy, 640 F.3d
+at 465 n.6; 18 U.S.C. § 921(a)(20). Resisting Arrest offenses
+under Massachusetts law do not fall within this provision,
+because the punishment is by imprisonment in a jail or house of
+correction for not more than two and one-half years (not two
+years or less). Mass. Gen. Laws ch. 268, § 32B.
+
+
+                                  27
+     year is a felony for purposes of the career offender
+     provision, ‘regardless of whether such offense is
+     specifically designated as a felony and regardless of
+     the actual sentence imposed.’
+
+Id. at 32 citing U.S.S.G. § 4B1.2, cmt. n.1.
+
+     Finally, Almenas discussed the elements of the crime, and,
+
+taking a categorical approach, stated that Resisting Arrest under
+
+Massachusetts law is typically a crime of violence.   Almenas, 553
+
+F.3d at 31-35; 35 n.9 (noting that the enumerated crimes
+
+“typically” involves purposeful, violent, and aggressive conduct,
+
+and stating that “if a defendant’s flight from arrest is to
+
+qualify as resisting arrest under Massachusetts law, it must
+
+either involve the use or threatened use of force or create a
+
+substantial risk of injury to a police officer or another.”).
+
+     The Almenas holding was recently expanded on by the First
+
+Circuit in Dancy, addressing the question whether a defendant’s
+
+Massachusetts conviction for assault and battery on a police
+
+office qualified as a violent felony in order to serve as a
+
+predicate offense under the ACCA.   The First Circuit stated in
+
+Dancy that:
+
+     As we have said of the Massachusetts crime of resisting
+     arrest, the crime involves “resisting the authority of
+     a police officer, an official charged with defending
+     the public.” [United States v.] Almenas, 553 F.3d [27]
+     at 34 [1st Cir. 2009]. Resisting arrest poses an
+     arguably greater risk than the enumerated offenses
+     because the officer is “duty-bound to effectuate the
+     arrest,” resulting in “a significant risk of conflict
+
+                               28
+     and, concomitantly, a significant risk of injury.”   Id.
+     The same is true for ABPO, which involves similar
+     dynamics.
+
+Dancy, 640 F.3d at 470 (emphasis in bold and brackets added).20
+
+
+20
+ Most recently, the United States Supreme Court addressed the
+question whether, under Indiana law, unlawful flight from law
+enforcement by a vehicle was a violent felony for purposes of
+enhancement under the ACCA. Sykes v. United States, 131 S.Ct.
+2267 (June 9. 2011). In that case, Sykes argued that vehicle
+flights do not involve the kind of dangers contemplated by the
+ACCA residual clause. The Supreme Court rejected this argument,
+stating:
+
+     Risk of violence is inherent to vehicle flight.
+     Between the confrontations that initiate and terminate
+     the incident, the intervening pursuit creates high
+     risks of crashes. It presents more certain risk as a
+     categorical matter than burglary. It is well known
+     that when offenders use motor vehicles as their means
+     of escape they create serious potential risks of
+     physical injury to others. Flight from a law
+     enforcement officer invites, even demands, pursuit. As
+     that pursuit continues, the risk of an accident
+     accumulates. And having chosen to flee, and thereby
+     commit a crime, the perpetrator has all the more reason
+     to seek to avoid capture.
+
+     Unlike burglaries, vehicle flights from an officer by
+     definitional necessity occur when police are present,
+     are flights in defiance of their instructions, and are
+     effected with a vehicle that can be used in a way to
+     cause serious potential risk of physical injury to
+     another.
+
+Id. at 2274. Sykes further stated that: “Serious and substantial
+risks are an inherent part of vehicle flight. Under subsection
+(b)(1)(A), they need not be proved separately to secure a
+conviction equal in magnitude to those available for other forms
+of resisting law enforcement with a vehicle that involve similar
+risks.” Id. at 2276. In this case, the charges against Dubose
+were Resisting Arrest and not unlawful vehicle flight. It is
+noted however, that the PSR reflects that both the Resisting
+
+                               29
+     In light of the above, the Court deems the two Resisting
+
+Arrest Offenses to qualify as predicate offenses under the ACCA.
+
+F.   The Ineffective Assistance of Counsel Claims, and the Claims
+     of Error By the District Court in Applying the ACCA
+
+     Because Dubose’s Resisting Arrest convictions constitute two
+
+predicate convictions under the ACCA, and because the Armed
+
+Robbery constitutes the third predicate offense sufficient to
+
+trigger the ACCA, this Court need not address Dubose’s arguments
+
+in detail with respect to his drug convictions (Possession of
+
+Class B substance with Intent to Distribute), but finds this
+
+offense also qualifies as a predicate offense.   See PSR, ¶ 38.
+
+     In sum, upon review of Dubose’s criminal history, this Court
+
+finds that Dubose was, and still is, subject to application of
+
+the ACCA, notwithstanding the Court’s inability to consider the
+
+Assault and Battery offense.   It follows, therefore, that under
+
+Strickland, Dubose fails to establish his claim for ineffective
+
+assistance of counsel with respect to failure to object or
+
+
+
+
+Arrest offenses involved serious potential risk of physical
+injury to another. In the first Resisting Arrest case, Dubose
+pushed away from officers and fled, leading officers on a
+pursuit. Officers caught the defendant, and he struggled while
+they were placing him under arrest.... Several officers were
+treated for injuries. See PSR, ¶ 38. The second Resisting
+Arrest charge arose against Dubose after he was operating a
+vehicle, drove into a school parking lot and jumped out of the
+vehicle while it was moving, causing the vehicle to crash into a
+fence on school property. See PSR, ¶¶ 39.
+
+                                30
+properly investigate as to the application of the ACCA or with
+
+respect to the PSR information regarding his criminal history.
+
+Dubose has not established that counsel’s performance was
+
+deficient under the first prong of Strickland,21 nor has he shown
+
+that any deficient performance resulted in prejudice to him (or,
+
+for that matter, that this Court’s application of the ACCA based
+
+on his criminal record resulted in any prejudice to him).
+
+     With respect to the allegation that Dubose would not have
+
+accepted a plea deal had he known he was given erroneous advice
+
+about the application of the ACCA, this claim fails in light of
+
+the Court’s finding that the ACCA does apply to him.   In any
+
+event, the Court finds that Dubose’s contention in this regard is
+
+wholly self-serving, without any evidentiary support whatsoever,
+
+either direct or inferential, to show that, at the time of the
+
+guilty plea, and not in hindsight, he would have not pled guilty
+
+to the charges against him.   Thus, his assertion is to no avail.
+
+     Similarly, Dubose’s claims of error by this Court in
+
+applying the ACCA based only on the information contained in the
+
+PSR is rejected.   It is proper for this Court to rely on the
+
+
+
+
+21
+ As noted above, Dubose’s counsel did file objections to the PSR
+with respect to his criminal history record; however, the
+Probation Office declined to make any revisions based on the
+objections.
+
+                                31
+information contained in the PSR.22
+
+        Without belaboring the matter further, this Court finds that
+
+Dubose has not met his burden to demonstrate that § 2255 relief
+
+is warranted with respect to his enhanced sentence under the
+
+ACCA.
+
+        Accordingly, Dubose’s § 2255 motion is DENIED with respect
+
+to challenges to his sentence under the ACCA, and the
+
+Government’s Motion for Summary Dismissal is ALLOWED as to these
+
+
+22
+ See United States v. Webster, 636 F.3d 916, 919 (8th Cir.
+2011)(“In weighing the evidence [of prior felony convictions],
+the district court may consider the ... PSR itself....” (other
+considerations omitted)); United States v. Reed, 372 Fed. Appx.
+413, 416 (4th Cir. 2010) (“we have held that a sentencing court
+is entitled to rely on ‘the conclusive significance’ of the
+record, see Shepard, 544 U.S. at 25, 125 S.Ct. 1254, as set out
+in the presentence report. Thompson, 421 F.3d at 285 (sentencing
+court entitled to rely on the presentence report because it
+‘bears the earmarks of derivation from Shepard-approved
+sources’); United States v. Brown, 510 F.3d 57, 75 n.15 (1st Cir.
+2007) (citing, inter alia, United States v. Romero–Rendón, 220
+F.3d 1159, 1164–65 (9th Cir. 2000)(no error for district court to
+rely on PSR entry as evidence of conviction for ACCA enhancement
+where defendant had not challenges entry’s accuracy). See
+generally United States v. Love, 134 F.3d 595, 606 (4th Cir.
+1998)(quoting United States v. Terry, 916 F.2d 157, 162 (4th Cir.
+1990))(‘A mere objection to the finding in the presentence report
+is not sufficient.... Without an affirmative showing the
+information is inaccurate, the court is free to adopt the
+findings of the [presentence report] without more specific
+inquiry or explanation.? [sic]’”))(bracket added). United States
+v. Bennett, 472 F.3d 825, 834 (11th Cir. 2006)(district court did
+not err in relying on the undisputed facts in the PSR to
+determine that his prior convictions were violent felonies under
+the ACCA). See generally, United States v. Hunter, 418 Fed.
+Appx. 490, 494 (7th Cir. 2011)(when determining applicability of
+§ 924(e), courts may rely on undisputed sections of the PSR).
+
+                                  32
+claims.
+
+G.   The Claims Challenging Dubose’s Conviction are Barred
+
+     Having addressed the issues with respect to challenges to
+
+Dubose’s sentence, the Court now turns to challenges asserted in
+
+connection with the conviction itself.
+
+     1.     Claims Previously Decided on Direct Appeal
+
+     Dubose’s challenges to his conviction are grounded on the
+
+Police Officers’ conduct on February 22, 2007 when he was
+
+arrested.   These challenges were the subject of his motion to
+
+suppress, which this Court rejected.   On appeal, the First
+
+Circuit reviewed the merits of this Court’s decision, and
+
+affirmed.   See Dubose, No. 08-2382 (1st Cir. 2009) cert. denied
+
+DuBose v. United States, 131 S.Ct. 536 (2010)(No. 10-6629).
+
+     In light of this, Dubose is foreclosed from relitigating
+
+these claims in this § 2255 motion.    See Section II(B)(1), supra
+
+(citing cases).
+
+     Further, this Court considers that Dubose’s assertions
+
+regarding police misconduct add nothing new to the mix -- he
+
+presents no new evidence nor any basis for this Court to find
+
+that extraordinary circumstances exist showing a miscarriage of
+
+justice would result should his claims not be considered (as, for
+
+example, a bona fide claim of actual innocence or cause and
+
+prejudice).   Thus, Dubose’s § 2255 motion is DENIED with respect
+
+                                 33
+to his challenge to his conviction based on alleged police
+
+misconduct or violation of law.
+
+     2.   The Failure to Provide Miranda Rights While in Cruiser
+
+     Finally, Dubose raises a claim -- not in the § 2255 motion
+
+-- but in the course of his arguments in support thereof, that he
+
+was never given Miranda rights while he was placed in the back of
+
+the police cruiser.23    Dubose does not expand on this allegation,
+
+nor does he provide any context for this assertion.    This bald
+
+assertion, without more, is insufficient to meet his burden to
+
+warrant § 2255 relief.
+
+     Moreover, Dubose’s claim is deemed to have been waived.       See
+
+Colon-Cardona v. United States, 2011 WL 1238422 (D.P.R. 2011).
+
+Like Dubose, in Colon-Cardona, the petitioner claimed, in a
+
+§ 2255 motion, that he had not been given Miranda warnings at the
+
+time of his arrest.     The District Court rejected this claim
+
+because petitioner had pled guilty, and thus was barred from
+
+raising any constitutional claims, including the failure to
+
+receive his Miranda rights, where alleged violations had occurred
+
+prior to the entry of the guilty plea.     Colon-Cardona, 2011 WL
+
+1238422, at *1 citing, inter alia, United States v. Cordero, 42
+
+F.3d 697, 699 (1st Cir. 1994) for the proposition that a guilty
+
+
+23
+ The Respondent does not address this issue in its Motion for
+Summary Dismissal.
+
+                                  34
+plea waives prior non-jurisdictional constitutional errors.
+
+“When a criminal defendant has solemnly admitted in open court
+
+that he is in fact guilty of the offense with which he is
+
+charged, he may not thereafter raise independent claims relating
+
+to the deprivation of constitutional rights that occurred prior
+
+to the entry of the guilty plea.”   Id. at 698-99.
+
+     Colon-Cardona further explained:
+
+     “A guilty plea represents a break in the chain of
+     events which has preceded it in the criminal process.
+     When a criminal defendant has solemnly admitted in open
+     court that he is in fact guilty of the offense with
+     which he is charged, he may not thereafter raise
+     independent claims relating to the deprivation of
+     constitutional rights that occurred prior to the entry
+     of the guilty plea.” Tollett v. Henderson, 411 U.S.
+     258, 267 (1973). Petitioner Colon–Cardona waived his
+     right to any prior constitutional claim when he pled
+     guilty.
+
+Colon-Cardona, 2011 WL 1238422, at *1.   See Acevedo-Ramos v.
+
+United States, 961 F.2d 305 (1st Cir. 1992)(“It is clear that a
+
+plea of guilty to an indictment is an admission of guilt and a
+
+waiver of all non-jurisdictional defects.   See Valencia v. United
+
+States, 923 F.2d 917, 920 (1st Cir. 1991); see also [United
+
+States v.] Doyle, 348 F.2d [715] at 718 [2d 1965])”)(brackets
+
+added).
+
+     Here, Dubose entered a conditional plea of guilty, expressly
+
+reserving his right to have the Court of Appeals review this
+
+Court’s March 31, 2008 Memorandum and Order denying his Motion to
+
+                               35
+Suppress Evidence.   See Notice of Conditional Plea of Guilty
+
+(Docket No. 30).   The Motion to Suppress Evidence challenged a
+
+warrantless search of Dubose by the Boston Police Department, on
+
+the grounds that the stop of Dubose was not based on reasonable
+
+suspicion that a crime had or was about to occur, the subsequent
+
+frisk was impermissible, and the statements made by Dubose should
+
+be suppressed as fruit of the poisonous tree.   See Motion to
+
+Suppress Evidence (Docket No. 14); Memorandum in Support (Docket
+
+No. 15).   The reservation of rights did not include review of the
+
+issue whether Dubose had been given his Miranda rights while he
+
+was in the police cruiser.   Thus, this Court cannot find that the
+
+conditional plea falls outside the rationale of Colon-Cardona and
+
+other cases cited herein, nor can this Court find that Dubose has
+
+met his burden to demonstrate that § 2255 relief is warranted
+
+based on the allegation that he was not given his Miranda rights
+
+in the police cruiser.
+
+     For all these reasons, Dubose’s challenges to his criminal
+
+conviction are DENIED, and the Government’s Motion for Summary
+
+Dismissal is ALLOWED.
+
+                         III.   CONCLUSION
+
+     Based on the foregoing, it is hereby Ordered that:
+
+1.   Defendant Dubose’s request for appointment of counsel
+     (contained in the body of his petition) is DENIED;
+
+
+
+                                 36
+2.   Defendant Dubose’s Motion to Vacate, Set Aside, or Correct
+     Sentence pursuant to 28 U.S.C. § 2255 (Docket No. 62) is
+     DENIED in its entirety;
+
+3.   The Government’s Motion for Summary Dismissal (Docket No.
+     64) is ALLOWED; and
+
+4.   Civil Action No. 11-11249-PBS shall be DISMISSED in its
+     entirety.24 A separate Order of Dismissal shall enter.
+
+
+SO ORDERED.
+
+                                    /s/ Patti B. Saris
+                                    PATTI B. SARIS
+                                    UNITED STATES DISTRICT JUDGE
+
+
+
+
+24
+ The civil action was opened by the Clerk’s Office for
+administrative purposes only; it shall be terminated as a pending
+case in light of this Memorandum and Order denying § 2255 relief.
+
+                               37
+

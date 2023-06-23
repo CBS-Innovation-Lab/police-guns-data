@@ -1,0 +1,608 @@
+                          IN THE UNITED STATES DISTRICT COURT
+                           FOR THE DISTRICT OF MASSACHUSETTS
+
+UNITED STATES OF AMERICA,
+
+                        Plaintiff,
+                                                              Criminal No.17-10391-RGS
+       vs.
+
+1.     ANDRES PEREZ,
+
+                        Defendants.
+
+     GOVERNMENT'S OPPOSITION TO DEFENDANT’S MOTION TO SUPPRESS
+
+       ANDRES PEREZ is charged with possessing with intent to distribute cocaine base,
+
+including cocaine base which was seized from his anal area. He now seeks to suppress that
+
+evidence on grounds that the police lacked reasonable suspicion to stop the Mercedes which he
+
+was driving, because they searched the Mercedes in a private driveway, and because they
+
+conducted a visual cavity search. These arguments all fail because the police had reasonable
+
+suspicion that they had seen the driver of the Mercedes conduct a drug deal; because the
+
+automobile exception does apply to PEREZ’s car when parked in someone else’s driveway; and
+
+because the visual body cavity search was supported by reasonable suspicion that PEREZ was
+
+hiding drugs. Following a hearing, the court should deny the motion.
+
+I.     FACTS1
+
+
+       On October 31, 2017, at approximately 10:30 am, two Revere Police detectives were
+
+driving back to the police station in an unmarked car when they noticed an individual on a public
+
+street. He stood out to them because he was dressed unseasonably in a t-shirt and shorts and was
+
+acting in a noticeably agitated fashion, pacing back and forth on the public street while talking
+
+
+       1
+           The government anticipates that it will elicit testimony to show the following facts.
+on a cell phone, and looking up and down the street as if waiting for someone. Both detectives
+
+believed that the man had physical traits consistent with a drug abuser. The street is located in
+
+an area right next to two main highways, an area favorable for quick drug transactions as sellers
+
+can simply exit the highways and then get directly back on.
+
+       The detectives shortly thereafter observed the man walk to a side street. The detectives
+
+drove to the end of the side street, and observed the male lean into the passenger window of a
+
+brown, two door Mercedes and then immediately walk away. The entire transaction took no
+
+more than 15 seconds and the man was actually leaning inside the car for only a few seconds.
+
+Although they did not see an actual exchange, based on their experience and all the surrounding
+
+facts, the detectives believed that they had just seen a street-level drug deal.
+
+       The detectives thereafter followed the Mercedes. They saw the Mercedes travel
+
+eastbound on Eustis Street, make a right onto Beach Street, a left on Janvrin Avenue, and a left
+
+on Trevalley Road. Trevalley Road ends in a T-intersection at Payson Street, which is a one way
+
+street leading directly back to Beach Street, almost exactly where the Mercedes had been a few
+
+moments earlier. The detectives believed that the Mercedes was conducting counter-
+
+surveillance, which further confirmed their suspicion that the individuals in the Mercedes were
+
+engaged in drug dealing.
+
+       The detectives conducted a motor vehicle stop just as the Mercedes was approaching
+
+Payson Street. The Mercedes pulled into a small driveway off Trevalley Road.2 PEREZ did not
+
+
+
+
+       2
+           It is unclear whether the Mercedes pulled into the driveway and then the police
+activated their blue lights or whether the police activated their lights, which caused the Mercedes
+to pull over. The distinction makes no difference to the analysis.
+                                                  2
+live in the house and told police that he was there to visit a friend.3 The vehicle held two
+
+individuals. The driver was ANDRES PEREZ and the passenger was Cesar Alicea. During the
+
+traffic stop, both detectives observed PEREZ handling two cell phones in a manner consistent
+
+with him turning them off, which was consistent with trying to conceal potential drug trafficking
+
+evidence by limiting access to the phones by the police.
+
+       In response to a request from the detectives, PEREZ identified himself, provided the
+
+registration for the vehicle, but said that he did not have a license. One of the detectives
+
+conducted a records check and learned that PEREZ’s license was revoked and, because PEREZ
+
+was going to be arrested for driving without a license, requested a marked unit for backup, which
+
+arrived shortly thereafter. The detective asked PEREZ to step out of the vehicle in order to be
+
+arrested. PEREZ was pat-frisked by one of the detectives (pursuant to his arrest), and the
+
+detective found approximately $269 in various denominations, which was also consistent with
+
+street-level dealing.
+
+       While PEREZ was being pat-frisked, Alicea suddenly opened the passenger door and fled
+
+on foot. The back-up officer chased Alicea to a dead end near a residence. The officer observed
+
+Alicea stop at the dead end, take something from the front of his pants, rear back his arm, and
+
+throw the object over a fence. The officer believed that the object was round and white. Based
+
+on the circumstances, the officer believed the discarded object was a package of drugs. Revere
+
+Sergeant Robert Impemba, who is also a FBI TFO (North Shore Gang Task Force), arrived on
+
+scene to aid in the search of the backyards where the object had been thrown. 4 The sergeant
+
+
+       3
+          PEREZ did not provide the last name of the friend or the purpose of the alleged visit.
+Police later asked a resident if PEREZ had been invited to park there and learned that PEREZ
+had not; the resident also did not know the friend.
+        4
+           Sergeant Impemba immediately recognized PEREZ, who was sitting in the squad car,
+as the subject of a prior drug investigation in which he had participated and as an associate of the
+                                                  3
+found a small, .25 caliber, silver pistol in the backyard of a residence, sticking in the ground as if
+
+it had been thrown. The gun had an obliterated serial number and a round in the chamber, with a
+
+loaded magazine nearby the gun. Alicea was also arrested.5
+
+       The detectives called for a K-9 officer to search the vehicle, who arrived after the gun
+
+was recovered. The dog alerted to what appeared to be a single rock of crack cocaine – about
+
+$40 worth – wrapped in a manner consistent with distribution which was between the driver’s
+
+seat and driver’s door. Officers also recovered multiple cellular telephones and a second license
+
+plate from the trunk of the vehicle.6
+
+       PEREZ and Alicea were brought to the Revere Police Station for booking. Sgt. Impemba
+
+was aware that PEREZ and Alicea were associated with the East Side Money Gang and had
+
+personally investigated PEREZ for PEREZ for dealing drugs including cocaine base, which
+
+investigation included undercover buys from PEREZ. Sgt. Impemba had experience that street
+
+drug dealers in general and gang members in particular often hid drugs in their anal areas to
+
+avoid detection by the police.
+
+
+       The police, including Sgt. Impemba, believed that PEREZ and Alicea had likely hidden
+
+drugs in their anal areas based on the above general experience and the following specific factual
+
+circumstances:
+
+
+       1. They had observed what appeared to be a street-level drug deal in which PEREZ or
+          Alicea or both was the source for the drugs;
+
+
+
+East Side Money Gang, a violent Chelsea street gang. The government introduced evidence at
+PEREZ’s detention hearing that he, and Alicea, were members of the gang.
+        55
+           Alicea was charged with being a felon in possession in Count Two of the Indictment in
+this case. Alicea pled guilty to that charge on July 24, 2018, and is awaiting sentencing.
+        6
+           Revere Police would have conducted an inventory search of the Mercedes prior to
+towing it, consistent to Department policy.
+                                                  4
+       2. After conducting the drug deal, PEREZ had driven in a manner consistent with
+          counter-surveillance and/or an attempt to hid evidence;
+
+       3. PEREZ had taken steps to conceal evidence by manipulating his phones as observed
+          by the officers;
+
+       4. PEREZ had money on him consistent with street dealing;
+
+       5. Alicea had been armed, which would be consistent with them protecting a cache of
+          drugs in the car;
+
+       6. Alicea attempted to conceal evidence by fleeing and throwing the gun away;
+
+       7. There was an extra license plate in the vehicle, which was consistent with the
+          concealing drug activity from law enforcement;
+
+       8. Officers found crack (wrapped for distribution) on the floor of the vehicle, which
+          would be consistent with dropping drugs as they were hiding them;
+
+       9. They had recovered only about $40 worth of drugs, which seemed inconsistent with
+          the circumstances above, especially the presence of the gun; and
+
+       10. Officers had a reasonable belief that there should be more drugs in the car than the
+           single rock recovered.
+
+Based on the above, officers had both individuals strip, bend-over, and expose that area of their
+
+bodies. Specifically, they instructed PEREZ to place his hands on a desk and bend-over, which
+
+exposed his buttocks. Detective Zingali craned his neck and saw something hidden in that area
+
+of PEREZ’s body. He then removed a clear plastic bag containing numerous other clear plastic
+
+baggies of a white, rock-like substance and a brown powdery substance—which appeared to
+
+them, based on their training and experience, to be cocaine base and heroin packaged for street-
+
+level distribution in multiple small plastic baggies.
+
+II.    ARGUMENT
+
+
+       1.      There Was Reasonable Suspicion For the Stop.
+
+       Police officers are permitted to stop a vehicle based on a “reasonable suspicion” of
+
+criminal activity, based on “specific and articulable facts.” United States v. Jones, 700 F.3d 615,
+
+                                                  5
+621 (1st Cir. 2012) (citing Terry v. Ohio, 392 U.S. 1, 21 (1968)). While Terry typically involves
+
+a two-part test to determine first, whether the “initial interference . . . was justified,” and second,
+
+“whether the ensuing search was reasonabl[e] . . . ,” United States v. Ivery, 427 F.3d 69, 72 (1st
+
+Cir. 2005), the initial stop led almost immediately to the arrest of PEREZ and the subsequent
+
+search of the car was justified on separate grounds. Therefore, the real question here is whether
+
+the initial stop was justified.
+
+        The justification for the initial stop should be viewed through the “totality of the
+
+circumstances.” United States v. Campbell, 741 F.3d 251, 261 (1st Cir. 2013) (citing United
+
+States v. Cortez, 449 U.S. 411, 417 (1981)). The implication of that lens is that “even innocuous
+
+facts, which when taken alone may not be sufficient to create reasonable suspicion, may in
+
+combination with other innocuous facts take on added significance.” United States v. Am, 564
+
+F.3d 25, 30 (1st Cir. 2009) (internal citations omitted). Furthermore, in deciding to make a Terry
+
+stop, officers are expected to use “their own expertise and specialized training.” United States v.
+
+Arvizu, 534 U.S. 266, 273 (2002). Careful review of the several facts here demonstrated that this
+
+traffic stop did not violate the Fourth Amendment and therefore was not unlawful.
+
+        Here, the detective reasonably concluded that they had just seen a drug deal, which was
+
+sufficient justification for the stop. In this case, the officers had experience with this particular
+
+area of Revere and the manner of drug crimes which typically took place there. Specifically,
+
+they saw a man who acted consistently with a drug user – frantic, dressed inappropriately,
+
+holding a cell phone and looking for someone – lean into a car for about fifteen seconds. Such
+
+conduct was entirely consistent with a drug deal. See United States v. Dubose, 579 F.3d 117,
+
+121-22 (1st Cir. 2009) (“the fact that [the defendant] leaned his entire upper body into the car
+
+during the interaction, and that [the defendant]’s conduct was similar to the conduct involved in
+
+
+
+                                                   6
+other drug transactions in the area” gave officers reasonable suspicion to stop); United States v.
+
+Trullo, 809 F.2d 108, 111-12 (1st Cir. 1987) (the police stopped and searched a defendant
+
+because they viewed his vehicle engaged in a pattern of movement consistent with a drug
+
+transaction in a high-crime neighborhood); United States v. Rabbia, 699 F.3d 85, 90 (1st Cir.
+
+2012) (drug related concerns sufficient for Terry stop), citing United States v. Miller, 959 F.2d
+
+1535, 1539 (11th Cir. 1992) (drug transactions in which “supplier arrived by car, [the customer]
+
+got in the car, the car drove around the block during which time the exchange of drugs for money
+
+occurred, and then the car returned to the residence and dropped [the customer] off); United
+
+States v. Allah, 994 F. Supp. 2d 148, 154 (D. Mass. 2014) (finding reasonable suspicion where
+
+officer saw a new-looking Chevrolet acting in a manner consistent with drug dealing in a high
+
+drug-crime area).
+
+       The police officers’ reasonable conclusion is buttressed by additional, relevant facts. The
+
+stop occurred in a high-crime area. Presence in a high-crime area, although insufficient on its
+
+own, is “clearly a consideration a police officer may use to decide to make a Terry stop.” Am,
+
+564 F.3d at 30 (the defendant’s presence in a high-crime area, combined with other factors, was
+
+sufficient to justify a stop and pat-down). The defendant was in a recent model Mercedes, a type
+
+of vehicle often associated with drug transactions in this area. See Allah, 994 F. Supp. 2d at 154
+
+(a new-looking Chevrolet in a high drug crime area); United States v. Santiago Vega, 228 F.
+
+Supp. 2d 2, 9 (D.P.R. 2002) (reasonable suspicion where a late model black Mercedes Benz SUV
+
+in a high crime area contained a defendant behaving suspiciously). Finally, the car appeared to
+
+perform counter-surveillance, another factor that supports a conclusion that the occupants had
+
+just completed a drug and were engaged in ongoing criminal activity.
+
+
+
+
+                                                 7
+         2.     The Search of the Mercedes Was Justified, Regardless of Where The Police
+                Stopped PEREZ.
+
+         “The ‘automobile exception’ to the Fourth Amendment’s search warrant requirement
+
+provides that ‘[i]f there is probable cause to believe that a vehicle contains evidence of criminal
+
+activity, agents can search without a warrant any area of the vehicle in which evidence may be
+
+found.’” United States v. Mott-Frye, 251 F. Supp. 3d 310, 315 (D. Mass. 2017), citing United
+
+States v. Polanco, 634 F. 3d 39, 42 (1st Cir. 2011); Carroll v. United States, 267 U.S. 132 (1925).
+
+In this case, the long list of factors above, including observations of the drug deal, the counter-
+
+surveillance (and opportunity for concealment that it provided), PEREZ’s two phones, his
+
+attempts to conceal the phones, Alicea fleeing, and Alicea attempting to conceal evidence, all
+
+give ample probable cause for the police to search the car. Moreover, the police required no
+
+specific exigency to justify the search. United States v. Panitz, 907 F.2d 1267, 1271-72 (1st Cir.
+
+1990).
+
+         PEREZ argues that the motor vehicle exception to the search warrant requirement “does
+
+not extend to a vehicle parked in a public driveway,” Def.’s Mem. at 4, citing Collins v. Virginia,
+
+-- U.S. --, 138 S. Ct. 1663 (2018). Collins does not apply to this case. Collins presented the
+
+question whether the automobile exception to the Fourth Amendment applied within the
+
+curtilage of the defendant’s home, which included the driveway where the motor vehicle was
+
+located. 7 Id. at 1669. PEREZ cannot avail himself of the home’s curtilage because it was not
+
+his home. Notably, PEREZ never asserts that he lived there or was even an invited guest. As a
+
+result, the heightened protection for the home, which the curtilage seeks to protect, is not
+
+
+         7
+        Collins did not define how far down the driveway the curtilage extends; in the case, the
+motor vehicle (a motorcycle) was parked at the top of the driveway, next to a side door to the
+house. Id. at 1671. Because PEREZ has no Fourth Amendment interest in the curtilage of the
+house where he parked, it does not matter where in the driveway he parked.
+                                                  8
+implicated here. In other words, PEREZ lacks standing to make this argument. See id., 1668 fn.
+
+1.
+
+       This case is controlled by United States v. Goncalves, where the First Circuit affirmed
+
+application of the motor vehicle exception to a search of the defendant’s car parked in a private
+
+driveway (the defendant’s mother’s) and unoccupied by anyone who might drive it away. 642
+
+F.3d 249, 251 (1st Cir. 2011). The Court declined to create a per se rule against warrantless
+
+searches in a driveway. Id.; see also United States v. Moscatiello, 771 F.2d 589, 599-600 (1st
+
+Cir. 1985) (upholding search of automobile parked in a private driveway, not the defendant’s
+
+driveway, after police had pursued the automobile into the driveway), vacated on other grounds
+
+by Murray v. United States, 487 U.S. 533 (1988).
+
+       The search of the Mercedes was also justified as an inventory search. Inventory searches
+
+“are now a well-defined exception to the warrant requirement of the Fourth Amendment.”
+
+Colorado v. Bertine, 479 U.S. 367, 371 (1987). These searches are “justified based on
+
+community caretaking functions, including, for example, the protection of property, the flow of
+
+traffic, and the safety of the public and police.” United States v. Mensah, 796 F. Supp. 2d 265,
+
+268 (D. Mass. 2011) (citations omitted). Inventory searches are permissible under the Fourth
+
+Amendment where police have lawfully impounded the defendant’s vehicle and the search is
+
+carried out pursuant to a reasonable, standardized policy. South Daktoa v. Opperman, 428 U.S.
+
+364, 372 (1976).
+
+       Here, both PEREZ was arrested, 8 as well as Alicea, leaving no one to drive the car.
+
+“Case law supports the view that where a driver is arrested and there is no one immediately on
+
+
+
+       8
+          Having legally stopped PEREZ, the police were entitled to ask him to present
+identification, from which interaction they learned the PEREZ was driving illegally, which was a
+criminal offense. “[O]fficers may order the driver and any passengers to get out of the car until
+                                                9
+hand to take possession, the officials have a legitimate non-investigatory reason for impounding
+
+the car.” United States v. Coccia, 446 F.3d 223, 240, n. 7 (1st Cir. 2006) (citing Vega-
+
+Encarnacion v. Babilonia, 344 F.3d 37, 41 (1st Cir. 2003)). In fact, the Mercedes was blocking
+
+the driveway, which was another reason why the car had to be towed. In connection with the
+
+towing, it was the practice of the Revere police to conduct an inventory search.
+
+       3.      The Visual Body Cavity Search Was Justified.
+
+
+       In the first place, probable cause is not needed to perform a strip or visual body cavity
+
+search performed pursuant to a lawful arrest. Swain v. Spinney, 117 F.3d 1, 5-7 (1st Cir. 1997).
+
+All the police must do is show that they had "reasonable suspicion that the arrestee was
+
+concealing contraband or weapons" in the areas being searched. Swain, 117 F.3d at 6. Relevant
+
+factors include the nature of the offense, the items that are the object of the search, and the
+
+likelihood these items may be so concealed. The inquiry is a practical one, calling for a Asensible
+
+assessment of the circumstances.@ United States v. Cofield, 391 F.3d 334, 336-37 (1st Cir.
+
+2004). See generally Bell v. Wolfish, 441 U.S. 520, 559 (1979) (reasonableness of an intrusive
+
+search requires consideration of "the scope of the particular intrusion, the manner in which it is
+
+conducted, the justification for initiating it, and the place in which it is conducted").
+
+       In drug cases, strip searches are per se justified because A[i]t is common knowledge that
+
+controlled substances often are concealed on the person of users and dealers alike." Burns v.
+
+Loranger, 907 F.2d 233, 238-39 (1st Cir. 1990). See also United States v. Barnes, 506 F.3d 58,
+
+62 (1st Cir. 2007) (AThe initial strip search for contraband and weapons was clearly justified
+
+given Barnes's arrest for a drug trafficking crime@); United States v. Doutre, 2009 WL 1211048
+
+
+
+the traffic stop is complete.” United States v. Fernandez, 600 F.3d 56, 59 (1st Cir. 2010) (citing
+Maryland v. Wilson, 519 U.S. 408, 415 (1997)).
+                                                  10
+(D. Mass. 2009) (Saris J.) (ABecause Doutre was arrested for a drug trafficking crime, the police
+
+were justified in conducting a strip search@).
+
+       In this case, the police executed a visual bodily cavity search. “[A]lthough sometimes
+
+varying in labels, courts tend to distinguish between (1) a simple strip search involving removal
+
+of all or virtually all clothes, (2) a visual inspection of genitals or buttocks requiring some
+
+change in posture of the body (for example, the subject might be forced to bend over and spread
+
+his buttock cheeks), and (3) an actual manual intrusion into such orifices.” United States v.
+
+McGhee, 627 F.3d 454, 457 (1st Cir. 2010), on reh'g, 651 F.3d 153 (1st Cir. 2011). When the
+
+search extends to body cavities, more than the simple fact of a drug arrest is required. Barnes,
+
+506 F.3d at 62 (requiring a "more particularized suspicion that contraband is concealed" to
+
+justify visual body cavity search); Swain, 117 F.3d 1, 7 (1st Cir.1997) (“[T]he reasonable
+
+suspicion standard governs strip and visual body cavity searches in the arrestee context....”). The
+
+suspicion must also be specific to the individual being searched. Roberts v. Rhode Island, 239
+
+F.3d 107, 110 (1st Cir. 2001) (A[O]fficers [must] have a reasonable suspicion that a particular
+
+detainee harbors contraband prior to conducting a ... visual body cavity search.@). See also
+
+Hunter v. Auger, 672 F.2d 668, 675 (8th Cir.1982) (strip and visual body cavity search required
+
+reasonable suspicion that "drugs or other contraband are concealed in the particular place [prison
+
+officials] decide to search"); Kraushaar v. Flanigan, 45 F.3d 1040, 1046 (7th Cir.1995) (holding
+
+search reasonable where defendant made gestures as if attempting to hide something in his
+
+pants).9
+
+
+
+       9
+         The cases also require consideration of the manner in which the search is conducted,
+with attention to whether it exceeds reasonable bounds or is done in a needlessly humiliating
+fashion or with improper motivation. E.g., Roberts v. Rhode Island, 239 F.3d 107, 113 (1st Cir.
+2001); Swain, 117 F.3d at 8. There are no such concerns here.
+
+                                                  11
+       Application of these principles here show that the search was reasonable. The police
+
+reasonably believed that PEREZ was dealing drugs, which his known criminal history
+
+confirmed; they were aware that Alicea had possessed a gun, which suggested they may have
+
+possessed a large quantity of drugs in need of protection; in contrast, they had found only a very
+
+small quantity of drugs; they were aware that PEREZ engaged in counter-surveillance, which
+
+would have provided an opportunity to secrete drugs; they saw PEREZ attempting to hide his
+
+phones and Alicea attempting to dispose of evidence; and they were generally aware that gang
+
+members, including ESMG members, concealed drugs in their anal areas. E.g., Cofield, 391
+
+F.3d at 336-37 (upholding strip search of arrestee who had pending heroin and armed assault
+
+charges and whose had a bag of heroin in his pocket); United States v. Logan, 219 Fed. Appx.
+
+293 (7th Cir. 2007) (upholding strip search of individual arrested for drug possession who had
+
+recently sold drugs to an undercover agent and where police had recovered two bags of
+
+marijuana and a bag of crack from defendant’s car and person).10
+
+
+
+
+10
+  Removing the plastic baggie, once observed, did not constitute a manual bodily cavity search.
+See, e.g., United States v. Gray, No. Cr. 10-10075-PBS, 2010 WL 5128369, at *3 (D. Mass. Dec.
+10, 2010).
+
+
+
+                                                12
+III.   CONCLUSION
+
+
+       For the reasons discussed above, the government respectfully requests that the Court
+
+deny defendant’s motion to suppress.
+
+                                                      Respectfully submitted,
+
+                                                      ANDREW E. LELLING
+                                                      United States Attorney
+
+                                                      By: /s/ Timothy E. Moran
+                                                      TIMOTHY E. MORAN
+                                                      MICHAEL J. CROWLEY
+                                                      Assistant U.S. Attorneys
+Date: August 1, 2018
+
+                                  CERTIFICATE OF SERVICE
+
+        I hereby certify that this document filed through the ECF system will be sent
+electronically to the registered participants as identified on the Notice of Electronic Filing (NEF).
+
+
+
+
+                                              /s/ Timothy E. Moran
+                                              TIMOTHY E. MORAN
+                                              Assistant United States Attorney
+
+
+
+Date: August 1, 2018
+
+
+
+
+                                                 13
+

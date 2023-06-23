@@ -1,0 +1,485 @@
+Case 1:18-cr-00137-WES-LDA Document 90 Filed 04/17/20 Page 1 of 10 PageID #: 463
+
+
+
+                    UNITED STATES DISTRICT COURT
+                  FOR THE DISTRICT OF RHODE ISLAND
+ ___________________________________
+                                     )
+ UNITED STATES OF AMERICA            )
+                                     )
+      v.                             )    Cr. No. 18-130-1 WES
+                                     )    Cr. No. 18-137-3 WES
+ EMMANUEL MIAMEN,                    )    Cr. No. 18-142 WES
+                                     )
+           Defendant.                )
+ __________________________________ )
+
+                             MEMORANDUM AND ORDER
+
+ WILLIAM E. SMITH, District Judge.
+
+ I.    BACKGROUND
+
+       In June 2019, Defendant Emmanuel Miamen pleaded guilty in
+
+ this Court to charges in three separate indictments, related to
+
+ the unlicensed dealing of firearms and witness tampering while
+
+ on pretrial release.         See generally, Cr. Nos. 18-130, 18-137,
+
+ and 18-142 (D.R.I.).         Thereafter, in February 2020, the Court
+
+ sentenced     Defendant     to   a    total       of     twenty-four       months’
+
+ imprisonment     with   thirty-six      months’        supervised     release    to
+
+ follow.      See,   e.g.,   Judgment,    Cr.   No.      18-137,     ECF   No.   82.1
+
+ According to the Bureau of Prisons’ (“BOP”) website, Defendant’s
+
+ projected release date is in fewer than sixty days, on June 15,
+
+ 2020.     Federal Bureau of Prisons, Find an Inmate, available at
+
+ https://www.bop.gov/inmateloc/ (last visited Apr. 17, 2020).                     He
+
+
+       1All record citations in this Memorandum and Order refer to
+ the Cr. No. 18-137 docket, unless otherwise noted.
+Case 1:18-cr-00137-WES-LDA Document 90 Filed 04/17/20 Page 2 of 10 PageID #: 464
+
+
+
+ is currently serving his sentence at MDC Brooklyn, which as of
+
+ the time of this writing, has reported COVID-19 cases for both
+
+ inmates and staff.      See generally Gov’t Resp. to Def.’s Mot. for
+
+ Early Release (“Gov’t Opp’n”), ECF No. 87.             On April 6, 2020,
+
+ Defendant filed the instant Motion for Early Release in light of
+
+ the COVID-19, or novel coronavirus, outbreak that has gripped
+
+ our nation in recent weeks.        See generally Def.’s Mot. for Early
+
+ Release (“Def.’s Mot.”), ECF No. 86.            According to Defendant’s
+
+ filing, he suffers from high blood pressure.              Id. at 2.      The
+
+ Government opposes Defendant’s request for early release and has
+
+ not waived its argument on the statutory exhaustion requirement.
+
+ See generally Gov’t Opp’n. 2        Defense counsel mailed Defendant’s
+
+ request to the BOP for compassionate release on April 10, 2020,
+
+ and the Court understands that the BOP received that request on
+
+ April 13, 2020.      See Joint Status Report 1, ECF No. 88.            As of
+
+ this writing, the Court has received no information suggesting
+
+ that the BOP has yet acted on Defendant’s request.
+
+
+
+
+       2In a considerable number of cases in other jurisdictions,
+ the Government has waived the exhaustion argument.    See, e.g.,
+ United States v. Gentille, No. 19 Cr. 590 (KPF), 2020 WL 1814158
+ (S.D.N.Y. Apr. 9, 2020); United States v. Jasper, No. 18-CR-390-
+ 18 (PAE), ECF No. 440 (S.D.N.Y. Apr. 6, 2020).
+
+
+                                       2
+Case 1:18-cr-00137-WES-LDA Document 90 Filed 04/17/20 Page 3 of 10 PageID #: 465
+
+
+
+ II.     DISCUSSION
+
+         A.      Statutory Background
+
+         Though Defendant does not set forth a legal basis for his
+
+ request for relief, the Court construes his motion as one for
+
+ compassionate release under 18 U.S.C. § 3582(c)(1)(A).               Section
+
+ 3582(c), as amended by the 2018 passage of the First Step Act,
+
+ allows a defendant to directly petition the district court in
+
+ which    he     was   sentenced   for   compassionate   relief.     See   id.
+
+ Section 3582(c)(1)(A) states in pertinent part:
+
+         the court, upon motion of the Director of the Bureau
+         of Prisons, or upon motion of the defendant after the
+         defendant has fully exhausted all administrative
+         rights to appeal a failure of the Bureau of Prisons to
+         bring a motion on the defendant’s behalf or the lapse
+         of 30 days from the receipt of such a request by the
+         warden of the defendant’s facility, whichever is
+         earlier, may reduce the term of imprisonment (and may
+         impose a term of probation or supervised release with
+         or without conditions that does not exceed the
+         unserved    portion   of    the   original   term   of
+         imprisonment), after considering the factors set forth
+         in section 3553(a) to the extent that they are
+         applicable, if it finds that —
+
+         (i) extraordinary and compelling reasons warrant such
+         a reduction
+
+         . . .
+
+         and   that  such  a   reduction  is  consistent  with
+         applicable policy statements issued by the Sentencing
+         Commission[.]
+
+
+ Id.; see also U.S.S.G. § 1B1.13 (setting forth the Sentencing
+
+ Guidelines’       policy   statement    on   compassionate   release).    The
+
+
+                                         3
+Case 1:18-cr-00137-WES-LDA Document 90 Filed 04/17/20 Page 4 of 10 PageID #: 466
+
+
+
+ Sentencing Commission’s policy statement regarding compassionate
+
+ release adds the requirement that the court find that “[t]he
+
+ defendant is not a danger to the safety of any other person or
+
+ to   the       community,        as    provided      in   18       U.S.C.     §    3142(g)[.]”
+
+ U.S.S.G. § 1B1.13(2).
+
+       In sum, under 18 U.S.C. § 3582(c) and U.S.S.G. § 1B1.13,
+
+ once a defendant demonstrates that he has exhausted the Bureau
+
+ of Prisons’ administrative process for compassionate release, or
+
+ thirty days have lapsed without a decision, whichever occurs
+
+ first,     a    district     court       may    reduce       the    defendant’s          term     of
+
+ imprisonment         provided,         as      relevant       here,     that           the   court
+
+ determines: (1) extraordinary and compelling reasons warrant the
+
+ reduction; (2) the defendant will not be a danger to the safety
+
+ of any other person or the community; and (3) the sentencing
+
+ factors        outlined     in    18    U.S.C.      §   3553(a)       weigh       in    favor     of
+
+ release.        See 18 U.S.C. § 3582(c)(1)(A); U.S.S.G. § 1B1.13; see
+
+ also United States v. Sapp, No. 14-cr-20520, 2020 WL 515935, at
+
+ *2 (E.D. Mich. Jan. 31, 2020); United States v. Willis, 382 F.
+
+ Supp. 3d 1185, 1187-88 (D.N.M. 2019).                        The defendant carries the
+
+ burden on a motion for compassionate release.                           United States v.
+
+ Ebbers,        No.   (S4)    02-CR-1144-3           (VEC),     2020    WL     91399,         at   *4
+
+ (S.D.N.Y. Jan. 8, 2020).
+
+
+
+
+                                                 4
+Case 1:18-cr-00137-WES-LDA Document 90 Filed 04/17/20 Page 5 of 10 PageID #: 467
+
+
+
+       B.       Exhaustion of Administrative Process
+
+       The         Government      argues      that         the     statutory     exhaustion
+
+ provision embedded in § 3582(c) requires denial of Defendant’s
+
+ motion.       Gov’t Opp’n 2-6.           The Court agrees.
+
+       The     Supreme         Court   has    held       that      “judge-made    exhaustion
+
+ doctrines, even if flatly stated at first, remain amenable to
+
+ judge-made            exceptions”;       that         said,       “statutory     exhaustion
+
+ provision[s] stand[] on a different footing[,]” and where there
+
+ exists        a       mandatory       statutory            exhaustion       provision,       it
+
+ “foreclos[es] judicial discretion.”                         Ross v. Blake, 136 S. Ct.
+
+ 1850, 1857 (2016); see also id. at 1856 (stating that “mandatory
+
+ language means a court may not excuse a failure to exhaust, even
+
+ to take [special] circumstances into account”).
+
+       Circuit         and     district    courts       are       split   over   whether     the
+
+ statutory         exhaustion      provision           in    18    U.S.C.    §   3582(c)      is
+
+ jurisdictional           in     nature      or,       instead,      a    mandatory       claim-
+
+ processing rule.              See United States v. Lugo, No. 2:19-cr-00056-
+
+ JAW, 2020 WL 1821010, at *3 (D. Me. Apr. 10, 2020) (discussing
+
+ the circuit split over whether the limitation in 18 U.S.C. §
+
+ 3582(c) is jurisdictional); see also United States v. Griffin,
+
+ 524 F.3d 71, 84 (1st Cir. 2008) (quoting with approval a since-
+
+ overturned Seventh Circuit case as stating “[Section] 3582(c)
+
+ limits the substantive authority of the district court . . .
+
+ [and]    is       a   real     ‘jurisdictional’            rule    rather    than    a    case-
+
+                                                   5
+Case 1:18-cr-00137-WES-LDA Document 90 Filed 04/17/20 Page 6 of 10 PageID #: 468
+
+
+
+ processing      requirement”          (alterations           in       original)      (quoting
+
+ United      States    v.    Smith,    438    F.3d     796,    799      (7th     Cir.    2006),
+
+ overruled by United States v. Taylor, 778 F.3d 667, 671 (7th
+
+ Cir. 2015)).         Generally, this distinction is significant because
+
+ “statutory preconditions to relief are jurisdictional (and thus,
+
+ if not met, bar consideration of the requested relief on its
+
+ merits),” whereas, “mandatory claim-processing rules . . . while
+
+ mandatory ‘in the sense that a court must enforce the rule if a
+
+ party “properly raise[s]” it’ — may be waived or forfeited by
+
+ the adverse party.”           Lugo, 2020 WL 1821010, at *2 (quoting Fort
+
+ Bend Cty. v. Davis, 139 S. Ct. 1843, 1849 (2019) (alteration in
+
+ original)).          In the instant case, however, the Government has
+
+ properly advanced its exhaustion argument, and, thus, the result
+
+ is    the   same     regardless       of    whether     the       §   3582(c)     exhaustion
+
+ requirement is jurisdictional.                   The Court, accordingly, declines
+
+ to decide the issue.            See id. at *3 (declining to decide whether
+
+ the    exhaustion       requirement         in    §    3582(c)         is    jurisdictional
+
+ (citing United         States    v.    Monzon,        No.   99cr157         (DLC),     2020   WL
+
+ 550220, at *2 (S.D.N.Y. Feb. 4, 2020) (same)).
+
+        The statutory exhaustion provision in § 3582(c) is plainly
+
+ mandatory here.            The statute, as stated above, provides that a
+
+ court “may not modify a term of imprisonment once it has been
+
+ imposed except that . . . in any case . . . the court, upon
+
+ motion of the Director of the Bureau of Prisons, or upon motion
+
+                                               6
+Case 1:18-cr-00137-WES-LDA Document 90 Filed 04/17/20 Page 7 of 10 PageID #: 469
+
+
+
+ of the defendant after the defendant has fully exhausted all
+
+ administrative       rights      to   appeal    a   failure       of   the    Bureau    of
+
+ Prisons to bring a motion on the defendant’s behalf or the lapse
+
+ of 30 days from the receipt of such a request by the warden of
+
+ the defendant’s facility, whichever is earlier . . . .”                                 18
+
+ U.S.C. § 3582(c)(1)(A) (emphasis added).                     The statute provides
+
+ no   exceptions      to    the     exhaustion       requirement,       id.,    and     the
+
+ Supreme Court has clearly stated that courts may not manufacture
+
+ exceptions where they do not exist.                   See Ross, 136 S. Ct. at
+
+ 1856 (stating that “mandatory language means a court may not
+
+ excuse     a    failure       to      exhaust,       even     to       take    ‘special
+
+ circumstances’ into account”).
+
+       The Court is aware that there is a growing split among
+
+ district courts on whether the § 3582(c) exhaustion provision is
+
+ mandatory.      Compare Lugo, 2020 WL 1821010, at *3, 5 (holding
+
+ that the statutory exhaustion requirement in § 3582(c) is clear
+
+ and mandatory and dismissing compassionate release motion for
+
+ failure to exhaust administrative process), with United States
+
+ v.   Perez,    No.   17    Cr.     513-3   (AT),     2020    WL    1546422,     at   *2–3
+
+ (S.D.N.Y. Apr. 1, 2020) (concluding that there are exceptions to
+
+ the § 3582(c) exhaustion provision and granting compassionate
+
+ release   before     the    defendant      exhausted        administrative      process
+
+ with the BOP (citing Washington v. Barr, 925 F.3d 109, 118 (2d
+
+ Cir. 2019)).         But the First Circuit has noted in dicta that
+
+                                            7
+Case 1:18-cr-00137-WES-LDA Document 90 Filed 04/17/20 Page 8 of 10 PageID #: 470
+
+
+
+ “exhaustion of administrative remedies is absolutely required if
+
+ explicitly mandated by Congress”, Portela-Gonzalez v. Sec’y of
+
+ the Navy, 109 F.3d 74, 77 (1st Cir. 1997), and the only circuit
+
+ court to weigh in on this issue in the midst of the COVID-19
+
+ pandemic called the § 3582(c) exhaustion requirement “a glaring
+
+ roadblock     foreclosing    compassionate     release       at   this       point.”
+
+ United States v. Raia, No. 20-1033, 2020 WL 1647922, at *2 (3d
+
+ Cir. Apr. 2, 2020).        The cases finding implied exceptions to the
+
+ §   3582(c)    exhaustion    requirement     largely     rely     on     a    Second
+
+ Circuit case addressing a judge-made (rather than a statutorily-
+
+ imposed)    exhaustion     requirement.      See,    e.g.,     Perez,        2020   WL
+
+ 1546422, at *2–3 (citing Washington, 925 F.3d at 118); see also
+
+ Lugo, 2020 WL 1821010, at *4 (noting this distinction between
+
+ the statute at issue in Washington and 18 U.S.C. § 3582(c)).
+
+ But in contrast to the statutory exhaustion provision before the
+
+ Court    here,    “courts    have    more   latitude      in      dealing       with
+
+ exhaustion     questions    when    Congress   has     remained        silent[.]”
+
+ Portela-Gonzalez, 109 F.3d at 77 (citations omitted).
+
+       In the instant case, Defendant does not purport to have
+
+ satisfied the exhaustion requirement, nor does he suggest that
+
+ the BOP’s administrative process has rendered itself futile or
+
+ is otherwise not properly functioning.              Accordingly, regardless
+
+ of the underlying merits of Defendant’s motion, the Court has no
+
+ authority to entertain it.          (Of course, in the event an inmate
+
+                                       8
+Case 1:18-cr-00137-WES-LDA Document 90 Filed 04/17/20 Page 9 of 10 PageID #: 471
+
+
+
+ faced      the   situation     where    life-threatening      circumstances      were
+
+ present, and where the BOP was unable or unwilling to act upon a
+
+ petition for compassionate release, a court may have cause – and
+
+ authority – to intervene either through a petition for habeas
+
+ corpus or by finding the administrative process futile.                             The
+
+ Court does not have such facts before it in this Motion.)
+
+        Importantly,      the    Court    expresses      no   view   on    Defendant’s
+
+ request      for    compassionate       release    or   on   how    the   BOP   should
+
+ handle it, other than to suggest that it should be considered
+
+ expeditiously. 3       If the BOP denies Defendant’s request, or thirty
+
+ days       lapse,    whichever         occurs     first,     see     18    U.S.C.     §
+
+ 3582(c)(1)(A), Defendant is free to file again his Motion before
+
+ this Court.
+
+
+
+
+        See Mem. from Att’y Gen. to Dir. of Bureau Prisons 1 (Mar.
+        3
+
+ 26,               2020),               available               at
+ https://www.justice.gov/file/1262731/download (directing the BOP
+ to “prioritize the use of [its] various statutory authorities to
+ grant   home  confinement   for  inmates   seeking  transfer   in
+ connection with the ongoing COVID-19 pandemic”) (last visited
+ Apr. 17, 2020).
+
+
+                                            9
+Case 1:18-cr-00137-WES-LDA Document 90 Filed 04/17/20 Page 10 of 10 PageID #: 472
+
+
+
+  III. CONCLUSION
+
+        For   the   stated    reasons,      the   Court   DISMISSES   WITHOUT
+
+  PREJUDICE Defendant’s Motion for Early Release, ECF No. 86.
+
+  IT IS SO ORDERED.
+
+
+
+
+ William E. Smith
+ District Judge
+ Date: April 17, 2020
+
+
+
+
+                                       10
+

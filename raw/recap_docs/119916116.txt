@@ -1,0 +1,326 @@
+                              UNITED STATES DISTRICT COURT
+                                   DISTRICT OF MAINE
+
+JERMAINE MITCHELL,                                )
+                                                  )
+                Petitioner,                       )
+                                                  )
+        v.                                        )        1:15-cr-00040-JAW-3
+                                                  )
+                                                  )
+UNITED STATES OF AMERICA,                         )
+                                                  )
+                Respondent                        )
+
+
+                RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+        Petitioner moves, pursuant to 28 U.S.C. § 2255, to vacate, set aside or correct his
+
+sentence.1 (Motion, ECF No. 764.) Following a jury trial, Petitioner was convicted of
+
+conspiracy to distribute and possess with intent to distribute cocaine base; the Court
+
+sentenced Petitioner to 260 months in prison. (Judgment, ECF No. 691; Corrected
+
+Indictment, ECF No. 80.) The First Circuit affirmed the conviction. United States v.
+
+Ocean, 904 F.3d 25, 36 – 40 (1st Cir. 2018).
+
+        Petitioner claims the Court lacked jurisdiction to convict him because, according to
+
+Petitioner, the Controlled Substances Act (the Act) only applies to registrants (i.e.,
+
+physicians) and thus does not apply to him. For the same reason, Petitioner also argues the
+
+
+
+
+1
+ Petitioner also filed a Request to Take Judicial Notice. (ECF No. 765.) Petitioner subsequently filed a
+supplement to his § 2255 motion and his request to take judicial notice. (ECF No. 805.) In his Request to
+Take Judicial Notice, Petitioner asks the Court to take notice of certain legal arguments he has asserted.
+Federal Rule of Evidence 201 permits the Court to take Judicial Notice of adjudicative facts. Because the
+matters for which Petitioner requests judicial notice are not adjudicative facts, Petitioner’s Request to Take
+Judicial Notice is denied.
+indictment was indefinite and vague. (Motion at 13.) The Government requests dismissal.
+
+(Response, ECF No. 783.)
+
+       Following a review of the record and after consideration of Petitioner’s motion and
+
+the Government’s request for dismissal, I recommend the Court grant the Government’s
+
+request and dismiss Petitioner’s motion.
+
+                   FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+       In February 2015, the grand jury indicted Petitioner for conspiring to distribute and
+
+possess with intent to distribute cocaine base in violation of 21 U.S.C. § 841 and § 846.
+
+(Indictment, ECF No. 3; Corrected Indictment, ECF No. 80.) At the conclusion of a trial
+
+in June 2016, a jury found Petitioner guilty. (Minute Entry, ECF No. 512; Jury Verdict,
+
+ECF No. 520.) In February 2017, Petitioner was sentenced to 260 months imprisonment
+
+to be followed by five years of supervised release. (Judgment, ECF No. 691.) Petitioner
+
+appealed, and the First Circuit affirmed the conviction in September 2018. Ocean, 904
+
+F.3d at 36 – 40.
+
+                                        DISCUSSION
+
+A.     Legal Standards
+
+       A person may move to vacate his or her sentence on one of four different grounds:
+
+(1) “that the sentence was imposed in violation of the Constitution or laws of the United
+
+States”; (2) “that the court was without jurisdiction” to impose its sentence; (3) “that the
+
+sentence was in excess of the maximum authorized by law”; or (4) that the sentence
+
+“is otherwise subject to collateral attack.” 28 U.S.C. § 2255(a); see Knight v. United States,
+
+37 F.3d 769, 772 (1st Cir. 1994).
+
+                                              2
+       “[P]ro se habeas petitions normally should be construed liberally in petitioner’s
+
+favor.” United States v. Ciampi, 419 F.3d 20, 24 (1st Cir. 2005) (citing Estelle v. Gamble,
+
+429 U.S. 97, 106 (1976)). The burden is on the section 2255 petitioner to establish by a
+
+preponderance of the evidence that he or she is entitled to section 2255 relief. David v.
+
+United States, 134 F.3d 470, 474 (1st Cir. 1998); United States v. DiCarlo, 575 F.2d 952,
+
+954 (1st Cir. 1978). When “a petition for federal habeas relief is presented to the judge
+
+who presided at the petitioner’s trial, the judge is at liberty to employ the knowledge
+
+gleaned during previous proceedings and make findings based thereon without convening
+
+an additional hearing.” United States v. McGill, 11 F.3d 223, 225 (1st Cir. 1993).
+
+       A collateral challenge is not a substitute for an appeal. United States v. Frady,
+
+456 U.S. 152, 165 (1982); Berthoff v. United States, 308 F.3d 124, 127 (1st Cir. 2002).
+
+“[A] defendant’s failure to raise a claim in a timely manner at trial or on appeal constitutes
+
+a procedural default that bars collateral review, unless the defendant can demonstrate cause
+
+for the failure and prejudice or actual innocence.” Berthoff, 308 F.3d at 127-28. Procedural
+
+default is an affirmative defense. Sotirion v. United States, 617 F.3d 27, 32 (1st Cir. 2010).
+
+The First Circuit has recognized that “federal courts have the authority to consider
+
+procedural default sua sponte.” Rosenthal v. O’Brien, 713 F.3d 676, 683 (1st Cir. 2013)
+
+(citing Brewer v. Marshall, 119 F.3d 993, 999 (1st Cir. 1997)); see also Daniels v. United
+
+States, 532 U.S. 374, 382-83 (2001) (recognizing that “procedural default rules developed
+
+in the habeas corpus context apply in § 2255 cases”) (citing Frady, 456 U.S. at 167-68).
+
+       An allegation of ineffective assistance of counsel can excuse a procedural default if
+
+the petitioner demonstrates that counsel’s representation “fell below an objective standard
+
+                                              3
+of reasonableness.” Strickland v. Washington, 466 U.S. 668, 688 (1984). The petitioner
+
+must also demonstrate that “there is a reasonable probability that, but for counsel’s
+
+unprofessional errors, the result of the proceeding would have been different.
+
+A reasonable probability is a probability sufficient to undermine confidence in the
+
+outcome.” Id. at 694. A district court reviewing a claim of ineffective assistance of counsel
+
+need not address both prongs of the Strickland test because a failure to meet either prong
+
+will undermine the claim. Id. at 697.
+
+       If a petitioner’s “claims fail on the merits, his related claims that counsel rendered
+
+ineffective assistance in failing to press the claims at trial or on appeal must also fail.”
+
+Tse v. United States, 290 F.3d 462, 465 (1st Cir. 2002) (per curiam).
+
+       Under the law of the case doctrine, “issues disposed of in a prior appeal will not be
+
+reviewed again by way of a 28 U.S.C. § 2255 motion.” Singleton v. United States, 26 F.3d
+
+233, 240 (1st Cir. 1994) (internal modifications and quotation marks omitted); see also
+
+Elwell v. United States, 95 F.3d 1146, 1996 WL 516138 at *5 (1st Cir. 1996) (holding that
+
+a petitioner “is not entitled on collateral review to relitigate issues raised on direct appeal,
+
+absent an intervening change in the law”); White v. United States, 371 F.3d 900, 902 (7th
+
+Cir. 2004) (collecting cases and explaining limited exceptions).
+
+       “Evidentiary hearings on § 2255 petitions are the exception, not the norm, and there
+
+is a heavy burden on the petitioner to demonstrate that an evidentiary hearing is warranted.
+
+An evidentiary hearing ‘is not necessary when a [§] 2255 petition (1) is inadequate on
+
+its face, or (2) although facially adequate, is conclusively refuted as to the alleged facts by
+
+the files and records of the case.’” Moreno-Morales v. United States, 334 F.3d 140, 145
+
+                                               4
+(1st Cir. 2003) (citation omitted) (quoting DiCarlo, 575 F.2d at 954 (quotation marks
+
+omitted)).
+
+       Summary dismissal of a motion is permitted when the allegations are “‘vague,
+
+conclusory, or palpably incredible,’” even “‘if the record does not conclusively and
+
+expressly belie [the] claim.’”      David, 134 F.3d at 478 (quoting Machibroda v.
+
+United States, 368 U.S. 487, 495 (1962)). A court can reasonably require a petitioner to
+
+supply the court with salient details of the claim prior to permitting discovery or a hearing.
+
+Id. (holding that “the district court did not abuse its discretion in refusing to license
+
+a fishing expedition”).
+
+B.     Claims and Analysis
+
+       Under 21 U.S.C. § 841(a)(1), “it shall be unlawful for any person knowingly or
+
+intentionally . . . to manufacture, distribute, or dispense, or possess with intent to
+
+manufacture, distribute, or dispense, a controlled substance.” Petitioner argues that the
+
+Court lacked subject matter jurisdiction to convict him because he claims that the phrase
+
+“any person” in § 841(a)(1) refers only to a person who is a “registrant” under the Act.
+
+While certain provisions of the Act only apply to “registrants” (e.g., physicians or
+
+pharmaceutical manufacturers, see 21 U.S.C. §§ 842(a)(2), 843(a)(1)), Petitioner’s
+
+argument concerning § 841(a)(1) is contrary to the plain language of the statute and decades
+
+of case law.
+
+       The authority upon which Petitioner relies do not support his argument. For
+
+example, Petitioner points to United States v. Moore, 423 U.S. 122 (1975), in which the
+
+Supreme Court determined that provisions of the Act that criminalized certain conduct of
+
+                                              5
+registrants do not exclude registrants from potential prosecution under § 841(a)(1) “when
+
+their activities fall outside the usual course of professional practice.” Id. at 124. Contrary
+
+to Petitioner’s argument, the Court noted, “By its terms § 841 reaches ‘any person.’” Id.
+
+at 130. Nothing in Moore supports Petitioner’s argument that only registrants can be
+
+prosecuted under § 841(a)(1). That is, although Moore held that registrants can be
+
+prosecuted under that provision, it does not follow that someone who is not a registrant
+
+cannot be prosecuted under that provision.
+
+       Petitioner apparently contends that his indictment was insufficient for the same
+
+reason: it did not charge him with conspiring with anyone who was a registrant. For the
+
+reasons already discussed, because nothing in § 841(a)(1), § 846, or the case law applying
+
+those provisions limits the statutes’ applicability to registrants under the Act, Petitioner’s
+
+argument fails.
+
+       In his supplemental filing, Petitioner cites additional authority, including Rehaif v.
+
+United States, 139 S. Ct. 2191 (2019), to support his argument. In Rehaif, the Supreme
+
+Court held that under the statutes that criminalize the possession of firearms by certain
+
+individuals, 18 U.S.C. §§ 922(g) and 924(a)(2), “the Government must prove both that the
+
+defendant knew he possessed a firearm and that he knew he belonged to the relevant
+
+category of persons barred from possessing a firearm.” Id. at 2200. Petitioner argues that
+
+based on the Supreme Court’s reasoning in Rehaif, under 21 U.S.C. §§ 841(a)(1) and 846,
+
+the Government must prove that he knowingly conspired with a registrant. (Supplemental
+
+Filing at 3.)
+
+
+
+                                              6
+       Even assuming Rehaif applies retroactively on collateral review, the decision has no
+
+applicability to 21 U.S.C. §§ 841(a)(1) and 846. As discussed above, the statutes’
+
+applicability is not limited to registrants under §841(a)(1). Accordingly, Petitioner’s
+
+argument that the Government must prove that he conspired with someone he knew to be
+
+a registrant fails.
+
+                                       CONCLUSION
+
+       Based on the foregoing analysis, an evidentiary hearing is not warranted under Rule
+
+8 of the Rules Governing Section 2255 Cases. In addition, I recommend that the Court
+
+deny Petitioner’s motion for habeas relief under 28 U.S.C. § 2255. I further recommend
+
+that the Court deny a certificate of appealability pursuant to Rule 11 of the Rules Governing
+
+Section 2255 Cases because there is no substantial showing of the denial of a constitutional
+
+right within the meaning of 28 U.S.C. § 2253(c)(2). Furthermore, Petitioner’s Request to
+
+Take Judicial Notice is denied.
+
+                                         NOTICE
+
+              Any objection to the order denying Petitioner’s Request to Take
+       Judicial Notice shall be filed in accordance with Federal Rule of Civil
+       Procedure 72 and Federal Rule of Criminal Procedure 59.
+
+              A party may file objections to those specified portions of a magistrate
+       judge’s report or proposed findings or recommended decisions entered
+       pursuant to 28 U.S.C. 636(b)(1)(B) for which de novo review by the district
+       court is sought, together with a supporting memorandum, within fourteen
+       (14) days of being served with a copy thereof. A responsive memorandum
+       shall be filed within fourteen (14) days after the filing of the objection.
+
+
+
+
+                                             7
+       Failure to file a timely objection shall constitute a waiver of the right
+to de novo review by the district court and to appeal the district court's order.
+
+                                            /s/ John C. Nivison
+                                            U.S. Magistrate Judge
+
+Dated this 10th day of January, 2020.
+
+
+
+
+                                        8
+

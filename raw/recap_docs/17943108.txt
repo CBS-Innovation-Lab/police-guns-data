@@ -1,0 +1,1305 @@
+                                       UNITED STATES DISTRICT COURT
+
+                                            DISTRICT OF MAINE
+
+DAREN BOWDEN,                                        )
+                                                     )
+                      Petitioner,                    )        1:11-cr-00132-JAW
+                                                     )        1:13-cv-00312-JAW
+            v.                                       )
+                                                     )        1:11-cr-00235-JAW
+                                                     )        1:13-cv-00313-JAW
+UNITED STATES,                                       )
+                                                     )
+                      Respondent                     )
+
+
+                         RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+            In this matter, Petitioner Daren Bowden moves, pursuant to 28 U.S.C. § 2255, to vacate,
+
+set aside or correct the sentences imposed after he pled guilty to (1) conspiracy to possess with
+
+intent to distribute oxycodone, and (2) possession of a firearm by an unlawful user of controlled
+
+substances. (Motion ECF Nos. 87, 88.)1 Petitioner claims ineffective assistance of counsel on
+
+several grounds, principally regarding issues related to the drug quantity. The Government has
+
+moved for summary dismissal. After a review of Petitioner’s motion and the Government’s
+
+request for dismissal, the recommendation is that the Court grant the Government’s request, and
+
+dismiss Petitioner’s motion.2
+
+                         I.        FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+            Petitioner was arrested on August 5, 2011, for conspiring to distribute and possess with
+
+intent to distribute crack cocaine; counsel was appointed at Petitioner’s initial appearance on
+
+
+
+1
+  Petitioner’s convictions were docketed as separate cases. The drug trafficking case is at 1:11-cr-00132-JAW-1; the
+firearms case is at 1:11-cr-00235-JAW-1. Unless otherwise indicated, this recommended decision cites to the docket
+in the drug trafficking case. References to specific pages in Petitioner’s motion are to ECF No. 88 unless otherwise
+indicated.
+2
+    Petitioner did not file a reply.
+August 8, 2011. (ECF No. 9.) Petitioner was indicted on August 17, 2011, on a single count
+
+alleging that from January 1, 2009, to March 1, 2010, Petitioner conspired to distribute and to
+
+possess with intent to distribute oxycodone, in violation of 21 U.S.C. §§ 846, 841(a)(1).
+
+(Indictment, ECF No. 14.)
+
+       The amended prosecution version alleged as follows: Through drug deals arranged with
+
+his source and his customers, Petitioner distributed pills throughout Piscataquis County.
+
+(Amended Prosecution Version, ECF No. 38 at 1.) In March 2009, Petitioner pawned a shotgun
+
+to another person to support his addiction to oxycodone. (Id.) Had the case gone to trial, the
+
+Government’s evidence would have consisted of the testimony of law enforcement officers and
+
+agents to whom Petitioner confessed during two interviews; the testimony of a cooperating
+
+defendant who was one of Petitioner’s customers; telephone and business records; and the
+
+testimony of an interstate nexus expert with the Bureau of Alcohol, Tobacco, Firearms, and
+
+Explosives to establish that the firearm moved in interstate commerce. (Id. at 1-2.) In the first of
+
+the two interviews with agents, which interview took place in April 2010, Petitioner stated that he
+
+obtained ten pills each day from his source and used about three or four himself. (Sentencing Exh.,
+
+ECF No. 104-1 at 4; Sentencing Tr., ECF No. 83 at 34, Sentencing Exhibit List, ECF No. 56 at 1.)
+
+In the second interview, which occurred in May 2011, Petitioner said that he acquired ten or twenty
+
+pills each day. (Sentencing Exh., ECF No. 104-2 at 3.)
+
+       On December 28, 2011, the Government filed an information under docket number 1:11-
+
+cr-00235-JAW, alleging the firearms charge, i.e., that Petitioner was an illegal user of or addicted
+
+to a controlled substance and knowingly possessed a shotgun in violation of 18 U.S.C. § 922(g)(3).
+
+
+
+
+                                                 2
+On the same date, the parties filed a plea agreement stating that Petitioner agreed to plead guilty
+
+to both the firearms charge and the drug trafficking charge. (Plea Agreement, ECF No. 35.) 3 Also
+
+on December 28, 2011, the Court held a hearing at which counsel was appointed on the firearms
+
+charge; Petitioner waived the indictment on the firearms charge and was arraigned; and, pursuant
+
+to Fed. R. Crim. P. 11, Petitioner entered a guilty plea on both the drug trafficking charge and the
+
+firearms charge. (Fed. R. Crim. P. 11 (Rule 11) Tr., ECF No. 81 at 14-16.) Based on its colloquy
+
+with Petitioner, the Court found that Petitioner was fully informed of his rights and that his decision
+
+to waive the indictment and plead guilty to both charges was knowing and voluntary. (Id. at 13,
+
+29-30.)4
+
+         The revised presentence investigation report included a conservative calculation of the drug
+
+quantity. Petitioner had reported that he bought or sold at least ten 80-mg oxycodone pills each
+
+day from March 1, 2009, through March 1, 2010, resulting in a purchase of a total of 3,650 pills.
+
+However, based on a confidential source who stated that Petitioner also sold 30-mg pills, probation
+
+assumed that half of the pills were 80-mg pills (3,650/2 x 80-mg = 146 grams) and half were 30-
+
+mg pills (3,650/2 x 30-mg = 54.75 grams), for a total quantity of 200.75 grams (146 + 54.75 =
+
+
+
+3
+  The plea agreement stated that Petitioner understood that the maximum prison term would be twenty years on the
+drug trafficking charge and ten years on the firearms charge. (Plea Agreement, ECF No. 35 at 1-2.) The parties agreed
+to recommend that the Court find that Petitioner accepted responsibility for the offenses and that he therefore receive
+a three-point reduction, pursuant to U.S.S.G. § 3E1.1. (Id. at 2.) Petitioner acknowledged that he could not withdraw
+his guilty plea if the Court did not accept the recommendation. (Id. at 3.) Petitioner agreed to waive his right to appeal
+any sentence that did not exceed 120 months. (Id.) He also agreed to waive any rights he may have had under the
+Speedy Trial Act, 18 U.S.C. § 3161-64, for the period from the execution of the plea agreement through the date on
+which sentence was imposed. (Id. at 4.)
+4
+  The Court found that Petitioner was competent to enter a plea; that Petitioner had had a fair opportunity to discuss
+the charges with counsel; that, based on the amended Government’s version of the offenses, Petitioner’s attorney’s
+responses, and Petitioner’s responses, there was a factual basis for the plea; that Petitioner understood his right to a
+trial, and understood the maximum and minimum punishments for each of the charges; and that Petitioner acted
+voluntarily and knowingly in tendering his guilty pleas. (Fed. R. Crim. P. 11 (Rule 11) Tr. at 4, 10, 23, 29-30.) Of
+particular relevance to Petitioner’s section 2255 claims, when the Court asked Petitioner whether anyone had promised
+him that the prosecutor would recommend a sentence other than what was set forth in the plea agreement, he
+responded, “No, sir.” (Id. at 29.)
+
+
+                                                            3
+200.75) of oxycodone. This was converted to 1,345 kg of marijuana equivalent, resulting in a base
+
+offense level of 32.5 Two levels were added, pursuant to U.S.S.G. §2D1.1(b)(1), for trading
+
+firearms for drugs on multiple occasions, and three levels were subtracted, pursuant to U.S.S.G. §
+
+3E1.1(a), for acceptance of responsibility, resulting in a total offense level of 31. The presentence
+
+investigation report placed Petitioner’s criminal history category at III, based on six criminal
+
+history points. (Sentencing Tr., ECF No. 83 at 78.) In the report, probation concluded that the
+
+sentencing guideline range was between 135 and 168 months of imprisonment. (Id.)
+
+        Petitioner objected to the revised presentence investigation report regarding both the drug
+
+quantity and the criminal history category.               First, Petitioner objected to the reliability of
+
+information provided by a confidential source regarding drug quantity, and asserted that the
+
+quantity was not more than 600 pills, in part because Petitioner was employed out-of-state from
+
+September through December 2009 and in part because at times fewer drugs than alleged were
+
+involved. Second, Petitioner objected to the firearms enhancement because he sold to a licensed
+
+firearms dealer. Finally, Petitioner objected to “the assignment of criminal history points to [a
+
+conviction referenced in paragraph 37 of the report] as he has moved to reopen the deferred
+
+disposition based on procedural grounds, but the case has not been concluded at this time.”
+
+        The Court held two days of sentencing hearings in July and August 2012. (Sentencing Tr.,
+
+ECF Nos. 82, 83.) At the hearings, the parties again disputed both the number of pills that
+
+Petitioner possessed each day and the number of days on which he possessed pills. 6 The Court
+
+
+5
+  “The sentencing guidelines provide a formula for converting drugs into equivalent units of marijuana for sentencing
+purposes.” United States v. Mills, 710 F.3d 5, 9 (1st Cir.2013); see U .S.S.G. § 2D1.1 cmt. n. 10(E) (2009) (since
+recodified as cmt. n. 8(D) (2012). The Probation Office applied the 2011 edition of the sentencing guidelines manual,
+which provides that for purposes of determining the base offense level, one gram of oxycodone equates to 6,700 grams
+of marijuana. See U.S.S.C. § 2D1.1. Hence, 200.75 grams of oxycodone equates to 1,345 kilograms of marijuana
+(200.75 x 6,700 = 1,345,025 grams or 1,345 kilograms).
+
+6
+  At the sentencing hearing, the Government conceded that 65 days of possession could be removed from the
+calculation, resulting in 1,105.5 kilograms of marijuana equivalent (300 days x 10 pills each day = 3,000 pills, of
+
+                                                         4
+noted that Petitioner was in an “awkward position” because he was trying to convince the Court
+
+that the number of pills that he possessed each day was much lower than the amounts to which he
+
+had confessed in April 2010 and May 2011. (Sentencing Tr., ECF No. 83 at 82.) In support of his
+
+position at sentencing, Petitioner offered the testimony of a private investigator who had conducted
+
+a telephone interview of Michael Weston, who had worked for Petitioner from September to
+
+December 2009 at a cable company in Vermont.7 The private investigator testified that Weston
+
+told him that Petitioner told Weston that Petitioner possessed ten pills each week rather than ten
+
+each day, and that the drugs were mostly for Petitioner’s personal consumption. (Sentencing Tr.,
+
+ECF No. 83 at 36-39.)
+
+         The Court found that Petitioner’s own statements regarding the drug quantity provided the
+
+Court with the most reliable drug quantity estimate. The Court based its conclusion on (1) the fact
+
+that Petitioner gave his statements to law enforcement, whereas Weston spoke with a private
+
+investigator; (2) Petitioner gave two statements, whereas Weston gave only one; (3) Petitioner’s
+
+statements were closer to the pertinent dates, whereas Weston gave his statements a couple of years
+
+later; (4) Petitioner’s two statements were consistent as to the drug quantity, even though the two
+
+interviews were separated by over a year. (Id. at 83-84.) The Court thus found that Petitioner
+
+possessed ten pills each day for the days on which he engaged in drug trafficking. (Id. at 84.)
+
+
+
+
+which half were 80-mg and half were 30-mg; 3,000/2 x 80-mg = 120 grams; 3,000/2 x 30-mg = 45 grams; 120 + 45
+= 165 grams of oxycodone; 165 x 6,700 = 1,105.5 kilograms of marijuana equivalent). The revised amount still
+yielded a base offense level of 32. Petitioner’s drug quantity argument at sentencing was presented in Exhibit 16,
+which was described as a “guideline” that showed an estimated drug quantity based on the varying number of pills
+sold over the course of the year at issue. Exhibit 16 presented a total of about 900 tablets equaling just under 50 grams
+of oxycodone, which would equate to about 332 kilograms of marijuana equivalent and a base offense level of 26.
+(Sentencing Tr., ECF No. 83 at 76-77; Exhibit, ECF No. 104-3 at 7.)
+7
+  Weston had received a target letter and faced possible criminal prosecution. He did not testify at Petitioner’s
+sentencing, having invoked the Fifth Amendment privilege against self-incrimination. (Sentencing Tr., ECF No. 82
+at 30, 37.)
+
+                                                           5
+          With respect to Petitioner’s challenge to the number of days on which Petitioner possessed
+
+oxycodone, the Government conceded that Petitioner worked in Vermont for 37 days during the
+
+fall of 2009, and that Petitioner did not possess oxycodone for 28 days in February; therefore, the
+
+365 days alleged in the revised presentencing report could be reduced by 65 days (37 + 28 = 65).
+
+(Sentencing Tr., ECF No. 83 at 11, 17-18.) Petitioner argued that he was in Vermont for a much
+
+longer period, from September 1, 2009, to December 22, 2009. (Sentencing Tr., ECF No. 83 at
+
+10, 84.)
+
+          The Court found that Petitioner worked in Vermont from October 10, 2009, to December
+
+22, 2009, i.e., a period of 73 days. (Sentencing Tr., ECF No. 83 at 84-85.) The Court also
+
+determined, based on telephone records, that when Petitioner was based in Vermont, he was
+
+actually in Maine for many more days than necessary to put the drug quantity of oxycodone well
+
+over 1,000 kilograms of marijuana equivalent. (Sentencing Tr., ECF No. 83 at 86-87.)8 The Court
+
+concluded on that basis that Petitioner’s base offense level was 32. (Sentencing Tr., ECF No. 83
+
+at 87.)
+
+
+
+
+8
+  The Court calculated the total drug quantity, and from it, the base offense level, as follows: Working from the revised
+presentencing investigation report figures, the Court determined that Petitioner was alleged to be responsible for 3.685
+kilograms of marijuana equivalent each day for one year (1,345 kg total, divided by 365 days = 3.685 kg marijuana
+equivalent each day). To calculate the amount for which Petitioner would not be responsible because he was out-of-
+state and lacked access to his supplier, i.e., the amount that would be subtracted from the total of 1,345 kilograms of
+marijuana equivalent, the Court multiplied 3.685 by the 73 days that the Court found Petitioner’s employment was
+based in Vermont (3.685 kg x 73 days = 269.005 kg), and added to that the amount represented by the 28 days in
+February 2010 during which Petitioner was in methadone treatment (3.685 kg x 28 days = 103.18 kg), for a total of
+372.185 kilograms of marijuana equivalent (269.005 kg + 103.18 kg = 372.185 kg). The Court subtracted from the
+revised presentence investigation report total of 1,345 kilograms the 372.185 kilograms for which Petitioner was not
+to be held responsible (1,345 kg – 372.185 kg = 972.815 kg). The Court then determined that the difference between
+the total of 972.815 kg and the 1,000 kg or more that would raise Petitioner from a base offense level of 31 to a base
+level of 32 was 27.185 kg (1,000 – 972.815 = 27.185). The Court concluded that at the quantities Petitioner possessed,
+27.185 kg of marijuana equivalent would be reached through eight days of oxycodone processing. Finally, the Court
+scrutinized the telephone records for the period from October 10, 2009, to December 22, 2009, and found that
+Petitioner had actually spent many more than eight days in Maine during that period. On that basis, the Court found
+that Petitioner had possessed more than 1,000 but less than 3,000 kilograms of marijuana equivalent, and therefore
+the base offense level was 32. (Sentencing Tr., ECF No. 83 at 85-87.)
+
+
+                                                           6
+         The Court determined the total offense level as follows: Because Petitioner pawned the
+
+guns to get cash with which to buy drugs, the Court found a causal connection between the pawned
+
+guns and the illicit drugs. (Sentencing Tr., ECF No. 83 at 5-7.) On that basis, the Court applied a
+
+two-level sentencing enhancement to the base offense level, pursuant to section 2D1.1(b) of the
+
+United States Sentencing Guidelines. (Sentencing Tr., ECF No. 82 at 18, 21.) The Court also
+
+applied a three-point reduction for acceptance of responsibility, pursuant to section 3E1.1 of the
+
+sentencing guidelines. (Sentencing Tr., ECF No. 83 at 87.)
+
+         The Court asked Petitioner specifically whether he had had a chance to review the criminal
+
+history portion of the revised presentencing report, and Petitioner responded that he had reviewed
+
+it carefully and that the criminal history portion was accurate. (Sentencing Tr., ECF No. 82 at 4-
+
+5.) The Court determined that the reopening of a deferred disposition in state court, on a charge
+
+of operating after suspension for a habitual offender, would have no effect on Petitioner’s criminal
+
+history category for purposes of federal sentencing, because regardless of whether the reopened
+
+sentence counted toward Petitioner’s prior convictions, he would remain in criminal history
+
+category III. (Sentencing Tr., ECF No. 82 at 21-23.)9 The Court concluded that a total offense
+
+level of 31 and a criminal history category of III produced a sentencing guideline range of 135 to
+
+168 months of imprisonment. (Sentencing Tr., ECF No. 83 at 87.)
+
+         The Government recommended a 150-month sentence. (Sentencing Tr., ECF No. 83 at
+
+88.) Petitioner requested a variance to 70 months. (Sentencing Tr., ECF No. 83 at 92.) Petitioner’s
+
+counsel asked the Court to consider, among other things, Petitioner’s: (1) drug addiction following
+
+
+9
+  The Court added, however, that it would consider the underlying facts of the state court operating-after-suspension
+conviction in the federal sentencing, including that Petitioner committed the offense; that Petitioner failed to comply
+with the deferred disposition contract; that the state court revoked the deferred disposition and imposed a six-month
+sentence that Petitioner served; that the state court permitted Petitioner to withdraw the guilty plea; and that Petitioner
+informed the state court that it was likely that he would enter a guilty plea again shortly. (Sentencing Tr., ECF No.
+82 at 27-28.)
+
+
+                                                            7
+an injury and a legal prescription for oxycodone; (2) willingness to cooperate with the Government
+
+by giving statements before he was indicted; (3) plea agreement that included a waiver of his right
+
+to appeal a sentence of 120 months or less; (4) family support; and (5) efforts at rehabilitation.
+
+(Sentencing Tr., ECF No. 83 at 92-96.) In Petitioner’s allocution, he told the Court, among other
+
+things, (1) why he was out of state for work; (2) that his two statements to law enforcement were
+
+exaggerated because he wanted his oxycodone supplier “put away” to protect Petitioner’s daughter
+
+from buying drugs from him; and (3) that he bought and sold less than ten pills each day.
+
+(Sentencing Tr., ECF No. 83 at 104-06.)
+
+        The Court rejected any downward departure for (1) physical condition, drug or alcohol
+
+dependence, pursuant to section 5H1.4 of the guidelines; (2) family ties and responsibilities,
+
+pursuant to section 5H1.6; or (3) voluntary disclosure of the offenses, pursuant to section 5K2.16.
+
+(Sentencing Tr., ECF No. 83 at 109-10.) The Court then took into account the sentencing factors
+
+set forth in 18 U.S.C. § 3553(a). (Sentencing Tr., ECF No. 83 at 110.) The Court stated: “Along
+
+with his addiction . . . and this offense, the most striking and unusual thing about the defendant is
+
+his extensive criminal history. The defendant has 15 separate criminal convictions.” (Sentencing
+
+Tr., ECF No. 83 at 112.) The Court noted that many of the convictions “reflect an almost mindless
+
+and reckless determination to do whatever the defendant wanted to do regardless of the provisions
+
+of the law that the rest of us have to follow.” (Sentencing Tr., ECF No. 83 at 113.) The Court
+
+found that Petitioner’s criminal conduct was not explained by his drug addiction, and it also noted
+
+that he failed to express any remorse. (Sentencing Tr., ECF No. 83 at 115, 118-19.)
+
+       The Court sentenced Petitioner to 108 months of imprisonment on each of the charges,
+
+with the sentences to be served concurrently, followed by concurrent terms of three years of
+
+supervised release on each of the charges. (Sentencing Tr., ECF No. 83 at 121; Judgment, ECF
+
+
+
+                                                 8
+No. 74 at 2-3.) The Court explained to Petitioner that because the sentence was less than 120
+
+months, in accordance with the plea agreement, Petitioner waived his right to appeal the
+
+conviction, the guilty plea, or the sentence. (Sentencing Tr., ECF No. 83 at 123-24.) The Court
+
+explained Petitioner’s right to appeal, including that although the waiver of the right to appeal is
+
+usually upheld as a matter of law, if Petitioner believed the plea agreement was unenforceable, he
+
+must appeal within fourteen days. (Sentencing Tr., ECF No. 83 at 124.)
+
+       Petitioner filed a timely notice of appeal from the drug conviction, United States v. Bowden,
+
+No. 12-2006 (1st Cir.) (ECF No. 76), but he did not appeal from the firearms conviction. He was
+
+represented by different counsel on appeal. Petitioner requested an extension to file the brief,
+
+accompanied by appellate counsel’s affidavit explaining that he had quickly read the transcripts,
+
+researched the issues, and given Petitioner his impressions about how best to proceed. (Appellate
+
+docket entry 1/22/2013.) In support of the requested extension, counsel explained that Petitioner
+
+was “actively engaged in all aspects of the appellate process,” and that Petitioner had asked counsel
+
+to review additional materials. (Id.) Counsel later moved to withdraw, representing that he had
+
+engaged in “five lengthy phone conversations with [Petitioner]” and that they were “unable to
+
+agree about how to proceed with his case.” (Id., docket entry 2/26/2013.) Counsel stated that he
+
+believed that communications had broken down and that counsel could no longer provide
+
+Petitioner with “effective, conflict-free assistance of counsel.”         (Id.)   The Court granted
+
+Petitioner’s motion to extend the time to file the brief, but denied counsel’s motion to withdraw.
+
+(Id. docket entries 2/26/2013, 3/06/2013.)
+
+       Petitioner subsequently moved for a voluntary dismissal of the appeal. (Id., docket entry
+
+4/1/2013.) Petitioner’s accompanying affidavit explained that “[a]fter extensive conversations”
+
+with counsel, Petitioner believed that it was in his best interest to request dismissal and instead try
+
+
+
+                                                  9
+to find counsel to represent him in a 28 U.S.C. § 2255 petition based on a claim of ineffective
+
+assistance of counsel. (Id.) Petitioner also stated: “Although I have made this decision in
+
+consultation with [counsel], and although he has presented his position to me on the best way to
+
+proceed, he has stressed that the decision is mine alone to make.” (Id.) The First Circuit ordered
+
+a voluntary dismissal pursuant to Fed. R. App. P. 42(b). (Id., docket entry 4/30/2013.)
+
+        Petitioner filed his section 2255 motion in August 2013, in which motion he set forth
+
+fourteen numbered arguments. (Motion at 3-7.) In his motion, he requested an extension of 90
+
+days to file a memorandum of law. (Motion at 1.) The Court granted the request for an extension
+
+of time, but it added that “nothing in this order extends any applicable statute of limitations and
+
+the supplementation is certainly limited to the various ineffective assistance claims already
+
+asserted and is not for the purpose of adding new claims.” (Order, ECF No. 89.) Petitioner filed
+
+a supplemental memorandum in November 2013. (Supplemental Memorandum, ECF No. 94.)
+
+The Government acknowledges that Petitioner’s section 2255 motion and supplemental
+
+memorandum were filed timely, but argues that all of the claims are meritless. (Response at 28.)
+
+In addition, the Government argues that several of the claims included in Petitioner’s supplemental
+
+memorandum are new claims in violation of the Court’s order. (Response at 28-29.)
+
+                                       II.     DISCUSSION
+
+       A. Standard of review
+
+       A person may move to vacate his or her sentence on one of four different grounds: (1) “that
+
+the sentence was imposed in violation of the Constitution or laws of the United States”; (2) “that
+
+the court was without jurisdiction” to impose its sentence; (3) “that the sentence was in excess of
+
+the maximum authorized by law”; and (4) that the sentence “is otherwise subject to collateral
+
+attack.” 28 U.S.C. § 2255(a); see Knight v. United States, 37 F.3d 769, 772 (1st Cir. 1994). Here,
+
+
+
+                                                10
+given that Petitioner alleges ineffective assistance of counsel, and given that Petitioner’s right to
+
+counsel is guaranteed by the Sixth Amendment, Petitioner is arguing that the sentence was imposed
+
+in violation of “the Constitution or laws of the United States.”
+
+         A section 2255 petitioner has the burden to establish by a preponderance of the evidence
+
+that he or she is entitled to section 2255 relief. David v. United States, 134 F.3d 470, 474 (1st Cir.
+
+1998); United States v. DiCarlo, 575 F.2d 952, 954 (1st Cir. 1978). When “a petition for federal
+
+habeas relief is presented to the judge who presided at the petitioner’s trial, the judge is at liberty
+
+to employ the knowledge gleaned during previous proceedings and make findings based thereon
+
+without convening an additional hearing.” United States v. McGill, 11 F.3d 223, 225 (1st Cir.
+
+1993).
+
+         A habeas petition is not a substitute for an appeal. Berthoff v. United States, 308 F.3d 124,
+
+127 (1st Cir. 2002). “Accordingly, a defendant’s failure to raise a claim in a timely manner at trial
+
+or on appeal constitutes a procedural default that bars collateral review, unless the defendant can
+
+demonstrate cause for the failure and prejudice or actual innocence.” Id. at 127-28. An allegation
+
+of ineffective assistance of counsel can excuse a procedural default, but only if the petitioner
+
+demonstrates that counsel’s representation fell below an objective standard of reasonableness and
+
+prejudiced the petitioner’s defense. Owens v. United States, 483 F.3d 48, 63 (1st Cir. 2007).
+
+Procedural default is an affirmative defense. Sotirion v. United States, 617 F.3d 27, 32 (1st Cir.
+
+2010).
+
+         To succeed on a claim of ineffective assistance of counsel, a petitioner “must establish both
+
+that counsel’s representation fell below an objective standard of reasonableness and that there
+
+exists a reasonable probability that, but for counsel’s unprofessional errors, the result of the
+
+proceeding would have been different.” Turner v. United States, 699 F.3d 578, 584 (1st Cir. 2012)
+
+
+
+                                                  11
+(citing Strickland v. Washington, 466 U.S. 668, 688 (1984)). The two prongs of the ineffective
+
+assistance test are commonly referred to as the “cause” and “actual prejudice” tests. Bucci v.
+
+United States, 662 F.3d 18, 29 (1st Cir. 2011). A district court reviewing such claims need not
+
+address both prongs of the test because a failure to meet either prong will undermine the claim.
+
+Strickland, 466 U.S. at 697.
+
+       As for the “cause” test, the court must be “‘fairly tolerant’” of counsel’s performance
+
+because the Constitution does not guarantee a perfect defense. Moreno-Espada v. United States,
+
+666 F.3d 60, 65 (1st Cir. 2012) (quoting Scarpa v. Dubois, 38 F.3d 1, 8 (1st Cir. 1994)). The issue
+
+is whether counsel’s performance was “‘within the wide range of reasonable professional
+
+assistance’ that a competent criminal defense counsel could provide under ‘prevailing professional
+
+norms.’” Bucci, 662 F.3d at 30 (quoting Strickland, 446 U.S. at 688-89). “Judicial scrutiny of the
+
+defense counsel’s performance is ‘highly deferential,’ and the defendant must overcome a ‘strong
+
+presumption . . . that, under the circumstances, the challenged action “might be considered sound
+
+trial strategy.”’” Id. (quoting Strickland, 446 U.S. at 689). The “actual prejudice” test requires a
+
+showing “sufficient to undermine confidence in the outcome.” Strickland, 466 U.S. at 694.
+
+       “Evidentiary hearings on § 2255 petitions are the exception, not the norm, and there is a
+
+heavy burden on the petitioner to demonstrate that an evidentiary hearing is warranted. An
+
+evidentiary hearing ‘is not necessary when a [§] 2255 petition (1) is inadequate on its face, or (2)
+
+although facially adequate, is conclusively refuted as to the alleged facts by the files and records
+
+of the case.’” Moreno-Morales v. United States, 334 F.3d 140, 145 (1st Cir. 2003) (citation
+
+omitted) (quoting DiCarlo, 575 F.2d at 954 (quotation marks omitted)). In determining whether
+
+an evidentiary hearing is required, the court must “take as true the sworn allegations of fact set
+
+forth in the petition ‘unless those allegations are merely conclusory, contradicted by the record, or
+
+
+
+                                                 12
+inherently incredible.’” Owens, 483 F.3d at 56 (quoting Ellis v. United States, 313 F.3d 636, 641
+
+(1st Cir. 2002)). Summary dismissal of a motion is permitted when the allegations are “‘vague,
+
+conclusory, or palpably incredible,’” even “‘if the record does not conclusively and expressly belie
+
+[the] claim.’” David, 134 F.3d at 478 (quoting Machibroda v. United States, 368 U.S. 487, 495
+
+(1962)).
+
+       B. Grounds Asserted and Analysis
+
+       1. Ineffective assistance of counsel for failure to investigate Petitioner’s criminal
+          record and drug quantity (Grounds One and Fourteen)
+
+       In Ground One, Petitioner claims that counsel failed to investigate Petitioner’s criminal
+
+record and failed to verify the drug quantity before advising Petitioner to plead guilty. (Motion at
+
+3.) Petitioner’s supplemental memorandum alleges that counsel did not investigate because
+
+counsel advised him to plead guilty on the same day that counsel was appointed to represent
+
+Petitioner. (Supplemental Memorandum at 3.) In Ground Fourteen, Petitioner claims that
+
+appellate counsel was constitutionally ineffective for failing to appeal on the basis that his prior
+
+counsel did not investigate Petitioner’s criminal record. (Motion at 7.)
+
+       Petitioner’s allegations that counsel failed to investigate the drug quantity or his criminal
+
+record before the plea agreement are not supported by the record. Petitioner’s drug quantity and
+
+the defendant’s criminal history were addressed in detail at the sentencing stage rather than at the
+
+Rule 11 hearing. However, during the plea hearing, the Court engaged in a colloquy with
+
+Petitioner, and one of the topics about which the Court inquired was Petitioner’s general
+
+understanding of the sentencing process. Specifically, the Court asked Petitioner whether he had
+
+consulted with counsel about how the sentencing guidelines may affect his sentence. (Fed. R.
+
+Crim. P. 11 (Rule 11) Tr., ECF No. 81 at 27-28.) In response to the Court’s question, “Have you
+
+and [counsel] talked about how the sentencing commission guidelines may affect your sentence?”
+
+
+                                                13
+Petitioner replied, “Yes, we’ve talked about it.” (Id. at 28.) The Court explained that it could not
+
+determine the advisory guideline sentence until after it had obtained the probation office’s
+
+presentence investigation report, and that if the Court imposed a sentence that was more severe
+
+than that in the applicable sentencing guideline, Petitioner would not then be permitted to withdraw
+
+his guilty plea. (Id.) At the conclusion of the Court’s colloquy, the Court found that Petitioner
+
+had voluntarily and knowingly tendered a plea of guilty to the indictment and the information. (Id.
+
+at 30.)     The Court accepted the guilty pleas and ordered the preparation of the customary
+
+presentence investigation report. (Id.) Given that Petitioner told the Court that counsel had
+
+discussed the sentencing guidelines with Petitioner, and given that the guidelines focus on drug
+
+quantity and criminal history, the Court can reasonably infer that counsel discussed with him both
+
+the drug quantity and Petitioner’s criminal history in advance of the plea hearing.
+
+          As Petitioner asserts, with respect to the firearms charge, counsel was appointed on
+
+December 28, 2011, which was the same date on which Petitioner made his initial appearance,
+
+waived indictment, and entered a guilty plea on the firearms charge. He also changed his plea to
+
+guilty on the drug trafficking charge. Petitioner’s contention that counsel’s investigatory efforts
+
+began on December 28, 2011, however, is not accurate. Counsel was first appointed on August 8,
+
+2011, when Petitioner made his initial appearance following his arrest on the drug charge. (ECF
+
+No. 9.) On August 25, 2011, counsel filed a motion requesting authorization to spend up to $1,200
+
+to hire an investigator. (ECF No. 19.) Petitioner entered a plea of not guilty to the drug charge at
+
+his arraignment on August 30, 2011. (ECF No. 21.) Between the time counsel was appointed to
+
+represent Petitioner on the drug charge on August 8, 2011, and the December 19, 2011, filing of
+
+the plea agreement, counsel filed three motions to continue the trial so that he would have sufficient
+
+time to review discovery (ECF No. 24), discuss matters with the Government (ECF No. 27), and
+
+
+
+                                                 14
+negotiate a plea agreement (ECF No. 31). Petitioner, therefore, did not enter a plea of guilty on
+
+both charges until more than four months after his initial appearance on the drug charge. Because
+
+Petitioner cites the date of the plea as the basis for his contention that his counsel failed to
+
+investigate the matter, and because Petitioner fails to point to any other bases in support of his
+
+contention, Petitioner’s claim is unsupported by the record. Accordingly, Petitioner’s appellate
+
+counsel did not err by not including the failure to investigate as an argument on appeal. In short,
+
+neither trial counsel nor appellate counsel’s performance was deficient, and Petitioner was not
+
+prejudiced with respect to the plea. See Strickland, 466 U.S. at 688; Turner, 699 F.3d at 584.10
+
+         2. Promise of 40-70 month range for the prison term (Ground Two)
+
+         Petitioner alleges that counsel promised him that the maximum sentence would be within
+
+a range of 40-70 months of imprisonment, and that counsel told him that this was true even though
+
+the plea agreement stated that the drug conviction carried a maximum prison term of 20 years and
+
+that the firearms conviction carried a maximum term of 10 years. (Motion at 3.)
+
+         The undisputed record reflects otherwise. The plea agreement states: “The parties agree
+
+and understand that the Court has the discretion to impose any lawful sentence.” (Plea Agreement,
+
+ECF No. 35 at 3.) At the plea hearing, the Court pointed out this portion of the plea agreement to
+
+Petitioner and reiterated that the authority to determine the appropriate sentence rests with the
+
+Court, not with the Government or Petitioner’s counsel. (Rule 11 Tr., ECF No. 81 at 25-26.) The
+
+
+10
+   Petitioner cites to United States v. Teeter, 257 F.3d 14 (1st Cir. 2001), but that case is not applicable. In Teeter,
+which was decided on a sentencing appeal, the First Circuit held that the advance waiver of appellate rights at issue
+would not be given effect because, at the change-of-plea hearing, the Court did not direct the defendant’s attention to
+the appeal waiver provision of the plea agreement or discuss it with her, and the Court subsequently asked the
+defendant, near the end of the plea colloquy, whether she understood that she did have the right to appeal the sentence.
+Id. at 26-27. Petitioner’s case is entirely different in that, during the plea colloquy, the Court called Petitioner’s
+attention to the appeal waiver provision of the plea agreement, discussed that provision with Petitioner, asked
+Petitioner whether he understood that he would not have the right to appeal the guilty plea, the conviction, or the
+sentence. (Rule 11 Tr., ECF No. 81 at 20, 26-27.) Petitioner confirmed that he understood the rights that he was
+waiving, and the Court found that Petitioner voluntarily and knowingly tendered his guilty pleas. (Id. at 20, 26-27,
+30.)
+
+                                                          15
+Court asked Petitioner: “Aside from the written plea agreements, has anyone made any promises
+
+to you, Mr. Bowden, in an effort to get you to plead guilty?” to which Petitioner replied, “No, sir.”
+
+(Id. at 28-29.) The Court asked the question again, and Petitioner again stated that there had been
+
+“[n]o promises.” (Id. at 29.)
+
+         The First Circuit has held that
+
+         the presumption of truthfulness of the Rule 11 statements will not be overcome
+         unless the allegations in the § 2255 motion are sufficient to state a claim of
+         ineffective assistance of counsel and include credible, valid reasons why a
+         departure from those earlier contradictory statements is now justified.
+
+United States v. Butt, 731 F.2d 75, 80 (1st Cir. 1984). Petitioner has not provided any credible,
+
+valid reason why a departure from his earlier statements is justified.11 Petitioner thus has failed to
+
+show either deficient performance by counsel or prejudice to Petitioner. See Strickland, 466 U.S.
+
+at 688; Turner, 699 F.3d at 584.
+
+         3. Failure to move to suppress statements (Grounds Three and Eight)
+
+         In Ground Three, Petitioner claims that counsel failed to move to suppress two statements
+
+that Petitioner made to law enforcement officers. Petitioner maintains that the statements, in
+
+which, Petitioner contends, he provided inaccurate and overstated information regarding the drug
+
+amounts, were obtained in violation of Petitioner’s Miranda rights.12 He alleges that he was not
+
+
+
+
+11
+   Petitioner also cites Missouri v. Frye, 132 S. Ct. 1399 (2012), and Lafler v. Cooper, 132 S. Ct. 1376 (2012), but
+neither of those cases is applicable. In Frye, the Supreme Court held that “as a general rule, defense counsel has the
+duty to communicate formal offers from the prosecution to accept a plea on terms and conditions that may be favorable
+to the accused.” 132 S. Ct. at 1408. Here, Petitioner does not allege that counsel failed to communicate a plea offer.
+In Lafler, a “favorable plea offer was reported to the client but, on advice of counsel, was rejected,” and “[a]fter a
+guilty verdict, the defendant received a sentence harsher than that offered in the rejected plea bargain.” 132 S. Ct. at
+1383. The Court held that both prongs of Strickland had been satisfied, and it remanded the matter for the district
+court to order the state to reoffer the plea agreement. Id. at 1391. Lafler is inapplicable here because Petitioner
+accepted the plea agreement.
+12
+  See Miranda v. Arizona, 384 U.S. 436, 444 (1966) (“[T]he prosecution may not use statements, whether exculpatory
+or inculpatory, stemming from custodial interrogation of the defendant unless it demonstrates the use of procedural
+safeguards effective to secure the privilege against self-incrimination.”)
+
+                                                          16
+given a Miranda warning, and law enforcement agents threatened that if he did not talk with them,
+
+he would get a substantial prison sentence. (Motion at 3.)
+
+         Based on Petitioner’s allegations and the record, a motion to suppress would have been
+
+futile. That is, neither of Petitioner’s statements was obtained in violation of his Miranda rights.
+
+Miranda applies only when a defendant is in custody. See Miranda v. Arizona, 384 U.S. 436, 444
+
+(1966). Petitioner was not in custody during either of the interviews. The record does not reflect,
+
+and Petitioner has not alleged, any facts that suggest that the April 7, 2010, interview, which took
+
+place in the agent’s vehicle and did not culminate in an arrest, constitutes a custodial interrogation.
+
+In addition, the May 26, 2011, interview, which occurred in Petitioner’s home after he told agents,
+
+“Come on in,” contains no indicia of a custodial interrogation. 13 See United States v. Campbell,
+
+741 F.3d 251, 266-68 (1st Cir. 2013) (discussing the factors used to determine whether traffic stops
+
+are custodial, and noting that they include whether the suspect was in familiar or neutral
+
+surroundings, the number of officers present, the degree of physical restraint placed on the suspect,
+
+and the duration and character of the interrogation). Furthermore, Petitioner asserted at sentencing
+
+that he made the two statements “willingly” to the agents. (Sentencing Tr., ECF No. 83 at 105.)
+
+         Because the record contains no evidence upon which one could reasonably conclude that
+
+Petitioner was in custody when he was questioned by law enforcement, or that Plaintiff provided
+
+the statements involuntarily, a motion to suppress would have been futile. Counsel, therefore, had
+
+no obligation to pursue such a motion. See Tse v. United States, 290 F.3d 462, 465 (2002) (“Since
+
+[petitioner’s] claims fail on the merits, his related claims that counsel rendered ineffective
+
+
+
+
+13
+  The Government attached to its response the transcripts of the two interviews; it had introduced these transcripts at
+the sentencing hearing. (Transcripts, ECF No. 104-1; Sentencing Tr., ECF No. 83 at 34.) Information about the
+location and duration of each interview appears at the top of the first page of each transcript; this information appears
+to be undisputed.
+
+
+                                                           17
+assistance in failing to press the claims at trial or on appeal must also fail.”) Petitioner thus has
+
+failed to show either deficient performance by counsel or prejudice to Petitioner. See Strickland,
+
+466 U.S. at 688; Turner, 699 F.3d at 584.
+
+         4. Failure to move for production of information regarding drug quantity (Grounds
+            Four and Seven)
+
+         In Ground Four, Petitioner alleges that counsel obtained, but failed to offer at sentencing,
+
+a report that on July 31, 2009, while Eddie Witham was in jail, Mr. Witham told his father, Michael
+
+Witham, Sr., that Petitioner would come by to purchase five pills. (Motion at 3.) Petitioner alleges
+
+that despite this information, Petitioner was charged with twice that amount. (Motion at 3.) He
+
+also alleges that additional reports include amounts much less than the ten pills each day that
+
+Petitioner admitted to law enforcement. Petitioner maintains that counsel failed to move for
+
+discovery of all Brady/Giglio material.14 (Motion at 3-4.) In Ground Seven, Petitioner appears to
+
+make less specific, but similar allegations. (Motion at 5.)
+
+         Through the sentencing memorandum and Petitioner’s Exhibit 16, which was admitted at
+
+sentencing, Petitioner’s counsel in fact argued for an overall lower drug quantity. (Sentencing
+
+Memorandum, ECF No. 57 at 1-3; Exh. 16, ECF No. 104-3 at 1-7; Sentencing Tr., ECF No. 83 at
+
+67.) Ultimately, however, the Court, which explained in detail the bases of its conclusion, based
+
+its drug quantity finding on Petitioner’s statement that he possessed ten pills each day. The record
+
+contains no evidence to suggest that the information about the transactions with Mr. Witham (i.e.,
+
+the fact that Petitioner purchased five pills each day) would have convinced the Court to alter its
+
+analysis. Indeed, the mere fact that Petitioner obtained five pills from Mr. Witham in no way
+
+
+14
+  Petitioner cites Brady v. Maryland, 373 U.S. 83, 87 (1963), which holds that the prosecution may not suppress
+evidence that is “material either to guilt or to punishment, irrespective of the good faith or bad faith of the prosecution.”
+See also Giglio v. United States, 405 U.S. 150, 154 (1972) (extending the Brady holding to evidence that could
+impeach the credibility of a key government witness).
+
+
+                                                             18
+supports the conclusion that Petitioner only had five pills each day. Additionally, Petitioner has
+
+provided no specific information about the content of the alleged “reports” to support his
+
+contention that these reports would have produced a different result even if they exist.
+
+         In essence, Petitioner contends that his counsel’s performance was deficient because
+
+counsel failed to persuade the Court that a lower drug amount was involved. The fact that the
+
+Court did not find Petitioner’s argument persuasive does not render counsel’s performance
+
+deficient. See Moreno-Espada, 666 F.3d at 65.15
+
+         5. Failure to obtain information about and obtain immunity for Michael Weston
+            (Ground Five)
+
+         Petitioner alleges that because during the first year at issue, he consumed all of the pills
+
+and did not sell any, his counsel was ineffective for failing to offer evidence of recorded telephone
+
+calls by Michael Weston to Petitioner from jail to corroborate Petitioner’s allegation. (Motion at
+
+4.) Petitioner also argues that counsel was ineffective for failing “to move for partial immunity”
+
+for Weston so that Weston could testify about drug amounts but not about “arson and other
+
+crimes.” (Motion at 4.)
+
+         Petitioner’s counsel subpoenaed Weston to testify, but Weston told his own counsel that
+
+he would invoke his Fifth Amendment privilege against self-incrimination and would not testify.
+
+(Sentencing Tr., ECF No. 82 at 30, 36-37.) Petitioner’s counsel does not have the authority to
+
+grant immunity, and there is not a process by which counsel can “move” for immunity. A grant
+
+of immunity is given by the Government, not by the Court or defense counsel. See United States
+
+v. Mackey, 117 F. 3d 24, 28 (1st Cir. 1997) (noting that “in general, courts have no power to compel
+
+15
+   Petitioner also alleges that he was actually innocent. (Motion at 3, 5.) “‘[A]ctual innocence’ means factual
+innocence, not mere legal insufficiency.” Bousley v. United States, 523 U.S. 614, 623 (1998). The Court found
+sufficient evidence, based on Petitioner’s own statements, that he possessed ten pills each day. (Sentencing Tr., ECF
+No. 83 at 84.) Petitioner has not satisfied his burden to demonstrate that an evidentiary hearing is warranted based on
+the allegations set forth in his section 2255 motion. See Moreno-Morales v. United States, 334 F.3d 140, 145 (1st Cir.
+2003).
+
+                                                          19
+immunity in the face of a good faith refusal by the prosecutor”); United States v. Quinn, 728 F.3d
+
+243, 247 (3d Cir. 2013) (“Immunity is a statutory creation . . . . The decision to immunize a witness
+
+to obtain his testimony is a core prosecutorial function, as immunizing necessarily involves
+
+weighing the public’s need for testimony against the risk that immunity will inhibit later
+
+prosecution of criminal wrongdoing.”).
+
+       Even without the immunity, Petitioner’s counsel was able to present information from
+
+Weston. In lieu of Weston’s testimony, Petitioner offered the testimony of a private investigator
+
+who interviewed Weston about drug amounts. (Sentencing Tr., ECF No. 83 at 37-40.) The private
+
+investigator testified that Weston told him that Petitioner obtained ten pills each week, mostly for
+
+personal use. (Id. at 38-40.)
+
+       Insofar as the grant of immunity is not within his counsel’s authority or control, and given
+
+that his counsel actually presented information from Weston, Petitioner has failed to show either
+
+deficient performance by counsel or prejudice to Petitioner. See Strickland, 466 U.S. at 688;
+
+Turner, 699 F.3d at 584.
+
+       6. Failure to obtain evidence from Michael Witham, Sr., regarding drug quantity
+          (Grounds Six and Nine)
+
+       Petitioner claims ineffective assistance of counsel for counsel’s failure to obtain more
+
+discovery about Michael Witham, Sr., particularly that Witham was an informant who “would
+
+have told police and federal agents the exact amount of drugs that [Petitioner] was purchasing . . .
+
+.” (Motion at 4.) Petitioner argues that Mr. Witham would have provided information that would
+
+have established an “exact” drug quantity for sentencing, would have contradicted Petitioner’s
+
+higher estimates of the drug quantity, and would have resulted in lowering the drug quantity for
+
+which Petitioner was held responsible. (Motion at 4-5.) In addition, Petitioner argues that he was
+
+prejudiced because counsel failed to pursue information about a statement that Michael Witham,
+
+
+                                                 20
+Sr., made to the effect that he had a deal with the Government. (Motion at 4-5.) Specifically,
+
+Petitioner argues that to the extent that he received a more stringent sentence for not cooperating
+
+in the Government’s efforts to implicate Michael Witham, Sr., the sentence was unfair because
+
+Michael Witham, Sr., had already been implicated and was cooperating. (Motion at 5.) In Ground
+
+Nine, Petitioner reiterates the claim that counsel was ineffective for failing to move for discovery
+
+and Brady material regarding both Eddie Witham and Michael Witham, Sr. (Motion at 5-6.)
+
+       Petitioner’s argument rests on the assumption that Michael Witham, Sr., was an informant;
+
+this assumption, however, is not supported in the record. The Government represents that Michael
+
+Witham and Eddie Witham remained at large at the time of Petitioner’s sentencing, and remained
+
+unindicted criminal co-conspirators. (Response at 38.) Under the circumstances, any suggestion
+
+that the Withams would have implicated themselves in an oxycodone conspiracy is speculative
+
+and unrealistic. (Id.)   More importantly, contrary to Petitioner’s argument, Petitioner did not
+
+receive a harsher sentence because he failed to cooperate in a case against the Withams; the lack
+
+of cooperation was not listed among the factors the Court considered in imposing the sentence
+
+against Petitioner. (Id.) Because the record lacks any evidence that Michael Witham was an
+
+informant, and because the Court did not cite Petitioner’s lack of cooperation in the prosecution of
+
+the Withams as a sentencing factor, Petitioner has failed to show either deficient performance by
+
+counsel or prejudice to Petitioner. See Strickland, 466 U.S. at 688; Turner, 699 F.3d at 584.
+
+       7. Failure to present a clearly stated and supported exhibit on drug quantity
+          (Ground Ten)
+
+       In Ground Ten, Petitioner alleges that counsel failed to present accurate and pertinent drug
+
+quantity information in writing before sentencing. He contends that instead, counsel presented
+
+Exhibit 16 (ECF No. 104-3), which he argues incorrectly states that Petitioner sold 30-mg and 80-
+
+mg pills for one year, from March 2009 to March 2010. (Motion at 6.) Petitioner maintains that
+
+
+                                                21
+he did not actually start to sell until the end of that period, that he sold oxycodone only “because
+
+he ran out of money and property to sell,” and that he sold only enough to support his own
+
+addiction. (Id.) In support of this argument, Petitioner reiterates the same arguments that he
+
+previously asserted - that counsel should have sought the testimony of Eddie Witham, Mike
+
+Witham, Sr., and Michael Weston, all of whom would have attested to lower quantities than the
+
+amount to which Petitioner admitted in his two interviews with law enforcement.
+
+       As explained above, Petitioner’s complaint about counsel’s performance is not supported
+
+by the record. Counsel submitted drug quantity information on Petitioner’s behalf in the objections
+
+to the initial presentencing investigation report, in the sentencing memorandum and at the
+
+sentencing hearing. (Sentencing Memorandum, ECF No. 57 at 3; Exh. 16, ECF No. 104-3;
+
+Sentencing Tr., ECF No. 83 at 67.) For the reasons discussed in connection with Grounds Five,
+
+Six, and Nine, Petitioner has failed to show either deficient performance by counsel or prejudice
+
+to Petitioner. See Strickland, 466 U.S. at 688; Turner, 699 F.3d at 584.
+
+       8. Failure to obtain discovery regarding Andrew Robinson to reduce the drug
+          quantity (Ground Eleven)
+
+       In Ground Eleven, Petitioner claims ineffective assistance of counsel for failure to obtain
+
+discovery regarding Andrew Robinson. He alleges that the evidence would have supported a
+
+reduced drug quantity attributable to Petitioner. Although Petitioner does not state Robinson’s
+
+role, the Government represents that Robinson was a customer of Petitioner’s. (Response at 41.)
+
+The Court did take Robinson’s testimony into account, noting that Robinson testified that he
+
+bought oxycodone pills twice each week from Petitioner starting in late July 2009 when his prior
+
+supplier, Eddie Witham, went to jail. (Sentencing Tr., ECF No. 83 at 82.) Petitioner’s claim that
+
+counsel failed to move for more Brady material about Robinson is undeveloped and, therefore,
+
+may be considered waived. See David, 134 F.3d at 478 (“To progress to an evidentiary hearing, a
+
+
+                                                22
+habeas petitioner must do more than proffer gauzy generalities or drop self-serving hints that a
+
+constitutional violation lurks in the wings.”).
+
+       9. Failure to challenge the application of the guidelines on grounds that Petitioner
+          committed the crimes solely because he was a drug addict (Ground Twelve)
+
+       Petitioner claims ineffective assistance of counsel for failure to challenge his criminal
+
+history points and his criminal record as set forth in the presentence investigation report. (Motion
+
+at 7.) Petitioner contends that his entire criminal history occurred while he was addicted to drugs.
+
+(Id.) Contrary to Petitioner’s contentions, counsel did argue at the sentencing hearing that
+
+Petitioner’s criminal activity likely would not have occurred were it not for Petitioner’s drug
+
+addiction. (Sentencing Tr., ECF No. 83 at 95.) However, the Court reviewed Petitioner’s criminal
+
+history and found that it was not explained by his drug addiction. (Sentencing Tr., ECF No. 83 at
+
+114-15.) Counsel cannot be found constitutionally deficient for making an argument that the Court
+
+ultimately found unpersuasive. See Moreno-Espada, 666 F.3d at 65.
+
+       10. Failure to advise Petitioner not to waive the indictment on the firearms charge
+           (Ground Thirteen)
+
+       Petitioner claims ineffective assistance of counsel for counsel advising him to waive his
+
+right to an indictment on the firearms charge. (Motion at 7.) Petitioner argues that he was not an
+
+unlawful user of drugs at the time because he had not yet been convicted of the drug charge, and
+
+he was not guilty of the firearms charge because Michael Witham Jr., the person to whom he sold
+
+the firearms, was a licensed dealer.       (Motion at 7.)   Petitioner’s counsel argued that the
+
+enhancement pursuant to U.S.S.G. § 2D1.1(b)(1) should not apply because Petitioner sold to a
+
+licensed firearms dealer. The Court considered the facts and Petitioner’s argument in detail, but
+
+
+
+
+                                                  23
+concluded that “the defendant used the firearms as collateral to obtain drugs.” On that basis, the
+
+Court applied the firearms enhancement. (Sentencing Tr., ECF No. 82 at 6, 9-21.)16
+
+         Petitioner’s argument suggests that counsel should have advised against pleading to the
+
+charge because he was not guilty under the applicable statutes. Petitioner’s argument that he was
+
+not in violation of the firearms statute, 18 U.S.C. § 922(g)(3), because he had not been convicted
+
+of unlawful drug use, misconstrues the firearms statute. Unlawful drug use or a drug addiction is
+
+an element of the firearms crime, but there need not have been a prior drug conviction. Section
+
+922(g)(3) states: “It shall be unlawful for any person . . . who is an unlawful user of or addicted to
+
+any controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C.
+
+802)) . . . to . . . possess in or affecting commerce, any firearm or ammunition.” In the Rule 11
+
+hearing, Petitioner admitted the accuracy of the amended prosecution version, which alleged that
+
+Petitioner bought a shotgun and pawned it to another person at a time when Petitioner was an
+
+unlawful user of oxycodone, and that Petitioner pawned the gun to support his drug addiction.
+
+(Rule 11 Tr., ECF No. 81 at 21-23; Amended Prosecution Version, ECF No. 38 at 1.) Plaintiff’s
+
+contention, therefore, that his counsel’s performance was constitutionally deficient is without merit
+
+and unsupported on the record.
+
+
+
+
+16
+   Petitioner’s argument that he was not in violation of the firearms statute, 18 U.S.C. § 922(g)(3), because he had not
+been convicted of unlawful drug use, misconstrues the firearms statute. Unlawful drug use or a drug addiction is an
+element of the firearms crime, but there need not have been a prior drug conviction. Section 922(g)(3) states: “It shall
+be unlawful for any person . . . who is an unlawful user of or addicted to any controlled substance (as defined in section
+102 of the Controlled Substances Act (21 U.S.C. 802)) . . . to . . . possess in or affecting commerce, any firearm or
+ammunition.” In the Rule 11 hearing, Petitioner admitted the accuracy of the amended prosecution version, which
+alleged that Petitioner bought a shotgun and pawned it to another person at a time when Petitioner was an unlawful
+user of oxycodone, and that Petitioner pawned the gun to support his drug addiction. (Rule 11 Tr., ECF No. 81 at 21-
+23; Amended Prosecution Version, ECF No. 38 at 1.)
+
+
+                                                           24
+         11. Petitioner’s new claims
+
+         Despite the Court’s admonition that Petitioner was not to add new claims in his
+
+supplemental memorandum, Petitioner added three new claims.                               (Order, ECF No. 89;
+
+Supplemental Memorandum, ECF No. 94.) Petitioner asserted (1) that counsel failed to move to
+
+dismiss the indictment and the information based on Speedy Trial Act violations; 17 (2) that counsel
+
+failed to move to dismiss the indictment on the basis that it did not name the co-conspirators; and
+
+(3) that counsel failed to move to dismiss the indictment because all of the co-conspirators were
+
+government informants. (Supplemental Memorandum at 3-6.)
+
+         Preliminarily, the claims are subject to dismissal because they are new claims, brought in
+
+violation of the Court’s order that permitted the supplemental memorandum but disallowed new
+
+claims, i.e., claims asserted for the first time in the supplemental memorandum. (Order, ECF No.
+
+89.) Furthermore, none of the new claims has any merit.
+
+         First, Petitioner waived any claim under the Speedy Trial Act when he entered an
+
+unconditional guilty plea. See United States v. Gonzalez-Arimont, 268 F.3d 8, 12 (1st Cir. 2001)
+
+(holding that “a claim under the Speedy Trial Act is a nonjurisdictional defense that is waived with
+
+an unconditional guilty plea”).
+
+         Petitioner’s claim that the indictment was insufficient because it did not name the co-
+
+conspirators is procedurally defaulted as a stand-alone claim, and it is without merit as a claim
+
+based on counsel’s failure to move to dismiss the indictment. An indictment “must be a plain,
+
+concise, and definite written statement of the essential facts constituting the offense charged . . . .”
+
+
+
+
+17
+   The Speedy Trial Act, 18 U.S.C. § 3161(c)(1), provides in pertinent part: “In any case in which a plea of not guilty
+is entered, the trial of a defendant charged in an information or indictment with the commission of an offense shall
+commence within seventy days from the filing date . . . of the information or indictment, or from the date the defendant
+has appeared before a judicial officer of the court in which such charge is pending, whichever date last occurs.
+
+
+                                                          25
+Fed. R. Crim. P. 7(c)(1). “[A]n indictment is sufficient if it specifies the elements of the offense
+
+charged, fairly apprises the defendant of the charge against which he must defend, and allows him
+
+to contest it without fear of double jeopardy.” United States v. Stewart, 744 F.3d 17, 21 (1st Cir.
+
+2014) (quotation marks omitted). “[T]he government is not required to furnish the name[s] of all
+
+other co-conspirators” in a bill of particulars when the co-conspirators were unnamed in the
+
+indictment. United States v. Vassar, 346 F. App’x 17, 22 (6th Cir. 2009) (quotation marks
+
+omitted). Finally, Petitioner’s claim that the indictment was defective because all of the co-
+
+conspirators were government informers has no merit because it is unsupported by the record. As
+
+discussed above, Eddie Witham and Michael Witham, Sr., were criminal co-conspirators, not
+
+Government agents or informants. Simply stated, the indictment was sufficient and not subject to
+
+dismissal.
+
+                                       III.    CONCLUSION
+
+       Based on the foregoing analysis, the recommendation is (1) that the Court grant the
+
+Government’s motion for summary dismissal, (2) that the Court dismiss Petitioner’s section 2255
+
+motion, and (3) that the Court deny a certificate of appealability pursuant to Rule 11 of the Rules
+
+Governing Section 2255 Cases because there is no substantial showing of the denial of a
+
+constitutional right within the meaning of 28 U.S.C. § 2253(c)(2).
+
+
+
+                                              NOTICE
+
+               A party may file objections to those specified portions of a magistrate
+       judge’s report or proposed findings or recommended decisions entered pursuant to
+       28 U.S.C. 636(b)(1)(B) for which de novo review by the district court is sought,
+       together with a supporting memorandum, within fourteen (14) days of being served
+       with a copy thereof. A responsive memorandum shall be filed within fourteen (14)
+       days after the filing of the objection.
+
+
+
+
+                                                26
+       Failure to file a timely objection shall constitute a waiver of the right to de
+novo review by the district court and to appeal the district court's order.
+
+                                               /s/ John C. Nivison
+                                               U.S. Magistrate Judge
+
+Dated this 19th day of September, 2014.
+
+
+
+
+                                          27
+

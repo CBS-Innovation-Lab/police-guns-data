@@ -1,0 +1,649 @@
+     Case 1:16-cr-10306-WGY Document 128 Filed 11/04/21 Page 1 of 12
+
+
+
+                       UNITED STATES DISTRICT COURT
+                         DISTRICT OF MASSACHUSETTS
+
+                                            )
+UNITED STATES                               )
+                                            )
+                                            )
+                 v.                         )      CRIMINAL ACTION
+                                            )      NO. 16-10306-WGY
+BENITO RIVERA,                              )
+                                            )
+                         Defendant.         )
+                                            )
+
+
+YOUNG, D.J.                                           November 4, 2021
+
+                            MEMORANDUM & ORDER
+I.   INTRODUCTION
+
+     Benito Rivera (“Rivera”) moves to vacate his September 2017
+
+felon-in-possession conviction under 18 U.S.C. § 922(g)(1)
+
+pursuant to Rehaif v. United States, 139 S. Ct. 2191 (2019), in
+
+which the Supreme Court held that to support a section 922(g)(1)
+
+verdict, the government must prove that while in possession of a
+
+firearm, the defendant knew that he or she belonged to a
+
+category of persons statutorily prohibited from carrying the
+
+firearm.   Rivera’s motion is DENIED.
+
+     In 1994, Rivera was found guilty at trial of trafficking
+
+heroin and received a sentence of ten years to ten years and one
+
+day in state prison.      Mot. Vacate Conviction 28 U.S.C. § 2255 &
+
+Rehaif v. United States, 139 S. Ct. 2191 (2019) (“Mot. Vacate”)
+
+3, ECF No. 110.       In 2001, Rivera pled guilty to possession of a
+
+Class B Substance with intent to distribute and received a
+
+
+                                      [1]
+     Case 1:16-cr-10306-WGY Document 128 Filed 11/04/21 Page 2 of 12
+
+
+
+sentence of three years to three years and a day in state
+
+prison.   Id.   In May 2009, Rivera pled guilty to two counts of
+
+armed robbery and was sentenced to five to ten years in state
+
+prison.   Id.   Following the armed robbery conviction, Rivera was
+
+indicted in this Court in 2016 on a single count of being a
+
+felon in possession of a firearm and ammunition in violation of
+
+18 U.S.C. § 922(g)(1).    Id.    Rivera went to trial and was
+
+convicted on September 14, 2017.        Id.   At trial, the Court
+
+presented the jury with the question “Did Mr. Rivera, as the law
+
+requires, did he possess that firearm and ammunition?” and
+
+instructed the jury that Rivera would be found guilty only if he
+
+“knowingly possessed it.”     Tr. Jury Trial 67-68, ECF No. 95
+
+(“[I]f it is proved beyond a reasonable doubt that he had that
+
+firearm in that bag or on his person somewhere and he had it --
+
+now he has to know he’s got a firearm, he’s got know [sic] he’s
+
+carrying it . . . .”).    During the trial, there was no reference
+
+of any kind to Rivera’s knowledge of being a felon at the time
+
+of the firearm possession.      Id.
+
+     About two years later, on June 21, 2019, the Supreme Court
+
+held in Rehaif that to convict a defendant under 18 U.S.C.
+
+§ 922(g), “the Government . . . must show that the defendant
+
+knew he possessed a firearm and also that he knew he had the
+
+relevant status when he possessed it.”         139 S. Ct. at 2194
+
+(emphasis added).    Following the Rehaif decision, on June 19,
+
+
+                                      [2]
+     Case 1:16-cr-10306-WGY Document 128 Filed 11/04/21 Page 3 of 12
+
+
+
+2020, Rivera moved to vacate his conviction pursuant to 28
+
+U.S.C. § 2255.   See generally Mot. Vacate.      In his motion,
+
+Rivera argues that his conviction must be vacated because the
+
+jury was not instructed to consider whether Rivera knew that he
+
+was a felon at the time of the armed robbery.        Id. 4.
+
+     Section 922(g) of title 18 of the United States Code
+
+provides that “[i]t shall be unlawful” for certain individuals
+
+to possess firearms.    18 U.S.C. § 922(g).     The provision then
+
+lists nine categories of individuals subject to the prohibition,
+
+including felons.    Id. § 922(g)(1).    A separate sub-section,
+
+§ 924(a)(2), adds that anyone who “knowingly violates”
+
+section 922(g) shall be fined or imprisoned for up to ten years.
+
+Id. § 924(a)(2).    The Supreme Court in Rehaif held that “in a
+
+prosecution under 18 U.S.C. § 922(g) and § 924(a)(2), the
+
+Government must prove both that the defendant knew he possessed
+
+a firearm and that he knew he belonged to the relevant category
+
+of persons barred from possessing a firearm.”        139 S. Ct. at
+
+2200 (emphasis added).
+
+     In reliance upon the Rehaif decision, Rivera claims that
+
+(1) since the essential element of knowing that he was a felon
+
+was neither alleged in the indictment nor discussed at any
+
+proceeding in his case, this Court did not have jurisdiction to
+
+enter judgment against him, Mot. Vacate 5-6, and (2) the
+
+
+
+
+                                  [3]
+      Case 1:16-cr-10306-WGY Document 128 Filed 11/04/21 Page 4 of 12
+
+
+
+indictment violated Rivera’s Fifth Amendment right to be charged
+
+by a grand jury and Sixth Amendment right to notice, id. 8.
+
+II.   THE COLLATERAL ATTACK -- HABEAS REVIEW
+
+      Under 28 U.S.C. § 2255(a),
+
+      A prisoner in custody under sentence of a court
+      established by Act of Congress claiming the right to be
+      released upon the ground that the sentence was imposed
+      in violation of the Constitution or laws of the United
+      States, or that the court was without jurisdiction to
+      impose such sentence, or that the sentence was in excess
+      of the maximum authorized by law, or is otherwise subject
+      to collateral attack, may move the court which imposed
+      the sentence to vacate, set aside or correct the
+      sentence.
+
+28 U.S.C. § 2255(a).     A prisoner seeking relief under 28
+
+U.S.C. § 2255 must allege either: (1) an error of
+
+constitutional magnitude; (2) a sentence imposed outside
+
+the statutory limits; or (3) an error of fact or law that
+
+was so fundamental as to render the entire proceeding
+
+invalid.    Short v. United States, 471 F.3d 686, 691 (2006)
+
+(citation and quotations omitted).
+
+      A habeas petition, however, does not replace a direct
+
+appeal.    As a general rule, “claims not raised on direct
+
+appeal may not be raised on collateral review . . . .”
+
+Massaro v. United States, 538 U.S. 500, 504 (2003).          “Where
+
+a defendant has procedurally defaulted a claim by failing
+
+to raise it on direct review, the claim may be raised in
+
+habeas only if the defendant can first demonstrate either
+
+
+
+                                   [4]
+     Case 1:16-cr-10306-WGY Document 128 Filed 11/04/21 Page 5 of 12
+
+
+
+‘cause’ and actual ‘prejudice,’ or that he is ‘actually
+
+innocent.’”   Bousley v. United States, 523 U.S. 614, 622
+
+(1998) (citations omitted).
+
+     Here, Rivera has failed to show cause or prejudice for
+
+his failure to raise this claim on direct appeal, and he
+
+does not attempt to show that he is actually innocent.         See
+
+generally Mot. Vacate.    Thus, his claim is procedurally
+
+defaulted.
+
+     First, as to cause, although a claim that “is so novel
+
+that its legal basis is not reasonably available to
+
+counsel” may constitute cause for a procedural default,
+
+Bousley, 523 U.S. at 622, Rivera’s claim does not qualify.
+
+A petitioner cannot establish that a claim was “not
+
+reasonably available to counsel” just because of the
+
+perception that “a claim was unacceptable to that
+
+particular court at that particular time.”       Id. at 622-23.
+
+     The Supreme Court had emphasized the importance of
+
+scienter in distinguishing between wrongful and innocent
+
+conduct in many cases prior to Rehaif.       See, e.g.,
+
+Liparota v. United States, 471 U.S. 419, 425 (1985); United
+
+States v. Bailey, 444 U.S. 394, 406 (1980); United States
+
+v. U.S. Gypsum Co., 438 U.S. 422, 436 (1978); Morissette v.
+
+United States, 342 U.S. 246, 250–51 (1952).        Additionally,
+
+well before Rehaif was decided, the Supreme Court had
+
+
+                                  [5]
+     Case 1:16-cr-10306-WGY Document 128 Filed 11/04/21 Page 6 of 12
+
+
+
+interpreted statutes to include a scienter requirement even
+
+where the statutory text was silent on the question.         See,
+
+e.g., Staples v. United States, 511 U.S. 600, 610 (1994).
+
+Rivera has not attempted to show cause for his procedural
+
+default, but even if he had, based on the aforementioned
+
+legal standards, Rivera would not be able to argue
+
+convincingly that the legal basis for Rehaif was not
+
+reasonably available to him at the time of his appeal.
+
+     Second, as to actual prejudice, a petitioner can
+
+establish the required prejudice by showing “a reasonable
+
+probability that, but for the errors, the result of the
+
+proceeding would have been different.”       Lee v. United
+
+States, 137 S. Ct. 1958, 1964-65 (2017). 1      A petitioner
+
+“must shoulder the burden of showing, not merely that the
+
+errors at his trial created a possibility of prejudice, but
+
+that they worked to his actual and substantial
+
+disadvantage, infecting his entire trial with error of
+
+constitutional dimensions.”     United States v. Frady, 456
+
+
+
+
+     1 Lee refers to prejudice in the context of an ineffective
+assistance of counsel claim, not in the context of procedural
+default, but the First Circuit has ruled that there is no
+practical difference between the two. See Lynch v. Ficco, 438
+F.3d 35, 49 (1st Cir. 2006) (“[I]n this circuit, we have held
+that . . . if a habeas petitioner can meet the prejudice
+standard needed to establish ineffective assistance . . . then
+the prejudice standard under the ‘cause and prejudice’ showing
+to excuse a procedural default is also met.”).
+
+
+                                  [6]
+      Case 1:16-cr-10306-WGY Document 128 Filed 11/04/21 Page 7 of 12
+
+
+
+U.S. 152, 170 (1982).     The Supreme Court has summarized the
+
+degree of prejudice that a prisoner is required to show
+
+before obtaining a collateral relief for error in the jury
+
+charge as “whether the ailing instruction by itself so
+
+infected the entire trial that the resulting conviction
+
+violates due process, not merely whether the instruction is
+
+undesirable, erroneous, or even universally condemned.”
+
+Henderson v. Kibbe, 431 U.S. 145, 154 (1977) (citations and
+
+quotations omitted).
+
+      Here, Rivera argues that he has been prejudiced
+
+because “[e]ven if instructed correctly under Rehaif, a
+
+jury could not have found Rivera guilty because no evidence
+
+of knowledge of status appears in the record.”         Mot. Vacate
+
+13.   The Court disagrees.     Rivera’s record shows at least
+
+three separate occasions prior to the instant offense where
+
+he was sentenced to and served more than one year of
+
+imprisonment.    Id. 3.   This, by itself, supports the
+
+conclusion that Rivera had knowledge of his status as a
+
+convicted felon when he was on trial for firearm possession
+
+pursuant to 18 U.S.C. § 922(g).       See Greer v. United
+
+States, 141 S. Ct. 2090, 2097 (2021) (“If a person is a
+
+felon, he ordinarily knows he is a felon.        Felony status is
+
+simply not the kind of thing that one forgets.” (quotations
+
+omitted)).
+
+
+                                   [7]
+     Case 1:16-cr-10306-WGY Document 128 Filed 11/04/21 Page 8 of 12
+
+
+
+     Therefore, the Court rules that Rivera has failed to
+
+show cause or actual prejudice for his procedural default.
+
+     The only path left for Rivera is showing actual
+
+innocence.   “[P]risoners asserting innocence as a gateway
+
+to defaulted claims must establish that, in light of new
+
+evidence, it is more likely than not that no reasonable
+
+juror would have found petitioner guilty beyond a
+
+reasonable doubt.”   House v. Bell, 547 U.S. 518, 536–37
+
+(2006) (quotations omitted) (citing Schlup v. Delo, 513
+
+U.S. 298, 327 (1995)).    In this regard, the Supreme Court
+
+has noted that actual innocence means “factual innocence,
+
+not mere legal insufficiency.”     Bousley, 523 U.S. at 623.
+
+The actual innocence standard may be met in “in an
+
+extraordinary case, where a constitutional violation has
+
+probably resulted in the conviction of one who is actually
+
+innocent.”   Murray v. Carrier, 477 U.S. 478, 496 (1986).
+
+Rivera has not attempted to meet this standard.        See
+
+generally Mot. Vacate.    Rivera has a record of three
+
+sentences of more than one year each.       Mot. Vacate 3.     Like
+
+the actual-prejudice prong, this record supports a
+
+conclusion that Rivera was aware of his status as a
+
+convicted felon while later possessing a firearm.        See
+
+Greer, 141 S. Ct. at 2097.     The Court is convinced that no
+
+reasonable juror could have believed that Rivera did not
+
+
+                                  [8]
+     Case 1:16-cr-10306-WGY Document 128 Filed 11/04/21 Page 9 of 12
+
+
+
+know that he had been convicted of a crime punishable by
+
+imprisonment for a term exceeding one year when Rivera had
+
+previously served many years in prison for many crimes.
+
+Thus, the Court rules that Rivera has failed to show actual
+
+innocence, and accordingly his motion to vacate is
+
+procedurally barred.
+
+III. THE MERITS
+
+     Even were the Court to address the merits, Rivera would
+
+fare no better.
+
+     A.   Jurisdictional Challenge
+
+     Rivera’s first argument is that the missing scienter-
+
+of-status requirement in his trial renders the entire
+
+indictment defective such that this Court lacked
+
+jurisdiction to enter judgment against him in the 18 U.S.C.
+
+§ 922(g) prosecution.    Mot. Vacate 2.     The Court disagrees.
+
+The Supreme Court has ruled that “defects in an indictment
+
+do not deprive a court of its power to adjudicate a case.”
+
+United States v. Cotton, 535 U.S. 625, 630 (2002).
+
+Accordingly, with regards to Rehaif, the First Circuit has
+
+decided that “the government’s failure to allege the
+
+scienter-of-status element in the indictment did not
+
+deprive the district court of jurisdiction.”        United States
+
+v. Farmer, 988 F.9d 55, 60-61 (1st Cir. 2021); accord
+
+United States v. Hobbs, 953 F.3d 853, 856-57 (6th Cir.
+
+
+                                  [9]
+     Case 1:16-cr-10306-WGY Document 128 Filed 11/04/21 Page 10 of 12
+
+
+
+2021).     Therefore, the Court rules that it did not lack
+
+jurisdiction to enter judgment against Rivera in the 18
+
+U.S.C. § 922(g) prosecution.
+
+      B.     Constitutional Challenge
+
+      Lastly, Rivera argues that the defective indictment
+
+violated his Fifth Amendment right to be charged by a grand
+
+jury and his Sixth Amendment right to notice.        Mot. Vacate
+
+2.   Specifically, he claims that “[n]o evidence of Rivera’s
+
+knowledge of his status as a person prohibited from
+
+possessing a firearm was introduced at trial and the jury
+
+was not instructed that such knowledge of status was an
+
+element of the offense.     Accordingly, Rivera’s Fifth and
+
+Sixth Amendment rights were violated.”       Id.
+
+      “The First Circuit applies the plain error standard to
+
+clear or obvious errors (including structural errors) that
+
+were not raised before the district court, such as Fifth
+
+and Sixth Amendment challenges.”      United States v.
+
+Guardado, CIVIL ACTION NO. 12-cr-40004-TSH, 2021 WL
+
+3055015, at *3 (D. Mass. July 20, 2021) (Hillman, J.)
+
+(citing United States v. Lara, 970 F.3d 68, 86 (1st Cir.
+
+2020) (“The plain error standard of review applies,
+
+however, even to challenges to structural errors if they
+
+were not raised below.”)).     To meet the plain error
+
+standard, a petitioner must show three elements: (1) “there
+
+
+                                  [10]
+    Case 1:16-cr-10306-WGY Document 128 Filed 11/04/21 Page 11 of 12
+
+
+
+must be an error that has not been intentionally
+
+relinquished or abandoned”; (2) “the error must be plain --
+
+that is to say, clear or obvious”; and (3) “the error must
+
+have affected the defendant’s substantial rights . . . .”
+
+Molina-Martinez v. United States, 136 S. Ct. 1338, 1343
+
+(2016).   To meet the third element, a petitioner “must show
+
+a reasonable probability that, but for the error, the
+
+outcome of the proceeding would have been different.”         Id.
+
+(citation and quotations omitted).
+
+     In United States v. Burghardt, a post-Rehaif decision,
+
+the First Circuit denied a motion to vacate a
+
+section 922(g)(1) conviction because the record revealed
+
+“no reason to think that the government would have had any
+
+difficulty at all in offering overwhelming proof that
+
+Burghardt knew that he had previously been convicted of
+
+offenses punishable by more than a year in prison.”        See
+
+939 F.3d 397, 404 (1st Cir. 2019).      Specifically, the First
+
+Circuit noted that
+
+     according to his presentence investigation report (PSR),
+     Burghardt received 2-10 years in state prison for two of
+     the sale convictions, 7.5-15 years in state prison for
+     the third sale conviction and the possession-with-
+     intent-to-sell conviction, and 2-5 years in state prison
+     for the robbery conviction. If true, the receipt of such
+     sentences would certainly have made clear to Burghardt
+     the fact that his offenses were punishable by more than
+     a year in prison.
+
+Id. (emphasis added) (footnote omitted).
+
+
+                                 [11]
+      Case 1:16-cr-10306-WGY Document 128 Filed 11/04/21 Page 12 of 12
+
+
+
+      The reasoning in Burghardt is applicable to Rivera’s
+
+case.     As described above, Rivera was sentenced on three
+
+different occasions to serve more than one year in prison.
+
+Therefore, the Court finds that it is more likely than not
+
+that had the Court instructed the jury on the scienter-of-
+
+status element, the outcome of the proceeding would not
+
+have been different.     The Court rules that regardless
+
+whether there was an error and whether this error was clear
+
+or obvious -- the missing scienter element did not affect
+
+Rivera’s substantial rights.
+
+IV.   CONCLUSION
+
+      For the foregoing reasons, Rivera’s motion to vacate, ECF
+
+No. 110, is DENIED.
+
+
+
+SO ORDERED.
+
+
+
+                                          /s/ WILLIAM G. YOUNG
+                                            WILLIAM G. YOUNG
+                                                 JUDGE
+                                                of the
+                                             UNITED STATES 2
+
+
+
+
+      2This is how my predecessor, Peleg Sprague (D. Mass. 1841-
+1865), would sign official documents. Now that I’m a Senior
+District Judge I adopt this format in honor of all the judicial
+colleagues, state and federal, with whom I have had the
+privilege to serve over the past 43 years.
+
+
+                                   [12]
+

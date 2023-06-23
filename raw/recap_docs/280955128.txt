@@ -1,0 +1,727 @@
+           Case 3:21-cr-00147-PAD Document 72 Filed 04/14/23 Page 1 of 14
+
+
+
+
+                            UNITED STATES DISTRICT COURT
+                           FOR THE DISTRICT OF PUERTO RICO
+
+ UNITED STATES OF AMERICA,
+
+            Plaintiff,
+
+                v.                                    CRIMINAL No. 21-147 (PAD)
+
+ [1] KEVIN BORGES-SÁNCHEZ AND
+ [2] WESLEY BORGES-SÁNCHEZ,
+
+            Defendants.
+
+
+
+
+                             REPORT AND RECOMMENDATION
+
+    I.       Procedural posture
+
+          On April 28, 2021, defendants [1] Kevin Borges-Sánchez (“Kevin”) and [2] Wesley
+
+Borges-Sánchez (“Wesley”) were indicted for possession with intent to distribute cocaine,
+
+heroin, and marihuana, for being convicted felons in possession of firearms, and for possession
+
+of firearms and machineguns in furtherance of drug trafficking. ECF No. 1. Pending before the
+
+court are defendants’ motions to suppress evidence seized and Wesley’s request for suppression
+
+of post-arrest statements he made. ECF Nos. 63; 64. The United States has opposed both
+
+motions. ECF Nos. 68; 69. The facts, for purposes of the pending motions to suppress, are not in
+
+dispute. Therefore, a hearing is not necessary. In this report, I will take defendants’ factual
+
+allegations as true.
+
+    II.      Undisputed facts
+
+          On October 9, 2015, judgment was entered against Kevin for possession of a firearm in
+
+furtherance of a drug trafficking crime. United States v. Kevin Borges Sánchez, 14-709 (PAD), at
+
+ECF No. 59. Kevin began serving his five-year supervised release term on March 29, 2019, and
+            Case 3:21-cr-00147-PAD Document 72 Filed 04/14/23 Page 2 of 14
+
+
+
+
+the same was set to expire on March 28, 2024. Id., at ECF No. 60; 21-147 (PAD), at ECF No .63,
+
+at 5. The supervised release conditions provided, inter alia, that Kevin could not commit another
+
+federal, state or local crime, could not unlawfully possess a controlled substance, and could not
+
+possess a firearm, ammunition, destructive device, or any other dangerous weapon. 14-709
+
+(PAD), at ECF No. 59, at 3. Among the conditions of supervision included in the judgment is the
+
+following:
+
+          Defendant shall submit his person, property, house, vehicle, papers, computers (as
+          defined in 18 U.S.C. Section 1030(e)(1)), other electronic communication or data
+          storage devices, and media, to a search conducted by a United States Probation
+          Officer at a reasonable time and in a reasonable manner, based upon reasonable
+          suspicion of contraband or evidence of a violation of a condition of release.
+          Failure to submit to a search may be grounds for revocation of release. The
+          defendant shall warn any other occupants that the premises may be subject to
+          searches pursuant to this condition.
+
+Id. at 4, ¶5.
+
+          On February 29, 2016, judgment was entered against Wesley for possession of cocaine
+
+and cocaine base for distribution purposes and possession of firearms in furtherance of drug
+
+trafficking crimes. U.S. v. [2] Wesley Borges-Sánchez, 14-196 (JAG), at ECF No. 92. 1 Wesley
+
+began serving his supervised release term on April 24, 2019. Id., at ECF No. 117. Among the
+
+conditions of supervised release detailed in the judgment is the following:
+
+          The defendant shall submit to a search of his person, property, house, residence,
+          vehicles, papers, computer, other electronic communication or data storage
+          devices or media, and effects (as defined in Title 18, United States Code, Section
+          1030(e)(1)), to search at any time, with or without a warrant, by the probation
+          officer, and if necessary, with the assistance of any other law enforcement (in the
+          lawful discharge of the supervision functions of the probation officer) with
+          reasonable suspicion concerning unlawful conduct or a violation of a condition of
+          probation or supervised release. The probation officer may seize any electronic
+          device which will be subject to further forensic investigation / analyses. The
+          defendant shall warn any other residents or occupants that their premises may be
+          subject to search pursuant to this condition. In consideration of the Supreme
+          Court’s ruling in Riley v. California, the court will order that any search of the
+
+1
+    The judgment was subsequently amended. ECF No. 95 in case 14-196 (JAG).
+
+                                                       2
+         Case 3:21-cr-00147-PAD Document 72 Filed 04/14/23 Page 3 of 14
+
+
+
+
+       defendants [sic] phone by probation, while the defendant is on supervised release,
+       be performed only if there is reasonable articulable suspicion that a specific phone
+       owned or used by the defendant contains evidence of a crime or violation of
+       release conditions, was used in furtherance of a crime, or was specifically used
+       during the actual commission of a crime.
+
+Id., at ECF No. 95 at 4, ¶6.
+
+       Kevin and Wesley are brothers who, at the time of the events in question, lived together
+
+on the upper level of a two-story property at Honduras Street, Pompeya Ward in Loíza, Puerto
+
+Rico; their mother resided in the first level. See ECF No. 63, at 4, 9, 12. Kevin was supervised by
+
+U.S. Probation Officer Angélica Rodríguez Pérez (USPO Rodríguez), while Wesley was
+
+supervised by U.S. Probation Officer José Benítez Ramos (USPO Benítez). Prior to the search
+
+and seizure carried out on April 20, 2021, neither Kevin nor Wesley faced any motions filed by
+
+USPO notifying any violations to their supervised release terms.
+
+       Sometime before prior to March 26, 2021, USPO Rodríguez sent Deputy U.S. Marshal
+
+Gabriel Moreno a video recording which a person under supervision published in Instagram
+
+showing an individual discharging an automatic weapon. Although the person under supervision
+
+is not seen in the video recording, the video recording was published by a user whose name is
+
+keven_borges17, identified in his profile as Kevin Borges. USPO Rodríguez shared this
+
+information also with a supervisor.
+
+       On March 26, 2021, USPO Rodríguez emailed Supervisory U.S. Probation Officer
+
+Wendy Moreno Rodríguez (SUSPO Moreno) and Supervisory U.S. Probation Officer Orlando
+
+Rullán Orriols (SUSPO Rullán) advising them, among other matters, that: (1) Kevin was a target
+
+of the Federal Bureau of Investigations (FBI) for “possessing a firearm and being a hitman
+
+within a drug trafficking organization in the Loíza area”; (2) FBI Special Agent Carlos González
+
+stated that Kevin was deemed to be dangerous; (3) Kevin’s two brothers were also under
+
+
+
+                                                3
+         Case 3:21-cr-00147-PAD Document 72 Filed 04/14/23 Page 4 of 14
+
+
+
+
+investigation and under federal supervision; (4) Kevin was also deemed to be dangerous by, and
+
+a target of, the U.S. Marshal Service (USMS); (5) Kevin had been posting on Instagram pictures
+
+of firearms as well as short video recordings showing firearms being discharged; (6) it was
+
+unclear who the individual in the Instagram video recordings was; and that (7) the Instagram
+
+profile picture was that of Kevin’s and that his name appeared on the page. USPO Rodríguez
+
+concluded the email message, which attached a video recording and a picture of Kevin’s
+
+Instagram profile page, by stating: “Considering the former information, I am interested in
+
+potentially conducting a search and seizure operation. I believe he is a danger to the community.
+
+Should the same be feasible and approved, let me know. TY.” ECF No. 63, at 5-6.
+
+       On April 6, 2021, USPO Rodríguez discussed with SUSPO Rullán the possibility of
+
+conducting a search and seizure with respect to Kevin. SUSPO Rullán told USPO Rodríguez to
+
+obtain a memorandum from the FBI detailing that Kevin was under investigation. In addition,
+
+USPO Rodríguez was instructed to send an email attaching a recent video recording from
+
+Kevin’s Instagram page that depicted a Glock firearm and “extended full magazines”. ECF No.
+
+63, at 6. The next day, USPO Rodríguez forwarded to SUSPO Rullán and SUSPO Moreno a
+
+letter from the FBI dated April 7, 2021 confirming that the FBI was conducting an investigation
+
+in which Kevin was the target . ECF No. 63, at 6-7.
+
+       On April 8, 2021, SUSPO Rullán wrote the following email:
+
+       Good morning Senior Managers, please make reference to the attached videos and
+       pictures that were posted on social media. In the same, you will see the
+       discharging of an AK-47 automatic assault rifle, a gun with various high
+       capacities magazines in a moving vehicle and pictures of the shadow of an
+       individual posting with a gun. USPO Angélica Rodríguez was able to confirm that
+       the post [sic] were made on the above named [person under supervision]
+       Instagram account. Although we no [sic] means to confirm that the person
+       appearing on the pictures and videos is Mr. Borges Sánchez, we can conclude that
+       Mr. Borges Sánchez is implying that he is involved in new criminal conduct and
+       that the posts are considered a threat to the safety of the community. In addition,
+
+                                                4
+          Case 3:21-cr-00147-PAD Document 72 Filed 04/14/23 Page 5 of 14
+
+
+
+
+        the FBI submitted to our attention a memorandum confirming that Mr. Kevin
+        Borges Sánchez is a target on an ongoing criminal investigation within the
+        municipality [sic] of Loíza and Río Grande. Two municipalities that have been
+        subject to shootings in relation to persons under our supervision.
+
+        Based on the totality of the circumstances, the safety of the communities we
+        serve, and taking into consideration the national operational manual and policies
+        regarding search and seizure, we have been able to stablish [sic] reasonable
+        suspicion to believe that Mr. Kevin Borges Sánchez may be involved in new
+        criminal conduct. Therefore, we are requesting authorization to start the planning
+        process and subsequent execution of a search and seizure operation for Mr. Kevin
+        Borges Sánchez’s person, residence, vehicle and cell phones. If approved, the FBI
+        is willing to assist us. This case was staffed with SUSPO Carlo who agreed with
+        this petition.
+
+ECF No. 63 at 7, 8. Later that day, Deputy Chief U.S. Probation Officer Ray Rivera Navas
+
+approved the request to execute a search and seizure operation. ECF No. 63, at 8.
+
+        On April 20, 2021, the search and seizure intervention took place at Kevin’s residence at
+
+Honduras Street, Pompeya Ward, Loíza, Puerto Rico. ECF No. 63, at 8-9. Kevin and Wesley
+
+were both present at the property. Various vehicles were searched too. As a result of the search
+
+and seizure that was conducted, the following items were found: 2 $6,137.00 in cash; 185 golden
+
+packages folded with what appeared to be heroin; 320 green packages folded with what appeared
+
+to be heroin; 118 plastic cylinders with what appeared to be marijuana; 74 vials with white
+
+substance that appeared to be cocaine; 1 ziploc bag with grey rocks that appeared to be heroin;
+
+60 plastic bags with what appeared to be cocaine; 3 Glocks; 19 firearm magazines; 461 bullets; 5
+
+cellphones; 2 scales; and 1 walkie talkie. ECF No. 63 at 11-12. As a result of the search and
+
+
+
+
+2
+ Some of the items were found in the residence, while others were found in some of the vehicles that were searched:
+(1) a Ford Ranger XL V6, white color, license plate number 524-201; (2) Ford Explorer XLS, gray color, license
+plate number EHK-253; (3) Toyota Camry, gold color, license plate number CXR-103; (4) Nissan Sentra GXE, grey
+color, license plate number IGS-159; and (5) Toyota Camry CE, gold color, license plate number EHK-253. ECF
+No. 63, at 10-11. The keys to the Ford Ranger, which Kevin said was bought for their landscaping business, were
+found on a table in the living room of the residence. ECF No. 63, at 13. The keys to the Ford explorer and a Toyota
+Camry were found in a dresser in Wesley’s room. ECF No. 63, at 13.
+
+                                                        5
+           Case 3:21-cr-00147-PAD Document 72 Filed 04/14/23 Page 6 of 14
+
+
+
+
+seizure operation, Kevin and Wesley were arrested. Wesley made post-arrest statements. ECF
+
+No. 63 at 12.
+
+   III.      Analysis
+
+          A. Whether the U.S. Probation Office had reasonable suspicion to conduct a search
+
+          “[A] warrantless search is per se unreasonable under the Fourth Amendment, unless one
+
+of ‘a few specifically established and well-delineated exceptions’ applies.” United States v.
+
+Wurie, 728 F.3d 1, 3 (1st Cir. 2013) (citations omitted). One of those exceptions – not applicable
+
+to the case presently before the court – is the search incident to arrest. Chimel v. California, 395
+
+U.S. 752 (1969). Another exception applies to those who a serving a supervised release term as
+
+part of their sentence, a situation which is not dissimilar for Fourth Amendment purposes to
+
+those who are sentenced to serve a term of probation. As stated by the Supreme Court of the
+
+United States:
+
+          We hold that the balance of these considerations requires no more than reasonable
+          suspicion to conduct a search of this probationer's house. The degree of
+          individualized suspicion required of a search is a determination of when there is a
+          sufficiently high probability that criminal conduct is occurring to make the
+          intrusion on the individual's privacy interest reasonable. See United States v.
+          Cortez, 449 U.S. 411, 418, 101 S.Ct. 690, 66 L.Ed.2d 621 (1981) (individualized
+          suspicion deals “with probabilities”). Although the Fourth Amendment ordinarily
+          requires the degree of probability embodied in the term “probable cause,” a lesser
+          degree satisfies the Constitution when the balance of governmental and private
+          interests makes such a standard reasonable. See, e.g., Terry v. Ohio, 392 U.S. 1,
+          88 S.Ct. 1868, 20 L.Ed.2d 889 (1968); United States v. Brignoni-Ponce, 422 U.S.
+          873, 95 S.Ct. 2574, 45 L.Ed.2d 607 (1975). Those interests warrant a lesser than
+          probable-cause standard here. When an officer has reasonable suspicion that a
+          probationer subject to a search condition is engaged in criminal activity, there is
+          enough likelihood that criminal conduct is occurring that an intrusion on the
+          probationer's significantly diminished privacy interests is reasonable.
+
+United States v. Knights, 534 U.S. 112, 121 (2001).
+
+          The conditions of the supervised release terms for Kevin and Wesley both explicitly
+
+require USPO to have reasonable suspicion before conducting a search. Kevin’s conditions of
+
+                                                   6
+         Case 3:21-cr-00147-PAD Document 72 Filed 04/14/23 Page 7 of 14
+
+
+
+
+release require “reasonable suspicion of contraband or evidence of a violation of a condition of
+
+release”, while Wesley’s require “reasonable suspicion concerning unlawful conduct or a
+
+violation of a condition of probation or supervised release.” Kevin and Wesley argue that USPO
+
+did not have reasonable suspicion to search their residence and the vehicles parked in said
+
+property. The United States disagrees.
+
+       “Reasonable suspicion is ‘more than a hunch but less than probable cause.’” United
+
+States v. McGill, 8 F.4th 617, 623 (7th Cir. 2021) (quoting United States v. Wilson, 963 F.3d 701,
+
+703 (7th Cir. 2020). “It requires ‘a particularized and objective basis’ for suspecting that a person
+
+is breaking the law, … and it ‘must be based on commonsense judgment and inferences about
+
+human behavior.” Id. (citations omitted). The defendants contend that the facts or evidence
+
+amount to only a hunch. In none of the video recordings or photographs showing firearms can
+
+Kevin or Wesley be identified. It is also not clear where the video recordings or the photographs
+
+were taken or who made them. Moreover, taking Kevin’s factual allegations as true, the house
+
+where Kevin and Wesley resided is not depicted in any of the video recordings. There are,
+
+however, other pieces to this puzzle.
+
+       Persons serving a term of supervised release are, for purposes of the analysis at hand, not
+
+unlike probationers. In the same way that probationers “have even more of an incentive to
+
+conceal their criminal activities and quickly dispose of incriminating evidence than the ordinary
+
+criminal”, U.S. v. Knights, 534 U.S. 112, 120 (2001), so it is as well with those who are serving
+
+a supervised release term. If those in the free community under supervised release get caught
+
+committing a crime, not only could they face new charges, but also potentially revocation of
+
+their supervised release terms. Furthermore, both Kevin and Wesley had been convicted of
+
+
+
+
+                                                 7
+          Case 3:21-cr-00147-PAD Document 72 Filed 04/14/23 Page 8 of 14
+
+
+
+
+possession of firearms in furtherance of drug trafficking crimes. Thus, firearms were not
+
+something they were unfamiliarized with.
+
+        The photographs and/or video recordings showing firearms and firearms being
+
+discharged were not found in some random website of the internet. They were seen by USPO
+
+Rodríguez and published in an Instagram account under the user keven_borges17, identified in
+
+his profile as Kevin Borges. In addition, the Instagram profile picture was that of Kevin’s.
+
+        Now, being investigated by the FBI or the USMS in and of itself does not necessarily
+
+make a suspicion reasonable, but the fact that both agencies deemed Kevin to be dangerous and
+
+that he was a target of the FBI for “possessing a firearm and being a hitman within a drug
+
+trafficking organization in the Loíza area” is not inconsistent with the concerns raised by the
+
+content of Kevin’s Instagram page or account. Even assuming arguendo that Kevin and Wesley
+
+do not appear with firearms in any of the video recordings or photographs of Kevin’s Instagram
+
+account, those photographs and video recordings were sufficient for USPO Rodríguez to have
+
+reasonable suspicion that Kevin had access to firearms or constructive possession of firearms.
+
+E.g., ECF No. 68, at 4, 5. 3 Moreover, the defendants have not argued that the video recordings
+
+and photographs are movie clips or screen shots of artistic works of fiction.
+
+        Finally, there was no legal impediment to search the vehicles parked at the residence,
+
+regardless of whether they belonged to, or were used by, Kevin or Wesley. Kevin’s conditions of
+
+supervised release state in part that “Defendant shall submit his … vehicle … to a search
+
+conducted by a United States Probation Officer…. The defendant shall warn any other occupants
+
+that the premises may be subject to searches pursuant to this condition.” Wesley’s conditions of
+
+supervision are similar in this regard: “The defendant shall submit to a search of his … vehicles
+
+
+3
+  Among the special conditions of supervision in Kevin’s judgment is the following: “The defendant shall refrain
+from possessing firearms, destructive devices, and other dangerous weapons.” 14-709 (PAD), ECF No. 59, at 4 ¶4.
+
+                                                        8
+         Case 3:21-cr-00147-PAD Document 72 Filed 04/14/23 Page 9 of 14
+
+
+
+
+… at any time, with or without a warrant, by the probation officer… The defendant shall warn
+
+any other residents or occupants that their premises may be subject to search pursuant to this
+
+condition.” Simply because Kevin’s residence or car cannot be identified in the photographs or
+
+video recordings does not make the suspicion unreasonable, as firearms can easily be stored in a
+
+home or vehicle. In this particular case, in view that the images and video recordings of firearms
+
+or firearms being discharged were seen by USPO Rodríguez in Kevin’s Instagram account, it
+
+was reasonable for USPO to search Kevin’s home and any vehicles parked in it.
+
+       Kevin argues that drugs were found in the living room, but not in his room. He also
+
+argues that a weapon was found in a vehicle that was not his. These arguments, however, put the
+
+cart in front of horse. The issue, for suppression purposes, is whether USPO had reasonable
+
+suspicion to conduct a search of Kevin’s home and any vehicle parked in it. For the reasons
+
+previously stated, I conclude that USPO did have reasonable suspicion that Kevin was in
+
+violation of his supervised release terms. Where the contraband or firearms were found upon
+
+execution of the search goes to the merits of whether his supervision should be revoked or not
+
+and as to the merits of whether Kevin and Wesley are guilty or not of the charges in the
+
+indictment returned by a grand jury against them.
+
+       B. Whether it was necessary for U.S. Probation to obtain the defendant’s consent
+
+       Kevin argues that USPO and the law enforcement agents did not seek or obtain his
+
+consent to search his residence and the vehicles at issue. ECF No. 64, at 8. In making this
+
+argument, Kevin places emphasis on one particular sentence of his supervised release conditions:
+
+“Failure to submit to a search may be grounds for revocation of release.” Since USPO or other
+
+law enforcement agencies did not seek Kevin’s permission to search the residence and the
+
+
+
+
+                                                9
+        Case 3:21-cr-00147-PAD Document 72 Filed 04/14/23 Page 10 of 14
+
+
+
+
+vehicles parked in it and Kevin never gave such authorization, the argument goes, USPO did not
+
+have the right to carry out the search. This argument, however, lacks merit.
+
+       The “failure to submit” provision is not a clause that exists to give the person under
+
+supervised release the option to refuse to a search. If such were the case, then every person under
+
+supervised release would always reject a warrantless search. The “failure to submit” clause is
+
+putting the defendant on notice that refusing to allow USPO to carry out a search based on
+
+reasonable suspicion of a violation to the terms and conditions of supervised release constitutes
+
+in and of itself a violation to the terms and conditions of supervised release.
+
+       The terms and conditions of Kevin’s supervised release are clear:
+
+       Defendant shall submit his person, property, house, vehicle, papers, computers (as
+       defined in 18 U.S.C. Section 1030(e)(1)), other electronic communication or data
+       storage devices, and media, to a search conducted by a United States Probation
+       Officer at a reasonable time and in a reasonable manner, based upon reasonable
+       suspicion of contraband or evidence of a violation of a condition of release.
+
+United States v. Kevin Borges Sánchez, 14-709 (PAD), at ECF No. 59 at 4, ¶5 (emphasis added).
+
+Nowhere in Kevin’s supervised release conditions does it state that USPO has to ask the person
+
+under supervision for his consent prior to conducting a search based on reasonable suspicion.
+
+“Unlike the word ‘may,’ which implies discretion, the word ‘shall’ usually connotes a
+
+requirement.” Kingdomware Technologies, Inc. v. U.S., 579 U.S. 162, 171 (2016). When there is
+
+reasonable suspicion that an individual is violating the conditions of his supervised release, he
+
+has to submit his person, property, house, vehicle, papers, computers, and other electronic
+
+communication or data storage devices and media to USPO’s search.
+
+       C. Whether the assistance of other law enforcement agencies to the U.S. Probation
+          Office renders the intervention invalid
+
+           In his motion to suppress evidence, Wesley argues that
+
+
+
+                                                 10
+        Case 3:21-cr-00147-PAD Document 72 Filed 04/14/23 Page 11 of 14
+
+
+
+
+       Here the USPO took advantage of the search and seizure condition to assist the
+       Marshals and FBI in their investigation. Why hadn’t the Marshals or the FBI
+       sought their own search warrant? Because they didn’t have evidence to justify to
+       the Court the issuance of a search warrant. It was easier to gain access and search
+       the Borges household by activating the search and seizure condition of the SRT.
+
+ECF No. 63, at 21.
+
+       First, the facts as stated by Wesley in his own motion to suppress evidence do not suggest
+
+that USPO was trying to help other law enforcement agencies to conduct those agencies’
+
+investigations, but rather the opposite, that is, that other law enforcement agencies were willing
+
+to assist USPO in its search and seizure intervention at the Borges household.
+
+       In an email dated April 8, 2021, SUSPO Rullán told his supervisors, in its pertinent part:
+
+       [W]e are requesting authorization to start the planning process and subsequent
+       execution of a search and seizure operation for Mr. Kevin Borges Sánchez’s
+       person, residence, vehicle and cell phones. If approved, the FBI is willing to assist
+       us.
+
+ECF No. 63 at 7, 8 (emphasis added).
+
+       Second, from the moment that Wesley began serving his supervised release term,
+
+he was well aware that it was unnecessary for USPO to obtain a warrant if there was
+
+reasonable suspicion of a violation to his conditions of release and that USPO could
+
+receive help from other law enforcement agencies while conducting a search:
+
+       The defendant shall submit to a search of his person, property, house, residence,
+       vehicles, papers, computer, other electronic communication or data storage
+       devices or media, and effects (as defined in Title 18, United States Code, Section
+       1030(e)(1)), to search at any time, with or without a warrant, by the probation
+       officer, and if necessary, with the assistance of any other law enforcement (in the
+       lawful discharge of the supervision functions of the probation officer) with
+       reasonable suspicion concerning unlawful conduct or a violation of a condition of
+       probation or supervised release.
+
+U.S. v. [2] Wesley Borges-Sánchez, 14-196 (JAG), at ECF No. 95 at 4, ¶6. Wesley was put on
+
+notice that, regardless of whether a warrant had been issued, the assistance of other law
+
+
+
+                                                11
+        Case 3:21-cr-00147-PAD Document 72 Filed 04/14/23 Page 12 of 14
+
+
+
+
+enforcement agencies could be a possibility in the event that USPO determined that it needed to
+
+conduct a search based on reasonable suspicion.
+
+       Third, the mere presence of other law enforcement agencies such as the FBI or the USMS
+
+does not invalidate USPO’s search:
+
+       Courts have uniformly held that probation and parole officers may not serve as
+       “stalking horses” for the police by initiating searches solely for police purposes in
+       order to help police circumvent the fourth amendment’s warrant requirements.
+       See United States v. Cardona, 903 F.2d 60, 65-66 (1st Cir. 1990); United States v.
+       Jarrad, 754 F.2d 1451, 1454 (9th Cir.), cert. denied, 474 U.S. 830, 106 S.Ct. 96,
+       98, 88 L.Ed.2d 78 (1985). The mere presence of police during a probation search,
+       however, does not transform the search into a police search. See United States v.
+       Jeffers, 573 F.2d 1074, 1075 (9th Cir. 1978) (per curiam). Nor is mutually
+       beneficial cooperation between probation officers and other law enforcement
+       officials precluded. See United States v. Consuelo-González, 521 F.2d 259, 267
+       (9th Cir. 1975) (en banc).
+
+United States v. Gianetta, 909 F.2d 571, 581 (1st Cir. 1990).
+
+       D. Whether the First Amendment shields the defendants
+
+       Kevin argues that “[p]osting videos on Kevin’s Instagram page, of weapons, or even
+
+discharging of weapons, is conduct that is protected under the First Amendment right of free
+
+speech.” ECF No. 64, at 7. In other words, Kevin contends that he is being unlawfully penalized
+
+for simply exercising his right to express himself in his Instagram account. This argument,
+
+however, does not hold water. Nothing in the First Amendment prohibits USPO from taking into
+
+account the content of someone’s speech to determine whether there is reasonable suspicion that
+
+a violation has been committed to the terms and conditions of supervised release.
+
+       E. Whether any statements made by a defendant should be suppressed
+
+       Wesley argues that his post-arrest statements should be suppressed under the fruit-of-the-
+
+poisonous tree doctrine. However, having concluded that there was reasonable suspicion for
+
+USPO to carry out the search of Kevin’s residence (which was also Wesley’s residence) and the
+
+
+
+                                                12
+          Case 3:21-cr-00147-PAD Document 72 Filed 04/14/23 Page 13 of 14
+
+
+
+
+vehicles parked on its premises, there is no poisonous tree. Hence, the request to suppress
+
+Wesley’s post-arrest statements should be denied. 4
+
+    IV.      Conclusion
+
+          One last matter needs to be addressed. Wesley argues that “[a]though federal supervisees
+
+are similar to state parolees, the Supreme Court has long held that their status does not eviscerate
+
+a legitimate expectation of privacy, albeit diminished.” ECF No. 63, at 16 (citing Morrisey v.
+
+Brewer, 408 U.S. 471, 482 (1972)). The United States Supreme Court, however, has held that
+
+“the Fourth Amendment does not prohibit a police officer from conducting a suspicionless
+
+search of a parolee.” Samson v. California, 547 U.S. 843, 857 (2006). Yet, the conditions of
+
+supervised release for both Kevin and Wesley clearly required reasonable suspicion of unlawful
+
+conduct or a violation of the terms of supervised release in order for USPO to conduct a search.
+
+Thus, if USPO lacked reasonable suspicion to carry out the search of Kevin’s home (which was
+
+also Wesley’s home) and the vehicles parked on its premises, it would have been a search
+
+incongruous with the parameters delineated in their judgments. Whether such suspicionless
+
+search would have been a violation of the Fourth Amendment, however, is a different inquiry. It
+
+is unnecessary, nonetheless, to dig deeper into this hypothetical question, because I conclude that
+
+USPO did have reasonable suspicion that Kevin, a convicted felon under supervised release, had
+
+access to firearms or constructive possession of firearms and that therefore there was no Fourth
+
+Amendment violation when USPO searched his residence, where Wesley also lived, and any
+
+vehicles parked on its premises. Accordingly, it is respectfully recommended that the motions to
+
+suppress filed by Kevin and Wesley be DENIED.
+
+
+
+4
+  Wesley does not advance any other grounds on which to seek suppression of his post-arrest statements. Therefore,
+it is unnecessary to analyze whether his statements were voluntary, whether he was read his Miranda rights, whether
+he understood his rights, and whether he waived them.
+
+                                                        13
+        Case 3:21-cr-00147-PAD Document 72 Filed 04/14/23 Page 14 of 14
+
+
+
+
+       The parties have fourteen (14) days to file any objections to this report and
+
+recommendation unless otherwise ordered by the court. Failure to file the same within the
+
+specified time waives the right to object to this report and recommendation. Fed. R. Civ. P.
+
+72(b)(2); Fed. R. Civ. P. 6(c)(1)(B); D.P.R. Civ. R. 72(d); see also 28 U.S.C. § 636(b)(1); Henley
+
+Drilling Co. v. McGee, 36 F.3d 143, 150–51 (1st Cir. 1994); United States v. Valencia, 792 F.2d
+
+4 (1st Cir. 1986).
+
+       IT IS SO RECOMMENDED
+
+       In San Juan, Puerto Rico, this 14th day of April, 2023.
+
+                                                             s/Marcos E. López
+                                                             U.S. Magistrate Judge
+
+
+
+
+                                                14
+

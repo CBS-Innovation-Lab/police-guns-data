@@ -1,0 +1,1692 @@
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 1 of 33                         PageID #: 54
+
+
+
+                              UNITED STATES DISTRICT COURT
+                                   DISTRICT OF MAINE
+
+
+
+UNITED STATES OF AMERICA                       )
+                                               )
+v.                                             )               Criminal Nos. 06-19-P-S
+                                               )                            06-26-P-S
+                                               )
+RICHARD DIMOTT,                                )
+                                               )
+                       Defendant               )
+
+
+
+                 RECOMMENDED DECISION ON MOTIONS TO SUPPRESS
+
+
+       Richard Dimott, charged with disobeying a lawful command of a court of the United States (an
+
+order of conditions of release) by absconding from home confinement, in violation of 18 U.S.C. §
+
+401(3), see Indictment (Docket No. 1), United States v. Dimott, Criminal No. 06-19-P-S (D. Me.)
+
+(“Dimott I”), and being a felon in possession of seventeen firearms, in violation of 18 U.S.C.
+
+§§ 922(g)(1) and 924(e), see Indictment (Docket No. 1), United States v. Dimott, Criminal No. 06-26-
+
+P-S (D. Me.) (“Dimott II”), has filed an identical motion in both cases to suppress evidence seized
+
+and statements made on April 5, 2005, see Motion To Suppress, etc. (“Dimott I Motion”) (Docket No.
+
+15), Dimott I; Motion To Suppress, etc. (“Dimott II Motion”) (Docket No. 16), Dimott II. An
+
+evidentiary hearing was held before me on December 12, 2006 at which the defendant appeared with
+
+counsel. After both sides rested, counsel for the defendant affirmed that he continued to rely on all
+
+bases for suppression identified in his papers but noted that he wished to assert one additional basis –
+
+namely that, in executing a warrant to search a vehicle and a storage unit, the government assertedly
+
+violated the requirements of Federal Rule of Criminal Procedure 41(f)(1) and (2). Counsel for the
+
+                                                   1
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 2 of 33                                               PageID #: 55
+
+
+
+government voiced no objection to the raising of the latter claim for the first time at hearing.
+
+Accordingly, I have considered it. 1 Based on the evidence adduced at the hearing, I recommend that
+
+the following findings of fact be adopted and that both motions to suppress be denied.
+
+                                             I. Proposed Findings of Fact
+
+          In late winter and early spring 2005 the York County Sheriff’s Office (“YCSO”) fielded three
+
+calls from Rick Brewer of 324 Sokokis Trail in Limerick, Maine reporting break-ins and other
+
+suspicious activity at the home Brewer shared with his wife, Diane Dunning. On February 28, 2005
+
+Brewer phoned to report that their home had been broken into while they were out, but that nothing
+
+was taken. Brewer told the YCSO that he was able to determine from Caller ID that someone with a
+
+“blocked call number” had phoned the home while he and his wife were out; however, his phone was
+
+not then set up to trace calls. He informed the YCSO that his home contained thirty-five to forty
+
+firearms. He also voiced a belief that he was being watched.
+
+         On March 26, 2005 Brewer again phoned the YCSO, reporting that someone with a blocked
+
+call number had placed a call to his residence while he and his wife were out. However, he informed
+
+the YCSO, this time he had made arrangements to be able to trace calls by dialing *57. In this instance
+
+he had dialed *57, and his phone company had informed him that he had successfully traced the call.
+
+Finally, on the morning of April 5, 2005, Brewer called the YCSO to report that he and his wife had
+
+returned from a shopping trip to find that their home again had been broken into and that, this time, a
+
+number of items had been stolen, including twenty-one firearms and an antique Rolls-brand razor.
+
+Brewer further reported that as he and his wife drove home that morning he had noticed two
+
+suspicious vehicles: a small silver or gray pickup truck with a blue tarp, which they had passed on the
+
+1
+ The defendant’s counsel also requested permission to file a post-hearing memorandum addressing the evidence adduced at hearing. I
+(continued on next page)
+
+
+                                                                2
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 3 of 33                                                  PageID #: 56
+
+
+
+road on the way home, and a red Ford Taurus with New Hampshire license plates, which had been
+
+parked alongside Route 5. Finally, Brewer told the YCSO that Caller ID again had revealed that
+
+someone with a blocked call number had phoned while he and his wife were out that morning. He had
+
+dialed *57 and had been informed that he had successfully traced the call.
+
+          A YCSO log reveals that, at approximately 12:05 p.m., the YCSO released a “BOLO,” or “be
+
+on the lookout” alert, for a faded gray Chevrolet S-10 pickup truck with a blue stripe and black tarp
+
+over its bed and with three occupants, one described as having dark hair with a beard and mustache,
+
+last seen headed south on Route 5 in Waterboro. See Defendant’s Exh. 1 at 3.
+
+          YCSO Detective Steven Thistlewood was assigned as lead investigator in the Brewer burglary
+
+case. He and several YCSO colleagues responded to the Brewer-Dunning home. They were joined
+
+about an hour or two later by another colleague, YCSO Sergeant Michael Hayes, whom Thistlewood
+
+briefed on what had transpired to date. Stephen Hickey, a special agent with the federal Bureau of
+
+Alcohol, Tobacco, Firearms and Explosives (“ATF”), also became involved when he happened that
+
+morning to stop by the YCSO in connection with an unrelated case, overheard discussion of the
+
+Brewer-Dunning burglary and, in part because of the sheer number of firearms involved, offered to
+
+lend assistance.
+
+          Upon Hayes’ arrival at the Brewer-Dunning residence, Thistlewood was in the process of
+
+subpoenaeing records from Verizon disclosing the identity of the subscriber or subscribers from
+
+whose phone blocked-number calls had been placed to the Brewer-Dunning home. Late that afternoon,
+
+Hayes and Thistlewood learned from Verizon that the calls had been placed from an AT&T cell phone
+
+belonging to Steven Riquinha of 16 Windsor Drive, Westbrook, Maine. Neither Hayes nor
+
+____________________________
+denied that request, expressing confidence that the court could resolve evidentiary conflicts without need of post-hearing briefing.
+
+
+                                                                 3
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 4 of 33                                             PageID #: 57
+
+
+
+Thistlewood had heard of Riquinha, and neither was familiar with the Windsor Drive address. They
+
+called John Desjardins, a Westbrook Police Department (“WPD”) detective, who agreed to meet with
+
+them and serve as their Westbrook “liaison” in investigating the Riquinha lead. Shortly thereafter
+
+Thistlewood, Hayes and Hickey set off, in a caravan of three separate vehicles, to meet with
+
+Desjardins at the WPD. After an approximately fifteen-minute conversation, during which the officers
+
+briefed Desjardins on details of the case, the four officers regrouped into two unmarked vehicles
+
+(Desjardins and Thistlewood in Desjardins’ car, and Hayes and Hickey in Hayes’ car), and drove to
+
+Windsor Drive, part of a complex known as The Hamlet Coach Trailer Park (“The Hamlet”). See
+
+Gov’t Exh. 1. The WPD frequently had been called to The Hamlet, and Desjardins was familiar with
+
+Riquinha from past law-enforcement work. Desjardins felt he had developed a rapport with Riquinha
+
+and might be able to elicit an honest answer why calls were placed to the Brewer-Dunning residence.
+
+         At approximately 6 p.m., the four officers drove past 16 Windsor Drive, the trailer belonging
+
+to Riquinha. They saw no vehicles in the driveway. They continued on until Windsor Drive dead-
+
+ended into Peckham Street, another internal trailer-park road, where they stopped and briefly
+
+strategized what to do next. The plan was for Desjardins and others to begin to interview some of
+
+Riquinha’s neighbors. Hayes, accompanied by Hickey, stationed his car on Peckham Street, while
+
+Desjardins, accompanied by Thistlewood, parked in a spot diagonally across from the Riquinha
+
+trailer.2
+
+         At some point Desjardins exited his car, leaving Thistlewood alone in it. Thistlewood
+
+observed a silver truck generally matching the description given by Brewer, but without a tarp, travel
+
+
+2
+ Hayes plausibly explained that officers decided to attempt to gather as much information as possible about Riquinha from his
+neighbors, rather than immediately attempting to make contact with anyone who might be in his trailer, because of the potential
+dangerousness of the situation given the number of firearms reported stolen.
+
+
+                                                              4
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 5 of 33                                                  PageID #: 58
+
+
+
+down Windsor Drive and pull into the Riquinha driveway, whereupon three people exited and went
+
+into the Riquinha trailer. Thistlewood pulled his unmarked vehicle close enough to the Riquinha
+
+driveway to be able to take down the truck’s license-plate number, then drove to Peckham Street to
+
+inform Hayes and Hickey of the development. 3 At about that time, perhaps because they were
+
+summoned by Desjardins although it is not clear, Hayes, Hickey and Thistlewood left to join
+
+Desjardins at a trailer on another street within The Hamlet, St. James Street, to interview a resident
+
+whom Desjardins thought might have useful information. 4 Desjardins quickly determined that the lead
+
+was not fruitful, whereupon the group returned in their two unmarked vehicles to 16 Windsor Drive.
+
+Thistlewood immediately noticed, and remarked to his companions, that the truck he had earlier
+
+observed was gone. At approximately that time YCSO Deputy Sheriff Stanley Moore joined the group
+
+at the trailer park, pulling his marked cruiser (bearing the words “York County Sheriff’s Office”) in or
+
+near the Riquinha driveway. Moore’s cruiser was the only marked police car of the three present, and
+
+all five officers were in plainclothes.5
+
+          A decision was made to try to make contact with whomever might be inside the Riquinha
+
+residence. While Hayes, Desjardins and Moore stood guard in the yard, Thistlewood and Hickey
+
+approached the front door, knocking and announcing their presence several times. No one answered
+
+or stirred within. They turned to leave. As Thistlewood was walking down the stairs away from the
+
+front door, he observed footprints in a muddy area near the sidewalk that he thought had the same
+
+
+3
+  Thistlewood testified that Desjardins was with him and also observed the truck pulling into the Riquinha driveway and its three
+occupants disembarking and going into the house. However, Desjardins was quite clear that he did not personally observe the truck at
+that point. I infer that Thistlewood’s memory on this point is faulty, and that in fact he was alone when he made this observation.
+4
+  Hayes testified that the officers converged at the St. James Street residence because of a reported “disturbance.” However, he had
+no memory what the disturbance was. I credit Desjardins’ account that the officers simply went to interview a resident in connection
+with the Brewer-Dunning investigation. In any event, Hayes, Thistlewood, Hickey and Desjardins, all of whom testified at the hearing,
+agreed that they had gone at this point to St. James Street; the reason is immaterial.
+5
+  Although in plainclothes, Hayes and Desjardins each wore a necktie with a badge identifying him as a law-enforcement officer.
+
+
+                                                                 5
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 6 of 33                                                    PageID #: 59
+
+
+
+distinctive circular sneaker pattern as footprints he had seen and photographed at the Brewer-Dunning
+
+home. He asked to borrow Hayes’ digital camera, which Hayes retrieved and gave him. The time
+
+was approximately 6:30 p.m. The light was fading, interfering with Thistlewood’s photographic
+
+efforts. While Thistlewood was photographing the footprints, Hayes looked up and saw a silver- or
+
+gray-colored pickup truck, with one male occupant, heading down Windsor Drive in the direction of
+
+the officers. The truck was proceeding at a reasonable rate of speed; however, Hayes noticed that the
+
+driver was staring so fixedly at the group of officers that he was no longer paying attention to the road.
+
+    The driver made an abrupt right-hand turn onto St. James Street (the entrance to which was roughly
+
+across the street from the Riquinha residence) into the path of an oncoming vehicle driven by an
+
+elderly woman. Hayes threw his hands into the air and screamed, “Whoa, whoa, whoa! What are you
+
+doing?” Simultaneously Desjardins, who had also observed this sequence of events, hollered, “Hey!”
+
+or “Yo!” The driver abruptly stopped the truck. It came to rest at a 45-degree angle, encroaching into
+
+the opposite lane of traffic on St. James Street, mere feet from the oncoming vehicle.6
+
+          Desjardins beckoned the driver, whom Hickey described as having a “deer in the headlights”
+
+look on his face, to get out. He did so. Hayes, Desjardins and Hickey approached the driver (whom
+
+all identified in the hearing room as the defendant in this action), and identified themselves to him.
+
+Hayes, whom Desjardins described as “pretty animated,” asked the defendant what his problem was,
+
+stating that he had almost killed a little old lady. The defendant replied that he had just gotten out of
+
+prison, the sight of police made him very nervous, and he had panicked. Upon request, he produced
+
+his driver’s license, which identified him as Richard Dimott, and his vehicle registration.
+
+6
+  Desjardins described the driver as having made what appeared to him to be a last-minute decision to turn right on St. James Street, in
+that he did not slow much, jerked the vehicle to the right and made an overly wide turn, ending up in the opposite travel lane. Further,
+while Desjardins conceded that it is not unusual for people to rubberneck when they observe police officers, Desjardins stated that he
+(continued on next page)
+
+
+                                                                   6
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 7 of 33                                                        PageID #: 60
+
+
+
+Thistlewood, who had joined his colleagues near the defendant, told them that the truck was the same
+
+one he had just seen in the Riquinha driveway and that a check of that truck’s license plate had
+
+revealed the vehicle was registered to a Richard Dimott. As Thistlewood approached the truck he
+
+also observed, and pointed out to other officers, that its wheel wells were covered with mud and
+
+grass. Thistlewood noted that Brewer that morning had called YCSO officers’ attention to a track in
+
+the lawn of his Limerick home that appeared to have been created by a spinning tire. While at the
+
+Brewer-Dunning residence, Thistlewood had photographed the track. The defendant’s truck was a
+
+multicolored Ford Ranger – primarily gray or silver but with blue and red stripes along the bottom.
+
+There was no tarp covering the truck bed. However, Thistlewood observed what appeared to be a
+
+black tarp in the truck bed with a tire on top of it. 7
+
+          Hayes patted the defendant down. He noticed that the defendant had trouble making eye
+
+contact or standing still. Hayes gave the defendant’s license and registration to Desjardins, who
+
+radioed WPD dispatch and requested that checks be run on them. The dispatcher informed Desjardins
+
+that the truck was registered to Richard Dimott. No one ultimately cited the defendant for a traffic
+
+
+____________________________
+deemed the defendant’s conduct odd in that he would not take his eyes off of the officers, to the point where it affected his driving and
+he almost hit another vehicle.
+7
+  The defendant called a witness who gave a radically different account of the stopping of his vehicle. Deborah Murchison of 19
+Windsor Drive, a neighbor and friend of Riquinha’s wife who knew the defendant as a friend of Riquinha’s, said she was standing in
+her driveway on April 5, 2005 watching officers milling about the Riquinha trailer when she heard one of the officers yell, “Stop! Pull
+the vehicle over.” She testified that she then saw the nose of a vehicle coming to a stop on Windsor Drive, whereupon she recognized
+the driver as the defendant. She said that at that point she saw several law-enforcement officers walk alongside the vehicle as the
+defendant drove it over to St. James Street, parking it at about a forty-five degree angle encroaching into the opposite travel lane. She
+denied that she heard any officer yell, “Whoa! Whoa! Whoa! What are you doing?” or saw any near-accident between the
+defendant’s truck and another vehicle. I do not find her account of the manner in which the truck was stopped credible. While
+Murchison claimed to have heard officers order the truck to stop, she later stated that she could not hear anything after the stopping of
+the truck because it was “quite a ways off.” Further, her testimony conflicts with that of all other eyewitnesses to that event, who were
+closer to the truck and who uniformly testified that the defendant made a sudden right-hand turn onto St. James Street, where he
+stopped in the nick of time to avoid a collision with another car. Finally, if officers did in fact stop the truck on Windsor Drive, it makes
+no sense that they would have directed the defendant to position it at a forty-five angle, encroaching into the wrong lane of an adjacent
+street.
+
+
+                                                                     7
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 8 of 33                                                  PageID #: 61
+
+
+
+violation. 8 Desjardins did not retain the defendant’s license and registration, although he could not
+
+recall if he returned them to the defendant, left them in his truck or gave them to another officer.
+
+          Hayes asked the defendant where he was coming from and where he was headed. The
+
+defendant said he had come from South Portland and was there to visit a friend. Hayes or one of the
+
+other officers also asked whether the defendant had been to the Riquinha residence. He denied that he
+
+had been. Hayes informed the defendant that Thistlewood earlier had observed his truck parked in the
+
+Riquinha driveway. The defendant then admitted that he had been there. Hayes also told the defendant
+
+that his truck matched the description of a vehicle seen leaving the scene of a burglary. He asked the
+
+defendant if he was aware of a burglary in which guns were taken or if his vehicle was involved in the
+
+commission of a burglary. The defendant denied any involvement and stated that he did not let anyone
+
+use his vehicle.
+
+          Hayes asked the defendant if officers could search his truck. Without hesitation, the defendant
+
+agreed. No one asked the defendant to sign a consent-to-search form. Approximately five to ten
+
+minutes had elapsed since the defendant had stopped his truck on St. James Street. Thistlewood and
+
+Moore began to search the cab of the truck. At about that time Michael Grasso, another ATF special
+
+agent, arrived on the scene, dressed in plainclothes and driving an unmarked vehicle. Grasso
+
+introduced himself to the defendant, who was sitting on a curb not far from his truck. While the
+
+vehicle search was still under way, Grasso overheard the defendant asking if he was free to leave.
+
+Grasso recollected one of the other officers telling the defendant, “Hold on a second. We’ll tell you
+
+what’s going on.” At about that time the defendant struck up a conversation with Hickey, inquiring,
+
+among other things, why ATF was involved.
+
+8
+  Hickey recalled that at least one officer checked on the status of the driver of the vehicle the defendant nearly hit, and that she
+(continued on next page)
+
+
+                                                                 8
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 9 of 33                                                     PageID #: 62
+
+
+
+          Thistlewood quickly made two significant discoveries, which he shared with Hayes and other
+
+officers. He found an antique Rolls-brand razor and cans of mace identical to a can left at the Brewer-
+
+Dunning residence during the break-in, which was believed to have been used to mace the family’s
+
+dog. Thistlewood asked the defendant about those items. He said he knew nothing about them, they
+
+did not belong to him, and he did not know why they were in his vehicle. Thistlewood next phoned
+
+Brewer and asked him to describe the stolen Rolls razor. Brewer provided a detailed description
+
+consistent with the item Thistlewood had just seized – noting, for instance, that a serial number on the
+
+side of the razor had been worn from constant handling. Thistlewood thereupon informed the
+
+defendant that he believed his truck contained stolen property. The defendant denied any involvement.
+
+Convinced that he had just recovered stolen property, Thistlewood decided to terminate the search,
+
+secure the truck and seek a warrant to search it more thoroughly. He asked Moore to take the razor to
+
+Brewer for an identification, and Desjardins to arrange for the truck’s impoundment.                                                 At
+
+approximately 7 p.m., Desjardins radioed WPD dispatch to request that a tow truck be sent to the
+
+scene to impound the defendant’s vehicle.
+
+          The defendant asked whether he was free to go. Thistlewood told him that he was.9 He asked
+
+if he could take his vehicle. Thistlewood replied, “No.” The defendant announced that he wanted to
+
+cooperate with the investigation. However, he said he did not want to talk at the scene, in sight of
+
+residents who had come out to observe the goings-on. Desjardins suggested that they talk at the WPD
+
+station, but the defendant declined. The defendant pointed to Hickey and said he wanted to talk to him
+
+alone. Hickey and the defendant repaired to a grassy area at the edge of the road, out of earshot of
+
+
+____________________________
+reported she was fine. She backed up, pulled around the pickup truck and went on her way.
+9
+  Thistlewood testified that although he was convinced that the vehicle was involved in the burglary, he could not at that point link the
+defendant directly to it. He said that the defendant repeatedly asked him if he was free to leave, and he repeatedly told him he was.
+
+
+                                                                   9
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 10 of 33                                                   PageID #: 63
+
+
+
+other officers.10 As they did so, Hickey noticed part of a tarp (which Hickey described as blue)
+
+protruding from beneath a spare tire in the defendant’s truck bed.
+
+          The defendant told Hickey he wanted to “run over some options.” He seemed to Hickey to be
+
+under the misimpression that ATF, as a federal agency, could override the decision of the county and
+
+local agencies to impound his truck. Hickey explained that ATF had no authority over those agencies.
+
+He told the defendant that with that many firearms involved, ATF’s priority was getting them off the
+
+streets before something happened with them. While conversing on the grass, the defendant also told
+
+Hickey: “I want to speak hypothetically.” Hickey replied that he did not know what the defendant
+
+meant by that, but the defendant could do that.
+
+          While the defendant and Hickey conversed at The Hamlet, the defendant asked Hickey at least
+
+twice whether he was under arrest. Hickey told him that ATF did not plan to arrest him that day unless
+
+something changed significantly. The defendant also asked at one point if he could leave. Hickey told
+
+him he was free to go; however, Hickey had also previously advised him that it looked fairly bad for
+
+him as far as his involvement in the burglary, that Hickey did not believe he was the ringleader, and
+
+that any information the defendant gave would be relayed to the United States Attorney’s Office and
+
+most likely work in his favor.
+
+          After a period of time, Grasso joined Hickey and the defendant. The defendant told both
+
+agents that if he was to help them, he wanted to leave the location. He suggested that he and Hickey go
+
+for a ride, noting that he did not want any of the local officers involved. Hickey told the defendant
+
+that, per standard ATF officer-safety protocol, two agents (both himself and Grasso) would need to
+
+accompany the defendant. The defendant agreed, and the three departed the scene in Grasso’s
+
+10
+  At hearing Desjardins voiced the opinion, as a detective who had been involved peripherally in the burglary investigation, that from
+(continued on next page)
+
+
+                                                                 10
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 11 of 33                                                       PageID #: 64
+
+
+
+vehicle.11 At approximately 7:30 p.m. – it is not clear whether just before or just after the defendant
+
+departed with the ATF agents – a tow-truck operator arrived and removed the defendant’s vehicle
+
+from The Hamlet.12 The other officers dispersed. Hayes, for example, went home for the night, and
+
+Thistlewood returned to the WPD. During the period of time the defendant was at The Hamlet with
+
+officers, no one told him he was under arrest. 13
+
+          It is standard ATF protocol, when transporting a suspect who is in custody in an unmarked
+
+vehicle with no cage, for the suspect to be handcuffed and for one agent to sit in the backseat with him.
+
+ In this case, although Grasso’s vehicle had no cage, Hickey sat in front with Grasso while the
+
+defendant sat alone in the backseat. The defendant was not placed in handcuffs. The defendant said he
+
+was thirsty, and Grasso drove to a convenience store. All three exited the car and went inside. The
+
+defendant was free to move about the store. One of the agents bought him a drink, and the three
+
+returned to the car, resuming the same seats as before.
+
+          Grasso had the impression that, commencing at the time the defendant first began speaking with
+
+ATF agents at The Hamlet, he was “playing a little game with us,” giving out limited amounts of
+
+information in piecemeal fashion and trying to discover what the agents knew. The defendant initially
+
+denied any involvement in the burglary. Later, he admitted that his vehicle had been used in the
+
+____________________________
+his observations at The Hamlet the defendant was controlling the situation.
+11
+   The defendant initially asked if he could go for a ride with the agents in his own vehicle. Hickey again advised him that was a state or
+local issue and not one in which ATF could intercede on his behalf.
+12
+   Richard Grovo, the Maietta Towing employee who removed the defendant’s truck from The Hamlet on April 5, 2005, testified that
+one person was in handcuffs at the scene. However, when pressed on cross-examination how he knew the person was handcuffed, he
+made clear that he had assumed this was so because the person’s hands were behind his back. He admitted that he had not actually
+seen handcuffs and had not seen the person’s back, and that it was possible the person merely had put his own hands behind his back.
+ Inasmuch as Grovo did not actually see handcuffs on the defendant, and his testimony conflicts with that of other eyewitnesses who
+denied that the defendant was handcuffed at any time while at The Hamlet, I do not credit it.
+13
+   Both Grovo and Murchison testified that they observed an unmarked law-enforcement vehicle or vehicles blocking one or both ends
+of the defendant’s truck while it was parked on St. James Street. Desjardins, a generally credible witness, denied this. Such
+positioning, if done, would have been consistent with the decision to impound the truck. Thus I find that, if the defendant’s truck was
+blocked, it was blocked following the decision to seize it.
+
+
+                                                                   11
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 12 of 33                                                   PageID #: 65
+
+
+
+commission of that crime. Eventually, he said he could tell the agents who had used his vehicle.
+
+However, he asked for an opportunity to phone people to give them a chance to do the right thing
+
+before naming names, reiterating that he wanted to see his child that night. Still later, he told Hickey
+
+and Grasso that they did not need to worry about guns being on the street. He said that he knew where
+
+all twenty-six firearms were, and offered to take the agents to them. 14 The ATF agents, who had
+
+remained in touch with Thistlewood during their ride with the defendant, contacted him to meet with
+
+them. Thistlewood, who was not familiar with Westbrook, suggested he meet them in the parking lot
+
+of the Hannaford store in Westbrook, which he knew he could find. Upon Thistlewood’s arrival, he
+
+was advised that the defendant would lead investigators to the stolen firearms if he did not get arrested
+
+that evening for receiving stolen property. Thistlewood got into the backseat of Grasso’s vehicle;
+
+however, the defendant soon asked him to leave. Thistlewood promptly did so. He got back into his
+
+own vehicle and waited.15
+
+          After five or ten more minutes, the defendant said he would take the agents to the location of
+
+the guns. He directed Grasso to Trailers Diversified, a storage facility in Gorham, Maine.
+
+Thistlewood followed behind in his own vehicle.16 On arrival, the ATF agents called others to the
+
+storage facility, including their supervisor David Brown, ATF resident agent-in-charge. The
+
+defendant told Hickey and Grasso they would find twenty-three guns in a storage unit there. Grasso
+
+asked where the other three firearms were; the defendant said they were in his truck. The defendant
+
+14
+   No explanation was given at hearing for the discrepancy between Brewer’s report that twenty-one firearms were missing and the
+defendant’s statement to ATF agents that he knew where all twenty-six firearms were. In any event, the discrepancy is immaterial.
+15
+   Thistlewood also testified, on both direct and cross-examination, that he might have seen the defendant at the WPD prior to seeing
+him at the Hannaford parking lot but was not sure that he had. Inasmuch as he was uncertain whether he had in fact seen the defendant
+at the WPD, and neither Grasso nor Hickey testified that they had taken the defendant there, I find that the defendant was not brought
+to the WPD after leaving The Hamlet.
+16
+   Both Hickey and Grasso denied that they had promised the defendant that if he told them where the guns were, he would not be
+arrested. They testified that the defendant queried whether, if he took them to the firearms, he would not be arrested, whereupon
+(continued on next page)
+
+
+                                                                 12
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 13 of 33                                                     PageID #: 66
+
+
+
+identified the storage unit in which the firearms were stored and provided the agents with a key that he
+
+reassured them was the only key to the unit. As the agents waited for their supervisor, Brown, to
+
+arrive, Hickey began asking pointed questions about the burglary. During that conversation, for about
+
+five minutes, the defendant framed his replies in hypothetical terms.17 Grasso recalled the defendant at
+
+one point asking, “Can I have a ride out of here?” and being told: “Let us just get this settled, and we’ll
+
+talk about where we’ll go.” While conversing with Hickey, the defendant was sitting in the backseat
+
+of Grasso’s car. However, he had not been ordered to remain there, and both doors were open.
+
+          After consulting with an Assistant United States Attorney, ATF agents decided, in view of the
+
+lateness of the hour, to secure the storage unit (by posting guards outside of it) pending issuance of a
+
+search warrant, which they would seek the following morning. At no time on April 5, 2005 did
+
+Grasso or Hickey read the defendant Miranda rights.18 The ATF did not place the defendant under
+
+arrest that day. However, at approximately 10 p.m. – about a half an hour after the defendant’s arrival
+
+at the storage facility – Thistlewood arrested him on state burglary charges. For the first time since
+
+encountering officers earlier in the day, the defendant was placed in handcuffs. Thistlewood arrested
+
+the defendant at the direction of his YCSO supervisor, who expressed concern that the defendant
+
+would try to leave. Thistlewood transported the defendant in handcuffs to the York County Jail. He
+
+did not at any time that day advise the defendant of Miranda rights. Thistlewood recalled no
+
+conversation relevant to the federal investigation transpiring during the trip to jail. He did tell the
+
+____________________________
+Hickey again reiterated that ATF had no intention of arresting him that evening unless something changed significantly.
+17
+   For example, when Hickey asked what the defendant was doing at the Brewer-Dunning residence, the defendant responded:
+“Hypothetically, the guy’s a drug dealer, what do you think we went there for?” Hickey answered, “cash,” whereupon the defendant
+stated: “Hypothetically, yes, but since there was no cash, we’d take the guns, hypothetically.”
+18
+   Per Miranda v. Arizona, 384 U.S. 436 (1966), an accused must be advised prior to custodial interrogation “that he has the right to
+remain silent, that anything he says can be used against him in a court of law, that he has the right to the presence of an attorney, and
+that if he cannot afford an attorney one will be appointed for him prior to any questioning if he so desires.” Miranda, 384 U.S. at
+478-79.
+
+
+                                                                  13
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 14 of 33                                  PageID #: 67
+
+
+
+defendant he would be interested in talking to him about the case. The defendant replied that he did
+
+not want to talk to him that night but would do so the next day. When Thistlewood came to the jail the
+
+following day, the defendant refused to speak with him.
+
+            On the morning of April 6, 2005 ATF agents applied to this court for a warrant to search the
+
+storage unit and the defendant’s pickup truck, on the strength of an affidavit signed by Hickey. Hickey
+
+related, inter alia:
+
+            1.        Brewer’s three reports to the YCSO, including the report on April 5, 2005 that the
+
+residence had been broken into and a number of items taken, including twenty-one firearms and an
+
+antique Rolls razor; the tracing of blocked calls placed to the Brewer-Dunning residence on March 26,
+
+2005 and April 5, 2005 to Riquinha; and Brewer’s and Dunning’s observation while traveling down
+
+Sokokis Trail back toward their home on the morning of the burglary of a small gray pickup truck with
+
+a blue tarp over the bed traveling toward them (and away from the direction of their residence). See
+
+Application and Affidavit of Stephen E. Hickey, Jr. (“Hickey Aff.”) (Docket No. 1), United States v.
+
+Dimott, Magistrate No. 05-30-WSB (D. Me.), ¶¶ 3-4, 6.19
+
+            2.        Observation at the Brewer-Dunning residence, following the burglary, of (i) a can of
+
+mace that did not belong to Brewer or Dunning, (ii) a sneaker print with spirals in the snow near the
+
+location of the break-in, and (iii) marks on the side lawn that appeared to have been caused by a
+
+vehicle leaving at a high rate of speed. See id. ¶ 5.
+
+            3.        Observation by Thistlewood, while watching the Riquinha residence, that a small, gray
+
+pickup truck (with no tarp) matching the description given by Brewer and Dunning had pulled into the
+
+driveway and three occupants had exited and gone into the Riquinha residence; and discovery by
+
+
+19
+     The Hickey affidavit contains two paragraphs numbered 3. See Hickey Aff. I refer to both.
+
+
+                                                                14
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 15 of 33                                                   PageID #: 68
+
+
+
+Thistlewood and Desjardins that the vehicle was registered to the defendant. See id. ¶ 7.
+
+          4.           Hickey’s observation while at the Riquinha residence that the gray pickup truck was
+
+making its way down Windsor Drive, then swerved quickly to the right onto a side street, nearly
+
+striking another vehicle, whereupon Hayes called the driver out of the truck and identified him as its
+
+registered owner, the defendant. See id. ¶¶ 8-9.20
+
+          5.        Observation by Thistlewood of fresh mud and short blades of lawn grass that appeared
+
+to match that of the side lawn of the Brewer-Dunning residence on the right rear-quarter panel of the
+
+truck, see id. ¶ 10, as well as Thistlewood’s observation while at the Riquinha residence of a sneaker
+
+footprint in the mud just below the lowest porch step identical to the print observed at the Brewer-
+
+Dunning residence, see id. ¶ 8.
+
+          6.        Discovery by Thistlewood, after obtaining consent from the defendant to a search of the
+
+truck, of three cans of mace matching the can found in the room where stolen firearms were located
+
+and of an antique Rolls razor. See id. ¶ 10.
+
+          7.        Details of Hickey’s interview of the defendant, including the defendant’s willingness to
+
+provide a key to the Trailers Diversified storage unit in which he said twenty-three of the guns were
+
+located “as long as he would not be arrested[,]” and confirmation from the owners of Trailers
+
+Diversified that the storage unit was leased to Riquinha. See id. ¶¶ 11-12.
+
+          At 10:43 a.m. United States Magistrate Judge William S. Brownell issued the requested
+
+warrant. See Search Warrant, attached to id. Grasso was among those present when the storage unit,
+
+which contained firearms, tools and household goods, was opened later that day. Hickey inventoried
+
+items removed from the storage unit, and returned the warrant to Magistrate Judge Brownell on April
+
+20
+  Hickey was mistaken in stating that Hayes called the defendant out of his truck. Hayes testified that he did not do so. However, the
+(continued on next page)
+
+
+                                                                 15
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 16 of 33                                                  PageID #: 69
+
+
+
+8, 2005. See Defendant’s Exh. 2. Judge Brownell was not personally present when Hickey conducted
+
+the inventory; however, Hickey verified to Judge Brownell that it was an accurate inventory. See id.
+
+at 3. The return reflects that the inventory was made in the presence of ATF supervising agent Brown.
+
+See id.
+
+                                                        II. Discussion
+
+                                                    A. Dimott I Motion
+
+          The government objects to the Dimott I Motion on the basis that it has no bearing on the Dimott
+
+I charge. See Government’s Response to Defendant’s Motion To Suppress, etc. (Docket No. 17),
+
+Dimott I. I agree. The defendant’s identical suppression motions target the conduct of YCSO, WPD
+
+and ATF officers and agents on April 5, 2005. See generally Dimott I Motion; Dimott II Motion. The
+
+Dimott I indictment charges that on or about March 2, 2006 the defendant knowingly disobeyed an
+
+order of conditions of release by absconding from home confinement. See Indictment (Docket No. 1),
+
+Dimott I. The defendant does not elucidate, and I cannot discern, how statements he made, and
+
+evidence seized, in Westbrook and Gorham, Maine on April 5, 2005 have any relevance to the Dimott
+
+I criminal contempt-of-court charge. Accordingly, I recommend that the Dimott I Motion be denied.
+
+Alternatively, assuming arguendo that the evidence sought to be suppressed does have some bearing
+
+on the Dimott I charge, I recommend that the Dimott I Motion be denied for the reasons discussed
+
+below.
+
+                                                   B. Dimott II Motion
+
+          With respect to Dimott II, the defendant seeks to suppress evidence on the bases that officers
+
+(i) detained him without reasonable and articulable suspicion and subsequently arrested him without
+
+____________________________
+discrepancy is immaterial inasmuch as another officer, Desjardins, testified that he did beckon the defendant to step outside.
+
+
+                                                                16
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 17 of 33                                                   PageID #: 70
+
+
+
+probable cause, (ii) searched his truck without either a warrant, probable cause or valid consent, and
+
+the search was in any event the fruit of the illegal stop, (iii) elicited statements from him involuntarily
+
+and in the absence of required Miranda warnings, (iv) relied on a search-warrant affidavit that, when
+
+stripped of illegally obtained evidence, does not establish probable cause to search the vehicle and
+
+storage unit, and (v) inventoried items seized pursuant to the search warrant in a manner that did not
+
+comport with the requirements of Federal Rule of Criminal Procedure 41(f)(1) and (2). See, e.g.,
+
+Dimott II Motion.21
+
+          The government rejoins that officers (i) had reasonable articulable suspicion, if not probable
+
+cause, to stop the defendant’s vehicle, remove him from it, pat him down and conduct a brief
+
+investigation, (ii) obtained the defendant’s lawful consent to a search of his truck (and, alternatively,
+
+evidence then seized is admissible pursuant to the so-called inevitable-discovery rule), (iii) were not
+
+required to provide the defendant Miranda warnings because he was not “in custody” until 10 p.m. on
+
+April 5, 2005, (iv) did not coerce any statement from the defendant, (v) relied, for search of the
+
+vehicle and storage unit, on an affidavit supplying probable cause for the search (and, alternatively,
+
+evidence seized during those searches is admissible pursuant to the so-called “good faith” exception
+
+to the exclusionary rule), and (v) executed the warrant for search of the storage unit in conformity with
+
+Rule 41(f). See, e.g., Government’s Objection to Defendant’s Motion To Suppress, etc. (“Dimott II
+
+Objection”) (Docket No. 18), Dimott II.
+
+          The government bears the burden of proving (i) Miranda compliance, see, e.g., United States
+
+v. Barone, 968 F.2d 1378, 1384 (1st Cir. 1992), (ii) the voluntariness of a confession, see, e.g.,
+
+United States v. Jackson, 918 F.2d 236, 241 (1st Cir. 1990), and (iii) the lawfulness of warrantless
+
+21
+  I use the term “officers” to refer to any or all law-enforcement officers involved in the Brewer-Dunning investigation on April 5-6,
+(continued on next page)
+
+
+                                                                 17
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 18 of 33                           PageID #: 71
+
+
+
+searches and seizures, see, e.g., United States v. Ramos-Morales, 981 F.2d 625, 628 (1st Cir. 1992).
+
+With respect to the defendant’s challenge to the lawfulness of searches undertaken pursuant to the
+
+warrant issued on April 6, 2005, he bears the initial burden of demonstrating the warrant’s invalidity.
+
+See, e.g., United States v. Longmire, 761 F.2d 411, 417 (7th Cir.1985) (“The general federal rule on
+
+who bears the burden of proof with respect to an allegedly illegal search or seizure is based upon the
+
+warrant-no warrant dichotomy: If the search or seizure was effected pursuant to a warrant, the
+
+defendant bears the burden of proving its illegality; if the police acted without a warrant, the
+
+prosecution bears the burden of establishing legality.”); see also, e.g., United States v. Koerth, 312
+
+F.3d 862, 868 (7th Cir. 2002) (“If a defendant is successful in establishing the invalidity of the search
+
+warrant, the burden then shifts to the Government to establish that the police relied in good faith on the
+
+judge’s decision to accept the affidavit and issue the warrant.”). With respect to the defendant’s Rule
+
+41(f) challenge, a defendant bears “the burden of proof in challenging the validity of the execution or
+
+service of the search warrant.” United States v. Marx, 635 F.2d 436, 441 (5th Cir. 1981).
+
+         For the reasons that follow, I find that the government meets its burden of demonstrating the
+
+lawfulness of officers’ conduct with respect to warrantless searches and seizures (including
+
+investigative detention), voluntariness of statements and Miranda compliance on April 5, 2005, and
+
+that the defendant falls short of meeting his burden of demonstrating the invalidity of searches and
+
+seizures conducted pursuant to the warrant issued on April 6, 2005.
+
+                               1. Investigative Detention; Ultimate Arrest
+
+         The defendant first contends that, in violation of his Fourth Amendment rights, he was
+
+(i) unlawfully detained at The Hamlet without reasonable, articulable suspicion and (ii) ultimately
+
+____________________________
+2005, including YCSO, WPD and ATF agents, detectives and officers.
+
+
+                                                          18
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 19 of 33                         PageID #: 72
+
+
+
+placed under de facto arrest in the absence of probable cause. See Dimott II Motion at 3-4.
+
+       The First Circuit has observed:
+
+       In Terry v. Ohio, [392 U.S. 1 (1968)], the Supreme Court first recognized that a police
+       officer may in appropriate circumstances and in an appropriate manner approach a
+       person for purposes of investigating possibly criminal behavior even though there is no
+       probable cause to make an arrest. This authority permits officers to stop and briefly
+       detain a person for investigative purposes, and diligently pursue a means of
+       investigation likely to confirm or dispel their suspicions quickly.
+
+United States v. Trueber, 238 F.3d 79, 91-92 (1st Cir. 2001) (citations and internal punctuation
+
+omitted). As the First Circuit has further elaborated:
+
+       The law governing investigative stops is well understood. A law enforcement officer
+       ordinarily may not stop someone and restrain his freedom to walk away unless the
+       officer has a reasonable and articulable suspicion of criminal activity. The reasonable
+       suspicion test has been described as an intermediate standard requiring more than
+       unfounded speculation but less than probable cause. At a minimum, the officer must
+       have a particularized and objective basis for suspicion. When determining the
+       legitimacy of an investigative stop, a court must undertake a contextual analysis using
+       common sense and a degree of deference to the expertise that informs a law
+       enforcement officer’s judgments about suspicious behavior.
+
+       An investigative stop also must be reasonably related in scope to the circumstances
+       which justified the interference in the first place. If a law enforcement officer
+       reasonably suspects criminal activity, he may briefly question the suspect about his
+       concerns. If he has a reasonable basis to suspect that the subject of his inquiry may be
+       armed, he also may frisk the suspect and undertake a limited search of the passenger
+       compartment of any vehicle in which he is sitting. Once again, context is vital in
+       determining the permissible scope of an investigative stop.
+
+United States v. Cook, 277 F.3d 82, 85 (1st Cir. 2002) (citations and internal quotation marks
+
+omitted). In this case, the defendant technically stopped his own vehicle to avoid a near-collision,
+
+rather than being pulled over by police. Nonetheless, Desjardins immediately beckoned him out of his
+
+truck, and Hayes questioned him, patted him down and requested consent to search his vehicle. The
+
+encounter thus fairly can be characterized as an investigative, or Terry, stop.
+
+       As an initial matter, officers were justified in approaching and questioning the defendant on the
+
+
+                                                  19
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 20 of 33                         PageID #: 73
+
+
+
+basis of his erratic driving alone. The defendant had made a sudden, wide right turn, encroaching on
+
+the wrong travel lane of St. James Street and nearly striking another vehicle. Even in the absence of
+
+any suspected link whatsoever to the Brewer-Dunning investigation, officers reasonably could have
+
+stopped and questioned the driver to satisfy themselves that he was not operating under the influence
+
+of drugs or alcohol or otherwise unfit to be behind the wheel.
+
+       Beyond this, even as officers approached the truck, Thistlewood observed and commented that
+
+the vehicle was the same one he had just seen in the Riquinha driveway, which he had determined was
+
+registered to a Richard Dimott. That vehicle, in turn, generally matched Brewer’s description of a
+
+truck seen in the vicinity of his home shortly before he discovered the break-in: Although the
+
+defendant’s vehicle was a Ford rather than a Chevrolet, did not have a tarp over the truck bed and had
+
+red and blue stripes along the bottom, it was primarily a silver or gray pickup truck. Officers already
+
+knew that the cell phone from which blocked calls had been placed to the Brewer-Dunning residence
+
+belonged to Riquinha. Moreover, Thistlewood had just been in the process of photographing a
+
+footprint near the Riquinha trailer that he reasonably could have inferred had been left by one of the
+
+three individuals he had seen exiting the Dimott vehicle a short time earlier, and that he believed was
+
+identical to a distinctive footprint he had seen at the Brewer-Dunning residence.
+
+       The defendant’s own conduct only heightened officers’ growing and ample suspicions. He had
+
+stared so fixedly at them and their vehicles (including the marked YCSO cruiser) that he neglected to
+
+pay attention to the road. He also had made what Desjardins reasonably deduced was a last-minute
+
+decision to turn right onto St. James Street, nearly striking an oncoming vehicle. The defendant’s
+
+apparent attempted flight was in itself, in the circumstances, highly suspicious. See, e.g., Illinois v.
+
+Wardlow, 528 U.S. 119, 124 (2000) (“Headlong flight – wherever it occurs – is the consummate act of
+
+evasion: It is not necessarily indicative of wrongdoing, but it is certainly suggestive of such.”).
+
+                                                  20
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 21 of 33                        PageID #: 74
+
+
+
+       In short, as officers approached the defendant, they had ample reason to suspect that he and/or
+
+his vehicle were linked to the Brewer-Dunning burglary. They then did precisely what Terry
+
+contemplates, undertaking diligent means of investigation to confirm or dispel that suspicion. They
+
+questioned the defendant, ran a check of his license and registration, made observations of the outside
+
+of his vehicle and sought his consent to search his truck. Those measures, in turn, quickly confirmed
+
+their suspicions. Thistlewood observed mud and grass on the truck’s wheel well; earlier that day, he
+
+had photographed a track on the Brewer-Dunning lawn believed to have been left by a spinning tire.
+
+Thistlewood and Hickey both noticed a tarp protruding from beneath a spare tire in the truck bed; the
+
+truck seen by Brewer reportedly had a tarp covering its truck bed. During questioning the defendant
+
+appeared nervous and had trouble making eye contact or standing still. He gave shifting answers to the
+
+questions posed – initially denying that he had been to the Riquinha residence and then admitting that
+
+he had in fact been there when confronted with the observation that Thistlewood earlier had seen his
+
+vehicle parked in the Riquinha driveway. Finally, during the search of the truck’s cab, Thistlewood
+
+discovered what fairly can be described as smoking-gun evidence of a link between the defendant’s
+
+truck and the Brewer-Dunning burglary: cans of mace identical to a can found at the Brewer-Dunning
+
+residence that did not belong to either Brewer or Dunning and had been believed to have been used to
+
+mace their dog, and an antique Rolls razor that Thistlewood confirmed, in a conversation with
+
+Brewer, was his. No more than half an hour had elapsed since officers first had approached the
+
+defendant.
+
+       At this point – if not sooner – officers had probable cause to arrest the defendant on state
+
+charges of burglary and/or receipt of stolen property. See United States v. Vongkaysone, 434 F.3d
+
+68, 73-74 (1st Cir. 2006) (“Probable cause exists when police officers, relying on reasonably
+
+trustworthy facts and circumstances, have information upon which a reasonably prudent person would
+
+                                                  21
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 22 of 33                            PageID #: 75
+
+
+
+believe the suspect had committed or was committing a crime. The inquiry into probable cause
+
+focuses on what the officer knew at the time of the arrest, and should evaluate the totality of the
+
+circumstances. Probable cause is a common sense, nontechnical conception that deals with the factual
+
+and practical considerations of everyday life on which reasonable and prudent men, not legal
+
+technicians, act.”) (citations and internal punctuation omitted); United States v. Winchenbach, 197
+
+F.3d 548, 555-56 (1st Cir. 1999) (an officer’s determination that a crime has been committed need not
+
+be “ironclad” or even “highly probable”; it need only have been “reasonable” to satisfy the standard
+
+of probable cause); Roche v. John Hancock Mut. Life Ins. Co., 81 F.3d 249, 255 (1st Cir. 1996)
+
+(“[O]ne who asserts the existence of probable cause is not a guarantor either of the accuracy of the
+
+information upon which he has reasonably relied or of the ultimate conclusion that he reasonably drew
+
+therefrom.”). However, rather than placing the defendant under arrest then and there, in an abundance
+
+of caution Thistlewood decided to impound his vehicle, seek a warrant for its further search, and
+
+leave the defendant to his liberty. At that point, the Terry stop had ceased. Nonetheless, officers did
+
+not then proceed, as the defendant suggests in his papers, see Dimott II Motion at 4, to effectuate his de
+
+facto arrest.
+
+        “[A]n investigatory stop constitutes a de facto arrest [for which probable cause is required]
+
+when a reasonable man in the suspect’s position would have understood his situation, in the
+
+circumstances then obtaining, to be tantamount to being under arrest.” Flowers v. Fiore, 359 F.3d 24,
+
+29 (1st Cir. 2004) (citations and internal quotation marks omitted). There is no evidence that any
+
+officer laid a hand on the defendant while at The Hamlet, apart from Hayes’ brief patdown. The
+
+patdown did not “convert” the Terry stop into an arrest; rather, it constituted a legitimate officer-safety
+
+measure in view of the fact that officers harbored reasonable suspicion that the defendant was linked
+
+to a burglary in which twenty-one firearms had been reported stolen. See, e.g., Florida v. J.L., 529
+
+                                                    22
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 23 of 33                         PageID #: 76
+
+
+
+U.S. 266, 272 (2000) (given serious threat firearms and armed criminals pose to public safety,
+
+“Terry’s rule . . . permits protective police searches on the basis of reasonable suspicion rather than
+
+demanding that officers meet the higher standard of probable cause”); United States v. Romain, 393
+
+F.3d 63, 71 (1st Cir. 2004) (“[I]n determining whether a pat-down search is an appropriate step
+
+following a valid Terry stop, the key is whether, under the circumstances, the officer is justified in
+
+believing that the person is armed and dangerous to the officer or others.”) (citation and internal
+
+quotation marks omitted). Nor did any officer brandish a weapon at the defendant, place him
+
+handcuffs, inform him that he was under arrest or otherwise restrict his freedom of movement. Indeed,
+
+when the defendant questioned Thistlewood following termination of the truck search whether he was
+
+free to go, Thistlewood confirmed that he was. While the defendant could not have driven out of The
+
+Hamlet in his own truck, which had been seized, he could have called a friend, relative or cab for a
+
+ride or simply have walked out of the trailer park. No reasonable person in the defendant’s shoes, as
+
+of that time, would have understood his situation to be tantamount to being under arrest.
+
+       Instead, from all that appears, the defendant made a calculated choice to stay and attempt to
+
+minimize the damage emanating from his chance encounter with police by cooperating with ATF
+
+agents. From the time the Terry stopped ceased at approximately 7 p.m. until the time the defendant
+
+was placed under arrest by Thistlewood in Gorham at approximately 10 p.m., he was calling the shots:
+
+He identified Hickey as the sole person with whom he wished to speak and conversed with him out of
+
+earshot of other officers; he suggested that he go for a ride with Hickey; he gave permission for Grasso
+
+to join them; he refused to deal with local or county officers; he ordered Thistlewood out of the
+
+backseat of Grasso’s car; and he attempted unsuccessfully to negotiate the release of his truck and a
+
+guarantee that he would not be arrested that day. The defendant repeatedly asked Grasso and Hickey
+
+whether he was under arrest or would be placed under arrest; they repeatedly assured him that absent
+
+                                                  23
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 24 of 33                         PageID #: 77
+
+
+
+a significant change, ATF had no plans to arrest him that day. Nothing Grasso or Hickey did was
+
+inconsistent with that assurance. In contravention of ATF protocol for transport of suspects “in
+
+custody,” they left the defendant alone and unhandcuffed in the backseat of Grasso’s car. They also
+
+permitted him to walk freely about a convenience store at which they stopped to obtain a drink, and
+
+did nothing to physically restrain him while at Trailers Diversified in Gorham.
+
+        In short, the defendant was not placed under de facto arrest at any time prior to his official
+
+arrest by Thistlewood at approximately 10 p.m. There can be no serious question that, when
+
+Thistlewood did arrest the defendant that evening on a state charge of burglary, he had probable cause
+
+to do so. As noted earlier, such probable cause had been developed, at the latest, as of the time the
+
+Terry stop ceased at approximately 7 p.m. The defendant’s conduct and statements during the
+
+intervening time had only widened the base of probable cause: The defendant had confessed he knew
+
+who had committed the burglary, had led agents to the storage unit where he said twenty-three of the
+
+guns were stored, had produced what he represented was the only key to the unit, and had stated that
+
+three other guns would be found in his truck.
+
+        For all of the foregoing reasons, the government carries its burden of demonstrating that the
+
+defendant was neither unlawfully detained nor arrested during his encounter with officers on April 5,
+
+2005.
+
+                                         2. Search of Truck
+
+        The defendant next argues that the search of his truck was unlawful on grounds, inter alia, that
+
+any purported consent was involuntary. See Dimott II Motion at 4-5. He argues that consent given
+
+during an illegal detention is invalid, and that any evidence discovered as a result of such a search is
+
+inadmissible unless the taint of the illegal conduct is somehow dissipated. See id. (citing, inter alia,
+
+Wong Sun v. United States, 371 U.S. 471 (1963)); see also, e.g., United States v. Woodward, 173 F.
+
+                                                  24
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 25 of 33                                              PageID #: 78
+
+
+
+Supp.2d 64, 71 (D. Me. 2001), aff’d, 43 Fed. Appx. 397 (1st Cir. 2002) (evidence is suppressible as
+
+fruit of poisonous tree, pursuant to Wong Sun, if it has “been come at by exploitation of the illegality
+
+as opposed to by means sufficiently distinguishable to be purged of the primary taint”) (citation and
+
+internal punctuation omitted). The government counters, inter alia, that the defendant gave valid
+
+consent to the search. See Dimott II Objection at 9-10.
+
+         “Valid consent renders a warrantless search constitutionally permissible, and while consent
+
+must be voluntary to be valid, there is no requirement that the person who gave consent must have been
+
+explicitly advised of the right to withhold it.” United States v. Perez-Montañez, 202 F.3d 434, 438
+
+(1st Cir. 2000). “It is the prosecution’s burden to establish, by a preponderance of the evidence, that
+
+consent was freely and voluntarily given; there must be more than mere acquiescence in the face of an
+
+unfounded claim of present lawful authority.” Id. (citation and internal quotation marks omitted).22
+
+“The district court’s conclusion as to whether consent was freely given must take into account the
+
+totality of the circumstances surrounding the interaction between the defendant and the authorities.” Id.
+
+ This interaction, in turn, is measured by a standard of “objective reasonableness – what would the
+
+typical reasonable person have understood by the exchange between the officer and the suspect?”
+
+United States v. Turner, 169 F.3d 84, 87 (1st Cir. 1999) (citations and internal quotation marks
+
+omitted).
+
+         At the outset, I reject the defendant’s contention that his consent was “fruit of the poisonous
+
+tree.” I have already concluded, based on the facts as I propose they be found, that the detention of the
+
+defendant at The Hamlet was lawful. The question remains whether the defendant voluntarily
+
+22
+  While the question sometimes is framed as one of whether consent has been “freely and voluntarily” given, the concepts are
+equivalent. See, e.g., United States v. Drayton, 536 U.S. 194, 206 (2002) (“We turn now from the question whether respondents
+were seized to whether they were subjected to an unreasonable search, i.e., whether their consent to the suspicionless search was
+(continued on next page)
+
+
+                                                              25
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 26 of 33                                                     PageID #: 79
+
+
+
+consented to the search.               At hearing, the government adduced uncontradicted evidence that
+
+approximately five to ten minutes after officers first approached the defendant, Hayes asked him for
+
+consent to search his truck, which he gave without hesitation. There is no evidence that the officers
+
+said or did anything to coerce the defendant to give that consent unwillingly. Moreover, throughout the
+
+defendant’s encounter with officers that day, he evinced a willingness and ability to cooperate to the
+
+extent it suited his purposes and to decline to cooperate when it did not – for example, choosing to
+
+deal with Hickey but not with local or county officers. Against this backdrop, I have no difficulty
+
+concluding that the defendant consented to a search of his truck, and did so voluntarily. The truck
+
+search accordingly was lawful.
+
+                            3. Voluntariness of Statements; Miranda Compliance
+
+          The defendant next seeks to suppress statements made to officers on April 5, 2005 on the bases
+
+that (i) requisite Miranda warnings were not given, and (ii) his statements in any event were
+
+involuntary, having been coerced by promises of leniency. See Dimott II Motion at 5-6.
+
+          The obligation of an officer to administer Miranda warnings attaches “only where there has
+
+been such a restriction on a person’s freedom as to render him ‘in custody.’” Stansbury v. California,
+
+511 U.S. 318, 322 (1994) (citations and internal quotation marks omitted). Whether a person can be
+
+considered to have been in custody depends on all of the circumstances surrounding the interrogation,
+
+but “the ultimate inquiry is simply whether there [was] a ‘formal arrest or restraint on freedom of
+
+movement’ of the degree associated with a formal arrest.” Id. (citation omitted). The determination
+
+whether there was such a restraint on freedom of movement hinges “on the objective circumstances of
+
+the interrogation, not on the subjective views harbored by either the interrogating officers or the
+
+____________________________
+involuntary.”); United States v. Chhien, 266 F.3d 1, 7 (1st Cir. 2001) (“Consent is voluntary if it is the product of an essentially free
+(continued on next page)
+
+
+                                                                  26
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 27 of 33                         PageID #: 80
+
+
+
+person being questioned.” Id. at 323. See also United States v. Quinn, 815 F.2d 153, 157 (1st Cir.
+
+1987) (relevant inquiry “is how a reasonable man in the suspect’s position would have understood his
+
+situation”) (citation and internal quotation marks omitted). “Among the factors to consider” in making
+
+a Miranda custody determination “are whether the suspect was questioned in familiar or at least
+
+neutral surroundings, the number of law enforcement officers present at the scene, the degree of
+
+physical restraint placed upon the suspect, and the duration and character of the interrogation.” United
+
+States v. Nishnianidze, 342 F.3d 6, 13 (1st Cir. 2003) (citation and internal quotation marks omitted).
+
+          For purposes of Miranda analysis, the defendant’s interactions with officers on April 5, 2005
+
+can be divided into three periods: (i) the period from approximately 6:30 p.m. to 7 p.m. during which
+
+officers conducted a Terry-type investigation, (ii) the period from approximately 7 p.m. to 10 p.m.
+
+during which the defendant conversed with ATF agents, and (iii) the period after 10 p.m., when
+
+Thistlewood placed the defendant under arrest. At no point during the day did any officer administer
+
+Miranda warnings to the defendant.
+
+          The defendant acknowledges that, as “a general rule, Terry stops do not implicate the
+
+requirements of Miranda.” Dimott II Motion at 5 (quoting United States v. Streifel, 781 F.2d 953,
+
+958 (1st Cir. 1986)). However, he posits that in this case, the Terry stop evolved into a de facto
+
+arrest, at which point Miranda warnings were required. See id. at 5-6. I disagree. As discussed
+
+above, once the Terry investigation ceased, and Thistlewood made clear to the defendant that he was
+
+free to leave, the defendant chose instead to speak to ATF agents. During the roughly three hours the
+
+defendant spent in the company of Hickey and Grasso, he was not handcuffed or otherwise restrained,
+
+was reassured that he was not under arrest, and was permitted a degree of control over his
+
+____________________________
+and unconstrained choice.”) (citation and internal quotation marks omitted).
+
+
+                                                               27
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 28 of 33                          PageID #: 81
+
+
+
+environment inconsistent with “custodial” interrogation: for example, Grasso and Hickey took the
+
+defendant for a ride at his own suggestion and did not countermand his request that Thistlewood leave
+
+Grasso’s car.
+
+        Unquestionably, once Thistlewood placed the defendant under arrest and handcuffed him at
+
+approximately 10 p.m., the defendant was “in custody” for Miranda purposes. Any statements
+
+thereafter elicited from him via “interrogation” accordingly would be inadmissible in the absence of
+
+Miranda warnings. Nonetheless, Thistlewood testified, in effect, that no conversation of consequence
+
+ensued. En route to the jail, Thistlewood expressed an interest in talking to the defendant about the
+
+case; however, the defendant replied that he would talk to him the following day. When Thistlewood
+
+came to the jail the next day, the defendant refused to speak with him.
+
+        Inasmuch as the government demonstrates that the defendant was not “in custody” during the
+
+Terry investigation or the interview with ATF agents and was not “interrogated” by Thistlewood
+
+following his 10 p.m. arrest, it meets its burden of showing compliance with the dictates of Miranda.
+
+        I turn to the question whether the defendant’s statements nevertheless were made involuntarily.
+
+Involuntary confessions violate the due-process clauses of the Fifth and Fourteenth amendments. See,
+
+e.g., United States v. Genao, 281 F.3d 305, 310 (1st Cir. 2002). In the face of a defendant’s claim
+
+that his confession was extracted involuntarily, the government bears the burden of showing, based on
+
+the totality of the circumstances, that investigating agents neither “broke” nor overbore his will.
+
+Chambers v. Florida, 309 U.S. 227, 239-40 (1940). As this language suggests, “coercive police
+
+activity is a necessary predicate to the finding that a confession is not ‘voluntary[.]’” Colorado v.
+
+Connelly, 479 U.S. 157, 167 (1986). See also, e.g., Rice v. Cooper, 148 F.3d 747, 750 (7th Cir.
+
+1998) (in context of voluntariness of confession, “[t]he relevant constitutional principles are aimed not
+
+at protecting people from themselves but at curbing abusive practices by public officers.”) (citation
+
+                                                   28
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 29 of 33                                                       PageID #: 82
+
+
+
+omitted).
+
+          In this case, the defendant suggests that the police overbore his will, and extracted confessions
+
+from him, by promises of leniency. See Dimott II Motion at 6. I am unpersuaded. The evidence
+
+adduced at hearing suggests that the defendant made a calculated choice to speak with ATF agents –
+
+and only ATF agents – in a bid to minimize the damage flowing from his encounter with officers at The
+
+Hamlet. Up until the time of his arrest by Thistlewood, he continued to make calculated choices
+
+regarding the amount of information he would divulge and the timing and manner in which he would
+
+divulge it – for example, only to ATF agents, in a car away from The Hamlet, and in some instances
+
+only “hypothetically.” Further, he continued to make statements despite having been told, upon inquiry
+
+to Hickey and/or Grasso, that he was not under arrest and was free to leave.
+
+          Beyond this, neither Hickey nor Grasso promised the defendant that he would evade arrest if
+
+he confessed or showed them the location of the guns. Rather, the defendant queried whether, if he
+
+took them to the firearms, he would not be arrested. In response, Hickey merely reiterated what he had
+
+been saying to the defendant from the outset of their conversation: that ATF had no intention of
+
+arresting him that evening unless something changed significantly. Moreover, Hickey had explained
+
+early on to the defendant that ATF had no authority to “trump” the county and local agencies involved
+
+in the Brewer-Dunning investigation. The defendant extracted no promise from local or county
+
+authorities – with whom he had refused to deal – that they would not place him under arrest on state
+
+charges.23 A unilateral hope of lenient treatment does not render a confession involuntary. See, e.g.,
+
+United States v. Rowley, 975 F.2d 1357, 1361 (8th Cir. 1992) (“Although Rowley’s statements were
+
+
+23
+   While Thistlewood was told, upon arrival at the Hannaford parking lot, that the defendant would lead investigators to the stolen
+firearms if he did not get arrested that night for receiving stolen property, there is no evidence that Thistlewood engaged in negotiations
+with the defendant or otherwise relayed agreement to those terms.
+
+
+                                                                   29
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 30 of 33                                                   PageID #: 83
+
+
+
+given in the hope of leniency, they were not given with the promise of leniency, and thus were not
+
+involuntary on that score.”).
+
+          Nor, finally, did Hickey’s statement that he would relay the fact of any cooperation to the
+
+United States Attorney’s Office constitute coercion sufficient to overbear the defendant’s will (even as
+
+glossed with Hickey’s further observations that it looked fairly bad for the defendant and that relaying
+
+his cooperation to the United States Attorney’s Office most likely would work in his favor). Hickey
+
+did not promise that any particular benefit would materialize if the defendant confessed. In any event,
+
+the First Circuit has expressed doubt that even a false promise that a suspect would not be prosecuted
+
+undermines the voluntariness of a confession. See United States v. Byram, 145 F.3d 405, 408 (1st
+
+Cir. 1998) (“[I]t would be very hard to treat as coercion a false assurance to a suspect that he was not
+
+in danger of prosecution.”) (emphasis in original).
+
+          For the foregoing reasons, the government meets its burden of demonstrating that statements
+
+made to ATF agents on April 5, 2005 were voluntary.
+
+                                             4. Validity of Search Warrant
+
+          The defendant next argues that, stripped of evidence obtained illegally, the Hickey Affidavit
+
+does not supply probable cause to search his vehicle or the Gorham storage unit. See Dimott II
+
+Motion at 6. This claim hinges on the merit of the defendant’s prior assertions that evidence was in
+
+fact garnered illegally. I have recommended that the court find otherwise. Should the court agree, that
+
+is fatal to the defendant’s bid to suppress evidence seized pursuant to the warrant. 24
+
+24
+   The defendant does not assert that the Hickey Affidavit on its face failed to supply probable cause to search his vehicle or the
+Gorham storage warrant. See Dimott II Motion at 6. Such a claim transparently would have no merit. The Hickey Affidavit
+established a number of ties between the defendant’s truck and the Brewer-Dunning burglary, not least of which was the discovery of
+the cans of mace and the antique Rolls razor. The Hickey Affidavit further conveyed a high probability that the stolen firearms likely
+would be found in the storage unit based on the defendant’s own statements to that effect and confirmation from the owners of Trailers
+Diversified that the unit the defendant had identified belonged to Riquinha, from whose cell phone the suspicious calls to the Brewer-
+(continued on next page)
+
+                                                                 30
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 31 of 33                           PageID #: 84
+
+
+
+                                       5. Rule 41(f) Compliance
+
+         Following the close of evidence at hearing, the defendant’s counsel asserted for the first time
+
+that the warrant issued for search of the defendant’s vehicle and the Gorham storage unit was not
+
+executed in compliance with Rule 41(f). That rule provides:
+
+                (1) Noting the Time. The officer executing the warrant must enter on its face
+         the exact date and time it is executed.
+
+                (2) Inventory. An officer present during the execution of the warrant must
+         prepare and verify an inventory of any property seized. The officer must do so in the
+         presence of another officer and the person from whom, or from whose premises, the
+         property was taken. If either one is not present, the officer must prepare and verify the
+         inventory in the presence of at least one other credible person.
+
+         With respect to Rule 41(f)(1), defense counsel initially argued that the return on the warrant
+
+failed to indicate the date and time of its execution. However, I pointed out, and he conceded, that the
+
+return in fact indicates that the warrant was executed on April 6, 2005 at 11:30 a.m. See Defendant’s
+
+Exh. 2 at 3.
+
+         With respect to Rule 41(f)(2), defense counsel noted that the return indicates that an inventory
+
+of the contents of the storage unit was made in the presence of ATF supervising agent Brown but not in
+
+the presence of the storage unit’s owners, Riquinha and his wife. See id. Hence, he reasoned,
+
+pursuant to the plain language of the rule, an inventory should have been prepared and verified in the
+
+presence of at least one other credible person. He noted that, while the inventory was verified to
+
+Magistrate Judge Brownell, it was not prepared in his presence. Accordingly, he concluded, ATF did
+
+not comply with Rule 41(f)(2) in executing the warrant.
+
+         Counsel for the government, confronting this argument for the first time at hearing, countered
+
+that either Brown or Magistrate Judge Brownell, in whose presence Hickey swore that the inventory
+
+____________________________
+Dunning residence had been placed.
+
+                                                    31
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 32 of 33                         PageID #: 85
+
+
+
+was a true and detailed account of the property taken by him pursuant to the warrant, see id., qualified
+
+as “at least one other credible person” for purposes of Rule 41(f)(2).
+
+       I need not resolve whether Brown or Magistrate Judge Brownell so qualifies. “Violations of
+
+Rule 41(d) [predecessor to Rule 41(f)(2)] are essentially ministerial in nature[,] and a motion to
+
+suppress should be granted only when the defendant demonstrates legal prejudice or that non-
+
+compliance with the rule was intentional or in bad faith.” Marx, 635 F.2d at 441. Accord United
+
+States v. Dauphinee, 538 F.2d 1, 3 (1st Cir. 1976) (“Although we think that it would have been better
+
+practice if the return had stated that the revolver was found and seized, we do not think that the
+
+government agent’s failure to make an accurate return requires suppression of the evidence in this
+
+case. The various procedural steps required by Rule 41(d) are basically ministerial. Appellant has
+
+not demonstrated that he was prejudiced by the failure of the return to mention the revolver, and there
+
+is no indication that the government was not acting in good faith. Under these circumstances the
+
+district court did not err in denying the motion to suppress insofar as it was based on the wording of
+
+the return.”) (citations and footnotes omitted); United States v. Hubbard, 493 F. Supp. 209, 221
+
+(D.D.C. 1979), aff’d, 668 F.2d 1238 (D.C. Cir. 1981) (“[I]t is interesting to note that failure even to
+
+complete an inventory is merely a ministerial violation which does not affect the validity of the
+
+search.”). Even assuming arguendo that the warrant in this case was not executed in compliance with
+
+Rule 41(f)(2), the defendant has made no showing of prejudice flowing therefrom or intentional or
+
+bad-faith non-compliance. That is fatal to his bid for suppression on this ground.
+
+                                           III. Conclusion
+
+       For the foregoing reasons, I recommend that both of the defendant’s motions to suppress be
+
+DENIED.
+
+
+
+                                                  32
+Case 2:06-cr-00026-GZS Document 34 Filed 12/21/06 Page 33 of 33                        PageID #: 86
+
+
+
+                                              NOTICE
+
+
+        A party may file objections to those specified portions of a magistrate judge’s report or
+proposed findings or recommended decisions entered pursuant to 28 U.S.C. § 636(b)(1)(B) for
+which de novo review by the district court is sought, together with a supporting memorandum,
+within ten (10) days after being served with a copy thereof. A responsive memorandum shall be
+filed within ten (10) days after the filing of the objection.
+
+        Failure to file a timely objection shall constitute a waiver of the right to de novo review by
+the district court and to appeal the district court’s order.
+
+
+       Dated this 21st day of December, 2006
+
+                                                      /s/ David M. Cohen
+                                                      David M. Cohen
+                                                      United States Magistrate Judge
+
+
+
+
+                                                 33
+

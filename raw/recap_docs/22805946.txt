@@ -1,0 +1,983 @@
+                      UNITED STATES DISTRICT COURT
+                           DISTRICT OF MAINE
+
+ UNITED STATES OF AMERICA,                 )
+                                           )
+ v.                                        ) Docket No. 2:17-CR-77-NT
+                                           )
+ CHARLES LEONARD,                          )
+                                           )
+                     Defendant.            )
+
+
+
+             ORDER ON DEFENDANT’S MOTION TO SUPPRESS
+
+      Before me is Defendant Charles Leonard’s motion to suppress the shotgun and
+
+ammunition seized during a warrantless search of his home. (ECF No. 15). Mr.
+
+Leonard argues that the officers’ initial entry and search of his home was unjustified,
+
+which tainted the voluntariness of his later consent to search the home. The
+
+Government responds that the sweep was a permissible precautionary measure
+
+taken to ensure there was no one in the home who presented a threat to the officers.
+
+For the following reasons, the motion to suppress is GRANTED.
+
+
+                               FINDINGS OF FACT
+
+      The events leading up to the contested search began two weeks prior. On
+
+September 8, 2015, Det. William Tapley of the Lisbon Police Department received a
+
+call about an attempted purchase of a firearm at the Double Diamond Pawn Shop in
+
+Lisbon, Maine. The manager of the shop was Det. Tapley’s former partner, and he
+
+told Det. Tapley that he suspected the two men who came into the shop, Charles
+Leonard and Harley Stanley, were felons.1 The shop did not sell Mr. Leonard the .40
+
+caliber pistol he selected because the address on his paperwork did not match the
+
+address on Mr. Leonard’s identification.2 See Hearing Tr. Sept. 15, 2017 at 05:13-18
+
+(“Hearing Tr.”); Gov’t’s Ex. 3.
+
+       Det. Tapley ran a criminal record check on both men and found that Mr.
+
+Stanley had a Class C felony for receiving stolen property and some outstanding
+
+warrants for unpaid fines. Hearing Tr. 44:06-18; Gov’t’s Ex. 1; Gov’t’s Opp’n 2 (ECF
+
+No. 17). Mr. Leonard had a misdemeanor criminal record. Hearing Tr. 63:07-18;
+
+Gov’t’s Ex. 2. Det. Tapley also reviewed the Double Diamond’s security video footage
+
+and observed Mr. Stanley handling several handguns and putting money on the
+
+counter. Hearing Tr. 09:05-10:06. Det. Tapley suspected that Mr. Leonard had
+
+attempted to make a straw purchase of the firearm for Mr. Stanley. Hearing Tr.
+
+07:04-15.
+
+       On September 12, 2015, Det. Tapley recognized Mr. Leonard’s truck and made
+
+a traffic stop. Mr. Leonard was driving, and Mr. Stanley was a passenger. Det. Tapley
+
+arrested Mr. Stanley without incident on the outstanding warrants. Hearing Tr.
+
+11:14-12:03. Det. Tapley mentioned to Mr. Leonard that he wanted to ask him about
+
+
+
+
+1       The Government refers to Mr. Stanley as both Harley and Hartley. Compare Gov’t’s Opp’n 2,
+8, with Gov’t’s Opp’n 9 (ECF No. 17).
+2       A person seeking to purchase a firearm from a federally licensed firearms dealer must complete
+a Firearms Transaction Record (ATF Form 4473), which requires biographical information on the
+purchaser and contains a series of questions designed to elicit whether the dealer may lawfully sell
+the firearm to the purchaser.
+
+
+                                                  2
+the purchase of a firearm at the Double Diamond and that he would do so at a later
+
+date. Hearing Tr. 12:04-14.
+
+      Det. Tapley shared the information he had developed with Christopher
+
+Durkin, a special agent with Bureau of Alcohol, Tobacco, Firearms, and Explosives.
+
+On September 23, 2015, SA Durkin and Det. Tapley went to Mr. Leonard’s residence
+
+to see if Mr. Leonard would consent to an interview, often referred to as a “knock and
+
+talk” in police jargon. The officers had no arrest or search warrant.
+
+      Mr. Leonard’s home was a single-wide trailer near the end of a dirt road in a
+
+trailer park that was familiar to Det. Tapley from prior unrelated visits. Hearing Tr.
+
+15:02-06. The east wall of the trailer was approximately 12 feet wide and faced the
+
+road. Hearing Tr. 24:04-14; Gov’t’s Ex. 31; Gov’t’s Ex. 35. The trailer’s exterior doors
+
+were on the north and south walls, which were approximately 40 feet long. Hearing
+
+Tr. 15:07-10; Gov’t’s Ex. 35.
+
+      When the officers arrived, they detected the strong smell of cultivated
+
+marijuana. Hearing Tr. 14:08-15. SA Durkin activated a digital recorder that he wore
+
+on his person. Durkin Recording (Gov’t’s Ex. 7). The officers approached the door on
+
+the south wall of the trailer and knocked. Durkin Recording 00:43-00:47. They heard
+
+noise like rustling or movement. Hearing Tr. 16:09-15, 77:12-18, 90:17-23. One of the
+
+officers can be heard on the recording saying casually “there might be a kid in there.”
+
+Durkin Recording 00:58. Det. Tapley suspected that someone might be exiting the
+
+other side of the trailer, and SA Durkin went around to check. Hearing Tr. 16:09-15.
+
+When he got around to the other side of the trailer, SA Durkin met Mr. Leonard
+
+
+
+                                           3
+coming out the back door. SA Durkin, speaking “casually” with Mr. Leonard, walked
+
+to the east side of the trailer with Mr. Leonard so that he could see the front entryway.
+
+Hearing Tr. 78:23-79:02.
+
+       At approximately this time, Stevie Bean answered the front door. Ms. Bean
+
+lives in the trailer with Mr. Leonard and their two-year-old child, MC. Durkin
+
+Recording 03:54-04:00. Det. Tapley did not see marijuana from the door, but, based
+
+on the smell, he asked Ms. Bean how much marijuana was inside, and she said “a
+
+lot.” Hearing Tr. 15:25-16:01, 18:03-11.3 After consulting briefly with SA Durkin, who
+
+was talking to Mr. Leonard at the east side of the trailer, Det. Tapley returned to Ms.
+
+Bean at the primary door, and she indicated that Mr. Stanley was inside. Hearing Tr.
+
+18:13-19:05.
+
+       Det. Tapley entered and walked through the trailer to find Mr. Stanley. He did
+
+not request backup or warn SA Durkin that he was going inside the home. Det. Tapley
+
+testified that he had no recollection of whether he drew his weapon when conducting
+
+his protective sweep. He testified that he “hoped” he had his weapon drawn as that
+
+would be proper protocol. Hearing Tr. 67:03-06, 68:11-13. He can be heard calling out
+
+“Harley!” on the recording. Durkin Recording 5:40.
+
+       Approximately six minutes into the encounter, Det. Tapley rejoined SA
+
+Durkin, who was standing outside the trailer with Mr. Leonard, Ms. Bean, and MC.
+
+
+3       Det. Tapley’s testimony about his first conversation with Ms. Bean was somewhat
+contradictory with regard to Mr. Stanley. On direct, he said he asked Ms. Bean if anyone was inside
+and she said no. Hearing Tr. Sept. 15, 2017 at 17:25-18:02 (“Hearing Tr.”). On cross-examination,
+Det. Tapley said the conversation was quick, and he did not have a strong memory. He believed that
+he asked Ms. Bean where everybody was, she said she was not sure, and then he asked about the smell
+of marijuana. Hearing Tr. 65:10-14.
+
+
+                                                4
+Det. Tapley asked SA Durkin whether he saw Mr. Stanley come out the back and
+
+surmised that Mr. Stanley may still be in the trailer. Durkin Recording 06:30-06:36.
+
+SA Durkin said he could “hear him in there.” Durkin Recording 06:37. Without asking
+
+for assistance, Det. Tapley returned to searching and calling out “Harley come out.
+
+Harley! Where are ya?” Durkin Recording 06:40. SA Durkin meanwhile resumed
+
+questioning Mr. Leonard about the straw purchase, while MC threw clumps of dirt
+
+at SA Durkin. Durkin Recording 07:10.
+
+      Approximately eight minutes into the encounter, Det. Tapley came outside of
+
+the trailer and said “he apparently went out the window.” Durkin Recording 08:12.
+
+He instructed Ms. Bean, “[c]ome with me and show me where he might be hiding.”
+
+Durkin Recording 08:18. Det. Tapley then took Ms. Bean back into the trailer. Once
+
+inside the trailer, Det. Tapley read the Miranda warnings to Ms. Bean and asked her
+
+questions about the marijuana which was drying throughout the trailer. Det. Tapley
+
+asked if Ms. Bean would consent to a search of the house, and he called Officer
+
+Richard St. Amant to deliver a consent to search form.
+
+      Approximately 11 minutes into the encounter, Officer St. Amant arrived. He
+
+greeted SA Durkin and asked him how he was doing. SA Durkin replied: “Been better.
+
+Bill’s inside there. I don’t know what’s going on.” Durkin Recording 11:35. Officer St.
+
+Amant then carried the unsigned consent-to-search forms into the trailer. While still
+
+standing inside the trailer, Det. Tapley continued to speak with Ms. Bean about the
+
+marijuana, informed her that he could get a search warrant based on what he had
+
+
+
+
+                                          5
+seen so far, and read through the consent form. Hearing Tr. 31:20-32:14. Ms. Bean
+
+signed. Gov’t’s Ex. 9.
+
+      A few minutes later, SA Durkin joined the other officers, at which point all
+
+three officers were inside the trailer without warrants or Mr. Leonard’s consent.
+
+Durkin Recording 13:43. Officer St. Amant told SA Durkin that Mr. Stanley was
+
+“gone,” and SA Durkin confirmed that the police did not “have anything on him
+
+anyways.” Durkin Recording 14:04-14:12. Det. Tapley then asked Officer St. Amant
+
+“mind staying out here, Rich?” Durkin Recording 14:47. And to SA Durkin, Det.
+
+Tapley asked:
+
+      WT: You have your recorder on?
+
+      CD: I do. I’m done talking to him he’s denying all of it saying there’s no
+      way he’s buying a gun for anybody else.
+
+      WT: Ok.
+
+      CD: You want to talk to me about something else?
+
+      WT: Yea.
+
+      CD: End of interview.
+
+Durkin Recording Tr. 12 (ECF No. 22-1); Durkin Recording 14:47-14:59. SA Durkin
+
+then turned off his recording device. SA Durkin testified that he turned his recorder
+
+off because he was finished with the investigation into the firearm and saw no reason
+
+to record the rest of the encounter. Hearing Tr. 96:10-25.
+
+      SA Durkin said he restarted the recording again after walking from the trailer
+
+to car. Hearing Tr. 97:03-15. When the recording began again, Det. Tapley was
+
+reading Mr. Leonard the Miranda warnings outside of the trailer. Mr. Leonard said
+
+
+                                          6
+he did not want to answer questions. Durkin Recording 16:00-16:13. Det. Tapley then
+
+told Mr. Leonard that he knew Mr. Leonard had a four-wheeler, that marijuana was
+
+stolen in Lisbon by someone with a four-wheeler, and that Ms. Bean said the
+
+marijuana in the house was stolen.4 Det. Tapley informed Mr. Leonard that Ms. Bean
+
+already consented to a search and that “we obviously know there’s marijuana here.”
+
+Durkin Recording 16:50-17:05. Det. Tapley told Mr. Leonard he could consent to a
+
+search of his home or the police would get a search warrant. Durkin Recording 17:05-
+
+17:10. Mr. Leonard asked what the search would be for, and Det. Tapley responded
+
+“to collect all the weed.” Durkin Recording 17:10-17:15. SA Durkin told Mr. Leonard
+
+that it was it was “highly likely” that they would get a warrant so the process was
+
+“just a formality,” “paperwork.” Durkin Recording 17:25-17:37. Det. Tapley chimed
+
+in, “So most likely we are going to get the search warrant because we have already
+
+seen the marijuana,” and added “we are here lawfully to talk about this gun.” Durkin
+
+Recording 17:38-17:55. Mr. Leonard responded, “So what was the whole reason to go
+
+in my house?” Durkin Recording 17:55-18:00. Det. Tapley responded:
+
+       Because we could hear movement and there was pot in there. And when
+       I talked to her at the door I said hey you told you were just smoking a
+       joint so when I said hey do you have any more pot in here? She goes yea
+       the whole house is filled with pot. So and its drying in the kitchen there’s
+       a bowl in the kitchen there’s a screen above. I mean it’s everywhere. You
+       know what I mean and she tells me Harley is in there and I go looking
+       for Harley obviously he’s hiding and that makes me able to go search for
+       him cause that puts us at risk. There’s pot in every room of the house.
+
+Durkin Recording 18:00-18:30.
+
+
+
+4       The Lisbon theft was never connected to the marijuana found at Mr. Leonard’s home. Hearing
+Tr. 46:02-47:02.
+
+
+                                                7
+      Pushed on the consent form, Mr. Leonard said, “I don’t want to sign that,” and
+
+he asked twice to be allowed to speak with Ms. Bean. Durkin Recording 17:15-17:20,
+
+19:00-19:10. Ms. Bean confirmed to Mr. Leonard that the officers already saw the
+
+marijuana when looking for Stanley. Durkin Recording 19:50-20:00. In total, the
+
+officers spoke with Mr. Leonard for approximately four and a half minutes about
+
+consent and the marijuana in the trailer before Mr. Leonard signed the form. Durkin
+
+Recording 16:45-21:08; Gov’t’s Ex. 9.
+
+      The officers then conducted a full search of the trailer and, as expected,
+
+recovered approximately 4.4 pounds of marijuana buds. Hearing Tr. 36:13-23. The
+
+officers were at Mr. Leonard’s residence for approximately two hours. Hearing Tr.
+
+115:10-19. “Toward the end of the search,” Det. Tapley noticed for the first time a
+
+shotgun on top of an entertainment center in the living area. Hearing Tr. 37:21-25.
+
+Next to it were five ammunition shells. SA Durkin recognized, based on his expertise,
+
+that the barrel of the gun was less than the legal requirement. The overall length of
+
+the shotgun was not under the legal limit. Gov’t’s Ex. 26; Hearing Tr. 88:06-10. Mr.
+
+Leonard agreed to forfeit the gun, which is now the focus of this motion. Mr. Leonard
+
+and Ms. Bean were issued a summons for the marijuana but not arrested.
+
+
+                                   DISCUSSION
+
+I.    Warrantless Entry and Search of a Home
+
+      The Fourth Amendment protects individuals from unreasonable searches and
+
+seizures by the government. U.S. Const. amend. IV. “[P]hysical entry of the home is
+
+the chief evil against which the wording of the Fourth Amendment is directed,” and,
+
+
+                                         8
+absent exigent circumstances, the government is required to obtain a warrant before
+
+entering a home. Payton v. New York, 445 U.S. 573, 585, 590 (1980). “Because the
+
+prophylaxis of the Fourth Amendment is at its zenith with respect to an individual’s
+
+home, a warrantless search of a private residence is presumptively unreasonable
+
+unless one of a few well-delineated exceptions applies.” United States v. Delgado-
+
+Perez, 867 F.3d 244, 251 (2017) (quoting United States v. Infante, 701 F.3d 386, 392
+
+(1st Cir. 2012); see also United States v. Martins, 413 F.3d 139, 146 (1st Cir. 2005).
+
+“On a motion to suppress evidence seized on the basis of a warrantless search, the
+
+presumption favors the defendant, and it is the government’s burden to show the
+
+legitimacy of the search.” Delgado-Perez, 867 F.3d at 251 (quoting United States v.
+
+Winston, 444 F.3d 115, 123-24 (1st Cir. 2006)).
+
+      Here, the Government argues that Det. Tapley’s initial search of the home was
+
+a “protective sweep,” justified “to ensure there was no threat lurking there.” Gov’t’s
+
+Opp’n 9. Mr. Leonard argues that there was no exigency that justified the officers’
+
+entry into the home. Mot. to Suppress 3.
+
+      Exigent circumstances present an exception to the warrant requirement in
+
+“those situations in which some compelling reason for immediate action excuses law
+
+enforcement officers from pausing to obtain a warrant.” Martins, 413 F.3d at 146.
+
+Examples of exigent circumstances include: (i) hot pursuit of a fleeing felon;
+
+(ii) threatened destruction of evidence; (iii) risk the suspect will escape undetected;
+
+(iv) threat posed by the suspect to the safety of police or the public; (v) and the need
+
+to give emergency aid. Id. at 146-47. At a hearing on the motion, the Government
+
+
+
+                                           9
+explicitly stated that officers were not acting on the threatened destruction of
+
+evidence—only on the threat posed by Mr. Stanley’s presence. Hearing Tr. 124:08-13.
+
+      The Government cites to United States v. Martins for the principle that “[i]n
+
+the interests of safety, law enforcement can conduct protective sweeps of areas that
+
+may harbor a threat.” Gov’t’s Opp’n 7. The Martins court found that an officer’s entry
+
+of an apartment without a warrant was justified where it determined that a young
+
+boy inside might be in danger. Id. at 148-49. The officer was responding to a nearby
+
+shooting, and there was a gunshot victim outside the apartment. The apartment was
+
+filled with marijuana smoke, and a boy who answered the door claimed to be home
+
+alone, but the officer had heard an adult voice when he initially knocked. Id. at 144,
+
+147-48.
+
+      The court in Martins analyzed the initial warrantless entry and then the
+
+subsequent protective sweep under different standards. Regarding entry based on an
+
+exigency, the court held that:
+
+      police, in an emergency situation, may enter a residence without a
+      warrant if they reasonably believe that swift action is required to
+      safeguard life or prevent serious harm. To rely upon the doctrine, the
+      government must show a reasonable basis, approximating probable
+      cause, for both the officers’ belief that an emergency exists and for
+      linking the perceived emergency with the area or place in which they
+      propose to intrude . . . . in light of the totality of the circumstances.
+
+Martins, 413 F.3d at 147; accord Infante, 701 F.3d at 392.
+
+      After finding that the initial entry was lawful due to concern for the child,
+
+Martins separately analyzed the legality of the protective sweep that followed.
+
+Martins, 413 F.3d at 148-49. At this step, the court applied the reasonable suspicion
+
+test for a protective sweep articulated by the Supreme Court in Maryland v. Buie,
+                                         10
+494 U.S. 325, 327 (1990). See Martins, 413 F.3d at 149. In Buie, the Court carved out
+
+an exception to the search warrant requirement for a “protective sweep,” defined as
+
+“a quick and limited search of premises, incident to an arrest and conducted to protect
+
+the safety of police officers or others,” that is “narrowly confined to a cursory visual
+
+inspection of those places in which a person might be hiding.” 494 U.S. 325, 327
+
+(1990). A protective sweep is justified only where officers can point to “articulable
+
+facts which, taken together with the rational inferences from those facts” warrant a
+
+belief “that the area swept harbor[s] an individual posing a danger.” Id. The
+
+justification to conduct a protective sweep endures “no longer than is necessary to
+
+dispel the reasonable suspicion of danger and in any event no longer than it takes to
+
+complete the arrest and depart the premises.” Id. at 335-36.
+
+      In Martins, the First Circuit noted that Buie was concerned with protective
+
+sweeps incident to arrest, but that protective sweeps logically could follow where
+
+police lawfully enter a home “either with a warrant or upon probable cause plus
+
+exigent circumstances.” 413 F.3d at 149-50 (citing United States v. Gould, 364 F.3d
+
+578, 584-87 (5th Cir. 2004) for the principle that “a protective sweep may be justified
+
+so long as police did not enter illegally”). Applying Buie, the Martins court concluded
+
+that the protective sweep was lawful because the officer’s initial entry was lawful
+
+under the emergency aid doctrine and because the evidence under the totality of the
+
+circumstances established that the unknown adult believed to be hiding in the
+
+apartment posed a threat to the officers on the scene. Id. at 151. This evidence
+
+included the location in a high-crime area, the recent shooting, the connection of the
+
+
+
+                                          11
+shooting to the apartment, the officer’s knowledge of gang behavior, and the evasive
+
+behavior of the adult behind the door. Id.
+
+       In this case, the officers were lawfully outside the door to request a consensual
+
+interview with Mr. Leonard. See United States v. Perez-Diaz, 848 F.3d 33, 39 (2017)
+
+(in conducting an investigation, “[a] police officer may approach and knock on a
+
+citizen’s front door, and request the opportunity to speak to the citizen . . . . The citizen
+
+does not have to answer or speak to the police officers, and if he does speak to the
+
+officers, he does not have to allow them into their homes.”). But the Government must
+
+establish that Det. Tapley lawfully entered the house under exigent circumstances
+
+and that his protective sweep was supported under the Buie standard.
+
+       The Government contends that Mr. Stanley’s presence in the house posed a
+
+threat to the officers. The circumstances identified by the Government supporting the
+
+perception of a threat were that: 1) the officers smelled cultivated marijuana and Ms.
+
+Bean confirmed there was “a lot” inside the trailer; 2) when the officers knocked, they
+
+heard “movement” inside, 3) Ms. Bean said that Mr. Stanley was in the trailer, and
+
+4) the officers knew that Mr. Stanley was a felon suspected of participating in an
+
+attempted straw purchase of a firearm at the Double Diamond two weeks prior. This
+
+volatile combination of a felon in a trailer with marijuana and possibly guns put the
+
+police at risk, according to the Government.
+
+       It is possible to envision a scenario where the police, lawfully at a doorstep,
+
+perceive such a significant threat from within a home as to create an officer safety
+
+
+
+
+                                             12
+justification for a warrantless entry based on exigent circumstances. The evidence
+
+presented at the hearing, however, falls short.
+
+      The analysis must focus on the facts that were known to the police at the
+
+moment that Det. Tapley crossed the threshold into the house without a warrant. It
+
+is true that Det. Tapley knew that Mr. Stanley was a felon, but he was aware that
+
+Mr. Stanley’s felony conviction was for receiving stolen property as opposed to some
+
+other violent offense. Further, the police did not have a warrant to arrest Mr. Stanley,
+
+and SA Durkin noted at the scene that the police “did not have anything on him.” One
+
+week prior, Det. Tapley himself had arrested Mr. Stanley on warrants for unpaid
+
+fines without any trouble. There is no evidence suggesting that Mr. Stanley was
+
+violent or otherwise unstable. While it is true that the police were investigating an
+
+attempted straw purchase of a firearm for Mr. Stanley, Det. Tapley knew that Mr.
+
+Leonard had not been able to purchase the firearm at the Double Diamond. There is
+
+no evidence suggesting that Mr. Stanley possessed a gun inside the trailer. See
+
+Delgado-Perez, 867 F.3d at 256 (“[L]ack of information cannot provide an articulable
+
+basis upon which to justify a protective sweep.”).
+
+      Furthermore, Det. Tapley’s conduct is inconsistent with the Government’s
+
+claim that Mr. Stanley posed a threat to officer safety. Det. Tapley did not even tell
+
+SA Durkin that he was going into the trailer when he initially entered. Nor did Det.
+
+Tapley call for any back up. Det. Tapley testified that he “hoped” he had drawn his
+
+weapon, but he could not recall. I find it difficult to believe that Det. Tapley would
+
+
+
+
+                                          13
+not have recalled drawing his weapon if he had, and I believe it is more likely than
+
+not that he did not draw his weapon.
+
+      Det. Tapley’s conduct after he went into the trailer also undermines the
+
+Government’s claim that the police perceived a threat to their safety. As the recording
+
+reveals, Det. Tapley’s tone was colloquial as he called Mr. Stanley by his first name:
+
+“Harley come out. Harley! Where are ya?” Det. Tapley came in and out of the trailer
+
+several times to check in with SA Durkin, but he never warned SA Durkin to move
+
+out of range or asked him for help in the search for Mr. Stanley. Tellingly, Det. Tapley
+
+asked Ms. Bean to come inside to make sure he had not missed a hiding place. No
+
+police officer fearing an ambush would involve an innocent bystander.
+
+      It is clear from the recording that SA Durkin did not perceive any exigency
+
+either. When SA Durkin heard Det. Tapley conducting his search and learned that
+
+Mr. Stanley was present, he responded, “Oh, ok,” and then changed the subject to
+
+MC’s bad behavior. Approximately a minute later, SA Durkin observed to Det. Tapley
+
+that he could hear Mr. Stanley in the trailer, and then he immediately resumed trying
+
+to interview Mr. Leonard about the suspected straw purchase. If SA Durkin believed
+
+that Mr. Stanley posed a threat, I am quite confident that he would have led MC to
+
+safety. Instead, SA Durkin, Mr. Leonard, and MC stayed outside the trailer within a
+
+few feet of a bedroom window. When Officer St. Amant arrived, SA Durkin told him
+
+that he could find Det. Tapley inside the trailer, but SA Durkin did not provide Officer
+
+St. Amant with any warning regarding the possible presence of Mr. Stanley.
+
+
+
+
+                                          14
+       On the record before me, the Government has not pointed to “articulable facts
+
+which, taken together with the rational inferences from those facts” support a belief
+
+that concerns of officer safety justified the warrantless entry into the home, or “that
+
+the area swept harbored an individual posing a danger.” Buie, 494 U.S. at 327.5 The
+
+warrantless entry and protective sweep were unjustified and violated Mr. Leonard’s
+
+Fourth Amendment protection from unreasonable search.
+
+II.    Tainted Consent
+
+       Having found that the protective sweep violated the Fourth Amendment, I turn
+
+to whether Mr. Leonard’s consent to search his home was tainted by the prior
+
+unlawful protective sweep. Mr. Leonard argues that the shotgun and ammunition
+
+casings discovered during the consented-to search must be suppressed as the fruit of
+
+the earlier unlawful search. The Government responds that Mr. Leonard and Ms.
+
+Bean voluntarily consented to the search.
+
+       Consent to search is a valid exception to the warrant requirement where the
+
+government can prove by a preponderance of the evidence that the consent was
+
+voluntary under the totality of circumstances. Perez-Diaz, 848 F.3d at 39. Where
+
+consent to search was given after an unlawful search, the First Circuit has
+
+“emphasized the importance of determining whether the prior illegality significantly
+
+
+
+5       I further note that even if the Government had satisfied its burden to show an exigency to
+enter the home and to secure Mr. Stanley upon their arrival, the sweep as conducted far exceeded the
+permissible scope of a justified protective sweep. Det. Tapley spent approximately fifteen minutes
+conducting his sweep of the 480 square foot trailer. This was not “a quick and limited search of
+premises,” or “a cursory visual inspection of those places in which a person might be hiding.” Buie, 494
+U.S. at 327. Moreover, Officer St. Amant and SA Durkin crossed the threshold without any purpose to
+help in the sweep. Rather, they agreed among themselves that Mr. Stanley was gone and they did not
+“have anything on him anyways.”
+
+
+                                                  15
+influenced or played a significant role in the subsequent consent.” Delgado-Perez, 867
+
+F.3d at 257. Suppression of evidence obtained after an illegal search turns on whether
+
+the evidence was obtained “by exploitation of that illegality or instead by means
+
+sufficiently distinguishable to be purged of the primary taint.” Id. at 256-57 (quoting
+
+United States v. Finucan, 708 F.2d 838, 843 (1st Cir. 1983)). Factors include temporal
+
+proximity, intervening circumstances, and “the purpose and flagrancy of the official
+
+misconduct.” Id. at 257.
+
+      In Delgado-Perez, the First Circuit found a causal link between an unlawful
+
+search and later consent to search based on three factors. First, the court determined
+
+that there was no evidence that the officers would have asked the arrestee if there
+
+were any weapons in the residence; second, there was no evidence the arrestee would
+
+have offered up that information; and third, the government made no argument that
+
+the consent was not tainted fruit of the unlawful sweep. Id. at 257-58. The court
+
+concluded that “we do not see how [the defendant’s] consent to do the full-residence
+
+search was not significantly influenced by the fact that [the defendant] knew the
+
+protective sweep had occurred.” Id. at 259.
+
+      Here, like in Delgado-Perez, the officers were not asking Mr. Leonard about
+
+weapons he possessed. They knew Mr. Leonard had no felony record that would limit
+
+his right to own a firearm, and their initial suspicion was about his failed attempt to
+
+purchase a gun for Mr. Stanley. As the events evolved, their focus broadened to
+
+include the cultivated marijuana, but they still did not touch on possession of a
+
+firearm.
+
+
+
+                                          16
+       There is also no evidence that Mr. Leonard would have told the officers about
+
+his shotgun. When asked by SA Durkin about why he would have wanted to purchase
+
+a handgun, Mr. Leonard did not mention that he already owned a shotgun. Instead,
+
+he returned again to the subject of marijuana in his house, saying “that’s what I’m
+
+worried about.” Durkin Recording 09:00-09:30.
+
+       And third, the Government has not addressed the taint of the unlawful search.
+
+Rather, the Government maintains that Mr. Leonard and Ms. Bean’s knowledge that
+
+the officers had seen the marijuana in the house goes to the voluntariness of their
+
+consent. Gov’t’s Opp’n 11-14. The Government’s theory is that this knowledge
+
+afforded Mr. Leonard and Ms. Bean “a fair appraisal” or a “reasonable assessment”
+
+of their choice between search through consent or through the slower, but nearly as
+
+certain process of obtaining a warrant. Gov’t’s Opp’n 11, 13. “[B]y the time [Mr.
+
+Leonard] consented to the search,” the Government states, “he knew that Durkin and
+
+Tapley had ample reason to believe that he illegally possessed a substantial amount
+
+of marijuana at least.” Gov’t’s Opp’n 12-13.
+
+       I find that the prior unlawful search “significantly influenced or played a
+
+significant role in the subsequent consent.” See Delgado-Perez, 867 F.3d at 257. Mr.
+
+Leonard’s consent to search was tainted by the unjustified entry and protective
+
+sweep, and suppression is warranted for the fruits of that search.6 Id. at 256-57.
+
+
+
+
+6       Finding Mr. Leonard’s consent invalid, the validity of Ms. Bean’s consent becomes non-
+dispositive. “[A] warrantless search of a shared dwelling for evidence over the express refusal of
+consent by a physically present resident cannot be justified as reasonable as to him on the basis of
+consent given to the police by another resident.” Georgia v. Randolph, 547 U.S. 103, 120 (2006).
+Nonetheless, it is evident that Ms. Bean’s consent was also tainted by the unlawful entry and sweep.
+
+                                                17
+III.   Inevitable Discovery Doctrine
+
+       Finally, the Government contends that the inevitable discovery doctrine
+
+precludes suppression. Evidence discovered by unlawful means may yet be admitted
+
+where the evidence “would inevitably have been discovered without reference to the
+
+police error or misconduct.” Nix v. Williams, 467 U.S. 431, 448 (1984). The
+
+Government bears the burden on this issue, and must show “by reference to
+
+demonstrated historical facts and by a preponderance of the evidence that the
+
+information or item would inevitably have been discovered by lawful means.”
+
+Delgado-Perez, 867 F.3d at 258 (citing United States v. Infante-Ruiz, 13 F.3d 498, 503
+
+(1st Cir. 1994)). Courts are instructed to evaluate whether:
+
+       (i) the lawful means of its discovery are independent and would
+       necessarily have been employed; (ii) discovery by that means is in fact
+       inevitable, and (iii) application of the doctrine in a particular case will
+       not sully the prophylaxis of the Fourth Amendment.
+
+United States v. Zapata, 18 F.3d 971, 978 (1st Cir. 1994).
+
+       The entire sum and substance of the Government’s inevitable discovery
+
+argument is contained in the following paragraph:
+
+       If they had not consented, Tapley and Durkin would have been able to
+       obtain a search warrant and inevitably would have found the shotgun.
+       By the time that Tapley asked Bean for consent, he had enough lawfully
+       obtained information to obtain a warrant to search for evidence of
+       unlawful trafficking in marijuana at least. Under these circumstances,
+       applying the inevitable discovery doctrine will not undermine the
+       purposes of the Fourth Amendment suppression doctrine because there
+       was no violation of the Fourth Amendment up to that point to deter. See
+       Hughes, 640 F.3d at 420.
+
+
+
+She signed the consent form in the presence of at least two officers who had already spent a
+considerable amount of time in her home, in violation of her Fourth Amendment rights.
+
+
+                                            18
+Gov’t’s Opp’n 13-14.
+
+       The Government contends that “[b]y the time that Tapley asked Bean for
+
+consent,” he had enough lawfully obtained information to obtain a warrant to search
+
+for evidence of unlawful trafficking in marijuana. But the critical point at which to
+
+assess the evidence known to the police is not the moment at which Det. Tapley
+
+sought consent but rather the moment Det. Tapley first crossed the threshold into
+
+the trailer. At that point, the officers had smelled cultivated marijuana, they had
+
+heard the sound of movement within the house after they knocked on the door,7 Mr.
+
+Leonard had exited out the backdoor, and Ms. Bean had confirmed that there was “a
+
+lot” of marijuana in the trailer. Assuming, arguendo, that this evidence was sufficient
+
+to establish probable cause for a search for “evidence of unlawful trafficking in
+
+marijuana,” the Government made no attempt to show that the officers actually
+
+would have pursued a warrant based on the evidence they possessed at that moment.
+
+There was also no testimony from the police that they “would necessarily” have
+
+obtained a warrant. Zapata, 18 F.3d at 978. And although Det. Tapley and SA Durkin
+
+told Ms. Bean and Mr. Leonard that they would get a warrant to seize the marijuana,
+
+those statements were made only after Det. Tapley had entered the residence and
+
+seen just how much marijuana was there.
+
+       Additionally, the Government’s reasoning that application of the inevitable
+
+discovery doctrine will not encourage police misconduct because there was no police
+
+
+
+7       The sound of movement after the police knocked adds little. In such a small trailer, one would
+expect to hear movement if someone got up to answer the door. The officers did not testify that there
+was anything unusual about the sound.
+
+
+                                                 19
+misconduct to deter is circular. The application of the inevitable discovery doctrine
+
+here would encourage police misconduct, particularly where, as here, the police had
+
+no arrest warrant for anybody inside the home, there was no parallel effort being
+
+made to get a warrant, and no warrant was later sought. See United States v.
+
+Silvestri, 787 F.2d 736, 745 (1st Cir. 1986) (discussing various independent and
+
+inevitable paths to information and cautioning that admission of evidence under the
+
+inevitability doctrine where no warrant was pursued “substantially weakens the
+
+protection provided by the Fourth Amendment”).
+
+      The only case cited by the Government, United States v. Hughes, 640 F.3d 428
+
+(1st Cir. 2011), is very distinguishable. In Hughes, the officers conducted a knock and
+
+talk seeking information to procure a warrant, and they had support standing by to
+
+apply for a warrant. A warrant to search the defendant’s home and computer issued
+
+the following day. Id. at 440-41.
+
+      Delgado-Perez, cited by the Defendant, is much closer to the facts of this case.
+
+It instructs on the application of the inevitable discovery doctrine where the
+
+defendant consented to search only after the police had noticed incriminating
+
+evidence during a protective sweep. As here, the government in Delgado-Perez failed
+
+to make the case that the defendant “would inevitably have freely consented to a
+
+search of his home—thereby resulting in the discovery of the magazine and the loaded
+
+firearm—even if there had been no unlawful protective sweep.” Delgado-Perez, 867
+
+F.3d at 258. Ms. Bean and Mr. Leonard were both heavily influenced in their
+
+knowledge that the officials had already seen the marijuana in the house. Moreover,
+
+
+
+                                          20
+the evidence suggests that Mr. Leonard would not have otherwise freely consented to
+
+a search of his home. Even knowing that the officers had spent approximately fifteen
+
+minutes in the house, Mr. Leonard still hesitated for approximately four and a half
+
+more minutes before he signed the consent form. He told the officers he did not want
+
+to answer questions. He twice requested to confer with Ms. Bean. He asked about the
+
+purpose of the search and was told the purpose was “to collect all the weed” that the
+
+officers had already seen. He asked why the officers had already gone in his house
+
+and was told that it was because Mr. Stanley was inside, and pot was “everywhere.”
+
+His consent cannot be decoupled from his knowledge that the officers had just seen
+
+the marijuana.
+
+      Because the Government has not met its burden to show that it would have
+
+necessarily obtained a warrant on the information known to the police at the time
+
+Det. Tapley entered the trailer or that Mr. Leonard’s consent was inevitable apart
+
+from the prior impermissible search, I find that the inevitable discovery doctrine does
+
+not apply.
+
+
+                                   CONCLUSION
+
+       For the reasons stated above, I GRANT the motion to suppress.
+
+
+
+SO ORDERED.
+
+                                               /s/ Nancy Torresen
+                                               United States Chief District Judge
+
+Dated this 30th day of October, 2017.
+
+
+
+                                          21
+

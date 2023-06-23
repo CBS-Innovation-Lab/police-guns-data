@@ -1,0 +1,272 @@
+Case 2:15-cr-00010-DBH Document 225 Filed 02/19/21 Page 1 of 6              PageID #: 1178
+
+
+
+
+                            UNITED STATES DISTRICT COURT
+                                 DISTRICT OF MAINE
+
+CHRISTIAN DENT,                           )
+                                          )
+              Petitioner,                 )
+                                          )
+       v.                                 )      2:15-cr-00010-DBH-1
+                                          )
+UNITED STATES OF AMERICA,                 )
+                                          )
+              Respondent                  )
+
+
+            RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+       Petitioner moves pursuant to 28 U.S.C. § 2255 to vacate, set aside or correct his
+
+sentence. (Motion, ECF No. 211.) The Government asks the Court to dismiss the matter
+
+because Petitioner filed the motion after the statute of limitations expired. (Response, ECF
+
+No. 219.)
+
+       Following a review of Petitioner’s section 2255 motion, the Government’s response,
+
+and the record, I recommend the Court dismiss the motion.
+
+                 FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+       In April 2015, the grand jury issued a superseding indictment against Petitioner for
+
+conspiracy to distribute and possess with intent to distribute cocaine and cocaine base in
+
+violation of 21 U.S.C. §§ 846, 841(a)(1) and 841(b)(1)(B), possession with intent to
+
+distribute cocaine base in violation of 21 U.S.C. §§ 841(a)(1) and 841(b)(1)(B), possession
+
+of a firearm by a felon in violation of 18 U.S.C. §§ 922(g)(1) and 924(a)(2), and use of a
+
+person under age eighteen in drug operations in violation of 21 U.S.C. § 861(a)(1).
+
+(Superseding Indictment, ECF No. 68.) After an unsuccessful attempt to suppress certain
+Case 2:15-cr-00010-DBH Document 225 Filed 02/19/21 Page 2 of 6              PageID #: 1179
+
+
+
+
+evidence, Petitioner pled guilty to the conspiracy charge in February 2016. (Order Denying
+
+Motion to Suppress, ECF No. 109; Change of Plea Hearing, ECF No. 135.)
+
+       In July 2016, the Court sentenced Petitioner to 114 months in prison, to be followed
+
+by five years of supervised release. (Judgment, ECF No. 170.) Petitioner appealed based
+
+on the suppression order; the First Circuit affirmed in August 2017. United States v. Dent,
+
+867 F.3d 37 (1st Cir. 2017). Petitioner filed his § 2255 motion in June 2020. (Motion,
+
+ECF No. 211.)
+
+                                       DISCUSSION
+
+       Title 28 U.S.C. § 2255(f) provides:
+
+       A 1-year period of limitation shall apply to a motion under this section. The
+       limitation period shall run from the latest of –
+
+          (1) the date on which the judgment of conviction becomes final;
+
+          (2) the date on which the impediment to making a motion created by
+          governmental action in violation of the Constitution or laws of the United
+          States is removed, if the movant was prevented from making a motion by
+          such governmental action;
+
+          (3) the date on which the right asserted was initially recognized by the
+          Supreme Court, if that right has been newly recognized by the Supreme
+          Court and made retroactively applicable to cases on collateral review; or
+
+          (4) the date on which the facts supporting the claim or claims
+          presented could have been discovered through the exercise of due
+          diligence.
+
+When there are multiple claims at issue, “the period of limitation in 28 U.S.C. § 2255(f)
+
+should be applied on a claim-by-claim basis.” Capozzi v. United States, 768 F.3d 32, 33
+
+(1st Cir. 2014).
+
+
+
+                                             2
+Case 2:15-cr-00010-DBH Document 225 Filed 02/19/21 Page 3 of 6                   PageID #: 1180
+
+
+
+
+           Petitioner does not allege, nor does the record reflect, that the Government imposed
+
+an impediment to a timely filing; Petitioner’s claim does not rely on a right newly-
+
+recognized by the Supreme Court and made retroactively applicable to cases on collateral
+
+review;1 and Petitioner does not allege newly-discovered facts in support of his section
+
+2255 claims. Because paragraphs (2), (3), and (4) do not apply, therefore, the limitations
+
+period began to run when Petitioner’s judgment of conviction became final.
+
+           The Court entered Petitioner’s judgment of conviction on July 19, 2016. (Judgment,
+
+ECF No. 170.) The First Circuit upheld the judgment on August 8, 2017. (United States
+
+v. Dent, 867 F.3d 37, 38 (1st Cir. 2017). Petitioner then had ninety days to seek a writ of
+
+certiorari from the United States Supreme Court. Sup. Ct. R. 13. Petitioner’s judgment
+
+became final following the expiration of the ninety-day period on July 7, 2017.
+
+See Clay v. United States, 537 U.S. 522, 532 (2003) (“We hold that, for federal criminal
+
+defendants who do not file a petition for certiorari with this Court on direct review,
+
+§ 2255’s one-year limitation period starts to run when the time for seeking such review
+
+expires”). The limitation period for filing a section 2255 motion to challenge the judgment
+
+expired one year later, on July 7, 2018. See Rogers v. United States, 180 F.3d 349, 355
+
+n.13 (1st Cir. 1999) (“‘When a statute of limitations is measured in years, the last day for
+
+instituting the action is the anniversary date of the start of the limitations period.’”) (quoting
+
+Ross v. Artuz, 150 F.3d 97, 103 (2d Cir. 1998)). Petitioner filed his motion on June 15,
+
+2020, nearly two years after the limitations period expired.
+
+
+
+1
+    See infra.
+
+                                                3
+Case 2:15-cr-00010-DBH Document 225 Filed 02/19/21 Page 4 of 6                PageID #: 1181
+
+
+
+
+       Petitioner argues his filing was timely under § 2255(f)(3) as a result of the Supreme
+
+Court’s June 21, 2019 decision in Rehaif v. United States, 139 S. Ct. 2191 (2019). Under
+
+18 U.S.C. § 922(g), it is unlawful for certain persons, including individuals with prior
+
+felony convictions, id. § 922(g)(1), to possess a firearm or ammunition. The statute
+
+contains three elements: (1) a status element (belonging to one of the listed categories of
+
+persons), (2) a possession element, and (3) a jurisdictional element (in or affecting
+
+commerce). Rehaif, 139 S. Ct. at 2196. Before 2019, courts interpreted “knowingly” in
+
+the penalty provision (§ 924(a)(2)) to apply only to the possession element, but under
+
+Rehaif, “knowingly” also applies to the status element. Id. “To convict a defendant, the
+
+Government therefore must show that the defendant knew he possessed a firearm and also
+
+that he knew he had the relevant status when he possessed it.” Id. at 2194.
+
+       The Rehaif decision applies retroactively to initial postconviction petitions, and the
+
+uniform and longstanding authority that Rehaif reversed can provide cause to excuse a
+
+petitioner’s failure to raise the issue earlier, see Brake v. United States, No. 2:13-CR-
+
+00160-GZS, 2021 WL 388439, at *3–4, 10 (D. Me. Feb. 3, 2021); Macarthur v. United
+
+States, No. 1:12-CR-00084-JAW, 2020 WL 7079134, at *11 (D. Me. Dec. 3, 2020). The
+
+date of the Rehaif decision is irrelevant here, however, because Petitioner’s ground for
+
+relief is not based on an asserted error related to a knowledge-of-status issue within §§
+
+922(g) and 924(a). Petitioner was not convicted of an offense under §§ 922(g) and 924(a).
+
+The felon-in-possession charge against Petitioner was dismissed when he plead guilty to
+
+the drug distribution conspiracy charge. Petitioner challenges a guideline sentencing
+
+
+
+                                             4
+Case 2:15-cr-00010-DBH Document 225 Filed 02/19/21 Page 5 of 6                                PageID #: 1182
+
+
+
+
+enhancement unrelated to the felon-in-possession statutes. For those reasons, Petitioner
+
+does not assert a newly recognized right and Section 2255(f)(3) does not apply.2
+
+        In sum, because Petitioner did not file the § 2255 motion within the applicable
+
+limitation period, and because equitable tolling does not apply,3 dismissal is warranted.
+
+                                                CONCLUSION
+
+        Based on the foregoing analysis, I recommend that the Court dismiss Petitioner’s
+
+motion for habeas relief under 28 U.S.C. § 2255. I further recommend that the Court deny
+
+a certificate of appealability pursuant to Rule 11 of the Rules Governing Section 2255
+
+Cases because there is no substantial showing of the denial of a constitutional right within
+
+the meaning of 28 U.S.C. § 2253(c)(2).
+
+                                                  NOTICE
+
+               A party may file objections to those specified portions of a magistrate
+        judge’s report or proposed findings or recommended decisions entered
+        pursuant to 28 U.S.C. § 636(b)(1)(B) for which de novo review by the district
+        court is sought, together with a supporting memorandum, within fourteen
+        (14) days of being served with a copy thereof. A responsive memorandum
+        shall be filed within fourteen (14) days after the filing of the objection.
+
+2
+  Petitioner appears to maintain that Rehaif established a principle that generally requires the Government
+to prove a defendant knew of any relevant status in order for that status to have a legal consequence.
+Petitioner appears to extend that argument not only to statutes in addition to the felon-in-possession statutes,
+but also to the advisory sentencing guidelines. Petitioner’s argument suggests that the guideline
+enhancement for employing a minor in the drug distribution scheme required the Government to prove that
+Petitioner knew that the individual was under the age of eighteen when Petitioner employed that individual
+to distribute controlled substances. Petitioner’s argument fails in that it would extend Rehaif well beyond
+its scope, which involved the statutory interpretation of the specific language in §§ 922(g) and 924(a).
+3
+  “[T]he AEDPA statute of limitations defense is not jurisdictional” and “is subject to equitable tolling in
+appropriate cases.” Holland v. Florida, 560 U.S. 631, 645 (2010) (internal quotations omitted). “To obtain
+tolling . . . a petitioner bears a substantial burden to establish . . . that he exercised reasonable diligence in
+trying to preserve his rights but was prevented from timely filing by extraordinary circumstances.”
+Dominguez v. Duval, 527 F. App’x 38, 40 (1st Cir. 2013); see also Trapp v. Spencer, 479 F.3d 53, 61 (1st
+Cir. 2007) (discussing illustrative cases). “The diligence prong covers those affairs within the petitioner’s
+control, while the extraordinary-circumstances prong covers matters outside his control.” Blue v. Medeiros,
+913 F.3d 1, 8 (1st Cir. 2019). Petitioner does not allege any circumstances warranting equitable tolling.
+
+                                                        5
+Case 2:15-cr-00010-DBH Document 225 Filed 02/19/21 Page 6 of 6                PageID #: 1183
+
+
+
+
+             Failure to file a timely objection shall constitute a waiver of the right
+      to de novo review by the district court and to appeal the district court’s order.
+
+
+                                                  /s/ John C. Nivison
+                                                  U.S. Magistrate Judge
+
+Dated this 19th day of February, 2021.
+
+
+
+
+                                             6
+

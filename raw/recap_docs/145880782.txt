@@ -1,0 +1,532 @@
+        Case 1:07-cr-10195-RWZ Document 273 Filed 11/27/19 Page 1 of 11
+
+
+
+                            UNITED STATES DISTRICT COURT
+                             DISTRICT OF MASSACHUSETTS
+
+
+UNITED STATES OF AMERICA                           )
+                                                   )
+       v.                                          )   Criminal No. 07-10195-RWZ
+                                                   )
+PASCUAL LUNA                                       )
+
+
+
+     GOVERNMENT’S PRELIMINARY REQUEST FOR SUMMARY DISMISSAL
+
+
+The United States of America, by its undersigned counsel, hereby opposes the Amended Petition
+
+filed by Pascual Luna under 28 U.S.C. § 2255. For the following reasons, the petition should be
+
+summarily denied.
+
+                                        BACKGROUND
+
+       On May 22, 2009 Luna was found guilty of one count of being a felon in possession of a
+
+firearm and ammunition in violation of 18 U.S.C. §922(g)(1), one count of assaulting a federal
+
+officer in violation of 18 U.S.C. §111, and one count of using a firearm during a crime of
+
+violence in violation of 18 U.S.C. § 924(c)(1)(A). On August 26, 2009 this Court sentenced
+
+Luna to 240 months in prison. Luna appealed to the First Circuit Court of Appeals, who
+
+affirmed his conviction and sentence. On December 11, 2012 Luna filed his initial petition
+
+seeking post-conviction relief under 21 U.S.C. § 2255. On January 6, 2014 petitioner filed a
+
+supplemental pleading to his initial § 2255, alleging that this court improperly applied the career
+
+offender enhancement of the ACCA to his sentence. The Court considered this motion in light
+
+of the Supreme Court’s decision in Descamps v. United States, 133 S. Ct. 2278 (2013) and
+
+granted this supplemental pleading, allowing for resentencing. This Court denied the remaining
+
+claims in that motion, all of ineffective assistance of counsel. Luna neither appealed that denial
+           Case 1:07-cr-10195-RWZ Document 273 Filed 11/27/19 Page 2 of 11
+
+
+
+nor sought permission from a Court of Appeals to filed this second successive § 2255 motion.
+
+Petitioner now seeks to “reverse his conviction” and be resentenced subsequent to an evidentiary
+
+hearing.
+
+       The court should summarily dismiss Luna’s petition for reasons: 1) this petition is not
+
+timely; 2) petitioner did not receive permission from a Court of Appeals to file this second or
+
+successive § 2255 motion; 3) petitioner’s new challenges to his sentence are procedurally
+
+defaulted; and 4) Luna’s Rehaif claim is meritless.
+
+       I.       TIMELINESS
+
+       A § 2255 motion must be filed within one year of the date on which the judgement of
+
+conviction becomes final. 28 U.S.C. § 2255(f)(1). Petitioner was resentenced on December 18,
+
+2014. There are three other situations that trigger a reset of the one-year deadline, 1) when an
+
+impediment to making a motion created by unconstitutional governmental action is removed, 2)
+
+when a right is newly recognized by the Supreme Court and made retroactively applicable to
+
+cases on collateral review, and 3) when facts supporting the claims presented could have been
+
+discovered through the exercise of due diligence, or when there are newly discovered facts. 28
+
+U.S.C. § 2255(f)(2)-(4).
+
+       As petitioner references no governmental action creating an impediment, no new right
+
+recognized by the Supreme Court, and no newly discovered facts, the one-year period of
+
+limitations must begin on the date when the judgment of his conviction becomes final. The
+
+strongest argument petitioner has is that the court should consider his conviction final on the date
+
+of his resentencing, pursuant to a supplement to his initial § 2255 motion, which was filed on
+
+December 11, 2012. The supplement was filed on January 6, 2014. This resentencing, however,
+
+took place on December 18, 2014, over four years before the present § 2255 motion. This
+
+
+
+                                                 2
+        Case 1:07-cr-10195-RWZ Document 273 Filed 11/27/19 Page 3 of 11
+
+
+
+motion was filed three years after petitioner’s one-year threshold expired, making it untimely.
+
+As such, it must be dismissed.
+
+        II.     CERTIFICATION
+
+        Section 2255(h), Title 28, United States Code, states that “[a] second or successive
+
+motion must be certified as provided in section 2244 by a panel of the appropriate court of
+
+appeals to contain 1) newly discovered evidence that, if proven and viewed in light of the
+
+evidence as a whole, would be sufficient to establish by clear and convincing evidence that no
+
+reasonable factfinder would have found the movant guilty of the offence; or 2) a new rule of
+
+constitutional law.” Certification from the First Circuit is required for the district court to have
+
+jurisdiction to consider a second or successive § 2255 motion. See Pratt v. United States, 129
+
+F.3d 54, 57 (1st Cir. 1997) (failure to obtain pre-clearance strips the district court of jurisdiction).
+
+As petitioner did not receive a certificate of appealability, or even file a notice of appeal
+
+subsequent to the denial of his initial § 2255 motion, this court must dismiss petitioner’s
+
+unauthorized second or successive § 2255 petition.
+
+        III.    LUNA’S NEW ARGUMENTS ARE PROCEDURALLY BARRED
+
+        The petitioner raises new claims in his amended § 2255 motion, which are procedurally
+
+defaulted. See docket entry #267, Amended Petition. He argues that his trial counsel was
+
+ineffective for failing toobject to the career offender designation (“Claim 1”); ineffective for
+
+failing to request that the court define of elements of the offense (“Claim 2”) ; that trial counsel
+
+was ineffective for failing to object to jury instructions that constructively amended or altered the
+
+indictment (“Claim 3”); ineffective for failing to properly object at the resentencing (“Claim 4”);
+
+and a claim the his conviction should be overturned due to the Rehaif decision (“Claim 5”).
+
+
+
+
+                                                   3
+          Case 1:07-cr-10195-RWZ Document 273 Filed 11/27/19 Page 4 of 11
+
+
+
+          Where a defendant has procedurally defaulted a claim by failing to raise it during his
+
+criminal case and then on direct appeal, he may raise it in a §2255 petition only if he can first
+
+demonstrate both “cause” and “actual prejudice,” or by showing that he is “actually innocent.”
+
+Bousley v. United States, 523 U.S. 614, 622 (1998); Bucci v. United States, 662 F.3d 18, 28 (1st
+
+Cir. 2011). Because there is no suggestion here that Luna was innocent of the offense of
+
+conviction, the Court need only deal with “cause” and with “prejudice.”
+
+                     1. Luna cannot establish cause
+
+          In Murray v. Carrier, 477 U.S. 478, 488 (1986), the Supreme Court explained that “the
+
+existence of cause for a procedural default must ordinarily turn on whether the prisoner can show
+
+that some objective factor external to the defense impeded counsel’s efforts to comply with the
+
+. . . procedural rule” that was violated. “Cause” excusing the failure to raise a legal claim may be
+
+demonstrated where “a constitutional claim is so novel that its legal basis is not reasonably
+
+available to counsel.” See Reed v. Ross, 468 U.S. 1, 16 (1984). Novelty in this context requires
+
+more than a showing that circuit precedent foreclosed the claim at the time of direct review. See
+
+Engle v. Isaac, 456 U.S. 107, 130 n.35 (1982) (“futility cannot constitute cause if it means
+
+simply that a claim was unacceptable to that particular court at that particular time.”). The
+
+question of whether a claim’s “novelty” amounts to cause for failing to raise it on direct review
+
+is not “whether subsequent legal developments have made counsel’s task easier, but whether at
+
+the time of the default the claim was ‘available’ at all.” Smith v. Murray, 477 U.S. 527, 537
+
+(1986).
+
+          Here, Luna offers no rationale for his failure to raise Claim 1 or Claim 2 on appeal or in
+
+his initial § 2255 motion. The only reason he gives for failure to raise this claim is that his
+
+
+
+
+                                                   4
+        Case 1:07-cr-10195-RWZ Document 273 Filed 11/27/19 Page 5 of 11
+
+
+
+appellate counsel was ineffective. There is no suggestion of legal novelty and both matters are
+
+historically available on both direct and collateral appeal.
+
+               2.      Luna cannot establish “actual prejudice,” i.e., that his predicate
+                       offenses were not “crimes of violence”
+
+       While a lack of cause alone constitutes sufficient grounds for denial of Luna’s motion,
+
+Luna also has failed to establish actual prejudice. In order to excuse a procedural default, a
+
+prisoner must not only demonstrate “cause,” but also must demonstrate that he was “actually
+
+prejudiced” by the error of which he complains. See Bousley, 523 U.S. at 622; Frady, 456 U.S.
+
+at 170. Although the courts have typically eschewed a single definition of “actual prejudice,”
+
+some guidelines have emerged. First, “actual prejudice” requires more than the mere possibility
+
+of prejudice: it requires a showing that the alleged error “worked to [defendant’s] actual and
+
+substantial disadvantage.” Frady, 456 U.S. at 170. Second, the “actual prejudice” standard
+
+requires the prisoner who files a § 2255 petition to bear a greater burden than he would under the
+
+plain-error standard applicable to forfeited claims on direct review. See Frady, 456 U.S. at 166;
+
+Ramirez-Burgos v. United States, 673 F.3d 3, 10 (1st Cir. 2012).
+
+       A § 2255 motion resting on claims of ineffective assistance of counsel must make the
+
+Strickland showings, that counsel’s representation fell below an objective standard of
+
+reasonableness and that such errors had an adverse effect on the defense, by a preponderance of
+
+the evidence. Lema v. United States, 987 F.2d 48, 51 (1st Cir. 1993) (citing Strickland v.
+
+Washington, 466 U.S. 588 (1984)); Barrett v. United States, 965 F.2d 1184, 1186 (1st Cir. 1992).
+
+       In this § 2255 motion petitioner presents no evidence as to Claim 1-4. While petitioner
+
+does include an affidavit with this filing, it addresses only counsel’s performance at his
+
+sentencing. See Luna Affidavit at 1-10. Claims 1 and 2 involve jury instructions. As petitioner
+
+does not make a single mention of his trial aside from his bald assertions of ineffective
+
+                                                  5
+        Case 1:07-cr-10195-RWZ Document 273 Filed 11/27/19 Page 6 of 11
+
+
+
+assistance, petitioner cannot even come close to meeting the Strickland by a preponderance of
+
+the evidence. As such, petitioner does not show actual prejudice and thus cannot raise these
+
+claims in his § 2255 motion.
+
+       IV.     THE REHAIF CLAIM
+
+               1. Procedural
+
+       The defendant’s most recent complaint, Claim 5, raises a claim under Rehaif v. United
+
+States, 139 S. Ct. 2191, 204 L. Ed. 2d 594 (2019). See docket entry #267, Amended Petition. In
+
+particular, the defendant contends that Rehaif applies to his May 1, 2007 possession of a firearm
+
+conviction by a felon and subsequent conviction on May 22, 2009. See Presentence Report
+
+(“PSR”) at paragraphs 1-4. He goes on to state that since there was no trial evidence establishing
+
+his knowledge that he had been previously convicted of a crime punishable by a term exceeding
+
+one year, his conviction should be overturned. See docket entry #267, p. 9. This claim, like the
+
+others before it falls flat. Defendants, like Luna, who have already litigated a Section 2255 motion
+
+and now seek to file a second motion raising a Rehaif-related claim are barred from doing so by
+
+28 U.S.C. § 2255(h). That provision permits “second or successive motion[s]” only when they
+
+have been “certified * * * by a panel of the appropriate court of appeals to contain—(1) newly
+
+discovered evidence * * * ; or (2) a new rule of constitutional law, made retroactive to cases on
+
+collateral review by the Supreme Court, that was previously unavailable.” A new decision of
+
+statutory interpretation, even one that narrows the meaning of a substantive federal statute, does
+
+not satisfy Section 2255(h)(2). See, e.g., Triestman v. United States, 124 F.3d 361, 371-372 (2d
+
+Cir. 1997) (Supreme Court decision in Bailey v. United States, 516 U.S. 137 (1995), narrowly
+
+interpreting 18 U.S.C. § 924(c), “did not rely on a new rule of constitutional law.”); In re Jackson,
+
+776 F.3d 292, 294-296 (5th Cir. 2015) (per curiam) (same as to claims arising under Begay v.
+
+
+
+                                                 6
+        Case 1:07-cr-10195-RWZ Document 273 Filed 11/27/19 Page 7 of 11
+
+
+
+United States, 553 U.S. 137 (2008); Johnson v. United States, 559 U.S. 133 (2010), and Descamps
+
+v. United States, 570 U.S. 254 (2013)). The Rehaif claim, like the other claims raised, is
+
+procedurally barred on these grounds.1
+
+               2. Harmless Error
+
+       The defendant bears the burden of establishing error on collateral review. In re Moore,
+
+830 F.3d 1268, 1272 (11th Cir. 2016) (collecting cases); Stanley v. United States, 827 F.3d 562,
+
+566 (7th Cir. 2016). To obtain relief under Section 2255, a defendant must identify “fundamental
+
+defects” that inherently result in a “complete miscarriage of justice, [or] an omission inconsistent
+
+with the rudimentary demands of fair procedure.” Hill v. United States, 368 U.S. 424, 428 (1962).
+
+Where, in a timely first Section 2255 motion, a defendant raises a knowledge-of-status objection
+
+that he preserved in the district court and on direct appeal, the defendant must nevertheless carry
+
+his burden of demonstrating that the error had a “substantial and injurious effect or influence in
+
+determining the jury’s verdict,” Brecht v. Abrahamson, 507 U.S. 619, 637-638 (1993). Accord,
+
+e.g., United States v. Montalvo, 331 F.3d 1052, 1058 (9th Cir. 2003); Ellis v. United States, 313
+
+F.3d 636, 644 (1st Cir. 2002); Ross v. United States, 289 F.3d 677, 682 (11th Cir. 2002); Murr v.
+
+United States, 200 F.3d 895, 906 (6th Cir. 2000). Where evidence exists from which a rational
+
+juror could have inferred that a defendant knew of his status at the time of his possession, the
+
+
+
+
+       1
+               The defendant’s Rehaif claim is also defeated because it is time-barred. See infra.
+
+                                                 7
+        Case 1:07-cr-10195-RWZ Document 273 Filed 11/27/19 Page 8 of 11
+
+
+
+omission of that element did not have a “substantial or injurious effect” on the outcome of the
+
+proceedings below.
+
+        Here the evidence would have clearly established Luna’s knowledge of his prohibited
+
+status since he had numerous convictions that would have provided the requisite knowledge,
+
+discussed below.
+
+        Rehaif stands for the proposition that 18 U.S.C. § 922(g), which makes it a crime for
+
+certain persons to possess firearms, and § 924(a)(2), which states that any person who
+
+“knowingly violates” 18 U.S.C. § 922(g) may be imprisoned for up to ten years, require the
+
+government to prove not only that the defendant knew that he possessed a firearm, but also that
+
+he was prohibited from possessing a firearm when he possessed the firearm. 139 S. Ct. 2191, 204
+
+L. Ed. 2d 594. In applying Rehaif, the circuit courts have interpreted the scienter requirement
+
+with respect to the defendant’s prohibited status to require only that the defendant knew of the
+
+facts that led to his prohibited status. See United States v. Denson, 774 F. App'x 184, 185 (5th
+
+Cir. 2019) (finding the scienter requirement likely to be satisfied where the defendant signed a
+
+presentence investigation report that stated he “admitted he knowingly possessed the ... firearm
+
+and had previously been convicted of felony offenses” and referenced a prior felony drug
+
+offense); etc.
+
+        Recently, the First Circuit in Burghardt, in line with the application of Rehaif by other
+
+circuit courts, found that the scienter requirement regarding the defendant’s knowledge of his
+
+prohibited status was likely to be satisfied given evidence that the defendant had knowledge of
+
+the facts that caused his prohibited status was all that is required. United States v. Burghardt, No.
+
+18-1767, 2019 WL 4877427. Specifically, the court found the scienter requirement would
+
+probably be satisfied given that the defendant had in the past pled guilty to offenses punishable
+
+
+
+                                                  8
+        Case 1:07-cr-10195-RWZ Document 273 Filed 11/27/19 Page 9 of 11
+
+
+
+by a term of imprisonment beyond a year, New Hampshire law required judges to communicate
+
+the maximum possible sentence to defendants when defendants enter a guilty plea, and the
+
+defendant had received two to ten years in state prison, seven years and six months to fifteen
+
+years in state prison, and two to five years in state prison for past offenses. Id. None of these
+
+considerations touched on whether the defendant knew that these facts would render him per 18
+
+U.S.C. § 922(g) a prohibited person.
+
+       The evidence against Luna meets this requirement. Luna was convicted in 1995 of
+
+Assault by Means of a Dangerous Weapon and received a 2 ½ years in jail sentence with 1 year
+
+to be served and the balance (18 months) suspended and probation. PSR at paragraph 67. He
+
+later violated his probation and received an additional 18 months in jail. Id. The conviction
+
+alone provides the necessary knowledge of Rehaif since the sentence exceeded 1 year in jail.
+
+However, with Luna there’s more. In 2005, he was also convicted of Assault and Battery on a
+
+Police Officer and Resisting Arrest (multiple counts). Id. at paragraph 65. He was sentenced on
+
+both charges to 2 years in jail with 6 months to be served and the balance suspended and
+
+probation. Id. These convictions, and the sentences imposed that were more than 1 year in jail,
+
+provide direct evidence of Luna’s knowledge of his prohibited status when he illegally possessed
+
+the firearm on May 1, 2007 that led to the federal charges and later conviction. Accordingly, the
+
+defendant’s motion should be denied. See, e.g., United States v. Hollingshed, No. 17-2951, 2019
+
+WL 4864969 (8th Cir. Oct. 3, 2019) (finding the scienter requirement likely to be satisfied where
+
+the defendant pled guilty to possession with intent to distribute cocaine previously, was
+
+sentenced to 78 months’ imprisonment, and was imprisoned for nearly four years before he
+
+began his supervised release). Accordingly, Luna cannot make the requisite showing of a
+
+
+
+
+                                                  9
+       Case 1:07-cr-10195-RWZ Document 273 Filed 11/27/19 Page 10 of 11
+
+
+
+“substantial or injurious effect” and hi petition should be denied. See Brecht v. Abrahamson, 507
+
+U.S. 619, 637-638 (1993).
+
+                                         CONCLUSION
+
+       For all of the foregoing reasons, Luna’s Petition under 28 U.S.C. § 2255 should be
+
+summarily dismissed. Should the Court conclude that the foregoing is not dispositive of Luna’s
+
+claims, the government respectfully requests that the Court set a briefing schedule so that the
+
+balance of the issues raised by Luna’s 2255 can be addressed.
+
+
+
+
+                                                     Respectfully submitted,
+
+                                                     ANDREW E. LELLING
+                                                     United States Attorney
+
+
+                                             By:      s/ Glenn MacKinlay
+                                                     GLENN A. MACKINLAY
+                                                     Assistant U.S. Attorney
+                                                     One Courthouse Way, Suite 9200
+                                                     Boston, MA 02210
+                                                     (617) 748-3215
+
+
+
+
+                                                10
+       Case 1:07-cr-10195-RWZ Document 273 Filed 11/27/19 Page 11 of 11
+
+
+
+                                 CERTIFICATE OF SERVICE
+
+       I hereby certify that the foregoing document(s) filed through the ECF system will be sent
+
+electronically to counsel for defendant, who is a registered participant as identified on the Notice
+
+of Electronic Filing (NEF), and to the defendant at:
+
+                                      Pascual Luna
+                                      Register # 26508-038
+                                      USP Lee
+                                      U.S. Penitentiary
+                                      P.O. Box 305
+                                      Jonesville, VA 24263
+
+
+
+                                              s/ Glenn MacKinlay
+                                              GLENN A. MACKINLAY
+                                              Assistant United States Attorney
+
+Dated: November 26, 2019
+
+
+
+
+                                                 11
+

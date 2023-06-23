@@ -1,0 +1,407 @@
+                       UNITED STATES DISTRICT COURT
+                        DISTRICT OF MASSACHUSETTS
+
+                   CRIMINAL ACTION NO. 06-cr-10393-RGS
+                     CIVIL ACTION NO. 11-cv-11825-RGS
+
+                                   TERRY LEWIS
+
+                                           v.
+
+                         UNITED STATES OF AMERICA
+
+            MEMORANDUM AND ORDER ON PETITIONER’S
+        MOTION TO VACATE, SET ASIDE, OR CORRECT SENTENCE
+
+                                   January 25, 2012
+
+STEARNS, D.J.
+
+      Terry Lewis, proceeding pro se, brought this petition to vacate, set aside, or
+
+correct his sentence pursuant to 28 U.S.C. § 2255. Lewis challenges his sentence,
+
+asserting violations of his Fourth and Fourteenth Amendment rights, his Fifth
+
+Amendment right to due process, and ineffective assistance of counsel. For the reasons
+
+to be stated, Lewis’s petition will be denied.
+
+                                  BACKGROUND
+
+      In the early morning of August 10, 2006, Lewis was stopped by two Fall River,
+
+Massachusetts police officers (Saurette and Gosselin) who suspected a recently
+
+completed drug transaction. As the officers approached, Lewis spontaneously turned
+
+against the front window of a nearby building, and raised his hands as if to be frisked.
+    As Lewis turned, the officers heard the clink of a hard object striking the window.
+
+When they sought to conduct a frisk, Lewis ran. A physical altercation ensued in the
+
+aftermath of which the officers seized a .45 caliber pistol, six rounds of ammunition,
+
+and a shoulder holster. Lewis was subsequently charged with being a felon in
+
+possession of a firearm, in violation of 18 U.S.C. § 922(g)(1).
+
+         In due course, Lewis – represented by a Federal Defender – filed a motion to
+
+suppress the pistol and ammunition, arguing that he had been subjected to a search and
+
+seizure in violation of his Fourth Amendment rights. After a three-day evidentiary
+
+hearing and further briefing, the court in a written decision dated August 6, 2008,
+
+denied the motion to suppress. On December 10, 2008, Lewis entered a conditional
+
+plea of guilty, reserving his right to appeal the denial of the suppression motion.
+
+         Because of numerous prior convictions, Lewis qualified for an enhanced
+
+sentence as an “armed career criminal.”1 On May 22, 2009, Lewis was sentenced to
+
+the mandatory minimum 180 months of imprisonment. On March 25, 2010, the First
+
+Circuit Court of Appeals rejected Lewis’s appeal and affirmed the district court’s
+
+suppression ruling. The United States Supreme Court denied Lewis’s petition for a
+
+writ of certiorari on October 4, 2010. Lewis timely filed the instant § 2255 petition on
+
+1
+ Pursuant to the Armed Career Criminal Act, 18 U.S.C. § 924(e), a federal defendant
+with three prior qualifying convictions is subject to a mandatory minimum sentence of
+180 months.
+                                            2
+September 20, 2011.
+
+                                      DISCUSSION
+
+       Section 2255 is not a substitute for direct appeal, but rather provides for post-
+
+conviction relief in four limited instances: “if the petitioner’s sentence (1) was imposed
+
+in violation of the Constitution, or (2) was imposed by a court that lacked jurisdiction,
+
+or (3) exceeded the statutory maximum, or (4) was otherwise subject to direct attack.”
+
+David v. United States, 134 F.3d 470, 474 (1st Cir. 1998). “The catch-all fourth
+
+category includes only assignments of error that reveal ‘fundamental defect[s]’ which,
+
+if uncorrected, will ‘result[] in a complete miscarriage of justice,’ or irregularities that
+
+are ‘inconsistent with the rudimentary demands of fair procedure.’” Id., quoting Hill
+
+v. United States, 368 U.S. 424, 428 (1962). A cognizable § 2255 claim, unless it is
+
+constitutional or jurisdictional in nature, must reveal “exceptional circumstances”
+
+compelling redress. David, 134 F.3d at 474. The petitioner bears the burden of
+
+demonstrating an entitlement to relief. Mack v. United States, 635 F.2d 20, 26-27 (1st
+
+Cir. 1980).
+
+The Alleged Violation of Fourth Amendment Rights
+
+       Because Lewis’s claims of a violation of his Fourth and Fourteenth Amendment
+
+rights are identical to those he raised in his appeal to the First Circuit, he is barred from
+
+relitigating them again by way of a § 2255 petition. See United States v. Moran, 1997
+
+                                             3
+WL 51415, at *1 (1st Cir. Feb. 5, 1997) (holding that petitioner may not “relitigate
+
+issues already raised and rejected in his direct appeal,” or issues “that could have been,
+
+but were not, raised in that direct appeal.”); Singleton v. United States, 26 F.3d 233,
+
+240 (1st Cir. 1994) (“[I]ssues disposed of in a prior appeal will not be reviewed again
+
+by way of a 28 U.S.C. § 2255 motion.” (quoting Dirring v. United States, 370 F.2d 862,
+
+864 (1st Cir. 1967)).2
+
+Alleged Violations of the Fifth Amendment Right to Due Process
+
+      Lewis next raises a series of claims that he characterizes as violations of his rights
+
+to due process. Among these are claims that his Sixth Amendment right to a speedy trial
+
+was violated, that the government introduced perjured testimony during the suppression
+
+hearing, and that he was unlawfully sentenced as an armed career criminal.3 Because
+
+Lewis could have made these same arguments on direct appeal, they are subject to
+
+procedural default. As such, they may not be raised in a § 2255 petition absent a
+
+
+2
+  Failed motions to exclude evidence on Fourth Amendment grounds are in any event
+impervious to collateral review under § 2255. See Stone v. Powell, 428 U.S. 465, 518
+(1976); Tisnado v. United States, 547 F.2d 452, 456 (9th Cir. 1976); United States v.
+Cook, 997 F.2d 1312, 1317 (10th Cir. 1993). Cf. Arroyo v. United States, 195 F.3d
+54, 55 n.1 (1st Cir. 1999) (noting the Supreme Court’s “hint” that Stone applies to §
+2255 petitions and citing Cook and a later Ninth Circuit case as so determining, but
+reserving the issue in the First Circuit).
+3
+  Lewis also claims that the testimony of the police officers at the suppression hearing
+incorporated inadmissible hearsay. This claim fails because the Federal Rules of
+Evidence do not apply at suppression hearings. See Fed. R. Evid. 104(a).
+                                            4
+showing of cause and prejudice. See Oakes v. United States, 400 F.3d 92, 95 (1st Cir.
+
+2005) (“If a federal habeas petitioner challenges his conviction or sentence on a ground
+
+that he did not advance on direct appeal, his claim is deemed procedurally defaulted.”).
+
+See also United States v. Frady, 456 U.S. 152, 167-168 (1982) (holding that, to raise
+
+defaulted claims “a convicted defendant must show both (1) ‘cause’ . . . and (2) ‘actual
+
+prejudice’ resulting from the errors of which he complains.”). To establish cause, a
+
+petitioner must show that “some objective factor external to the defense impeded
+
+counsel’s efforts to comply with the . . . procedural rule.” Murray v. Carrier, 477 U.S.
+
+478, 488 (1986). Strategic decisions and errors made by petitioner’s trial counsel do
+
+not constitute cause. Id. (There is “no inequity in requiring [defendants] to bear the risk
+
+of attorney error that results in a procedural default.”).4
+
+      Because Lewis does not meet the “cause” element with respect to any of the
+
+claims, they may not properly be raised in a § 2255 motion. Regarding the speedy trial
+
+claim, Lewis fails to identify any external factor that prevented him from objecting to
+
+4
+ Related to the failure to show prejudice element is the fact that Lewis is barred in any
+event from raising the speedy trial and perjured testimony claims in a § 2255 motion
+by the doctrine of judicial estoppel. The doctrine precludes a defendant who has pled
+guilty from collaterally attacking his plea based on constitutional violations alleged to
+have occurred prior to the plea (absent a reservation of rights under Fed. R. Crim. P.
+11(a)(2) with the consent of the court and the government). See Tollett v. Henderson,
+411 U.S. 258, 267 (1973). See also United States v. Gaffney, 469 F.3d 211, 215 n.2
+(1st Cir. 2006) (a principle enforced with “monotonous regularity”). Lewis reserved
+only the Fourth Amendment claims when entering his conditional plea of guilty.
+                                             5
+a delay in the return of the indictment.5 To the contrary, Lewis acknowledges that his
+
+counsel was aware of and agreed to the delay. Lewis also does not explain any
+
+impediment to a contemporaneous objection to perjured testimony during the
+
+suppression hearing (in the court’s view there was no such testimony). Nor does Lewis
+
+allege that an external factor prevented him from challenging his classification as an
+
+armed career criminal at sentencing. Indeed, Lewis, through counsel, conceded that, at
+
+a minimum, four of his prior state convictions qualified as “violent felonies” under 18
+
+U.S.C. § 924(e).6
+
+Ineffective Assistance of Counsel
+
+       Finally, Lewis contends that he did not receive constitutionally effective
+
+assistance from his trial attorney, Federal Defender William Fick. Lewis claims a
+
+number of alleged deficiencies in Fick’s performance, including his failure: (1) to
+
+investigate the facts surrounding Lewis’s arrest; (2) to object to the officers’ testimony
+
+at the suppression hearing as false or as hearsay; and (3) to more thoroughly investigate
+
+Lewis’s criminal history.
+
+       The Sixth Amendment provides that “[i]n all criminal prosecutions, the accused
+
+shall enjoy the right to . . . have the Assistance of Counsel for his defence.” The right
+
+
+5
+    Lewis was indicted 11 days after the original 30-day deadline expired.
+6
+    The pre-sentence report listed seven qualifying convictions.
+                                            6
+to counsel includes the right to “effective counsel.” Strickland v. Washington, 466 U.S.
+
+668, 686 (1984). To be effective, a lawyer need not be perfect. “Judicial scrutiny of
+
+counsel’s performance must be highly deferential,” and “every effort [should] be made
+
+to eliminate the distorting effects of hindsight.” Id. at 689. The court “must indulge a
+
+strong presumption that counsel’s conduct falls within the wide range of reasonable
+
+professional assistance; that is, the defendant must overcome the presumption that,
+
+under the circumstances, the challenged action ‘might be considered sound trial
+
+strategy.’” Id., quoting Michel v. Louisiana, 350 U.S. 91, 101 (1955).
+
+      In evaluating the constitutional effectiveness of an attorney’s representation, a
+
+court is to engage in a two-step inquiry. “First, a reviewing court must assess the
+
+proficiency of counsel’s performance under prevailing professional norms. This
+
+evaluation demands a fairly tolerant approach; after all, the Constitution pledges to an
+
+accused an effective defense, not necessarily a perfect defense or a successful defense.”
+
+Scarpa v. Dubois, 38 F.3d 1, 8 (1st Cir. 1994) (internal citations omitted). To satisfy
+
+this first prong of the Strickland test, Lewis must show that Fick’s performance was
+
+deficient to the point of being “objectively unreasonable.” See United States v. McGill,
+
+11 F.3d 223, 226 (1st Cir. 1993). Reasonable conduct is conduct that falls “‘within the
+
+range of competence demanded of attorneys in criminal cases.’” United States v.
+
+Bosch, 584 F.2d 1113, 1121 (1st Cir. 1978), quoting McMann v. Richardson, 397 U.S.
+
+                                           7
+759, 770-771 (1970). To satisfy the second Strickland prong, Lewis must show that
+
+“there is a reasonable probability that, but for counsel’s errors, he would not have
+
+pleaded guilty and would have insisted on going to trial.” Hill v. Lockhart, 474 U.S. 52,
+
+59 (1985). See also United States v. LaBonte, 70 F.3d 1396, 1413 (1st Cir. 1995),
+
+rev’d on other grounds, 520 U.S. 751 (1997).
+
+Failure to Investigate
+
+      Lewis contends that Fick failed to adequately investigate the facts surrounding
+
+Lewis’s arrest because Fick did not interview various witnesses, including a Fall River
+
+police lieutenant, a store clerk who worked near the scene of the arrest, and other
+
+individuals who lived in or frequented the neighborhood. “The decision to interview
+
+potential witnesses . . . must be evaluated in light of whatever trial strategy reasonably
+
+competent counsel devised in the context of a particular case.” Lema v. United States,
+
+987 F.2d 48, 55 (1st Cir. 1993) (emphasis in original). Declining to interview tangential
+
+witnesses who are unlikely to have any information of exculpatory value in order to
+
+focus upon flaws or inconsistencies in a police report is not an objectively unreasonable
+
+judgment. See Janosky v. St. Amand, 594 F.3d 39, 48-49 (1st Cir. 2010) (finding
+
+counsel’s decision to forego interviews in favor of concentrating on “flaws in the police
+
+investigation” a reasonable strategic judgment – a lawyer is “[not] require[d] . . . at all
+
+times and under all circumstances to probe every evidentiary lead.”).
+
+                                            8
+      At the hearing, Fick cross-examined Officers Gosselin and Saurette extensively
+
+about inconsistencies with their prior testimony before the state and federal grand jury
+
+and between their separate accounts of the arrest. Fick also elicited admissions that the
+
+police report prepared by Officer Gosselin did not mention a number of the details
+
+testified to at the suppression hearing, including the sound (presumably of Lewis’s gun
+
+striking the window) that precipitated the arrest. Moreover, contrary to Lewis’s
+
+contentions, Fick sought out independent evidence to challenge the officers’ credibility.
+
+He obtained police records for the ten-day period surrounding Lewis’s arrest in order
+
+to contest the officers’ statements that the area where the arrest occurred had seen a
+
+recent uptick in reports of violent crimes. He obtained records of the warrant checks
+
+that Officers Saurette and Gosselin had claimed to run on two other persons whom they
+
+identified as suspects in Lewis’s drug dealing. Fick also located and subpoenaed a
+
+witness to Lewis’s arrest, and investigated other leads that did not pan out, such as
+
+possible video footage of the arrest captured by local surveillance cameras.
+
+Failure to Object to Testimony
+
+      Lewis next contends that Fick failed to object to the “perjured testimony” of
+
+Officers Saurette and Gosselin at the suppression hearing. In support of his claim,
+
+Lewis points to inconsistencies between the officers’ testimonies. “However, it is
+
+axiomatic that inconsistent testimony is not per se perjurious.” United States v. Gary,
+
+                                           9
+74 F.3d 304, 314 (1st Cir. 1996), citing United States v. Dunnigan, 507 U.S. 87, 93
+
+(1993). See also United States v. Tavares, 93 F.3d 10, 14 (1st Cir. 1996) (“Inconsistent
+
+testimony by itself does not amount to perjury, nor does an unclear police report make
+
+it so.”).7
+
+Failure to investigate Lewis’ criminal record
+
+       Finally, Lewis argues that Fick failed to “look into” his prior state convictions in
+
+order to challenge the accuracy of the criminal history set out in the pre-sentence report.
+
+The allegation, however, is not true. Fick states in a letter in response to the court’s
+
+finding that Lewis had waived any attorney-client privilege, that after obtaining and
+
+reviewing the records of Lewis’s prior state convictions he “discussed with [] Lewis
+
+whether he would like [Fick] to attempt to vacate any of these convictions,” but that
+
+Lewis declined. See Dkt #51 - Ex. 1 (January 4, 2012 letter from William Fick).
+
+                                        ORDER
+
+       For the foregoing reasons, the Petition to Vacate, Set Aside, or Correct Sentence/
+
+Conviction is DENIED. Petitioner is advised that any request for the issuance of a
+
+Certificate of Appealability pursuant to 28 U.S.C. § 2253, of the court’s Order denying
+
+his motion to Vacate, Set Aside, or Correct Sentence/Conviction, issued as of this date,
+
+
+
+7
+ Lewis also argues that Fick should have objected to hearsay testimony. However, as
+noted earlier, hearsay is admissible at a suppression hearing.
+                                            10
+is also DENIED, the court seeing no meritorious or substantial basis supporting an
+
+appeal. The Clerk will now close the civil case.
+
+                                       SO ORDERED.
+
+                                       /s/ Richard G. Stearns
+                                       _______________________________
+                                       UNITED STATES DISTRICT JUDGE
+
+
+
+
+                                         11
+

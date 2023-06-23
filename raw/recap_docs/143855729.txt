@@ -1,0 +1,610 @@
+         Case 1:19-cr-10445-ADB Document 55 Filed 08/28/20 Page 1 of 12
+
+
+
+                             UNITED STATES DISTRICT COURT
+                              DISTRICT OF MASSACHUSETTS
+
+ UNITED STATES OF AMERICA                          *
+                                                   *
+                v.                                 *
+                                                   *
+                                                   *     Criminal Action No. 19-cr-10445-ADB
+ ISAIAH RIEVES,
+                                                   *
+                                                   *
+                Defendant.                         *
+                                                   *
+
+     MEMORANDUM AND ORDER ON DEFENDANT’S MOTION TO SUPPRESS
+
+BURROUGHS, D.J.
+
+       On November 20, 2019, a grand jury returned an indictment charging Isaiah Rieves
+
+(“Defendant”) with: distribution of 40 grams or more of fentanyl and other controlled substances,
+
+in violation of 21 U.S.C. §§ 841(a)(1) and (b)(1)(B)(vi) (Count One); possession with intent to
+
+distribute controlled substances, in violation of 21 U.S.C. § 841(a)(1) (Count Two); possession
+
+of a firearm in furtherance of a drug trafficking crime, in violation of 18 U.S.C. § 924(c)(1)(A)(i)
+
+(Count Three); and possession of a firearm and ammunition by a felon, in violation of 18 U.S.C.
+
+§ 922(g)(1) (Count Four). [ECF No. 14 at 1]. Currently pending before the Court is Defendant’s
+
+motion to suppress evidence obtained by police through GPS monitoring of a vehicle Defendant
+
+was using and a search of his home. [ECF No. 48]. For the reasons set forth below, the motion
+
+to suppress, [ECF No. 48], is DENIED.
+
+I.     BACKGROUND
+
+       The following facts are drawn from the affidavits of Drug Enforcement Agency (“DEA”)
+
+Special Agent Melissa Gillen (“Gillen”), which were used to obtain the two warrants at issue.
+
+[ECF Nos. 48-1, 48-3].
+         Case 1:19-cr-10445-ADB Document 55 Filed 08/28/20 Page 2 of 12
+
+
+
+       On October 9, 2019, Gillen submitted an application for an order authorizing the
+
+installation, use, and monitoring of a GPS device on a 2009 gold Chevy Tahoe believed to be
+
+used by Defendant. [ECF No. 48-1 ¶ 12]. The application also requested permission to enter the
+
+curtilage surrounding 75 Seymour Avenue in Lynn, Massachusetts in order to install the GPS
+
+device on the vehicle. [Id. ¶ 13]. In support of probable cause, Gillen stated that the DEA began
+
+investigating Defendant after a controlled buy from a confidential source (“CS”) in August 2019.
+
+[Id. ¶¶ 16–17]. The CS agreed to cooperate with the DEA after a search of his/her residence
+
+pursuant to a warrant on October 1, 2019 revealed a collection of drugs in significant quantities,
+
+including cocaine, fentanyl, ecstasy, and methamphetamine. [Id. ¶¶ 18–19]. The CS identified
+
+his/her supplier as a black male known as “Unk/Unc,” and said they had met one and a half years
+
+prior. [Id. ¶ 19]. The CS said that “Unk” lived in Lynn and drove a gold Chevy Tahoe, that the
+
+two communicated via text message, and he/she also provided a phone number for “Unk.” [Id.].
+
+Further, he/she detailed the types of drugs “Unk” supplied, including several of the types found
+
+in the CS’s residence, and said that “Unk” typically supplied him/her with drugs and then
+
+collected payment at a later date. [Id.]. Investigators later identified “Unk” as Defendant. [Id.].
+
+       On October 2, 2019, the CS contacted Defendant under the direction and supervision of
+
+investigators and told him that he/she wanted to meet to “re-up” later that day. [ECF No. 48-1
+
+¶ 20]. Defendant agreed to meet. [Id.]. Prior to the meeting, investigators searched the CS’s
+
+vehicle, found nothing, and wired the CS so that the audio of the meeting would be transmitted
+
+to law enforcement and recorded. [Id.]. At approximately 9:26 p.m., investigators saw a gold
+
+Chevy Tahoe, driven by a black male, arrive and park at the location where the CS and
+
+Defendant had agreed to meet. [Id. ¶ 21]. The CS received a text from Defendant and then
+
+drove his/her vehicle to the meeting location while being followed by investigators. [Id.]. The
+
+
+
+
+                                                 2
+         Case 1:19-cr-10445-ADB Document 55 Filed 08/28/20 Page 3 of 12
+
+
+
+CS parked near the gold Chevy Tahoe and entered the vehicle. [Id.]. After several minutes, the
+
+CS got out of the Tahoe and removed a box from the back. [Id. ¶ 22]. The CS then got into
+
+his/her own vehicle with the box and drove, while under surveillance, to meet investigators.
+
+[Id.]. Inside the box, investigators found various pills and powders, all of which were believed to
+
+be controlled substances including fentanyl, cocaine, and ecstasy. [Id.]. After the meeting, other
+
+investigators followed Defendant, still driving the gold Chevy Tahoe, back to Lynn. [Id. ¶ 23].
+
+State investigators commenced a traffic stop and saw that Defendant’s license pictured him and
+
+listed his address as 75 Seymour Avenue in Lynn, Massachusetts. [Id.]. After the traffic stop,
+
+investigators continued to follow Defendant as he drove to that address, parked, and walked
+
+towards the residence. [Id.]. Gillen stated that based on her training, experience, and the
+
+information above, she believed Defendant was using the gold Chevy Tahoe to facilitate drug
+
+trafficking. [Id. ¶ 24].
+
+        Gillen sought a second warrant on October 23, 2019, this time to search Defendant’s
+
+residence at 75 Seymour Avenue in Lynn. [ECF No. 48-3 ¶¶ 10–11]. To establish probable
+
+cause, Gillen recited the facts above. [Id. ¶¶ 13–20]. In addition, the affidavit referenced GPS
+
+data showing that Defendant returned to the 75 Seymour Avenue residence each night, that he
+
+had been observed entering the residence, and that he had returned to that location after the
+
+controlled buy. [Id. ¶ 21]. Gillen also stated that on October 22, 2019, Defendant contacted the
+
+CS and requested payment for the drugs that the CS had received from Defendant during the
+
+October 2 controlled buy. [Id.]. The CS agreed to provide a partial payment and, that evening,
+
+GPS data showed Defendant traveling to the CS’s house and then to his/her parents’ house,
+
+where Defendant drove past their house several times before parking outside. [Id.]. Defendant
+
+tried contacting the CS several times, then left and returned to 75 Seymour Avenue. [Id.]. Later
+
+
+
+
+                                                 3
+         Case 1:19-cr-10445-ADB Document 55 Filed 08/28/20 Page 4 of 12
+
+
+
+that day, Defendant spoke with the CS and said that he would return to collect payment the
+
+following evening. [Id.].
+
+       As further support, Gillen stated that, based on her training and experience, “it is
+
+generally a common practice for drug traffickers to store drug-related paraphernalia and records
+
+in their residences . . . .” [ECF No. 48-3 ¶ 23]. She also said she had participated in several
+
+searches of the residences of traffickers whose criminal activity was similar to Defendant’s, and
+
+that drug related evidence had typically been recovered during those searches. [Id.]. The
+
+affidavit included several pages further detailing her experience and describing what was
+
+typically found in traffickers’ residences. [Id. ¶ 23(i)–(x)]. Because GPS data and surveillance
+
+had shown Defendant driving back and forth to the 75 Seymour Avenue location and returning
+
+every night—including after the October 2 controlled buy and the October 22 attempt to obtain
+
+payment from CS—Gillen stated that she believed that the location was Defendant’s residence,
+
+that he was using the location to further his drug trafficking activities, and that evidence of those
+
+activities was likely located at the address. [Id. ¶¶ 26–27].
+
+II.    LEGAL STANDARD
+
+       “A warrant application must demonstrate probable cause to believe that (1) a crime has
+
+been committed—the ‘commission’ element, and (2) enumerated evidence of the offense will be
+
+found at the place to be searched—the so-called ‘nexus’ element.” United States v. Rodrigue,
+
+560 F.3d 29, 32–33 (1st Cir. 2009) (quoting United States v. Ribeiro, 397 F.3d 43, 48 (1st Cir.
+
+2005)). “Probable cause exists when there is a ‘fair probability that contraband or evidence of a
+
+crime will be found at a particular place.’” United States v. Torres-Rosario, 588 F. Supp. 2d
+
+128, 131 (D. Mass. 2008) (quoting Illinois v. Gates, 462 U.S. 213, 238 (1983)). “Information
+
+supporting probable cause for a warrant is often set forth in an affidavit provided by a law
+
+
+
+
+                                                  4
+           Case 1:19-cr-10445-ADB Document 55 Filed 08/28/20 Page 5 of 12
+
+
+
+enforcement officer . . . .” United States v. Gifford, 727 F.3d 92, 98 (1st Cir. 2013). “An
+
+affidavit supporting a search warrant is presumptively valid,” id., and “[a] magistrate’s
+
+‘determination of probable cause should be paid great deference by reviewing courts,’” Gates,
+
+462 U.S. at 236 (quoting Spinelli v United States, 393 US 410, 419 (1969)). A reviewing court’s
+
+“duty is simply to ensure that the magistrate [judge] had a substantial basis for . . . conclud[ing]
+
+that probable cause existed.” United States v. Bregu, 948 F.3d 408, 417 (1st Cir. 2020) (citations
+
+and quotation marks omitted).
+
+       “[I]t is well-established that ‘[i]n determining the sufficiency of an affidavit, [courts]
+
+consider whether the totality of the circumstances stated in the affidavit demonstrates probable
+
+cause to search the premises.’” United States v. Tiem Trinh, 665 F.3d 1, 10 (1st Cir. 2011)
+
+(quoting United States v. Barnard, 299 F.3d 90, 93 (1st Cir. 2002)). “Where the finding of
+
+probable cause depends on information supplied by an informant, courts review that
+
+determination in light of” several factors. Torres-Rosario, 588 F. Supp. 2d at 131. These may
+
+include:
+
+       whether an affidavit supports the probable “veracity” or “basis of knowledge” of
+       persons supplying hearsay information; whether informant statements are self-
+       authenticating; whether some or all of the informant’s factual statements were
+       corroborated wherever reasonable and practicable (e.g., through police
+       surveillance); and whether a law enforcement affiant included a professional
+       assessment of the probable significance of the facts related by the informant based
+       on experience or expertise.
+
+United States v. Zayas-Diaz, 95 F.3d 105, 111 (1st Cir. 1996); Tiem Trinh, 665 F.3d at 10
+
+(stating that factors are “non-exhaustive”). “None of these factors is indispensable; thus,
+
+stronger evidence on one or more factors may compensate for a weaker or deficient showing on
+
+another.” Zayas-Diaz, 95 F.3d at 111.
+
+
+
+
+                                                  5
+              Case 1:19-cr-10445-ADB Document 55 Filed 08/28/20 Page 6 of 12
+
+
+
+III.     DISCUSSION
+
+         Defendant argues that evidence seized in connection with both warrants should be
+
+ suppressed because the affidavits did not establish probable cause. [ECF No. 48 at 6]. In
+
+ addition, Defendant specifically states that the October 23 affidavit seeking a warrant to search
+
+ Defendant’s home lacked probable cause because it did not establish a nexus between the
+
+ residence and the alleged drug trafficking. [Id. at 6–7]. The Government contends that the
+
+ affidavits provided sufficient support for a finding of probable cause and that the October 23
+
+ affidavit established a sufficient nexus between the residence and drug trafficking. [ECF No. 51
+
+ at 5, 11].
+
+         A.       Probable Cause
+
+         Defendant mischaracterizes the affidavits by claiming that they rely “on largely
+
+ uncorroborated information from an unreliable informant.” [ECF No. 48 at 7].
+
+         First, the affidavits did not rely primarily on the CS’s information, but also included
+
+ information and details corroborated by investigators which helped establish the CS’s reliability.
+
+ This case is unlike United States v. Gifford, cited by Defendant, in which “[t]here was no
+
+ independent police surveillance . . . that could enhance the reliability of the informant’s tip.” 727
+
+ F.3d at 100. Here, investigators were able to corroborate and confirm the reliability of the CS’s
+
+ information by supervising the CS’s phone call to Defendant and the subsequent controlled buy,
+
+ all of which allowed investigators to confirm that the CS had provided accurate information
+
+ concerning Defendant’s phone number, city of residence, and car. [ECF No. 48-1 ¶¶ 20–23;
+
+ ECF No. 48-3 ¶¶ 17–20]. The controlled buy, surveilled by law enforcement, resulted in the
+
+
+
+
+                                                   6
+         Case 1:19-cr-10445-ADB Document 55 Filed 08/28/20 Page 7 of 12
+
+
+
+seizure of drugs from Defendant’s car. [ECF No. 48-1 ¶¶ 20–22; ECF No. 48-3 ¶¶ 17–19]. 1
+
+This established probable cause to believe that GPS data about where Defendant traveled could
+
+provide information about where he might be storing the drugs and other materials (e.g., cash,
+
+records) related to his drug trafficking activities.
+
+        In addition, the drugs Defendant sold during the controlled buy matched the types of
+
+drugs (fentanyl, cocaine, ecstasy) found in the CS’s apartment and identified by the CS as having
+
+been purchased from Defendant in the past. [ECF No. 48-1 ¶ 18, 22; ECF No. 48-3 ¶ 16, 19].
+
+The CS had also told investigators that he/she usually picked up drugs from Defendant but then
+
+paid Defendant at a later time, which was confirmed through the controlled buy and Defendant’s
+
+later attempts to obtain payment from the CS. [ECF No. 48-1 ¶ 19; ECF No. 48-3 ¶¶ 16, 21].
+
+Finally, the traffic stop provided investigators with Defendant’s home address and investigators
+
+followed Defendant back to that address after the controlled buy. [ECF No. 48-1 ¶ 23; ECF No.
+
+48-3 ¶ 20]. The affidavits demonstrate that investigators corroborated the information provided
+
+by the CS through independent investigation.
+
+        With regard to the October 23 warrant application, Gillen stated that investigators had
+
+obtained GPS data showing that, while the device was installed, Defendant returned to the 75
+
+Seymour Avenue residence each night and also after he attempted to meet the CS to obtain
+
+payment for the October 2 controlled buy. [ECF No. 48-3 ¶¶ 21, 27]. In addition, investigators
+
+observed Defendant enter the residence, drive to and from the location in the Tahoe, and return
+
+
+
+1
+  Defendant suggests that, because the controlled buy occurred after dark and Gillen did not
+specifically state that investigators had an unobstructed view of the Chevy Tahoe, it is possible
+that the box did not, in fact, come from Defendant’s vehicle. [ECF No. 48 at 8]. The affidavits
+make clear, however, that investigators searched the CS’s car before the controlled buy, followed
+the CS to the controlled buy location, and observed the controlled buy. [ECF No. 48-1 ¶¶ 20–22;
+ECF No. 48-3 ¶¶ 17–19]. As a result, it was reasonable for the magistrate judge to infer that the
+box the CS retrieved came from Defendant’s car.
+
+
+                                                   7
+         Case 1:19-cr-10445-ADB Document 55 Filed 08/28/20 Page 8 of 12
+
+
+
+to that location after the October 2 controlled buy. [Id. ¶¶ 20, 27]. This evidence further
+
+corroborated the CS’s information and provided additional support for a probable cause finding
+
+that evidence related to Defendant’s drug trafficking could be found within the residence.
+
+       As for the CS’s reliability, the CS provided information about his/her past deals with
+
+Defendant, identified the make and model of Defendant’s car, and provided Defendant’s
+
+telephone number and city of residence, all based on his/her personal experience with Defendant.
+
+[ECF No. 48-1 ¶ 19; ECF No. 48-3 ¶ 16]. See United States v. Greenburg, 410 F.3d 63, 67 (1st
+
+Cir. 2005) (“A specific, first-hand account of possible criminal activity is a hallmark of a
+
+credible tip.”). In providing this information, the CS implicated him/herself in past transactions
+
+with Defendant. See [ECF No. 48-1 ¶ 19 (describing how long CS had known the Defendant,
+
+how they communicated, and how they typically transacted business)]. “When a self-
+
+incriminating statement is provided by an informant whose identity is known to the authorities,
+
+the statement is more likely to be true because of the risk inherent in making such a statement.”
+
+Greenburg, 410 F.3d at 67–68. Defendant also argues that the affidavit does not contain
+
+information establishing CS’s past reliability as an informant, however the First Circuit has held
+
+that “an informant’s tip can establish probable cause even though the affidavit does not contain
+
+information about the informant’s past reliability.” Id. at 67.
+
+       As a final challenge, Defendant argues that the affidavits should have included
+
+information corroborating that Defendant “was a repeat drug distributor” and that they relied
+
+instead on only one controlled buy. [ECF No. 48 at 8]. Although evidence of multiple drug
+
+deals is not required under First Circuit precedent, there was evidence from both the CS and
+
+corroborating evidence from investigators that Defendant was more than a one-time drug
+
+trafficker. See United States v. Garcia, 983 F.2d 1160, 1167 (1st Cir. 1993) (affirming
+
+
+
+
+                                                 8
+         Case 1:19-cr-10445-ADB Document 55 Filed 08/28/20 Page 9 of 12
+
+
+
+conviction after reviewing probable cause supporting a warrant describing a single controlled
+
+buy). The affidavits included information—both from the CS and investigators—supporting the
+
+contention that Defendant was not a one-time dealer. First, the CS described past transactions
+
+and the fact that Defendant would “typically ‘front[]’ CS the drugs” and that CS would then
+
+“pay[] [Defendant] back at a later date.” [ECF No. 48-1 ¶ 19; ECF No. 48-3 ¶ 16]. Investigators
+
+observed and listened in on a conversation between the CS and Defendant, during which the CS
+
+said that he/she needed to “re-up”—in other words, get another supply of drugs from Defendant.
+
+[ECF No. 48-1 ¶ 19; ECF No. 48-3 ¶ 17]. Investigators also listened in on and observed the
+
+controlled buy, during which no payment was exchanged, corroborating CS’s information that
+
+he/she and Defendant usually (i.e., on past occasions) arranged payment at a later time. [ECF
+
+No. 48-1 ¶¶ 21–22; ECF No. 48-3 ¶¶ 18–19, 21]. 2
+
+       In reviewing the totality of the circumstances, there was ample support for the magistrate
+
+judge’s finding that both warrants were supported by credible information that had been
+
+confirmed and corroborated by investigators. See Bregu, 948 F.3d at 417.
+
+       B.      October 23 Affidavit and Nexus
+
+       Courts “evaluate the nexus element in the familiar way, examining ‘whether, given all the
+
+circumstances set forth in the affidavit . . . there [was] a fair probability that contraband or
+
+
+
+
+2
+  The Court notes that the facts here are distinguishable from the case cited by Defendant, United
+States v. Khounsavanh, in which the First Circuit declined to adopt a per se rule that a single
+controlled buy was sufficient to support probable cause. 113 F.3d 279, 285 (1st Cir. 1997); [ECF
+No. 54 at 6]. As the First Circuit noted, “a probable cause determination is fundamentally a fact-
+specific inquiry. No one factor possesses talismanic powers.” Khounsavanh, 113 F.3d at 285.
+Here, a single controlled buy was not the only information provided in support of the affidavits.
+Instead, investigators provided information from a CS as well as their own observations of
+Defendant’s activities, providing multiple touchpoints in support of the probable cause finding.
+
+
+                                                   9
+        Case 1:19-cr-10445-ADB Document 55 Filed 08/28/20 Page 10 of 12
+
+
+
+evidence of a crime [would] be found in a particular place.’” Bregu, 948 F.3d at 417 (alterations
+
+in original) (quoting Gates, 462 U.S. at 238).
+
+       With regard to the ‘nexus’ element, . . . ‘a magistrate has to make a practical,
+       common-sense decision whether, given all the circumstances set forth in the
+       affidavit before him [or her], . . . there is a fair probability that contraband or
+       evidence of a crime will be found in a particular place.’
+
+Rodrigue, 560 F.3d at 33 (quoting Ribeiro, 397 F.3d at 49). “Put differently, the application
+
+must give someone of ‘reasonable caution’ reason to believe that evidence of a crime will be
+
+found at the place to be searched.” Id. (quoting Ribeiro, 397 F.3d at 49).
+
+       Here, Gillen presented sufficient evidence of a nexus between the drug sales and the
+
+location to be searched, 75 Seymour Avenue, to establish probable cause that evidence related to
+
+the drug sales would be located there. First, the affidavit referenced GPS data showing that
+
+Defendant returned to the 75 Seymour Avenue residence each night and that Defendant returned
+
+to the residence after attempting to meet the CS to obtain payment for the October 2 controlled
+
+buy, while investigators had observed him entering the residence and also saw him return to that
+
+location after the October 2 controlled buy. [ECF No. 48-3 ¶¶ 20–21, 27]. In addition to this
+
+information, which directly linked Defendant to 75 Seymour Avenue in connection with drug
+
+transactions, Gillen referenced her training and experience in stating that “it is generally a
+
+common practice for drug traffickers to store drug-related paraphernalia and records in their
+
+residences” and that she had participated in several searches of the residences of traffickers’
+
+whose activity was similar to Defendant’s where evidence of drug trafficking had been found.
+
+[Id. ¶ 23]. The magistrate judge was entitled to credit Gillen’s observations as the First Circuit
+
+recognizes that “a law enforcement officer’s training and experience may yield insights that
+
+support a probable cause determination.” United States v. Bain, 874 F.3d 1, 23 (1st Cir. 2017)
+
+(quoting United States v. Floyd, 740 F.3d 22, 35 (1st Cir. 2014)).
+
+
+
+                                                 10
+        Case 1:19-cr-10445-ADB Document 55 Filed 08/28/20 Page 11 of 12
+
+
+
+       “The nexus between the objects to be seized and the premises searched need not, and
+
+often will not, rest on direct observation, but rather ‘can be inferred from the type of crime, the
+
+nature of the items sought, the extent of an opportunity for concealment and normal inferences as
+
+to where a criminal would hide [evidence of a crime] . . . .’” United States v. Feliz, 182 F.3d 82,
+
+88 (1st Cir. 1999) (quoting United States v. Charest, 602 F.2d 1015, 1017 (1st Cir. 1979)). In
+
+this case, the magistrate judge properly inferred from Gillen’s descriptions of Defendant’s
+
+behavior and Gillen’s prior experience that there was a “fair probability” that evidence related to
+
+drug sales could be found at 75 Seymour Avenue. See United States v. Roman, 942 F.3d 43, 52
+
+(1st Cir. 2019) (stating that observation of a defendant “mov[ing] back and forth from his
+
+residence in relation to drug transactions” could “permit an inference of nexus to a defendant’s
+
+residence”); United States v. Dixon, 787 F.3d 55, 60 (1st Cir. 2015) (“In drug cases, there is
+
+often probable cause to believe that evidence of the crime will be found where the suspected
+
+drug dealer lives, at least where, as here, ‘[n]o other residence or drug-dealing headquarters of
+
+[the defendant’s has been] identified.’” (quoting Feliz, 182 F.3d at 88)); United States v. Barnes,
+
+492 F.3d 33, 37 (1st Cir. 2007) (“[W]hen a defendant sells drugs outside his home, it is
+
+reasonable to conclude that there is evidence of his drug dealing activity in the home . . . .”). The
+
+nexus element was therefore met and, under the totality of the circumstances, the magistrate
+
+judge’s finding of probable cause was properly supported by the October 23 affidavit.
+
+       C.      Good Faith Exception
+
+       Even if the Court were to conclude that the warrants were issued without probable cause,
+
+the Defendant’s motion would fail to overcome the “good faith exception.” The Supreme Court
+
+has held that suppression is inappropriate where, as here, officers’ good faith reliance on a
+
+warrant is reasonable. United States v. Leon, 468 U.S. 897, 922 (1984). Assuming, arguendo,
+
+
+
+
+                                                 11
+         Case 1:19-cr-10445-ADB Document 55 Filed 08/28/20 Page 12 of 12
+
+
+
+ that the warrants at issue did not demonstrate probable cause, the fruits of the searches would
+
+ still be admissible because the warrants were not “so lacking in indicia of probable cause as to
+
+ render official belief in its existence entirely unreasonable.” Id. at 923 (quoting Brown v.
+
+ Illinois, 422 U.S. 590, 610–11 (1975)).
+
+IV.     CONCLUSION
+
+        Accordingly, Defendant’s motion to suppress, [ECF No. 48], is DENIED.
+
+        SO ORDERED.
+
+ August 28, 2020                                              /s/ Allison D. Burroughs
+                                                              ALLISON D. BURROUGHS
+                                                              U.S. DISTRICT JUDGE
+
+
+
+
+                                                 12
+

@@ -1,0 +1,618 @@
+                           UNITED STATES DISTRICT COURT
+
+                                  DISTRICT OF MAINE
+
+CHARLES LEE MILES,                            )
+                                              )
+                 Petitioner,                  )
+                                              )
+       v.                                     )       1:10-cr-00076-JAW-1
+                                              )       1:13-cv-00382-JAW
+                                              )
+UNITED STATES OF AMERICA,                     )
+                                              )
+                 Respondent                   )
+
+
+            RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+       Petitioner Charles L. Miles moves to vacate, set aside or correct his sentence,
+
+pursuant to 28 U.S.C. § 2255. (Motion, ECF No. 39.) Petitioner was convicted in 2010,
+
+following a guilty plea, of conspiracy to possess with intent to distribute oxycodone, in
+
+violation of 21 U.S.C. §§ 846, 841(a)(1), 841(b)(1)(C) (Count I of the Information); and of
+
+possessing a firearm during and in relation to a drug trafficking crime, in violation of 18
+
+U.S.C. § 924(c)(1)(A) (Count II of the Information). (Second Amended Judgment, ECF
+
+No. 34.)
+
+       In support of his motion, Petitioner asserts that he did not commit a firearms offense
+
+in violation of 18 U.S.C. § 924(c)(1)(A) because there was an insufficient nexus between
+
+the firearm, which federal agents found at his residence, and the drug trafficking conspiracy
+
+that was the subject of Count I. Petitioner also maintains that his counsel was ineffective;
+
+that recent Supreme Court cases (Alleyne v. United States, 133 S. Ct. 2151 (2013), Peugh
+
+v. United States, 133 S. Ct. 2072 (2013), and McQuiggin v. Perkins, 133 S. Ct. 1924 (2013))
+
+support his request for relief; and that he is “actually innocent” of the charges of which he
+
+was convicted.
+       For the reasons explained below, the recommendation is that the Court deny
+
+Petitioner’s motion.
+
+                                    I.     BACKGROUND
+
+       Petitioner waived indictment and pled guilty to the information in which the
+
+government charged a conspiracy and possession of a 9mm pistol in furtherance of a drug
+
+trafficking crime. (Second Amended Judgment; Information, ECF No. 7.) According to
+
+the prosecution, the evidence at trial would have established that Petitioner sold between
+
+20 to 50 oxycontin 80 mg pills per day from November 18, 2009, to January 14, 2010.
+
+(Prosecution Version at 1, ECF No. 10.) The government further maintained that Petitioner
+
+conspired with others to distribute the pills in the Bangor area, and that on one occasion
+
+Petitioner sold oxycontin and accepted as payment the 9mm pistol that was the subject of
+
+Count II of the information. Officers found the gun near 35 oxycontin pills at Petitioner’s
+
+residence. (Prosecution Version at 1.)
+
+       As part of the plea agreement, Petitioner agreed that the applicable penalties for
+
+Count I included imprisonment of not more than thirty years, followed by supervised
+
+release of a minimum of six years and a maximum of life; that the penalties for Count II
+
+included imprisonment of not less than five years and a maximum of life, followed by
+
+supervised release of not more than five years; that his sentence on Count II must be
+
+consecutive to the sentence imposed for the underlying drug trafficking crime; and that he
+
+understood that if any supervised release was revoked, he may be required to serve up to
+
+five additional years in prison, pursuant to 18 U.S.C. § 3583. (Plea Agreement at 2, ECF
+
+No. 11.) The plea agreement also addressed the waiver of appeal as follows:
+
+               Defendant is aware that Title 18, United States Code, Section 3742
+       affords a defendant the right to appeal the sentence imposed. Knowing that,
+       Defendant waives the right to appeal the following:
+
+
+                                            2
+              a.      Defendant’s guilty plea and any other aspect of Defendant’s
+       conviction in the above-captioned case; and
+
+              b.      A sentence of imprisonment that does not exceed 210
+       months.
+       The Defendant’s waiver of his right to appeal shall not apply to appeals
+       based on a right that has been newly recognized by the Supreme Court and
+       made retroactively applicable to cases on collateral review.
+
+              The number of months mentioned in this paragraph does not
+       necessarily constitute an estimate of the sentence that the parties expect will
+       be imposed.
+
+(Plea Agreement at 3-4.) The Court accepted the plea. (ECF No. 13.)
+
+       At sentencing, the Court granted Petitioner’s motion for a downward departure
+
+from the sentencing guidelines based on his cooperation with the government. (Motion,
+
+ECF No. 24; Order, ECF No. 30.) On September 29, 2010, the Court entered judgment
+
+and sentenced Petitioner to 84 months on Count I and 60 months on Count II, to be served
+
+consecutively, followed by a term of supervised release of six years on Count I and five
+
+years on Count II, to be served concurrently.           (Judgment at 2-3, ECF No. 31.)
+
+Subsequently, the Court amended the judgment to address forfeiture-related information in
+
+the judgment, and to provide Petitioner’s United States Marshal’s identification number.
+
+(ECF Nos. 33, 34.) The Second Amended Judgment was entered on October 13, 2010.
+
+(ECF No. 34.) Neither amended judgment altered the terms of imprisonment or supervised
+
+release.
+
+       Petitioner did not appeal from any of the judgments. As the government noted,
+
+Petitioner filed a pro se application in the First Circuit in May 2013, requesting permission
+
+to file a second or successive petition in accordance with his 28 U.S.C. § 2255 petition.
+
+Miles v. United States, No. 13-1702 (1st Cir. June 13, 2013). The First Circuit denied the
+
+application, citing Petitioner’s failure to pursue a section 2255 motion in the District Court.
+
+(ECF No. 36.) Petitioner filed a section 2255 motion in this Court on October 16, 2013,
+                                              3
+which was approximately three years after entry of the Second Amended Judgment and
+
+two years after the expiration of the limitations period set forth in section 2255(f)(1). The
+
+government argues that Petitioner did not file the motion timely, and, alternatively, that the
+
+motion fails on the merits. (ECF No. 42.)
+
+                                       II.     DISCUSSION
+
+        A. Timeliness
+
+        Petitioner has the burden of establishing grounds for relief on a motion filed
+
+pursuant to 28 U.S.C. § 2255. David v. United States, 134 F.3d 470, 474 (1st Cir. 1998).
+
+The statute of limitations for section 2255 motions is set forth in 28 U.S.C. § 2255(f), which
+
+provides:
+
+        A 1–year period of limitation shall apply to a motion under this section. The
+        limitation period shall run from the latest of—
+
+                (1) the date on which the judgment of conviction becomes final;
+
+                (2) the date on which the impediment to making a motion created
+                    by governmental action in violation of the Constitution or laws
+                    of the United States is removed, if the movant was prevented
+                    from making a motion by such governmental action;
+
+                (3) the date on which the right asserted was initially recognized by
+                    the Supreme Court, if that right has been newly recognized by
+                    the Supreme Court and made retroactively applicable to cases
+                    on collateral review; or
+
+                (4) the date on which the facts supporting the claim or claims
+                    presented could have been discovered through the exercise of
+                    due diligence.
+
+See Turner v. United States, 699 F.3d 578, 582 (1st Cir. 2012).
+
+        Because Petitioner did not appeal from any of the judgments, including the Second
+
+Amended Judgment, the judgment against him became final on October 27, 2010 (i.e.,
+
+fourteen days after the October 13, 2010, Second Amended Judgment). See Fed. R. App.
+
+P. 4(b)(1)(A) (“In a criminal case, a defendant’s notice of appeal must be filed in the district
+                                               4
+court within 14 days after the later of: (i) the entry of either the judgment or the order being
+
+appealed; or (ii) the filing of the government’s notice of appeal.”). Petitioner filed this
+
+section 2255 motion in this Court on October 16, 2013, which was nearly three years after
+
+the Second Amended Judgment and two years after the limitations period under section
+
+2255(f)(1) had expired.          The motion was, therefore, not filed timely under section
+
+2255(f)(1). See McKoy v. United States, Nos. 2:09-cr-00056-DBH-1, 2:12-cv-00347-
+
+DBH, 2013 WL 530470, at *1, 2013 U.S. Dist. Lexis 19366, at *2-3 (D. Me. Jan. 4, 2013)
+
+(recommended decision) (adopted Feb. 12, 2013).1
+
+        Petitioner argues that his motion was filed timely under section 2255(f)(3) (i.e.,
+
+based on a right recently recognized by the Supreme Court), citing several recent Supreme
+
+Court cases. Petitioner first contends that he is entitled to relief based on the Supreme
+
+Court’s decision in Alleyne v. United States, 133 S. Ct. 2151 (2013). More specifically,
+
+Petitioner argues that Alleyne, in which the Court addressed the need for a jury to make
+
+findings that increase a statutory minimum sentence, applies retroactively to cases on
+
+collateral review and affords him the right to a jury trial.
+
+         Petitioner’s argument under section 2255(f)(3) fails. The Supreme Court's holding
+
+in Alleyne is actually an extension of its holding in Apprendi v. New Jersey, 530 U.S. 466,
+
+477 (2000). As the plurality explained in Alleyne, the Court held in Apprendi that “any fact
+
+that increased the prescribed statutory maximum sentence must be an ‘element’ of the
+
+offense to be found by the jury.” Alleyne, 133 S.Ct. at 2157 (emphasis added) (citing
+
+Apprendi, 530 U.S. at 483, n.10, 490). In Alleyne, the Court held that because mandatory
+
+
+1
+  Petitioner’s incorrect filing in the First Circuit of a motion requesting permission to file a second or
+successive motion did not toll the limitations period. See United States v. Daoust, 2013 WL 5873377, at *2,
+2013 U.S. Dist. Lexis 156471, at *5 (D. Me. Sept. 26, 2013) (recommended decision) (adopted Oct. 30, 2013)
+(noting that “an unnecessary request for leave to file a second or successive petition would not serve to toll
+the limitations period”). Petitioner does not argue to the contrary.
+
+                                                      5
+minimum sentences increase the penalty for a crime, “any fact that increases the mandatory
+
+minimum is an ‘element’ that must be submitted to the jury.” Id. at 2155.
+
+       Neither Alleyne nor Apprendi changes the analysis of the sentence imposed upon
+
+Petitioner’s plea.    As part of the plea agreement, Petitioner acknowledged his
+
+understanding of the penalties applicable to Counts I and II. As to Count I, which charged
+
+drug trafficking conspiracy, Petitioner agreed that he was subject to a maximum of 30 years
+
+of imprisonment, but no minimum term. This acknowledgement is consistent with 21
+
+U.S.C. § 841(b)(1)(C), which provides in relevant part that “[i]f any person commits such
+
+a violation after a prior conviction for a felony drug offense has become final, such person
+
+shall be sentenced to a term of imprisonment of not more than 30 years . . . .” Petitioner’s
+
+seven-year term of imprisonment was well below the statutory maximum, and was not
+
+based on a statutorily-mandated minimum sentence. Petitioner’s sentence on Count I,
+
+therefore, raises no issue under Apprendi or Alleyne. See United States v. Doe, 741 F.3d
+
+217, 234 (1st Cir. 2013) (holding, on direct appeal, that Alleyne did not apply because the
+
+facts found at sentencing did not “trigger a mandatory minimum punishment or alter a
+
+statutory maximum”).
+
+       Count II, by which Petitioner was charged the firearms offense, carried a statutory
+
+minimum sentence of five years, which minimum Petitioner acknowledged in the plea
+
+agreement. The plea agreement thus accurately stated the minimum sentence set forth in
+
+18 U.S.C. § 924(c)(1)(A), which provides in relevant part:
+
+       Except to the extent that a greater minimum sentence is otherwise provided
+       by this subsection or by any other provision of law, any person who, during
+       and in relation to any crime of violence or drug trafficking crime (including
+       a crime of violence or drug trafficking crime that provides for an enhanced
+       punishment if committed by the use of a deadly or dangerous weapon or
+       device) for which the person may be prosecuted in a court of the United
+       States, uses or carries a firearm, or who, in furtherance of any such crime,
+
+
+                                             6
+         possesses a firearm, shall, in addition to the punishment provided for such
+         crime of violence or drug trafficking crime—
+
+         (i) be sentenced to a term of imprisonment of not less than 5 years.
+
+Because the sentence imposed on Count II was within the range of penalties provided by
+
+law for the charge, and because the sentence was based on a plea that the Court accepted,
+
+the reasoning of Alleyne is inapplicable to Count II. See Doe, 741 F.3d at 234. 2
+
+         Petitioner also relies on Peugh, 133 S. Ct. 2072, in which the Supreme Court held
+
+that “there is an ex post facto violation when a defendant is sentenced under Guidelines
+
+promulgated after he committed his criminal acts and the new version provides a higher
+
+applicable Guidelines sentencing range than the version in place at the time of the offense.”
+
+Id. at 2078. The Court’s holding in Peugh is inapplicable in this case. First, the guidelines
+
+range did not change between the time of Petitioner’s offenses and the time of his
+
+sentencing.3 In addition, the Court granted Petitioner’s request for a downward departure
+
+(ECF No. 30), which resulted in a sentence that was below the otherwise applicable
+
+sentencing guideline range.
+
+         Finally, Petitioner cites McQuiggin, 133 S. Ct. 1924, in which the Court held that
+
+“a credible showing of actual innocence may allow a prisoner to pursue his constitutional
+
+
+2
+  Even if Count I or Count II had presented a scenario to which Alleyne otherwise might have applied, the
+First Circuit has not yet addressed whether Alleyne is to be applied retroactively to cases on collateral review,
+see Beaman v. United States, No. 13-2157 (1st Cir. Nov. 5, 2013), and this Court has held that in the absence
+of First Circuit holding to the contrary, Alleyne is not retroactively applicable. United States v. Reynoso, No.
+2:08-cv-111-DBH, 2:12-cv-165-DBH, 2014 WL 185333, at *5; 2014 U.S. Dist. Lexis 5202 (D. Me. Jan. 15,
+2014) (order affirming); 2013 U.S. Dist. Lexis 183690, at *11-12 (D. Me. Oct. 31, 2013) (recommended
+decision).
+3
+  The 2009 United States Sentencing Commission Guidelines Manual incorporated guideline amendments
+effective November 1, 2009, and earlier. See 28 U.S.C. §994(p). The 2010 United States Sentencing
+Commission Guidelines Manual incorporated guideline amendments effective November 1, 2010, and
+earlier. See id. Thus, Petitioner’s offenses, which occurred between November 18, 2009, and January 14,
+2010, and his sentencing, which was on September 29, 2010, all occurred while the 2009 Guidelines Manual
+was in effect. This case, therefore, does not raise the issues discussed in United States v. Pagán-Ferrer, 736
+F.3d 573, 596-99 (1st Cir. 2013) (“The issue is often complicated, however, when defendants . . . are
+sentenced for multiple convictions arising from offenses committed over a period of time that spans multiple
+versions of the frequently-revised Guidelines.”).
+                                                       7
+claims . . . on the merits notwithstanding the existence of a procedural bar to relief.” Id. at
+
+1931. However, the Court also held that an unjustified delay may reduce the reliability of
+
+a claim of actual innocence: “[a] federal habeas court, faced with an actual-innocence
+
+gateway claim, should count unjustifiable delay on a habeas petitioner’s part, not as an
+
+absolute barrier to relief, but as a factor in determining whether actual innocence has been
+
+reliably shown.” Id. at 1928.
+
+         Petitioner has no claim under section 2255(f)(4), nor has he demonstrated actual
+
+innocence. His claim under section 2255(f)(4) fails because he asserts no facts that were
+
+“discovered through the exercise of due diligence,” and thus the limitations period set forth
+
+in section 2255(f)(4) does not apply. Rather, he argues that there was an insufficient nexus
+
+between the gun found at his residence and the drug conspiracy. In particular, Petitioner
+
+argues that because he did not use or carry the gun either “during” or “in relation to” the
+
+drug trafficking crime in violation of 18 U.S.C. § 924(c)(1)(A), he did not violate the
+
+statute. Petitioner has advanced a legal argument rather than newly discovered facts.
+
+Section 2255(f)(4), therefore, does not apply. See Barreto-Barreto v. United States, 551
+
+F.3d 95, 99 n.4 (1st Cir. 2008) (“To the extent the petitioners attempt to argue that §
+
+2255(f)(4) applies, their argument is unavailing because the discovery of a new legal theory
+
+does not constitute a discoverable ‘fact’ for purposes of § 2255(f)(4).”).4 Petitioner asserts
+
+the same lack-of-nexus argument to support his contention that his claim should proceed
+
+on its merits because he is actually innocent. Petitioner’s argument is similarly lacking.
+
+
+
+
+4
+  Petitioner’s argument also lacks merit because 18 U.S.C. § 924(c)(1)(A) also makes it illegal to possess a
+firearm in furtherance of a drug trafficking crime. See Abbott v. United States, 131 S. Ct. 18, 25 (2010). By
+admitting to the crimes alleged in the two-count information, Petitioner admitted that the government had
+sufficient evidence to prove that he received the firearm in payment for one of the drug deals, thus
+establishing that he possessed the firearm in furtherance of the crime.
+
+                                                     8
+“It is important to note . . . that ‘actual innocence’ means factual innocence, not mere legal
+
+insufficiency.” Bousley v. United States, 523 U.S. 614, 623 (1998).
+
+       Petitioner cannot establish that he is entitled to proceed pursuant to 28 U.S.C.
+
+section 2255(f)(3) or 2255(f)(4), nor can he claim actual innocence. Accordingly, his
+
+request for relief is barred by the one-year limitations period set forth in section 2255.
+
+       B. Merit of the Motion
+
+       As explained above, the Court could deny Petitioner’s motion based on his failure
+
+to file timely the motion. Alternatively, the Court could deny Petitioner’s request for relief
+
+based on the motion’s lack of merit.
+
+       Petitioner’s first merit-based claim asserts ineffective assistance of counsel, citing
+
+his counsel’s alleged failure to advance his argument that there was an insufficient nexus
+
+between the firearm and the drug sales, and his counsel’s failure to advise him not to plead
+
+guilty on that basis. To succeed on a claim of ineffective assistance of counsel, a petitioner
+
+“must demonstrate both: (1) that ‘counsel's performance was deficient,’ meaning that
+
+‘counsel made errors so serious that counsel was not functioning as the “counsel”
+
+guaranteed the defendant by the Sixth Amendment’; and (2) ‘that the deficient performance
+
+prejudiced the defense.’” United States v. Valerio, 676 F.3d 237, 246 (1st Cir.2012)
+
+(quoting Strickland v. Washington, 466 U.S. 668, 687 (1984)). The two prongs of the
+
+ineffective assistance test are commonly referred to as the “cause” and “actual prejudice”
+
+tests. Bucci v. United States, 662 F.3d 18, 29 (1st Cir. 2011) (citing United States v. Frady,
+
+456 U.S. 152, 164-67 (1982)). A district court reviewing such claims need not address
+
+both prongs of the test because a failure to meet either prong will undermine the claim.
+
+Strickland, 466 U.S. at 697. Petitioner’s ineffective assistance claim lacks merit because,
+
+as discussed above, the underlying argument that there was an insufficient nexus between
+
+
+                                              9
+the firearm and the drug sales has no merit; Petitioner cannot demonstrate that counsel’s
+
+performance was ineffective or prejudicial because the argument is meritless. See Tse v.
+
+United States, 290 F.3d 462, 465 (1st Cir. 2002) (holding that because the petitioner’s
+
+“claims fail on the merits, his related claims that counsel rendered ineffective assistance in
+
+failing to press the claims at trial or on appeal must also fail”).
+
+         Petitioner also contends that the Court abused its discretion in failing to instruct the
+
+jury about the elements of section 924(c). This claim is unpersuasive because Petitioner
+
+did not have a jury trial; rather, he pled guilty.5
+
+         Petitioner next maintains that he was convicted of a crime that was different than
+
+the crime charged in the indictment. “[A] court cannot permit a defendant to be tried on
+
+charges that are not made in the indictment against him.” Stirone v. United States, 361
+
+U.S. 212, 217, (1960). To do otherwise would fail “to preserve the defendant's Fifth
+
+Amendment right to indictment by grand jury, to prevent re-prosecution for the same
+
+offense in violation of the Sixth Amendment, and to protect the defendant's Sixth
+
+Amendment right to be informed of the charges against him.” Brandao, 539 F.3d 44, 57
+
+(1st Cir. 2008) (citing United States v. Pierre, 484 F.3d 75, 81 (1st Cir.2007)).
+
+         In support of his argument, Petitioner refers to the rule of law that “[a] constructive
+
+amendment occurs when the charging terms of an indictment are effectively altered by the
+
+prosecution or the court after the grand jury has last passed upon them.” United States v.
+
+Rodríguez–Rodríguez, 663 F.3d 53, 58 (1st Cir. 2011) (citing Brandao, 539 F.3d at 57),
+
+
+
+5
+  Petitioner argues that he is entitled to a jury trial, pursuant to Alleyne, but that case is inapplicable for the
+reasons discussed above. As part of his argument, he asserts that after Alleyne, Almendarez–Torres v. United
+States, 523 U.S. 224 (1998), was no longer good law. In Almendarez-Torres, the Court held that the fact of
+a prior conviction need not be charged in the indictment or decided by a jury. 523 U.S. at 226-27. As the
+First Circuit recently noted, the Alleyne Court “stated that [Almendarez–Torres] remains good law.” United
+States v. Carrigan, 724 F.3d 39, 51 n. 4 (1st Cir.2013).
+
+
+                                                        10
+cert. denied, ––– U.S. ––––, 132 S. Ct. 1592 (2012). Simply stated, Petitioner’s contention
+
+is without merit because he did not have a trial, and he pled to an information. Petitioner
+
+waived indictment and was convicted based on his plea to an information. An information
+
+is “[a] formal criminal charge made by a prosecutor without a grand-jury indictment.”
+
+Black’s Law Dictionary 849 (9th ed. 2009). Because Petitioner waived the presentment of
+
+the charges to the grand jury, and because Petitioner was not tried on an amended
+
+indictment, Petitioner cannot prevail on this basis.
+
+           Finally, Petitioner argues that counsel was ineffective for failing to file a notice of
+
+appeal. As part of the plea agreement, Petitioner waived his right to appeal. The First
+
+Circuit has stated:
+
+           In this circuit, presentence waivers of appellate rights are enforceable if they
+           meet certain criteria. [United States v. Teeter, 257 F.3d 14, 23 (1st Cir.
+           2001)]. First, we require that the defendant enter into the waiver
+           “knowingly and voluntarily.” Id. at 24–25; accord United States v. Torres–
+           Oliveras, 583 F.3d 37, 40 (1st Cir. 2009). In examining whether the
+           defendant knowingly and voluntarily waived his appellate rights, the text of
+           the written plea agreement and the change-of-plea colloquy are of critical
+           importance. Teeter, 257 F.3d at 24. We evaluate whether the written plea
+           agreement “contains a clear statement elucidating the waiver and
+           delineating its scope,” and whether the district court “inquire[d] specifically
+           at the change-of-plea hearing into any waiver of appellate rights,” as
+           required by [Fed. R. Crim. P. 11(b)(1)(N)]. Id. Second, even if the waiver
+           is knowing and voluntary, we retain discretion not to enforce the waiver if
+           it would result in a “miscarriage of justice.” Id. at 25; accord Torres–
+           Oliveras, 583 F.3d at 42.
+
+Sotirion v. United States, 617 F.3d 27, 33 (1st Cir. 2010); see also United States v. Ríos-
+
+Hernández, 645 F.3d 456, 461 (1st Cir. 2011) (“A criminal defendant may waive his right
+
+to appeal as long as his waiver is voluntary and made with knowledge of the consequences
+
+of the waiver.”). Here, the Court accepted the plea, and Petitioner does not claim that his
+
+plea was involuntary or that enforcing the plea agreement would result in a miscarriage of
+
+justice.
+
+
+                                                 11
+        This Court recently noted that “[n]either the Supreme Court nor the First Circuit
+
+has yet decided whether [an] attorney’s failure to file a requested appeal, notwithstanding
+
+a valid waiver of appeal, constitutes deficient performance and gives rise to a presumption
+
+of prejudice.” United States v. Granger, Nos. 2:11-cr-139-DBH-02, 2:13-cv-74-DBH,
+
+2013 WL 5671153, at *9-11, 2013 U.S. Dist. Lexis 147989 (D. Me. Oct. 15, 2013), 2013
+
+U.S. Dist. Lexis 148955, at *24-28 (D. Me. Sept. 4, 2013) (recommended decision)
+
+(collecting cases and noting a split of authority among the circuit courts). In the absence
+
+of controlling authority to the contrary, the authority cited in Granger, holding that an
+
+attorney does not have a duty to file a notice of appeal when there is a valid waiver of the
+
+right to appeal, remains persuasive. Id. (citing United States v. Mabry, 536 F.3d 231, 242
+
+(3d Cir. 2008); Nunez v. United States, 546 F.3d 450, 453-56 (7th Cir. 2008)). Petitioner
+
+thus cannot demonstrate either deficient performance or prejudice by counsel’s failure to
+
+file a notice of appeal.
+
+                                     III.     CONCLUSION
+
+        For the reasons stated above, no evidentiary hearing is warranted under Rule 8 of
+
+the Rules Governing Section 2255 Cases. Accordingly, the recommendation is that the
+
+Court deny Petitioner’s motion for habeas relief under 28 U.S.C. § 2255, and that because
+
+there is no substantial showing of the denial of a constitutional right within the meaning of
+
+28 U.S.C. § 2253(c)(2), the Court deny a certificate of appealability pursuant to Rule 11 of
+
+the Rules Governing Section 2255 Cases.
+
+                                            NOTICE
+
+                 A party may file objections to those specified portions of a
+        magistrate judge’s report or proposed findings or recommended decisions
+        entered pursuant to 28 U.S.C. 636(b)(1)(B) for which de novo review by the
+        district court is sought, together with a supporting memorandum, within
+        fourteen (14) days of being served with a copy thereof. A responsive
+
+
+                                              12
+memorandum shall be filed within fourteen (14) days after the filing of the
+objection.
+
+        Failure to file a timely objection shall constitute a waiver of the right
+to de novo review by the district court and to appeal the district court's order.
+
+                                                /s/ John C. Nivison
+                                                U.S. Magistrate Judge
+
+March 12, 2014
+
+
+
+
+                                       13
+

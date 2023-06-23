@@ -1,0 +1,418 @@
+        Case 3:21-cr-00399-ADC-MDM Document 72 Filed 05/11/23 Page 1 of 10
+
+
+                             THE UNITED STATES DISTRICT COURT
+                              FOR THE DISTRICT OF PUERTO RICO
+
+
+
+
+     UNITED STATES OF AMERICA,
+
+         Plaintiff,
+
+          v.                                                    Crim. No. 21-399 (ADC)
+
+     JOSE LATORRE-CACHO,
+
+          Defendant.
+
+
+
+                                        OPINION AND ORDER
+
+        Before the Court is José LaTorre-Cacho’s (“defendant”) motion to suppress evidence. ECF
+
+No. 45. 1 For the following reasons, the motion is DENIED.
+
+I.      Procedural background
+
+        A.     Motion to suppress
+
+        Defendant filed a motion to suppress evidence obtained by the government on the day
+
+of his arrest at the Jardines del Paraíso Public Housing Project (“Jardines del Paraíso”). ECF No.
+
+45. Defendant included an affidavit with very general allegations in support. ECF No. 51. The
+
+government filed a response. ECF No. 60.
+
+
+
+
+1The government originally requested the Court to deny defendant’s untimely motion to suppress on its face
+because the deadline to file dispositive motions had elapsed. ECF No. 47. Although the government’s request was
+not unreasonable, considering that a Superseding Indictment was returned in March 2023 the Court, in its
+discretion, will allow the motion even if filed after the expiration of Court sanctioned deadlines.
+        Case 3:21-cr-00399-ADC-MDM Document 72 Filed 05/11/23 Page 2 of 10
+
+
+                                                                                                           Page 2
+
+
+        In essence, defendant challenges the government’s version of the events that led to his
+
+arrest and the search and seizure of certain items. According to defendant, on October 12, 2021,
+
+he was smoking near his apartment at the Jardines del Paraíso, when suddenly one of “several”
+
+agents who entered the housing project “drew his firearm and pointed it at him while
+
+identifying himself as a law enforcement officer.” ECF No. 45 at 1. Following the instructions of
+
+the agents, defendant raised his hands and then placed them on the wall next to him. Id., at 2.
+
+One of the agents searched him and “allegedly” 2 found a Glock firearm, a magazine with eleven
+
+bullets and other items. Defendant argues he was subjected to an unlawful search and seizure.
+
+Accordingly, he asks the Court to suppress all items “allegedly” seized by the government
+
+pursuant to the protections of the Fourth Amendment. Id.; see U.S. CONST. amend. IV.
+
+        On April 21, 2023, the government filed its response. ECF No. 60. In essence, the
+
+government argued that under the specific facts of this case, defendant was arrested and
+
+searched after he “voluntarily informed police that he possessed a firearm,” which the
+
+government contends, “mak[es] the Fourth Amendment inapplicable.” Id., at 2. In any case, the
+
+government’s argument continues, the search and arrest “was reasonable under the Terry 3
+
+doctrine.” Id.
+
+
+
+
+2 The Court will continue to underscore defendant’s use of the term “allegedly” in connection with the items seized
+by the government for a very specific reason explained herein further below.
+3 Referring to Terry v. Ohio, 392 U.S. 1, 22 (1968).
+        Case 3:21-cr-00399-ADC-MDM Document 72 Filed 05/11/23 Page 3 of 10
+
+
+                                                                                                         Page 3
+
+
+        B.      Suppression hearing
+
+        On April 26, 2023, the Court held a hearing on defendant’s motion to suppress. ECF No.
+
+63. At the outset, the Court questioned the need for an evidentiary hearing given the fact that
+
+defendant’s contentions, at best, seemed to revolve around credibility issues surrounding
+
+defendant’s arrest, to wit, whether or not his arrest (and the ensuing search and seizure of
+
+several items, including a firearm) occurred the way the government proffers it did. Moreover,
+
+the Court asked defendant’s counsel how they intended to call into question the credibility of
+
+the agents for suppression purposes.
+
+        The government sided with this Court’s interpretation as to the nature of the issue (one
+
+of pure credibility) and argued that, in any case, defendant lacked standing to seek suppression
+
+of the evidence because he failed to claim a property interest over the seized items. The
+
+government cited several First Circuit cases in support of its lack of standing argument.
+
+        On the other side of the aisle, the defense did not raise any legal grounds or cite caselaw
+
+in support of a finding of standing. Neither did defendant’s counsel point to any part of the
+
+affidavit appended to the motion (or the motion itself) in support of a finding of standing.
+
+Instead, the defense argued that the government waived any standing challenge by not raising
+
+it in their response to the motion to suppress. 4 Addressing the Court’s questions, the defense
+
+
+4Moreover, defense’s sole substantive argument deserves recognition, but for the wrong reasons. To wit, defense
+counsel argued that defendant had Fourth Amendment standing simply because the government charges
+defendant with possession of the firearm. If that were the case, then every single defendant would satisfy Fourth
+Amendment standard ipso facto and the expectation of privacy test would be superfluous. Under that lackadaisical
+        Case 3:21-cr-00399-ADC-MDM Document 72 Filed 05/11/23 Page 4 of 10
+
+
+                                                                                                         Page 4
+
+
+proffered that they would cross-examine the witness and use “documents” to presumably
+
+impeach the agents’ account of the events.
+
+        Although evidentiary hearings are only required “if the movant makes a sufficient
+
+threshold showing that material facts are in doubt or dispute, and that such facts cannot reliably
+
+be resolved on a paper record[,]” the Court granted defendant the benefit of the doubt as well
+
+as an opportunity to establish standing by ordering the parties to proceed with the evidentiary
+
+hearing. United States v. Cintrón, 724 F.3d 32, 36 (1st Cir. 2013)(quoting United States v. Francois,
+
+715 F.3d 21, 32 (1st Cir. 2013)). 5
+
+        The government called a witness and entered several photographs into evidence. Despite
+
+the defense’s initial representations to the effect that some “documents” were to be introduced,
+
+defendant only cross-examined the government’s witness and presented no evidence for
+
+impeachment, standing or otherwise. See ECF No. 64.
+
+II.     Discussion
+
+        A.      Standing
+
+        “The Fourth Amendment's protection against unreasonable searches and seizures
+
+extends only to those places and interests in which the defendant has a reasonable expectation
+
+
+
+logic, the Court would have to ditch decades of precedent on Fourth Amendment’s standing expectation of privacy
+discussed herein, which, for obvious reasons, the Court respectfully declines to do.
+5 The Court was under no obligation to grant defendant an evidentiary hearing, especially in light of defendant’s
+
+barebones request for suppression. See U.S. v. Francois, 715 F.3d 21, 32 (1st Cir. 2013).
+       Case 3:21-cr-00399-ADC-MDM Document 72 Filed 05/11/23 Page 5 of 10
+
+
+                                                                                                Page 5
+
+
+of privacy.” United States v. Lewis, 40 F.3d 1325, 1333 (1st Cir. 1994)(citations omitted). To
+
+determine the expectation of privacy, courts must analyze “whether the movant has exhibited
+
+an actual, subjective, expectation of privacy; and [], whether such subjective expectation is one
+
+that society is prepared to recognize as objectively reasonable.” United States v. Rheault, 561 F.3d
+
+55, 59 (1st Cir. 2009) (citing Smith v. Maryland, 442 U.S. 735, 740, (1979)); see also Katz v. United
+
+States, 389 U.S. 347, 88 (1967). In other words, “whether… the individual thought of the place
+
+(or the article) as a private one, and treated it as such.” United States v. Aguirre, 839 F.2d 854, 857
+
+(1st Cir. 1988).
+
+       It is defendant’s threshold burden to establish a reasonable expectation of privacy. U.S.
+
+v. Lipscomb, 539 F.3d 32, 35 (1st Cir. 2008)(“[b]efore reaching the merits of a suppression
+
+challenge, the defendant carries the burden of establishing that he had a reasonable expectation
+
+of privacy…”). Because it is defendant’s burden to establish standing before the Court even
+
+addresses the merits of a Fourth Amendment violation, defendant’s claim that the government
+
+waived the standing challenge is inapposite.
+
+       Moreover, defendant claims “no interest in the items [or]… that the government seized
+
+them from him.” U.S. v. Lipscomb, 539 F.3d at 35. Which raises an unavoidable hurdle against
+
+his request for suppression: “defendants who fail to establish or claim ownership of an item…
+
+lack a sufficient privacy interest to assert a Fourth Amendment violation.” Id., at 36. Absolutely
+
+nothing in defendant’s affidavit or motion to suppress even hints at a claim of ownership or
+        Case 3:21-cr-00399-ADC-MDM Document 72 Filed 05/11/23 Page 6 of 10
+
+
+                                                                                                              Page 6
+
+
+interest over the seized items. In fact, defendant’s motion simply states that the agents
+
+“allegedly found a Glock firearm… a magazine with eleven bullets, currency, three cellular
+
+telephones and a notebook.” ECF No. 45 at 2 (emphasis added). Thus, not only does defendant
+
+disown any interest over the property (which would be fatal standing-wise), he does not admit
+
+that such items even exist at this juncture. In short, defendant has failed to establish a minimum
+
+reasonable expectation of privacy. See U.S. v. Mancini, 8 F.3d 104, 107 (1st Cir. 1993)(“a defendant
+
+who fails to demonstrate a legitimate expectation of privacy in the… item seized will not have
+
+standing to claim that an illegal search or seizure occurred.”).
+
+        In light of all the above, defendant failed to meet the Fourth Amendment standing
+
+requirement by failing to establish a reasonable expectation of privacy over the seized items.
+
+Therefore, the Court need not go any further. On this ground, defendant’s motion to suppress
+
+at ECF No. 45 is thus DENIED.
+
+        B.      Defendant’s substantive argument for suppression
+
+        In any event, defendant’s request to suppress evidence is also unavailing on its merits.
+
+Defendant’s argument boils down to the not-so-original “things [did not] happen[] the way
+
+described by the government.” ECF No. 45 at 2. Even in his affidavit, which is at best
+
+conclusory, 6 defendant only calls into questions two details of the day of his arrest: whether the
+
+
+6Certainly not “sufficiently definite, specific, detailed, and nonconjectural, to enable the court to conclude that a
+substantial claim is presented.” United States v. Agosto-Pacheco, 2019 WL 4566956, at *6 (D.P.R. 2019) (quoting United
+States v. Calderón, 77 F.3d 6, 9 (1st Cir. 1996)).
+       Case 3:21-cr-00399-ADC-MDM Document 72 Filed 05/11/23 Page 7 of 10
+
+
+                                                                                              Page 7
+
+
+agents pointed their firearms at him and whether he admitted having a firearm on him. ECF No.
+
+51-1 at 1-2. Both allegations, challenge the existence of probable cause for the arrest and
+
+subsequent seizure of the weapon.
+
+       Even though the Court granted defendant a clearly unwarranted evidentiary hearing, he
+
+failed to provide an alternate, specific version of the events that led to his arrest and the search
+
+and seizure of the evidence. Instead, defendant’s counsel simply opted (quite unsuccessfully) to
+
+impeach the government’s witness. The government’s witness, PRPD Agent Elí Alemán,
+
+however, did not fall for counsel’s cross-examination snares. On the contrary, his testimony
+
+remained steadily consistent and, in this Court’s opinion, perfectly credible and truthful.
+
+       The government’s witness, PRPD Agent Elí Alemán, was one of the agents that
+
+participated in defendant’s arrest and the search and seizure through which they obtained the
+
+evidence defendant now seeks to suppress. He had personal knowledge of all relevant events
+
+and confirmed in very specific ways the version of the events put forth in the affidavit attached
+
+to the criminal complaint, ECF No. 1-1 and the Superseding Indictment, ECF No. 40. Specifically,
+
+he testified that pursuant to an alleged written operational plan that included several Public
+
+Housing Projects, agents entered Jardines del Paraíso in an unmarked vehicle, which was left
+
+parked nearby, and headed towards building number 25 on foot, which was a known drug
+       Case 3:21-cr-00399-ADC-MDM Document 72 Filed 05/11/23 Page 8 of 10
+
+
+                                                                                                    Page 8
+
+
+point. He was walking along Agent E. Pérez. 7 They walked to building 25 undetected. As they
+
+reached the last step of the stairs leading to Building 25, they heard from a 2-way radio near the
+
+place where defendant stood, an alert indicating that the police had been detected. Agent
+
+Alemán clearly heard someone yelling “agua” (“water”) 8. Defendant was coming out through
+
+the hallway behind the apartment on the first floor of Building 25. The police noticed he was
+
+carrying a “2-way radio” on his right hand. The agents immediately heard the message “agua”
+
+from defendant’s radio. Upon noticing the two approaching agents, defendant raised his hands
+
+as soon as the agents announced themselves as “police.” Although the agents never drew their
+
+weapons (wore civilian clothes and did not show their badge) defendant raised his arms and
+
+voluntarily informed them that he was armed. Once defendant raised his hands and admitted
+
+to possessing a weapon without a license, Agent Pérez pulled the weapon from defendant’s
+
+waist, unloaded it and proceeded to search a bag next to defendant and read defendant his
+
+Miranda rights. Defendant admitted to not having a license for the firearm and added that he
+
+was in federal supervised release. Throughout the intervention, the agents continued to hear
+
+over defendant’s “walkie-talkie” the alert over the police presence. The alert was transmitted by
+
+continuously stating “agua, agua.”
+
+
+
+
+7 Aside from entering the public housing project in an unmarked vehicle, both agents were wearing “civilian
+clothing” and their weapons were not visible and never drawn. Neither were their badges visible.
+8 The term “agua” (water) is commonly known to alert about the police presence at a given area.
+        Case 3:21-cr-00399-ADC-MDM Document 72 Filed 05/11/23 Page 9 of 10
+
+
+                                                                                                            Page 9
+
+
+        “In general terms, probable cause exists when police have sufficient reason to believe that
+
+they have come across evidence of a crime.” United States v. Paneto, 661 F.3d 709, 714 (1st Cir.
+
+2011). Defendant’s admissions and the totality of the circumstances support a finding of
+
+probable cause in this case. See generally U.S. v. Harris, 403 U.S. 573, 583 (1971)(“People do not
+
+lightly admit a crime… Admissions of crime, like admissions against proprietary interests, carry
+
+their own indicia of credibility—sufficient at least to support a finding of probable cause to
+
+search.”)).
+
+        According to this version of the facts, which the Court finds credible at this juncture, the
+
+agents lawfully arrested defendant. Both his arrest and search and seizure of the weapon were
+
+based on probable cause. The Court need not dwell on this issue for long. After all, defendant
+
+does not challenge the lawfulness of the search and seizure under the facts stated by the
+
+government. He simply contends (without any testimony, evidence or even an affidavit) that
+
+the search and arrest did not occur as the agents stated it did. Although the Court granted
+
+defendant the opportunity to show otherwise, there is nothing in the record to support an
+
+alternative finding. Notably, adding to this point, defendant’s cross-examination almost
+
+exclusively focused on probing the government’s case and obtaining testimony of a witness that,
+
+absent the evidentiary hearing, defendant would not have had access to prior to trial.9
+
+
+9The Court is not blind to improper defense tactics such as this one: utilizing a suppression hearing as a discovery
+tool. However, in this case, based on defense counsel’s representations that “documents” would be introduced into
+evidence, the Court considered that perhaps the benefit of the doubt outweighed the undue advantage that
+defendant would gain from peeking at the government’s case beforehand.
+       Case 3:21-cr-00399-ADC-MDM Document 72 Filed 05/11/23 Page 10 of 10
+
+
+                                                                                         Page 10
+
+
+       Therefore, even if defendant had met Fourth Amendment standing (which he did not),
+
+there is nothing on the record that supports a finding of an unreasonable search and seizure, or
+
+an illegal arrest.
+
+III.   Conclusion
+
+       For all the above, defendant’s motion to suppress at ECF No. 45 is DENIED.
+
+       SO ORDERED.
+
+       At San Juan, Puerto Rico, on this 11th day of May, 2023.
+
+                                                 S/AIDA M. DELGADO-COLÓN
+                                                  United States District Judge
+

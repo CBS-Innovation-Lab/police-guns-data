@@ -1,0 +1,1342 @@
+             Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 1 of 26
+
+
+
+
+                         IN THE UNITED STATES DISTRICT COURT
+                           FOR THE DISTRICT OF PUERTO RICO
+
+    UNITED STATES OF AMERICA,
+                                                              CRIMINAL NO. 18-211 (DRD)
+      Plaintiff,
+
+        v.
+
+    [2] JONATHAN TORRES-ROJAS,
+
+     Defendant.
+
+
+                                OMNIBUS OPINION AND ORDER
+
+         Pending before the Court is Defendant, Jonathan Torres-Rojas’ Motion to Suppress
+
+Statements the Product of Repeated, Unrelenting Interrogatories, on Numerous Days, which
+
+had the Cumulative Impact of Coercion (Docket No. 79). A Response in Opposition was filed
+
+by the United States. See Docket No. 871.
+
+         The Defendant is essentially claiming that his “December 22nd statements were not the
+
+product of voluntary choice, but rather a result of unconstitutional police conduct, and
+
+therefore must be suppressed,” as “[t]he totality of the circumstances support the sufficiency
+
+of the prima facie showing that [his] statements on December 22nd, 2016, were not voluntary,
+
+and therefore in violation of his Fifth Amendment rights.” Docket No. 79 at pp. 3, 10. In
+
+Opposition, the Government asks the Court to deny Torres-Rojas’ suppression “because the
+
+defendant’s statements, as contained in Defendant’s sworn statement, are simply not accurate
+
+and therefore, they do not amount to an unknowing and involuntary confession under the law.”
+
+Docket No. 87 at p. 4.
+
+
+1
+ After the Suppression Hearing concluded, the United States and the Defendant filed supplemental briefs per Court
+order on June 13, 2022. See Docket Nos. 148 and 149, respectively.
+            Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 2 of 26
+
+
+
+
+           Sometime thereafter, Torres-Rojas filed a Supplemental Suppression Motion pursuant
+
+to Franks v. Delaware, 438 U.S. 154, 171 (1978). See Docket No. 150. A Response in
+
+Opposition was filed by the United States. See Docket No. 158. This time, Torres-Rojas claims
+
+that “Agent Arnold Garcia provided false information in the affidavit for a search warrant for
+
+the DNA of Mr. Torres . . . knowingly or with reckless disregard for the truth, and without its
+
+inclusion, the Aibonito Court that granted the warrant would have instead made a negative
+
+finding as to probable cause.” Docket No. 150 at p. 1. In turn, the United States argues that the
+
+Court should deny the motion as the search is presumed to be valid per First Circuit precedent.
+
+As such,
+
+           Defendant has failed to rebut the presumption: He has failed to make the
+           requisite ‘substantial preliminary showing’ that the Puerto Rico Police
+           Department (“PRPD”) agent who prepared the affidavit in support of the state
+           search warrant made any false statement (let alone intentionally or recklessly,
+           as required by established jurisprudence) that was material to the probable cause
+           finding that resulted in the issuance of the warrant.
+
+Docket No. 158 at pp. 1-2.
+
+           For the reasons stated herein, the Court hereby DENIES the Defendant’s Motion to
+
+Suppress (Docket No. 79) and Franks Motion (Docket No. 150).
+
+                       I.       FACTUAL AND PROCEDURAL BACKGROUND
+
+           This case stems from a carjacking offense resulting in the death of the owner of El
+
+Rejon del Gallo, a small chinchorro2 located in the Municipality of Orocovis, Puerto Rico.
+
+Specifically, on June 12, 2015, as the owner of the bar was closing his business for the night,
+
+assailants robbed him from cash and a vehicle, a 2001 Gray Toyota Sequoia, V8 4WD, PR
+
+License Plate: EDL-582, VIN No. 5TDBT44A71S22909. See Indictment, Docket No. 3 at p.
+
+
+2
+    “A word used in Puerto Rico for a small, unassuming bar.” Docket No. 149 at p. 2, n.1.
+
+                                                           2
+        Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 3 of 26
+
+
+
+
+2. The owner was ultimately shot by one of the assailants and died at the scene. See id. The
+
+assailants fled the scene thereafter. See id.
+
+       An investigation by the Puerto Rico Police Department (hereinafter, “PRPD”) began
+
+within days of the events. See Transcript of Suppression Hearing, Day 2, Docket No. 142 at
+
+p. 44. The FBI joined the investigation early on. See id. at p. 45. As the investigation proceeded,
+
+Torres-Rojas became a suspect. See id. at p. 42. By July 2016, Torres-Rojas had become a
+
+prime suspect as codefendant, Juan Negron “Raton” signaled him out as a suspect, namely, the
+
+shooter. See id. at pp. 9, 22. Raton was a suspect from the beginning of the investigation. See
+
+Transcript of Suppression Hearing, Day 1, Docket No. 140 at p. 32. At some point after the
+
+events that led to this case, Raton was arrested for an unrelated state charge. While he was
+
+imprisoned, the FBI paid him a visit and questioned him related to this case. It was then that
+
+Raton signaled Torres-Rojas as a participant of the robbery. See id. at p. 33. As the PRPD had
+
+Torres-Rojas’ mugshot on file, the officers showed the photo to Raton, and he identified the
+
+Defendant. See id. at p. 34.
+
+       As a result thereof, FBI Task Force Officers (hereinafter, “TFO”) Cristobal Rodriguez
+
+and Carlos Cabán began searching for Torres-Rojas within his community. See id. Upon
+
+identifying his residence through residents of the neighborhood, the TFOs left him a note in
+
+his door asking that he contact them. See id. Torres-Rojas contacted the agents, and the TFOs
+
+informed him that they needed to speak to him. As such, Torres-Rojas appeared at the Orocovis
+
+station on August 8, 2016. See id. at p. 35. By that time, Torres-Rojas was already a suspect
+
+of the crime. See id. at p. 36.
+
+       On August 8, 2016, Torres-Rojas appeared at the Orocovis station with his father. See
+
+id. While his father waited outside, Torres-Rojas was taken to an interrogation room for the
+                                                3
+        Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 4 of 26
+
+
+
+
+interview. See id. at p. 35. The interview was recorded and lasted approximately 20 minutes.
+
+See id. at p. 50. The Defendant was given his Miranda rights, which were read to him by the
+
+TFOs as he claimed that he did not know how to read. See id. at p. 37; see also Gov. Exhibit
+
+No. 1. Essentially, the TFOs made some background questions and inquired him as to his
+
+participation in the murder of the businessman in Orocovis. See Transcript of Suppression
+
+Hearing, Day 1, Docket No. 140 at p. 11. He denied that he had any participation in the murder.
+
+See id. When the Defendant was asked whether he was willing to undergo a polygraph test, he
+
+said he had to check with an attorney. See id. at p. 53. When he was asked whether he was
+
+willing to undergo a DNA test, he said he had to consult with an attorney. The agents then told
+
+him that was his right. See id. at p. 54. The interview lasted around half an hour and Torres-
+
+Rojas was free to go but agreed to speak with the agents again if need be. See id. at pp. 11, 13.
+
+The Defendant appeared normal, calmed and he was not under arrest or handcuffed during this
+
+interview. See id. at pp. 12-13.
+
+       Within a few days, PRPD Agent Nelson Forti arrived at the precinct and overheard a
+
+conversation between PRPD Agent Arnold García and TFO Cabán about a murder and
+
+carjacking that took place in Orocovis. See id. at p. 61. The conversation caught Forti’s
+
+attention as it was related to the murder of a businessman in his business. See id. Upon
+
+inquiring as to whether they have any suspects related to these events, TFO Cabán stated the
+
+name of Jonathan Torres-Rojas. See id. He was surprised as Torres-Rojas had cooperated and
+
+testified in a previous case handled by Agent Forti. See id. at p. 62. The Defendant even
+
+provided a sworn statement that led to the resolution of that case. See id. As García and Cabán
+
+told him that they were interested in interviewing him, Forti drove to the Defendant’s residence
+
+in an official Puerto Rico Police vehicle. See id. Upon arriving he spoke with Torres-Rojas’
+                                               4
+         Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 5 of 26
+
+
+
+
+father, and since the Defendant was not at the residence Forti gave his number to Torres-Rojas’
+
+father and asked him to inquire if the Defendant could give him a call. See id. at p. 63. After
+
+finishing his shift, Forti received a call from an unknown number, and it was Torres-Rojas.
+
+See id. Forti narrated to the Defendant that fellow officers attached to the FBI task force were
+
+interested in interviewing him pertaining to a case named El Rejon del Gallo. See id. at p. 64.
+
+Forti also told Torres-Rojas that the agents would read him his rights and that if he wanted to
+
+talk, to tell the truth. See id. The Defendant replied by telling Forti “that he was there but the
+
+one that shot was ‘Raton,’ who went up an embankment.” Id. Forti finished by telling the
+
+Defendant that he would provide the agents with the number he made the call from so that they
+
+call Torres-Rojas in order to set up an interview. See id. Forti testified that during the call,
+
+Torres-Rojas seemed calm, normal. See id. at pp. 64-65. Forti informed the agents that he had
+
+spoken to the Defendant and gave them his phone number. See id. at p. 65. But he only told
+
+Agent Cabán what he told him over the phone regarding the murder of the businessman. See
+
+id. at p. 75.
+
+        On August 18, 2016, Torres-Rojas arrived at the Orocovis station with his father and
+
+met with TFOs Cabán and Rodriguez. See id. at p. 14. The interview was recorded. See id. at
+
+p. 50. This time, the TFOs read the Miranda rights to the Defendant; thereafter Torres-Rojas
+
+apologized for a misunderstanding with Agent Forti as to his willingness to be interviewed
+
+further. See Gov. Exhibits No. 2 and 2a; see also Transcript of Suppression Hearing, Day 2,
+
+Docket No. 142 at p. 102. Torres-Rojas denied once again his involvement with the murder or
+
+carjacking and that he would speak to an attorney later. See Transcript of Suppression Hearing,
+
+Day 1, Docket No. 140 at p. 17. He further told the agents that he did not want to talk about
+
+this matter anymore, and the next time he spoke with the agents would be with an attorney
+                                                5
+        Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 6 of 26
+
+
+
+
+present. See id. at p. 44. The agents forewarned the Defendant that there were going to be
+
+federal charges for the incident and that there were other people signaling him out as the
+
+participant. See id. Lastly, the agents told Torres-Rojas next time he saw them it will be bad
+
+news, to which Torres-Rojas riposted that next time he saw them would be with an attorney.
+
+See id. Yet, Torres-Rojas seemed calmed during the interview. See id. at p. 17. The interview
+
+concluded within ten (10) minutes and the Defendant left with his father. See id. at p. 44.
+
+Torres-Rojas was never handcuffed or under arrest during this interview. See id. at p. 28.
+
+       Sometime later, PRPD homicide agent, Arnold García was assigned to this case in the
+
+state law enforcement investigation. See Transcript of Suppression Hearing, Day 2, Docket
+
+No. 142 at p. 9. Upon getting acquainted with the case and the interviews that had been made,
+
+Agent García proceeded to obtain a state DNA search warrant against Torres-Rojas dated
+
+December 21, 2016. See id. at pp. 8-9. Agent García gave a sworn statement as part of the
+
+request for a search warrant before the Court of Aibonito. See id. at pp. 48-49; see also Dft.
+
+Exhibit No. A- A1. Later that day, several agents, including Agent Forti, served the summons
+
+for the DNA search warrant on Torres-Rojas and asked him to appear at the Aibonito police
+
+headquarters in order to execute the warrant. See Transcript of Suppression Hearing, Day 2,
+
+Docket No. 142 at pp. 64-65; see also Dft. Exhibit No. B-B1. Thereupon, the PRPD informed
+
+the FBI that they would be conducting the DNA swab upon Torres-Rojas and requested
+
+support from the FBI to take the swabs and ship them to the FBI laboratory in Quantico. See
+
+Transcript of Suppression Hearing, Day 1, Docket No. 140 at pp. 78-79.
+
+       On December 22, 2016, FBI agents, José Alvarado, Cristobal Rodríguez, and Carlos
+
+Cabán went to the Aibonito precinct and met with Agent García and a PRPD technical services
+
+agent for the collection of the swabs. See id. The Court notes that although Cristobal Rodríguez
+                                               6
+          Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 7 of 26
+
+
+
+
+testified under oath that he was not present during Torres’ December 22, 2016, interview,
+
+Torres-Rojas, PRPD Agent García and TFO Alvarado all testified that TFO Rodríguez was
+
+present. Likewise, the FBI’s receipt for the Defendant’s DNA swab dates December 22, 2016,
+
+was signed as received by TFO Rodríguez. See Dft. Exhibit No. D3. Torres-Rojas arrived at
+
+the police headquarters accompanied by his father. See id. at 79. On said date the following
+
+events took place.4 The Defendant’s father approached the FBI agents and inquired as to what
+
+was going on as he was worried about his son. The agents moved to a more secluded area of
+
+the hallway and explained to his father that Torres-Rojas was a suspect in an investigation and
+
+that others were signaling him as the shooter. See id. at pp. 79-80. Upon speaking with the
+
+agents, Torres’ father asked to speak to his son alone. Once the Defendant’s father spoke to
+
+him, he approached the FBI agents and told them that Torres-Rojas “is willing to talk with
+
+you.” See id. at p. 81. According to Torres-Rojas, during his conversation with his father, he
+
+was crying and told him “that if [he] knew anything about what [the Defendant] was being
+
+accused of, to tell the truth.” See Transcript of Suppression Hearing, Day 2, Docket No. 142
+
+at p. 110. Thereupon, Torres-Rojas acceded to speak with the agents, the agents read him his
+
+Miranda rights and told the truth about what happened that night. See Gov. Exhibit No. 4-4a.5
+
+
+3
+  BY MS. EARL: Q. On direct testimony, you mentioned that Agent Cabán and Agent Alvarado had interviewed Mr.
+Torres on December 22, 2016.
+A. Yes.
+Q. To be clear for the record, you were not present at the December 22nd interview?
+A. No.
+Q. So you have no personal knowledge about what Mr. Torres said, if anything, during that interview?
+A. No.
+Transcript of Suppression Hearing, Day 1, Docket No. 140 at pp. 46-47.
+4
+  The Court notes that although there is dispute as to the order in which the events took place that day, the exhibits
+provided by the parties demonstrate that on December 22, 2016, Torres-Rojas was mirandized first by federal agents
+at 12:24 p.m. and then by the PRPD before the DNA swab at 1:05 p.m. See Gov. Exhibit 4; Dft. Exhibit No. C-C1.
+5
+  Q. And you mentioned that your father told you that if you knew anything about this investigation, to tell the truth.
+Is that right?
+A. [Torres-Rojas] He said that to me, yes. That's right.
+Q. And going back a little bit, you said you have a very good relationship with your dad, correct?
+
+                                                          7
+          Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 8 of 26
+
+
+
+
+During his interview, Torres-Rojas seemed to be relaxed, just concerned like his father. See
+
+Transcript of Suppression Hearing, Day 1, Docket No. 140 at p. 85.
+
+         During the interview, Agent Alvarado took notes as to the facts that were being narrated
+
+by Torre-Rojas. Thereupon, Agent Alvarado read and handed the notes to Torres-Rojas to
+
+make sure that they were accurate, and asked Torres-Rojas to sign them if he agreed with its
+
+contents. See id. at p. 88; see also Gov. Exhibit No. 5-5a. Torres-Rojas signed the notes. The
+
+interview lasted approximately forty (40) minutes. See id. at p. 94. This interview was not
+
+recorded. See Transcript of Suppression Hearing, Day 1, Docket No. 140 at pp. 54-55. Torres-
+
+Rojas and his father left the Aibonito headquarters after the interview and DNA swab. The
+
+Court notes that during this interview, Torres-Rojas did not appear with an attorney and did
+
+not request an attorney at any time. See Transcript of Suppression Hearing, Day 2, Docket No.
+
+142 at p. 134. He was never handcuffed nor placed under arrest. See Transcript of Suppression
+
+Hearing, Day 1, Docket No. 140 at p. 93.
+
+         Five (5) days later, namely, on December 27, 2016, the FBI agents contacted Torres-
+
+Rojas and asked him to come to their regional offices in Ponce, Puerto Rico because they had
+
+some follow up questions regarding the account of events he provided during the December
+
+
+
+
+A. That is correct.
+Q. So I am assuming that you have a lot of respect for your father.
+A. That is correct.
+Q. And I am also assuming that you have a lot of love for your father.
+A. That is correct.
+Q. So in that moment when you saw your father asking you that if you knew anything, to say the truth, you felt forced
+to say something; is that right?
+A. That is correct.
+Q. And you told the truth?
+A. I told the truth, yeah.
+Q. Which is what your dad had asked you to do?
+A. That is correct.
+See Transcript of Suppression Hearing, Day 2, Docket No. 142 at p. 132 (emphasis ours).
+
+                                                         8
+            Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 9 of 26
+
+
+
+
+22, 2016, interview. See id. at p. 96. As Torres-Rojas claimed that his car would not survive a
+
+trip to Ponce, Agents Cabán and Rodríguez offered to pick him up and drove him to the Ponce
+
+regional office. See id. at p. 47. Upon arrival, the Defendant was read his Miranda rights, the
+
+agents explained that he was not under arrest, and Torres-Rojas gave statements to Cabán,
+
+Rodríguez and Alvarado. See id. at pp. 20, 97. During this interview, Torres-Rojas reiterated
+
+his participation in the carjacking and murder that took place on June 12, 2016, and answered
+
+follow up questions including the amount of money that was stolen and if narcotics were used
+
+during the robbery. See id. at p. 97. Agent Alvarado, once again, took notes during the
+
+interview and handed them over to Torres-Rojas so that he would review them and sign them.
+
+See id. at p. 99; see also Gov. Exhibit No. 6-6a. Torres-Rojas signed the notes.6 The interview
+
+lasted approximately fifteen (15) minutes and was not recorded. See Transcript of Suppression
+
+Hearing, Day 1, at pp. 55, 101. During this interview, Torres-Rojas seemed calmer and more
+
+helpful than in the previous interview. See id. at pp. 28, 102. He was not handcuffed nor placed
+
+under arrest. See id. Torres-Rojas did not request the presence of an attorney during this
+
+interview and was driven back to Orocovis by the agents once the interview concluded. See id.
+
+at p. 102. The Defendant was ultimately placed under arrest on March 27, 2018, namely, one
+
+(1) year and three (3) months after the final interview.
+
+            Torres-Rojas now moves to suppress the incriminatory statements provided to law
+
+enforcement officers as they “were not the product of voluntary choice, but rather a result of
+
+unconstitutional police conduct …” which had “a coercive effect.” Docket No. 79 at pp. 3 and
+
+5. Specifically, the Defendant claims that
+
+
+
+6
+    Ibid.
+
+                                               9
+         Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 10 of 26
+
+
+
+
+         [a]gents subjected [his] family to tactics that led [him] to make incriminating
+         statements. The circumstances surrounding [Torres’] third interrogation with
+         FBI agents differ from the previous occasions, and raise questions about the
+         propriety of the tactics employed by the agents. Though cooperative, [Torres]
+         had always demonstrated an unwillingness to make incriminating statements,
+         both on August 8 and 18; and he had the wherewithal to invoke counsel. The
+         interviews on August 8 and 18 were also shorter in nature.
+
+Id. at pp. 9-10. Therefore, Torres-Rojas claims that these statements are in violation of his Fifth
+
+Amendment Rights. Id. at p. 10.
+
+         In turn, the Government argues that “[n]ow, realizing that his confession has serious
+
+consequences, Torres has changed his tune. Without citing any evidence of police coercion or
+
+misconduct—and while acknowledging that he, initialed and signed multiple advisement of
+
+rights forms—Torres now claims that his confession was coerced, unknowing, and
+
+involuntary.” Docket No. 87 at p. 4. As such, “[t]he Court should deny Torres’ motion because
+
+defendant’s statement, as contained in Defendant’s sworn statement, are simply not accurate
+
+and therefore, they do not amount to an unknowing and involuntary confession under the law.”
+
+Id.
+
+                       II.     MOTION TO SUPPRESS STATEMENTS
+
+      A. Legal Standard
+
+         The Fifth Amendment right against self-incrimination prohibits courts from admitting
+
+into evidence a defendant’s involuntary confession. Dickerson v. U.S., 530 U.S. 428, 433, 120
+
+S.Ct. 2326, 147 L.Ed.2d 405 (2000); see U.S. Const. Amend. V. In assessing whether a
+
+confession is voluntary, courts must inquire “whether the will of the defendant had been
+
+overborne so that the statement was not his free and voluntary act.” Bryant v. Vose, 785 F.2d
+
+364, 367-68 (1st Cir. 1986) (quoting Procunier v. Atchley, 400 U.S. 446, 453, 91 S.Ct. 485,
+
+27 L.Ed.2d 524 (1971).
+                                                10
+          Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 11 of 26
+
+
+
+
+          The voluntary nature of the statements is determined by considering “the totality of
+
+circumstances, including both the nature of the police activity and the defendant’s situation.”
+
+United States v. Jacques, 744 F.3d 804, 809 (1st Cir. 2014) (quoting United States v. Hughes,
+
+640 F.3d 428, 438 (1st Cir. 2011)). Relevant considerations include the length and nature of
+
+the questioning, promises or threats made by investigators, and any deprivation of the suspect’s
+
+essential needs. Id. They also include the defendant’s personal circumstances, including his
+
+age, education, intelligence, and mental condition, as well as his prior experience with the
+
+criminal justice system. United States v. Jackson, 608 F.3d 100, 103 (1st Cir. 2010); United
+
+States v. Rojas-Tapia, 446 F.3d 1, 8 (1st Cir. 2006). A defendant’s calm demeanor and the
+
+lucidity of his statements weigh in favor of finding his confession voluntary. Jacques, 744 F.3d
+
+at 809.
+
+          Waiver of Miranda rights must also be voluntary. See e.g. U.S. v. Ceccolini, 435 U.S.
+
+268, 276, 98 S.Ct. 1054 (1978). While “the fact that a defendant was given Miranda warnings
+
+does not dispense with the voluntariness inquiry ... [the] cases in which a defendant can make
+
+a colorable argument that a self-incriminating statement was compelled despite the fact that
+
+law enforcement authorities adhered to ... Miranda are rare.” Dickerson, 530 U.S. at 444. Thus,
+
+only confessions that are “procured by coercive official tactics should be excluded as
+
+involuntary.” U.S. v. Bryan, 145 F.3d 405, 407 (1st Cir. 1998)(citing Colorado v. Conelly, 479
+
+U.S. 157, 167, 107 S.Ct. 515 (1986)). Where a knowing and intelligent waiver of Miranda
+
+rights is found to be uncoerced, the Court's Fifth Amendment waiver analysis is complete and
+
+waiver is valid as a matter of law. Moran v. Burbine, 475 U.S. 412, 422-23, 106 S.Ct. 1135,
+
+89 L.Ed.2d 410 (1986). In order to determine that officials used coercive tactics, the facts must
+
+
+
+                                               11
+       Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 12 of 26
+
+
+
+
+“add up to ‘police overreaching.’” United States v. Genao, 281 F.3d 305, 310 (1st Cir. 2002)
+
+(citing Conelly, 479 U.S. at 170).
+
+       Lastly, in Jacques, the First Circuit recognized that “psychological duress may suffice
+
+to overbear a defendant's will so as to make subsequent statements inadmissible.” Jacques, 744
+
+F.3d at 811. In sum, “an inquiring court must conduct the juridical equivalent of an
+
+archeological dig into the whole of the circumstances.” United States v. Hughes, 640 F.3d 428,
+
+438 (1st Cir. 2011).
+
+   B. Legal Analysis
+
+       The Fifth Amendment guarantees that no person “shall be compelled in any criminal
+
+case to be a witness against himself.” U.S.Const. Amend V. Thus, Miranda warns that law
+
+enforcement officers must employ certain procedural safeguards to ensure that a suspect's Fifth
+
+Amendment privilege is not infringed upon. Dickerson, 530 U.S. at 444; Miranda v. Arizona,
+
+384 U.S. 436, 479, 86 S.Ct. 1602 (1966). To comply with Miranda, a law enforcement officer
+
+“must give a suspect proper Miranda warnings before he [or she] is subjected to custodial
+
+interrogation.” Jackson, 544 F.3d at 356 (1st Cir. 2008)(citing Miranda, 384 U.S. at 479).
+
+Statements which are obtained in the absence of Miranda warnings must be suppressed. Id.
+
+Nonetheless, [t]he Miranda rule and its requirements are met if a suspect receives adequate
+
+Miranda warnings, understands them, and has an opportunity to invoke the rights before giving
+
+any answers or admissions.” Berghuis v. Thompkins, 560 U.S. 370, 387, 130 S. Ct. 2250,
+
+2263, 176 L. Ed. 2d 1098 (2010).
+
+       By the same token, the Supreme Court has explained that an invocation for counsel
+
+pursuant to Miranda must be made “unambiguously.” See Davis v. United States, 512 U.S.
+
+452, 459, 114 S.Ct. 2350, 129 L.Ed.2d 362 (1994). Specifically, when a defendant makes a
+                                              12
+       Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 13 of 26
+
+
+
+
+“simple, unambiguous statement” that “he want[s] to remain silent or that he [does] not want
+
+to talk with the police . . . [] invoke[s] his ‘right to cut off questioning.’” Berghuis, 560 U.S.
+
+at 382. Therefore, “[i]f an accused makes a statement concerning the right to counsel ‘that is
+
+ambiguous or equivocal’ or makes no statement, the police are not required to end the
+
+interrogation, or ask questions to clarify whether the accused wants to invoke his or
+
+her Miranda rights.” Berghuis, 560 U.S. at 381 (internal quotations omitted).
+
+       Yet, the prosecution bears the burden of proof and must show that Miranda waiver was
+
+not only knowing and intelligent, but also voluntary, by the preponderance of the
+
+evidence. Conelly, 479 U.S. at 169; Lego v. Twomey, 404 U.S. 477, 489, 92 S.Ct. 619 (1972).
+
+Importantly, “[a]n express written or oral statement of waiver of the right to remain silent or
+
+of the right to counsel is usually strong proof of the validity of that waiver, but is not inevitably
+
+either necessary or sufficient to establish waiver. The question is not one of form, but rather
+
+whether the defendant in fact knowingly and voluntarily waived the rights delineated in
+
+the Miranda case.” North Carolina v. Butler, 441 U.S. 369, 373, 99 S. Ct. 1755, 1757, 60 L.
+
+Ed. 2d 286 (1979). But ultimately, “[w]here the prosecution shows that a Miranda warning
+
+was given and that it was understood by the accused, an accused's uncoerced statement
+
+establishes an implied waiver of the right to remain silent. Berghuis, 560 U.S. at 384. Lastly,
+
+“[i]f [the Government] establishes that a Miranda warning was given, and the accused made
+
+an uncoerced statement, this showing, standing alone, is insufficient to demonstrate ‘a valid
+
+waiver’ of Miranda rights. The prosecution must make the additional showing that the accused
+
+understood these rights.” Id.
+
+       As previously explained, generally, the voluntary nature of the statements is determined
+
+by considering “the totality of circumstances, including both the nature of the police activity
+                                                 13
+          Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 14 of 26
+
+
+
+
+and the defendant’s situation.” Jacques, 744 F.3d at 809 (quoting Hughes, 640 F.3d at 438).
+
+The length and nature of the questioning, potential threats made by the law enforcement
+
+officers and deprivation of the suspect’s needs are some of the considerations that must be
+
+evaluated by the Court. See id. Additionally, the Court must consider the defendant’s personal
+
+circumstances such as, his age, education, intelligence, and mental condition, as well as his
+
+criminal record. See Jackson, 608 F.3d at 103. Lastly, the demeanor of the defendant also
+
+comes into play when determining whether a confession was voluntary. See Jacques, 744 F.3d
+
+at 809.
+
+          Here, an evaluation of the totality of circumstances surrounding the Defendant’s
+
+statements inclines against suppression. The Court explains. Torres-Rojas was interviewed in
+
+four (4) separate occasions. Namely, on August 8th, August 18th, December 22nd, and December
+
+27th, 2016. In all four (4) instances he was read and given his Miranda warnings, which he
+
+signed. See Gov. Exhibit Nos. 1-1a, 2-2a, 3-3a and 4-4a. There is no dispute as to Torres’
+
+signature in the Miranda forms. There is also no dispute that even if Torres-Rojas does not
+
+know how to read, he understands the Spanish language. The fact that the agents read the
+
+Miranda rights to the Defendant in Spanish, and he signed the Spanish language forms in all
+
+four (4) interviews weighs in favor of a knowing and voluntary waiver. Furthermore, no
+
+evidence has been presented that Torres-Rojas was threatened or coerced by the agents in any
+
+of the four (4) interviews. Torres-Rojas was not handcuffed nor placed under arrest in any of
+
+these four (4) instances, and he was free to go once the interviews concluded. Lastly, it is
+
+undisputed that Torres-Rojas said he would need to consult with an attorney prior to agreeing
+
+to a polygraph test and check with an attorney prior undergoing a DNA Test. This statements
+
+
+
+                                             14
+       Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 15 of 26
+
+
+
+
+are clearly ambiguous, thus, the agents were not required to end the interrogation. Berghuis,
+
+560 U.S. at 381.
+
+       Going through the interviews one by one, the August 8th interview lasted approximately
+
+15 minutes. It is undisputed that the agents did not tell Torres-Rojas that he was obligated to
+
+appear at the Orocovis precinct on that date or else he would be arrested. See Transcript of
+
+Suppression Hearing, Day 2, Docket No. 142 at p. 123. There is also no dispute that Torres-
+
+Rojas was asked as to his willingness to take a polygraph test. As he said he needed to “consult
+
+with an attorney to then do that procedure,” the agents finished the interview. See id. at pp.
+
+100-101.
+
+       Torres-Rojas was interviewed again on August 18th, 2016. There is no dispute that
+
+Torres-Rojas received a call from Forti a few days after the August 8th, interview. Initially, the
+
+Defendant did not answer the call, but he eventually called Forti back while some guests were
+
+over his house. See id. at p. 124. It is further undisputed that Forti did not threaten Torres-
+
+Rojas with an arrest if he did not agree to be interviewed. See id. at p. 125. Torres-Rojas agreed
+
+to return to the Orocovis precinct “to clarify a misunderstanding” with Agent Forti. Id. at p.
+
+103. According to Torres-Rojas, “Agent Forti got in touch with Agent Cabán, the federal
+
+agents, saying that [he] was going to talk to them” when that was not the case. Id. at p. 102.
+
+The second interview lasted approximately 12 or 15 minutes, and upon concluding he was free
+
+to go. See id. There is no dispute that he was not handcuffed or placed under arrest at any time.
+
+See id. at p. 126. It is also undisputed that Torres-Rojas did not appear with an attorney as he
+
+“was getting there to clarify a misconception that Forti had noticed, but not to be in an
+
+interview.” Id. at pp. 126-27. And once the Defendant clarified the misunderstanding the
+
+interview concluded, and he left the Orocovis precinct. See id.
+                                               15
+       Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 16 of 26
+
+
+
+
+       Moving on to the December 22nd, 2016, interview. On December 21st, 2016, a search
+
+warrant was issued by the Court in Aibonito. Torres-Rojas was served a citation to appear at
+
+the Aibonito precinct for a DNA sample. See id. at p. 128. There is no dispute that a DNA test
+
+was performed on the Defendant. And that the agents at some point spoke with Torres-Rojas’
+
+father for approximately ten (10) minutes. See id. at p. 131. As a result thereof, Torres-Rojas
+
+and his father spoke alone. And Torres-Rojas’ father was crying. See id. at pp. 131-32. It is
+
+also undisputed that Torres-Rojas’ father told him that if he knew anything about the
+
+investigation to tell the truth. See id. at p. 132. And thereupon, he told the truth to the agents
+
+as to his involvement in this case. See id. It is also undisputed that Torres-Rojas did not arrive
+
+at the Aibonito precinct with an attorney as “there was no time.” See id. at pp. 134-35. But
+
+Torres-Rojas did not request an attorney once he saw his father crying and asking him to tell
+
+the truth. See id. at p. 135. The interview lasted approximately 40 minutes. He was not
+
+handcuffed or placed under arrest during this interview. Once the interview ended, he was free
+
+to go with his father.
+
+       On December 27th, 2016, the last interview took place. Just like before, Torres-Rojas
+
+was not handcuffed nor placed under arrest at any time. The interview lasted approximately
+
+fifteen (15) minutes. And Torres-Rojas answered follow up questions as to his participation in
+
+the incident. He was never handcuffed or placed under arrest. Torres-Rojas was ultimately
+
+arrested in 2018. See id. at p. 114.
+
+       There are factors that weigh in favor of suppression. However, the Court finds that they
+
+pale in comparison with the Government’s showing by preponderance of the evidence that the
+
+Defendant voluntarily agreed to speak with the agents after being properly informed his
+
+Miranda rights. For instance, Torres-Rojas argues that “this court does not have the advantage
+                                               16
+       Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 17 of 26
+
+
+
+
+of viewing [his] demeanor or the agents’ tactics because the FBI agents here, acting contrary
+
+to their own policies, did not video or audio record either [his] statements on December 22 or
+
+December 27, 2016.” Docket No. 149 at p. 11. Yet, “in federal court … there is no federal
+
+constitutional right to have one’s custodial interrogation recorded.” United States v. Meadows,
+
+571 F.3d 131, 147 (1st Cir. 2009) “The federal courts uniformly have rejected the argument
+
+that the Constitution mandates, as a matter of due process, that a defendant's confession be
+
+electronically recorded.” Id. (quoting Roberto Iraola, The Electronic Recording of Criminal
+
+Interrogations, 40 U. Rich. L.Rev. 463, 471 (2006)). As a matter of fact, the Defendant relies
+
+on the testimony of Agent Alvarado in support of the recording policy requirement. Yet, Agent
+
+Alvarado describes the FBI’s recording of interviews as policy “when feasible.” Docket No.
+
+149 at p. 11; see also Transcript of Suppression Hearing, Day 2, Docket No. 142 at pp. 5-6.
+
+       The Defendant recognizes that “the court does not have to grant suppression simply
+
+because the agents chose not to record the interview, [but] it can take into consideration the
+
+agents’ reasons for not recording the only allegedly incriminating statements given by Mr.
+
+Torres, and whether it thinks those reasons are believable.” Docket No. 149 at p. 15. But the
+
+argument falls short as the reasons provided by the agents for not recording the last two (2)
+
+interviews are not necessarily unreasonable. For instance, Agent Alvarado explained that the
+
+December 22, 2016, interview was not recorded as they were not expecting to conduct an
+
+interview during their visit to Aibonito but rather to collect Torres’ DNA swab and work on
+
+other matters. See Transcript of Suppression Hearing, Day 2, at pp. 10-11. Whether the
+
+interview took place before the DNA swab or vice versa is not necessarily a determinant factor
+
+here, as recollections may vary when approximately six (6) years have passed since these
+
+
+
+                                              17
+         Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 18 of 26
+
+
+
+
+interviews took place. Even the Defendant’s sworn statement includes inconsistencies with the
+
+testimony he provided in Court. See generally Docket No. 79-1, ¶¶ 2, 4, 8, 10.
+
+         Next, the Defendant claims that his personal circumstances, i.e., his inability to read,
+
+and the fact that he is a special education student is to be considered “in evaluating the
+
+voluntariness of a confession.” Docket No. 149 at p. 17. However, even with his history in
+
+special education, it is undisputed that even if the Defendant does not know how to read, he
+
+understands the Spanish language. The fact that the agents read the Miranda rights to the
+
+Defendant in Spanish, and he signed the Spanish language forms in all four (4) interviews
+
+weighs in favor of a knowing and voluntary waiver.
+
+         In favor of suppression, Torres-Rojas also argues that he demonstrated truthfulness in
+
+a separate judicial proceeding. In 2013, the Defendant was a material witness in a state court
+
+case related to his brother’s murder. See Transcript of Suppression, Day 1, Docket No. 140 at
+
+pp. 59-60. Agent Forti testified that “thanks to [Torres’] help and integrity, the person
+
+[responsible for the murder] was found guilty in a state trial.” Id. As such, Forti was surprised
+
+when he heard that Torres-Rojas was potentially related to the carjacking and murder subject
+
+of this case. Id. at p. 62. Yet, as previously mentioned, there are inconsistencies between the
+
+Sworn Statement that was filed in support of suppression and the testimony that he gave in
+
+Court.
+
+         And lastly, the Defendant recurs to alleged contradictory statements from the agents
+
+that were called as witnesses. The Court finds questionable the fact that TFO Rodríguez
+
+claimed not to be present in the December 22nd, 2016, interview, yet Agent Alvarado and
+
+PRPD Agent García both testified that he was in fact present. Even more, the receipt of the
+
+DNA swab form dated December 22nd, 2016, contains TFO Rodríguez’s signature. See Dft.
+                                                18
+       Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 19 of 26
+
+
+
+
+Exhibit D. As to Agent Forti, the Defendant describes as unbelievable the fact that he only told
+
+Agent Cabán about incriminating statements Torres-Rojas made during their telephone
+
+conversation. Moreover, that Forti made no recording, took no notes, and did not make a report
+
+of said call. See Docket No. 149 at p. 21.
+
+       But ultimately, the voluntariness is determined not upon one factor but the totality of
+
+the circumstances surrounding the statements. In sum, “[t]he voluntariness of a waiver of th[e]
+
+[Fifth Amendment] privilege has always depended on the absence of police overreaching, not
+
+on ‘free choice’ in any broader sense of the word.” Connelly, 479 U.S. at 170; see Moran v.
+
+Burbine, 475 U.S. 412, 421, 106 S.Ct. 1135, 1141, 89 L.Ed.2d. 410 (1986). The arguments
+
+raised by the Defendant fall short in demonstrating that he was coerced into confessing. There
+
+is no evidence that Torres-Rojas was threatened, intimidated, or pressured into providing
+
+statements to the agents. As such, no police overreaching occurred. Therefore, based on the
+
+totality of the circumstances, the Court finds that the Defendant knowingly and voluntarily
+
+waived his First Amendment right to remain silent or of the right to counsel when making
+
+incriminating statements. As such, the Defendant’s Motion to Suppress Statements (Docket
+
+No. 79) is hereby DENIED.
+
+                    III.    SUPPLEMENTAL SUPPRESSION MOTION
+                             PURSUANT TO FRANKS V. DELAWARE
+
+       As previously mentioned, Torres-Rojas filed a Supplemental Suppression Motion
+
+pursuant to Franks v. Delaware, 438 U.S. 154, 171 (1978). See Docket No. 150. A Response
+
+in Opposition was filed by the United States. See Docket No. 158. This time, the Defendant
+
+claims that “Agent Arnold Garcia provided false information in the affidavit for a search
+
+warrant for the DNA of Mr. Torres . . . knowingly or with reckless disregard for the truth, and
+
+
+                                              19
+       Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 20 of 26
+
+
+
+
+without its inclusion, the Aibonito Court that granted the warrant would have instead made a
+
+negative finding as to probable cause.” Docket No. 150 at p. 1. In turn, the United States argues
+
+that the Court should deny the motion as the search is presumed to be valid per First Circuit
+
+precedent. According to the Government,
+
+       Defendant has failed to rebut the presumption: He has failed to make the
+       requisite ‘substantial preliminary showing’ that the Puerto Rico Police
+       Department (“PRPD”) agent who prepared the affidavit in support of the state
+       search warrant made any false statement (let alone intentionally or recklessly,
+       as required by established jurisprudence) that was material to the probable cause
+       finding that resulted in the issuance of the warrant.
+
+Docket No. 158 at pp. 1-2.
+
+   A. Legal Standard
+
+       The Fourth Amendment protects “[t]he right of the people to be secure in their persons,
+
+houses, papers, and effects, against unreasonable searches and seizures, shall not be violated,
+
+and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and
+
+particularly describing the place to be searched, and the persons or things to be seized.” U.S.
+
+Const. Amend. IV. Therefore, law enforcement must generally secure a warrant prior to
+
+conducting a search or seizure. See U.S. v. Rigaud, 684 F.3d 169, 173 (1st Cir.2012). “Probable
+
+cause exists when the totality of the circumstances suggest that ‘there is a fair probability that
+
+contraband or evidence of a crime will be found in a particular place.” ’ Id. (quoting U.S. v.
+
+Hicks, 575 F.3d 130, 136 (1st Cir.2009) (internal quotation marks omitted)).
+
+       The issuance of a search warrant can be supported by an affidavit. See Id. A
+
+presumption of validity attaches to the supporting affidavit, but a defendant can challenge the
+
+substance of the affidavit by requesting a Franks hearing. See Id.; Franks v. Delaware, 438
+
+U.S. 154, 171, 98 S.Ct. 2674, 2684, 57 L.Ed.2d 667 (1978). A Franks hearing is only
+
+
+                                               20
+       Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 21 of 26
+
+
+
+
+appropriate when a defendant shows that the affidavit contained “allegations of deliberate
+
+falsehood or of reckless disregard for the truth,” which “must be accompanied by an offer of
+
+proof.” Franks, 438 U.S. at 171. Nevertheless, even if a defendant makes a showing of
+
+deliberate falsehood or reckless disregard for the truth, a court must deny a request for a
+
+hearing if “there remains sufficient content in the warrant to support a finding of probable
+
+cause.” Id. at 171–172.
+
+   B. Legal Analysis
+
+       The Sworn Statement submitted by PRPD Agent Arnold García in support of the
+
+issuance of a search warrant against Torres, subject to this suppression request under Franks
+
+provides in its pertinent part that,
+
+       On the date of June 12, 2015, [García] was assigned complaint number 2015-
+       13- 055-02255 for the crime of Murder in which Mr. José Medina Meléndez
+       was killed, events which occurred at Highway 566, kilometer 3.2, Bo. Saltos
+       Cabra, Business El Rejón del Gallo in Orocovis, where also the motor vehicle
+       Make Toyota, Model Sequoia, color gray, license plate EDL-582, year 2001,
+       belonging to the deceased, was stolen. The Puerto Rico Police Department,
+       along with the Evidence Response Unit of the F.B.I. Task Force recovered said
+       vehicle on June 15, 2015, at 7:30 p.m., at Highway 157, kilometer 17.0 interior,
+       Barrio Damián Arriba, Sector Culebra in Orocovis, which is a solitary, wooded
+       area, removed from the main community. In said vehicle, evidence was
+       collected with genetic material and fingerprints related to these events. Through
+       interviews performed and tips, Mr. Jonathan Torres Rojas has come up as one
+       of the suspects. It emerges from said interview that this young man was seen
+       together with Brandon Vélez López and Juan Negrón Rodríguez a.k.a. Ratón
+       [tr. note, in English, “Mouse”], who were driving said motor vehicle toward the
+       area of the Culebra Sector of the Damián Arriba neighborhood in Orocovis. It
+       also emerges that two days after the events of the murder, the young man
+       Brandon Vélez López was seen together with Juan Negrón Rodríguez a.k.a.
+       Ratón [tr. note, in English, “Mouse”] and Jonathan Torres Rojas, leaving the
+       place where the aforementioned vehicle was recovered. Moreover, it arises from
+       interviews and tips that on Sunday, June 14, 2015, around noon, some boys
+       living in the area, while preparing to go to the river, noticed three individuals
+       getting out of the aforementioned motor vehicle, describing these individuals,
+       one of them as a white individual, short in stature, and the other person as daker-
+       skinned and also short in stature. These same individuals were seen that same
+                                               21
+         Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 22 of 26
+
+
+
+
+         day of June 14, 2015, at around 10:30 p.m. [sic] from the place where the
+         aforesaid vehicle was recovered. This case is in the investigation phase, in order
+         to be able to complete it, it is necessary to obtain the genetic profile and
+         fingerprints of Jonathan Torres Rojas.
+
+Docket No. 150, Exhibit No. 5-5a.
+
+         Originally, Juan Negrón-Rodríguez a.k.a. “Ratón” and Brandon Vélez-López were the
+
+primary suspects of the carjacking and murder offense. As part of the investigation led by the
+
+PRPD and the FBI, interviewed several persons who had allegedly seen two (2) individuals,
+
+who matched the description of Negrón and Vélez leave the area of the river on June 14, 2015.
+
+See Docket No. 150, Exhibit Nos. 1, 2 and 3; see also Docket No. 155, Exhibit No. 1.
+
+Specifically, Daisy Rivera Martínez said that on June 14, 2015, “she saw from her house that
+
+two young men whom she knows as Ratón and Brandon were in a charcoal gray Mazda vehicle
+
+driving down towards the same area where [her] daughter’s cousin saw the SUV. She said that
+
+it was rumored around the neighborhood that Brandon and Ratón were who committed the
+
+businessman’s crime.” Docket No. 155, Exhibit No. 1 at p. 4.
+
+         With the information obtained during the investigation, Agent García presented an
+
+affidavit before Aibonito Court judge, Manuel Méndez, essentially, detailing the information
+
+gathered from the investigation, why there was probable cause to believe that Ratón and Vélez
+
+were involved in the robbery and requesting warrants for their DNA. See Docket No. 150,
+
+Exhibit No. 4; see also Docket No. 155, Exhibit No. 27.
+
+         The affidavit pertaining to Vélez is similar to the one prepared as to the Defendant. To
+
+mention a few, the fact that Vélez “has come up as one of the suspects;” “that [Vélez] was seen
+
+
+7
+ The Court notes that the Defendant solely produced the affidavit pertaining to the request for a search warrant as to
+Brandon Vélez. For the sole purpose of this analysis, the Court will assume that the affidavit pertaining to Ratón
+contains similar information.
+
+                                                         22
+       Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 23 of 26
+
+
+
+
+driving towards the Culebra Sector in the Damian Arriba Ward in said vehicle;” that “that two
+
+days after the murder events, the young man Brandon Vélez López, was seen with Juan Negrón
+
+Rodríguez aka Ratón, leaving the location where the abovementioned vehicle was recovered;”
+
+the description given by some boys from the neighborhood of “two individuals getting out of
+
+the vehicle described above, describing these individuals, one of them as white, short in stature
+
+and the other one as darker and also short in stature;” that the same two individuals were seen
+
+on that same day of June 14, 2015, at approximately 10:30 p.m. in the location where the
+
+abovementioned vehicle was recovered;” and the necessity to obtain Vélez’s “genetic profile
+
+and fingerprints in order to complete it.” Id.
+
+       Sometime thereafter, Ratón was charged with an unrelated state offense. While
+
+imprisoned, the FBI paid him a visit. It was during this interview that Ratón identified Torres-
+
+Rojas as a participant of the robbery and identified the Defendant through mugshots available
+
+in the police database. See Transcript of Suppression Hearing, Day 2, Docket No. 140 at pp.
+
+33-34. Thereupon, the FBI and PRPD agents moved on with the investigation, and interviewed
+
+Torres-Rojas in the four (4) occasions previously described.
+
+       On December 21st, 2016, Agent García moved for a search warrant before an Aibonito
+
+Court judge. See Dft. Exhibit No. A-A1. The affidavit contained similarities with the one used
+
+for obtaining Vélez’s DNA sample. See Sworn Statement at pp. 19-20. However, in order for
+
+the Court to determine whether a Franks hearing is appropriate, the Defendant has to
+
+demonstrate that the affidavit contained allegations of deliberate falsehood or of reckless
+
+disregard for the truth accompanied by an offer of proof. But even if the Defendant makes this
+
+showing, the request must be denied if there remains sufficient content in the warrant to
+
+
+
+                                                 23
+       Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 24 of 26
+
+
+
+
+support a finding of probable cause. This is where Torres’ Franks request inevitably fails. The
+
+Court explains.
+
+       In the case at bar, Defendant alleges that “the affidavit included false statements made
+
+by Agent García, either knowingly or with reckless disregard for the truth” (Docket No. 150
+
+at p. 9). Yet, upon reviewing the similarities between Vélez and Torres’ affidavits, the
+
+arguments raised by the Defendant do not amount to “deliberate falsehood or of reckless
+
+disregard for the truth.” Specifically, the Court identified the following deficiency in Torres-
+
+Rojas’ affidavit: that some boys living in the area noticed three individuals getting out of the
+
+vehicle near the river, but described only two (2) individuals.
+
+       But even if the first prong of Franks is met, Torres-Rojas fails to establish that when
+
+eliminating the alleged false statement, the information contained in the affidavit is insufficient
+
+for a finding of probable cause. When eliminating the potentially false statement as to the boys
+
+who saw “three individuals” but described two, the affidavit still establishes that a murder
+
+occurred in the Municipality of Orocovis; that the FBI Task Force recovered the vehicle three
+
+(3) days later and genetic material was collected from said vehicle; that through interviews and
+
+tips, Torres-Rojas has come up as one of the suspects; that Torres-Rojas was seen with Vélez
+
+and Ratón driving the motor vehicle towards a neighborhood in Orocovis; that Torres-Rojas
+
+was seen leaving the place where the vehicle was recovered with Ratón and Negrón; that the
+
+boys saw two individuals getting out of the vehicle on June 14, 2015, with a description
+
+consistent with Vélez and Ratón; and that Torres’ genetic profile and fingerprints are necessary
+
+in furtherance of the investigation.
+
+       The First Circuit has explained that “[p]robable cause exists when the affidavit upon
+
+which a warrant is founded demonstrates in some trustworthy fashion the likelihood that an
+                                                24
+        Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 25 of 26
+
+
+
+
+offense has been committed....” United States v. Vigeant, 176 F.3d 565, 569 (1st Cir. 1999)
+
+(quoting United States v. Schaefer, 87 F.3d 562-65 (1st Cir. 1996). This information is
+
+sufficient to justify a probable cause finding. “In determining the sufficiency of an affidavit,
+
+we consider whether the ‘totality of the circumstances’ stated in the affidavit demonstrates
+
+probable cause to search the premises.” United States v. Barnard, 299 F.3d 90, 93 (1st Cir.
+
+2002)
+
+        During the Suppression Hearing, Agent Alvarado testified that Ratón signaled Torres-
+
+Rojas as a suspect, namely, the shooter, when he was interviewed while imprisoned for an
+
+unrelated state case. See Transcript of Suppression Hearing, Day 2, Docket No. 142 at pp. 9,
+
+22. Such information is valuable and had a determinant effect in the investigation, as thereafter,
+
+law enforcement officers sought to interview the Defendant related to this case.
+
+        Likewise, the premise that “on Sunday, June 14, 2015, around noon, some boys living
+
+in the area, while preparing to go to the river, noticed three individuals getting out of the
+
+aforementioned motor vehicle, describing these individuals, one of them as a white individual,
+
+short in stature, and the other person as daker-skinned and also short in stature” seems to be
+
+more a typographical error than an intentional falsehood, as only (2) individuals are described
+
+in the following sentence. If there was an intention to provide false information, a description
+
+of a third individual would have been included. This did not happen.
+
+        Lastly, although the Defendant relies on the interviews of Coralis Cintron, Lydia
+
+Torres, and Daisy Rivera-Martinez, they were not identified as the sources in the affidavit and
+
+most critical, they were not the only persons interviewed in relation to this case. Agent García
+
+testified under oath that Torres-Rojas became a suspect “[t]hrough the interviews that were
+
+carried out as part of the investigation, through the confidential information that we received,
+                                               25
+       Case 3:18-cr-00211-DRD Document 161 Filed 03/10/23 Page 26 of 26
+
+
+
+
+through the testimony of the humble people of the area of Orocovis who provided -- or
+
+approached us with information, but without getting involved in the case.” See id. at pp. 45-46
+
+(emphasis ours). Therefore, the totality of the information obtained during the investigation
+
+led to Agent García’s decision to seek a search warrant for Torres’ DNA test.
+
+       Based on the aforementioned, the Court finds by a totality of the circumstances that
+
+Torres’s arguments do not amount to making a “substantial preliminary showing” that the false
+
+statements were made and that said statements were knowingly and intentionally or with
+
+reckless disregard for the truth. By the same token, Defendant fails to establish that the
+
+typographical error between two (2) and three (3) individuals was intentionally made as
+
+without it, no probable cause would have been found by the Aibonito Court. Accordingly,
+
+Defendant's motion to suppress pursuant to Franks is hereby DENIED in this regard without
+
+a hearing.
+
+       IT IS SO ORDERED.
+
+       In San Juan, Puerto Rico, this 10th day of March, 2023.
+
+
+
+                                                          S/Daniel R. Domínguez
+                                                          Daniel R. Domínguez
+                                                          United States District Judge
+
+
+
+
+                                              26
+

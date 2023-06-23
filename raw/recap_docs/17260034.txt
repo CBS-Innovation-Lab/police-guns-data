@@ -1,0 +1,249 @@
+Case 1:08-cr-00019-JAW Document 53 Filed 06/02/08 Page 1 of 5                                PageID #: 183
+
+
+
+                                  UNITED STATES DISTRICT COURT
+                                       DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA                             )
+                                                     )
+           v.                                        )       CR-08-19-B-W
+                                                     )
+RUSSELL E. BOOKER                                    )
+
+
+                      ORDER ON ENTRAPMENT BY ESTOPPEL DEFENSE
+
+           Charged with possession of firearms by a person previously convicted of the
+
+misdemeanor crime of domestic assault, an alleged violation of 18 U.S.C. § 922(a)(9), Russell E.
+
+Booker seeks to assert a defense of entrapment by estoppel. Consistent with its recent decision
+
+in United States v. Lemieux and based on the proferred evidence, the Court concludes that the
+
+evidentiary predicate for the assertion of this defense has not been demonstrated.1 The Court
+
+denies the Defendant‟s motion to dismiss the indictment and grants the Government‟s motion in
+
+limine to exclude the defense of entrapment by estoppel.
+
+I.         STATEMENT OF FACTS
+
+           On March 4, 1998, Mr. Booker pleaded guilty to assault, a violation of 17-A M.R.S.A. §
+
+207, in Skowhegan District Court. He was convicted for assaulting his wife, Cheryl Booker. On
+
+October 7, 2001, Mr. Booker completed a Bureau of Alcohol, Tobacco and Firearms Transaction
+
+Record (ATF Form 4473) prior to purchasing a firearm.                     He did not disclose his earlier
+
+conviction on the Form, answering “no” to the question of whether he had “been convicted in
+
+any court of a misdemeanor crime of domestic violence?                     This means any misdemeanor
+
+conviction involving the use or attempted use of physical force committed by a current or former
+
+spouse, parent, or guardian of the victim or by a person with a similar relationship with the
+
+
+1
+    See United States v. Lemieux, _ F. Supp. 2d _, No. 07-151-B-W, 2008 WL 1923003 (D. Me. May 1, 2008),
+Case 1:08-cr-00019-JAW Document 53 Filed 06/02/08 Page 2 of 5                           PageID #: 184
+
+
+
+victim.” Firearms Transaction R. (Docket # 13-3). The National Instant Background Check
+
+System (NICS) authorized Mr. Booker‟s purchase. Decl. of Travis E. Rogers at ¶ 3. (Docket #
+
+13-4). Mr. Booker failed to reveal his 1998 conviction for domestic assault, and he was able to
+
+purchase a firearm. Now, charged with two counts of possession of firearms by a prohibited person,
+
+Mr. Booker asserts that because the Government failed to block the gun sale on October 7, 2001, he
+
+was justified in relying on the earlier sale when he possessed the guns in this case.
+
+        On February 7, 2008, Mr. Booker moved to dismiss the indictment, asserting in part that
+
+dismissal should occur because “the instant charges cannot be sustained under the doctrine of
+
+entrapment by estoppel.” Mot. to Dismiss Indictment as Disc. Indicates a Failure of Proof as to
+
+an Essential Element of the Crimes Charged (Docket # 11). The same day, the Government
+
+moved in limine to exclude Mr. Booker‟s entrapment by estoppel defense. Mot. in Limine of the
+
+United States to Exclude Entrapment by Estoppel Def. (Docket # 13). Mr. Booker responded on
+
+February 28, 2008. Def.’s Resp. to Mot. in Limine of the United States to Exclude Entrapment
+
+By Estoppel Def. (Docket # 22) (Def.’s Resp.).
+
+II.     DISCUSSION
+
+        A.      Standard of Review
+
+                1.      Motion to Dismiss the Indictment
+
+        “A court should exercise its authority to dismiss cautiously, since to dismiss an indictment
+
+„directly encroaches upon the fundamental role of the grand jury.‟” United States v. Thomas, 519 F.
+
+Supp. 2d 141, 143-44 (D. Me. 2007) (quoting Whitehouse v. United States Dist. Court, 53 F.3d 1349,
+
+1359 (1st Cir. 1995)); see also United States v. Knox, 396 U.S. 77, 83 n.7 (1969); United States v.
+
+Nai Fook Li, 206 F.3d 56, 62 (1st Cir. 2000); United States v. Russell, 919 F.2d 795, 797-98 (1st Cir.
+
+1990); United States v. Alfonso, 143 F.2d 772, 776-77 (2nd Cir. 1998) (“Unless the government has
+
+made what can fairly be described as a full proffer of the evidence it intends to present at trial to
+
+
+                                                   2
+Case 1:08-cr-00019-JAW Document 53 Filed 06/02/08 Page 3 of 5                           PageID #: 185
+
+
+
+satisfy the jurisdictional element of the offense, the sufficiency of the evidence is not appropriately
+
+addressed on a pretrial motion to dismiss an indictment.”); United States v. Parker, 165 F. Supp. 2d
+
+431, 458 (W.D.N.Y. 2001).
+
+                2.      Motion in Limine
+
+        The Government‟s motion in limine invokes a different standard of review. A district court
+
+may exclude a defense as a matter of law, based upon proffered evidence. See United States v.
+
+Pardue, 385 F.3d 101, 108-09 (1st Cir. 2004); United States v. Ellis, 168 F.3d 558, 561 (1st Cir.
+
+1999). While “[i]n a criminal case it is reversible error for a trial Judge to refuse to present
+
+adequately a defendant‟s theory of defense,” it is also true that the trial judge has a “duty to require a
+
+prima facie showing by the defendant that he can produce evidence on each of the elements of the
+
+defense.” United States v. Johnson, 416 F.3d 464, 467-68 (6th Cir. 2005). Thus, “[w]here the
+
+evidence to be presented would be insufficient as a matter of law . . . no proper interest of the
+
+defendant would be served by permitting his legally insufficient evidence to be aired at trial, and
+
+interests of judicial economy suggest that the jury should not be burdened with the matter.” United
+
+States v. Villegas, 899 F.2d 1324, 1343 (2nd Cir. 1990).
+
+        B.      Entrapment by Estoppel
+
+        For the reasons set for in Lemieux, the Court grants the Government‟s motion in limine.
+
+The proffered evidence fails to establish the truthfulness and completeness of the information
+
+Mr. Booker presented to the firearms dealer and the NICS; the evidence further fails to
+
+demonstrate that a government official made an affirmative representation to Mr. Booker that the
+
+act was legal, that he reasonably relied on any such representation, and that prosecution would be
+
+unfair. See Lemieux, 2008 WL 19303, at *2-6.
+
+        There is one difference between Mr. Lemieux‟s and Mr. Booker‟s cases. Mr. Lemieux
+
+was convicted of two counts of providing false information to a federal firearms licensee, a
+
+
+                                                    3
+Case 1:08-cr-00019-JAW Document 53 Filed 06/02/08 Page 4 of 5                                      PageID #: 186
+
+
+
+violation of 18 U.S.C. § 922(a)(6), while Mr. Booker is charged with possession of a firearm
+
+after being convicted of a misdemeanor crime of domestic abuse under 18 U.S.C. § 922(g)(9).2
+
+This distinction does not change the outcome. There is still a nexus between the Defendant‟s
+
+representations on ATF Form 4473, the crimes charged, and the entrapment by estoppel defense.
+
+The proffered evidence establishes that Mr. Booker came into possession of the firearm by
+
+completing an ATF Form 4473 in which he denied having been convicted of a misdemeanor
+
+crime of domestic abuse. His defense is that once the NICS system cleared his purchase of the
+
+firearm, the federal firearms dealer believed that Mr. Booker was legally entitled to purchase a
+
+firearm and sold him a rifle, and that Mr. Booker relied upon the assumed legality of the sale in
+
+his later possession of firearms. Like Mr. Lemieux, however, Mr. Booker did not meet his
+
+obligation of truthfulness and completeness, did not receive advice from a government official,3
+
+and did not reasonably rely on any such advice; in view of the circumstances, prosecution would
+
+not be unfair.4
+
+
+2
+  Mr. Booker elsewhere asserted that his assault conviction does not meet the definition of a misdemeanor crime of
+domestic violence under 18 U.S.C. § 922(g)(9). See Def.’s Mot. to Dismiss Indictment as Disc. Indicates a Failure
+of Proof as to an Essential Element of the Crimes Charged (Docket # 11). The Court rejected this argument. Order
+on Mot. to Dismiss Indictment (Docket # 52). The entrapment by estoppel defense assumes the validity of the prior
+conviction, since if Mr. Booker did not have a predicate conviction, the Indictment would be facially defective for a
+reason other than the entrapment by estoppel defense. Further, if the prior conviction were not a misdemeanor crime
+of domestic assault, Mr. Booker would not have had to answer that it was on the ATF Form 4473. Finally, if the
+prior conviction were not a predicate and if the Government told Mr. Booker that he could purchase a firearm, the
+advice would have been correct. By contrast, if the misdemeanor conviction was, as the Court has determined, a
+predicate conviction, Mr. Booker‟s failure to mention the conviction constitutes a failure to present a material fact to
+the federally licensed firearms dealer. Decl. of Travis E. Rogers ¶ 6 (“To the best of my knowledge, Russell Booker
+did not seek any advice or assurance from me or my employer that he was legally permitted to possess a firearm.”).
+3
+  Mr. Booker asserts that United States v. Villafane-Jimenez, 410 F.3d 74 (1st Cir. 2005) supports his claim that a
+federally licensed firearms dealer is a government official because a government official may have apparent, instead
+of actual, authority. However, in Villafane-Jimenez, the advice was provided by an informant posing as an FBI
+agent and installed by an FBI agent. The Defendants believed that the advice was provided by a bona fide federal
+employee, a belief enabled by a government “sting” operation. Villafane-Jimenez, 410 F.3d at 78. In that case, the
+informant was “given credentials, agency business cards, a marked vehicle, and a gun, all to create the impression
+that he was an FBI agent.” Id. In Mr. Booker‟s case, he dealt with a private firearms dealer who was not posing as a
+government employee.
+4
+  Mr. Booker asserts that this is a factual determination for a jury. Def.’s Resp. at 9. However, the application of
+the law to the proffered facts leaves no further factual determinations which would result in proper application of the
+defense. This ruling, of course, assumes the proffered evidence is the same as the evidence at trial.
+
+                                                           4
+Case 1:08-cr-00019-JAW Document 53 Filed 06/02/08 Page 5 of 5              PageID #: 187
+
+
+
+III.   CONCLUSION
+
+       The proffered evidence does not sustain the defense of entrapment by estoppel. The
+
+Court GRANTS the Government‟s Motion in Limine to exclude the entrapment by estoppel
+
+defense (Docket # 13). The Court DENIES the Defendant‟s motion to dismiss the indictment as
+
+to his proffered entrapment by estoppel defense (Docket # 11).
+
+       SO ORDERED.
+
+
+
+                                            /s/ John A. Woodcock, Jr.
+                                            JOHN A. WOODCOCK, JR.
+                                            UNITED STATES DISTRICT JUDGE
+
+
+Dated this 2nd day of June, 2008
+
+
+
+
+                                               5
+

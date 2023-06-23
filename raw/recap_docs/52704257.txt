@@ -1,0 +1,329 @@
+                       UNITED STATES DISTRICT COURT
+                     FOR THE DISTRICT OF RHODE ISLAND
+
+______________________________
+                              )
+UNITED STATES OF AMERICA      )
+                              )
+     v.                       )            C.R. No. 08-141-WES
+                              )
+ERVIN FIGUEROA                )
+______________________________)
+
+
+                                   ORDER
+
+WILLIAM E. SMITH, Chief Judge.
+
+       This matter is before the Court on a Motion for Summary
+
+Acquittal for Want of Due Process and Multiple Constitutional
+
+Violations     (“Motion,”   ECF   No.   324)   filed   by   Defendant    Ervin
+
+Figueroa pursuant to Federal Rule of Civil Procedure 60(b)(3).
+
+For the following reasons, the Motion is DENIED.
+
+  I.       Background 1
+
+    In 2008, Defendant Ervin Figueroa and five other individuals
+
+were arrested and subsequently indicted on a number of conspiracy,
+
+drug, firearms, and money laundering charges.           Several defendants
+
+pled guilty to the charges, but Figuera and two others elected a
+
+trial.      Following an eight-day jury trial, Figueroa was found
+
+guilty of sixteen counts of the Superceding Indictment.                 He was
+
+
+
+
+       1
+      The procedural history of the case is taken from this Court’s
+docket, the Court of Appeals for the First Circuit’s opinion (ECF
+No. 238) affirming the judgment on direct appeal, and the First
+Circuit’s docket.
+sentenced on June 2, 2011 to a term of imprisonment of 188 months
+
+as to all counts to run concurrently, followed by five years of
+
+supervised release.       Judgment entered on June 14, 2011.
+
+      The First Circuit affirmed the judgment on January 30, 2013,
+
+and   subsequently     denied    Figueroa’s   motion   for   rehearing       and
+
+rehearing en banc.      The appellate court’s Mandate issued on March
+
+5, 2013.    On October 9, 2013, the Supreme Court denied Figueroa’s
+
+petition for a writ of certiorari.
+
+      Figueroa subsequently filed a motion for sentence reduction
+
+pursuant to 18 U.S.C. § 3582(c)(2) based on Amendment 782 to the
+
+United States Sentencing Guidelines. (See ECF No. 290.) The Court
+
+granted the motion and reduced Figueroa’s term of imprisonment to
+
+151 months.    (See ECF No. 303.)
+
+      Figueroa filed the instant Motion on October 24, 2017. 2
+
+  II.     Discussion
+
+      Figueroa   brings    his   Motion   pursuant   to   Fed.   R.   Civ.    P.
+
+60(b)(3), alleging “after-the-fact” fraud on the Court.               (Mot. at
+
+1.)   Rule 60(b) provides:
+
+      On motion and just terms, the court may relieve a party
+      or its legal representative from a final judgment,
+      order, or proceeding for the following reasons:
+
+
+      2The Motion is dated October 24, 2017, (Mot. at 18), and is
+deemed filed on that date, see Houston v. Lack, 487 U.S. 266, 270
+(1988) (concluding that pleadings are deemed filed on the date
+prisoner relinquishes control over documents).
+
+                                      2
+     (1)    mistake,   inadvertence,    surprise,   or   excusable
+            neglect;
+
+     (2)    newly discovered evidence that, with reasonable
+            diligence, could not have been discovered in time
+            to move for a new trial under Rule 59(b);
+
+     (3)    fraud (whether previously called intrinsic or
+            extrinsic), misrepresentation, or misconduct by an
+            opposing party;
+
+     (4)    the judgment is void;
+
+     (5)    the judgment has been satisfied, released, or
+            discharged; it is based on an earlier judgment that
+            has been reversed or vacated; or applying it
+            prospectively is no longer equitable; or
+
+     (6)    any other reason that justifies relief.
+
+Fed. R. Civ. P. 60(b).      “A motion under Rule 60(b) must be made
+
+within a reasonable time—and for reasons (1), (2), and (3) no more
+
+than a year after the entry of the judgment or order or the date
+
+of the proceeding.”     Fed. R. Civ. P. 60(c)(1).
+
+     As noted above, the judgment in this case was entered on June
+
+14, 2011.    Accordingly, Figueroa had one year from that date to
+
+file a timely Rule 60(b)(3) motion.      His Motion, filed on October
+
+24, 2017, is therefore untimely.        See Fed. R. Civ. P. 60(c)(1).
+
+For that reason alone, the Motion must be denied.
+
+     In addition, although he alleges “after-the-fact” fraud on
+
+the Court, Figueroa’s Motion claims violations of the First,
+
+Fourth, Fifth, Sixth, Eighth, and Fourteenth Amendments to the
+
+U.S. Constitution.     (Mot. at 1; see also id. at 5 (“This Honorable
+
+                                    3
+Court is being asked to flush out civil rights and constitutional
+
+improprieties and to grant the ultimate relief of acquittal.”).)
+
+Constitutional claims are properly brought in a motion to vacate
+
+sentence pursuant to 28 U.S.C. § 2255.   See Munoz v. United States,
+
+331 F.3d 151, 153 (1st Cir. 2003) (per curiam).        Section 2255
+
+provides, in relevant part:
+
+     A prisoner in custody under sentence of a court
+     established by Act of Congress claiming the right to be
+     released upon the ground that the sentence was imposed
+     in violation of the Constitution or laws of the United
+     States, or that the court was without jurisdiction to
+     impose such sentence, or that the sentence was in excess
+     of the maximum authorized by law, or is otherwise subject
+     to collateral attack, may move the court which imposed
+     the sentence to vacate, set aside or correct the
+     sentence.
+
+28 U.S.C. § 2255(a); see also United States v. Addonizio, 442 U.S.
+
+178, 185 (1979).
+
+     In Munoz, the First Circuit addressed the distinction between
+
+a Rule 60(b) motion and a motion to vacate under § 2255.    See 331
+
+F.3d at 152. The court, relying on an earlier case in which it
+
+dealt with the issue in the context of 28 U.S.C. § 2254, applied
+
+the same reasoning in a § 2255 situation.    Id.
+
+     We hold, therefore, that a motion made under Rule 60(b)
+     of the Federal Rules of Civil Procedure for relief from
+     a judgment previously entered in a section 2255 case
+     should be treated as a second or successive habeas
+     petition if—and only if—the factual predicate set forth
+     in support of the motion constitutes a direct challenge
+     to the constitutionality of the underlying conviction.
+     If, however, the factual predicate set forth in support
+
+                                4
+     of the motion attacks only the manner in which the
+     earlier habeas judgment has been procured[,] the motion
+     may be adjudicated under the jurisprudence of Rule
+     60(b).
+
+Id. at 152-53 (citing Rodwell v. Pepe, 324 F.3d 66, 67 (1st Cir.
+
+2003) (alteration in original) (internal citations and quotation
+
+marks omitted).
+
+     Despite Figueroa’s statement that the Motion is brought under
+
+Rule 60(b)(3) (Mot. at 1), the Court concludes that Figueroa’s
+
+Motion is, in reality, a § 2255 petition.               Figueroa is clearly
+
+challenging the constitutionality of his conviction. 3           See Munoz,
+
+331 F.3d at 153 (rejecting characterization of motion as Rule 60(b)
+
+motion    because    defendant   challenged    constitutionality    of    his
+
+claims).      It is the substance of the motion which controls.           See
+
+Pierce v. Spencer, Civil Action No. 05-10292-RWZ, 2006 WL 2121912,
+
+at *1 (D. Mass. July 28, 2006)(“[I]t is the substance of the
+
+petition, rather than its form, that governs.”); see also Trenkler
+
+v. United States, 536 F.3d 85, 97 (1st Cir. 2008)(“[A]ny motion
+
+filed    in   the   district   court   that   imposed   the   sentence,   and
+
+substantively within the scope of § 2255 ¶ 1, is a motion under §
+
+2255, no matter what title the prisoner plasters on the cover.”).
+
+
+
+
+     3 The title of the Motion is a clear indication of the nature
+of Figueroa’s challenge. (See Mot. at 1 (“Motion for Summary
+Acquittal for Want of Due Process and Numerous Constitutional
+Violations”).)
+                                 5
+Figueroa    never   filed   a    §   2255    motion,   so   the    Munoz   court’s
+
+reference to a second or successive petition is inapplicable here.
+
+Nonetheless, the court’s main point is clear: a motion challenging
+
+the constitutionality of the underlying conviction must be brought
+
+under § 2255. 4
+
+     Recognizing that Figueroa is proceeding pro se, and reading
+
+his Motion liberally, Estelle v. Gamble, 429 U.S. 97, 106 (1976),
+
+Figueroa’s    Motion   would     still      be   untimely   even   if   the    Court
+
+construed it as a motion to vacate pursuant to § 2255.                     In 1996
+
+Congress enacted the Antiterrorism and Effective Death Penalty Act
+
+(“AEDPA”), which established a one-year statute of limitations for
+
+filing a § 2255 petition.        28 U.S.C. § 2255(f); 5 Trenkler, 536 F.3d
+
+
+     4 Figueroa appears to recognize this fact, as he states that
+he is entitled to relief pursuant to both Rule 60(b)(3) and habeas
+corpus. (Mot. at 14.)
+
+     5   Section 2255(f) provides that:
+
+     A 1-year period of limitation shall apply to a motion
+     under this section. The limitation shall run from the
+     latest of--
+
+     (1) the date on            which    the     judgment   of    conviction
+        becomes final;
+
+     (2) the date on which the impediment to making a motion
+        created by governmental action in violation of the
+        Constitution or laws of the United States is removed,
+        if the movant was prevented from making a motion by
+        such governmental action;
+
+     (3) the date on which the right asserted was initially
+        recognized by the Supreme Court, if that right has
+                                6
+at 96.   Figueroa’s conviction became final on October 9, 2013 when
+
+the Supreme Court denied further review.   Thus, Figueroa had until
+
+October 9, 2014 to file a motion to vacate under § 2255, and such
+
+motion is now time-barred.
+
+III. Conclusion
+
+     Based on the foregoing, Figueroa’s Rule 60(b)(3) Motion is
+
+DENIED. 6
+
+IT IS SO ORDERED.
+
+
+
+
+William E. Smith
+Chief Judge
+Date: December 14, 2018
+
+
+
+
+         been newly recognized by the Supreme Court and made
+         retroactively applicable to cases on collateral
+         review; or
+
+     (4) the date on which the facts supporting the claim or
+        claims presented could have been discovered through
+        the exercise of due diligence.
+
+28 U.S.C. § 2255(f).
+     6 Because the Court has found that the Motion should be
+dismissed on procedural grounds, it does not address the merits of
+Figueroa’s claims. Although Figueroa may find this result harsh
+(See Mot. at 8(“This is not and cannot be a procedural default or
+any type of technical waiver of argument.”)), it “dovetails with
+Congress’s intent” in passing “the stringent filters that channel
+consideration of habeas corpus claims under the AEDPA.” Rodwell,
+324 F.3d at 72.
+                                7
+

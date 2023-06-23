@@ -1,0 +1,258 @@
+             Case 1:18-cr-10375-LTS Document 100 Filed 12/10/19 Page 1 of 5
+
+
+
+                              UNITED STATES DISTRICT COURT
+                               DISTRICT OF MASSACHUSETTS
+
+
+
+UNITED STATES OF AMERICA
+                                                             Criminal No. 18-10375-LTS
+         vs.
+                                                              Leave to File Granted 12/6/19
+JERMAINE TINDAL
+
+
+
+     GOVERNMENT’S RESPONSE TO DEFENSE SENTENCING MEMORANDUM
+
+             The United States submits this response to the defendant’s Sentencing Memorandum
+
+(Dkt. No. 96), to briefly address the defendant’s Second Amendment and Title 26 arguments. The
+
+defendant does not challenge that the Guideline Sentencing Range of 30 to 37 months was properly
+
+calculated under the facts of the case, but rather objects to the application of the GSR to the
+
+defendant under the circumstances of this case, and argues for a variance. The Government
+
+responds that its recommendation of a 30-month sentence of imprisonment as well as supervised
+
+release for three years thereafter is a reasonable and appropriate sentence for the defendant’s
+
+conduct and relevant conduct in this case, notwithstanding his arguments, and a variance is not
+
+justified.
+
+    I.         The Defendant’s Conviction Does Not Offend the Second Amendment, and the
+               Second Amendment Does Not Provide Grounds For a Variance
+
+         Binderup v. AG of United States, 836 F.3d 336, 339 (3d Cir. 2016), cert. denied, 137 S. Ct.
+
+2323 (2017) – the Third Circuit case upon which the defendant relies for his Second Amendment
+
+argument – notes that 18 U.S.C. § 922(g)(1) does not violate the Second Amendment on its face,
+
+so the only possible challenge is an as-applied challenge. Even if Binderup were the law of the
+
+First Circuit, the defendant’s conviction and the application of USSG § 2K2.1(a)(4)(B) under the
+         Case 1:18-cr-10375-LTS Document 100 Filed 12/10/19 Page 2 of 5
+
+
+
+facts of this case would not offend the Second Amendment, as the firearm the defendant possessed
+
+and sold was a Title 26 firearm and therefore is not subject to any Second Amendment protections.
+
+        The Supreme Court in District of Columbia v. Heller, 554 U.S. 570, 634-35 (2008), held
+
+that at the core of the Second Amendment is the right of “law-abiding, responsible citizens to use
+
+arms in defense of hearth and home.” The Supreme Court noted that this right is not limitless, and
+
+expressly acknowledged the exception to the right to bear arms by felons, and noted that “the
+
+Second Amendment does not protect those weapons not typically possessed by law-abiding
+
+citizens for lawful purposes, such as short-barreled shotguns.” Id. at 625. Restrictions on such
+
+firearms are permissible because they fall outside the “historical understanding of the scope of the
+
+right.” Id. Because the particular gun that the defendant possessed, and then sold to a Cooperating
+
+Witness, here is one of the weapons that the Supreme Court has held may properly be restricted
+
+without offending the Second Amendment, any as-applied challenge by the defendant here would
+
+fail.
+
+        Similarly, the Second Amendment does not provide any basis for a variance in this case.
+
+The defendant characterizes his predicate felony as a “nominal felony” because it is a third-offense
+
+shoplifting conviction, and argues that he should not be prohibited from owning firearms on the
+
+basis of such a conviction. While the dollar value of the items stolen in the shoplifting is
+
+indisputably low, the defendant would not be considered a felon, or made a prohibited person, on
+
+the basis of that shoplifting alone – rather, it was the fact that it was a third offense that made the
+
+crime a felony, and punishable by up to ten years of imprisonment. The repeated conduct and
+
+multiple convictions place the defendant outside the group of “law-abiding, responsible citizens”
+
+whose right to bear arms is recognized by Heller. Id. at 635. Also notably, the defendant was not
+
+
+
+
+                                                  2
+           Case 1:18-cr-10375-LTS Document 100 Filed 12/10/19 Page 3 of 5
+
+
+
+“us[ing] arms in defense of hearth and home,” id., but rather was selling them to someone he had
+
+never even met, bringing his young child to the sale, and attempting to broker other gun deals.
+
+          The circumstances of the defendant’s conduct in this case, and his criminal history, are not
+
+so innocuous that a variance is justified on Second Amendment grounds.
+
+    II.      The Defendant’s Short-Barreled Shotgun Measuring Less Than 26 Inches Is
+             Classified As A Title 26 Firearm, and USSG § 2K2.1(a)(4)(B) Properly Applies
+
+          The firearm that the defendant possessed and sold to the CW was examined by ATF and
+
+determined to be a Harrington and Richardson, model 440, 12-gauge shotgun, with an approximate
+
+barrel length of 11.5 inches and an overall length 24 inches, with no visible serial number, and it
+
+appeared to have been modified from the original manufacturer’s configuration. See Ex. 1 (ATF
+
+report). Accordingly, it qualifies as an NFA “firearm” under 26 U.S.C. § 5845(a).
+
+          The defendant argues that because a different arms manufacturer sought and obtained a
+
+classification letter from ATF that its different firearm (the Mossberg Model 590) with different
+
+specifications (most importantly, an overall length of greater than 26 inches) was determined not
+
+to be an NFA firearm, the U.S. Sentencing Commission should treat defendant’s firearm as falling
+
+outside the NFA too1, and since it does not, this Court should grant a variance. This argument
+
+must fail. The classification letter that the defendant so heavily relies upon states that ATF has
+
+previously classified weapons with shotgun-type receivers, that have never had a shoulder stock
+
+attached, that are fitted with a “bird’s head” grip in lieu of a shoulder stock, with a 14-inch barrel,
+
+and with an overall length exceeding 26 inches, as falling outside the definition of NFA firearms
+
+under Title 26. Dkt. 96-1 at 2. It goes on to assess the newly released (2017) Mossberg Model
+
+
+1
+ In his PSR objections, defendant acknowledges that “defendant’s weapon is still an NFA
+‘firearm’ under the definition of § 5845(a)(2) because of its overall length of 24 as opposed to 26
+inches . . . .” PSR Objection No. 2 (PSR at 28).
+
+                                                   3
+         Case 1:18-cr-10375-LTS Document 100 Filed 12/10/19 Page 4 of 5
+
+
+
+590, 12-gauge pump action firearm, which is marked by a serial number, and whose original
+
+manufacture specifications include a bird’s head grip, a 14-7/16 inch barrel, and an overall length
+
+of 26½ inches. It determines that the firearm is not a shotgun, and classifies it as falling outside
+
+the definition of NFA firearms under Title 26. Id. at 3-4. ATF’s Mossberg classification letter
+
+includes the following caveat: “We caution that these findings are based on the sample as
+
+submitted. If the design, dimensions, configuration, method of operation, or materials used were
+
+changed, our determinations would be subject to review.” Id. at 4.
+
+       As demonstrated above, the firearm that Tindal possessed and sold was different in material
+
+respects. Most importantly, it was determined by ATF to be a shotgun, and it was measured to
+
+have a barrel length of only 11.5 inches and an overall length of 24 inches. Accordingly, it fits
+
+squarely within the definition of a Title 26/NFA firearm, as the defendant in his Objections
+
+acknowledges.
+
+       The overall length is a critical difference because the overall length goes towards
+
+concealability. ATF has reasonably found that a weapon with a shotgun’s power and destructive
+
+capability, that can be concealed on a person (or, in this case, in a stroller), should be subject to
+
+greater regulation.2 Here, Tindal possessed, concealed, and sold such a firearm without being
+
+permitted to lawfully possess any firearm. Accordingly, USSG § 2K2.1(a)(4)(B) is properly
+
+applied, and a variance is not merited.
+
+                                          CONCLUSION
+
+       As set forth in the government’s original Sentencing Memorandum, a sentence of
+
+incarceration at the low end of the Guidelines, along with a significant period of supervised
+
+
+2
+ Indeed, in the Mossberg classification letter, ATF noted that if the weapon were concealed on a
+person, its classification decision on even the Mossberg firearm might change. Id. at 4.
+
+                                                 4
+          Case 1:18-cr-10375-LTS Document 100 Filed 12/10/19 Page 5 of 5
+
+
+
+release, is necessary in this case to reflect the seriousness of the offense of conviction, to
+
+promote respect for the law, to adequately punish Tindal for his criminal conduct, to deter him
+
+and others from offending in the same way again, and to protect the public.
+
+       For the foregoing reasons, and those to be articulated at the sentencing hearing, the
+
+government respectfully recommends that this Court impose a sentence of 30 months
+
+imprisonment, to be followed by a three-year term of supervised release, as well as the required
+
+special assessment. Such a sentence would be sufficient, but not greater than necessary, to
+
+reflect the seriousness of the offense and the goals of sentencing.
+
+                                                       Respectfully submitted,
+
+                                                       UNITED STATES OF AMERICA,
+
+                                                       By its attorney,
+
+                                                       ANDREW E. LELLING
+                                                       United States Attorney
+
+                                                       /s/ Elianna J. Nuzum
+                                                       Elianna J. Nuzum
+                                                       Assistant United States Attorney
+                                                       John Joseph Moakley U.S. Courthouse
+                                                       One Courthouse Way, Suite 9200
+                                                       Boston, MA 02210
+                                                       elianna.nuzum@usdoj.gov
+                                                       617.748.3251
+
+Dated: December 10, 2019
+
+                                  CERTIFICATE OF SERVICE
+
+        Undersigned counsel certifies that this document filed through the ECF system will be
+sent electronically to the registered participants as identified on the Notice of Electronic Filing
+(NEF) and paper copies will be sent to those indicated as non-registered participants.
+
+                                               /s/ Elianna J. Nuzum
+                                               Elianna J. Nuzum
+                                               Assistant United States Attorney
+Dated: December 10, 2019
+
+                                                   5
+

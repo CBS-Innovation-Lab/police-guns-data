@@ -1,0 +1,1272 @@
+Case 2:13-cr-00196-NT Document 80 Filed 11/10/16 Page 1 of 24                       PageID #: 586
+
+
+
+                              UNITED STATES DISTRICT COURT
+                                   DISTRICT OF MAINE
+
+ROBERT KELLY CARTER,                           )
+                                               )
+               Petitioner,                     )
+                                               )
+       v.                                      )       2:13-cr-00196-NT-1
+                                               )       2:15-cv-00186-NT
+                                               )
+UNITED STATES OF AMERICA,                      )
+                                               )
+               Respondent                      )
+
+
+               RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+       In this action, Petitioner Robert Kelly Carter moves, pursuant to 28 U.S.C. § 2255, to
+
+vacate, set aside or correct his sentence. (Motion, ECF No. 57.) Following a guilty plea, Petitioner
+
+was convicted of possession of firearms by a convicted felon; the Court sentenced Petitioner to
+
+120 months in prison, followed by three years of supervised release. (Judgment, ECF No. 42 at
+
+1-3; Indictment, ECF No. 14.) Petitioner did not appeal from the judgment.
+
+       Petitioner asserts ineffective assistance of counsel based on the following grounds:
+
+(1) failure to move to suppress evidence from a search that petitioner contends was
+
+unconstitutional (Motion at 8); (2) failure to file a notice of appeal and failure to pursue an appeal
+
+(id. at 4); (3) failure to investigate adequately a prior conviction that formed the basis for a
+
+sentencing enhancement (id. at 5); (4) failure to investigate adequately bases for mitigation at
+
+sentencing (id. at 6); and (5) failure to challenge adequately the requirement that Petitioner
+
+participate in sex offender treatment as a special condition of supervised release (id. at 8).
+
+       The Government filed a response, and requested dismissal. (Response, ECF No. 71 at 1.)
+
+Petitioner retained counsel, who filed Petitioner’s reply. (Reply, ECF No. 79 at 33.)
+Case 2:13-cr-00196-NT Document 80 Filed 11/10/16 Page 2 of 24                      PageID #: 587
+
+
+
+       Following a review of Petitioner’s motion and the Government’s request for dismissal, I
+
+recommend pursuant to Rule 7 of the Rules Governing Section 2255 Proceedings, the Court allow
+
+Petitioner twenty days to submit admissible evidence that Petitioner believes corroborates his
+
+communications with his counsel regarding the notice of appeal. I also recommend that if
+
+Petitioner files any such evidence, the Court permit the Government to file a response to
+
+Petitioner’s submission within 20 days of the filing. I further recommend the Court deny
+
+Petitioner’s motion as to the remaining claims.
+
+                  I.      FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+       In 2012, Petitioner’s probation under a Kentucky sentence was transferred from Kentucky
+
+to Maine. (Motion at 19; Kentucky state court petition, ECF No. 57-8 at 3, 13.) Petitioner,
+
+therefore, was on probation at the time of the events that gave rise to the federal criminal
+
+prosecution.
+
+       According to the prosecution version, which Petitioner, in his plea colloquy, told the Court
+
+he did not dispute, one of Petitioner’s female friends contacted Petitioner’s probation officer on
+
+September 18, 2013, and told him that Petitioner possessed at least two handguns at his residence
+
+in Lisbon, Maine, where Petitioner lived alone. (Prosecution Version, ECF No. 24 at 1; Plea Tr.,
+
+ECF No. 54 at 13-14.) Later that day, law enforcement and the probation officer conducted a
+
+search of Petitioner’s residence, pursuant to Petitioner’s probation conditions. (Prosecution
+
+Version at 1.) After the officers told Petitioner they intended to conduct a search based on the
+
+friend’s report, Petitioner told the officers where they would find the guns; officers found the guns
+
+in the place identified by both Petitioner and the friend. (Id. at 1-2.)
+
+       Petitioner was indicted in November 2013 for a violation of 18 U.S.C. § 922(g)(1), for
+
+knowingly possessing two firearms after having been convicted of the following three crimes:
+
+
+
+                                                  2
+Case 2:13-cr-00196-NT Document 80 Filed 11/10/16 Page 3 of 24                      PageID #: 588
+
+
+
+(1) residential entry in Indiana (2001 conviction); (2) sexual battery in Indiana (2004 conviction);
+
+and (3) sexual abuse in the first degree in Kentucky (2007 conviction). (Indictment at 1.) The
+
+indictment alleged that Petitioner was subject to the penalty provisions of 18 U.S.C. § 924(e). (Id.)
+
+       In December 2013, following a hearing conducted pursuant to Fed. R. Crim. P. 11, the
+
+Court accepted Petitioner’s guilty plea. (Hearing Tr., ECF No. 54 at 17.) At sentencing, the Court
+
+concluded that Petitioner was not subject to the fifteen-year minimum sentence under section
+
+924(e), because the residential entry conviction did not qualify as a predicate violent felony.
+
+(Sentencing Tr., ECF No. 55 at 15-16.)
+
+       The Court determined the sentencing guidelines range as follows: The base offense level
+
+was 24, from which the Court subtracted three points for Petitioner’s acceptance of responsibility,
+
+for a total offense level of 21. (Id. at 20, 23.) The Court found that Petitioner had a criminal
+
+history category of five (category V), and thus determined the guidelines range to be from 70 to
+
+87 months. (Id. at 23.)
+
+       The Court departed upward from the guidelines range, and imposed a sentence of 120
+
+months, relying on a number of the sentencing factors set forth in 18 U.S.C. § 3553, most
+
+particularly the need to protect the public. (Sentencing Tr., ECF No. 56 at 9-15.) Among other
+
+things, the Court considered testimony of the woman who informed law enforcement that
+
+Petitioner had a gun; the Court also considered Petitioner’s criminal history, including the
+
+convictions for residential entry, sexual battery, and sexual abuse in the first degree. (Id. at 11-
+
+14).
+
+       The Court imposed a prison term of 120 months, followed by supervised release of three
+
+years. (Id. at 15-16; Judgment at 2-3.) In addition, the Court imposed, as a special condition of
+
+
+
+
+                                                 3
+    Case 2:13-cr-00196-NT Document 80 Filed 11/10/16 Page 4 of 24                                  PageID #: 589
+
+
+
+supervised release, the requirement that Petitioner participate in sex offender treatment.
+
+(Sentencing Tr., ECF No. 56 at 19; Judgment at 4.)
+
+         At the conclusion of the sentencing hearing, the Court informed Petitioner that he had the
+
+right to appeal: “I want to inform you that you have the right to appeal. To effectively exercise
+
+your right of appeal, you have to be caused to be filed with the clerk of this court within 14 days
+
+of today and not after that a written notice of appeal.” (Sentencing Tr., ECF No. 56 at 21.)
+
+         Petitioner asserts that he placed his section 2255 motion in the prison mailing system on
+
+May 13, 2015. (Motion at 35.) The motion was filed timely on May 18, 2015.1 (Id. at 1.)
+
+                                               II.      DISCUSSION
+
+         A. Legal Standards
+
+         A person may move to vacate his or her sentence on one of four different grounds: (1) “that
+
+the sentence was imposed in violation of the Constitution or laws of the United States;” (2) “that
+
+the court was without jurisdiction” to impose its sentence; (3) “that the sentence was in excess of
+
+the maximum authorized by law;” or (4) that the sentence “is otherwise subject to collateral
+
+attack.” 28 U.S.C. § 2255(a); see Knight v. United States, 37 F.3d 769, 772 (1st Cir. 1994).
+
+         A section 2255 petitioner must establish by a preponderance of the evidence that he or she
+
+is entitled to section 2255 relief. David v. United States, 134 F.3d 470, 474 (1st Cir. 1998); United
+
+States v. DiCarlo, 575 F.2d 952, 954 (1st Cir. 1978). When “a petition for federal habeas relief is
+
+presented to the judge who presided at the petitioner’s trial, the judge is at liberty to employ the
+
+knowledge gleaned during previous proceedings and make findings based thereon without
+
+convening an additional hearing.” United States v. McGill, 11 F.3d 223, 225 (1st Cir. 1993).
+
+
+1
+  See 28 U.S.C. 2255(f) (providing in pertinent part that “[a] 1-year period of limitation shall apply to a motion under
+this section. The limitation period shall run from the latest of – (1) the date on which the judgment of conviction
+becomes final.”) The Government does not contest that the petition was filed timely. (Response, ECF No. 71 at 2
+n.2.)
+
+                                                           4
+Case 2:13-cr-00196-NT Document 80 Filed 11/10/16 Page 5 of 24                        PageID #: 590
+
+
+
+       A collateral challenge is not a substitute for an appeal. United States v. Frady, 456 U.S.
+
+152, 165 (1982); Berthoff v. United States, 308 F.3d 124, 127 (1st Cir. 2002). “Accordingly, a
+
+defendant’s failure to raise a claim in a timely manner at trial or on appeal constitutes a procedural
+
+default that bars collateral review, unless the defendant can demonstrate cause for the failure and
+
+prejudice or actual innocence.” Berthoff, 308 F.3d at 127-28. Procedural default is an affirmative
+
+defense. Sotirion v. United States, 617 F.3d 27, 32 (1st Cir. 2010). The First Circuit has
+
+recognized that “federal courts have the authority to consider procedural default sua sponte.”
+
+Rosenthal v. O'Brien, 713 F.3d 676, 683 (1st Cir. 2013) (citing Brewer v. Marshall, 119 F.3d 993,
+
+999 (1st Cir. 1997)); see also Daniels v. United States, 532 U.S. 374, 382-83 (2001) (recognizing
+
+that “procedural default rules developed in the habeas corpus context apply in § 2255 cases”)
+
+(citing Frady, 456 U.S. at 167-68).
+
+       An allegation of ineffective assistance of counsel can excuse a procedural default, but only
+
+if the petitioner demonstrates both that counsel’s representation fell below an objective standard
+
+of reasonableness and that counsel’s deficient performance prejudiced the petitioner’s defense.
+
+Turner v. United States, 699 F.3d 578, 584 (1st Cir. 2012) (citing Strickland v. Washington, 466
+
+U.S. 668, 688 (1984)); Owens v. United States, 483 F.3d 48, 63 (1st Cir. 2007). A district court
+
+reviewing a claim of ineffective assistance of counsel need not address both prongs of the test
+
+because a failure to meet either prong will undermine the claim. Strickland, 466 U.S. at 697. If a
+
+petitioner’s “claims fail on the merits, his related claims that counsel rendered ineffective
+
+assistance in failing to press the claims at trial or on appeal must also fail.” Tse v. United States,
+
+290 F.3d 462, 465 (1st Cir. 2002) (per curiam).
+
+       In a claim of ineffective assistance of counsel for failure to file a notice of appeal, however,
+
+a petitioner need not allege prejudice. See Rodriguez v. United States, 395 U.S. 327, 330 (1969)
+
+
+
+                                                  5
+Case 2:13-cr-00196-NT Document 80 Filed 11/10/16 Page 6 of 24                         PageID #: 591
+
+
+
+(holding that “the courts below erred in rejecting petitioner’s application for [section 2255] relief
+
+because of his failure to specify the points he would raise were his right to appeal reinstated”);
+
+Bonneau v. United States, 961 F.2d 17, 23 (1st Cir. 1992) (same).
+
+        “Evidentiary hearings on § 2255 petitions are the exception, not the norm, and there is a
+
+heavy burden on the petitioner to demonstrate that an evidentiary hearing is warranted. An
+
+evidentiary hearing ‘is not necessary when a [§] 2255 petition (1) is inadequate on its face, or
+
+(2) although facially adequate, is conclusively refuted as to the alleged facts by the files and records
+
+of the case.’” Moreno-Morales v. United States, 334 F.3d 140, 145 (1st Cir. 2003) (citation
+
+omitted) (quoting DiCarlo, 575 F.2d at 954 (quotation marks omitted)). In determining whether
+
+an evidentiary hearing is required, the court must “take as true the sworn allegations of fact set
+
+forth in the petition ‘unless those allegations are merely conclusory, contradicted by the record, or
+
+inherently incredible.’” Owens, 483 F.3d at 57 (quoting Ellis v. United States, 313 F.3d 636, 641
+
+(1st Cir. 2002)). Summary dismissal of a motion is permitted when the allegations are “‘vague,
+
+conclusory, or palpably incredible,’” even “‘if the record does not conclusively and expressly belie
+
+[the] claim.’” David, 134 F.3d at 478 (quoting Machibroda v. United States, 368 U.S. 487, 495
+
+(1962)). The Court can reasonably require a petitioner to supply the Court with salient details of
+
+the claim prior to permitting discovery or a hearing. Id. (holding that “the district court did not
+
+abuse its discretion in refusing to license a fishing expedition”).
+
+        B. Claims and Analysis
+
+            1. Failure to move to suppress (Ground Four)
+
+         Petitioner alleges that counsel was ineffective for the failure to move to suppress evidence
+
+from a warrantless search that Petitioner contends was unconstitutional. (Motion at 8.) Petitioner
+
+maintains the search, which was conducted pursuant to the probation conditions imposed as part
+
+
+
+                                                   6
+    Case 2:13-cr-00196-NT Document 80 Filed 11/10/16 Page 7 of 24                                PageID #: 592
+
+
+
+of his Kentucky sentence, was illegal because the five-year period of probation exceeded the
+
+three-year maximum probation term permitted under Kentucky law, and the search occurred more
+
+than three years into his probation.2 (Motion at 28-32.) Petitioner alleges that he told the probation
+
+officer before the search that the maximum allowable three-year probation period had expired. (Id.
+
+at 30.)
+
+          Petitioner does not allege that he had successfully challenged the Kentucky judgment prior
+
+to the search; rather, he alleges that in May 2015, i.e., more than 19 months after the search, he
+
+filed a state court post-conviction petition to challenge the length of probation in his Kentucky
+
+sentence, and he asserts the state court post-conviction proceeding was pending at the time he filed
+
+his section 2255 motion. (Id. at 32; Kentucky petition, ECF No. 57-8.) In other words, Petitioner
+
+does not dispute (1) that the Kentucky judgment and sentence were in place at the time of the
+
+search, and (2) that the search occurred within the five-year probation period imposed as part of
+
+the Kentucky sentence.
+
+          Petitioner’s claim is foreclosed by the Supreme Court’s decision in Lewis v. United States,
+
+445 U.S. 55, 67 (1980). In Lewis, the appellant challenged his conviction, under a statute that
+
+preceded section 922(g)(1), based on his contention that the predicate state court conviction was
+
+obtained when the appellant was without counsel.3 Lewis, 445 U.S. at 57-58. For purposes of its
+
+
+2
+  Petitioner alleges that he was released from incarceration in Kentucky on November 5, 2009, and that he arranged
+to have his Kentucky probation supervised in Maine. (Motion, ECF No. 57 at 19; Kentucky state court petition, ECF
+No. 57-8 at 2-3, 12-13.) The prosecution version, which Petitioner told the Court in the plea colloquy was true to his
+personal knowledge, provides that the search that led to the federal felon-in-possession charge took place on
+September 18, 2013, and that it was conducted pursuant to Petitioner’s probation conditions, including one that
+“required him to submit to a search of his home upon reasonable suspicion of his possession of contraband.”
+(Prosecution Version, ECF No. 24 at 1; Plea Tr., ECF No. 54 at 13-14.) Petitioner does not dispute either (1) that his
+probation conditions prohibited firearms possession and required him to submit to warrantless searches, or (2) that a
+probationer has a diminished reasonable expectation of privacy during the probationary period, see United States v.
+Knights, 534 U.S. 112, 119-20 & n.6 (2001). (Motion, ECF No. 57 at 29; Reply, ECF No. 79 at 30.)
+3
+ The predecessor statute at issue in Lewis v. United States, 445 U.S. 55, 56 (1980), was 18 U.S.C.§ 1202(a)(1). See
+United States v. Snyder, 235 F.3d 42, 52 (1st Cir. 2000) (describing 18 U.S.C. § 1202(a)(1) as a predecessor to 18
+U.S.C. § 922(g)(1)).
+
+                                                          7
+Case 2:13-cr-00196-NT Document 80 Filed 11/10/16 Page 8 of 24                       PageID #: 593
+
+
+
+analysis, the Supreme Court assumed the appellant could prove he was without counsel in the prior
+
+state court prosecution. Id. at 58. “[I]t is important to note that a convicted felon may challenge
+
+the validity of a prior conviction, or otherwise remove his disability, before obtaining a firearm.
+
+We simply hold today that the firearms prosecution does not open the predicate conviction to a
+
+new form of collateral attack.” Id. at 67-68 (citing Walker v. City of Birmingham, 388 U.S. 307
+
+(1967)). In Lewis, the Court recognized that there was “little significant difference” between the
+
+statute at issue in that case and section 922(g)(1). Id. at 64.
+
+       In United States v. Snyder, 235 F.3d 42 (1st Cir. 2000), the First Circuit held, based on
+
+Lewis, that a successful collateral attack on a predicate conviction for a section 922(g)(1) offense
+
+did not warrant a new trial on the section 922(g)(1) offense. 235 F.3d at 51-53 (citing Lewis, 445
+
+U.S. at 60-61, 64, 65); see also United States v. Roberson, 752 F.3d 517, 524 (1st Cir. 2014) (noting
+
+that in Snyder, the Court “held that the later vacating of a state court conviction did not invalidate
+
+the defendant’s federal conviction as a felon in possession of a firearm under [section 922(g)(1)]
+
+because he was a felon at the time of the charged possession”).
+
+       Petitioner’s challenge to the search is premised on his contention that in a prosecution
+
+under section 922(g)(1), he can collaterally challenge the state court conviction. Lewis does not
+
+permit such a defense; rather, the Court held that a challenge must have been filed and concluded
+
+successfully, or the disability otherwise must have been removed, before a defendant obtains
+
+possession of firearms. Lewis, 445 U.S. at 64, 67-68. Because Petitioner would have been
+
+precluded from challenging the Kentucky judgment in his section 922(g)(1) prosecution, the Court
+
+need not address Petitioner’s underlying argument that his Kentucky probation was invalid at the
+
+time of the search. See id.; Snyder, 235 F.3d at 52-53. Given that Petitioner is not entitled to
+
+challenge his felon-in-possession prosecution on the grounds that the predicate judgment was
+
+
+
+                                                   8
+    Case 2:13-cr-00196-NT Document 80 Filed 11/10/16 Page 9 of 24                                PageID #: 594
+
+
+
+flawed, Petitioner’s related claim of ineffective assistance for failure to file a motion to suppress
+
+also fails. See Tse, 290 F.3d at 465.4
+
+             2. Failure to appeal (Ground One)
+
+         Petitioner alleges that he asked counsel to file an appeal, and that counsel was ineffective
+
+when he failed to file a notice of appeal and failed to pursue an appeal. (Motion at 4, 15.) Petitioner
+
+contends that there are material issues of fact in dispute regarding his communication with his
+
+attorney, and he requests an evidentiary hearing to resolve the disputes. (Reply at 3.) Petitioner
+
+argues that an appeal was important due to the above-guidelines sentence. (Id. at 4.)
+
+         On May 6, 2014, at the conclusion of the sentencing hearing, the Court informed Petitioner
+
+that he had the right to appeal:
+
+         I want to inform you that you have the right to appeal. To effectively exercise your
+         right of appeal, you have to be caused to be filed with the clerk of this court within
+         14 days of today and not after that a written notice of appeal. Do you understand,
+         sir?
+
+(Sentencing Tr., ECF No. 56 at 1, 21.) Petitioner replied, “Yes, Your Honor.” (Id.) The Court
+
+then told Petitioner: “And I advise you that if you fail to timely file a written notice of appeal
+
+you’ll have given up your right to appeal the sentence and conviction. Do you understand that?”
+
+(Id.) Petitioner again replied, “Yes, Your Honor.” (Id.)
+
+
+
+
+4
+  In his reply, Petitioner also responds to the Government’s argument that the search was valid, independent of
+Petitioner’s probation conditions, because probable cause existed and Petitioner consented. (Response, ECF No. 71
+at 38; Reply, ECF No. 79 at 31-32.) Petitioner argues that probable cause did not exist because Petitioner’s friend
+who contacted the probation officer provided information that was uncorroborated, and the friend proved unreliable
+because she was not available at sentencing. (Reply at 31-32.) The Court need not address this argument because,
+for the reasons explained above, the warrantless search was valid under Petitioner’s probation conditions.
+Nonetheless, Petitioner’s argument that the friend’s failure to appear at sentencing indicates that she was unreliable
+lacks merit because there is nothing indicating that the information obtained at sentencing about the friend’s
+availability at that time was also available to law enforcement at the time of the search.
+
+                                                          9
+Case 2:13-cr-00196-NT Document 80 Filed 11/10/16 Page 10 of 24                        PageID #: 595
+
+
+
+        According to Petitioner, following the entry of the Court’s judgment on May 6, 2014
+
+(Motion at 13-14; Judgment at 1), his counsel sent him a letter dated May 7, 2014 (Letter, ECF
+
+No. 57-2), which stated in relevant part:
+
+        I have explained to [you] that you have a legal right to appeal the sentence. I agree
+        with your decision not to appeal. The issue for an appeal is not if we find the
+        sentence “fair”, but rather if it meets the allowable legal standard. A sentence will
+        be []found substantively reasonable if the court has provided a plausible
+        explanation, and the overall result is defensible. United States v. Innarelli, 524 F.3d
+        286, 292 (1st Cir. 2008). The First Circuit court of appeals recently upheld a 10
+        year sentence for a felon in conviction [sic] of a firearm with very similar facts to
+        your case. U.S. v. Dwayne Taylor, No. 12-1469, Nov. 4, 2013. (Advisory
+        Guideline range of 51-63 months and a sentence of 10 years upheld on appeal as
+        reasonable). Most importantly, I do not expect the government to appeal the ACCA
+        denial ruling in light of the 10 year sentence. If you were to appeal the sentence,
+        the government could cross appeal the denial of ACCA and you could potentially
+        face a much higher sentence triggered by your own appeal! I cannot know if the
+        government would in fact cross appeal but this is a real risk. For these reasons, I
+        agree with your decision not to appeal the sentence, and also recognize the final
+        choice of an appeal is yours to make.
+
+        ...
+
+        I will send to your father a copy of this letter, the judgment, docket sheet and your
+        military medical records so he will have all of that information if you ever need it.
+        My role in the case is now coming to an end and I will be closing our file. Should
+        you have any future questions you certainly may write or have your father contact
+        me.
+
+(Id. at 2-3.)
+
+        Petitioner asserts he sent counsel a letter dated May 12, 2014, which letter he attached to
+
+his motion, advising counsel that he wanted to appeal. (Motion at 14; Letter, ECF No. 57-3.)
+
+Petitioner also alleges that on May 12, 2014, along with the letter, he returned a form to counsel
+
+that was similar to the form notice of appeal that counsel later provided to Petitioner on a disc that
+
+contained Petitioner’s electronic file. (Motion at 15; Form, ECF No. 57-6.) The form attached to
+
+Petitioner’s motion is stamped “FILE COPY;” it is unsigned by Petitioner; it references a date of
+
+April 10, 2014, which is not the judgment date of May 6, 2014; and it states in part: “IF you decide
+
+
+                                                  10
+Case 2:13-cr-00196-NT Document 80 Filed 11/10/16 Page 11 of 24                       PageID #: 596
+
+
+
+to appeal, this Notice of Appeal Form must be filed with the Clerk, U.S. District Court, 156 Federal
+
+St., Portland, ME 04101 within 14 days of the day you are sentenced.” (Form, ECF No. 57-6.)
+
+        Petitioner also alleges he sent counsel a letter dated January 13, 2015, which letter he
+
+attached to the section 2255 motion, reminding counsel that when Petitioner saw him after
+
+sentencing, he told counsel that he wanted to appeal. (Motion at 14; Letter, ECF No. 57-4.) The
+
+letter states:
+
+        I have not heard anything from you in a while. The last time I saw you was after
+        my sentencing. . . . At that time I told you I wanted to appeal the sentence. You
+        left me with a “form” regarding appeal, which I signed and returned to you.
+
+(Motion at 14; Letter, ECF No. 57-4.) Petitioner apparently contends that at sentencing, counsel
+
+left him with a form notice of appeal, which form Petitioner alleges that he subsequently signed
+
+and returned to counsel on May 12. (Motion at 15.) Petitioner asserts that in his January 13, 2015,
+
+letter to counsel, he also asked counsel to send him a complete copy of the case file, and in response
+
+counsel provided the disc. (Motion at 15; Letters, ECF No. 57-4, 57-5 at 2.) Petitioner evidently
+
+maintains that the form notice of appeal attached to his section 2255 motion is the form he received
+
+on the disc as part of the file counsel sent him. (Motion at 15.)
+
+        By letter dated January 22, 2015, counsel expressed his surprise with Petitioner’s letter;
+
+counsel told Petitioner that “there is no appeal,” and that “[y]ou told me you did not want to appeal
+
+in light of the judge’s ruling that ACCA did not apply.” (Motion at 14; Letter, ECF No. 57-5 at
+
+1.) Counsel also wrote:
+
+        Following my letter to you of May 7, 2014[,] I never heard any other thing from
+        you until your letter to me that arrived yesterday. However, I did follow up with
+        your father, again as you requested, and sent him your medical records which we
+        obtained from the VA. No one ever contacted me and asked about an appeal. You
+        not only did not seek [an] appeal, I confirmed in writing what you told me that you
+        did not want to appeal. You never returned any signed [form] to me. In fact, the
+        form I gave you was so that IF you decided you did want to appeal you could sign
+        the form and mail it to the court. The form has the court’s address on it and says it
+
+
+                                                 11
+Case 2:13-cr-00196-NT Document 80 Filed 11/10/16 Page 12 of 24                                      PageID #: 597
+
+
+
+         must be signed and mailed to the court within 14 days of sentencing. At sentencing
+         the judge told you the same thing.
+
+(Letter, ECF No. 57-5 at 1.)
+
+         When determining whether an evidentiary hearing is needed on Petitioner’s section 2255
+
+motion, Petitioner’s allegations are accepted as true, except to the extent the record demonstrates
+
+otherwise.5 See DeCologero v. United States, 802 F.3d 155, 167 (1st Cir. 2015); Owens, 483 F.3d
+
+at 57. The Supreme Court has recognized that “a lawyer who disregards specific instructions from
+
+the defendant to file a notice of appeal acts in a manner that is professionally unreasonable.” Roe
+
+v. Flores-Ortega, 528 U.S. 470, 477 (2000). A petitioner need not allege prejudice, i.e., he need
+
+not allege meritorious points he would raise if his right to an appeal were reinstated. Rodriguez,
+
+395 U.S. at 330; Bonneau, 961 F.2d at 23.
+
+         The current record generates several questions regarding Petitioner’s alleged
+
+communications with his counsel about the notice of appeal. In fact, in Petitioner’s section 2255
+
+motion, he alleges two potentially conflicting versions of the events in the immediate aftermath of
+
+the sentencing. Through reliance on the May 12, 2014, letter he purportedly sent to his counsel,
+
+Petitioner apparently contends he informed his counsel of his decision to appeal in writing after
+
+considering the issue for several days. (Motion at 14-15; Letter, ECF No. 57-3.) Based on his
+
+January 13, 2015, letter to his counsel, to which letter counsel responded and thus received,
+
+
+
+
+5
+  The Government argues preliminarily that the claim should be dismissed because Petitioner did not make his
+allegations under oath or the statutory alternative to the oath. (Response at 25.) The standard form that Petitioner
+used states: “For this motion, state every ground on which you claim that you are being held in violation of the
+Constitution, laws, or treaties of the United States. Attach additional pages if you have more than four grounds.”
+(Motion at 3.) Because the form itself states that additional pages may be added, it is logical to conclude that the
+additional pages should be considered to have been incorporated in the petition by reference and signed under penalty
+of perjury. Separate filings may be another matter, but in this case, it appears that the government's objections are to
+an attachment that is actually part of the petition itself. Furthermore, the memorandum contained a statement and
+signature that appear to meet the requirements of Rule 2 of the Rules Governing Section 2255 Proceedings. (Motion
+at 13.) The allegations contained in the memorandum attached to Petitioner’s section 2255 motion thus are adequately
+sworn. See 28 U.S.C. § 1746; Rule 2 of the Rules Governing Section 2255 Proceedings.
+
+                                                          12
+Case 2:13-cr-00196-NT Document 80 Filed 11/10/16 Page 13 of 24                      PageID #: 598
+
+
+
+Petitioner evidently alleges (1) he made the decision to appeal when he consulted with counsel in
+
+person, sometime after the conclusion of the sentencing hearing; (2) in response, counsel left him
+
+with a form notice of appeal; and (3) Petitioner later sent the form notice of appeal to counsel with
+
+instructions to file it. (Motion at 14-15; Letter, ECF No. 57-4.)
+
+       Significantly, Petitioner’s assertion in his January 2015 letter that when he last “saw” his
+
+counsel he told his counsel that he wanted to appeal can legitimately be questioned, due in part to
+
+the delay between the sentencing in May 2014 and the January 2015 letter. See McQuiggin v.
+
+Perkins, 133 S. Ct. 1924, 1928 (2013) (“Our opinion clarifies that a federal habeas court, faced
+
+with an actual-innocence gateway claim, should count unjustifiable delay on a habeas petitioner’s
+
+part, not as an absolute barrier to relief, but as a factor in determining whether actual innocence
+
+has been reliably shown.”); Blackledge v. Allison, 431 U.S. 63, 78 n. 15 (1977) (citations omitted)
+
+(noting that this was not a case in which “delay by the prisoner in seeking postconviction relief
+
+undercuts the credibility of his allegations”); Broadnax v. United States, No. 3:09cv720, 2013 WL
+
+4482778, at *6-8, 2013 U.S. Dist. Lexis 118852, at *16-17 (D. Conn. Aug. 21, 2013) (holding that
+
+the petitioner’s lack of corroborated contemporaneous documentation of his alleged instruction to
+
+counsel to file a notice of appeal, combined with the delay between the alleged instruction to
+
+counsel and the filing of the habeas petition, undermined the petitioner’s credibility and
+
+contributed to the determination that the petitioner failed to meet his burden to prove that he
+
+instructed counsel to file a notice of appeal).
+
+       In addition, the May 12, 2014, letter is suspect because Petitioner has not provided any
+
+independent corroboration that he sent the letter to counsel. See United States v. Butt, 731 F.2d
+
+75, 80 n.5 (1st Cir. 1984) (“Evidentiary hearings have been granted to § 2255 appellants who have
+
+claimed that their plea was induced by attorney misrepresentations only when the allegations were
+
+
+
+                                                  13
+Case 2:13-cr-00196-NT Document 80 Filed 11/10/16 Page 14 of 24                           PageID #: 599
+
+
+
+highly specific and usually accompanied by some independent corroboration.”). Indeed, the letter
+
+lacks counsel’s address.
+
+           Given the record, the lack of corroboration in this case is particularly concerning. In his
+
+January 13, 2015, letter, Petitioner makes no mention of the May 12 letter he maintains he
+
+forwarded to Petitioner’s counsel. Logic suggests if the letter was genuine and sent to counsel,
+
+Petitioner would have provided his counsel with a copy of the letter in January 2015, just as
+
+Petitioner filed a copy of the letter with the Court. At a minimum, Petitioner would have
+
+referenced the May 12 letter in his January letter.
+
+           Petitioner nevertheless maintains a factual issue exists as to whether Petitioner asked his
+
+counsel to file a notice of appeal. He thus contends an evidentiary hearing is necessary. Even if a
+
+factual issue exists, resolution of the factual dispute does not necessarily require a testimonial
+
+hearing. Section 2255(c) states: “A court may entertain and determine such motion without
+
+requiring the production of the prisoner at the hearing.” In situations in which a hearing of some
+
+sort may be necessary, the district court has discretion to determine whether or not to conduct a
+
+full testimonial hearing:
+
+           What has been said is not to imply that a movant must always be allowed to appear
+           in a district court for a full hearing if the record does not conclusively and expressly
+           belie his claim, no matter how vague, conclusory, or palpably incredible his
+           allegations may be. The language of the statute does not strip the district courts of
+           all discretion to exercise their common sense. Indeed, the statute itself recognizes
+           that there are times when allegations of facts outside the record can be fully
+           investigated without requiring the personal presence of the prisoner.
+
+Machibroda, 368 U.S. at 495 & n.4 (citing 28 U.S.C. § 2255(c)). Furthermore, Rule 7 of the Rules
+
+Governing Section 2255 Proceedings provides that the Court may direct the parties to expand the
+
+record.6
+
+
+6
+    Rule 7 of the Rules Governing Section 2255 Proceedings states:
+
+
+                                                         14
+Case 2:13-cr-00196-NT Document 80 Filed 11/10/16 Page 15 of 24                                     PageID #: 600
+
+
+
+          In this case, while the Court could arguably grant the Government’s motion to dismiss on
+
+the current record, to ensure that Petitioner has had the opportunity to address the issues of concern
+
+set forth herein, before the Court decides whether to grant the Government’s motion, the better
+
+course would be to permit Petitioner to submit evidence, in a form that establishes its admissibility,
+
+that Petitioner believes corroborates his communications with his counsel regarding the notice of
+
+appeal.
+
+              3. Failure to investigate and challenge the Kentucky conviction at sentencing
+                 (Ground Two)
+
+          Petitioner alleges that counsel was ineffective for the failure to investigate and challenge
+
+the predicate Kentucky conviction at sentencing. (Motion at 5, 18.) Petitioner alleges he told
+
+counsel that he thought the Kentucky judgment was unconstitutional.7 (Id. at 21.) As with
+
+Petitioner’s claim regarding counsel’s failure to file a motion to suppress, Petitioner’s sentencing
+
+claim is based on the argument that the Kentucky conviction is flawed because the probation period
+
+provided in the Kentucky sentence was longer than permitted under Kentucky law. (Motion at 18-
+
+21; Reply at 14-26.) Petitioner argues that at sentencing, counsel failed to challenge the Court’s
+
+reliance on the Kentucky conviction to raise the base offense level to 24, pursuant to U.S.S.G. §
+
+2K2.1(a)(2); to increase the criminal history score and criminal history category, pursuant to
+
+U.S.S.G. §§ 4A1.1(d), 5A; and to depart upward from the guidelines range, pursuant to 18 U.S.C.
+
+
+          (a)      In General. If the motion is not dismissed, the judge may direct the parties to expand the
+          record by submitting additional materials relating to the motion. The judge may require that these
+          materials be authenticated.
+
+          (b)      Types of Materials. The materials that may be required include letters predating the filing
+          of the motion, documents, exhibits, and answers under oath to written interrogatories propounded
+          by the judge. Affidavits also may be submitted and considered as part of the record.
+
+          (c)      Review by the Opposing Party. The judge must give the party against whom the
+          additional materials are offered an opportunity to admit or deny their correctness.
+7
+ At sentencing, counsel told the Court that Petitioner had factual objections to prior convictions, including the
+Kentucky conviction. (Sentencing Tr., ECF No. 52 at 10.)
+
+                                                          15
+Case 2:13-cr-00196-NT Document 80 Filed 11/10/16 Page 16 of 24                                       PageID #: 601
+
+
+
+§ 3553(a). (Sentencing Tr., ECF No. 55 at 23; Sentencing Tr., ECF No. 56 at 12-15; Reply at 14-
+
+26.)
+
+         The analysis of the Kentucky conviction is different for sentencing than when determining
+
+whether Petitioner committed an offense under section 922(g)(1). See Snyder, 235 F.3d at 52-53.
+
+In Snyder, the appellant had prevailed in a collateral challenge to a predicate state court stalking
+
+conviction, and he sought to vacate his section 922(g)(1) conviction on that basis. Id. at 51 & n.10.
+
+The First Circuit held that the district court did not err in denying a new trial on the section
+
+922(g)(1) offense, but it recognized that “Lewis is inapplicable where prior convictions are used
+
+to determine the punishment, rather than to define the offense.” Id. at 53 (quoting United States
+
+v. Paleo, 9 F.3d 988, 989 (1st Cir. 1992)) (quotation marks omitted).
+
+         The sentencing guidelines commentary provides that in limited situations, prior
+
+convictions are not to be counted in calculating a defendant’s criminal history:
+
+         Sentences resulting from convictions that (A) have been reversed or vacated
+         because of errors of law or because of subsequently discovered evidence
+         exonerating the defendant, or (B) have been ruled constitutionally invalid in a prior
+         case are not to be counted. With respect to the current sentencing proceeding, this
+         guideline and commentary do not confer upon the defendant any right to attack
+         collaterally a prior conviction or sentence beyond any such rights otherwise
+         recognized in law (e.g., 21 U.S.C. § 851 expressly provides that a defendant may
+         collaterally attack certain prior convictions).
+
+         Nonetheless, the criminal conduct underlying any conviction that is not counted in
+         the criminal history score may be considered pursuant to §4A1.3 (Adequacy of
+         Criminal History Category).
+
+U.S.S.G. § 4A1.2 cmt. n.6; Paleo, 9 F.3d at 989.8
+
+
+
+8
+  In United States v. Paleo, 9 F.3d 988, 988 (1st Cir. 1992), the First Circuit held that 18 U.S.C. § 924(e) does not
+require a sentencing court “to enhance a sentence in light of an earlier conviction that the sentencing court has
+determined was imposed in violation of the Constitution.” The First Circuit recognized that although Application
+Note 6 to U.S.S.G. § 4A1.2 is broadly analogous to 18 U.S.C. § 924(e), the guidelines provision “arises in a different
+legal context and uses language critically different from the statute here in question.” Id. at 989. In Petitioner’s case,
+the Court determined that one of the requisite three prior violent felonies did not qualify as a predicate, and therefore
+section 924(e) does not apply. (Sentencing Tr., ECF No. 55 at 15-16.) Paleo is distinguishable on that basis.
+
+                                                           16
+Case 2:13-cr-00196-NT Document 80 Filed 11/10/16 Page 17 of 24                                     PageID #: 602
+
+
+
+         Because the state court sentence had not been reversed or vacated due to an error of law,
+
+nor had it been ruled constitutionally invalid in a prior case, the Court properly included
+
+Petitioner’s Kentucky conviction in the calculation of his criminal history. See U.S.S.G. § 4A1.2
+
+cmt. n.6. The Court also appropriately considered the Kentucky conviction in its application of
+
+the sentencing factors under section 3553(a). See United States v. Perez-Perez, 626 F. App’x 8,
+
+10 (1st Cir. 2015) (per curiam) (noting that “[t]he district court expressly considered the § 3553(a)
+
+factors, noting in particular [the defendant’s] prior conviction”). The claim therefore fails, as does
+
+Petitioner’s related claim of ineffective assistance for failure to challenge the Kentucky conviction
+
+at sentencing. See Tse, 290 F.3d at 465.
+
+             4. Failure to investigate bases for mitigation (Ground Three)
+
+         Petitioner alleges that counsel was ineffective for the failure to pursue adequately two bases
+
+for mitigation at sentencing. (Motion at 6.)
+
+         First, Petitioner alleges that the woman who was the victim in both the Indiana sexual
+
+battery and the Kentucky sexual abuse in the first degree matters recanted the allegations that led
+
+to the Indiana conviction, and that Petitioner and the victim married, although they later divorced.
+
+(Id. at 22-24: Reply at 27-28.) Petitioner also alleges that the victim originally recanted the
+
+allegations that resulted in the Kentucky conviction. (Motion at 23-24.) Petitioner asserts that the
+
+victim failed to follow through with the recantation, and he requests the opportunity to obtain
+
+recantation evidence from counsel in the Kentucky conviction.9 (Id. at 24.)
+
+         Second, Petitioner argues that the friend who reported his possession of firearms was not a
+
+credible grand jury witness. (Motion at 25-28; Reply at 29-30.) The friend testified that Petitioner
+
+put a firearm in her hands against her will; Petitioner contends that counsel should have argued
+
+
+9
+ Petitioner alleges that the victim made the recantation statement in the Kentucky case to counsel, after which counsel
+withdrew to serve as a witness. (Motion at 23-24.)
+
+                                                          17
+Case 2:13-cr-00196-NT Document 80 Filed 11/10/16 Page 18 of 24                         PageID #: 603
+
+
+
+that the witness’s lack of availability at sentencing suggested that her grand jury testimony was
+
+not credible, and that the grand jury transcript should not have been admitted. (Motion at 25-28;
+
+Reply at 29-30.)
+
+           Both of Petitioner’s arguments relate to the Court’s analysis of the section 3553(a)
+
+sentencing factors, particularly section 3553(a)(1), which requires the Court to take into account
+
+“the nature and circumstances of the offense and the history and characteristics of the defendant.”
+
+(Sentencing Tr., ECF No. 55 at 35-36.) The relevant portion of the presentence investigation report
+
+states:
+
+           On September 18, 2013, Carter’s supervising officer received a phone call from a
+           woman explaining that she had been in a relationship with Carter for three weeks
+           and was concerned that his mental health was declining. Specifically, the woman
+           advised that Carter made disturbing remarks about the recent Naval Shipyard
+           shooting in Washington D.C. and insinuated that the suspect’s actions were
+           justified. The woman further reported that Carter was in possession of at least two
+           firearms and that he placed a gun in her hands (on one prior occasion) even though
+           she told him she did not want to handle it. The complainant informed that Carter
+           kept a revolver beside his bed on a nightstand and that a second firearm was hidden
+           in a cloth bag in the back bedroom of his residence. As conditions of his probation,
+           Carter was prohibited from possessing firearms and was subject to random searches
+           of his home based upon reasonable suspicion of a violation of his probation
+           conditions.
+
+At sentencing, counsel explained that Petitioner did not challenge the fact that the woman made
+
+the report. (Id. at 37.) The Court noted, however, that Petitioner contested that he had acted in the
+
+manner reported. (Id. at 39-40.)
+
+           The Court granted a continuance to give the Government the opportunity to prove that
+
+Petitioner acted in accordance with the woman’s report. (Id. at 40.) The Court informed the
+
+parties:
+
+           I consider putting a firearm in the hands of someone who doesn’t want to hold one
+           dangerous behavior, and I consider that particularly in light of the defendant’s past
+           criminal history, which involved a lot of violence against women and controlling
+           of women that I find troubling.
+
+
+                                                    18
+Case 2:13-cr-00196-NT Document 80 Filed 11/10/16 Page 19 of 24                      PageID #: 604
+
+
+
+
+(Sentencing Tr., ECF No. 55 at 36.) The Court noted that the conduct, if proven, would be an
+
+important factor at sentencing, in that it might mean the difference between a sentence within the
+
+guidelines range and one that departed upward from the guidelines range. (Id. at 40-41.)
+
+         Following the continuance, the Government represented that it was not able to locate the
+
+witness. (Sentencing Tr., ECF No. 56 at 5.) In lieu of the witness’s live testimony, the Government
+
+offered a transcript of the witness’s grand jury testimony. (Id. at 3.) Counsel acknowledged that
+
+the grand jury testimony was admissible, but he argued that its probative value was diminished
+
+based on the testimony and the witness’s unavailability at sentencing. (Id. at 7-9.) See United
+
+States v. Dyer, 589 F.3d 520, 531-32 (1st Cir. 2009) (noting that “the Confrontation Clause does
+
+not apply at sentencing”).
+
+       The Court recognized that the grand jury testimony was hearsay not subject to
+
+cross-examination, but the Court found that the testimony was truthful. (Id. at 11.) The finding
+
+was based on (1) the consistency between the reported behavior and Petitioner’s prior criminal
+
+behavior, particularly that the behavior was sexually aggressive, that it involved control issues,
+
+and that the witness did not consent to her most recent sexual encounter with Petitioner; and (2)
+
+that the witness’s testimony about the location of the firearms was corroborated by the search.
+
+(Id. at 11-13.) The Court also found that both the Indiana sexual battery conviction and the
+
+Kentucky conviction for sexual assault in the first degree were corroborated by physical evidence.
+
+(Id. at 13-14.) Finally, the Court determined that Petitioner had engaged in aggressive conduct in
+
+the residential entry crime, and that he intended to restrain and rape the victim. (Id. at 13.) The
+
+Court thus explicitly considered the unavailability of the witness, but decided nonetheless to credit
+
+the grand jury testimony. (Id. at 11.)
+
+
+
+
+                                                 19
+Case 2:13-cr-00196-NT Document 80 Filed 11/10/16 Page 20 of 24                       PageID #: 605
+
+
+
+       Petitioner’s argument that counsel was ineffective for failing to seek the exclusion of the
+
+grand jury testimony is meritless, see Dyer, 589 F.3d at 531-32, and counsel argued that the grand
+
+jury testimony should be given less weight because the witness was unavailable at sentencing.
+
+(Sentencing Tr., ECF No. 56 at 7-9.) Furthermore, the Court considered the evidence Petitioner
+
+offered in mitigation, including letters of support, Petitioner’s military service, his employment,
+
+his mother’s statements about his childhood nature, and his health issues. (Id. at 14-15.) The
+
+Court ultimately determined the protection of the public to be the overriding factor, based on the
+
+danger Petitioner posed to the community generally, and specifically to women with whom he has
+
+relationships. (Id. at 15.) Under the circumstances, counsel’s performance was not deficient, nor
+
+was Petitioner prejudiced.
+
+       In support of his section 2255 argument that the victim recanted during the Indiana
+
+prosecution, Petitioner submitted an affidavit of the attorney who represented him in the Indiana
+
+case. (Motion at 22-24; Affidavit, ECF No. 57-9.) The attorney’s affidavit alleges in pertinent
+
+part: “[The victim] completely recanted her accusations of criminal sexual behavior to the extent
+
+that a possible obstruction of justice or perjury charge could have been leveled against her. . . . In
+
+my opinion, [Petitioner] agreed to plead guilty to a Sexual Battery charge to shield his new wife
+
+from potential criminal charges for falsely accusing him.” (Affidavit at 1.) In the plea transcript
+
+attached to the attorney affidavit, the attorney referred to recantation testimony the victim gave in
+
+a deposition in the Indiana criminal prosecution against Petitioner. (Affidavit at 11.) In his section
+
+2255 motion, Petitioner describes the circumstances of the Indiana crime as a “love spat” that
+
+resulted in the victim’s desire to do harm to Petitioner. (Motion at 22.) Petitioner alleges that if
+
+Petitioner’s counsel at his federal sentencing had presented the Indiana attorney affidavit, the Court
+
+would have been aware that the victim recanted. (Id. at 23; Reply at 28.)
+
+
+
+                                                 20
+Case 2:13-cr-00196-NT Document 80 Filed 11/10/16 Page 21 of 24                       PageID #: 606
+
+
+
+       It is unlikely that the recantation testimony would have altered Petitioner’s sentence.
+
+Compare Sears v. Upton, 561 U.S. 945, 954-55 (2010) (per curiam) (noting that “there is no
+
+prejudice when the new mitigating evidence ‘would barely have altered the sentencing profile
+
+presented’ to the decisionmaker,” but holding that the state court undertook a “truncated prejudice
+
+inquiry” under the circumstances presented) (quoting Strickland, 466 U.S. at 700). The transcript
+
+attached to the attorney affidavit shows that Petitioner admitted in the Indiana plea hearing that he
+
+compelled the victim to submit to touching “by threatening her with the use of force, roughing her
+
+up, inflicting pain . . . .” (Affidavit at 10.) The Indiana court explicitly addressed the recantation
+
+testimony, and in particular Petitioner’s right to argue that he should be permitted to use it to
+
+impeach the victim and obtain a certain jury instruction, should Petitioner have chosen to go to
+
+trial. (Id. at 11-12.) In addition, at Petitioner’s sentencing on the federal offense, the Court found
+
+that the Indiana crime was corroborated by physical evidence. (Sentencing Tr., ECF No. 56 at 13.)
+
+       If, at the federal sentencing, Petitioner had presented the plea transcript from his Indiana
+
+case and argued that he was entitled to mitigation because the Indiana crime was merely a love
+
+spat, given the other evidence presented at sentencing about Petitioner’s treatment of women, the
+
+Court could easily have concluded that the transcript and Petitioner’s argument constituted even
+
+more evidence that Petitioner engaged in a pattern of blaming his victims; at sentencing, the Court
+
+observed that Petitioner had blamed his victims. (Id. at 14.) In short, Petitioner cannot establish
+
+that counsel’s failure to present the recantation testimony as grounds for mitigation constituted
+
+deficient performance, nor can he establish that there is a reasonable probability that he would
+
+have received a more favorable sentence had the recantation testimony been presented. See Sears,
+
+561 U.S. at 956.
+
+
+
+
+                                                 21
+Case 2:13-cr-00196-NT Document 80 Filed 11/10/16 Page 22 of 24                                     PageID #: 607
+
+
+
+                5. Failure to challenge the special condition of supervised release
+
+           Petitioner alleges that counsel was ineffective for the failure to challenge adequately the
+
+requirement, imposed as a special condition of supervised release, that Petitioner participate in sex
+
+offender treatment.10 (Motion at 8.) Petitioner argues that the special condition is not warranted
+
+because the felon-in-possession conviction was not a sexual crime, and he already completed a
+
+similar program as part of his Kentucky sentence. (Id. at 33.)
+
+           The Probation Office recommended that sex offender special conditions be included in the
+
+sentence, including that Petitioner be required to undergo sex offender treatment, due to
+
+Petitioner’s criminal history. (Sentencing Tr., ECF No. 56 at 18-19.) The Court accepted the
+
+recommendation of the Probation Office. (Id. at 19.) One can reasonably infer that the Court was
+
+persuaded by the rationale provided by the Probation Office, given that the Court noted that the
+
+woman who reported the felon-in-possession crime testified that Petitioner had engaged in
+
+sexually aggressive behavior, and given that the Court found that the behavior was similar to
+
+Petitioner’s prior criminal history. (Id. at 11.) See McGill, 11 F.3d at 225.
+
+           The First Circuit has held that special conditions may be imposed at the discretion of the
+
+district court. United States v. Medina, 779 F.3d 55, 60 (1st Cir. 2015) (citing 18 U.S.C. §
+
+3583(d)). The discretion is limited in that the special condition (1) must be reasonably related to
+
+the sentencing factors under 18 U.S.C. § 3553(a); (2) must involve no greater deprivation of liberty
+
+10
+     The following is the special condition:
+
+           Defendant shall fully participate in sex offender treatment as directed by the Supervising Officer.
+           Defendant shall pay/co-pay for services during such treatment, to the supervising officer’s
+           satisfaction. He or she shall scrupulously abide by all policies and procedures of that program.
+           During sex offender treatment, Defendant shall, if required by the therapeutic program, undergo
+           periodic random polygraph examinations to ensure compliance with the therapeutic program
+           requirements. No violation proceedings will arise solely on Defendant’s failure to pass a polygraph
+           examination or on Defendant’s refusal to answer polygraph questions based on 5th Amendment
+           grounds.
+
+(Judgment, ECF No. 42 at 4.)
+
+                                                           22
+Case 2:13-cr-00196-NT Document 80 Filed 11/10/16 Page 23 of 24                       PageID #: 608
+
+
+
+than is reasonably necessary under section 3553(a); and (3) must be consistent with any pertinent
+
+policy statements issued by the Sentencing Commission, pursuant to 28 U.S.C. § 994(a). 18 U.S.C.
+
+§ 3583(d); Medina, 779 F.3d at 60.
+
+       In Petitioner’s case, the requirement that he participate in sex offender treatment was
+
+reasonably related to the section 3553(a) sentencing factors, particularly Petitioner’s prior criminal
+
+history and the factual circumstances reported in the felon-in-possession offense. Compare
+
+Medina, 779 F.3d at 60, 63 (citing 18 U.S.C. § 3553(a)(1), (2)(B), (2)(C), & (2)(D) and concluding
+
+that there was no evidence that linked the special condition at issue in that case to the risk of
+
+recidivism). In Petitioner’s case, the Court explicitly found that Petitioner had used violence to
+
+perpetrate the prior sexual crimes, and the Court found that the section 922(g)(1) crime also
+
+involved sexually aggressive behavior. (Sentencing Tr., ECF No. 56 at 11.) In other words, the
+
+Court found, in Petitioner’s case, a link between the special condition and the section 922(g)(1)
+
+offense. The record, therefore, supports the imposition of a special condition of sex offender
+
+treatment as part of Petitioner’s sentence for the section 922(g)(1) crime. See United States v.
+
+Webster, 819 F.3d 35, 41 (1st Cir. 2016) (holding that “the district court sufficiently articulated
+
+the need for sex offender treatment and polygraph testing” when it “provided a detailed accounting
+
+as to why the imposed conditions were appropriate”).
+
+       Because the special condition is reasonably related to the sentencing factors, the underlying
+
+argument lacks merit, and consequently the related ineffective assistance claim also fails. Tse, 290
+
+F.3d at 465.
+
+                                       III.    CONCLUSION
+
+       Based on the foregoing analysis, an evidentiary hearing is not warranted under Rule 8 of
+
+the Rules Governing Section 2255 Cases. As to Petitioner’s claim regarding the notice of appeal,
+
+
+
+                                                 23
+Case 2:13-cr-00196-NT Document 80 Filed 11/10/16 Page 24 of 24                      PageID #: 609
+
+
+
+I recommend, pursuant to Rule 7 of the Rules Governing Section 2255 Proceedings, the Court
+
+allow Petitioner twenty days to submit admissible evidence that Petitioner believes corroborates
+
+his communications with his counsel regarding the notice of appeal. I also recommend that if
+
+Petitioner files any such evidence, the Court permit the Government to file a response to
+
+Petitioner’s submission within 20 day of the filing. I further recommend that the Court deny
+
+Petitioner’s motion for habeas relief under 28 U.S.C. § 2255 on all remaining claims. I further
+
+recommend that the Court deny a certificate of appealability pursuant to Rule 11 of the Rules
+
+Governing Section 2255 Cases on the claims the Court denies because there is no substantial
+
+showing of the denial of a constitutional right within the meaning of 28 U.S.C. § 2253(c)(2).
+
+
+
+                                            NOTICE
+
+               A party may file objections to those specified portions of a magistrate
+       judge’s report or proposed findings or recommended decisions entered pursuant to
+       28 U.S.C. 636(b)(1)(B) for which de novo review by the district court is sought,
+       together with a supporting memorandum, within fourteen (14) days of being served
+       with a copy thereof. A responsive memorandum shall be filed within fourteen (14)
+       days after the filing of the objection.
+
+              Failure to file a timely objection shall constitute a waiver of the right to de
+       novo review by the district court and to appeal the district court's order.
+
+                                                     /s/ John C. Nivison
+                                                     U.S. Magistrate Judge
+
+       Dated this 10th day of November, 2016.
+
+
+
+
+                                                24
+

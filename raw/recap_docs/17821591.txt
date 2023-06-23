@@ -1,0 +1,444 @@
+Case 2:03-cr-00024-GZS Document 162 Filed 08/28/13 Page 1 of 9                     PageID #: 1336
+
+
+
+                              UNITED STATES DISTRICT COURT
+
+                                      DISTRICT OF MAINE
+
+THOMAS PAUL BRICHETTO, JR.,                    )
+                                               )
+                Movant,                        )
+                                               )
+       v.                                      )       No. 2:03-CR-00024-GZS
+                                               )
+                                               )
+UNITED STATES,                                 )
+                                               )
+                Respondent                     )
+
+                                   RECOMMENDED DECISION
+
+       Thomas Paul Brichetto, Jr., has filed a motion pursuant to Rule 60(b)(6) and Rule
+
+60(d)(1) of the Federal Rules of Civil Procedure, requesting that this court re-open and
+
+reconsider the motion he filed under 28 U.S.C. § 2255, which motion the court denied in
+
+December 2006.1 Brichetto alleges that constitutional error underlies his 32-year sentence and
+
+that a grave miscarriage of justice will result if he is not heard. (Motion to Re-Open, ECF No.
+
+151.) Additionally, Brichetto has filed a motion requesting that I recuse myself from considering
+
+his Rule 60 motion. In support of the recusal motion Brichetto contends, inaccurately, that I
+
+previously recused in connection with his original section 2255 motion. (Motion for Recusal,
+
+ECF No. 159.)
+
+       The motion requesting my recusal is denied. As for the merits of the motion to reopen,
+
+although it is styled a motion under Rule 60, in fact it amounts to a second or successive section
+
+2255 motion. Consequently, this court lacks jurisdiction to consider the motion until such time
+
+as a panel of the First Circuit Court of Appeals should certify that his motion raises a new rule of
+
+
+
+
+1
+       The prior motion was docketed as case number 2:06-CV-00057-GC.
+Case 2:03-cr-00024-GZS Document 162 Filed 08/28/13 Page 2 of 9                                PageID #: 1337
+
+
+
+constitutional law, previously unavailable and made retroactive to cases on collateral review by
+
+the Supreme Court. 28 U.S.C. §§ 2244(a), 2255(h)(2).2
+
+                                                BACKGROUND
+
+        On January 5, 2004, a jury found Brichetto guilty of violating 18 U.S.C. §§ 2113(a),
+
+2113(d), and 2 (count I—bank robbery and aiding and abetting bank robbery); guilty of
+
+violating 18 U.S.C. § 924(c)(1)(A)(ii) (count II—using, carrying, and brandishing a firearm
+
+during and in relation to the commission of a violent felony); and not guilty of violating 18
+
+U.S.C. §§ 922(g)(1) and 924(e) (count III—felon in possession of a firearm). On May 19, 2004,
+
+the court entered judgment, imposing a 300-month term of imprisonment on count I and an 84-
+
+month term of imprisonment on count II, to be served concurrently. (Judgment, ECF No. 119.)
+
+In a memorandum of sentencing judgment, the court concluded that Brichetto was convicted of
+
+more than two prior felony crimes of violence and met the additional requirements of the career
+
+offender guideline found in United States Sentencing Guidelines § 4B1.1. Consequently, the
+
+court elevated the guidelines offense level to 34 instead of using the otherwise applicable
+
+adjusted offense level of 26. (Mem. of Sentencing Judgment, ECF No. 119.) The court found a
+
+criminal history category of VI, resulting in a guideline range for count I of between 262 and 327
+
+months. (Id.)
+
+        On direct appeal Brichetto challenged the court’s failure to direct a verdict in his favor or
+
+grant a new trial based on the seeming inconsistency between the jury’s verdict concerning count
+
+II and count III. The Court of Appeals affirmed the convictions. (ECF No. 130.)
+
+        On March 13, 2006, Brichetto filed his first motion to vacate, set aside, or correct his
+
+sentence pursuant to 29 U.S.C. § 2255. (See Case No. 2:06-CV-00057-GC.) On April 24, 2006,
+
+
+2
+         Newly discovered evidence can also support a second or successive motion, 28 U.S.C. § 2255(h)(1), but
+Brichetto’s motion to reopen does not suggest the existence of such evidence.
+
+                                                        2
+Case 2:03-cr-00024-GZS Document 162 Filed 08/28/13 Page 3 of 9                                  PageID #: 1338
+
+
+
+after I issued an order instructing the United States to answer Brichetto’s motion, Brichetto filed
+
+a motion for my recusal, complaining that he felt I exhibited “prejudice and bias” years earlier
+
+when I sentenced him, as a state court judge, for violation of probation and when I ruled against
+
+him in connection with a post-conviction review proceeding. (ECF No. 5.) Brichetto’s motion
+
+for my recusal was never granted. Instead, Judge Carter mooted the motion based on his
+
+decision to simply handle the habeas motion directly, without referring it for report and
+
+recommendation. (ECF No. 6.) Judge Carter denied Brichetto’s section 2255 motion on the
+
+merits, rejecting, among other arguments, an assertion that he had erred in treating certain prior
+
+convictions as crimes of violence and not submitting the question to the jury. The court’s
+
+primary rationale was that Brichetto failed to preserve the arguments on direct appeal and failed
+
+to argue any exceptions to the procedural default rule. (ECF No. 12.) However, as to a claim of
+
+ineffective assistance of counsel, the court addressed the merits of Brichetto’s assertion that his
+
+counsel erred by failing to argue that a Maine burglary conviction was not a crime of violence.
+
+Relying on First Circuit precedent that has since been overturned3, the court concluded that the
+
+law was clear that a conviction under Maine’s burglary statute amounted to a crime of violence
+
+and that, consequently, counsel was not ineffective for failing to argue otherwise. (Id. at 9-10.)
+
+        On February 4, 2011, Brichetto filed a motion for writ of error coram nobis, which can be
+
+found on the instant docket, case number 2:03-CR-00024-GZS. (ECF No. 134.) On February
+
+11, 2011, I issued a report and recommended decision advising the court to summarily dismiss
+
+the motion because it amounted to a second or successive habeas petition and the court lacked
+
+jurisdiction to hear it. (ECF No. 138.) The court agreed and adopted the recommendation.
+
+(ECF No. 142.) The Court of Appeals affirmed the dismissal in June 2011 in the absence of a
+
+3
+         United States v. Rodriguez, 311 F.3d 435 (1st Cir. 2002), cert. denied, 538 U.S. 937 (2003), abrogated by
+United States v. Giggey, 551 F.3d 27 (1st Cir. 2008) (overruling United States v. Sawyer, 144 F.3d 191 (1st Cir.
+1998), and United States v. Fiore, 983 F.2d 1 (1st Cir. 1992), cert. denied, 507 U.S. 1024 (1993)).
+
+                                                         3
+Case 2:03-cr-00024-GZS Document 162 Filed 08/28/13 Page 4 of 9                       PageID #: 1339
+
+
+
+showing by Brichetto that reasonable jurists could find the dismissal debatable or wrong. (ECF
+
+No. 149.)
+
+       Brichetto filed his current motion on July 8, 2013. (ECF No. 151.) In this motion he
+
+requests that the court reopen the section 2255 motion he filed in March 2006, pursuant to Rule
+
+60(b) and Rule 60(d) of the Federal Rules of Civil Procedure, based on legal developments that
+
+transpired in the interim, discussed below.
+
+                                              DISCUSSION
+
+       For reasons that follow, the motion for recusal is denied and the court is advised to
+
+dismiss Brichetto’s Rule 60 motion.
+
+A.     Motion for Recusal (ECF No. 159)
+
+       The law requires that a judicial officer recuse, or disqualify himself or herself, “in any
+
+proceeding in which his impartiality might reasonably be questioned.” 28 U.S.C. § 455(a). The
+
+statute lists additional, specific circumstances where disqualification is mandatory, including
+
+circumstances involving personal bias or prejudice toward a party. Id. § 455(b)(1). “[J]udicial
+
+rulings alone almost never constitute a valid basis for a bias or partiality motion.” Liteky v.
+
+United States, 510 U.S. 540, 555 (1994). Moreover, “opinions formed by the judge on the basis
+
+of facts introduced or events occurring in the course of the current proceedings, or of prior
+
+proceedings, do not constitute a basis for a bias or partiality motion unless they display a deep-
+
+seated favoritism or antagonism that would make fair judgment impossible.” Id. “[J]udicial
+
+remarks during the course of a trial that are critical or disapproving of, or even hostile to,
+
+counsel, the parties, or their cases, ordinarily do not support a bias or partiality challenge.” Id.;
+
+See also United States v. Pulido, 566 F.3d 52, 64 (1st Cir. 2009) (finding no appearance of
+
+partiality in judge’s assessment in a related case that the defendant was “thoroughly corrupt” and
+
+
+
+                                                   4
+Case 2:03-cr-00024-GZS Document 162 Filed 08/28/13 Page 5 of 9                         PageID #: 1340
+
+
+
+judge’s subsequent statement at the defendant’s sentencing that the defendant was “utterly
+
+without redeeming qualities”).
+
+       Contrary to Brichetto’s representation, there was no prior recusal on my part. A review
+
+of the docket entries indicates merely that Brichetto sought my recusal when he first filed a
+
+section 2255 motion. Brichetto’s motion was never granted. Rather, it was mooted when Judge
+
+Carter indicated that he would address Brichetto’s motion directly. Thereafter, Judge Carter
+
+issued an order on Brichetto’s original section 2255 motion, without referring the matter for
+
+report and recommendation. Subsequently, I issued a recommended decision in connection with
+
+Brichetto’s petition for a writ of error coram nobis. (ECF No. 138.) There is no reason why I
+
+should not have done so. Nor am I aware of any grounds upon which I should recuse myself
+
+from considering Brichetto’s current motion to reopen his section 2255 motion. I bear no bias or
+
+prejudice toward Brichetto and see no reasonable basis upon which my impartiality could be
+
+questioned.
+
+        Brichetto claims that I presided, as a state court judge, over a sentencing hearing
+
+associated with a violation of probation, conducted in 1996, and a post-conviction review
+
+proceeding. (Aff. in Support of 2006 Recusal Mot., ¶¶ 8-11, Case No. 2:06-cv-00057, ECF No.
+
+5-1.) Although I have no personal recollection of these events, the fact that I presided over state
+
+proceedings involving Brichetto may well be true. In any event, that fact in no way undermines
+
+my ability to consider, impartially, the current pleadings, which arise from a 2003 conviction
+
+before Judge Carter on unrelated federal charges.
+
+B.     Motion to Re-Open (ECF No. 151)
+
+       Brichetto’s latest filing is subject to a statutory bar that restricts the ability of prisoners to
+
+pursue multiple habeas motions or petitions challenging the same federal conviction or sentence.
+
+
+
+                                                   5
+Case 2:03-cr-00024-GZS Document 162 Filed 08/28/13 Page 6 of 9                       PageID #: 1341
+
+
+
+In 1996, Congress enacted the Anti-Terrorism and Effective Death Penalty Act (AEDPA), Pub.
+
+L. No. 104-132, 110 Stat. 1214, which, among other things, introduced a bar against a federal
+
+prisoner filing a second or successive habeas motion absent certification by the appropriate court
+
+of appeals that the motion contained either (1) newly discovered evidence capable of establishing
+
+by a clear and convincing evidentiary standard that no reasonable factfinder would have found
+
+the prisoner guilty or (2) “a new rule of constitutional law, made retroactive to cases on collateral
+
+review by the Supreme Court, that was previously unavailable.” 28 U.S.C. § 2255(h)
+
+(referencing the certification requirement of 28 U.S.C. § 2244). Pursuant to this statutory
+
+provision, a district court lacks jurisdiction to address the merits of a second or successive habeas
+
+motion attacking the constitutionality of a federal conviction or sentence “unless and until the
+
+court of appeals has decreed that it may go forward.” Trenkler v. United States, 536 F.3d 85, 96
+
+(1st Cir. 2008) (quoting Pratt v. United States, 129 F.3d 54, 57 (1st Cir. 1997)). See also 28
+
+U.S.C. § 2244(b)(3)(A) (“Before a second or successive application permitted by this section is
+
+filed in the district court, the applicant shall move in the appropriate court of appeals for an order
+
+authorizing the district court to consider the application.”); Rules Governing Section 2255
+
+Cases, Rule 9 (imposing the same requirement).
+
+       Brichetto attempts to avoid the jurisdictional bar raised by section 2255(h) by advancing
+
+his motion not as a 2255 motion, but rather as a Rule 60 motion for relief from Judge Carter’s
+
+2006 order denying his initial section 2255 motion. Brichetto relies on subsections (b)(6) and (d)
+
+of Rule 60, which permit the court to “relieve a party . . . from a final judgment” or “entertain an
+
+independent action” for that purpose for, essentially, any reason not otherwise identified in the
+
+Rule. Fed. R. Civ. P. 60(b), (d). However, the Rule runs headlong into the section 2255(h) bar
+
+because Brichetto’s Rule 60 motion is, in substance, a renewed section 2255(a) motion asserting
+
+
+
+                                                  6
+Case 2:03-cr-00024-GZS Document 162 Filed 08/28/13 Page 7 of 9                    PageID #: 1342
+
+
+
+that his sentence was imposed in violation of the Constitution or was in excess of the maximum
+
+authorized by law.
+
+       “Any motion filed in the district court that imposed the sentence, and substantively within
+
+the scope of § 2255 [paragraph] 1, is a motion under § 2255, no matter what title the prisoner
+
+plasters on the cover.” Trenkler, 536 F.3d at 97 (emphasis in original) (quoting Melton v. United
+
+States, 359 F.3d 855, 857 (7th Cir. 2004)). In fact, the First Circuit Court of Appeals has
+
+pointedly held that a Rule 60(b) motion challenging the constitutionality of an underlying
+
+conviction or sentence should be treated as a second or successive filing under the AEDPA
+
+where the predicate for the Rule 60(b) motion “constitutes a direct challenge to the
+
+constitutionality of the underlying conviction.” Munoz v. United States, 331 F.3d 151, 152 (1st
+
+Cir. 2003) (per curiam) (involving a 2255 motion); Rodwell v. Pepe, 324 F.3d 66, 70 (1st Cir.
+
+2003) (involving a 2254 petition).
+
+       Brichetto’s Rule 60 motion is predicated on a change in circuit precedent related to
+
+whether a non-residential burglary amounts to a crime of violence under sentencing guideline
+
+4B1.1 (the career offender guideline), see United States v. Giggey, 551 F.3d 27, 28 (1st Cir.
+
+2008) (en banc) (holding that such burglaries are not per se crimes of violence and that
+
+determination of the issue “turns on the application of a categorical approach under §
+
+4B1.2(a)(2)’s residual clause”), and a recent Supreme Court opinion related to whether a
+
+California burglary conviction could be treated as a “violent felony” under the Armed Career
+
+Criminal Act based on application of a “modified categorical approach,” Descamps v. United
+
+States, 133 S. Ct. 2276, 2293 (2013) (holding that the modified categorical approach amounted
+
+to improper judicial factfinding because the California burglary statute contained a single,
+
+indivisible set of elements that did not include unlawful entry, a generic burglary element, such
+
+
+
+                                                 7
+Case 2:03-cr-00024-GZS Document 162 Filed 08/28/13 Page 8 of 9                                       PageID #: 1343
+
+
+
+that a conviction under the statute “is never for generic burglary”). Brichetto believes that if the
+
+teachings of Descamps and Giggey were retroactively applied to his sentencing, then none of his
+
+non-residential burglary predicates4 would be a crime of violence and he might achieve a
+
+substantially reduced sentence by avoiding the career offender enhancement. (Motion to Reopen
+
+at 3-7.) The argument is clearly a direct challenge to the constitutionality and legality of the
+
+sentence imposed by the court and, therefore, should be treated as a second or successive filing
+
+under the AEDPA.5
+
+                                                    CONCLUSION
+
+         Brichetto’s motion for recusal (ECF No. 159) is denied. As for his motion to reopen
+
+(ECF No. 151), I recommend that the Court deny the motion without prejudice to Brichetto’s
+
+right to file a new 28 U.S.C. § 2255 motion should he ever obtain the First Circuit Court of
+
+Appeal’s certification to do so. I further recommend that a certificate of appealability should not
+
+issue in the event Brichetto files a notice of appeal because there is no substantial showing of the
+
+denial of a constitutional right within the meaning of 28 U.S.C. § 2253(c).
+
+
+
+                                                       NOTICE
+
+                 A party may file objections to those specified portions of a magistrate
+         judge's report or proposed findings or recommended decisions entered pursuant to
+         28 U.S.C. § 636(b)(1)(B) for which de novo review by the district court is sought,
+         together with a supporting memorandum, within fourteen (14) days of being
+         served with a copy thereof. A responsive memorandum shall be filed within
+         fourteen (14) days after the filing of the objection.
+
+4
+          It is not entirely clear how many such burglaries are at issue, but it appears there was at least one. Nor is it
+clear, or necessary to determine at this time, whether there were sufficient other convictions in Brichetto’s criminal
+history to support the career offender status.
+5
+          In a post-reply filing dated August 26, 2013 (ECF No. 161), Brichetto asks that the court take judicial
+notice of United States v. Edwards, ___ F.3d ___, 2013 U.S. App. Lexis 16936, 2013 WL 4105532 (9th Cir. Aug. 8,
+2013), in which, he says, the Ninth Circuit invoked its authority under Rule 60(b) to reopen a habeas proceeding and
+remand for resentencing based on application of Descamps. In fact, the Edwards Court addressed a Descamps issue
+on direct appeal. The Court’s opinion has nothing whatsoever to say about second or successive collateral attacks
+disguised as Rule 60(b) motions.
+
+                                                            8
+Case 2:03-cr-00024-GZS Document 162 Filed 08/28/13 Page 9 of 9                     PageID #: 1344
+
+
+
+
+             Failure to file a timely objection shall constitute a waiver of the right to de
+      novo review by the district court and to appeal the district court's order.
+
+      August 28, 2013                /s/ Margaret J. Kravchuk
+                                     U.S. Magistrate Judge
+
+
+
+
+                                                9
+

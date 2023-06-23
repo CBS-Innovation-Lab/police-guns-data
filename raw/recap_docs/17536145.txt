@@ -1,0 +1,617 @@
+                            UNITED STATES DISTRICT COURT
+                             DISTRICT OF MASSACHUSETTS
+
+                          CRIMINAL ACTION NO. 02-10343-GAO
+
+                              UNITED STATES OF AMERICA,
+
+                                               v.
+
+                                     JAMES HOLLIDAY,
+                                        Defendant.
+
+
+                               MEMORANDUM AND ORDER
+                                    August 11, 2011
+
+O‘TOOLE, D.J.
+
+       On September 12, 2003, a jury found James Holliday guilty of being a convicted felon in
+
+possession of a firearm in violation of 18 U.S.C. § 922(g)(1).1 On April 7, 2008, Holliday,
+
+moved to vacate his sentence pursuant to 28 U.S.C. § 2255; he filed an amended motion a month
+
+later.2 An evidentiary hearing was held on January 5, 2011 to receive evidence on several of
+
+Holliday‘s claims. Having heard the witnesses‘ testimony and reviewed the evidence on the
+
+record and the parties‘ submissions, Holliday‘s motion to vacate his sentence is DENIED for the
+
+following reasons.
+
+I.     Discussion
+
+       Section 2255 provides for post-conviction relief in four instances: ―if the petitioner‘s
+
+sentence (1) was imposed in violation of the Constitution, or (2) was imposed by a court that
+
+lacked jurisdiction, or (3) exceeded the statutory maximum, or (4) was otherwise subject to
+
+
+1
+  This Court sets forth herein those facts which are necessary for the purpose of ruling on
+Holliday‘s § 2255 motion. A full narration of the procedural history and facts of this matter is
+contained in the Court of Appeals decision affirming the denial of Holliday‘s motion to suppress,
+his conviction, and his sentence, United States v. Holliday, 457 F.3d 121 (1st Cir. 2006).
+2
+  Although he initially filed his motion and amended motion pro se, he has been represented by
+counsel—several different ones, in fact—since January 2009.
+collateral attack.‖ David v. United States, 134 F.3d 470, 474 (1st Cir. 1998). A petitioner under
+
+28 U.S.C. § 2255 bears the burden of establishing the need for relief. Id.
+
+       In his amended motion and supporting memorandum, Holliday raises three basic grounds
+
+with a total of fifteen specific claims: (1) ineffective assistance of trial counsel; (2) ineffective
+
+assistance of appellate counsel; and (3) prosecutorial misconduct. Because the prosecutorial
+
+misconduct claim is relevant to the resolution of several other issues raised by Holliday, it is
+
+addressed first.
+
+       A.      Prosecutorial Misconduct
+
+       Holliday accuses the government of prosecutorial misconduct in failing to disclose
+
+certain exculpatory evidence—namely, the fact that the police had interviewed a man who
+
+suffers the same skin pigment disorder as Holliday, vitiligo, in connection with the incident for
+
+which Holliday was ultimately convicted—in violation of the principles set forth in Brady v.
+
+Maryland, 373 U.S. 83 (1963).
+
+       Under federal law, a prosecutor must disclose material that is favorable to the defendant
+
+if it is material to his guilt or punishment. Id. at 87. A failure to disclose such material constitutes
+
+a violation of the defendant‘s due process rights. Id. Nondisclosure of evidence rises to such a
+
+level if the petitioner can demonstrate: ―(1) the evidence at issue is favorable to him because it is
+
+exculpatory or impeaching; (2) the Government suppressed the evidence; and (3) prejudice
+
+ensued from the suppression (i.e., the suppressed evidence was material to guilt or punishment).‖
+
+Conley v. United States, 415 F.3d 183, 188 (1st Cir. 2005) (citing Strickler v. Greene, 527 U.S.
+
+263, 281-82 (1999)). The fact that the police knew of and interviewed another man who had
+
+similar skin markings as Holliday could conceivably have cast substantial doubt on witness
+
+identifications of Holliday as the person involved in the events at issue. There would have been
+
+an obligation for the prosecution to disclose that fact to the defense.
+
+                                                   2
+       In support of the Brady argument, Holliday places particular reliance on a typed affidavit
+
+that was purportedly signed by Kalungi Askia on October 1, 2008. The affidavit states that in
+
+August or September of 2002, Boston police officers questioned Askia about a shooting incident
+
+involving a police officer which had occurred days earlier.
+
+       At the hearing, however, Askia himself testified and denied that he had been questioned
+
+by the police, as the affidavit asserted. When asked on direct examination by Holliday‘s counsel
+
+whether he had ever been contacted by the police, he responded, ―Never. Never.‖ (Tr. of
+
+Evidentiary Hr‘g 78:14.) When questioned about the signature on the affidavit, he testified that,
+
+although it looked like his signature, he did not remember signing the affidavit. He speculated
+
+instead that his signature had been cut and pasted onto the affidavit. He further doubted that he
+
+wrote and signed the affidavit because it contained a specific time period, and he had not been
+
+aware of any of the relevant dates.
+
+       I credit Askia‘s in-court testimony under oath that he was never stopped nor questioned
+
+by the police and that he never signed the affidavit offered by Holliday at the hearing. Like
+
+Askia, I suspect the affidavit is a forgery. The record shows that no evidence was suppressed by
+
+the government, and Holliday has not established a Brady violation.
+
+       B.      Ineffective Assistance of Trial Counsel
+
+       In Ground I of his motion, Holliday raises a litany of claims that his trial attorney
+
+rendered ineffective assistance in violation of the Sixth Amendment. A petitioner claiming
+
+ineffective assistance of counsel must show that counsel‘s representation ―fell below an objective
+
+standard of reasonableness‖ and that it is probable that counsel‘s performance resulted in
+
+prejudice to the defense. Strickland v. Washington, 466 U.S. 668, 687-88 (1984). There is a
+
+―‗strong presumption‘ that counsel‘s strategy and tactics fall ‗within the range of reasonable
+
+professional assistance,‘ and courts should avoid second-guessing counsel‘s performance with
+
+                                                3
+the use of hindsight.‖ Knight v. Spencer, 447 F.3d 6, 15 (1st Cir. 2006) (quoting Strickland, 466
+
+U.S. at 689). The first prong is satisfied ―only where, given the facts known at the time,
+
+counsel‘s ‗choice was so patently unreasonable that no competent attorney would have made it.‘‖
+
+Id. (quoting Strickland, 466 U.S. at 693-94). As to the prejudice inquiry, a petitioner must
+
+demonstrate that there is ―a reasonable probability that, but for counsel‘s unprofessional errors,
+
+the result of the proceeding would have been different.‖ Strickland, 466 U.S. at 694. ―This is a
+
+‗highly demanding‘ and ‗heavy burden.‘‖ Knight, 447 F.3d at 15 (quoting Williams v. Taylor,
+
+529 U.S. 362, 393 (2000)).
+
+       Holliday first argues that his trial attorney failed to properly investigate his case,
+
+specifically by not doing a site visit or interviewing potential witnesses at the scene of the
+
+incident. For instance, he argues that his trial counsel could not effectively confront a
+
+government witness who testified that there were bullet holes in a park bench, testimony offered
+
+as proof that Holliday shot the firearm at issue after wresting it from Officer John Lydstone. As
+
+to Holliday‘s first complaint that trial counsel failed to visit the crime scene, the supposed
+
+infirmity is contradicted by trial counsel‘s credible testimony at the evidentiary hearing—elicited
+
+on direct examination by Holliday—that he did in fact do a site visit.3 As to Holliday‘s second
+
+complaint that trial counsel did not interview witnesses who were at the scene, Holliday has not
+
+shown how he was prejudiced by such an omission. ―Where, as here, the result of counsel‘s
+
+alleged failure to investigate is wholly speculative, Strickland‘s prejudice prong is not satisfied.‖
+
+Janosky v. St. Amand, 594 F.3d 39, 49 (1st Cir. 2010). Therefore, I do not find constitutional
+
+fault in counsel‘s investigation of the case.
+
+
+3
+  Furthermore, it is clear from the trial record that his attorney was able to confront the witness.
+He anticipated the testimony the government proposed to elicit, argued against its admission at
+sidebar, and ultimately offered into evidence a photograph of the purported bullet hole in the
+park bench with which he questioned the witness.
+                                                 4
+       Holliday next argues that his trial attorney failed to interview and call material witnesses.
+
+He specifically complains about Askia, and the claim is rejected for substantially the same
+
+reasons articulated above. Otherwise, Holliday provides no information as to what witnesses
+
+should have been interviewed or what testimony could have been presented through them.
+
+Therefore, even if Holliday had raised a question as to trial counsel‘s preparation, which he did
+
+not, particularly since interviewing witnesses falls under the category of trial strategy entitled to
+
+considerable latitude, see Lema v. United States, 987 F.2d 48, 53-55 (1st Cir. 1993); see also
+
+Cohen v. United States, 996 F. Supp. 110, 114 & n.4 (D. Mass. 1998), he fails to provide any
+
+grounds for prejudice resulting from his claim.
+
+       Holliday‘s third claim alleges that trial counsel was ineffective for failing to file
+
+discovery motions and failing to object to the government‘s failure to turn over evidence. As
+
+with other claims, his argument is grounded in part on the interview he alleges occurred between
+
+Boston police officers and Askia, and, like the other claims, is rejected. He also argues that that
+
+the police had ―contact‖ with more than twenty individuals after the incident, but the government
+
+only turned over a couple of interviews. Even assuming that there would have been such
+
+discovery available for Holliday had his trial counsel filed discovery-related motions with the
+
+court—a fact for which Holliday offers no basis—Holliday has failed to demonstrate ―a
+
+reasonable probability that, but for counsel‘s unprofessional errors, the result of the proceeding
+
+would have been different.‖ See Strickland, 466 U.S. at 694.
+
+       Holliday‘s fourth claim asserts that trial counsel failed to object to the introduction
+
+certain prejudicial evidence and testimony at trial. Specifically, he complains about his failure to
+
+object to the use of Holliday‘s federal probation officer as a witness. Trial counsel, however, did
+
+in fact object to the prejudicial nature of the testimony at issue. Holliday also complains about
+
+the lack of objection to the introduction of and testimony about a Taurus .357 magnum revolver
+
+                                                  5
+when the firearm he was charged with possessing was Officer Lydstone‘s Glock nine millimeter
+
+pistol. Although there was testimony about the .357, the government proceeded on a theory of
+
+the case that was clearly about possession of Lydstone‘s firearm. Through various witnesses, the
+
+government elicited testimony regarding Lydstone‘s struggle with Holliday over his firearm, the
+
+discovery of a Glock semi-automatic in the a southbound lane on Interstate 95 in Connecticut,
+
+the (unsuccessful) examination of Lydstone‘s firearm for fingerprints, the fact that Lydstone‘s
+
+firearm was manufactured outside of Massachusetts and therefore traveled in interstate
+
+commerce, and Lydstone‘s firearm meeting the federal definition of a firearm. Finally, the
+
+government‘s closing argument focused exclusively on the possession of Lydstone‘s firearm.
+
+Under these circumstances, Holliday has not proved that had trial counsel objected to the
+
+introduction of and testimony about a different gun which happened to be found at the scene, it
+
+would have changed the outcome of the trial. Holliday suffered no prejudice.
+
+       Holliday‘s fifth claim relating to his trial counsel involves the in-court identification of
+
+Holliday by James Caldwell, who was at the scene of the incident and saw Holliday there. He
+
+contends that counsel should have objected to Caldwell‘s in-court identification of him because
+
+it was tainted by Caldwell‘s having seen Holliday‘s photograph in the newspaper after the arrest.
+
+However, Caldwell also testified that he was familiar with Holliday as he had ―seen him off and
+
+on [his] journeys,‖ (Tr. of Jury Trial Day Three 108:8), and in particular, he had seen him three
+
+different times in front of the same house. Based on Caldwell‘s exposure to Holliday multiple
+
+times before the incident and during the course of the incident, Caldwell‘s in-court identification
+
+was sufficiently reliable to be in evidence. See Manson v. Brathwaite, 432 U.S. 98, 113-14
+
+(1977). Because the identification was reliable, an objection to it would have been unsuccessful;
+
+trial counsel therefore was not ineffective for failing to move to exclude the testimony and
+
+identification. See Vieux v. Pepe, 184 F.3d 59, 64 (1st Cir. 1999) (trial counsel‘s performance at
+
+                                                6
+issue in a § 2254 petition was not deficient for failing to pursue futile tactic). Furthermore,
+
+because Holliday was identified by other witnesses, Holliday was not prejudiced by any error
+
+which may have occurred.
+
+       Holliday‘s sixth claim asserts that trial counsel coerced him not to testify at trial by
+
+giving inaccurate legal advice, resulting in a deprivation of his right to testify. ―Unaccompanied
+
+by coercion, legal advice concerning exercise of the right to testify infringes no right, but simply
+
+discharges defense counsel‘s ethical responsibility to the accused.‖ Lema, 987 F.2d at 52
+
+(internal citation omitted). Considerations regarding whether an attorney‘s conduct was coercive
+
+in this context include:
+
+       (1) whether the defendant knew about his constitutional right to testify, and if not,
+       whether he was informed by counsel; (2) the competence and soundness of
+       defense counsel‘s tactical advice, i.e., whether counsel presents the defendant
+       with sufficient information to permit a ‗meaningful‘ voluntary waiver of the right
+       to testify; and (3) any intimidation or threatened retaliation by counsel relating to
+       the defendant‘s testimonial decision.
+
+Id. at 52-53 (internal citations omitted).
+
+       Here, it is clear that the first and third considerations do not support Holliday‘s claim. As
+
+to the first, the record at trial, where his attorney notified the Court in Holliday‘s presence that
+
+Holliday was advised of his right to testify and was choosing not to exercise it, a fact
+
+acknowledged by Holliday, and at the evidentiary hearing, where trial counsel testified that it
+
+was his general practice to advise a client about his right to testify during his initial meeting with
+
+the client and that he specifically remembers speaking with Holliday at least twice around and
+
+during trial, reveals that his trial counsel did indeed notify Holliday of his right to testify, and I
+
+so find. As to the third consideration, Holliday does not allege that trial counsel intimidated or
+
+threatened him.
+
+
+
+
+                                                  7
+       The central issue then is the soundness of trial counsel‘s legal advice. Holliday‘s
+
+contention that trial counsel wrongly told him that he could be questioned about his prior
+
+criminal record if he took the stand plainly fails. Had Holliday taken the stand, he could have—
+
+and likely would have—been severely impeached by his prior criminal record.
+
+       Holliday‘s argument that counsel inaccurately told him that he did not have to testify in
+
+order to present a self-defense theory to the jury likewise fails. It appears that Holliday‘s defense
+
+theories are a moving target: depending on the context, he appears to want to argue
+
+misidentification—it was not he who possessed the gun,4 trial counsel‘s primary theory at trial—
+
+and also that, if he possessed the gun, he did so out of necessity and in self defense. The problem
+
+with the latter defense, as trial counsel acknowledged at the evidentiary hearing and the First
+
+Circuit noted on appeal, is that Holliday kept the gun and fled with it after the supposed danger
+
+to his life had passed. Holliday has not shown that trial counsel‘s advice rejecting Holliday‘s
+
+proffered testimony—to the extent that it was ―proffered‖ to him at all—was not sound legal
+
+strategy such that Holliday‘s waiver could be considered ―coerced‖ under Lema.
+
+       Furthermore, even if the Court assumes that trial counsel‘s performance fell below an
+
+objective standard of reasonableness due to unsound advice in this respect, Holliday cannot
+
+demonstrate that he suffered any prejudice. At trial, I rejected the self-defense theory for many
+
+reasons, including that it did not fit the evidence at trial (particularly, due to the lack of evidence
+
+that Holliday had no alternative but to violate the law), that it would be a strange policy to allow
+
+a suspect who wrests a firearm away from a police officer attempting to subdue him to then
+
+claim necessity, and that permitting the theory would harm Holliday more than help his case.
+
+Further, as already noted, the prosecution‘s credible evidence showed Holliday retained the gun
+
+4
+  It is noteworthy that, despite Holliday‘s arguing that Askia, not he, was the person who was
+involved in the incident, Holliday admitted in his own testimony at the evidentiary hearing that
+he was the one who possessed the gun.
+                                                  8
+past the point of any alleged necessity. Thus, Holliday has not shown that his testimony would
+
+have convinced the Court to give a self-defense instruction, much less that such an instruction
+
+would have changed the outcome of the trial.
+
+       Holliday goes on to argue in his seventh claim that trial counsel was ineffective for
+
+failing to move for relief under Rule 29 of the Federal Rules of Criminal Procedure after the
+
+close of the government‘s case-in-chief. He does not make any specific allegations as to the
+
+insufficiency of the government‘s evidence, nor could he seriously do so. There was sufficient
+
+evidence for a reasonable jury to find that Holliday had committed the offense, and I certainly
+
+would have denied a Rule 29 motion had one been made. Because Holliday has not shown how
+
+he was prejudiced, trial counsel‘s failure to move under Rule 29 did not constitute ineffective
+
+assistance of counsel. See United States v. Feldman, 853 F.2d 648, 665-66 (9th Cir. 1988).
+
+       Holliday‘s eighth claim contends that trial counsel failed to properly respond to the three
+
+questions the jury submitted to the Court during deliberations. Though he claims generally that
+
+his proceedings would have ended differently had counsel argued for a more comprehensive
+
+answer to the jury‘s questions, he does not offer what counsel could have done and how it would
+
+have altered the outcome.
+
+       In his ninth and tenth claims, Holliday advances arguments related to the possibility of
+
+entering a plea, rather than going to trial. Specifically, he contends that trial counsel failed to
+
+properly advise him about the application of the Sentencing Guidelines and counsel either did
+
+not pursue a plea deal or did not communicate one to Holliday. However, the record suggests to
+
+the contrary that counsel did pursue a plea agreement as one was unquestionably offered by the
+
+government. Additionally, the credible evidence submitted at the evidentiary hearing shows that
+
+trial counsel did indeed communicate the offer to Holliday, and I so find. His trial attorney
+
+testified that he showed Holliday the plea agreement letter and advised him to accept the offer,
+
+                                                9
+but that Holliday told him that he wanted to exercise his right to trial by jury rather than plead
+
+guilty. Counsel further testified that he recommended a plea again at the eve of trial, but Holliday
+
+continued to disagree with him. Holliday likewise testified at the hearing that he told trial
+
+counsel he wished to proceed to trial and never expressed a desire to plead guilty.
+
+       Furthermore, even had trial counsel not communicated the offer—a highly dubious
+
+possibility given the testimony at hearing and Holliday‘s previous experience with plea
+
+agreements, Holliday has not established that but for the error, the result would have been
+
+different. Holliday has not argued that he would have actually accepted the offer to plead guilty.
+
+To the contrary, he testified that he never wanted to plead guilty. Consequently, he has not
+
+established that any failure to remit a plea agreement resulted in prejudice.
+
+       Holliday‘s eleventh claim involves his trial counsel‘s objections to the Presentence
+
+Report for the purposes of sentencing. It appears that Holliday‘s central complaint is that trial
+
+counsel failed to properly object to the use of a 1979 conviction for assault and battery with a
+
+dangerous weapon5 as one of the three predicate convictions necessary for classification as an
+
+Armed Career Offender under 18 U.S.C. § 924(e)(1). Again, Holliday has shown no prejudice.
+
+Even if any of his specific arguments as to why the conviction should not have counted were
+
+convincing, which they are not, ―[t]he government presented uncontested evidence, through
+
+court records, that the defendant had been convicted of four other crimes that qualified him for
+
+conviction pursuant to the Armed Career Criminal Act.‖ Holliday, 457 F.3d at 129-30. He cannot
+
+contend, therefore, that he could have evaded its penalties had his attorney effectively objected to
+
+the use of the 1979 conviction.6
+
+
+5
+  Holliday argues that the 1979 conviction should not serve as a predicate because it was not a
+qualified felony and because he was not an adult at the time of the offense.
+6
+  Holliday also argues briefly that trial counsel failed to object to the ―double-counting resulting
+in a 7 [level] enha[n]cement for bod[i]ly injury and another offense committed.‖ (Movant‘s Pro
+                                                 10
+       Holliday‘s twelfth claim alleges that counsel failed to properly argue the defendant‘s
+
+theory of self-defense in order to preserve it on appeal. The argument is frivolous and not
+
+supported by the record in the case. (See, e.g., Tr. of Jury Trial Day Four 79:21–86:3.) Trial
+
+counsel did argue the theory, and as previously noted, it was rejected by the Court for several
+
+reasons. In any event, the instruction issue was argued on appeal, and the First Circuit agreed
+
+that Holliday was not entitled to self-defense instruction. See Holliday, 457 F.3d at 127-29.
+
+       Holliday‘s thirteenth and final claim relating to the ineffective assistance of trial counsel
+
+asserts that the aggregated effect of counsel‘s errors substantially prejudiced Holliday‘s criminal
+
+proceedings. Though ―individual errors, insufficient in themselves to necessitate a new trial, may
+
+in the aggregate have a more debilitating effect,‖ United States v. Sepulveda, 15 F.3d 1161,
+
+1195-96 (1st Cir. 1993), Holliday‘s appeal to the cumulative error doctrine is unavailing. The
+
+case against Holliday was strong, see Smith v. Thompson, 329 F. App‘x 291, 295 (1st Cir. May
+
+11, 2009) (one aspect of the cumulative doctrine inquiry is the strength of the prosecution‘s
+
+evidence), and in any event, Holliday fails to show that there were any serious errors committed
+
+by trial counsel, let alone a prejudicial accumulation of errors, see United States v. Flemmi, 402
+
+F.3d 79, 95 n.23 (1st Cir. 2005) (finding that ―[b]ecause we have found that none of [the
+
+defendant‘s] individual complaints resulted in substantial prejudice and that most are completely
+
+without merit, we reject the final contention that his conviction was tainted by cumulative error‖)
+
+(internal quotation omitted); Fisher v. Angelone, 163 F.3d 835, 853 n.9 (4th Cir. 1998); see also
+
+Ventura v. United States, 382 F. Supp. 2d 265, 268 (D. Mass. 2005) (rejecting cumulative effect
+
+claim when individual claims were unavailing).
+
+
+Se Am. § 2255 & Supporting Mem. of Law & Facts 13-14.) It is unclear what Holliday means,
+but in any event, his offense level was not based on any seven-level enhancement, but rather, his
+status as an Armed Career Criminal and his possession of a firearm in connection with a crime of
+violence.
+
+                                                11
+       C.       Ineffective Assistance of Appellate Counsel
+
+       Holliday also argues that his appellate attorney was ineffective. It is well-settled that
+
+Strickland applies to claims against appellate counsel, in addition to trial counsel. Smith v.
+
+Robbins, 528 U.S. 259, 288-89 (2000).
+
+       Holliday claims that appellate counsel was ineffective because he failed to brief
+
+meritorious issues and because he failed to raise ineffective assistance of counsel claims
+
+regarding his trial counsel. Both theories are meritless. As to his first contention, it is axiomatic
+
+that ―appellate counsel . . . need not (and should not) raise every nonfrivolous claim, but rather
+
+may select from among them in order to maximize the likelihood of success on appeal.‖ Smith v.
+
+Robbins, 528 U.S. at 288. Holliday has failed to point to any non-frivolous claim that should
+
+have been raised by his appellate counsel. Therefore, he has demonstrate neither inadequate
+
+performance, nor prejudice therefrom.
+
+       As to his second contention, that appellate counsel was ineffective for failing to raise
+
+ineffective assistance of trial counsel, the direct claims regarding the ineffectiveness of trial
+
+counsel all fail. Therefore, Holliday cannot show a reasonable probability that if appellate
+
+counsel had raised any of the claims herein described as a basis for ineffective assistance of trial
+
+counsel, the outcome on appeal would have been different. Moreover, even if appellate counsel
+
+should have raised trial counsel‘s errors on direct review, there is still no showing of prejudice,
+
+particularly because the First Circuit does not normally consider ineffective assistance claims on
+
+direct appeal. See United States v. Reyes, 352 F.3d 511, 517 (1st Cir. 2003) (quoting United
+
+States v. Mala, 7 F.3d 1058, 1063 (1st Cir. 1993)).
+
+       Consequently, Holliday has failed to establish that his appellate counsel was
+
+constitutionally ineffective.
+
+
+
+                                                 12
+II.    Conclusion
+
+       For the reasons set forth herein, Holliday‘s motion to set aside his sentence pursuant to 28
+
+U.S.C. § 2255 (dkt. no. 75) is DENIED. Additionally, in light of Holliday‘s testimony at the
+
+evidentiary hearing and the lack of specific allegations in his motion showing reason to believe
+
+he may be able to establish he is entitled to relief, his Motion for Discovery (Crime Scene Video
+
+and Turret Tape) (dkt. no. 113) is DENIED for failure to demonstrate good cause. See Bracy v.
+
+Gramley, 520 U.S. 899, 908-09 (1997).
+
+       Finally, because Holliday has not ―made a substantial showing of the denial of a
+
+constitutional right,‖ see 28 U.S.C. § 2253(c)(2), no certificate of appealability shall issue.
+
+       It is SO ORDERED.
+
+                                                 /s/ George A. O‘Toole, Jr.
+                                               United States District Judge
+
+
+
+
+                                                 13
+

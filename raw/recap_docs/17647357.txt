@@ -1,0 +1,884 @@
+                               UNITED STATES DISTRICT COURT
+                                DISTRICT OF MASSACHUSETTS
+
+UNITED STATES of AMERICA,                             *
+                                                      *
+                                                      *
+       v.                                             *     Criminal Action No. 10-10115-JLT
+                                                      *
+JOSE SHAW,                                            *
+                                                      *
+               Defendant.                             *
+
+                                       MEMORANDUM
+
+                                         June 28, 2012
+TAURO, J.
+
+I.     Introduction
+
+       Defendant Jose Shaw was indicted on one count of being a felon in possession of a firearm
+
+and ammunition in violation of 18 U.S.C. § 922(g)(1).1 Currently before the court is Defendant’s
+
+Motion to Suppress Evidence [#46].
+
+II.    Background
+
+       A.      Findings of Fact
+
+       In the early morning hours of December 4, 2009, Brockton Police Detectives George
+
+Almeida and Samuel Carde were on patrol.2 The officers were dressed in plain clothes and were
+
+driving an unmarked police vehicle.3 At approximately 2 a.m., Detective Almeida received a
+
+Nextel Direct Connect communication from off-duty Brockton Police Detective Erik Hilliard.4
+
+
+       1
+        Indictment [#7].
+       2
+        Hearing Tr. 9:12-16.
+       3
+        Hearing Tr. 9:21-23.
+       4
+         Hearing Tr. 10:7-22 (A Nextel Direct Connect communication is a telephone service
+similar to a “walkie-talkie.” It is a one way communication, where an individual speaks and the
+Detective Hilliard told Detective Almeida that, “he was receiving information from a confidential
+
+reliable informant [describing] two Cape Verdean males in the area of Crescrent Street and . . .
+
+Maple Ave. [in Brockton].”5
+
+       The confidential informant was known to Detective Hilliard and had provided reliable
+
+information to Detective Hilliard on three previous occasions, beginning in 2007.6 The
+
+informant’s information had, in the past, led to the seizure of two handguns, and to one arrest and
+
+prosecution.7 In this case, the informant told Detective Hilliard that he had observed two
+
+individuals with a gun at a local bar, and the informant proceeded to give Detective Hilliard a
+
+detailed description of the two men, including their race, clothing, and location.8 While the
+
+informant was communicating this information to Detective Hilliard on Detective Hilliard’s
+
+personal cell phone, Detective Hilliard relayed the information to Detective Almeida via Nextel
+
+Direct Connect.9
+
+       The confidential informant told Detective Hilliard that he was following the two suspects
+
+in his car.10 Detective Hilliard relayed to Detective Almeida the informant's description of the two
+
+
+
+
+other listens. Once one person has finished speaking, the other may then re-connect and speak.).
+       5
+        Hearing Tr. 10:25-11:4.
+       6
+        Hearing Tr. 77:16-3. For convenience, the informant will be referred to as “he” although
+the gender and identity of the informant are not known to the court.
+       7
+        Hearing Tr. 78:2-83:4.
+       8
+        Hearing Tr. 63:3-64:10.
+       9
+        Hearing Tr. 104:11-107:3; 10:12-12:24.
+       10
+           Hearing Tr. 66:9-18.
+                                                 2
+individuals, and the fact that the informant believed one or both to be armed with a gun.11
+
+Detective Hilliard indicated that one suspect was wearing a red hat, red sweatshirt, and blue jeans,
+
+and that the other was wearing a black hat, black sweatshirt and black jeans.12 Detective Hilliard
+
+received continuous updates from the informant, and was able to give Detective Almeida the
+
+precise location of the suspects. Detectives Almeida and Carde followed Detective Hilliard’s
+
+directions and found the suspects on Perkins Street near Crescent Street in Brockton.13
+
+Detectives Almeida and Carde were followed by Officer Louis, a uniformed officer in a marked
+
+police cruiser.14
+
+        Upon crossing Crescent Street on to Perkins Street, Detective Almeida testified that he,
+
+“observed two Cape Verdean looking males fitting [the informant’s] description, one wearing a
+
+red hat, red sweatshirt, blue jeans. The other one . . . wearing a black hat, black sweatshirt, and
+
+black jeans.”15 As he and Detective Carde approached the two men, Detective Almeida
+
+recognized the one dressed in black as Peter Teixeira, also known as “Hurt Neck.”16 Detective
+
+Almeida knew at the time that Teixeira had a criminal record and was ineligible for a license to
+
+carry a firearm because he was previously convicted of a felony.17 Detective Almeida did not
+
+
+
+
+        11
+         Hearing Tr. 11:3-8; 63:17-64:1.
+        12
+         Hearing Tr. 11:3-8.
+        13
+         Hearing Tr. 12:22-13:12.
+        14
+         Hearing Tr. 21:1-19.
+        15
+         Hearing Tr. 13:14-25.
+        16
+         Hearing Tr. 14:6-12.
+        17
+         Hearing Tr. 14:20-15:2.
+                                                  3
+recognize the other man, dressed in the red hat, red sweatshirt, and blue jeans.18
+
+       Detective Carde then positioned the unmarked cruiser on the east side of the street,
+
+approximately twenty feet from where the two suspects were located, and without activating the
+
+lights or drawing their weapons, the two detectives exited the vehicle.19 Detective Louis
+
+positioned his cruiser beside, and slightly behind Detectives Carde and Almeida’s vehicle.20
+
+Detective Almeida called out, “Yo, ‘Hurt Neck,’ can I holler at you for a minute,” to which
+
+Teixeira responded, “Yo, Almeida, what’s up.”21 At the same time, Teixeira turned to face the
+
+detectives, while his companion, now known to be Defendant Shaw, turned away from the
+
+detectives, “blading his body.”22
+
+       Detective Almeida testified that “blading” is a defensive gesture designed to remove a
+
+weapon from a potential opponent’s line of sight. The armed individual essentially turns so that
+
+the weapon is on the side of his body furthest from the opponent. Police are trained to do this,
+
+and according to Detective Almeida, most armed individuals that they encounter typically do the
+
+same.23 At this point, after Teixeira responded to Detective Almeida’s question, Detective
+
+Almeida requested that the men keep their hands where they could be seen, and Teixeira moved
+
+
+
+
+       18
+         See Hearing Tr. 15:5-11.
+       19
+         Hearing Tr. 15:17-16:5, 18:23-19:3.
+       20
+         Hearing Tr. 42:17-43:5.
+       21
+         Hearing Tr. 16:3-14.
+       22
+         Hearing Tr. 16:12-15.
+       23
+         Hearing Tr. 18:1-22.
+                                                 4
+his hands toward the front pocket of his sweatshirt.24
+
+       This gesture prompted Detective Carde to remove his service weapon and demand to see
+
+the men’s hands.25 Teixeira immediately complied with the request, but Defendant Shaw was
+
+slower to react.26 Defendant Shaw remained with his back toward the detectives, and continued
+
+blading his body, looking over his shoulder.27 The detectives approached Teixeira and Shaw and
+
+asked the men to face away from them.27 At this point Officer Drane arrived in a third cruiser,
+
+which he positioned in front of the two suspects.28 While Detective Carde kept his service
+
+weapon on the two suspects, Officer Drane stepped up to Shaw and Officer Louis stepped up to
+
+Teixeira.29 The officers proceeded to pat-frisk the two suspects.30
+
+       Upon pat-frisking the right side of Defendant’s waist band, Officer Drane shouted,”I got
+
+one,” indicating that he had found a firearm, and both suspects were ordered to their knees.31 At
+
+that moment, a fourth cruiser arrived driven by Officer Kalp.32 Officer Drane removed the gun
+
+from Defendant Shaw’s waistband, and the magazine fell out of the gun in the process. Officer
+
+
+       24
+         Hearing Tr. 19:6-23.
+       25
+         Hearing Tr. 19:6-20:5.
+       26
+         Hearing Tr. 20:4-14.
+       27
+         Hearing Tr. 20:8-14.
+       27
+         Hearing Tr. 20:15-18.
+       28
+         Hearing Tr. 22:9-14.
+       29
+         Hearing Tr. 22:9-14.
+       30
+         Hearing Tr. 22:16-18.
+       31
+         Hearing Tr. 25:3-11.
+       32
+         Hearing Tr. 25:15-17.
+                                                 5
+Drane immediately passed the gun and magazine to Officer Kalp, who secured them in the trunk
+
+of his cruiser.33 Officer Drane demanded to see Defendant Shaw’s license to carry the gun, and
+
+Defendant Shaw responded that he did not have one.34 Defendant Shaw was charged with being a
+
+felon in possession of a firearm and ammunition in violation of 18 U.S.C. § 922(g)(1), and now
+
+seeks to suppress the gun found by Officer Drane as the fruit of an illegal search.
+
+       B.      Procedural History
+
+       On March 2, 2010, the government filed a criminal complaint against Defendant, and an
+
+arrest warrant was issued. On March 3, 2010, Defendant was arrested, and on March 4, 2010,
+
+counsel was appointed. On April 7, 2010, a grand jury indicted Defendant on one count of being
+
+a felon in possession of a firearm and ammunition. On April 13, 2010, Defendant was arraigned
+
+before Magistrate Judge Bowler. On September 6, 2011, Judge Bowler held a final status
+
+conference, and subsequently issued a Report and Order. On October 27, 2011, Defendant filed a
+
+Motion to Suppress Evidence [#46]. After a hearing held on January 12, 2012 and continued on
+
+March 15, 2012, the court took the matter under advisement.
+
+III.   Discussion
+
+       Defendant moves to suppress the gun and ammunition seized by the Brockton Police
+
+Department on the grounds that the December 4, 2009 search was in violation of his Fourth
+
+Amendment rights.35 Whether the search of Defendant Shaw was in violation of his Fourth
+
+Amendment rights raises two questions that must be addressed in sequence. First, whether the
+
+
+
+       33
+         Hearing Tr. 25:13-21.
+       34
+         Hearing Tr. 25:24-26:5.
+       35
+         Def.’s Mot. to Supp. Ev. [#46].
+                                                 6
+officers had a reasonable suspicion that Defendant Shaw was engaged in criminal activity at the
+
+time he was “seized” under the Fourth Amendment, and next, whether the scope of the search
+
+was reasonable under the Fourth Amendment in light of the circumstances leading up to it.
+
+       A.      Legal Standard
+
+       The Fourth Amendment proscribes unreasonable searches and seizures of individuals’
+
+persons, homes, papers, or effects.36 While a stop and subsequent frisk of an individual falls within
+
+the ambit of the Fourth Amendment,37 the Supreme Court held in Terry v. Ohio, that “a police
+
+officer may in appropriate circumstances and in an appropriate manner approach a person for
+
+purposes of investigating possibly criminal behavior even though there is no probable cause to
+
+make an arrest.”38 The standard of proof for a seizure under Terry is that, “a police officer is
+
+permitted to make a brief investigatory stop of an individual if the officer has reasonable suspicion
+
+that criminal activity may be afoot.”39 The First Circuit has elaborated by emphasizing that a “so-
+
+called Terry stop ‘lies somewhere between a consensual encounter and a full blown arrest,’” and
+
+must be supported by an officer’s reasonable suspicion, which is more than a hunch, but less than
+
+would be required to find probable cause.40
+
+
+       36
+         U.S. Const. amend. IV.
+       37
+          United States v. McKoy, 402 F. Supp. 2d 311, 313 (D. Mass. 2004), aff’d 428 F.3d 38
+(1st Cir. 2005).
+       38
+          Terry v. Ohio, 392 U.S. 1, 21 (1968), quoted in United States v. Am, 564 F.3d 25, 29
+(1st Cir. 2009).
+       39
+         Am, 564 F.3d at 29.
+       40
+          Id. (quoting United States v. Harris, 218 Fed. Appx. 525, 527 (7th Cir. 2007)); see also
+United States v. Camacho, 661 F.3d 718, 726 (1st Cir. 2011) (“The reasonable suspicion standard
+is an intermediate, indeterminate standard that requires more than a mere hunch but less than
+probable cause.”).
+                                                  7
+       In order to effect a lawful Terry stop, an officer must have reasonable suspicion at the
+
+time that the suspect is seized for Fourth Amendment purposes. An otherwise innocuous
+
+encounter between a citizen and a police officer, “rises to the level of a seizure when the
+
+interaction is compelled by physical restraint or a nonphysical show of authority rather than by the
+
+citizen’s voluntary compliance.”41 As most individuals inherently feel a degree of compulsion
+
+when questioned by law enforcement, courts apply an objective standard to determine whether the
+
+encounter was sufficiently coercive to rise to the level of a seizure under the Fourth
+
+Amendment.42 “In the absence of evidence of coercion, ‘otherwise inoffensive contact between a
+
+member of the public and the police cannot, as a matter of law, amount to a seizure of that
+
+person.’”43
+
+       In determining if a seizure has occurred, “the crucial test is whether, taking into account
+
+all of the circumstances surrounding the encounter, the police conduct would ‘have
+
+communicated to a reasonable person that he was not at liberty to ignore the police presence and
+
+go on about his business.’”44 Circumstances that might transform a consensual encounter into a
+
+seizure include, “the threatening presence of several officers, the display of the officers’ weapons,
+
+any physical touching of the defendant, and the use of language or tone of voice that indicates that
+
+
+
+
+       41
+        United States v. Ford, 440 F. Supp. 2d 16, 19-20 (D. Mass. 2006) (Tauro, J.) (citing
+United States v. Smith, 423 F.3d 25, 28-29 (2005)).
+       42
+         Ford, 440 F. Supp. 2d at 19-20.
+       43
+         Smith 423 F.3d at 28 (citing United States v. Mendenhall, 446 U.S. 544, 555 (1980)).
+       44
+        Florida v. Bostick, 501 U.S. 429, 437 (1991) (citing Michigan v. Chesternut, 486 U.S.
+567, 569 (1988)).
+                                               8
+compliance with the officers’ request is not discretionary.”45 A seizure requires not only an
+
+assertion of authority, as described above, but also submission to that authority.46 The law, thus,
+
+makes clear that not every encounter between a police officer and a civilian falls within the scope
+
+of the Fourth Amendment.47
+
+        At its inception, a seizure pursuant to a Terry stop must be supported by an officer’s
+
+“reasonable suspicion supported by articulable facts that ‘criminal activity may be afoot.’”48
+
+Although the “reasonable suspicion standard requires more than a visceral hunch about the
+
+presence of illegal activity, it requires less than probable cause.”49 The First Circuit has found
+
+that, “‘suspicious circumstances reported to the police by a reliable [known] person in a
+
+nonconclusory fashion’ may in certain circumstances be sufficient to warrant a Terry stop.”50
+
+Where an officer executes a stop in reliance on a tip, the tip must be, “reliable in its assertion of
+
+illegality, not just in its tendency to identify a determinate person.”51
+
+        A tip’s reliability is enhanced when it comes from an informant who is known to police
+
+
+
+
+        45
+         Ford, 440 F. Supp. 2d at 20 (citing Smith, 423 F.3d at 29).
+        46
+        California v. Hodari D., 499 U.S. 621, 626-29 (1991); Smith, 423 F.3d at 31 (quoting
+United States v. Sealey, 30 F.3d 7, 9 (1st Cir. 1994)).
+        47
+         Smith, 423 F.3d at 28 (citing Mendenhall, 446 U.S. at 555 (1980)).
+        48
+        United States v. Dancy, 640 F.3d 455, 461 (1st Cir. 2011) (citing United States v.
+Ramos, 629 F.3d 60, 65 (1st Cir. 2010)).
+        49
+         United States v. Brown, 500 F.3d 48, 54 (1st Cir. 2007).
+        50
+         United States v. Monteiro, 447 F.3d 39, 44 (1st Cir. 2006).
+        51
+         Florida v. J.L., 529 U.S. 266, 272 (2000) quoted by Monteiro, 447 F.3d at 47.
+                                                9
+officers, and who has provided reliable information in the past.52 In light of the totality of the
+
+circumstances, a “sufficiently specific tip from an informant of proven reliability can establish
+
+probable cause for an arrest, not merely a Terry stop.”53 When a tip is corroborated by other
+
+evidence, the combination lends greater support to an officer’s reasonable suspicion that criminal
+
+activity is afoot.54 An informant’s credibility is also heightened when he is able to provide
+
+information that indicates first-hand knowledge of the conduct that forms the substance of the
+
+tip.55 At base, “[w]hile the source’s general credibility must be considered, all the law requires is
+
+that, when all the pertinent considerations are weighted, the information reasonably appears to be
+
+reliable.”56 In the reasonable suspicion analysis a tip, therefore, becomes one factor to be
+
+considered by an officer in light of the entirety of the situation.
+
+          A tip need not be given to the officer making the Terry stop himself in order to inform the
+
+officer’s finding of reasonable suspicion. The First Circuit has emphasized that, “police may rely
+
+
+
+
+          52
+           See Monteiro, 447 U.S. at 44; see also Adams v. Williams 407 U.S. 143, 144-45 (1972).
+          53
+           United States v. Vasquez, 544 F.3d 348, 350 (1st Cir. 2008).
+          54
+          See, e.g., Monteiro, 447, U.S. at 47 (“there may be Terry-stop cases in which
+corroboration comes in part from an individual’s gang affiliation and/or recent arrests for conduct
+related to the activity referred to in a tip. Criminal history certainly can be considered in a
+reasonable suspicion analysis.”); see also United States v. Bates, 750 F. Supp. 2d 342, 347 (D.
+Mass. 2010) (“The question is ultimately whether the police had a reasonable suspicion that
+criminal activity was afoot, and the touchstone of the analysis is whether ‘in light of all the
+circumstances’ the ‘[tip] possessed sufficient indicia of reliability .’” (quoting United States v.
+Ruidiaz, 529 F.3d 25, 31 (1st Cir. 2008)).
+          55
+           Brown, 500 F.3d at 55 (citing United States v. Barnard, 299 F.3d 90, 93 (1st Cir.
+2002)).
+          56
+           Brown, 500 F.3d at 55 (citing Illinois v. Gates, 462 U.S. 213, 230 (1983)).
+                                                   10
+on information of other members of their force and respond accordingly.”57 Reasonable suspicion
+
+can be imputed to the officer executing a search under the collective or pooled knowledge
+
+principle if he “‘acts in accordance with the direction of another officer who has reasonable
+
+suspicion.’”58 Accordingly, if the officer conducting the stop relies on information provided by a
+
+fellow officer who lacks reasonable suspicion, “a stop in objective reliance upon [that information]
+
+violates the Fourth Amendment.”59
+
+          In sum, at the time a Terry stop occurs and a suspect is seized for purposes of the Fourth
+
+Amendment, the officer conducting the stop must have a reasonable suspicion based on the
+
+totality of the circumstances, that the suspect is engaged in criminal activity. Reasonable
+
+suspicion may be based on all available information, including information received from fellow
+
+officers, the seizing officer’s prior knowledge of the suspect, and the course of events leading up
+
+to the stop itself.60
+
+          After a lawful Terry stop, “a pat-frisk for weapons is also permissible where ‘the officer is
+
+justified in believing that the person is armed and dangerous to the officer or others.’”61 As the
+
+First Circuit recently enunciated:
+
+                 Where a police officer observes unusual conduct which leads him
+
+
+          57
+        United States v. Aitoro, 446 F.3d 246, 254 (1st Cir. 2006) (citing United States v.
+Romain 393 F.3d 63,71 (1st Cir. 2004) (“Police officers are not limited to personal observations
+in conducting investigatory activities.”)).
+          58
+           Am, 564 F.3d at 31 (quoting United States v. Barnes, 506 F.3d 58, 62-63(1st Cir.
+2007)).
+          59
+           United States v. Hensley, 469 U.S. 221, 232 (1985) quoted in Am, 564 F.3d at 31.
+          60
+           See, e.g., Am, 564 F.3d at 29-31.
+          61
+           Aitoro, 446 F.3d at 252 (quoting Romain, 393 F.3d at 71).
+                                          11   11
+                reasonably to conclude in light of his experience that criminal activity
+                may be afoot and that the persons with whom he is dealing may be
+                armed and presently dangerous, where in the course of investigating
+                this behavior he identifies himself as a policeman and makes
+                reasonable inquiries, and where nothing in the initial stages of the
+                encounter serves to dispel his reasonable fear for his own or others’
+                safety, he is entitled for the protection of himself and others in the area
+                to conduct a carefully limited search of the outer clothing of such
+                persons in an attempt to discover weapons which might be used to
+                assault him. Such a search is a reasonable search under the Fourth
+                Amendment, and any weapons seized may properly be introduced in
+                evidence against the person from whom they were taken.62
+
+The Fourth Amendment analysis of a Terry stop and subsequent frisk, therefore, runs along a
+
+continuum with the officer and the suspect’s conduct during the course of the stop being taken
+
+into account in determining the propriety and scope of a search.
+
+        B.      Application
+
+        In the present matter, the encounter between the detectives, Teixeira and Defendant Shaw
+
+began as a consensual encounter, escalated to a seizure, and culminated with the search of
+
+Defendant that produced the gun and ammunition Defendant now seeks to suppress. In order to
+
+assess the propriety of the search that lead to the discovery of the gun and ammunition, the court
+
+must first consider when Defendant was “seized” for Fourth Amendment purposes, and whether
+
+that seizure was supported by the detectives’ reasonable suspicion that Defendant was engaged in
+
+criminal activity.
+
+        The chain of events leading up to the search of Defendant Shaw began when Detective
+
+Hilliard received a tip from a confidential informant. The informant was known to Detective
+
+Hilliard and had provided reliable information on three prior occasions.63 The tip in this case,
+
+
+        62
+         Camacho, 661 F.3d at 724-25 (quoting Terry, 392 U.S. at 30-31).
+        63
+         Hearing Tr. 77:16-83:5.
+                                                    12
+because it came from a known, reliable informant, is similar to the one relied upon by the police in
+
+Adams v. Williams.64 There, the Supreme Court found that an officer had a reasonable suspicion
+
+to conduct a Terry stop where he received a tip from an informant who was known to him
+
+personally and had given him information in the past.65 The fact that the tip to Detective Hilliard,
+
+while not conveyed in person, did come from a known informant is significant because it indicates
+
+that the informant could be held accountable by the police if he were to provide false
+
+information.66
+
+          The key factor in determining whether reasonable suspicion may be based on an
+
+informant’s tip is whether, “when all the pertinent considerations are weighed, the information
+
+reasonably appears to be reliable.”67 The informant who relayed the tip to Detective Hilliard was
+
+able to provide first-hand information including a description of the suspects’ race, attire, and up
+
+to date location. Each of these factors indicating first-hand knowledge enhances the informant’s
+
+credibility.68 The tipper also relayed that the two men were carrying a gun, and that he knew this
+
+because he had seen the two men with the gun. In relying on the information provided by the
+
+confidential informant, Detective Hilliard, therefore, had a reliable basis to suspect that the
+
+individuals identified by the tip were engaged in criminal activity, and was justified in contacting
+
+
+          64
+           Adams, 407 U.S. at 146-47.
+          65
+           Monteiro, 447 F.3d at 44 (quoting Adams, 407 U.S. at 144-45).
+          66
+          United States v. Greenburg, 410 F.3d 63, 67 (1st Cir. 2005) (finding law enforcement
+officer’s knowledge of an informant’s identity bolstered the informant’s credibility because the
+informant would be able to be held accountable if he provided false information.).
+          67
+           Brown, 500 F.3d at 55 (citing Gates, 462 U.S. at 230).
+          68
+           Brown, 500 F.3d at 55 (citing United States v. Barnard, 299 F.3d 90, 93 (1st Cir.
+2002)).
+                                                  13
+the officers on duty and asking them to investigate.
+
+       Police officers conducting a terry stop are entitled to rely on information provided by their
+
+colleagues on the police force. As the Supreme Court has stated, “effective law enforcement
+
+cannot be conducted unless police officers can act on directions and information transmitted by
+
+one officer to another and that officers, who must often act quickly cannot be expected to cross-
+
+examine their fellow officers about the foundation for the transmitted information.”69 Here, it was
+
+reasonable for Detectives Almeida and Carde to rely on Detective Hilliard’s statements regarding
+
+the tip he received from the confidential informant, and to proceed to investigate.
+
+       When an officer relies in whole or in part on information provided by another member for
+
+the force, “[u]nder the ‘collective knowledge’ or ‘pooled knowledge’ principle, ‘reasonable
+
+suspicion can be imputed to the officer conducting a search if he acts in accordance with the
+
+direction of another officer who has reasonable suspicion.’”70 Conversely, if the information is
+
+given from one officer to another in the absence of reasonable suspicion, reliance upon it runs
+
+afoul of the Fourth Amendment.71 Here, the tip given to Detective Hilliard had sufficient indicia
+
+of reliability, as indicated above, to allow Detectives Almeida and Carde to reasonably rely on it in
+
+proceeding to question the suspects.
+
+       Reasonable suspicion based on an initial apparently reliable tip may be enhanced if officers
+
+are able to confirm details provided by the informant upon reaching the suspects identified in the
+
+
+
+
+       69
+        United States v. Hensley, 469 U.S. 221, 231 (1985) (citing United States v. Robinson,
+536 F.2d 1298, 1300 (9th Cir. 1976)).
+       70
+         Am, 564 F.3d at 31 (quoting Barnes, 506 F.3d at 62-63).
+       71
+         Am, 564 F.3d at 31 (quoting Hensley, 469 U.S. at 232).
+                                              14
+tip.72   Here, Detectives Almeida and Carde relied on Detective Hilliard’s information from the
+
+confidential informant in locating Teixeira and Defendant Shaw.73 They observed the suspects’
+
+clothing and complexions to match those described by the confidential informant.74 They also
+
+found the suspects in the precise location described to Detective Hilliard by the confidential
+
+informant.75 The fact that these elements of the tip were corroborated by the detectives’
+
+observations contributed to the reasonableness of Detective Almeida and Detective Carde’s
+
+reliance on Detective Hilliard’s information.76
+
+         Once they had located the suspects described by the confidential informant, Detectives
+
+Almeida and Carde proceeded to investigate further before seizing the suspects. Detective
+
+Almeida immediately recognized one of the men identified by the tip as Peter, ‘Hurt Neck,’
+
+Teixeira, whom he knew to be a felon and ineligible to carry a firearm.77 At this point, rather than
+
+start a Terry stop, Detective Almeida opted for a “soft approach.”78 He and Detective Carde,
+
+
+         72
+          United States v. Alston, 112 F.3d 32, 35 (1st Cir. 1997).
+         73
+          Hearing Tr. 10:12-12:24.
+         74
+          Hearing Tr. 13:14-25. Although Defendant contends that the clothing description was
+not accurate because Defendant’s sweatshirt had prominent white stripes on it (Def.'s Mem. in
+Supp. [#47] at 3-4), this argument is without merit because the consideration of whether a Terry
+stop was valid requires an evaluation of the totality of the circumstances. In light of the numerous
+details that were in agreement with the informant’s tip, the informant’s failure to mention the
+stripes on Defendant’s sweatshirt does not defeat a finding of probable cause.
+         75
+          Hearing Tr. 12:22-13:12.
+         76
+          See Brown, 500 F.3d at 55 (citing Gates, 462 U.S. at 230) (“While the source’s general
+credibility must be considered, all that the law requires is that, when the pertinent considerations
+are weighed, the information reasonably appears to be reliable.”)
+         77
+          Hearing Tr. 14:10-15:2.
+         78
+          Hearing Tr. 53:5-54:11.
+                                                  15
+who were dressed in plain clothes, pulled their unmarked cruiser up next to the suspects and,
+
+without activating the lights or sirens, exited the vehicle. As he exited the cruiser, Detective
+
+Almeida asked to talk to Teixeira, and Teixera responded affirmatively.
+
+       At this point, under the objective analysis, there was no Terry stop, and the suspects were
+
+not seized for Fourth Amendment purposes. As this court has previously held, “Law
+
+Enforcement officers do not violate the Fourth Amendment’s prohibition of unreasonable seizures
+
+merely by approaching individuals on the street or in other public places and putting questions to
+
+them if they are willing to listen.”79 None of the traditional factors used to assess the presence of
+
+police coercion were present, and there was no objective indication that Shaw and Teixeira were
+
+not free to disregard Detective Almeida’s request and leave the area.80 Such an encounter does
+
+not trigger Fourth Amendment scrutiny until and “unless it loses its consensual nature.”81
+
+       Events occurring after the start of the interaction between an officer and a suspect may be
+
+taken into account in determining whether the officer had a reasonable suspicion that criminal
+
+activity was afoot at the time the suspect was seized.82 Here, once the interaction between
+
+Detective Almeida and Teixeira had begun, Teixeira moved his hands toward the pocket of his
+
+
+
+       79
+         Ford, 440 F. Supp. 2d at 19 (quoting Smith, 423 F.3d at 28).
+       80
+          See Ford, F. Supp. 2d at 20 (“Factors that might elevate a police encounter from a
+voluntary conversation to a seizure include the threatening presence of several officers, the display
+of the officers’ weapons, any physical touching of the defendant, and the use of language or tone
+of voice that indicates that compliance with the officers’ request is not discretionary.” (citing
+Smith 423 F.3d at 29)).
+       81
+         Bostick, 501 U.S. at 434 (quoting Hodari D., 499 U.S. at 628).
+       82
+          See Bates, 750 F. Supp. 2d at 350 (“[T]he question is whether subsequent events . . .
+provided police with a reasonable suspicion of criminal activity that was not supported by the tip
+alone.”) (citing United States v. Simmons, 560 F.3d 98, 106-07 (2d Cir. 2009).
+                                                16
+sweatshirt, and Defendant Shaw “bladed” his body in a way that indicated to Detective Almeida
+
+that Shaw was armed.83 As an encounter between law enforcement and a suspect progresses, “an
+
+officer’s ‘subsequent actions must be responsive to the emerging tableau – the circumstances
+
+originally warranting the stop, informed by what occurred, and what the officer learned as the
+
+stop progressed.’”84
+
+       The tip, the suspects’ location, Detective Almeida’s knowledge of Teixeira’s ineligibility
+
+to possess a firearm, and the suspects’ movements once Detective Almeida approached combined
+
+to provide a basis for Detective Almeida’s reasonable suspicion that Teixeira and Shaw were
+
+engaged in criminal activity. The First Circuit has emphasized that, “even innocuous facts, which
+
+taken alone may not be ‘sufficient to create reasonable suspicion [,] . . . may in combination with
+
+other innocuous facts take on added significance.’”85 Other courts have found that furtive
+
+gestures, such as a suspect moving his hands toward his pockets when police have reason to
+
+believe he is armed, can form the basis of an officer’s reasonable suspicion necessary to effect a
+
+Terry stop and subsequent pat-frisk.86 In light of the totality of the circumstances, and the
+
+knowledge they possessed at the time, from both the tip and observations at the scene, the
+
+detectives were justified in ordering Teixeira and Shaw to show their hands, and thus executing a
+
+Terry stop by a show of authority, and the suspects’ subsequent acquiescence. Once Defendant
+
+Shaw “bladed” his body and Teixeira moved his hands toward his pocket, the officers ordered
+
+
+
+       83
+         Hearing Tr. 17:1-19:10
+       84
+         Am, 564 F.3d at 32 (quoting United States v. Coplin, 463 F.3d 96, 100 (1st Cir. 2006)).
+       85
+         Am, 564 F.3d at 30 (quoting Ruidaz, 529 F.3d at 30).
+       86
+         See, e.g., United States v. Simmons, 560 F.3d 98, 109 (2d Cir. 2009).
+                                               17
+both men to show their hands. More officers then arrived, and all drew their service weapons. At
+
+this point, there can be no doubt that Teixeira and Shaw were seized for the purposes of a Fourth
+
+Amendment analysis.87
+
+        The next question presented, therefore, is whether the pat-frisk of Defendant was
+
+appropriate after the lawful Terry stop. “‘Officers are permitted to take actions to protect their
+
+own safety and the safety of others in the area,’ including conducting a pat-frisk, if under all the
+
+circumstances they have ‘a particularized and objective basis to suspect the individual ha[s] a
+
+weapon.’”88 A protective pat-frisk is, therefore, permitted when, in light of the totality of the
+
+circumstances after a lawful Terry stop, an officer has a specific reason to believe that the stopped
+
+suspect is armed and dangerous.
+
+        “[I]n determining whether a pat-down search is an appropriate step following a valid Terry
+
+stop, the key is whether . . . ‘the officer is justified in believing that the person is armed and
+
+dangerous to the officer or others.’”89 In this case, the content of the tip to Detective Hilliard had
+
+indicated that Teixeiara and/or Shaw were armed. In their investigatory activities, “[t]he police
+
+may rely on information of other members of their force and respond accordingly.”90 At the time
+
+the stop commenced, as explained above, the officers had a reasonable suspicion to believe that
+
+
+
+        87
+          See Carmacho, 661 F.3d at 725 (“A Fourth Amendment seizure occurs when a police
+officer ‘has in some way restrained the liberty of a citizen’ through ‘physical force or show of
+authority.’” (quoting Terry 392 U.S. at 19 n.16)).
+        88
+      United States v. Dancy, 640 F.3d 455, 461 (1st Cir. 2011) (citing United States v.
+Mohamed, 630 F.3d 1, 6 (1st Cir. 2010)).
+        89
+         Bates, 750 F. Supp. 2d 3 at 351 (quoting Romain, 393 F.3d at 71).
+        90
+         Aitoro, 446 F.3d at 254 (citing Romain, 393 F.3d at 71 (“[p]olice officers are not limited
+to personal observations in conducting investigatory activities.”)).
+                                                18
+Teixeira and Shaw were engaged in criminal activity. When Detective Carde ordered the men to
+
+show their hands, Shaw was slow to comply and continued to “blade” his body, a maneuver
+
+Detective Almeida recognized as characteristic of someone carrying a firearm.91 The officers’
+
+observations on the scene served to corroborate the tip relayed by Detective Hilliard, and gave the
+
+officers a firm basis for believing that Defendant Shaw was armed and presently dangerous. The
+
+pat-frisk of Defendant Shaw, therefore, was in compliance with the requirements of the Fourth
+
+Amendment.
+
+IV.    Conclusion
+
+       Because the stop and the subsequent pat-frisk were did not violate the Fourth
+
+Amendment, there is no basis for the exclusion of the gun and ammunition that were found on
+
+Defendant Shaw. Accordingly, Defendant’s Motion to Suppress Evidence [#46] is hereby
+
+DENIED.
+
+
+
+ AN ORDER HAS BEEN ISSUED.
+
+
+
+                                                         /s/ Joseph L. Tauro
+
+                                                      United States District Judge
+
+
+
+
+       91
+         Hearing Tr. 18:1-14.
+                                                19
+

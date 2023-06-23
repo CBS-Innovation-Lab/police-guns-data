@@ -1,0 +1,363 @@
+                            UNITED STATES DISTRICT COURT
+                             DISTRICT OF MASSACHUSETTS
+
+                              CRIMINAL NO. 12-10196-GAO-1
+
+                               UNITED STATES OF AMERICA
+
+                                               v.
+
+                                       PHILLIP ASARO,
+                                          Defendant.
+
+
+                                   OPINION AND ORDER
+                                       June 20, 2014
+
+O’TOOLE, D.J.
+
+       The twelve defendants in this case are alleged to have been involved in a marijuana
+
+distribution ring. Defendant Phillip Asaro is charged with conspiracy to distribute marijuana in
+
+violation of 21 U.S.C. § 846, being a felon in possession of a firearm and ammunition in
+
+violation of 18 U.S.C. § 922(g), and perjury in violation of 18 U.S.C. § 1623. Law enforcement
+
+began targeting surveillance efforts at Asaro in June 2011, when cameras were set up outside his
+
+residence at 56 Hurd Street in Malden, Massachusetts. The wiretap of his phone was authorized
+
+in October 2011.
+
+       A state trooper stopped Asaro’s vehicle in Medford on February 23, 2012. The stop
+
+resulted in the seizure of 175 pounds of marijuana and a notecard with numerical notations
+
+matching the numbers written on each bale of marijuana. The next morning, state agents
+
+executed a search warrant at Asaro’s residence, seizing fifteen items. Asaro moves to suppress
+
+(dkt. no. 145) all items seized and any statements he made to law enforcement, both before and
+
+after his arrest on February 23, 2012. An evidentiary hearing was held on the motion.
+I.     Findings of Fact
+
+       Based on their investigation, agents believed that Asaro and others were using a
+
+warehouse in Woburn, Massachusetts, to store bales of marijuana. On February 22, 2012,
+
+pursuant to a warrant, federal agents installed a video camera inside the warehouse. The next day,
+
+around 6:54 p.m., Asaro was seen to arrive at the warehouse in a pickup truck and enter the
+
+building. In addition to the camera, Massachusetts state trooper Orlando Tirella was stationed in
+
+the vicinity of the warehouse conducting surveillance. Based on video surveillance, telephone
+
+intercepts, and visual observation, agents believed that Asaro was at the warehouse to pick up a
+
+quantity of marijuana.
+
+       Tirella arranged for another trooper, Brian McKenna, to be on the lookout for Asaro’s
+
+truck after it left the warehouse and to conduct a traffic stop so that Asaro could be questioned
+
+and the truck searched. McKenna had not to that point been involved in the investigation.
+
+       McKenna saw and stopped Asaro’s truck on Interstate Route 93 a little after 7:00 p.m.
+
+The plausible pretext for the traffic stop was that the pickup was following the vehicle ahead of it
+
+too closely. Trooper McKenna asked Asaro for his license and registration. McKenna then asked
+
+Asaro for consent to search the truck, and Asaro consented. 1 At some point thereafter, Asaro got
+
+out of his truck. McKenna asked him what was in the bed of the pickup, and Asaro said there
+
+were golf clubs. At McKenna’s direction, Asaro opened the tailgate, revealing golf clubs and
+
+some plastic bins. At McKenna’s request, Asaro opened one of the bins. McKenna observed a
+
+large package wrapped in cellophane that was consistent with a distribution-size quantity of
+
+marijuana. When McKenna asked Asaro what it was, the defendant said it was marijuana.
+
+
+
+
+1
+  Asaro testified that he only gave consent to a search of the cab, but I do not credit that
+testimony. Even if true, the distinction is of no consequence for reasons explained below.
+                                                 2
+       McKenna placed Asaro under arrest, advised him of his Miranda rights, and transported
+
+him to the Medford state police barracks. There, after again advising Asaro of his Miranda rights,
+
+Trooper Tirella and Special Agent Michael Krol took him to a booking room and uncuffed him.
+
+When asked where he was coming from and where he was headed, Asaro told the officers that he
+
+had met with a friend in Stoneham and was on his way home. At some point during the
+
+conversation, Asaro asked to call his attorney and his wife, but his request was not granted until
+
+a significant amount of time had passed.
+
+       Trooper Tirella ultimately obtained a search warrant for Asaro’s residence. Early the next
+
+day, officers executed the warrant and found marijuana, $349,820 in cash, packaging material, a
+
+number of cell phones, a loaded 40-caliber firearm, and a drug ledger apparently accounting for
+
+over 2,000 pounds of marijuana.
+
+II.    Discussion
+
+       Asaro contends that the stop and search of his pickup truck on February 23, 2012,
+
+violated his Fourth Amendment rights because (1) he had not committed any traffic violation, (2)
+
+he was not given Miranda warnings at the time of the stop, and (3) he did not give valid consent
+
+to the search of the back of his truck. He further contends that statements made at the state police
+
+barracks after he requested to speak with an attorney should be suppressed. Finally, he argues
+
+that because evidence unlawfully obtained was used to support the issuance of the warrant, the
+
+fruits of the search of his home should likewise be suppressed.
+
+       A.      Motor Vehicle Stop and Search
+
+       Regardless of whether there was a valid basis for a traffic stop of the truck, the stop and
+
+subsequent search were constitutional because law enforcement agents conducting the
+
+investigation had ample probable cause to believe that Asaro was transporting marijuana. See
+
+
+
+                                                 3
+United States v. Ross, 456 U.S. 798, 825 (1982) (“If probable cause justifies the search of a
+
+lawfully stopped vehicle, it justifies the search of every part of the vehicle and its contents that
+
+may conceal the object of the search.”); United States v. McHugh, 769 F.2d 860, 865 (1st Cir.
+
+1985) (“Once probable cause existed to believe that contraband was being concealed and
+
+illegally transported in the pickup truck, the search could properly have been conducted without
+
+a warrant.”). The collective knowledge doctrine, under which a court may “impute facts known
+
+by one police officer to another police officer engaged in a joint mission,” applies here. Morelli v.
+
+Webster, 552 F.3d 12, 17 (1st Cir. 2009) (internal quotation marks omitted). See also United
+
+States v. Meade, 110 F.3d 190, 193-94 (1st Cir. 1997).
+
+         B.     Statements by Asaro
+
+                i.     Pre-Arrest Statements
+
+         Asaro’s position is that his encounter with McKenna when he was pulled over was a de
+
+facto arrest and any questioning by McKenna required Miranda warnings to be given. Whether a
+
+stop has escalated into a de facto arrest “depends on a number of factors, including, inter alia,
+
+the location and duration of the stop, the number of police officers present at the scene, the
+
+degree of physical restraint placed upon the suspect, and the information conveyed to the
+
+suspect.” United States v. Rabbia, 699 F.3d 85, 91 (1st Cir. 2012), cert. denied, 133 S. Ct. 1608
+
+(2013) (citations omitted). See also United States v. Chaney, 647 F.3d 401, 408-409 (1st Cir.
+
+2011).
+
+         This stop took place on a busy off-ramp from an interstate highway with heavy traffic,
+
+only one officer was present, and Asaro was not physically restrained in any way. Cf. United
+
+States v. Fornia-Castillo, 408 F.3d 52, 65 (1st Cir. 2005) (affirming district court’s finding that
+
+investigatory stop did not require Miranda warnings where officer drew gun and used handcuffs,
+
+
+
+                                                 4
+but “stop took place at the side of ‘a busy public street with a heavy volume of traffic,’” and only
+
+one officer was initially on the scene). The stop “‘lacked the coercive element necessary to
+
+convert it to something more draconian,’ based on the totality of the circumstances.” Id. (quoting
+
+United States v. Lee, 317 F.3d 26, 32 (1st Cir. 2003)). What transpired may better be described
+
+as an investigatory conversation than a custodial interrogation. Miranda warnings were not
+
+required, and Asaro’s pre-arrest statements will not be ordered suppressed on that basis.
+
+               ii.     Post-Arrest Statements
+
+       Asaro argues that because Tirella and other officers ignored his requests to contact an
+
+attorney, his statements at the barracks and their fruits must be suppressed. Apparently
+
+recognizing that any interrogation of Asaro at the barracks after he had asked to contact a lawyer
+
+should have ceased, see Edwards v. Arizona, 451 U.S. 477, 484-85 (1981), the government has
+
+advised that it will not seek the admission of any of these statements as evidence.
+
+       Asaro also claims that because statements made at the barracks were included in the
+
+affidavit submitted in support of the application for the warrant to search his residence, the
+
+warrant was invalid and the fruits of that search must also be suppressed. That would be true,
+
+however, only if, the “offending information” being ignored, what remained in the affidavit was
+
+insufficient to establish probable cause. United States v. Dessesaure, 429 F.3d 359, 367 (1st Cir.
+
+2005); accord United States v. Zhen Zhou Wu, 2010 WL 276758, at *4 (D. Mass. Jan. 21, 2010)
+
+(“[I]f Wu’s border statement . . . is presumed to be inadmissible and is accordingly excised . . .
+
+the Court need only find that probable cause existed in the absence of the border statement in
+
+order to admit the search of the laptop.”).
+
+
+
+
+                                                 5
+        As discussed below, the warrant application supports probable cause, even without
+
+Asaro’s statements at the barracks to the effect that he was heading home at the time of the
+
+traffic stop.
+
+        C.      Search of Residence
+
+        Asaro argues that the fruits of the search of his residence in Malden must be suppressed
+
+because the warrant application did not support probable cause and contained deliberate factual
+
+misrepresentations.
+
+                i.    Probable Cause
+
+        A warrant application “must demonstrate probable cause to believe that a particular
+
+person has committed a crime—‘the commission element’—and that enumerated evidence
+
+relevant to the probable criminality likely is located at the place to be searched—‘the nexus’
+
+element.” United States v. Zayas-Diaz, 95 F.3d 105, 110-11 (1st Cir. 1996) (quoting United
+
+States v. Fuccillo, 808 F.2d 173, 175 (1st Cir. 1987)). The Court must give considerable
+
+deference to the magistrate judge’s determination of probable cause. Id. at 111 (citing United
+
+States v. Taylor, 985 F.2d 3, 5 (1st Cir. 1993) (“[T]he duty of the reviewing court is simply to
+
+ensure that the magistrate had a ‘substantial basis for . . . conclud[ing]’ that probable cause
+
+existed.”)).
+
+        The magistrate had a substantial basis for concluding that probable cause existed that
+
+Asaro had committed a drug offense and that relevant evidence would be found at his residence
+
+in Malden, without consideration of any of Asaro’s statements to police at the barracks. For
+
+example, the affidavit averred in paragraph 11 (edited to omit reference to the challenged
+
+statements):
+
+
+
+
+                                               6
+       During the course of my investigation of ASARO, I made many observations at
+       ASARO’S residence consistent with narcotics distribution. These observations
+       consisted of people arriving at the residence, parking to the side of the residence
+       and entering for brief periods of time before exiting. Many of these observations
+       consisted of people arriving empty handed and exiting the residence with a bag or
+       object. Based on my training and experience, as well as the training and
+       experience of other investigators with whom I have worked this investigation, I
+       believe these observations were consistent with narcotics transactions and that
+       evidence of this illicit business will be found at ASARO’s residence at 56 Hurd
+       Street. I further note that my observations of these activities involving suspected
+       narcotics distribution by ASARO [from] his residence have consistently occurred
+       over the past several months and within the past month. I believe that the ongoing
+       pattern to these observations is further evidence of an ongoing narcotics
+       distribution operation by ASARO from his residence . . . .
+
+(Tirella Aff. at 10 (Hrg. Ex. 3).) The affidavit also detailed a particular incident in which a co-
+
+defendant, Michael Napier, had been stopped after such a visit to Asaro’s residence. Agents had
+
+observed Napier to emerge from the Asaro home carrying a large plastic trash bag. When he was
+
+stopped by police the bag was found to contain six pounds of marijuana.
+
+               ii.    Factual Misrepresentations
+
+       Asaro also requests a hearing pursuant to Franks v. Delaware, 438 U.S. 154 (1978), to
+
+determine whether the warrant application deliberately omitted material factual information that
+
+would cast doubt on the existence of probable cause.
+
+       Asaro claims that Trooper Tirella intentionally misled the court by failing to disclose that
+
+the state criminal case against Napier arising from the seizure of the six pounds of marijuana had
+
+been dismissed on the district attorney’s filing of a notice of nolle prosequi. The claim rests on a
+
+non sequitur. The reason for the prosecutor’s nol pros is unknown, but its filing does not
+
+contradict the affidavit’s assertion that Napier had been observed coming out of Asaro’s house
+
+carrying a bag later found to contain a quantity of marijuana. The affidavit’s assertion was about
+
+the observations, not the criminal case. In any event, there is no indication that Tirella was
+
+involved in the Napier prosecution (the arrest was made by a Trooper Shea), and particularly no
+
+                                                 7
+basis for inferring that he knew of the nol pros at the time he submitted his affidavit in support of
+
+the warrant application.
+
+        Asaro is not entitled to a Franks hearing because he has failed to make a “substantial
+
+preliminary showing that a false statement knowingly and intentionally or with reckless
+
+disregard for the truth, was included by the affiant in the warrant affidavit” and that “the
+
+allegedly false statement is necessary to the finding of probable cause.” Franks, 438 U.S. at 156-
+
+57. The request for a Franks hearing is denied, and the evidence seized during the search of
+
+Asaro’s home will not be suppressed.
+
+III.   Conclusion
+
+       For the foregoing reasons, Asaro’s Motion (dkt. no. 145) to Suppress is DENIED.
+
+       It is SO ORDERED.
+
+
+                                                      /s/ George A. O’Toole, Jr.
+                                                      United States District Judge
+
+
+
+
+                                                 8
+

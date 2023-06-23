@@ -1,0 +1,668 @@
+       Case 1:13-cr-10064-NMG Document 61 Filed 11/13/13 Page 1 of 13
+
+
+
+                     United States District Court
+                       District of Massachusetts
+
+                                     )
+UNITED STATES OF AMERICA,            )
+                                     )
+            v.                       )
+                                     )     Criminal Action No.
+Daryle Smith,                        )     13-10064-NMG
+                                     )
+            Defendant.               )
+                                     )
+
+                           MEMORANDUM & ORDER
+
+GORTON, J.
+
+       This case arises out of a stop, search and seizure that
+
+took place in Watertown, Massachusetts in December, 2012.
+
+Defendant Daryle Smith (“Smith” or “defendant”) moves 1) to
+
+suppress the fruits of the search and seizure which he claims
+
+violated his constitutional rights under the Fourth Amendment,
+
+2) to suppress statements he claims were obtained in violation
+
+of his Fifth Amendment rights and 3) for an evidentiary hearing.
+
+In light of precedent contrary to Smith’s claims and for the
+
+reasons set forth below the Court will deny defendant’s motions
+
+to suppress and for an evidentiary hearing.         The government’s
+
+motion to strike the request for an evidentiary hearing will be
+
+denied as moot.
+
+  I.     Factual Background
+
+
+       At approximately 9:00 P.M. on December 16, 2012, Adam
+
+D’Agostino (D’Agostino) called 911, gave his name as Adam and
+
+                                    -1-
+     Case 1:13-cr-10064-NMG Document 61 Filed 11/13/13 Page 2 of 13
+
+
+
+said someone in a car had waved a gun outside of his home in
+
+Watertown.   D’Agostino described a black male passenger
+
+brandishing a gun and a white female driving the car.
+
+     A few minutes after the call, Watertown Police Officer
+
+Robert Kelly (“Officer Kelly”) arrived on the scene and spoke to
+
+residents of the house where the incident occurred: Kevin
+
+Szydloski, Denis Delorey and Adam D’Agostino who explained that
+
+the incident began with an altercation between Michael Morrisey,
+
+who lived at the same address, and his ex-girlfriend, Elizabeth
+
+Singleman.   All of these individuals will hereafter be referred
+
+to by their surnames.    Singleman was attempting to recover money
+
+from Morrissey but she was dissatisfied with the amount of money
+
+she received from him.    As Singleman drove away, her passenger
+
+allegedly waved a gun outside the passenger side window.
+
+D’Agostino believed the male passenger was a man known as
+
+“Clockmaster” who “ran” a housing project in Brighton.         Officer
+
+Kelly left the premises and called the Boston Police, from which
+
+he learned that “Clockmaster” was an alias for the defendant,
+
+Daryle Smith.   A database search revealed that Smith had a
+
+criminal record and was a felon.     Thus if the reports of Smith
+
+brandishing a gun were true, he would be in violation of 18
+
+U.S.C. § 922(g)(1), as a felon in possession of a firearm.
+
+     Morrissey called 911 at approximately 4:00 A.M. and stated
+
+that the man who had brandished the gun had returned.         The
+
+                                  -2-
+     Case 1:13-cr-10064-NMG Document 61 Filed 11/13/13 Page 3 of 13
+
+
+
+dispatcher told the responding officers to perform a felony stop
+
+which would allow them to take additional safety precautions,
+
+including turning on their cruisers’ flashing lights and
+
+remaining in the car while using the loud-speaker system to
+
+instruct suspects.
+
+     Officer Brandon O’Neill (“Officer O’Neill”) arrived at the
+
+scene in time to see a white woman and black man walking away
+
+from a gas station trash container next to the house where the
+
+first incident had occurred.     Officer O’Neill turned on his
+
+cruiser’s flashing lights as the couple entered their car.
+
+O’Neill used his loud-speaker system to instruct the couple to
+
+move to the outside rear of the car.      They complied and Officer
+
+O’Neill got out of his vehicle with his firearm drawn.         Sergeant
+
+John McLellan (“Sergeant McLellan”) and Officer Catherine Welch
+
+(“Officer Welch”) then arrived.
+
+     Sergeant McLellan frisked Smith, found a bag of bullets in
+
+his pants pocket and questioned him about the bullets, whether
+
+he had a gun and, if so, where it was located.        Smith became
+
+angry, loud and disruptive and began yelling about Morrissey’s
+
+mistreatment of Singleman.    He also began waving his arms
+
+despite having been instructed to keep them on the car.
+
+Sergeant McLellan responded by placing Smith in handcuffs.
+
+Officer Welch searched the car and the surrounding area and
+
+found a gun under a trash container.
+
+                                  -3-
+        Case 1:13-cr-10064-NMG Document 61 Filed 11/13/13 Page 4 of 13
+
+
+
+     Smith and Singleman were arrested for possessing a firearm
+
+without a permit.      Smith was read his Miranda rights but
+
+nevertheless made several statements, including that the bullets
+
+in his pocket were his, that he had a tattoo of the word
+
+“Clockmaster” but not that he had waved a gun.           Smith then
+
+refused to answer further questions about the gun.
+
+  II.    Analysis
+
+
+     Smith’s motion to suppress are premised on grounds that: 1)
+
+his Fourth Amendment rights were violated when he was stopped
+
+without probable cause and subjected to an unreasonable search
+
+and seizure and 2) statements he made during the stop were
+
+obtained in violation of his Fifth Amendment rights.            He has
+
+moved for an evidentiary hearing on his motion to suppress.
+
+            A. Legal Standard
+
+
+     Under the Fourth Amendment, individuals have the right to
+
+be free from unreasonable searches and seizures.           That right is,
+
+however, limited because law enforcement officers may approach
+
+individuals without probable cause and investigate what they
+
+perceive to be potential criminal activity. Terry v. Ohio, 392
+
+U.S. 1, 24 (1968).      An officer need not have probable cause but
+
+must have a “reasonable, articulable suspicion that criminal
+
+activity is afoot.” United States v. Romain, 393 F.3d 63, 71
+
+(1st Cir. 2004).      This suspicion must stem from specific facts
+
+
+                                     -4-
+     Case 1:13-cr-10064-NMG Document 61 Filed 11/13/13 Page 5 of 13
+
+
+
+and rational inferences. Terry, 392 U.S. at 21.        While
+
+conducting a Terry stop, an officer is allowed to search for
+
+weapons, ordinarily through a frisk. Id. at 24.
+
+     Reasonable suspicion for a Terry stop may be established
+
+through information supplied by informants that bears sufficient
+
+indicia of reliability. Alabama v. White, 496 U.S. 325, 329
+
+(1990).   Relevant indicia of reliable information include
+
+whether the informant has been identified or can be identified.
+
+Florida v. J.L., 529 U.S. 269 (2000).      Courts apply a two-prong
+
+test to determine whether a Terry stop was reasonable, first
+
+asking whether the initial stop was reasonable and then
+
+assessing whether the officers’ actions during the stop were
+
+reasonably related to the stop’s initial rationale.
+
+           B. Application
+
+                1. Fourth Amendment
+
+
+     Smith contends that his seizure was a de facto arrest and
+
+not a Terry stop. The government responds that the incident was
+
+a valid Terry stop and frisk which did not violate Smith’s
+
+Fourth Amendment rights.    The Court finds that the inception of
+
+the stop falls within Terry parameters because the police
+
+officers were operating under reasonable suspicion created by
+
+interactions with reasonably reliable witnesses and because the
+
+beginning of the stop was reasonably justified under the
+
+
+
+                                  -5-
+     Case 1:13-cr-10064-NMG Document 61 Filed 11/13/13 Page 6 of 13
+
+
+
+circumstances.   Although initially reasonable, however, the
+
+scope of the stop exceeded the Terry boundaries and ripened into
+
+a de facto arrest.
+
+                     i.    Reasonable Suspicion
+
+
+     The responding police officers claim they were operating
+
+under reasonable suspicion created by the two 911 calls and the
+
+officers’ encounter with D’Agostino, Delorey and Szydlowski.
+
+Such encounters with “informants” meet the reliability test
+
+under the J.L. decision.    In the initial 911 call, D’Agostino
+
+identified himself by his first name and his telephone number.
+
+See, United States v. Andrade, 551 F.3d 103 (1st Cir. 2008).
+
+Shortly thereafter, Officer Kelly went to D’Agostino’s residence
+
+and spoke to D’Agostino, Szydlowski and Delorey.        They relayed
+
+the same story D’Agostino told the 911 dispatcher about a fight
+
+between Singleman and Morrissey and Smith brandishing a gun as
+
+he and Singleman drove away.     Officer Kelly stated that he found
+
+their testimony credible because they appeared to be scared of
+
+Smith.   Based on those interactions and Officer Kelly’s own
+
+assessment of the witnesses, the Court finds the informants
+
+credible because they were willing to be identified and their
+
+descriptions of Smith and Singleman were later corroborated.
+
+
+
+
+                                  -6-
+       Case 1:13-cr-10064-NMG Document 61 Filed 11/13/13 Page 7 of 13
+
+
+
+                       ii.   Reasonable in its Inception
+
+
+       Specific facts and rational inferences need to show that
+
+the stop was justified at its inception. United States v.
+
+Maguire, 359 F.3d 71, 76 (1st Cir. 2004).         The officers did have
+
+specific facts at hand due to the credible tip and the
+
+circumstances surrounding the incident. See, White, 496 U.S. at
+
+329.    The tip revealed that the officers had reason to believe
+
+the suspect in question was a felon and therefore, was not
+
+permitted to carry the handgun he reportedly brandished.
+
+       The circumstances surrounding the incident also render the
+
+stop reasonable.     The time of night, location and the
+
+reappearance of a couple meeting the general description
+
+provided by D’Agostino, Szydlowski and Delorey and friends may
+
+have led the officers to have more reason for caution.           It was
+
+close to 4:00 A.M. at a location where someone had previously
+
+reported a white woman with a black man who was waving a gun.             A
+
+couple matching that description was then seen walking away from
+
+the parking lot adjacent to the house where the incident had
+
+occurred.    The presence of a couple suspected of having a gun
+
+and the lateness of the hour were reasonable factors in the
+
+officers’ decision to take extra precautions. See, United States
+
+v. Pontoo, 666 F.3d 20, 28 (1st Cir. 2011).         Courts may draw
+
+upon facts such as these and use them to assess the totality of
+
+
+
+                                    -7-
+     Case 1:13-cr-10064-NMG Document 61 Filed 11/13/13 Page 8 of 13
+
+
+
+the circumstances and justify a stop at its inception. United
+
+States v. Trullo, 809 F.2d 108, 111 (1st Cir. 1987).         Under the
+
+circumstances, the officers acted reasonably when they stopped
+
+Smith and Singleman.
+
+                       iii. Scope of the Stop
+
+
+     After determining that the stop was initially reasonable,
+
+the inquiry turns to whether the officers’ actions were
+
+reasonably related in scope to the justification for the stop.
+
+If the scope was unreasonable, a Terry stop ripens into a de
+
+facto arrest. Hayes v. Florida, 470 U.S. 811, 815 (1985).
+
+Whether that occurs depends on a number of factors but the
+
+degree of physical restraint placed upon the suspect is
+
+dispositive. United States v. Trueber, 238 F.3d 79, 93-94 (1st
+
+Cir. 2001).
+
+     The threshold question for when a suspect is considered to
+
+be under de facto arrest is whether a reasonable person in the
+
+suspect’s position would have thought he was under police
+
+custody in a position akin to a formal arrest and not simply
+
+being questioned by police. Trueber, 238 F.3d at 93.         The
+
+suspect must reasonably believe that he or she is not free to
+
+leave. United States v. Mittel-Carey, 493 F.3d 36, 40 (1st Cir.
+
+2007).   As a traditional element of an arrest, the use handcuffs
+
+has a significant bearing upon the analysis of whether a
+
+
+
+                                  -8-
+     Case 1:13-cr-10064-NMG Document 61 Filed 11/13/13 Page 9 of 13
+
+
+
+defendant reasonably feels free to leave.       United States v.
+
+Mendenhall, 446 U.S. 544, 554 (1980).      Terry stop boundaries
+
+were exceeded when Smith was placed in handcuffs because a
+
+reasonable person in his situation would not have felt free to
+
+leave.   This Court concludes that the use of handcuffs at that
+
+point exceeded the scope of a Terry stop and constituted a de
+
+facto arrest.
+
+                      iv.   Suppression
+
+
+     Smith argues that because he was effectively under arrest
+
+prior to being read his rights, all of the evidence obtained
+
+from that night should be suppressed.      The Court agrees that the
+
+stop was a de facto arrest but not that all of the evidence
+
+subsequently obtained must be suppressed. See United States v.
+
+Ryan, 729 F. Supp. 2d 479, 483 (D. Mass. 2010).        The bullets
+
+were retrieved while the stop was within the boundaries set by
+
+Terry before it ripened into an arrest. The bullets were
+
+lawfully taken from defendant’s possession and will not be
+
+suppressed as evidence. See, United States v. Am, 564 F.3d 25,
+
+33 (1st Cir. 2009).
+
+     Nor will the gun be suppressed because it is admissible
+
+under Miranda’s public safety exception.       Situations in which a
+
+suspect is in custody and a reported gun has not been found
+
+generally fall under this exception. New York v. Quarles, 467
+
+
+
+                                  -9-
+     Case 1:13-cr-10064-NMG Document 61 Filed 11/13/13 Page 10 of 13
+
+
+
+U.S. 649 (1984).    As in Quarles, the officers in the instant
+
+case were faced with a suspect in custody and a gun that was
+
+unaccounted for in a public space.        While it was unlikely that
+
+someone would find the gun at 4:00 A.M., the officers would have
+
+been derelict had they not searched for the gun after
+
+discovering the bullets on Smith’s person.        Defendant’s argument
+
+that the incident occurred too early in the morning to be a
+
+threat to public safety ignores the fact that the arrest took
+
+place in a public space where any number of people could have
+
+found the gun within a few hours.        Once a suspect has been
+
+validly stopped, frisked and found to possess ammunition, a
+
+competent police officer will properly attempt to secure any
+
+weapons in the area to avoid present and future harm. United
+
+States v. Chan, 901 F. Supp. 480, 485 (D. Mass. 1995).         Finding
+
+and securing the gun was a matter of public safety and will not
+
+be suppressed.
+
+                 2. Fifth Amendment
+
+
+     Smith also seeks to suppress his statements made to the
+
+police during the stop which he claims were obtained in
+
+violation of his Fifth Amendment rights under Miranda. See,
+
+United States v. Guerrier, 669 F.3d 1, 5 (1st Cir. 2011).          The
+
+public safety exception applies to all statements related to the
+
+gun and the bullets, including any answers provided in response
+
+
+
+                                  -10-
+     Case 1:13-cr-10064-NMG Document 61 Filed 11/13/13 Page 11 of 13
+
+
+
+to Officer McLellan’s questions on those matters.         United States
+
+v. Shea, 150 F.3d 44, 48 (1st Cir. 1998) (holding that the
+
+public safety exception applies to questions about weapons).
+
+The rationale applicable to the weapon itself applies with equal
+
+force to statements about the weapon.       See United States v.
+
+Sophoan Oung, 490 F. Supp. 2d 21, 33 (D. Mass. 2007).         The
+
+subject statements regarding the bullets and weapons were made
+
+in response to valid questions that sought to secure a gun that
+
+posed a potential threat to the public.
+
+     Because the public safety exception applies to any and all
+
+statements made with respect to the gun and ammunition, the
+
+motion to suppress those statements will be denied.         Any
+
+statement that Smith may have volunteered will not be suppressed
+
+because they are not barred by the Fifth Amendment. See,
+
+Miranda, 384 U.S. 436, 478 (1966). On the other hand, because
+
+Smith was under de facto arrest and statements not relating to
+
+the gun and ammunition do not fall within the public safety
+
+exception, statements made before he was given his Miranda
+
+warning will be suppressed. See, United States v. Arroyo, 2013
+
+U.S. Dist. LEXIS 133399 at *18-19(D. Mass. Sept. 17, 2013)
+
+                3. Evidentiary Hearing
+
+
+     Smith moved for an evidentiary hearing in a perfunctory
+
+fashion.   The decision to conduct an evidentiary hearing is
+
+
+
+                                  -11-
+     Case 1:13-cr-10064-NMG Document 61 Filed 11/13/13 Page 12 of 13
+
+
+
+solely within the Court’s discretion. United States v. Calderon,
+
+77 F.3d 6, 9 (1st Cir. 1996).     In order to obtain an evidentiary
+
+hearing, a defendant needs to make a sufficient showing that a
+
+warrantless search occurred by alleging specific and detailed
+
+facts to support such a claim. United States v. Brown, 621 F.3d
+
+48 (1st Cir. 2010) (internal citations omitted). A defendant’s
+
+affidavit is not sufficient to make such a showing if it
+
+contains only conclusory statements. United States v. Southard,
+
+700 F.2d 1, 10 (1st Cir. 1983).      Finally, a defendant needs to
+
+show that there are factual disputes that would entitle him to
+
+relief if they were resolved in his favor. Id.
+
+     Smith’s affidavit is entirely conclusory and simply states
+
+that he did not feel free to leave.      More importantly, he has
+
+not shown that there are any facts in dispute.        He relies on
+
+police reports and other government-produced materials for his
+
+submissions and motion.    While Smith claims those facts do not
+
+justify the seizure, he does not dispute the facts themselves.
+
+Accordingly, the motion for an evidentiary hearing will be
+
+denied and the government’s motion to strike the defendant’s
+
+request for an evidentiary hearing will be denied as moot.
+
+
+
+
+                                  -12-
+     Case 1:13-cr-10064-NMG Document 61 Filed 11/13/13 Page 13 of 13
+
+
+
+                                 ORDER
+
+     In accordance with the foregoing, defendant’s motion to
+
+suppress (Docket No. 31) is, with respect to matters unrelated
+
+to the handgun, bullets and statements concerning those objects,
+
+ALLOWED, but in all other respects, DENIED.        The government’s
+
+motion to strike defendant’s request for an evidentiary hearing
+
+(Docket No. 43) is DENIED as moot.
+
+
+
+So ordered.
+
+                                    /s/ Nathaniel M. Gorton_________
+                                    Nathaniel M. Gorton
+                                    United States District Judge
+Dated November 13, 2013
+
+
+
+
+                                  -13-
+

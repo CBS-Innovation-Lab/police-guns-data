@@ -1,0 +1,163 @@
+                             UNITED STATES DISTRICT COURT
+                              DISTRICT OF MASSACHUSETTS
+
+UNITED STATES OF AMERICA                      *
+                                              *
+       v.                                     *      Criminal Action No. 17-10024-IT
+                                              *
+GUSTAVO MOTO,                                 *
+                                              *
+               Defendant.                     *
+
+                                  MEMORANDUM & ORDER
+
+                                          May 23, 2017
+
+TALWANI, D.J.
+
+       The Presentence Investigation Report (“PSR”) prepared for Defendant Gustavo Moto’s
+
+sentencing did not categorize his prior conviction for Assault and Battery with a Dangerous
+
+Weapon, Mass. Gen. Laws ch. 265, § 15A(b), as a “felony conviction of . . . a crime of violence”
+
+under the United States Sentencing Guidelines (“USSG”) § 2K2.1(a)(4)(A). PSR ¶ 21, n.1. The
+
+government objected in its Sentencing Memorandum [#23] and at sentencing, arguing that
+
+Defendant’s prior conviction should be so categorized, thereby increasing his base offense level
+
+from 14 to 20, and nearly doubling his guideline advisory range. The objection is overruled.
+
+       A “crime of violence” under USSG § 2K2.1(a)(4)(A) has the meaning given that term in
+
+§ 4B1.2(a). Application Note 1 of Commentary to USSG § 2K2.1. Under USSG § 4B1.2(a), a
+
+crime of violence includes “[a]ny offense under federal or state law, punishable for a term
+
+exceeding one year, that— (1) has as an element the use, attempted use, or threatened use of
+
+physical force against the person of another.”
+
+       In United States v. Tavares, 843 F.3d 1, 18 (1st Cir. 2016), the First Circuit discussed
+
+whether Mass. Gen. Laws ch. 265, § 15A(b), is a “crime of violence” under USSG
+
+§ 4B1.2(a)(1). The court noted that the crime is divisible, with two differing mens rea: “(1) [t]he
+intentional and unjustified touching of another by use of dangerous weapon, or, (2) [t]he
+
+intentional commission of a wanton or reckless act [with a dangerous weapon] causing more than
+
+transient or trifling injury to another.” Tavares, 843 F.3d at 14.1 The court further stated—and
+
+the parties here agree—that but for the Supreme Court’s decision in Voisine v. United States,
+
+136 S.Ct. 2272 (2016), the “reckless” version is not a felony crime of violence. See Tavares, 843
+
+F.3d at 18 (“Thus, [United States v. Fish, 758 F.3d 1 (1st Cir. 2014)] would dictate that a
+
+conviction for the reckless version of ABDW is not a crime of violence under U.S.S.G.
+
+§ 4B1.2(a)(1).”).
+
+       Tavares declined to reach whether Voisine altered this circuit’s law in part to allow the
+
+issue to develop in the district courts. Here, where the government lacks Shephard documents to
+
+prove Defendant’s prior conviction was for the “intentional” version, the issue is squarely
+
+presented.
+
+       Voisine analyzed 18 U.S.C. § 922(g)(9), which prohibits firearm possession by those
+
+convicted of a “misdemeanor crime of violence.” That phrase is defined as misdemeanors that
+
+have “as an element, the use or attempted use of physical force, or the threatened use of a deadly
+
+weapon,” committed by a victim’s domestic relation. 18 U.S.C. § 921(a)(33)(A). Voisine found
+
+that a “misdemeanor crime of violence” contains no exclusion for convictions based on reckless
+
+behavior. 136 S.Ct. at 2280. But it did so in a context distinct from the context here. Specifically,
+
+
+
+1
+  Both theories require that the offense involve a dangerous weapon, which includes “both items
+that are dangerous ‘per se’ and otherwise innocuous items that, as used, are ‘capable of
+producing serious bodily harm.’” United States v. Fish, 758 F.3d 1, 9 n.3 (1st Cir. 2014) (quoting
+United States v. Hart, 674 F.3d 33, 42-43 (1st Cir. 2012)). If the act causes serious bodily injury,
+it is chargeable under Mass. Gen. Laws ch. 265, § 15A(c), and is subject to greater punishment.
+Defendant here pleaded guilty to § 15A(b), not § 15A(c).
+
+
+
+                                                  2
+noting Congressional intent to remedy the poisonous mixture of domestic violence and guns, the
+
+Voisine opinion explored the “relevant history” of § 921(a)(33)(A) and observed that Congress
+
+intended to take guns from the hands “garden-variety” misdemeanants in the domestic abuse
+
+context. 136 S.Ct. at 2280. In contrast to this public safety policy determination extending to
+
+misdemeanors, USSG § 2K2.1(4) operates to suggest augmented punishment of those previously
+
+convicted of violent felonies. Cf. Johnson v. United States, 559 U.S. 133, 141-43 (2010) (noting
+
+potential incongruity in importing into the felony context a jurisprudence formulated in the
+
+misdemeanor context). Indeed, the Voisine decision itself cautioned that these “differences in . . .
+
+contexts and purposes” might require divergent readings of similar language found in different
+
+statutes, 136 S.Ct. at 2280 n.4, and the court finds such caution prudent in this case. Congress’
+
+intent to divest categories of persons, including those convicted of certain misdemeanors, from
+
+gun ownership is of a different kind than the Sentencing Commission’s intent to secure proper
+
+and consistent punishment of individuals with prior convictions for violent felonies.
+
+       What is more, “Congress’ basic goal in passing the Sentencing Act was to move the
+
+sentencing system in the direction of increased uniformity.” See United States v. Booker, 543
+
+U.S. 220, 254 (2005). A “critically important” aspect of this desired uniformity is a tightened
+
+nexus between a defendant’s sentence and “real-conduct,” id. at 255, and this court must
+
+therefore contemplate this nexus in determining what “particular sentence” is “sufficient, but not
+
+greater than necessary,” to accomplish Congress’ stated goals of sentencing. 18 U.S.C. § 3553.
+
+The Guidelines are intended to assist the court in making such assessments. See Rita v. United
+
+States, 551 U.S. 338, 347-351 (2007). But expanding the breadth of felony “crimes of violence”
+
+to encompass convictions that may be based only on “reckless” conduct — and thereby
+
+
+
+
+                                                 3
+expanding the range of conduct susceptible to identical enhancement—would inevitably render
+
+the Guidelines less useful.
+
+       Accordingly, as will be set forth in the Judgment and Statement of Reasons, the court
+
+adopts the PSR in whole, overrules the government’s objection, and rejects the six-level
+
+enhancement to the guideline calculation sought by the government.
+
+       IT IS SO ORDERED.
+
+DATE: May 23, 2017                                         /s/ Indira Talwani
+                                                           United States District Judge
+
+
+
+
+                                                4
+

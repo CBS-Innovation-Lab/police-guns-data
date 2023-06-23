@@ -1,0 +1,705 @@
+                             UNITED STATES DISTRICT COURT
+                              DISTRICT OF MASSACHUSETTS
+
+
+UNITED STATES OF AMERICA                     *
+                                             *
+       v.                                    *              Criminal No. 15-cr-10389-IT-4
+                                             *
+EVAN LOPES,                                  *
+                                             *
+       Defendant.                            *
+
+                                  MEMORANDUM & ORDER
+
+                                           May 3, 2017
+
+TALWANI, D.J.
+
+I.     Introduction
+
+       A federal grand jury indicted Evan Lopes for possession of methylone with intent to
+
+distribute, in violation of 21 U.S.C. § 841(a)(1). Lopes seeks to suppress items seized during
+
+searches of his residence and his motor vehicle on January 15, 2015. For the reasons set forth
+
+below, Lopes’ Motion to Suppress [#71], Motion to Suppress Warrantless Search [#73], and
+
+Motion to Suppress [#75]1 are DENIED.
+
+II.    The Facts Set Forth in the Affidavit in Support of the Search Warrant
+
+       The following facts are derived from a January 14, 2015, affidavit submitted by Detective
+
+Lieutenant Sean E. Balcom (“Detective Lieutenant Balcom”) in support of the search warrant at
+
+issue in Lopes’ motions. See Gov’t Resp. Def.’s Mot. Suppress (“Gov’t Resp.”) Ex. A, Aff.
+
+Supp. Search Warrant 3-4 (“Balcom Aff.”) [#80-1].
+
+
+
+
+1
+  Motion to Suppress [#71] and Motion to Suppress [#75], and their accompanying memoranda
+of law in support, see Mem. Supp. Mot. Suppress [#72], Mem. Supp. Mot. Suppress [#76], are
+identical.
+              A. Investigation from December 2011 to September 2014
+
+        Beginning in approximately December 2011, the Barnstable Police Department
+
+undertook an investigation, along with the Bureau of Alcohol, Tobacco, Firearms and Explosives
+
+(“ATF”), the Massachusetts State Police Cape Cod Task Force, and other local law enforcement,
+
+into drug trafficking activities by David Landry and others.
+
+        On March 7, 2012, state and local law enforcement officers executed a search warrant at
+
+the home where Landry was residing at that time, discovering more than thirty-five pounds of
+
+marijuana, digital scales, and cash in the house and a vehicle parked at the house. Between April
+
+and November 2012, an undercover ATF agent conducted more than ten controlled purchases of
+
+marijuana, cocaine, and heroin from Landry’s associate Michael Fields. Following Fields’ arrest
+
+on federal drug charges approximately one year later, Fields spoke with ATF and local law
+
+enforcement on October 20, 2013, stating that Landry supplied the heroin and marijuana Fields
+
+sold.
+
+        After learning from a confidential informant in February 2014 that an individual named
+
+Mason Lavallee was distributing large quantities of heroin, local law enforcement organized a
+
+series of controlled heroin purchases from Lavallee. On April 24, 2014, local law enforcement
+
+arrested Lavallee, who began cooperating with the investigation. As part of that cooperation,
+
+Lavallee informed police that Landry supplied him with heroin, and identified Fields, Tiquwan
+
+Dickerson, Brian Costa, and William Branch as Landry’s co-conspirators. In July and August
+
+2014, Lavallee conducted several controlled purchases of heroin from Landry or Landry’s
+
+associates.
+
+        Several times during the summer of 2014, Lopes was observed meeting Landry at
+
+Landry’s residence, driving a vehicle with the license plate 211NV7. Additionally, on September
+
+
+
+
+                                                2
+4, 2014, Landry was observed travelling to an address adjacent to Lopes’ residence, 14 Point
+
+Pleasant Circle, East Wareham, Massachusetts (“14 Point Pleasant Circle”).
+
+       During the month of September 2014, law enforcement conducted intermittent
+
+surveillance of 304 Village Drive, Bourne, Massachusetts (“304 Village Drive”), where on
+
+August 29, 2014, local law enforcement observed Landry exiting the home and leaving the area
+
+in his rental vehicle that had been parked outside. They identified Derek Locurto as the resident
+
+of 304 Village Drive. Electronic surveillance also indicated that Landry’s rental vehicle was
+
+parked near 304 Village Drive on several occasions prior to September 12, 2014.
+
+       On September 12, 2014, Landry was arrested for trafficking heroin pursuant to the above
+
+investigation, and was placed in custody at the Barnstable prison.
+
+           B. Landry’s Letters from Barnstable Prison
+
+       Beginning on October 6, 2014, Barnstable Superior Court Grand Jury subpoenas were
+
+issued to obtain Landry’s jail calls and mail. Between October 2014 and January 2015, Landry
+
+carried on written correspondence with Diane Johnson, Justin Groom (aka “Bone” or “JBone”),
+
+Dickerson (aka “Raheem,” “Stacks,” or “Stacks Bundles”), Lopes (aka “E”), and Locurto (aka
+
+“Dimitri” or “Fatboy”) about his drug trafficking organization. Law enforcement inspected at
+
+least four letters addressed to or from Lopes between October 2014 and December 2014.
+
+       On October 14, 2014, law enforcement inspected an envelope addressed to Johnson,
+
+which contained a letter dated October 10, 2014 and addressed to Lopes using his nickname,
+
+“E.” Landry stated:
+
+       Any way give bone his letter N goby fatboys. He owe me 26 bucks I need 5 RIGHT
+       NOW . . . . Also them 2 things up street just get after leaves fall. Raheem will know
+       what to do w/ them don’t even worry bout it just grab N move closer to spot. Before
+       everything freeze. N he’ll be home in couple months. . . . Move those things to your
+       spot soon, where they was before til Rasheem out.
+
+
+
+
+                                                3
+        On November 15, 2014, law enforcement inspected an envelope addressed to Johnson,
+
+which contained a letter addressed to both Lopes and Locurto. In the portion of the letter
+
+addressed to “Derek,” Landry states “I know you wont have all right away but im pretty sure you
+
+said you’d have 5 Right before I got bagged. Were at 26 right now. if you give E 5 now we’ll be
+
+at 21.” Other evidence confirms that Lopes and Locurto were in communication at this time,
+
+including telephone records showing 51 contacts, between November 16, 2014 and December 8,
+
+2014, between Locurto and a number subscribed by Lopes’ girlfriend but used by Lopes.
+
+        On December 18, 2014, law enforcement inspected an incoming envelope from Lopes,
+
+bearing a return address of 14 Point Pleasant Circle. Lopes stated “I Know how much you done
+
+for me so anything I can do to help I will try n do . . . . I haven’t grabbed the new letter from ur
+
+moms yet but I just talked to you yesterday . . . .” And on December 20, 2014, law enforcement
+
+inspected an envelope addressed to Lopes (“E”) at 14 Point Pleasant Circle, containing a letter
+
+dated December 19, 2014. Landry stated “Damn I been callin you for weeks . . . soo whats up?
+
+You change your # or something, fatboy only gave you 2500 so far? Did you grab that from up
+
+the Street? . . . Gotta know wassup w/ down the street, fatboy, and JBONE if they growin or
+
+not.”
+
+        Additionally, on December 30, 2014, law enforcement inspected a letter from Landry
+
+addressed to Johnson, containing a letter to Dickerson that referenced Lopes. Landry stated in
+
+part:
+
+        “I got 2 whole ones of Miley cyrus over E’s, I don’t even want you movin w/ them
+        but just make sure they safe I only want 20 each so 40 for both plus you can throw
+        like 4-5 on each of vit c . . . plus E owe me at least 20-25 from all moll he lost plus
+        coming short. . . . fatboy owe me $22,500 get his # from bone or E..he live at same
+        spot in them Apts . . . .”
+
+
+
+
+                                                  4
+           C. January 2015 Investigation
+
+       On January 2, 2015, Lopes was observed walking up to and entering 304 Village Drive
+
+while his girlfriend waited outside in her car. Lopes later exited 304 Village Drive, got into his
+
+girlfriend’s vehicle, and drove with her to a Tedeschi Food Shop. Lopes was stopped by local
+
+law enforcement at the Tedeschi Food Shop, and spoke with detectives about his activities that
+
+day. During the course of the conversation, Lopes’ girlfriend identified their residence as 14
+
+Point Pleasant Circle. Additionally, it was determined that Lopes possessed a small quantity of
+
+marijuana and approximately $600.00. Lopes admitted that he purchased the marijuana from a
+
+friend, but would not identify that person. Law enforcement took custody of the marijuana and
+
+Lopes and his girlfriend were allowed to leave.
+
+       Several days later, on January 6, 2015, the Barnstable Police Department executed a
+
+search warrant at the residence of Groom, one of Landry’s associates. The search warrant
+
+revealed a marijuana growing operation, including dozens of marijuana plants, packaging
+
+materials, related paperwork and contraband, and cash. The paperwork revealed that Locurto was
+
+a drug customer of Groom and Landry. Groom was arrested based upon the evidence recovered.
+
+III.   The Search Warrant for Evan Lopes and 14 Point Pleasant Circle
+
+       The Barnstable Police Department obtained a search warrant on January 14, 2015, for 14
+
+Point Pleasant Circle and for Evan Lopes. Gov’t Resp. Ex. A, Search Warrant 2 [#80-1]. The
+
+search warrant authorized a search for (1) “Molly/MDMA,” (2) “all materials, products and
+
+equipment of any kind used or intended for use in the manufacturing, processing and distributing
+
+of Molly/MDMA,” (3) articles of personal property related to that operation, (4) financial
+
+proceeds and articles of personal property derived from that operation, (5) equipment used to
+
+detect police activities, (6) weapons, firearms, or ammunition, (7) documents and articles of
+
+
+
+
+                                                  5
+personal property relating to the residents of 14 Point Pleasant Circle, (8) other records of
+
+income or expenditures related to that operation, and (9) photographs of individuals making,
+
+possession, or distributing controlled substances. Id. at 3.
+
+IV.    Execution of the Search Warrant
+
+       The search warrant was executed on January 15, 2015. Gov’t Resp. Ex. B, Incident
+
+Report (“Incident Rept.”) 5 [#80-2]. Barnstable Police Department Detectives Ginnetty and
+
+Butler established surveillance at 14 Point Pleasant Circle to determine whether Lopes was at
+
+home. Id. Lopes was observed exiting the house and driving away in an unregistered vehicle
+
+bearing license plate 211NV7. Id. Shortly thereafter, at Detective Ginnetty’s request, Wareham
+
+Police Department Officer Lally stopped Lopes. Id. When Detective Ginnetty arrived, Officer
+
+Lally instructed Lopes to exit the vehicle, arrested and handcuffed him, and walked him back to
+
+Detective Ginnetty. Id. at 7.
+
+       Detective Ginnetty explained and presented to Lopes the search warrant for Lopes and
+
+his residence, and advised Lopes of his Miranda rights, which Lopes indicated he understood. Id.
+
+The search of Lopes returned negative results. Id. A search of Lopes’ vehicle resulted in the
+
+seizure of a handwritten letter from Landry to Lopes, dated October 10, 2014. Id. at 5, 7.
+
+Detective Ginnetty and Lopes spoke briefly about the letter and Lopes’ activity, and Lopes
+
+denied having any drugs at his home. Id. at 7. Lopes stated “you guys think I’m a bad guy
+
+because of who my friends are. Just cuz my friends do what they do, doesn’t mean that I do.” Id.
+
+When Detective Ginnetty asked about the letter, Lopes stated “Man, that’s my friend that wrote
+
+to me. You guys aren’t gonna find shit.” Id. Lopes was then placed in Officer Lally’s cruiser and
+
+transported back to his residence. Id.
+
+
+
+
+                                                  6
+        When Lopes was returned to his residence, Detective Lieutenant Balcom and Detective
+
+DeSilva presented Lopes with the search warrant. Id. at 5. Lopes accompanied police into his
+
+home to secure his dog, and then sat on his couch reading the search warrant while police
+
+conducted the search. Id. Evidence seized included 2 kilograms of suspected narcotics, located in
+
+a woodpile in front of the residence. Id. at 6. As a result of the search, Lopes was placed under
+
+arrest. Id.
+
+V.      Analysis
+
+              A. Motion to Suppress [#71, #75]
+
+        Lopes seeks, in his first and third motions, to suppress the evidence seized during a
+
+search of his residence, 14 Point Pleasant Circle, on the grounds that the affidavit submitted in
+
+support did not establish probable cause. To properly support the issuance of a search warrant,
+
+“[a] warrant application must demonstrate probable cause to believe that (1) a crime has been
+
+committed—the ‘commission’ element, and (2) enumerated evidence of the offense will be
+
+found at the place to be searched—the so-called ‘nexus’ element.” United States v. Feliz, 182
+
+F.3d 82, 86 (1st Cir. 1999). To determine whether a nexus exists, the court must “make a
+
+practical, common-sense decision whether, given all the circumstances set forth in the affidavit
+
+before him . . . there is a fair probability that contraband or evidence of a crime will be found in a
+
+particular place.’” Id. (quoting Illinois v. Gates, 462 U.S. 213, 238 (1983)). “The nexus between
+
+the objects to be seized and the premises searched need not, and often will not, rest on direct
+
+observation . . . .” Id. at 88. Rather, in certain circumstances, the nexus between the objects to be
+
+seized and the location to be searched “can be inferred from the type of crime, the nature of the
+
+items sought, the extent of an opportunity for concealment and normal inferences as to where a
+
+
+
+
+                                                  7
+criminal would hide [evidence of a crime] . . . .” Id. (quoting United States v. Charest, 602 F.2d
+
+1015, 1017 (1st Cir. 1979)).
+
+       To establish probable cause, “the facts presented to the magistrate need only ‘warrant a
+
+man of reasonable caution’ to believe that evidence of a crime will be found.” Id. at 86 (quoting
+
+Texas v. Brown, 460 U.S. 730, 742 (1983)). “[P]robable cause does not demand certainty, or
+
+proof beyond a reasonable doubt, or even proof by a preponderance of the evidence—it demands
+
+only ‘a fair probability that contraband or evidence of a crime will be found in a particular
+
+place.’” United States v. Rivera, 825 F.3d 59, 63 (1st Cir. 2016) (quoting Gates, 462 U.S. at
+
+238). “[P]robable cause to suspect that someone has committed a crime does not automatically
+
+give rise to probable cause to search that person’s home.” United States v. Thompson, 630 F.
+
+Supp. 2d 138, 143 (D. Mass. 2009) (citing Feliz, 182 F.3d at 88). Courts considering whether
+
+probable cause exists “look to the totality of the circumstances—a phrase that means that all
+
+material circumstances should be considered.” Rivera, 825 F.3d at 63-64 (quotations and internal
+
+quotation marks omitted).
+
+       The search warrant application provided multiple touchpoints connecting 14 Point
+
+Pleasant Circle to Landry’s drug trafficking organization. First, the affidavit established that
+
+Lopes lived at 14 Point Pleasant Circle. Lopes received or sent multiple letters at or from 14
+
+Point Pleasant Circle, Balcom Aff. 14-15 [#80-1], and Lopes’ girlfriend identified 14 Point
+
+Pleasant Circle as their home, id. at 16. Second, it detailed Landry’s drug trafficking activities,
+
+and placed Lopes with or near Landry, on at least several occasions. Id. at 10-11. Third, it
+
+described Landry’s communications with and about Lopes, while directing his drug trafficking
+
+organization from the Barnstable Prison. Id. at 14-16, 18. For example, in a letter dated October
+
+10, 2014, Landry instructed Lopes to give another letter to Groom, visit Locurto regarding a
+
+
+
+
+                                                  8
+$26,000 drug debt, and to retrieve “2 things”2 to move them closer to Lopes’ residence. Id. at 14.
+
+On November 15, 2014, Landry told Locurto to give $5,000 to Lopes. Id. at 15. On December
+
+18, 2014, Lopes told Landry that “I know how much you done for me so anything I can do to
+
+help I will try n do . . . .” Id. And in a letter dated December 19, 2014, Landry told Lopes “fatboy
+
+only gave you 2500 so far? Did you grab that from up the Street? . . . Gotta know wassup
+
+w/down the street, fatboy, and JBONE if they growin or not.” Id. Additionally, on December 30,
+
+2014, Landry told another associate, Dickerson:
+
+       “I got 2 whole ones of Miley cyrus over E’s, I don’t even want you movin w/ them
+       but just make sure they safe I only want 20 each so 40 for both plus you can throw
+       like 4-5 on each of vit c . . . plus E owe me at least 20-25 from all moll he lost plus
+       coming short. . . . fatboy owe me $22,500 get his # from bone or E..he live at same
+       spot in them Apts . . . .”
+
+Id. at 18-19. Finally, the search warrant application explained that Lopes was in contact with,
+
+and likely purchased marijuana from, Locurto, one of Landry’s known associates. Id. at 16-17.
+
+Telephone records show 51 contacts, between November 16, 2014 and December 8, 2014,
+
+between Locurto and a number subscribed to Lopes’ girlfriend but used by Lopes. Id. at 16.
+
+Taking a common sense view of these facts, as well as the other facts in the affidavit describing
+
+Landry’s and his associates’ other drug trafficking activities, the court was provided with a
+
+“substantial basis” upon which to conclude that there was a “fair probability” that 14 Point
+
+Pleasant Circle housed the items sought in the search warrant application.
+
+       Moreover, the search warrant application was supported by timely information. See
+
+United States v. Schaefer, 87 F.3d 562, 568 (1st Cir. 1996) (“[A]n affidavit supporting a search
+
+warrant must contain timely information or else it will fail . . . .”) (internal quotation marks
+
+
+
+2
+  Detective Lieutenant Balcom stated that, based on his training and experience, and when read
+in context with the other letters sent by Landry from the Barnstable prison, the “2 things”
+referred to “2 kilograms of the drug ‘Molly’ (MDMA/Ecstasy).” Balcom Aff. 14 [#80-1].
+
+
+                                                  9
+omitted). The application was submitted within two weeks of law enforcement’s observation of
+
+the interaction between Lopes and one of Landry’s associates (January 2, 2015), Balcom Aff. 16-
+
+17 [#80-1], and ten days after police searched the residence of Groom, another Landry associate
+
+(January 6, 2015), which indicated that Landry’s drug trafficking organization was ongoing, id.
+
+at 17. Moreover, on December 30, 2014, Landry’s associate Dickerson was instructed not to
+
+move the “2 things” Lopes was alleged to have at 14 Point Pleasant Circle. Id. at 18. These facts
+
+suggest that the items sought in the search warrant application were likely still at 14 Point
+
+Pleasant Circle. See United States v. Morales-Aldahondo, 524 F.3d 115, 119 (1st Cir. 2008) (to
+
+assess timeliness of information, courts look to “the nature of the information, the nature and
+
+characteristics of the suspected criminal activity, and the likely endurance of the information”);
+
+Schaefer, 87 F.3d at 568 (“[I]t is common ground that drug conspiracies tend to be ongoing
+
+operations, rendering timely information that might, in other contexts, be regarded as stale.”).
+
+Because the search warrant application provided ample, timely facts suggesting a “fair
+
+probability” that 14 Point Pleasant Circle housed the items sought, the search warrant was
+
+supported by probable cause. Accordingly, Lopes’ Motion to Suppress [#71] and Motion to
+
+Suppress [#75] are DENIED.
+
+           B. Motion to Suppress Warrantless Search [#73]
+
+       In his second motion, Lopes seeks to suppress the October 10, 2014, letter recovered
+
+from the center console of his vehicle during a search following his arrest on January 15, 2015.
+
+Lopes asserts that the search, because it was warrantless, was presumptively unreasonable, that
+
+no exigent circumstances justified the search, that officers otherwise had no other probable cause
+
+to search the vehicle, and the item seized was not in plain view. He also argues that the “search
+
+
+
+
+                                                 10
+incident to arrest” exception does not apply, because the underlying rationales for that exception
+
+were not present at the time of his arrest.
+
+                      1. Exigent Circumstances
+
+       Lopes contends that the exigent circumstances exception does not apply. The “exigent
+
+circumstances” doctrine encompasses several scenarios: (1) risk of public or officer safety; (2)
+
+risk of evidence destruction; (3) risk of escape . . . (4) “hot pursuit” of a fleeing felon,” United
+
+States v. Tibolt, 72 F.3d 965, 969 (1st Cir. 1995), and (5) emergency aid, United States v.
+
+Infante, 701 F.3d 386, 392 (1st Cir. 2012). “The ‘exigent circumstances’ inquiry is limited to the
+
+objective facts reasonably known to, or discoverable by, the officers at the time of the search.”
+
+Tibolt, 72 F.3d at 969 (citing Illinois v. Rodriguez, 497 U.S. 177, 186 (1990)).
+
+       Officers had no reason to suspect that Lopes posed a threat or to fear for their safety.
+
+They had no prior evidence that Lopes was dangerous, they did not find any weapons or
+
+ammunition on his person, and he was compliant with all officer directions. Moreover, Lopes
+
+was handcuffed and led away from the vehicle, so there was little risk of evidence destruction or
+
+escape, nor were the officers in “hot pursuit.” Finally, no facts indicate any medical emergency.
+
+Accordingly, no exigent circumstances justified the warrantless search of Lopes’ motor vehicle.
+
+                     2. Plain View
+
+       Next, Lopes argues that the letter, located within the motor vehicle’s center console, was
+
+impossible to observe in plain view. Under the “plain view” exception to the warrant
+
+requirement, a “seizure is lawful if (1) the seizing officer has a prior justification for being in a
+
+position to see the item in plain view and (2) the evidentiary value of the item is immediately
+
+apparent.” United States v. Owens, 167 F.3d 739, 746 (1st Cir. 1999) (citing Horton v.
+
+California, 496 U.S. 128, 136 (1990)). There is no evidence that Officer Lally saw the letter,
+
+
+
+
+                                                  11
+tucked away in the center console, when he asked Lopes to exit the vehicle. Therefore, the plain
+
+view exception does not excuse the warrantless search of Lopes’ motor vehicle.
+
+                     3. Search Incident to Arrest
+
+       Lopes also argues that the search-incident-to-arrest exception does not apply. Warrantless
+
+searches “are per se unreasonable under the Fourth Amendment—subject only to a few
+
+specifically established and well-delineated exceptions.” Arizona v. Gant, 556 U.S. 332, 338
+
+(2009) (quoting Katz v. United States, 389 U.S. 347, 357 (1967)). One such exception is a search
+
+incident to a lawful arrest. Id. Driving this exception are two underlying purposes: “officer safety
+
+and evidence preservation,” two concerns “typically implicated in arrest situations.” Id. Thus, the
+
+scope of the search must be cabined to (1) “the arrestee’s person,” and (2) “the area within [the
+
+arrestee’s] immediate control”—meaning, “the area from within which he might gain possession
+
+of a weapon or destructible evidence.” Id. at 339 (quoting Chimel v. California, 395 U.S. 752,
+
+763 (1969)). “[A]n automobile search may fall within the search-incident-to-arrest doctrine only
+
+in two very specific situations: when the arrestee is unsecured and within reaching distance of
+
+the passenger compartment at the time of the search . . . or when it is reasonable to believe
+
+evidence relevant to the crime of arrest might be found in the vehicle.” United States v. Polanco,
+
+634 F.3d 39, 42 (1st Cir. 2011) (quoting Gant, 556 U.S. at 343 (holding that the officers’ search
+
+of the passenger compartment of defendant’s car was not a valid search incident to arrest where
+
+the suspects were already handcuffed and in separate patrol cars before the officers searched the
+
+car)) (internal quotation marks omitted).
+
+       The search of Lopes’ vehicle does not fit into either situation. First, because Lopes was
+
+immediately handcuffed and led away from his car, he was neither “unsecured” nor “within
+
+reaching distance of the passenger compartment at the time of the search,” and thus there were
+
+
+
+
+                                                12
+no evidence preservation concerns. See Polanco, 634 F.3d at 42. No weapons were found on
+
+Lopes’ person when he was searched and he complied with all police commands, giving no other
+
+suggestion that officers had reason to believe he was dangerous or had reason to fear for their
+
+safety. See id. at 42. Second, it is difficult to conceive of evidence relevant to the arrest for
+
+driving an unregistered vehicle that an officer could have had a reasonable basis to believe would
+
+be found in Lopes’ vehicle.3 Therefore, the search incident to arrest exception cannot justify the
+
+search of Lopes’ vehicle.
+
+                      4. Probable Cause & the Automobile Exception
+
+        Finally, Lopes argues that law enforcement had no probable cause to search his vehicle,
+
+and thus that the automobile exception does not apply. Under the automobile exception, when a
+
+vehicle is on a public road, “police officers may seize and search an automobile prior to
+
+obtaining a warrant where they have probable cause to believe that the automobile contains
+
+contraband.” United States v. Silva, 742 F.3d 1, 7 (1st Cir. 2014); see also Florida v. White, 526
+
+U.S. 559, 563-64 (1999) (“[W]hen federal officers have probable cause to believe that an
+
+automobile contains contraband, the Fourth Amendment does not require them to obtain a
+
+warrant prior to searching the car for and seizing the contraband.”). As stated above, to establish
+
+probable cause, “the facts presented to the magistrate need only ‘warrant a man of reasonable
+
+caution’ to believe that evidence of a crime will be found.” Feliz, 182 F.3d at 86 (quoting Brown,
+
+
+
+3
+  In its response, the government states that Lopes could have been arrested either for driving an
+unregistered motor vehicle or for possession of an illegal drug. See Gov’t Resp. 17 [#80].
+Although the incident report does not specifically state the reason Lopes was initially taken into
+custody when removed from his vehicle, it does specify that Lopes was arrested for drug
+trafficking after the search of his residence. Incident Report 6 [#80-2]. Moreover, the search of
+Lopes’ person did not independently give law enforcement probable cause to arrest him for
+possession, because no illegal substances were found on his person. Id. at 7. Thus, at the time
+Lopes was taken into custody upon removal from his vehicle, the only crime for which Officer
+Lally could have arrested Lopes was driving an unregistered motor vehicle.
+
+
+                                                  13
+460 U.S. at 742). An officer may stop a vehicle if he or she observes a traffic violation, even if
+
+that stop is a pretext for investigating another crime. Whren v. United States, 517 U.S. 806, 810,
+
+812-13 (1996). After completing a lawful stop, officers may search “any area of the vehicle in
+
+which the evidence [might] be found.” Polanco, 634 F.3d at 42 (quoting Gant, 556 U.S. at 347).
+
+       As detailed above, the officers who stopped Lopes knew about the facts supporting the
+
+search warrant that implicated Lopes in drug trafficking activities. In addition to details
+
+regarding Lopes’ ties to Landry’s organization, as well as letters suggesting that Lopes possessed
+
+2 kilograms of drugs at his residence, the affidavit supporting the search warrant stated that the
+
+very vehicle Lopes was driving had been observed at Landry’s residence on several occasions.
+
+When viewed in context, the officers who stopped Lopes knew that (1) the vehicle they stopped
+
+had recently left a house where there was probable cause to believe drugs or contraband from
+
+drug trafficking was located, and (2) the vehicle was driven by an individual who they had
+
+probable cause to believe possessed drugs or contraband from drug trafficking. This knowledge
+
+would “warrant a man of reasonable caution in the belief” that the vehicle itself also contained
+
+such items. Therefore, even though Lopes was stopped for driving an unregistered motor vehicle,
+
+that does not “undermine the basic finding that, at the time that these events transpired, officers
+
+had adequate probable cause to stop” Lopes’ vehicle “and to search it for evidence of drug
+
+dealing activity.” United States v. White, 804 F.3d 132, 138 (1st Cir. 2015) (finding that even a
+
+“pretextual traffic stop” did not undermine probable cause, and stating “[u]nder these
+
+circumstances, the automobile exception and the Fourth Amendment require nothing more”).
+
+Accordingly, the search was justified and the Motion to Suppress Warrantless Search [#73] is
+
+DENIED.
+
+
+
+
+                                                 14
+VI.   Conclusion
+
+      For the foregoing reasons, Lopes’ Motion to Suppress [#71], Motion to Suppress
+
+Warrantless Search [#73], and Motion to Suppress [#75] are DENIED.
+
+      IT IS SO ORDERED.
+
+Date: May 3, 2017                                /s/ Indira Talwani
+                                                 United States District Judge
+
+
+
+
+                                            15
+

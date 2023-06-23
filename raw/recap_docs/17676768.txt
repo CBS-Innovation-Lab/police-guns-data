@@ -1,0 +1,748 @@
+Case 1:10-cr-00167-JAW Document 113 Filed 05/04/12 Page 1 of 15        PageID #: 611
+
+
+
+                      UNITED STATES DISTRICT COURT
+                           DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA              )
+                                      )
+      v.                              )      1:10-cr-00167-JAW-02
+                                      )
+MICHAEL STONE                         )
+
+
+                 ORDER DENYING DEFENDANT’S MOTION
+                     FOR BAIL PENDING APPEAL
+
+      In this marijuana manufacturing case, the Defendant moves for bail pending
+
+appeal based on the contention that the Court erred when it calculated the number
+
+of marijuana plants for which he should be held legally responsible under the
+
+United States Sentencing Guidelines. After getting back into the weeds, the Court
+
+has determined that it correctly calculated the number of marijuana plants for
+
+which the Defendant is responsible and denies the motion.
+
+I.    STATEMENT OF FACTS
+
+      A.    General Background
+
+      On April 29, 2011, Michael Stone pleaded guilty to manufacturing marijuana,
+
+a violation of 21 U.S.C. § 841(a)(1), Minute Entry (Docket # 60); on August 3, 2011,
+
+his co-defendant, neighbor, and brother Bradley Stone followed suit and pleaded
+
+guilty to the same crime, Minute Entry (Docket # 72). At his guilty plea, Michael
+
+Stone admitted the contents of a Prosecution Version of the Offense that read:
+
+      On September 21, 2010, DEA and MDEA agents executed two federal
+      search warrants at the homes of Michael Stone and his brother,
+      Bradley, located at 1557 Lyford Road, Orn[e]ville, Maine. At Michael
+      Stone’s residence, agents recovered evidence of his involvement in the
+Case 1:10-cr-00167-JAW Document 113 Filed 05/04/12 Page 2 of 15        PageID #: 612
+
+
+
+      manufacture of marijuana. In the basement of the residence, agents
+      located three fully grown marijuana plants drying on a tarp that had
+      been laid on the floor. In the kitchen, agents recovered a GPS device
+      and a digital scale.
+
+      Agents met with Michael Stone and advised him of his Miranda rights.
+      Stone agreed to speak with them and admitted that he grew marijuana
+      and that he had just harvested three plants from “across the street”
+      but would not elaborate on the precise location. He told the agents
+      that he used marijuana on a daily basis. He told the agents that the
+      firearms found in the home belonged to him.
+
+      A certified forensic chemist with the U.S. Drug Enforcement
+      Administration would testify that a random sample of the suspected
+      marijuana seized from the residence was tested and was, in fact,
+      marijuana.
+
+Am. Prosecution Version of the Offense at 1-2 (Docket # 59). Similarly, at his guilty
+
+plea, Bradley Stone admitted the contents of a Prosecution Version of the Offense
+
+that read:
+
+      On September 21, 2010, in the District of Maine, the defendant
+      knowingly and intentionally manufactured marijuana plants, a
+      Schedule I controlled substance, and did aid and abet that conduct. He
+      grew marijuana plants on property behind his home in Orneville,
+      Maine.
+
+      The marijuana was seized on September 21, 2010, when law
+      enforcement agents executed two federal search warrants at the homes
+      of Bradley Stone and his brother, Michael, located at 1557 Lyford
+      Road, Orneville, Maine. The agents also searched a wooded area
+      behind the two homes, where in excess of thirty marijuana plants were
+      growing. The agents also found a large pile of potting soil not far from
+      the defendant’s home. In the defendant’s home, various items of
+      evidentiary value were found by the agents, including processed
+      marijuana, pruning shears, camouflaged clothing, a rucksack
+      containing a budded marijuana stem, scales, and other evidence.
+
+      The marijuana plants and the processed marijuana were submitted for
+      laboratory testing. A certified chemist concluded that the substances
+      were, in fact, marijuana.
+
+
+
+                                         2
+Case 1:10-cr-00167-JAW Document 113 Filed 05/04/12 Page 3 of 15          PageID #: 613
+
+
+
+      Had this case proceeded to trial, the evidence would have included
+      testimony of Special Agents and Officers from the U.S. Drug
+      Enforcement Administration (“DEA”) and the Maine Drug
+      Enforcement Agency (“MDEA”), evidence seized from the defendant,
+      and a certified laboratory chemist.
+
+Prosecution Version of the Offense at 1-2 (Docket # 71) (emphasis omitted).
+
+      Although the brothers Stone admitted they manufactured marijuana and
+
+pleaded guilty to these crimes, they left open the question of drug quantitymore
+
+precisely, the number of marijuana plants for which they should be held responsible
+
+under the United States Sentencing Guidelines.        The Court scheduled the two
+
+brothers for joint sentencing on December 29, 2011 and at the hearing, after
+
+determining the quantity of marijuana attributable to each defendant, sentenced
+
+Bradley Stone to twenty-three months incarceration, three years of supervised
+
+release, and a $100 special assessment, J. (Docket # 100), and Michael Stone to
+
+twelve months and one day incarceration, three years of supervised release, a fine of
+
+$1,000, and a $100 special assessment, J. (Docket # 101).            Each Defendant
+
+appealed. Notice of Appeal (Docket # 98); Notice of Appeal (Docket # 99).
+
+      Contending that he should have been held responsible for only three
+
+marijuana plants, not thirty-one, on April 19, 2012, Michael Stone moved for bail
+
+pending appeal. Mot. for Bail Pending Appeal (Docket # 111) (Def.’s Mot.). On April
+
+25, 2012, the Government responded, opposing release pending appeal. Gov’t’s Obj.
+
+to Def.’s Mot. for Bail Pending Appeal (Docket # 112) (Gov’t’s Opp’n).
+
+
+
+
+                                          3
+Case 1:10-cr-00167-JAW Document 113 Filed 05/04/12 Page 4 of 15                 PageID #: 614
+
+
+
+       B.     The Probation Office’s Calculations
+
+       In its Presentence Report (PSR), the Probation Office attributed thirteen
+
+plants to Michael Stone: six marijuana plants directly behind his house, four plants
+
+in an abandoned Ford Explorer, and three plants in his basement. The Probation
+
+Office held Mr. Stone accountable for 1.4 kilograms of marijuana, recommended a
+
+base offense level of 10 pursuant to United States Sentencing Guideline (U.S.S.G.) §
+
+2D1.1(15), a two-level firearms enhancement under U.S.S.G. § 2D1.1(b)(1), and a
+
+two-level decrease for acceptance under U.S.S.G. § 3E1.1 for an adjusted offense
+
+level of 10.1 This resulted in a recommended Guideline sentence range of 6 to 12
+
+months, a fine of $2,000 to $20,000, a period of supervised release of 2 to 3 years,
+
+and a special assessment of $100.
+
+       C.     The Court’s Calculations
+
+       The Court found Michael Stone was responsible for 28 plants in addition to
+
+the 3 in his basement, a total of 31 plants.           Based on this finding, the Court
+
+calculated Michael Stone’s base offense level at 12 pursuant to U.S.S.G. §
+
+2D1.1(c)(14), imposed a two-level firearms enhancement under U.S.S.G. §
+
+2D1.1(b)(1) for a total of 14, reduced his offense level by two for acceptance of
+
+responsibility under U.S.S.G. § 3E1.1, and arrived at an adjusted offense level of 12.
+
+Sentencing Tr. 125:21-25 (Tr.). With a Criminal History Category I and a total
+
+offense level of 12, Michael Stone was subject to a Guideline sentence of 10 to 16
+
+months, a fine of $3,000 to $30,000, a period of supervised release of at least two
+
+
+1Under the United States Sentencing Guidelines, each marijuana plant is considered to weigh 100
+grams or the actual weight of the plant, whichever is greater. U.S.S.G. § 2D1.1(c)(E).
+
+                                              4
+Case 1:10-cr-00167-JAW Document 113 Filed 05/04/12 Page 5 of 15        PageID #: 615
+
+
+
+and not more than five years, and a special assessment of $100. Id. 126:1-20. The
+
+Court’s sentence of twelve months and one day was within the newly-calculated
+
+advisory Guideline sentence range.
+
+II.   THE PARTIES’ POSITIONS
+
+      A.     Michael Stone’s Motion
+
+      Mr. Stone concedes that in sentencing him to twelve months and one day, the
+
+Court imposed a within-Guideline sentence; however, Mr. Stone contends that the
+
+Court’s calculation of the Guideline sentence range was erroneous because he says
+
+he should not have been held responsible for twenty-eight marijuana plants in
+
+addition to the three he admitted he possessed. Def.’s Mot. at 2-3, 7. Mr. Stone
+
+acknowledges only his responsibility for the three marijuana plants in his
+
+basement, and maintains that the evidence does not allow the finding that he knew
+
+and participated in the cultivation of the additional twenty-eight plants on his
+
+property and the adjoining property of his brother. Id. Mr. Stone says that his
+
+“applicable Guideline Range could be as low as a level 6,” which “would result in a
+
+sentencing range of 0-6 months.”       Def.’s Mot. at 11-12.    This calculation is
+
+presumably based on his acknowledged responsibility for the 3 plants in his
+
+basement, which would equal 300 grams under U.S.S.G. § 2D1.1(c)(E), a resulting
+
+base offense level of 8 under U.S.S.G. § 2D1.1(c)(17), and a 2-level decrease for
+
+acceptance under U.S.S.G. § 3E1.1(a), for a total offense level of 6. With a Criminal
+
+History Category I and a total offense level of 6, the guideline sentence range would
+
+be 0 to 6 months.
+
+
+
+                                         5
+Case 1:10-cr-00167-JAW Document 113 Filed 05/04/12 Page 6 of 15         PageID #: 616
+
+
+
+      Mr. Stone’s attack on the Court’s findings is uncharacteristically scattered.
+
+However, as the Court understands it, Mr. Stone makes the following points: (1)
+
+that the “parties are bound by facts and stipulations they enter into at the time of a
+
+guilty plea”; (2) that, at sentencing, the Government “conceded that ten plants used
+
+in calculating Michael Stone’s offense level should not have been included”; (3) that
+
+the Government “has a duty to refrain from presenting what it believes to be
+
+perjured testimony in obtaining a conviction”; (4) that, to establish the Stone
+
+brothers’s “jointly undertaken activity,” the Government was required to present
+
+evidence of either Michael Stone’s “agreement to participate” in the activity or that
+
+he aided and abetted the activity by “assist[ing] in the manufacture of the
+
+additional 28 plants”; and (5) that the Government failed to present “sufficient
+
+reliable evidence to establish that Michael Stone both knew of and participated in
+
+the cultivation of the additional twenty-eight plants attributed to him” at the
+
+sentencing hearing. Id. at 7-11.
+
+      B.     The Government’s Response
+
+      The Government defends the Court’s drug quantity calculations.           Gov’t’s
+
+Opp’n at 1-5.        After reviewing the evidence at the sentencing hearing, the
+
+Government concludes that “the Court made the fact-bound determination that the
+
+Government had proven by a preponderance of the evidence that the marijuana
+
+grow was a joint operation . . . and that both brothers were responsible for all the
+
+plants.” Id. at 5.
+
+
+
+
+                                          6
+Case 1:10-cr-00167-JAW Document 113 Filed 05/04/12 Page 7 of 15                                    PageID #: 617
+
+
+
+III.     DISCUSSION
+
+         A.       Legal Standard
+
+         The legal standard for evaluating a motion for bail pending appeal appears in
+
+18 U.S.C. § 3143(b):
+
+         (1) . . . (T)he judicial officer shall order that a person who has been
+         found guilty of an offense and sentenced to a term of imprisonment,
+         and who has filed an appeal . . . be detained, unless the judicial officer
+         finds—
+
+                  ...
+
+                  (B) that the appeal is not for the purpose of delay and
+                  raises a substantial question of law or fact likely to result
+                  in—
+
+                           (i) reversal,
+                           (ii) an order for a new trial,
+                           (iii) a sentence that does not include a term
+                           of imprisonment, or
+                           (iv) a reduced sentence to a term of
+                           imprisonment less than . . . the expected
+                           duration of the appeal process.
+
+         If the judicial officer makes such findings, such judicial officer shall
+         order the release of the person in accordance with section 3142(b) or (c)
+         of this title . . . .2
+
+         The Defendant has the burden of satisfying these statutory elements. See
+
+Morison v. United States, 486 U.S. 1306, 1306-07 (1988). The First Circuit has
+
+made clear that the Bail Reform Act of 1984 creates “no presumption in favor of
+
+release pending appeal; on the contrary, even when the conviction does not involve a
+
+
+
+2
+  This section also requires the court find “by clear and convincing evidence that the person is not likely to flee or
+pose a danger to the safety of any other person or the community if released.” 18 U.S.C. § 3143(b)(1)(A). The
+Government does not contend that Mr. Stone is likely to flee or that he poses a danger to the safety of others,
+Gov’t’s Opp’n at 3, and this Court therefore addresses only whether the appeal poses a substantial question of law or
+fact under § 3143(b)(1)(B).
+
+                                                          7
+Case 1:10-cr-00167-JAW Document 113 Filed 05/04/12 Page 8 of 15                   PageID #: 618
+
+
+
+crime of violence or drug offense, detention (following conviction and sentencing) is
+
+mandatory unless the judicial officer finds inter alia ‘that the appeal is not for the
+
+purpose of delay and raises a substantial question of law or fact likely to result in’ a
+
+reversal, new trial, or reduced term of imprisonment that would expire during the
+
+expected duration of the appeal process.”3 United States v. Colon-Munoz, 292 F.3d
+
+18, 20 (1st Cir. 2002) (quoting 18 U.S.C. § 3143(b)(1)).
+
+       The First Circuit has adopted the view that “substantial question of law or
+
+fact” refers to “a ‘close’ question or one that very well could be decided the other
+
+way.” United States v. Bayko, 774 F.2d 516, 523 (1st Cir. 1985) (quoting United
+
+States v. Giancola, 754 F.2d 898, 901 (11th Cir. 1985)). The Bayko Court pointed
+
+out that a literal reading of § 3143(b)(1)(B) would present a classic “Catch-22”
+
+because if the trial court had concluded it was likely making the wrong decision, it
+
+would have made the right one.            774 F.2d at 522-23.        Thus, the First Circuit
+
+concluded that the “likely to result in a reversal or order for new trial” factor is
+
+actually “a requirement that the claimed error not be harmless or unprejudicial.”
+
+Id. at 523. The same standard applies to claimed errors that would result in no
+
+imprisonment or a reduced term of imprisonment less than the expected duration of
+
+the appeal process. See 18 U.S.C. § 3143(b)(1)(B)(iii), (iv).
+
+
+
+
+3 Although convicted of drug and firearm possession offenses, Mr. Stone is not subject to the more
+stringent provisions of 18 U.S.C. § 3143(b)(2) because his drug offense does not carry a maximum
+term of imprisonment of ten years or more, 18 U.S.C. § 3142(f)(1)(C), and because his firearms
+offense does not fit within the offenses listed in 18 U.S.C. §3142(f)(1)(A)-(C).
+
+                                                8
+Case 1:10-cr-00167-JAW Document 113 Filed 05/04/12 Page 9 of 15         PageID #: 619
+
+
+
+       B.     Drug Quantity
+
+       The Stone brothers live within fifty to sixty yards of each other in a rural
+
+Maine town on a parcel of land that once belonged to their parents. In 1988, their
+
+parents divided the parcel by deed between their two sons, transferring the
+
+southern half to Bradley and the northern half to Michael. The brothers share a
+
+common driveway, which splits into a Y, the left side of the Y going to Bradley’s
+
+home and the right side to Michael’s. There are no physical demarcations between
+
+Bradley’s and Michael’s land: no fences, no walls, and no obvious landmarks. The
+
+Stone brothers share the same address: 1557 Lyford Road.
+
+       The affidavit of Special Agent Jonathan L. Richardsadmitted at the
+
+sentencing hearing as Government’s Exhibit 1 without objection (Tr. at 73:22-
+
+74:6)contained the following facts: on September 4, 2010, a concerned citizen
+
+informed the police that the Stone Brothers had marijuana growing behind their
+
+respective homes in Orneville, Maine. Gov’t’s Ex. 1 at 6. The concerned citizen
+
+reported that he had learned that Michael Stone had been bragging to mutual
+
+friends that he and Bradley were growing marijuana behind their homes, that they
+
+had been doing so for the past three years, and that they did not think anyone
+
+would dare sneak around their homes.         Id. at 6-7.   The concerned citizen took
+
+photographs of the marijuana plants on the Stone brothers’s land and gave them to
+
+the police. Id. at 7-8.
+
+       On September 9, 2010, MDEA agents observed the Stone brothers’s property
+
+from the woods behind their parcels and located an old abandoned Ford Explorer
+
+
+
+                                         9
+Case 1:10-cr-00167-JAW Document 113 Filed 05/04/12 Page 10 of 15           PageID #: 620
+
+
+
+ with 4 to 6 marijuana plants in the front seat area.4 Id. at 8-9. As the agents
+
+ traveled around the area, they came upon another 7 marijuana plants. Id. at 9. As
+
+ they neared Bradley Stone’s house, they located another patch of marijuana
+
+ surrounded by chicken wire. Id. at 9-10. As they went toward Michael Stone’s
+
+ house, they found another 6 marijuana plants directly behind his residence. There
+
+ was a well-worn path around these plants. Id. at 10.
+
+       Agent Richards researched law enforcement records and discovered that the
+
+ Piscataquis County Sheriff’s Department had performed a judicially-authorized
+
+ search of the Stone properties in 2007 and discovered 25 pounds of processed
+
+ marijuana in Bradley’s residence and eight live marijuana plants and a bag
+
+ containing marijuana seeds in Michael’s residence. Id. at 10-11.
+
+       MDEA Agent Christopher Gardner testified at the sentencing hearing. Tr. at
+
+ 28:8-19. He participated in a September 21, 2010 judicially-authorized search of the
+
+ Stone brothers’s properties.    Tr. at 29:23-30:4.    Starting near Michael Stone’s
+
+ residence, Agent Gardner found three “plots” (or separate areas of cultivation with a
+
+ cut stalk, representing the remains of a plant) in the area called the “ice shack,” an
+
+ RV-type structure. Tr. at 36:24-37:21. These three plots were in the same area
+
+ where the officers had observed six growing plants on September 9, 2010. Tr. at
+
+ 37:23-38:6. Agent Gardner located two marijuana plants in an area of property
+
+ closer to Michael’s residence than Bradley’s residence. Tr. at 40:15-20. He found
+
+ “probably more than five” plants growing in a “very swampy area.” Tr. at 40:21-
+
+
+ 4 At sentencing, the Government excluded the marijuana plants in the Ford Explorer from
+ calculation. Tr. at 16:17-17:7.
+
+                                           10
+Case 1:10-cr-00167-JAW Document 113 Filed 05/04/12 Page 11 of 15            PageID #: 621
+
+
+
+ 41:1. Continuing toward Bradley’s property, he discovered “a large pile of Pro-Mix
+
+ or potting soil, several yards of it” at the edge of a gravel pit nearer Bradley’s home.
+
+ Tr. at 41:2-10. Finally, he found two more marijuana plants in a 10 x 10 garden
+
+ that was located at the end the Stone brothers’s common driveway. Tr. at 41:19-
+
+ 42:15. Combining the September 9 and September 21, 2010 searches, and based on
+
+ Agent Gardner’s testimony, agents found a total of 31 marijuana plants on the
+
+ Stone brothers’s properties: 2 + 6 + 2 + 5 + 2 = 17 throughout the properties plus 11
+
+ growing in Bradley’s swamp and 3 drying in Michael’s basement.
+
+       Michael Stone acknowledged that the three marijuana plants in his basement
+
+ were his responsibility and Bradley Stone acknowledged that the eleven marijuana
+
+ plants in the swamp area were his responsibility. Tr. at 106:22 (Attorney Villa:
+
+ “He’s solid on three”); Tr. at 113:13-15 (Attorney Haddow: “Bradley Stone maintains
+
+ that the plants that were growing in the swampy area behind his home were his
+
+ plants and that there were 11 of them”). The question at the sentencing hearing
+
+ narrowed to the responsibility for the 17 remaining plants and whether, in Michael
+
+ Stone’s case, he was also responsible for Bradley’s 11 plants.
+
+       On this point, the Court considered whether the Government had proven it
+
+ was more likely than not that the Stone brothers were engaged in a joint enterprise.
+
+ The Court found that they were based on the following evidence: (1) Michael Stone
+
+ and Bradley Stone had a history of marijuana cultivation; (2) Michael Stone had
+
+ bragged to others about growing marijuana in their backyard; (3) Michael Stone
+
+ said that they had been doing so for about three years; (4) Michael Stone thought
+
+
+
+                                           11
+Case 1:10-cr-00167-JAW Document 113 Filed 05/04/12 Page 12 of 15         PageID #: 622
+
+
+
+ law enforcement could not catch them because the police could not get near enough
+
+ to their property; (5) when the police investigated the grow operation, they found on
+
+ the Stone brothers’s property exactly the same type of grow operation that Michael
+
+ Stone bragged about; (6) the Stone brothers each pleaded guilty in this case to
+
+ manufacturing marijuana, so neither Defendant was a stranger to the growth of
+
+ marijuana; (7) Michael Stone admitted responsibility for the three marijuana plants
+
+ in his basement, which he claimed he obtained from “across the street”; (8) the
+
+ Stone brothers bear numerous similarities: they are only two years apart, they both
+
+ were graduated from high school, they were both married and divorced, they were
+
+ both living within earshot of each other, they both do logging and woods work, they
+
+ both smoke marijuana, and they were both unemployed at the time of the execution
+
+ of the search warrants; (9) the land the brothers inherited from their parents,
+
+ although divided by legal description, was otherwise un-demarcated; (10) the drug
+
+ they were smoking was the same drug they were growing; (11) marijuana plants are
+
+ distinctive and easily recognizable and should have been obvious to both brothers;
+
+ (12) the marijuana was scattered throughout the entire property with both brother’s
+
+ side of the line containing an approximately equal number of plants; (13) that the
+
+ potting soil located near the ice shack near Michael’s home is similar to the potting
+
+ soil found in a large quantity near Bradley’s home and the chicken wire found
+
+ around the marijuana plants on both sides of the property line was similar; (14) in
+
+ Michael Stone’s basement, the police found not only marijuana plants but also
+
+ seeds, indicative of a grow operation; (15) Bradley Stone’s position at sentencing
+
+
+
+                                          12
+Case 1:10-cr-00167-JAW Document 113 Filed 05/04/12 Page 13 of 15          PageID #: 623
+
+
+
+ was that (other than eleven plants), he was not responsible for the rest of the
+
+ marijuana on his own portion of the land or on Michael’s portion of the land (Tr.
+
+ 27:19-24: “I know that Bradley Stone can’t or won’t say those plants are Michael’s . .
+
+ . I think he’s saying that the plants not growing on his land were not his”); and (16)
+
+ there was no evidence that a third person, not a Stone brother, was growing
+
+ marijuana on the brothers’s land. Based on this combination of factors, the Court
+
+ concluded that the Stone brothers were running a joint marijuana operation and
+
+ that, in addition to the three marijuana plants in his basement, Michael Stone was
+
+ legally responsible for the 28 other marijuana plants located on the properties.
+
+       C.     The Defendant’s Specific Points
+
+       Michael Stone’s main point seems to be that the Court could not permissibly
+
+ arrive at its finding that Michael Stone, an admitted marijuana user and grower,
+
+ would be responsible for the marijuana plants growing on his own property and on
+
+ the undifferentiated property of his brother. Even if Michael Stone never argued
+
+ that he “didn’t know that marijuana was growing in and around his land and his
+
+ brother’s land,” Tr. at 134:23-135:1, the Court rejected his argument that in these
+
+ circumstances the Government must produce evidence that Michael Stone actually
+
+ seeded, planted, hoed, fertilized, and harvested the plants or otherwise assisted in
+
+ growing the plants in order to find him responsible under the Guidelines.
+
+       In making this finding, the Court took into account that at a sentencing
+
+ hearing, the Government is required to prove drug quantity “by a preponderance of
+
+ the evidence and is not required to make an exact determination but rather only a
+
+
+
+                                          13
+Case 1:10-cr-00167-JAW Document 113 Filed 05/04/12 Page 14 of 15                         PageID #: 624
+
+
+
+ reasoned estimate.” United States v. Rodriguez, 525 F.3d 85, 107 (1st Cir. 2008).
+
+ Here, although the Government did claim a conspiracy, the Government charged
+
+ that each Stone brother manufactured marijuana or aided and abetted the
+
+ manufacture of marijuana and each Stone brother pleaded guilty to that charge.
+
+ Indictment (Docket # 10). At sentencing, the Government sought to proveand did
+
+ prove to the Court’s satisfactionthat the manufacturing was “a jointly undertaken
+
+ criminal activity” and that each Defendant was responsible for “all reasonably
+
+ foreseeable acts and omissions by others in furtherance of the jointly undertaken
+
+ criminal activity that occurred during the commission of the offense of conviction.”
+
+ U.S.S.G. § 1B1.3(a)(1).          The evidence that the Stone brothers were growing
+
+ marijuana themselves, and aiding and abetting each other in doing so, was simply
+
+ overwhelming.
+
+        Even after carefully reviewing the transcript of the sentencing hearing in this
+
+ case, the Court does not know what to make of Mr. Stone’s claim that the
+
+ Government presented perjured testimony, violated its own stipulations, or
+
+ conceded that ten plants that the Court counted against Michael Stone should not
+
+ have been counted.5 These arguments have simply not been sufficiently developed
+
+
+
+ 5 Defense counsel goes so far as to say that without Michael Stone’s admission that he grew
+ marijuana “across the street,” the Court should not have accepted Michael Stone’s guilty plea to a
+ felony since the possession of only three marijuana plants would be a misdemeanor. Def.’s Mot. at 9
+ n.1 (citing 18 U.S.C. § 844). The short answer is that if at the sentencing hearing the Government
+ had not proven a sufficient marijuana quantity to establish a felony, the Court would have allowed
+ Michael Stone to withdraw his guilty plea. But the Court views this argument as odd, because
+ defense counsel repeatedly represented to the Court at the Rule 11 hearing on August 3, 2011 that
+ she believed her client was guilty of the crime to which he was pleading guilty, namely the felony
+ charge. More typically, if defense counsel believes her client is not guilty of the crime, a conditional
+ plea is entered into. Here, Michael Stone pleaded guilty to the felony after both he and his attorney
+ represented to the Court that he was pleading guilty to the felony because he was actually guilty of
+
+                                                   14
+Case 1:10-cr-00167-JAW Document 113 Filed 05/04/12 Page 15 of 15                       PageID #: 625
+
+
+
+ for the Court to consider.6
+
+ IV.    CONCLUSION
+
+        Michael Stone has not raised a substantial question of law or fact under 18
+
+ U.S.C. § 3143(b) to justify his post-conviction release, and the Court DENIES
+
+ Michael Stone’s Motion for Bail Pending Appeal (Docket # 111).
+
+        SO ORDERED.
+
+
+
+                                       /s/ John A. Woodcock, Jr.
+                                       JOHN A. WOODCOCK, JR.
+                                       CHIEF UNITED STATES DISTRICT JUDGE
+
+ Dated this 4th day of May, 2012
+
+
+
+
+ that crime.
+ 6 Though she does not say it, defense counsel may be basing her perjury claims on differences
+
+ between the observations of her private investigator and the observations of the police officers. Tr.
+ 105:18-106:12. But the Court resolved these conflicts without concluding that anyone was lying.
+ Indeed, defense counsel’s investigator admitted that he did not go looking for all of the areas
+ indicated as grow areas by the law enforcement search, but only tried to find the easily recognizable
+ ones based on visual cues in the photographs taken. Tr. at 95:24-96:24 (Q: “Did you look for any of
+ those other 30 plots?” A: “I did not.”).
+
+                                                  15
+

@@ -1,0 +1,1190 @@
+                             UNITED STATES DISTRICT COURT
+                                  DISTRICT OF MAINE
+
+DANIEL COLBY, JR.,                        )
+                                          )
+               Petitioner,                )
+                                          )
+       v.                                 )      2:15-cr-00182-GZS
+                                          )      2:18-cv-00429-GZS
+                                          )
+UNITED STATES OF AMERICA,                 )
+                                          )
+               Respondent                 )
+
+
+            RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+       In this action, Petitioner Daniel Colby, Jr., moves, pursuant to 28 U.S.C. § 2255,
+
+to vacate, set aside or correct his sentence. (Motion, ECF No. 146.) Following a jury trial,
+
+Petitioner was convicted of possession of a firearm by a felon; the Court sentenced
+
+Petitioner to 95 months in prison. (Judgment, ECF No. 125 at 1-2.) The First Circuit
+
+affirmed the sentence on appeal. United States v. Colby, 882 F.3d 267 (1st Cir. 2018).
+
+       After a review of the record, Petitioner’s motion, and the Government’s request for
+
+dismissal, I recommend the Court grant the Government’s request, and deny Petitioner’s
+
+request for relief.
+
+              I.      FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+       Following a two-day jury trial and guilty verdict in June 2016, Petitioner was
+
+convicted in December 2016 of a single count of possession of a firearm by a prohibited
+
+person, pursuant to 18 U.S.C. § 922(g)(1). (Judgment at 1; Trial Transcripts I, II,
+ECF Nos. 113, 114.) The Court sentenced Petitioner to a prison term of 95 months,
+
+followed by a term of three years of supervised release. (Judgment at 2-3.)
+
+       Petitioner appealed from the sentence and argued the Court erred when it imposed
+
+three sentencing enhancements. Colby, 882 F.3d at 269. The First Circuit concluded that
+
+the Court did not err when it found Petitioner possessed a stolen gun, and therefore the
+
+Court did not err when it imposed a two-level enhancement for possession of a stolen
+
+firearm, pursuant to USSG § 2K2.1(b)(4)(A), id. at 272-73; that the Court did not err when
+
+it found Petitioner had threatened another (Forrest Smith) with the gun, and therefore
+
+the Court did not err when it imposed a four-level enhancement for possession of a firearm
+
+in connection with another felony offense, pursuant to USSG § 2K2.1(b)(6)(B), id. at 273;
+
+and that the Court did not err when it imposed a two-level enhancement for obstruction of
+
+justice, pursuant to USSG § 3C1.1, based on the Court’s conclusion that Petitioner’s
+
+“completely contradictory accounts” of “key facts in his case” were not the result of
+
+“‘confusion, mistake, or faulty memory,’” id. at 273-74 (quoting United States v.
+
+Dunnigan, 507 U.S. 87, 94 (1993)). The Supreme Court denied Petitioner’s petition for a
+
+writ of certiorari. Colby v. United States, 138 S. Ct. 2664 (2018).
+
+       In Petitioner’s section 2255 motion, he claims the Court lacked jurisdiction over his
+
+criminal prosecution because 18 U.S.C. § 3231 violates the Quorum Clause of the United
+
+States Constitution; he alleges trial and appellate counsel provided ineffective assistance;
+
+and he alleges prosecutorial misconduct and judicial bias.1
+
+
+1
+ Petitioner asserts that he signed his section 2255 motion and placed it in the prison mailing system on
+October 9, 2018. (Motion, ECF No. 146 at 12.) The Government acknowledges Petitioner’s section 2255
+
+                                                   2
+                                          II.     DISCUSSION
+
+         A. Legal Standards
+
+         A person may move to vacate his or her sentence on one of four different grounds:
+
+(1) “that the sentence was imposed in violation of the Constitution or laws of the United
+
+States”; (2) “that the court was without jurisdiction” to impose its sentence; (3) “that the
+
+sentence was in excess of the maximum authorized by law”; or (4) that the sentence
+
+“is otherwise subject to collateral attack.” 28 U.S.C. § 2255(a); see Knight v. United States,
+
+37 F.3d 769, 772 (1st Cir. 1994).
+
+         “[P]ro se habeas petitions normally should be construed liberally in petitioner’s
+
+favor.” United States v. Ciampi, 419 F.3d 20, 24 (1st Cir. 2005) (citing Estelle v. Gamble,
+
+429 U.S. 97, 106 (1976)). However, the burden is on the section 2255 petitioner to
+
+establish by a preponderance of the evidence that he or she is entitled to section 2255 relief.
+
+David v. United States, 134 F.3d 470, 474 (1st Cir. 1998); United States v. DiCarlo,
+
+575 F.2d 952, 954 (1st Cir. 1978). When “a petition for federal habeas relief is presented
+
+to the judge who presided at the petitioner’s trial, the judge is at liberty to employ the
+
+knowledge gleaned during previous proceedings and make findings based thereon without
+
+convening an additional hearing.” United States v. McGill, 11 F.3d 223, 225 (1st Cir.
+
+1993).
+
+
+
+
+motion was timely filed. (Response, ECF No. 157 at 1-2.) See 28 U.S.C. § 2255(f) (providing in pertinent
+part that “[a] 1-year period of limitation shall apply to a motion under this section. The limitation period
+shall run from the latest of – (1) the date on which the judgment of conviction becomes final . . . .”).
+
+
+                                                     3
+       A collateral challenge is not a substitute for an appeal. United States v. Frady,
+
+456 U.S. 152, 165 (1982); Berthoff v. United States, 308 F.3d 124, 127 (1st Cir. 2002).
+
+“Accordingly, a defendant’s failure to raise a claim in a timely manner at trial or on appeal
+
+constitutes a procedural default that bars collateral review, unless the defendant can
+
+demonstrate cause for the failure and prejudice or actual innocence.” Berthoff, 308 F.3d at
+
+127-28.    Procedural default is an affirmative defense.        Sotirion v. United States,
+
+617 F.3d 27, 32 (1st Cir. 2010). The First Circuit has recognized that “federal courts have
+
+the authority to consider procedural default sua sponte.” Rosenthal v. O’Brien, 713 F.3d
+
+676, 683 (1st Cir. 2013) (citing Brewer v. Marshall, 119 F.3d 993, 999 (1st Cir. 1997));
+
+see also Daniels v. United States, 532 U.S. 374, 382-83 (2001) (recognizing that
+
+“procedural default rules developed in the habeas corpus context apply in § 2255 cases”)
+
+(citing Frady, 456 U.S. at 167-68).
+
+       An allegation of ineffective assistance of counsel can excuse a procedural default if
+
+the petitioner demonstrates that counsel’s representation “fell below an objective standard
+
+of reasonableness.” Strickland v. Washington, 466 U.S. 668, 688 (1984). The petitioner
+
+must also demonstrate that “there is a reasonable probability that, but for counsel’s
+
+unprofessional errors, the result of the proceeding would have been different.
+
+A reasonable probability is a probability sufficient to undermine confidence in the
+
+outcome.” Id. at 694. A district court reviewing a claim of ineffective assistance of counsel
+
+need not address both prongs of the Strickland test because a failure to meet either prong
+
+will undermine the claim. Id. at 697.
+
+
+
+                                             4
+       If a petitioner’s “claims fail on the merits, his related claims that counsel rendered
+
+ineffective assistance in failing to press the claims at trial or on appeal must also fail.”
+
+Tse v. United States, 290 F.3d 462, 465 (1st Cir. 2002) (per curiam).
+
+       “Evidentiary hearings on § 2255 petitions are the exception, not the norm, and there
+
+is a heavy burden on the petitioner to demonstrate that an evidentiary hearing is warranted.
+
+An evidentiary hearing ‘is not necessary when a [§] 2255 petition (1) is inadequate on
+
+its face, or (2) although facially adequate, is conclusively refuted as to the alleged facts by
+
+the files and records of the case.’” Moreno-Morales v. United States, 334 F.3d 140, 145
+
+(1st Cir. 2003) (citation omitted) (quoting DiCarlo, 575 F.2d at 954 (quotation marks
+
+omitted)).
+
+       Summary dismissal of a motion is permitted when the allegations are “‘vague,
+
+conclusory, or palpably incredible,’” even “‘if the record does not conclusively and
+
+expressly belie [the] claim.’”       David, 134 F.3d at 478 (quoting Machibroda v.
+
+United States, 368 U.S. 487, 495 (1962)). A court can reasonably require a petitioner to
+
+supply the court with salient details of the claim prior to permitting discovery or a hearing.
+
+Id. (holding that “the district court did not abuse its discretion in refusing to license
+
+a fishing expedition”).
+
+       B. Claims and Analysis
+
+             1. Claim of lack of jurisdiction
+
+       Petitioner contends that Public Law 80-772, which is codified in relevant part at
+
+18 U.S.C. § 3231, and which provides in part that “[t]he district courts of the United States
+
+shall have original jurisdiction, exclusive of the courts of the States, of all offenses against
+
+                                                5
+the laws of the United States,” was not properly enacted by Congress. Petitioner argues
+
+section 3231 violates the Quorum Clause of the United States Constitution, and therefore
+
+it does not confer jurisdiction on district courts. Petitioner thus contends the Court lacked
+
+jurisdiction to convict him. (Motion at 4; Reply, ECF No. 159 at 15-17.)
+
+       Petitioner’s jurisdictional challenge was raised and rejected in United States v.
+
+Gonzalez-Arenas, 496 F. App’x 866 (10th Cir. 2012):
+
+       [Appellant] contends that the grant of criminal jurisdiction to federal district
+       courts found in 18 U.S.C. § 3231 violates the Quorum Clause of the United
+       States Constitution. In relevant part, the Quorum Clause provides that “a
+       Majority of each [congressional chamber] shall constitute a Quorum to do
+       Business.” U.S. Const. art. 1, § 5, cl. 1. Gonzalez–Arenas argues that a
+       quorum was not present for a vote taken in the House of Representatives
+       when § 3231 was passed into law by the Act of June 25, 1948, Pub.L. No.
+       80–772, 62 Stat. 683 (codified in scattered sections of 18 U.S.C.). Thus, he
+       concludes, his convictions should be vacated because the district court lacked
+       jurisdiction. This argument is frivolous and “foreclosed by the ‘enrolled-bill
+       rule,’ under which a bill certified by the presiding officers of each chamber
+       [of Congress]—as was the case with § 3231, see 94 Cong. Rec. 568 (1948)—
+       is ‘complete and unimpeachable.’” United States v. Small, 487 Fed. Appx.
+       302, 303 (7th Cir. 2012) (unpublished) (quoting Marshall Field & Co. v.
+       Clark, 143 U.S. 649, 672, 12 S. Ct. 495, 36 L.Ed. 294 (1892)); see also
+       United States v. Davis, 375 Fed. Appx. 611, 612 (7th Cir. 2010)
+       (substantially the same); United States v. Farmer, 583 F.3d 131, 151–52
+       (2d Cir. 2009) (same).
+
+496 F. App’x at 867; see Nelson v. United States, No. 18-514C, 2018 WL 5318247,
+
+at *3 & n.4 (Fed. Cl. Oct. 29, 2018) (unpublished) (noting the petitioner’s “contentions
+
+concerning Public Law 80-772 have previously been found to be frivolous”).
+
+       Similarly, in Buczek v. Constructive Statutory Trust Dep. Trust Corp.,
+
+No. 1:10-cv-00382-MAT, 2011 WL 4549206, at *4, 2011 U.S. Dist. Lexis 111539, at *10
+
+(W.D. N.Y. Sept. 29, 2011), the court concluded the same jurisdictional challenge was
+
+
+                                              6
+“patently without merit.” The court noted: “This contention, or a variation upon it,
+
+has been offered by countless federal prisoners as a basis for § 2255 relief and has been
+
+roundly rejected by all the federal courts [that] have considered such claims.”
+
+2011 WL 4549206, at *4, 2011 U.S. Dist. Lexis 111539, at *11. The court discussed
+
+a number of district court cases in which courts had rejected the argument, and it
+
+concluded:
+
+       Based on these cases, the United States Supreme Court’s consistent
+       application of the statute in question as a foundation of jurisdiction, and the
+       absence of any legitimate contrary authority, this Court likewise rejects
+       Buczek’s jurisdictional argument as wholly without merit. The “Quorum
+       Issue”, in short, does not present a claim upon which § 2255 habeas relief
+       can be granted.
+
+2011 WL 4549206, at *4-5, 2011 U.S. Dist. Lexis 111539, at *13-14 (footnote omitted).
+
+       The analysis set forth in Gonzalez-Arenas, 496 F. App’x at 867; Nelson, 2018 WL
+
+5318247, at *3 & n.4, and Buczek, 2011 WL 4549206, at *4-5, 2011 U.S. Dist. Lexis
+
+111539, at *13-14, is sound. Petitioner’s jurisdictional claim fails.
+
+
+
+
+                                             7
+             2. Claims of ineffective assistance of trial counsel2
+
+                 a. Claims regarding counsel’s comments at sidebar
+
+        Petitioner alleges trial counsel told the Court at sidebar that counsel believed
+
+Petitioner was guilty.3 (Motion at 5; Reply at 6-7.) The sidebar conference at issue
+
+occurred immediately before Petitioner’s testimony:
+
+        [COUNSEL]: Your honor, I’m just so reluctant to be the facilitator of what I believe
+        to be false testimony. I don’t know that it is, but just am in a box.
+
+        THE COURT: I think if you believe it but you don’t know it for sure, then you’re
+        okay. I think it’s an issue of whether your client told you A and now he want[s] to
+        tell you B, that’s a different matter but –
+
+        [COUNSEL]: It’s more than --
+
+        THE COURT: -- the jury has a right to hear testimony and if you believe it’s one
+        way but your client tells you it’s another way unless you – you know, you have your
+        obligations under 3.3, I’ll give you a copy.
+
+        [COUNSEL]: I don’t know anything that he has to say to be false.
+
+        THE COURT: All right.
+
+        [COUNSEL]: I believe in my mind, and it puts me in an ethical situation --
+
+2
+   Claims of ineffective assistance of appellate counsel, prosecutorial misconduct, and judicial bias are
+addressed in this section where they relate to claims of ineffective assistance of trial counsel. To the extent
+Petitioner asserts claims of prosecutorial misconduct and judicial bias independent of his claims of
+ineffective assistance, the claims of prosecutorial misconduct and judicial bias are procedurally defaulted
+because Petitioner did not raise them at trial or on appeal, and none of the claims raises issues of actual
+innocence, see United States v. Frady, 456 U.S. 152, 165 (1982); Berthoff v. United States,
+308 F.3d 124, 127 (1st Cir. 2002); or prejudice, see United States v. Laureano-Pérez, 797 F.3d 45, 69
+(1st Cir. 2015) (noting a party who alleges judicial bias must demonstrate “‘serious prejudice’”) (quoting
+Logue v. Dore, 103 F.3d 1040, 1045 (1st Cir. 1997)); United States v. Rivera-Hernández, 497 F.3d 71, 80
+(1st Cir. 2007) (concluding that even assuming a meeting between a prosecutor and witnesses was improper,
+it was not prejudicial because it did not likely affect the outcome of the trial). Each of the claims is discussed
+further below.
+3
+ Petitioner noted that he withdrew a claim of judicial bias related to counsel’s sidebar comments. (Reply,
+ECF No. 159 at 12.)
+
+
+                                                        8
+        THE COURT: I understand.
+
+        [COUNSEL]: -- that I’m very uncomfortable with.
+
+(Trial Tr. II at 134.)4
+
+        The fact that counsel informed the Court in a general way of his concerns about
+
+Petitioner’s testimony does not constitute substandard practice. Counsel revealed no
+
+confidential information and did not otherwise breach his responsibility to his client. In
+
+addition, Petitioner was not prejudiced, because sidebar conferences, as a matter of course,
+
+are conducted out of the hearing of the jury and thus have no bearing on the jury’s verdict.
+
+See United States v. Martí-Lόn, 524 F.3d 295, 298 (1st Cir. 2008) (noting there was nothing
+
+in the record that “establishes or even suggests that the jury heard the reference” made at
+
+sidebar).    Petitioner also cannot demonstrate prejudice because after the sidebar
+
+conference, Petitioner testified and the record lacks any evidence to suggest that counsel’s
+
+examination of Petitioner was improperly influenced by the concerns he expressed at
+
+sidebar. (Trial Tr. II at 134-35.)
+
+        Furthermore, to the extent Petitioner alleges counsel’s sidebar comment influenced
+
+the Court’s sentencing finding that Petitioner had obstructed justice when he gave false
+
+trial testimony, the claim lacks merit because the Court’s finding was based on Petitioner’s
+
+testimony, not counsel’s comments; the Court found “the defendant perjured himself
+
+during trial by denying possession of the gun and denying his activities vis-a-vis Forrest
+
+
+4
+ The Court’s reference to “3.3” is evidently to Rule 3.3 of the Maine Rules of Professional Conduct.
+See Local Rule 83.3(e) of the United States District Court for the District of Maine (formerly Local Rule
+83.3(d)).
+
+                                                   9
+Smith.” (Sentencing Tr., ECF No. 138 at 72.) The First Circuit found no error in the
+
+imposition of the enhancement for obstruction of justice. Colby, 882 F.3d at 273-74 (noting
+
+“Colby flatly denied that he went to Smith’s trailer on March 17, 2015 and threatened him,”
+
+and “[h]e testified that he never touched” the gun). In short, Petitioner cannot demonstrate
+
+counsel’s sidebar discussion resulted in prejudice to Petitioner.
+
+              b. Claims regarding presentation of evidence and closing argument
+
+                     i. Evidence of Petitioner’s possession and use of the gun on
+                        March 17, 2015
+
+       The Government charged Petitioner with possession of a gun on March 17, 2015.
+
+At trial, therefore, the Government focused on the events of that date, particularly the
+
+evidence of Petitioner’s use of the gun to threaten Smith, and the evidence of the means by
+
+which Petitioner disposed of the gun. The First Circuit summarized the evidence:
+
+       In March 2015, Colby was living in a camper in Wiscasset, Maine on
+       property owned by his father. Forrest J. Smith was a friend of Colby’s father
+       who lived nearby on Mountain Road in Woolwich, Maine. Smith had
+       occasionally worked for Colby’s father prior to Colby taking up residence on
+       his father’s land. A few days before March 17, 2015, Smith was walking
+       home from Colby’s father’s house when he encountered Colby on the road.
+       Colby threw an M-80 firecracker at Smith and said “if you turn around right
+       now I’ll shoot ya.” Smith continued walking back to his trailer.
+
+       On March 17, 2015, at approximately 3:00 PM, Smith heard someone
+       knocking on the door to his trailer claiming to be from the power company.
+       According to Smith’s later testimony, Colby burst into the trailer, breaking
+       the lock on the door. In response, Smith told Colby that he had called the
+       cops about the firecracker incident. Colby stuck a gun in Smith’s face and
+       said “I ought to shoot you right now for calling the f-ing cops on me.”
+       Smith told Colby that he should leave, and Colby left the trailer still carrying
+       the gun. Shortly thereafter, Smith called the police and reported that Colby
+       had threatened him with a gun. Smith later described the gun as having
+       “a short barrel” with “a brown, wooden handle.”
+
+
+                                             10
+       Joey Rogers, who also lived on Mountain Road, testified at trial to the
+       following. On March 17, 2015, he saw Colby walking up the road towards
+       Smith’s trailer at around 3:00 PM and, thirty to forty minutes later, he heard
+       someone in his driveway trying to open the door to his truck. Looking over,
+       Rogers saw Colby standing by his truck. According to Rogers, when he
+       asked Colby what he was doing, Colby mumbled and started “pulling
+       something from his sweatshirt pocket.” Rogers could not see exactly what
+       the object in Colby’s pocket was, but he did see that it had a handle.
+       As Colby walked towards Rogers, Rogers’ dog ran at Colby. Colby took off
+       running across the road, through a ditch, and into the woods.
+
+Colby, 882 F.3d at 269-70. Later that day, Petitioner spoke with Jyllian York, whose
+
+mother owned the gun, to inform her and her boyfriend, Cody Wyman, that Petitioner had
+
+left the gun in the woods:5
+
+       On the evening of March 17, 2015, Jyllian texted and called Colby to ask
+       him again if he had the gun or knew where it was. According to Jyllian,
+       Colby told her that he had taken the gun and left it in a snowbank in the
+       woods near Mountain Road. Jyllian and Wyman went out that night to look
+       for the gun in the woods. In a series of text messages and phone calls, Colby
+       tried to explain where he had put the gun, telling them that it was “stashed in
+       snow . . . [a]t the end of the tracks.” When Jyllian and Wyman still could not
+       find the gun, Colby texted that he would “run in the woods with Cody and
+       get it” in the morning.
+
+Colby, 882 F.3d at 270.
+
+       Petitioner testified at trial, and although he admitted he had thrown a firecracker at
+
+Smith a few days before March 17, 2015, he testified he did not intend to hurt Smith, and
+
+he denied that he was at Smith’s trailer on March 17, 2015, or that he touched the gun. Id.
+
+       Petitioner alleges counsel was ineffective because he failed adequately to challenge
+
+the allegation that Petitioner used the gun of conviction, a .38 revolver, to threaten Smith,
+
+
+
+5
+ Cody Wyman is also referred to as Stuart Wyman in the record. United States v. Colby, 882 F.3d 267,
+270 (1st Cir. 2018). (Trial Tr. I, ECF No. 113 at 126.)
+
+
+                                                11
+given that Smith reported to law enforcement that the weapon used was a .22 revolver.6
+
+(Reply at 2.) Specifically, Petitioner alleges counsel should have engaged a gun expert to
+
+testify about the differences between the two types of revolvers. (Reply at 2.)
+
+        Contrary to Petitioner’s argument, the record establishes that under the
+
+circumstances of this case, counsel was not required to engage an expert. Through
+
+cross-examination of Smith regarding Smith’s past ownership of a .22 and Smith’s
+
+
+
+6
+  Petitioner alleges judicial bias based on the Court’s denial of Petitioner’s motion to exclude Smith’s
+testimony. (Reply at 11; Motion to Exclude, ECF No. 40; Oral Order, ECF No. 71.) The Court noted it
+had reviewed the parties’ written argument on the motion, and it denied the motion because the testimony
+was relevant and there was no undue prejudice. (Conference Tr., ECF No. 137 at 11.) There is no evidence
+the ruling was the result of judicial bias, or that it caused serious prejudice to Petitioner.
+See Laureano-Pérez, 797 F.3d at 69.
+
+         Petitioner additionally alleges the Government inaccurately stated in closing argument that Smith
+testified there was a horse emblem on the side of the gun used to threaten him. (Reply at 6.) The prosecutor
+stated:
+
+        In addition, Ms. York testified that her mother’s .38 caliber revolver, which the defendant
+        told her in these text messages he had himself, the same day Forrest Smith said he was
+        threatened with a revolver and the same day Joseph Rogers said that the defendant was on
+        his way from Woolwich out of the woods, where the gun was recovered, he had – that it
+        had a horse emblem on it. Jyllian York indicated her mother’s firearm had a horse emblem
+        on it, and I would like you to look carefully when you have the firearm at the horse emblem.
+
+(Trial Tr. II, ECF No. 114 at 200.) The prosecutor did not misrepresent Smith’s testimony.
+
+         Petitioner also alleges the prosecutor misled the jury concerning the difference in size between a
+.22 and a .38 caliber bullet and the corresponding difference in size of the gun barrels of the two types of
+revolvers. (Reply at 13-14.) Petitioner’s allegation that the prosecutor failed to show the jury the difference
+in the size of the gun barrel, even if proven, would not amount to prosecutorial misconduct, and, in any
+event, Petitioner was not prejudiced. A law enforcement officer testified that Government’s Exhibit 1-B
+was a photograph that showed two .22 caliber revolvers and a .38 caliber revolver, with the view “of the
+barrels, at the end of the barrel looking back towards the cylinder of the firearm, so if it were facing you,
+the end of the gun would be pointing at you.” (Trial Tr. II at 59-61.) On cross-examination, counsel elicited
+from the law enforcement officer that the relevant measurement, for purposes of the victim’s ability to
+distinguish a .22 revolver from a .38 revolver, was not the bullet size, but rather the obvious difference in
+the size of the bore of the gun barrel, because the bore would have been the part of the gun nearest to the
+victim when Petitioner allegedly threatened him with the gun. (Trial Tr. II at 63-65.)
+
+
+
+                                                      12
+familiarity with the differences between a .22 and a .357 Magnum, (Trial Tr. I at 85-87),
+
+and through direct examination of a law enforcement officer regarding Smith’s report that
+
+“he thought it was a .22 caliber revolver,” (Trial Tr. II at 80-81), counsel was able to
+
+demonstrate the differences between the two models.
+
+          Petitioner’s contention that counsel should have called a carpenter to testify that the
+
+door to Smith’s trailer opened outward, to counter Smith’s testimony that Petitioner gained
+
+entry by forcibly pushing the door in similarly fails.7 (Id.) A carpenter’s testimony was
+
+not necessary; counsel first elicited from Smith that Petitioner broke into his trailer by
+
+pushing the door in, then he obtained Smith’s concession that the door opened out, not in,
+
+and that the door frame would have prevented the door from being pushed in. (Trial Tr. I
+
+at 92-94.) Counsel also elicited testimony on direct examination from a law enforcement
+
+officer that Smith told the officer Petitioner had broken the lock on the door to Smith’s
+
+house by pushing the door in. (Trial Tr. II at 79.) In closing argument, counsel pointed
+
+out the discrepancy in Smith’s testimony about which way the door opened. (Id. at 212.)
+
+Counsel’s approach to the issue was sound and does not support a claim of ineffective
+
+assistance.
+
+          Petitioner alleges counsel should have impeached Rogers, who testified as to
+
+Petitioner’s movements outside Rogers’ home on March 17, 2015, based on the timing of
+
+Rogers’ statements to law enforcement (a week after the incident) and based on the alleged
+
+differences between Rogers’ oral and written statements. (Reply at 4.) Rogers testified on
+
+
+7
+    Counsel offered an affidavit of a carpenter at sentencing. (Id.)
+
+
+                                                       13
+direct examination that he provided a statement “a few days” after the incident; Petitioner
+
+did not explain why counsel should have inquired further about the date on which Rogers
+
+provided the statement to law enforcement (Trial Tr. I at 119), and otherwise failed to cite
+
+any persuasive evidence that would support his claim of ineffective assistance in
+
+connection with counsel’s examination of Rogers.8
+
+        Petitioner alleges counsel failed to call two alibi witnesses whose testimony,
+
+Petitioner contends, would have provided evidence Petitioner did not threaten Smith with
+
+the gun.9 (Motion at 5, 7; Reply at 1.) Petitioner’s claim regarding alibi witnesses is
+
+contradicted by Petitioner’s own trial testimony; Petitioner did not deny being on the road
+
+where and when Rogers saw Petitioner on March 17, 2015. (Trial Tr. II at 140-41.)
+
+Although Petitioner testified he did not remember an encounter with Rogers outside
+
+
+8
+  Petitioner evidently contends in part that counsel did not devote sufficient time to the cross-examination
+of Rogers. Petitioner’s argument is unavailing. In fact, before concluding the examination, counsel elicited
+from Rogers the concession that he was not able to identify the item Petitioner was carrying. Rogers
+testified on direct examination that Petitioner “was pulling something from his sweatshirt pocket,” and
+when asked whether he saw what Petitioner was touching in the pocket, Rogers responded, “I saw a handle
+of something,” but he did not remember the color of the handle, and he could not with “[one] hundred
+percent” certainty, identify the object. (Trial Tr. I at 114, 119.) On cross-examination, counsel asked, “You
+weren’t able to see what was inside the sweatshirt; isn’t that right?” (Id. at 122.) Rogers responded: “Not
+one hundred percent.” (Id.)
+9
+  Petitioner’s efforts to obtain alibi witnesses were established at sentencing. The Court found the facts as
+set forth in the revised presentence investigation report. (Sentencing Tr., ECF No. 138 at 72.) The report
+stated that on April 15, 2015, personnel at the Two Bridges Jail intercepted a letter Petitioner wrote
+“attempting to solicit assistance in establishing an alibi that he was someplace else at the time when F.J.S.
+was threatened with a firearm . . . .” (Report, ¶ 9.) Although Petitioner did not specify in his section 2255
+motion that the witnesses at issue were alibi witnesses, the motion is interpreted liberally to include the
+claim. (Motion at 5, 7; Reply at 1.) See United States v. Ciampi, 419 F.3d 20, 24 (1st Cir. 2005).
+
+         In addition to Petitioner’s allegation that alibi witnesses would have provided evidence he did not
+threaten Smith, Petitioner alleges the alibi witnesses would have testified that Petitioner could not have
+received the firearm after St. Patrick’s Day. As discussed below, Petitioner is not entitled to relief on
+section 2255 claims concerning Petitioner’s possession of the gun after March 17, 2015, the date alleged in
+the indictment.
+
+
+                                                     14
+Rogers’ house, Petitioner later corroborated a significant portion of Rogers’ testimony
+
+when Petitioner admitted: “I do think I remember a dog barking and running at me, so
+
+I kind of hustled a little bit.” (Id. at 141.) The admission would have undermined the
+
+effectiveness of any alibi defense.
+
+         Petitioner alleges counsel failed adequately to cross-examine a Verizon Wireless
+
+witness concerning Petitioner’s text messages to York and Wyman. (Reply at 3.) Colby,
+
+882 F.3d at 270. Petitioner contends that some of the text messages were unsent drafts,
+
+some could not reliably be attributed to Petitioner, and some “were displayed out of order,
+
+with just the message part highlighted, to make some messages look like they were
+
+answering other messages.” (Reply at 3-4.) Petitioner alleges the presentation of text
+
+messages was designed “to make it look more likely that criminal activity took place.” (Id.
+
+at 4.)
+
+         Given that the Verizon Wireless witness testified that the messages in evidence had
+
+been sent, and that the Government’s summaries of the messages (Exhibits T-17, T-18)
+
+were in chronological order (Trial Tr. I at 195-96), the record lacks any evidence to suggest
+
+the witness’ testimony was vulnerable to a successful challenge. Petitioner’s ineffective
+
+assistance claim concerning the Government’s presentation of the text messages fails
+
+because it is vague and unsupported by the record.10
+
+
+
+
+10
+  Petitioner alleged the prosecutor improperly coached witnesses on the basis that “in some of the pre-trial
+motions it showed that [the prosecutor] had already known what the witnesses [were] going to say;”
+Petitioner alleged specifically that the prosecutor improperly coached its Verizon Wireless witness, because
+
+                                                    15
+        Petitioner alleges counsel should have clarified, on direct examination of Petitioner
+
+at trial, that the gun was found on property that did not belong to Petitioner. 11 (Reply at 5.)
+
+Counsel’s failure to address the ownership status of the property where the police found
+
+the gun does not reflect deficient performance, because the Government was not required
+
+to prove Petitioner owned or rented the property where the gun was found in order to
+
+prevail on a theory of constructive possession. See United States v. Duval, 496 F.3d 64,
+
+77-78 (1st Cir. 2007) (concluding “the law of constructive possession was substantially
+
+incorporated into the charge” under 18 U.S.C. § 922(g)(1), and “the court very clearly
+
+instructed the jury that to find constructive possession it needed to find both ‘power and
+
+intention to exercise control or dominion and control over something,’ and that Defendants
+
+‘knowingly possessed the firearms and/or ammunition in question’”) (quotation marks
+
+omitted); United States v. Luster, 896 F.2d 1122, 1129 (8th Cir. 1990) (recognizing that
+
+constructive possession may be based on control over the item itself, or, alternatively, on
+
+“dominion over the premises where the item is located”) (quotation marks omitted). The
+
+
+the witness “was claiming to know the names of [people’s] phones that they had, when they all had
+unregistered [straight] talk plans.” (Reply at 14.)
+
+        “Prosecutors and defense attorneys alike are entitled to prepare their witnesses.”
+Rivera-Hernández, 497 F.3d at 80 (concluding that even assuming a meeting between a prosecutor and
+witnesses was improper, it was not prejudicial because it did not likely affect the outcome of the trial). The
+Verizon Wireless witness testified that Verizon maintains records of “subscriber information,” which
+includes the identity of “the person who activated the service.” (Trial Tr. I at 192-93.) Petitioner has failed
+to demonstrate either that the Verizon Wireless witness’s testimony was the product of impermissible
+coaching, or that Petitioner was prejudiced.
+
+        Petitioner also claims judicial bias based on an evidentiary ruling that, Petitioner alleges, permitted
+the prosecutor “to destroy a page of the text messages because of ‘spelling errors.’” (Reply at 11.)
+The judicial bias claim is without merit.
+11
+  Petitioner noted that he withdrew a claim of judicial bias related to the jury instruction on constructive
+possession. (Reply at 12.)
+
+                                                      16
+ownership of the property was not a material issue in the case and the fact that counsel did
+
+not establish Petitioner did not own the property does not constitute substandard
+
+performance.
+
+                        ii. Evidence of the gun’s location before March 17, 2015
+
+        Petitioner’s claim also involves counsel’s performance as to the evidence regarding
+
+the location of the gun in the days before March 17, 2015. Although the Government’s
+
+case was based on Petitioner’s possession of the gun on March 17, 2015, the Government
+
+offered evidence of the circumstances under which the gun had gone missing from the
+
+home of its owner, Stacey Doray, a few days before March 17:12
+
+        Three days earlier, on March 14, 2015, Colby had visited Gregory Doray at
+        his mother Stacey Doray's house. Jyllian York, Gregory’s sister who was
+        nine months pregnant and on bedrest at the time, also lived with Stacey.
+        At some point that day, Jyllian took Stacey’s gun from Stacey’s bedroom
+        closet and hid it in her own bedroom closet. According to Jyllian’s later
+        testimony, she took the gun to give it to Gregory because she thought
+        Gregory was in trouble with “bad people” and might need it. Colby, Gregory,
+        and Gregory’s girlfriend all ended up sleeping in the living room at Stacey’s
+        house that night.
+
+        The next morning, on March 15, 2015, Jyllian’s boyfriend Cody Wyman
+        discovered that the gun was missing from Jyllian’s closet. Jyllian was scared
+        that her mother would find out that she had taken the gun and did not, at that
+        point, tell her mother that the gun was missing. After searching her room for
+        about two hours, Jyllian asked everyone who had spent the night, including
+        Colby, if they had the gun or knew where it was. No one would admit they
+        had it.
+
+Colby, 882 F.3d at 270.
+
+
+
+
+12
+  York testified Stacey Doray is her mother, and Gregory Doray is her half-brother. (Trial Tr. I at 127-28,
+164.) York referred to her brother alternately as Gregory or Greg. (Trial Tr. I at 128, 178.)
+
+
+                                                    17
+        In closing argument, the prosecutor explained that the Government alleged
+
+Petitioner possessed the gun on March 17, 2015, only, because the Government had no
+
+evidence Petitioner took the gun from Stacey Doray’s home and possessed it on an earlier
+
+date. (Trial Tr. II at 231.) The prosecutor further explained that the Government theorized
+
+that Petitioner may have received the gun from Greg Doray. 13 (Id.) Petitioner testified
+
+York and Wyman asked him to go to Greg Doray’s home in Gardiner, Maine, to inquire
+
+about whether Greg had the gun. (Id. at 143-44.) Colby, 882 F.3d at 270 (noting “Colby
+
+claimed that Gregory had taken the gun and brought it to his girlfriend’s home in
+
+Gardiner”). Petitioner’s testimony, therefore, was consistent with the Government’s theory
+
+that posited Greg Doray had possession of the gun at some point.14
+
+        Petitioner contends counsel did not adequately cross-examine York about
+
+significant differences between her reports to law enforcement and her trial testimony as
+
+to whether Petitioner took the gun from Stacey Doray’s home. (Motion at 5; Reply at 4-
+
+5.) Petitioner alleges York first told law enforcement Petitioner took the gun, but she
+
+
+
+13
+   Petitioner contends the Government was required to inform him before trial, but did not, that the
+Government would assert that Greg Doray at some point received the gun taken from Stacey Doray’s house.
+(Reply at 13.) The Government did not have such an obligation because, to the extent the Government may
+have had evidence that Greg Doray possessed the gun before Petitioner obtained it, the evidence was not
+inconsistent with evidence of Petitioner’s possession of the gun on March 17, 2015. See Brady v. Maryland,
+373 U.S. 83 (1963) (“We now hold that the suppression by the prosecution of evidence favorable to an
+accused upon request violates due process where the evidence is material either to guilt or to punishment,
+irrespective of the good faith or bad faith of the prosecution.”) (emphasis added).
+14
+  Petitioner additionally testified that “he and Gregory then arranged to have a mutual friend place the gun
+in the woods so that they could return it to Stacey. Colby explained that he texted Jyllian directions to
+where he thought the mutual friend had left the gun.” Colby, 882 F.3d at 270. (Trial Tr. II at 150.)
+Petitioner testified that Greg Doray participated in the plan for the mutual friend to return the gun because
+Greg wanted Stacey Doray, who was Greg’s mother, to have the gun back, and Greg hoped his parents
+would not suspect he had stolen the gun. (Trial Tr. II at 150.)
+
+
+                                                     18
+testified at trial that she took the gun with the intent to give it to Greg Doray. 15 (Reply at
+
+4.) Petitioner alleges counsel failed to permit him to review grand jury testimony, and
+
+counsel failed to object to an alleged Brady violation for withholding from Petitioner grand
+
+jury testimony regarding who took the gun from Stacey Doray’s house. 16 (Reply at 2-3.)
+
+Petitioner contends there was grand jury testimony that York and Wyman, to protect
+
+themselves and Greg Doray from prosecution, “fabricated the story that [Petitioner] had
+
+taken the gun.” (Id. at 2.) Petitioner alleges counsel should have called the grand jury
+
+witnesses to testify at trial. (Id. at 4-5.)
+
+
+
+15
+   Petitioner alleges the Government knowingly elicited perjured testimony from York that Petitioner took
+the gun from Stacey Doray’s house. (Reply at 13.) York testified, on direct examination by the
+Government, that she saw Petitioner at Stacey Doray’s house on March 14-15, 2015, when the gun went
+missing. (Trial Tr. I at 130-33, 157.) York testified that on March 17, 2015, Petitioner told her “he took
+the gun and disposed of it in a snowbank in the woods, about like 10 to 20 feet into the woods, and he told
+me where to find it.” (Id. at 134.) York testified Petitioner did not tell her how or when he obtained the
+gun. (Id. at 146-47.) To the extent Petitioner’s claim is based on the Government’s failure explicitly to
+address York’s testimony that Petitioner “took the gun,” Petitioner is not entitled to relief, because the
+Government corrected any misperception the jury may have had that the Government implicated Petitioner
+with the disappearance of the gun from Stacey Doray’s house, and therefore no prejudice resulted.
+(Trial Tr. II at 231.) See Giglio v. United States, 405 U.S.150, 154 (1972) (holding “[a] new trial is required
+if ‘the false testimony could . . . in any reasonable likelihood have affected the judgment of the jury’”)
+(quoting Napue v. Illinois, 360 U.S. 264, 271 (1959)).
+
+        Petitioner also alleges the prosecutor impermissibly coached York at trial when the prosecutor
+allegedly signaled to York, through a throat-clearing vocalization that does not appear in the trial transcript,
+to change York’s answer to a question regarding whether Petitioner was at someone’s house. (Reply at
+14.) Petitioner does not identify the allegedly improperly coached testimony with any specificity, and it is
+not otherwise apparent from the record. See David, 134 F.3d at 478. In any event, Petitioner cannot
+demonstrate prejudice, because no material fact at trial turned on York’s testimony about whether Petitioner
+went to any house about which York testified.
+16
+  Petitioner’s Brady claim fails on the merits because Petitioner does not allege the Government withheld
+grand jury testimony from counsel, i.e., from the defense. See United States v. Agurs, 427 U.S. 97, 103
+(1976) (noting Brady applies to certain types of situations, each of which “involves the discovery, after trial
+of information which had been known to the prosecution but unknown to the defense”). Because the Brady
+claim lacks merit, Petitioner’s related claim of ineffective assistance of appellate counsel for the failure to
+pursue a Brady argument on appeal also fails. (Reply at 7-8.) See Tse v. United States, 290 F.3d 462, 465
+(1st Cir. 2002) (per curiam).
+
+
+                                                      19
+        Petitioner’s challenge to counsel’s examination of York is not supported by the
+
+record. Counsel in fact conducted extensive cross-examination of York on her statement
+
+that she took the gun from her mother’s closet.17 York’s testimony that she removed the
+
+gun from Stacey Doray’s closet also demonstrates the lack of merit in Petitioner’s argument
+
+that counsel was required to call certain grand jury witnesses to testify.
+
+        Petitioner also alleges counsel failed to ask him on direct examination about the
+
+motives and biases of York, Wyman, and Greg Doray. (Reply at 5.) Petitioner’s allegation
+
+is not supported by the record; Petitioner did testify to his belief regarding the motivation
+
+of York, Wyman, and Greg Doray. (Trial Tr. II at 142-44, 147-50.) Furthermore, counsel
+
+argued in closing that York considered Petitioner “a fall guy” for her, Wyman, and,
+
+
+
+17
+  York testified on direct examination that she took the gun from her mother’s closet to give it to Greg
+Doray, but that she did not give the gun to Greg, and she did not see anyone else give the gun to him.
+(Trial Tr. I at 130-31.) On cross-examination, counsel asked questions that may have undermined York’s
+credibility:
+
+        Q. And you were going to try to get this weapon and give it to him.
+
+        A. I was going to try to go to my brother who might need it for safety. It was brought as a
+        precaution; it wasn’t like I was going to just hand it off to him and –
+
+(Id. at 164-65 (emphasis added).)
+
+        Q. And so you wanted him to have this gun for himself, for his protection.
+
+        A. It was more or less I wanted to maybe go and make sure that my brother was okay, and
+        I brought the gun along just in case because there is people like that out there.
+
+        Q. All right. So you brought the gun along just in case.
+
+        A. But I never left the house. I told you that two hours after I found out that Gregory was
+        okay and I put the gun in my closet. The gun never left the house in my or Cody’s
+        possession.
+
+(Id. at 172 (emphasis added).)
+
+
+                                                    20
+particularly, Greg Doray, who was a convicted felon. (Trial Tr. I at 190; Trial Tr. II at
+
+217-18.) Although the jury found Petitioner guilty despite the defense strategy and theory,
+
+counsel’s performance was not substandard, nor was Petitioner prejudiced. See Strickland,
+
+466 U.S. at 699.
+
+                           iii. Evidence of the gun’s location after March 17, 2015
+
+           On March 18, 2015, an officer on patrol spotted York and her sister in the woods
+
+near their parked car. Colby, 882 F.3d at 270. York told the officer they were searching
+
+for a gun; law enforcement took over the search and found the gun in the place where York
+
+had been looking for it, “[s]ome time later, after the snow had melted.” Id.
+
+           Petitioner alleges counsel should have obtained an expert to testify that if the gun
+
+had been where law enforcement initially searched for it, the search dog law enforcement
+
+used would have found the gun on the initial search; Petitioner contends such testimony
+
+would have supported the defense.18 (Reply at 2.)
+
+           In essence, Petitioner contends his counsel’s performance was substandard because
+
+counsel failed to call an expert to help establish the gun was not located where Petitioner,
+
+in contemporaneous text messages, told York it was located. Particularly given the time
+
+of year with snow on the ground, the fact that law enforcement did not find the gun on the
+
+initial search is not inconsistent with other evidence, particularly Petitioner’s text
+
+messages, that Petitioner possessed the gun on March 17, 2015, and that he left it in the
+
+location where the searches were later conducted. Furthermore, to the extent Petitioner
+
+
+18
+     Counsel offered an affidavit of such an expert at sentencing. (Sentencing Tr. at 17-18.)
+
+
+                                                       21
+contends the gun was subsequently planted in the area to implicate him, Petitioner has not
+
+demonstrated that an expert witness would have supported such an argument.19
+
+        Petitioner alleges counsel should have called a witness who would have testified
+
+that after Petitioner had been charged and was in jail, but before law enforcement recovered
+
+the gun, someone other than Petitioner possessed the gun and tried to sell it to the witness.
+
+(Reply at 2.) The allegation that someone else may have possessed the gun sometime after
+
+March 17, 2015, even if proven, would not entitle Petitioner to relief. Therefore, counsel’s
+
+failure to call the witness was not substandard performance, and Petitioner was not
+
+prejudiced.
+
+        Petitioner alleges counsel failed to ask him on direct examination about the fact that
+
+Petitioner’s fingerprints were not found on the gun. (Reply at 5.) Petitioner’s claim is
+
+meritless. The Government stipulated to the fact that the Maine State Police Crime
+
+Laboratory found, as the Government represented in court, that “neither the defendant’s
+
+fingerprints nor his DNA were detected” on the gun. (Trial Tr. II at 51.) Consistent with
+
+the stipulation, counsel argued in closing that no DNA or fingerprints were found on the
+
+gun. (Id. at 221-22.)
+
+
+
+
+19
+   Although the whereabouts of the gun after the March 17, 2015, date alleged in the indictment was not
+relevant to the charge, counsel argued in closing, that someone planted the gun after law enforcement’s
+initial unsuccessful search for it, in the location where Petitioner had said it was, in order to implicate
+Petitioner and protect Greg Doray, a convicted felon, from prosecution for possession of a stolen weapon.
+(Trial Tr. II at 220-21.)
+
+
+                                                    22
+             3. Additional claims regarding appellate counsel
+
+        Petitioner alleges appellate counsel should have argued Petitioner was not found
+
+guilty of criminal threatening with a firearm in Sagadahoc County, as the state charges
+
+were dismissed after Petitioner’s federal sentencing. (Reply at 8.) The state charges were
+
+related to the federal possession crime, and the state charges did not result in criminal
+
+history points, according to the revised presentence investigation report, the findings of
+
+which the Court adopted at sentencing. (Report, ¶ 45; Sentencing Tr. at 72.) Because the
+
+state charges did not affect Petitioner’s guidelines range or the sentencing factors under
+
+18 U.S.C. § 3553(a), appellate counsel’s performance was not substandard, and Petitioner
+
+was not prejudiced, by appellate counsel’s failure to raise the issue of dismissal of the state
+
+charges.20
+
+        Petitioner contends appellate counsel was ineffective because counsel failed to
+
+argue that because the jury did not need to find Petitioner had threatened Smith in order to
+
+find Petitioner guilty of possession of the gun, the Court erred when it applied the four-
+
+level sentencing enhancement. (Reply at 8-9.) To the extent Petitioner contends the
+
+evidence was insufficient for the sentencing finding, the issue was resolved on appeal; this
+
+Court made a sentencing finding that Petitioner possessed the gun in connection with the
+
+felony offense of criminal threatening with a dangerous weapon, and the First Circuit found
+
+no error, based on the “more than sufficient evidence” that Petitioner possessed the firearm
+
+
+
+
+20
+   At sentencing, the Government represented to the Court that if Petitioner were not given credit for the
+234 days he had served in state custody prior to his federal sentencing, the Government would move for
+Petitioner to receive the credit. (Sentencing Tr. at 54-55.)
+
+                                                   23
+before March 17, 2015, and because the sentencing court “found Smith’s account of the
+
+incident at his trailer largely credible.” Colby, 882 F.3d at 273. Although Petitioner
+
+alleges appellate counsel did not argue effectively that the sentencing court erred, counsel
+
+made the argument. (Appellant’s Brief at 44-47.) The fact that that the argument was
+
+unsuccessful is not in itself a basis for a successful ineffective assistance claim. See
+
+Strickland, 466 U.S. at 699.
+
+       Furthermore, as a matter of law, this Court could permissibly find at sentencing that
+
+the Government had proven by a preponderance of the evidence Petitioner committed the
+
+offense of criminal threatening with the gun, notwithstanding the lack of a jury finding.
+
+See United States v. Rodriguez-Reyes, 714 F.3d 1, 12 (1st Cir. 2013) (noting “[Apprendi v.
+
+New Jersey, 530 U.S. 466, 490 (2000)] provides only that a jury must find any facts (other
+
+than a prior conviction) that would increase the penalty for a crime beyond the otherwise
+
+applicable statutory maximum”) (emphasis in original). In Petitioner’s case, the four-level
+
+increase in the sentencing range for criminal threatening did not increase the sentence
+
+beyond the ten-year statutory maximum under 18 U.S.C. § 924(a)(2), and the increase did
+
+not constitute a “disproportionate share” of Petitioner’s sentence. See United States v.
+
+González, 857 F.3d 46, 59-60 (1st Cir. 2017) (rejecting the appellant’s argument that
+
+Apprendi and Alleyne v. United States, 570 U.S. 99 (2013), should be interpreted “to mean
+
+that any enhancement for an uncharged or unconvicted crime that dramatically increases
+
+a defendant’s Guidelines range should be proven beyond a reasonable doubt;” and
+
+concluding that because the appellant’s sentencing increases did not constitute
+
+
+
+                                            24
+“a disproportionate share of the sentence,” the “relevant conduct offense-level increases
+
+did not violate his Sixth Amendment or due process rights”).
+
+       In an additional claim concerning appellate counsel, Petitioner alleges he can
+
+produce a letter in which counsel “mentions that he [doesn’t] like cases where he gets
+
+appointed because he does not get paid nearly enough . . . .” (Reply at 10.) Petitioner
+
+alleges he was prejudiced because counsel did not devote enough effort on the appeal. (Id.)
+
+Petitioner provides no factual support for his argument.
+
+           4. Additional claims of judicial bias
+
+       In addition to the claims of judicial bias addressed above, Petitioner alleges bias at
+
+sentencing, based on the Court’s alleged failure to review grand jury testimony provided
+
+on a disk, and based on the Court’s failure to consider several mitigating factors.
+
+(Reply at 11-12.) Petitioner’s argument is baseless.
+
+       At sentencing, the Court noted the disk of sentencing exhibits Petitioner had filed
+
+(Cover letter, ECF No. 119); the Court admitted the entire contents of the disk as a sealed
+
+exhibit, and, before finding the sentencing facts, the Court noted it had reviewed, among
+
+other things, the evidence presented at the sentencing hearing. (Sentencing Tr. at 11-12,
+
+71.) The Court also considered Petitioner’s sentencing memorandum, which set forth
+
+several mitigating factors; the Court considered specifically Petitioner’s intelligence and
+
+his post-arrest efforts at rehabilitation in the Court’s consideration of the sentencing factors
+
+under 18 U.S.C. § 3553(a), and the Court concluded Petitioner’s rehabilitation efforts
+
+warranted a reduction from the high end of the guidelines range.                   (Sentencing
+
+Memorandum, ECF No. 117 at 6-8; Sentencing Tr. at 73-75.)
+
+                                              25
+       Petitioner’s claims of judicial bias at sentencing fail because they are unsupported
+
+in the record, and he has failed to demonstrate prejudice.             See United States v.
+
+Laureano-Pérez, 797 F.3d 45, 69 (1st Cir. 2015); Moreno-Morales, 334 F.3d at 145;
+
+David, 134 F.3d at 478.
+
+                                      III.   CONCLUSION
+
+       Based on the foregoing analysis, an evidentiary hearing is not warranted under
+
+Rule 8 of the Rules Governing Section 2255 Cases. In addition, I recommend the Court
+
+deny Petitioner’s motion for habeas relief under 28 U.S.C. § 2255. I further recommend
+
+that the Court deny a certificate of appealability pursuant to Rule 11 of the Rules Governing
+
+Section 2255 Cases because there is no substantial showing of the denial of a constitutional
+
+right within the meaning of 28 U.S.C. § 2253(c)(2).
+
+                                             NOTICE
+
+              A party may file objections to those specified portions of a magistrate
+       judge’s report or proposed findings or recommended decisions entered
+       pursuant to 28 U.S.C. § 636(b)(1)(B) for which de novo review by the district
+       court is sought, together with a supporting memorandum, within fourteen
+       (14) days of being served with a copy thereof. A responsive memorandum
+       shall be filed within fourteen (14) days after the filing of the objection.
+
+              Failure to file a timely objection shall constitute a waiver of the right
+       to de novo review by the district court and to appeal the district court’s order.
+
+                                                    /s/ John C. Nivison
+                                                    U.S. Magistrate Judge
+
+Dated this 23rd day of April, 2019.
+
+
+
+
+                                               26
+

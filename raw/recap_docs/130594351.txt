@@ -1,0 +1,1339 @@
+Case 1:18-cr-00066-WES-LDA Document 64 Filed 04/15/20 Page 1 of 25 PageID #: 1022
+
+
+
+                     UNITED STATES DISTRICT COURT
+                   FOR THE DISTRICT OF RHODE ISLAND
+  ___________________________________
+                                      )
+  UNITED STATES OF AMERICA            )
+                                      )
+            v.                        )    Cr. No. 18-066 WES
+                                      )
+  ARIEL ALMONTE,                      )
+                                      )
+         Defendant.                   )
+  ___________________________________)
+
+
+                        AMENDED MEMORANDUM AND ORDER
+
+  WILLIAM E. SMITH, District Judge.
+
+  I.   Procedural History
+
+        Before the Court is Ariel Almonte’s Motion to Reconsider
+
+  Defendant’s    Motion   to   Suppress    Evidence    and   Reopen   Hearing
+
+  (“Def.’s Mot. Reconsider”), ECF No. 41.        On November 18, 2019, the
+
+  Court held a hearing on this motion, at which it heard testimony
+
+  from Cranston Police Detective Ronald Fuoroli, as well as argument
+
+  from counsel. The Court granted Defendant’s Motion in a Memorandum
+
+  and Order entered on January 22, 2020, ECF No. 51.          The Government
+
+  subsequently filed a Motion to Reconsider to Correct the Errors in
+
+  the Order and to Reconsider the Ruling, ECF No. 56.            In response
+
+  to that motion, the Court now issues this Amended Memorandum and
+
+  Order, which GRANTS Defendant’s Motion to Suppress. (In a separate
+
+  Order, the Court denies the Government’s Motion to Reconsider this
+
+  ruling, ECF No. 63.      As noted in that Order, however, the Court
+
+  agrees with the Government’s request to correct one error, and to
+
+                                       1
+Case 1:18-cr-00066-WES-LDA Document 64 Filed 04/15/20 Page 2 of 25 PageID #: 1023
+
+
+
+  add several additional facts and some additional context to this
+
+  opinion.          This Amended Memorandum and Order reflects the changes
+
+  discussed in the Court’s Order denying the Government’s motion.)
+
+  II.       Findings of Fact 1
+
+       On       February   28,   2018,   while    conducting    surveillance   in   an
+
+  unmarked vehicle at a local McDonald’s, Detective Daniel Dempsey
+
+  of    the       Cranston   Police      Department   (“CPD”)    observed   what    he
+
+  described as a “hand to hand transaction” -- he saw Almonte get
+
+  out of his car in the parking lot, walk over to Richard Wiggs, who
+
+  was inside another car, and “touch hands” briefly with Wiggs. Jan.
+
+  17, 2019 Mot. to Suppress Hr’g Tr. (“Jan. 17, 2019 Hr’g Tr.”), ECF
+
+  No. 27, 144:3-4; 146:22-147:1; 150:21-23; 153:16-18; 166:4-14;
+
+  183:14-22.          Det. Fuoroli arrived later as backup and testified
+
+  that, as he approached to arrest Almonte, he saw Almonte drop a
+
+  small bag of white powder on the ground. Id. at 72:1-20.                      When
+
+  questioned, Wiggs stated that he had purchased two $40.00 bags of
+
+  “heroin with a combination of fentanyl” from Almonte that day and
+
+  “was just getting ready to use those drugs” when the police
+
+  approached. 2        Id. at 24:7-17; 190:13-20; see also id. at 156:16-
+
+
+            1   The Court sets out all the relevant facts in this order.
+
+         Wiggs told the police three months later that he had not
+            2
+
+  purchased the drugs from Almonte in the McDonald’s parking lot;
+  rather, he had purchased the drugs from him in a different location
+  in Cranston earlier that day, and was meeting him at the McDonald’s
+  to return a bag that Almonte had accidentally left in Wiggs’ car.
+  Jan. 17, 2019 Hr’g Tr. 123:14-25; 125:10–127:4; 198:16–199:13.
+                                              2
+Case 1:18-cr-00066-WES-LDA Document 64 Filed 04/15/20 Page 3 of 25 PageID #: 1024
+
+
+
+  19. Wiggs also told the police that Almonte, whom he knew as
+
+  “Socio,” was his drug dealer. 3           Id. at 24:7-9; 194:18-21. The
+
+  police recovered several phones on Almonte.          Id. at 219:11-13. 4
+
+        At the time of the alleged transaction, Almonte had his
+
+  eleven-year-old step-daughter, A.T., in the car with him.            Id. at
+
+  20:6-12; 22:8-16; 26:1-6.        After Det. Fuoroli detained Almonte,
+
+  A.T. was demonstrably upset, and Det. Fuoroli asked her some basic
+
+  questions.    Id. at 85:3-86:10.         He also ran the registration of
+
+  Almonte’s car and determined it was registered to an apartment at
+
+  355 Farmington Avenue. Id. at 27:5-19.          Det. Fuoroli then called
+
+  Williana Pimentel -- A.T.’s mother and Almonte’s wife – using a
+
+  phone number supplied by A.T. and left a message; eventually
+
+  Pimentel was reached and she came to the McDonald’s parking lot. 5
+
+  Id. at 26:24-27:4; 30:11-17; 31:4-6; 86:22-23; 87:9 - 88:24.           When
+
+  Pimentel arrived, she asked another CPD officer twice whether she
+
+  could leave with A.T. and was told “no” and that she just had to
+
+
+
+
+        3Det. Fuoroli testified that Wiggs described the drugs
+  “Socio” supplied to him as “[h]eroin with a combination of Fentanyl
+  . . . sometimes being really weak or sometimes it would be so
+  strong that it felt like it was going to kill you.” Jan. 17, 2019
+  Hr’g Tr. 24:10-17. Wiggs also provided a phone number he had for
+  Socio. Id. at 194:18-24.
+
+        4Det. Dempsey testified that carrying several phones is an
+  “indicia of a drug dealer.” Jan. 17, 2019 Hr’g Tr. 219:14-16.
+
+        5It is unclear who finally made contact with Pimentel, as
+  A.T. was also trying to reach her on her phone. Jan. 17, 2019
+  Hr’g Tr. 30:22–31:3.
+                                       3
+Case 1:18-cr-00066-WES-LDA Document 64 Filed 04/15/20 Page 4 of 25 PageID #: 1025
+
+
+
+  wait, although she was allowed to hold A.T.’s hand through the
+
+  back window of the car.          Id. at 112:24-113:3; 226:23-227:14;
+
+  228:14-229:19; Nov. 18, 2019 Def.’s Mot. to Reconsider Hr’g Tr.
+
+  (“Nov. 18, 2019 Hr’g Tr.”), 41:7-16; 66:23-24, ECF No. 50. 6
+
+        Detective Fuoroli then made his first call to the Rhode Island
+
+  Department of Children, Youth, and Families (“DCYF”) hotline,
+
+  during which he asked Pimentel questions about Almonte and relayed
+
+  the answers to the hotline operator, including the fact that
+
+  Almonte was unemployed at that time.       Gov’t Mem. in Opp’n to Def.’s
+
+  Mot. Reconsider (“Gov’t Opp’n”), ECF No. 46-1, Ex. 2(A), at 4-5,
+
+  9:13-15; Nov. 18, 2019 Hr’g Tr. 18:24–19:2; 21:3-22:21; 27:14-19.
+
+  During that same call, the hotline operator and Det. Fuoroli
+
+  discussed what the next steps would be regarding A.T. Gov’t Opp’n,
+
+  Ex. 2(A), at 9:23–10:7. The hotline operator said, “[a]s it stands
+
+  right now, [A.T. is] probably going . . . back to the mother
+
+  because . . . she’s not going to be arrested.         But if you find any
+
+  drugs in that house . . . things might change.” Id. at 9:24–10:4.
+
+
+
+
+        The chronology of events is somewhat unclear, due to Det.
+        6
+
+  Fuoroli’s stated inability to recall exact details, and the
+  contradictions between his testimony at the first hearing on the
+  Motion to Suppress and the call recordings from DCYF that have
+  since been received into evidence. See Def.’s Mot. Reconsider;
+  Gov’t Opp’n, Ex. 2(A); see also Nov. 18, 2019 Hr’g Tr. 13:15-17;
+  18:12-16; 23:7-12; 65:21-66:2 (Det. Fuoroli testified that he was
+  “not exactly clear when [Pimentel] arrived, but shortly thereafter
+  I was on the phone with DCYF . . . .”).
+
+                                       4
+Case 1:18-cr-00066-WES-LDA Document 64 Filed 04/15/20 Page 5 of 25 PageID #: 1026
+
+
+
+  Det. Fuoroli responded that he would call the hotline back. Id. at
+
+  10:5-23.
+
+         After the call was over, Pimentel again asked if she could
+
+  leave with A.T. and was told no. 7             Jan. 17, 2019 Hr’g Tr. 229:15-
+
+  19; Nov. 18, 2019 Hr’g Tr. 66:10-68:1.              Det. Fuoroli informed her
+
+  that       her   husband    had   been   caught    engaging   in   a   narcotics
+
+  transaction, and asked Pimentel who she lived with; she responded
+
+  that she lived on the first floor of 355 Farmington with her
+
+  husband Ariel and her daughter.               Jan. 17, 2019 Hr’g Tr. 37:2-16.
+
+  Det. Fuoroli then asked her if there were any weapons or narcotics
+
+  at the home and she replied that “she didn’t think so . . . [and]
+
+  [t]hat [Almonte] used to have a drug problem and that he was
+
+  recently sick.”      8     Nov. 18, 2019 Hr’g Tr. 70:25–71:5.
+
+
+
+         It is unclear if at this point Pimentel asked Det. Fuoroli
+         7
+
+  or a different police officer on the scene.      See Jan. 17, 2019
+  Hr’g Tr. 229: 15-19; Nov. 18, 2019 Hr’g Tr. 66:10-68:1.        Det.
+  Fuoroli testified that Pimentel was refused permission to leave
+  with her child at least twice, and that he did so because he
+  “didn’t hear back from DCYF to see what they wanted to do regarding
+  the incident.” Jan. 17, 2019 Hr’g Tr. 101:15-24; 112:24 – 113:3.
+  At the November 18, 2019 Hearing, Det. Fuoroli testified that
+  Pimentel could not leave because “we were still investigating the
+  incident” and that his previous testimony that he was waiting for
+  DCYF instructions was “inaccurate.” Nov. 18, 2019 Hr’g Tr. 67:18–
+  68:8.
+
+         Det. Fuoroli also testified at the January 17, 2019 hearing
+         8
+
+  that Pimentel said she “wasn’t sure” if there were drugs or weapons
+  at the house and that she “didn’t believe” there were any. Jan.
+  17, 2019 Hr’g Tr. 37:24–38:6; 128:23–129:1.
+       Additionally, according to Det. Fuoroli, Pimentel relayed the
+  information about Almonte’s drug problem before she gave her
+  consent to search the apartment she shared with Almonte. Nov. 18,
+                                            5
+Case 1:18-cr-00066-WES-LDA Document 64 Filed 04/15/20 Page 6 of 25 PageID #: 1027
+
+
+
+        Det. Fuoroli then asked Pimentel for her consent to search
+
+  her apartment, and she initially “huffed and puffed” and was
+
+  “reluctant” to do so. Jan. 17, 2019 Hr’g Tr. 40:9-25; 106:8-21;
+
+  230:13-17. Det. Fuoroli told Pimentel “it would probably be in the
+
+  best interest of the child that there be no harmful narcotics in
+
+  the apartment . . . .”      Jan. 17, 2019 Hr’g Tr. 38:20-23; see also
+
+  Jan. 17, 2019 Hr’g Tr. 108:20–109:3. Det. Fuoroli also testified
+
+  that he told Pimentel that DCYF had been called and that DCYF “was
+
+  not going to allow her to take that child back to her home until
+
+  it had been searched and made safe or made secure . . . .”             Nov.
+
+  18, 2019 Hr’g Tr. 29:22–30:5; 33:6-11; see also Jan. 17, 2019 Hr’g
+
+  Tr. 108:20–109:3; 136:4-10; 138:24–139:1; 140:22–141:4.            However,
+
+  in the recording of that call that was obtained later, the DCYF
+
+  hotline operator told Det. Fuoroli “[a]s it stands right now, [A.T.
+
+  is] probably going to [go] back to the mother . . . .” 9 Gov’t Opp’n
+
+  Ex. 2(A), at 9:24–10:2. According to Pimentel, Det. Fuoroli told
+
+  her that if she did not sign “they were going to take my daughter
+
+
+
+
+  2019 Hr’g Tr. 70:25-72:2. Pimentel’s testimony was she did not
+  tell Det. Fuoroli that information until after she had signed the
+  consent form. Jan. 17, 2019 Hr’g Tr. at 254:10-17.
+        9At   the Nov. 18,   2019 hearing, Det. Fuoroli testified that
+  he could    only explain   the inconsistencies between his original
+  testimony   and the call   recordings as “memory lapse[s].” Nov. 18,
+  2019 Hr’g   Tr. 9:24-25;   11:7-11.
+
+                                       6
+Case 1:18-cr-00066-WES-LDA Document 64 Filed 04/15/20 Page 7 of 25 PageID #: 1028
+
+
+
+  away,” and that he did not mention DCYF.           Jan. 17, 2019 Hr’g Tr.
+
+  232:18-21; 238:17-18; 255:13-14.
+
+        Pimentel asked how the search would be conducted and Det.
+
+  Fuoroli explained that CPD officers would not “tear apart the
+
+  apartment [or] break anything” and that she could “be present
+
+  during the search.” Id. at 39:3-12. According to Det. Fuoroli,
+
+  Pimentel “huffed and puffed a little bit,” and said “[f]ine or
+
+  [o]kay . . . .” Id. 39:14-16. Det. Fuoroli brought over a written
+
+  consent form, which he read to Pimentel.           Id. at 41:1-4; 42:3-4.
+
+  Pimentel asked Det. Fuoroli what would happen if she did not
+
+  consent, and he replied that “more than likely we would have to
+
+  secure the apartment and we may apply for a search warrant.”              Id.
+
+  at 42:12-13. Pimentel then signed the consent form. Id. at 43:3-
+
+  4. After she did so, Pimentel was allowed to leave with A.T. and
+
+  the officers followed them to their residence to execute the search
+
+  of   the   apartment. 10   Id.   at   113:12-20.    Pimentel   was   at   the
+
+
+
+         Det. Fuoroli originally testified that he called DCYF again
+        10
+
+  before leaving the scene, but there is no record of any such call.
+  See Jan. 17, 2019 Hr’g Tr. 43:16–44:2; 106:1-3; Nov. 18, 2019 Hr’g
+  Tr. 43:3-13. The call recordings reflect a first call to DCYF made
+  from the McDonald’s parking lot, Gov’t Opp’n Ex. 2(A), ECF No. 46-
+  1, and then three more calls made during the search of Almonte’s
+  residence. Gov’t Opp’n Exs. 2(B), 2(C), ECF Nos. 46-2, 46-3; Gov’t
+  Ex. 1D, Nov. 18, 2019 Hr’g; see also Nov. 18, 2019 Hr’g Tr. 22:25–
+  23:12.
+       A transcript of the fourth call is not attached to the
+  Government’s Opposition to Defendant’s Motion to Reconsider and
+  Reopen. That transcript was admitted as “Government’s Exhibit 1D”
+  at the hearing after the audio recording of the call (Exhibit 1D)
+  was played. Nov. 18, 2019 Hr’g Tr. 58:15–59:7. That is why it is
+                                         7
+Case 1:18-cr-00066-WES-LDA Document 64 Filed 04/15/20 Page 8 of 25 PageID #: 1029
+
+
+
+  McDonald’s parking lot for around ten minutes total. Id. at 44:17-
+
+  20.
+
+        During the search of Almonte’s residence, CPD officers seized
+
+  heroin,    fentanyl,    marijuana,    various    drug   paraphernalia,     a
+
+  firearm, and $942.00 in cash, all of which was used to charge
+
+  Almonte with possession with intent to distribute fentanyl and
+
+  possession of a firearm in furtherance of drug trafficking.           Gov’t
+
+  Mem. in Supp. of Obj. to Def’s Mot. to Suppress (“Gov’t Mem.”) 6-
+
+  7, ECF No. 20-1; see Indictment, ECF No. 9; see also Criminal
+
+  Compl., ECF No. 1.       In the middle of the search, Det. Fuoroli
+
+  called the DCYF hotline and informed the same male operator of the
+
+  drugs that had been found, and the operator said he would “write
+
+  it up.”    Gov’t Opp’n Ex. 2(B), ECF No. 46-2, at 3:11-15, 5:16-17.
+
+  After the firearm was found, the DCYF operator called Det. Fuoroli
+
+  back, Det. Fuoroli informed him of the discovery of the firearm,
+
+  and the operator told him that DCYF was sending somebody to the
+
+  house.    Gov’t Opp’n Ex. 2(C), ECF No. 46-3, at 3:14-16, 4:9-11.          A
+
+  little less than two hours after that third call, Det. Fuoroli
+
+  made a fourth call to DCYF, during which he spoke to a different,
+
+  female, operator, who did not seem aware of what had transpired in
+
+  the previous calls and indicated that he should leave A.T. with
+
+
+
+  cited here in this fashion, and the other call transcripts are
+  cited as 2(A), 2(B), and 2(C).
+
+
+
+                                       8
+Case 1:18-cr-00066-WES-LDA Document 64 Filed 04/15/20 Page 9 of 25 PageID #: 1030
+
+
+
+  Pimentel.    Jan. 17, 2019 Hr’g Tr. 49:23-50:20; Nov. 18, 2019 Hr’g
+
+  Tr. 58:15-59:9; Gov’t Ex. 1D. Eventually, a DCYF representative
+
+  did arrive and she removed A.T. from the home.         Jan. 17, 2019 Hr’g
+
+  Tr. at 237:5-25.
+
+  III.    Standard of Review
+
+         A motion to reconsider should be granted “if the moving party
+
+  presents    newly    discovered   evidence,    if   there    has   been   an
+
+  intervening change in the law, or if the movant can demonstrate
+
+  that the original decision was based on a manifest error of law or
+
+  was clearly unjust.”     United States v. Allen, 573 F.3d 42, 53 (1st
+
+  Cir. 2009).    Additionally, the Court has discretion to reconsider
+
+  its own ruling.      Pickett v. Prince, 207 F.3d 402, 407 (7th Cir.
+
+  2000) (“[A] motion to reconsider a ruling is constrained only by
+
+  the doctrine of the law of the case. And that doctrine is highly
+
+  flexible, especially when a judge is being asked to reconsider his
+
+  own ruling.”) (emphasis omitted).        Here, for the reasons explained
+
+  herein, there are good grounds to reconsider.
+
+  IV.     Discussion
+
+         A.    Whether Pimentel’s Consent Was Voluntary
+
+         Consent is an exception to the Fourth Amendment’s prohibition
+
+  on government searches of a person’s residence without a warrant.
+
+  Illinois v. Rodriguez, 497 U.S. 177, 181 (1990).            Consent may be
+
+  obtained from an occupant or “a third party who possesses common
+
+  authority over the premises.” Id. It is undisputed that Pimentel,
+
+                                       9
+Case 1:18-cr-00066-WES-LDA Document 64 Filed 04/15/20 Page 10 of 25 PageID #: 1031
+
+
+
+  as Almonte’s wife and a cohabiter of the apartment, had authority
+
+  to consent to a search of the residence; the question is whether
+
+  she was coerced into providing that consent, such that it was not
+
+  voluntarily given.
+
+        The government bears the burden of proving by a preponderance
+
+  of the evidence that consent to search was voluntarily given. Lego
+
+  v. Twomey, 404 U.S. 477, 489 (1972).          Consent is voluntary if it
+
+  is “the product of an essentially free and unconstrained choice by
+
+  its maker”; it cannot be the result of coercion, either express or
+
+  implied.    Schneckloth v. Bustamonte, 412 U.S. 218, 225 (1973).          In
+
+  assessing voluntariness, courts examine the following factors,
+
+  although none of them are dispositive: “(i) the consenter’s age,
+
+  education, past experiences, and intelligence; (ii) whether law
+
+  enforcement officials advised the consenter of his constitutional
+
+  right to refuse consent; (iii) the length and conditions of the
+
+  consenter’s detention and/or questioning; and (iv) law enforcement
+
+  officials’ use of any inherently coercive tactics.”           United States
+
+  v. Perez-Diaz, 848 F.3d 33, 39 (1st Cir. 2017) (quoting United
+
+  States v. Vanvliet, 542 F.3d 259, 264 n.2 (1st Cir. 2008)).
+
+        Courts have long recognized that the “psychological coercion
+
+  generated by concern for a loved one” can affect a person’s
+
+  “capacity for self control.”         United States v. Tingle, 658 F.2d
+
+  1332, 1336 (9th Cir. 1981) (internal citation omitted).           The “mere
+
+  fact that a defendant is placed under some psychological pressure
+
+                                       10
+Case 1:18-cr-00066-WES-LDA Document 64 Filed 04/15/20 Page 11 of 25 PageID #: 1032
+
+
+
+  by agents does not necessarily render a confession involuntary.”
+
+  United States v. Jacques, 744 F.3d 804, 811 (1st Cir. 2014)
+
+  (quotation     marks    and    internal   citations    omitted).      However,
+
+  “[w]hen     law   enforcement     officers     deliberately    prey   upon   the
+
+  maternal instinct and inculcate fear in a mother that she will not
+
+  see her child in order to elicit ‘cooperation,’ they exert . . .
+
+  ‘improper influence.’”         Tingle, 658 F.2d at 1336 (quoting Molloy
+
+  v. Hogan, 378 U.S. 1, 7 (1964)); see also United States v. Tibbs,
+
+  49 F. Supp.2d 47, 53 (D. Mass. 1999) (finding it “more likely than
+
+  not that the police said to [defendant’s girlfriend] perhaps the
+
+  one thing guaranteed to secure her consent, that her child would
+
+  be taken away if she did not consent . . . . Once they threatened
+
+  her child, there was no question that she would succumb – hardly
+
+  voluntarily.”).        The question here then is whether what Fuoroli
+
+  said   to   Pimentel     was    enough    to   cross   the   line   from   “some
+
+  psychological pressure” to “improper influence.”
+
+         In its original Memorandum and Order denying Almonte’s Motion
+
+  to Suppress, this Court unequivocally credited Det. Fuoroli’s
+
+  testimony that he told Pimentel that DCYF would not let her back
+
+  into the apartment until they were satisfied there was nothing
+
+  harmful for the child there.         Apr. 1, 2019 Mem. and Order 11, ECF
+
+  No. 32 (“April 2019 Order”) (“[B]ased on all the other facts and
+
+  circumstances in which this threat was allegedly made, the Court
+
+  does not find [Pimentel’s] testimony credible; instead, it credits
+
+                                           11
+Case 1:18-cr-00066-WES-LDA Document 64 Filed 04/15/20 Page 12 of 25 PageID #: 1033
+
+
+
+  Det.    Fuoroli’s        version   of   events.”).      As    described   above,
+
+  subsequent to the Court’s original decision it became apparent
+
+  that the recordings of the calls between Detective Fuoroli and
+
+  DCYF existed.          Once these recordings were obtained and introduced
+
+  into        evidence    at   the   hearing    on     Defendant’s   Motion   for
+
+  Reconsideration, and after considering Det. Fuoroli’s testimony at
+
+  the hearing, the Court is no longer confident that Det. Fuoroli’s
+
+  initial testimony as to what he told Pimentel is accurate. 11
+
+  However, the Court also does not find Pimentel’s version of events
+
+  -- that Det. Fuoroli said he would take her child away if she
+
+  withheld consent -- entirely credible either.                Jan. 17, 2019 Hr’g
+
+  Tr. 230:13-20.
+
+         What the Court does know, from the call recordings, is that
+
+  Det. Fuoroli was not merely repeating to Pimentel what DCYF told
+
+  him on the phone. 12         In fact, he made a subtle but significant
+
+
+
+         To be absolutely clear – the Court does not think that Det.
+         11
+
+  Fuoroli deliberately lied – rather it is now clear that he was
+  unable to accurately remember and recount the conversations he had
+  with Pimentel and DCYF. For example, Det. Fuoroli stated that the
+  DCYF operator “told me straight out that the child is not going to
+  go back to the house until we’re sure there’s nothing harmful,”
+  Jan. 17, 2019 Hr’g Tr. 138:24–139:1, that he “definitely”
+  remembered DCYF telling him that “they wouldn’t let her child back
+  into that house or that apartment,” id. at 140:22–141:4, and that
+  “DCYF told [him] that . . .they could not let that child back into
+  the apartment until it was deemed safe,” id. at 141:22-25. See
+  also infra nn. 5,7,8.
+
+          The Court’s belief in the accuracy of Det. Fuoroli’s
+         12
+
+  comments to Pimentel were a significant factor in the Court’s
+  original ruling. April 2019 Order 11 (“When Pimentel asked him
+                                           12
+Case 1:18-cr-00066-WES-LDA Document 64 Filed 04/15/20 Page 13 of 25 PageID #: 1034
+
+
+
+  change:    DCYF informed him that “[a]s it stands right now, [A.T.
+
+  is] probably going to [go] back to the mother,” but Det. Fuoroli
+
+  told Pimentel that DCYF “was not going to allow her to take that
+
+  child back to her home until it had been searched and made safe or
+
+  made secure.”     Gov’t Opp’n Ex. 2(A), at 9:24–10:2; Nov. 18, 2019
+
+  Hr’g Tr. 29:25–30:5.       Det. Fuoroli changed A.T.’s default status
+
+  from going back to her mother unless something harmful was found
+
+  in the house to not going back to Pimentel until the house was
+
+  cleared. This shift by Det. Fuoroli makes the tactic more coercive
+
+  than if he had merely parroted what DCYF had told him. See Janusiak
+
+  v. Cooper, 937 F.3d 880, 891-92 (7th Cir. 2019) (holding that the
+
+  police can speak truthfully about the likely consequences for
+
+  children when a parent is arrested but “any statements about a
+
+  child’s custody should not be false; otherwise the suspect’s will
+
+  may be overborne . . . .”); United States v. Ivy, 165 F.3d 397,
+
+  403 (6th Cir. 1998) (finding that the “unequivocal[]” statement
+
+  made by the police that if defendant did not consent to the search,
+
+  his child would go into state custody, was not accurate and
+
+  therefore was “not merely trying to provide [defendant] with data
+
+
+
+
+  directly if they were going to take A.T. away, Det. Fuoroli
+  truthfully responded . . . .”)(emphasis added); id. at 12 (“Here,
+  Det. Fuoroli did not use the specter of removing A.T. to ‘prey’ on
+  Pimentel’s maternal instinct; rather, he conveyed accurate
+  information based on what he knew from DCYF at the time.”)
+  (emphasis added). In light of the recordings, these conclusions
+  were obviously incorrect.
+                                       13
+Case 1:18-cr-00066-WES-LDA Document 64 Filed 04/15/20 Page 14 of 25 PageID #: 1035
+
+
+
+  upon    which     to   base   his   decision       to   consent,     but   rather   was
+
+  attempting       to    overcome     [his]        resolution   not     to   consent.”)
+
+  (emphasis in original).             This is especially so when the Court
+
+  considers the possibility, as discussed above, that Det. Fuoroli’s
+
+  actual words to Pimentel may have veered closer to a threat than
+
+  what he admitted or recalled. 13
+
+         Pimentel’s       subjective      understanding,         provided       it    was
+
+  reasonable, is another factor in determining whether her consent
+
+  was voluntary.         See Tingle, 658 F.2d at 1336 (“We think it clear
+
+  that the purpose and objective of the interrogation was to cause
+
+  [the defendant] to fear that, if she failed to cooperate, she would
+
+  not see her young child for a long time . . . such would be the
+
+  conclusion which [the defendant] could reasonably be expected to
+
+  draw from the agent’s use of this technique”); United States v.
+
+  Harvey, No. 3:07-CR-00103-RRB-DMS, 2008 WL 11395588, at *9 (D.
+
+  Alaska Apr. 1, 2008) (“The court has to look at the subjective
+
+  state       of   the   person     who   consents        and   must    look    at    the
+
+  reasonableness of their fear.”).                 Pimentel’s stated understanding
+
+  was that the police were going to take her child away if she did
+
+  not sign the consent form, and that she had to sign the form in
+
+  order to leave with A.T.             Jan. 17, 2019 Hr’g Tr. 230:13-231:4;
+
+
+
+         None of this is to suggest that in the event DCYF had said
+         13
+
+  it wanted the home searched, law enforcement would be permitted to
+  use this with impunity. This issue is not before the Court.
+
+                                              14
+Case 1:18-cr-00066-WES-LDA Document 64 Filed 04/15/20 Page 15 of 25 PageID #: 1036
+
+
+
+  232:12-24; 238:13-24.      This subjective belief was not unreasonable
+
+  where Pimentel had already asked multiple times if she could leave
+
+  with her child and was refused, and where there is no evidence
+
+  that she had prior experience with the police or the criminal
+
+  justice system.       Id. at 101:15-24; 112:24-113:3; 226:23-227:14;
+
+  see also United States v. Jackson, 918 F.2d 236, 242 (1st Cir.
+
+  1990)   (noting    that   defendants    who   lack   familiarity   with   the
+
+  criminal    justice   system    may    be   particularly   “susceptible   to
+
+  psychological coercion”).
+
+        In considering whether Pimentel’s consent was involuntary,
+
+  United States v. Bey, 52 F. Supp. 3d 299 (D. Mass. 2014), aff’d,
+
+  825 F.3d 75 (1st Cir. 2016), is instructive.           In that case, while
+
+  the police were executing a warrant for defendant’s arrest at the
+
+  home of Clarissa Summons, they attempted to obtain her consent to
+
+  search the home.      Bey, 52. F. Supp.3d at 301, 305.         Summons’s son
+
+  also lived there and was present at the time of the arrest.               Id.
+
+  The officer who first spoke with Summons mentioned contacting child
+
+  protective services, but did not refer directly to the possibility
+
+  of removing her son from the home; following that conversation,
+
+  another officer brought over a “consent to search” form and asked
+
+  her permission to search the premises.           Id. at 301.    Summons was
+
+  told that she was free to withhold consent, but that if she did,
+
+  she and her son would have to leave for several hours while police
+
+
+
+                                         15
+Case 1:18-cr-00066-WES-LDA Document 64 Filed 04/15/20 Page 16 of 25 PageID #: 1037
+
+
+
+  secured the home and obtained a warrant.                Id. at 301-02.         She
+
+  signed the consent form.        Id. at 302.
+
+        The District Court found Summons’ consent was voluntarily
+
+  given.     Id. at 305.       The Court explained that the officer never
+
+  referenced the possibility that Summons’s son could be removed
+
+  from the home or “linked the consent to search with any threats or
+
+  promises    relating   to”     child   protective     services    and,    on   the
+
+  contrary,    the   officer     “sat    down   with    Summons    and   carefully
+
+  described the terms of the consent form to her . . . she did not
+
+  manifest any noticeable angst, apprehension, or anxiety when she
+
+  signed the form.”      Id.
+
+        That scenario is markedly different from what occurred here.
+
+  Even taking Det. Fuoroli’s testimony at face value, he referenced
+
+  the possibility that DCYF “would not let [A.T.] go back to the
+
+  house,”    and   explicitly     linked    that   possibility     to    Pimentel’s
+
+  consent to search.     Jan. 17, 2019 Hr’g Tr. 136:4-10; see also Nov.
+
+  18, 2019 Hr’g Tr. 29:22-30:5.            While Det. Fuoroli testified that
+
+  he read the search form to Pimentel, it must have been done very
+
+  briefly, since he also testified Pimentel was only at the scene
+
+  for a total of ten minutes.        Jan. 17, 2019 Hr’g Tr. 42:3-4; 44:17-
+
+  20.    And Pimentel, unlike Summons, showed signs of angst and
+
+  anxiety when she refused consent at first and “huffed and puffed
+
+  and . . . gave [Det. Fuoroli] a stare.”              Id. at 106:20-23.
+
+
+
+                                           16
+Case 1:18-cr-00066-WES-LDA Document 64 Filed 04/15/20 Page 17 of 25 PageID #: 1038
+
+
+
+         Therefore, in evaluating the case law and applying it to the
+
+  totality of the circumstances here, particularly the Court’s new
+
+  understanding that Det. Fuoroli’s statements to Pimentel were at
+
+  odds with what DCYF actually told him, the Court finds that
+
+  Pimentel’s will was overborne by Det. Fuoroli’s coercive tactics
+
+  and thus her consent to search was not voluntarily given. 14
+
+         B.   Inevitable Discovery
+
+         In its original Order denying the Motion to Suppress, this
+
+  Court found that, even without Pimentel’s consent, the contraband
+
+  recovered from Almonte’s residence would inevitably have been
+
+  discovered when the police applied for and were granted a search
+
+  warrant.    April 2019 Order 13.     The Court also reverses its ruling
+
+  on this point, finding that its previous ruling was an error of
+
+  law.    See Allen, 573 F.3d at 53.
+
+         The inevitable discovery doctrine provides:
+
+              Evidence which comes to light by unlawful
+              means nonetheless can be used at trial if it
+              ineluctably would have been revealed in some
+              other (lawful) way, so as long as (i) the
+              lawful means of its discovery are independent
+              and would necessarily have been employed; (ii)
+              discovery by that means is in fact inevitable,
+              and (iii) application of the doctrine in a
+
+
+
+          The Court does not disturb its previous ruling that
+         14
+
+  Pimentel’s temporary detention was a reasonable exercise of the
+  CPD officers’ “community caretaking function.” See United States
+  v. Coccia, 446 F.3d 233, 238 (1st Cir. 2006) (aiding those in
+  distress, combatting actual hazards and preventing potential
+  hazards from materializing are some of the community caretaking
+  functions); see also April 2019 Order 10 n.2.
+                                       17
+Case 1:18-cr-00066-WES-LDA Document 64 Filed 04/15/20 Page 18 of 25 PageID #: 1039
+
+
+
+               particular case will not sully the prophylaxis
+               of the Fourth Amendment.
+
+  United States v. Lee, Cr. No. 17-120 WES, 2018 WL 3873668, at *8
+
+  (D.R.I. Aug. 15, 2018) (quoting United States v. Zapata, 18 F.3d
+
+  971, 978 (1st Cir. 1994)).       The parties agree that if Pimentel had
+
+  not consented (or because her consent was involuntary) the only
+
+  alternative “lawful means” available to CPD officers in this case
+
+  was to obtain a search warrant for Almonte’s home.
+
+        A search warrant application must reveal probable cause to
+
+  believe two things: (1) “that a crime has occurred” and (2) “that
+
+  specified evidence of the crime will be at the search location.”
+
+  United States v. Rivera, 825 F.3d 59, 63 (1st Cir. 2016); see U.S.
+
+  Const. amend. IV.      When establishing that specified evidence of a
+
+  crime will be at the search location, the magistrate must “make a
+
+  practical,     common-sense      decision       whether,        given     all    the
+
+  circumstances set forth in the affidavit before him . . . there is
+
+  a fair probability that contraband or evidence of a crime will be
+
+  found in a particular place.”           United States v. Feliz, 182 F.3d
+
+  82, 86 (1st Cir. 1999) (quoting Illinois v. Gates, 462 U.S. 213,
+
+  238 (1983)).     Although “a law enforcement officer’s training and
+
+  experience    may    yield   insights    that    support    a    probable       cause
+
+  determination,” the First Circuit has held that police must provide
+
+  additional “specific facts connecting the drug dealing to the home”
+
+  to   establish      probable   cause     for    searching       the     defendant’s
+
+
+                                          18
+Case 1:18-cr-00066-WES-LDA Document 64 Filed 04/15/20 Page 19 of 25 PageID #: 1040
+
+
+
+  residence.     United States v. Bain, 874 F.3d 1, 23-24 (1st Cir.
+
+  2017)      (quotation    marks    and        internal   citation    omitted).
+
+  Additionally, regardless of whether probable cause existed at the
+
+  time, the Court must determine whether or not CPD officers would
+
+  have actually sought a search warrant for the residence, and the
+
+  Court finds they would have done so in this case.                  See United
+
+  States v. Finucan, 708 F.2d 838, 843 (1st Cir. 1983); see also
+
+  Jan. 17, 2019 Hr’g Tr. 124:10-15.
+
+        This Court based its original ruling on the following facts
+
+  that it found Detectives Fuoroli and Dempsey were aware of after
+
+  Almonte’s arrest and before Pimentel signed the consent form:
+
+               that Almonte had been observed engaging in a
+               “hand to hand” narcotics transaction with
+               Wiggs; that Wiggs had given a formal written
+               statement   explaining   that  he    had  just
+               purchased drugs from Almonte; that Almonte had
+               dropped a baggie full of drugs on the ground
+               when officers approached; that Almonte had
+               executed the drug transaction in front of his
+               eleven-year-old    stepdaughter;    and   that
+               Pimentel denied the presence of narcotics or
+               weapons in the home, 15 but admitted that
+               Almonte had a history of drug addiction and
+               had recently been “drug sick.”
+
+  April 2019 Order 15-16.
+
+
+
+
+        15The Court’s characterization in its April 2019 Order was
+  not entirely accurate. The Court notes in the “Findings of Fact”
+  section of the instant Order that Pimentel did not unequivocally
+  deny the presence of narcotics or weapons in the home. See infra
+  p. 5 and note 8.
+                                          19
+Case 1:18-cr-00066-WES-LDA Document 64 Filed 04/15/20 Page 20 of 25 PageID #: 1041
+
+
+
+        In   this   Amended    Order,    the      Court   also   considers    these
+
+  additional facts: that Almonte had several phones on him when he
+
+  was arrested, that Almonte was unemployed, that Wiggs told the
+
+  police that Almonte (whom he referred to as “Socio”) was his drug
+
+  dealer, and that Wiggs described the type of drugs Almonte supplied
+
+  and provided a phone number for him. Jan. 17, 2019 Hr’g Tr. 24:7-
+
+  17; 194:18-24; 219:11-16; Nov. 18, 2019 Hr’g Tr. 27:14-19.                      The
+
+  Court also takes into account that Det. Fuoroli, who has extensive
+
+  experience in narcotics investigations, testified that he had
+
+  “encountered circumstances . . . where individuals who distribute
+
+  narcotics maintain evidence of that narcotics trafficking at their
+
+  residence,” and that he would have included this in an affidavit
+
+  for a search warrant. Id. at 6:21-7:14; 130:2-13.
+
+        However, courts have held that, in order to obtain a search
+
+  warrant for a residence, to support the inference that there will
+
+  be drugs or other contraband in the home, some additional evidence
+
+  is required to establish a nexus between the drug dealing and the
+
+  home beyond “general information from police officers that drug
+
+  dealers tend to store evidence in their homes.”                Bain, 874 F.3d at
+
+  23-24; see also Rivera, 825 F.3d at 66 (“We might very well have
+
+  reached    a   different    result    had   a   commonsense     reading    of   the
+
+  evidence not indicated that [the defendant] participated in a drug-
+
+  related phone call from his home. But with that inference, there
+
+  is enough probable cause to believe evidence of his drug-pushing
+
+                                         20
+Case 1:18-cr-00066-WES-LDA Document 64 Filed 04/15/20 Page 21 of 25 PageID #: 1042
+
+
+
+  activities would be at his house.”); United States v. Barnes, 492
+
+  F.3d 33, 37 (1st Cir. 2007) (“Here, given both that the CI stated
+
+  that [the defendant] lived at the . . . residence and that the
+
+  police observed [the defendant] exit the . . . residence, drive
+
+  away, and sell drugs on the day of his arrest and the search, the
+
+  totality of the circumstances strongly suggested that there was
+
+  evidence of drug dealing at the . . . residence.”); United States
+
+  v.   Ribeiro,   397   F.3d   43,   52   (1st   Cir.   2005)   (finding   nexus
+
+  established from drug dealing to residence where the police were
+
+  “virtually certain” defendant left his house carrying the drugs he
+
+  was about to sell); United States v. Brandao, 270 F. Supp. 3d 485,
+
+  490 (D. Mass. 2017) (finding enough nexus to residence for probable
+
+  cause where police observed that on three of the four controlled
+
+  buys, the defendant left the residence shortly after making contact
+
+  with the undercover detective and went directly to the location of
+
+  the drug transaction).
+
+        In one of the most recent cases on the subject, United States
+
+  v. Roman, 942 F.3d 43 (1st Cir. 2019), the First Circuit explained
+
+  that, while a “nexus” between evidence sought and the place to be
+
+  searched “need not, and often will not, rest on direct observation,
+
+  but rather can be inferred . . . we have not permitted this
+
+  inference to be applied lightly.” Roman, 942 F.3d at 51 (quoting
+
+  Feliz, 182 F.3d at 88).         The First Circuit was explicit: “[w]e
+
+  have rejected a per se rule automatically permitting the search of
+
+                                          21
+Case 1:18-cr-00066-WES-LDA Document 64 Filed 04/15/20 Page 22 of 25 PageID #: 1043
+
+
+
+  a defendant’s home when he has engaged in drug activity.” Id.
+
+  Specifically, the Court noted that “generalized observations” such
+
+  as general information from police officers regarding where drug
+
+  dealers     store     drugs    “should      be   ‘combined    with    specific
+
+  observations’ or facts ‘connecting the drug dealing to the home’
+
+  to permit an inference of nexus to a defendant’s residence.”                Id.
+
+  at 52 (quoting Ribeiro, 397 F.3d at 50-51 16; Bain, 874 F.3d at 24).
+
+        The First Circuit then found that police had not shown the
+
+  required    “nexus”    where   the   warrant     affidavit   “contain[ed]    no
+
+  specific facts or observations connecting [defendant’s] alleged
+
+  drug activity to his home . . . it fail[ed] to even on one occasion
+
+  place [the defendant] himself at the residence, let alone in
+
+  connection with drug crimes.”         Id.    Accordingly, that Court found
+
+  there was no probable cause to search defendant’s residence and
+
+  the fruits of the search had been properly suppressed.               Id. at 55.
+
+         Here, the police knew the following facts about Almonte at
+
+  the time they would have applied for a search warrant: he had sold
+
+  drugs to Wiggs; dropped a bag of drugs on the ground; brought his
+
+  stepdaughter A.T. with him to that drug transaction after picking
+
+
+
+
+        16The First Circuit in Ribeiro specifically noted that
+  general observations from police in a warrant affidavit as to where
+  drug dealers store contraband “contribute[ed] significantly to the
+  probable-cause determination” when they were “combined with
+  specific observations about Ribeiro’s movements back and forth
+  from his residence in relation to drug transactions . . . .” 397
+  F.3d at 50-51.
+                                        22
+Case 1:18-cr-00066-WES-LDA Document 64 Filed 04/15/20 Page 23 of 25 PageID #: 1044
+
+
+
+  her up from school; was known to Wiggs as a drug dealer named
+
+  Socio; had several phones on him at the time of his arrest; and
+
+  was unemployed. Jan. 17, 2019 Hr’g Tr. 24:7-9; 72:1-73:13; 194:18-
+
+  24; 200:7-8; 219:11-16; 260:6-11; Nov. 18, 2019 Hr’g Tr. 27:14-
+
+  19. Further, Pimentel “didn’t think” there were drugs or weapons
+
+  in the house, and Almonte used to have a drug problem and had
+
+  recently been “sick.”      Nov. 18, 2019 Hr’g Tr. 70:25–71:5; see also
+
+  Jan. 17, 2019 Hr’g Tr. 37:24–38:6; 128:23-129:1.
+
+        None    of    the    above    facts     constitutes        a     “specific
+
+  observation[]” or fact that would “connect” Almonte’s drug dealing
+
+  and his home, as required by Roman. 942 F.3d at 52.                   Pimentel’s
+
+  description    of   Almonte   as   “drug    sick”   does   not       establish   a
+
+  sufficient nexus between his drug selling (as opposed to using)
+
+  and his residence. 17     Almonte’s alleged drug usage, and whatever
+
+  sickness it caused him, is irrelevant to what would have been the
+
+  basis of the search warrant – Almonte’s alleged sale of drugs to
+
+  Wiggs and the possibility of contraband related to that sale being
+
+  in his residence. And while Wiggs had bought drugs from Almonte
+
+
+
+
+        17Notably, it is not clear that Pimentel ever actually used
+  the phrase “drug sick” to describe Almonte. Det. Fuoroli testified
+  that she stated that “her husband used to have a drug problem in
+  the past and that he had recently been sick”, and her testimony
+  does not contradict that. Jan. 17, 2019 Hr’g Tr. 38:4-12; 254:10-
+  17. Additionally, it is possible that Pimentel did not even tell
+  Det. Fuoroli about Almonte being sick until after she signed the
+  consent form. Id. at 254:10-17.
+
+
+                                       23
+Case 1:18-cr-00066-WES-LDA Document 64 Filed 04/15/20 Page 24 of 25 PageID #: 1045
+
+
+
+  before, and had his phone number, he did not indicate to police
+
+  that he knew where Almonte lived or that he had ever bought drugs
+
+  from his house, and Pimentel “didn’t think” that there were drugs
+
+  or weapons in the house. 18 Nov. 18, 2019 Hr’g Tr. 70:25–71:5.
+
+        The only evidence that directly connected Almonte’s alleged
+
+  drug transaction to his residence is the fact that he had his
+
+  stepdaughter A.T. with him at the time, whom he had picked up from
+
+  school.      Jan. 17, 2019 Hr’g Tr. 200:7; 260:6-11.          The police did
+
+  not witness Almonte going to or from his house before or after an
+
+  alleged drug transaction took place, nor did any confidential
+
+  informant or other source see such activity or purchase drugs from
+
+  Almonte’s home. See id. at 132:20-23. The police never witnessed
+
+  Almonte making drug-related phone calls from his house. In weighing
+
+  the evidence, the Court finds that, while this is arguably a close
+
+  call,      the   lack   of   evidence   connecting   the   drug   activity   to
+
+  Almonte’s house makes this case most analogous to Roman. 19
+
+
+        18While it has no bearing on what the police knew at the
+  time, at an interview with police three months later, Wiggs stated
+  that he did not know where Almonte lived, although he assumed it
+  was somewhere in the area of Farmington Avenue because that is
+  where he met him, and that he had never purchased drugs from his
+  home. Jan. 17, 2019 Hr’g Tr. 132:11-19.
+
+         In United States v. Feliz, 182 F.3d 82, 87-88 (1st Cir.
+        19
+
+  1999), the First Circuit did hold that it could be reasonably
+  inferred that a defendant kept information related to his drug
+  transactions in his residence, even without direct observation.
+  However, Feliz is distinguishable because there, the police had
+  reliable detailed information that the defendant had a twelve-year
+  career in drug trafficking. See id. at 87.
+                                          24
+Case 1:18-cr-00066-WES-LDA Document 64 Filed 04/15/20 Page 25 of 25 PageID #: 1046
+
+
+
+        The Court finds that law enforcement could not have shown a
+
+  sufficient nexus between Almonte’s alleged drug transaction and
+
+  his residence that would have enabled them to meet the probable
+
+  cause standard for a search warrant.             Therefore, the evidence
+
+  recovered from Almonte’s residence is suppressed.
+
+  V.    Conclusion
+
+        For the reasons stated herein, the Court GRANTS Defendant’s
+
+  Motion to Reconsider Defendant’s Motion to Suppress Evidence and
+
+  Reopen Hearing, ECF No. 41, finding that Williana Pimentel’s
+
+  consent to search the apartment she shared with Ariel Almonte was
+
+  not voluntarily given, and that the independent discovery of the
+
+  contraband from that home was not inevitable.           The Court’s order
+
+  denying the Defendant’s Motion to Suppress set forth in the April
+
+  1, 2019 Memorandum and Order, ECF No. 32, is VACATED.           Defendant’s
+
+  Motion to Suppress, ECF No. 18, is hereby GRANTED; the evidence
+
+  seized from Defendant’s residence incident to the search conducted
+
+  on February 28, 2018 is suppressed.
+
+
+
+  IT IS SO ORDERED.
+
+
+
+  William E. Smith
+  District Judge
+  Date: April 15, 2020
+
+
+
+
+                                       25
+

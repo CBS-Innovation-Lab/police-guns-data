@@ -1,0 +1,646 @@
+Case 2:08-cr-00178-DBH Document 76 Filed 05/23/12 Page 1 of 13                      PageID #: 296
+
+
+
+                             UNITED STATES DISTRICT COURT
+
+                                      DISTRICT OF MAINE
+
+
+DAVID KENNETH PREISEL,    )
+                          )
+     Movant               )
+v.                        )               2:08-cr-00178-DBH
+                          )
+                          )               2:11-cv-00359-DBH
+UNITED STATES OF AMERICA, )
+                          )
+     Respondent           )
+
+
+               RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+       David Preisel, convicted of cocaine, heroin, and firearms offenses and serving a 144-
+
+month sentence, has moved pursuant to 28 U.S.C. § 2255 to vacate, set aside, or correct the
+
+sentence he received, asserting three separate grounds for relief. Grounds one and three assert, in
+
+rather undeveloped fashion, a direct claim that Preisel’s rights under the Fifth Amendment to the
+
+United States Constitution were violated because his statements were improperly used against
+
+him and that his rights were also violated under the Fourteenth Amendment because he was
+
+denied due process and equal protection of the laws. However, the crux of Preisel’s petition is
+
+found in ground two, which asserts that his sixth amendment right to effective assistance of
+
+counsel was violated, specifically because his counsel failed to challenge the admissibility of
+
+statements he made to the police at the time of his initial encounter with them and because
+
+counsel lied to him and coerced him into agreeing to plead guilty. Preisel also argues that
+
+counsel was ineffective in failing to familiarize himself with the law and facts of Preisel’s case
+
+and failing to conduct his own investigation into the case, although Preisel does not indicate what
+
+exculpatory evidence that investigation might have produced. Having reviewed the expanded
+Case 2:08-cr-00178-DBH Document 76 Filed 05/23/12 Page 2 of 13                    PageID #: 297
+
+
+
+record provided to the Court by the parties, I now recommend that the Court deny Preisel’s
+
+petition and enter a summary dismissal of the proceedings without further evidentiary hearing.
+
+                              RELEVANT PROCEDURAL HISTORY
+
+       Charged with cocaine, heroin, and firearms offenses, David Preisel pleaded guilty under
+
+an agreement that waived his right to appeal “[a] sentence of imprisonment that does not exceed
+
+180 months.” (ECF No. 7.) In the absence of a Government cooperation-based motion, Preisel
+
+faced a mandatory minimum sentence of 10 years on the cocaine charge and 5 years consecutive
+
+on the firearms offense. As a result of the Government cooperation-based departure motion, the
+
+Court actually imposed a combined term of 144 months, 96 months on the drug charges and 48
+
+months to be served consecutively on the firearms charges. (ECF No. 29.) Preisel filed a pro se
+
+notice of appeal (ECF. No. 32) which led to a summary affirmance by the First Circuit Court of
+
+Appeals noting that enforcement of the waiver of appeal provision would not work a miscarriage
+
+of justice. (ECF No. 44.)
+
+       At the sentencing hearing the Court determined that the guideline range would be 210 to
+
+262 months, and that application of the statutory consecutive minimum of five years brought the
+
+range to 270 to 322 months. (S. Tr. 17.) Fully cognizant of its departure authority, the Court
+
+concluded that “the statutory mandatory minimums do adequately reflect the sentencing factors
+
+at work here in Section 3553(a)” and made the statutory mandatory minimum term of 180
+
+months an appropriate sentence upon which to base its further consideration of the Government’s
+
+motion regarding cooperation. After reviewing the Government’s departure motion and
+
+supporting letter, the Court concluded that a 20 percent departure should be applied as
+
+recommended, bringing the sentence to 144 months. (S.Tr. 21.)
+
+
+
+
+                                                2
+Case 2:08-cr-00178-DBH Document 76 Filed 05/23/12 Page 3 of 13                       PageID #: 298
+
+
+
+       Once Preisel filed this timely § 2255 petition, the parties expanded the record by
+
+submitting certain exhibits from trial counsel’s file and other police records. (ECF No. 61.)
+
+Preisel’s Exhibit 1A is a redacted page 3 of a 5-page report by an unidentified author describing
+
+some of the circumstances leading to Preisel’s arrest. Preisel’s Exhibits 2A-3A are duplicate
+
+copies of the same January 7, 2009, letter counsel wrote to Preisel, at Preisel’s request, while
+
+Preisel was at the Strafford (N.H.) Jail, discussing the need for Preisel to make a decision
+
+regarding cooperation and advising Preisel of the admissibility of certain statements made during
+
+his proffer session. Exhibits 4 and 5 consist of docket entries and CJA billing information from
+
+Preisel’s case. Exhibit 6 is an October 5, 2008, letter from trial counsel to Preisel that enclosed
+
+the discovery materials counsel had received from the Government. Exhibit 7A is one page of
+
+an undated investigative report of an unidentified author describing information from unnamed
+
+sources that produced the arrest. Preisel’s Exhibits 7B & C appear to be selected portions of the
+
+same police report. Exhibit 8 is a September 11, 2008, letter from trial counsel to Preisel at an
+
+address in Alfred, Maine summarizing the results of a meeting with the Assistant United States
+
+Attorney.
+
+       The Government also submitted its own exhibits in support of the expanded record.
+
+Government Exhibit 1 is a proffer agreement between Preisel and the United States Attorney
+
+with the handwritten date July 14, 2008. The agreement specified that the Government did not
+
+agree to make any motions in Preisel’s behalf or promise to enter a plea agreement, but would
+
+only assess the proffer information for purposes of making prosecutorial decisions. After
+
+specifying the circumstances under which Preisel’s statements could be used, the agreement
+
+provided in paragraph 5 that Preisel “waives the application of Fed. R. Evid. 410 and Fed. R.
+
+Crim. P. 11(f) as to any statement that he . . . makes pursuant to this agreement and which
+
+
+
+                                                  3
+Case 2:08-cr-00178-DBH Document 76 Filed 05/23/12 Page 4 of 13                     PageID #: 299
+
+
+
+the government is otherwise entitled under this agreement to introduce in evidence.” The proffer
+
+agreement bore the signatures of Preisel, defense counsel, and two representatives of the
+
+Government.
+
+       Government Exhibit 2 is a September 16, 2008, letter from trial counsel to Preisel. In it,
+
+counsel advised Preisel “to reconsider any decision to litigate issues that you have already
+
+admitted to” and reminded him that statements he made at the proffer session could be used to
+
+impeach him if he testified at trial and also to counter any defense. Trial counsel also reminded
+
+Preisel that cooperation meant “full cooperation and acceptance of responsibility.” He told
+
+Preisel that at offense level 34 and criminal history category III, his Guideline range would be
+
+188 to 235 months followed by a mandatory minimum of five years on the firearms count. Trial
+
+counsel expressed his belief that “we may be able to do much better” if the Government filed a
+
+cooperation-based departure motion, which would enable the Court to ignore the mandatory
+
+minimum term on the firearms charge. Nielsen explained that the plea agreement “that you need
+
+to sign” provided no guarantee the Government would seek a downward departure and permitted
+
+an appeal only of a sentence in excess of 180 months.
+
+       Counsel advised Preisel to “make yourself the star witness for the Federal prosecutor and
+
+cooperate fully to assure the Government’s request for a downward departure.” Preisel’s
+
+substantial cooperation would “likely cause a sentence close to or below the 180 month cap as
+
+per the plea agreement.” It was up to Preisel to decide. The Government was prepared to
+
+present Preisel before the grand jury “but to do that you need to execute these documents.”
+
+Government Exhibit 3 contains handwritten notes reading: “D must cooperate w/ Gov to get
+
+below 180 months.” The notes continue: “no cooperation, no acceptance = Base level 36 or 38 -
+
+this could get 30 to life range.”
+
+
+
+                                                 4
+Case 2:08-cr-00178-DBH Document 76 Filed 05/23/12 Page 5 of 13                      PageID #: 300
+
+
+
+                       INEFFECTIVE ASSISTANCE OF COUNSEL STANDARD
+
+       Preisel’s 28 U.S.C. § 2255 claims are dependent on proving ineffective assistance of
+
+counsel under the Strickland v. Washington, 466 U.S. 668 (1984) Sixth Amendment standard
+
+and Hill v. Lockhart, 474 U.S. 52 (1985), a case addressing ineffective assistance claims related
+
+to plea decisions. His first and third grounds, alleging barebones constitutional violations, have
+
+no traction at all unless viewed through the lens of ineffective assistance of counsel. “In order to
+
+prevail,” Preisel must show “both that counsel’s representation fell below an objective standard
+
+of reasonableness and that there exists a reasonable probability that, but for counsel’s
+
+unprofessional errors, the result of the proceeding would have been different.” United States v.
+
+De La Cruz, 514 F.3d 121, 140 (1st Cir. 2008) (citing Strickland, 466 U.S. at 688, 694). “In
+
+other words,” Preisel “must demonstrate both seriously-deficient performance on the part of his
+
+counsel and prejudice resulting there from.” Id. “Moreover, when, as in this case, a petition for
+
+federal habeas relief is presented to the judge who presided at the petitioner’s plea and
+
+sentencing, the judge is at liberty to employ the knowledge gleaned during previous proceedings
+
+and make findings based thereon without convening an additional hearing.” United States v.
+
+McGill, 11 F.3d 223, 225 (1st Cir. 1993).
+
+                                            DISCUSSION
+
+       The Government’s first argument as to all of the factual allegations raised in Preisel’s
+
+memorandum of law is that Preisel’s memorandum was not signed under penalty of perjury,
+
+though Preisel signed his form motion under penalty of perjury. Preisel explains in his reply that
+
+he “signed the final page of the form that the court sent him.” Preisel notes that the
+
+memorandum was attached to the form motion and “the motion and memorandum were as one,
+
+and the defendant asks the court to accept it as so.” (Reply at 2, ECF No. 75.) Given my
+
+
+
+                                                 5
+Case 2:08-cr-00178-DBH Document 76 Filed 05/23/12 Page 6 of 13                       PageID #: 301
+
+
+
+ultimate recommendation in this case, I think that Preisel has the better position on this issue.
+
+Rule 12 of the Rules Governing Section 2255 Proceedings reads: “The Federal Rules of Civil
+
+Procedure and the Federal Rules of Criminal Procedure, to the extent that they are not
+
+inconsistent with any statutory provisions or these rules, may be applied to a proceeding under
+
+these rules.” In this case, if the Court did not accept Preisel’s argument that the motion and
+
+memorandum “were as one,” an argument I am willing to accept, I would recommend that the
+
+remedy would be to call the omission to Preisel’s attention and give him an opportunity to
+
+promptly correct it as, by analogy, is permitted under Rule 11(a) of the Federal Rules of Civil
+
+Procedure in the case of unsigned pleadings. Given my conclusion that Preisel’s factual
+
+allegations, even if asserted under penalty of perjury, do not warrant relief under § 2255, I see no
+
+reason to recommend denying this petition on the basis of the technical violation raised
+
+repeatedly by the Government in its memorandum. (See Answer at 20, 27-28, 38, ECF No. 72.)
+
+I will instead turn to the merits of the various contentions Preisel raises.
+
+A.     The Admissibility of the Statements
+
+       Preisel asserts this claim regarding the admissibility of his statements as both a
+
+standalone, fifth amendment constitutional claim and a claim that trial counsel provided
+
+ineffective assistance of counsel in not challenging both the statements made by him during an
+
+investigatory stop and the statements he made when in police custody following his arrest.
+
+Preisel’s claims, made in ground one and ground two, are that the statements he made to
+
+investigators should have been suppressed because, at the time Preisel made them, (1) he was in
+
+such a “plainly obvious state of intoxication” as a result of having used heroin that he could not
+
+act voluntarily and (2) he was not warned of his rights consistent with Miranda v. Arizona, 384
+
+
+
+
+                                                   6
+Case 2:08-cr-00178-DBH Document 76 Filed 05/23/12 Page 7 of 13                        PageID #: 302
+
+
+
+U.S. 436 (1966). He further argues that his counsel’s failure to challenge the admissibility of the
+
+statements by a motion to suppress was ineffective assistance.
+
+       The investigative reports, portions of affidavits, and letters from the prosecutor that
+
+Preisel filed in support of his petition (ECF Nos. 56-1 & 56-7) reveal that the police had a
+
+particular residence in Saco, Maine under surveillance. An informant who had just been inside
+
+the residence told the police that Preisel and others were inside using heroin and that the
+
+informant had observed two firearms inside the residence in Preisel’s possession. A second
+
+informant confirmed this information. Shortly thereafter, the officers observed Preisel exit the
+
+residence with a blue backpack. They stopped and detained him, apparently at gunpoint, (ECF
+
+No. 56-1, Ex. 1B, letter from AUSA to Scott Hastings) and inquired if he had any weapons on
+
+his person. Preisel told them he had no weapons on his person, but that he had two inside the
+
+blue backpack. The officers knew from prior information that Preisel was a convicted felon and
+
+user of heroin and crack cocaine. According to Preisel, he was not advised of his Miranda rights
+
+until hours after he was taken to the police station. He argues that his statements regarding the
+
+firearms were inadmissible because they were the product of a custodial interrogation in the
+
+absence of Miranda and that, even if he had been provided warnings, his state of intoxication was
+
+such as to render his statements involuntary. (Unsworn Reply, ECF No. 75.)
+
+       As far as Preisel’s attempt to raise a direct challenge to the admissibility of his
+
+statements, Preisel’s failure to challenge the admissibility in the trial court or on direct appeal
+
+bars a collateral attack based upon his claim of lack of voluntariness unless Preisel can
+
+demonstrate cause excusing the default and actual prejudice. Knight v. United States, 37 F.3d
+
+769, 774 (1st Cir. 1994). Preisel’s only shot at demonstrating cause is through his claim of
+
+ineffective assistance of counsel, but the record evidence does not support that claim.
+
+
+
+                                                  7
+Case 2:08-cr-00178-DBH Document 76 Filed 05/23/12 Page 8 of 13                       PageID #: 303
+
+
+
+       Preisel’s brief statements at the scene of the investigatory stop regarding the locations of
+
+the firearms were not likely to be found inadmissible as the product of a custodial interrogation
+
+requiring Miranda warnings. The fact that Preisel was detained and not free to leave the scene is
+
+not determinative of whether or not the statements he made were the products of custodial
+
+interrogation. United States v. Quinn, 815 F.2d 153 (1st Cir. 1987). On the other hand, the fact
+
+that the officers had drawn their guns might cause some to view the situation as a formal arrest.
+
+United States v. Trueber, 238 F.3d 79, 93 (1st Cir. 2001) (quoting United States v. Zapata, 18
+
+F.3d 971, 975 (1st Cir. 1994) (“There is no scientifically precise formula that enables courts to
+
+distinguish between investigatory stops . . . and ‘de facto arrests’.”) But given that the police had
+
+credible information from two separate informants that Preisel was in possession of more than
+
+one firearm, the officers drawing their guns and questioning him immediately about the presence
+
+of firearms on his person could well be viewed as a legitimate security measure. United States v.
+
+Chaney, 647 F.3d 401, 409-410 (1st Cir. 2011). The warrantless search of the backpack
+
+inevitably flowed from both the response Preisel gave to the officers and the circumstances
+
+known to the officers based on the informants’ reports.
+
+       According to the prosecution version of the offense, before Preisel gave a full confession
+
+in which he described his drug trafficking activities and named his suppliers, he was
+
+warned of his rights and waived them. Preisel now maintains that it was hours later that he
+
+received those warnings, but at the Rule 11 hearing Preisel did not contest any fact described in
+
+the prosecution version of the offense, including the recounted facts concerning his confession.
+
+Instead, Preisel told the Court that all of the representations in the prosecution version of the
+
+offense were true. See United States v. Butt, 731 F.2d 75, 80 (1st Cir. 1984) (explaining that the
+
+presumption of truthfulness of statements made at Rule 11 hearing is not overcome unless the
+
+
+
+                                                  8
+Case 2:08-cr-00178-DBH Document 76 Filed 05/23/12 Page 9 of 13                        PageID #: 304
+
+
+
+allegations in the § 2255 petition are sufficient to state a claim of ineffective assistance of
+
+counsel). Preisel admitted to the Rule 11 Court that, before he confessed, he was warned of and
+
+waived his rights. Far from rebutting the accuracy of the Government’s proof—and Preisel’s
+
+admission to the Rule 11 Court—the expanded record confirms that Preisel was warned of his
+
+rights before he confessed. Preisel’s own exhibit at ECF No. 56-7, a page of York County
+
+Sergeant Michael Hayes’s report, explains that, before Preisel was interrogated, Hayes read
+
+Preisel the Miranda warnings. It also verifies that significant time elapsed between the stop on
+
+the street and the actual interrogation, but there is no suggestion anywhere that Preisel was
+
+interrogated during those couple of hours.
+
+       As I read Preisel’s motion, the crux of his current complaint is not that his Miranda rights
+
+were violated, but that he was so intoxicated from his voluntary pre-arrest consumption of
+
+controlled substances that any statements he made were involuntary and should have been
+
+subject to a motion to suppress, even if his Miranda rights were provided prior to questioning. It
+
+is not surprising that competent counsel reviewed the available evidence and determined that a
+
+motion to suppress based on the theory of voluntary intoxication was a nonstarter. The First
+
+Circuit has noted that a suspect arrested in a weakened condition because of his heroin
+
+withdrawal symptoms is not entitled to any presumption that his post-arrest statements were
+
+involuntary. United States v. Palmer, 203 F.3d 55, 61-62 (1st Cir. 2000) (“In the context of the
+
+voluntariness of a confession, a defendant’s mental state by itself and apart from its relation to
+
+official coercion never disposes of the inquiry into constitutional voluntariness.”) In the present
+
+case, as the Government points out, the police reports and all available evidence suggest that
+
+even if Preisel was under the influence, he was sufficiently in control of his faculties to conduct
+
+
+
+
+                                                   9
+Case 2:08-cr-00178-DBH Document 76 Filed 05/23/12 Page 10 of 13                      PageID #: 305
+
+
+
+himself in a rational manner. Failing to file a motion to suppress on this record is not ineffective
+
+assistance of counsel.
+
+       It is apparent from Preisel’s own exhibits (ECF No. 56-8) that he and his attorney
+
+discussed the issue of Miranda warnings and the evidence available to the Government on that
+
+score. His confession was not recorded and there apparently was no warnings form available,
+
+although the officers were prepared to testify as described in the prosecution version. Preisel,
+
+even at this late date, offers nothing new on this score and does not deny the existence of the
+
+warnings. Rather he argues about the timing and about his state of intoxication, neither of which
+
+would have led competent counsel to believe that there was a basis to challenge the admissibility
+
+of the statements, as discussed above.
+
+B.     Lies and Coercion by Counsel in the Context of the Guilty Pleas
+
+       Preisel’s complaint with his attorney’s performance regarding the circumstances of his
+
+guilty plea is his assertion that counsel lied, misled him, and coerced him into pleading guilty.
+
+The existing and expanded record show the exact reverse: that at all times trial counsel provided
+
+Preisel with accurate legal advice about the pros and cons of pleading guilty and left the choice
+
+of whether to go to trial entirely up to Preisel. (See Letters of Counsel to Preisel, ECF Nos. 56-2,
+
+56-3, 56-8, 72-2.) Preisel submitted some of these letters in support of his motion and they speak
+
+for themselves. His written submissions do not reveal what lies, threats, or coercion counsel is
+
+alleged to have employed other than the plain language of the letters. The fact that trial counsel
+
+advised Preisel of the downside of going to trial, including the admissibility of his statements and
+
+the complete lack of exculpatory evidence, is not a basis upon which to build a case that counsel
+
+lied or coerced the defendant. Preisel must present something more than vague generalities and
+
+exhibits refuting his contention. United States v. McGill, 11 F.3d 223, 225 (1st Cir. 1993) (“In
+
+
+
+                                                 10
+Case 2:08-cr-00178-DBH Document 76 Filed 05/23/12 Page 11 of 13                       PageID #: 306
+
+
+
+determining whether the petitioner has carried the devoir of persuasion in this respect, the court
+
+must take many of petitioner’s factual averments as true, but the court need not give weight to
+
+conclusory allegations, self-interested characterizations, discredited inventions, or opprobrious
+
+epithets.”).
+
+        To the extent Preisel currently complains that counsel lied to him that he faced up to life
+
+in prison, the relevant statutes make clear that the advice was correct. Title 21 U.S.C. §
+
+841(b)(1)(A), which was the statute alleged in Count One of the Information, carries a maximum
+
+prison term of life. The same is true of 18 U.S.C. § 924(c)(1)(A)(i), which was specifically
+
+alleged in Count Three. Moreover, the Rule 11 Court informed Preisel that he faced up to life in
+
+prison and the presentence investigator took the same position. Thus, the advice about Preisel’s
+
+sentence exposure was entirely correct. Additionally, counsel correctly advised Preisel about the
+
+likely guideline range for his sentence and also correctly advised him that the only way to escape
+
+the mandatory minimums was to obtain a favorable departure motion from the Government.
+
+Preisel’s current contention that counsel promised him a 40 percent departure is soundly refuted
+
+by the expanded record. Counsel did not lie to Preisel, but merely informed him of the
+
+“inconvenient truths” associated with this criminal prosecution.
+
+C.      Counsel’s Failure to Investigate and/or Familiarize Himself with the Law and Facts
+
+        Preisel’s final volley, allegedly supported by billing records and docket entries, is that
+
+trial counsel was not familiar with the facts or law applicable to his case. The letters mentioned
+
+in the preceding section establish counsel’s familiarity with the relevant statutory provisions and
+
+the nature of the proffer process. Counsel was assigned to a case in which his client had already
+
+made a highly incriminating confession to law enforcement and the confession was most
+
+certainly admissible in evidence. It appears that trial counsel attempted to mitigate the damage
+
+
+
+                                                 11
+Case 2:08-cr-00178-DBH Document 76 Filed 05/23/12 Page 12 of 13                       PageID #: 307
+
+
+
+and did a good job of doing so, achieving a final sentence 20 percent below the guideline range.
+
+It was not the work of someone unfamiliar with the law and the facts surrounding federal
+
+criminal drug prosecutions.
+
+       Finally, Preisel maintains that his counsel did not conduct an independent investigation in
+
+order to uncover exculpatory evidence. Preisel does not expand upon what this investigation
+
+might have revealed or how it would support a viable defense to drug trafficking charges.
+
+Relying upon gauzy, self-serving allegations about the existence of potentially exculpatory
+
+evidence does not carry the day. David v. United States, 134 F.3d 470, 478 (1st Cir. 1998). If
+
+counsel failed to pursue investigatory leads, Preisel has not provided any material of evidentiary
+
+quality as to what those leads might have been and what sort of investigation counsel might have
+
+conducted.
+
+                                           CONCLUSION
+
+       Based upon the foregoing, Preisel’s Motion to Vacate, Set Aside, or Correct his sentence
+
+pursuant to 28 U.S.C. § 2255 should be summarily dismissed. I further recommend that a
+
+certificate of appealability should not issue in the event Preisel files a notice of appeal because
+
+there is no substantial showing of the denial of a constitutional right within the meaning of 28
+
+U.S.C. § 2253(c)(2).
+
+
+
+                                              NOTICE
+
+               A party may file objections to those specified portions of a magistrate
+       judge’s report or proposed findings or recommended decisions entered pursuant to
+       28 U.S.C. § 636(b)(1)(B) for which de novo review by the district court is sought,
+       together with a supporting memorandum, within ten (10) days of being served
+       with a copy thereof. A responsive memorandum shall be filed within ten (10)
+       days after the filing of the objection.
+
+
+
+
+                                                 12
+Case 2:08-cr-00178-DBH Document 76 Filed 05/23/12 Page 13 of 13                     PageID #: 308
+
+
+
+
+             Failure to file a timely objection shall constitute a waiver of the right to de
+      novo review by the district court and to appeal the district court’s order.
+
+
+      May 23, 2012                           /s/Margaret J. Kravchuk
+                                             U.S. Magistrate Judge
+
+
+
+
+                                               13
+

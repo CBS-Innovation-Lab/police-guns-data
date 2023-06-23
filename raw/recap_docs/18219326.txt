@@ -1,0 +1,374 @@
+Case 1:03-cr-00044-JAW Document 34 Filed 02/16/17 Page 1 of 8               PageID #: 104
+
+
+
+                         UNITED STATES DISTRICT COURT
+                              DISTRICT OF MAINE
+
+MICHAEL FITZPATRICK,                      )
+          Petitioner,                     )
+    v.                                    )      1:03-cr-00044-JAW-1
+                                          )      1:16-cv-00011-JAW
+UNITED STATES OF AMERICA,                 )
+          Respondent                      )
+
+            RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+       Petitioner Michael Fitzpatrick filed a motion, pursuant to 28 U.S.C. § 2255, to
+
+vacate, set aside or correct his sentence. (Motion, ECF No. 25.) In 2003, following a guilty
+
+plea, Petitioner was convicted of being a felon in possession of firearms, pursuant to 18
+
+U.S.C. §§ 922(g)(1), 924(e); and possession of stolen firearms, pursuant to 18 U.S.C. §
+
+922(j). (Judgment, ECF No. 22 at 1.) The Court sentenced Petitioner to a total of 180
+
+months in prison. (Judgment at 2.) Petitioner did not appeal from the conviction or the
+
+sentence.
+
+        Petitioner argued in his section 2255 motion that he is entitled to relief based on
+
+Johnson v. United States, --- U.S. ---, 135 S. Ct. 2551 (2015). (Motion at 1.) Counsel was
+
+appointed. (Order, ECF No. 26.) In its response, the Government argues that Petitioner is
+
+not entitled to relief under Johnson, because Petitioner’s sentence was enhanced, under a
+
+provision of section 924(e) that was not found unconstitutional in Johnson, based on at
+
+least three previous burglary convictions. (Response, ECF No. 31 at 10-12.) Petitioner
+
+filed a reply in which he conceded the enhancement of his sentence was not based on the
+
+residual clause of the Armed Career Criminal Act addressed in Johnson. (Reply, ECF No.
+
+32.)
+Case 1:03-cr-00044-JAW Document 34 Filed 02/16/17 Page 2 of 8                              PageID #: 105
+
+
+
+        Following a review of Petitioner’s motion and the Government’s request for
+
+dismissal, I recommend that the Court grant the Government’s request, and dismiss
+
+Petitioner’s motion, but grant a certificate of appealability, in accordance with recent
+
+district precedent.
+
+                I.       FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+        Petitioner was indicted in July 2003, on two counts: being a felon in possession of
+
+firearms, pursuant to 18 U.S.C. §§ 922(g)(1), 924(e); and possession of stolen firearms,
+
+pursuant to 18 U.S.C. § 922(j). (Indictment, ECF No. 1.) In October 2003, he pled guilty
+
+to both counts: (Minute Entry on Plea Hearing, ECF No 17.) The Court sentenced
+
+Petitioner to a prison term of 180 months on the felon-in-possession count, and to 120
+
+months on the count for possession of stolen firearms, to be served concurrently, followed
+
+by concurrent terms of five years of supervised release on the felon-in-possession count,
+
+and three years on the count for possession of stolen firearms. (Judgment at 2-3.)
+
+        Petitioner dated his section 2255 motion December 30, 2015, and it was filed on
+
+January 4, 2016.1 (Motion at 1.) The pending motion is Petitioner’s first section 2255
+
+motion in this case.2
+
+
+1
+  Petitioner's motion did not contain a declaration that Petitioner makes the allegations under penalty of
+perjury, pursuant to Rule 2(b)(5) of the Rules Governing Section 2255 Proceedings, which requires that the
+section 2255 motion “be signed under penalty of perjury by the movant or by a person authorized to sign it
+for the movant.” See 28 U.S.C. § 1746. This recommended decision assumes, without recommending a
+decision on the issue, that if the Court did not dismiss the motion, the Court would permit Petitioner to file
+a version that contained the required declaration.
+2
+  In June 2016, Petitioner filed a pro se request in the First Circuit for permission to file a second or
+successive 28 U.S.C. § 2255 motion; the First Circuit denied the request as unnecessary, as Petitioner had
+not previously had a section 2255 motion adjudicated by the district court. Fitzpatrick v. United States,
+No. 16-1890 (1st Cir. July 20, 2016).
+
+
+                                                      2
+Case 1:03-cr-00044-JAW Document 34 Filed 02/16/17 Page 3 of 8                              PageID #: 106
+
+
+
+                                           II.      DISCUSSION
+
+          A person may move to vacate his or her sentence on one of four different grounds:
+
+(1) “that the sentence was imposed in violation of the Constitution or laws of the United
+
+States”; (2) “that the court was without jurisdiction” to impose its sentence; (3) “that the
+
+sentence was in excess of the maximum authorized by law”; or (4) that the sentence
+
+“is otherwise subject to collateral attack.” 28 U.S.C. § 2255(a); see Knight v. United States,
+
+37 F.3d 769, 772 (1st Cir. 1994).
+
+          A section 2255 motion must be filed timely under one of several subsections of
+
+section 2255(f).3 It appears Petitioner placed the section 2255 motion in the prison mailing
+
+system within one year of the Supreme Court’s June 26, 2015, decision in Johnson, as
+
+required under section 2255(f)(3). (Motion at 1.) See Rule 3(d), Rules Governing Section
+
+
+
+3
+    Title 28 U.S.C. § 2255(f) states:
+
+          A 1-year period of limitation shall apply to a motion under this section. The limitation
+          period shall run from the latest of—
+
+          (1) the date on which the judgment of conviction becomes final;
+
+          (2) the date on which the impediment to making a motion created by governmental
+              action in violation of the Constitution or laws of the United States is removed, if
+              the movant was prevented from making a motion by such governmental action;
+
+          (3) the date on which the right asserted was initially recognized by the Supreme Court,
+              if that right has been newly recognized by the Supreme Court and made
+              retroactively applicable to cases on collateral review; or
+
+          (4) the date on which the facts supporting the claim or claims presented could have
+              been discovered through the exercise of due diligence.
+
+The limitation period set forth in section 2255(f)(3) applies to Petitioner’s claim, because the Supreme
+Court held in Welch v. United States, 136 S. Ct. 1257, 1268 (2016), that “[Johnson v. United States, --- U.S.
+---, 135 S. Ct. 2555 (2015)]announced a substantive rule that has retroactive effect in cases on collateral
+review.”
+
+
+                                                      3
+Case 1:03-cr-00044-JAW Document 34 Filed 02/16/17 Page 4 of 8                               PageID #: 107
+
+
+
+2255 Proceedings. The Government concedes that if Petitioner has a Johnson claim, the
+
+claim was timely filed. (Response at 1 n.2.)
+
+          In Johnson, the Supreme Court “struck down the ‘residual clause’ of the [Armed
+
+Career Criminal Act, 18 U.S.C. § 924(e) (ACCA)] as unconstitutionally vague.”4 Pakala
+
+v. United States, 804 F.3d 139, 139 (1st Cir. 2015) (per curiam). The Supreme Court
+
+announced in Johnson that its holding “does not call into question application of the Act to
+
+the four enumerated offenses, or the remainder of the Act’s definition of a violent felony.”
+
+135 S. Ct. at 2563. Burglary is one of the offenses enumerated in section 924(e)(2)(B)(ii)
+
+of the ACCA. Because, based on his prior burglary convictions, Petitioner was subject to
+
+an enhanced sentence under the “enumerated clause” of section 924(e)(2)(B)(ii), rather
+
+
+
+4
+    In Johnson, the Court explained:
+
+          Federal law forbids certain people—such as convicted felons, persons committed to mental
+          institutions, and drug users—to ship, possess, and receive firearms. [18 U.S.C. § 922(g)].
+          In general, the law punishes violation of this ban by up to 10 years’ imprisonment.
+          [18 U.S.C. § 924(a)(2)]. But if the violator has three or more earlier convictions for a
+          “serious drug offense” or a “violent felony,” the Armed Career Criminal Act increases his
+          prison term to a minimum of 15 years and a maximum of life. § 924(e)(1); Johnson v.
+          United States, 559 U.S. 133, 136, 130 S.Ct. 1265, 176 L.Ed.2d 1 (2010). The Act defines
+          “violent felony” as follows:
+
+          “any crime punishable by imprisonment for a term exceeding one year . . . that—
+
+          “(i) has as an element the use, attempted use, or threatened use of physical force against
+          the person of another; or
+
+          “(ii) is burglary, arson, or extortion, involves use of explosives, or otherwise involves
+          conduct that presents a serious potential risk of physical injury to another.” § 924(e)(2)(B)
+          (emphasis added).
+
+          The closing words of this definition, italicized above, have come to be known as the Act's
+          residual clause.
+
+Id. at 2555-56. The Court held that the residual clause is unconstitutionally vague. Id. at 2557.
+
+
+                                                       4
+Case 1:03-cr-00044-JAW Document 34 Filed 02/16/17 Page 5 of 8                            PageID #: 108
+
+
+
+than the residual clause, Petitioner is not entitled to relief under Johnson. See United States
+
+v. Duquette, 778 F.3d 314, 318 (1st Cir. 2015).
+
+        Based on arguments made by some petitioners in other section 2255 motions in this
+
+district, Petitioner’s motion also arguably raises an additional issue of whether Maine’s
+
+burglary statute constitutes “generic burglary,” under Taylor v. United States, 495 U.S. 575
+
+(1990). In Taylor, the Supreme Court held:
+
+        [A]n offense constitutes “burglary” for purposes of a § 924(e) sentence
+        enhancement if either its statutory definition substantially corresponds to
+        “generic” burglary, or the charging paper and jury instructions actually
+        required the jury to find all the elements of generic burglary in order to
+        convict the defendant.
+
+495 U.S. at 602. The Court defined “generic” burglary:
+
+        We conclude that a person has been convicted of burglary for purposes of a
+        § 924(e) enhancement if he is convicted of any crime, regardless of its exact
+        definition or label, having the basic elements of unlawful or unprivileged
+        entry into, or remaining in, a building or structure, with intent to commit a
+        crime.
+
+Id. at 599.
+
+        In Duquette, 778 F.3d at 318, the First Circuit held that “because Maine’s burglary
+
+statute sets forth the definition of ‘generic burglary,’ under Taylor, a conviction under that
+
+statute qualifies as a ‘violent felony’ under the ACCA.” Although other petitioners have
+
+argued that following the Supreme Court’s decisions in Johnson and Mathis v. United
+
+States, --- U.S. ---, 136 S. Ct. 2243 (2016), a Maine burglary conviction no longer qualifies
+
+as a generic burglary,5 this Court has concluded that in this circuit, Duquette “‘establishes
+
+
+5
+ In Dimott v. United States, Nos. 2:06-cr-26-GZS, 2:16-cv-347-GZS, 2016 U.S. Dist. Lexis 142354, 2016
+WL 6068114 (D. Me. Oct. 14, 2016), the petitioner argued that, following the Supreme Court’s 2015
+decision in Johnson and Mathis v. United States, --- U.S. ---, 136 S. Ct. 2243 (2016), “he no longer has the
+
+                                                     5
+Case 1:03-cr-00044-JAW Document 34 Filed 02/16/17 Page 6 of 8                            PageID #: 109
+
+
+
+that Maine burglary convictions are ‘violent felonies’ pursuant to ACCA’s enumerated
+
+clause.’” McCurdy v. United States, Nos. 1:06-cr-00080-JAW, 1:15-cv-00532-JAW, 2017
+
+U.S. Dist. Lexis 1947, at *12-13, 2017 WL 74695, at *5 (D. Me. Jan. 6, 2017) (quoting
+
+Dimott v. United States, Nos. 2:06-cr-26-GZS, 2:16-cv-347-GZS, 2016 U.S. Dist. Lexis
+
+142354, at *8, 2016 WL 6068114, at *3 (D. Me. Oct. 14, 2016); see Collamore v. United
+
+States, Nos. 2:16-cv-259-GZS, 2:10-cr-158-GZS, 2016 U.S. Dist. Lexis 148757, at *6,
+
+2016 WL 6304668 (D. Me. Oct. 27, 2016); United States v. Casey, Nos. 2:11-cr-216-DBH,
+
+2:16-cv-346-DBH, 2016 U.S. Dist. Lexis 153085, 2016 WL 6581178 (D. Me. Nov. 3,
+
+2016)).
+
+        The issue regarding Petitioner’s burglary convictions does not differ materially from
+
+the issue presented in Dimott, Collamore, and Casey, and McCurdy. Accordingly, I can
+
+discern no reason the issue should be resolved differently in this case. In addition, because
+
+the Court issued a certificate of appealability on the issues raised in Dimott, Collamore,
+
+Casey, and McCurdy, it is appropriate to issue one in this case as well. See McCurdy, 2017
+
+U.S. Dist. Lexis 1947, at *14, 2017 WL 74695, at *5; Dimott, 2016 U.S. Dist. Lexis
+
+142354, at *11-12, 2016 WL 6068114, at *4; Collamore, 2016 U.S. Dist. Lexis 148757, at
+
+
+
+three requisite convictions for an increased sentence under ACCA,” and “Maine burglary no longer fits
+within the generic definition of burglary because Maine’s locational element is overly broad in light of
+Mathis.” Dimott, 2016 U.S. Dist. Lexis 142354, at *4-5, 2016 WL 6068114, at *2. The Court held that
+Mathis “has not been recognized as a case that announced a new substantive rule that is retroactively
+applicable to cases on collateral review,” and Mathis therefore “cannot be read as triggering a new one-year
+period for habeas relief under 28 U.S.C. § 2255(f)(3).” 2016 U.S. Dist. Lexis 142354, at *6, 7, 2016 WL
+6068114, at *3. The Court further concluded that, [a]ssuming the Court could undertake a timely review
+of Dimott’s predicate burglary convictions,” there is “no basis for concluding that Mathis should be read as
+overruling [United States v. Duquette, 778 F.3d 314 (1st Cir. 2015)].” 2016 U.S. Dist. Lexis 142354,
+at *8, 9, 2016 WL 6068114, at *3, 4.
+
+
+                                                     6
+Case 1:03-cr-00044-JAW Document 34 Filed 02/16/17 Page 7 of 8                   PageID #: 110
+
+
+
+*6-7, 2016 WL 6304668, at *3; Casey, 2016 U.S. Dist. Lexis 153085, at *16, 2016 WL
+
+6581178, at *5.6 The issues are specifically: (1) whether the retroactive application of the
+
+Supreme Court’s 2015 decision in Johnson allows any petitioner serving an ACCA
+
+sentence to have his qualifying “violent felony” convictions re-examined even if those
+
+convictions appear to fall under the ACCA’s enumerated clause; and (2) if so, whether
+
+Mathis has effectively overruled the First Circuit’s decision in Duquette, that a Maine
+
+burglary conviction, 17-A M.R.S.A. § 401, qualifies as a violent felony under the ACCA’s
+
+enumerated clause, 18 U.S.C. § 924(e). See Casey, No. 2:11-cr-00216, ECF No. 78 (Order
+
+Issuing Certificate of Appealability).
+
+                                            III.    CONCLUSION
+
+          Based on the foregoing analysis, an evidentiary hearing is not warranted under Rule
+
+8 of the Rules Governing Section 2255 Cases. In addition, I recommend that the Court
+
+deny Petitioner’s motion for habeas relief under 28 U.S.C. § 2255. I further recommend
+
+that the Court grant a certificate of appealability pursuant to Rule 11 of the Rules
+
+Governing Section 2255 Cases.
+
+                                                    NOTICE
+
+                  A party may file objections to those specified portions of a magistrate
+          judge’s report or proposed findings or recommended decisions entered
+          pursuant to 28 U.S.C. 636(b)(1)(B) for which de novo review by the district
+          court is sought, together with a supporting memorandum, and request for oral
+          argument before the district judge, if any is sought, within fourteen (14) days
+          of being served with a copy thereof. A responsive memorandum and any
+          request for oral argument before the district judge shall be filed within
+          fourteen (14) days after the filing of the objection.
+
+
+6
+    Appeals are pending in all four of the cases.
+
+                                                      7
+Case 1:03-cr-00044-JAW Document 34 Filed 02/16/17 Page 8 of 8                 PageID #: 111
+
+
+
+             Failure to file a timely objection shall constitute a waiver of the right
+      to de novo review by the district court and to appeal the district court's order.
+
+                                                  /s/ John C. Nivison
+Dated this 16th day of February, 2017.            U.S. Magistrate Judge
+
+
+
+
+                                             8
+

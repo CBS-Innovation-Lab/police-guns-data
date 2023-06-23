@@ -1,0 +1,448 @@
+Case 2:05-cr-00008-GZS Document 69 Filed 03/16/17 Page 1 of 9                 PageID #: 273
+
+
+
+                            UNITED STATES DISTRICT COURT
+                                 DISTRICT OF MAINE
+
+ARTHUR ADAMS,                              )
+                                           )
+              Petitioner,                  )
+                                           )
+       v.                                  )       2:05-cr-00008-GZS
+                                           )       2:16-cv-00320-GZS
+                                           )
+UNITED STATES OF AMERICA,                  )
+                                           )
+              Respondent                   )
+
+
+            RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+       In this action, Petitioner Arthur Adams moves, pursuant to 28 U.S.C. § 2255, to
+
+vacate, set aside or correct his sentence. (Motion, ECF No. 57.) Following a guilty plea,
+
+Petitioner was convicted in 2005 of being a felon in possession of a firearm; the Court
+
+sentenced Petitioner to 192 months in prison. (Judgment, ECF No. 27 at 1-2.) The First
+
+Circuit affirmed the sentence. (United States v. Adams, No. 05-2261 (1st Cir. Mar. 29,
+
+2006).) In his section 2255 motion, Petitioner challenges his sentence based on Johnson
+
+v. United States, --- U.S. ---, 135 S. Ct. 2551 (2015). In his reply, he also argues that he is
+
+entitled to relief under Mathis v. United States, --- U.S. ---, 136 S. Ct. 2243 (2016). (Reply,
+
+ECF No. 64 at 2.) Specifically, Petitioner argues that several of the prior convictions on
+
+which his Armed Career Criminal Act (ACCA), 18 U.S.C. § 924(e), sentence was based
+
+no longer qualify as ACCA predicate offenses after Johnson and Mathis. (Reply at 1-2.)
+Case 2:05-cr-00008-GZS Document 69 Filed 03/16/17 Page 2 of 9                           PageID #: 274
+
+
+
+           Following a review of Petitioner’s motion and the Government’s request for
+
+dismissal, I recommend that the Court grant the Government’s request, and dismiss
+
+Petitioner’s motion.
+
+                   I.      FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+           Petitioner was indicted in February 2005 for being a felon in possession of a firearm,
+
+pursuant to 18 U.S.C. §§ 922(g)(1), 924(e). (Indictment, ECF No. 1.) The indictment
+
+alleged several prior state felonies, of which two Massachusetts convictions for unarmed
+
+burglary are at issue here: (1) a 1994 conviction (three counts) (Middlesex Cty. Sup. Ct.,
+
+No. 1994-00104); and (2) a 1992 conviction (Middlesex Cty. Sup. Ct., No. 1992-441).1
+
+           Petitioner pled guilty to the federal charge in April 2005. (Minute Entry for Change
+
+of Plea Hearing, ECF No. 21.) At Petitioner’s sentencing in 2005, the Court found the
+
+facts as set forth in the revised presentence investigation report.                   (Sentencing Tr.,
+
+ECF No. 35 at 19.) The Court found that Petitioner was an armed career criminal within
+
+the meaning of section 924(e), based on at least three prior violent felonies; the Court,
+
+1
+    Several other prior convictions are not at issue:
+
+         The Government does not argue in its sur-reply that Petitioner’s 1994 Massachusetts conviction for
+breaking and entering a dwelling in the daytime (nine counts) (Middlesex Cty. Sup. Ct., No. 1994-104)
+qualifies as a predicate offense under 18 U.S.C. § 924(e), following Mathis v. United States, --- U.S. ---,
+136 S. Ct. 2243 (2016). (Sur-reply, ECF No. 67 at 2.) The Government concedes that Petitioner’s 1986
+Maine aggravated assault conviction (Me. Super. Ct., Cum. Cty., No. 86-763) would not qualify as a
+predicate offense under the force clause of section 924(e)(2)(B)(i), following Bennett v. United States,
+Nos. 1:94-cr-11-GZS, 1:16-cv-251-GZS, 2016 WL 3676145, 2016 U.S. Dist. Lexis 87254 (D. Me. July 6,
+2016). (Response, ECF No. 60 at 9.) However, the Government preserves its objection as to the Maine
+aggravated assault conviction. (Id.) The Government concedes that Petitioner’s 2000 Connecticut
+conviction of escape (No. W11D-CR00-0109881-S) does not qualify as a predicate offense after Johnson
+v. United States, --- U.S. ---, 135 S. Ct. 2551 (2015). (Id. at 2 n.2.)
+
+        Petitioner concedes that a 1986 conviction of criminal threatening with a dangerous weapon, in the
+Maine Superior Court, Cumberland County (No. 85-1806), qualifies as a predicate offense. (Reply, ECF
+No. 64 at 1.)
+
+                                                        2
+Case 2:05-cr-00008-GZS Document 69 Filed 03/16/17 Page 3 of 9                                  PageID #: 275
+
+
+
+therefore, determined, pursuant to USSG § 4B1.4(b)(3)(B), that Petitioner’s adjusted
+
+offense level was 33, rather than an otherwise applicable lower level.2 (Sentencing Tr. at
+
+19.) Three levels were subtracted because Petitioner accepted responsibility, and thus the
+
+
+2
+    Title 18 U.S.C. § 924(e)(1) states:
+
+          In the case of a person who violates section 922(g) of this title and has three previous
+          convictions by any court referred to in section 922(g)(1) of this title for a violent felony or
+          a serious drug offense, or both, committed on occasions different from one another, such
+          person shall be fined under this title and imprisoned not less than fifteen years, and,
+          notwithstanding any other provision of law, the court shall not suspend the sentence of, or
+          grant a probationary sentence to, such person with respect to the conviction under section
+          922(g).
+
+Section 924(e)(2)(B) defines “violent felony”:
+
+          [T]he term “violent felony” means any crime punishable by imprisonment for a term
+          exceeding one year, . . . that –
+
+          (i)        has as an element the use, attempted use, or threatened use of physical force against
+                     the person of another; or
+
+          (ii)       is burglary, arson, or extortion, involves use of explosives, or otherwise involves
+                     conduct that presents a serious potential risk of physical injury to another.
+
+Section 4B1.4 of the sentencing guidelines provides in part:
+
+          (a)    A defendant who is subject to an enhanced sentence under the provisions of
+          18 U.S.C. § 924(e) is an armed career criminal.
+
+          (b) The offense level for an armed career criminal is the greatest of:
+
+                 (1) the offense level applicable from Chapters Two and Three; or
+
+                 (2) the offense level from § 4B1.1 (Career Offender) if applicable; or
+
+                 (3)(A) 34, if the defendant used or possessed the firearm or ammunition in connection
+                 with either a crime of violence, as defined in § 4B1.2(a), or a controlled substance
+                 offense, as defined in § 4B1.2(b), or if the firearm possessed by the defendant was of
+                 a type described in 26 U.S.C. 5845(a)*; or
+
+                 (B) 33, otherwise.*
+
+          *If an adjustment from § 3E1.1 (Acceptance of Responsibility) applies, decrease the
+          offense level by the number of levels corresponding to that adjustment.
+
+
+
+                                                          3
+Case 2:05-cr-00008-GZS Document 69 Filed 03/16/17 Page 4 of 9                              PageID #: 276
+
+
+
+total offense level was 30. (Id.) The Court found the Petitioner’s criminal history to be a
+
+Category VI, which, combined with a total offense level of 30, yielded a guidelines range
+
+of 168 to 210 months in prison. (Id. at 19-20.) The Court increased the lower end of the
+
+range to 180 months, pursuant to USSG § 5G1.1(c)(2), based on the statutory minimum of
+
+180 months, pursuant to 18 U.S.C. § 924(e)(1). (Id. at 20.)3
+
+        The Court next considered the sentencing factors, pursuant to 18 U.S.C. § 3553(a),
+
+and it focused particularly on the need for just punishment, deterrence, and public
+
+protection. (Id. at 21.) The Court ordered the 192-month term of imprisonment to be
+
+followed by a term of five years of supervised release. (Id. at 22; Judgment at 2-3.)
+
+        Petitioner states that he signed his section 2255 motion on May 11, 2016, and it was
+
+filed on May 16, 2016.4 (Motion at 1.)
+
+                                           II.     DISCUSSION
+
+        A person may move to vacate his or her sentence on one of four different grounds:
+
+(1) “that the sentence was imposed in violation of the Constitution or laws of the United
+
+States”; (2) “that the court was without jurisdiction” to impose its sentence; (3) “that the
+
+sentence was in excess of the maximum authorized by law”; or (4) that the sentence “is
+
+otherwise subject to collateral attack.” 28 U.S.C. § 2255(a); see Knight v. United States,
+
+3
+  The Court’s reference to a lower end of the guideline range as 120 months, directly after the Court said
+the lower end was to be modified to 180 months, appears to have been unintended. (Sentencing Tr., ECF
+No. 35 at 20.)
+4
+  Petitioner's motion did not contain a declaration that Petitioner made the allegations under penalty of
+perjury, pursuant to Rule 2(b)(5) of the Rules Governing Section 2255 Proceedings, which requires that the
+section 2255 motion “be signed under penalty of perjury by the movant or by a person authorized to sign it
+for the movant.” See 28 U.S.C. § 1746. This recommended decision assumes, without recommending a
+decision on the issue, that if the Court did not dismiss the motion, the Court would permit Petitioner to file
+a version that contained the required declaration.
+
+                                                      4
+Case 2:05-cr-00008-GZS Document 69 Filed 03/16/17 Page 5 of 9                               PageID #: 277
+
+
+
+37 F.3d 769, 772 (1st Cir. 1994). Petitioner’s motion argues essentially that the sentence
+
+is unconstitutional under Johnson, and that, under Mathis, Petitioner no longer has the
+
+requisite three qualified predicate offenses for armed career criminal status.
+
+          In Johnson, the Supreme Court “struck down the ‘residual clause’ of the [ACCA]
+
+as unconstitutionally vague.”5 Pakala v. United States, 804 F.3d 139, 139 (1st Cir. 2015)
+
+(per curiam). In Welch v. United States, --- U.S. ---, 136 S. Ct. 1257, 1268 (2016), the
+
+Supreme Court held that “Johnson announced a substantive rule that has retroactive effect
+
+in cases on collateral review.” Thus, in cases in which Johnson applies, a section 2255
+
+motion that would otherwise be untimely under section 2255(f)(1), may be considered
+
+timely under section 2255(f)(3).6
+
+5
+    In Johnson, --- U.S. ---, 135 S. Ct. 2551 (2015), the Supreme Court explained:
+
+          Federal law forbids certain people—such as convicted felons, persons committed to mental
+          institutions, and drug users—to ship, possess, and receive firearms. [18 U.S.C. § 922(g)].
+          In general, the law punishes violation of this ban by up to 10 years’ imprisonment.
+          [18 U.S.C. § 924(a)(2)]. But if the violator has three or more earlier convictions for a
+          “serious drug offense” or a “violent felony,” the Armed Career Criminal Act increases his
+          prison term to a minimum of 15 years and a maximum of life. § 924(e)(1); Johnson v.
+          United States, 559 U.S. 133, 136, 130 S.Ct. 1265, 176 L.Ed.2d 1 (2010). The Act defines
+          “violent felony” as follows:
+
+          “any crime punishable by imprisonment for a term exceeding one year . . . that—
+
+          “(i) has as an element the use, attempted use, or threatened use of physical force against
+          the person of another; or
+
+          “(ii) is burglary, arson, or extortion, involves use of explosives, or otherwise involves
+          conduct that presents a serious potential risk of physical injury to another.” § 924(e)(2)(B)
+          (emphasis added).
+
+          The closing words of this definition, italicized above, have come to be known as the Act's
+          residual clause.
+
+135 S. Ct. at 2555-56. The Court held that the residual clause is unconstitutionally vague. Id. at 2557.
+6
+    Title 28 U.S.C.§ 2255(f) provides:
+
+                                                       5
+Case 2:05-cr-00008-GZS Document 69 Filed 03/16/17 Page 6 of 9                           PageID #: 278
+
+
+
+       The Supreme Court, however, explicitly limited its holding in Johnson to exclude
+
+claims based on challenges to “the four enumerated offenses, or the remainder of the Act’s
+
+definition of a violent felony.” 135 S. Ct. at 2563. Burglary is one of the offenses
+
+enumerated in section 924(e)(2)(B)(ii) of the ACCA. Petitioner’s prior burglary offenses
+
+are within the enumerated crimes clause and, therefore, Johnson is inapplicable to
+
+Petitioner’s case.
+
+       Based on Mathis v. United States, --- U.S. ---, 136 S. Ct. 2243 (2016), Petitioner
+
+nevertheless argues that his prior burglaries do not qualify as violent felonies under the
+
+enumerated crimes clause of section 924(e)(2)(B). The Mathis decision, however, is not
+
+pertinent to Petitioner’s claim. Mathis does not apply retroactively to Petitioner’s claim
+
+because the Supreme Court has not recognized Mathis “as a case that announced a new
+
+substantive rule that is retroactively applicable to cases on collateral review,” and Mathis
+
+therefore “cannot be read as triggering a new one-year period for habeas relief under 28
+
+U.S.C. § 2255(f)(3).” Dimott, 2016 WL 6068114, at *3, 2016 U.S. Dist. Lexis 142354, at
+
+
+
+       A 1-year period of limitation shall apply to a motion under this section. The limitation
+       period shall run from the latest of −
+
+           (1) the date on which the judgment of conviction becomes final;
+
+           (2) the date on which the impediment to making a motion created by governmental
+           action in violation of the Constitution or laws of the United States is removed, if the
+           movant was prevented from making a motion by such governmental action;
+
+           (3) the date on which the right asserted was initially recognized by the Supreme Court,
+           if that right has been newly recognized by the Supreme Court and made retroactively
+           applicable to cases on collateral review; or
+
+           (4) the date on which the facts supporting the claim or claims presented could have
+           been discovered through the exercise of due diligence.
+
+
+                                                   6
+Case 2:05-cr-00008-GZS Document 69 Filed 03/16/17 Page 7 of 9                 PageID #: 279
+
+
+
+*6-7; see Mathis, 136 S. Ct. at 2251-52 (noting that the Court’s prior precedent, including
+
+Descamps v. United States, --- U.S. ---, 133 S. Ct. 2276, 2283 (2013), indicated the rule
+
+was not new); United States v. Taylor, --- F. App’x ---, 2016 WL 7093905, at *4, 2016
+
+U.S. App. Lexis 21701, at *12 (10th Cir. Dec. 6, 2016) (concluding that “Mathis did not
+
+announce a new rule,” and citing, inter alia, Dimott, 2016 WL 6068114, at *3, 2016 U.S.
+
+Dist. Lexis 142354, at *6-7). Because Mathis is not retroactively applicable to cases on
+
+collateral review, it does not apply to Petitioner’s case.
+
+       Even if the Supreme Court had given Mathis retroactive effect, Petitioner would not
+
+have been entitled to relief. Mathis is one of a line of cases involving the statutory
+
+interpretation of the term “burglary” as used in section 924(e)(2)(B)(ii). See Mathis,
+
+136 S. Ct. at 2247-50; Shepard v. United States, 544 U.S. 13, 23 (2005) (“We are, after all,
+
+dealing with an issue of statutory interpretation.”) (citing Taylor v. United States, 495 U.S.
+
+575, 602 (1990)). In Mathis, the Supreme Court recognized the long-standing rule that a
+
+prior conviction will not qualify as an ACCA predicate unless “its elements are the same
+
+as, or narrower than, those of the generic offense.” 136 S. Ct. at 2247. The Court held that
+
+the inclusion of land, water or air vehicles, as well as buildings and structures, in Iowa’s
+
+burglary statute rendered the “locational element” of the crime broader than generic
+
+burglary, which includes only buildings and structures. Id. at 2250. The Supreme Court
+
+held that the Eighth Circuit erred when it affirmed the district court’s use of a modified
+
+categorical approach, which had permitted a review of the record to determine the location
+
+where the burglary took place, because under the ACCA, “it is impermissible for ‘a
+
+particular crime [to] sometimes count towards enhancement and sometimes not, depending
+
+                                               7
+Case 2:05-cr-00008-GZS Document 69 Filed 03/16/17 Page 8 of 9                               PageID #: 280
+
+
+
+on the facts of the case.’” Id. at 2250-51 (quoting Taylor v. United States, 495 U.S. 575,
+
+601 (1990)).
+
+        Unlike the statute at issue in Mathis, the Massachusetts unarmed burglary statute,
+
+which has not been amended since Petitioner’s 1992 and 1994 offenses, is not broader than
+
+generic burglary. Mass. Gen. Laws, ch. 266, § 15. The statute provides:
+
+        Whoever breaks and enters a dwelling house in the night time, with the intent
+        mentioned in the preceding section, or, having entered with such intent,
+        breaks such dwelling house in the night time, the offender not being armed,
+        nor arming himself in such house, with a dangerous weapon, nor making an
+        assault upon a person lawfully therein, shall be punished by imprisonment in
+        the state prison for not more than twenty years and, if he shall have been
+        previously convicted of any crime named in this or the preceding section, for
+        not less than five years.
+
+Id. The Massachusetts unarmed burglary statute contains a single locational element, in
+
+that the offense must have occurred in a dwelling house. See id.; Taylor, 495 U.S. at 593
+
+& n.6 (noting that “[o]nly a few states retain the common-law definition [of burglary], or
+
+something closely resembling it”) (citing, inter alia, Mass. Gen. Laws, ch. 266, § 15).
+
+Because the Massachusetts offense of unarmed burglary is not broader than generic
+
+burglary, Mathis would have been inapplicable to Petitioner’s case, even if the Supreme
+
+Court had held that Mathis had retroactive effect in collateral cases.7
+
+
+7
+  Petitioner has more than the minimum three previous convictions required under section 924(e)(1) for
+armed career criminal status, given that his 1992 and 1994 burglary convictions, and the 1986 conviction
+of criminal threatening with a dangerous weapon, all qualify as predicates. The 1994 conviction alone
+counts as three predicates because, according to the revised presentence investigation report, the indictment
+alleged that Petitioner burglarized the homes of three different victims on two dates in 1993. These offenses
+were "committed on occasions different from one another,” under section 924(e)(1), and therefore each
+qualifies as a predicate offense. See United States v. Mastera, 435 F.3d 56, 59-60 (1st Cir. 2006) ("Whether
+two crimes occurred on separate occasions within the meaning of the ACCA 'requires a case-by-case
+examination of the totality of the circumstances.'") (quoting United States v. Stearns, 387 F.3d 104, 108
+(1st Cir. 2004)). In Stearns, the First Circuit held that two burglaries against the same victim on consecutive
+days “each represented a distinct ACCA ‘occurrence.’” 387 F.3d at 109.
+
+                                                      8
+Case 2:05-cr-00008-GZS Document 69 Filed 03/16/17 Page 9 of 9                  PageID #: 281
+
+
+
+       In short, Petitioner does not have a claim under either Johnson or Mathis.
+
+                                    III.   CONCLUSION
+
+       Based on the foregoing analysis, an evidentiary hearing is not warranted under Rule
+
+8 of the Rules Governing Section 2255 Cases. In addition, I recommend that the Court
+
+deny Petitioner’s motion for habeas relief under 28 U.S.C. § 2255. I further recommend
+
+that the Court deny a certificate of appealability pursuant to Rule 11 of the Rules Governing
+
+Section 2255 Cases.
+
+                                             NOTICE
+
+              A party may file objections to those specified portions of a magistrate
+       judge’s report or proposed findings or recommended decisions entered
+       pursuant to 28 U.S.C. 636(b)(1)(B) for which de novo review by the district
+       court is sought, together with a supporting memorandum, within fourteen
+       (14) days of being served with a copy thereof. A responsive memorandum
+       shall be filed within fourteen (14) days after the filing of the objection.
+
+              Failure to file a timely objection shall constitute a waiver of the right
+       to de novo review by the district court and to appeal the district court's order.
+
+                                                   /s/ John C. Nivison
+                                                   U.S. Magistrate Judge
+
+       Dated this 16th day of March, 2017.
+
+
+
+
+                                              9
+

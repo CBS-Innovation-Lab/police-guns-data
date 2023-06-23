@@ -1,0 +1,497 @@
+UNITED STATES OF AMERICA,
+     v.                                 CRIMINAL. NO. 04-10336-NMG-12
+JUAN NUNEZ,
+    Defendant.
+
+               REPORT AND
+         RECOMMENDATION ON
+      PETITIONER’S MOTION UNDER
+       28 U.S.C. § 2255 TO VACATE,
+  SET ASIDE, OR CORRECT SENTENCE BY
+ A PERSON IN FEDERAL CUSTODY (#500)
+COLLINGS, U.S.M.J.
+                                   I. Introduction
+
+
+
+     The   pro se   petitioner Juan Nunez (“petitioner” or “Nunez”) seeks to vacate
+his conviction pursuant to 28 U.S.C. § 2255. Nunez was convicted after a ten-
+day jury trial of heroin-related offenses and was sentenced to 151 months in
+prison. His conviction was affirmed on appeal.       See United States v. Santiago,
+560 F.3d 62 (1 Cir.),
+               st
+                                   , 130 S. Ct. 140 (2009). The government
+                        cert. denied
+
+
+
+urges summary dismissal of the petition, contending that the claims are
+conclusively belied by the record, or are insufficiently developed to warrant
+habeas relief. For the reasons that follow, the Court shall recommend that the
+motion under 28 U.S.C. § 2255 be DENIED.
+                    II. Factual and Procedural Background
+
+
+
+      Nunez was arrested in connection with his participation in a heroin
+distribution organization in Lowell, Massachusetts. The investigation, led by
+the Drug Enforcement Agency (“”DEA”), included visual surveillance, court-
+authorized wire-taps of the defendants’ cell phones, and seizure of drugs and
+paraphernalia from certain defendants (but not from Nunez).   See Santiago   , 560
+F.3d at 65. Nunez’s defense at trial was that he was, at most, a friend of
+Santiago, the organization’s leader, and that wire-taped conversations between
+Santiago and Nunez were consistent with this theory. The jury evidently
+rejected this theory, because it convicted Nunez and four others of conspiracy
+to distribute heroin. The jury also found that the conspiracy involved at least
+one kilogram of heroin.
+      On October 19, 2009, Nunez filed the present Motion Under 28 U.S.C. §
+
+
+                                       2
+2255 to Vacate, Set Aside, or Correct Sentence by a Person in Custody (#500).
+On February 24, 2010, the government filed its Response to Defendant’s Motion
+Pursuant to 28 U.S.C. § 2255 and Request for Summary Dismissal (#515). On
+April 19, 2010, Nunez filed a Reply to the Government Opposition of his 28
+U.S.C. § 2255 [sic] (#519). On April 27, 2010, the government filed its
+Response to Defendant’s Reply Memorandum (#520), to which it attached the
+Affidavit of Roger Witkin, Esquire, Nunez’s trial and appellate counsel. In
+response, Nunez filed his Reply to the Government Supplement [sic] Motion
+Filed on 04-27-2010, with an Unsworn Affidavit from Mr. Roger Witkin (#521).
+On May 21, 2012, the government filed, at the Court’s direction, an amended
+Affidavit of Roger Witkin (#575). The motions are thus ripe for disposition.1
+
+
+
+        1
+
+         On May 30, 2012, Nunez requested permission to supplement his petition with a claim based on the
+Supreme Court’s recent decision in United States v. Jones, 132 S. Ct. 945 (2012). (See #576) In Jones, the
+Supreme Court held that “the Government's installation of a GPS device on a target's vehicle, and its use of
+that device to monitor the vehicle's movements, constitutes a ‘search’” within the meaning of the Fourth
+Amendment. Id. at 949 (footnote omitted). The government, in opposition, argues that the claim is
+untimely, that Nunez lacks standing to challenge the constitutionality of a search of his co-defendant’s car,
+and that, in any event, the government complied with the Fourth Amendment’s warrant requirement.
+(#578) Timeliness aside, there is no dispute that the GPS device was placed on a minivan owned by a co-
+defendant, and not on Nunez’s car. Nunez would not have standing to challenge that search. See United
+States v. Kimball, 25 F.3d 1, 9 (1 Cir. 1994) (“In order to embark on a suppression challenge, a defendant
+                                 st
+
+
+must show that he had a reasonable expectation of privacy in the area searched . . . .”)(internal quotation
+marks and citation omitted). In addition, the government has presented evidence that the government, in
+fact, complied with the Fourth Amendment’s warrant requirement, and so any claim is conclusively rebutted
+by the record.
+                                                     3
+                                  III. Discussion
+
+
+
+      Nunez asserts ten grounds for relief in his petition: 1) his conviction was
+obtained through the false testimony of DEA agents; 2) his arrest was illegal
+because DEA agents failed to advise him of his Miranda rights; 3) trial counsel
+was ineffective in failing to make an opening statement; 4) trial counsel was
+ineffective because he “knew . . . that the Government plot against his client
+Nunez [was] false”; 5) trial counsel was ineffective in failing to heed Nunez’s
+wishes to testify in his own defense; 6) trial counsel was ineffective in failing to
+call Nunez’s wife to testify at trial; 7) trial counsel was ineffective in failing to
+deliver a persuasive closing argument; 8) trial counsel was ineffective in failing
+to make meaningful objections at trial; 9) appellate counsel was ineffective in
+failing to present all the previous claims on direct appeal; and 10) trial counsel
+was ineffective in failing to move to dismiss the “defective indictment.”
+      A. Legal Principles
+      Most of Nunez’s claims are governed by the familiar standard set out in
+Strickland v. Washington   , 466 U.S. 668, 688, 694 (1984). To succeed on a Sixth
+Amendment claim of ineffective assistance of counsel, a defendant must
+establish that his "counsel's representation 'fell below an objective standard of
+
+
+                                         4
+reasonableness'” and that “'there is a reasonable probability that, but for
+counsel's unprofessional errors, the result of the proceeding would have been
+different.'"   Moreno-Espada v. United States     , 666 F.3d 60, 64 (1 Cir. 2012)
+                                                                         st
+
+
+
+
+(quoting   Padilla v. Kentucky   , 130 S. Ct. 1473, 1482 (2010) (further internal
+quotation marks and citation omitted)). Under          Strickland    , “[a] reasonable
+probability is a probability sufficient to undermine confidence in the outcome.”
+Strickland , 466 U.S. at 694. With regard to the performance aspect of the
+standard, "[t]here is a 'strong presumption that counsel's conduct falls within
+the wide range of reasonable professional assistance,' and [a petitioner] 'must
+overcome the presumption that . . . the challenged action might be considered
+sound trial strategy.'"                   , 621 F.3d 59, 66 (1 Cir. 2010) (quoting
+                          Tevlin v. Spencer
+                                                                st
+
+
+
+
+Strickland , 466 U.S. at 689) (further citation and internal quotation marks
+omitted) (third alteration in original). Accordingly, “a lawyer's performance is
+deficient under    Strickland   ‘only where, given the facts known at the time,
+counsel's choice was so patently unreasonable that no competent attorney
+would have made it.'" . (quoting
+                           Id           Knight v. Spencer   , 447 F.3d 6, 15 (1 Cir.
+                                                                                st
+
+
+
+
+2006)).
+   B. The Claims
+
+                                              5
+       Ground 1   was not raised on direct appeal, although it could have been,
+and it can be dismissed on that ground alone. Knight v. United States, 37 F.3d
+769, 773 (1 Cir. 1994) (“Having bypassed his opportunity to raise the claim on
+             st
+
+
+
+
+direct appeal, [a petitioner] cannot raise it . . . on collateral attack.”). Although
+Nunez in Ground 9 faults his appellate counsel for failing to raise the claim on
+direct appeal, both the claim itself and the derivative ineffective-assistance-of-
+counsel claim fail for complete lack of development. Nunez has offered no
+particularized allegations to suggest that DEA agents offered false testimony.
+Nunez’s trial counsel subjected the agents to pointed cross-examination on the
+particulars of their evidence, (see, e.g., # 419, VII: 9-18; 53-64; 76-86; 98-103),
+and the jury evidently chose to believe that evidence.           Likewise, Ground
+2   could have been raised on direct appeal, but was not, and can be dismissed
+on that ground. In any event, the claim is meritless. At bottom, Nunez
+complains that the arresting agents never provided him with his Miranda
+warnings. But a constitutional violation occurs “only upon the admission of
+unwarned statements into evidence at trial. And, at that point, the exclusion of
+unwarned statements is a complete and sufficient remedy for any perceived
+Miranda violation.”       United States v. Patane, 542 U.S. 630, 641-42
+
+
+                                         6
+(2004)(alterations, internal quotation marks and citation omitted). Here,
+Nunez does not contend that he was prejudiced by the admission at trial of any
+unwarned statements. It follows that counsel could not have been ineffective
+in failing to raise this claim.
+      The Court agrees with the government that        Grounds 3 and 7      are
+conclusively rebutted by the record. Trial counsel delivered an opening and
+closing statement, in which he vigorously argued trial counsel’s theory of the
+case, viz., that Nunez and Santiago were old friends and not co-conspirators,
+and that the evidence did not support Nunez’s involvement in the drug
+trafficking scheme. These claims are thus facially meritless.
+      Ground 4    fails for lack of any developed credible allegations. Nunez
+simply claims that his counsel was ineffective because his counsel knew that the
+government had made up a plot against his client. This allegation is sheer
+undeveloped speculation and Nunez has failed to satisfy both the performance
+and prejudice prongs of Strickland.
+      In Ground 5, Nunez alleges that he “told his counsel that he wanted to
+testif[y].” (#500 at 6) He essentially says that he would have testified that he
+did not sell drugs to Santiago, that Santiago did not buy any drugs from him,
+
+
+                                       7
+and that Santiago never told Nunez where he was getting his drugs. He also
+contends that he would have testified that when he called Santiago about going
+to the game, this was true. In short, Nunez suggests that his trial counsel failed
+to heed Nunez’s wish to testify; and he contends that his testimony would have
+served to establish that he was not involved in the drug trafficking scheme, and
+that government witnesses mischaracterized intercepted conversations between
+Santiago and Nunez as coded language about drugs.
+      “There is no doubt ‘that a defendant has a fundamental constitutional
+right to testify in his own defense,’ and that the defendant, not his attorney, is
+the one who makes the ultimate decision whether to testify or not.” United
+States v. Merlino, 592 F.3d 22, 26 (1 Cir.) (quoting Owens v. United States, 483
+                                      st
+
+
+
+
+F.3d 48, 58 (1 Cir. 2007) (further internal quotation marks and citation
+                st
+
+
+
+
+omitted)), cert. denied, 131 S. Ct. 283 (2010). In moving for summary denial,
+the government argues that Nunez’s allegations lack the specificity required to
+support a claim that trial counsel interfered with Nunez’s right to testify or
+failed to advise him of his right to testify. See, e.g., Siciliano v. Vose, 834 F.2d
+29, 31 (1 Cir. 1987) (affirming summary denial of claim that trial counsel
+          st
+
+
+
+
+prevented petitioner from testifying where claim lacked specific and detailed
+
+                                           8
+supporting facts). In addition, the government relies on the affidavit of Roger
+Witkin (“Witkin”), Nunez’s trial counsel. In that affidavit, Witkin avers that it
+is his practice to advise criminal defendants of their constitutional right to
+testify and not to testify at trial, and that he advised Nunez of this right. He
+further avers that “[a]t no time did Mr. Nunez inform me that he wished to
+testify at trial in this case. In fact, after discussing the government’s evidence
+with him, Mr. Nunez agreed it was in his best interest not to testify at trial.”
+(#575 ¶ 4) In response to Witkin’s affidavit, Nunez states that “Mr. Witkin
+never gave [him] any advice of [his] constitutional right to testify or not testify
+at . . . trial.” (#521 at 2)
+      “Once a prisoner requests relief under § 2255, a district court must grant
+an evidentiary hearing on the prisoner’s claims unless ‘the motion and the files
+and records of the case conclusively show that the prisoner is entitled to no
+relief.’” Owens v. United States, 483 F.3d 48, 57 (1 Cir. 2007) (quoting 28
+                                                       st
+
+
+
+
+U.S.C. § 2255). Furthermore, under First Circuit precedent, “an evidentiary
+hearing is warranted on . . . [a right-to-testify] claim only where the allegations
+are ‘highly specific and usually accompanied by some independent
+corroboration.’” Duguay v. Spencer, 811 F. Supp.2d 531, 532 (D. Mass. 2011)
+
+
+                                        9
+(quoting Siciliano v. Vose, 834 F.2d 29, 31 (1 Cir.1987) (quoting United States
+                                              st
+
+
+
+
+v. Butt, 731 F.2d 75, 80 n. 5 (1 Cir. 1984))). In short, the First Circuit has
+                                 st
+
+
+
+
+required some substantiation or some independent corroboration beyond bare-
+boned assertions to support such a claim. In Owens itself, for example, “Owens
+and one of Owens’ trial attorneys provided detailed affidavits indicating that
+Owens was never told of his right to testify at trial.” Owens, 483 F.3d at 60.
+Here, Nunez’s assertion that his counsel failed to inform him of the right to
+testify (asserted for the first time in response to Witkin’s affidavit) lacks the
+specificity and the requisite corroboration to warrant an evidentiary hearing.
+      Moreover, Nunez’s own submissions confirm that he and Witkin had
+conversations about whether Nunez would testify: Nunez essentially says that
+he asked Witkin to testify and that Witkin advised against it. Thus, “the
+undisputed facts confirm not only that Petitioner knew he had a right testify,
+but that he and his attorney discussed the option several times.” McCann v.
+United States, 528 F. Supp.2d 4, 6 (D. Mass. 2008) (noting that “[t]he affidavit
+of Petitioner's counsel, and indeed the submissions of Petitioner himself,
+confirm that counsel and Petitioner discussed the possibility of Petitioner's
+testifying more than once”). Cf. also Siciliano, 834 F.2d at 31 (record suggests
+
+                                       10
+that petitioner “knew that, legally speaking, he could testify if he chose; but he
+chose not to testify as a matter of trial strategy, perhaps at the strong urging of
+counsel”); Osorio-Norena v. United States, 658 F. Supp.2d 266, 273 (D. Mass.
+2009) (“as in Siciliano, the petitioner’s affidavit and the record suggests that he
+knew that he could testify but was strategically dissuaded from so doing by
+defense counsel”); see also United States v. Ouimette, No. 99-489-ML, 2010 WL
+1839416, at *4 (D.R.I. May 6, 2010) (“Here, there is no question that Ouimette
+knew of his right to testify, as it is undisputed that he and [his counsel] had a
+number of conversations concerning whether he should do so.”).
+      Finally, “[u]naccompanied by coercion, legal advice concerning exercise
+of the right to testify infringes no right, but simply discharges counsel’s ethical
+responsibility to the accused.” Lema v. United States, 987 F.2d 48, 52 (1 Cir.
+                                                                             st
+
+
+
+
+1993)(citations omitted). Nunez does not allege that counsel coerced him into
+relinquishing his right to testify. And on this record, the Court cannot conclude
+that it would have been unreasonable trial strategy to advise Nunez not to
+testify and to put the government to its burden of proof. As the government
+points out, Nunez would have been forced to explain the cryptic nature of his
+recorded phone calls with Santiago, and the furtive nature of some of his
+
+                                        11
+actions at odd hours, all recounted by agents who had surveilled him. (See
+#515 at 16)
+      Moreover, even assuming (contrary to the record evidence) that Nunez
+was unaware of his right to testify, Nunez has failed to establish the prejudice
+prong of the Strickland standard. See McCann, 528 F. Supp.2d at 7 (“The First
+Circuit recognized in Owens that in certain circumstances a failure to inform a
+defendant of his right to testify might result in no prejudice and therefore fail
+to qualify a Petitioner for habeas relief.”). Here, Nunez simply states that he
+would have testified that he was not engaged in drug trafficking with Santiago.
+There were many details, however, that warranted an innocent explanation;
+Nunez could have readily supplied that explanation in an affidavit. Cf. Vega-
+Encarnacion v. United States, 933 F.2d 1531 (Table), 1993 WL 138536, at *4 (1   st
+
+
+
+
+Cir. 1993) (per curiam) (unpublished) (“In essence, appellant’s argument
+regarding prejudice boils down to the bare assertion that had appellant been
+allowed to testify, he would have adequately rebutted and explained [the
+witness’s statements]. What is lacking . . . is any indication of what appellant’s
+testimony would have been.”). Without the requisite particularity offering
+“genuinely exculpatory testimony,” Owens, 483 F.3d at 59, Nunez has failed to
+
+                                       12
+establish a reasonable probability that the outcome of the trial would have been
+different.     Cf. P almer v. Hendricks, 592 F.3d 386, 396 (3rd Cir. 2010) (noting
+that Owens’ standard is not “onerous” but that “it must be sufficiently detailed
+to be ‘genuinely exculpatory,’” and rejecting argument that Owens adopted a
+rule of per-se prejudice in right-to-testify cases).2 In short, even if the standard
+is not onerous, Nunez could have provided some detail in an effort to rebut or
+explain the government’s evidence. In the absence of this minimal showing, the
+Court concludes that Nunez has failed to establish the requisite prejudice.
+        In Ground 6, Nunez argues that his counsel was ineffective in failing to
+call Nunez’s wife to testify. Nunez contends that his wife would have testified
+about the “truth about her husband[’s] association with Santiago.” (#500 at 6)
+Presumably, then, she would have testified that Nunez was merely friends with
+Santiago. Trial counsel’s “decision to present the[] testimony [of potential
+witnesses], must be evaluated in light of whatever trial strategy reasonably
+
+        2
+
+          In Owens itself, the First Circuit concluded that the petitioner’s statement in his affidavit that he
+“would have testified that he did not have any role in the murders charged” satisfied the prejudice
+requirement. Owens v. United States, 483 F.3d 48, 59 n.8 (1 Cir. 2007). Notably, however, in the Owens
+                                                                st
+
+
+case, the defendant had been acquitted of several charges, including another murder, and the district court
+in Owens had concluded that these facts were pertinent to the prejudice inquiry. See Owens v, United States,
+236 F. Supp. 2d 122, 143 (D. Mass. 2002) (following per-se prejudice standard but noting significance of
+acquittals), aff’d in part, rev’d in part, 483 F.3d 48 (1 Cir. 2007). Nunez’s vague proposed testimony,
+                                                           st
+
+
+however, does not establish a reasonable probability that the outcome of the trial would have been different,
+i.e., “a probability sufficient to undermine confidence in the outcome." Strickland, 466 U.S. at 694.
+                                                      13
+competent counsel devised in the context of the particular case.” Lema, 987
+F.2d at 55. Here, trial counsel’s strategy was to hold the government to its
+burden of proof, and to argue that the government had failed to establish that
+Nunez was involved in the conspiracy at all. “The decision whether to call a
+particular witness is almost always strategic, requiring a balancing of the
+benefits and risks of the anticipated testimony.” Id. at 54. Given counsel’s
+decision in this case to argue the weaknesses of the government’s case, counsel
+may well have wanted to avoid the pitfalls that come with putting any witness
+on the stand, even favorable ones. Cf. id. (“the risk of ‘rocking the boat’ may
+warrant a decision by trial counsel to forego the presentation of further defense
+testimony, even favorable testimony.”). In short, there is no reason to think that
+counsel’s decision not to call Nunez’s wife as a witness was anything but a
+strategic decision: counsel may well have concluded that the testimony of a
+biased witness would have done little to counter the government’s evidence,
+and might have left the defense exposed to uncertain government cross-
+examination. Here, Nunez’s counsel, in his affidavit, further elaborates that any
+“information that [he] would have sought to elicit from Mr. Nunez’s wife was
+elicited from Captain Terry Hanson of the Massachusetts State Police during
+
+
+                                       14
+cross-examination.” (#575 ¶ 5) During cross-examination, Hanson conceded
+that a search of Nunez’s home turned up no drugs, drug paraphernalia or sums
+of cash. Nunez’s counsel further avers that “[t]he risk of potentially damaging
+information being elicited from Mr. Nunez’s wife during the government’s cross-
+examination of her, in my professional opinion, outweighed any potential
+benefit from her direct testimony in these circumstances.” (Id.) Nunez has not
+overcome the presumption that the decision here was a tactical decision.
+      In Ground 8, Nunez claims that his counsel was ineffective in merely
+“pretending” to make objections at trial. This contention is belied by the record,
+and requires little discussion. Even a cursory review of the trial transcripts
+reveals that counsel actively and vigorously lodged objections throughout the
+trial, (see, e.g., # 415: Tr. I:168-169; # 416: II: 123; VII:30), and vigorously
+cross-examined the government’s witnesses. For example, defense counsel
+elicited from the GPS technician that co-defendant Julio Santiago’s trips to
+Nunez’s house in Brooklyn tended to last for several hours; from the surveilling
+officer that although co-defendant Santiago carried a “garment bag” into
+Nunez’s house, the officer had no idea what was in the bag; and from the
+arresting officer, that a thorough search of Nunez’s home turned up no heroin
+
+
+                                       15
+or drug paraphernalia.         Furthermore, this case involved multiple
+defendants–government witnesses called were cross-examined by a lead defense
+counsel, depending on the significance of the witnesses’s testimony to the
+particular defendant. Nunez lived in New York, and had contact with one co-
+conspirator in Massachusetts, Julio Santiago. Thus, it would have made no
+sense for Nunez’s counsel to cross-examine witnesses who testified about their
+investigation into the surveillance of co-conspirators in Massachusetts.
+      In Ground 9, Nunez faults his appellate counsel for failing to raise any of
+the above claims in the direct appeal. Appellate counsel "need not (and should
+not) raise every nonfrivolous claim, but rather may select from among them in
+order to maximize the likelihood of success on appeal." Smith v. Robbins, 528
+U.S. 259, 288 (2000). And "[g]enerally, only when ignored issues are clearly
+stronger that those presented, will the presumption of effective assistance of
+counsel be overcome." Id. (internal quotation marks and citation omitted). As
+noted in the discussion of the claims, only Grounds 1 and 2 could have been
+presented on direct appeal. For the reasons noted above, those claims would
+have lacked merit even if appellate counsel had raised them. Otherwise, the
+First Circuit has repeatedly held that ineffective-assistance-of-counsel claims
+
+
+                                       16
+may not ordinarily be brought on direct appeal. See, e.g., United States v. Ofray-
+Campos, 534 F.3d 1, 34 (1st Cir.), cert. denied. 555 U.S. 1020 (2008). Thus,
+appellate counsel was not ineffective in failing to raise the remaining claims.
+      Finally, in Ground 10, Nunez claims that his counsel was ineffective in
+failing to move to dismiss “the Defective Indictment.” The claim is wholly
+undeveloped: Nunez fails to identify the purported defect in the indictment.
+Nunez has necessarily failed to establish a constitutional violation under
+Strickland. See David v. United States, 134 F.3d 470, 478 (1st Cir. 1998) (habeas
+petitioner should not receive an evidentiary hearing “if his allegations are
+‘vague, conclusory, or palpably incredible’”) (quoting Machribroda v. United
+States, 368 U.S. 487, 495 (1962)).
+                              IV. Recommendation
+      For all the above reasons, I RECOMMEND that petitioner’s Motion Under
+28 U.S.C. § 2255 to Vacate, Set Aside, or Correct Sentence by a Person in
+Federal Custody (#500) be DENIED and that Final Judgment enter accordingly.
+
+
+
+
+                                       17
+                       V. Review by the District Judge
+      The parties are hereby advised that any party who objects to this
+recommendation must file specific written objections thereto with the Clerk of
+this Court within 14 days of the party’s receipt of this Report and
+Recommendation. The written objections must specifically identify the portion
+of the recommendations, or report to which objection is made and the basis for
+such objections. The parties are further advised that the United States Court of
+Appeals for this Circuit has repeatedly indicated that failure to comply to file
+objections shall preclude further appellate review. See Keating v. Secretary of
+Health and Human Services, 848 F.2d 271 (1 Cir. 1988); United States v.
+                                                st
+
+
+
+
+Emiliano Valencia-Copete, 792 F.2d 4 (1 Cir. 1986); Scott v. Schweiker, 702
+                                           st
+
+
+
+
+F.2d 13, 14 (1 Cir. 1983); United States v. Vega, 678 F.2d 376, 378-379 (1 Cir.
+              st                                                          st
+
+
+
+
+1982); Park Motor Mart, Inc. v. Ford Motor Co., 616 F.2d 603(1 Cir., 1980); see
+                                                               st
+
+
+
+
+also Thomas v. Arn, 474 U.S. 140 (1985).
+
+
+                        /s/ Robert B. Collings
+                        ROBERT B. COLLINGS
+                        United States Magistrate Judge
+
+
+
+June 25, 2012.
+
+
+
+
+                                      18
+

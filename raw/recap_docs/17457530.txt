@@ -1,0 +1,765 @@
+                                 UNITED STATES DISTRICT COURT
+                                      DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA                            )
+                                                    )
+        v.                                          )        CR-08-157-B-W-02
+                                                    )
+LEVAR CAREY                                         )
+
+
+         ORDER ADDRESSING DEFENDANT’S SENTENCING MEMORANDUM
+
+        Levar Carey contends that guilty-filed dispositions in Massachusetts state court do not
+
+count as convictions for purposes of the Armed Career Criminal Act (ACCA). Based on the
+
+Massachusetts Supreme Judicial Court‟s comment in Commonwealth v. Simmons1 that “[i]t is
+
+well established that a judgment of conviction does not enter unless sentence is imposed,” the
+
+Court agrees.
+
+I.      STATEMENT OF FACTS
+
+        On May 6, 2009, after a two-day jury trial, Levar Carey was convicted of being a felon in
+
+possession of a firearm in violation of 18 U.S.C. § 922(g)(1). Jury Verdict (Docket # 200). On
+
+September 9, 2009, the Probation Office (PO) completed the Presentence Investigation Report
+
+(PSR). The PSR listed three Massachusetts state drug offenses in Mr. Carey‟s Criminal History
+
+and concluded that Mr. Carey was subject to the fifteen-year mandatory minimum term of
+
+imprisonment pursuant to the ACCA, 18 U.S.C. § 924(e). PSR ¶ 37.2 The second drug offense
+
+
+1
+  863 N.E.2d 549, 551 n.2 (Mass. 2007).
+2
+  The first drug offense involved charges of possession to distribute Class B drugs and possession of a Class D
+controlled substance based on events occurring on November 19, 1999. Gov’t’s Ex. 3B, State Docket No.
+9932CR7126; PSR ¶ 25. On March 18, 2000, Mr. Carey was sentenced to two-years split sentence, 59 days
+incarceration and the rest on probation on Count One and two-years probation on Count Two; Mr. Carey‟s probation
+was revoked on February 15, 2001 and he was sentenced to 22 months in custody on both Counts to be served
+concurrently. Gov’t’s Ex. 3C; PSR ¶ 25. The third drug offense involved charges of distribution of Class B drugs,
+possession to distribute Class B drugs, possession of Class D controlled substances, and two charges of conspiracy
+to violate the Controlled Substance Act based on events that occurred on January 12, 2001. Gov’t’s Ex. 5A, State
+Docket No. 0132CR000410; PSR ¶ 27. On February 15, 2001, Mr. Carey pleaded guilty to all five charges and was
+involved charges of possession with intent to distribute cocaine and conspiracy to commit a drug
+
+offense based on events occurring on November 20, 2000. Gov’t’s Ex. 4A, State Docket No.
+
+0032CR007410; PSR ¶ 26. On February 15, 2001, Mr. Carey pleaded guilty to both crimes, and
+
+his pleas were “filed with defendant‟s consent.” Gov’t’s Ex. 4C; PSR ¶ 26. Mr. Carey was never
+
+sentenced on either charge. Id.
+
+         The resolution of this issue is potentially significant for Mr. Carey. If the second charge
+
+is a conviction, Mr. Carey faces the ACCA‟s fifteen year mandatory minimum term of
+
+incarceration, and his guideline sentence range jumps to 235 to 293 months. But if the second
+
+charge is not a conviction, his total offense level would be 28, and his guideline range would fall
+
+to 140 to 175 months.3
+
+         On October 28, 2009, Mr. Carey filed a sentencing memorandum, arguing that because
+
+guilty-filings are not convictions under Massachusetts law, Mr. Carey‟s second drug offense
+
+does not count as a conviction for purposes of the ACCA. Def.’s Sentencing Mem. (Docket #
+
+
+
+
+sentenced to 27 months incarceration on count one and the remaining charges were filed. Gov’t’s Ex. 5C; PSR ¶ 27.
+Mr. Carey acknowledges that the first and third offenses are predicate convictions for the ACCA.
+3
+  The PO calculated Mr. Carey‟s guideline range by starting with a base offense level of 24 under U.S.S.G. §
+2K2.1(a)(2), adding a two-level specific offense characteristics under U.S.S.G. § 2K2.1(b)(1)(A) because three
+firearms were involved, applying an enhancement for obstruction of justice under U.S.S.G. § 3C1.1, and arriving at
+an adjusted offense level of 28. PSR ¶¶ 12-20. Under U.S.S.G. § 4B1.1(b)(3)(B), Mr. Carey‟s status as an armed
+career criminal increases the total offense level to 33. Id. ¶ 21. The PO calculated Mr. Carey‟s criminal history
+category as VI, based on thirteen criminal history points. Id. ¶¶ 25-40. With a criminal history of VI and a total
+offense level of 33, the guideline range for imprisonment is 235 to 293 months. Id. ¶ 63.
+          If the second drug offense plea on February 15, 2001 does not count as a conviction, Mr. Carey is not
+subject to the increase in the adjusted offense level from 28 because he would no longer be subject to the ACCA
+enhancement under U.S.S.G. § 4B1.1(b)(3). A criminal history of VI and a total offense level of 28 results in a
+guideline range of imprisonment of 140 to 175 months.
+          Mr. Carey‟s guilty-filed dispositions still count towards criminal history points. The Sentencing
+Commission specifically states that such dispositions are counted: “A diversionary disposition resulting from a
+finding or admission of guilt, or a plea of nolo contendere, in a judicial proceeding is counted as a sentence under §
+4A1.1(c) even if a conviction is not formally entered.” U.S.S.G. § 4A1.2(f); see also U.S.S.G. § 4A1.2(a)(4)
+(stating that “„convicted of an offense,‟ for purposes of this provision, means that the guilt of the defendant has been
+established, whether by guilty plea, trial, or plea of nolo contendere”). Unlike the ACCA that defines “conviction”
+in relation to state law, the Sentencing Commission defines what dispositions count towards criminal history points
+without regard to state treatment.
+
+                                                           2
+231) (Def.’s Mem). The Government responded on November 12, 2009. Gov’t’s Sentencing
+
+Mem. (Docket # 235) (Gov’t’s Mem).
+
+           On December 31, 2009, Mr. Carey filed motions in Massachusetts state court for new
+
+trials on all three state drug offenses based on claims of ineffective assistance of counsel. The
+
+commonwealth courts denied two motions on February 1, 2010 and the final on March 11, 2010.
+
+On April 15, 2010, this Court scheduled sentencing for June 21, 2010. Notice of Hearing
+
+(Docket # 260). On May 27, 2010, Mr. Carey filed a brief memorandum with the Court
+
+enclosing the First Circuit opinion in Griffiths v. Immigration and Naturalization Service, 243
+
+F.3d 45 (1st Cir. 2001). On June 4, 2010, the Government filed a supplemental sentencing
+
+memorandum. Gov’t’s Supp. Sentencing Mem. (Docket # 261).
+
+           A.       The ACCA
+
+           The ACCA provides that “a person who violates section 922(g) of this title and has three
+
+previous convictions by any court . . . for a violent felony or a serious drug offense, or both . . .
+
+shall be fined under this title and imprisoned not less than fifteen years.” 18 U.S.C. § 924(e)(1).
+
+The ACCA defines a serious drug offense as “an offense under State law, involving
+
+manufacturing, distributing, or possession with intent to manufacture or distribute, a controlled
+
+substance . . . for which a maximum term of imprisonment of ten years or more is prescribed by
+
+law.” 18 U.S.C. § 924(e)(2)(A)(ii).4 “What constitutes a conviction [under the ACCA] shall be
+
+determined in accordance with the law of the jurisdiction in which the proceedings were held.”
+
+18 U.S.C. § 921(a)(20). Massachusetts law determines whether a “guilty-filed” plea constitutes
+
+a conviction for purposes of the ACCA. United States v. Sousa, 468 F.3d 42, 45 (1st Cir. 2006)
+
+(looking to Massachusetts law to determine whether a conviction is a felony for purposes of the
+
+ACCA).
+4
+    Mr. Carey admits that the three drug offenses, if convictions, qualify as serious drug offenses.
+
+                                                             3
+       B.      Massachusetts Guilty-Filings
+
+       The current Massachusetts practice of accepting guilty-filed dispositions continues a
+
+long-standing common law practice. In Simmons, the Massachusetts Supreme Judicial Court
+
+(SJC) observed that the earliest judicial reference to the practice dates back to 1831. 863 N.E.2d
+
+at 554-55 (Mass. 2007) (citing Commonwealth v. Chase, Thacher‟s Crim. Cas. 267, 268 (Boston
+
+Mun. Ct. 1831)). In 1874, the SJC described the practice:
+
+       It has long been a common practice in this Commonwealth, after verdict of guilty
+       in a criminal case, when the court is satisfied that, by reason of extenuating
+       circumstances, or of the pendency of a question of law in a like case before a
+       higher court, or other sufficient cause, public justice does not require an
+       immediate sentence, to order, with the consent of the defendant and of the
+       attorney for the Commonwealth, and upon such terms as the court in its discretion
+       may impose, that the indictment be laid on file; and this practice has been
+       recognized by statute. Such an order is not equivalent to a final judgment, or to a
+       nolle prosequi or discontinuance, by which the case is put out of court; but is a
+       mere suspending of active proceedings in the case, which dispenses with the
+       necessity of entering formal continuances upon the dockets, and leaves it within
+       the power of the court at any time, upon the motion of either party, to bring the
+       case forward and pass any lawful order of judgment therein.
+
+Commonwealth v. John Dowdican’s Bail, 115 Mass. 133, 136 (Mass. 1874) (citations omitted).
+
+A “guilty-filed” plea “completely suspends the adjudicative process, including the defendant‟s
+
+right to appeal, until such time as the court reactivates or makes some further disposition of the
+
+case.” White v. Immigration and Naturalization Serv., 17 F.3d 475, 479 (1st Cir. 1994). A
+
+guilty-filed disposition involves “an admission of sufficient facts for a possible finding of guilt,
+
+but not an explicit admission of guilt.” Griffiths, 243 F.3d at 52 (quoting United States v.
+
+Tavares, 93 F.3d 10, 13 n.3 (1st Cir. 1996)). The filing of a charge “is not a final judgment.”
+
+Griffiths, 243 F.3d at 52 (quoting Commonwealth v. Bianco, 390 Mass. 254, 257, 454 N.E.2d
+
+901, 903 (1983)). The procedure “suspend[s], for as long as the case remains on file, the
+
+defendant‟s right to appeal alleged error in the proceeding.” Griffiths, 243 F.3d at 52 (quoting
+
+
+
+                                                 4
+Commonwealth v. Delgado, 367 Mass. 432, 438, 326 N.E.2d 716, 719 (1975)). “It is for this
+
+reason that a defendant must consent to filing.” Griffiths, 243 F.3d at 52. Massachusetts
+
+recently enacted a rule governing the filing procedure.                        Mass. R. Crim. P. 28(e) (2009).5
+
+Although other states have authorized the filing of criminal actions, see State v. Russo, 2008 ME
+
+31, ¶ 11, 942 A.2d 694, 697, the commonwealth of Massachusetts appears to “stand[] alone” in
+
+allowing “guilty-filed” dispositions. Simmons, 863 N.E.2d at 559.
+
+II.        DISCUSSION
+
+           A.        The Parties’ Positions
+
+                     1.       Mr. Carey
+
+           Mr. Carey argues that guilty-filed dispositions “cannot be considered a predicate
+
+conviction for purposes of the ACCA.” Def.’s Mem. at 2. He asserts that “in Massachusetts „[i]t
+
+is well established that a judgment of conviction does not enter unless sentence is imposed.”
+
+Def.’s Mem. at 3 (quoting Simmons, 863 N.E. 2d at 551 n.2). Mr. Carey concludes that because
+
+
+
+5
+    Mass. R. Crim. P 28(e) states in pertinent part:
+
+           (e) Filing. The court may file a case after a guilty verdict or finding without imposing a sentence
+           if the defendant and the Commonwealth both consent. With the consent of both parties, the judge
+           may specify a time limit beyond which the case may not be removed from the file, and may
+           specify any events that may cause the case to be removed from the file. The defendant shall file a
+           written consent with the court as to both the filing of the case and any time limit or events
+           regarding removal from the file. Prior to accepting the defendant‟s consent, the court shall inform
+           the defendant on the record in open court:
+
+           (i) that the defendant has a right to request sentencing on any or all filed case(s) at any time;
+
+           (ii) that subject to any time limit imposed by the court, the prosecutor may request that the case be
+           removed from the file and sentence imposed if a related conviction or sentence is reversed or
+           vacated or upon the prosecutor‟s establishing by a preponderance of the evidence either that the
+           defendant committed a new criminal offense or that an event occurred on which the continued
+           filing of the case was expressly made contingent by the court; and
+
+           (iii) that if the case is removed from the file the defendant may be sentenced on the case.
+
+           In sentencing the defendant after the removal of a case from the file, the court shall consider the
+           over-all scheme of punishment employed by the original sentencing judge.
+
+                                                              5
+“a guilty-filed disposition is not a final judgment or „equivalent to sentencing,‟” it is thus not a
+
+conviction. Id. at 3 (quoting Griffiths, 243 F.3d at 51-52). Observing that the “February 15,
+
+2001 guilty plea resulted in a guilty-filed disposition” and no “sentence was imposed,” Mr.
+
+Carey argues that “Massachusetts law establishes that the proceeding did not result in
+
+conviction.” Id. at 4. Mr. Carey finds further proof for this conclusion in the fact that the First
+
+Circuit “noted without disapproval the decision of a federal District Court not to count
+
+Massachusetts guilty-filed dispositions as convictions.” Id. (citing Tavares, 93 F.3d at 13 n.3).
+
+                    2.       The Government
+
+           The Government gives two reasons for why the Court should not follow footnote two in
+
+Simmons. First, the Government argues that the Simmons footnote represents a drastic departure
+
+from SJC precedent. Gov’t’s Mem. at 8 (citing Commonwealth v. Lockwood, 109 Mass. 323
+
+(1872)). The Government describes how the SJC in Lockwood distinguished between a finding
+
+of guilty—the conviction—and a sentence—the judgment. Id. at 8-9 (citing Lockwood, 109
+
+Mass. at 325).6 Arguing that the phrase “judgment of conviction” refers to a finding of guilty
+
+plus a sentence—the distinction highlighted in Lockwood—the Government concludes that the
+
+Simmons footnote is “an accurate statement to the extent that it states that a „judgment of
+
+conviction‟ is not entered until sentence is imposed.” Id. at 9-11. Acknowledging that the
+
+Simmons footnote might go further when it states “„to place a conviction on file‟ is internally
+
+6
+    Lockwood states:
+
+           The ordinary legal meaning of “conviction,” when used to designate a particular stage of a
+           criminal prosecution triable by a jury, is the confession of the accused in open court, or the verdict
+           returned against him by the jury, which ascertains and publishes the fact of his guilt; while
+           “judgment” or “sentence” is the appropriate word to denote the action of the court before which
+           the trial is had, declaring the consequences to the convict of the fact thus ascertained. The
+           authorities upon this point are so numerous that is will be sufficient to cite a few of those which
+           show that such was the legal understanding and use of these words at the time of the adoption of
+           our Constitution.
+
+Lockwood, 109 Mass. at 325.
+
+                                                             6
+contradictory,” the Government argues that this portion of the footnote is dictum and “should not
+
+control the case.” Id. at 11.
+
+       Second, the Government argues that the Massachusetts Legislature “has clearly expressed
+
+a contrary intent” to Simmons. Id. at 12. The Government describes how guilty-filings qualify
+
+as convictions for purposes of the Massachusetts state sentencing enhancement statute: Mass.
+
+Gen. L. ch. 269, § 10G(a) enhances sentences for defendants who have previously been
+
+convicted of a serious drug offense and Mass. Gen. L. ch. 140, § 121 defines “conviction” for
+
+purposes of § 10G as “a finding or verdict of guilt or a plea of guilty, whether or not a final
+
+sentence is imposed.” Gov’t’s Mem. at 12.
+
+       More generally, the Government argues that the Legislature has consistently
+
+distinguished between a conviction and a sentence. Id. at 9 (describing how Mass. Gen. L. ch.
+
+279, § 4 states that “[s]entence shall be imposed upon conviction of a crime”). The Government
+
+emphasizes that the only circuit to address the issue in depth, the Third Circuit, held that a state
+
+sentencing enhancement that counted guilty-filings as convictions indicated specific legislative
+
+intent and trumped the state common law definition of conviction as verdict plus sentence. Id. at
+
+13 (citing United States v. Jefferson, 88 F.3d 240, 243 (3d Cir. 1996)). As in Jefferson, the
+
+Government concludes that “[w]here, as here, there is a Massachusetts statute which expressly
+
+allows the use of a guilty finding regardless of whether final sentence is imposed,” the Court
+
+should disregard the common law definition if contrary. Id. at 14.
+
+       B.      Legal Standard
+
+       When construing state common law, federal courts “are bound by the teachings of the
+
+state‟s highest court.” N. Amer. Specialty Ins. Co. v. Lapalme, 258 F.3d 35, 38 (1st Cir. 2001).
+
+“In the absence of a definitive ruling by the highest state court, a federal court may consider
+
+
+
+                                                 7
+analogous decisions, considered dicta, scholarly works, and any other reliable data tending
+
+convincingly to show how the highest court in the state would decide the issue at hand.”
+
+Carreiro v. Rhodes Gill and Co., Ltd, 68 F.3d 1443, 1447 (1st Cir. 1995) (quoting Michelin Tires
+
+(Canada), Ltd. v. First Nat’l Bank, 666 F.2d 673, 682 (1st Cir. 1981)). The Court is expected to
+
+make an informed prophecy to “discern the rule the state‟s highest court would be most likely to
+
+follow under these circumstances, even if our independent judgment might differ.” Ambrose v.
+
+New Engl. Ass’n of Schs. & Colls., Inc., 252 F.3d 488, 497-98 (1st Cir. 2001).
+
+       In Massachusetts, courts are instructed to not interpret a statute “as effecting a material
+
+change in or a repeal of the common law unless the intent to do so is clearly expressed.”
+
+Commonwealth v. Cabral, 819 N.E.2d 951, 957 (Mass. 2005); Commercial Wharf E.
+
+Condominium Ass’n v. Waterfront Parking Corp., 552 N.E.2d 66, 71 (Mass. 1990) (stating that
+
+courts should not presume that the Legislature intended “a radical change in the common law
+
+without a clear expression of such intent”).
+
+       C.      The First Circuit and “Guilty-Filed” Dispositions
+
+       The First Circuit has not directly ruled on whether a “guilty-filed” charge under
+
+Massachusetts state law is a conviction under the ACCA. But it has addressed “guilty-filed”
+
+charges in other contexts and close scrutiny of those opinions is illuminating, though not
+
+definitive. The First Circuit has considered whether a “guilty-filed” charge is a conviction for
+
+immigration purposes. Griffiths, 243 F.3d at 55; White, 17 F.3d at 479. The Supreme Court
+
+summarily addressed the issue in Pino v. Landon and concluded that the Court was “unable to
+
+say that the conviction has attained such finality as to support an order of deportation within the
+
+contemplation of § 241 of the Immigration and Nationality Act.” 349 U.S. 901 (1955) (per
+
+curiam). Those cases have required the First Circuit to measure the Massachusetts guilty-filed
+
+
+
+                                                8
+procedure against the federal immigration statute, which contains a specific definition of
+
+“conviction.” By 2001, when the First Circuit decided Griffiths, the term “conviction” was
+
+statutorily defined:
+
+        The term “conviction” means, with respect to an alien, a formal judgment of guilt
+        of the alien entered by a court, or, if adjudication of guilt has been withheld,
+        where--
+
+        (i) a judge or jury has found the alien guilty or the alien has entered a plea of
+        guilty or nolo contendere or has admitted sufficient facts to warrant a finding of
+        guilt, and
+
+        (ii) the judge has ordered some form of punishment, penalty, or restraint on the
+        alien‟s liberty to be imposed.
+
+8 U.S.C. § 1101(a)(48)(A). Turning to the first definition, the Griffiths Court divided the
+
+language of § 1101(a)(48) into two prongs: the first “involves cases where there has been a
+
+„formal judgment of guilt.‟ The second prong applies to deferred adjudications, and requires the
+
+presence of additional elements.” Griffiths, 243 F.3d at 52. The Griffiths Court concluded that
+
+the “guilty-filed” plea did not meet the first requirement:
+
+        The BIA‟s reliance on the second prong of the definition in this case is
+        appropriate. While the immigration judge analyzed the case under the first prong,
+        the record does not support finding a formal judgment of guilt. The structure of
+        the statutory definition in § 101(a)(48)(A) requires that finding a formal judgment
+        of guilt under the first prong of the definition entails a showing of something
+        beyond a simple finding of guilt such as in the case-filed situation. Otherwise the
+        reference in the second prong of the statute to deferred adjudications where either
+        a judge or a jury has “found the alien guilty” would be rendered superfluous. The
+        simple notation of “guilty-filed” on the docket sheet does not support the
+        conclusion that Griffiths has been “convicted” within the meaning of the statute
+        because there has been a “formal judgment of guilt.”
+
+Id. at 53 (internal citations omitted).
+
+        For purposes of this case, Griffiths is significant because it establishes that under First
+
+Circuit law, a “guilty-filed” disposition is not a “formal judgment of guilt.” To the extent the
+
+
+
+
+                                                  9
+ACCA requires a “formal judgment of guilt” before a criminal disposition may be considered a
+
+conviction, Griffiths strongly suggests that a “guilty-filed” disposition would not qualify.7
+
+        D.       Hines and Tavares
+
+        For purposes of determining whether a “guilty-filed” disposition constitutes a conviction,
+
+the federal prosecution of Daniel Tavares presents a mixed message. In 1992, Judge Fuste
+
+sentenced Mr. Tavares in the United States District Court for the District of Massachusetts after
+
+he was convicted of being a felon in possession of a firearm. United States v. Hines, 802 F.
+
+Supp. 559, 561 (D. Mass. 1992).
+
+        At sentencing, Judge Fuste addressed Mr. Tavares‟ “guilty-filed” dispositions and
+
+concluded that they constituted predicate convictions under the ACCA. Id. at 573. Judge Fuste
+
+concluded that “a conviction by admission to sufficient facts resulting from informal proceedings
+
+at the first tier of the District Court is valid in federal court for the purpose of sentence
+
+enhancement.” Id. at 563. Judge Fuste then determined that guilty-filings constituted “a judicial
+
+determination of guilt.” Id. at 571. Judge Fuste observed that Massachusetts law distinguished
+
+between “conviction” and “judgment”: “a „conviction‟ is an adjudication of guilt . . . [t]he
+
+„judgment‟ is the sentence which the court may elect to impose after the state has moved for
+
+sentence.” Id. (citing Mass. Gen. L. ch. 279, §§ 1 and 1A). Judge Fuste found support for this
+
+reading in Lockwood and Pino v. Nicolls, 119 F. Supp. 122 (D. Mass.), aff’d, 215 F.2d 237 (1st
+
+Cir. 1954), rev’d, Pino, 349 U.S. 901. Hines, 802 F. Supp. at 571-72.
+
+        On appeal, the First Circuit vacated Mr. Tavares‟ conviction and remanded his case for
+
+new trial. United States v. Tavares, 21 F.3d 1 (1st Cir. 1994) (en banc). There was a second
+
+7
+ It is unlikely that Mr. Carey would be considered “convicted” under the second prong of § 1101(a)(48)(A) since he
+has never been punished within the meaning of the statute for the November 20, 2000 drug offense, since §
+1101(a)(48)(A0(ii) requires “some form of punishment, penalty, or restraint upon the alien‟s liberty.” 8 U.S.C. §
+1101(a)(48)(A)(ii); see Griffiths, 243 F.3d at 54. But this conclusion depends upon the specific language of §
+1001(a)(48)(A) and does not determine whether he has a prior conviction under the ACCA.
+
+                                                       10
+trial, and on March 30, 1995, Mr. Tavares was again found guilty. See Tavares, 93 F.3d at 11.
+
+At the resentencing, Judge William Young focused on whether Mr. Tavares‟ first tier disposition
+
+was sufficiently final to constitute a conviction, and he concluded that “the „guilty-filed‟
+
+dispositions could not be counted as convictions under the ACCA.” Id. at 13 n.3.8
+
+        E.       Commonwealth v. Simmons
+
+        In 2007, the SJC considered the case of Paul Simmons. Simmons, 863 N.E.2d at 551. In
+
+1981, Mr. Simmons pleaded guilty to thirteen indictments; he was sentenced on six and the rest
+
+were “placed on file.” Id. Approximately five years later, Mr. Simmons was arrested for a new
+
+crime, and at his arraignment, one of the 1981 indictments was removed from the file and
+
+brought before a different judge for sentencing. Id. He was sentenced to eighteen to twenty
+
+years on the earlier-filed 1981 indictment. Id. at 552. Filing serial petitions for post-conviction
+
+relief, Mr. Simmons repeatedly challenged his sentence and was successful on his fourth petition.
+
+Id. at 552, 559.9
+
+        In Simmons, the SJC discussed Massachusetts‟ centuries-old practice of “guilty-filed”
+
+dispositions and affirmed their use. In doing so, the SJC wrote the following footnote:
+
+        We note that our jurisprudence commonly has referred to this practice as placing
+        “convictions” on file. It is well established that a judgment of conviction does not
+        enter unless sentence is imposed, see Doe, Sex Offender Registry Bd. No. 1211 v.
+        Sex Offender Registry Bd., 857 N.E.2d 473 (2006), and cases cited, meaning that
+        the phrase “to place a conviction on file” is internally contradictory. Although
+        this error in nomenclature is minor, we shall refer to the practice as placing the
+        “case” or “indictment” on file.
+
+Id. at 551 n.2 (first internal citation omitted).
+
+8
+  Judge Young did not issue a written sentencing order. The Court reviewed transcripts of the first two days of the
+three day hearing. The parties did not object to the Court‟s consideration of the transcripts. At resentencing, Judge
+Young concluded that there was sufficient evidence that Mr. Tavares had committed the prior crimes and he
+departed upward. Tavares, 93 F.3d at 10. Mr. Tavares faced a mandatory minimum term of fifteen years
+incarceration under the ACCA and received a ten year sentence by virtue of the decision to depart upward. Id. at 17.
+The First Circuit did not reach whether the “guilty-filed” dispositions qualified as predicate convictions under the
+ACCA but simply upheld the upward departure. Id.
+9
+  The reason Mr. Simmons was successful is unrelated to the issue before the Court.
+
+                                                        11
+        F.       Simmons and the ACCA
+
+        The Court follows the dictum in Simmons because it remains the clearest answer to the
+
+question before the Court: whether the commonwealth of Massachusetts deems a “guilty-filed”
+
+disposition to be a conviction. It does not. Ambrose, 252 F.3d at 497-98 (stating that when no
+
+state case law is directly on point, the district court‟s job is to “discern the rule the state‟s highest
+
+court would be most likely to follow under these circumstances”). There is little ambiguity in
+
+the meaning of footnote two: because “a judgment of conviction does not enter unless sentence is
+
+imposed,” only a “case” or “indictment” can be filed, not a conviction. Id. The Government
+
+urges the Court to limit the footnote to mean only that a “judgment of conviction” requires
+
+sentence, but the SJC clearly goes further, stating that “„to place a conviction on file‟ is internally
+
+contradictory.” Id.
+
+        The Court identifies no reason to ignore Simmons or find it replaced by contrary
+
+legislative intent. Although past SJC precedent suggests that a sentence is not required for
+
+conviction, Lockwood, 109 Mass. at 325, Simmons is the SJC‟s most recent pronouncement on
+
+the issue and is not the only case to state that “there is no judgment of conviction on a criminal
+
+charge unless a sentence is imposed.” Doe, Sex Offender Registry Bd. No. 1211, 857 N.E.2d at
+
+479 n.5. Prior case law from the First Circuit, including Griffiths, is generally consistent with
+
+Simmons, and although Judge Fuste disagreed in Hines, the opinion was issued without the
+
+benefit of Simmons and represented his best informed prophecy about what the SJC would do.10
+
+        Furthermore, in the footnote, the SJC draws a careful distinction between a conviction
+
+and a “guilty-filed” disposition and instructs on the more precise use of language. To the extent
+
+prior decisions have semantically equated a “guilty-filed” disposition to a conviction, the SJC in
+
+
+10
+  In addition, although Judge Fuste relied on the district and circuit court opinions in Pino, the United States
+Supreme Court reversed those decisions. Pino, 349 U.S. at 901.
+
+                                                      12
+Simmons corrected the inaccurate use of language. Id. (describing the SJC‟s common practice of
+
+referring to guilty-filings as convictions as in “error”). The Government relies on prior SJC case
+
+law that refers to guilty-filed dispositions as “convictions,” but Simmons clarified and eclipsed
+
+prior SJC decisions. Gov’t’s Mem. at 9-11. Finally, in labeling the error in nomenclature
+
+“minor,” the SJC was presumably addressing ramifications within the commonwealth of
+
+Massachusetts and not predicting what impact, if any, its clarification would have on federal
+
+criminal sentencing.
+
+       The Court recognizes that the Massachusetts Legislature at times distinguishes between
+
+“conviction” and “sentencing.” See, e.g., Mass. Gen. L. ch. 279, § 1 (1998) (stating in part that
+
+“[w]hen a person convicted before a court is sentenced to imprisonment . . .”). The Court agrees
+
+that this statutory language supports the Government‟s position. But this statute was enacted
+
+before Simmons and in Simmons the SJC absolved the judiciary of its historically imprecise use
+
+of nomenclature. Simmons, 863 N.E.2d at 551 n.2 (stating that “this error in nomenclature is
+
+minor”). If the judiciary can be forgiven so can the Legislature.
+
+       Although Judge Fuste found such word use significant, his thoughtful opinion was
+
+written before Simmons and the then-existing common law definition appeared to also
+
+distinguish between “conviction” and “sentence.” In other words, Judge Fuste did not reach the
+
+question of whether the Legislature‟s word use evinced sufficiently clear legislative intent to
+
+“effect a material change in or a repeal of the common law.” Cabral, 819 N.E.2d at 957.
+
+Assuming that the distinction between conviction and judgment was valid in 1992 when Hines
+
+was authored, the SJC in Simmons invalidated it. Simmons, 863 N.E.2d at 551 n.2 (stating that
+
+“[i]t is well established that a judgment of conviction does not enter unless sentence is
+
+imposed”).
+
+
+
+                                                13
+       The Government contends that guilty-filings count for purposes of Massachusetts state
+
+sentencing enhancements; if this were the case, there could be sufficient legislative intent to
+
+trump the common law understanding of conviction. Jefferson, 88 F.3d at 243 (holding that a
+
+state sentencing enhancement that counted guilty-filings as convictions indicated specific
+
+legislative intent and trumped the state common law definition of conviction).                 The
+
+Massachusetts state sentencing enhancements for gun offenses are contained in Mass. Gen. L.
+
+ch. 269, §§ 10G(a)-(c), specifying increasing minimum jail terms depending on the number of
+
+prior convictions. Only prior convictions “of a violent crime or of a serious drug offense” count
+
+and § 10G(e) gives “violent crime” the same meaning as set forth in Mass. Gen. L. ch. 140, §
+
+121. Section 10G does not define “conviction” and does not state that its definition is governed
+
+by chapter 140, section 121. Although Mass. Gen. L. ch. 140, § 121 defines “conviction” as “a
+
+finding or verdict of guilt or a plea of guilty, whether or not final sentence is imposed,” the
+
+definitions in chapter 140, section 121 only apply to “sections 122 to 131P.” Massachusetts
+
+courts emphasize that the definition for “violent crime” is cross-referenced to chapter 140,
+
+section 121 whereas the definition for “conviction” is not. See, e.g., Commonwealth v. Foreman,
+
+830 N.E.2d 219, 221-22 (Mass. App. Ct. 2005) (stating that “the licensing statutes are expressly
+
+subject to the definition of conviction in § 121. There is no similar constraint on use of the word
+
+in § 10G”). The Court is unaware of any Massachusetts court to use guilty-filings as a basis for
+
+imposing the state sentencing enhancement.
+
+       Furthermore, the Massachusetts Legislature has not excluded serious drug offenses from
+
+the “guilty-filed” procedure.    The SJC observes that the Massachusetts Legislature “has
+
+delineated expressly crimes where the case may not be placed on file.” Simmons, 863 N.E.2d at
+
+556. Those crimes include causing serious bodily injury by recklessly or negligently operating a
+
+
+
+                                                14
+vessel while under the influence of liquor or drugs; causing homicide by recklessly or
+
+negligently operating a vessel while under the influence of liquor or drugs; rape of a child;
+
+second or subsequent offense of stalking; unlawfully carrying a dangerous weapon, large
+
+capacity weapon, or large capacity feeding device therefor; unlawful sale of quantity of firearms;
+
+illegal sale of large capacity weapons; violations of firearms possession prohibitions by persons
+
+previously convicted of violent crimes or drug offenses; and deriving support from child
+
+prostitution. Commonwealth v. Powell, 901 N.E.2d 686, 690 n.7 (Mass. 2009). By not allowing
+
+the filing of guilty pleas to certain crimes, the Massachusetts Legislature appears to have
+
+concluded that these crimes are sufficiently serious to mandate conviction. It is noteworthy that
+
+possession to distribute cocaine and conspiracy to violate the controlled substances act, the two
+
+crimes that were “guilty-filed” in this case, are not on the list.
+
+        Finally, the Court recognizes that treating guilty-filings as convictions makes intuitive
+
+sense: why should Mr. Carey be allowed to plead guilty to a serious drug offense and not have
+
+the disposition count towards the ACCA? This question is particularly pointed because the
+
+Massachusetts courts have denied Mr. Carey‟s motions for new trials. Gov’t’s Exs. 3F, 4E, and
+
+5F. However, having “discern[ed] the rule the state‟s highest court would be most likely to
+
+follow under these circumstances” and not having identified specific legislative intent to the
+
+contrary, the Court applies Simmons “even if [the Court‟s] independent judgment might differ.”
+
+Ambrose, 252 F.3d at 497-98.
+
+III.    CONCLUSION
+
+        Since the commonwealth of Massachusetts does not consider guilty-filed dispositions to
+
+be convictions, the Court will not treat Levar Carey‟s guilty-filed dispositions as convictions for
+
+purposes of the ACCA.
+
+
+
+                                                  15
+       SO ORDERED.
+
+
+                                   /s/ John A. Woodcock, Jr.
+                                   JOHN A. WOODCOCK, JR.
+                                   CHIEF UNITED STATES DISTRICT JUDGE
+
+Dated this 8th day of June, 2010
+
+
+
+
+                                    16
+

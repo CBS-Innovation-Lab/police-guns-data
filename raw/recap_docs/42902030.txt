@@ -1,0 +1,291 @@
+                            UNITED STATES DISTRICT COURT
+                                 DISTRICT OF MAINE
+
+JOSEPH SCOTT REEVES,                      )
+                                          )
+              Petitioner,                 )
+                                          )
+       v.                                 )      1:05-cr-00047-JAW
+                                          )      1:16-cv-00047-JAW
+UNITED STATES OF AMERICA,                 )
+                                          )
+              Respondent                  )
+
+            RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+       In this action, Petitioner Joseph Scott Reeves moves, pursuant to 28 U.S.C. § 2255,
+
+to vacate, set aside or correct his sentence.        (Amended Motion, ECF No. 55.)
+
+In 2006, following a guilty plea, Petitioner was convicted of possession of firearms as a
+
+felon, Hobbs Act robbery, and use of firearms during the commission of a federal crime of
+
+violence; he was sentenced to a total prison term of 262 months. (Judgment, ECF No. 29
+
+at 1-2.) Petitioner did not appeal from the conviction or the sentence.
+
+       Petitioner asserts a claim pursuant to Johnson v. United States, --- U.S. ---,
+
+135 S. Ct. 2551 (2015). (Amended Motion at 1.)         Following a review of Petitioner’s
+
+motion, the Government’s request for dismissal, and the record, I recommend the Court
+
+grant the Government’s request to dismiss Petitioner’s section 2255 motion.
+
+               I. FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+       Petitioner was convicted of possession of firearms as a felon, 18 U.S.C. § 922(g)(1)
+
+(Count 1); Hobbs Act robbery, 18 U.S.C. § 1951(a) (Count 2); and use of firearms during
+the commission of a federal crime of violence, 18 U.S.C. § 924(c) (Count 3).
+
+(Judgment at 1.)
+
+      The Court concluded Petitioner was a career offender under the sentencing
+
+guidelines, USSG § 4B1.1(a). (Presentence Order, ECF No. 26 at 1-2 n.2, and at 7;
+
+Sentencing Tr., ECF No. 52 at 8.) The Court sentenced Petitioner to prison terms of
+
+120 months on Count 1; 178 months on Count 2, to run concurrently; and 84 months
+
+on Count 3, to run consecutively to Count 2, for a total prison sentence of 262 months.
+
+(Judgment at 2.) The prison terms were to be followed by supervised release terms of three
+
+years on Counts 1 and 2, and five years on Count 3, with all supervised release terms to
+
+run concurrently. (Judgment at 3.)
+
+      Petitioner states he placed his pro se motion in the prison mailing system on
+
+January 25, 2016. (Motion, ECF No. 43 at 7.) Petitioner included in the pro se motion a
+
+claim under Johnson. (Memorandum in Support, ECF No. 43-1 at 1.) Counsel was
+
+appointed to represent Petitioner with respect to the Johnson claim. (Order, ECF No. 46.)
+
+Petitioner, represented by counsel, filed an amended motion. (Amended Motion at 1.)
+
+In the amended motion, Petitioner withdrew all claims except the Johnson claim. (Id. at 3.)
+
+                                     II. DISCUSSION
+
+      In Johnson, the statute at issue was the Armed Career Criminal Act,
+
+18 U.S.C. § 924(e) (ACCA), which imposes a 15-year mandatory minimum prison term
+
+when a defendant is convicted of a violation of 18 U.S.C. § 922(g) and has three previous
+
+convictions, committed on separate occasions, “for a violent felony or a serious drug
+
+
+
+                                            2
+offense, or both.” 135 S. Ct. at 2555-57. Section 924(e)(2)(B) defines the term “violent
+
+felony” and provides:
+
+        [T]he term “violent felony” means any crime punishable by imprisonment
+        for a term exceeding one year, . . . that—
+
+        (i)    has as an element the use, attempted use, or threatened use of physical
+        force against the person of another; or
+
+        (ii)    is burglary, arson, or extortion, involves use of explosives, or
+        otherwise involves conduct that presents a serious potential risk of physical
+        injury to another.
+
+Section 924(e)(2)(B)(i) is known as the “force” clause or the “elements” clause;
+
+the provision of section 924(e)(2)(B)(ii) that references burglary, arson, extortion, and the
+
+use of explosives is known as the “enumerated offenses” clause; the remainder of section
+
+924(e)(2)(B)(ii), i.e., the provision “or otherwise involves conduct that presents a serious
+
+potential risk of physical injury to another,” is known as the “residual” clause.
+
+United States v. Starks, 861 F.3d 306, 314 (1st Cir. 2017); United States v. Edwards,
+
+857 F.3d 420, 422-23 & n.2 (1st Cir. 2017).
+
+        In Johnson, the Court held the residual clause unconstitutionally vague.
+
+135 S. Ct. at 2555-57. The Court left intact the force clause and the enumerated offenses
+
+clause of section 924(e)(2)(B): “Today’s decision does not call into question application
+
+of the Act to the four enumerated offenses, or the remainder of the Act’s definition of a
+
+violent felony.” 135 S. Ct. at 2563.1
+
+
+
+
+1
+ In Welch v. United States, --- U.S. ---, 136 S. Ct. 1257, 1268 (2016), the Supreme Court held that “Johnson
+announced a substantive rule that has retroactive effect in cases on collateral review.”
+
+
+                                                     3
+        In Beckles v. United States, --- U.S. ---, 137 S.Ct. 886 (2017), the Supreme Court
+
+held that Johnson does not apply to the “identically-worded” residual-clause portion of the
+
+definition of “crime of violence” in the advisory sentencing guidelines, i.e., the guidelines
+
+as applied after United States v. Booker, 543 U.S. 220, 233 (2005) (concluding the
+
+guidelines must be considered advisory rather than mandatory).2 137 S. Ct. at 890, 894-95.
+
+Petitioner’s Johnson claim based on his challenge to the residual clause of the sentencing
+
+guidelines thus fails.
+
+        The remaining issue is whether a Hobbs Act robbery qualifies as a “crime of
+
+violence” under 18 U.S.C. § 924(c) and thus was properly considered as a crime of violence
+
+under USSG §§ 4B1.1(a)(2), 4B1.2(a). USSG § 4B1.1(a) provides in relevant part:
+
+        A defendant is a career offender if (1) the defendant was at least eighteen
+        years old at the time the defendant committed the instant offense of
+        conviction; (2) the instant offense of conviction is a felony that is either a
+        crime of violence or a controlled substance offense; and (3) the defendant
+        has at least two prior felony convictions of either a crime of violence or a
+        controlled substance offense.
+
+When Petitioner was sentenced in 2006, USSG § 4B1.2(a) defined “crime of violence” as
+
+follows:
+
+        The term “crime of violence” means any offense under federal or state law,
+        punishable by imprisonment for a term exceeding one year, that –
+
+        (1)    has as an element the use, attempted use, or threatened use of physical
+        force against the person of another, or
+
+
+
+2
+  In his reply memorandum, Petitioner acknowledged that following the Supreme Court’s decision in
+Beckles, he had no viable claim regarding the career offender finding, i.e., the finding concerning the two
+prior felony convictions that qualified as career offender predicates pursuant to
+USSG §§ 4B1.1(a)(3), 4B1.2(a). (Reply, ECF No. 70 at 3; Presentence Order, ECF No. 26 at 1-3, 7;
+Sentencing Tr., ECF No. 52 at 8.)
+
+                                                    4
+        (2)     is burglary of a dwelling, arson, or extortion, involves use of
+        explosives, or otherwise involves conduct that presents a serious potential
+        risk of physical injury to another.
+
+USSG § 4B1.2(a).3
+
+        Section 924(c)      imposes      mandatory       minimum        firearms-related      sentence
+
+enhancements when a defendant’s federal offense of conviction is a “crime of violence” or
+
+a “drug trafficking crime.” Section 924(c)(3) defines “crime of violence” and provides:
+
+        For purposes of this subsection, the term “crime of violence” means an
+        offense that is a felony and –
+
+        (A) has as an element the use, attempted use, or threatened use of physical
+        force against the person or property of another, or
+
+        (B) that by its nature, involves a substantial risk that physical force against
+        the person or property of another may be used in the course of committing
+        the offense.
+
+        The appellant in United States v. García-Ortiz, No. 16-1405, --- F.3d ---,
+
+2018 WL 4403947, 2018 U.S. App. Lexis 26267 (1st Cir. Sept. 17, 2018) argued, based
+
+on Johnson and Sessions v. Dimaya, --- U.S. ---, 138 S. Ct. 1204 (2018),4 that the residual
+
+clause language in 18 U.S.C. § 924(c) was unconstitutionally vague.                     García-Ortiz,
+
+2018 WL 4403947, at *1-2, 2018 U.S. App. Lexis 26267, at *1-4.                      The First Circuit
+
+concluded “any possible infirmity of section 924(c)’s residual clause” did not exculpate
+
+
+3
+ The residual clause has since been deleted from USSG § 4B1.2. USSG Supp. to App. C, amend. 798
+(Aug. 1, 2016).     The amendment, however, does not apply retroactively.            USSG § 1B1.10;
+United States v. Strevig, 663 F. App’x 908, 912 (11th Cir. 2016) (per curiam) (“The Sentencing
+Commission . . . has not made Amendment 798 retroactive to individuals sentenced prior to the effective
+date of the amendment.”).
+4
+ In Sessions v. Dimaya, --- U.S. ---, 138 S. Ct. 1204 (2018), the Supreme Court held that 18 U.S.C. § 16,
+which contains a residual clause similar to the 18 U.S.C. § 924(e) residual clause at issue in Johnson,
+“suffers from the same constitutional defect.” 138 S. Ct. at 1210-11.
+
+                                                   5
+García, because his Hobbs Act robbery was a crime of violence under section the force
+
+clause of 924(c). 2018 WL 4403947, at *2, 2018 U.S. App. Lexis 26267, at *6. The Court
+
+wrote:
+
+         Having rejected García’s arguments, we therefore hold that because the
+         offense of Hobbs Act robbery has as an element the use or threatened use of
+         physical force capable of causing injury to a person or property, a conviction
+         for Hobbs Act robbery categorically constitutes a “crime of violence” under
+         section 924(c)’s force clause.
+
+García-Ortiz, 2018 WL 4403947, at *5, 2018 U.S. App. Lexis 26267, at *13. Similarly,
+
+here, based on García-Ortiz, Petitioner’s Hobbs Act robbery is considered a crime of
+
+violence under section 924(c)(3)(A). See id. Petitioner’s contention that a Hobbs Act
+
+robbery does not qualify as a crime of violence, therefore, fails.5
+
+                                         III. CONCLUSION
+
+         Based on the foregoing analysis, an evidentiary hearing is not warranted under
+
+Rule 8 of the Rules Governing Section 2255 Cases.                   I recommend the Court deny
+
+Petitioner’s motion for habeas relief under 28 U.S.C. § 2255. I further recommend that the
+
+Court deny a certificate of appealability pursuant to Rule 11 of the Rules Governing
+
+Section 2255 Cases because there is no substantial showing of the denial of a constitutional
+
+right within the meaning of 28 U.S.C. § 2253(c)(2).
+
+                                              NOTICE
+
+                A party may file objections to those specified portions of a magistrate
+         judge’s report or proposed findings or recommended decisions entered
+         pursuant to 28 U.S.C. § 636(b)(1)(B) for which de novo review by the district
+
+5
+  Because Petitioner’s claim fails on the merits, there is no need to address the Government’s procedural
+arguments.
+
+
+                                                   6
+court is sought, together with a supporting memorandum, and request for oral
+argument before the district judge, if any is sought, within fourteen (14) days
+of being served with a copy thereof. A responsive memorandum and any
+request for oral argument before the district judge shall be filed within
+fourteen (14) days after the filing of the objection.
+
+       Failure to file a timely objection shall constitute a waiver of the right
+to de novo review by the district court and to appeal the district court’s order.
+
+                                    /s/ John C. Nivison
+                                    U.S. Magistrate Judge
+
+Dated this 16th day of October, 2018.
+
+
+
+
+                                        7
+

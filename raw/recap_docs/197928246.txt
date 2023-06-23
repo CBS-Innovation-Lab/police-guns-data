@@ -1,0 +1,636 @@
+Case 2:21-cr-00015-JDL Document 221 Filed 04/11/22 Page 1 of 13                     PageID #: 512
+
+
+
+
+                            UNITED STATES DISTRICT COURT
+                                 DISTRICT OF MAINE
+
+UNITED STATES OF AMERICA                      )
+                                              )
+                                              )
+                       v.                     ) 2:21-cr-00015-JDL-1
+                                              ) 2:21-cr-00015-JDL-4
+JASON CANDELARIO, et al.,                     )
+                                              )
+       Defendants.                            )
+
+
+      ORDER ON DEFENDANT DAPRATO’S MOTION TO SEVER AND
+      DEFENDANT CANDELARIO’S MOTION TO SEVER OR EXCLUDE
+                         EVIDENCE
+
+       The indictment in this case (ECF No. 115) alleges that Defendants Jason
+
+Candelario, Luis Carpio, Andrew Soboleski, and Derek Daprato engaged in a Hobbs
+
+Act robbery conspiracy to violently steal marijuana and the proceeds of marijuana
+
+sales, among other crimes. 1 During the investigation of the crime and immediately
+
+following the execution of a search warrant for Soboleski’s DNA, Soboleski allegedly
+
+told FBI agents that he dropped off Candelario and Carpio at the location of the crime,
+
+that a person he thought was named Derek drove ahead of them, and that Soboleski
+
+returned later to pick up Candelario and Carpio. Daprato moves (ECF No. 189) to
+
+sever his case from that of his codefendants. Candelario also moves (ECF No. 191) to
+
+
+
+
+ 1  Count One charges all four defendants with conspiring to commit Hobbs Act robbery. See
+18 U.S.C.A. § 1951(a) (West 2022). Count Two charges Candelario, Carpio, and Daprato with
+interfering with commerce by violence and aiding and abetting the same. See id. Count Three charges
+Candelario, Carpio, and Daprato with discharging a firearm during a crime of violence and aiding and
+abetting the same. See 18 U.S.C.A. § 924(c)(1)(A) (West 2022). Count Four charges Candelario,
+Carpio, and Daprato with brandishing a firearm during a crime of violence and aiding and abetting
+the same. See id. Count Five charges Candelario with being a felon in possession of firearms and
+ammunition. See 18 U.S.C.A. § 922(g)(1) (West 2022). Count Six charges Carpio with being a felon in
+possession of firearms and ammunition. See id.
+Case 2:21-cr-00015-JDL Document 221 Filed 04/11/22 Page 2 of 13             PageID #: 513
+
+
+
+
+sever his case or, alternatively, to exclude from evidence any statements made by any
+
+codefendant.
+
+       An indictment “may charge 2 or more defendants if they are alleged to have
+
+participated in the same act or transaction, or in the same series of acts or
+
+transactions, constituting an offense or offenses.” Fed. R. Crim. P. 8(b). But “[i]f the
+
+joinder of . . . defendants in an indictment . . . appears to prejudice a defendant . . . ,
+
+the court may . . . sever the defendants’ trials, or provide any other relief that justice
+
+requires.” Fed. R. Crim. P. 14(a).
+
+       Daprato argues that severance is required because Soboleski’s alleged
+
+statement to the FBI incriminates Daprato and is admissible as to Soboleski (as his
+
+own admission) but not against Daprato. As such, introducing the statement would
+
+create a conflict between Daprato’s right to confront Soboleski and Soboleski’s right
+
+to remain silent. Daprato also contends that the Government’s proposed redactions
+
+of Soboleski’s statement are insufficient to avoid prejudice. Candelario makes the
+
+same arguments, adding that, if severance is not granted, Soboleski’s statement and
+
+all other statements made by Candelario’s codefendants should be excluded. Daprato
+
+also argues that severance is necessary because he would be prejudiced by “spillover”
+
+from the evidence admissible against his codefendants but not admissible against
+
+him.
+
+       I first address Daprato’s and Candelario’s Confrontation Clause arguments
+
+and then turn to Daprato’s spillover argument.
+
+
+
+
+                                            2
+Case 2:21-cr-00015-JDL Document 221 Filed 04/11/22 Page 3 of 13            PageID #: 514
+
+
+
+
+                          I. CONFRONTATION CLAUSE
+
+      “The general rule is that defendants who are properly joined in an indictment
+
+should be tried together.” United States v. Floyd, 740 F.3d 22, 36 (1st Cir. 2014).
+
+“This rule has special force in conspiracy cases, in which the severance of
+
+coconspirators’ trials ‘will rarely, if ever, be required.’” Id. (quoting United States v.
+
+Flores-Rivera, 56 F.3d 319, 325 (1st Cir. 1995)). Joint trials “promote efficiency and
+
+‘serve the interests of justice by avoiding the scandal and inequity of inconsistent
+
+verdicts.’” Zafiro v. United States, 506 U.S. 534, 537 (1993) (quoting Richardson v.
+
+Marsh, 481 U.S. 200, 210 (1987)). However, “a district court should grant a severance
+
+under Rule 14 . . . if there is a serious risk that a joint trial would compromise a
+
+specific trial right of one of the defendants.” Id. at 539.
+
+      The Confrontation Clause of the Sixth Amendment guarantees a criminal
+
+defendant the right “to be confronted with the witnesses against him.” U.S. Const.
+
+amend. VI. “The Supreme Court of the United States held in Bruton that a defendant
+
+is deprived of that right ‘where the powerfully incriminating extrajudicial statements
+
+of a codefendant . . . are deliberately spread before the jury in a joint trial’ and the
+
+‘alleged accomplice does not testify and cannot be tested by cross-examination.’”
+
+United States v. de Leon-De La Rosa, 17 F.4th 175, 190 (1st Cir. 2021) (alteration
+
+omitted) (quoting Bruton v. United States, 391 U.S. 123, 135-36 (1968)). But “the
+
+Confrontation Clause is not violated by the admission of a nontestifying codefendant’s
+
+confession with a proper limiting instruction when . . . the confession is redacted to
+
+eliminate not only the defendant’s name, but any reference to his or her existence.”
+
+Richardson, 481 U.S. at 211. That is true even when the redacted confession becomes
+
+                                            3
+Case 2:21-cr-00015-JDL Document 221 Filed 04/11/22 Page 4 of 13           PageID #: 515
+
+
+
+
+incriminating “when linked with evidence introduced later at trial.” Id. at 208. Yet
+
+a redacted confession violates the Confrontation Clause if it “‘obviously’ and ‘directly’
+
+implicates the defendant in the crime” and would do so “even were the confession the
+
+very first item introduced at trial.” de Leon-De La Rosa, 17 F.4th at 191 (quoting
+
+Gray v. Maryland, 523 U.S. 185, 196 (1998)). Accordingly, “redactions that replace a
+
+proper name with an obvious blank, the word ‘delete,’ a symbol, or similarly notify
+
+the jury that a name has been deleted are similar enough to Bruton’s unredacted
+
+confessions as to warrant the same legal results,” “for the jury will often realize that
+
+the confession refers specifically to the defendant.” Gray, 523 U.S. at 193, 195.
+
+      In sum, even a redacted pretrial confession cannot be introduced if it is
+
+“powerfully incriminating,” meaning “inculpatory on its face,” either expressly or
+
+because of its immediately obvious implication.        United States v. Vega Molina,
+
+407 F.3d 511, 520-21 (1st Cir. 2005). As the First Circuit has acknowledged, “[t]his
+
+criterion is easier to state than to apply.” Id. at 520. Whether proposed redactions
+
+are sufficient “requires careful attention to both text and context, that is, to the text
+
+of the statement itself and to the context in which it is proffered.” Id. However, the
+
+context that a court may consider is limited: “Statements that are incriminating only
+
+when linked to other evidence in the case do not trigger application of Bruton’s
+
+preclusionary rule.” Id.
+
+      In Vega Molina, the First Circuit approved a redacted confession that replaced
+
+codefendants’ names with neutral phrases such as “other individuals” and “another
+
+person.” Id. The court reasoned, however, that this method of redaction is not always
+
+adequate. Id. “A particular case may involve numerous events and actors, such that
+
+                                           4
+Case 2:21-cr-00015-JDL Document 221 Filed 04/11/22 Page 5 of 13        PageID #: 516
+
+
+
+
+no direct inference plausibly can be made that a neutral phrase like ‘another person’
+
+refers to a specific codefendant.” Id. But “[a] different case may involve so few
+
+defendants that the statement leaves little doubt in the listener’s mind about the
+
+identity of ‘another person.’” Id. In Vega Molina, the redaction sufficed in part
+
+because it referenced a deceased coconspirator. Id. at 521. That reference created
+
+ambiguity about whether the codefendants were the individuals referenced in the
+
+confession because it indicated that more people may have been involved in the crime
+
+than those who were on trial. Id.
+
+      Here, the Government proposes to redact Soboleski’s alleged statement by
+
+referring to the codefendants as “individuals,” as shown in the following table
+
+submitted by the Government:
+
+  Soboleski’s Unredacted Statement                Government’s Proposal
+
+ 1. On August 2, 2019, Soboleski was     1. On August 2, 2019, Soboleski was
+ contacted by either Luis Carpio or      contacted by one of two individuals,
+ Jason Candelario, Soboleski was unable  Soboleski was unable to recall which
+ to recall which one.                    one.
+ 2. Soboleski was asked to give          2. Soboleski was asked to give two
+ Candelario and Carpio a ride, for an    individuals a ride, for an unstated
+ unstated purpose.                       purpose.
+ 3. Soboleski did not ask the purpose of 3. The Government submits that
+ the trip, nor was he to receive any cashredacting this statement is
+ or drugs for providing the ride.        unnecessary.
+ 4. Soboleski used Carpio’s “girl” Suly’s4. Soboleski used one of the individual’s
+ vehicle and drove Candelario and        significant other’s vehicle to drive the
+ Carpio to a rural wooded location that  individuals to a rural wooded location
+ he thought was in Maine.                that he thought was in Maine.
+ 5. No other individuals were present in 5. The Government submits that
+ the vehicle.                            redacting this statement is
+                                         unnecessary.
+ 6. During the drive, Soboleski observed 6. During the drive, Soboleski observed
+ either Candelario or Carpio enter an    one of the individuals enter an address
+ address into GPS maps on their cellular into GPS maps on their cellular phone,
+
+                                            5
+Case 2:21-cr-00015-JDL Document 221 Filed 04/11/22 Page 6 of 13             PageID #: 517
+
+
+
+
+ phone, which provided them on [sic]            which provided directions to the
+ directions to the destination.                 destination.
+ 7. Soboleski was also following another        7. The Government submits that
+ individual he believed was involved,           redacting this statement is
+ who was operating a white pickup               unnecessary.
+ truck.
+ 8. Soboleski believed the operator’s           8. The Government does not intend to
+ name was Derek, who possibly went by           introduce this statement in its case-in-
+ “D rock.”                                      chief.
+ 9. Soboleski did not know Derek’s role         9. The Government does not intend to
+ in the robbery.                                introduce this statement in its case-in-
+                                                chief.
+ 10. After dropping off Candelario and          10. After dropping off the other
+ Carpio, Soboleski did not see Derek’s          individuals, Soboleski did not see the
+ truck again.                                   truck again.
+ 11. When they arrived at the                   11. When they arrived at the
+ destination, Soboleski dropped                 destination, Soboleski dropped off the
+ Candelario and Carpio off and they             other individuals, and they went into
+ went into the woods.                           the woods.
+ 12. Soboleski was to drive around and          12. Soboleski drove around and waited
+ wait to be contacted to pick up                to be contacted to pick up the other
+ Candelario and Carpio.                         individuals.
+ 13. Soboleski stated that he drove             13. The Government submits that
+ around and also slept inside the vehicle       redacting this statement is
+ while waiting.                                 unnecessary.
+ 14. Soboleski stated that he went to an        14. The Government submits that
+ Irving store parking lot.                      redacting this statement is
+                                                unnecessary.
+ 15. Soboleski stated he was eventually         15. Soboleski was eventually contacted,
+ contacted and went to pick up                  and he went to pick up the other
+ Candelario and Carpio.                         individuals.
+ 16. Soboleski stated that they smelled         16. The Government submits that
+ like a “swamp” but it was dark and he          redacting this statement is
+ didn’t see anything.                           unnecessary.
+ 17. Soboleski stated that neither              17. The other individuals did not say
+ Candelario or Carpio said anything             anything upon their return to the
+ upon their return into the car.                vehicle.
+ 18. Soboleski did not see any firearms         18. Soboleski did not see any firearms
+ or anything else, and that Candelario          or anything else.
+ and Carpio were keeping things to
+ themselves.
+ 19. Soboleski provided Candelario and          19. Soboleski drove the other
+ Carpio a ride back to the Manchester           individuals back to the Manchester
+ area.                                          area.
+
+                                            6
+Case 2:21-cr-00015-JDL Document 221 Filed 04/11/22 Page 7 of 13         PageID #: 518
+
+
+
+
+      The Government argues that its responses and proposed redactions are
+
+sufficient because of the redactions that the First Circuit endorsed in Vega Molina.
+
+The Government also contends that it does not need to redact the reference to the
+
+white pickup truck from statement seven because that detail does not facially
+
+incriminate Daprato.
+
+      Daprato counters that this case is different from Vega Molina because the
+
+absence of references to additional parties will lead the jury to conclude that the
+
+redacted statement must refer to Daprato, Candelario, and Carpio. Additionally,
+
+Daprato asserts that mentioning the white pickup truck is akin to identifying
+
+Daprato by a nickname, which would be prohibited. Finally, Daprato insists that,
+
+because the Government intends to introduce the alleged statement through the
+
+testimony of an FBI agent, redacting it would create artificial constraints on the
+
+defendants’ cross-examinations and potentially cause a mistrial.
+
+      Candelario likewise stresses the differences between this case and Vega
+
+Molina, particularly the number of actors involved and the existence of other evidence
+
+that would plainly link Candelario to the redacted statement. He argues that the
+
+proposed redactions obviously imply that Soboleski named his codefendants because
+
+the redacted statement contains unnatural phrases like “Soboleski was contacted by
+
+one of two individuals, Soboleski was unable to recall which one.” Candelario also
+
+asserts that the proposed redactions are unworkable because the defendants would
+
+be unfairly prevented from fully cross-examining the testifying officer about topics
+
+such as Soboleski’s exact words.
+
+
+
+                                          7
+Case 2:21-cr-00015-JDL Document 221 Filed 04/11/22 Page 8 of 13           PageID #: 519
+
+
+
+
+      The reference to the white pickup truck could be incriminating when linked to
+
+other evidence, but, if the alleged statement were the first piece of evidence at trial,
+
+no juror would connect the truck to Daprato. “The Supreme Court has held that an
+
+out-of-court confession of a non-testifying defendant that only ‘inferentially
+
+incriminates’ a codefendant who is on trial through deductive links to other evidence
+
+does not animate that codefendant’s Sixth Amendment concerns in the same manner
+
+as a head-on accusation.” United States v. Padilla-Galarza, 990 F.3d 60, 76 (1st Cir.
+
+2021) (alterations omitted) (quoting Richardson, 481 U.S. at 208); see also
+
+Richardson, 481 U.S. at 209 (“If extended to confessions incriminating by connection,
+
+. . . it is not even possible to predict the admissibility of a confession in advance of
+
+trial.”). Only when a confession itself is powerfully incriminating, either directly or
+
+through its immediately obvious implication, do we depart from “the almost
+
+invariable assumption of the law that jurors follow their instructions.” Richardson,
+
+481 U.S. at 206. “Where the necessity of . . . linkage is involved, it is a less valid
+
+generalization that the jury will not likely obey the instruction to disregard the
+
+evidence.” Id. at 208; accord United States v. Figueroa-Cartagena, 612 F.3d 69, 85
+
+(1st Cir. 2010). There is no need to redact the reference to the white pickup truck if
+
+the jury is instructed to consider the alleged statement only as to Soboleski.
+
+      Additionally, the Government’s proposal to refer to the codefendants as
+
+“individuals” is not a prohibited “obvious indication of deletion.” Gray, 523 U.S. at
+
+192. It is true that a redacted confession must resemble something that “might
+
+actually have been said by a person admitting his own culpability in the charged
+
+conspiracy while shielding the specific identit[ies] of his confederate[s].” United
+
+                                           8
+Case 2:21-cr-00015-JDL Document 221 Filed 04/11/22 Page 9 of 13           PageID #: 520
+
+
+
+
+States v. Jass, 569 F.3d 47, 62 (2d Cir. 2009). The Government might violate that
+
+rule if it were to introduce the proposed redactions as if they were Soboleski’s exact
+
+words because the references to “individuals” could sound “suspiciously closer to the
+
+speech of a prosecutor than that of a perpetrator.” United States v. Taylor, 745 F.3d
+
+15, 29 (2d Cir. 2014). But the Government’s plan is instead to have an FBI agent
+
+testify about what Soboleski allegedly said. A phrase like “Soboleski was contacted
+
+by one of two individuals, Soboleski was unable to recall which one” does not obviously
+
+betray the fact that Soboleski’s original alleged statement contained actual names if
+
+it is clear that the testifying officer is paraphrasing.
+
+       Nor is this a case “involv[ing] few actors and events, such that a . . . neutral
+
+pronoun becomes transparent and leaves little doubt in the listener’s mind about the
+
+identity of the person whose name has been removed.” Foxworth v. St. Amand,
+
+570 F.3d 414, 433 (1st Cir. 2009). The indictment states that the four defendants
+
+“conspired with each other and other persons.” ECF No. 115 at 1 (emphasis added).
+
+Based on this information, the named defendants do not represent the full extent of
+
+the alleged conspiracy. The alleged redacted statement indicates that Soboleski and
+
+at least three others participated. With the proposed redactions, it is ambiguous
+
+whether the person who originally contacted Soboleski in statement one was a
+
+potential fifth participant. The scheme is not described so exhaustively that a listener
+
+could confidently conclude that only those four or five people were involved. The
+
+alleged statement does not even describe the interference with commerce by violence
+
+or the discharge and brandishing of a firearm during a crime of violence that are
+
+charged in the indictment, leaving open the prospect of additional actors during those
+
+                                             9
+Case 2:21-cr-00015-JDL Document 221 Filed 04/11/22 Page 10 of 13         PageID #: 521
+
+
+
+
+events. To the contrary, the gist of Soboleski’s alleged statement is that he did not
+
+grasp what was going on and saw very little. Given “the distinct possibility that
+
+people besides those who were on trial may have been involved in the commission of
+
+the crimes,” there would be no obvious and immediate inference that the unidentified
+
+persons are Soboleski’s codefendants. Vega Molina, 407 F.3d at 521.
+
+      Finally, although courts must remain sensitive to the potential pitfalls of
+
+allowing an officer to testify about a redacted statement, see Bruton, 391 U.S. at 134
+
+n.10; United States v. Jedi, 339 F. Supp. 3d 19, 24 (D.P.R. 2018), such an arrangement
+
+is not unusual. In Vega-Molina, an FBI agent testified as to a redacted pretrial
+
+confession. 407 F.3d at 518-19. The Confrontation Clause provides defendants with
+
+“the right to conduct such cross-examination as is reasonably necessary to delineate
+
+and present the defendant’s theory of defense.” Id. at 522. “So long as the trial court
+
+affords the defendant a fair opportunity for effective cross-examination, it may
+
+impose reasonable restrictions . . . .” Id. at 523. Daprato and Candelario have not
+
+shown that they would be deprived of a fair opportunity for effective cross-
+
+examination if they are not permitted to ask the FBI agent questions that would
+
+negate the redactions and thus create a Bruton problem.
+
+      Finally, Candelario’s request to exclude all statements by his codefendants is
+
+significantly overbroad, as certain statements by his codefendants may be admissible
+
+against him or would be admissible against his codefendants without violating
+
+Bruton. See Fed. R. Evid. 801(d)(2)(E) (providing that a statement “made by the
+
+party’s coconspirator during and in furtherance of the conspiracy” is not hearsay);
+
+Figueroa-Cartagena, 612 F.3d at 85 (“Because it is premised on the Confrontation
+
+                                          10
+Case 2:21-cr-00015-JDL Document 221 Filed 04/11/22 Page 11 of 13         PageID #: 522
+
+
+
+
+Clause, the Bruton rule, like the Confrontation Clause itself, does not apply to
+
+nontestimonial statements.” (quoting United States v. Johnson, 581 F.3d 320, 326
+
+(6th Cir.2009))).
+
+                                    II. SPILLOVER
+
+      “Evidentiary spillover occurs ‘where evidence establishing the guilt of one
+
+defendant, but not admissable [sic] against the other, may create an atmosphere
+
+clouding the jury’s ability to evaluate fairly the guilt or innocence of the latter.’”
+
+United States v. Weadick, 15 F.4th 1, 15 (1st Cir. 2021) (alteration in original)
+
+(quoting United States v. Perkins, 926 F.2d 1271, 1281 (1st Cir. 1991)).              An
+
+impermissible spillover may occur “where the crimes of some defendants are more
+
+horrific or better documented than the crimes of others.” United States v. Martínez,
+
+994 F.3d 1, 15-16 (1st Cir. 2021) (quoting United States v. Innamorati, 996 F.2d 456,
+
+469 (1st Cir. 1993)). “To prevail on an evidentiary spillover claim, the defendant must
+
+prove ‘prejudice so pervasive that a miscarriage of justice looms.’” Weadick, 15 F.4th
+
+at 16 (quoting United States v. Paz-Alvarez, 799 F.3d 12, 30 (1st Cir. 2015)).
+
+      Daprato argues that severance is appropriate because evidence against his
+
+codefendants—namely,       Soboleski’s   alleged   statement   and   evidence    of   his
+
+codefendants’ alleged violent acts—will cloud the jury’s capacity to judge him fairly.
+
+The first issue is properly addressed through the Bruton framework. Soboleski’s
+
+alleged statement does not call for severance if it is properly redacted and a limiting
+
+instruction is given to the jury.
+
+      In addition, evidence of Daprato’s codefendants’ alleged violent conduct—e.g.,
+
+the shooting, zip ties, and duct tape—would not prejudice Daprato such that a
+
+                                           11
+Case 2:21-cr-00015-JDL Document 221 Filed 04/11/22 Page 12 of 13           PageID #: 523
+
+
+
+
+miscarriage of justice looms. Daprato is charged in every count of the indictment
+
+except for the counts against Candelario and Carpio for being felons in possession of
+
+firearms and ammunition. Supra note 1. Accordingly, much, if not all of the evidence
+
+that Daprato identifies is admissible against him. “Where evidence featuring one
+
+defendant is independently admissible against a codefendant, the latter cannot
+
+convincingly complain of an improper spillover effect.” United States v. O’Bryant, 998
+
+F.2d 21, 26 (1st Cir. 1993). Further, the alleged conduct of his codefendants, while
+
+grievous, is not so horrific that a jury could not be trusted to fairly evaluate Daprato
+
+as an individual.
+
+      Daprato also argues that the jury would be confused by the fact that Soboleski
+
+is charged only in Count One (conspiracy to commit Hobbs Act robbery), see note 1,
+
+while Soboleski’s alleged level of participation exceeds Daprato’s. It is not clear why
+
+this concern qualifies as a question of evidentiary spillover. It is also not apparent,
+
+at this pretrial stage, whether Daprato is correct about his alleged level of culpability
+
+as compared to Soboleski. Regardless, I am not persuaded that such a discrepancy
+
+in the Government’s charging decisions would confuse the jury and thus significantly
+
+prejudice Daprato.
+
+                                 III. CONCLUSION
+
+      Derek Daprato’s Motion to Sever (ECF No. 189) and Jason Candelario’s Motion
+
+to Sever or Exclude Evidence (ECF No. 191) are DENIED.
+
+
+
+
+                                           12
+Case 2:21-cr-00015-JDL Document 221 Filed 04/11/22 Page 13 of 13   PageID #: 524
+
+
+
+
+      SO ORDERED.
+
+      Dated: April 11, 2022
+
+
+                                                  /s/ JON D. LEVY
+                                            CHIEF U.S. DISTRICT JUDGE
+
+
+
+
+                                      13
+

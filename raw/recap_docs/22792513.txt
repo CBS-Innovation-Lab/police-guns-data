@@ -1,0 +1,289 @@
+                           UNITED STATES DISTRICT COURT
+                                DISTRICT OF MAINE
+
+    UNITED STATES OF AMERICA,                      )
+                                                   )
+    v.                                             ) Docket No. 2:16-cr-169-NT
+                                                   )
+    NOOR MOHAMED,                                  )
+                                                   )
+                         Defendant.                )
+
+                ORDER ON DEFENDANT’S MOTION TO SUPPRESS
+
+         Defendant Noor Mohamed is charged with possession of a firearm by a felon in
+
+violation of 18 U.S.C. §§ 922(g)(1) and 924(e). This matter comes before me on
+
+Mohamed’s motion to suppress or exclude gunshot residue (“GSR”) evidence. (ECF
+
+No. 36.) I heard oral argument on Mohamed’s motion on September 21, 2017. For the
+
+reasons set out below, I DENY the motion to suppress and RESERVE RULING on
+
+the motion to exclude until trial.
+
+
+                                        BACKGROUND1
+
+         On November 10, 2016, officers from the Portland Police Department
+
+(“Portland Police”) responded to reports that shots had been fired in downtown
+
+Portland. Based on eyewitness statements, the Portland Police detained Mohamed as
+
+a suspect in the incident. Mohamed was handcuffed, placed in the back of a police
+
+vehicle, and driven to the Portland Police station. Officers questioned Mohamed for
+
+nearly an hour in an interview room at the station. Mohamed was then escorted to
+
+another interview room where he was held for an additional fifteen minutes. Some of
+
+
+1        The facts set out below are drawn from the parties’ submissions and are not in dispute.
+the officers who interacted with Mohamed during his arrest and questioning were
+
+armed. At no point did the arresting officers place bags or gloves over Mohamed’s
+
+hands to protect Mohamed’s skin from exposure to GSR.
+
+      While other officers questioned Mohamed, a Portland Police evidence
+
+technician collected three spent shell casings from the scene of the shooting. That
+
+same evidence technician then returned to the station to test Mohamed for GSR. The
+
+evidence technician put on a set of nitrile gloves and then swabbed Mohamed’s hands
+
+and face. The technician performed a rapid-result GSR test, which suggested that
+
+GSR was present on Mohamed’s skin. The Portland Police later sent Mohamed’s
+
+swabs to a third-party laboratory, the RJ Lee Group, for further analysis, and the lab
+
+confirmed that Mohamed’s swabs tested positive for the presence of GSR.
+
+
+       SUPPRESSION OF EVIDENCE ON DUE PROCESS GROUNDS
+
+      Mohamed has moved to suppress or to exclude from evidence the GSR swabs
+
+that the Portland Police took from him after his arrest and the results of any analysis
+
+of those swabs. Mohamed claims that the Portland Police did not take necessary steps
+
+to avoid exposing him to ambient GSR before taking the swabs. Mohamed argues that
+
+his GSR samples are therefore tainted, and that their admission would violate his
+
+5th Amendment due process rights by exposing him to criminal liability on the basis
+
+of flawed evidence. After reviewing the record including the parties’ expert reports, I
+
+decline the invitation to suppress the challenged evidence.
+
+      The Constitution “protects a defendant against a conviction based on evidence
+
+of questionable reliability, not by prohibiting introduction of the evidence, but by
+
+
+                                          2
+affording the defendant means to persuade the jury that the evidence should be
+
+discounted as unworthy of credit.” Perry v. New Hampshire, 565 U.S. 228, 237 (2012).
+
+“Only when evidence ‘is so extremely unfair that its admission violates fundamental
+
+conceptions of justice,’ ” do courts “impose[] a constraint tied to the Due Process
+
+Clause.” Id. (quoting Dowling v. United States, 493 U.S. 342, 352 (1990)). The
+
+“category of infractions that violate ‘fundamental fairness’ ” is highly circumscribed.
+
+Dowling, 493 U.S. at 352.
+
+       Mohamed insists that this is one of those rare cases. He suggests that the
+
+circumstances here are analogous to cases in which courts have suppressed witness
+
+identifications that police elicited using suggestive lineups or photo arrays. See Perry,
+
+565 U.S. at 237-40 (reviewing identification cases). As there, Mohamed argues, his
+
+positive GSR test was the result of police officers’ misconduct rather than a reliable
+
+reflection of reality.
+
+       This analogy does not help Mohamed. Witness identifications are suppressed
+
+“only in extraordinary cases.” United States v. Holliday, 457 F.3d 121, 125 (1st Cir.
+
+2006). “An out-of-court identification based on a photo array must be suppressed as
+
+a matter of due process ‘only if the photographic identification procedure was so
+
+impermissibly suggestive as to give rise to a very substantial likelihood of
+
+misidentification.’ ” Id. (emphasis added). There has been no comparable showing
+
+here. Mohamed has presented evidence that suggests (1) that GSR can be transferred
+
+from a person’s custodial environment to their skin; and (2) that Mohamed was
+
+exposed to several potential sources of GSR—including the officers who arrested,
+
+
+
+                                           3
+questioned, and swabbed him, the police vehicle in which he was transported to the
+
+station, and the interview rooms in which he was held. Mohamed has not, however,
+
+provided evidence that there is a very substantial likelihood that GSR from his
+
+custodial environment was transferred to his skin. See id.
+
+      Mohamed’s own evidence cuts against him on this point. Mohamed and his
+
+expert (Greg Danas of G&G Firearms Experts) principally rely on a paper that
+
+memorializes the FBI Laboratory’s 2005 Gunshot Residue Symposium (the
+
+“Symposium Paper”), a gathering of experts in the field of GSR analysis. Def.’s Ex.
+
+3 (ECF 36-3). The Symposium Paper makes clear that the attending experts could
+
+not speak to the likelihood that a suspect would pick up GSR from their custodial
+
+environment. For example, the Symposium Paper suggests that “GSR is in the
+
+environment of patrol car backseats” and states that a majority of the Symposium’s
+
+attendees “agreed that it is possible for a handcuffed person’s hands to be
+
+contaminated by the prior presence of GSR in the backseat of a police vehicle.”
+
+Symposium Paper at 5. But the paper also states that “if asked in court how likely it
+
+is for a handcuffed person’s hands to be contaminated in the backseat of a police
+
+vehicle, most GSR experts would answer ‘I don’t know.’ ” Symposium Paper at 5.
+
+Likewise while the Symposium Paper mentions a study that found that tables in
+
+interrogation rooms “revealed a much higher rate of transferred [GSR]” than law
+
+enforcement vehicles, it also states that the “chance of secondary transfer to subjects
+
+
+
+
+                                          4
+. . . was relatively low based on the collected data.” Symposium Paper at 6.2 And while
+
+Danas’s expert report and the Symposium Paper both say that the best practice is for
+
+officers either to test a suspect for GSR at the scene of the arrest or to bag the
+
+suspect’s hands until testing, no evidence has been presented that failure to do so
+
+necessarily or even very likely compromises the resulting sample. Moreover Danas
+
+admits that “there are still many municipalities that do not take a protective stance
+
+in combating the inadvertent and unnecessary transference of GSR particles.” Def’s
+
+Ex. 4 at 6 (ECF 36-4).
+
+      The unquantified—and potentially “low”—possibility that Mohamed’s hands
+
+may have been contaminated with GSR does not rise to the level of fundamental
+
+unfairness. This uncertainty that Portland Police’s actions affected Mohamed’s
+
+sample at all differentiates this case from the photo array cases on which Mohamed
+
+relies. For example, a photo array that includes just one individual who matches a
+
+witness’s prior description creates a much greater likelihood that the witness will
+
+identify that individual instead of any other. See United States v. Constant, No. 2:12-
+
+cr-65-NT, 2013 WL 441175, at *9 (D. Me. Feb. 5, 2013) (identification suppressed
+
+where only one of six photos presented to the witness had the long dreadlocks and
+
+white tank top that the witness had recounted seeing on a suspect, and where the
+
+witness indicated that he had only picked the defendant out of the photo array
+
+because he did not want to be “bad”). Moreover while Mohamed suggested at oral
+
+
+
+2       These statements from the Symposium Paper—which both Mohamed and Danas look to as a
+definitive resource—undermine Danas’s unsupported statement that there was an “overwhelming
+likelihood of transference in this case.” Def’s Ex. 4 at 6 (ECF 36-4).
+
+
+                                            5
+argument that the Portland Police willfully fabricated his GSR evidence, from the
+
+facts presented in the record I do not find this to be a willful fabrication. Police
+
+departments would do well to adopt the best practices for GSR collection outlined in
+
+the Symposium Paper in order to avoid any risk of contamination. However, there
+
+was no evidence presented that the Portland Police were even aware of the
+
+Symposium Paper. I find that the Portland Police officers’ actions are not the sort of
+
+police conduct that would support application of the exclusionary rule.3
+
+
+                                            CONCLUSION
+
+         For the reasons stated above, Defendant’s motion is DENIED in part and
+
+RESERVED in part.
+
+
+
+SO ORDERED.
+
+                                                           /s/ Nancy Torresen
+
+3         Mohamed’s motion also argued that the GSR evidence should be excluded under Rule 702 of
+the Federal Rules of Evidence, which addresses the admissibility of expert testimony. Fed. R. Evid.
+702. Mohamed’s motion papers exclusively criticize the Portland Police’s actions—not the
+qualifications of or the analysis performed by the Government’s experts. Such collection issues
+generally “go to the weight of the [GSR] evidence, not its admissibility.” United States v. Stafford, 721
+F.3d 380, 395 (6th Cir. 2013); see also Crowe v. Marchand, 506 F.3d 13, 18 (1st Cir. 2007) (“Objections
+. . . which question the factual underpinnings of an expert’s investigation, often go to the weight of the
+proffered testimony, not to its admissibility.”); United States v. Lee, 502 F.3d 691, 698 (7th Cir. 2007);
+United States v. Eldridge, No. 09-CR-329, 2013 WL 6096520, at *7-8 (W.D.N.Y. Nov. 20, 2013); United
+States v. Pearsall, 492 F. Supp. 2d 432, 435, 439 (D. Del. 2007). However, Mohamed finds some support
+in a line of state cases that have held that failure to follow manufacturers’ protocols in the collection
+and testing of blood and breath samples degrades the reliability of the test and destroys the foundation
+necessary for admission of the evidence. See Hunter v. State, 55 A.3d 360, 365-66 (Del. 2012)
+(“Following the manufacturer’s use requirements ensures the reliability of the scientific test. It is this
+guarantee of reliability and accuracy that is the foundational cornerstone to the admissibility of the
+results of a scientific test. Without that guarantee of reliability, there exists too great a risk that a jury
+will be persuaded by scientific evidence that is unreliable.”); Clawson v. State, 867 A.2d 187, 192 (Del.
+2005); State v. Fountain, No. 1411013133, 2016 WL 4542741, at *9 (Del. Super. Ct. Aug. 30, 2016).
+          I agree with Mohamed’s statement at oral argument that I need not rule on the Rule 702
+admissibility of the RJ Lee Group’s testimony at this time. Mohamed may challenge the admissibility
+of that expert testimony at trial if he finds he has appropriate grounds to do so then.
+
+                                                      6
+                                           United States Chief District Judge
+
+Dated this 3rd day of October, 2017.
+
+
+
+
+                                       7
+

@@ -1,0 +1,731 @@
+Case 2:09-cr-00009-GZS Document 341 Filed 08/16/13 Page 1 of 14                       PageID #: 1891
+
+
+
+                             UNITED STATES DISTRICT COURT
+                                  DISTRICT OF MAINE
+
+ UNITED STATES OF AMERICA                        )
+                                                 )
+ v.                                              )
+                                                 )            Docket no. 09-CR-9-P-S
+ DAVID WIDI,                                     )
+                                                 )
+                Defendant.                       )
+
+
+
+            ORDER ON DEFENDANT’S MOTION TO VACATE CONVICTION
+
+
+        Before the Court are Defendant’s Motion to Vacate Conviction and Order A New Trial
+
+ (ECF No. 332) and the Government’s Motion to Stay Proceedings (ECF No. 339). For reasons
+
+ explained herein, both Motions are DENIED.
+
+
+ I.     LEGAL STANDARD
+
+
+        Federal Rule of Criminal Procedure 33 allows a defendant to file a motion for a new trial
+
+ based on newly discovered evidence within three years of the verdict. “[I]f the interest of justice
+
+ so requires,” the court may vacate the judgment of conviction and allow a new trial. Fed. R.
+
+ Crim. 33(a). Under the First Circuit standard, a defendant requesting a new trial based upon
+
+ newly discovered evidence must establish that: “(i) the evidence in question was unknown or
+
+ unavailable to him at the time of trial; (ii) his failure to learn of it did not result from a lack of
+
+ due diligence on his part; (iii) the evidence is material; and (iv) the evidence, if available upon
+
+ retrial, would likely bring about an acquittal.” United States v. Mathur, 624 F.3d 498, 503 (1st
+
+ Cir. 2010) (citing United States v. Huddleston, 194 F.3d 214, 218 (1st Cir. 1999); United States
+
+ v. Wright, 625 F.2d 1017, 1019 (1st Cir.1980)). “Every element of this test . . . is essential, and
+
+ a failure to establish any one element will defeat the motion. United States v. Connolly, 504
+Case 2:09-cr-00009-GZS Document 341 Filed 08/16/13 Page 2 of 14                    PageID #: 1892
+
+
+
+ F.3d 206, 212 (1st Cir. 2007) (citing United States v. Maldonado-Rivera, 489 F.3d 60, 66 (1st
+
+ Cir. 2007)).
+
+        In his pending motion, Defendant Widi presents two separate arguments that he asserts
+
+ warrant relief under Federal Rule of Criminal Procedure 33. First, he claims his Count I felon-
+
+ in-possession conviction must be vacated as a matter of law because there is no valid predicate
+
+ felony. Second, he proffers newly discovered evidence obtained as a result of a civil case that he
+
+ asserts would justify a Franks hearing.
+
+ II.    DISCUSSION
+
+ A.     Background
+
+        On April 20, 2010, a jury convicted David Widi of possession of firearms and
+
+ ammunition by a felon in violation of 18 U.S.C. § 922(g)(1) & 924(a)(2) (Count I), as well as
+
+ manufacturing marijuana in violation of 21 U.S.C. § 841(a)(1) & (b)(1)(D) (Count II). At trial,
+
+ Widi’s predicate felony conviction was introduced by way of a stipulation, which indicated:
+
+        The Government and defendant agree and stipulate to the following: On
+        December 15th, 2004, defendant was convicted of a crime punishable by a term
+        of imprisonment exceeding one year in the Rockingham County Superior Court,
+        Portsmouth, New Hampshire, in Docket No. 03-S-1714.
+
+ (See Trial Transcript, Vol. I (ECF No. 235) at 137 (introducing Gov’t Ex. 10 without objection).)
+
+ In relevant part, the jury was ultimately instructed that, in order to convict Widi of the Count I
+
+ charge, the Government was required to prove beyond a reasonable doubt that Widi “had been
+
+ convicted in any court of at least one crime punishable by imprisonment for a term exceeding
+
+ one year.” (Trial Transcript. Vol. II (ECF No. 236) at 391.) However, no evidence on this
+
+ element was received beyond the stipulation.
+
+        Following the jury’s verdict, on October 14, 2010, Mr. Widi was sentenced to 108
+
+ months on Count I and a concurrent 60 months on Count II. Mr. Widi appealed his conviction
+
+                                                 2
+  
+Case 2:09-cr-00009-GZS Document 341 Filed 08/16/13 Page 3 of 14                    PageID #: 1893
+
+
+
+ and sentence, and it was affirmed by the First Circuit on July 6, 2012. See generally United
+
+ States v. Widi, 684 F.3d 216 (1st Cir. 2012), cert. denied, 133 S. Ct. 893 (2013), reh'g denied,
+
+ 133 S. Ct. 1628 (2013).
+
+        In connection with his direct appeal, Widi argued that his 2004 conviction was not a
+
+ qualifying predicate felony under 18 U.S.C. § 921(a)(20) because of a civil rights restoration. At
+
+ the time, Widi did not have the newly discovered evidence attached to the pending motion.
+
+ Nonetheless, the First Circuit addressed his argument explaining:
+
+
+        Widi, in his pro se brief, says that his prior offense was not a felony, but he
+        stipulated to the prior felony at trial and, while we may disregard a stipulation
+        where justice requires, United States v. Torres–Rosario, 658 F.3d 110, 116 (1st
+        Cir. 2011), cert. denied, 132 S. Ct. 1766 (2012), Widi provides no compelling
+        reason for us to do so; indeed, our own review of what was before the court
+        confirms that the stipulation was appropriate.
+
+        Widi also argues that his civil rights were restored after his prior conviction and
+        so he should not be treated as a felon in possession. 18 U.S.C. § 921(a)(20). This
+        statutory exception is an affirmative defense, United States v. Bartelho, 71 F.3d
+        436, 440 (1st Cir. 1995), so the burden is on the defendant, United States v.
+        Hartsock, 347 F.3d 1, 10 (1st Cir. 2003). The evidence of such a restoration now
+        relied on by Widi is highly doubtful but was in any case never presented to the
+        district court. There was no error.
+
+
+ Widi, 684 F.3d at 224.         Likewise, Widi’s direct appeal argued that “the affidavit that
+
+ underpinned the search warrant was inadequate.” Id. at 221. Based on the record then presented,
+
+ the First Circuit explained:
+
+
+        Widi succeeded in suppressing evidence seized from his vehicle and pre-Miranda
+        statements made in response to questioning, but the search warrant was readily
+        upheld, as it should have been. It rested on statements by two different
+        confidential informants that they had made multiple visits to Widi's apartment and
+        had seen both marijuana and guns; one also described a marijuana growing
+        operation in the second bedroom.
+        This was ample to show a “fair probability that contraband or evidence of a
+        crime” would be found, Illinois v. Gates, 462 U.S. 213, 238 (1983), and more
+
+                                                 3
+  
+Case 2:09-cr-00009-GZS Document 341 Filed 08/16/13 Page 4 of 14                                  PageID #: 1894
+
+
+
+               than ample to trigger Leon's protection for reasonable reliance on a warrant even
+               if the latter were marginally defective, United States v. Leon, 468 U.S. 897, 922
+               (1984). That the informants had criminal records or sought to benefit from
+               cooperation goes only to weight; and while one informant's information was six
+               months old, the other had been at the apartment only three weeks before.
+
+ Id. at 221. Widi’s pending motion now claims to have newly discovered evidence that requires
+
+ the Court to reexamine both his 2004 predicate felony conviction and the sufficiency of the
+
+ affidavit used to obtain the 2008 search warrant. The Court considers each of Widi’s assertions
+
+ in turn.
+
+ B.            The 2004 Predicate Felony
+
+               Widi’s status as a person prohibited from possessing firearms and ammunition was the
+
+ result of a 2004 felony conviction for reckless conduct in violation of N.H. Rev. Stat. Ann. §
+
+ 631:3.1 As alleged in the Second Superseding Indictment (ECF No. 181), Widi was convicted of
+
+ this charge by way of a judgment entered in Rockingham Superior Court on December 15, 2004.
+
+ On April 15, 2006, Widi received an early release on the sentence he ultimately served related to
+
+ this charge. In connection with his release, a “Two Thirds Release Form” was signed by the
+
+ Superintendent of the Rockingham County Department of Corrections. In relevant part, Widi’s
+
+ Two Thirds Release Form (ECF No. 332-1) included the following standard language:
+
+               This inmate’s right to vote and hold any future public office of which he/she was
+               deprived by New Hampshire RSA 607-A:2 are hereby restored and that he/she
+               suffers no other disability by virtue of his/her conviction and sentence except as
+               otherwise provided by this RSA.
+
+ (Two Thirds Release Form, dated 4/15/2006 (ECF No. 332-1).) This restoration language is
+
+ required pursuant to New Hampshire’s Uniform Act on Status of Convicted Persons, which
+
+ provides that a person sentenced for a felony conviction loses the right to vote in elections or
+
+
+
+                                                             
+ 1
+     This conviction was considered a class B felony under New Hampshire law. See N.H. Rev. Stat. Ann. § 631:3(II).
+
+                                                                4
+  
+Case 2:09-cr-00009-GZS Document 341 Filed 08/16/13 Page 5 of 14                      PageID #: 1895
+
+
+
+ hold public office until the convicted person receives a final discharge of that sentence. See
+
+ N.H. Rev. Stat. Ann. §§ 607-A:2 & 607-A:5.
+
+        With respect to Count I, Widi claims his Two Thirds Release Form is newly discovered
+
+ evidence and that, with this evidence in the record, he would be acquitted of the felon-in-
+
+ possession charge as a matter of law. This argument relies on 18 U.S.C. § 921(a)(20), which
+
+ explains that predicate felonies are to “be determined in accordance with the law of the
+
+ jurisdiction in which the proceedings were held.” Id.; see also United States v. Bartelho, 71 F.3d
+
+ 436, 440 (1st Cir. 1995) (“The significance of § 921(a)(20)’s definitional nature is that the trial
+
+ judge bears the responsibility of determining as a matter of law whether a prior conviction is
+
+ admissible in a § 922(g)(1) case.”).
+
+        The federal statutory definition then explains:
+
+        Any conviction which has been expunged, or set aside or for which a person has
+        been pardoned or has had civil rights restored shall not be considered a conviction
+        for purposes of this chapter, unless such pardon, expungement, or restoration of
+        civil rights expressly provides that the person may not ship, transport, possess, or
+        receive firearms.
+
+ 18 U.S.C. § 921(a)(20). To qualify as a post-conviction restoration under this statute, the First
+
+ Circuit has held that the restoration must include “the rights to vote, to hold public office, and to
+
+ serve on a jury.” United States v. Estrella, 104 F.3d 3, 5-6 (1st Cir. 1997) (citing United States v.
+
+ Caron, 77 F.3d 1, 2 (1st Cir.) (en banc), cert. denied, 518 U.S. 1027 (1996)); see also Logan v.
+
+ United States, 552 U.S. 23, 28 (2007) (“While § 921(a)(20) does not define the term ‘civil
+
+ rights,’ courts have held . . . that the civil rights relevant under the above-quoted provision are
+
+ the rights to vote, hold office, and serve on a jury.”) “[E]ach of the three core ‘civil rights’ must
+
+ be substantially, but not perfectly, restored.” Estrella, 104 F.3d at 6 (footnote omitted). “In
+
+ applying this test, [the Court must be] guided by the rationale behind Congress' use of ‘civil
+
+ rights restored’ as a touchstone: the notion that by reinvesting a person with core civic
+                                                  5
+  
+Case 2:09-cr-00009-GZS Document 341 Filed 08/16/13 Page 6 of 14                                 PageID #: 1896
+
+
+
+ responsibilities, the state vouches for the trustworthiness of that person to possess firearms
+
+ (unless that right is withheld).” Id. at 6-7 (citing United States v. Indelicato, 97 F.3d 627, 630
+
+ (1st Cir. 1996)).
+
+        1. The Failure to Present this Newly Discovered Evidence at Trial Reflects a Lack of
+           Due Diligence
+
+               Having reviewed the entirety of the record submitted in connection with the pending
+
+ motion, it is apparent that obtaining the Two Thirds Release Form was time consuming and
+
+ complicated by the fact that the document was not properly filed in 2006 when it was originally
+
+ issued. The record reflects that Widi’s counsel initially sent a letter to Rockingham Superior
+
+ Court requesting a copy of the indictment and docket index in January 2009. (See Def. Ex. 16
+
+ (ECF No. 338-1).) By all accounts, the Two Thirds Release Form was not included or noted
+
+ within the documents received in response to that request.                Defendant has also provided the
+
+ Court with a declaration of Corina Barcus, dated March 28, 2013 (ECF No. 332-3) as well as
+
+ correspondence and motions dated between March 2011 and March 2012 (ECF Nos. 332-4—
+
+ 332-15), all of which document a year of persistent effort by Widi to obtain his Two Thirds
+
+ Release Form.
+
+               However, Defendant has failed to explain why the diligence that resulted in him
+
+ obtaining the document in 2013 could not have achieved the same result prior to trial. In short,
+
+ the Court concludes that Defendant cannot meet the requisite standards of showing that the 2006
+
+ Two Thirds Release Form was unavailable to him and could not have been obtained had the
+
+ same due diligence been undertaken prior to trial.2
+
+
+
+                                                             
+ 2
+   The Court notes that Defendant requested and received five continuances prior to proceeding to trial. See Speedy
+ Trial Orders (ECF Nos. 30, 44, 77, 84 & 142). However, it does not appear Defendant ever specifically requested
+ any continuance in order to pursue obtaining documents related to his predicate felony.
+  
+
+                                                                6
+  
+Case 2:09-cr-00009-GZS Document 341 Filed 08/16/13 Page 7 of 14                                  PageID #: 1897
+
+
+
+               In the context of this case, the lack of diligence finding is further bolstered by
+
+ Defendant’s stipulation to the 2004 predicate felony at trial. In short, not only did Widi fail to
+
+ present the necessary evidence on an issue on which he bore the burden of production and
+
+ persuasion, he actually stipulated to the fact while apparently believing a “certificate of
+
+ discharge” existed. Under these circumstances, Defendant’s stipulation amounts to a waiver.3
+
+ United States v. Torres-Rosario, 658 F.3d 110, 116 (1st Cir. 2011) (“At least where a party
+
+ makes an explicit and specific concession, practical reasons favor holding a party to such a
+
+ concession, whether given in exchange for a quid pro quo or merely to avoid evidence that the
+
+ party would prefer not to be presented (such as the nature of the prior felony in a felon-in-
+
+ possession case).”), cert. denied, 132 S. Ct. 1766 (2012). Recognizing that the First Circuit in
+
+ Torres-Rosario indicated “courts may excuse waivers and disregard stipulations where justice so
+
+ requires,” the Court does not believe that such an exceptional excuse is warranted on the record
+
+ presented here. 658 F.3d at 116.
+
+               2. Widi’s Newly Discovered Evidence of Civil Rights Restoration is Not Likely to
+                  Lead to an Acquittal
+
+               Even if the Court were to disregard Widi’s trial stipulation to the predicate felony and
+
+ find his post-trial effort to obtain the Two Thirds Release Form to be adequately diligent, the
+
+ Two Thirds Release Form does not amount to a complete civil rights restoration. Thus, the
+
+ Court alternatively concludes that Widi’s newly discovered evidence would not yield a probable
+
+ acquittal on Count I.
+
+               As the First Circuit has held,
+
+               A claim of restoration of civil rights is in the nature of an affirmative defense.
+               As a result, once a prior felony conviction and corresponding loss of civil
+                                                             
+ 3
+   It may be that such a waiver gives rise to a claim for ineffective assistance of counsel. However, in the Court’s
+ view, it is apparent that Widi, through his trial counsel, agreed to enter into the predicate felony stipulation
+ introduced at trial.
+
+                                                                7
+  
+Case 2:09-cr-00009-GZS Document 341 Filed 08/16/13 Page 8 of 14                                        PageID #: 1898
+
+
+
+               rights is proven by the government, as with any other factual condition, the
+               presumption is that that condition remains. . . . It is up to the defendant to raise
+               the issue and produce evidence showing that changed circumstances make the
+               original condition inapplicable.
+
+ Bartelho, 71 F.3d at 440 (internal citations omitted). Thus, to warrant an acquittal, Widi’s newly
+
+ discovered evidence would have to overcome this presumption and support a finding by this
+
+ Court, as a matter of law, that Widi had his civil rights restored prior to November 2008.
+
+               The Government necessarily concedes that Widi’s Two Thirds Release Form proves that
+
+ two key civil rights were restored as of April 15, 2006: (1) the right to vote and (2) the right to
+
+ hold public office. (See Gov’t Response (ECF No. 335) at 7.) However, this proof brings Widi
+
+ only “two-thirds” of the way to proving civil rights restoration under § 921(a)(20); as a final
+
+ step, Widi would need to prove that his right to sit on a jury was also restored.
+
+               Under New Hampshire law, Widi did lose his right to sit on a jury upon being convicted
+
+ of a felony.4 See N.H. Rev. Stat. Ann. § 500-A:7-a(V) (“A juror shall not have been convicted
+
+ of any felony which has not been annulled or which is not eligible for annulment under New
+
+ Hampshire law.”) Thus, the question becomes whether Widi had his right to sit on a jury
+
+ restored prior to November 2008. The answer to this question turns on the New Hampshire law
+
+ related to annulment of criminal records. See N.H. Rev. Stat. Ann. § 651:5. New Hampshire
+
+ allows for the annulment of “the record of arrest, conviction and sentence of any person . . . by
+
+ the sentencing court . . . if in the opinion of the court, the annulment will assist in the petitioner's
+
+ rehabilitation and will be consistent with the public welfare.” N.H. Rev. Stat. Ann § 651:5(I).
+
+ To obtain an annulment, New Hampshire law requires a “timely” petition, which may only be
+                                                             
+ 4
+   To the extent Defendant invokes United States v. Caron, 77 F.3d 1, 2 (1st Cir. 1996) in support of his argument
+ that the “two-thirds restoration” is sufficient, this argument is without merit. Id. at 6 (“[A]ffirmative action has
+ taken place with respect to the right to sit on a jury (subject to some contingency) and the right to hold public office.
+ Only the right to vote was not taken away. The words of § 921(a)(20) literally apply: Caron is ‘a person [who] ... has
+ had civil rights restored.’”). Unlike the defendant in Caron, Widi in fact lost the civil right at issue and, as explained
+ herein, has not had that right restored.
+
+
+                                                                8
+  
+Case 2:09-cr-00009-GZS Document 341 Filed 08/16/13 Page 9 of 14                    PageID #: 1899
+
+
+
+ filed “when the petitioner has completed all the terms and conditions of the sentence and has
+
+ thereafter been convicted of no other crime” for a set period of time; in the case of a class B
+
+ felony, the time period is generally set at five years. N.H. Rev. Stat. Ann. § 651:5(III)(d). Widi
+
+ has proffered no evidence that he actually petitioned for and received an annulment under N.H.
+
+ Rev. Stat. Ann. § 651:5; thus, his right to serve on a jury may only be restored if he is “eligible
+
+ for annulment under New Hampshire law.” N.H. Rev. Stat. Ann. § 500-A:7-a(V).
+
+        As discussed in the parties’ submissions, the issue of whether and when being “eligible
+
+ for annulment” amounts to restoration of the right to sit on a jury was recently presented to the
+
+ District Court in the District of New Hampshire. See United States v. Howe, D.N.H. Docket No.
+
+ 12-cr-101-01-JD, 2012 WL 4757891 (D.N.H. Oct. 4, 2012). In the Howe case, the District Court
+
+ similarly had a defendant charged with violating 18 U.S.C. § 922(g)(1) whose predicate felony
+
+ was a 1995 conviction for a New Hampshire class B felony. While the record showed that Howe
+
+ had his last criminal conviction in May 2002, the Government maintained that Howe remained
+
+ unable to sit on a jury and, thus, did not have his civil rights fully restored absent an actual
+
+ annulment. The District Court disagreed. Finding that at least five years had passed between
+
+ Howe’s last conviction in 2002 and the 2012 felon-in-possession charge, the District Court
+
+ concluded that Howe was “eligible for annulment,” and, thus, was eligible for jury service under
+
+ N.H. Rev. Stat. Ann § 500-A:7-a(V). See id. at *2-*3.
+
+        In the context of the present case, the Government has urged the Court not to adopt the
+
+ reading of N.H. Rev. Stat. Ann. § 500-A:7-a(V) adopted by the District Court in Howe and notes
+
+ that the issue has been presented to the First Circuit for review. (See Gov’t Reponse at 8-9 & n.
+
+ 1; Gov’t Motion to Stay.) The Government maintains that New Hampshire felony convictions
+
+ must be actually annulled in order to have the right to serve on a jury restored under N.H. Rev.
+
+
+
+                                                 9
+  
+Case 2:09-cr-00009-GZS Document 341 Filed 08/16/13 Page 10 of 14                                   PageID #: 1900
+
+
+
+ Stat. Ann. § 500-A:7-a(V). In the Court’s assessment, it is unnecessary for this Court to disagree
+
+ with Howe or wait until the First Circuit has completed its review of Howe.
+
+               Rather, even under the statutory construction adopted in Howe, Widi does not appear to
+
+ qualify for jury service under the “eligible for annulment” prong of N.H. Rev. Stat. Ann. § 500-
+
+ A:7-a(V). On December 15, 2004, Widi was sentenced on a Class B felony. Because of a
+
+ probation violation, he did not complete all the terms and conditions of his sentence until April
+
+ 15, 2006. Given these dates, Widi would have been eligible for an annulment under N.H. Rev.
+
+ Stat. Ann. § 651:5(III)(d) after April 15, 2011 if he had not been convicted of any other crime.
+
+ Thus, even under the statutory construction adopted in Howe, Widi’s right to serve on a jury was
+
+ not restored on or about November 28, 2008, the date the Government claimed him to be a felon-
+
+ in-possession in violation of federal law.5
+
+               Invoking precedents from the Seventh Circuit, Defendant alternatively argues that he read
+
+ the “suffers no other disability” language of the Two Thirds Release Form to restore all of his
+
+ civil rights, including the right to serve on a jury. See United States v. Burnett, 641 F.3d 894,
+
+ 896 (7th Cir. 2011); Buchmeier v. United States, 581 F.3d 561, 567 (7th Cir. 2009). However,
+
+ the Court concludes that Widi’s subjective belief that all of his civil rights were restored based
+
+ on the Two Thirds Release Form is not sufficient to make out a civil rights restoration defense
+
+ under § 921(a)(20). As noted in Buchmeier, there remains a circuit split on the issue of whether
+
+ a civil rights restoration is properly governed by the written notice sent to a defendant or by the
+
+ state statutes at large. See 581 F.3d at 565 (collecting cases). The First Circuit has not resolved
+
+ that issue although it has found that “the restoration of civil rights need not be focused or
+
+
+                                                             
+ 5
+   Having determined that Widi cannot prove that all three of the required civil rights have been restored, the Court
+ declines to address the Government’s additional argument that Widi cannot make out a civil rights restoration
+ defense if, as the Government asserts, he was still prohibited from possessing firearms under New Hampshire state
+ law.
+
+                                                                10
+  
+Case 2:09-cr-00009-GZS Document 341 Filed 08/16/13 Page 11 of 14                    PageID #: 1901
+
+
+
+ individualized,” and thus, allows for review of applicable state statutes in order to find
+
+ restoration. Caron, 77 F.3d at 4. In Widi’s case, the notice at issue contained explicit “except as
+
+ otherwise provided” language that directs a reader back to “this [Revised Statutes Annotated].”
+
+ (Two Thirds Release Form, dated 4/15/2006 (ECF No. 332-1).) In the Court’s view, this
+
+ language and the prior decisions within the First Circuit lead to the conclusion that Widi may not
+
+ rely solely on his Two Thirds Release Form to establish the requisite civil rights restoration
+
+ under § 921(a)(20) when state statute makes it clear he had not yet qualified for full restoration
+
+ of his civil rights.
+
+         In the absence of newly discovered evidence showing all of Widi’s civil rights were
+
+ restored by November 2008, the Court concludes there is no basis to vacate his conviction on
+
+ Count I and no possibility that a retrial would bring acquittal. As explained earlier, the Court
+
+ additionally and alternatively holds that Widi exhibited a lack of due diligence in obtaining the
+
+ evidence necessary to establish that his 2004 predicate felony did not fall within § 921(a)(20).
+
+ Thus, the Court DENIES Widi’s request to vacate his Count I conviction based on newly
+
+ discovered evidence.
+
+ C.      The 2008 Search Warrant
+
+         1. The Legal Standard for a Franks Hearing
+
+         In Franks v. Delaware, 438 U.S. 154 (1978), the Supreme Court held that a criminal
+
+ defendant may obtain an evidentiary hearing to challenge the sufficiency of an executed warrant
+
+ if he can make a substantial showing that the affidavit supporting the warrant included
+
+ deliberately or recklessly false statements. To warrant a Franks hearing, a defendant bears the
+
+ burden of overcoming the presumption of validity that attaches to the affidavit supporting the
+
+ warrant. Thus, the defendant must make “allegations of deliberate falsehood or of reckless
+
+
+
+                                                 11
+  
+Case 2:09-cr-00009-GZS Document 341 Filed 08/16/13 Page 12 of 14                     PageID #: 1902
+
+
+
+ disregard for the truth, and those allegations must be accompanied by an offer of proof.” Id. at
+
+ 171. However, “if, when material that is the subject of the alleged falsity or reckless disregard is
+
+ set to one side, there remains sufficient content in the warrant affidavit to support a finding of
+
+ probable cause, no hearing is required.” Id. at 171-72. Given this standard, “a defendant must
+
+ meet a high bar even to get a Franks hearing in the first place.” United States v. Tzannos, 460
+
+ F.3d 128, 136 (1st Cir. 2006).
+
+        2. Widi’s Newly Discovered Evidence Related to the Search Warrant
+
+        In support of his belated request for a Franks hearing, Widi proffers statements contained
+
+ in a declaration of Special Agent Paul McNeil, dated October 15, 2012 (ECF No. 332-2)
+
+ (hereinafter “McNeil Declaration”). The McNeil Declaration was filed in connection with a civil
+
+ Bivens action that Widi filed pro se and is currently pending within the District of Maine. See
+
+ Widi v. McNeil et al., D. Me. Docket No. 2:12-cv-188-JAW.
+
+        Special Agent McNeil was the agent who applied for the search warrant underlying this
+
+ federal criminal case. See Application & Affidavit for Search Warrant, dated Nov. 25, 2008
+
+ (ECF No. 92-1) (hereinafter “2008 Search Warrant”). In the 2008 Search Warrant, Agent
+
+ McNeil recounts information about Widi received from two confidential informants, identified
+
+ only as CI#1 and CI#2. While the two confidential informants were never identified, Agent
+
+ McNeil provided information about both confidential informants, including that each had a prior
+
+ criminal history and a history of selling drugs to Widi. Additionally, the 2008 Search Warrant
+
+ acknowledged that one confidential informant was currently incarcerated and was providing the
+
+ information contained in the affidavit in hopes of reducing his period of incarceration. (See 2008
+
+ Search Warrant at 5-6.)
+
+
+
+
+                                                 12
+  
+Case 2:09-cr-00009-GZS Document 341 Filed 08/16/13 Page 13 of 14                                       PageID #: 1903
+
+
+
+               Widi now speculates that one of the confidential informants was a prior roommate named
+
+ Neil Vaccaro.6 In the McNeil Declaration, Agent McNeil says that prior to the filing of his
+
+ search warrant affidavit, Vaccaro contacted him to report his motorcycle had been stolen by
+
+ Widi. (See McNeil Declaration ¶¶ 7-8.) Widi claims this newly discovered evidence proves
+
+ Vaccaro had an “axe to grind” and a “pecuniary incentive” to provide the information contained
+
+ in the 2008 Search Warrant affidavit. (Def. Reply (ECF No. 338) at 14.) Assuming for a
+
+ moment that Vaccaro was in fact CI#1 or CI#2,7 the allegedly additional known bias related to
+
+ the allegedly stolen motorcycle would go only to the credibility and weight of the information
+
+ provided by one of the confidential informants. Even if this information had been known prior
+
+ to the 2010 trial, the Court would not have convened a Franks hearing based solely on this
+
+ proffer.
+
+               Ultimately, the Court concludes that even if all of the information Widi now proffers had
+
+ been included in the search warrant affidavit, there would still have left “ample facts,
+
+ corroborated by police observations of the house, to provide probable cause.” United States v.
+
+ Adams, 305 F.3d 30, 37 (1st Cir. 2002). Thus, the Court DENIES Widi’s request for a Franks
+
+ hearing based on newly discovered evidence. In the Court’s assessment, Widi’s proffer in
+
+ support of this request amounts to information that would not likely bring about an acquittal or
+
+ any further suppression of evidence upon retrial.
+
+
+
+
+                                                             
+ 6
+   The Court notes that Widi testified at trial about Mr. Vaccaro and his motorcycle. In his testimony, Widi insisted
+ that Vaccaro gave him the motorcycle as collateral on a $5,000 loan and then had reported it stolen only after being
+ threatened by federal agents that the motorcycle would be seized as part of Widi’s drug proceeds if Vaccaro did not
+ report it stolen. (See 4/20/09 Widi Trial Testimony (ECF No. 227) at 15-16; 24-26; 53-54.)
+
+ 7
+     The Government notes in its Response that it has never actually identified either confidential informant.
+
+                                                                13
+  
+Case 2:09-cr-00009-GZS Document 341 Filed 08/16/13 Page 14 of 14           PageID #: 1904
+
+
+
+ III.    CONCLUSION
+
+         Therefore, the Court hereby DENIES Defendant’s Motion to Vacate Conviction and
+
+ Order A New Trial (ECF No. 332) and the Government’s Motion to Stay Proceedings (ECF No.
+
+ 339).
+
+
+         SO ORDERED.
+
+
+                                         /s/ George Z. Singal
+                                         United States District Judge
+
+ Dated this 16th day of August, 2013.
+
+
+
+
+                                           14
+  
+

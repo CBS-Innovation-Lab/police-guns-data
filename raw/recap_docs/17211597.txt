@@ -1,0 +1,1502 @@
+     Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 1 of 28
+
+
+
+                    UNITED STATES DISTRICT COURT
+                      DISTRICT OF MASSACHUSETTS
+
+______________________________
+                              )
+UNITED STATES OF AMERICA,     )
+                              )        CRIMINAL NO. 06-10414-DPW
+                              )
+          v.                  )
+                              )
+                              )
+JAMES WERRA,                  )
+     Defendant.               )
+______________________________)
+
+
+                        MEMORANDUM AND ORDER
+                         September 11, 2008
+     Defendant James Werra has been charged in a one-count
+
+indictment with possession of a firearm in violation of 18 U.S.C.
+
+§ 922(g)(1).   He seeks to suppress the firearm seized during a
+
+search of his person conducted by the Brockton Police on November
+
+10, 2006.   For the reasons discussed below, I will deny the
+
+motion to suppress.   Because the facts and circumstances
+
+presented by the motion offer the potential for multiple branches
+
+to the decision tree, however, I also address related disputes
+
+whose resolution may become the predicate for an alternative
+
+analysis or disposition of the motion to suppress.
+
+                         I. FINDINGS OF FACT
+
+     A.     The Background
+
+     On November 10, 2006, at approximately 10:00 a.m., Brockton
+
+Police Detective Michael Schaaf was driving with Massachusetts
+
+State Trooper Robert Fries in Brockton.        The two were taking
+
+                                   1
+        Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 2 of 28
+
+
+part in an initiative to arrest people for whom arrest warrants
+
+had been issued.      One person with an arrest warrant outstanding
+
+for whom Schaaf and Fries were looking was Jeanine Daley.            Schaaf
+
+and Fries received information from “Christine,” an informant,
+
+that Daley was staying at 63 Menlo Street and that Christine had
+
+seen Daley there recently.       Christine had provided Schaaf with
+
+reliable information concerning the location of a suspect in the
+
+past.    Schaaf and Fries proceeded to drive to 63 Menlo Street.
+
+        B.   The 63 Menlo Street Residence
+
+        Menlo Street is located in a residential neighborhood.           The
+
+lease to 63 Menlo Street was in the name of Jeffrey Cicerano and
+
+he paid most of the $3000 monthly rent.         Cicerano had his own
+
+bedroom on the first floor, and he maintained control over the
+
+adjacent living room.      There was also a kitchen on the first
+
+floor where other residents would sometimes congregate.            No door
+
+separated the kitchen from the entrance foyer.
+
+        The defendant, James Werra, paid Cicerano to rent the third
+
+floor, which had a bedroom, a kitchenette and a bathroom.
+
+Werra’s girlfriend and her child had previously lived there with
+
+Werra but moved out before November 10.         The third floor was
+
+Werra’s personal space and he had the ability to keep people out
+
+of that part of the building.        In addition to renting the third
+
+floor, Werra sometimes - "not a lot but once in a while,"
+
+according to Cicerano - slept on the couch in the living room on
+
+the first floor, with Cicerano's permission, because people would
+
+“party” on the third floor.
+
+                                      2
+            Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 3 of 28
+
+
+
+        Other people also lived at the address and contributed money
+
+for rent.        Mika (or "Miko") Brown and Jeanine Daley paid Cicerano
+
+to live on the first floor.           A person named Paul, whose last name
+
+Cicerano could not remember, rented a room on the second floor.
+
+Additionally, the defendant's brother, Mikey Werra, and his
+
+girlfriend had lived in the house and contributed rent at some
+
+point, but they had moved out before November 10.
+
+        C.      The Officers Enter 63 Menlo Street1
+
+        Upon arriving at 63 Menlo Street, Schaaf and Fries
+
+approached the front door and knocked.             Cicerano answered the
+
+door.        Schaaf and Cicerano knew each other from Cicerano’s past
+
+encounters with law enforcement.              Specifically, Schaaf had
+
+previously arrested Cicerano on an outstanding warrant.                Before
+
+arriving, Schaaf believed 63 Menlo Street to be a “rooming house”
+
+operated as a sober house, but after seeing Cicerano he became
+
+concerned that 63 Menlo Street had become a drug house.
+
+        Standing outside the door, Schaaf asked Cicerano if he could
+
+talk to him.         He also told Cicerano that he wanted to talk to the
+
+people in the house about drug activity.              Cicerano asked Schaaf
+
+
+
+        1
+      As will be apparent from the findings of fact in this
+section, I largely credit the testimony of Cicerano over that of
+the officers concerning the circumstances of the officers' entry
+of 63 Menlo Street. Without detailing at length the reasons for
+making this credibility determination, it will suffice to observe
+that given his personal circumstances and disposition, Cicerano
+does not appear to me as likely to have consented voluntarily to
+the entry by the officers.
+
+                                          3
+         Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 4 of 28
+
+
+
+if he had a warrant.       Schaaf said that he did not and asked if he
+
+needed one.2     Cicerano told them he did.       Cicerano began to walk
+
+away from the front door but turned around when the police
+
+started kicking the bottom of the door.          Cicerano asked them what
+
+they were doing.       In response, Schaaf threatened to “close the
+
+house down.”      At that point, Cicerano told Schaaf and Fries that
+
+he would come outside to talk, and they agreed.            When Cicerano
+
+opened the door, however, Schaaf pushed the door open further and
+
+forced his way into the entry foyer.          Cicerano told him he had to
+
+leave.     Schaaf responded that they just wanted to talk, but
+
+Cicerano repeated that the officers had to leave.            Schaaf then
+
+instructed Cicerano to get everyone who was on the second and
+
+third floor of the apartment and bring them downstairs.             Cicerano
+
+went upstairs.
+
+
+
+
+     2
+      Given the arrest warrant for Jeanine Daley the officers
+were undertaking to execute, it may at first blush appear odd
+that Schaaf would not announce he had a warrant in response to
+Cicerano's question. But concerns about flight by Daley would
+arguably justify a less than candid response by Schaaf. The
+government, during argument on their suppression motion, appeared
+to offer an ambivalent response to my question whether it was
+“contend[ing] that the arrest warrant is sufficient to justify
+entering the household." The Assistant United States Attorney
+said: "I don't think the officers had enough information about
+the presence of Jeanine Daley in there to rely on the arrest
+warrant. I think it was a sufficient basis for the[ir] being in
+the building and seeking to find her there." Irrespective of the
+Government's ambivalence, as will appear below, see infra Section
+II.B.1, I find that the warrant did indeed authorize the
+officers' entry.
+
+                                       4
+         Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 5 of 28
+
+
+
+     D.      The Search And Arrest Of Werra3
+
+     Initially, Schaaf remained in the foyer on the first floor
+
+of 63 Menlo Street, while Cicerano went upstairs.            Schaaf looked
+
+through a set of pocket doors, which were open enough for him to
+
+poke his head through, and he observed Werra in the living room
+
+area adjacent to Cicerano's bedroom.          Werra was wearing a
+
+t-shirt, a pair of baggy shorts, and sneakers.            Fries also looked
+
+into the living room.
+
+     The officers saw Werra sitting on a couch and “just sort of
+
+staring out into space” in the living room.           Neither Schaaf nor
+
+Fries knew who Werra was or that he had an outstanding arrest
+
+warrant.     Schaaf asked Werra, “Hey, buddy, are you all right?
+
+What’s going on?”       Werra did not respond.      At that point, Schaaf
+
+heard noise in the foyer and turned from the living room.             Schaaf
+
+saw two individuals enter the foyer from a bedroom on the
+
+opposite side of the first floor and another individual enter the
+
+foyer from the kitchen on the first floor.
+
+     After returning his attention to the foyer, Schaaf saw
+
+movement out of the corner of his eye.          Schaaf turned and saw
+
+Werra walking out of the living room towards him.            Werra’s hands
+
+
+
+     3
+       As will become apparent from the findings of fact in this
+section, I largely credit the testimony of the police officers
+over that of Werra concerning their search and arrest of Werra.
+To the degree that Werra may be said to have an adequate
+recollection of the events, I find his testimony to be lacking in
+credibility.
+
+                                       5
+         Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 6 of 28
+
+
+
+were in his front pant pockets, “half in half out” and “moving
+
+slightly.”      Schaaf observed that Werra had the clip of a
+
+concealed pocket knife visible outside his front right pocket.
+
+Without telling Werra to remove his hands from his pockets,
+
+Schaaf reached and took the knife from Werra's pocket.             Observing
+
+that Werra still had his left hand in his front pocket and “was
+
+moving a little bit,” Schaaf “was not sure if there was another
+
+knife in the other pocket or any other weapon.”            Schaaf conducted
+
+a pat frisk of Werra's pocket and felt a hard object that he
+
+identified as a firearm.        At that point, Schaaf removed the
+
+firearm and gave it to Fries.         Schaaf then told Werra he was
+
+under arrest.      Werra tried to flee, leading to a brief struggle
+
+in which Werra was subdued.4
+
+                           II. CONCLUSIONS OF LAW
+
+     Although Werra does not expressly quite make this
+
+distinction, in essence he challenges two aspects of the police
+
+conduct as grounds for suppression.          First, he claims that the
+
+officers' entry into 63 Menlo Street violated the Fourth
+
+Amendment.      Second, he asserts that Schaaf's stop and pat-frisk
+
+of him violated his Fourth Amendment rights.           As a threshold
+
+matter, I first address whether Werra has a sufficient Fourth
+
+     4
+      I note that Jeanine Daley was in fact present at 63 Menlo
+Street and consequently the outstanding warrant for her was later
+executed there. Although the police officers were not aware of
+it at the time, Werra was also subject to an outstanding warrant.
+
+
+                                       6
+     Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 7 of 28
+
+
+
+Amendment interest to mount either of these challenges to police
+
+conduct.
+
+     A.      Werra's Expectation of Privacy
+
+     In order for Werra to contest a search or seizure on Fourth
+
+Amendment grounds, he bears the burden of demonstrating that he
+
+had a legitimate and reasonable expectation of privacy in the
+
+premises searched or the thing seized.        United States v. Dunning,
+
+312 F.3d 528, 531 (1st Cir. 2002) (per curiam).        I turn now to
+
+evaluate whether Werra had a reasonable expectation of privacy
+
+either as a resident of 63 Menlo Street or in his own person and
+
+associated personal property.
+
+     1.      Werra’s Expectation of Privacy as a Resident
+             of 63 Menlo Street
+
+     Werra’s expectation of privacy in the foyer of 63 Menlo
+
+Street hinges largely on the proper characterization of the
+
+building itself.    The Government contends that Werra lacked a
+
+reasonable expectation of privacy in the foyer because the
+
+property was essentially a multi-unit apartment building.         The
+
+First Circuit has explained that “a tenant lacks a reasonable
+
+expectation of privacy in the common areas of an apartment
+
+building.”     United States v. Hawkins, 139 F.3d 29, 32 (1st Cir.
+
+1998).    Common areas are those areas of a building “exposed both
+
+to those who have access to that area and those, including law
+
+enforcement officers, who may be given permission to enter that
+
+
+
+                                   7
+         Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 8 of 28
+
+
+
+area,”5 and it seems clear that hallways in multi-unit apartment
+
+buildings fall into this category.          United States v. Burnette,
+
+375 F.3d 10, 16 (1st Cir. 2004) (quoting United States v.
+
+Osunegbu, 822 F.2d 472, 479 (5th Cir. 1987)), vacated on other
+
+grounds, 543 U.S. 1181 (2005); see also United States v. Legault,
+
+323 F.Supp.2d 217, 222 (D. Mass. 2004) (citing with approval
+
+Commonwealth v. Montanez, 410 Mass. 290, 301-03 (1991), which
+
+held that common hallways in an apartment building were common
+
+areas).     The majority of Circuits that have considered the issue
+
+have also concluded that common hallways in multi-unit apartment
+
+buildings are common areas where tenants lack a reasonable
+
+expectation of privacy.        United States v. Nohara, 3 F.3d 1239,
+
+1242 (9th Cir. 1993); United States v. Acosta, 965 F.2d 1248,
+
+1252-53 (3d Cir. 1992); United States v. Holland, 755 F.2d 253,
+
+255-56 (2d Cir. 1985); United States v. Eisler, 567 F.2d 814, 816
+
+(8th Cir. 1977); but see United States v. Carriger, 541 F.2d 545,
+
+550 (6th Cir. 1976) (holding that tenants of a multi-unit
+
+apartment building had a reasonable expectation of privacy in
+
+locked common areas, including common hallways).
+
+     Werra, for his part, argues that 63 Menlo Street was a
+
+“commune,” similar to a “traditional” family home where all
+
+     5
+       It bears emphasizing that my findings of fact have
+determined that the police officers were not in the foyer with
+permission. But at this juncture, I consider only whether Werra
+has standing to object to their presence, whether or not they
+were there with permission.
+
+                                       8
+     Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 9 of 28
+
+
+
+residents possess a reasonable expectation of privacy throughout
+
+the entire dwelling.    See Payton v. New York, 445 U.S. 573, 589-
+
+90 (1980); Kyllo v. United States, 533 U.S. 27, 34 (2001); United
+
+States v. Paradis, 351 F.3d 21, 27 (1st Cir. 2003); United States
+
+v. Weidul, 325 F.3d 50, 52 n.1 (1st Cir. 2003).        Consequently,
+
+Werra maintains that he had a reasonable expectation of privacy
+
+in the foyer.
+
+     I agree with the general propositions advanced by both
+
+parties.    That is, as the government contends, a person who
+
+occupies one unit in a multi-unit apartment building does not
+
+have a reasonable expectation of privacy in common areas of the
+
+building.   Similarly, as the defendant contends, in a traditional
+
+home, all residents possess a reasonable expectation of privacy
+
+throughout the entire interior of the building.        But these well-
+
+established conventional categories for living arrangements do
+
+not bring the main issue here into complete focus because 63
+
+Menlo Street does not fit squarely into the paradigm for either a
+
+traditional family home or a multi-unit apartment building.           The
+
+required inquiry must therefore ask whether the arrangements at
+
+63 Menlo Street make it more like a traditional family home or
+
+more like a multi-unit apartment building.
+
+     The parties have not identified, and I have not found, any
+
+reported decisions that have, with sustained reasoning, expressly
+
+examined the distinction between traditional family homes and
+
+
+                                   9
+     Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 10 of 28
+
+
+
+multi-unit apartment buildings.      Determining whether a person has
+
+a reasonable expectation of privacy in an area or an item is, of
+
+course, a fact-specific inquiry.        Before turning to the details
+
+of 63 Menlo Street, however, it may be useful to identify several
+
+illustrative factors for analyzing whether a residence is more
+
+akin to a traditional home or a multi-unit apartment building.
+
+     The most important factor is whether or not the building
+
+contains recognizably separate living units.        Distinct, complete
+
+living spaces indicate that the dwelling is more like an
+
+apartment building because each tenant’s functional home is not
+
+shared by others in the building.       While each tenant would have a
+
+reasonable expectation of privacy in his or her personal living
+
+space within that kind of building, that expectation would not
+
+extend to common areas shared with other tenants.         By contrast,
+
+if the building did not contain compartmentalized living spaces,
+
+the residents would effectively be living together in a single,
+
+shared unit.   This might occur, for example, where all tenants
+
+shared essential parts of the living space, such as bathrooms and
+
+kitchens.   In that circumstance, each tenant would presumably
+
+have a reasonable expectation of privacy throughout the entire
+
+interior of the building.
+
+     A related factor is the legal right of a resident to exclude
+
+others from certain parts of the building.        See United States v.
+
+Anderson, 154 F.3d 1225, 1232 n.3 (10th Cir. 1998), cert. denied,
+
+
+                                   10
+     Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 11 of 28
+
+
+
+526 U.S. 1159 (1999) (“The right to exclude others is an
+
+important consideration in determining whether an individual has
+
+[a reasonable expectation of privacy].”).       The presence or
+
+absence of locks may be a factor in making this determination,
+
+because it could be a manifestation of a resident’s belief that
+
+he had the right to exclude others from a particular part of a
+
+building.   However, the presence or absence of locks is not a
+
+dispositive factor.    It is, for example, conceivable that an
+
+apartment building could contain five distinct units and no
+
+locks, because the tenants of each unit were friends or the
+
+building was located in a safe area.      In that situation each
+
+tenant would still presumably have the legal right to exclude
+
+others from the unit he or she personally occupied.
+
+     The number of people living in a building can also be
+
+relevant in categorizing the building.       For example, if 30 people
+
+lived in a large building, then it most likely would be
+
+characterized as a multi-unit apartment building.         But if three
+
+people lived in the same building, it could be either a multi-
+
+unit apartment building or a home, depending on how the space was
+
+divided and what rights each individual had with respect to that
+
+space.
+
+     I also note that the formal legal relationship among the
+
+residents of a building is not necessarily determinative in
+
+classifying the residence as either a traditional home or a
+
+
+                                   11
+        Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 12 of 28
+
+
+
+multi-unit apartment building.        For example, if two people living
+
+together as a couple each had access to all spaces in the
+
+dwelling, then it would be considered a traditional home, whether
+
+or not they were legally married.          See, e.g., United States v.
+
+Paradis, 351 F.3d at 27 (holding that the apartment of
+
+defendant's girlfriend was his "home" for purposes of the Fourth
+
+Amendment).
+
+        With these considerations in mind, I now turn to analyze the
+
+63 Menlo Street residence.        The evidence regarding the 63 Menlo
+
+Street building lacked many details concerning the rights of the
+
+residents within the building and the relationships among those
+
+who lived there.      Neither Cicerano nor Werra offered detailed
+
+testimony about the respective rights of each of the residents in
+
+the building.      For example, it is unclear whether the residents
+
+shared bathrooms and kitchens, to precisely what extent they were
+
+assigned specific parts of the building, and whether they locked
+
+doors to keep other people out.         In the absence of these key
+
+facts, I find that Werra has not carried his burden of
+
+demonstrating that 63 Menlo Street was akin to a traditional
+
+home.    Rather, it was more like a multi-unit building where
+
+Werra's reasonable expectation of privacy varied for different
+
+locations within the building.
+
+        Boundaries were sufficiently defined at 63 Menlo Street to
+
+afford Werra a reasonable expectation of full privacy in the
+
+third floor for which he paid rent.         That area contained a
+
+                                      12
+     Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 13 of 28
+
+
+
+kitchenette and appears to have been an independent living unit
+
+from which Werra could exclude others.       But he had no reasonable
+
+expectations of privacy in the foyer because others over whom he
+
+had no control could pass through it without his permission.           As
+
+to the living room, Werra's expectation of privacy was limited to
+
+the permission for use granted by Cicerano.
+
+     For these reasons, I conclude Werra does not have standing
+
+to challenge the legality of the police’s entrance into 63 Menlo
+
+Street on Fourth Amendment grounds.      Because he is unable to
+
+contest the legality of the police entrance, he is barred from
+
+claiming on those grounds that the evidence the police obtained
+
+in the subsequent seizure of weapons in the foyer should be
+
+suppressed pursuant to the fruit of the poisonous tree doctrine.
+
+     2.   Werra's Expectation of Privacy in his Person
+
+     The question whether Werra can contest the legality of the
+
+police’s entrance into the foyer at 63 Menlo Street is separate
+
+from the question whether Werra may challenge the stop and pat-
+
+frisk that Schaaf conducted of him once circumstances developed
+
+inside the building.    Werra had an independent reasonable
+
+expectation of privacy in his person and in associated personal
+
+property that was not in plain view from the foyer.         In United
+
+States v. Maddox, the Sixth Circuit explained that an individual
+
+“retains, almost wherever he goes, a legitimate expectation of
+
+privacy in his person.”    944 F.2d 1223, 1234 (6th Cir. 1991); see
+
+also United States v. Thornton, 493 F.Supp.2d 1024, 1031 (S.D.
+
+                                   13
+     Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 14 of 28
+
+
+
+Ohio 2007) (noting that the Fourth Amendment “expressly provides
+
+that [defendant] had a legitimate expectation of privacy in ‘the
+
+invaded place,’ his ‘person.’”).        For example, although a party
+
+guest at another person’s apartment does not have a reasonable
+
+expectation of privacy for items found within the apartment, he
+
+does “retain his preexisting expectation of privacy in his person
+
+and his personal property.”     Id. at 1234 n.4.     Likewise, even
+
+though Werra’s status as a resident of 63 Menlo Street did not
+
+provide him with a reasonable expectation of privacy for the
+
+foyer of the building, he did retain a reasonable expectation of
+
+privacy in his own person while he was there.        Consequently,
+
+Werra has a sufficient Fourth Amendment interest to challenge the
+
+legality of the stop and pat-frisk that led to Schaaf’s seizure
+
+of the firearm in Werra’s pocket.
+
+     B.   The Legality of the Stop and Frisk
+
+     Two distinct inquiries must be made in order to determine
+
+whether Werra’s Fourth Amendment rights regarding his person were
+
+violated by the police.    First, did the police have the authority
+
+initially to stop or restrain Werra's movements?        Second, if they
+
+did, did Werra present a sufficient threat to justify the
+
+subsequent pat-frisk?
+
+     1.   The Stop
+
+     Schaaf’s restraint of Werra’s movements was a seizure for
+
+purposes of the Fourth Amendment.        See Terry v. Ohio, 392 U.S. 1,
+
+16 (1968) (“[W]henever a police officer accosts an individual and
+
+                                   14
+     Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 15 of 28
+
+
+
+restrains his freedom to walk away, he has ‘seized’ that
+
+person.”)   I turn now to consider whether this seizure was a
+
+valid investigatory stop under Terry v. Ohio, or alternatively,
+
+whether it was permissible pursuant to the officers’ authority to
+
+secure the premises in order to execute the arrest warrant for
+
+Jeanine Daley.
+
+     a.     The Stop of Werra was Not Permissible Under
+            Terry v. Ohio
+
+     The government contends that Schaaf’s restraint of Werra was
+
+permissible as an investigatory stop.         In Terry, the Supreme
+
+Court affirmed the constitutionality of investigatory stops in
+
+certain circumstances when police lack a warrant or probable
+
+cause.    Id. at 30.   The Court stated that investigatory stops are
+
+permissible when a police officer “observes unusual conduct which
+
+leads him reasonably to conclude in light of his experience that
+
+criminal activity may be afoot.”        Id.   In a later case, the Court
+
+explained that “[b]ased upon [the] whole picture the detaining
+
+officers must have a particularized and objective basis for
+
+suspecting the particular person stopped of criminal activity.”
+
+United States v. Cortez, 449 U.S. 411, 417-18 (1981).         In
+
+assessing the totality of the circumstances, police officers may
+
+“draw[] inferences and make[] deductions . . . that might well
+
+elude an untrained person.”     Id. at 418.      Additionally, “the
+
+evidence . . . must be seen and weighted not in terms of library
+
+analysis by scholars, but as understood by those versed in the
+
+
+                                   15
+     Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 16 of 28
+
+
+
+field of law enforcement.”     Id.    Finally, “[a]lthough an
+
+officer’s reliance on a mere ‘hunch’ is insufficient to justify a
+
+stop, the likelihood of criminal activity need not rise to the
+
+level required for probable cause, and it falls considerably
+
+short of satisfying a preponderance of the evidence standard.”
+
+United States v. Arvizu, 534 U.S. 266, 274 (2002) (internal
+
+quotation marks and citations omitted).       This standard is
+
+described as “reasonable suspicion.”       Id.
+
+     In this case, the police lacked reasonable suspicion that
+
+Werra was himself engaged in any criminal activity.         The only
+
+specific facts Schaaf identified to support his decision to stop
+
+Werra were that Werra was walking toward him, he had what Schaaf
+
+believed to be a knife clipped to his right front shorts pocket,
+
+and he was moving his hand a little bit in his front left shorts
+
+pocket.    When the totality of the circumstances are taken into
+
+account, these facts are not sufficient to give reasonable
+
+suspicion to a police officer that Werra was engaged in criminal
+
+activity.
+
+     When Werra walked into the foyer, Schaaf had already
+
+instructed Cicerano to bring other residents of the premises to
+
+the foyer.   Other people located on the first floor had also come
+
+to the foyer after Cicerano was sent upstairs to gather those
+
+present.    In light of what was happening in the residence,
+
+Werra’s actions of walking into the foyer, when objectively
+
+                                     16
+     Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 17 of 28
+
+
+
+viewed, are not themselves either unusual or suspicious.          When
+
+police enter a building without a warrant, it is not at all
+
+surprising that the commotion would cause residents to come out
+
+of their private spaces to determine what was transpiring.
+
+Werra’s mere act of walking toward the police officers did not
+
+provide them with the requisite reasonable suspicion to carry out
+
+an investigatory stop.
+
+     Werra’s possession of what was likely a concealed pocket
+
+knife also did not provide the officers a basis for a Terry stop.
+
+There is nothing in the record that indicates Werra’s possession
+
+of the knife was illegal, and no testimony suggests he was
+
+reaching for or brandishing it when he entered the foyer.
+
+According to Schaaf’s own testimony, the type of knife Werra had
+
+was common.   Moreover, there seems to have been no way Werra
+
+could have walked through the pocket doors of the living room
+
+without walking directly toward the two police officers.
+
+Furthermore, Schaaf did not testify that Werra was walking
+
+towards him quickly or in a threatening manner.
+
+     The movement of Werra’s left hand did not provide the police
+
+any better reason to stop Werra under Terry.        The police did not
+
+know that Werra possessed a firearm before the pat-frisk, and
+
+they did not observe a bulge in Werra’s pocket.        Werra’s simple
+
+act of moving his hand around did not provide the police with a
+
+particularized and objective basis for suspecting Werra was
+
+
+                                   17
+     Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 18 of 28
+
+
+
+engaged in criminal activity.     As a result, the police officers
+
+were not justified in stopping Werra in a classic Terry
+
+investigatory stop.6
+
+     b.     The Stop of Werra was Permissible in Securing
+            the Premises to Execute the Arrest Warrant of
+            Jeanine Daley
+
+     Although not argued in a developed fashion by the
+
+government, there is an alternative to Terry to justify the
+
+effective restraint of Werra's movements in the foyer and the pat
+
+frisk which followed from it.     The officers were permitted to
+
+stop Werra in order to execute the arrest warrant for Jeanine
+
+Daley safely and effectively.     In Michigan v. Summers, the
+
+Supreme Court held that a warrant to search for contraband
+
+“implicitly carries with it the limited authority to detain the
+
+occupants of the premises while a proper search is conducted.”
+
+452 U.S. 692, 705 (1981).     In Summers, police officers approached
+
+a house to execute a search warrant for narcotics and encountered
+
+the defendant walking down the front steps.        Id. at 693.    The
+
+officers sought the defendant’s assistance in entering the home
+
+and then detained him while they carried out the search of the
+
+premises.    Id.   The Supreme Court held that even in the absence
+
+of any individualized suspicion of criminal activity, the
+
+
+
+     6
+      While I have considered each of Werra's actions separately
+for clarity of analysis, I also find that even when viewed
+collectively, they did not provide the police with reasonable
+suspicion for a Terry stop.
+
+                                   18
+     Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 19 of 28
+
+
+
+detention was permissible under the Fourth Amendment.         Id. at 705
+
+n.19 (“[T]he officer is not required to evaluate either the
+
+quantum of proof justifying detention or the extent of the
+
+intrusion to be imposed by the seizure”); see also Cherrington v.
+
+Skeeter, 344 F.3d 631, 638 (6th Cir. 2003) (explaining that
+
+police officers have the authority to briefly detain “even wholly
+
+innocent bystanders” when executing a warrant).        The Court
+
+explained that when police are executing a warrant, the liberty
+
+interest of an occupant of the premises is outweighed by the
+
+substantial law enforcement interest in exercising “unquestioned
+
+command of the situation” in order to protect the safety of the
+
+officers, execute the warrant in an orderly manner, and prevent
+
+the flight of any suspects.     Id. at 702-03.     Although Summers
+
+dealt with the execution of a search warrant, several courts have
+
+persuasively extended its application to the execution of arrest
+
+warrants, holding that the same law enforcement interests are
+
+applicable in both scenarios.     See Cherrington, 344 at 638;
+
+United States v. Enslin, 327 F.3d 788, 797 (9th Cir. 2003), cert.
+
+denied, 540 U.S. 917 (2003); Anderson v. United States, 107
+
+F.Supp.2d 191 (E.D.N.Y. 2000), aff’d, 41 Fed. Appx. 506 (2d Cir.
+
+2002).
+
+     The authority of police to detain individuals under Summers,
+
+however, is limited by the authority of the police to conduct the
+
+underlying search or arrest.     See Jacobs v. City of Chicago, 215
+
+F.3d 758, 772 (7th Cir. 2000) (“[W]here a search is illegal and
+
+                                   19
+     Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 20 of 28
+
+
+
+not supported by probable cause, the justification for using the
+
+search as the foundation for the seizure disappears because it
+
+was the connection of the individual with a location suspected of
+
+harboring criminal activity that provided the reasonable basis
+
+for the seizure.”); Marks v. Clarke, 102 F.3d 1012, 1032 (9th
+
+Cir. 1997) (holding that Summers would not “authorize detaining
+
+the occupants in furtherance of an illegal search”); Hill v.
+
+McIntyre, 884 F.2d 271, 278 (6th Cir. 1989) (holding that the
+
+reasonableness of a Summers detention depended on “the existence
+
+of probable cause and on the propriety of the search.”).          For the
+
+detention of Werra to have been permissible under Summers,
+
+therefore, both the arrest warrant for Jeanine Daley and the
+
+manner in which it was executed by the officers must have been
+
+proper.7   The validity of the arrest warrant has not been
+
+
+     7
+       In United States v. Leon, the Supreme Court held that
+where police officers properly executed an invalid warrant that
+they reasonably thought was valid, the exclusionary rule should
+not apply to any subsequently discovered evidence. 468 U.S. 897,
+918-19 (1984). The Court, however, limited this exception to
+cases where “the officers properly executed the warrant and
+searched only those places and for those objects that it was
+reasonable to believe were covered by the warrant.” Id. at 918.
+On this basis, several Circuit Courts have refused to extend the
+Leon “good faith” exception to the improper execution of a
+warrant. See United States v. Medlin, 798 F.2d 407, 410 (10th
+Cir. 1986) (“Unlike cases in which the police properly execute an
+invalid warrant that they reasonably thought was valid, in cases
+of improper execution there is police conduct that must be
+deterred.”); United States v. Hitchcock, 286 F.3d 1064 (9th Cir.
+2002), amended on other grounds, 298 F.3d 1021 (9th Cir. 2002);
+see also United States v. Husband, 226 F.3d 626, 636 (7th Cir.
+2000) (noting the court was “not convinced that [Leon’s]
+reasoning should be extended to situations where the challenge is
+to the manner of execution of a valid warrant.”). The First
+
+                                   20
+     Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 21 of 28
+
+
+
+disputed.   The determinative question, therefore, is whether the
+
+officers were properly executing the warrant when they detained
+
+Werra – in other words, whether the warrant authorized Schaaf and
+
+Fries to enter the premises at 63 Menlo Street to search for and
+
+arrest Jeanine Daley, even without obtaining the consent of any
+
+of the building’s residents.
+
+     In Payton v. New York, the Supreme Court held that an arrest
+
+warrant “implicitly carries with it the limited authority to
+
+enter a dwelling in which the suspect lives when there is reason
+
+to believe the suspect is within.”      445 U.S. 573, 603 (1980).8     A
+
+majority of Circuits have interpreted Payton to mean that the
+
+police officers executing the warrant must have a “reasonable
+
+belief” that the arrestee: (1) lives at the residence, and (2) is
+
+within the residence at the time of entry.       United States v.
+
+Thomas, 429 F.3d 282, 286 (D.C. Cir. 2005); cert. denied, 127
+
+S.Ct. 660 (2006).   The “reasonable belief” standard falls short
+
+of requiring the officers to have “probable cause.”         See
+
+generally Solis-Alarcon v. United States, 514 F.Supp.2d 185, 195
+
+
+
+Circuit has not expressed a view on this issue, but because I
+find that the officers in this case did properly execute the
+arrest warrant for Jeanine Daley, it is unnecessary for me to
+address it further here.
+     8
+      By contrast, absent exigent circumstances, police officers
+must obtain a search warrant to enter the residence of a third
+party to search for the subject of an arrest warrant. See
+Steagald v. United States, 451 U.S. 204, 206 (U.S. 1981); Joyce
+v. Town of Tewksbury, 112 F.3d 19, 21-22 (1st Cir. 1997) (en
+banc) (per curiam).
+
+                                   21
+     Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 22 of 28
+
+
+
+(D.P.R. 2007) (collecting cases).9      Although the First Circuit
+
+has not yet directly confronted this issue, it has suggested in
+
+dictum that it supports the “reasonable belief” standard.          See
+
+United States v. Weems, 322 F.3d 18, 22 (1st Cir. 2003) (citing
+
+United States v. Gay, 240 F.3d 1222, 1226-27 (10th Cir. 2001)).
+
+Therefore, I will apply that standard in this case.         The
+
+existence of a “reasonable belief” is not determined by the
+
+subjective beliefs of the officers, but is instead evaluated
+
+objectively, based on what a reasonable police officer in the
+
+same position would have reasonably believed.        See El Bey v.
+
+Roop, 530 F.3d 407, 416-17 (6th Cir. 2008); United States v.
+
+Clayton, 210 F.3d 841, 844-45 (8th Cir. 2000).        Cf. Bolton v.
+
+Taylor, 367 F.3d 5, 8 (1st Cir. 2004) (applying an “objective
+
+observer” analysis to determine whether there was “reasonable
+
+suspicion” to justify a Terry stop).
+
+     Although it is a close question, I conclude that the arrest
+
+warrant authorized the officers to enter the premises at 63 Menlo
+
+Street to search for and arrest Jeanine Daley.        Before going to
+
+63 Menlo Street, Schaaf and Fries spoke with an informant named
+
+Christine, who had previously provided Schaaf with accurate
+
+information concerning the whereabouts of a suspect.         Christine
+
+
+     9
+      Among the Circuits that have considered the issue, only the
+Ninth Circuit has come to a contrary conclusion, holding that
+Payton requires the police to have probable cause that the
+subject lives at the residence and is present at the time of
+entry. See United States v. Gorman, 314 F.3d 1105 (9th Cir.
+2002).
+
+                                   22
+     Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 23 of 28
+
+
+
+told Schaaf that Daley was “staying at 63 Menlo Street,”10 and
+
+that she had seen Daley there recently.       Schaaf was also aware
+
+that Jeanine Daley had been a drug abuser, and on his previous
+
+visit to 63 Menlo Street he had observed it to be a sober house
+
+with tenants living on the premises.
+
+     To be sure, this evidence is thin.       For example, the
+
+officers did not conduct any surveillance of the premises to
+
+verify that Jeanine Daley was staying there, see, e.g., Solis-
+
+Alarcon v. United States, 514 F. Supp. 2d at 193 (finding a
+
+“reasonable belief” of suspect’s residence in part because agents
+
+had observed the suspect’s car parked at the location), nor did
+
+they seek verification from other sources that she was indeed a
+
+resident, see, e.g., United States v. Pelletier, 469 F.3d 194,
+
+197 (1st Cir. 2006) (finding a “reasonable belief” of suspect’s
+
+residence in part because officers confirmed with maintenance
+
+worker that suspect was sole occupant of a motel room).
+
+Furthermore, the arrest warrant for Daley indicated a different
+
+address: 10 Marshall Road in North Easton.
+
+     Nonetheless, considering the circumstances in their
+
+entirety, I find that the officers had a sufficient basis to form
+
+a “reasonable belief” that Jeanine Daley lived at 63 Menlo
+
+Street.   The tip that Daley was “staying at” that address came
+
+
+     10
+      Fries could not recall whether Christine provided the
+precise address but did recall that she provided enough
+information that Schaaf could identify the building to which she
+was referring.
+
+                                   23
+     Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 24 of 28
+
+
+
+from a previously reliable informant and was consistent with what
+
+Schaaf knew about both Daley’s drug abuse and the building at 63
+
+Menlo Street.    See United States v. Lauter, 57 F.3d 212, 215 (2d
+
+Cir. 1995) (holding that a tip from a reliable informant that a
+
+suspect recently moved into a particular apartment was sufficient
+
+to justify a “reasonable belief” that the suspect lived there);
+
+see also Thomas, 429 F.3d at 286 (accepting, without any further
+
+details, that officers had a “reasonable belief” a suspect lived
+
+at a particular address because they had done an
+
+“investigation”).   The fact that Menlo Street may not have been
+
+Daley’s permanent home, if indeed she had one, is not
+
+determinative.   For the purposes of a Payton analysis, a
+
+suspect’s residence can include not only the suspect’s permanent
+
+home but also a temporary residence, such as a motel room where
+
+the suspect effectively lived at the time of the entry.          See
+
+United States v. Pelletier, 469 F.3d 194, 199 (1st Cir.         2006);
+
+see also United States v. Weems, 322 F.3d 18, 22 (1st Cir. 2003)
+
+(noting in dictum that if the defendant “effectively lived” where
+
+he was found, “the arrest warrant itself would be enough to
+
+authorize entry . . . to effectuate his arrest”).         But see Perez
+
+v. Simmons, 884 F.2d 1136, 1141 (9th Cir. 1988) (holding that
+
+Payton only allows entry into a suspect’s “actual home” and not a
+
+temporary residence).
+
+     Furthermore, I find that the officers had sufficient basis
+
+to form a “reasonable belief” that Daley would be present at the
+
+                                   24
+     Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 25 of 28
+
+
+
+time of their entry into the premises.       The officers arrived
+
+relatively early in the morning, at approximately 10:00 a.m., and
+
+Christine told Shaaf that she had seen Daley at that location
+
+“recently.”   See Thomas, 429 F.3d at 286 (“As for whether the
+
+officers had reason to believe Thomas would be at home when they
+
+executed the warrant, the early morning hour was reason
+
+enough.”); see also United States v. Hayes, 209 Fed. Appx. 548,
+
+551 (7th Cir. 2006) (per curiam, unpublished) (finding a
+
+“reasonable belief” that suspect would be home at 10:00 a.m.
+
+where suspect was an unemployed drug addict).
+
+     Therefore, although the government indicated at oral
+
+argument that it did not believe the arrest warrant was a
+
+sufficient basis for the police to enter 63 Menlo Street without
+
+consent (Tr. 3:12-14, Oct. 15, 2007), I find that a reasonable
+
+officer in the same position could have formed an objectively
+
+“reasonable belief” that Jeanine Daley lived at the premises and
+
+was present at the time of entry.       The arrest warrant gave the
+
+officers the authority to enter the building, and, under Summers,
+
+the authority to detain occupants temporarily in order to search
+
+for Daley safely and effectively.11      On this basis, I conclude
+
+
+     11
+       When a search warrant authorizes officers to enter a
+residence, they are still required to give notice of their
+“authority and purpose” before entering without consent. See 18
+U.S.C. § 3109. Arguably, the officers’ failure to inform
+Cicerano that they had an arrest warrant for a resident of the
+building fell short of this responsibility. See Miller v. United
+States, 357 U.S. 301 (1958); but see United States v. One Parcel
+of Real Property, 873 F.2d 7, 9-10 (1st Cir. 1989) (noting that
+
+                                   25
+     Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 26 of 28
+
+
+
+that the officers had sufficient justification for initially
+
+stopping and restricting Werra’s movements, and I now turn to
+
+consider the propriety of the pat-frisk.
+
+     2.   The Pat-Frisk
+
+     Simply because a stop can be made does not necessarily mean
+
+that a police officer may conduct a frisk of the stopped
+
+individual.   Rather, an officer generally “must be able to point
+
+to particular facts from which he reasonably inferred that the
+
+individual was armed and dangerous” in order to conduct a frisk.
+
+Sibron v. New York, 392 U.S. 40, 64 (1968).        See also Ybarra v.
+
+Illinois, 444 U.S. 85, 93 (1979) (holding, by analogy to Terry,
+
+that an officer executing a search warrant may only frisk persons
+
+present “to find weapons that he reasonably believes or suspects
+
+are then in the possession of the person he has accosted.”).
+
+Police do not need to be absolutely certain that an individual is
+
+armed or dangerous, but the evidence must demonstrate that “a
+
+reasonably prudent man in the circumstances would be warranted in
+
+the belief that his safety or that of others was in danger.”
+
+Terry v. Ohio, 392 U.S. at 27.     The determinative question,
+
+
+
+“an express announcement would be a useless gesture if the
+house’s occupant already knew the police’s purpose”). Even so,
+violations of the so-called “knock and announce” rule do not
+require application of the exclusionary rule to subsequently
+discovered evidence, where the police had a valid grant of
+authority to enter the target’s residence. See Hudson v.
+Michigan, 547 U.S. 586, 596 (2006); United States v. Jones, 523
+F.3d 31, 36 (1st Cir. 2008). It is therefore unnecessary to
+resolve this issue here.
+
+                                   26
+     Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 27 of 28
+
+
+
+therefore, is whether a reasonably prudent police officer would
+
+have been warranted in concluding that Werra posed an objective
+
+threat of danger to the police or others.
+
+     I find that under the circumstances confronting the officers
+
+the pat-down frisk of Werra was justified.       According to Schaaf’s
+
+testimony, after Werra walked into the foyer, Schaaf stopped him
+
+and removed the knife that was clipped to his pocket “for
+
+[Schaaf’s] safety, [Werra’s] safety, and also Trooper Fries’
+
+safety.”   This seems a prudent step given that the officers were
+
+seeking a fugitive in a building with multiple floors and at
+
+least several occupants.    To be sure, Werra did not appear to
+
+pose an imminent threat to the police officers at that point; as
+
+I have discussed, Werra’s act of walking into the foyer was not
+
+unusual under the circumstances and was not itself threatening.
+
+Nevertheless, the officers' suspicion that the premises was being
+
+used as a drug house, when coupled with the readily identifiable
+
+knife clipped to Werra's pants and his act of walking into the
+
+foyer, formed a sufficient basis for an objective officer to
+
+conclude that Werra was armed and potentially dangerous - even if
+
+it was not a sufficient basis to conclude Werra was himself
+
+engaged in criminal activity.     See Section II.B.1.a, supra.         With
+
+the knife in one pocket, Werra’s act of moving his hands slightly
+
+in his other pocket as he approached Schaaf lent further support
+
+for the conclusion that he posed a potential threat to the safety
+
+of the officers.   Consequently, Schaaf's seizure of Werra's knife
+
+                                   27
+     Case 1:06-cr-10414-DPW Document 34 Filed 09/11/08 Page 28 of 28
+
+
+
+and his pat-frisk of Werra’s pocket were justified.
+
+                            II. CONCLUSION
+
+     For the foregoing reasons, I DENY Werra’s motion to
+
+suppress.
+
+
+
+
+                                 /s/ Douglas P. Woodlock
+                                 DOUGLAS P. WOODLOCK
+                                 UNITED STATES DISTRICT JUDGE
+
+
+
+
+                                   28
+

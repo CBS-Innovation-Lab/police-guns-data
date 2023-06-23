@@ -1,0 +1,1588 @@
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 1 of 32         PageID #: 2002
+
+
+
+                         UNITED STATES DISTRICT COURT
+                              DISTRICT OF MAINE
+
+
+ JAMES DAMON                              )
+                                          )
+              Petitioner                  )
+                                          )
+       v.                                 )    1:08-cr-00157-JAW-3
+                                          )    1:11-cv-00058-JAW
+ UNITED STATES OF AMERICA                 )
+                                          )
+              Respondent.                 )
+
+
+            ORDER AFFIRMING THE RECOMMENDED DECISION OF
+                       THE MAGISTRATE JUDGE
+
+       The Court denies James Damon’s 28 U.S.C. § 2255 petition (1) because he is
+
+ procedurally defaulted from asserting the claim, (2) because the United States
+
+ Supreme Court case of Johnson v. United States, 130 S. Ct. 1265 (2010) and the
+
+ First Circuit case of United States v. Holloway, 630 F.3d 252 (1st Cir. 2011) are not
+
+ retroactive, (3) because his claim of legal as opposed to factual innocence is not
+
+ cognizable in a § 2255 petition, (4) because a miscalculation of a guideline sentence
+
+ range that results in a sentence within the correct statutory range is not a complete
+
+ miscarriage of justice, and (5) because a sentence of seventy months for this
+
+ Defendant does not represent in any event a complete miscarriage of justice. The
+
+ Court affirms the Magistrate Judge’s Recommended Decision. However, because a
+
+ reasonable jurist could disagree with this ruling, the Court grants Mr. Damon’s
+
+ request for a certificate of appealability.
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 2 of 32         PageID #: 2003
+
+
+
+ I.    PROCEDURAL HISTORY
+
+       A.     The Facts
+
+       On October 11, 2007, James Damon approached Katrina Wickett and asked
+
+ her to purchase a gun for him at Frati’s Pawn Shop in Bangor, Maine. Prosecution
+
+ Version at 1. (ECF No. 79). Convicted in Massachusetts of an assault and battery
+
+ felony in 2006, Mr. Damon could not buy the gun on his own. See id. Instead, Mr.
+
+ Damon gave Ms. Wickett money to buy the gun, entered Frati’s with her and with
+
+ two of his male associates, and hand-selected a Springfield Armory .45 caliber pistol
+
+ for her to purchase. United States v. Damon, 595 F.3d 395, 398 (1st Cir 2010);
+
+ Prosecution Version at 1. Video surveillance from the pawnshop showed Mr. Damon
+
+ handling at least three guns, including the Springfield Armory .45 caliber pistol.
+
+ Damon, 595 F.3d at 398.      Ms. Wickett filled out the requisite paperwork and
+
+ purchased the gun for him. Id.; Prosecution Version at 1.
+
+       After the sale, the pawnbroker became suspicious of the transaction and
+
+ asked Ms. Wickett to return in forty-five minutes so that he could resolve a
+
+ paperwork issue. Damon, 595 F.3d at 398. The pawnbroker contacted a Task Force
+
+ officer at the U.S. Bureau of Alcohol, Tobacco, Firearms and Explosives who came to
+
+ the Pawn Shop to conduct surveillance.       Id.   When Ms. Wickett returned, the
+
+ pawnbroker handed her the guns, which prompted a discussion between the Task
+
+ Force officer and Ms. Wickett. Id. Shortly thereafter, Ms. Wickett turned the guns
+
+ over to the officer and explained how Mr. Damon and his two associates arranged
+
+ for her to buy the guns for them. Id. On August 13, 2008, a federal grand jury
+
+
+
+                                          2
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 3 of 32        PageID #: 2004
+
+
+
+ charged Mr. Damon with three firearms offenses and he was arrested on August 15,
+
+ 2008. Id; Indictment (ECF No. 3).
+
+       The five-count Indictment against Mr. Damon contained three counts: Count
+
+ One―conspiracy to make false statements in acquisition of firearms in violation of
+
+ 18 U.S.C. § 371 and § 922(a)(6); Count Two―aiding and abetting the making of false
+
+ statements in the acquisition of firearms in violation of 18 U.S.C. § 922(a)(6); and
+
+ Count Five―possession of a firearm by a felon in violation of 18 U.S.C. § 922(g)(1).
+
+ Indictment. On December 1, 2008, Mr. Damon pleaded guilty to Count 5 pursuant
+
+ to a written plea agreement, and at his sentencing, pursuant to that agreement, the
+
+ Government moved to dismiss Counts One and Two. Plea Agreement at 4 (ECF No.
+
+ 67). The Court granted the motion. J. (ECF No. 207).
+
+       B.    Mr. Damon’s Sentencing
+
+       In the Presentence Report (PSR), the Probation Office addressed Mr.
+
+ Damon’s criminal history.    PSR at 7-13.     The Probation Office calculated his
+
+ criminal history score at nine and determined that he fell into Criminal History
+
+ Category IV.    Id. ¶ 33.   Included in this calculation was a January 12, 2006
+
+ conviction in the Massachusetts District Court for assault and battery. Id. ¶ 30. In
+
+ determining Mr. Damon’s base offense level under the Guidelines, the Probation
+
+ Office referenced both this assault and battery conviction and a drug trafficking
+
+ conviction and determined that Mr. Damon’s base offense level was twenty-four
+
+ because he had at least two felony convictions of either a crime of violence or a
+
+ controlled substance offense.   Id. ¶ 12; see U.S.S.G. § 2K2.1(a)(2) (“24, if the
+
+
+
+                                          3
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 4 of 32          PageID #: 2005
+
+
+
+ defendant committed any part of the instant offense subsequent to sustaining at
+
+ least two felony convictions of either a crime of violence or a controlled substance
+
+ offense”).
+
+        On April 3, 2009, Mr. Damon filed a sentencing memorandum in which he
+
+ opposed two sentencing enhancements that the Probation Office had recommended
+
+ in the PSR: (1) a two-level increase for the number of firearms attributable to him
+
+ under U.S.S.G. § 2K2.1(b)(1), and (2) the inclusion of a drug trafficking offense as
+
+ one of the predicate offenses for the base offense level of twenty-four. Def.’s Mem. in
+
+ Aid of Sentencing at 1-9 (ECF No. 171). Mr. Damon did not contest the inclusion of
+
+ the assault and battery conviction as a crime of violence under § 2K2.1(a)(2). See
+
+ id.; Mem. in Support of 2255 Pet. at 3 (ECF No. 300) (“Mr. Damon did not challenge
+
+ the use of his prior Assault and Battery conviction as a qualifying prior crime of
+
+ violence in establishing the base offense level”) (Def.’s Mem.). The Government
+
+ maintained that both enhancements were warranted and recommended a sentence
+
+ at the higher end of the Guidelines range of seventy to eighty-seven months. Gov’t’s
+
+ Mem. in Aid of Sentencing at 1-5, 7-9 (ECF No. 174). In calculating Mr. Damon’s
+
+ final offense level, the PSR started with a base offense level of twenty-four, added
+
+ two levels for the number of firearms, and reduced that number by three levels for
+
+ acceptance of responsibility to a final offense level of twenty-three. PSR ¶ 12-21.
+
+ On May 12, 2009, after rejecting Mr. Damon’s two sentencing objections, the Court
+
+ sentenced Mr. Damon to seventy months imprisonment on Count Five, three years
+
+ of supervised release, and a special assessment of $100. J. (ECF No. 207). On May
+
+
+
+                                           4
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 5 of 32          PageID #: 2006
+
+
+
+ 13, 2009, Mr. Damon appealed his sentence to the First Circuit Court of Appeals.
+
+ Notice of Appeal (ECF No. 208). On appeal, Mr. Damon did not raise any issues
+
+ regarding the assault and battery conviction and on February 18, 2010, the First
+
+ Circuit affirmed the sentence. See Damon, 595 F.3d at 397; J. on Appeal (ECF No.
+
+ 251).
+
+          C.    Mr. Damon’s Motion to Vacate, Set Aside, or Correct his
+                Sentence
+
+                1.    Mr. Damon’s Motion
+
+          On February 14, 2011, Mr. Damon moved to vacate, set aside, or correct his
+
+ sentence pursuant to 28 U.S.C. § 2255. Mot. under 28 U.S.C. § 2255 to Vacate, Set
+
+ Aside, or Correct Sentence by a Person in Federal Custody (ECF No. 289) (Def.’s
+
+ Mot.).    On March 15, 2011, Mr. Damon filed a memorandum in support of his
+
+ petition, Def.’s Mem., and on August 22, 2011 a supplemental memorandum. Supp.
+
+ Mem. in Support of 2255 Pet. (ECF No. 322) (Def.’s Supp. Mem.).           Mr. Damon
+
+ contends that United States v. Holloway, 630 F.3d 252 (1st Cir. 2011), a case that
+
+ followed the United States Supreme Court’s decision in Johnson v. United States,
+
+ 130 S. Ct. 1265 (2010), requires a recalculation of his base offense level. Def.’s Mem.
+
+ at 5-10. He contends that under Holloway an assault and battery conviction under
+
+ this Massachusetts statute for an offensive and reckless battery is categorically not
+
+ a crime of violence, as opposed to harmful battery, which is. Def.’s Mem. at 5-10.
+
+ He says that the Government can establish only the fact of the assault and battery
+
+ conviction, but not the level of intent involved and therefore, under Holloway his
+
+ 2006 assault and battery conviction should not have counted as a crime of violence.
+
+                                           5
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 6 of 32                  PageID #: 2007
+
+
+
+ Id. at 4-5. Mr. Damon maintains that his base offense level should have started at
+
+ twenty, not twenty-four. Id. at 4-5. He contends that with a two-level increase for
+
+ the number of firearms and a three-level decrease for acceptance of responsibility,
+
+ the total offense level should have been nineteen and the resulting sentencing
+
+ guideline range should have been forty-six to fifty-seven months, not seventy to
+
+ eighty-seven months. Id.
+
+           In support of his motion, Mr. Damon insists that under Teague v. Lane, 489
+
+ U.S. 288 (1989), the rule announced in Holloway is substantive rather than
+
+ procedural and should be applied retroactively. Id. at 5-6. Mr. Damon supports his
+
+ retroactivity argument with United States v. Narvaez, 674 F.3d 621 (7th Cir. 2011),1
+
+ in which the Seventh Circuit Court of Appeals concluded that the United States
+
+ Supreme Court’s decisions in Begay v. United States, 553 U.S. 137 (2008) and
+
+ Chambers v. United States, 555 U.S. 122 (2009) were retroactive. Def.’s Supp. Mem.
+
+ at 1-2.
+
+           Mr. Damon recognizes that “‘sentencing errors are generally not cognizable
+
+ on collateral review’” but argues that his case, and cases such as Naravez, present
+
+ “‘a special and very narrow exception: [a] post-conviction change in the law has
+
+ rendered the sentencing court’s decision unlawful.’” Id. at 2 (quoting Narvaez, 674
+
+ F.3d at 627). Under Holloway, Mr. Damon states “the First Circuit has shifted
+
+ [him] from one category of violent offender to another category of non-violent
+
+ offender based on the same document [(his Massachusetts’ criminal complaint)]”
+
+ 1       The Seventh Circuit original opinion in Narvaez, 641 F.3d 877 (7th Cir. 2011) was
+ withdrawn and replaced by the opinion found at 674 F.3d 621 (7th Cir. 2011). The Court has cited
+ the later version.
+
+                                                6
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 7 of 32           PageID #: 2008
+
+
+
+ and therefore he is no longer subject to the enhancement and should be resentenced
+
+ for the “understandable, but mistaken, impression that [he] had two countable prior
+
+ convictions.” Def.’s Mem. at 7; Def.’s Supp. Mem. at 4. Furthermore, Mr. Damon
+
+ asserts that he did not default on this claim because it was unavailable to him at
+
+ the time of his sentencing and appeal. Def.’s Mem. at 8. He says, that “it appears
+
+ that [he] is [now] ‘actually innocent’ of the sentence imposed and thus may be
+
+ excused for not having raised this issue in his direct appeal.” Id. at 10.
+
+              2.     The Government’s Motion for Summary Dismissal
+
+       In response to Mr. Damon’s motion, on September 20, 2011, the Government
+
+ moved the Court for summary dismissal of Mr. Damon’s § 2255 motion. Gov’t Mot.
+
+ for Summ. Dismissal of Mot. to Vacate, Set Aside, or Correct Sentence Pursuant to
+
+ 28 U.S.C. § 2255 and Supporting Mem. of Law (ECF No. 327) (Gov’t’s Mot.).          The
+
+ Government first argues that there is little, if any, authority to support Mr.
+
+ Damon’s contention that Holloway and Johnson should be applied retroactively. Id.
+
+ at 20. In addition, the Government highlights a series of decisions from various
+
+ federal courts to emphasize that courts are divided on retroactive application of new
+
+ precedent in § 2255 petitions. Id. at 21-22.
+
+       Second, the Government contends that Mr. Damon’s claim is procedurally
+
+ barred because he did not challenge the inclusion of the assault and battery
+
+ conviction in his PSR, at the time of his sentencing, or on appeal.          Id. at 22.
+
+ Although Holloway and Johnson were decided after Mr. Damon’s sentencing and
+
+ appeal, the Government points out that his current claim was reasonably available
+
+
+
+                                            7
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 8 of 32         PageID #: 2009
+
+
+
+ to him at the time of his sentencing and appeal given significant legal revisions to
+
+ the term “violent felony” at that time. Id. at 23. Third, the Government argues
+
+ that even if Holloway is retroactively applied and his claim is not procedurally
+
+ barred, Mr. Damon cannot demonstrate that upholding his seventy-month sentence
+
+ would result in a miscarriage of justice, a statutorily illegal sentence, or
+
+ constitutional violation. Id. at 24-25. Finally, in the event of a resentencing, the
+
+ Government alerts the Court that it will seek an upward departure or variance
+
+ from any reduced Guideline range. Id. at 25.
+
+              3.     Mr. Damon’s Reply
+
+       On October 20, 2011, Mr. Damon replied. Petitioner’s Opp’n to Gov’t Mot. for
+
+ Summ. Dismissal (ECF No. 331) (Def.’s Reply). First, Mr. Damon asserts that the
+
+ Government failed to demonstrate that Johnson and Holloway may not be applied
+
+ retroactively to his case given that Mr. Damon is not limited by a waiver, that his §
+
+ 2255 petition was timely, and that Johnson and Holloway fit within a class of cases
+
+ generally given retroactive effect. Id. at 1-3. Next, Mr. Damon admits that he
+
+ procedurally defaulted on his claim but argues that there are exceptions to the
+
+ procedural default rule, which allow the Court to provide him a remedy. Id. at 4.
+
+ Citing the Seventh Circuit’s decision in Narvaez, Mr. Damon also argues that the
+
+ “miscarriage of justice” exception applies to his case because the Court
+
+ misapprehended the nature of his criminal history, which could result in a due
+
+ process violation if not corrected. Id. at 6.
+
+
+
+
+                                             8
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 9 of 32         PageID #: 2010
+
+
+
+ II.   THE MAGISTRATE JUDGE’S RECOMMENDED DECISION
+
+       A.     The Recommended Decision
+
+       The United States Magistrate Judge filed a Recommended Decision on
+
+ November 21, 2011. Recommended Decision on 28 U.S.C. § 2255 Mot. (ECF No.
+
+ 332) (Rec. Dec.).    The Magistrate Judge recommended that the Court grant the
+
+ Government’s motion for summary dismissal of Mr. Damon’s 28 U.S.C. § 2255
+
+ motion, unless it concluded that a “miscarriage of justice” had occurred. Id. at 14.
+
+ After summarizing the inter-circuit disagreement regarding the retroactivity of new
+
+ precedent on collateral review, the Magistrate Judge tentatively recommended that
+
+ Johnson and Holloway “could theoretically be applied retroactively to a non-time
+
+ barred, first-time § 2255 petition and that even a procedurally defaulted defendant
+
+ can, in the right circumstances, mount a challenge of ‘actual innocence’ to a
+
+ sentencing enhancement in the context of a § 2255 petition.” Id. at 12. Even so, she
+
+ recommended that Mr. Damon not prevail on his § 2255 petition because he did not
+
+ show that the sentencing error in his case was either statutorily illegal or
+
+ unconstitutional. Id.
+
+       The Magistrate Judge distinguished Narvaez on the ground that Mr. Damon
+
+ is not challenging a mandatory sentencing enhancement “but rather a two-year
+
+ difference between the high-end of the base-offense level 20 and the low-end of base-
+
+ offense level 24.”    Id. at 13.   Notably, the Magistrate Judge pointed out that
+
+ whether this sentencing difference constitutes a “miscarriage of justice” must be
+
+ analyzed in light of the Court’s discretion to impose the same sentence at
+
+
+
+                                           9
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 10 of 32       PageID #: 2011
+
+
+
+ resentencing if it accepts the Government’s argument for an upward departure or
+
+ variance under the current sentencing guidelines. Id. Although the Magistrate
+
+ Judge acknowledged that “given the current state of the law, a reasonable jurist
+
+ could conclude that Damon’s procedural default of the Holloway issue could be
+
+ excused in these circumstances and his ‘actual innocence’ regarding the sentence
+
+ enhancement could form the basis of a resentencing order,” she determined that no
+
+ caselaw confirms this position. Id. at 14. In the end, she concluded that “[Mr.]
+
+ Damon’s case does not present the factual matrix that would warrant this Court’s
+
+ entry of such an order” unless his sentence was based upon assumptions concerning
+
+ his criminal history which were materially untrue in the sense of Townsend v.
+
+ Burke, 334 U.S. 736 (1948), such that his sentence amounted to a “miscarriage of
+
+ justice.” Id.
+
+           B.     Mr. Damon’s Objection
+
+           On December 8, 2011, Mr. Damon objected to the Magistrate Judge’s
+
+ Recommended Decision.         Objs. to Recommended Decision (ECF No. 333) (Def.’s
+
+ Objs.).        Mr. Damon insists that his guideline calculation was “erroneously
+
+ calculated” and that, if properly calculated, his sentencing range would have been
+
+ forty-six to fifty-seven months, not seventy to eighty-seven months. Id. at 5. Mr.
+
+ Damon argues that the method by which his sentence was calculated establishes
+
+ that his “‘sentence was imposed in violation of the Constitution or laws of the
+
+ United States . . . .’” Id. (quoting 28 U.S.C. § 2255(a)). Recognizing that circuit
+
+ courts have come to different conclusions at to whether a Guideline error is
+
+
+
+                                           10
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 11 of 32         PageID #: 2012
+
+
+
+ cognizable in a § 2255 proceeding, Mr. Damon asserts that although the First
+
+ Circuit has not directly addressed this issue “it appears from the cases decided in
+
+ the First Circuit that it would join the Seventh Circuit’s analysis in Narvaez.” Id.
+
+ at 6. Finally, citing Townsend v. Burke, 334 U.S. 736 (1948), and United States v.
+
+ Curran, 926 F.2d 59 (1st Cir. 1991), Mr. Damon asserts that he was sentenced upon
+
+ information that was “materially incorrect” in light of Holloway and that this error
+
+ implicates substantive due process. Id.
+
+ III.   DISCUSSION
+
+        A.    United States v. Turner
+
+        On June 28, 2011, a district court in the District of Massachusetts issued a
+
+ decision that touched on the impact of Johnson on Massachusetts convictions for
+
+ assault and battery for purposes of Armed Career Criminal status. United States v.
+
+ Turner, 793 F. Supp. 2d 495, 508-11 (D. Mass. 2011). The defendant appealed that
+
+ order to the Court of Appeals for the First Circuit and, as it appeared that the First
+
+ Circuit might address Johnson’s retroactivity, this Court waited for the First
+
+ Circuit’s Turner decision before addressing Mr. Damon’s objection to the
+
+ Recommended Decision.
+
+        On November 13, 2012, the First Circuit issued Turner. Turner v. United
+
+ States, Nos. 11-1884, 11-1885, 2012 U.S. App. LEXIS 23319 (1st Cir. Nov. 13, 2012).
+
+ As it turned out, the First Circuit ruled without reaching the retroactivity issue.
+
+ The Turner Court carefully reviewed the defendant’s arguments and concluded
+
+ that, when he was before the district court, the defendant had failed to “raise this
+
+
+
+                                           11
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 12 of 32                    PageID #: 2013
+
+
+
+ independent Johnson theory and the claim is forfeited.” Id. at *20. In closing, the
+
+ Circuit Court commented:
+
+        Although we have no occasion to decide the Johnson issue, it may be
+        useful to emphasize that the analysis of such a clam is by no means
+        straightforward. The Supreme Court has not yet held that Johnson is
+        retroactive and the government has independently argued that the
+        claim is procedurally defaulted. This is not a case in which the
+        application of time limits threatens any obvious injustice.
+
+ Id. at *23-24.
+
+        B.      United States v. Narvaez and Other Caselaw
+
+        On June 3, 2011, the Court of Appeals for the Seventh Circuit issued a
+
+ decision that addressed an analogous issue: whether two United States Supreme
+
+ Court decisions, Begay v. United States, 553 U.S. 137 (2008) and Chambers v.
+
+ United States, 555 U.S. 122 (2009), which redefined “violent felony” for purposes of
+
+ the Armed Career Criminal Act (ACCA), should be applied retroactively on
+
+ collateral review. Narvaez, 674 F.3d at 625. The Seventh Circuit discussed the
+
+ Supreme Court’s rules on retroactivity under Teague v. Lane, 489 U.S. 288 (1989)
+
+ and noting that retroactivity depended upon whether a new rule is procedural or
+
+ substantive, the Narvaez Court observed that the new rule substantially narrowed
+
+ a defendant’s exposure to a sentence of imprisonment and that such an increase in
+
+ punishment “‘is certainly a substantive liability.’”2 Id. at 626 (quoting Welch v.
+
+ United States, 604 F.3d 408 (7th Cir. 2010)). The Seventh Circuit held that “the
+
+ Begay and Chambers decisions apply retroactively on collateral review.” Id. at 625.
+
+ 2      In Teague, the Supreme Court also observed that a “watershed” change in a rule of criminal
+ procedure could have retroactive effect. Teague, 489 U.S. at 311; see Whorton v. Bockting, 549 U.S.
+ 406, 416 (2007). However, Mr. Damon does not claim that if Johnson announced a procedural, not a
+ substantive rule, that it should be considered a watershed rule. See Def.’s Mem. at 5-6.
+
+                                                 12
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 13 of 32              PageID #: 2014
+
+
+
+        In United States v. Coley, the Eleventh Circuit reached a different conclusion.
+
+ United States v. Coley, 336 F. Appx. 933 (11th Cir. 2009). The Coley Court noted
+
+ that in Stone v. Powell, 428 U.S. 465 (1976), the United States Supreme Court
+
+ wrote that “‘28 U.S.C. § 2255 will not be allowed to do service for an appeal . . . . For
+
+ this reason, nonconstitutional claims that could have been raised on appeal, but
+
+ were not, may not be asserted in collateral proceedings.’” Coley, 336 F. Appx. at 935
+
+ (quoting Stone, 428 U.S. at 478 n.10).        The Coley Court did not view Begay as
+
+ addressing a constitutional issue, only an interpretation of the application of a
+
+ Sentencing Guideline provision. Id. at 936. Furthermore, the Eleventh Circuit
+
+ observed that if the defendant believed his career offender status was improper
+
+ under the guidelines “that claim could have been made on direct appeal—just as
+
+ Begay and Archer later did.”3 Id. The Coley Court affirmed the denial of the § 2255
+
+ petition “[b]ecause his status as a career offender is a non-constitutional issue that
+
+ Coley could have raised on direct appeal” and therefore “it is not cognizable on
+
+ collateral review under § 2255.” Id.
+
+        Other than Narvaez and Coley, there is limited caselaw as to whether Begay
+
+ and Chambers should be applied retroactively.          In July 2012, the Sixth Circuit
+
+ addressed a defendant who had received an enhanced sentence under the ACCA
+
+ that he could not have statutorily received for his original crime. Kirk v. United
+
+ States, No. 11-3337, 2012 U.S. App. LEXIS 15822, at *2 (6th Cir. Jul. 27, 2012)
+
+ (addressing defendant sentenced to 190 months under the ACCA and the
+
+
+ 3      In referring to Archer, the Eleventh Circuit was alluding to an Eleventh Circuit case
+ applying Begay. See United States v. Archer, 531 F.3d 1347 (11th Cir. 2008).
+
+                                             13
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 14 of 32          PageID #: 2015
+
+
+
+ unenhanced statutory maximum was 120 months).              In Kirk, the Government
+
+ conceded on appeal that the defendant had only two qualifying ACCA predicates
+
+ and urged the appellate court to remand the case for the imposition of a non-
+
+ enhanced sentence. Id. The Sixth Circuit had little difficulty concluding that the
+
+ erroneous classification represented a miscarriage of justice and that relief under 28
+
+ U.S.C. § 2255 was appropriate, effectively applying Begay retroactively. See id.
+
+       C.     Caselaw After Johnson
+
+       As the First Circuit pointed out in Turner, the Supreme Court “has not yet
+
+ held that Johnson is retroactive.” Turner, 2012 U.S. App. LEXIS 23319, at *23-24.
+
+ Whether Johnson is retroactive is more complicated than whether Begay and
+
+ Chambers are retroactive―in part because Begay and Chambers were decided before
+
+ Johnson, it is more difficult to argue that Johnson announced new law.
+
+       Although not cited by the parties, the Court has located two circuit cases in
+
+ which the Government conceded that Johnson is retroactive. In Rozier v. United
+
+ States, No. 11-13557, 2012 U.S. App. LEXIS 24129 (11th Cir. Nov. 21, 2012), the
+
+ Circuit wrote that “[t]he government concedes, and we take it as a given, that the
+
+ Supreme Court’s Johnson decision is retroactively applicable.” Id. at *8.          In
+
+ Meirovitz v. United States, 688 F.3d 369 (8th Cir. 2012), Judge Bright noted in
+
+ concurrence that “the government concedes that Johnson states a new rule with
+
+ retroactive effect.” Id. at 372.
+
+       The Government cites the opinions of several district courts that have ruled
+
+ Johnson is not retroactive.        In Crawford v. United States, Nos. 8:11-cv-1866-T-
+
+
+
+                                             14
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 15 of 32         PageID #: 2016
+
+
+
+ 30TGW, 8:07-cr-454-T-30TGW, 2011 U.S. Dist. LEXIS 94291 (M.D. Fl. Aug. 23,
+
+ 2011), a district court concluded that the contention that Johnson is retroactive
+
+ “lacks merit.” Id. at *5. Judge Moody noted that “Johnson includes no statement
+
+ from the Supreme Court that the decision applies retroactively to cases on collateral
+
+ review” and he noted that “[n]o binding Eleventh Circuit decision requires
+
+ retroactive application of Johnson to Petitioner’s section 2255 motion.” Id.
+
+ Although helpful, the Court notes that the district court in Crawford was
+
+ addressing whether the petitioner’s motion was timely under 28 U.S.C. § 2255(f)(3),
+
+ which provides that the one-year period of limitation applies from “the date on
+
+ which the right asserted was initially recognized by the Supreme Court, if that right
+
+ has been newly recognized by the Supreme Court and made retroactively applicable
+
+ to cases on collateral review.” Id. at *4 (quoting 28 U.S.C. § 2255(f)). The Crawford
+
+ Court directed its analysis to whether the petitioner had met this difficult statutory
+
+ hurdle, and here, Mr. Damon filed his § 2255 petition while his direct appeal was
+
+ still pending so § 2255(f)(3) does not apply. Other district courts have split on the
+
+ issue of retroactivity. Compare Brackett v. United States, Nos. 3:11-cv-30, 3:08-cr-
+
+ 56-2, 2012 U.S. Dist. LEXIS 78883, at *21-22 (N.D. W.Va. Apr. 16, 2012)
+
+ (concluding that Johnson did not announce new law and was not retroactive), with
+
+ Reese v. Haynes, No. CV211-001, 2011 U.S. Dist. LEXIS 93996, at *7 n.3 (S.D. Ga.
+
+ Jun. 27, 2011) (concluding that Johnson is retroactive).
+
+
+
+
+                                          15
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 16 of 32        PageID #: 2017
+
+
+
+       D.     New or Old Law and Procedural Default
+
+       Mr. Damon concedes that because he failed to advance the pending issue on
+
+ direct appeal, he is subject to procedural default. Def.’s Reply at 4 (“He does not
+
+ dispute that he procedurally defaulted this claim. He also maintains that there are
+
+ exceptions to the procedural default rule that would allow this Court to provide him
+
+ a remedy”). The Supreme Court has explained that the procedural default rule “is
+
+ neither a statutory nor a constitutional requirement, but it is a doctrine adhered to
+
+ by the courts to conserve judicial resources and to respect the law’s important
+
+ interest in the finality of judgments.” Massaro v. United States, 538 U.S. 500, 504
+
+ (2003). To avoid procedural default, Mr. Damon must demonstrate either cause for
+
+ the waiver and actual prejudice, Reed v. Farley, 512 U.S. 339, 354 (1994), or a
+
+ constitutional violation that has probably resulted in the conviction of one who is
+
+ actually innocent. Murray v. Carrier, 477 U.S. 478, 496 (1986).
+
+       “When a decision of [the Supreme] Court results in a ‘new rule,’ that rule
+
+ applies to all criminal cases still pending under direct review.”          Schiro v.
+
+ Summerlin, 542 U.S. 348, 351 (2004). “As to convictions that are already final,
+
+ however, the rule applies only in limited circumstances.” Id. “New substantive
+
+ rules generally apply retroactively. . . . New rules of procedure, on the other hand,
+
+ generally do not apply retroactively.” Id. at 351-52 (emphasis in original).   In the
+
+ context of a § 2255 petition, “new” means something specific. In Bousley v. United
+
+ States, 523 U.S. 614 (1998), the Supreme Court required that to be new a claim
+
+
+
+
+                                          16
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 17 of 32           PageID #: 2018
+
+
+
+ must be “‘so novel that its legal basis is not reasonably available to counsel.’” Id. at
+
+ 622 (quoting Reed v. Ross, 468 U.S. 1, 16 (1984)).
+
+       Applying this definition, the Court concludes that Johnson does not fit in the
+
+ “new” category. The Court sentenced Mr. Damon on May 9, 2009. It is true that
+
+ the Supreme Court decided Johnson on March 2, 2010 after Mr. Damon’s
+
+ sentencing and appeal were final and at that time the controlling precedent in the
+
+ First Circuit was that a conviction for assault and battery under Massachusetts law
+
+ was a predicate conviction for a crime of violence under the United States
+
+ Sentencing Guidelines. See United States v. Estevez, 419 F.3d 77, 82 (1st Cir. 2005);
+
+ United States v. Santos, 363 F.3d 19, 22 (1st Cir. 2004); Untied States v. Mangos,
+
+ 134 F.3d 460, 464 (1st Cir. 1998). However, in Johnson, the Supreme Court applied
+
+ the same modified categorical analytic approach it announced in Taylor v. United
+
+ States, 495 U.S. 575 (1990) and reiterated in Shepard v. United States, 544 U.S. 13
+
+ (2005), an approach that by 2009 was fully integrated into the law. Johnson, 130 S.
+
+ Ct. at 1273. In fact, in United States v. Giggey, 551 F.3d 27 (1st Cir. 2008), before
+
+ Mr. Damon was sentenced, the First Circuit issued an en banc decision in which it
+
+ applied the modified categorical analysis in Taylor, Shepard, and Begay to whether
+
+ a Massachusetts conviction for burglary constituted a crime of violence under the
+
+ career offender provision. Id. at 38-41. It is a short analytic step to apply the
+
+ Giggey analysis of the Massachusetts burglary statute to the Massachusetts assault
+
+ and battery statute.
+
+
+
+
+                                           17
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 18 of 32        PageID #: 2019
+
+
+
+       From the Court’s perspective, the Taylor/Shepard line of cases, which had
+
+ been made applicable to an analogous Massachusetts criminal statute, presented an
+
+ obvious argument that should have been raised at Mr. Damon’s sentencing. As the
+
+ First Circuit recently wrote, “[a]llowing the defendant to raise a new argument in a
+
+ habeas petition when he could (and should) have raised it either at his original
+
+ sentencing or on direct review or both would undermine the prudential goals of the
+
+ law of the case doctrine.” United States v. Matthews, 643 F.3d 9, 15 (1st Cir. 2011).
+
+ The Court concludes that Mr. Damon’s Johnson claim is procedurally defaulted.
+
+       E.      “Actual Innocence” and Procedural Default
+
+       Even if he could have and should have raised the Johnson issue at sentencing
+
+ or direct appeal, the law’s bar bends if Mr. Damon demonstrates “a constitutional
+
+ violation [that] has probably resulted in the conviction of one who is actually
+
+ innocent.” Murray v. Carrier, 477 U.S. 478, 496 (1986). In his motion, Mr. Damon
+
+ asserts that the Court should allow the § 2255 petition because he is “actually
+
+ innocent” of the sentence enhancement that was imposed. Def.’s Mem. at 9. In
+
+ support, he cites a Fourth Circuit case, United States v. Maybeck, 23 F.3d 888 (4th
+
+ Cir. 1993), in which the appellate court held:
+
+       Except for the obvious difference in the severity of the sentences, we
+       see little difference between holding that a defendant can be innocent
+       of the acts required to enhance a sentence in a death case and applying
+       a parallel rationale in non-capital cases. . . . a defendant in either a
+       capital or noncapital case would, unless excepted from the cause and
+       prejudice requirement suffer the same general consequence (an
+       enhanced sentence) from being held responsible for an act of which he
+       or she is actually innocent.
+
+ Id. at 893.
+
+                                           18
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 19 of 32          PageID #: 2020
+
+
+
+       Despite Maybeck, it is by no means clear that the actual innocence of a
+
+ sentence enhancement applies to a non-capital case.          The First Circuit has not
+
+ spoken on this issue and other circuits are split. Spence v. Superintendent, Great
+
+ Meadow Corr. Facility, 219 F.3d 162, 171 (2d Cir. 2000) (holding that the actual
+
+ innocence applies to a sentencing enhancement in a non-capital sentence); Embrey
+
+ v. Hershberger, 131 F.3d 739, 740 (8th Cir. 1997) (en banc) (concluding that the
+
+ actual innocence sentencing exception applies “only to the sentencing phase of death
+
+ cases”); United States v. Richards, 5 F.3d 1369, 1371 (10th Cir. 1993) (“A person
+
+ cannot be actually innocent of a noncapital sentence . . . .”).
+
+       To resolve this issue, the Court need not decide whether the actual innocence
+
+ exception applies to generic non-capital sentences. As the Eleventh Circuit pointed
+
+ out in McKay v. United States, 657 F.3d 1190 (11th Cir. 2011), for this purpose the
+
+ Supreme Court defines the term “‘actual innocence’” as “‘factual innocence, not mere
+
+ legal insufficiency.’” Id. at 1197 (quoting Bousley, 523 U.S. at 623). “[F]or the
+
+ actual innocence exception to apply in the noncapital sentencing context, a movant
+
+ must show that he is factually innocent of the conduct or the underlying crime that
+
+ serves as the predicate for the enhanced sentence.” Id. at 1198-99.
+
+       Here, Mr. Damon makes no claim that he is factually innocent of the
+
+ underlying crime of assault and battery. See Def.’s Mem. at 7. According to the
+
+ PSR, he pleaded guilty to the charge on January 12, 2006 and there is no suggestion
+
+ he was not validly convicted. PSR ¶ 30. Instead, he maintains that even though he
+
+ assaulted his mother, this Court should not have considered this conviction as a
+
+
+
+                                            19
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 20 of 32        PageID #: 2021
+
+
+
+ career offender predicate because he could have perpetrated only an “offensive
+
+ touching[],” not a “harmful battery.” See Holloway, 630 F.3d at 260; Def.’s Mem. at
+
+ 5-7.
+
+        To sustain an “actual innocence” claim in a capital context, however, a
+
+ petitioner “must show by clear and convincing evidence that, but for a constitutional
+
+ error, no reasonable juror would have found [him] eligible for the death penalty.”
+
+ Sawyer v. Whitley, 505 U.S. 333, 336 (1992).   The Court assumes that, if it applies
+
+ at all, the standard for an actual innocence claim in a non-capital sentencing
+
+ enhancement would be no stricter than for a capital enhancement.          Here, Mr.
+
+ Damon’s contention that he is actually innocent of an assault and battery that
+
+ would qualify as a career offender predicate is solely based on an asserted legal
+
+ insufficiency, not on actual factual innocence of the enhancement. Def.’s Mem. at 7
+
+ (“Here, the challenge Mr. Damon makes is not to the specific facts of his prior
+
+ conviction, which cannot be taken into account in determining whether his prior
+
+ conviction qualifies as an enhancing predicate. Rather it is an entire category of
+
+ defendants that the First Circuit has declared to not fall within the range of those
+
+ considered to be crimes of violence”) (emphasis in Defendant’s memorandum).
+
+        In other words, on collateral review, a defendant—like Mr. Damon—who
+
+ wishes to challenge a sentencing enhancement as a miscarriage of justice must do
+
+ more than simply put the Government to its proof. In Bousley, the United States
+
+ Supreme Court noted that in this context “‘actual innocence’ means factual
+
+ innocence, not mere legal insufficiency.” Bousley, 523 U.S. at 624; Gaskins v. Duval,
+
+
+
+                                          20
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 21 of 32          PageID #: 2022
+
+
+
+ 640 F.3d 443, 444 (1st Cir. 2011). As the Eleventh Circuit pointed out, even in the
+
+ Second and Fourth Circuits, a “claim of mere legal innocence of a sentence would
+
+ not win the day in either of those circuits.” McKay, 657 F.3d at 1199.
+
+       Here, Mr. Damon concedes that he “finds himself in the unenviable position
+
+ of having denied that he used violence in the commission of the prior A&B
+
+ conviction in Massachusetts.” Def.’s Objection at 4. He never says that he did not
+
+ grab his mother by the throat and push her against the wall, which is what the PSR
+
+ says he did. PSR ¶ 30. In fact, the police report expands the description of Mr.
+
+ Damon’s actions, revealing that his mother told the police that after getting in a
+
+ verbal argument with her, Mr. Damon became physically violent, grabbed her by
+
+ the throat, pushed her up against a wall, continually pushed her, while screaming
+
+ at her that he was “untouchable.” Gov’t’s Mot. Attach. 1 at 3 (Brockton Police Dep’t
+
+ Report Dec. 8, 2005). The police officer observed Mr. Damon’s mother’s neck to be
+
+ red and discolored and he requested an arrest warrant issued for Mr. Damon. Id.
+
+       Mr. Damon is not so unwise as to represent to the Court that he did not do
+
+ what is stated in the police report. Instead, he asserts that whether he actually did
+
+ so does not matter. Def.’s Objs. at 4-5. In the context of a § 2255 challenge to a
+
+ sentencing enhancement, however, it does matter.          As the Eleventh Circuit
+
+ observed in McKay, “[n]o circuit court has held that the actual innocence exception
+
+ is available for claims of purely legal innocence.” McKay, 657 F.3d at 1999.
+
+       If actual innocence applies to his non-capital sentencing enhancement, the
+
+ Court concludes that Mr. Damon has not demonstrated that he is actually innocent
+
+
+
+                                          21
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 22 of 32         PageID #: 2023
+
+
+
+ of the sentencing enhancement under United States Sentencing Guideline §
+
+ 2K2.1(a)(2).
+
+       F.       Complete Miscarriage of Justice
+
+       To prevail on the § 2255 petition, Mr. Damon must demonstrate that his
+
+ sentence “‘(1) was imposed in violation of the Constitution, or (2) was imposed by a
+
+ court that lacked jurisdiction, or (3) exceeded the statutory maximum, or (4) was
+
+ otherwise subject to collateral attack.’” Moreno-Morales v. United States, 334 F.3d
+
+ 140, 148 (1st Cir. 2003) (quoting David v. United States, 134 F.3d 470, 474 (1st Cir.
+
+ 1998)). As Mr. Damon does not argue that this Court lacked jurisdiction or that his
+
+ sentence exceeded a statutory maximum, he is left with a claim that his sentence is
+
+ unconstitutional or is “otherwise subject to collateral attack.” See id. Mr. Damon’s
+
+ constitutional and collateral attack arguments are two sides of the same coin: that
+
+ he is actually innocent of the sentencing enhancement. See Def.’s Opp’n at 4-8.
+
+       The constitutional attack is self-explanatory.     Turning to the “otherwise
+
+ subject” standard, under Hill v. United States, 368 U.S. 424 (1962), to prevail on his
+
+ demand for collateral review, Mr. Damon must demonstrate “a fundamental defect
+
+ which inherently results in a complete miscarriage of justice” or “an omission
+
+ inconsistent with the rudimentary demands of fair procedure.” Id. at 428; Knight v.
+
+ United States, 37 F.3d 769, 772 (1st Cir. 1994). As the First Circuit has stressed, to
+
+ meet this standard, the petitioner must not only establish error but also the error
+
+ must “‘present exceptional circumstances where the need for the remedy afforded by
+
+ the writ of habeas corpus is apparent’” and “[e]rrors warranting a reversal on direct
+
+
+
+                                          22
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 23 of 32                    PageID #: 2024
+
+
+
+ appeal will not necessarily support a collateral attack.” Knight, 37 F.3d at 772
+
+ (quoting Bowen v. Johnston, 306 U.S. 19, 27 (1939)).
+
+        Turning to Mr. Damon’s argument, citing Holloway, he contends that the
+
+ Government is unable to demonstrate, using a categorical approach, that the
+
+ January 12, 2006 Massachusetts conviction for assault and battery is a crime of
+
+ violence under United States Sentencing Guideline § 2K2.1(a)(2).                   In Holloway,
+
+ even after Johnson, the First Circuit did not reverse the district court sentence;
+
+ rather, it vacated the sentence and remanded to the sentencing court for
+
+ resentencing. Holloway, 630 F.3d at 262. Noting that the Government had not
+
+ presented Shepard evidence at the original sentencing, the First Circuit acceded to
+
+ the Government’s request that it be allowed to present such evidence at a
+
+ resentencing.4     Id.   In this case, the Government has not suggested that if a
+
+ resentencing were held, it could produce Shepard documents that would clarify
+
+ whether Mr. Damon’s assault and battery was harmful as opposed to reckless or
+
+ offensive or would fit within the residual clause. See Giggey, 551 F.3d at 40-41
+
+ (applying the categorical approach to U.S.S.G. § 4B1.2(a)’s residual clause). In fact,
+
+ the Government attached to its memorandum a sealed exhibit consisting of the
+
+ Brockton Police Department report of the incident, an exhibit that would not meet
+
+ Shepard standards. Gov’t’s Mem. Attach. 1.
+
+ 4      In Giggey, quoting Shepard, the First Circuit described the permissible documents under
+ Shepard: “For guilty pleas, the federal sentencing court may review the ‘charging document, written
+ plea agreement, transcript of plea colloquy, and any explicit factual finding by the trial judge to
+ which the defendant assented.’” Giggey, 551 F.3d at 40 n.8 (quoting Shepard, 544 U.S. at 16). Mr.
+ Damon was charged and pleaded guilty to assault and battery in the busy state district court in
+ Brockton, Massachusetts. PSR ¶ 30. It would be surprising if any of the Shepard-sanctioned
+ documents existed for this criminal case and, as the Court has noted, the Government has not
+ suggested they do.
+
+                                                 23
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 24 of 32           PageID #: 2025
+
+
+
+       Even if the Government could not establish that Mr. Damon’s assault and
+
+ battery was a crime of violence for purposes of United States Sentencing Guideline
+
+ § 2K2.1(a) and § 4B1.2, the next question is whether this error resulted in a
+
+ “complete miscarriage of justice.” In Narvaez, the Seventh Circuit readily concluded
+
+ that a misapplication of the career offender guideline which resulted in a Guideline
+
+ range of 151 to 188 months as opposed to 100 to 125 months and a sentence of 170
+
+ months constituted a “complete miscarriage of justice.” Narvaez, 674 F.3d at 624,
+
+ 628-29. The Seventh Circuit observed:
+
+       The imposition of the career offender status branded Mr. Narvaez as a
+       malefactor deserving of far greater punishment than that usually
+       meted out for an otherwise similarly situated individual who had
+       committed the same offense. It created a legal presumption that he
+       was to be treated differently from other offenders because he belonged
+       in a special category reserved for the violent and incorrigible.
+
+ Id. at 629. Similarly, in Torres-Rosario, the First Circuit determined that it would
+
+ be a miscarriage of justice on direct appeal to uphold the defendant’s 240-month
+
+ sentence and ACCA designation post-Holloway because Holloway would likely
+
+ result in a lower sentence of 110-137 months. 658 F.3d at 116, 116 n.3.
+
+       The issue is much closer here. Categorizing the January 12, 2006 conviction
+
+ as a crime of violence did not result in Mr. Damon’s categorization as a career
+
+ criminal. It did result in an enhanced sentencing range of seventy to eighty-seven
+
+ months as opposed to forty-six to fifty-seven months. Once that Guideline range
+
+ was established, the Court treated the range as advisory and sentenced Mr. Damon
+
+ to seventy months in accordance with 18 U.S.C. § 3553(a) factors, among which are
+
+ the history and characteristics of the defendant, the need to deter criminal conduct,
+
+                                          24
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 25 of 32           PageID #: 2026
+
+
+
+ and to protect the public from future crimes of the defendant.            18 U.S.C. §
+
+ 3553(a)(1), (2)(B)(C).
+
+       Significantly, if Mr. Damon were resentenced, the Court would apply the
+
+ same analysis. Once the new Guideline range was established, the Court would
+
+ start with the Guideline range and then turn to the § 3553(a) factors. During this
+
+ phase of the sentencing hearing, the Government would not be restricted to
+
+ Shepard documents to prove the facts underlying Mr. Damon’s assault and battery
+
+ conviction, and the police report would likely be admissible for this purpose. See
+
+ United States v. Figaro, 935 F.2d 4, 8 (1st Cir. 1991) (“[u]nlike the strict evidentiary
+
+ restrictions applicable at trial, the only evidentiary requirement at sentencing is
+
+ that the sentence be based on information which has ‘sufficient indicia of reliability
+
+ to support its accuracy’”) (quoting U.S.S.G. § 6A1.3); see also United States v.
+
+ Marsh, 561 F.3d 81, 88-87 (1st Cir. 2009) (affirming the district court judge’s
+
+ reliance on police reports to establish the facts underlying the defendant’s vacated
+
+ resisting arrest convictions during its 18 U.S.C. § 3553(a)(2)(C) assessment). If so,
+
+ the conduct underlying Mr. Damon’s assault and battery, namely pushing his
+
+ mother against a wall and choking her, would likely be before the Court for its §
+
+ 3553(a) consideration.
+
+       To place this assault and battery into perspective for Mr. Damon, his
+
+ January 12, 2006 conviction was the fourth conviction for assaulting his mother.
+
+ On February 15, 2000, when he was fourteen, he pushed his mother against a wall
+
+ and threw a hat in her face, resulting in a conviction on April 10, 2000. PSR ¶ 22.
+
+
+
+                                           25
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 26 of 32          PageID #: 2027
+
+
+
+ On December 3, 2001, when he was fifteen, he committed two assaults against his
+
+ mother, one in which he grabbed her by the shoulder and raised his hand to her and
+
+ the other in which he pushed her. PSR ¶¶ 27-28.
+
+          Mr. Damon’s criminal history was not limited to periodic assaults against his
+
+ mother. As a juvenile, he had been also adjudicated for another assault, a breaking
+
+ and entering, a criminal threatening, and, as an adult, in addition to the January
+
+ 12, 2006 assault and battery conviction, he had a conviction for possession with the
+
+ intent to distribute marijuana. PSR ¶¶ 23-25, 29. Only twenty-three years old, Mr.
+
+ Damon had an unusual number of dismissed charges: eleven charges had been
+
+ dismissed, including eight assault and batteries or criminal threatening. PSR ¶¶
+
+ 34-43.     One of those dismissed charges involved a criminal threatening of his
+
+ mother. PSR ¶ 38.
+
+          Furthermore, at the time of sentencing, Mr. Damon was subject to eight
+
+ pending criminal charges in Massachusetts, including (1) distribution of crack
+
+ cocaine, (2) drug violation near a school or park, (3) conspiracy to violate drug law,
+
+ (4) trespassing, (5) assault and battery, (6) aggravated assault and battery, assault
+
+ and battery with a dangerous weapon, and conspiracy, (7) assault and battery with
+
+ a dangerous weapon, and (8) assault and battery. PSR ¶¶ 46-53. The last charge
+
+ also is alleged to have involved his mother as the victim; the PSR states that he
+
+ punched his mother in her stomach, groin and head. PSR ¶ 53.
+
+          If Mr. Damon’s January 12, 2006 conviction had not placed him in base
+
+ offense level twenty-four and, after upward and downward adjustments, a resulting
+
+
+
+                                            26
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 27 of 32        PageID #: 2028
+
+
+
+ Guideline range of seventy to eighty-seven months, the Court may well have sua
+
+ sponte considered whether his criminal history category of IV substantially
+
+ underrepresented the seriousness of his criminal history and his likelihood of
+
+ recidivism. See U.S.S.G. § 4A1.3(a)(1). An upward adjustment of only one criminal
+
+ history category would have resulted in Mr. Damon’s placement in a Guideline
+
+ range of forty-one to seventy-one months and an adjustment of two criminal history
+
+ categories a range of sixty-three to seventy-eight months.     Unlike Narvaez and
+
+ Torres-Rosario, where it was uncontested that the miscalculation substantially
+
+ spiked the defendant’s Guideline sentence, the Court’s miscalculation of Mr.
+
+ Damon’s range had the counterintuitive effect of mollifying its serious concerns
+
+ about his criminal history and in view of his Criminal History Category IV, the
+
+ Court did not consider an upward adjustment of his criminal history.
+
+       Furthermore, there is no evidence that the Court sentenced Mr. Damon based
+
+ on materially false or incorrect information as described in Townsend, United States
+
+ v. Gonzalez-Castillo, and United States v. Curran. Townsend, 334 U.S. at 740-41
+
+ (reversing the district court’s denial of a defendant’s § 2255 petition because the
+
+ court “sentenced [the defendant] on the basis of assumptions concerning his
+
+ criminal record which were materially untrue”―namely three larceny and theft
+
+ charges dismissed as against the defendant); Gonzalez-Castillo, 562 F.3d 80, 82-84
+
+ (1st Cir. 2009) (vacating a defendant’s 71-month sentence at the top of the guideline
+
+ range for violating 8 U.S.C. § 1326(a)(2) because the district court based the
+
+ defendant’s deterrent sentence on the “non-existent material fact” that he illegally
+
+
+
+                                          27
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 28 of 32         PageID #: 2029
+
+
+
+ entered the United States two times in a two year period); Curran, 926 F.2d 59, 60-
+
+ 61, 64 (1st Cir. 1991) (vacating the defendant’s sentence after learning that the
+
+ sentencing judge imposed a higher sentence than recommended by the Government
+
+ based upon letters from third parties, which were undisclosed to counsel until
+
+ sentencing, urging him to impose a harsh sentence on the defendant).
+
+          Unlike Townsend, Gonzalez-Castillo, and Curran, Mr. Damon has provided
+
+ no evidence that the description of the maternal assault in the PSR and police
+
+ report is materially false or inaccurate. It is true that at the sentencing hearing,
+
+ through counsel, he cryptically objected to the description of the 2005 assault and
+
+ battery, not the fact of the conviction itself.    Sentencing Tr. 16:17-25.     As a
+
+ consequence of his objection and without further proof at the sentencing hearing,
+
+ the Court considered only the fact of conviction, not the circumstances underlying it.
+
+ The Court therefore imposed a sentence at the bottom of the sentencing guideline
+
+ range.
+
+          By contrast to a sentencing hearing, where the Government bears the burden
+
+ to demonstrate the accuracy of contested matters, Mr. Damon’s § 2255 petition
+
+ places him in a different position.      In this proceeding, Mr. Damon has not
+
+ illuminated the Court as to what is inaccurate about the police report’s description
+
+ of the 2005 maternal assault. If Mr. Damon presented the Court with his affidavit
+
+ containing a different version of the assault and battery, sworn statements of
+
+ witnesses disputing the PSR’s version, or other evidence that the description is
+
+ false, it would be another matter.     But there is no suggestion in Mr. Damon’s
+
+
+
+                                          28
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 29 of 32         PageID #: 2030
+
+
+
+ pending petition that the actual facts underlying the 2005 maternal assault are
+
+ false, only that he has a legal defense to how the conviction should be considered for
+
+ guideline purposes. Moreover, even if the Court were to assume that the facts
+
+ underlying the 2005 maternal assault are inaccurate, the fact remains that Mr.
+
+ Damon at age twenty was convicted of assaulting and battering his own mother, his
+
+ third such juvenile or adult conviction for doing so.
+
+       The Court cannot know what sentence it would impose if Mr. Damon were to
+
+ reappear for resentencing. In the unusual circumstances of this case, Mr. Damon’s
+
+ criminal history confirmed an unusual streak of violent criminality, including
+
+ multiple assaults against his mother, and the Court concludes that a sentence of
+
+ seventy months, even though based on a miscalculation of the Guidelines, does not
+
+ amount to a complete miscarriage of justice.
+
+ IV.   SUMMARY
+
+       The Court reviewed and considered the Magistrate Judge’s Recommended
+
+ Decision, together with the entire record, and has made a de novo determination of
+
+ all matters adjudicated therein.      In that regard, the Court concurs with the
+
+ recommendations of the Magistrate Judge in her Recommended Decision and for
+
+ the additional reasons herein, the Court determines that no additional proceeding is
+
+ necessary. In sum, the Court concludes that Mr. Damon is procedurally defaulted
+
+ from asserting this claim because he could and should have raised it either before
+
+ this Court or on direct appeal, that Mr. Damon has failed to demonstrate that he is
+
+ actually innocent of having previously committed a crime of violence under U.S.S.G.
+
+
+
+                                           29
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 30 of 32           PageID #: 2031
+
+
+
+ § 2K2.1(a)(2), and that his sentence of seventy months does not represent a
+
+ complete miscarriage of justice.
+
+ V.    CERTIFICATE OF APPEALABILITY
+
+       Under 28 U.S.C. § 2253(c)(1)(B), the Court of Appeals may review a final
+
+ order in a proceeding under § 2255 if a circuit justice or judge issues a certificate of
+
+ appealability (COA). See 28 U.S.C. § 2253(c). “To obtain a COA under § 2253(c), a
+
+ habeas prisoner must make a substantial showing of the denial of a constitutional
+
+ right . . .” See Slack v. McDaniel, 529 U.S. 473, 483-84 (2000). The petitioner’s
+
+ burden to demonstrate suitability for a certificate depends on whether the district
+
+ court dismissed the petitioner’s § 2255 claim on the merits or procedural grounds.
+
+ Id. at 484.
+
+       First, where a district court has rejected a petitioner’s constitutional claim on
+
+ the merits, a certificate should only be issued if the petitioner can “demonstrate
+
+ that reasonable jurists would find the district court’s assessment of the
+
+ constitutional claims debatable or wrong.” Id.; see Miller-El v. Cockrell, 537 U.S.
+
+ 322, 338 (2003).    If, on the other hand, the Court denies a defendant’s § 2255
+
+ petition on procedural grounds, a certificate should be issued as long as the
+
+ petitioner shows “(1) the soundness of the procedural ruling is debatable, and (2)
+
+ the constitutional claim is also colorable.” Mateo v. United States, 310 F.3d 39, 40
+
+ (1st Cir. 2002); see Slack, 529 U.S. at 484. The Slack Court observed that “[w]here
+
+ a plain procedural bar is present and the district court is correct to invoke it to
+
+ dispose of the case, a reasonable jurist could not conclude either that the district
+
+
+
+                                           30
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 31 of 32           PageID #: 2032
+
+
+
+ court erred in dismissing the petition or that the petitioner should be allowed to
+
+ proceed further.” Slack, 529 U.S. at 484.
+
+       Here, a “plain” procedural bar is not present. Instead, in this Court’s view,
+
+ Mr. Damon has raised five issues that merit consideration by the First Circuit: (1)
+
+ whether Mr. Damon’s claims are procedurally defaulted; (2) whether Johnson
+
+ applies retroactively; (3) whether a guideline miscalculation that results in a
+
+ sentence within the proper statutory range satisfies the complete miscarriage of
+
+ justice standard; (4) whether a claim of actual innocence may be based on a legal as
+
+ opposed the factual error; and (5) whether in the circumstances of this case a
+
+ seventy-month sentence represents a complete miscarriage of justice.             Under
+
+ Mateo’s two-factor test, (1) reasonable jurists could debate the Court’s procedural
+
+ rulings in this case and (2) reasonable jurists could decide that issues (1)-(5) present
+
+ colorable constitutional claims given that the outcome of these issues implicates due
+
+ process concerns. See 310 F.3d at 40. Like the district court judge in United States
+
+ v. Narvaez, Nos. 09-cv-222-bbc, 03-cr-81-jcs, 2009 U.S. Dist. LEXIS 67189 (W.D.
+
+ Wis. July 31, 2009), although the Court believes it is “proper to deny [Mr. Damon’s]
+
+ § 2255 motion, [it] cannot say that a reasonable judge would not make a different
+
+ decision.” Id. at *3. The Court grants Mr. Damon’s certificate of appealability.
+
+ VI.   CONCLUSION
+
+       1.     It is therefore ORDERED that the Recommended Decision of the
+              Magistrate Judge (ECF No. 332) be and hereby is AFFIRMED.
+
+       2.     It is further ORDERED that James Damon’s Motion to Vacate,
+              Set Aside, or Correct Sentence (ECF No. 289) be and hereby is
+              DENIED.
+
+                                             31
+Case 1:08-cr-00157-JAW Document 338 Filed 12/13/12 Page 32 of 32   PageID #: 2033
+
+
+
+       3.    It is further ORDERED that James Damon’s Motion for
+             Certificate of Appealability be and hereby is GRANTED.
+
+       SO ORDERED.
+
+
+                                         /s/ John A. Woodcock, Jr.
+                                         JOHN A. WOODCOCK, JR.
+                                         UNITED STATES DISTRICT JUDGE
+
+
+ Dated this 13th day of December, 2012
+
+
+
+
+                                          32
+

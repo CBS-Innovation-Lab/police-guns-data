@@ -1,0 +1,618 @@
+Case 2:11-cr-00216-DBH Document 77 Filed 11/03/16 Page 1 of 12                    PageID #: 175
+
+
+
+                          UNITED STATES DISTRICT COURT
+
+                                   DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA,                    )
+                                             )
+                                             )
+       V.                                    )      CRIMINAL NO. 2:11-CR-216-DBH
+                                             )       CIVIL NO. 2:16-CV-346-DBH
+CHARLES H. CASEY, JR.                        )
+                                             )
+               DEFENDANT/PETITIONER          )
+
+
+             DECISION AND ORDER ON PETITIONER’S MOTION TO
+                CORRECT SENTENCE UNDER 28 U.S.C. § 2255
+
+
+       In 2012, Charles H. Casey, Jr. pleaded guilty to being a felon in possession
+
+of a firearm. 18 U.S.C. § 922(g)(1). At his sentencing, I determined that Casey
+
+had been convicted of three qualifying prior crimes of violence and accordingly
+
+sentenced him to 180 months under the Armed Career Criminal Act (ACCA), 18
+
+U.S.C. § 924(e)(1).      Judgment at 1–2 (ECF. No. 65).              Without Armed Career
+
+Criminal status, Casey’s maximum sentence would have been 10 years.                           18
+
+U.S.C. § 924(a)(2).1
+
+       Following the Supreme Court’s decision in Johnson v. United States, 135
+
+S. Ct. 2551 (2015), holding the ACCA’s “residual” clause unconstitutional, Casey
+
+filed a motion to correct his sentence under 28 U.S.C. § 2255. Def.’s Mot. to
+
+Correct Sentence (ECF No. 68). In response, the government argued that Casey
+
+was procedurally barred from his Johnson claim and that his prior Maine
+
+
+1I disagree with the government’s assertion that, even without Armed Career Criminal status,
+Casey could have been sentenced to 180 months. Gov’t Resp. in Opp’n to Def.’s Mot. to Correct
+Sentence at 6 (ECF No. 72). Casey pleaded guilty to and was sentenced on a single count of
+being a felon in possession of a firearm, 18 U.S.C. § 922(g)(1). That crime has a statutory cap of
+120 months imprisonment, 18 U.S.C. § 924(a)(2), unless he was an Armed Career Criminal.
+Case 2:11-cr-00216-DBH Document 77 Filed 11/03/16 Page 2 of 12                  PageID #: 176
+
+
+
+burglary convictions, see 17-A M.R.S.A. § 401, still qualify as predicates under
+
+the ACCA’s “enumerated” clause. Gov’t Resp. in Opp’n to Def.’s Mot. to Correct
+
+Sentence (ECF No. 72).
+
+       Because extant First Circuit caselaw holds that Casey’s prior Maine
+
+burglary convictions remain qualifying enumerated violent felonies even after
+
+Johnson’s invalidation of the residual clause, he is unable to show actual
+
+prejudice. I therefore DENY Casey’s motion to correct his sentence.
+
+                                          ANALYSIS
+
+(1)    Procedural Default
+
+       The government argues that Casey is not entitled to relief because he is
+
+procedurally barred from making his Johnson claim.                   It is well-settled that
+
+“[c]ollateral relief in a § 2255 proceeding is generally unavailable if the petitioner
+
+has procedurally defaulted his claim by fail[ing] to raise [the] claim in a timely
+
+manner at trial or on [direct] appeal.” Bucci v. United States, 662 F.3d 18, 27
+
+(1st Cir. 2011) (alteration in original) (internal quotation marks omitted). At his
+
+sentencing, Casey did not argue that the residual clause of the ACCA was
+
+unconstitutionally void for vagueness, nor did he appeal his sentence. But I can
+
+excuse Casey’s procedural default if he “show[s] both (1) ‘cause’ for having
+
+procedurally defaulted his claim; and (2) ‘actual prejudice’ resulting from the
+
+alleged error.” Bucci, 662 F.3d at 27 (quoting United States v. Frady, 456 U.S.
+
+152, 167–68 (1982)).2
+
+
+2 I can also excuse Casey’s procedural default if he shows “actual innocence.” Bousley v. United
+States, 523 U.S. 614, 623 (1998). To establish “actual innocence,” Casey must show “factual
+innocence, not mere legal insufficiency.” Id. Because Casey’s prior Maine burglary convictions
+remain qualifying felonies under the ACCA, however, I reject his argument that he is actually
+
+                                                                                              2
+Case 2:11-cr-00216-DBH Document 77 Filed 11/03/16 Page 3 of 12                        PageID #: 177
+
+
+
+       (i)     Cause
+
+       According to the Supreme Court, cause is satisfied “where a constitutional
+
+claim is so novel that its legal basis is not reasonably available to counsel.” Reed
+
+v. Ross, 468 U.S. 1, 16 (1984).3 The Court has identified three such instances
+
+of novelty: (1) “a decision of this Court may explicitly overrule one of our
+
+precedents”; (2) “a decision may overtur[n] a longstanding and widespread
+
+practice to which this Court has not spoken, but which a near-unanimous body
+
+of lower court authority has expressly approved”; and (3) “a decision may
+
+disapprov[e] a practice this Court arguably has sanctioned in prior cases.” 468
+
+U.S. at 17 (alteration in original) (internal quotation marks omitted). The Court
+
+added that “[b]y definition, when a case falling into one of the first two categories
+
+is given retroactive application, there will almost certainly have been no
+
+reasonable basis upon which an attorney previously could have urged a state
+
+court4 to adopt the position that this Court has ultimately adopted.” Id. In such
+
+instances, the failure of the defendant’s attorney to raise the claim “is sufficiently
+
+excusable to satisfy the cause requirement.” Id.
+
+
+
+
+innocent of being an Armed Career Criminal, see Def.’s Reply on Issue of Procedural Default at
+10–12 (ECF No. 76).
+3 Although Reed concerned 28 U.S.C. § 2254, the First Circuit has ruled that “[t]here is no reason
+
+to think that the definition of ‘cause’ will vary between” section 2254 and section 2255. Simpson
+v. Matesanz, 175 F.3d 200, 211 (1st Cir. 1999).
+4 The First Circuit uses the Reed standard for defendants sentenced in a federal district court as
+
+well. See, e.g., Berthoff v. United States, 308 F.3d 124, 128 & n.3 (1st Cir. 2002) (determining
+that a petitioner who was seeking relief under section 2255 had not shown cause because his
+claim was not “novel” to a federal district court under the Reed standard); see also Davis v. United
+States, 417 U.S. 333, 344 (1974) (“No microscopic reading of § 2255 can escape either the clear
+and simple language of § 2254 authorizing habeas corpus relief ‘on the ground that (the prisoner)
+is in custody in violation of the . . . laws . . . of the United States' or the unambiguous legislative
+history showing that § 2255 was intended to mirror § 2254 in operative effect.” (alteration in
+original)); Simpson, 175 F.3d at 210–12 (1st Cir. 1999).
+                                                                                                     3
+Case 2:11-cr-00216-DBH Document 77 Filed 11/03/16 Page 4 of 12                        PageID #: 178
+
+
+
+       Casey argues that his case involves a straightforward application of Reed’s
+
+first prong because in Johnson, 135 S. Ct. at 2563, the Supreme Court held that
+
+the residual clause of the ACCA violated due process, overruling its prior
+
+decisions in James v. United States, 550 U.S. 192 (2007), and Sykes v. United
+
+States, 564 U.S. 1 (2011). The Court subsequently ruled in Welch v. United
+
+States, 136 S. Ct. 1257, 1268 (2016), that Johnson announced a new
+
+substantive rule that applied retroactively to cases on collateral review.
+
+       The government contends, however, that Casey’s argument regarding the
+
+unconstitutional vagueness of the residual clause was not “novel” at the time of
+
+his sentencing. Gov’t Resp. in Opp’n to Def.’s Mot. to Correct Sentence at 4–5
+
+(ECF No. 72). In support, the government cites the declaration in Bousley v.
+
+United States that “futility cannot constitute cause if it means simply that a
+
+claim was ‘unacceptable to that particular court at that particular time.’” 523
+
+U.S. 614, 623 (1998) (quoting Engle v. Isaac, 456 U.S. 107, 130 n.35 (1982)).
+
+But Bousley did not deal with a case where the Supreme Court overruled its own
+
+precedents.5 Rather, the Court recognized that, in the absence of controlling
+
+Supreme Court precedent “at the time of [Bousley]'s plea, the Federal Reporters
+
+were replete with cases involving challenges to the notion that ‘use’ is
+
+
+
+5 In Bousley, the petitioner pleaded guilty to “using” a firearm in violation of 18 U.S.C. § 924(c)(1).
+Bousley, 523 U.S. at 616. Five years later, while his appeal was pending, the Supreme Court
+decided in Bailey v. United States, 516 U.S. 137, 144 (1995), that section 924(c)(1)'s “use” prong
+required the government to show “active employment of the firearm,” not “mere possession.”
+Bousley consequently sought collateral relief under 28 U.S.C. § 2255, arguing that the legal basis
+to attack his guilty plea was not “reasonably available” at the time of his plea. But Bailey did
+not overrule precedent. See Bousley, 523 U.S. at 625 (Stevens, J., concurring in part and
+dissenting in part) (“This case does not raise any question concerning the possible retroactive
+application of a new rule of law, because our decision in Bailey v. United States did not change
+the law.” (citations omitted)).
+
+                                                                                                     4
+Case 2:11-cr-00216-DBH Document 77 Filed 11/03/16 Page 5 of 12                      PageID #: 179
+
+
+
+synonymous with mere ‘possession.’” Bousley, 523 U.S. at 622. Thus, even
+
+though Bousley’s sentencing argument may have been “unacceptable to that
+
+particular court at that particular time,” he could not establish cause for having
+
+failed to raise it, as his argument did not match any of the three Reed criteria for
+
+novelty.6 That is not this case.
+
+       The government correctly points out that prior to Johnson, Justice Scalia
+
+had on multiple occasions in dissent suggested that the Court hold the residual
+
+clause void for vagueness. Derby v. United States, 131 S. Ct. 2858, 2859–60
+
+(2011) (Scalia, J., dissenting from denial of certiorari); Sykes v. United States,
+
+564 U.S. 1, 28 (2011) (Scalia, J., dissenting), overruled by Johnson, 135 S. Ct.
+
+2551 (2015); James v. United States, 550 U.S. 192, 230–31 (2007) (Scalia, J.,
+
+dissenting), overruled by Johnson, 135 S. Ct. 2551 (2015). The government
+
+asserts that because Justice Scalia had explicitly raised the argument that the
+
+residual clause was unconstitutionally vague, the argument was not “novel.”
+
+       This argument, however, overlooks the distinction between Reed and
+
+Bousley. In Reed, the Supreme Court plainly stated that a claim is “novel” when
+
+the Court “explicitly overrule[s] one of our precedents.”                  468 U.S. at 17.        In
+
+Bousley, on the other hand, the Supreme Court ruled that a claim is not “novel”
+
+
+6 Bousley controlled the First Circuit’s ruling in Brache v. United States, 165 F.3d 99 (1st Cir.
+1999). In Brache, the petitioner did not object to an overbroad jury instruction regarding the
+“use” of a firearm under section 924(c)(1) before the Supreme Court adopted a narrower definition
+in Bailey. Similar to Bousley, Brache argued that he had shown cause because there was “no
+reasonable basis in existing law” to challenge the broad definition of “use” in the jury instruction.
+Brache, 165 F.3d at 102 (internal quotation marks omitted). The First Circuit noted that “the
+instruction was at the time correct under First Circuit precedent,” and therefore could not have
+been challenged successfully. Nevertheless, the court concluded that Bousley foreclosed a
+showing of cause for Brache’s failure to challenge the instruction, quoting the Bousley language
+that “the Federal Reporters were replete with cases involving challenges to the notion that ‘use’
+is synonymous with mere ‘possession’ at the time of the . . . plea.” Brache, 165 F.3d at 102.
+
+                                                                                                   5
+Case 2:11-cr-00216-DBH Document 77 Filed 11/03/16 Page 6 of 12                     PageID #: 180
+
+
+
+when it has been raised in the lower courts but not yet decided by the Supreme
+
+Court.7 To be sure, in the wake of Bousley, “the First Circuit has made it clear
+
+that the fact that there are First Circuit precedents that hold against the movant's
+
+argument does not suffice to establish futility.” United States v. Dean, 231 F.
+
+Supp. 2d 382, 386 (D. Me. 2002) (emphasis added).8 Yet the government does
+
+not and cannot point to any authority suggesting that Reed does not apply when
+
+the Supreme Court expressly overrules its own prior precedent. See Simpson v.
+
+Matesanz, 175 F.3d 200, 211–12 (1st Cir. 1999). Nor has the Court given any
+
+indication that Reed no longer remains good law. See Bousley, 523 U.S. at 622;
+
+cf. Hohn v. United States, 524 U.S. 236, 252–53 (1998) (“Our decisions remain
+
+binding precedent until we see fit to reconsider them, regardless of whether
+
+subsequent cases have raised doubts about their continuing vitality.”).                            I
+
+conclude that under Reed, Casey’s Johnson claim is a novel constitutional claim
+
+that applies retroactively, and he has therefore shown cause for his default.
+
+       (ii)    Prejudice
+
+       To show prejudice, the petitioner must demonstrate “a reasonable
+
+probability” that but for the alleged error, “the result of the proceeding would
+
+have been different.” Prou v. United States, 199 F.3d 37, 48–49 (1st Cir. 1999)
+
+(internal quotation marks omitted). That in turn depends on whether Casey’s
+
+
+
+7 As the Supreme Court reiterated most recently, “[I]t is this Court’s prerogative alone to overrule
+one of its precedents.” Bosse v. Oklahoma, 192 L. Ed. 2d 1, 3 (Oct. 11, 2016) (per curiam)
+(alteration in original) (quoting United States v. Hatter, 532 U.S. 557, 567 (2001)).
+8 The First Circuit has declared that “Bousley made it clear that if an issue has been decided
+
+adversely to an argument in the relevant jurisdiction, and the argument is not made for that
+reason, that is insufficient reason to constitute cause for a procedural default.” Simpson v.
+Matesanz, 175 F.3d 200, 211 (1st Cir. 1999). Nonetheless, the First Circuit continues to treat
+Reed as good law. Simpson, 175 F.3d at 212, 215.
+
+                                                                                                  6
+Case 2:11-cr-00216-DBH Document 77 Filed 11/03/16 Page 7 of 12                     PageID #: 181
+
+
+
+prior Maine burglary convictions still constitute predicate offenses under the
+
+ACCA’s enumerated clause. Although Casey has a strong argument that they
+
+do not, the current state of First Circuit caselaw is against him as I describe
+
+below, and he will have to make his argument challenging that caselaw in an
+
+appeal to the First Circuit. At this stage, he has not shown prejudice.9
+
+(2)    Maine Burglary Convictions
+
+       For Casey, the validity of his Armed Career Criminal sentence depends on
+
+whether at the time of sentencing he had three previous convictions for a violent
+
+felony or a serious drug offense. See 18 U.S. C. § 924(e)(1). According to the
+
+revised presentence report, Casey had five prior Maine convictions that qualified,
+
+four of them involving burglary.10            The question then is whether the Maine
+
+burglary convictions fit the portion of the ACCA that refers to a felony that is
+
+“burglary . . . or otherwise involves conduct that presents a serious potential risk
+
+of physical injury to another.” Id. § 924(e)(2)(B)(ii). The government does not
+
+contend that, after Johnson, Casey’s prior Maine burglary convictions, see 17-A
+
+
+
+
+9 I do not accept the government’s argument based on United States v. Ruiz-Garcia, 886 F.2d
+474, 476 (1st Cir. 1989). In citing that case, the government contends that Casey cannot show
+prejudice because he agreed in his plea agreement that the ACCA applied to him and failed to
+argue that the ACCA did not apply in the presentence report or on direct appeal. Gov’t Resp. in
+Opp’n to Def.’s Mot. to Correct Sentence at 6 (ECF No. 72). Casey’s plea agreement, however,
+expressly stated that his “waiver of his right to appeal shall not apply to appeals based on a right
+that has been newly recognized by the Supreme Court and made retroactively applicable to cases
+on collateral review.” Agreement to Plead Guilty at 2–3 (ECF No. 52). Moreover, Ruiz-Garcia
+involved a direct appeal where the appellant had not shown “any supportable basis in law or
+fact” to alter his sentence, 886 F.2d at 477, rather than a collateral challenge involving “a
+constitutional principle that had not been previously recognized but which is held to have
+retroactive application,” Reed v. Ross, 468 U.S. 1, 17 (1984). As I have determined above, Casey’s
+Johnson claim is a novel constitutional claim with retroactive application to cases on collateral
+review.
+10 The revised presentence report lists five qualifying convictions.       See Revised Presentence
+Report ¶ 17. They are three burglaries, an attempted burglary, and a drug conspiracy. Id. at
+¶¶ 26, 29, 30, 32, 33. The government concedes that the drug offense does not qualify. Gov’t
+Resp. in Opp’n to Def.’s Mot. to Correct Sentence at 2 n.1 (ECF No. 72).
+                                                                                                  7
+Case 2:11-cr-00216-DBH Document 77 Filed 11/03/16 Page 8 of 12                  PageID #: 182
+
+
+
+M.R.S.A. § 401, qualify under the so-called residual clause (“otherwise involves
+
+conduct that presents a serious potential risk of physical injury to another”).
+
+Instead, it argues that binding First Circuit precedent, United States v. Duquette,
+
+778 F.3d 314, 317–18 (1st Cir.), cert. denied, 136 S. Ct. 262 (2015), has
+
+determined that Maine’s burglary statute qualifies as “generic” burglary and that
+
+Casey’s prior convictions are therefore “enumerated” convictions for purpose of
+
+the ACCA. Gov’t Resp. in Opp’n to Def.’s Mot. to Correct Sentence at 7–9 (ECF
+
+No. 72).
+
+       For his part, Casey relies upon the Supreme Court’s post-Duquette
+
+decision in Mathis v. United States, 136 S. Ct. 2243, 2250, 2257 (June 23, 2016),
+
+to argue that convictions under Maine’s burglary statute no longer qualify.11
+
+       In Duquette, the First Circuit examined whether Maine’s burglary statute
+
+contained the elements of generic burglary identified by the Supreme Court in
+
+Taylor v. United States, 495 U.S. 575 (1990). Duquette, 778 F.3d at 317–18.
+
+The First Circuit determined that Maine’s burglary statute did indeed “set[ ] forth
+
+the ‘generic burglary’ elements of (1) unlawful or unprivileged entry into, or
+
+remaining in, (2) a building or structure, with (3) intent to commit a crime.” Id.12
+
+
+
+11 Unlike its argument about Johnson, the government has not argued that the Mathis analysis
+should not be applied to Casey’s sentence. Instead, it argues that Mathis does not alter the
+Duquette analysis.
+12 Under Maine’s burglary statute, an individual is guilty of burglary when she “enters or
+
+surreptitiously remains in a structure knowing that that person is not licenced or privileged to
+do so, with the intent to commit a crime therein.” 17–A M.R.S.A. § 401(1). The statute provides
+that “structure” means “a building or other place designed to provide protection for persons or
+property against weather or intrusion, but does not include vehicles and other conveyances
+whose primary purpose is transportation of persons or property unless such vehicle or
+conveyance, or a section thereof, is also a dwelling place.” 17-A M.R.S.A. § 2(24) (emphasis
+added). In turn, a “dwelling place” means “a structure that is adapted for overnight
+accommodation of persons, or sections of any structure similarly adapted.” 17-A M.R.S.A.
+§ 2(10).
+
+                                                                                              8
+Case 2:11-cr-00216-DBH Document 77 Filed 11/03/16 Page 9 of 12                   PageID #: 183
+
+
+
+Consequently, the First Circuit concluded that a Maine burglary conviction
+
+qualifies as a violent felony under the ACCA. Id. at 318.
+
+       The next year in Mathis, the Supreme Court ruled that Iowa’s burglary
+
+statute, Iowa Code § 702.12, covered more conduct than generic burglary and
+
+did not qualify as a predicate violent felony under the ACCA.13 Acknowledging
+
+the wide range of land, water, and air vehicles specified in Iowa’s burglary
+
+statute, the Supreme Court determined that the Iowa statute “defines one crime,
+
+with one set of elements, broader than generic burglary—while specifying
+
+multiple means of fulfilling its locational element, some but not all of which (i.e.,
+
+buildings and other structures, but not vehicles) satisfy the generic definition.”
+
+Mathis, 136 S. Ct. at 2250. Because Iowa’s burglary statute had a broader
+
+locational element than generic burglary, the Court held that the Mathis’s prior
+
+burglary convictions could not support an ACCA sentence. Id. at 2257.
+
+       In the First Circuit, the “law of the circuit” doctrine makes a prior First
+
+Circuit decision “inviolate absent either the occurrence of a controlling
+
+intervening event (e.g., a Supreme Court opinion on the point; a ruling of the
+
+circuit, sitting en banc; or a statutory overruling) or, in extremely rare
+
+circumstances, where non-controlling but persuasive case law suggests such a
+
+course.” United States v. Chhien, 266 F.3d 1, 11 (1st Cir. 2001). Thus, the
+
+question here is whether the Supreme Court’s decision in Mathis constitutes “a
+
+controlling intervening event” such that district courts in the First Circuit should
+
+
+13 Iowa’s burglary statute defined an “occupied structure” as “any building, structure,
+appurtenances to buildings and structures, land, water or air vehicle, or similar place adapted
+for overnight accommodation of persons, or occupied by persons for the purpose of carrying on
+business or other activity therein, or for the storage or safekeeping of anything of value.” Iowa
+Code § 702.12.
+                                                                                               9
+Case 2:11-cr-00216-DBH Document 77 Filed 11/03/16 Page 10 of 12                PageID #: 184
+
+
+
+no longer follow Duquette’s directive that Maine burglary qualifies as a violent
+
+felony under the ACCA. Chhien, 266 F.3d at 11.
+
+       In dictum,14 another judge in this District has determined that even after
+
+Mathis, Duquette remains “the ‘law of the circuit’ and that this Court is bound
+
+by it unless and until the First Circuit decides to revisit Duquette.” Dimott v.
+
+United States, No. 2:06-cr-6-GZS, 2016 WL 6068114, at *3–4 (D. Me. Oct. 14,
+
+2016), appeal docketed, No. 16-2289 (1st Cir. Oct. 25, 2016). The Dimott court
+
+noted that, in light of Mathis, Maine’s burglary statute could be read as
+
+“categorically reaching a broader range of places than generic burglary,” but
+
+nonetheless concluded that “Duquette currently provides a binding answer to
+
+that question within the First Circuit.” Dimott, 2016 WL 6068114, at *4. I follow
+
+Dimott and apply Duquette. Maine’s burglary statute encompasses a narrower
+
+ranger of places than the Iowa statute in Mathis, which covered “any building,
+
+structure, [or] land, water, or air vehicle,” Iowa Code § 702.12. By contrast,
+
+Maine burglary includes only “a building or other place designed to provide
+
+protection for persons or property against weather or intrusion” and certain
+
+“vehicles and other conveyances,” 17-A M.R.S.A. § 2(24), that are “adapted for
+
+overnight accommodation of persons,” 17-A M.R.S.A. § 2(10).                      Given the
+
+appreciable difference in locations covered by the Maine and Iowa burglary
+
+statutes, I do not consider Mathis ipso facto a definitive ruling that Duquette is
+
+wrong.
+
+
+14I say dictum because the Dimott court first decided that the petition there was untimely. In
+doing so, the court ruled that Mathis did not announce a new substantive rule that was
+retroactively applicable to cases on collateral review. Dimott, 2016 WL 6068114, at *3. The
+government has made no such argument here.
+
+                                                                                           10
+Case 2:11-cr-00216-DBH Document 77 Filed 11/03/16 Page 11 of 12                     PageID #: 185
+
+
+
+       I believe that Mathis has, however, cast significant doubt on the continued
+
+vitality of Duquette.15 In the wake of Mathis, Maine’s burglary statute, which
+
+encompasses camping vehicles, trailers, sleeper trains, and airplanes and boats
+
+with sleeping accommodations, seems to have a broader locational element than
+
+generic burglary.16 But I leave that conclusion to the First Circuit.
+
+
+
+
+15 Dimott observed that, although Duquette preceded both Johnson and Mathis, the Supreme
+Court denied certiorari in Duquette, 778 F.3d 314 (1st Cir. 2015), cert. denied, 136 S. Ct. 262
+(Oct. 5, 2015), a few months before deciding to review the Eighth Circuit's ruling in Mathis, 786
+F.3d 1068 (8th Cir. 2015), cert. granted, 136 S. Ct. 894 (Jan. 19, 2016). Dimott, 2016 WL
+6068114, at *4. “Given this timeline,” the court determined that Mathis did not overrule
+Duquette. Dimott, 2016 WL 6068114, at *4. The Supreme Court itself, however, has “frequently
+said that the denial of certiorari imports no expression of opinion upon the merits of a case.”
+Brown v. Allen, 344 U.S. 443, 456 (1953) (internal quotation marks omitted). Thus, I respectfully
+disagree that either this court or the First Circuit should infer from the Supreme Court’s denial
+of certiorari in Duquette, 136 S. Ct. 262, that Duquette survives Mathis.
+16 In addition to arguing Duquette, the government has cited Lussier v. United States, No. 15-
+
+2500 (1st Cir. June 20, 2016), as a post-Mathis First Circuit decision that Duquette still governs.
+Gov’t Resp. in Opp’n to Def.’s Mot. to Correct Sentence at 8 (ECF No. 72). Lussier, however, was
+decided before Mathis (June 20, 2016 vs. June 23, 2016). The government also cited United
+States v. Herrold, 813 F.3d 595 (5th Cir. Feb. 12, 2016), cert. granted, judgment vacated, 2016
+WL 4367616 (Oct. 11, 2016). Gov’t Resp. in Opp’n to Def.’s Mot. to Correct Sentence at 9–10
+(ECF No. 72). That, too, was a pre-Mathis decision. In fact, in the wake of the Supreme Court’s
+Mathis decision, other federal circuit courts have consistently applied Mathis to find state
+burglary statutes insufficient as qualifying enumerated felonies. E.g., United States v. Ritchey,
+No. 15-2460, 2016 WL 6247122, at *8 (6th Cir. Oct. 26, 2016) (concluding that Michigan’s
+breaking and entering statute was broader than generic burglary and could therefore not serve
+as a predicate offense under the ACCA); United States v. White, No. 15-4096, 2016 WL 4717943,
+at *7-8 (4th Cir. Sept. 9, 2016) (determining that “the West Virginia’s burglary statute's reference
+to a dwelling house ‘easily could cover’ enclosures that are excluded from the generic definition
+of burglary, such as vehicles” and consequently did not constitute a violent felony under the
+ACCA (citation omitted)); United States v. Smith, No. 15-3033, 2016 WL 4626561, at *1 (7th Cir.
+Sept. 6, 2016) (“In light of Mathis, the government now concedes that it is unable to demonstrate
+that Smith's conviction for second-degree Missouri Burglary qualifies as a predicate felony under
+the Act.”); United States v. Door, No. 14-30170, 2016 WL 4207977, at *1 (9th Cir. Aug. 10, 2016)
+(holding that, “in light of Mathis, Door's prior convictions for burglary in Washington are not
+violent felonies”); United States v. Pledge, No. 15-2245, 2016 WL 3644648, at *1 (8th Cir. July 8,
+2016) (per curiam) (ruling that, following Mathis, the defendant could not be classified as an
+armed career criminal due to his prior conviction under Iowa’s burglary statute).
+                                                                                                 11
+Case 2:11-cr-00216-DBH Document 77 Filed 11/03/16 Page 12 of 12   PageID #: 186
+
+
+
+                                    CONCLUSION
+
+      The petitioner’s motion to correct his sentence under 28 U.S.C. § 2255 is
+
+DENIED.
+
+      SO ORDERED.
+
+      DATED THIS 3RD DAY OF NOVEMBER, 2016
+
+                                          /S/D. BROCK HORNBY
+                                          D. BROCK HORNBY
+                                          UNITED STATES DISTRICT JUDGE
+
+
+
+
+                                                                             12
+

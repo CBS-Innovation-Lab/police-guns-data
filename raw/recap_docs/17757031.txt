@@ -1,0 +1,1065 @@
+Case 2:12-cr-00065-NT Document 74 Filed 02/05/13 Page 1 of 21         PageID #: 215
+
+
+
+                        UNITED STATES DISTRICT COURT
+                             DISTRICT OF MAINE
+
+UNITED STATES OF AMERICA               )
+                                       )
+                   v.                  )
+                                       ) Docket no. 2:12-cr-0065-NT
+BRUNEL CONSTANT                        )
+                                       )
+
+
+                            OPINION AND ORDER
+                          ON MOTIONS TO SUPPRESS
+
+      Defendant Brunel Constant (“Defendant”) is charged with possession of a
+
+firearm by a convicted felon in violation of 18 U.S.C. § 922(g)(1). This case comes
+
+before the Court on Defendant’s motions to suppress both the firearm recovered by
+
+police under a porch eave and witness identifications of the Defendant. For the
+
+reasons discussed below, the Defendant’s motion to suppress the firearm (ECF No.
+
+30) is DENIED and his motion to suppress witness identifications (ECF No. 29) is
+
+GRANTED IN PART and DENIED IN PART.
+
+                              FINDINGS OF FACT
+
+      The charge against the Defendant arises out of a shooting incident that
+
+occurred in the pre-dawn hours of August 19, 2011 outside a three-story, six-unit
+
+apartment building on Walnut Street in Lewiston, Maine. The Walnut Street
+
+apartment building contained two apartments on each floor. The pertinent
+
+residents of the building were Alan Roy and his girlfriend, Tanya Chickering, who
+
+lived in one of the apartments on the third floor; Roy’s mother, Jeannette Cloutier,
+
+and his sister, Nancy Cote, who lived in one of the first floor apartments; and
+
+Ronald Coleman, who lived in the other first floor apartment.
+Case 2:12-cr-00065-NT Document 74 Filed 02/05/13 Page 2 of 21         PageID #: 216
+
+
+
+      On the night in question, Roy was with his friend Adam Dennis. The two had
+
+finished work, purchased beer, and spent the evening hanging out on Walnut
+
+Street. At about 4:00 a.m., Dennis was preparing to head home when he noticed a
+
+man sleeping on the back porch of Jeanette Cloutier and Nancy Cote’s apartment.
+
+Dennis woke the man, intending to get him to move along, and an argument
+
+ensued.
+
+      During the argument, the man mentioned something about Nancy owing him
+
+money. Dennis and the man moved from Cloutier’s back porch through a lighted
+
+hallway to the front porch. After several minutes of arguing, the man departed. Roy
+
+witnessed the argument but did get involved. Ronald Coleman, who was inside his
+
+first floor apartment, did not observe the encounter but heard a man yell certain
+
+expletives and claim that he would be back.
+
+      After the man left, Roy returned to his apartment and Dennis went home.
+
+Shortly thereafter, still prior to dawn, Roy was eating a bowl of chili when he heard
+
+shouting outside. Roy took a brief look out of his window and saw that the man who
+
+had been on his mother’s porch had returned. Not wanting to get involved, Roy
+
+retreated into his apartment, and moments later he heard, but did not see, gun
+
+shots. Dennis, who was home by the time of the shooting, testified that Roy called
+
+him to let him know that the man from the argument had returned with a gun.
+
+      The man fired two shots from the street toward the front of Cloutier’s
+
+apartment. Coleman heard the first shot and looked out his front window in time to
+
+see a blaze from the gun as the second shot was fired. Based on the repercussion
+
+
+
+                                         2
+Case 2:12-cr-00065-NT Document 74 Filed 02/05/13 Page 3 of 21          PageID #: 217
+
+
+
+from the shot, the fire length, the lack of a sound of casings hitting the street, and
+
+his knowledge of guns, Coleman surmised that the gun was a revolver. Coleman
+
+observed that the shooter was aimed at Cloutier’s apartment, and he saw the
+
+shooter turn and walk away after firing the second shot. Coleman did not see the
+
+shooter’s face, but he observed that the shooter was a black man with long
+
+dreadlocks wearing a white tank top.
+
+      Later that morning, Lewiston Police Department Officer Derrick St. Laurent
+
+picked up the investigation of the shooting. Officer St. Laurent’s1 supervisor
+
+provided an initial description of the shooter as a black male with dreadlocks and
+
+wearing a white tank top. Officer St. Laurent spoke with Cloutier, who did not
+
+witness the shooting but who was woken up by the shots to her residence, and he
+
+also interviewed Roy and Chickering.
+
+      Roy claimed to recognize the man who had been on his mother’s porch as
+
+someone he had seen around Lewiston, but whose name he did not know. After
+
+making some inquiries, Roy contacted Officer St. Laurent and told him that the
+
+man was called “Jamal” and that he lived with a girl named Temesha on Bradley
+
+Street between Pine and Ash Streets. Officer St. Laurent canvassed that area and
+
+learned that a man fitting the description lived with his girlfriend in a second-floor
+
+apartment at a particular building on Bradley Street.
+
+      Officer St. Laurent and three other officers, Special Agent Douglas Kirk,
+
+Detective James Theiss, and Detective Roland Godbout, approached the apartment
+
+building together. Special Agent Kirk testified that he a mailbox marked “Temesha
+
+1     Officer titles are retained to identify government actors.
+
+                                                 3
+Case 2:12-cr-00065-NT Document 74 Filed 02/05/13 Page 4 of 21                       PageID #: 218
+
+
+
+Blackwell.” The officers rang the bell to Blackwell’s apartment, but nothing
+
+happened. Some neighbors told the officers that the tenants generally entered their
+
+apartment through the entrance around the back.
+
+       The two-story building contained at least two apartments.2 The apartments
+
+had front doors on the first floor and back doors which exited onto a second floor
+
+porch that led to a set of wooden stairs down the back side of the building. Detective
+
+Godbout initially remained outside of the front of the Bradley Street building while
+
+Officer St. Laurent, Special Agent Kirk and Detective Theiss climbed the wooden
+
+staircase attached to the back of the building that led to the back doors of both
+
+apartments.
+
+       As the officers approached the second floor landing, a black man with long
+
+dreadlocks wearing a white tank top emerged from one of the apartment doors.
+
+Officer St. Laurent, who was first up the stairs, greeted the man, and the man
+
+asked him what was going on. Officer St. Laurent asked the man if anyone else was
+
+in the apartment, and the man answered that his girlfriend was inside sleeping on
+
+the couch. Officer St. Laurent asked if the man minded if he spoke with her; the
+
+man said “no,” and Officer St. Laurent then entered the apartment. By this time,
+
+Detective Godbout had come around from the front, and he entered the apartment
+
+along with Officer St. Laurent, while Special Agent Kirk and Detective Theiss stood
+
+with the man on the back stairway.
+
+2      Blackwell’s testimony about the layout of the building is confusing. Blackwell described her
+apartment as an area by the front door on the first floor which leads to a stairway to her apartment.
+She stated that next to her on the second floor was another apartment, but she did not know
+whether that apartment also had living space on the first floor. It is possible that there was a third
+apartment on the first floor.
+
+                                                  4
+Case 2:12-cr-00065-NT Document 74 Filed 02/05/13 Page 5 of 21         PageID #: 219
+
+
+
+      Detective Theiss conversed with the man on the back porch and eventually
+
+succeeded in obtaining a Massachusetts identification listing the man as the
+
+Defendant, Brunel Constant. Detective Theiss called the Defendant’s name in to a
+
+dispatcher and learned that there was a warrant out for the Defendant’s arrest.
+
+Detective Theiss and Special Agent Kirk placed the Defendant under arrest and
+
+waited for other officers to arrive to transport the Defendant back to the police
+
+department. Approximately 15 to 20 minutes elapsed from the first encounter with
+
+the Defendant until he was taken to the police station.
+
+      The police did not reveal to the Defendant that they were investigating a
+
+shooting and looking for a gun. Special Agent Kirk testified that once they found out
+
+that there was a warrant for the Defendant’s arrest, they knew that taking the
+
+Defendant to the police station would allow the investigators a better opportunity to
+
+talk to the Defendant. Officer St. Laurent testified that he did not tell the
+
+Defendant that they were looking for a gun because he wanted the nature of their
+
+investigation to be a surprise to the Defendant at any subsequent interrogation.
+
+      While Detective Theiss and Special Agent Kirk were speaking with the
+
+Defendant outside, Officer St. Laurent and Detective Godbout went inside and
+
+talked to the Defendant’s girlfriend, Temesha Blackwell. Blackwell told Officer St.
+
+Laurent and Detective Godbout that she lived in the apartment with her son and
+
+that the Defendant was a boyfriend from Boston who occasionally stayed with her.
+
+Blackwell stated that when the Defendant did stay over, he slept on the couch or
+
+with her. Detective Theiss testified that he asked who was on the lease, and
+
+
+
+                                          5
+Case 2:12-cr-00065-NT Document 74 Filed 02/05/13 Page 6 of 21         PageID #: 220
+
+
+
+Blackwell said that it was just her. Blackwell gave consent to search the apartment.
+
+She testified that she did not have a problem with the search because she had
+
+nothing to hide. The officers searched the apartment and Detective Theiss
+
+ultimately found a revolver outside the apartment in the rafters on the back porch.
+
+      Blackwell admitted at the suppression hearing that she did not tell the
+
+officers that she had moved into the apartment with the Defendant approximately
+
+two months prior or that he had paid the both the security deposit and the rent on
+
+the apartment since that time.
+
+      After the Defendant’s arrest, Officer St. Laurent asked Detective Wayne
+
+Clifford to put together a photo array with the Defendant’s photograph. Detective
+
+Clifford provided Officer St. Laurent with a photographic array containing six
+
+pictures. All of the individuals depicted in the array are black men with dreadlocks,
+
+and all appear to be approximately between the ages of 18 and 40. The Defendant,
+
+however, is the only individual in the array with dreadlocks extending well below
+
+his shoulders. The Defendant is also the only individual in the array wearing a
+
+white tank top. The other individuals all have short dreadlocks and either orange or
+
+white tops with sleeves. One of the men is also significantly more heavyset than the
+
+others. Detective Clifford admitted that he had difficulty compiling the array
+
+because there were only five black men with dreadlocks in his database. These men
+
+then became the other individuals in the photographic array.
+
+      Officer St. Laurent presented this array to Adam Dennis, Alan Roy, Nancy
+
+Cote, and Ronald Coleman. Dennis viewed the array the afternoon following the
+
+
+
+                                         6
+Case 2:12-cr-00065-NT Document 74 Filed 02/05/13 Page 7 of 21                      PageID #: 221
+
+
+
+shooting and identified the Defendant as the man with whom he had argued on
+
+Cloutier’s porch. At the suppression hearing, Dennis recalled having no difficulty
+
+identifying the Defendant at the time the array was presented to him. Roy at first
+
+picked out another individual’s photo, but then chose the Defendant’s photo because
+
+he recognized his face. Roy identified the Defendant’s photo as the man he had seen
+
+on his mother’s porch earlier that morning and then back at his mother’s apartment
+
+again moments before the shooting.3 Although Nancy Cote did not witness any of
+
+the events surrounding the shooting, she was shown the array and pointed out the
+
+Defendant as her friend Jamal. Cote testified at the suppression hearing that she
+
+did owe the Defendant money.
+
+       Due to an oversight, Coleman was not presented with the array until five
+
+months after the shooting, at a time when he was in the hospital. Coleman picked
+
+out the Defendant’s photo without hesitation and evinced certainty in his
+
+identification of the Defendant. At the suppression hearing, however, Coleman
+
+stated that he actually was not sure of the identification because he had not seen
+
+the shooter’s face. Coleman stated that he picked out the Defendant’s photo because
+
+the braids were the same length as the shooter’s braids and because he was wearing
+
+a white tank top like the shooter. Coleman also understood at the time he viewed
+
+the photos that the police had found their man.
+
+
+
+3        Officer St. Laurent testified that he believed that Adam Dennis might have had some
+difficulty picking out the Defendant, and described Dennis first choosing between two photos, but
+then settling on the Defendant’s photo. He also testified that Alan Roy had no difficulty picking out
+the Defendant’s photo from the lineup. It appears that Officer St. Laurent may have confused Dennis
+and Roy, both of whom had viewed the array on the same afternoon. The Court credits the testimony
+of Roy and Dennis in this regard.
+
+                                                 7
+    Case 2:12-cr-00065-NT Document 74 Filed 02/05/13 Page 8 of 21                     PageID #: 222
+
+
+
+                                           DISCUSSION
+
+         A. Suppression of the Firearm
+
+         The Defendant contends that the firearm recovered by the police during their
+
+August 19, 2011 search of the Bradley Street apartment should be suppressed
+
+because the search violated his Fourth Amendment rights. The Court credits
+
+Blackwell’s testimony that the Defendant rented the apartment and lived in it with
+
+her. The Defendant therefore had a reasonable expectation of privacy in the
+
+apartment. However, both because Blackwell permitted the search, and because the
+
+gun was found outside on a porch accessed by more than one apartment, the search
+
+was valid and the fruits of that search will not be suppressed.
+
+                1.      Consent
+
+         There is no violation of the Fourth Amendment’s4 prohibition against
+
+unreasonable searches and seizures where a person with authority over the
+
+property voluntarily consents to a search. See Georgia v. Randolph, 547 U.S. 103,
+
+109 (2006) (citing Illinois v. Rodriguez, 497 U.S. 177, 181 (1990)). A co-occupant
+
+may consent to a search of the suspect’s premises when the suspect is absent.
+
+Randolph, 547 U.S. at 109 (citing United States v. Matlock, 415 U.S. 164, 170
+
+(1974)). But the consent of a co-occupant is not valid when a co-occupant suspect is
+
+also present and objects to the search. Randolph, 547 U.S. at 115. Consent of a co-
+
+occupant may also not be valid if the police purposefully remove the suspect from
+
+the premises for the sake of avoiding an objection. See id. at 121.
+
+4
+        The Fourth Amendment provides: “The right of the people to be secure in their persons,
+houses, papers, and effects, against unreasonable searches and seizures, shall not be violated . . .”
+U.S. Const. amend. IV.
+
+                                                   8
+    Case 2:12-cr-00065-NT Document 74 Filed 02/05/13 Page 9 of 21                PageID #: 223
+
+
+
+         The Defendant argues that the police purposefully removed him from the
+
+premises so that he could not object to the search. The testimony does not support
+
+the Defendant’s claim. Although the police admitted that they did not want to begin
+
+their search while the Defendant was present, Officer St. Laurent explained that
+
+this was because they wanted the nature of the investigation to be a surprise to the
+
+Defendant at any subsequent interrogation. Special Agent Kirk testified that once
+
+the police knew that there was an outstanding warrant for the Defendant’s arrest,
+
+they were anxious to secure him and bring him to the police station, which was a
+
+more favorable location for an interview.
+
+         Officer St. Laurent also testified that he did not ask the Defendant for
+
+permission to search the premises because he understood that the apartment
+
+belonged solely to Blackwell and he understood the Defendant to be an occasional
+
+overnight houseguest. Blackwell admitted at the suppression hearing that she
+
+understated the Defendant’s interest in the apartment when she spoke with the
+
+police. Blackwell told the police that the Defendant was a boyfriend from Boston
+
+who stayed with her occasionally and either slept on the couch or with her. St.
+
+Laurent reasonably relied on Blackwell’s statements. The Court is aware that even
+
+if he were merely a houseguest, the Defendant may have been able to withhold
+
+consent over portions of the apartment where he kept his personal belongings.
+
+Minnesota v. Olson, 495 U.S. 91, 99 (1990).5 But the fact that Officer St. Laurent
+
+
+5
+        Olson held that houseguests have a legitimate expectation of privacy in the temporary
+quarters provided by a host. The Court does not here take on the question of whether or the degree
+to which a houseguest can withhold consent in the face of a host who consents to a search of the
+host’s premises.
+
+                                                9
+Case 2:12-cr-00065-NT Document 74 Filed 02/05/13 Page 10 of 21         PageID #: 224
+
+
+
+believed that the Defendant had no right to object to the search of the apartment
+
+does support the Government’s claim that the police were not trying to remove the
+
+Defendant for the purpose of depriving him of an opportunity to object to the search.
+
+      The Court finds that the decision to seek Blackwell’s consent to search only
+
+after the Defendant had been removed was motivated by legitimate law
+
+enforcement interests in both securing the premises and preserving a tactical
+
+advantage in any later interrogation. Because the police were not removing the
+
+Defendant from the premises “for the sake of avoiding a possible objection,” the
+
+search was reasonable. See Randolph, 547 U.S. at 121.
+
+             2.    No Reasonable Expectation of Privacy
+
+      A defendant bears the burden of establishing that “his own Fourth
+
+Amendment rights were violated by the challenged search or seizure.” United States
+
+v. Rheault, 561 F.3d 55, 58-59 (1st Cir. 2009) (quoting Rakas v. Illinois, 439 U.S.
+
+128, 131 n.1 (1978)). This requires a defendant to establish that he had a legitimate
+
+expectation of privacy in the place searched. The Supreme Court follows “a two-part
+
+test for analyzing the expectation question: first, whether the movant has exhibited
+
+an actual, subjective, expectation of privacy; and second, whether such subjective
+
+expectation is one that society is prepared to recognize as objectively reasonable.”
+
+Rheault, 561 F.3d at 59. (citing Smith v. Maryland, 442 U.S. 735, 740 (1979)).
+
+      The gun was discovered in the rafters on the back porch. Blackwell testified
+
+that she and the Defendant were the only tenants who used the back porch. Defense
+
+counsel has argued that because this area was used exclusively by Blackwell and
+
+
+
+                                         10
+Case 2:12-cr-00065-NT Document 74 Filed 02/05/13 Page 11 of 21        PageID #: 225
+
+
+
+the Defendant and was not used by the occupants of the other second floor
+
+apartment, the Defendant had a reasonable expectation of privacy there.
+
+      The Court disagrees. Blackwell testified that she knew that the other door off
+
+the back porch went to another apartment in the building. Blackwell and the
+
+Defendant had been living in the apartment for less than two months. Although
+
+Blackwell testified that she never saw occupants from the other apartment enter
+
+from the back door or use the porch, this does not confer exclusive control over the
+
+porch to Blackwell and the Defendant. There is no evidence that Blackwell and the
+
+Defendant had a right to exclude other tenants from the back porch, and they
+
+therefore had no reasonable expectation of privacy therein.
+
+      Additionally, there was no gate barring access up the back stairs to the back
+
+porch or any signage directing people to keep out. Because the area in question is
+
+both open to the public and potentially shared by occupants of the second
+
+apartment, the Court finds that any subjective expectation of privacy is not
+
+objectively reasonable. Neither can the back entryway and porch be considered part
+
+of the curtilage of the Defendant’s apartment. “In a modern urban multi-family
+
+apartment house, the area within the ‘curtilage’ is necessarily much more limited
+
+than in the case of a rural dwelling subject to one owner’s control. In such an
+
+apartment house, a tenant’s ‘dwelling’ cannot reasonably be said to extend beyond
+
+his own apartment and perhaps any separate areas subject to his exclusive control.”
+
+United States v. Cruz Pagan, 537 F.2d 554, 558 (1st Cir. 1976) (citing
+
+Commonwealth v. Thomas, 267 N.E. 2d 489, 491 (1970)); see also United States v.
+
+
+
+                                         11
+Case 2:12-cr-00065-NT Document 74 Filed 02/05/13 Page 12 of 21         PageID #: 226
+
+
+
+Brown, 169 F.3d 89, 92 (1st Cir. 1999) (no reasonable expectation of privacy in
+
+apartment building lobby); United States v. Hawkins, 139 F.3d 29, 32-33 (1st Cir.
+
+1998) (no reasonable expectation of privacy in unenclosed shared basement of
+
+apartment building).
+
+      Both because valid consent to search was given and because, in any event,
+
+the gun was found in an area in which the Defendant lacked a legitimate
+
+expectation of privacy, the Defendant’s motion to suppress the firearm is denied.
+
+      B. Suppression of Witness Identifications
+
+      The Defendant contends that the six-photo array that was shown to the
+
+witnesses was impermissibly suggestive and tainted the witness identifications of
+
+him in violation of his right to due process of law. The Government denies that the
+
+array was unnecessarily suggestive and argues that even if the array were to be
+
+considered unnecessarily suggestive, the witness identifications were all sufficiently
+
+reliable so as to allow their admission.
+
+      The Supreme Court has allowed identifications even in cases where only one
+
+photograph has been shown to a witness or where a single suspect is brought before
+
+a victim for identification if circumstances made such a procedure necessary or
+
+there was a sufficient showing that the identification was nonetheless reliable. See
+
+Manson v. Brathwaite, 432 U.S. 98, 114-116 (1977) (single photo shown to
+
+undercover narcotics officer was unnecessarily suggestive but admissible because
+
+identification was otherwise reliable where officer saw drug dealer for several
+
+minutes in good light, provided a thorough description, and was certain about his
+
+
+
+                                           12
+Case 2:12-cr-00065-NT Document 74 Filed 02/05/13 Page 13 of 21         PageID #: 227
+
+
+
+identification); Neil v. Biggers, 409 U.S. 188, 198-200 (1972) (single suspect brought
+
+before victim was unnecessarily suggestive but identification was reliable because
+
+victim saw assailant for considerable period of time under adequate lighting,
+
+provided a detailed description before the “show-up,” and had no doubt about her
+
+identification); Simmons v. United States, 390 U.S. 377, 380-86 (1968) (snapshots of
+
+bank robbery suspect shown to tellers was not an ideal identification procedure but
+
+was “not so impermissibly suggestive as to give rise to a very substantial likelihood
+
+of irreparable misidentification”); Stovall v. Denno, 388 U.S. 293, 302 (1967) (single
+
+suspect “show-up” at victim’s hospital bedside was suggestive but necessary given
+
+concern that victim might die).
+
+      “An out-of-court identification based on a photo array must be suppressed as
+
+a matter of due process ‘only if the photographic identification procedure was so
+
+impermissibly suggestive as to give rise to a very substantial likelihood of
+
+misidentification.’” United States v. Holliday, 457 F.3d 121, 125 (1st Cir. 2006)
+
+(quoting Biggers, 409 U.S. at 197). The analysis proceeds in two steps: (1)
+
+determining whether the array was impermissibly suggestive; and (2) if the array
+
+was impermissibly suggestive, determining whether the witness’s identification was
+
+nevertheless sufficiently reliable under the totality of the circumstances to be
+
+allowed into evidence. Holliday, 457 F.3d at 125 (citing United States v. Henderson,
+
+320 F.3d 92, 100 (1st Cir. 2003)). “The standard being applied is meant to screen out
+
+only evidence that is clearly unreliable and not to supplant the jury’s ordinary
+
+function of weighing what the witness says and choosing the weight to accord it. It
+
+
+
+                                         13
+Case 2:12-cr-00065-NT Document 74 Filed 02/05/13 Page 14 of 21          PageID #: 228
+
+
+
+is for this reason that ‘it is only in extraordinary cases that identification evidence
+
+should be withheld from the jury.’” United States v. Jones, 689 F.3d 12, 18 (1st Cir.
+
+2012) (quoting United States v. de Jesus-Rios, 990 F.2d 672, 677 (1st Cir. 1993)).
+
+                1. Unnecessarily Suggestive
+
+      In determining whether an array is unnecessarily suggestive, the Court must
+
+consider both the suggestiveness of the array and whether there was a good reason
+
+for law enforcement’s failure to resort to less suggestive procedures. See Holliday,
+
+457 F.3d at 125. The array at issue was comprised of six photographs. Among the
+
+six photographs put before the witnesses, only the Defendant’s photo depicted an
+
+individual with long dreadlocks and wearing a white tank top, the very features of
+
+the suspect’s appearance described to the police by the witnesses prior to the
+
+apprehension of the Defendant. While the other five men were also black males
+
+roughly the same age as the Defendant, their dreadlocks were significantly shorter
+
+and less thick than the Defendant’s. In addition, only the Defendant was wearing a
+
+white tank top. Two of the other men wore white t-shirts, and three of the men wore
+
+orange shirts, presumably prison-issued.
+
+      The Lewiston police were investigating an armed individual who fired two
+
+shots into an occupied apartment in a residential neighborhood. Although the crime
+
+was serious, the police were fairly confident that the Defendant was the shooter,
+
+and he was in their custody on an outstanding warrant. While the police
+
+understandably wanted to confirm their suspicions as soon as possible with the
+
+witness identifications, they did not have the same time pressures as are present
+
+
+
+                                           14
+Case 2:12-cr-00065-NT Document 74 Filed 02/05/13 Page 15 of 21                     PageID #: 229
+
+
+
+when a dangerous suspect is at large or a victim is dying. Detective Clifford, the
+
+officer who put together the line-up, testified that he had trouble finding
+
+photographs of other individuals with long dreadlocks and he was limited by the
+
+small size of the database. There was no testimony as to why he could not have gone
+
+outside of his limited database for pictures.6
+
+       In an unpublished opinion and using the highly deferential standard of
+
+review for habeas cases, the First Circuit assessed the constitutionality of a photo
+
+array which contained only one light-haired suspect among five dark-haired
+
+individuals. Johnson v. Dickhaut, 308 F. App’x 454 (1st Cir. 2009). The victim had
+
+previously described the suspect as having strawberry blond hair. Pointing out that
+
+some identifications are single photographs or single show-ups, the Court stated
+
+that there is “no requirement to include a certain number of ‘filler’ photographs in
+
+an array.” Id. at 457 (citing Brathwaite, 432 U.S. at 117). Compare United States v.
+
+Fletcher, 121 F.3d 187, 194 (5th Cir. 1997) (six-photo array in which the defendant
+
+was the only individual wearing a suit and tie as described by the witness was not
+
+impermissibly suggestive), abrogated on other grounds as recognized by United
+
+States v. Robinson, 367 F.3d 278, 286 n. 11 (5th Cir. 2004), with United States v. El
+
+Tayib, 88 F.3d 157, 166 (2d Cir. 1996) (“One would think that if a suspect is
+
+described only in terms of one characteristic, the filler photos in an array would also
+
+portray people having that characteristic. Otherwise, there may be no real
+
+6
+        The Government suggested at oral argument that the background for non-local photos would
+not have been the same as the backgrounds for the six photos featured in the array, or that other
+photos might contain placards identifying the photo as having been taken out-of-state. The photos in
+this array contain either an undifferentiated white background or a white concrete-block background
+and the individuals are depicted without placards.
+
+                                                15
+Case 2:12-cr-00065-NT Document 74 Filed 02/05/13 Page 16 of 21                PageID #: 230
+
+
+
+identification, just a witness with the wit to suppose that the one suspect with the
+
+salient characteristic must be the person suspected by the authorities.”)
+
+       The First Circuit has noted that the duty to match highly unusual aspects of
+
+a suspect’s appearance is limited: “The police are not required to search for identical
+
+twins.’” Holliday, 457 F.3d at 126 n.5 (quoting Wright v. State, 175 N.W.2d 646, 652
+
+(Wis. 1970)). In Holliday the defendant had such unusual facial pigmentation that
+
+it would have been nearly impossible to find filler photographs which were similar
+
+to the suspect. Holliday, 457 F.3d at 126.
+
+       In this case, because the witnesses described certain features of a suspect and
+
+were presented with only one picture containing those specific characteristics, the
+
+Court finds that the array was suggestive. Long dreadlocks, unlike unique facial
+
+pigmentation, are not so unusual that images of individuals with them could not
+
+have been found. With today’s technology, it should be possible for police
+
+departments to reach outside of the confines of their own limited databases and get
+
+images from other sources, either through the internet or other police databases.7
+
+Furthermore, the police could have cropped out the Defendant’s white tank top or
+
+photographed the Defendant in a different shirt. Also, since the prime suspect was
+
+in custody, the police had enough time to put together a less suggestive array.
+
+Because the Defendant has met its burden of establishing that the procedure was
+
+unnecessarily suggestive, the Court            will proceed to assess whether             the
+
+identifications were nevertheless reliable.
+
+7
+        As to the Government’s argument that many mug shots show arrestees with placards that
+identify the department, it should be possible to crop or block out the text of a placard with
+inexpensive photograph editing software.
+
+                                             16
+Case 2:12-cr-00065-NT Document 74 Filed 02/05/13 Page 17 of 21          PageID #: 231
+
+
+
+             2.     Reliability
+
+      To determine whether the witnesses’ identifications were reliable, the Court
+
+considers the factors described in Biggers: the opportunity of the witness to view the
+
+criminal at the time of the crime, the witness’s degree of attention, the accuracy of
+
+his prior description of the criminal, the level of certainty demonstrated at the
+
+confrontation, and the time between the crime and the confrontation. United States
+
+v. Bouthot, 878 F.2d 1506, 1514 (1st Cir. 1989), (citing Biggers, 409 U.S. at 199-200),
+
+abrogated on other grounds by Perry v. New Hampshire, 132 S. Ct. 716 (2012). The
+
+government bears the burden in this part of the analysis, Jones, 689 F.3d at 17
+
+(citing Brathwaite, 432 U.S. at 109-14). The Court proceeds separately as to each
+
+witness.
+
+                    a. Ronald Coleman
+
+      Coleman was in his apartment on the first floor of the Walnut Street
+
+apartment building. It was very early in the morning, and he had the television on
+
+and was drinking coffee trying to wake up. Coleman heard a verbal altercation
+
+outside. He looked out but did not see anything and went on about his business.
+
+Shortly thereafter, a gunshot grabbed his attention. Coleman looked out the window
+
+in time to see a second shot fired into his next-door neighbor’s apartment. Coleman
+
+testified that although it was still dark outside, he was able to see a black man fire
+
+the gun, turn, and walk away from the apartment. Coleman testified that he saw
+
+the shooter for only seconds, and he had no opportunity to view the shooter’s face.
+
+Coleman described the shooter as a black man of approximately his own height,
+
+
+
+                                          17
+Case 2:12-cr-00065-NT Document 74 Filed 02/05/13 Page 18 of 21         PageID #: 232
+
+
+
+build, and age with long braids wearing a white tank top. To the extent that he
+
+could see, Coleman was an attentive witness. He was particularly attentive to the
+
+type of firearm used.
+
+      Five months had passed between the shooting and the Government’s
+
+presentation of the array to Coleman. Although his condition was not critical,
+
+Coleman was in the hospital at the time the police showed him the lineup. Coleman
+
+evinced certainty in his choice of the Defendant when he was presented with the
+
+lineup. This apparent certainty, however, was undermined by Coleman’s assertions
+
+at the suppression hearing that he picked the Defendant out of the lineup because
+
+he was the only one who had long braids. Coleman testified that he understood that
+
+the police had already arrested the shooter, and he appeared to infer that, therefore,
+
+the shooter was in the lineup. Coleman testified at the suppression hearing that he
+
+would not be able to identify the shooter if he saw him again, and that he picked the
+
+Defendant’s photo because he did not want to be “bad.”
+
+      Under the totality of the circumstances, Coleman’s out-of-court identification
+
+was not reliable and must be suppressed. Because the out-of-court identification
+
+would taint any in-court identification, the Court will not allow Coleman to make an
+
+in-court identification of the Defendant at trial.
+
+                    b. Adam Dennis
+
+      Dennis did not witness the shooting, but he was involved in the altercation
+
+with the man sleeping on Cloutier’s porch shortly before the shooting. The man
+
+grew angry during the altercation, and Dennis observed him at close range, face-to-
+
+
+
+                                           18
+Case 2:12-cr-00065-NT Document 74 Filed 02/05/13 Page 19 of 21         PageID #: 233
+
+
+
+face, for five to ten minutes. At one point, Dennis followed the man through a well-
+
+lit hall out to the front entrance of the building. Although Dennis had been drinking
+
+beer throughout the evening, there was no indication that he was significantly
+
+impaired, and the fact that Dennis and the man argued was likely to have
+
+heightened Dennis’s attention. Dennis described the man with whom he argued as
+
+a large black man with long dreadlocks wearing pants, a shirt, and a hat. Dennis
+
+was shown the lineup the same day as the altercation, and he was certain when he
+
+selected the Defendant’s photograph that he was the man with whom he had
+
+argued. Altogether, there are enough indicia of reliability to admit Dennis’s
+
+identification into evidence.
+
+                    c. Alan Roy
+
+      Roy observed the man arguing with Dennis for about fifteen minutes.
+
+Although some of that argument took place on the dark back porch, Roy testified
+
+that the man walked right by him when he passed through the lighted hallway. Roy
+
+testified that he had previously seen the man around the city, although he did not
+
+know him by name. Roy testified that a while after the man had left, Roy heard
+
+yelling outside the apartment and that he went to his third floor apartment window
+
+to see what was going on. Roy testified that he saw the same person who had been
+
+sleeping on his mother’s porch and who had been arguing with Dennis. Roy, who
+
+wanted nothing to do with the situation, turned away from the window and
+
+moments later heard shots.
+
+
+
+
+                                         19
+Case 2:12-cr-00065-NT Document 74 Filed 02/05/13 Page 20 of 21                     PageID #: 234
+
+
+
+       As far as his degree of attention, Roy acknowledged that he had consumed
+
+seven or eight beers over the course of the evening,8 and he also testified that he
+
+was having his own argument with his girlfriend during Dennis’s altercation with
+
+the suspect. Roy described the man as a black male with dreadlocks.
+
+       As Officer St. Laurent started to show the photographs in the array, Roy
+
+identified the first photograph set down, which was of another individual. Officer
+
+St. Laurent told Roy to wait until all the photos were displayed, and only then did
+
+Roy point to the Defendant’s picture. Roy said he ultimately settled on the
+
+Defendant’s photo because he recognized the Defendant’s face. Roy affirmed that
+
+the Defendant was the man he had seen around town, the individual he had seen on
+
+his mother’s porch, and the person who came back to his mother’s apartment just
+
+before the shooting. Roy was shown the photo array the afternoon following the
+
+incident while his memory of the events was still fresh.
+
+       Although Roy presents a close call, the Court finds that his identification
+
+does not give rise to a substantial likelihood of irreparable misidentification. The
+
+Court keeps in mind the First Circuit’s admonition that “it is only in extraordinary
+
+cases that identification evidence should be withheld from the jury,” and concludes
+
+that Roy’s identification has enough indicia of reliability that it should be presented
+
+to the jury. Jones, 689 F.3d at 18. Once subjected to the harsh light of cross-
+
+examination, the jury can best determine the weight Roy’s identification should be
+
+accorded.
+
+8
+        Roy testified that he and Dennis picked up a 12-pack and a 40-ounce after they finished work
+and spent the evening drinking. Although Roy estimated the time of the altercation to be around
+11:00 p.m., Dennis and Coleman both testified that the time was around 4:00 a.m..
+
+                                                20
+Case 2:12-cr-00065-NT Document 74 Filed 02/05/13 Page 21 of 21           PageID #: 235
+
+
+
+                    d. Nancy Cote
+
+      As Cote herself was quick to point out, she did not see anything on the night
+
+of August 19, 2011. She was shown the photo array solely to confirm that the
+
+individual the Government had identified as the Defendant was the man Cote knew
+
+as “Jamal.” The Government has represented that her “identification” is not going
+
+to be used at trial, and, consequently, the Court need not address its reliability.
+
+                                   CONCLUSION
+
+      For the reasons stated, the Defendant’s motion to suppress the firearm
+
+recovered by the police is DENIED. Defendant’s motion to suppress the witness
+
+identification of Ronald Coleman is GRANTED, but his motion to suppress the
+
+witness identification of Adam Dennis and Alan Roy are DENIED.
+
+
+
+SO ORDERED.
+
+                                               /s/ Nancy Torresen
+                                               United States District Judge
+
+
+
+Dated this 5th day of February, 2013.
+
+
+
+
+                                          21
+

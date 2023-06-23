@@ -1,0 +1,930 @@
+Case 2:21-cr-00166-GZS Document 61 Filed 06/29/22 Page 1 of 17                    PageID #: 113
+
+
+
+
+                           UNITED STATES DISTRICT COURT
+                                DISTRICT OF MAINE
+
+ UNITED STATES OF AMERICA                      )
+                                               )
+                                               )
+ v.                                            )
+                                               ) Docket no. 2:21-cr-00166-GZS
+ CARL LANGSTON,                                )
+                                               )
+                       Defendant.              )
+                                               )
+
+
+                           ORDER ON MOTION TO SUPPRESS
+
+       Before the Court is Defendant Carl Langston’s Motion to Suppress Evidence (ECF No.
+
+39). On June 2, 2022, the Court held an in-person evidentiary hearing on this Motion. Having
+
+considered the evidence and arguments before it, the Court DENIES the Motion for the reasons
+
+stated herein.
+
+  I.       FACTUAL FINDINGS
+
+       On the night of Saturday, February 6, 2021, Portland’s Old Port neighborhood, home to
+
+many bars and restaurants, was busy. Pandemic-related restrictions on the hours of operation for
+
+many Old Port establishments had recently been lifted. As a result, the Portland Police Department
+
+(“PPD”) was on alert given the neighborhood’s reputation as an area prone to calls relating to
+
+alcohol consumption and physical violence.
+
+       Shortly before midnight, the PPD received a 911 call from a then-anonymous tipster
+
+reporting a disturbance outside The Bar, a bar located at 8 Exchange Street in the Old Port.
+
+According to dispatch, the tipster stated that “a black male wearing a black hat with horns . . .
+
+[was] yelling and had punched a white male that had a beard. . . . [T]he male that was punched is
+Case 2:21-cr-00166-GZS Document 61 Filed 06/29/22 Page 2 of 17                                    PageID #: 114
+
+
+
+
+gone now but the black male was still outside yelling.” 1 (Gov’t Ex. 2, 00:00–00:25.) The tipster
+
+reportedly observed events from his apartment. (Gov’t Ex. 6.)
+
+           PPD Officers Garrick Rogers 2 and Ryan Cannell were dispatched to the scene, arriving
+
+within a few minutes. (See id.; Gov’t Ex. 1, 11:00–11:10.) Upon their arrival, the officers did not
+
+observe an active disturbance or anyone matching the description provided. They spoke to a
+
+security guard (or “bouncer”) at The Bar, which appeared relatively crowded.                            It was not
+
+uncommon for the officers to rely on information provided by such guards, who are able to keep
+
+their eyes on customers throughout the night and note potential issues. The guard confirmed there
+
+had been an altercation but believed that a recurrence was unlikely unless the participants
+
+encountered each other again somewhere else that night. Officer Rogers credited the guard’s
+
+account and, roughly at midnight, radioed dispatch that everything was calm at The Bar and there
+
+was no sign of a disturbance. (See Gov’t Ex. 6; Gov’t Ex. 2, 00:40–00:46.) Rogers and Cannell
+
+then departed the scene.
+
+           Soon after the officers cleared the call, the same tipster called 911 again, this time
+
+identifying himself as “Shawn” and providing his phone number and an apartment address of 11
+
+Exchange Street. 3 (See Gov’t Ex. 6.) At this point, Shawn stated that the man “that started the
+
+fight” was “still in the bar.” (See id.)
+
+
+
+
+1
+    The “horns” on this hat were part of an embroidered design.
+2
+  Since his graduation from the Maine Criminal Justice Academy, Rogers has received crisis intervention training,
+verbal crisis training, medical training, and training on the laws of Maine, and also completed a Safe Streets course.
+At the time of the events described herein, Officer Rogers had been with the PPD for just over a year.
+3
+  This call was not conveyed over the radio by dispatch but appeared in the complete call log, which was accessible
+to the officers in their cruisers’ onboard displays. Compare Gov’t Ex. 2 (recording), with Gov’t Ex. 6 (call log).
+
+
+                                                           2
+Case 2:21-cr-00166-GZS Document 61 Filed 06/29/22 Page 3 of 17                                         PageID #: 115
+
+
+
+
+           Minutes later, the PPD received a 911 call from The Bar’s manager, who was not on-site,
+
+conveying a report he had received from his on-site security guard. 4 Based on this “thirdhand”
+
+report, dispatch relayed the following information over the radio:
+
+           One of the males involved in the fight went to his car and grabbed a 1032 gun. He’s
+           now looking for another male that he was fighting with. They said he had a pistol
+           in his coat. Black male, 5′10″, maroon jacket with a grey hood. He’s currently
+           outside the bar with his hand in his pocket.
+
+(Gov’t Ex. 2, 01:50–02:10 & 02:28–02:34; see also Gov’t Ex. 6.) Dispatch also relayed a report
+
+of a large group of people in the area. (Gov’t Ex. 2, 02:32–02:34.) Rogers and Cannell were again
+
+dispatched to the scene, along with PPD Officer Zachary Theriault. 5 (See id., 02:20–02:22.)
+
+           Within several minutes of the receipt of the manager’s call, the officers began to arrive
+
+outside The Bar. (See Gov’t Ex. 1, 17:23–17:53; Gov’t Ex. 6.) Officer Rogers parked his vehicle
+
+and approached The Bar from the corner of Fore Street and Exchange Street. (Gov’t Ex. 3, 01:30.)
+
+He saw an individual matching the description that had been provided via the relayed 911 calls:
+
+Black, 5′10″, wearing a hat with an embroidered horn design, and dressed in a maroon jacket over
+
+a grey hoodie. This individual, who was later identified as Carl Langston, appeared to be arguing
+
+with another individual in a light grey jacket outside The Bar.
+
+           The man in the light grey jacket, who was later identified as Colton Carr, appeared to be
+
+blocking Langston’s path into The Bar and had his hand on Langston, who in turn began pushing
+
+against him and toward the entrance. 6 (Gov’t Ex. 3, 01:47–01:52.) At this point, Langston’s hands
+
+
+
+4
+    The record remains unclear as to the source of the information relayed by the guard.
+5
+  Officer Theriault began his employment with the PPD in 2014. His duties include field training and firearms
+instruction, and he is a member of the special reaction team. For the last six and a half years, Theriault has worked
+the late-hour shift in the Old Port, often responding to calls involving disorderly conduct, fighting, public intoxication,
+and obstruction of traffic.
+6
+ Carr testified at the hearing that Langston was in fact his friend, and he was actually trying to convince Langston,
+who wished to go home, to reenter The Bar with him.
+
+
+                                                            3
+Case 2:21-cr-00166-GZS Document 61 Filed 06/29/22 Page 4 of 17                                  PageID #: 116
+
+
+
+
+were not in his pockets. (Id.) As he approached, Rogers called out to Langston, “Put your hands
+
+on your head.” (Id., 01:52–01:54.) Langston turned toward Rogers. (Id., 01:53.) The officer
+
+modeled what he wished Langston to do, placing his hands on his own head. (Gov’t Ex. 4, 01:20–
+
+01:23.) Langston replied, “Who?” (Gov’t Ex. 3, 01:54.)
+
+        Rogers repeated his command. Retreating slightly from the officer, Langston replied,
+
+“Nah.” (Id., 01:55.) At this point, Langston was holding his right arm close against his body
+
+across his right jacket pocket, where Rogers suspected a gun was located based on the report from
+
+dispatch. Rogers believed Langston was attempting to keep the gun from moving around or being
+
+visible to the officer. Rogers repeated his commands at least twice more, and Langston continued
+
+to refuse. 7 (Id., 01:55–01:57.)
+
+        While Langston was refusing to follow Rogers’s directions, Officer Theriault approached
+
+The Bar from the opposite direction, having parked his cruiser near the intersection of Milk Street
+
+and Exchange Street. (Gov’t Ex. 4, 01:01–01:23.) Theriault, too, found Langston to match the
+
+description provided by dispatch. He perceived Langston as agitated and thought that Carr was
+
+trying to calm him down or keep him out of The Bar. As he approached, Theriault perceived
+
+Langston as refusing to comply with Rogers’s commands. Because he was approaching from
+
+behind, Theriault could not see Langston’s hands, so he believed Langston’s hands were in his
+
+jacket pockets. Based on the prior information that the individual in question was armed, Theriault
+
+was concerned that Langston might pull a weapon from his pocket.
+
+        At this point, Langston backpedaled such that he was within arms-reach of Theriault. As
+
+Langston turned around and discovered a second officer on the scene, Theriault immediately
+
+grabbed Langston’s right wrist and shoulder in order to deny him the opportunity to reach for a
+
+
+7
+ The Court notes that, when video of the stop was played during the hearing, Officer Rogers indicated that Langston
+said “no” in response to the officer’s command.
+
+
+                                                        4
+Case 2:21-cr-00166-GZS Document 61 Filed 06/29/22 Page 5 of 17                                  PageID #: 117
+
+
+
+
+weapon. (Gov’t Ex. 4, 01:24.) Langston attempted to break the officer’s hold and pull away.
+
+(Gov’t Ex. 3, 01:58–01:59.) As this happened, Rogers also grabbed onto Langston, who continued
+
+to struggle. (Id.) Theriault then deliberately dropped to the ground, pulling Langston down on top
+
+of him. As the three men continued to struggle on the ground, the officers believed that Langston
+
+was attempting to bring his hands to the front of his body, toward where they believed a gun was
+
+potentially located. (See Gov’t Ex. 1, 18:03–19:05; Gov’t Ex. 3, 02:00–03:00; Gov’t Ex. 4, 02:05–
+
+02:30.) They endeavored to keep Langston’s hands behind him.
+
+        During this time, Officer Cannell arrived on the scene and began assisting his colleagues
+
+in subduing Langston. (Gov’t Ex. 5, 03:39–03:52.) At various points during the struggle, the
+
+officers directed Langston to stop resisting, to put his hands behind his back, and to get on his
+
+stomach. (Gov’t Ex. 3, 02:00–03:00.) He did not comply with these commands. (Id.) After about
+
+a minute, the officers gained control of Langston’s person and Officer Rogers handcuffed him.
+
+(Id., 03:00–03:05.) During the struggle, Officer Theriault sustained an abrasion on his knee.
+
+        At this point, Theriault, still partially entangled with Langston, noted the grip of a pistol in
+
+plain view in Langston’s right pocket. Officer Rogers also saw the weapon. The officers secured
+
+the pistol and proceeded to search Langston’s person for other weapons. (Gov’t Ex. 3, 03:56–
+
+04:00; Gov’t Ex. 5, 05:50–06:50.) Langston, now in handcuffs, was then walked to Theriault’s
+
+cruiser. 8 (Gov’t Ex. 4, 04:51–05:16.) After adjusting Langston’s handcuffs in response to his
+
+complaints that they were too tight, Theriault conducted a more thorough search of Langston’s
+
+person, which yielded an additional loaded magazine.
+
+
+
+
+8
+ During this time Langston repeatedly asked Officer Theriault, “What was the probable cause?” In response, Officer
+Theriault told him, “You don’t need probable cause to come talk to you. You are a citizen in a public place.” Gov’t
+Ex. 4, 04:53–04:58.
+
+
+                                                        5
+Case 2:21-cr-00166-GZS Document 61 Filed 06/29/22 Page 6 of 17                      PageID #: 118
+
+
+
+
+        Langston was arrested for Refusing to Submit to Arrest or Detention, in violation of 17-A
+
+M.R.S.A. § 751-B. (See Def. Ex. 4.) Although he refused to identify himself to the responding
+
+officers, Langston was later identified by jail staff. (See id., Bates No. 00000035.)
+
+ II.        DISCUSSION
+
+        In October 2021, a federal grand jury charged Defendant with one count of felon in
+
+possession of a firearm, in violation of 18 U.S.C. § 922(g)(1), based on his possession of a .45
+
+caliber pistol on or about February 7, 2021. (Indictment (ECF No. 28), PageID # 51.) As noted
+
+in the Indictment, prior to that date, Defendant had been convicted of two Maine felonies: drug
+
+trafficking and theft. (Id.)
+
+        Defendant subsequently filed the present Motion to suppress all evidence obtained or
+
+derived from the just-described police encounter. Defendant advances two main grounds for
+
+suppression.    First, he argues that the officers lacked reasonable suspicion to perform an
+
+investigatory stop and weapons frisk under Terry v. Ohio, 392 U.S. 1 (1968). (Def. Mot. (ECF
+
+No. 39), PageID #s 71–73.) Second, he asserts that even if the police initially had reasonable
+
+suspicion to initiate the Terry stop, it evolved into a de facto arrest for which probable cause was
+
+lacking. (Id., PageID #s 73–74.). The Court considers each of these arguments in turn.
+
+        A. Terry Stop & Frisk
+
+        The Fourth Amendment “does not pretermit all searches and seizures, but only those that
+
+are unreasonable.” United States v. Rasberry, 882 F.3d 241, 246 (1st Cir. 2018). “Way back in
+
+1968, the Supreme Court held in Terry v. Ohio that officers may briefly detain a person based on
+
+reasonable suspicion that he committed, is committing, or will soon commit a crime — ‘even
+
+though there is no probable cause to make an arrest.’” United States v. Guerrero, 19 F.4th 547,
+
+554 (1st Cir. 2021) (quoting Terry, 392 U.S. at 22). In addition to allowing a brief detention, Terry
+
+held that officers “may also frisk the person for weapons if they have reasonable suspicion that he
+
+
+                                                 6
+Case 2:21-cr-00166-GZS Document 61 Filed 06/29/22 Page 7 of 17                        PageID #: 119
+
+
+
+
+is ‘armed and presently dangerous.’” Id. (quoting Terry, 392 U.S. at 30). However, “[t]he sole
+
+purpose of [a Terry frisk] is . . . to allow the officer to pursue his investigation without fear of
+
+violence.” Id. (internal quotation marks omitted).
+
+       Generally, the constitutionality of a Terry stop and its accompanying frisk will be reviewed
+
+separately, although “[s]ometimes . . . the reasonable suspicion of a crime that justifies a stop will
+
+also justify a frisk because the very nature of the crime poses a sufficient risk that the stopped
+
+individual is armed and dangerous.” United States v. Belin, 868 F.3d 43, 49 (1st Cir. 2017). As
+
+to a Terry stop, each stop “must be justified at its inception,” and “[t]hen, as the stop proceeds, the
+
+officers’ actions must be ‘reasonably related in scope to the circumstances which justified the
+
+interference.’” Rasberry, 882 F.3d at 247 (quoting United States v. Acosta-Colon, 157 F.3d 9, 14
+
+(1st Cir. 1998)). “[I]f a stop begins as a Terry stop but becomes too intrusive, it will morph into a
+
+de facto arrest.” Id. As to a Terry frisk, the dispositive question is “‘whether a reasonably prudent
+
+man in the circumstances would be warranted in the belief that his safety or that of others was in
+
+danger.’” Guerrero, 19 F.4th at 554 (quoting Terry, 392 U.S. at 27).
+
+           1. The Inception of the Stop
+
+       Before proceeding further, the Court must determine when this stop began for Fourth
+
+Amendment purposes. The answer to this question delimits what information can be attributed to
+
+the investigating officers for the purpose of establishing reasonable suspicion.
+
+       There are two main ways a Terry stop can start. First, the application of physical force
+
+with the intent to restrain constitutes a Fourth Amendment seizure regardless of whether the
+
+detainee submits to that force. See Torres v. Madrid, 141 S. Ct. 989, 1003 (2021). Second, “a
+
+stop instead may occur merely upon law enforcement making what the Supreme Court has termed
+
+a ‘show of authority.’” United States v. Fields, 823 F.3d 20, 25 (1st Cir. 2016) (citing United
+
+
+
+
+                                                  7
+Case 2:21-cr-00166-GZS Document 61 Filed 06/29/22 Page 8 of 17                      PageID #: 120
+
+
+
+
+States v. Mendenhall, 446 U.S. 544, 553–54 (1980)). However, a “show of authority effects a
+
+seizure only when the defendant actually yields or submits to the show of authority.” Id.
+
+        Here, if Langston had complied with Officer Rogers’s commands to put his hands on his
+
+head, this may well have constituted a sufficient show of authority to begin the stop for Fourth
+
+Amendment purposes. However, because Langston did not comply with Rogers’s instructions,
+
+the Court deems the stop to have initiated when Officer Theriault first grabbed his wrist and
+
+shoulder.
+
+            2. Was the Terry Stop Supported by Reasonable Suspicion?
+
+        “Reasonable suspicion requires there be both a particularized and an objective basis for
+
+suspecting the individual stopped of criminal activity.” United States v. Dapolito, 713 F.3d 141,
+
+148 (1st Cir. 2013). “The particularity requirement demands that the finding be ‘grounded in
+
+specific and articulable facts.’” Id. (quoting United States v. Hensley, 469 U.S. 221, 229
+
+(1985)). “The objective requirement dictates that [the Court] view the circumstances through the
+
+lens of a reasonable police officer.” Id. “The reasonable suspicion standard ‘defies precise
+
+definition,’ and ‘must be determined case by case.’” Id. (quoting United States v. Chhien, 266
+
+F.3d 1, 6 (1st Cir. 2001)). The standard “is based on the totality of the circumstances” and “entails
+
+a measurable degree of deference to the perceptions of experienced law enforcement officers.”
+
+United States v. Cruz-Rivera, 14 F.4th 32, 43–44 (1st Cir. 2021) (quoting United States v. Ruidíaz,
+
+529 F.3d 25, 29 (1st Cir. 2008)).
+
+        Here, at the outset of the Terry stop, the responding officers had the following information
+
+at their disposal: (1) the various accounts received from the three informants; (2) their own
+
+observations of Defendant’s appearance and behavior immediately preceding the stop; and (3)
+
+their law enforcement training and experience, which included their experience policing the Old
+
+Port.
+
+
+                                                 8
+Case 2:21-cr-00166-GZS Document 61 Filed 06/29/22 Page 9 of 17                            PageID #: 121
+
+
+
+
+            a. The Informants’ Accounts
+
+        The Court turns first to the accounts received from the neighbor, the security guard, and
+
+the manager of The Bar. “Information provided to police by third parties may create reasonable
+
+suspicion if the information contains sufficient ‘indicia of reliability.’” United States v. Jones, 700
+
+F.3d 615, 621 (1st Cir. 2012) (quoting Alabama v. White, 496 U.S. 325, 328 (1990)). “The
+
+reliability inquiry—like the reasonable suspicion inquiry itself—must be made in light of the
+
+totality of the circumstances.” United States v. Brown, 500 F.3d 48, 54 (1st Cir. 2007); see also
+
+United States v. White, 804 F.3d 132, 137 (1st Cir. 2015) (non-exhaustive list of factors for
+
+assessing reliability). Importantly, for purposes of conducting a Terry stop, “reasonable suspicion
+
+. . . requires that a tip be reliable in its assertion of illegality, not just in its tendency to identify a
+
+determinate person.” Florida v. J.L., 529 U.S. 266, 272 (2000).
+
+        As to the neighbor, Shawn, while this individual may have been initially reluctant to reveal
+
+his identity, by the time of the stop, he had disclosed his name, phone number, and address.
+
+Knowledge of a “tipster’s name, phone number, and address . . . matters . . . because it . . . ups the
+
+chance that [law enforcement] can come down hard on the tipster if the tip is false, and that threat
+
+ups the chance that the tip is reliable.” United States v. Sanchez, 817 F.3d 38, 43 (1st Cir. 2016).
+
+It is also clear on the present record that this informant made his observations firsthand and made
+
+his reports either contemporaneously with, or soon after, the events he witnessed. See Navarette
+
+v. California, 572 U.S. 393, 399–400 (2014) (“In evidence law, we generally credit the proposition
+
+that statements about an event and made soon after perceiving that event are especially trustworthy
+
+because substantial contemporaneity of event and statement negate the likelihood of deliberate or
+
+conscious misrepresentation.” (internal quotation marks omitted)). Furthermore, in his first call,
+
+he reported that the individual in question had punched another man—a violent, criminal act. See
+
+id. (finding sufficiently reliable anonymous tip suggesting informant had eyewitness knowledge
+
+
+                                                     9
+Case 2:21-cr-00166-GZS Document 61 Filed 06/29/22 Page 10 of 17                        PageID #: 122
+
+
+
+
+of dangerous driving and reported the incident soon after it occurred). It is true that Defendant’s
+
+absence from the scene during the officer’s initial visit did not align with this informant’s assertion
+
+some minutes earlier that the man was “still outside yelling.” (Gov’t Ex. 6); see also United States
+
+v. Monteiro, 447 F.3d 39, 46 (1st Cir. 2006) (“When an initial police investigation into a tip of
+
+illegal activity reveals factors inconsistent with the tip, the reasonable suspicion analysis must take
+
+these indicia of unreliability into account along with any indicia of reliability.”). However, the
+
+neighbor’s account was largely borne out on the officers’ second visit, when they encountered a
+
+black man wearing a hat with an embroidered horn design who appeared agitated and engaged in
+
+what appeared to be an argument outside The Bar.
+
+       As to the information obtained directly from the security guard, the guard does not appear
+
+to have provided an in-depth description of the combatants. However, his account, obtained
+
+firsthand by the officers investigating the initial 911 call, ultimately corroborated both of the other
+
+accounts. First, the guard acknowledged that there had been an altercation only minutes prior, as
+
+reported by the neighbor. Second, the account also predicted that there could be a recurrence if
+
+the two individuals met again, lending credibility and urgency to the manager’s later call reporting
+
+that the individual had returned with a weapon in search of the man he had previously punched.
+
+       As to the thirdhand account obtained from The Bar’s manager, it lacks some indicia of
+
+reliability when viewed in isolation. To this day, the originator of the information conveyed by
+
+the guard to the manager remains unknown and, as a result, the police were unable to gauge the
+
+reliability of this individual directly. See Monteiro, 447 F.3d at 45–48 (finding a “hearsay tip”
+
+alone could not provide reasonable suspicion). On the other hand, the account was detailed and
+
+largely predicted what the responding officers found.           The manager’s account was also
+
+corroborated by the other informants, as all three imputed violent behavior to a single individual
+
+
+
+
+                                                  10
+Case 2:21-cr-00166-GZS Document 61 Filed 06/29/22 Page 11 of 17                                     PageID #: 123
+
+
+
+
+within a short window of time. Furthermore, the tip suggested an ongoing and imminent threat to
+
+public safety, which may be accorded special weight. See id. at 49 (acknowledging “there may be
+
+a rationale for according special weight to anonymous tips in cases of an imminent threat to public
+
+safety” (citing J.L., 529 U.S. at 273–74)); see also Ruidíaz, 529 F.3d at 31 n.2 (relevant to
+
+reliability inquiry that tip “referenced an ongoing emergency,” as “reports about ongoing
+
+emergencies, by virtue of their very nature, necessitate quick action”). In sum, the manager’s call
+
+is relevant to the evaluation of the totality of the circumstances, even if it may have been
+
+insufficiently reliable to support reasonable suspicion by itself. 9
+
+         Defendant suggests that reasonable suspicion is lacking because Rogers and Theriault did
+
+not stop to further investigate the credibility of the manager’s account.                        (See Def. Reply,
+
+PageID # 100.) It is true that “Terry stops may become . . . less reasonable if the police have had
+
+the time to develop better grounds for the stop but have failed to do so.” Monteiro, 447 F.3d at 49
+
+(internal quotation marks omitted). However, this is not such a case. First, as discussed, the
+
+manager’s account was not the only information at the officers’ disposal at the time of the stop.
+
+Second, this was not a case where the officers “had the time.” Id. Importantly, the manager’s
+
+account suggested a potentially imminent crime, which officers could still step in to prevent, as
+
+opposed an already completed one for which haste would be less urgent. See Hensley, 469 U.S.
+
+at 228 (noting “factors in the balance may be somewhat different” when “a stop to investigate
+
+ongoing criminal conduct” is involved rather than “a stop to investigate past criminal activity”).
+
+
+
+
+9
+  During the hearing, Defendant focused in significant part on the shortcomings of the manager’s tip when viewed in
+isolation. However, a report’s mutual corroboration by multiple independent sources is a highly material indicator of
+reliability. See United States v. Vandergroen, 964 F.3d 876, 880 (9th Cir. 2020) (“The existence of multiple tipsters,
+though anonymous, mitigates the specter of ‘an unknown, unaccountable informant . . . seeking to harass another [by]
+set[ting] in motion an intrusive, embarrassing police search’ by relaying false information.” (alterations in original)
+(quoting J.L., 529 U.S. at 271–72)). Here, the reports obtained from these three informants were not contradictory
+but, rather, mutually corroborative where they overlapped.
+
+
+                                                         11
+Case 2:21-cr-00166-GZS Document 61 Filed 06/29/22 Page 12 of 17                                   PageID #: 124
+
+
+
+
+             b. The Officers’ Observations & Experience
+
+        Beyond the three corroborating accounts, the Court’s analysis of the totality of the
+
+circumstances must also consider the officers’ observations upon their arrival at the scene. First,
+
+Defendant’s appearance matched the descriptions provided by both the neighbor and the manager,
+
+further corroborating both informants’ accounts. See Jones, 700 F.3d at 622 (“Corroboration of
+
+apparently innocent activity can establish the reliability of the informant because the activity might
+
+come to appear suspicious in light of the initial tip.” (quoting United States v. Greenburg, 410 F.3d
+
+63, 69 (1st Cir. 2005)). Additionally, having viewed all of the footage entered into evidence in
+
+this case, the Court agrees that a reasonable officer would have found that Langston appeared to
+
+be agitated and in a dispute with an individual who seemed to be preventing him from entering a
+
+crowded bar. 10 The video evidence also shows that Langston’s right arm was held in a position
+
+that would align with the presence of a weapon, further corroborating the manager’s account that
+
+Langston possessed a weapon. 11 While reasonable suspicion must be based on “more than just
+
+nervousness and furtive movements in questionable surroundings,” the information is nonetheless
+
+part of the totality of the circumstances. United States v. Awer, 770 F.3d 83, 91 (1st Cir. 2014);
+
+see also id. at 91–92 (finding no basis for clear error in district court’s finding that various
+
+movements were “suspicious”).             Furthermore, from Theriault’s perspective it appeared that
+
+Langston’s hands were actually in his pockets, corroborating that part of the manager’s call as
+
+well.
+
+
+
+10
+  The Court acknowledges Carr’s testimony that this encounter may have been friendlier than it appeared, but the
+officers did not have this context and the Court finds their impression of the scene they observed to have been
+objectively reasonable.
+11
+   Although possession of a firearm can be innocent, the corroboration of this part of the call nonetheless adds
+credibility to the manager’s other assertions. See Jones, 700 F.3d at 622; cf. United States v. Centeno-González, 989
+F.3d 36, 46 (1st Cir. 2021) (in reviewing a warrantless arrest, finding officers’ observation of “entirely innocent”
+conduct “enough to corroborate the information provided by . . . two callers”).
+
+
+                                                        12
+Case 2:21-cr-00166-GZS Document 61 Filed 06/29/22 Page 13 of 17                     PageID #: 125
+
+
+
+
+       Also, Langston repeatedly refused to cooperate with Rogers’s commands to place his hands
+
+on his head. “[A] refusal to cooperate, without more, does not furnish the minimal level of
+
+objective justification needed for a detention or seizure.” Florida v. Bostick, 501 U.S. 429, 437
+
+(1991) (citations omitted). Here, however, Langston’s refusal was far from the only factor present
+
+and it undeniably and reasonably increased the level of suspicion, particularly given the officers’
+
+experience with the Old Port and the people frequenting its establishments on a weekend night.
+
+See United States v. McKoy, 428 F.3d 38, 40 (1st Cir. 2005) (“[P]olice are permitted to take the
+
+character of a neighborhood into account when assessing whether a stop is appropriate,” albeit “it
+
+is only one factor that must be looked at alongside all the other circumstances when assessing the
+
+reasonableness of the officers’ fear for their safety.”).
+
+           c. Conclusion on Reasonable Suspicion at Outset of Terry Stop
+
+       Reviewing the totality of the circumstances, the Court concludes that the stop was
+
+supported at the outset by reasonable suspicion. The officers had reasonable suspicion to believe
+
+that Langston had committed a crime and was poised to commit another. Specifically, the Court
+
+finds that the officers had reasonable suspicion that Langston had punched another individual
+
+earlier in the night and was poised to menace this same individual with a firearm within the close
+
+confines of a crowded bar.
+
+           3. Was the Terry Frisk Supported by Reasonable Suspicion?
+
+       As to the Terry frisk, “[w]hen an officer has a reasonable suspicion that a crime of violence
+
+has occurred, the same information that will support an investigatory stop will without
+
+more support a frisk.” United States v. Mouscardy, 722 F.3d 68, 75 (1st Cir. 2013) (internal
+
+quotation marks omitted) (emphasis in original). As just noted, the officers here had reasonable
+
+suspicion to believe that Langston had assaulted another individual shortly before they
+
+encountered him outside The Bar. The Court’s analysis could therefore very well end here.
+
+
+                                                  13
+Case 2:21-cr-00166-GZS Document 61 Filed 06/29/22 Page 14 of 17                                        PageID #: 126
+
+
+
+
+         Nonetheless, the Court alternatively concludes that the combination of the informants’
+
+statements, the position of Langston’s arm close to his pocket, his apparent agitation, his apparent
+
+attempt to enter The Bar, and his refusal to place his hands on his head independently provided the
+
+officers reasonable suspicion to believe that he was armed and posed a danger to the safety of both
+
+the officers themselves and the innocent bystanders in and around The Bar. See id., at 75–76
+
+(concluding that pat-frisk was justified in part by the “conduct and disposition” of individual who
+
+“became agitated and nervous” during stop); United States v. Dubose, 579 F.3d 117, 122 (1st Cir.
+
+2009) (suspect’s refusal to remove hand from pocket contributed to reasonable suspicion); United
+
+States v. Soares, 521 F.3d 117, 121 (1st Cir. 2008) (suspect’s refusal of order to keep hands in
+
+view contributed to reasonable suspicion); see also Terry, 392 U.S. at 27 (“[T]he issue is whether
+
+a reasonably prudent man in the circumstances would be warranted in the belief that his safety or
+
+that of others was in danger.”). This finding is further buttressed by the responding officers’
+
+experience and training, along with the reputation of the area. 12 See United States v. Arvizu, 534
+
+U.S. 266, 273 (2002) (Reasonable suspicion analysis “allows officers to draw on their own
+
+experience and specialized training to make inferences from and deductions about the cumulative
+
+information available to them that might well elude an untrained person.” (internal quotation marks
+
+omitted)).
+
+
+
+
+12
+   The Court further notes that the Terry frisk, unlike the broader investigatory stop, did not commence until after the
+minute-long struggle on the ground. Accordingly, the officers could also look to Defendant’s conduct during that
+struggle, including his noncompliance with their repeated commands. See, e.g., United States v. Cardona-Vicente,
+817 F.3d 823, 828 (1st Cir. 2016) (Although the “violation that justified the initial stop . . . would have been clearly
+insufficient to justify a pat-frisk, several factors became apparent as the . . . stop progressed which were sufficient to
+give rise to a reasonable suspicion that there was a gun in [defendant’s possession].”); Soares, 521 F.3d at 120.
+
+
+                                                           14
+Case 2:21-cr-00166-GZS Document 61 Filed 06/29/22 Page 15 of 17                      PageID #: 127
+
+
+
+
+           4. Evolution of the Terry Stop
+
+       The Court now turns to Defendant’s argument that the officers’ actions exceeded the
+
+bounds of a permissible Terry stop and engaged in a de facto arrest, which must be supported by
+
+probable cause, a higher standard than reasonable suspicion. (Def. Mot., PageID #s 73–74.)
+
+       The “dispositive question” for determining whether a Terry stop has morphed into a de
+
+facto arrest “is whether a reasonable person standing in the suspect’s shoes would understand his
+
+position ‘to be tantamount to being under arrest.’” Rasberry, 882 F.3d at 247 (quoting United
+
+States v. Zapata, 18 F.3d 971, 975 (1st Cir. 1994)). That said, during a Terry stop officers are
+
+“allowed . . . to take measures that are reasonably calculated to protect themselves or others from
+
+harm,” so long as “such prophylactic measures [are] proportionate to the perils associated with the
+
+particular circumstances.” Id. “Security precautions, such as the use of handcuffs, must be based
+
+on the officers’ ‘reasonable belief that the use of such restraints was necessary to carry out the
+
+legitimate purposes of the stop without exposing law enforcement officers, the public, or the
+
+suspect himself to an undue risk of harm.’” Id. at 247–48 (quoting Acosta-Colon, 157 F.3d at 19);
+
+see also United States v. Pontoo, 666 F.3d 20, 30–31 (1st Cir. 2011) (explaining that “prophylactic
+
+measures can be employed in combination”).
+
+       Here, the steps the officers took were proportionate and responsive to the circumstances
+
+that emerged during the stop. First, the officers, already in receipt of three mutually corroborative
+
+informant accounts, discovered Langston in an agitated state and believed he was attempting to
+
+enter The Bar. When Langston then failed to place his hands on his head and submit to a verbal
+
+show of authority, the officers were justified in seeking to physically restrain him. When Langston
+
+reacted by pulling away and struggling with Officer Theriault, it was reasonable for the officers to
+
+take further steps to subdue him. When the officers came to believe Langston was actively
+
+attempting to access his front pocket, where they suspected he had a gun, it became reasonable to
+
+
+                                                 15
+Case 2:21-cr-00166-GZS Document 61 Filed 06/29/22 Page 16 of 17                        PageID #: 128
+
+
+
+
+pin his hands behind his back and handcuff him. See, e.g., Rasberry, 882 F.3d at 248; United
+
+States v. Meadows, 571 F.3d 131, 141 (1st Cir. 2009) (distinguishing use of handcuffs in Acosta-
+
+Colon, where “no facts justified the handcuffing, since nothing indicated resistance or
+
+belligerence” and “there was no evidence that any of the . . . officers harbored an actual suspicion
+
+that [defendant] was armed”) (internal quotation marks omitted)); United States v. Maguire, 359
+
+F.3d 71, 77–79 (1st Cir. 2004) (concluding stop did not amount to a de facto arrest although the
+
+defendant, armed with a knife, had been “wrestled to the ground” by officers).
+
+       In the Court’s view, the facts of this case do not rise to the level of a de facto arrest.
+
+       B. Search Incident to Arrest
+
+       That said, the Government alternatively argues that even if the Terry stop here were
+
+unconstitutional, the officers were entitled to search Defendant’s person under the search incident
+
+to arrest exception to the Fourth Amendment’s warrant requirement. (Gov’t Response, PageID #s
+
+91–93.) Under this exception, officers carrying out a lawful arrest have the authority to make a
+
+warrantless search of the arrestee’s person. See, e.g., Birchfield v. North Dakota, 579 U.S. 438,
+
+458–61 (2016) (discussing provenance of exception). “The search incident to arrest warrant
+
+exception is premised on protecting officers and preventing evidence destruction[.]” Alasaad v.
+
+Mayorkas, 988 F.3d 8, 17 (1st Cir. 2021). Despite these narrow underpinnings, it has long since
+
+been established that “[t]he constitutionality of a search incident to an arrest does not depend on
+
+whether there is any indication that the person arrested possesses weapons or evidence. The fact
+
+of a lawful arrest, standing alone, authorizes a search.” Maryland v. King, 569 U.S. 435, 449
+
+(2013) (quoting Michigan v. DeFillippo, 443 U.S. 31, 35 (1979)).
+
+       The Court agrees with the Government. Once Langston refused to comply with the
+
+officers’ directions and then used physical force against them, they had probable cause to believe
+
+he had committed the crime of Refusing to Submit to Arrest or Detention, in violation of 17-A
+
+
+                                                  16
+Case 2:21-cr-00166-GZS Document 61 Filed 06/29/22 Page 17 of 17                                         PageID #: 129
+
+
+
+
+M.R.S.A. § 751-B. 13 Accordingly, the officers had grounds to arrest him for that intervening crime
+
+and conduct a search incident to arrest. 14
+
+III.          CONCLUSION
+
+         For the foregoing reasons, Defendant’s Motion to Suppress Evidence (ECF No. 39) is
+
+hereby DENIED.
+
+         SO ORDERED.
+
+                                                                  /s/ George Z. Singal
+                                                                  United States District Judge
+
+Dated this 29th day of June, 2022.
+
+
+
+
+13
+   “A person is guilty of refusing to submit to arrest or detention if, with the intent to hinder, delay or prevent a law
+enforcement officer from effecting the arrest or detention of that person, the person . . . [r]efuses to stop on request or
+signal of a law enforcement officer . . . ; [u]ses physical force against the law enforcement officer . . . .” 17-A M.R.S.A.
+§ 751-B(1)(A) & (B). Defendant’s conduct implicated the just-quoted portions of the statute.
+          Insofar as Defendant argued during the hearing that his resistance was defensible, the Court finds no basis
+for this assertion. Putting aside all other issues, the argument fails on its own terms. Section 751-B contains two
+defenses, neither of which apply here. A more general defense is located in 17-A M.R.S.A. § 108(1-A). Under this
+defense, “[a] person is justified in using the degree of nondeadly force the person reasonably believes is necessary to
+defend the person . . . against a law enforcement officer who, in effecting an arrest or detention, uses nondeadly force
+not justified under section 107, subsection 1.” However, the Court does not find any basis to conclude that Defendant
+reasonably believed he needed to defend himself. This was not suggested by the evidence before the Court, and
+Defendant freely chose not to testify. Accordingly, this defense, too, is precluded.
+14
+   To be clear, Defendant’s commission of a new crime during the intervening period between the Terry stop and the
+search does not retroactively affect the constitutionality of the Terry stop. Rather, it implicates an exception to the
+exclusionary rule, the so-called “attenuation doctrine,” under which “[e]vidence is admissible when the connection
+between unconstitutional police conduct and the evidence is remote or has been interrupted by some intervening
+circumstance[.]” Utah v. Strieff, 579 U.S. 232, 238 (2016) (internal quotation marks omitted). The Court finds the
+facts here to resemble past examples of cases where the First Circuit has applied this exception. See United States v.
+King, 724 F.2d 253, 256 (1st Cir. 1984) (assuming illegality of initial police conduct but denying suppression of
+evidence against passenger when driver of car committed intervening act of shooting at officers and thereby provided
+probable cause to search); cf. United States v. Camacho, 661 F.3d 718, 722, 730–31 (1st Cir. 2011) (granting
+suppression of evidence where defendant’s resistance of officers occurred after discovery of weapon during illegal
+frisk and was therefore not intervening act).
+
+
+                                                            17
+

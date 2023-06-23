@@ -1,0 +1,1340 @@
+             Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 1 of 27
+
+
+
+                              UNITED STATES DISTRICT COURT
+                               DISTRICT OF MASSACHUSETTS
+
+
+LISTON D. CALLWOOD,                       )
+                                          )
+                Petitioner,               )
+        v.                                )       CRIMINAL ACTION NO. 09-10313-JLT
+                                          )
+UNITES STATES OF AMERICA,                 )
+                                          )
+                Respondent.               )
+
+
+                REPORT AND RECOMMENDATION ON MOTION
+               TO VACATE, SET ASIDE OR CORRECT SENTENCE
+                       PURSUANT TO 28 U.S.C. § 2255
+
+                                              March 7, 2014
+DEIN, U.S.M.J.
+                                       I. INTRODUCTION
+
+        On April 7, 2010, the Petitioner, Liston D. Callwood, pleaded guilty to a one-count
+
+indictment charging him with being a felon in possession of a firearm and ammunition. He was
+
+sentenced as an armed career criminal to a term of imprisonment of 15 years, to be followed by
+
+five years of supervised release. His sentence and conviction were affirmed by the First Circuit in
+
+a summary opinion issued on April 27, 2012. United States v. Callwood, Docket No. 11-1556.
+
+        On August 6, 2013, Callwood filed the instant “Motion Under 28 U.S.C. § 2255 to
+
+Vacate, Set Aside, or Correct Sentence by a Person in Federal Custody.” (Docket No. 59)
+
+(“Mot.”). Therein he raises the following Grounds: (1) that he was denied effective assistance of
+
+counsel, in violation of his Sixth Amendment rights, due to the fact that counsel failed to file a
+
+writ of certiorari following the denial of his appeal, and failed to so notify the Petitioner in a
+
+timely manner; (2) that he was denied effective assistance of counsel, in violation of his Sixth
+           Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 2 of 27
+
+
+
+Amendment rights, due to, inter alia, counsel’s failure to file a motion to suppress, failure to
+
+challenge the sufficiency of the warrant, failure to challenge the authenticity of the alleged drugs
+
+recovered, and failure to challenge possession of a firearm seized during the execution of the
+
+search warrant; and (3) that he received an illegal sentence that was enhanced by factors that were
+
+not presented in the charging indictment nor presented to a jury. Callwood has requested an
+
+evidentiary hearing to resolve all factual disputes.
+
+       The government contends that the Motion is untimely and without merit. Thus, the
+
+government argues that the matter should be summarily dismissed, or denied on the merits
+
+without a hearing. In response, Callwood contends that the doctrine of equitable tolling should
+
+apply, and that this court should consider the merits of his claim and not dismiss it as untimely.
+
+       For the reasons detailed herein, this court recommends to the District Judge to whom this
+
+case is assigned that the Motion to Vacate be DENIED. Not only is the Motion untimely, but it
+
+also fails to state a claim warranting § 2255 relief. No evidentiary hearing is required.
+
+                                  II. STATEMENT OF FACTS
+
+                                      Procedural Background
+
+       According to Callwood, this case began as a drug investigation conducted by the Boston
+
+Police Department Special Investigation Unit. (Pet. Mem. (Docket No. 62) at 2). In response to
+
+information provided by an unidentified confidential informant, the Boston Police obtain a “no-
+
+knock” search warrant for an apartment which Callwood was known to visit on occasion. (Id.).
+
+The warrant was executed on March 19, 2009 by Boston Police and others. (Id.). Callwood was
+
+arrested and charged with a series of criminal offenses. (Id.).
+
+
+
+
+                                                  -2-
+           Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 3 of 27
+
+
+
+       On April 8, 2009, a criminal complaint was issued against Callwood in the United States
+
+District Court, District of Massachusetts, charging him with being a felon in possession of a
+
+firearm and ammunition. (Docket No. 1). He was arrested on this charge while in state custody
+
+on September 18, 2009. This court appointed the Federal Defenders’ Office to represent him.
+
+(Docket Entry 9/18/09). On or about September 19, 2009, all state charges against Callwood
+
+were nolle prossed. (Pet. Mem. at 2). Callwood retained private counsel, Michael Doolin, to
+
+replace the Federal Defenders’ Office. (Docket Entry 9/23/09). Attorney Doolin represented him
+
+throughout the District Court proceedings and appeal to the First Circuit.
+
+       On October 21, 2009, a federal grand jury, sitting in Boston, returned a one-count
+
+indictment charging Callwood with being a felon in possession of a firearm and ammunition, in
+
+violation of 18 U.S.C. § 922(g)(1). (Docket No. 6). Callwood was arraigned on October 30,
+
+2009. (Docket Entry 10/30/09). He pleaded guilty on April 7, 2010, and was sentenced a year
+
+later, on April 7, 2011, as an armed career criminal. (Docket Entries 4/7/10, 4/7/11).
+
+                                    The Pre-Sentence Report
+
+       In connection with his sentencing, the Massachusetts Probation Department issued a Pre-
+
+Sentence Report (“PSR”) with a final date of December 10, 2010. Therein, Probation noted that
+
+Callwood would be entitled to a 3 level reduction in his offense level due to his acceptance of
+
+responsibility. (PSR ¶¶ 19, 29, 33). Without an enhancement as an armed career criminal
+
+pursuant to 18 U.S.C. § 924(e), this would have brought Callwood’s offense level down to 25.
+
+(PSR ¶ 30).1 However, as an armed career criminal, Probation determined that his offense level
+
+
+       1
+          In calculating his offense level as 25, Probation had added 4 points on the grounds that
+the defendant used or possessed a firearm in connection with another felony offense, specifically
+drug distribution. (PSR ¶ 24). Callwood challenged this finding on the grounds that there was
+
+                                                -3-
+             Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 4 of 27
+
+
+
+was 31 (34 minus 3). (PSR ¶¶ 32-34). Moreover, as an armed career criminal, Probation
+
+determined that Callwood was subject to a minimum 15 year sentence of imprisonment. (PSR
+
+¶ 135).
+
+          In identifying Callwood as an armed career criminal, the Probation Department relied on
+
+two prior drug convictions and four crimes of violence. Specifically, the following convictions
+
+were identified in the PSR as predicates for Callwood’s armed career criminal status (see PSR
+
+¶ 62):
+
+                 PSR ¶ 39       Manufacturing/distributing/dispensing a Class B controlled
+                                substance (1991)
+
+                 PSR ¶ 43       Assault & battery on a police officer (1993)
+
+                 PSR ¶ 45       Possession with intent to distribute/manufacture a Class B
+                                controlled substance (1994)
+
+                 PSR ¶ 51       Assault & battery on a police officer; resisting arrest (1998)
+
+                 PSR ¶ 55       Resisting arrest; assault & battery on a police officer (2004)
+
+                 PSR ¶ 56       Resisting arrest (2007)
+
+          Callwood filed objections to the PSR. (Docket No. 23). He also filed a Sentencing
+
+Memorandum. (Docket No. 35). Therein he challenged his offense level calculation. (See note
+
+1, supra). He argued further that Probation erred in concluding that he was an armed career
+
+offender. Specifically, but without limitation, Callwood argued that “any prior convictions for
+
+career offender sentencing enhancement purposes violates his Fifth and Sixth Amendment rights
+
+
+
+“no evidence of any cocaine possession, let alone distribution, because the government did not
+analyze the substance alleged to be cocaine” and the small amount of marijuana found in any
+proximity to the firearm suggested personal use as opposed to distribution. (Docket No. 35 at 8).
+Thus, he argued, the appropriate level was 21. (Id. at 11).
+
+                                                  -4-
+           Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 5 of 27
+
+
+
+that the matters be pleaded in the indictment and proven to a jury beyond a reasonable doubt
+
+before they may be considered as career offender predicate convictions.” (Docket No. 35 at 1).
+
+In addition, relying on Johnson v. United States, 559 U.S. 133, 130 S. Ct. 1265, 176 L. Ed. 2d 1
+
+(2010), and United States v. Holloway, 499 F.3d 114 (1st Cir. 2007), Callwood argued that the
+
+assault crimes of which he had been previously convicted did not involve the requisite “violent
+
+force” to qualify as “violent felonies” so as to serve as predicates for armed career offender status.
+
+(Docket No. 35 at 2-5).
+
+       Callwood’s objections were overruled by the trial judge. Thus, the trial judge accepted
+
+the PSR conclusion that Callwood was an armed career criminal, and sentenced him to 15 years
+
+imprisonment followed by five years of supervised release. (Docket No. 38).
+
+                                        Callwood’s Appeal
+
+       Callwood filed a notice of appeal on April 14, 2011. (Docket No. 37).2 Callwood’s
+
+counsel filed his appellate brief on September 21, 2011. (Gov’t Opp. (Docket No. 61) at 4). The
+
+government moved for a summary disposition on October 24, 2011. (Id.). On April 27, 2012,
+
+the First Circuit allowed the government’s motion, and issued its judgment. (Docket No. 56).
+
+The First Circuit ruled that assault and battery on a police officer (ABPO) and resisting arrest are
+
+categorically “violent felonies” for armed career criminal purposes, as previously established in
+
+United States v. Dancy, 640 F.3d 455, 470 (1st Cir.), cert. denied, 132 S. Ct. 564, 181 L. Ed. 2d
+
+407 (2011), and United States v. Weekes, 611 F.3d 68, 73 (1st Cir. 2010), cert. denied, 131 S.
+
+
+
+       2
+           On or about July 7, 2011, Callwood filed a letter with the court asking for a lawyer on
+appeal. (Docket No. 48). This request was denied by the District Judge on July 13, 2011 due to
+the fact that the records indicated that Attorney Doolin was still representing Callwood. (See
+Docket No. 50).
+
+                                                 -5-
+           Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 6 of 27
+
+
+
+Ct. 3021, 180 L. Ed. 2d 850 (2011) (reaffirming United States v. Almenas, 553 F.3d 27 (1st Cir.
+
+2009)). The First Circuit further ruled that the fact that the jury did not find beyond a reasonable
+
+doubt that he had the requisite predicate felonies did not violate Callwood’s constitutional rights,
+
+as previously established in United States v. Farrell, 672 F.3d 27, 37 n.12 (1st Cir. 2012) (citing
+
+Amendarez-Torres v. United States, 523 U.S. 224 (1998)).
+
+                                        Post-Appeal Events
+
+       It is undisputed that Callwood did not submit a petition for a writ of certiorari with the
+
+Supreme Court of the United States within 90 days of the April 27, 2012 entry of judgment by the
+
+First Circuit, and that, as a result, his conviction became final on July 26, 2012. See Clay v.
+
+United States, 537 U.S. 522, 532, 123 S. Ct. 1072, 1079, 155 L. Ed. 2d 88 (2003) (one year
+
+period for filing habeas petition begins to run when time for seeking certiorari expires); Ramos-
+
+Martinez v. United States, 638 F.3d 315, 321 (1st Cir. 2011) (writ of certiorari must be filed
+
+within 90 days of entry of judgment by a court of appeals). The parties agree further that
+
+Callwood filed his instant motion under § 2255 on August 6, 2013, when he mailed it to the court.
+
+(See Gov’t Resp. (Docket No. 64) at 2-3). The parties agree that the one year period permitted
+
+for filing his motion to vacate expired on July 26, 2013, so the filing was late. (Id.). Since
+
+Callwood contends that his counsel failed to honor his instructions to file a petition for certiorari,
+
+and that equitable tolling should apply despite the untimeliness of his present motion, the events
+
+following the First Circuit’s decision will be detailed herein.
+
+       According to Callwood, he spoke to his counsel in May 2012 regarding the denial of his
+
+direct appeal, and his attorney promised to file a writ of certiorari on his behalf. (Pet. Mem. at 2;
+
+
+
+
+                                                  -6-
+             Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 7 of 27
+
+
+
+see also Callwood Aff. (Docket No. 65-1) at ¶¶ 3-5). Callwood has submitted what purports to
+
+be a letter from his counsel, dated May 1, 2012, in which counsel wrote:
+
+                I have enclosed the judgment of the First Circuit denying our appeal. I will
+                work on getting the Dorchester Court case closed during the month of
+                May. Please call collect with any questions that you have. The best time
+                to get me is at 4:30 p.m. or Sunday afternoon.
+
+(Pet. Mem. at Ex. A).3 Thus, there is nothing in the May 2012 communication which indicated a
+
+promise to file a petition for a writ of certiorari.
+
+         Callwood does not allege any further communications with counsel in the 90 day period
+
+for filing the certiorari petition. The next communication to which he refers is what purports to
+
+be a letter from counsel dated January 8, 2013. (See Callwood Aff. at ¶ 6). Therein counsel
+
+wrote:
+
+                I will resolve the Dorchester case for you. Please give me a collect call late
+                in the afternoon. I haven’t in any way tried to ignore you or your
+                concerns.
+
+(Pet. Mem. at Ex. B). Again, there is no mention in the written communication about filing a
+
+petition for a writ of certiorari.
+
+         There is no additional evidence in the record of any communication with counsel within
+
+the one year period for filing the § 2255 motion. The next communication submitted by Callwood
+
+purports to be a copy of a letter he sent to Attorney Doolin on July 30, 2013, shortly after the one
+
+year period expired. (See Callwood Aff. ¶ 9). Therein Callwood complains about not being able
+
+to reach counsel for about a month, and asserts that counsel had not responded to his inquiries
+
+
+         3
+          Callwood has submitted the same documents as exhibits to his Opposition to the
+government’s Response to the Motion to Vacate (Docket No. 65) (“Pet. Opp.”), plus an
+additional letter dated October 8, 2013 from the U.S. Supreme Court confirming that he has no
+case pending there.
+
+                                                   -7-
+             Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 8 of 27
+
+
+
+either by mail or phone. (Pet. Mem. at Ex. D). He further asserts that “it is my understanding
+
+that you would have filed a writ of certiorari with the United States Supreme Court” on his
+
+behalf. (Id.). On the same day, July 30, 2013, it appears that Callwood wrote the United States
+
+Supreme Court to inquire about “the status of my writ of certiorari[.]” (Pet. Mem. at Ex. D-2).
+
+        In his Affidavit, Callwood asserts that through his wife he then “became alerted on or
+
+about August 2, 2013 to the facts [sic] that I did not have a writ of certiorari filed with U.S.
+
+Supreme Court.” (Callwood Aff. ¶¶ 13, 15). He then filed his motion under 28 U.S.C. § 2255 on
+
+August 6, 2013. (Id. ¶ 14). He contends that if he had known that Attorney Doolin had failed to
+
+file a writ of certiorari on his behalf, he would have filed one pro se. (Id. ¶ 17). In addition, he
+
+contends that he would have filed his motion under § 2255 within the one year period allowed
+
+under the AEDPA. (Id. ¶ 18).
+
+        Additional facts will be provided below where appropriate.
+
+                                          III. ANALYSIS
+
+        A.      Standard of Review
+
+        28 U.S.C. § 2255 “contemplates four potential bases on which a federal prisoner may
+
+obtain relief: (1) ‘that the sentence was imposed in violation of the Constitution or laws of the
+
+United States’; (2) ‘that the court was without jurisdiction to impose such sentence’; (3) ‘that the
+
+sentence was in excess of the maximum authorized by law’; or (4) that the sentence ‘is otherwise
+
+subject to collateral attack.’” Damon v. United States, 732 F.3d 1, 3 (1st Cir. 2013) (quoting 28
+
+U.S.C. § 2255(a)). The final category includes “only assignments of error that reveal fundamental
+
+defects which, if uncorrected, will result in a complete miscarriage of justice, or irregularities that
+
+are inconsistent with the rudimentary demands of fair procedure.” David v. United States, 134
+
+
+                                                  -8-
+            Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 9 of 27
+
+
+
+F.3d 470, 474 (1st Cir 1998) (quotation omitted). See also Moreno-Morales v. United States,
+
+334 F.3d 140, 148 (1st Cir. 2003). “Section 2255 is not a surrogate for a direct appeal[,]” and
+
+the burden is on the petitioner to establish that he is entitled to relief under § 2255. David v.
+
+United States, 134 F.3d at 474.
+
+       In the instant case, Callwood has brought claims for ineffective assistance of counsel.
+
+These claims may be brought under 28 U.S.C. § 2255. See United States v. King, 741 F.3d 305,
+
+310 n.3 (1st Cir. 2014) (“The defendant may, of course, pursue such a claim [of ineffective
+
+assistance of counsel] through a petition for collateral relief under 28 U.S.C. § 2255.”).4 Accord
+
+United States v. Neto, 659 F.3d 194, 203 (1st Cir. 2011). Similarly, Callwood’s contention that
+
+he was improperly classified as an armed career criminal in violation of his constitutional rights is
+
+appropriately decided in a § 2255 motion. See United States v. Duval, 957 F. Supp. 2d 100, 105-
+
+06 (D. Mass. 2013) (court considers contention that predicate assault did not qualify as a violent
+
+felony in the context of a § 2255 petition). Nevertheless, for the reasons detailed herein, this
+
+court concludes that Callwood’s § 2255 motion should be denied.
+
+       B.      Evidentiary Hearing
+
+       As an initial matter, Callwood has requested an evidentiary hearing to resolve all disputed
+
+issues of fact. This court recommends that the request for a hearing be denied, as Callwood has
+
+not met his burden of establishing the need for such a hearing. As the First Circuit has explained:
+
+               Section 2255 requires an evidentiary hearing “(u)nless the motion and the
+               files and records of the case conclusively show that the prisoner is entitled
+               to no relief.” Rule 4(b) of the Rules Governing § 2255 Proceedings.
+
+
+       4
+          Where, as here, trial and appellate counsel are one and the same, claims of ineffective
+assistance of counsel are also typically brought in a motion for a new trial. Barry v. Ficco, 392 F.
+Supp. 2d 83, 97 (D. Mass. 2005), and cases cited.
+
+                                                 -9-
+             Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 10 of 27
+
+
+
+                 While the defendant bears the burden of establishing by a preponderance of
+                 the evidence that he is entitled to relief and to an evidentiary hearing,
+                 United States v. DiCarlo, 575 F.2d [952, 954 (1st Cir. 1993)], the court
+                 “must take the defendant's allegations as ‘true except to the extent that they
+                 are contradicted by the record or are inherently incredible, and to the extent
+                 that they are merely conclusions rather than statements of fact.’” Otero v.
+                 United States, 494 F.2d 900, 902 (1st Cir. 1974); Domenecia v. United
+                 States, 292 F.2d 483, 484 (1st Cir. 1961). The “district court may deny a
+                 hearing so long as it does so on the basis of the facts as alleged by the
+                 defendant and so long as it would be within the court's discretion to do so
+                 were the facts alleged by the defendant true.” United States v. Fournier,
+                 594 F.2d 276, 279 (1st Cir. 1979). A hearing is not necessary “when a
+                 § 2255 motion (1) is inadequate on its face, or although facially adequate is
+                 conclusively refuted as to the alleged facts by the files and records of the
+                 case.” Moran v. Hogan, 494 F.2d 1220, 1222 (1st Cir. 1974).
+
+Mack v. United States, 635 F.2d 20, 26-27 (1st Cir. 1980). See also Owens v. United States, 483
+
+F.3d 48, 57 (1st Cir. 2007). As detailed herein, in the instant case, even accepting Callwood’s
+
+allegations as true, he is not entitled to collateral relief. Therefore, no evidentiary hearing is
+
+necessary. See Shraiar v. United States, 736 F.2d 817, 818 (1st Cir. 1984) (no evidentiary
+
+hearing required where, accepting facts as true, petitioner is not entitled to § 2255 relief).
+
+        C.       Timeliness
+
+        Section 2255 motions are subject to a one-year limitation period. 18 U.S.C. § 2255(f).
+
+The one-year period runs from the latest of one of four dates, including
+
+        (1)      the date on which the judgment of conviction becomes final;
+
+        (2)      the date on which the impediment to making a motion created by
+                 governmental action in violation of the Constitution or laws of the United
+                 States is removed, if the movant was prevented from making a motion by
+                 such governmental action;
+
+        (3)      the date on which the right asserted was initially recognized by the
+                 Supreme Court, if that right has been newly recognized by the Supreme
+                 Court and made retroactively applicable to cases on collateral review; or
+
+
+
+                                                  -10-
+          Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 11 of 27
+
+
+
+
+       (4)     the date on which the facts supporting the claim or claims presented could
+               have been discovered through the exercise of due diligence.
+
+18 U.S.C. § 2255(f)(1)-(4). In the instant case, the parties agree that the relevant onset date is
+
+the date on which Callwood’s judgment of conviction became final, i.e., July 26, 2012, when the
+
+period for filing a petition for writ of certiorari expired. Griffith v. Kentucky, 479 U.S. 314, 321
+
+n.6, 107 S. Ct. 708, 712 n.6, 93 L. Ed. 2d 649 (1987) (“[F]inal” is when “a judgment of convic-
+
+tion has been rendered, the availability of appeal exhausted, and the time for a petition for
+
+certiorari elapsed or a petition for certiorari finally denied.”). Since his § 2255 motion was filed
+
+on August 6, 2013, it was untimely.
+
+       Callwood argues that this court should apply the doctrine of equitable tolling and accept
+
+his motion as timely filed. See Ramos-Martinez v. United States, 638 F.3d 315, 322 (1st Cir.
+
+2011) (Court holds that “section 2255(f)’s one-year limitations period is subject to equitable
+
+tolling in appropriate instances.”). Equitable tolling is to be invoked only “sparingly” and in
+
+“extraordinary circumstances.” Id. at 322-23, and cases cited. Thus, “a petitioner is entitled to
+
+equitable tolling only if he shows (1) that he has been pursuing his rights diligently, and (2) that
+
+some extraordinary circumstance stood in his way and prevented timely filing.” Holland v.
+
+Florida, 560 U.S. 631, 649, 130 S. Ct. 2549, 2562, 177 L. Ed. 2d 130 (2010) (internal quotation
+
+and citation omitted). The burden is on the petitioner seeking to invoke equitable tolling to
+
+establish the basis for the application of the doctrine. See Riva v. Ficco, 615 F.3d 35, 39 (1st Cir.
+
+2010), and cases cited. Callwood has not met his burden.
+
+       Callwood seeks to invoke the doctrine of equitable tolling on the basis that counsel did not
+
+advise him that he had not filed a petition for a writ of certiorari as he had promised. Callwood
+
+
+                                                 -11-
+            Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 12 of 27
+
+
+
+has submitted a detailed affidavit and exhibits in support of his contention that he is entitled to
+
+equitable tolling.5 However, a review of Callwood’s own affidavit establishes that he took no
+
+steps for more than a year to determine whether or not counsel had filed a petition on his behalf.
+
+After learning that his appeal had been denied at the beginning of May 2012, he did not speak
+
+further to counsel in the 90 day period after the First Circuit denied his direct appeal during which
+
+time the petition had to be filed. He did not even speak to counsel for another year, during which
+
+time he could have filed a pro se § 2255 motion. He also did not reach out to the Supreme Court,
+
+or any other court, in this period to determine if a petition had been filed. Under such
+
+circumstances, Callwood has failed to establish that he had been pursuing his rights diligently.
+
+        Similarly, there is nothing in the record which would support a finding that “extraordinary
+
+circumstances beyond the claimant’s control prevented timely filing, or the claimant was material-
+
+ly misled into missing the deadline.” Trenkler v. United States, 268 F.3d 16, 25 (1st Cir. 2001)
+
+(quoting Fradella v. Petricca, 183 F.3d 17, 21 (1st Cir. 1999)). A most liberal reading of
+
+Callwood’s submissions establishes that counsel failed to return his calls or respond to his letter,
+
+and failed to respond to his family’s inquiries. If anything, this should have motivated Callwood
+
+to confirm that the petition had been filed by counsel – it certainly was not conduct which
+
+affirmatively misled him into believing that the petition had been filed. Moreover, none of the
+
+correspondence from counsel which Callwood submitted indicated an intention on the part of
+
+counsel to file a petition for certiorari on Callwood’s behalf. This court recognizes “that
+
+unprofessional attorney conduct may, in certain circumstances, prove ‘egregious’ and can be
+
+
+
+        5
+          In light of this affidavit and exhibits, there is no reason to have an evidentiary hearing to
+further develop the record, since the court will accept Callwood’s facts as true.
+
+                                                 -12-
+             Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 13 of 27
+
+
+
+‘extraordinary’” enough to warrant the application of equitable tolling. Holland v. Florida, 560
+
+U.S. at 651, 130 S. Ct. at 2564, and cases cited. Here, however, the record does not support
+
+such a conclusion. It is well established that even attorney miscalculation of a limitations period
+
+“is simply not sufficient to warrant equitable tolling, particularly in the postconviction context
+
+where prisoners have no constitutional right to counsel.” Lawrence v. Florida, 549 U.S. 327,
+
+336-37, 127 S. Ct. 1079, 1085, 166 L. Ed. 2d 924 (2007). Clearly, then, silence as to a
+
+limitations period is similarly insufficient to support the application of equitable tolling.
+
+Therefore, this court recommends that Callwood’s § 2255 motion be dismissed as untimely.
+
+        D.       Ineffective Assistance of Counsel
+
+        Assuming, arguendo, that Callwood’s § 2255 motion is considered timely, it must still fail
+
+on the merits. The record does not support his claims of either ineffective assistance of counsel or
+
+of an illegal sentence.
+
+        With respect to his claims of ineffective assistance of counsel, the well-recognized
+
+standard is set forth in Strickland v. Washington, 466 U.S. 668, 104 S. Ct. 2052, 80 L. Ed. 2d
+
+674 (1984). As the Strickland court held:
+
+                 A convicted defendant's claim that counsel's assistance was so defective as
+                 to require reversal of a conviction or death sentence has two components.
+                 First, the defendant must show that counsel's performance was deficient.
+                 This requires showing that counsel made errors so serious that counsel was
+                 not functioning as the “counsel” guaranteed the defendant by the Sixth
+                 Amendment. Second, the defendant must show that the deficient perfor-
+                 mance prejudiced the defense. This requires showing that counsel's errors
+                 were so serious as to deprive the defendant of a fair trial, a trial whose
+                 result is reliable. Unless a defendant makes both showings, it cannot be said
+                 that the conviction or death sentence resulted from a breakdown in the
+                 adversary process that renders the result unreliable.
+
+Id. at 687, 104 S. Ct. at 2064. Callwood has failed to meet either prong.
+
+
+                                                  -13-
+          Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 14 of 27
+
+
+
+                          Failure to File Petition for Writ of Certiorari
+
+        Callwood contends that it was ineffective assistance of counsel for his attorney to fail to
+
+file a petition for a writ of certiorari with the United States Supreme Court. However, as the
+
+Supreme Court itself has held, a petition for a writ of certiorari is a discretionary appeal. Since a
+
+criminal defendant has no constitutional right to counsel in connection with a petition for
+
+certiorari to the Supreme Court, “he could not be deprived of the effective assistance of counsel
+
+by his retained counsel’s failure to file the application timely.” Wainwright v. Torna, 455 U.S.
+
+586, 587-88, 102 S. Ct. 1300, 1301, 71 L. Ed. 2d 475 (1982). In short, “[c]riminal defendants
+
+are not deprived of effective assistance of counsel when counsel fails to file a timely application
+
+for certiorari.” Martinez v. United States, No. 08-cv-10782-PBS, 2008 WL 5216248, at *2 (D.
+
+Mass. Dec. 11, 2008), and cases cited. This is true even if the defendant instructed counsel to do
+
+so. See Asadoorian v. Ficco. No. Civ.A. 02-11534-DPW, 2004 WL 1932753, at *11 (D. Mass.
+
+Aug. 23, 2004), and cases cited (attorney’s failure to raise all issues in post-conviction matters
+
+that the defendant wanted was not ineffective assistance of counsel: “the case law makes clear
+
+that a federal habeas petition cannot be grounded in a claim of ineffective assistance of counsel in
+
+the post-conviction setting.”). Thus, Callwood’s claim of ineffective assistance of counsel based
+
+on an alleged failure to file a petition for certiorari with the United States Supreme Court must
+
+fail.
+
+                   Failure to File Motion to Suppress or Challenge Evidence
+
+        Callwood contends that his counsel was ineffective in failing to file a motion to suppress,
+
+or to challenge the authenticity of the drugs seized during the execution of the search warrant, or
+
+to challenge his possession of a firearm seized during the search warrant execution. None of
+
+
+                                                 -14-
+            Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 15 of 27
+
+
+
+these issues were raised in the trial court, or in his direct appeal to the First Circuit.6 These
+
+arguments, too, fail to state a claim under § 2255 and should be dismissed.
+
+                                       Callwood’s Guilty Plea
+
+        As an initial matter, there is no basis to review Callwood’s claims in light of his guilty plea.
+
+Callwood has not challenged his plea. Under these circumstances, he cannot challenge the status
+
+of the factual record at the time he entered his plea. As the court held in Gioiosa v. United States,
+
+684 F.2d 176 (1st Cir. 1982):
+
+                Because conviction on a guilty plea is based solely on the plea, not on the
+                evidence, there is no point in examining the evidence unless it coerced the
+                plea or made it involuntary. There is no such allegation here.
+
+Id. at 180. Therefore, in the instant case, as in Gioiosa, the petitioner “is precluded from
+
+challenging the evidence in his § 2255 motion.” Id.
+
+        This court also notes that under the case law of the United States Supreme Court, it is not
+
+per se ineffective assistance of counsel to recommend accepting a plea, even if there is a sound
+
+basis to challenge the admissibility of evidence. As the Supreme Court recently held:
+
+                The stakes for defendants are high, and many elect to limit risk by forgoing
+                the right to assert their innocence. A defendant who accepts a plea bargain
+                on counsel’s advice does not necessarily suffer prejudice when his counsel
+                fails to seek suppression of evidence, even if it would be reversible error
+                for the court to admit the evidence.
+
+
+
+
+        6
+           The government contends that Callwood waived these arguments by failing to bring
+them in his direct appeal. Since, however, he was represented by the same counsel at trial and on
+appeal, it is generally recognized that claims of ineffective assistance of counsel are appropriately
+raised either in a motion for a new trial or in connection with a § 2255 motion. See, e.g.,
+Commonwealth v. LeFave, 430 Mass. 169, 172 n.3, 714 N.E.2d 805, 807 n.3 (1999) (“Because
+counsel on the defendant’s direct appeal were also her trial counsel, the failure of counsel to argue
+on direct appeal that they were ineffective at trial is not treated as a waiver.”).
+
+                                                  -15-
+           Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 16 of 27
+
+
+
+Premo v. Moore, 131 S. Ct. 733, 744, 178 L. Ed. 2d 649 (2011). In the instant case, Callwood
+
+received a three point reduction in his criminal history calculation due to his acceptance of
+
+responsibility. If Callwood had prevailed on his argument that he was not an armed career
+
+criminal, the three point credit would have been significant. Therefore, the record establishes that
+
+there was a strategic reason for Callwood to enter a guilty plea. Callwood has not raised any
+
+issues which would require the court to ignore his guilty plea. Therefore, this court recommends
+
+that Callwood’s § 2255 petition, based on ineffective assistance of counsel, be dismissed.
+
+                                Challenges to the Search Warrant
+
+         Even if the court were to address the merits of Callwood’s claims of ineffective assistance
+
+of counsel, the claims would fail. Each of his objections to counsel’s actions will be discussed
+
+briefly herein.
+
+         Callwood contends that counsel was ineffective due to his “[f]ailure to have alleged drugs
+
+which was the basis for ‘no-knock’ search warrant authenticated.” (Pet. Mem. at 9-10). Specifi-
+
+cally, he argues that according to the affidavit submitted in support of the search warrant, “a
+
+series of drug transactions was alleged to have been conducted between petitioner and a still
+
+unidentified cooperating informant” and “these transactions provide probable cause for a search
+
+warrant to be issued. The affidavit, however, fails to include any drug amounts or quantity, nor
+
+does it alleges [sic] that the actual drugs were tested and authenticated.” (Id. at 10). Callwood
+
+argues further that the drugs needed to be tested “in order to find out if probable cause was ever
+
+truly established” and that his counsel’s failure to pursue that testing rendered him ineffective.
+
+(Id.).
+
+
+
+
+                                                 -16-
+          Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 17 of 27
+
+
+
+        Callwood has not submitted the search warrant at issue, but this court will assume for
+
+purposes of his motion that Callwood’s description of the warrant is true. Nevertheless,
+
+Callwood’s argument must fail because the authenticity of the drugs was not critical to a finding
+
+of probable cause. “An affidavit supporting a search warrant is presumptively valid.” United
+
+States v. Gifford, 727 F.3d 92, 98 (1st Cir. 2013). “For a warrant to be voided and the fruits of a
+
+search excluded, the defendant must: (1) show that the affiant in fact made a false statement or
+
+omission ‘knowingly and intentionally, or with reckless disregard for the truth,’ (2) make this
+
+showing by a preponderance of the evidence, and (3) show that, with the recklessly omitted
+
+information added to the affidavit, the reformed affidavit fails to establish probable cause.” Id.
+
+(citing United States v. Tzannos, 460 F.3d 128, 136 (1st Cir. 2006)). In the instant case,
+
+regardless of the amount or authenticity of the drugs, Callwood does not allege that the affiant
+
+knew that information from the confidential informant about drug dealing from the apartment was
+
+false. Thus, he does not allege that the affiant either knew that the informant was lying or
+
+recklessly disregarded the truth when making the affidavit. Therefore, the affiant was entitled to
+
+rely on the information provided by the confidential informant to establish probable cause. It is
+
+well-established that the fact that the informant may have been in error does not negate probable
+
+cause for the warrant. See United States v. Santiago, 936 F. Supp. 49, 52-53 (D.P.R. 1996) (fact
+
+that informant may have been lying does not support a challenge to a search warrant absent
+
+evidence that the affiant “either intentionally or recklessly disregarded the truth.”).
+
+        This court notes further that the record reflects a strategic reason for counsel not to have
+
+sought to have the drugs tested. Thus, in connection with his argument that Callwood’s offense
+
+level should be reduced for sentencing purposes, counsel argued that the government’s failure to
+
+
+                                                 -17-
+          Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 18 of 27
+
+
+
+analyze the drugs found in the search precluded any finding that Callwood had used or possessed
+
+a firearm in connection with another felony, i.e., drug distribution. (See note 1, supra). The use
+
+of a firearm in connection with another felony offense results in a four point enhancement. There-
+
+fore, it was to Callwood’s advantage to avoid the possibility that the samples would have tested
+
+positive for illegal drugs.
+
+        Callwood further argues that counsel was ineffective because he “failed to compel the
+
+government to provide the identity of the cooperating informant, and his/her prior history of
+
+assistance provided to law enforcement agencies.” (Pet. Mem. at 11). Such information,
+
+according to Callwood, was necessary “to properly marshal a defense against [the] charges”
+
+against him, and to potentially impeach the informant. (Id.). Assuming that Callwood is
+
+challenging the sufficiency of the search warrant with respect to its description of the confidential
+
+informant, he has failed to state a claim.
+
+        Under Massachusetts law, the court follows a two-pronged test in evaluating a search
+
+warrant based on information provided by an unidentified informant, as set out in Spinelli v.
+
+United States, 393 U.S. 410, 415, 89 S. Ct. 584, 588-89, 21 L. Ed. 2d 637 (1969), and Aguilar v.
+
+Texas, 378 U.S. 108, 114, 84 S. Ct. 1509, 1514, 12 L. Ed. 2d 723 (1964). See Commonwealth
+
+v. Alvarez, 422 Mass. 198, 203, 661 N.E.2d 1293, 1298 (1996). Thus, the supporting affidavit
+
+must provide “facts showing some of the underlying circumstances leading to the informant’s
+
+knowledge, as well as his reliability . . . . If the informant’s tip fails to satisfy one of these
+
+portions of the Aguilar test, other independent, corroborating allegations in the affidavit may
+
+supplement the informant’s tip to support a finding of probable cause. . . . “ Id. (internal
+
+quotation and citation omitted). See also United States v. Gifford, 727 F.3d 92, 99 (1st Cir.
+
+
+                                                   -18-
+          Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 19 of 27
+
+
+
+2013) (“Where the primary basis for a probable cause determination is information provided by a
+
+confidential informant, the affidavit must provide some information from which a magistrate can
+
+credit the informant’s credibility.” A “non-exhaustive list of factors” to consider in evaluating the
+
+affidavit includes “(1) whether the affidavit establishes the probable veracity and basis of
+
+knowledge of persons supplying hearsay information; (2) whether an informant's statements
+
+reflect first-hand knowledge; (3) whether some or all of the informant's factual statements were
+
+corroborated wherever reasonable or practicable (e.g., through police surveillance); and (4)
+
+whether a law enforcement affiant assessed, from his professional standpoint, experience, and
+
+expertise, the probable significance of the informant's provided information.”).
+
+       In the instant case, Callwood has not attached the search warrant so its sufficiency cannot
+
+be measured against these standards. Callwood has, however, attached a Report of Investigation
+
+describing a controlled buy of narcotics by the confidential informant from Callwood at the apart-
+
+ment covered by the search warrant. (Pet. Mem. at Ex. E). The report indicates that on March 3,
+
+2009, the informant was outfitted with an electronic monitoring device, and that law enforcement
+
+conducted surveillance of the confidential informant’s actions, as well as of Callwood’s actions
+
+leaving the confidential informant in the apartment, going to obtain a bag, and returning to the
+
+apartment with the bag to meet with the informant. (Id.). Immediately following the meeting in
+
+the apartment, the confidential informant was debriefed by law enforcement, and turned over the
+
+bag which the informant reported contained the crack cocaine s/he had purchased from Callwood.
+
+(Id.). The confidential informant also spoke to law enforcement at various stages of the
+
+transaction when Callwood was out of the apartment. (Id.). This report contains sufficient
+
+indicia of reliability to support a finding of probable cause. It shows personal knowledge of the
+
+
+                                                 -19-
+          Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 20 of 27
+
+
+
+confidential informant, corroboration by law enforcement, and the opportunity of law
+
+enforcement to interact and assess the credibility of the informant. The controlled buy was
+
+sufficiently close in time to the execution of the search warrant to support the finding of probable
+
+cause for the warrant. Callwood has not put forth any evidence to support his contention that
+
+counsel’s failure to obtain additional information about the confidential informant would have
+
+resulted in the invalidation of the search warrant.
+
+                                Gathering of Additional Evidence
+
+       Callwood also challenges his counsel’s alleged failure to obtain various pieces of evidence
+
+which allegedly could have enabled him to challenge the strength of the government’s case against
+
+him. Significantly, however, Callwood does not allege that he is actually innocent of the crime
+
+charged, and does not allege that he would not have pleaded guilty if counsel had obtained the
+
+evidence he is seeking. Before his plea, the government recited the evidence it expected to be
+
+able to prove at trial, and Callwood did not challenge this description. (See Sealed Transcript of
+
+Plea Hearing (Docket No. 41) at 8-11) Similarly, although he addressed the court at sentencing,
+
+he did not indicate in any way that his plea was involuntary. (See Docket No. 42 at 17-20). At
+
+most, Callwood argues that further work on his counsel’s part may have resulted in additional
+
+information that would have been helpful to him if his case went to trial. This is not sufficient to
+
+establish ineffective assistance of counsel.
+
+       A “defendant must show both deficient performance and prejudice in order to prove that
+
+he has received ineffective assistance of counsel.” Knowles v. Mirzayance, 556 U.S. 111, 122,
+
+129 S. Ct. 1411, 1419, 172 L. Ed. 2d 251 (2009) (internal citation omitted). “Under the first
+
+prong of Strickland, there is a ‘strong presumption’ that counsel’s strategy and tactics fall ‘within
+
+
+                                                 -20-
+            Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 21 of 27
+
+
+
+the range of reasonable professional assistance,’ and courts should avoid second-guessing
+
+counsel’s performance with the use of hindsight.” Knight v. Spencer, 447 F.3d 6, 15 (1st Cir.
+
+2006) (quoting Strickland, 466 U.S. at 689, 104 S. Ct. at 2065). “It is only where, given the facts
+
+known at the time, counsel’s choice was so patently unreasonable that no competent attorney
+
+would have made it, that the ineffective assistance prong is satisfied.” Id. (quotations and citation
+
+omitted).
+
+       “Under the prejudice prong, not all errors by counsel are sufficient to meet the standard of
+
+a reasonable probability that, but for the counsel’s errors, the result of the proceeding would have
+
+been different.” Id. The probability must be “sufficient to undermine confidence in the outcome,”
+
+and the burden is a “heavy” and “highly demanding” one. Id. (internal quotations and citations
+
+omitted). In the context of a guilty plea, to establish prejudice the defendant must establish that
+
+“there is a reasonable probability that, but for counsel’s errors, he would not have pleaded guilty
+
+and would have insisted on going to trial.” Hill v. Lockhart, 474 U.S. 52, 59, 106 S. Ct. 366,
+
+370, 88 L. Ed. 2d 203 (1985). Thus, “[w]ith respect to the prejudice prong, a petitioner must
+
+show that counsel’s errors ‘affected the outcome of the plea process.’” Gould v. United States,
+
+657 F. Supp. 2d 321, 326 (D. Mass. 2009) (quoting Hill, 474 U.S. at 59, 106 S. Ct. at 370). “A
+
+defendant’s failure to satisfy one prong of the Strickland analysis obviates the need for a court to
+
+consider the remaining prong.” Knight v. Spencer, 447 F.3d at 15.
+
+       In the instant case, Callwood has not met either prong. He has not established that
+
+counsel’s actions were deficient. At most, he hypothecates that further investigation may have
+
+revealed some additional helpful information. Furthermore, even assuming that counsel’s conduct
+
+
+
+
+                                                -21-
+            Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 22 of 27
+
+
+
+did not fall within the range of reasonable professional assistance, Callwood has failed to establish
+
+any prejudice. Therefore, his § 2255 petition must fail.
+
+        Specifically, Callwood faults counsel for failing to obtain a copy of the audio and video
+
+evidence obtained by the government during surveillance. (Pet. Mem. at 11). As he argues,
+
+“[v]oice recognition would enable attorney to defend case, once it could be established that
+
+petitioner never had contact with informant as alleged.” (Id.). However, Callwood does not
+
+allege that he was precluded from putting forth evidence that he did not know the confidential
+
+informant. Therefore, he has not established any prejudice from counsel’s alleged failure to obtain
+
+the recordings.
+
+        Callwood similarly asserts that counsel should have obtained a copy of the “pre-search
+
+video of the apartment taken by Detective Marvin Wright” to help establish that materials were
+
+not found in the apartment as reported by police. (Id. at 12). Callwood argues that the
+
+documents reportedly found in the apartment were, in fact, taken from his car and backpack and
+
+placed in the apartment by the police. (Id. at 12, n.12).7 This is significant because these
+
+
+
+        7
+           According to the PSR, Callwood was seen running from a rear bedroom when the SWAT Team
+came to execute the search warrant. He denied living there however. Callwood was searched, “at which
+time $1,000 in U.S. currency and a plastic bag containing a substance believed to be marijuana were
+recovered from Callwood’s right front pants pocket, and $550 in U.S. currency were recovered from his
+left front pants pocket.” (PSR ¶ 11). In addition, the following items were found in the rear bedroom: “a
+cellular telephone phone (observed thrown by Callwood); one bag containing a substance believed to be
+marijuana; a wallet containing a photo ID of Callwood; a cigar box containing two speed loaders in a black
+leather case [loaded with] eight rounds of assorted ammunition...; personal papers (a birth certificate and
+social security card) bearing the name Michael Callwood, who was believed to be Callwood’s son; one
+Strum Ruger Six .357 caliber revolver with serial number 1503684, containing six rounds of .357
+ammunition; two cellular telephone charging cords; a black zip pouch containing four bags of a substance
+believed to be crack cocaine; ten plastic bags of a substance believed to be marijuana; personal papers
+bearing the name Liston Callwood (which were found on a dresser); magazines bearing the name Callwood
+(different address); an IBM ‘Thinkpad’ computer; and a parking ticket which was issued to Liston
+Callwood.” (PSR ¶ 12).
+
+                                                   -22-
+          Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 23 of 27
+
+
+
+materials supported the government’s contention that he lived at the apartment. However,
+
+according to Callwood, himself, he was a “social guest at the location.” (Id. at 14). Thus, even if
+
+the documents were not originally in the apartment, their absence does not preclude a finding that
+
+the guns and drugs found in the apartment were his. In addition, Callwood has not attempted to
+
+describe the video, so there is no evidence that all the locations where contraband was reportedly
+
+found would have been depicted in the alleged video. Again, Callwood has not established that he
+
+was prejudiced by the absence of the video.
+
+       Callwood does not argue that he was precluded from arguing at trial either that he did not
+
+live in the apartment, or that the documents had been put there by police. As Callwood argues,
+
+there were facts to support his position that he did not live there. For example, as Callwood
+
+notes, there was no mention of men’s clothing listed in the return of the search warrant, “which
+
+only reinforces petitioner [sic] assertion that he did not reside at this address.” (Pet. Mem. at 12
+
+n.12). In addition, some of the documents found listed Callwood as having a different address.
+
+(See note 7, supra). The absence of the alleged pre-search video did not prevent counsel from
+
+asserting that Callwood did not live at the apartment. Therefore, Callwood has not established
+
+prejudice by counsel’s failure to obtain the video.
+
+       The record also supports a conclusion that counsel may have elected not to obtain a video
+
+which could have harmed Callwood’s defense. There was, in fact, strong evidence that Callwood
+
+did, in fact, reside in the apartment. Such evidence included the evidence of surveillance by the
+
+police who saw Callwood leaving and returning to the apartment in connection with the
+
+controlled drug buy discussed above, and the undisputed fact that Callwood was arrested at the
+
+apartment, and was seen leaving the bedroom at the time of his arrest. (See PSR ¶ 10). In
+
+
+                                                -23-
+          Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 24 of 27
+
+
+
+addition, the confidential informant placed Callwood at the apartment, and provided evidence that
+
+he saw a black revolver in the bedroom. (Pet. Mem. at Ex. E). In light of Callwood’s admission
+
+that he was at least a social guest at the premises, it cannot be said that counsel provided
+
+ineffective assistance by failing to obtain a video that may have provided graphic evidence of not
+
+only the contraband, but also of Callwood’s ties to the premises.
+
+       Callwood also challenges counsel for failing to move for discovery of the latent prints
+
+found on the gun. He does recognize, however, that the government would have obtained this
+
+analysis if the case continued, and that defense counsel may have avoided moving for the analysis
+
+to avoid the possibility of establishing that it was his print on the firearm. (Pet. Mem. at 13 n.13)
+
+Significantly, Callwood does not assert that there was no possibility that his fingerprints could
+
+have been found on the weapon. Again, he has not established either that counsel’s decision not
+
+to obtain this information before his plea constituted ineffective assistance of counsel or that it
+
+caused him prejudice.
+
+       Callwood also faults counsel for failing to investigate or contact “the actual occupant of
+
+the apartment” to help in his defense that he did not live there. (Id. at 14). He argues “that had
+
+attorney Doolin made an attempt to contact this individual, she may have been able to provide
+
+exculpatory information which could have help[ed] in his defense.” (Id.). Again, since Callwood
+
+has admitted being a social guest at the apartment, he has not established that the testimony of this
+
+unidentified woman would have persuasively established that the firearms and ammunition were
+
+not his. The hypothetical nature of the testimony from this woman does not establish either that
+
+counsel’s performance was ineffective, or that Callwood was prejudiced by its absence. In sum,
+
+
+
+
+                                                 -24-
+          Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 25 of 27
+
+
+
+Callwood’s claims of ineffective assistance of counsel based on the alleged failure to obtain
+
+evidence do not meet either prong of the Strickland analysis and must fail.
+
+                                   Failure to Move to Suppress
+
+       Callwood also argues that the search of the premises was illegal because by sending the
+
+confidential informant into the apartment for a controlled drug buy, “it is obvious that this
+
+informant was conducting an illegal warrantless search at the behest of the BPD.” (Id. at 15).
+
+Since this “illegal warrantless search” was used to obtain the search warrant, according to
+
+Callwood, the evidence found should have been suppressed. Callwood has not cited any support
+
+for this contention and none has been found. From the record, the police merely arranged for a
+
+controlled buy of drugs — an investigatory method that is not illegal.
+
+       Finally, Callwood argues that counsel’s failure to move to suppress the evidence based on
+
+the lack of probable cause for the search warrant, and the absence of proof he had control or
+
+possession of the firearm and ammunition, was ineffective assistance of counsel. (Id. at 16).
+
+However, as detailed above, Callwood has not established that there was a basis to suppress the
+
+fruits of the search, or that the search warrant was invalid. In addition, Callwood has not claimed
+
+actual innocence, and there is no evidence that any of the allegedly missing evidence would have
+
+caused him not to have entered a plea. Moreover, as detailed above, he has failed to establish that
+
+counsel’s conduct caused him prejudice.
+
+       As noted above, there was a strategic reason for Callwood to plead guilty. If counsel had
+
+convinced the trial judge that Callwood was not an armed career criminal, the acceptance of
+
+responsibility would have significantly reduced his offense level. This fact, coupled with the fact
+
+that Callwood knew the state of the evidence at the time he entered his plea, negates his present
+
+
+                                                -25-
+            Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 26 of 27
+
+
+
+claim of ineffective assistance of counsel. There is simply no evidence that counsel’s performance
+
+was deficient, or that Callwood was prejudiced.
+
+       E.       Sentence as Armed Career Criminal
+
+       Finally, Callwood argues that he was improperly classified as an armed career criminal
+
+under the Armed Career Criminal Act (“ACCA”), 18 U.S.C. § 924(e). This argument is without
+
+merit as a matter of law.
+
+       Callwood, relying on Alleyne v. United States, 133 S. Ct. 2151, 186 L. Ed. 2d 314
+
+(2013), argues that the court improperly relied on factors to enhance his sentence that were not
+
+heard by a jury or conceded by him. (See Pet. Mem. at 16). In Alleyne, the court held “that any
+
+fact that increases the mandatory minimum is an ‘element’ that must be submitted to the jury.” Id.
+
+at 2155. However, as the Alleyne court expressly recognized, this does not apply to “the fact of a
+
+prior conviction.” Id. at 2160, n.1 (citing Almendarez-Torres v. United States, 523 U.S. 224, 118
+
+S. Ct. 1219, 140 L. Ed. 2d 350 (1998)). The First Circuit has expressly held that, even after
+
+Alleyne, a defendant’s status as an armed career criminal does not have to be submitted to the jury
+
+since a sentence imposed “pursuant to the ACCA [is] based on a determination of a sentencing
+
+factor, not a determination of an element of an offense.” United States v. Carrigan, 724 F.3d 39,
+
+51 n.4 (1st Cir. 2013). Since under Massachusetts law resisting arrest and assault and battery on
+
+a police officer categorically count as violent felonies for purposes of the ACCA, Callwood’s
+
+objection to his status as an armed career criminal must fail. Id. at 50.
+
+
+
+
+                                                -26-
+           Case 1:09-cr-10313-IT Document 66 Filed 03/07/14 Page 27 of 27
+
+
+
+                                      IV. CONCLUSION
+
+       For all the reasons detailed herein, this court recommends to the District Judge to whom
+
+this case is assigned that Callwood’s “Motion Under 28 U.S.C. § 2255 to Vacate, Set Aside, or
+
+Correct Sentence by a Person in Federal Custody” (Docket No. 59) be DENIED.8
+
+
+
+                                                        / s / Judith Gail Dein
+                                                      Judith Gail Dein
+                                                      U.S. Magistrate Judge
+
+
+
+
+       8
+          The parties are hereby advised that under the provisions of Fed. R. Civ. P. 72 any party
+who objects to these proposed findings and recommendations must file a written objection thereto
+with the Clerk of this Court within 14 days of the party’s receipt of this Report and Recommenda-
+tion. The written objections must specifically identify the portion of the proposed findings,
+recommendations or report to which objection is made and the basis for such objections. The
+parties are further advised that the United States Court of Appeals for this Circuit has repeatedly
+indicated that failure to comply with this Rule shall preclude further appellate review. See
+Keating v. Sec’y of Health & Human Servs., 848 F.2d 271, 275 (1st Cir. 1988); United States v.
+Valencia-Copete, 792 F.2d 4, 6 (1st Cir. 1986); Park Motor Mart, Inc. v. Ford Motor Co., 616
+F.2d 603, 604-05 (1st Cir. 1980); United States v. Vega, 678 F.2d 376, 378-79 (1st Cir. 1982);
+Scott v. Schweiker, 702 F.2d 13, 14 (1st Cir. 1983); see also Thomas v. Arn, 474 U.S. 140, 153-
+54, 106 S. Ct. 466, 474, 88 L. Ed. 2d 435 (1985). Accord Phinney v. Wentworth Douglas Hosp.,
+199 F.3d 1, 3-4 (1st Cir. 1999); Henley Drilling Co. v. McGee, 36 F.3d 143, 150-51 (1st Cir.
+1994); Santiago v. Canon U.S.A., Inc., 138 F.3d 1, 4 (1st Cir. 1998).
+
+                                               -27-
+

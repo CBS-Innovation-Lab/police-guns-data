@@ -1,0 +1,1044 @@
+                            UNITED STATES DISTRICT COURT
+                                 DISTRICT OF MAINE
+
+MARK MCCURDY,                                   )
+                                                )
+                Petitioner,                     )
+                                                )
+        v.                                      )       1:06-cr-00080-JAW
+                                                )
+                                                )
+UNITED STATES OF AMERICA,                       )
+                                                )
+                Respondent.                     )
+
+
+                      ORDER ON SUCCESSIVE § 2255 PETITION
+
+        In compliance with an order from the Court of Appeals for the First Circuit
+
+that allowed the petitioner to proceed with his successive § 2255 petition in light of
+
+Johnson v. United States, 135 S. Ct. 2551 (2015), the Court follows district precedent
+
+and rejects his claim that his prior convictions under Maine’s burglary statute are
+
+not violent felonies for purposes of the Armed Career Criminal Act (ACCA). However,
+
+the Court accepts his claim that under Johnson, his prior convictions under Maine’s
+
+robbery statute are no longer proper ACCA predicates. With this ruling, the Court
+
+concludes that the provisions of the ACCA should not be applied to the Defendant,
+
+and the Court orders his resentencing.
+
+I.      Background1
+
+        A.      Verdict, Sentence, and Direct Appeals
+
+
+
+
+1       In setting forth the salient facts, the Court has significantly abridged Mr. McCurdy’s litigation
+history, which is remarkably extensive, to reflect only those facts relevant to the motion currently
+before the Court.
+      On December 31, 2008, a federal jury convicted Mark McCurdy of being a felon
+
+in possession of a firearm. Jury Verdict (ECF No. 148). In anticipation of sentencing,
+
+the Probation Office listed the following predicate convictions for Armed Career
+
+Criminal Act (ACCA) status:
+
+      (1) Two counts of burglary on April 14, 1984 in Washington County Superior
+
+          Court for the state of Maine, Docket No. CR-83-173; and
+
+      (2) Two counts of robbery on June 1, 1984 in Penobscot County Superior Court
+
+          for the state of Maine, Docket No. CR-83-247.
+
+Presentence Investigation Report ¶¶ 31–32. Had Mr. McCurdy not been convicted of
+
+other crimes, his criminal history category would have been IV due to his ACCA
+
+status under United States Sentencing Guideline § 4B1.4(c)(3); however, due to his
+
+other convictions, his criminal history category was calculated at V. Id. ¶¶ 38–39
+
+(citing U.S.S.G. § 4B1.4(c)(1)). Because of his ACCA status, his offense level was fixed
+
+at 33. Id. ¶ 24. As Mr. McCurdy went to trial, he was not accorded acceptance of
+
+responsibility, and his Guideline sentence range was 210 to 262 months. Id. ¶ 59.
+
+On July 20, 2009, the Court sentenced Mr. McCurdy to 210 months of incarceration—
+
+at the low end of the guideline range—three years of supervised release, and a $100
+
+special assessment. Minute Entry (ECF No. 191); Tr. of Proceedings, Sentencing
+
+Proceedings (ECF No. 208); J. (ECF No. 195).
+
+      On July 31, 2010, Mr. McCurdy appealed to the Court of Appeals for the First
+
+Circuit. Notice of Appeal (ECF No. 197). On November 16, 2010, the First Circuit
+
+affirmed, United States v. McCurdy, No. 09-2101 (1st Cir. Nov. 16, 2010), and on
+
+
+
+                                           2
+March 21, 2011, the Supreme Court denied Mr. McCurdy’s petition for a writ of
+
+certiorari. McCurdy v. United States, 562 U.S. 1301 (2011) (mem.).
+
+      B.     First and Second Habeas Petitions
+
+      On August 4, 2011, Mr. McCurdy filed his first § 2255 petition. Mot. Under §
+
+2255 to Vacate, Set Aside, or Correct Sent. by a Person in Fed. Custody (ECF No. 240).
+
+In that petition, Mr. McCurdy raised a number of issues, including allegations of
+
+ineffective assistance of counsel and prosecutorial misconduct. On September 27,
+
+2013, the Court denied the petition. Order on Def.’s First and Second Mots. for Leave
+
+to File Suppl. Pleadings and on Def.’s Mot. Under 28 U.S.C. § 2255 to Vacate, Set
+
+Aside or Correct Sent. (ECF No. 305). Mr. McCurdy appealed that decision to the
+
+First Circuit Court of Appeals. Notice of Appeal (ECF No. 307). On June 4, 2014, the
+
+First Circuit denied his request for a certificate of appealability and terminated his
+
+appeal. J. (ECF No. 314).
+
+      On July 6, 2015, Mr. McCurdy filed his second § 2255 petition, alleging that
+
+the Government misstated facts in its brief to the Court of Appeals and that the
+
+Government and the Court blocked Mr. McCurdy’s repeated attempts to secure the
+
+source of the misinformation. Mot. to Vacate, Set Aside, or Correct a Sent. by a Person
+
+in Fed. Custody (28 U.S.C. § 2255) (ECF No. 351). On July 28, 2015, the Magistrate
+
+Judge issued a recommended decision in which he recommended that this Court
+
+dismiss without prejudice Mr. McCurdy’s July 6, 2015 motion, dismiss or deny all
+
+other pending motions, and deny a certificate of appealability.         Recommended
+
+Decision on 28 U.S.C. § 2255 Mot., Mot. for Relief from J., Mot. for Findings of Fact,
+
+
+
+                                          3
+Mot. for Counsel and Disc. Mots. (ECF No. 352). Mr. McCurdy objected to the
+
+recommended decision on August 28, 2015.              Pet’r’s Objs. to Magistrate’s
+
+Recommended Decision on 28 U.S.C. § 2255 Mot. (ECF No. 356). On March 24, 2016,
+
+this Court affirmed the recommended decision, dismissed without prejudice Mr.
+
+McCurdy’s July 6, 2015 motion, denied and dismissed the remaining pending
+
+motions, and denied any certificate of appealability.          Order Affirming the
+
+Recommended Decision of the Magistrate Judge (ECF No. 366). On April 28, 2016,
+
+Mr. McCurdy appealed this Court’s March 24, 2016 order. Notice of Appeal (ECF No.
+
+369). On October 11, 2016, the First Circuit Court of Appeals denied Mr. McCurdy’s
+
+request for a certificate of appealability, his motion for appointment of counsel, and
+
+his motion for leave to file a successive motion. J. (ECF No. 393). On December 5,
+
+2016, the Court of Appeals’ mandate was filed in this Court. Mandate (ECF No. 394).
+
+      C.     Application to File Successive § 2255 Motion and Successive §
+             2255 Motion to Vacate Sentence
+
+      On November 25, 2015, Mr. McCurdy filed an application for leave to file a
+
+successive motion to vacate his sentence on the ground that his prior Maine burglary
+
+conviction no longer qualified as a violent felony under either the enumerated or
+
+residual clauses of the ACCA in light of Johnson v. United States, 135 S. Ct. 2551
+
+(2015) (Johnson II). App. for Leave to File a Second or Successive Mot. to Vacate, Set
+
+Aside, or Correct Sent. 28 U.S.C. § 2255 by a Prisoner in Fed. Custody (ECF No. 378)
+
+(Leave App.). On June 21, 2016, the Court of Appeals for the First Circuit granted
+
+Mr. McCurdy’s application seeking leave to file a second or successive § 2255 motion
+
+on the ground that Mr. McCurdy had made a prima facie showing that his challenge,
+
+                                          4
+pursuant to Johnson II, to his armed-career-criminal designation legitimately relied
+
+upon a “new rule of constitutional law, made retroactive to cases on collateral review
+
+by the Supreme Court, that was previously unavailable.” J. at 1 (quoting 28 U.S.C.
+
+§ 2255(h)(2)) (ECF No. 376). The First Circuit transferred Mr. McCurdy’s leave
+
+application materials to this Court with instructions to file them as a § 2255 motion.
+
+Id.2
+
+       On June 27, 2016, the Magistrate Judge appointed David R. Beneman, the
+
+Federal Defender for the District of Maine, to represent Mr. McCurdy in his motion,
+
+Order Appointing Counsel (ECF No. 382), and ordered the Government to answer Mr.
+
+McCurdy’s motion. Order to Answer (ECF No. 383). The Government answered Mr.
+
+McCurdy’s motion on September 7, 2016. Mot. for Summ. Dismissal of Mot. to Vacate,
+
+Set Aside, or Correct Sent. Pursuant to 28 U.S.C. § 2255 (ECF NO. 391) (Gov’t’s
+
+Opp’n). On October 3, 2016, Mr. McCurdy filed a reply. Def.’s Reply to Gov’t’s Opp’n
+
+to Mot. to Correct Sent. Under 28 U.S.C. § 2255 (ECF No. 392) (Def.’s Reply).
+
+II.    THE POSITIONS OF THE PARTIES
+
+       A.      Mark McCurdy’s § 2255 Motion
+
+       In his November 25, 2015 leave application—which the Court construes as a §
+
+2255 motion in accordance with the First Circuit’s instructions—Mr. McCurdy
+
+
+
+
+2       On June 27, 2016, Mr. McCurdy additionally filed a formal § 2255 motion, raising the same
+issues that he previously raised in his leave application to the First Circuit. See Mot. Under 28 U.S.C.
+§ 2255 to Vacate, Set Aside, or Correct Sent. by a Person in Fed. Custody (ECF No. 380). In accordance
+with the First Circuit’s instructions, however, the Court regards Mr. McCurdy’s November 25, 2015
+leave application as the operative § 2255 motion.
+
+                                                   5
+contests the validity of the ACCA enhancement following Johnson II.                   A
+
+memorandum accompanying his leave application explains:
+
+      The Supreme Court decision in [Johnson II] rendered the State of Maine
+      offense of Class C Burglary (17-A M.R.S.A. § 401(1)(A)) not a violent
+      felony for purpose of a sentence enhancement under either the
+      enumerated clause or the residual clause of the [ACCA] because it
+      lacked an essential element required for generic burglary.
+
+Leave App. at 8.
+
+      B.     The Government’s Response
+
+      In its September 7, 2016 opposition, the Government first argues that because
+
+Mr. McCurdy’s criminal record included two Maine convictions for a “generic
+
+burglary,” he properly qualified for ACCA status under United States v. Duquette,
+
+778 F.3d 314, 317–19 (1st Cir. 2015). Gov’t’s Opp’n at 6. The Government notes that
+
+in Taylor v. United States, 495 U.S. 575 (1990), the Supreme Court defined “generic
+
+burglary” for purposes of the ACCA to be “any crime, regardless of its exact definition
+
+or label, having the basic elements of unlawful or unprivileged entry into, or
+
+remaining in, a building or structure, with intent to commit a crime.” Id. at 8 (quoting
+
+Taylor, 495 U.S. at 599). The Government turns to the First Circuit’s 2015 Duquette
+
+decision in which the First Circuit wrote that the Maine burglary statute, 17-A M.R.S.
+
+§ 401(1), “contains all the elements of ‘generic burglary’” that the Supreme Court
+
+identified in Taylor. Id. at 9 (quoting Duquette, 778 F.3d at 318). Even though the
+
+Sentencing Guideline defined “crime of violence” to include only burglary of a
+
+dwelling, the Government states that the First Circuit concluded that “the term
+
+‘burglary’ as used in the ACCA [is] broad enough to include both residential and non-
+
+
+
+                                           6
+residential offenses.” Id. (quoting Duquette, 778 F.3d at 318 (quoting United States
+
+v. Giggey, 551 F.3d 27, 35–36 (1st Cir. 2008) (en banc)). The Government maintains
+
+that Duquette is still good law and that this Court is bound to apply it until it is
+
+overruled by the First Circuit Court of Appeals. Id. at 10.
+
+      The Government distinguishes the United States Supreme Court case of
+
+Mathis v. United States, 136 S. Ct. 2243, 2248–49 (2016), from Mr. McCurdy’s case.
+
+Id. at 11. The Government observes that in Mathis, the Government had conceded
+
+the Iowa burglary statute covered a broader range of conduct than “generic burglary”
+
+does. Id. (citing Mathis. 136 S. Ct. at 2248–49). The Iowa burglary statute reached
+
+“any building, structure, [or] land, water, or air vehicle.” Id. (quoting Mathis, at
+
+2248–49 (quoting Iowa Code § 702.12 (2013)) (emphasis in original). The Government
+
+notes that the Maine statute defines burglary as entering or surreptitiously
+
+remaining in a “structure” knowing the person is not licensed or privileged to do so,
+
+“with the intent to commit a crime therein.”       Id. (quoting 17-A M.R.S. § 401).
+
+Referring to Maine’s statutory definitions of “structure” and “dwelling place,” the
+
+Government argues that “Maine’s definition of burglary is…more consistent than is
+
+Iowa’s with the American Law Institute’s Model Penal Code § 22.1 (1980), on which
+
+the Supreme Court based its definition of ‘generic burglary.’” Id.
+
+      Neither is the Government impressed with the contention that Maine’s
+
+definition of “structure” to include a vehicle or conveyance being used as a dwelling
+
+makes a difference. Pointing to a Fifth Circuit case, United States v. Herrold, 813
+
+F.3d 595 (5th Cir. 2016), the Government argues that the Fifth Circuit recently
+
+
+
+                                          7
+rejected “a remarkably similar claim.” Id. at 13. Furthermore, the Government
+
+points out that Maine courts have interpreted this statutory language to include only
+
+places where people live, such as house trailers, mobile homes, and inhabitable camp
+
+trailers. Id. at 13–14 (citing State v. Albert, 426 A.2d 1370, 1374 (Me. 1981), State v.
+
+Lerman, 302 A.2d 572, 576–77 (Me. 1993), State v. Cookson, 293 A.2d 780, 784–85
+
+(Me. 1973), State v. Cook, 1 A.3d 333, 337 (Me. 2010)).
+
+       After counting the two burglaries as ACCA predicates, the Government notes
+
+that the ACCA requires at least three predicate convictions, and it contends that
+
+either of Mr. McCurdy’s two robberies qualifies as an ACCA predicate. Id. at 14–16.
+
+The Government maintains that these convictions qualify under the ACCA’s “force
+
+clause.” Id. Further, referring to the Shepard-approved3 documents it attached to
+
+its opposition, the Government contends that Mr. McCurdy was charged in both
+
+robberies with being armed with a dangerous weapon, which it argues would satisfy
+
+the “force clause” even if the offense was overbroad and did not otherwise qualify as
+
+a “violent felony.” Id. at 16–17 (citing United States v. Whindleton, 797 F.3d 105, 114
+
+(1st Cir. 2015)).
+
+       The Government concludes that Mr. McCurdy had four ACCA predicate
+
+convictions and was properly deemed subject to the ACCA enhancements under the
+
+statute and guidelines. Id. at 18.
+
+       C.     Mark McCurdy’s Reply
+
+
+
+
+3      Shepard v. United States, 544 U.S. 13 (2005).
+
+                                                8
+      In his reply, Mr. McCurdy argues that Duquette is not controlling, that his
+
+Maine burglary convictions are not generic, and that they fail to satisfy the
+
+enumerated clause of the ACCA. Def.’s Reply at 1. After Johnson II, Mr. McCurdy
+
+says the Maine burglary convictions are no longer ACCA predicates because the
+
+Maine statute includes some vehicles and conveyances as structures. Id.
+
+      Mr. McCurdy first addresses the law of the circuit doctrine. Id. at 17. He
+
+contends that the United States Supreme Court decision in Mathis overrules
+
+Duquette. Id. at 18–19. He also disagrees with the Government’s reliance on Herrold,
+
+noting that the Acting Solicitor General has agreed that Mr. Herrold’s petition for
+
+writ of certiorari should be granted and the Fifth Circuit’s judgment vacated in light
+
+of Mathis.   Id. at 19.   Moreover, Mr. McCurdy argues that the First Circuit’s
+
+declaration in Duquette that Maine’s burglary statute corresponds to “generic”
+
+burglary is merely dictum. Id. at 20. Mr. McCurdy explains that Mr. Duquette’s
+
+appellate counsel conceded that the Maine burglary statute was consistent with a
+
+generic burglary. Mr. McCurdy points out that Mr. Duquette’s appellate counsel
+
+instead chose to “inexplicably” argue that the Career Offender guideline, U.S.S.G. §
+
+4B1.1, did not apply to him, even though he was sentenced under the ACCA. Id. at
+
+17, 20. Because the First Circuit did not need to reach the question of whether
+
+Maine’s burglary statute corresponded to the generic burglary to decide Mr.
+
+Duquette’s appeal, Mr. McCurdy argues that Duquette is not binding precedent on
+
+this Court’s interpretation of the ACCA. Id. at 20–21.
+
+
+
+
+                                          9
+       Mr. McCurdy also addresses caselaw in other jurisdictions and cites cases
+
+where courts have, in his view, deemed statutes similar to Maine’s burglary statute
+
+as non-generic. Id. at 12–17.
+
+       Finally, Mr. McCurdy disputes whether his robberies are properly deemed
+
+ACCA predicates. Id. at 22–25. He points out that in Jackson v. United States, No.
+
+2:06-cr-94-GZS (D. Me. June 6, 2016), Judge Singal of this District reviewed Maine’s
+
+robbery statute and concluded that robbery involving the use of “physical force”—as
+
+Maine courts interpret the term—was not sufficient to satisfy the violent force
+
+requirement of Johnson v. United States, 559 U.S. 133 (2010) (Johnson I). Id. at 22–
+
+23. Mr. McCurdy explains that his own robbery conviction merely involved the
+
+“threatened” use of physical force—as opposed to the actual use of physical force in
+
+Jackson—and therefore, his conviction likewise should not qualify as a ACCA
+
+predicate. Id. at 23.
+
+       Additionally, Mr. McCurdy disputes the contention that it makes a difference
+
+that he was charged with being armed with a dangerous weapon when he committed
+
+these robberies. Id. at 23 (“The mere addition of a dangerous weapon does not change
+
+the result”). He concludes that the robberies “no longer qualify.” Id. at 25.
+
+       Mr. McCurdy concludes that neither his prior burglary convictions nor his
+
+prior robbery convictions are predicates to ACCA status and that the Court “should
+
+vacate his ACCA-based sentence and re-sentence him.” Id. at 25.
+
+III.   DISCUSSION
+
+       A.    The Maine Burglary Convictions as ACCA Predicates
+
+
+
+                                          10
+       In assessing Mr. McCurdy’s arguments about his prior burglary convictions,
+
+the Court does not start with a blank slate. Other judges of this District have issued
+
+three opinions concluding that “recent First Circuit precedent establishes that Maine
+
+burglary convictions are ‘violent felonies’ pursuant to ACCA’s enumerated clause.”4
+
+Dimott v. United States, Nos. 2:06-cr-26-GZS, 2:16-cv-347-GZS, 2016 U.S. Dist.
+
+LEXIS 142354, at *8 (D. Me. Oct. 14, 2016); see Collamore v. United States, Nos. 2:16-
+
+cv-259-GZS, 2:10-cr-158-GZS, 2016 U.S. Dist. LEXIS 148757, at *6 (Oct. 27, 2016);
+
+United States v. Casey, Nos. 2:11-cr-216-DBH, 2:16-cv-346-DBH, 2016 U.S. Dist.
+
+LEXIS 153085 (D. Me. Nov. 3, 2016).
+
+       In Dimott, the district judge concluded (1) that a defendant whose sentence
+
+was enhanced under the ACCA’s enumerated clause may not claim that Johnson II
+
+and Welch v. United States, 136 S. Ct. 1257 (2016) announced a retroactively-
+
+applicable, newly-recognized right, (2) that Duquette is the “‘law of the circuit’ and
+
+this Court is bound by it unless and until the First Circuit decides to revisit Duquette,”
+
+(3) there is “no basis for concluding that Mathis should be read as overruling
+
+Duquette,” and (4) that Mathis “does not present the ‘extremely rare circumstance[]’
+
+where Duquette would no longer be binding precedent on this Court.” Id. at *5–9.
+
+Even though it was “understandable” that Mr. Dimott would claim that Maine
+
+statutory definition of “structure” “categorically reach[es] a broader range of places
+
+
+
+
+4      The Tenth Circuit Court of Appeals recently cited Dimott for its conclusion that Mathis did not
+announce a new substantive rule retroactively applicable to cases on collateral review because the
+Supreme Court made it clear it was not breaking new ground in Mathis. See United States v. Taylor,
+No. 16-6223, 2016 U.S. App. LEXIS 21701, at *12 (10th Cir. Dec. 6, 2016); see also Raines v. Fox, No.
+CIV-16-1036-R, 2016 U.S. Dist. LEXIS 148195, at *2, n.1 (W.D. Okla. Oct. 26, 2016).
+
+                                                 11
+than generic burglary,” the district judge concluded that Duquette “currently provides
+
+a binding answer to that question within the First Circuit.” Id. at *10–11. In
+
+resolving Mr. McCurdy’s contentions about his burglary convictions, this Court
+
+“follow[s] Dimott and appl[ies] Duquette.” Casey, 2016 U.S. Dist. LEXIS 153085, at
+
+*15.
+
+       This conclusion does not imply that Mr. McCurdy’s arguments about his
+
+burglary convictions are not substantial. As another judge in this District notes,
+
+Mathis “casts significant doubt on the continued vitality of Duquette.” Id. at *16. In
+
+Casey, the Court observed that “Maine’s burglary statute, which encompasses
+
+camping vehicles, trailers, sleeper trains, and airplanes and boats with sleeping
+
+accommodations, seems to have a broader locational element than generic burglary.”
+
+Id. But, as in Dimott, Collamore, and Casey, this Court must “leave that conclusion
+
+to the First Circuit.” Id. at *16. The Court follows the lead of the district judges in
+
+this District by issuing a certificate of appealability on these questions. Dimott, 2016
+
+U.S. Dist. LEXIS 142354, at *11–12; Collamore, 2016 U.S. Dist. LEXIS 148757, at
+
+*6–7; Casey, 2016 U.S. Dist. 153085, at *16; see Casey, Nos. 2:11-cr-216-DBH, Order
+
+Issuing Certificate of Appealability at 1 (ECF No. 78).
+
+       B.    The Robbery Convictions as ACCA Predicates
+
+       Mr. McCurdy has another arrow in his quiver. To qualify as an armed career
+
+criminal, the ACCA requires a defendant to have “three previous convictions…for a
+
+violent felony.”   18 U.S.C. § 924(e)(1).      Assuming that the two prior burglary
+
+convictions count under the enumerated clause of the ACCA, Mr. McCurdy must still
+
+
+
+                                          12
+have one additional “violent felony” in order to qualify for the ACCA enhancement.
+
+In order to reach ACCA status, therefore, one or both of Mr. McCurdy’s prior robberies
+
+must count as a predicate ACCA felony.
+
+      As with the burglary convictions, this Court does not start with a blank slate
+
+regarding Mr. McCurdy’s arguments about his prior robbery convictions.             In
+
+Collamore, the district judge observed that he had recently held “that Maine robbery
+
+is not categorically an ACCA predicate offense pursuant to the force clause.”
+
+Collamore, 2016 U.S. Dist. LEXIS 148757, at *6, n.2 (citing Jackson v. United States,
+
+No. 2:16-cv-187-GZS, 2016 U.S. Dist. LEXIS 73052, at *3 (D. Me. June 6, 2016)). The
+
+Court turns to Jackson.
+
+      In Jackson, a defendant had been previously convicted of violating Maine’s
+
+robbery statute, 17-A M.R.S. § 651. Id. at *1–3. The district judge concluded that
+
+section 651 was “divisible” under Descamps v. United States, 133 S. Ct. 2276, 2284
+
+(2013). Id. at *3. As a result, the district judge reviewed the Shepard-approved
+
+documents in accordance with the modified categorical approach, focusing on the
+
+“force” language in the Jackson indictment. Id. at *3–4. The indictment read “DAVID
+
+S. JACKSON…did commit or attempt to commit theft by obtaining or exercising
+
+unauthorized control over the property of [the victim]…and at the time of said theft,
+
+Defendant did use force upon [victim].” Id. (emphasis and alterations in opinion).
+
+The district judge determined that the language contained in the indictment
+
+corresponded to 17-A M.R.S. § 651(1)(C), which penalizes a person who “uses physical
+
+force on another…” Id. at *4.
+
+
+
+                                         13
+         To qualify as a “violent felony” under Johnson I, the defendant must have used
+
+“violent force—that is, force capable of causing physical pain or injury to another
+
+person.” Johnson I, 559 U.S. at 140. However, the district judge in Jackson noted
+
+that the Maine Supreme Judicial Court ruled that “any physical force” would be
+
+sufficient to satisfy the force requirement in the Maine robbery statute. Id. at *5
+
+(quoting Raymond v. State, 467 A.2d 161, 164-65 (Me. 1983)). Consequently, the
+
+district judge resolved that he “could not conclude that the physical force Jackson
+
+used upon his victim to extract the money, which was the focus of the theft element,
+
+was necessarily force capable of causing physical pain or injury to the victim.” Id. at
+
+*6–7. He therefore declined to conclude that Mr. Jackson’s Maine robbery conviction
+
+was an ACCA-qualifying conviction as a violent felony under the “force clause.” Id.
+
+at *7.
+
+         Here, the Court accepts the premise that section 651, the Maine robbery
+
+statute, is divisible. At the time of Mr. McCurdy’s convictions, section 651 read:
+
+         1. A person is guilty of robbery if he commits or attempts to commit
+            theft and at the time of his actions:
+
+            A. He recklessly inflicts bodily injury on another;
+
+            B. He threatens to use force against any person present with intent:
+
+               1. to prevent or overcome resistance to the taking of the property,
+                  or to the retention of the property immediately after the
+                  taking; or
+
+               2. to compel the person in control of the property to give it up or
+                  to engage in other conduct which aids in the taking or carrying
+                  away of the property;
+
+
+
+
+                                            14
+           C. He uses physical force on another with the intent enumerated in
+              paragraph B, subparagraphs (1) or (2);
+
+           D. He intentionally inflicts or attempts to inflict bodily injury on
+              another; or
+
+           E. He or an accomplice to his knowledge is armed with a dangerous
+              weapon in the course of a robbery as defined in paragraphs A
+              through D.
+
+       2. Robbery as defined in subsection 1, paragraphs A and B, is a Class B
+          crime. Robbery as defined in subsection 1, paragraphs C, D, and E
+          is a Class A Crime.
+
+17-A M.R.S. § 651 (1975).
+
+       The Government supplied the indictment in state court in 1983, charging Mr.
+
+McCurdy with two counts of robbery—one an attempted robbery and the other a
+
+successful robbery.5 The state court indictment reads:
+
+       AND THE GRAND JURY CHARGES: COUNT I
+
+       That on or about the 10th day of March, 1983, in the County of
+       Penobscot, State of Maine, MARK MCCURDY did attempt to commit
+       theft, to wit, did attempt to obtain or exercise unauthorized control over
+       the property of the [victim], to wit, drugs, with the intent to deprive said
+       [victim] thereof, and at the time of his actions, he threatened to use force
+       against any person present, to wit, [the victim], with the intent to compel
+       the person in control of the property, to wit, [the victim], to give it up or
+       to engage in other conduct which aids in the taking or carrying away of
+       the property and he or an accomplice to his knowledge was armed with
+       a dangerous weapon, to wit, a firearm, in the course of the robbery.
+
+       AND THE GRAND JURY FURTHER CHARGES: COUNT II
+
+       That on or about the 10th day of March, 1983, in the County of
+       Penobscot, State of Maine, MARK MCCURDY did commit theft, to wit,
+
+5       The state court indictment is one of the limited documents that the Supreme Court held that
+a court may review under the modified categorical approach. Shepard, 544 U.S. at 26 (“We hold that
+enquiry under the ACCA to determine whether a plea to a burglary defined by a nongeneric statute
+necessarily admitted elements of the generic offense is limited to the terms of the charging
+document…or to some comparable judicial record of this information”).
+
+                                                15
+       did attempt to obtain or exercise unauthorized control over the property
+       of the [victim], to wit, drugs, with the intent to deprive said [victim]
+       thereof, and at the time of his actions, he threatened to use force against
+       any person present, to wit, [the victim], with the intent to compel the
+       person in control of the property, to wit, [the victim], to give it up or to
+       engage in other conduct which aids in the taking or carrying away of the
+       property and he or an accomplice to his knowledge was armed with a
+       dangerous weapon, to wit, a firearm, in the course of the robbery.
+
+Gov’t’s Opp’n, Attach. 3, Indictment for Violation of 17-A M.R.S.A. Section 651
+
+ROBBERY (Class A Crime) (ECF No. 391) (Indictment).6 Comparing the Maine
+
+robbery statute to the indictment, Mr. McCurdy was charged with violating 17-A
+
+M.R.S. § 651(1)(B)(2): “A person is guilty of robbery if the person commits theft or
+
+attempts to commit theft and at the time of the person’s actions: (B) the actor
+
+threatens to use force against any person present with the intent (2) to compel the
+
+person in control of the property to give it up or to engage in other conduct that aids
+
+in the taking or carrying away of the property.” If this were all that the State alleged,
+
+the Jackson case would be persuasive authority for finding that neither robbery was
+
+a violent felony within the meaning of the ACCA.
+
+       However, one obvious difference between Jackson and Mr. McCurdy’s case is
+
+that Mr. McCurdy was also charged with being armed with a dangerous weapon
+
+under section 651(1)(E).7 Accordingly, the Court must perform a slightly different
+
+
+6       The Government also attached the state court judgment. Gov’t’s Opp’n, Attach. 4, Judgment
+and Commitment at 1 (ECF No. 391). Other than confirming that Mr. McCurdy pleaded guilty to both
+robbery charges and was convicted of Class A robberies, the judgment does not illuminate the issue
+before the Court. Id.
+7       The indictment does not reveal whether Mr. McCurdy or his accomplice was the one armed
+with the dangerous weapon. Indictment at 1. However, the indictment alleges that “he or an
+accomplice to his knowledge was armed with a dangerous weapon, to wit, a firearm, in the course of
+the robbery.” Id. Neither the Government nor Mr. McCurdy has suggested that it would make a
+difference to the Court’s analysis whether he actually carried the firearm or whether he robbed the
+pharmacies with an accomplice who he knew was carrying a firearm.
+
+                                                16
+analysis to determine whether being armed with a dangerous weapon—as opposed to
+
+using or threatening to use physical force—is sufficient to constitute a violent felony
+
+under the ACCA.
+
+      To prove that a defendant (or his accomplice) was “armed with a dangerous
+
+weapon” under section 651(1)(E), the Maine Supreme Judicial Court held that the
+
+state must demonstrate that the defendant was in “actual possession of a firearm”
+
+within the definition of Maine law. State v. Zaccadelli, 472 A.2d 928, 932 (Me. 1984);
+
+see 17-A M.R.S. § 2(9)(B)(1) (“‘Armed with a dangerous weapon’ means in actual
+
+possession, regardless of whether the possession is visible or concealed, of: (1) a
+
+firearm”). Maine law defined “firearm” as “any weapon, whether loaded or unloaded,
+
+which is designed to expel a projectile by the action of an explosive.” 17-A M.R.S. §
+
+2(12-A). In Zaccadelli, the defendant argued that even though he (or his accomplice)
+
+possessed a pistol that was used in the robbery, the State had failed to prove that the
+
+pistol was operable as required by the definition of “firearm.” 472 A.2d at 931. The
+
+Maine Law Court rejected the argument, quoting the definition of “armed with a
+
+dangerous weapon” in 17-A M.R.S. § 2(9):
+
+      For purposes of this subsection, a thing presented in a covered or open
+      manner as a dangerous weapon shall be presumed to be a dangerous
+      weapon.
+
+Id. at 932; see State v. Flash, 418 A.2d 158, 162 (Me. 1980) (approving a jury
+
+instruction that stated “If a thing is presented as a weapon in an open or covered
+
+manner, you are permitted…to infer that the thing was a dangerous weapon and
+
+conclude…that it was a dangerous weapon”).
+
+
+
+                                          17
+      The Court turns to whether, as explained by the Maine Supreme Judicial
+
+Court, the Maine crime of robbery while armed with a dangerous weapon transforms
+
+the crime of robbery into a violent felony under the ACCA. The answer is not easy.
+
+As the First Circuit just commented in United States v. Tavares, No. 14-2319, 2016
+
+U.S. App. LEXIS 21491 (1st Cir. Dec. 1, 2016), this type of analysis can lead a court
+
+“down several rabbit holes” and into a “Rube Goldberg jurisprudence of abstractions
+
+piled on top of one another in a manner that renders doubtful anyone’s confidence in
+
+predicting what will pop out at the end.” Id. at *41–42 (addressing “crime of violence”
+
+under the career criminal enhancement in U.S.S.G. § 4B1.2). But, in Tavares’ words,
+
+“[w]hat pops out matters a great deal.” Id.
+
+      To add to a degree of irreducible vagueness, Maine decisional law has not
+
+addressed all of the critical questions presented here. For guidance, the Court turns
+
+to jurisprudence arising out of the commonwealth of Massachusetts’ armed robbery
+
+statute. The Massachusetts offense of armed robbery has two elements: (1) that the
+
+defendant commits a robbery (2) while in possession of a weapon. Compare 17-A
+
+M.R.S. § 651(1)(e), with MASS. GEN. LAWS ch. 265,8 § 17; King v. MacEachern, 665
+
+
+8     Chapter 265 of the Massachusetts General Laws reads:
+
+      Whoever, being armed with a dangerous weapon, assaults another and robs, steals or
+      takes from his person money or other property which may be the subject of larceny
+      shall be punished by imprisonment in the state prison for life or for any term of years;
+      provided, however, that any person who commits any offence described herein while
+      masked or disguised or while having his features artificially distorted shall, for the
+      first offence be sentenced to imprisonment for not less than five years and for any
+      subsequent offence for not less than ten years. Whoever commits any offense described
+      herein while armed with a firearm, shotgun, rifle, machine gun or assault weapon shall
+      be punished by imprisonment in the state prison for not less than five years. Any
+      person who commits a subsequent offense while armed with a firearm, shotgun, rifle,
+      machine gun or assault weapon shall be punished by imprisonment in the state prison
+      for not less than 15 years.
+
+                                                18
+F.3d 247, 253 (1st Cir. 2011) (citing Commonwealth v. Tevlin, 433 Mass. 305, 741
+
+N.E.2d 827, 833 (2001)). For purposes of this analysis, the robbery portion of the
+
+Massachusetts statute has been interpreted consistently with the robbery portion of
+
+the Maine statute in that both laws treat a de minimis use of force, such as snatching
+
+a purse, as fitting within the definition of robbery. See Raymond, 467 A.2d at 164
+
+(interpreting § 651(1)(B)); Commonwealth v. Jones, 362 Mass. 83, 283 N.E.2d 840,
+
+845 (1972). Neither Maine nor Massachusetts’ statute would meet the “violent force”
+
+requisite under the ACCA’s force clause. Jackson, 2016 U.S. Dist. LEXIS 73052, at
+
+*6; United States v. Dubose, criminal action no. 04-10291-RGS, civil action no. 16-
+
+11214-RGS, 2016 U.S. Dist. LEXIS 174994, at *5 (D. Mass. Dec. 19, 2016).
+
+      Whether the firearm possession is sufficient to bring Mr. McCurdy’s case
+
+within the ACCA is more difficult. Although the Maine and Massachusetts statutory
+
+language is not identical, it is similar. 17-A M.R.S. § 651(1)(e) (“The actor is armed
+
+with a dangerous weapon”); MASS. GEN. LAWS ch. 265, § 17 (“Whoever, being armed
+
+with a dangerous weapon”).         Interpreting the Massachusetts language, the
+
+Massachusetts courts have concluded that “a dangerous weapon need play no part in
+
+the robbery itself, nor need the victim even be aware of its presence.” Dubose, 2016
+
+U.S. Dist. LEXIS 174994, at *5 (citing King, 665 F.3d at 253 & n.7). Indeed, in
+
+Massachusetts, “a robbery may be committed even if the victim is not placed in fear”
+
+and there is no requirement that the robber actually “harbored a willingness to inflict
+
+bodily harm or otherwise use violent force against a victim.” Id. at 7. “All that is
+
+required is a showing of de minimis force, which is insufficient to clear the threshold
+
+
+
+                                          19
+established in Johnson I.” Id. In reaching the conclusion that a conviction for an
+
+armed robbery in Massachusetts does not meet the violent force requisite in the
+
+ACCA, the district judge concurred with United States v. Parnell, 818 F.3d 974 (9th
+
+Cir. 2016), a Ninth Circuit decision interpreting the Massachusetts armed robbery
+
+statute. Id. at 4, 7; see also United States v. Redrick, 841 F.3d 478, 484 (D.C. Cir.
+
+2016).
+
+         The decisional law in Maine is not as clear on this issue as in Massachusetts,
+
+but the language of the Maine statute is consistent with the Dubose and Parnell
+
+analyses. The Maine statute elevates a robbery from a Class B crime to a Class A
+
+crime if the robber “is armed” with a dangerous weapon. 17-A M.R.S. § 651(1)(E).
+
+Maine courts have not gone so far as to say it does not matter if the victim even knows
+
+that the robber has the weapon. But by its terms, the Maine statute does not require
+
+that the robber actively use the weapon to commit the robbery in order to violate
+
+section 651(1)(E), only that the robber possess it “in the course of the robbery.” Id.
+
+Without more, the possession of a firearm during a robbery does not therefore
+
+transform the robbery to one where the robber used “violent force” under the ACCA’s
+
+force clause.
+
+         The Government analogizes the Maine armed robbery statute to United States
+
+v. Whindleton, 797 F.3d 105 (1st Cir. 2015), where the First Circuit addressed the
+
+Massachusetts crime of assault with a dangerous weapon and concluded that it was
+
+properly a predicate ACCA offense. But as the Whindleton Court explained, the
+
+Massachusetts assault with a dangerous weapon statute imposes “the additional
+
+
+
+                                           20
+element that the assault must be accomplished ‘by means of a dangerous weapon.’”
+
+Id. at 114 (quoting MASS. GEN. LAWS ch. 265, § 15B(b)). In Dubose, the federal district
+
+court in Massachusetts noted that the absence of a requirement that the weapon
+
+plays a part in the Massachusetts armed robbery statute “makes armed robbery
+
+unlike other offenses in Massachusetts, such as an assault with a dangerous weapon,
+
+where the presence of the weapon ‘imports the “violent force” required by Johnson
+
+into’ an otherwise overbroad statute.” Dubose, 2016 U.S. Dist. LEXIS 174994, at *5
+
+(quoting Whindleton, 797 F.3d at 114).
+
+       Nor is the Court bound by its own decision in United States v. Mulkern, 15-cr-
+
+54-JAW. The main issue in Mulkern was a complicated question about whether the
+
+defendant’s prior drug conviction was a qualifying offense under the ACCA and
+
+whether the prior burglary and robbery were “committed on occasions different from
+
+one another.” 18 U.S.C. § 924(e)(1); United States v. Mulkern, 1:15-cr-00054-JAW-1,
+
+Tr. of Proceedings, Sentencing Proceedings 8:7–24:11 (ECF No. 61) (Mulkern
+
+Sentencing Tr.). Whether Mr. Mulkern’s robbery conviction was a qualifying offense
+
+was summarily briefed, see Mulkern, Gov’t’s Mem. in Aid of Sentencing (ECF No. 46),
+
+Def.’s Sentencing Mem. at 6–8 (ECF No. 48), Gov’t’s Reply to the Def.’s Sentencing
+
+Mem. (ECF No. 49), argued, and resolved. Mulkern Sentencing Tr. 24:17–25:4.9 But
+
+more significantly, Mr. Mulkern’s robbery conviction stemmed from a different
+
+section of 651 than Mr. McCurdy was convicted of violating. Mr. Mulkern was
+
+
+
+9      The Court agrees with Mr. McCurdy’s diplomatic statement that “[m]uch has changed” since
+2004 when the Court decided United States v. Bishop, 350 F. Supp. 2d 117 (D. Me. 2004). See Def.’s
+Reply at 24.
+
+                                               21
+charged and convicted of violating 17-A M.R.S. § 651(1)(A), which required that the
+
+Government prove the defendant “recklessly inflicts bodily injury on another.” On its
+
+face, the infliction of bodily injury would appear to meet the Johnson I requirement
+
+of “violent force—that is, force capable of causing physical pain or injury to another
+
+person.” Johnson I, 559 U.S. at 140.
+
+       In short, the Court concludes that the armed robberies with which Mark
+
+McCurdy has been charged and convicted do not meet the violent force requirement
+
+of the ACCA as explained by the Supreme Court in Johnson I and Johnson II.
+
+IV.    CONCLUSION
+
+       With the elimination of the two armed robbery convictions, Mark McCurdy has
+
+two predicate ACCA violent felonies; the ACCA requires three. 18 U.S.C. § 924(e)(1)
+
+(“three previous convictions”). This means the ACCA does not apply to him, and
+
+instead of a fifteen-year mandatory statutory minimum and an enhanced sentencing
+
+guideline range, Mark McCurdy faces a ten-year maximum. 18 U.S.C. § 924(a)(2).
+
+The Court therefore GRANTS Mark McCurdy’s motion under 28 U.S.C. § 2255 (ECF
+
+No. 378) and DISMISSES as moot his Motion Under 28 U.S.C. § 2255 to Vacate, Set
+
+Aside, or Correct Sentencing by a Person in Federal Custody (ECF No. 380). The
+
+Court will set the matter ahead for a conference of counsel to discuss re-sentencing.10
+
+
+
+
+10      This decision will require a recalculation of Mr. McCurdy’s guideline sentence range. If, as
+recalculated, Mr. McCurdy has either over-served or is close to over-serving his newly-calculated
+guideline sentence range, the Court assumes that counsel will quickly inform the Court so that it can
+expedite Mr. McCurdy’s resentencing.
+
+                                                 22
+      SO ORDERED.
+
+
+                               /s/ John A. Woodcock, Jr.
+                               JOHN A. WOODCOCK, JR.
+                               UNITED STATES DISTRICT JUDGE
+
+Dated this 6th day of January, 2017
+
+
+
+
+                                      23
+

@@ -1,0 +1,472 @@
+             Case 1:19-cr-10281-IT Document 39 Filed 12/09/19 Page 1 of 9
+
+
+
+
+                             UNITED STATES DISTRICT COURT
+                              DISTRICT OF MASSACHUSETTS
+
+UNITED STATES OF AMERICA                     *
+                                             *
+       v.                                    *
+                                             *              Criminal No. 19-cr-10281-IT
+ELWOOD CORTES-NAVEDO,                        *
+                                             *
+                      Defendant.             *
+                                             *
+
+                         ORDER GRANTING MOTION TO DISMISS
+                                        December 9, 2019
+TALWANI, D.J.
+
+       Before the court is Defendant Elwood Cortes-Navedo’s Motion to Dismiss for Violation
+
+of the Speedy Trial Act [#33]. Mr. Cortes-Navedo argues that the delay of more than thirty days
+
+between his arrest and indictment violated the Speedy Trial Act, 18 U.S.C. § 3161 (the “Act”).
+
+The government responds that the Act was tolled by an unresolved motion for detention brought
+
+by the government against a codefendant in a related criminal proceeding. For the reasons set
+
+forth below, the court finds that the motion concerning the other defendant’s detention does not
+
+support excluding delay here, and that dismissal is appropriate. However, in consideration of the
+
+factors set forth in 18 U.S.C. § 3162(a)(1), the court concludes that dismissal should be without
+
+prejudice.
+
+  I.   Background
+
+       Mr. Cortes-Navedo, Rodrigo Tevares, and Rony DeFreitas were charged with unlawful
+
+dealing in firearms, in violation of 18 U.S.C. § 922(a)(1)(A). Criminal Complaint, 19-mj-06292
+
+[#4]. On April 24, 2019, all three Defendants were arrested. The next day, the Defendants made
+
+their initial appearances and the government moved for detention. See Elec. Clerk’s Notes, 19-
+
+
+                                                 1
+           Case 1:19-cr-10281-IT Document 39 Filed 12/09/19 Page 2 of 9
+
+
+
+mj-06292 [#9]. At the three Defendants’ requests, the court set detention and probable cause
+
+hearings. Id.
+
+       On April 30, 2019, Mr. Tevares requested and was granted a continuance of his probable
+
+cause and detention hearings. Elec. Clerk’s Notes, 19-mj-06292 [#14]. According to the docket,
+
+Mr. Tevares never sought to have the detention hearing rescheduled, and instead remained in
+
+custody.
+
+       On April 30, 2019, and May 1, 2019, the government withdrew its motions for detention
+
+as to Mr. DeFreitas and Mr. Cortes-Navedo, respectively, and the two Defendants were released.
+
+Elec. Clerk’s Notes, 19-mj-06292 [#14]; Elec. Clerk’s Notes, 19-mj-06292 [#21].
+
+       On May 30, 2019, the government offered Mr. DeFreitas a plea agreement pursuant to
+
+which he would waive indictment and plead guilty to an information. Plea Agreement, 19-cr-
+
+10227 NMG [#24].
+
+       On June 3, 2019, the Assistant United States Attorney (“AUSA”) sent an email to Mr.
+
+DeFreitas and Mr. Cortes-Navedo’s attorneys stating that his office “believe[d] that the Speedy
+
+Trial Act [was] tolled as to [Mr. Cortes-Navedo and Mr. DeFreitas] because the motion for
+
+detention [of Mr. Tevares] remains pending.” Gov’t’s Opp’n 2 [#36]. The government asked
+
+defense counsel to communicate any disagreement with that position and noted that the
+
+“additional time also gives us an opportunity to continue to discuss pre-indictment resolution.”
+
+Id. Although defense counsel for Mr. DeFreitas assented, defense counsel for Mr. Cortes-Navedo
+
+never responded to the Speedy Trial Act question posed by the AUSA. Id.
+
+       On July 2, 2019, the government charged Mr. DeFreitas in an Information. 19-cr-10227-
+
+NMG [#20].
+
+
+
+
+                                                2
+           Case 1:19-cr-10281-IT Document 39 Filed 12/09/19 Page 3 of 9
+
+
+
+       On July 18, 2019, the government offered Mr. Tevares a plea agreement, pursuant to
+
+which he too would waive indictment and plead guilty to an information. Plea Agreement, 19-cr-
+
+10392-PBS [#27].
+
+       On July 31, 2019, the government sent a draft plea agreement to counsel for Mr. Cortes-
+
+Navedo. Gov’t’s Opp’n 3 [#36]. Mr. Cortes-Navedo declined the offer and the government
+
+indicted him on August 7, 2019, 104 days after he was arrested. Id.
+
+       On October 10, 2019, Mr. Tevares accepted the plea agreement and was charged by
+
+information. Plea Agreement, 19-cr-10392-PBS [#27]; Information, 19-cr-10392-PBS [#26].
+
+       On October 15, 2019, Defendant filed a Motion to Dismiss [#33] on the basis that more
+
+than thirty days had passed between his arrest and indictment. The government filed an
+
+Opposition [#36] to the motion, arguing that the government’s detention motion tolled the
+
+government’s deadline to indict Mr. Cortes-Navedo and that if any relief is granted, it should be
+
+limited to dismissal without prejudice.
+
+ II.   Discussion
+
+       The Speedy Trial Act requires that “[an] information or indictment charging an individual
+
+with the commission of an offense shall be filed within thirty days from the date on which such
+
+individual was arrested or served with a summons in connection with such charges.” 18 U.S.C.
+
+§ 3161(b). In addition, the Act sets a seventy day maximum period for the time between when a
+
+defendant is charged in an information or indictment and the commencement of trial. 18 U.S.C.
+
+§ 3161(c)(1). The Act provides several tolling provisions that allow for these time limits to be
+
+extended in certain circumstances. One such provision is that some delay following from a
+
+proceeding “concerning the defendant,” including “delay resulting from any pretrial motion,
+
+from the filing of the motion through the conclusion of the hearing on, or other prompt
+
+
+
+                                                 3
+           Case 1:19-cr-10281-IT Document 39 Filed 12/09/19 Page 4 of 9
+
+
+
+disposition of, such motion,” may be excluded. 18 U.S.C. §§ 3161(h)(1), (h)(1)(D). Furthermore,
+
+the Act designates as excludable “[a] reasonable period of delay when the defendant is joined for
+
+trial with a codefendant as to whom the time for trial has not run and no motion for severance
+
+has been granted.” 18 U.S.C. § 3161(h)(6) (emphasis added).
+
+       Defendant argues that the pretrial detention motion in Mr. Tavares’s case does not create
+
+excludable delay for Mr. Cortes-Navedo’s proceeding because Mr. Tavares and Mr. Cortes-
+
+Navedo were never “joined for trial” under Fed. R. Crim. P. 8(b). The government counters that
+
+the court must extend the delay to defendants “jointly charged” in a criminal complaint. Gov’t’s
+
+Opp’n 4 [#36]. The government acknowledges that 18 U.S.C. § 3161(h)(6) refers to defendants
+
+“joined for trial,” but it argues that the court should construe this to mean “jointly charged” to
+
+avoid a contradiction in the Act. This contradiction, the government argues, arises out of the
+
+Act’s designation that the enumerated excludable “periods of delay” apply to “the time within
+
+which an information or an indictment must be filed, or in computing the time within which the
+
+trial of any such offense must commence.” 18 U.S.C. § 3161(h) (emphasis added). Based on this
+
+language, the government argues that “the explicit language of Section (h) makes it clear that the
+
+periods of delay apply to computing the time within which an information or an indictment must
+
+be filed.”1 Gov’t’s Opp’n 4 [#36] (internal citations omitted). Accordingly, the government
+
+
+
+1
+  The government’s argument relies on interpreting 18 U.S.C. § 3161(h) in the conjunctive, even
+though Congress used the disjunctive “or.” In support of this interpretation, the government cites
+a Ninth Circuit case where the court interpreted a different subsection, § 3161(h)(3)—which
+excludes delay due to a defendant being unavailable “for trial”—as applying to both the thirty-
+day pre-indictment period and the seventy-day pre-trial period. United States v. Martinez-
+Martinez, 369 F.3d 1076, 1085 (9th Cir. 2004). The Ninth Circuit rested this conclusion in part
+on the premise that “[o]ther than § 3161(h)(3), there is no indication that any of the provisions
+are singularly applicable to only one of the time periods.” Id. at 1085. Given that the Ninth
+Circuit did not address § 3161(h)(6), the subsection at issue here and a subsection that, by its
+text, applies to only one of the time periods, it is difficult to accord the Ninth Circuit opinion
+significant weight. The government acknowledges that there is no controlling precedent on this
+                                                  4
+           Case 1:19-cr-10281-IT Document 39 Filed 12/09/19 Page 5 of 9
+
+
+
+infers, the delay cannot apply only to those “joined for trial,” but must also apply to those
+
+“jointly charged” prior to indictment. Id.
+
+       The court is not persuaded by the government’s reasoning. The Supreme Court has
+
+instructed that when “the statute’s language is plain, the sole function of the courts—at least
+
+where the disposition required by the text is not absurd—is to enforce it according to its terms.”
+
+Hartford Underwriters Ins. Co. v. Union Planters Bank, N.A., 530 U.S. 1, 6 (2000) (internal
+
+citations omitted). The relevant language of the Act in the specific provision at issue is
+
+unambiguous and is not absurd. It creates as an explicit condition that the excludable delay is
+
+extended to a codefendant only where the defendants are “joined for trial.” 18 U.S.C.
+
+§ 3161(h)(6). Even more, the exception states, again without ambiguity, the delay applies to the
+
+extent that “the time for trial”—and not the time to indict—has not run for the codefendant. Id.
+
+(emphasis added).
+
+       The court is especially hesitant to deviate from the plain meaning of these words since
+
+they are terms of art with well-understood meanings in criminal law. The government’s
+
+argument that the court should broadly construe the phrase “joined for trial” to mean “jointly
+
+charged” in a criminal complaint runs afoul of the “cardinal rule of statutory construction that,
+
+when Congress employs a term of art, it presumably knows and adopts the cluster of ideas that
+
+were attached to each borrowed word in the body of learning from which it was taken.” Bernardo
+
+ex rel. M & K Eng'g, Inc. v. Johnson, 814 F.3d 481, 498 (1st Cir. 2016) (citing Molzof v. United
+
+States, 502 U.S. 301, 307 (1992)). Rule 8 of the Federal Rules of Criminal Procedure has been
+
+
+
+question and indeed no precedent in this circuit aside from a single case from this District.
+Gov’t’s Opp’n 5 [#36] (citing United States v. Perez, No. 94-10061-NMG (D. Mass. June 3,
+1994) (finding “delay due to pre-indictment proceeding of one defendant is not excludable as to
+other defendants” since they are not “‘codefendants’ . . . linked by a common indictment or
+information”)).
+                                                 5
+           Case 1:19-cr-10281-IT Document 39 Filed 12/09/19 Page 6 of 9
+
+
+
+effectively unchanged since its adoption in 1944, thirty years before the enactment of the Speedy
+
+Trial Act. See Advisory Notes to Fed. R. Crim. P. 8. Even more, Congress expressly referenced
+
+the Federal Rules of Criminal Procedure in the relevant section of the Act. See 18 U.S.C.
+
+§ 3161(h)(1)(E). As a result, the court finds no ambiguity in Congress’s use of the term “joined
+
+for trial” and interprets it consistent with its well-understood meaning within the relevant
+
+statutory context to mean joined in an indictment under Fed. R. Civ. P. 8(b).
+
+       While the court may depart from a plain meaning of a statute where necessary to avoid an
+
+absurd result, here, an absurd result only manifests when departing from the Act’s plain
+
+meaning. Under the government’s interpretation, where multiple defendants are charged together
+
+in a criminal complaint, but one flees arrest, the arrested codefendants would effectively have no
+
+rights under the Speedy Trial Act as the “time for trial” would never run for the codefendant on
+
+the lam.
+
+       Even more, no amount of delay, much less a 104-day delay, is a reasonable period to
+
+extend Mr. Cortes-Navedo’s statutory right to a speedy indictment because of a codefendant’s
+
+pending detention motion. The Supreme Court has noted that, in the context of the Speedy Trial
+
+Act exemptions, § 3161(h)(6) is unique in that it does not create an automatic excludable period
+
+of delay upon the occurrence of a triggering event. See Henderson v. United States, 476 U.S.
+
+321, 327 (1986). In Henderson, the Court held that § 3161(h)(6)’s requirement that any delay
+
+arising from a codefendant be “reasonable” was a purposeful limit on the exclusion that
+
+differentiated it from other exemptions. Id.; see also United States v. Barnes, 251 F.3d 251, 259
+
+(1st Cir. 2001) (noting that courts should consider “how much time is ‘reasonable’” when
+
+calculating delay due to codefendants’ proceedings under the Act). The court recognizes that
+
+when prosecuting codefendants together, there are utilities to joint trials, especially where the
+
+
+
+                                                 6
+           Case 1:19-cr-10281-IT Document 39 Filed 12/09/19 Page 7 of 9
+
+
+
+government may wish to “recite a single factual history, put on a single array of evidence, and
+
+call a single group of witnesses.” United States v. Maryea, 704 F.3d 55, 67 (1st Cir. 2013).
+
+Indeed, after reviewing the legislative history of § 3161(h)(6), the Third Circuit noted that
+
+subsection (h)(6) embodies “a strong congressional preference for joint trials and an intention
+
+that delays resulting from the joinder of codefendants be liberally excluded.” United States v.
+
+Novak, 715 F.2d 810, 814 (3d Cir. 1983). Nevertheless, the court can discern no explanation for
+
+how a pending detention motion may require any delay in a codefendant’s indictment.2
+
+       Accordingly, pursuant to 18 U.S.C. § 3162(a)(1), the Indictment charging Mr. Cortes-
+
+Navedo, must be dismissed.
+
+       The question remaining is whether the Indictment charging Mr. Cortes-Navedo should be
+
+dismissed with or without prejudice. Pursuant to 18 U.S.C. § 3162(a)(1), the court considers: (1)
+
+the seriousness of the offense; (2) the circumstances leading to the delay; (3) the impact
+
+reprosecution would have on the administration of justice and the enforcement of the Act; and
+
+
+
+2
+  Indeed, the government never explains why the motion for detention would support excludable
+delay even for the defendant to whom the motion is addressed. As an initial matter, to the extent
+that the pending detention motion did not require a hearing, time is tolled only until the “prompt
+disposition of the motion, which ordinarily cannot exceed the 30-day under advisement period.”
+United States v. Barnes, 159 F.3d 4, 11 (1st Cir. 1998). Even more, relying on the pending
+motion for detention as a basis for delaying indictment frustrates the Act’s “purpose of protecting
+the shared interest of criminal defendants and the public in bringing criminal charges to the bar
+of justice as promptly as practicable.” United States v. Souza, 749 F.3d 74, 80 (1st Cir. 2014)
+(internal citation omitted). The court recognizes the First Circuit has expansively applied
+§ 3161(h)(1)(D) to cover delay caused by “any pretrial motion” including motions for detention.
+Barnes, 159 F.3d at 11; see also United States v. Noone, 913 F.2d 20, 27 (1st Cir. 1990)
+(holding, without discussion, a pretrial detention order to be a “pretrial motion” under the Act in
+the context of excluding delay from the 70-day period between indictment and trial).
+Nevertheless, the First Circuit has bounded its expansive reading of the Act’s tolling provisions
+such that pending motions will not create excludable delay where they exist only to “avoid the
+consequences of an STA violation.” Souza, 749 F.3d at 80. Here, the reason for Mr. Tevares’s
+and the government’s apparent disinterest in resolving the pending detention motion is not
+readily ascertained from the record before the court, and the record here includes no
+contemporaneous order from a district judge excluding this time.
+                                                 7
+            Case 1:19-cr-10281-IT Document 39 Filed 12/09/19 Page 8 of 9
+
+
+
+(4) any related miscellaneous factors, including whether the delay resulted in actual prejudice to
+
+the defendant. 18 U.S.C. § 3162(a)(1); United States v. Hastings, 847 F.2d 920, 929 (1st Cir.
+
+1988) (appending the fourth factor to the three enumerated statutory factors).
+
+        Beginning with the seriousness of the offense, the crime with which Mr. Cortes-Navedo
+
+is charged is, undoubtedly, serious. The Defendant does not contest this. See Def.’s Mot. 7 [#33]
+
+(“the sale of a gun is not trivial”). Instead, Defendant states that this offense is “less serious than
+
+many others prosecuted in this district.” Id. While the court agrees with the characterization that
+
+many cases before the court are of a more serious nature than the offense Mr. Cortes-Navedo is
+
+charged with, whether there are more serious offenses is not the applicable analysis. Instead, the
+
+court must consider “society’s interest in bringing the particular accused to trial” to determine
+
+the seriousness of the crime. Hastings, 847 F.2d at 925. As the government correctly points out,
+
+gun trafficking is the type of offense that breeds more crime as the weapons find their way into
+
+the hands of those who cannot obtain weapons through legal means. Gov’t’s Opp’n 6 [#36].
+
+Because the court finds that the government has a strong interest in intercepting those who
+
+engage in the trafficking of deadly weapons, the court considers the seriousness of the charges
+
+against Mr. Cortes-Navedo as weighing against dismissal with prejudice.
+
+        The circumstances leading to the delay also weigh against dismissal with prejudice. As
+
+the First Circuit has noted, the court should tip the scales in favor of dismissal with prejudice
+
+where the delay was caused by “a pattern of governmental inattention” or because the prosecutor
+
+“fails to learn oft-repeated lessons.” Hastings, 847 F.2d at 925. Here, there is no showing of a
+
+pattern of governmental inattention. Although the AUSA was not sufficiently diligent regarding
+
+the Act’s requirements, he did not entirely ignore his obligations, as evidenced by his email to
+
+
+
+
+                                                   8
+           Case 1:19-cr-10281-IT Document 39 Filed 12/09/19 Page 9 of 9
+
+
+
+defense counsel. This does not excuse his oversight, but it does indicate that there is no
+
+additional lesson to be taught by dismissing the claims with prejudice.
+
+       In considering the effect of reprosecution on the administration of justice and the
+
+enforcement of the Act, the court concludes that neither is hindered by dismissal without
+
+prejudice. Mr. Cortes-Navedo would have to be indicted once more, a not-insubstantial burden
+
+on the government but a small burden on the Defendant and the court. See United States v.
+
+Taylor, 487 U.S. 326, 342 (1988) (“Dismissal without prejudice is not a toothless sanction: it
+
+forces the Government to obtain a new indictment if it decides to reprosecute, and it exposes the
+
+prosecution to dismissal on statute of limitations grounds”). Mr. Cortes-Navedo presents no
+
+argument for how reprosecution may impair the fair administration of justice and the court
+
+cannot discern one.
+
+       Finally, the court considers miscellaneous factors such as the length of delay and whether
+
+there is actual prejudice to the defendant. The length of the delay here is substantial; the 104-day
+
+delay between arrest and indictment is more than three times that provided for in the Act.
+
+Considered in isolation, a delay of this magnitude might suggest a blatant disregard for Mr.
+
+Cortes-Navedo’s rights. However, the lengthy delay appears to be directly tied to the AUSA’s
+
+mistaken understanding that there was an agreement that the time was tolled. Moreover, this is
+
+not a case where the Defendant remained in custody without a timely indictment. As a result, and
+
+considered alongside other factors in the analysis, the court concludes that the appropriate
+
+sanction is dismissal of the Complaint and the Indictment against Mr. Cortes-Navedo without
+
+prejudice to the government to renew its prosecution.
+
+       IT IS SO ORDERED.
+
+       December 9, 2019                                              /s/ Indira Talwani
+                                                                     United States District Judge
+
+                                                 9
+

@@ -1,0 +1,436 @@
+                           UNITED STATES DISTRICT COURT
+                                DISTRICT OF MAINE
+
+ROBERT KELLY CARTER,                     )
+                                         )
+             Petitioner,                 )
+                                         )
+       v.                                )      2:13-cr-00196-NT
+                                         )      2:15-cv-00186-NT
+                                         )
+UNITED STATES OF AMERICA,                )
+                                         )
+             Respondent                  )
+
+                  RECOMMENDED DECISION ON RULE 60(b) MOTION
+
+       In this action, Petitioner Robert Kelly Carter has filed a motion pursuant to
+
+Fed. R. Civ. P. 60(b). (Motion, ECF No. 96.) In the motion, Petitioner seeks relief from
+
+final judgment on his motion for relief under 28 U.S.C. § 2255. (Id. at 1; Orders,
+
+ECF Nos. 87, 94.) Petitioner alleges habeas counsel failed to comply with Petitioner’s
+
+request to file a notice of appeal from the section 2255 judgment; he asks the Court to
+
+re-enter the section 2255 judgment so that he can pursue an appeal. (Motion, ECF No. 96
+
+at 1-2.)
+
+       Following a review of Petitioner’s Rule 60(b) motion, the Government’s response,
+
+and the record, I recommend the Court dismiss the motion as an unauthorized second or
+
+successive motion under 28 U.S.C. §§ 2244, 2255(h).
+
+             I.     FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+       In 2014, following a guilty plea, Petitioner was convicted of possession of firearms
+
+by a convicted felon; the Court sentenced Petitioner to 120 months in prison, followed by
+three years of supervised release. (Judgment, ECF No. 42 at 1-3.) Petitioner did not appeal
+
+from the judgment.1
+
+        In Petitioner’s section 2255 motion, he alleged ineffective assistance of trial counsel
+
+based on several grounds.2 (Motion, ECF No. 57 at 4-8.) Petitioner filed the section 2255
+
+motion pro se in May 2015; in March 2016, Petitioner’s retained counsel was admitted
+
+pro hac vice. (Motion at 12; Certification, ECF No. 76.)
+
+        The Court addressed Petitioner’s section 2255 claims in two orders (Orders,
+
+ECF Nos. 87, 94.) In March 2017, the Court denied all claims except the claim concerning
+
+the notice of appeal, and it denied a certificate of appealability as to the claims the Court
+
+denied. (Recommended Decision, ECF No. 80; Order, ECF No. 87.)3 The Court allowed
+
+Petitioner an additional 45 days to “to submit admissible evidence that the Petitioner
+
+believes corroborates his communications with his counsel regarding the notice of appeal.”
+
+(Order, ECF No. 87 at 2.)
+
+
+
+
+1
+  A more detailed version of the factual background and procedural history of the conviction and sentencing
+is set forth in the recommended decision on Petitioner’s section 2255 motion. (Recommended Decision,
+ECF No. 80.)
+2
+ Petitioner alleged failure to move to suppress evidence, failure to appeal, failure to investigate and
+challenge a prior conviction at sentencing, failure to investigate bases for mitigation, and failure to
+challenge a special condition of supervised release; the Court disposed of all claims on the merits.
+(Recommended Decision, ECF No. 80; Orders, ECF Nos. 87, 94.)
+3
+ See 28 U.S.C. § 2253(c)(2) (requiring the petitioner to make “a substantial showing of the denial of a
+constitutional right” before either a circuit justice or judge issues a certificate of appealability); Rule 11
+of the Rules Governing Section 2255 Cases (requiring the district court to “issue or deny a certificate of
+appealability when it enters a final order adverse to the applicant,” and providing that “[if] the court denies
+a certificate, a party may not appeal the denial but may seek a certificate from the court of appeals under
+Federal Rule of Appellate Procedure 22”).
+
+                                                      2
+        In July 2017, the Court noted it had provided Petitioner the extensions of time
+
+Petitioner requested, and it accepted Petitioner’s late filing; the Court concluded Petitioner
+
+had provided “no additional evidence to corroborate his claim that he asked his counsel to
+
+file a notice of appeal.” (Order, ECF No. 94 at 1-2.) The Court denied the claim, and it
+
+denied a certificate of appealability. (Id. at 2-3.)
+
+        Petitioner filed his Rule 60(b) motion in November 2018. (Motion, ECF No. 96.)
+
+In the motion, Petitioner alleges counsel caused Petitioner to fail to appeal from the denial
+
+of his section 2255 motion, because counsel abandoned him; Petitioner asks the Court to
+
+re-enter the section 2255 judgment so that Petitioner can pursue an appeal. (Id. at 2.)
+
+        The Government argues Petitioner’s motion is in substance an unauthorized second
+
+or successive petition subject to the gatekeeping provisions of 28 U.S.C. §§ 2244, 2255(h).
+
+(Response, ECF No. 97 at 3-5.) The Government also argues that if Petitioner’s motion is
+
+construed as a Rule 60(b) motion, it is untimely, and the facts do not support relief under
+
+Rule 60(b). (Id. at 6-10.)
+
+                                         II.      DISCUSSION
+
+         Under the Supreme Court’s analysis in Gonzalez v. Crosby, 545 U.S. 524 (2005),
+
+Petitioner’s motion is not, in substance, a Rule 60(b) motion.4 Rather, it is a second or
+
+4
+  Although Gonzalez v. Crosby, 545 U.S. 524 (2005), concerned a state prisoner’s habeas petition under
+28 U.S.C. § 2254, and the Supreme Court noted that its consideration was limited to section 2254 cases,
+545 U.S. at 529 n.3, the statute section at issue in Gonzalez, 28 U.S.C. § 2244, also applies to federal
+prisoners’ habeas petitions, pursuant to 28 U.S.C. § 2255(h). In a case that preceded Gonzalez, the First
+Circuit held that the same reasoning that enables a court to distinguish between a Rule 60(b) motion and a
+second or successive section 2254 petition also applies to cases under 28 U.S.C. § 2255. See Munoz v.
+United States, 331 F.3d 151, 152 (1st Cir. 2003) (per curiam), cited with approval in United States v.
+Sevilla-Oyola, 770 F.3d 1, 12 (1st Cir. 2014); see also Curry v. United States, 507 F.3d 603, 604 (7th Cir.
+2007) (applying Gonzalez to a motion that was filed as a Rule 60(b) motion but that the Court concluded
+was in substance a successive section 2255 motion).
+
+                                                    3
+successive section 2255 petition, and therefore it is subject to the gatekeeping provisions
+
+of sections 2244 and 2255(h).
+
+       In Gonzalez, the Court reasoned that the Federal Rules of Civil Procedure apply to
+
+habeas proceedings “to the extent that they are not inconsistent with any statutory
+
+provisions” or the rules that govern habeas proceedings. 545 U.S. at 529 (applying former
+
+Rule 11 (now Rule 12) of the Rules Governing Section 2254 cases).5 Because “§ 2244(b)
+
+applies only where the court acts pursuant to a prisoner’s ‘application’ for a writ of habeas
+
+corpus,” the court “must decide whether a Rule 60(b) motion filed by a habeas petitioner
+
+is a ‘habeas corpus application’ as the statute uses that term.” Id. at 530 (quotation marks
+
+omitted). The Court noted that, “for purposes of § 2244(b) an ‘application’ for habeas
+
+relief is a filing that contains one or more ‘claims.’” 545 U.S. at 530.
+
+       In most cases, determining whether a Rule 60(b) motion advances one or
+       more “claims” will be relatively simple. A motion that seeks to add a new
+       ground for relief . . . will of course qualify. A motion can also be said to
+       bring a “claim” if it attacks the federal court’s previous resolution of a claim
+       on the merits, since alleging that the court erred in denying habeas relief on
+       the merits is effectively indistinguishable from alleging that the movant is,
+       under the substantive provisions of the statutes, entitled to habeas relief. That
+       is not the case, however, when a Rule 60(b) motion attacks, not the substance
+       of the federal court’s resolution of a claim on the merits, but some defect in
+       the integrity of the federal habeas proceedings.
+
+Id. at 532 (footnote omitted) (emphasis in original).
+
+
+
+
+5
+  Rule 12 of the Rules Governing Section 2255 Cases provides: “The Federal Rules of Civil Procedure and
+the Federal Rules of Criminal Procedure, to the extent that they are not inconsistent with any statutory
+provisions or these rules, may be applied to a proceeding under these rules.”
+
+
+                                                   4
+        The Supreme Court determined, however, that “an attack based on the movant’s
+
+own conduct, or his habeas counsel’s omissions, ordinarily does not go to the integrity of
+
+the proceedings, but in effect asks for a second chance to have the merits determined
+
+favorably.”     Gonzalez, 545 U.S. at 532 & n.5 (emphasis added) (citation omitted).
+
+“[A] Rule 60(b) motion that seeks to revisit the federal court’s denial on the merits of a
+
+claim for relief should be treated as a successive habeas petition.” 545 U.S. at 534.
+
+(emphasis in original). The Supreme Court concluded the petitioner’s motion, “which
+
+alleges that the federal courts misapplied the federal statute of limitations set out
+
+in § 2244(d),” did not present a second or successive claim, because “neither the motion
+
+itself nor the federal judgment from which it seeks relief substantively addresses federal
+
+grounds for setting aside” the conviction. Id. at 533.6
+
+         In contrast to the Rule 60(b) motion in Gonzalez, Petitioner’s motion is based on
+
+an alleged omission by habeas counsel, and Petitioner, by seeking to appeal from the
+
+section 2255 judgment, requests another review on the merits. Therefore, under the
+
+reasoning of Gonzalez, Petitioner’s motion does not challenge the integrity of the
+
+
+
+6
+  The Fourth Circuit has determined a Rule 60(b) motion may be considered “mixed” if it contains claims
+cognizable under Rule 60(b) and claims that are subject to the requirements of a second or successive
+motion. United States v. McRae, 793 F.3d 392, 394 (4th Cir. 2015). “This Court has made clear that
+‘[w]hen [a] motion presents claims subject to the requirements for successive applications as well as claims
+cognizable under Rule 60(b), the district court should afford the applicant an opportunity to elect between
+deleting the improper claims or having the entire motion treated as a successive application.’” Id. at 400
+(quoting United States v. Winestock, 340 F.3d 200, 207 (4th Cir. 2003)).
+
+        Because Petitioner’s Rule 60(b) motion seeks a procedural path to appeal from the Court’s section
+2255 judgment, and because the Court’s section 2255 rulings were all on the merits, Petitioner’s motion
+would not be considered a mixed Rule 60(b) and second or successive section 2255 motion under the
+analysis in McRae; rather, Petitioner’s motion is, in substance, entirely a second or successive section 2255
+motion. See Gonzalez, 545 U.S. at 534; McRae, 793 F.3d at 394.
+
+                                                     5
+proceedings. See Gonzalez, 545 U.S. at 532 n.5. Instead, Petitioner asserts a claim of
+
+ineffective assistance of habeas counsel. In other words, Petitioner’s claim is “an attack
+
+based on … his habeas counsel’s omissions,” which as the Supreme Court observed in
+
+Gonzalez, is in effect a request “for a second chance to have the merits determined
+
+favorably.” Gonzalez, 545 U.S. at 532 & n.5. Petitioner’s motion, although filed as a Rule
+
+60(b) motion, is, therefore, in substance a second or successive section 2255 motion that is
+
+subject to the gatekeeping requirements of 28 U.S.C. §§ 2244, 2255(h).7 See Curry v.
+
+United States, 507 F.3d 603, 605 (7th Cir. 2007) (vacating the district court’s denial of the
+
+petitioner’s Rule 60(b) motion “with instructions to dismiss the motion for want of
+
+
+
+7
+  Petitioner relies on two Supreme Court cases, Martinez v. Ryan, 566 U.S. 1 (2012), and Trevino v. Thaler,
+569 U.S. 413 (2013), neither of which applies to Petitioner’s case. See Trevino, 569 U.S. at 423 (concluding
+that, in states where a claim of ineffective assistance of trial counsel must be raised, if at all, in an initial-
+review collateral proceeding, a federal habeas court may find cause to excuse a procedural default based on
+a failure, due to ineffective assistance of counsel on initial collateral review, to pursue a substantial claim
+of ineffective assistance of trial counsel) (citing Martinez, 566 U.S. at 13-18).
+
+         Petitioner’s reliance on Ramirez v. United States, 799 F.3d 845 (7th Cir. 2015), is also not
+persuasive. In Ramirez, the Seventh Circuit noted “postconviction counsel let Ramirez down in three ways:
+he did not inform Ramirez of the court’s [section 2255] decision; he failed to file any postjudgment motions;
+and he failed to file a notice of appeal” from the section 2255 judgment. 799 F.3d at 849. The Court
+concluded the argument was cognizable under Rule 60(b), rather than under 28 U.S.C. §§ 2244, 2255(h).
+Id. at 847-48, 850. “Ramirez is not trying to present a new reason why he should be relieved of either his
+conviction or his sentence, as provided in 28 U.S.C. § 2255(a). He is instead trying to reopen his existing
+section 2255 proceeding and overcome a procedural barrier to its adjudication.” Id. at 850. First, unlike
+the petitioner in Ramirez, Petitioner concedes he was timely informed of the Court’s section 2255 decision,
+and he alleges he asked counsel to file an appeal. (Declaration, ECF No. 96-1 at 1.) The court in Ramirez
+noted, “[n]o one—not a court, not his lawyer−informed him about an alternative path to relief after his
+postconviction lawyer abandoned him and left him with only a jurisdictionally-out-of-time appeal.”
+Ramirez, 799 F.3d at 851. The failure of the court in Ramirez to inform the petitioner of his right to appeal
+could not be the basis of an ineffective assistance claim, and it arguably implicates the integrity of the
+process. Thus, under Gonzalez, a court’s failure to inform a petitioner, depending on the circumstances,
+arguably could be a permissible basis for a Rule 60(b) motion. Here, however, the record establishes that
+Petitioner was aware of his right to appeal, and thus the same integrity argument is not available.
+Furthermore, the First Circuit has not addressed the issue, and there is no evidence the First Circuit would
+interpret Gonzalez to permit a Rule 60(b) motion even under the circumstances presented in Ramirez.
+
+
+                                                        6
+jurisdiction,” and noting “[t]he district court denied the Rule 60(b) motion without the
+
+prisoner’s having gotten our permission to file a successive section 2255 motion, even
+
+though it is apparent that he had mislabeled his motion and that it was really a section 2255
+
+motion because it challenges his conviction and asks that he be released from custody and
+
+even though it is a successive such motion”); In re Bedolla-Izazaga, No. 10-3094,
+
+2010 WL 9474431, at *1, 2010 U.S. App. Lexis 27439, at *3 (10th Cir. June 17, 2010)
+
+(unpublished) (concluding that under Gonzalez, 545 U.S. at 531-32, the petitioner’s
+
+“proposed claims are clearly merits-based challenges to the validity of his convictions and
+
+sentence,” and “[t]hus, the district court did not err in concluding that his proposed claims
+
+constituted successive habeas claims which require authorization under § 2255(h)”).8
+
+
+8
+ Even if the Court were to conclude Gonzalez does not preclude Petitioner’s Fed. R. Civ. P. 60(b)(6)
+motion, Petitioner would not be entitled to Rule 60(b) relief. The First Circuit has noted the factors to be
+considered:
+
+        To balance the “competing policies” of finality of judgments and resolving litigation on
+        the merits, courts considering motions under Rule 60(b)(6) ordinarily examine four factors:
+        (1) the motion’s timeliness, (2) whether exceptional circumstances justify extraordinary
+        relief, (3) whether the movant can show a potentially meritorious claim or defense, which,
+        if proven, could bring her success at trial, and (4) the likelihood of unfair prejudice to the
+        opposing party. However, “[t]his compendium is neither exclusive nor rigidly applied.
+        Rather, the listed factors are incorporated into a holistic appraisal of the circumstances.”
+        Ungar v. Palestine Liberation Org., 599 F.3d 79, 83–84 (1st Cir. 2010) (internal citation
+        omitted). “[T]here is no ironclad rule requiring an in-depth, multi-factored analysis in
+        every case. Sometimes one factor predominates to such an extent that it inexorably dictates
+        the result.” Id. at 86.
+
+Bouret-Echevarría v. Caribbean Aviation Maint. Corp., 784 F.3d 37, 43 (1st Cir. 2015) (citation omitted).
+
+        Leaving aside whether Petitioner could demonstrate he filed the Rule 60(b) motion “within a
+reasonable time,” under Rule 60(c), Petitioner’s motion fails to demonstrate either extraordinary
+circumstances or a meritorious section 2255 claim. Because the Court considered and denied Petitioner’s
+section 2255 claims on the merits, and because the Court denied a certificate of appealability, Petitioner
+cannot demonstrate that counsel’s failure to file a notice of appeal, or to seek a certificate of appealability
+from the First Circuit, constituted extraordinary circumstances. See Buck v. Davis, --- U.S. ---,
+137 S. Ct. 759, 778 (2017) (“In determining whether extraordinary circumstances are present, a court may
+consider a wide range of factors. These may include, in an appropriate case, ‘the risk of injustice to the
+
+                                                      7
+        This Court lacks jurisdiction to consider a second or successive section 2255 motion
+
+unless the First Circuit has specifically authorized the Court to consider it.
+
+Title 28 U.S.C. § 2244 applies to second or successive section 2255 motions, pursuant to
+
+section 2255(h). Section 2244(b)(3)(A) states: “Before a second or successive application
+
+permitted by this section is filed in the district court, the applicant shall move in the
+
+appropriate court of appeals for an order authorizing the district court to consider the
+
+application.” See also First Circuit Rule 22.1. The First Circuit has held: “We have
+
+interpreted [section 2255(h)] as ‘stripping the district court of jurisdiction over a second or
+
+successive habeas petition unless and until the court of appeals has decreed that it may go
+
+forward.’” Trenkler v. United States, 536 F.3d 85, 96 (1st Cir. 2008) (quoting Pratt v.
+
+United States, 129 F.3d 54, 57 (1st Cir. 1997)). A review of the record reveals no evidence
+
+that Petitioner has applied to the First Circuit for permission and obtained permission to
+
+file the pending second or successive motion. See 28 U.S.C. §§ 2244, 2255.
+
+        Because the record lacks any evidence that the First Circuit has authorized Petitioner
+
+to proceed on the pending motion, the Court is without jurisdiction to consider the merits
+
+of the motion. First Circuit Rule 22.1(e) provides that if a second or successive section
+
+2255 petition is filed in the district court without the required authorization from the
+
+First Circuit, the district court “will transfer the petition to the court of appeals pursuant to
+
+
+parties’ and ‘the risk of undermining the public’s confidence in the judicial process.’” (quoting Liljeberg
+v. Health Servs. Acquisition Corp., 486 U.S. 847, 863-64 (1988)). Petitioner has demonstrated neither an
+injustice to him, nor a risk to public confidence in the judicial process, under the circumstances of his case.
+See id. Petitioner has also not demonstrated that the Court’s assessment of his section 2255 claim is flawed;
+he, therefore, has not demonstrated that he would have a potentially meritorious claim if the Court were to
+grant Rule 60(b) relief and permit him to seek a certificate of appealability.
+
+
+                                                      8
+28 U.S.C. § 1631 or dismiss the petition.”9 The interests of justice do not support transfer
+
+to the First Circuit.
+
+                                                III.     CONCLUSION
+
+           Based on the foregoing analysis, I recommend the Court dismiss Petitioner’s Rule
+
+60(b) motion (ECF No. 96.) I further recommend that the Court deny a certificate of
+
+appealability pursuant to Rule 11 of the Rules Governing Section 2255 Cases because there
+
+is no substantial showing of the denial of a constitutional right within the meaning of
+
+28 U.S.C. § 2253(c)(2).
+
+                                                       NOTICE
+
+                   A party may file objections to those specified portions of a magistrate
+           judge’s report or proposed findings or recommended decisions entered
+           pursuant to 28 U.S.C. § 636(b)(1)(B) for which de novo review by the district
+           court is sought, together with a supporting memorandum, and request for oral
+           argument before the district judge, if any is sought, within fourteen (14) days
+           of being served with a copy thereof. A responsive memorandum and any
+           request for oral argument before the district judge shall be filed within
+           fourteen (14) days after the filing of the objection.
+
+
+
+9
+    Title 28 U.S.C. § 1631 states in relevant part:
+
+           Whenever a civil action is filed in a court as defined in section 610 of this title or an appeal,
+           including a petition for review of administrative action, is noticed for or filed with such a
+           court and that court finds that there is a want of jurisdiction, the court shall, if it is in the
+           interest of justice, transfer such action or appeal to any other such court . . . in which the
+           action or appeal could have been brought at the time it was filed or noticed, and the action
+           or appeal shall proceed as if it had been filed in or noticed for the court to which it is
+           transferred on the date upon which it was actually filed in or noticed for the court from
+           which it is transferred.
+
+First Circuit Rule 22.1(e) states in relevant part:
+
+           If a second or successive § 2254 or § 2255 petition is filed in a district court without the
+           requisite authorization by the court of appeals pursuant to 28 U.S.C. § 2244(b)(3), the
+           district court will transfer the petition to the court of appeals pursuant to 28 U.S.C. § 1631
+           or dismiss the petition.
+
+                                                          9
+       Failure to file a timely objection shall constitute a waiver of the right
+to de novo review by the district court and to appeal the district court’s order.
+
+                                            /s/ John C. Nivison
+                                            U.S. Magistrate Judge
+
+Dated this 19th day of February, 2019.
+
+
+
+
+                                       10
+

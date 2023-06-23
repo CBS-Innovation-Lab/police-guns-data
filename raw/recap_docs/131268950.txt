@@ -1,0 +1,543 @@
+Case 1:13-cr-00132-JAW Document 192 Filed 04/21/20 Page 1 of 11               PageID #: 749
+
+
+
+                            UNITED STATES DISTRICT COURT
+                                 DISTRICT OF MAINE
+
+WAYNE BOULIER,                            )
+                                          )
+              Petitioner,                 )
+                                          )
+       v.                                 )       1:13-cr-00132-JAW
+                                          )
+UNITED STATES OF AMERICA,                 )
+                                          )
+              Respondent                  )
+
+
+             RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+       Petitioner moves pursuant to 28 U.S.C. § 2255 to vacate, set aside or correct his
+
+sentence. (Motion, ECF No. 181.) Following a guilty plea, Petitioner was convicted of
+
+being a felon in possession of a firearm in violation of 18 U.S.C. § 922(g)(1) and §
+
+924(a)(2); the Court sentenced Petitioner to sixty months in prison. (Amended Judgment,
+
+ECF No. 123.) The First Circuit affirmed. United States v. Boulier, No. 15-1120,
+
+Corrected Judgment, (1st Cir. 2015); see ECF No. 116.
+
+       Petitioner claims a recent Supreme Court decision, Rehaif v. United States, 139 S.
+
+Ct. 2191 (2019), invalidates his guilty plea; Petitioner argues the Court lacked jurisdiction
+
+to convict him. (Motion at 5–19.) The Government contends that the motion should be
+
+dismissed because it represents a second or successive habeas petition and because
+
+Petitioner’s arguments are procedurally barred. (Response, ECF No. 185.)
+
+       Following a review of the record and after consideration of Petitioner’s motion and
+
+the Government’s request for dismissal, I recommend the Court grant the Government’s
+
+request and dismiss the motion.
+Case 1:13-cr-00132-JAW Document 192 Filed 04/21/20 Page 2 of 11            PageID #: 750
+
+
+
+                FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+      In July 2013, Petitioner was indicted on one count of possessing a firearm in
+
+violation of 18 U.S.C. § 922(g)(1); Petitioner pled guilty in February 2014. (Indictment,
+
+ECF No. 1; Change of Plea Hearing, ECF No. 41.) The Court sentenced Petitioner to sixty
+
+months in prison. (Amended Judgment, ECF No. 123). The First Circuit affirmed the
+
+sentence. United States v. Boulier, No. 15-1120, Corrected Judgment, (1st Cir. Dec. 30,
+
+2015); see ECF No. 116.
+
+      In June 2016, Petitioner moved, pursuant to 28 U.S.C. § 2255, to vacate his
+
+sentence, citing Johnson v. United States, 135 S. Ct. 2551 (2015). (Motion, ECF No. 125.)
+
+Johnson invalidated the residual clause of the Armed Career Criminal Act (ACCA), 18
+
+U.S.C. § 924(e), which provides for enhanced minimum and maximum penalties for
+
+individuals who possess a firearm after three prior convictions for violent felonies or
+
+serious drug offenses. Id. at 2555–56, 2563.
+
+      The Government requested a stay of the motion until after the conclusion of another
+
+relevant case that was then pending before the Supreme Court, Beckles v. United States
+
+No. 15-8544. (Motion to Stay, ECF No. 129.) The Government noted that Johnson did
+
+not undermine Petitioner’s sentence directly because his statutory sentencing range was
+
+determined by § 924(a), not § 924(e), but Petitioner’s guideline sentencing range was
+
+impacted by U.S.S.G. § 2K2.1(a)(2), an analogous guideline provision utilizing identical
+
+language to the ACCA. (Id.) The Court appointed counsel for Petitioner, (ECF No. 131),
+
+and because Beckles presented the same question concerning the validity of the guideline
+
+
+
+                                           2
+Case 1:13-cr-00132-JAW Document 192 Filed 04/21/20 Page 3 of 11               PageID #: 751
+
+
+
+residual clause, the Court stayed consideration of the § 2255 motion. (Order on Motion to
+
+Stay, ECF No. 130.)
+
+        In March 2017, the Supreme Court decided Beckles v. United States, 137 S. Ct. 886
+
+(2017). The Supreme Court held that because the Sentencing Guidelines are advisory and
+
+only guide the district courts’ discretion, the Sentencing Guidelines are not subject to
+
+vagueness challenges. Id. at 892. In May 2017, the Court conferred with the parties and
+
+directed Petitioner’s counsel to notify the Court whether Petitioner intended to proceed
+
+with the § 2255 motion. (Telephone Conference, ECF No. 133.) In June 2017, Petitioner
+
+withdrew the § 2255 motion. (Notice of Withdrawal, ECF No. 134.)
+
+        Petitioner was released from prison, but his supervised release was revoked and
+
+extended. (Revocation Judgment, ECF No. 153; Revocation Judgment, ECF No. 177.) In
+
+October 2019, Petitioner filed the § 2255 motion now before the Court. (Motion, ECF No.
+
+181.)
+
+                                       DISCUSSION
+
+        In the Antiterrorism and Effective Death Penalty Act (AEDPA), “Congress
+
+established a ‘gatekeeping’ mechanism for the consideration of ‘second or successive
+
+habeas corpus applications’ in the federal courts.” Stewart v. Martinez-Villareal, 523 U.S.
+
+637, 641 (1998) (quoting Felker v. Turpin, 518 U.S. 651, 657 (1996)). Pursuant to 28
+
+U.S.C. § 2255(h) and § 2244(b)(3)(A), “Before a second or successive application . . . is
+
+filed in the district court, the applicant shall move in the appropriate court of appeals for
+
+an order authorizing the district court to consider the application.” See also First Circuit
+
+Rule 22.1. “Such authorization is available only when the second or successive petition is
+
+                                             3
+Case 1:13-cr-00132-JAW Document 192 Filed 04/21/20 Page 4 of 11                PageID #: 752
+
+
+
+based either on (1) newly discovered evidence that would establish innocence or (2) a new
+
+rule of constitutional law made retroactive on collateral review by the Supreme Court.”
+
+Bucci v. United States, 809 F.3d 23, 25–26 (1st Cir. 2015). The First Circuit has
+
+“interpreted [these provisions] as ‘stripping the district court of jurisdiction over a second
+
+or successive habeas petition unless and until the court of appeals has decreed that it may
+
+go forward.’” Trenkler v. United States, 536 F.3d 85, 96 (1st Cir. 2008) (quoting Pratt v.
+
+United States, 129 F.3d 54, 57 (1st Cir. 1997)).
+
+       AEDPA did not define the term “second or successive petition,” which is instead “a
+
+term of art” in the context of the Supreme Court’s habeas corpus case law. Slack v.
+
+McDaniel, 529 U.S. 473, 486 (2000). “Not every literally second or successive § 2255
+
+petition is second or successive for purposes of AEDPA.” Sustache-Rivera v. United
+
+States, 221 F.3d 8, 12 (1st Cir. 2000). Courts have outlined several examples of situations
+
+in which a later petition from the same individual is not second or successive for purposes
+
+of AEDPA, including: (1) when the previous petition was dismissed as premature, (2) when
+
+a state prisoner’s prior petition was dismissed for failure to exhaust state remedies, (3)
+
+when the earlier petition terminated without a judgment on the merits, and (4) when the
+
+prior petition attacked a different criminal judgment. Id. at 12–13.
+
+       Because Petitioner voluntarily withdrew his first § 2255 motion, the Court did not
+
+enter a judgment on the merits of that motion. Under the reasoning of the First Circuit in
+
+Sustache-Rivera, therefore, Petitioner’s motion is possibly not a second or successive
+
+petition.
+
+
+
+                                              4
+Case 1:13-cr-00132-JAW Document 192 Filed 04/21/20 Page 5 of 11                 PageID #: 753
+
+
+
+          Although the First Circuit has not addressed the issue, the great weight of authority
+
+holds that “if a petitioner clearly concedes upon withdrawal . . . that the petition lacks
+
+merit” or “the circumstances surrounding withdrawal clearly and objectively indicate that
+
+the petitioner knows his or her motion is meritless,” then “the withdrawal is akin to a
+
+dismissal on the merits and subsequent petitions will count as successive under AEDPA.”
+
+Thai v. United States, 391 F.3d 491, 495 (2d Cir. 2004); see also, Felder v. McVicar, 113
+
+F.3d 696, 698 (7th Cir. 1997); In re Moore, 735 F. App’x 883, 887 (6th Cir. 2018); United
+
+States v. Ramos, 759 F. App’x 718, 721 (10th Cir. 2019). Courts have explained that
+
+AEDPA should not be interpreted to allow petitioners to avoid the bar on second or
+
+successive petitions by voluntarily withdrawing their first petition as soon as it becomes
+
+evident that the district court will likely dismiss that petition on the merits. Thai, 391 F.3d
+
+at 495.
+
+          The circumstances of Petitioner’s withdrawal of his first § 2255 motion suggest that
+
+it was “akin to a dismissal on the merits,” see id., which means his present motion is subject
+
+to the gatekeeping provisions on second or successive petitions. The circumstances
+
+include: the fact that Petitioner was represented by counsel at the time, the fact that his
+
+previous petition was stayed pending the outcome of Beckles v. United States, 137 S. Ct.
+
+886 (2017), and the fact that Petitioner voluntarily withdrew his first petition shortly after
+
+the Court conferred with the parties about the Supreme Court’s decision in Beckles
+
+resolving the issue unfavorably to Petitioner’s argument.
+
+          The Tenth Circuit recently considered indistinguishable circumstances and
+
+concluded that the petition was second or successive:
+
+                                                5
+Case 1:13-cr-00132-JAW Document 192 Filed 04/21/20 Page 6 of 11                 PageID #: 754
+
+
+
+       First . . . [the petitioner] was represented by counsel. Second, the timing of
+       his motion for voluntary dismissal clearly and objectively indicates that he
+       had concluded his motion was doomed. That motion followed (1) the district
+       court’s decision to stay the proceedings pending the Supreme Court’s
+       decision in Beckles, which the court stated would likely be determinative of
+       the [first] [m]otion; (2) the decision in Beckles, which ruled against the
+       position [the petitioner] asserted in his [first] [m]otion; and (3) the district
+       court’s order directing the parties to file status reports indicating their
+       position on the validity of the [second] petition in light of the holding in
+       Beckles . . . .”
+
+United States v. Rejda, No. 19-8015, 2019 WL 5212609, at *4 (10th Cir. Oct. 16, 2019)
+
+(internal quotation marks omitted). The Tenth Circuit’s reasoning is sound and could
+
+reasonably apply to the facts of this case. In this case, the record shows that Petitioner
+
+dismissed the prior motion because the Supreme Court in Beckles effectively determined
+
+that Petitioner would be unable to prevail on the merits of his claim.         The voluntary
+
+dismissal is thus “akin to a dismissal on the merits.” Thai, 391 F.3d at 495. Under the Tenth
+
+Circuit’s reasoning, therefore, Petitioner would require prior approval of the First Circuit
+
+to prosecute the § 2255 motion.
+
+       A review of the record reveals no evidence that Petitioner has applied to the First
+
+Circuit for permission and obtained permission to file the pending second or successive
+
+motion. Under First Circuit Rule 22.1(e), when a second or successive § 2255 petition is
+
+filed in the district court without the required authorization from the First Circuit, the
+
+district court “will transfer the petition to the court of appeals pursuant to 28 U.S.C. § 1631
+
+or dismiss the petition.”
+
+
+
+
+                                              6
+Case 1:13-cr-00132-JAW Document 192 Filed 04/21/20 Page 7 of 11                             PageID #: 755
+
+
+
+        The legal uncertainty concerning a petitioner’s ability to assert Rehaif claims in
+
+second or successive petitions might ordinarily militate in favor of transfer.1 In this case,
+
+however, a review of the record reveals that even if Petitioner’s claim is not a second or
+
+successive petition and even if Rehaif applies retroactively, dismissal is warranted because
+
+Petitioner’s Rehaif claim lacks merit.
+
+        One of the statutes underlying Petitioner’s conviction, 18 U.S.C. § 922(g), makes it
+
+unlawful for certain persons, including individuals with prior felony convictions, id. §
+
+922(g)(1), to possess most firearms. The provision contains three elements: (1) a status
+
+element (belonging to one of the listed categories of persons), (2) a possession element,
+
+and (3) a jurisdictional element (in or affecting commerce). Rehaif, 139 S. Ct. at 2196.
+
+Before 2019, courts interpreted the word “knowingly” in the penalty provision § 924(a)(2)
+
+to apply only to the possession element, but under Rehaif, “knowingly” also applies to the
+
+status element. Id. “To convict a defendant, the Government therefore must show that the
+
+
+1
+  Under Teague v. Lane, 489 U.S. 288 (1989), petitioners may not retroactively assert claims on collateral
+review based on new rules of criminal procedure, but cases like Rehaif may be applied retroactively on first
+petitions for collateral review because Supreme Court decisions narrowing the scope of federal criminal
+statutes establish substantive rules, as opposed to new rules of criminal procedure. See Bousley v. United
+States, 523 U.S. 614, 620–21 (1998). However, because the Supreme Court did not explicitly hold that
+Rehaif applies retroactively, see Tyler v. Cain, 533 U.S. 656, 663 (2001) (for purposes of gatekeeping
+provisions on second or successive petitions, “[w]e thus conclude that a new rule is not ‘made retroactive
+to cases on collateral review’ unless the Supreme Court holds it to be retroactive”), and because cases of
+statutory interpretation like Rehaif are not based on constitutional law, it is unclear whether Rehaif claims
+can serve as the basis of a second or successive petition based on the exception in § 2255(h)(2) for “new
+rule[s] of constitutional law, made retroactive to cases on collateral review by the Supreme Court . . . .”
+See United States v. Reyes, 358 F.3d 1095, 1097 (9th Cir. 2004) (new substantive rule of criminal law based
+on statutory interpretation from the Supreme Court was not a new rule of constitutional law for purposes of
+second habeas petition); In re Palacios, 931 F.3d 1314, 1315 (11th Cir. 2019) (Rehaif does not permit
+second or successive petition for the same reason). However, if claims in second or successive petitions
+based on retroactively applicable rules of statutory interpretation are barred from review under § 2255(h),
+review is arguably available under § 2241 through the § 2255(e) savings clause, which is meant to avoid a
+conflict between the gatekeeping provisions of § 2255 and the Suspension Clause, U.S. Const. Art. I, § 9,
+Cl. 2. See In re Palacios, 931 F.3d at 1315–17 (Rosenbaum, J., concurring).
+
+                                                     7
+Case 1:13-cr-00132-JAW Document 192 Filed 04/21/20 Page 8 of 11                  PageID #: 756
+
+
+
+defendant knew he possessed a firearm and also that he knew he had the relevant status
+
+when he possessed it.” Id. at 2194.
+
+       Because a guilty plea is not intelligently made when the defendant did not receive
+
+“real notice of the true nature of the charges,” if Petitioner could prove that he, counsel,
+
+and the court misunderstood the essential elements of a crime, his plea would likely be
+
+susceptible to a constitutional challenge. See Bousley v. United States, 523 U.S. 614, 618,
+
+118 S. Ct. 1604, 1609 (1998); MacArthur v. United States, No. 1:12-CR-00084-JAW, 2020
+
+WL 1670369, at *8–10 (D. Me. Apr. 3, 2020) (discussing retroactivity of Rehaif).
+
+       Because Petitioner did not raise the knowledge of status issue at trial or on direct
+
+appeal, that issue is procedurally defaulted on collateral review. See Massaro v. United
+
+States, 538 U.S. 500, 504 (2003) (citing Frady, 456 U.S. at 167–68; Bousley, 523 U.S. at
+
+621–22). “A prisoner may obtain federal review of a defaulted claim by showing cause for
+
+the default and prejudice from a violation of federal law,” Martinez v. Ryan, 566 U.S. 1,
+
+10 (2012), or by showing that a miscarriage of justice would occur because, “in light of
+
+new evidence, it is more likely than not” that the petitioner is actually innocent of the crime.
+
+House v. Bell, 547 U.S. 518, 536–39 (2006) (quotation omitted).
+
+       “[T]he existence of cause for a procedural default must ordinarily turn on whether
+
+the prisoner can show that some objective factor external to the defense impeded” the
+
+ability to comply with the procedural rule. Murray v. Carrier, 477 U.S. 478, 488 (1986).
+
+This can occur if government interference made compliance impractical, see id., or if there
+
+was constitutionally ineffective assistance of counsel, see Coleman v. Thompson, 501 U.S.
+
+722, 752–53 (1991). Furthermore, if a claim “is so novel that its legal basis is not
+
+                                               8
+Case 1:13-cr-00132-JAW Document 192 Filed 04/21/20 Page 9 of 11               PageID #: 757
+
+
+
+reasonably available to counsel, a defendant has cause for [the] failure to raise the claim .
+
+. . .” Reed v. Ross, 468 U.S. 1, 16, 104 S. Ct. 2901 (1984). A petitioner cannot establish a
+
+claim was “not reasonably available to counsel” just because of the perception that “a claim
+
+was unacceptable to that particular court at that particular time,” see Bousley, 523 U.S. at
+
+622–23, but a claim is deemed unavailable when it results from a “clear break with the
+
+past” in a new Supreme Court case:
+
+       First, a decision of this Court may explicitly overrule one of our precedents.
+       Second, a decision may overturn a longstanding and widespread practice to
+       which this Court has not spoken, but which a near-unanimous body of lower
+       court authority has expressly approved. And, finally, a decision may
+       disapprove a practice this Court arguably has sanctioned in prior cases.
+
+Ross, 468 U.S. at 17 (citations, quotations, and modifications omitted); see also Lassend v.
+
+United States, 898 F.3d 115, 122 (1st Cir. 2018).
+
+       Because the Supreme Court “overturn[ed] the long-established interpretation” of §
+
+922(g), which was “used in thousands of cases for more than 30 years,” and on which the
+
+circuit courts were unanimous, see Rehaif, 139 S. Ct. at 2201 (Alito, J. dissenting),
+
+Petitioner’s attorney had no reasonable basis to raise the knowledge-of-status issue before
+
+the district court or on appeal. See also MacArthur, 2020 WL 1670369 at *9. Cause thus
+
+exists to excuse that procedural default.
+
+       To establish prejudice from the asserted violation of federal law, a petitioner must
+
+show “a reasonable probability that, but for [the] errors, the result of the proceeding would
+
+have been different.” Lee v. United States, 137 S. Ct. 1958, 1964 (2017) (citing Strickland)
+
+(internal quotation omitted). A petitioner “must shoulder the burden of showing, not merely
+
+that the errors at his trial created a possibility of prejudice, but that they worked to his
+
+                                             9
+Case 1:13-cr-00132-JAW Document 192 Filed 04/21/20 Page 10 of 11                             PageID #: 758
+
+
+
+ actual and substantial disadvantage, infecting his entire trial with error of constitutional
+
+ dimensions.” Frady, 456 U.S. at 170. In the context of a guilty plea, to establish prejudice,
+
+ the petitioner “must show that there is a reasonable probability that, but for [the] errors, he
+
+ would not have pleaded guilty and would have insisted on going to trial.” Hill v. Lockhart,
+
+ 474 U.S. 52, 59 (1985); see also Lee, 137 S. Ct. at 1964.2
+
+         The record, including the presentence investigation report, shows that Petitioner had
+
+ numerous prior felony convictions over many years before the § 922(g) conviction at issue
+
+ in his § 2255 motion. As a result, the record does not support a finding that Petitioner
+
+ would not have plead guilty and the record would support a guilty finding even if Rehaif
+
+ had been decided before Petitioner entered his plea. That is, the record establishes that the
+
+ Government would have been able to prove beyond a reasonable doubt that Petitioner knew
+
+ of his prohibited status at the time he possessed the firearm. Under the circumstances,
+
+ Plaintiff’s argument that he would not have plead guilty based on the Rehaif issue is
+
+ implausible. There is also no suggestion that Petitioner was prejudiced in any other way,
+
+ such as at sentencing. Accordingly, Petitioner was not prejudiced as the result of any
+
+ Rehaif -related issue or error,3 and thus Petitioner would not be entitled to postconviction
+
+ relief even if it were his first § 2255 motion.
+
+
+ 2
+   Lee and Hill referred to prejudice in the context of an ineffective assistance of counsel claim, not in the
+ context of a procedural default, but there does not appear to be a meaningful difference between the two
+ prejudice inquiries. See Lynch v. Ficco, 438 F.3d 35, 49 (1st Cir. 2006) (“if a habeas petitioner can meet
+ the prejudice standard needed to establish ineffective assistance under Strickland, then the prejudice
+ standard under the ‘cause and prejudice’ showing to excuse a procedural default is also met”).
+ 3
+  For the same reason, Petitioner cannot show that it was more likely than not that he was actually innocent
+ of the crime. While a narrowed interpretation of a criminal statute can create a situation where a defendant
+ was actually innocent of the crime as properly interpreted, see Bousley, 523 U.S. at 624 (remanding for
+
+                                                      10
+Case 1:13-cr-00132-JAW Document 192 Filed 04/21/20 Page 11 of 11                           PageID #: 759
+
+
+
+         Because it is apparent that Petitioner’s Rehaif claim lacks merit even if it were not
+
+ barred by the gatekeeping provisions on second or successive petitions, dismissal is
+
+ appropriate.
+
+                                             CONCLUSION
+
+         Based on the foregoing analysis, an evidentiary hearing is not warranted under Rule
+
+ 8 of the Rules Governing Section 2255 Cases. In addition, I recommend that the Court
+
+ dismiss Petitioner’s motion for habeas relief under 28 U.S.C. § 2255. I further recommend
+
+ that the Court deny a certificate of appealability pursuant to Rule 11 of the Rules Governing
+
+ Section 2255 Cases because there is no substantial showing of the denial of a constitutional
+
+ right within the meaning of 28 U.S.C. § 2253(c)(2).
+
+                                                NOTICE
+
+                A party may file objections to those specified portions of a magistrate
+         judge’s report or proposed findings or recommended decisions entered
+         pursuant to 28 U.S.C. 636(b)(1)(B) for which de novo review by the district
+         court is sought, together with a supporting memorandum, within fourteen
+         (14) days of being served with a copy thereof. A responsive memorandum
+         shall be filed within fourteen (14) days after the filing of the objection.
+
+                Failure to file a timely objection shall constitute a waiver of the right
+         to de novo review by the district court and to appeal the district court's order.
+
+
+                                                          /s/ John C. Nivison
+                                                          U.S. Magistrate Judge
+
+         Dated this 21st day of April, 2020.
+
+
+
+
+ consideration of innocence in light of narrowed interpretation of statute), the record evidence forecloses
+ any likelihood of innocence in Petitioner’s case.
+
+
+                                                    11
+

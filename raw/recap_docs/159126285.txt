@@ -1,0 +1,989 @@
+           Case 1:18-cr-00073-LM Document 27 Filed 01/27/21 Page 1 of 20
+
+
+
+
+                       UNITED STATES DISTRICT COURT
+                     FOR THE DISTRICT OF NEW HAMPSHIRE
+
+
+
+
+United States of America
+
+      v.                                            Criminal No. 18-cr-073-LM-1
+                                                    Opinion No. 2021 DNH 022 P
+Nicholas J. Patten
+
+
+
+                                    ORDER
+
+      The defendant, Nicholas J. Patten, moves for compassionate release under 18
+
+U.S.C. § 3582(c)(1)(A) based on the combination of his underlying medical
+
+conditions and the possibility that he will become infected with COVID-19 while
+
+imprisoned at Federal Correctional Institute (“FCI”) Allenwood-Low in
+
+Pennsylvania. See doc. no. 22. The government concedes that Mr. Patten has
+
+exhausted his administrative remedies and that there are extraordinary and
+
+compelling reasons for release, but nevertheless objects based on the sentencing
+
+factors. The court held a video hearing on Mr. Patten’s motion on January 12, 2021,
+
+at which Mr. Patten appeared via telephone and made a statement. After careful
+
+consideration and for the reasons that follow, the court grants Mr. Patten’s motion.
+
+
+
+                            STANDARD OF REVIEW
+
+      A court may grant so-called “compassionate release” to a defendant under 18
+
+U.S.C. § 3582(c)(1)(A). This statute imposes several requirements for granting a
+
+defendant’s motion for compassionate release. First, the defendant must either
+            Case 1:18-cr-00073-LM Document 27 Filed 01/27/21 Page 2 of 20
+
+
+
+
+fully exhaust his administrative remedies within the Bureau of Prisons (“BOP”) or
+
+wait thirty days after BOP receives his request to file a compassionate release
+
+motion on his behalf. See 18 U.S.C. § 3582(c)(1)(A). Second, there must be
+
+“extraordinary and compelling reasons” for a sentence reduction. § 3582(c)(1)(A)(i).
+
+Third, the court must “consider[ ] the factors set forth in section 3553(a) to the
+
+extent they are applicable.” Id. Finally, a sentence reduction must be “consistent
+
+with applicable policy statements issued by the Sentencing Commission.” Id.; see
+
+also U.S.S.G. § 1B1.13 (sentencing guidelines policy statement on compassionate
+
+release).
+
+      The Sentencing Commission’s policy statement on compassionate release
+
+largely mirrors the statutory language and adds the requirement that the
+
+defendant be unlikely to pose a danger to the safety of any other person or the
+
+community as provided in 18 U.S.C. § 3142(g). See U.S.S.G. § 1B1.13(2). However,
+
+the policy statement has not been updated since enactment of the First Step Act,
+
+which amended 18 U.S.C. § 3582(c)(1)(A) to allow defendants, rather than BOP
+
+alone, to petition the court for compassionate release. See United States v. Brooker,
+
+976 F.3d 228, 231-34, 236 (2d Cir. 2020) (holding that the policy statement does not
+
+apply to motions for compassionate release brought by defendants). Even absent
+
+the policy statement, however, a defendant’s dangerousness is a paramount concern
+
+under § 3553(a), which the court is required to consider in every compassionate
+
+release case. See 18 U.S.C. § 3582(c)(1)(A); 18 U.S.C. § 3553(a)(1), (2)(C) (court
+
+must consider “the nature and circumstances of the defendant’s offense,” the
+
+
+                                           2
+        Case 1:18-cr-00073-LM Document 27 Filed 01/27/21 Page 3 of 20
+
+
+
+
+defendant’s “history and characteristics,” and the need “to protect the public from
+
+further crimes of the defendant”); United States v. Bradshaw, No. 1:15-CR-422,
+
+2019 WL 7605447, at *3 (M.D.N.C. Sept. 12, 2019) (noting overlap between policy
+
+statement’s dangerousness requirement and analysis of § 3553(a) factors).
+
+      The defendant bears the burden of showing he is entitled to a sentence
+
+reduction. United States v. Hilow, No. 15-CR-170-JD, 2020 WL 2851086, at *3
+
+(D.N.H. June 2, 2020). “And the court has broad discretion in deciding whether to
+
+grant or deny a motion for a sentence reduction.” United States v. Britton, No. 18-
+
+CR-108-LM, 2020 WL 2404969, at *2 (D.N.H. May 12, 2020) (quotation omitted).
+
+
+
+                                  BACKGROUND
+
+      The grand jury indicted Mr. Patten on these charges on May 16, 2018, and a
+
+warrant for his arrest issued that same day. Mr. Patten was arrested pursuant to
+
+that warrant on September 5, 2018. He has been in custody since that time. On
+
+January 29, 2019, Mr. Patten pled guilty pursuant to a plea agreement on one count
+
+of possession with intent to distribute a controlled substance and one count of
+
+possession of a firearm and ammunition by an unlawful user of a controlled
+
+substance. See 21 U.S.C. § 841(a)(1); 18 U.S.C. § 922(g)(3). The parties’ plea
+
+agreement contained a stipulation to a 48-month sentence under Federal Rule of
+
+Criminal Procedure 11(c)(1)(C). On May 29, 2019, the court sentenced Mr. Patten
+
+to a 48-month term of imprisonment and a three-year period of supervised release.
+
+The court also recommended to BOP that Mr. Patten participate in BOP’s intensive
+
+
+                                          3
+         Case 1:18-cr-00073-LM Document 27 Filed 01/27/21 Page 4 of 20
+
+
+
+
+drug education and treatment program while incarcerated. Mr. Patten has served
+
+more than one-half of his 4-year sentence. On December 17, 2020, Mr. Patten filed
+
+the instant motion for compassionate release.
+
+
+
+                                    DISCUSSION
+
+      Mr. Patten has exhausted his administrative remedies. The BOP denied
+
+Patten’s request for a reduction in sentence (doc. no. 22-1), so his motion is properly
+
+before the court. Thus, to determine whether Mr. Patten is eligible for a sentence
+
+reduction, the court must consider: (1) whether there are extraordinary and
+
+compelling reasons for a sentence reduction; and (2) applicable sentencing factors
+
+under § 3553(a). See 18 U.S.C. § 3582(c)(1)(A).
+
+
+
+I.    Extraordinary and Compelling Reasons
+
+      Mr. Patten contends that he has several medical conditions that put him at a
+
+high risk for experiencing severe illness should he contract COVID-19. The
+
+government concedes that Mr. Patten’s medical conditions meet the “extraordinary
+
+and compelling” prong of the test for early release.
+
+      Specifically, Mr. Patten has Hepatitis C, chronic elevation of liver enzymes
+
+suggesting a diagnosis of nonalcoholic fatty liver disease, a “mildly heterogeneous”
+
+liver, and hyperlipidemia (more commonly known as high cholesterol). Doc. no. 22
+
+at 4-5. He also states that, as of September 9, 2019, his body mass index (BMI) was
+
+28.7. Mr. Patten argues that these conditions, combined with the known presence
+
+
+                                           4
+         Case 1:18-cr-00073-LM Document 27 Filed 01/27/21 Page 5 of 20
+
+
+
+
+of COVID-19 at FCI Allenwood-Low, constitute extraordinary and compelling
+
+reasons for a sentence reduction.
+
+       In the context of the current pandemic, courts have held that a generalized
+
+risk of infection by the virus is not, by itself, sufficient to constitute an
+
+extraordinary and compelling reason for release. See United States v. Ramirez, 459
+
+F. Supp. 3d 333, 337-38 (D. Mass. 2020) (collecting cases). “On the other hand, a
+
+combination of health and age factors that put a prisoner at a substantially higher
+
+risk due to COVID-19 along with a documented risk of the disease in the facility
+
+where the defendant is incarcerated may demonstrate extraordinary and compelling
+
+reasons to reduce the prisoner’s sentence.” United States v. Bischoff, 460 F. Supp.
+
+3d 122, 125 (D.N.H. 2020); see also, e.g., United States v. Rich, 471 F. Supp. 3d 441,
+
+446-47 (D.N.H. 2020) (finding that defendant’s documented history of bronchitis,
+
+reactive airway disease, and smoking combined with current outbreak at
+
+defendant’s prison constituted extraordinary and compelling reason for release).
+
+       When determining whether a defendant is at a particularly high risk of
+
+experiencing severe illness from COVID-19, courts have generally looked to the
+
+CDC guidelines. See, e.g., United States v. Nygren, 1:16-cr-00106-JAW, 2020 WL
+
+4208926, at *11-12 (D. Me. July 22, 2020). The CDC emphasizes that “COVID-19 is
+
+a new disease” and that currently there is “limited data and information about the
+
+impact of many underlying medical conditions on the risk for severe illness from
+
+
+
+
+                                             5
+          Case 1:18-cr-00073-LM Document 27 Filed 01/27/21 Page 6 of 20
+
+
+
+
+COVID-19.”1 Based on the limited information known, the CDC has identified
+
+certain categories of people who are at an increased risk for experiencing severe
+
+illness from COVID-19: older adults and people of all ages with certain underlying
+
+medical conditions.2
+
+      The CDC states that persons with chronic liver disease may be at an
+
+increased risk of severe illness from COVID-19.3 Here, Mr. Patten has multiple
+
+chronic liver conditions, including hepatitis C and nonalcoholic fatty liver disease.
+
+The CDC expressly acknowledges that nonalcoholic fatty liver disease is a chronic
+
+liver condition that may increase the risk of contracting a severe case of COVID-19.4
+
+In addition, the CDC states that being overweight—i.e., having a BMI of between
+
+25 and 30—might increase the risk of severe illness from COVID-19.5 Mr. Patten
+
+asserts, and the government does not contest, that BOP recorded his BMI as 28.7 in
+
+
+
+      1  CDC, People with Certain Medical Conditions,
+https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-
+medical-conditions.html (last visited Jan. 6, 2021).
+
+      2CDC, People at Increased Risk, https://www.cdc.gov/coronavirus/2019-
+ncov/need-extra-precautions/index.html (last visited Jan. 6, 2021).
+
+      3  CDC, People with Certain Medical Conditions,
+https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-
+medical-conditions.html (last visited Jan. 6, 2021).
+
+      4  CDC, People with Certain Medical Conditions,
+https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-
+medical-conditions.html (last visited Jan. 6, 2021).
+
+      5  CDC, People with Certain Medical Conditions,
+https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-
+medical-conditions.html (last visited Jan. 6, 2021).
+
+                                           6
+          Case 1:18-cr-00073-LM Document 27 Filed 01/27/21 Page 7 of 20
+
+
+
+
+September 2019. The court concludes that, when considered together, Mr. Patten’s
+
+chronic liver conditions and his BMI, both of which are recognized by the CDC as
+
+potential risk factors, increase the risk that he will suffer a severe case of COVID-
+
+19. See United States v. Gonzalez-Quiroz, No. 18-CR-4517 (DMS), 2020 WL
+
+3868751, at *2 (S.D. Cal. July 9, 2020) (defendant demonstrated extraordinary and
+
+compelling reason for release where he suffered from fatty liver disease and
+
+hypertension and had a BMI of approximately 37); United States v. Khawaja, Crim.
+
+No. 18-cr-127-LM, 2020 WL 5549123, at *3-4 (D.N.H. Sept. 16, 2020) (defendant
+
+demonstrated extraordinary and compelling reason for release where he suffered
+
+from two conditions recognized by CDC to potentially increase risk from COVID-19).
+
+      In addition, Mr. Patten suffers from hyperlipidemia. While elevated
+
+cholesterol is not a medical condition expressly recognized by the CDC to increase
+
+the risk from COVID-19, the CDC does recognize that “[t]he more underlying
+
+medical conditions someone has, the greater the risk is for severe illness from
+
+COVID-19.”6 As this court has previously recognized, “[t]he collective risks
+
+associated with several non-serious medical conditions, when considered together
+
+and in combination with the risks posed by COVID-19 in the defendant’s facility,
+
+can provide an extraordinary and compelling reason to reduce the defendant’s
+
+
+
+
+      6  CDC, People with Certain Medical Conditions,
+https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-
+medical-conditions.html?CDC_AA_refVal=https%3A%2F%2F
+www.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fneed-extra-precautions%2Fgroups-
+at-higher-risk.html#liver-disease (last visited Jan. 6, 2021).
+
+                                           7
+          Case 1:18-cr-00073-LM Document 27 Filed 01/27/21 Page 8 of 20
+
+
+
+
+sentence.” Hilow, 2020 WL 2851086, at *4; see United States v. McElrath, No. 3-cr-
+
+235 (JNE)(1), 2020 WL 5423067, at *2 (D. Minn. Sept. 10, 2020) (defendant’s
+
+numerous medical conditions, including hyperlipidemia, constituted an
+
+extraordinary and compelling reason for release when considered together). Even if
+
+some of Mr. Patten’s conditions do not “independently and perfectly fit the
+
+definition of severity, as outlined by the CDC, his conditions still exacerbate each
+
+other,” including those conditions that the CDC does recognize as potential risk
+
+factors for a severe case of COVID-19. Harrell v. United States, Crim. No. 13-
+
+20198, 2020 WL 2768883, at *3 (E.D. Mich. May 28, 2020).
+
+      The risk that Mr. Patten will be infected with COVID-19 at FCI Allenwood-
+
+Low is more than speculative. Many courts, including this one, have recognized
+
+that the nature of the prison environment itself increases the likelihood that
+
+prisoners will catch this highly contagious virus. See, e.g., Gomes v. U.S. Dep’t of
+
+Homeland Sec., Acting Sec’y et al., 460 F. Supp. 3d 132, 138-39 (D.N.H. 2020).
+
+Prisons, by nature of their size, the number of inmates, and the difficulty of keeping
+
+inmates physically distant from one another, are potential tinderboxes for this
+
+contagious virus. Khawaja, 2020 WL 5549123, at *5. This is especially true where
+
+there is already a documented outbreak at the prison. As of January 12, 2021, FCI
+
+Allenwood-Low reported that 229 inmates have recovered from COVID-19 since the
+
+beginning of the pandemic.7 This indicates that the facility at one time experienced
+
+
+
+      7 BOP, COVID-19 Coronavirus, https://www.bop.gov/coronavirus/ (last visited
+Jan. 12, 2021).
+
+                                           8
+          Case 1:18-cr-00073-LM Document 27 Filed 01/27/21 Page 9 of 20
+
+
+
+
+a serious outbreak. See Khawaja, 2020 WL 5549123, at *5. In addition, at the time
+
+of Mr. Patten’s hearing, FCI Allenwood-Low reported twenty-one active cases of
+
+COVID-19.8 Nine of those active cases were among inmates, and twelve were
+
+among staff.9 For these reasons, there is a documented risk that Mr. Patten could
+
+become infected with COVID-19 at FCI Allenwood-Low.
+
+      In summary, the court agrees with the government and Mr. Patten on this
+
+prong. Mr. Patten’s medical conditions combined with a documented risk that he
+
+could contract the virus at FCI Allenwood-Low constitute extraordinary and
+
+compelling reasons for a sentence reduction.
+
+
+
+II.   Sentencing Factors
+
+      Next, the court must consider whether a sentence reduction would be
+
+consistent with the sentencing factors outlined in 18 U.S.C. § 3553(a) to the extent
+
+they are applicable. See 18 U.S.C. § 3582(c)(1)(A). The § 3553(a) factors that a
+
+court must consider at sentencing include the nature and circumstances of the
+
+defendant’s offense and the defendant’s personal history and characteristics. 18
+
+U.S.C. § 3553(a)(1). The statute also requires that the court ensure the sentence
+
+imposed adequately reflects the seriousness of the offense, promotes respect for the
+
+
+
+
+      8 BOP, COVID-19 Coronavirus, https://www.bop.gov/coronavirus/ (last visited
+Jan. 12 2021).
+
+      9 BOP, COVID-19 Coronavirus, https://www.bop.gov/coronavirus/ (last visited
+Jan. 12 2021).
+
+                                          9
+        Case 1:18-cr-00073-LM Document 27 Filed 01/27/21 Page 10 of 20
+
+
+
+
+law, provides just punishment, affords adequate deterrence, protects the public
+
+from further crimes of the defendant, and provides the defendant with needed
+
+training, medical care, and other treatment in the most effective way. 18 U.S.C. §
+
+3553(a)(2). The statute further requires the court to consider the kinds of sentences
+
+available, the Sentencing Guidelines, the need to avoid unwarranted sentencing
+
+disparities, and the need to provide restitution to any victim. 18 U.S.C. §
+
+3553(a)(3)-(7).
+
+      The court assesses the relevant sentencing factors below. After considering
+
+the applicable factors, the court will consider whether those factors support a
+
+reduction in Mr. Patten’s sentence, or, alternatively, whether they outweigh the
+
+extraordinary and compelling reasons discussed above and compel denial of the
+
+motion. United States v. Perkins, ___ F. Supp. 3d ___, 2020 WL 4783558, at *5
+
+(D.N.H. Aug. 18, 2020); see, e.g., United States v. Tidwell, ___ F. Supp. 3d ___, 2020
+
+WL 4504448, at *6 (E.D. Pa. Aug. 5, 2020).
+
+      The bulk of the sentencing factors weigh in favor of compassionate release.
+
+Most importantly, Mr. Patten has served more than half of his sentence. With good
+
+time credits, his current release date is on January 31, 2022, approximately one
+
+year from now. It appears that he will receive his good time credits, as there is no
+
+indication that he has had any disciplinary infractions while incarcerated.
+
+Additionally, BOP has assigned him an eligibility date for home detention of
+
+September 8, 2021; and he is currently scheduled to be released to a residential
+
+reentry center on October 6, 2021. Because Mr. Patten has served a significant
+
+
+                                          10
+        Case 1:18-cr-00073-LM Document 27 Filed 01/27/21 Page 11 of 20
+
+
+
+
+portion of his original sentence and is nearing his release date from BOP, a
+
+reduction in his sentence would not be inconsistent with the goals of promoting
+
+respect for the law, providing just punishment for his offense, and affording
+
+adequate deterrence to criminal conduct.
+
+      The only sentencing factor that weighs against his release is the need “to
+
+protect the public from further crimes of the defendant.” 18 U.S.C. § 3553(a)(2)(C);
+
+see also U.S.S.G. § 1B1.13(2) (policy statement instructing courts to evaluate
+
+whether the defendant is “a danger to the safety of any other person or to the
+
+community”). Mr. Patten’s release poses a danger to the public. His current
+
+conviction is for a serious drug distribution offense and an illegal gun possession
+
+charge. The combination of firearms and drug distribution is inherently dangerous.
+
+There are numerous facts, however, that mitigate Mr. Patten’s dangerousness.
+
+      First, prior to this federal conviction, Mr. Patten had never been sentenced to
+
+imprisonment. He has no prior convictions for violence or use of weapons, and has a
+
+minimal criminal history. He has only two prior convictions: one for disobeying a
+
+police officer, and one for unlawfully entering an acquaintance’s home to obtain
+
+drugs. The latter charge was from a Massachusetts court; the case was continued
+
+without a finding and later dismissed. See Commonwealth v. Mosher, 920 N.E.2d
+
+285, 296 (Mass. 2010) (explaining that a “continuance without a finding closely
+
+resembles a sentence of straight probation, except that the former is not a
+
+‘conviction’ under [Massachusetts] law if the defendant successfully completes” the
+
+prescribed probation). Mr. Patten had zero criminal history points and a criminal
+
+
+                                           11
+        Case 1:18-cr-00073-LM Document 27 Filed 01/27/21 Page 12 of 20
+
+
+
+
+history category of I—the lowest category a defendant can have—at sentencing.
+
+According to BOP, Mr. Patten’s “current risk of recidivism is low.” Doc. no. 23 at 9.
+
+       Second, the major risk factor for Mr. Patten is his serious addiction to cocaine
+
+and opiates, and this can be mitigated with conditions. Mr. Patten has used drugs
+
+since he was twelve years old. His presentence report indicated that, at the time of
+
+arrest, he was intravenously injecting up to 7.5 grams of cocaine on a daily basis
+
+and had been a daily heroin and opiate user. Mr. Patten’s ongoing battle with
+
+addiction in his teens and as an adult have caused him to overdose on heroin more
+
+than ten times. As the court noted at Mr. Patten’s sentencing hearing, his criminal
+
+history—though relatively minimal—is entirely related to his drug addiction. See
+
+doc. no. 21 at 7.
+
+       A close look at the circumstances of Mr. Patten’s instant offense reveals the
+
+serious nature of his drug addiction and its relationship to his criminal history. On
+
+February 11, 2018, an officer with the New London Police Department found Mr.
+
+Patten asleep in his parked car. When the officer approached Mr. Patten’s car, he
+
+saw several needles, rubber tourniquets, a syringe, and white powder on Mr.
+
+Patten’s pants and the car’s center console. The officer suspected that Mr. Patten
+
+may have overdosed and called for emergency medical services. While awaiting
+
+medical aid, Mr. Patten woke up and began screaming for help, and saying things
+
+like “I’m drowning,” and “I’m trapped.” The officer was eventually able to calm Mr.
+
+Patten. When additional officers arrived, they arrested Mr. Patten seemingly
+
+without further incident, and Mr. Patten admitted to the officers that he was high.
+
+
+                                          12
+         Case 1:18-cr-00073-LM Document 27 Filed 01/27/21 Page 13 of 20
+
+
+
+
+Indeed, in Mr. Patten’s sentencing memorandum, he stated that he likely would
+
+have died of an overdose had the police not found and arrested him. See doc. no. 16
+
+at 4.
+
+        The circumstances of Mr. Patten’s arrest indicate that he was a serious drug
+
+addict as well as a drug distributor. A search of his vehicle the day after his arrest
+
+uncovered two “bricks” containing nearly 200 grams of cocaine, a briefcase
+
+containing $4,420 bound in rubber bands, and a loaded firearm, in addition to
+
+smaller, personal use amounts of various drugs. These facts are concerning from
+
+the standpoint of Mr. Patten’s dangerousness. Nevertheless, the court concludes
+
+that, on balance, the nature and circumstances of the defendant’s offense are more
+
+consistent with that of a person with a crippling drug addiction, rather than that of
+
+a hardened and dangerous drug distributor. Despite the presence of the firearm,
+
+the court concludes that the circumstances of the instant offense suggest that, to the
+
+extent Mr. Patten is likely recidivate, he will do so by using drugs rather than by
+
+committing violent crimes.
+
+        The court recommended at sentencing that BOP place Mr. Patten in its
+
+residential drug treatment program while incarcerated. Because of his gun charge,
+
+however, Mr. Patten does not qualify for admission into that program. To his
+
+credit, Mr. Patten has completed the nonresidential drug treatment program at FCI
+
+Allenwood-Low. In addition to his recent completion of the program at FCI
+
+Allenwood, there are many indications in Mr. Patten’s history that suggest he
+
+genuinely wants drug treatment. According to his mother—who made a statement
+
+
+                                          13
+        Case 1:18-cr-00073-LM Document 27 Filed 01/27/21 Page 14 of 20
+
+
+
+
+at this compassionate release hearing—he has previously been sober for a period of
+
+three consecutive years. Mr. Patten has participated in at least eight treatment
+
+programs. In 2018 he successfully completed an inpatient program at Valley Vista
+
+in Bradford, Vermont. While at Valley Vista, he received treatment for opioid use
+
+disorder and stimulant use disorder, engaged in individual and group therapy, and
+
+participated in self-help groups. He was discharged to a sober living house after
+
+completing this program. These repeated periods of active recovery show Mr.
+
+Patten’s commitment to sustained sobriety. Since Mr. Patten has a history of
+
+relapsing, however, he needs long-term drug treatment to include regular drug
+
+testing and strict conditions of supervision.
+
+      Should Mr. Patten engage meaningfully in drug treatment, his risk of danger
+
+would be greatly reduced. The goal of public protection would be well served should
+
+Mr. Patten successfully complete drug treatment as part of his early release. The
+
+court will therefore impose drug treatment as a condition of his release. If released,
+
+Mr. Patten would reside with his mother in Weymouth, Massachusetts, where he
+
+would have the support of family. Mr. Patten maintains a close relationship with
+
+both of his parents. His mother is well-aware of Mr. Patten’s drug addiction and
+
+has stated her commitment to assisting and supporting his recovery. Probation has
+
+recently deemed this home suitable for supervision.
+
+      Finally, imprisonment at FCI Allenwood-Low is not serving the goal of
+
+providing Patten with needed drug treatment “in the most effective manner.” 18
+
+U.S.C. § 3553(a)(2). As explained, Mr. Patten desperately needs drug treatment. It
+
+
+                                          14
+        Case 1:18-cr-00073-LM Document 27 Filed 01/27/21 Page 15 of 20
+
+
+
+
+appears he may have exhausted the intensive treatment options available to him at
+
+FCI Allenwood-Low. If released to his mother’s home, Mr. Patten will be required
+
+to participate in an intensive treatment program in the community, and he will
+
+have the support of his family. Because a sentence reduction would provide Mr.
+
+Patten with needed drug treatment in a more effective manner than if he were to
+
+remain imprisoned, this factor weighs heavily in favor of release. See Khawaja,
+
+2020 WL 5549123, at *7.
+
+       Because the only § 3553(a) factor that weighs against release is adequately
+
+mitigated by a term of home confinement to last until his projected release date of
+
+January 31, 2022, with strict conditions of supervision to include intensive drug
+
+treatment and testing, the court concludes that the balance of factors weigh in favor
+
+of release.
+
+
+
+
+                                       CONCLUSION
+
+       For the foregoing reasons, Mr. Patten’s motion for compassionate release
+
+(doc. no. 22) is granted as follows:
+
+   1. Mr. Patten’s sentence will be reduced to time served.
+
+   2. Mr. Patten will be placed on a special term of supervised release until
+
+       January 31, 2022, which is equivalent to what his discharge date would have
+
+       been from the BOP, during which time he will remain on home confinement
+
+       under the terms of release as outlined in Appendix A.
+
+
+                                           15
+       Case 1:18-cr-00073-LM Document 27 Filed 01/27/21 Page 16 of 20
+
+
+
+
+   3. Following the term of special supervised release, Mr. Patten will be placed on
+
+      supervised release for a term of three years.
+
+   4. During the terms of special supervised release and supervised release, Mr.
+
+      Patten shall be subject to the Supervision Conditions as set forth in Appendix
+
+      A.
+
+   5. The BOP shall release Mr. Patten immediately following processing.
+
+   6. The court recommends that the BOP screen Mr. Patten for COVID-19 within
+
+      twelve hours prior to his release, and if he is displaying symptoms consistent
+
+      with COVID-19, test him and share the results with the United States
+
+      Probation Office in the District of New Hampshire.
+
+   7. The court will issue an amended criminal judgment.
+
+
+   SO ORDERED.
+
+
+
+                                       __________________________
+                                       Landya McCafferty
+                                       United States District Judge
+
+
+
+January 27, 2021
+
+cc: Counsel of Record
+    U.S Probation
+    U.S. Marshal
+
+
+
+
+                                         16
+       Case 1:18-cr-00073-LM Document 27 Filed 01/27/21 Page 17 of 20
+
+
+
+
+                                   APPENDIX A
+
+SUPERVISION CONDITIONS
+
+While under supervision, the defendant must comply with the following mandatory
+conditions:
+
+   1. The defendant must not commit another federal, state, or local crime.
+
+   2. The defendant must not unlawfully possess a controlled substance.
+
+   3. The defendant must refrain from any unlawful use of a controlled substance.
+      The defendant must submit to one drug test within 15 days of release from
+      imprisonment and at least two periodic drug tests thereafter, not to exceed 72
+      drug tests per year.
+
+   4. The defendant shall not possess a firearm, ammunition, destructive device, or
+      any other dangerous weapon.
+
+   5. The defendant must cooperate in the collection of DNA as directed by the
+      probation officer.
+
+While under supervision, the defendant must also comply with the following
+standard conditions of supervision that have been adopted by this court:
+
+   1. The defendant must report to the probation office in the federal judicial
+      district where he is authorized to reside within 72 hours of his release from
+      imprisonment, unless the probation officer instructs him to report to a
+      different probation office or within a different time frame.
+
+   2. After initially reporting to the probation officer, the defendant will receive
+      instructions from the court or probation officer about how and when he must
+      report to the probation officer, and he must report to the probation officer as
+      instructed.
+
+   3. The defendant must not knowingly leave the federal judicial district where he
+      is authorized to reside without first getting permission from the court or
+      probation officer.
+
+   4. The defendant must answer truthfully the questions asked by his probation
+      officer.
+
+   5. The defendant must live at a place approved by the probation officer. If he
+      plans to change where he lives or anything about his living arrangements
+    Case 1:18-cr-00073-LM Document 27 Filed 01/27/21 Page 18 of 20
+
+
+
+
+   (such as the people he lives with), he must notify the probation officer at least
+   10 days before the change. If notifying the probation officer in advance is not
+   possible due to unanticipated circumstances, he must notify the probation
+   officer within 72 hours of becoming aware of a change or expected change.
+
+6. The defendant must allow the probation officer to visit him at any time at his
+   home or elsewhere, and he must permit the probation officer to take any
+   items prohibited by the conditions of his supervision that the probation
+   officer observes in plain view.
+
+7. The defendant must work full time (at least 30 hours per week) at a lawful
+   type of employment, unless the probation officer excuses him from doing so.
+   If he does not have full-time employment he must try to find full-time
+   employment, unless the probation officer excuses him from doing so. If he
+   plans to change where he works or anything about his work (such as his
+   position or his job responsibilities), he must notify the probation officer at
+   least 10 days before the change. If notifying the probation officer at least 10
+   days in advance is not possible due to unanticipated circumstances, he must
+   notify the probation officer within 72 hours of becoming aware of a change or
+   expected change.
+
+8. The defendant must not communicate or interact with someone he knows is
+   engaged in criminal activity. If he knows someone has been convicted of a
+   felony, he must not knowingly communicate or interact with that person
+   without first getting the permission of the probation officer.
+
+9. If the defendant is arrested or questioned by a law enforcement officer, he
+   must tell the probation officer within 72 hours.
+
+10. The defendant must not own, possess, or have access to a firearm,
+    ammunition, destructive device, or dangerous weapon (i.e, anything that was
+    designed, or was modified for, the specific purpose of causing bodily injury or
+    death to another person such as nunchakus or tasers).
+
+11. The defendant must not act or make any agreement with a law enforcement
+    agency to act as a confidential human source or informant without first
+    getting the permission of the court.
+
+12. If the probation officer determines that the defendant poses a risk to another
+    person (including an organization), the probation officer may require him to
+    notify the person about the risk and the defendant must comply with that
+    instruction. The probation officer may contact the person and confirm that
+    the defendant has notified the person about the risk.
+
+
+                                       2
+        Case 1:18-cr-00073-LM Document 27 Filed 01/27/21 Page 19 of 20
+
+
+
+
+   13. The defendant must follow the instructions of the probation officer related to
+       the conditions of supervision.
+
+In addition, the defendant must comply with the following special conditions:
+
+   1. Upon release, the defendant must obtain transportation directly from the
+      prison to your approved residence. The defendant must eliminate or
+      minimize any stops during that transport.
+
+   2. The defendant must self-quarantine in an approved residence during the first
+      fourteen days of your supervised release.
+
+   3. The defendant is restricted to his residence at all times for the first six (6)
+      months of supervised release except for: employment; religious services;
+      medical, substance abuse, or mental health treatment; attorney visits; court
+      appearances; court-ordered obligations; or other activities as pre-approved by
+      the officer. During this time period, the defendant’s location will be
+      monitored at the discretion of his probation officer. The probation officer will
+      determine what type of technology to use to monitor the defendant. The
+      defendant must follow the rules and regulations of any monitoring program.
+      The defendant must pay for the cost of the program to the extent he is able,
+      as determined by the probation officer.
+
+   4. The defendant must participate in an inpatient or outpatient substance
+      abuse treatment program and follow the rules and regulations of that
+      program. The probation officer will supervise the defendant’s participation in
+      the program (provider, location, modality, duration, intensity, etc.). The
+      defendant must pay for the cost of treatment to the extent he is able, as
+      determined by the probation officer.
+
+   5. The defendant must submit to substance abuse testing to determine if he has
+      used a prohibited substance. The defendant shall pay for the cost of testing
+      to the extent he is able, as determined by the probation officer. The
+      defendant must not attempt to obstruct or tamper with the testing methods.
+
+   6. The defendant must not go to, or remain at, any place where he knows
+      controlled substances are illegally sold, used, distributed, or administered
+      without first obtaining the permission of the probation officer.
+
+   7. The defendant must not knowingly purchase, possess, distribute, administer,
+      or otherwise use any psychoactive substances (e.g., synthetic marijuana, bath
+      salts, etc.) that impair a person’s physical or mental functioning, whether or
+
+
+                                          3
+    Case 1:18-cr-00073-LM Document 27 Filed 01/27/21 Page 20 of 20
+
+
+
+
+   not intended for human consumption, except with the prior approval of the
+   probation officer.
+
+8. The defendant must not use or possess any controlled substances without a
+   valid prescription. If the defendant does have a valid prescription, he must
+   disclose the prescription information to the probation officer and follow the
+   instructions on the prescription.
+
+9. The defendant must submit his person, property, house, residence, vehicle,
+   papers, computers (as defined in 18 U.S.C. § 1030(e)(1)), other electronic
+   communications or data storage devices or media, or office, to a search
+   conducted by a United States Probation Officer. Failure to submit to a search
+   may be grounds for revocation of release. The defendant must warn any
+   other occupants that the premises may be subject to searches pursuant to
+   this condition. The probation officer may conduct a search under this
+   condition only when reasonable suspicion exists that the defendant has
+   violated a condition of supervision and that the areas to be searched contain
+   evidence of this violation. Any search must be conducted at a reasonable
+   time and in a reasonable manner.
+
+
+
+
+                                       4
+

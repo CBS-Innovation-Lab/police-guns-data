@@ -1,0 +1,1654 @@
+                                   UNITED STATES DISTRICT COURT
+
+                                             DISTRICT OF MAINE
+
+JOHN CROSBY,                                           )
+                                                       )
+                  Petitioner,                          )
+                                                       )
+         v.                                            )        2:11-cr-00023-GZS
+                                                       )        2:14-cv-00013-GZS
+                                                       )
+UNITED STATES OF AMERICA,                              )
+                                                       )
+                  Respondent                           )
+
+
+                  RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+         In this action, Petitioner John Crosby, pursuant to 28 U.S.C. § 2255, seeks to vacate, set
+
+aside, or correct his sentence. (Motion, ECF Nos. 69, 69-1, 72.)1 In August 2011, following a
+
+guilty plea, Petitioner was convicted of two counts of making interstate threatening
+
+communications to injure a person and one count of possession of a firearm as a felon. (Judgment,
+
+ECF No. 53 at 1.) The Court sentenced Petitioner to 46 months on each of the counts, to be served
+
+concurrently, followed by three years of supervised release.2 (Id. at 2-3.)
+
+         Petitioner appealed citing ineffective assistance of counsel. The First Circuit dismissed the
+
+appeal “without prejudice to his pursuing the ineffective-assistance claim through a petition filed
+
+in the district court under 28 U.S.C. § 2255,” noting that the Court expressed no opinion as to the
+
+
+1
+  Petitioner filed a form motion, pursuant to 28 U.S.C. §2255. (ECF No. 69.) He filed an addendum with the motion.
+(ECF No. 69-1.) Shortly thereafter, and before the Government filed its answer, Petitioner filed a supplement to his
+motion. (ECF No. 72.) In this recommended decision, all three of these filings are referred to as Petitioner’s section
+2255 motion. Because most of Petitioner’s claims are set forth in ECF No. 69-1, references to “motion” are to that
+filing unless otherwise indicated. ECF Nos. 69-1 and 72 are not signed under penalty of perjury, but that issue is moot
+if the Court dismisses the motion.
+2
+  It appears, based on a change of address form that Petitioner sent to the Court, that he may have completed his prison
+term and that he currently may be on supervised release. (Letter, ECF No. 107.) A petitioner who is serving a term
+of supervised release is “in custody” for purposes of section 2255. See Parkin v. United States, 565 F. App’x. 149,
+151 & n.2 (3d Cir. 2014) (per curiam).
+merits of a claim of ineffective assistance of counsel. United States v. Crosby, 482 F. App’x 600,
+
+600-01 (1st Cir. 2012) (per curiam).
+
+         In the pending section 2255 motion, Petitioner claims ineffective assistance of trial and
+
+appellate counsel on a number of grounds. He asserts that he signed the motion on January 3,
+
+2014. (Motion, ECF No. 69 at 6.) The motion was filed on January 13, 2014; the Government
+
+does not challenge the timeliness of Petitioner’s motion. (Response, ECF No. 89 at 1 n.2.)
+
+                    I.     FACTUAL BACKGROUND AND PROCEDURAL HISTORY3
+
+         On January 17, 2011, and on January 23, 2011, Petitioner made threatening interstate
+
+communications, in violation of 18 U.S.C. § 875(c). (Prosecution Version, ECF No. 37 at 1.) The
+
+first communication was sent via a “contact us” function on a web site and was traced to an internet
+
+protocol address associated with a commercial location. (Id.) Surveillance video from that
+
+location showed that someone appearing to be Petitioner was present at the same time that the
+
+threatening communication was sent. (Id. at 1-2.) The second communication was sent in the
+
+same manner, but was traced to an internet protocol address that was associated with the University
+
+of Southern Maine and registered to Petitioner. (Id. at 2.) These two communications were death
+
+threats and ethnic slurs directed at two individuals who were affiliated with a media organization.
+
+(Id. at 1-2.) The threats were part of a pattern of more than twenty generalized threats directed at
+
+the organization and traced to the university internet protocol address registered to Petitioner. (Id.
+
+at 2.)
+
+         On January 26, special agents at the Federal Bureau of Investigation (FBI) arrested
+
+Petitioner after they located him while he was logged onto his laptop computer in the library at the
+
+
+3
+  The following facts are derived largely from the prosecution version, which version Petitioner,
+in his change of plea hearing, stated was true, to his personal knowledge. (Plea Transcript, ECF
+No. 58 at 8-10.)
+
+                                                  2
+University of Southern Maine. (Id. at 2.) Petitioner’s laptop was seized without a warrant at the
+
+time of the arrest. (Id.)
+
+         Petitioner maintains that when he was arrested, he told law enforcement that the keys found
+
+on his person went to his car, which was parked in a metered parking space outside the library.
+
+(Motion at 3.) Petitioner asserts that he asked the agent who drove him from where he was arrested
+
+to the FBI office whether he would be allowed to call a friend or relative to move his car, and the
+
+agent told him, “we can take care of that later.” (Reply, ECF No. 105 at 14.) On January 27,
+
+without a warrant, law enforcement seized Petitioner’s car from the metered parking lot outside
+
+the library. (Motion at 3; In re 1996 Volvo Station Wagon, 2:11-mj-00019-JHR, ECF No. 1-2 at
+
+4.) On January 28, 2011, law enforcement obtained a warrant to search Petitioner’s laptop, but the
+
+search of the laptop was not conducted until February 9, 2011. (Motion at 3-4.)4
+
+         On February 1, law enforcement obtained a warrant to search Petitioner’s car. (1996 Volvo
+
+Station Wagon, ECF No. 1-1.) The affidavit in support of the application for a search warrant
+
+alleged probable cause to believe that evidence of the crime of transmitting threatening
+
+communications in interstate commerce would be found in the car. (1996 Volvo Station Wagon,
+
+ECF No. 1-2 at 2.) The affiant did not assert that agents had conducted an inventory search or that
+
+they had already found a shotgun in the car. Rather, the affiant alleged that during a search of
+
+Petitioner’s messenger bag incident to his arrest on January 26, law enforcement found a key ring
+
+with a Volvo key fob. (Id. at 3.)
+
+
+
+
+4
+  The chronology of the searches of Petitioner’s car and laptop computer is provided because Petitioner argues that
+the order in which the warrants were obtained and the searches were conducted demonstrates bad faith by law
+enforcement, and counsel should have moved on that basis to suppress a shotgun found in his car. (Motion at 2-7.)
+The Government does not contest the dates in its response, but argues that it was not obligated to conduct the searches
+in any particular order. (Response, ECF No. 89 at 6.)
+
+                                                          3
+         According to law enforcement, Petitioner told law enforcement that his car was in metered
+
+parking outside the library, and he gave them a description of his car. (Id. at 3-4.) Agents looked
+
+through the car windows and saw that the back seat was set up like a bed and there were curtains
+
+attached to the back windows. (Id. at 4.) Agents observed a toothbrush and toothpaste in
+
+Petitioner’s messenger bag, and based on the appearance of the car and the messenger bag,
+
+concluded that Petitioner might be living in his car. (Id.)
+
+         Law enforcement learned from the Maine Bureau of Motor Vehicles database that the
+
+parked car was registered to Petitioner. (Id.) The affiant, an FBI Special Agent, asserted that “it
+
+is common practice for individuals involved in criminal activity such as that described [in the
+
+affidavit] to maintain records of their activities, including internet searches; journals; letters;
+
+photographs; and both paper and electronic copies of their threatening communications, as
+
+momentos of their accomplishments.” (Id. at 4-5.) The agent further asserted that the items are
+
+often concealed in homes, and because Petitioner apparently was using his car as his home, he
+
+likely had the items in his car. (Id. at 5.)
+
+         On February 4, law enforcement conducted a warrant search of the car. (Prosecution
+
+Version at 3.) Agents found a shotgun that was manufactured in Massachusetts and, therefore,
+
+determined that the shotgun had traveled in interstate commerce prior to Petitioner’s possession of
+
+it in Maine. 5 (Id.) Law enforcement conducted a warrant search of Petitioner’s laptop on February
+
+9, and found evidence of the threatening communications.6 (Motion at 3-4; Prosecution Version
+
+at 3.)
+
+
+5
+ Petitioner knowingly possessed the firearm, as defined in 18 U.S.C. § 921(a)(3), after he had been convicted of two
+crimes punishable by prison terms of more than one year: (1) robbery, No. CR01-1326 (Jan. 24, 2002); and (2)
+unlawful possession of heroin, No. CR97-1022 (June 2, 1998). (Prosecution Version, ECF No. 37 at 3.)
+6
+  The communications sent from the laptop traveled interstate from Maine via a server in the state of Washington, to
+the organization’s servers in Washington, D.C. (Prosecution Version at 3.)
+
+
+                                                         4
+        Petitioner was indicted on February 24, 2011. (Indictment, ECF No. 12.)7 Petitioner pled
+
+guilty to all three charges on April 15, 2011. (Plea Tr., ECF No. 58 at 4, 8.) In response to
+
+questioning by the Court, Petitioner said that he had sufficient time to discuss the charges with
+
+counsel, and that counsel had explained the Government’s burden of proof and the possible
+
+penalties. (Id. at 4-5.)8 Petitioner also acknowledged that he understood that he was giving up his
+
+right to a trial by jury and the rights attendant to that right, as well as his right to an appeal. (Id. at
+
+6-8.)
+
+        During his plea hearing, Petitioner represented that he had received and reviewed the
+
+prosecution version with counsel, that he understood it, and that to his personal knowledge, the
+
+version was true. (Id. at 8-10.) The Court then found a factual basis for each of the guilty pleas
+
+in the case. (Id. at 10.)
+
+        Upon further questioning, Petitioner stated that he had not been threatened or forced to
+
+plead guilty. (Id.) Petitioner also asserted that he understood (a) that the Court did not have to
+
+accept the sentencing recommendations of his counsel or the Government, (b) that regardless of
+
+whether the recommendations were adopted, Petitioner would not be permitted to withdraw his
+
+guilty pleas, and (c) that the Court could impose a sentence that was more severe than the
+
+sentencing guidelines range. (Id. at 10-12.) The Court asked Petitioner if anyone had made any
+
+promises to him in return for his guilty plea. (Id. at 12.) When the Court noted that Petitioner
+
+hesitated and asked what Petitioner had heard, Petitioner responded:
+
+
+
+7
+  Although the indictment set forth, incorrectly, that the charged crimes took place in 2010, the Prosecution Version
+sets forth the corrected year of 2011. (Indictment, ECF No. 12 at 1-2; Prosecution Version at 1-3.) The Government
+represents that defense counsel consented to a correction on the basis that this was a clerical error. (Government’s
+Appellate Brief, ECF No. 89-1 at 16 n.2.)
+8
+ Petitioner specifically stated that he understood that the penalty may be up to five years of imprisonment on counts
+one and two, up to ten years of imprisonment on count three, up to three years of supervised release, and up to two
+additional years of imprisonment for a violation of supervised release. (Id. at 5-6.)
+
+                                                         5
+        Just from people in jail that say that – someone told me yesterday that if I didn’t
+        waive my indictment that the sentencing can be more harsh, that if I don’t cooperate
+        that things can be more harsh, things like that. But that’s not why I’m doing it. I’m
+        just saying that in – you know, I’ve had to process that in my conscious mind and
+        I’ve taken it under advisement, but I’m [pleading] here under full knowledge of the
+        rule – the rule and Rule 11.
+
+(Id. at 13.) The Court then told Petitioner:
+
+        I want you to understand that, regardless of what anyone tells you in jail, I’m going
+        to sentence you without any thought to any of those communications that were
+        made. My sentencing is completely independent of that. Do you understand that?
+
+(Id.) Petitioner replied that he understood. (Id.) The Court accepted the plea based on (a)
+
+Petitioner’s acknowledgement that he was guilty as charged, (b) that there was a factual basis for
+
+the plea, (c) that Petitioner was competent to plead guilty, (d) that Petitioner understood his rights
+
+and the maximum possible punishment, and (e) that Petitioner entered the pleas knowingly and
+
+voluntarily. (Id. at 14.)
+
+                                          II.     DISCUSSION
+
+A.      Legal Standards
+
+        A person may move to vacate his or her sentence on one of four different grounds: (1) “that
+
+the sentence was imposed in violation of the Constitution or laws of the United States”; (2) “that
+
+the court was without jurisdiction” to impose its sentence; (3) “that the sentence was in excess of
+
+the maximum authorized by law”; and (4) that the sentence “is otherwise subject to collateral
+
+attack.” 28 U.S.C. § 2255(a); see Knight v. United States, 37 F.3d 769, 772 (1st Cir. 1994). Here,
+
+given that Petitioner alleges ineffective assistance of counsel, and given that Petitioner’s right to
+
+counsel is guaranteed by the Sixth Amendment, Petitioner argues that the sentence was imposed
+
+in violation of “the Constitution or laws of the United States.”
+
+        The burden is on the section 2255 petitioner to establish by a preponderance of the evidence
+
+that he or she is entitled to section 2255 relief. David v. United States, 134 F.3d 470, 474 (1st Cir.
+
+
+                                                  6
+1998); United States v. DiCarlo, 575 F.2d 952, 954 (1st Cir. 1978). A petitioner “must establish
+
+both that counsel’s representation fell below an objective standard of reasonableness and that there
+
+exists a reasonable probability that, but for counsel’s unprofessional errors, the result of the
+
+proceeding would have been different.” Turner v. United States, 699 F.3d 578, 584 (1st Cir. 2012)
+
+(citing Strickland v. Washington, 466 U.S. 668, 688 (1984)). The two prongs of the ineffective
+
+assistance test are commonly referred to as the “cause” and “actual prejudice” tests. Bucci v.
+
+United States, 662 F.3d 18, 29 (1st Cir. 2011). As for the “cause” test, the court must be “a ‘fairly
+
+tolerant’ one because ‘the Constitution pledges to an accused an effective defense, not necessarily
+
+a perfect defense or a successful defense.’” Moreno-Espada v. United States, 666 F.3d 60, 65 (1st
+
+Cir. 2012) (quoting Scarpa v. Dubois, 38 F.3d 1, 8 (1st Cir. 1994)). The issue is whether counsel’s
+
+performance was “‘within the wide range of reasonable professional assistance’ that a competent
+
+criminal defense counsel could provide under ‘prevailing professional norms.’” Bucci, 662 F.3d
+
+at 30 (quoting Strickland, 446 U.S. at 688-89).
+
+       A district court reviewing such claims need not address both prongs of the test because a
+
+failure to meet either prong will undermine the claim. Strickland, 466 U.S. at 697. “Evidentiary
+
+hearings on § 2255 petitions are the exception, not the norm, and there is a heavy burden on the
+
+petitioner to demonstrate that an evidentiary hearing is warranted. An evidentiary hearing ‘is not
+
+necessary when a [§] 2255 petition (1) is inadequate on its face, or (2) although facially adequate,
+
+is conclusively refuted as to the alleged facts by the files and records of the case.’” Moreno-
+
+Morales v. United States, 334 F.3d 140, 145 (1st Cir. 2003) (citation omitted) (quoting DiCarlo,
+
+575 F.2d at 954).
+
+
+
+
+                                                  7
+B.     Claims Concerning Trial Counsel’s Performance
+
+       1. Failure to move to suppress evidence obtained in search of Petitioner’s car
+
+       Petitioner argues that (1) the seizure of the car was not for a valid community caretaking
+
+purpose, (2) law enforcement acted in bad faith in obtaining the search warrant for the car, and (3)
+
+counsel was ineffective in failing to move to suppress the shotgun found in the car. (Motion at 5-
+
+7; Reply, ECF No. 105 at 18.) Petitioner alleges that law enforcement likely conducted a
+
+warrantless inventory search when it seized the car, and found the gun during the warrantless
+
+search. He alleges that law enforcement used the later warrant search of the car for threatening
+
+communications as a pretext to document, inaccurately and in bad faith, that the shotgun was
+
+discovered during a warrant-based search.          (Motion at 7.)     Petitioner contends that law
+
+enforcement’s subsequent failure to search the computer data storage devices found in the car on
+
+the warrant search is evidence that the ostensible purpose of the search was pretextual. (Id. at 5,
+
+7.) Petitioner further argues that if law enforcement had searched the laptop before seeking a
+
+warrant to search the car, the search of the car would have been unnecessary, because the laptop
+
+contained evidence sufficient to convict Petitioner of the charges of threatening communications.
+
+(Id. at 4-5.) Finally, Petitioner maintains that because law enforcement recognized that he was
+
+living in his car, as evidenced by the curtains hung in the car, he had a higher expectation of privacy
+
+than do those who do not live in their vehicles. (Reply at 18-19.)
+
+       Petitioner alleges that counsel was ineffective for failing to examine the search warrant
+
+affidavit and for failing to move to suppress the shotgun. (Id. at 6-7.) Petitioner contends that he
+
+was prejudiced because if he had known that the shotgun was inadmissible, he would not have
+
+pled guilty to the felon-in-possession charge, he would not have been convicted of that charge, and
+
+
+
+
+                                                  8
+his guidelines sentencing range would have been 24 to 30 months rather than the 37 to 46 months
+
+that the Court found at sentencing. (Id. at 8-9.)
+
+       The warrantless seizure of the car from the university parking lot did not violate
+
+Petitioner’s Fourth Amendment rights. See South Dakota v. Opperman, 428 U.S. 364, 369 (1976)
+
+(“Police . . . frequently remove and impound automobiles which violate parking ordinances and
+
+which thereby jeopardize both the public safety and the efficient movement of vehicular traffic.
+
+The authority of police to seize and remove from the streets vehicles impeding traffic or
+
+threatening public safety and convenience is beyond challenge.”); Cardwell v. Lewis, 417 U.S.
+
+583, 594 (1974) (holding that seizure from a public parking lot was not meaningfully different
+
+from seizure from a highway); United States v. Coccia, 446 F.3d 233, 238 (1st Cir. 2006)
+
+(recognizing that “the community caretaking function encompasses law enforcement’s authority
+
+to remove vehicles that impede traffic or threaten public safety and convenience”). Although
+
+Petitioner alleges that he asked about whether he could arrange for a friend or relative pick up his
+
+car, he does not allege that law enforcement officials gave him permission to make his own
+
+arrangements for the car. “[L]aw enforcement officials are not required to give arrestees the
+
+opportunity to make arrangements for their vehicles when deciding whether impoundment is
+
+appropriate.” Vega-Encarnaciόn v. Babilonia, 344 F.3d 37, 41 (1st Cir. 2003) (citing Colorado v.
+
+Bertine, 479 U.S. 367, 373-74 (1987)). Law enforcement is “required to have a non-investigatory
+
+reason for seizing an arrestee’s car,” but when “there is no one immediately on hand to take
+
+possession, the officials have a legitimate non-investigatory reason for impounding the car.” Id.
+
+(emphasis omitted). The seizure of the car did not violate the Fourth Amendment.
+
+       Assuming that law enforcement found the shotgun during a warrantless inventory search,
+
+as Petitioner alleges, such a search would not have violated the protection afforded by the Fourth
+
+
+
+                                                    9
+Amendment. See United States v. Scott, 270 F.3d 30, 40 (1st Cir. 2001) (holding that if an arrest
+
+is valid, law enforcement may impound a car incident to the arrest and may conduct an inventory
+
+search without a warrant and without probable cause). “A search or seizure undertaken pursuant
+
+to the community caretaking exception is not infirm merely because it may also have been
+
+motivated by a desire to investigate crime.” Coccia, 446 F.3d at 240-41; see also United States v.
+
+Kennedy, 427 F.3d 1136, 1143 (8th Cir. 2005) (recognizing that an individual has a “diminished
+
+expectation of privacy” in an automobile for purposes of an inventory search). “As long as
+
+impoundment pursuant to the community caretaking function is not a mere subterfuge for
+
+investigation, the coexistence of investigatory and caretaking motives will not invalidate the
+
+seizure.” Coccia, 446 F.3d at 241 (quoting Rodriguez-Morales, 929 F.2d 780, 787 (1st Cir. 1991)).
+
+Thus, even if Petitioner could prove that law enforcement found the gun during a warrantless
+
+inventory search, that search would not violate Petitioner’s Fourth Amendment rights.
+
+       In addition, even if Petitioner could prove that law enforcement deliberately omitted
+
+mention of the shotgun in its affidavit in support of a warrant to search the car, the warrant search
+
+did not violate Petitioner’s Fourth Amendment rights. A defendant who alleges a deliberate or
+
+reckless material omission in an affidavit in support of a search warrant may have a right to an
+
+evidentiary hearing. See United States v. Rigaud, 684 F.3d 169, 173 (1st Cir. 2012) (citing Franks
+
+v. Delaware, 438 U.S. 154, 171 (1978)). “However, to get a Franks hearing, a party must first
+
+make two ‘substantial preliminary showings’: (1) that a false statement or omission in the affidavit
+
+was made knowingly and intentionally or with reckless disregard for the truth; and (2) the
+
+falsehood or omission was necessary to the finding of probable cause.” Id. at 173. “With an
+
+omission, the inquiry is whether its inclusion in an affidavit would have led to a negative finding
+
+by the magistrate on probable cause.” Id. at 173 n. 5. When a defendant fails to meet the second
+
+
+
+                                                 10
+requirement, the Court need not address the first. Id. at 173. Here, Petitioner cannot show that the
+
+inclusion of a reference to the shotgun in the affidavit would have led to a negative finding of
+
+probable cause of evidence of threatening communications. Petitioner, therefore, would not have
+
+been entitled to a Franks hearing, and, consequently, counsel was not ineffective for failing to file
+
+a motion to suppress the shotgun.
+
+       Petitioner also challenges the statements in the search warrant affidavit that “it is common
+
+practice for individuals involved in criminal activity such as [threatening communications] to
+
+maintain records of their activities . . . as [momentos] of their accomplishments” and that “because
+
+Crosby appears to be living in his car, it is likely that he has concealed such items in his car.”
+
+(Reply at 20-21; 1996 Volvo Station Wagon, ECF No. 1-2 at 4-5.) Probable cause “merely requires
+
+that the facts available to the officer would ‘warrant a man of reasonable caution in the belief’ that
+
+certain items may be . . . useful as evidence of a crime; it does not demand any showing that such
+
+a belief be correct or more likely true than false.” Texas v. Brown, 460 U.S. 730, 742 (1983)
+
+(plurality opinion) (citation omitted). The officer’s attestation that his knowledge was based on
+
+experience and training is “unquestionably relevant to the existence of probable cause.” United
+
+States v. Robinson, 275 F.3d 371, 381 (4th Cir. 2001) (holding that the officer’s personal
+
+experience was relevant to probable cause). The facts asserted in the officer’s affidavit are
+
+sufficient to establish probable cause that evidence of the crime might be found in Petitioner’s car.
+
+Counsel was not deficient for failing to file a motion to suppress for lack of probable cause.
+
+       Petitioner asserts that the chain of custody was broken with respect to his car, and that
+
+counsel never discussed this issue with him. (Motion at 5, 7.) “A possible defect in the chain of
+
+custody for a certain piece of evidence factors into the weight given to the evidence rather than its
+
+
+
+
+                                                 11
+admissibility.” United States v. Scharon, 187 F.3d 17, 22 (1st Cir. 1999). Petitioner’s argument
+
+thus would not result in the suppression of the evidence of the shotgun.
+
+         When a petitioner’s “claims fail on the merits, his related claims that counsel rendered
+
+ineffective assistance in failing to press the claims at trial or on appeal must also fail,” and the
+
+Court need not determine whether the petitioner has demonstrated “‘cause and actual prejudice.’”
+
+Tse v. United States, 290 F.3d 462, 465 (1st Cir. 2002) (quoting United States v. Frady, 456 U.S.
+
+152, 167 (1982)).9 Petitioner, therefore, cannot prevail on his claim that his trial counsel was
+
+ineffective for failing to move for the suppression of the shotgun.
+
+         2. Brady violations
+
+         Petitioner argues that counsel failed to discuss with him the possibility of arguing that the
+
+prosecution committed a violation of Brady v. Maryland, 373 U.S. 83 (1963), by failing to provide
+
+Petitioner with the allegedly misleading search warrant affidavit.10 (Motion at 8.) Assuming that
+
+Petitioner could prove that the Government suppressed that it found the shotgun on a warrantless
+
+inventory search, no prejudice occurred because the evidence would not have resulted in the
+
+suppression of the shotgun.
+
+
+9
+  If an assessment of actual prejudice was required, the record establishes that Petitioner was not prejudiced by
+counsel’s decision not to seek suppression of the shotgun. First, the three-point reduction in offense level for
+acceptance of responsibility, pursuant to U.S.S.G. § 3E1.1, would not have been available to Petitioner, and thus his
+sentencing range would have increased. Second, the shotgun would have been considered at sentencing. See United
+States v. Acosta, 303 F.3d 78, 86 (1st Cir. 2002) (holding that a sentencing court may consider evidence that the
+defendant has successfully suppressed). Third, the Court noted that initially it considered a sentence within the
+sentencing guidelines range to be inadequate. (Sentencing Tr. at 47.) If the firearms charge had been dismissed based
+on the suppression motion, the Court may have imposed a sentence above the guidelines range on the other counts.
+Fourth, the 46-month sentence that the Court imposed on each of the counts, to be served concurrently, could have
+been imposed even in the absence of a conviction on the firearms charge. See 18 U.S.C. § 875(c) (imposing a five-
+year maximum sentence on the charge of threatening communications).
+
+10
+  The Supreme Court held in Brady v. Maryland, 373 U.S. 83 (1963), that “the suppression by the prosecution of
+evidence favorable to an accused upon request violates due process where the evidence is material either to guilt or to
+punishment, irrespective of the good faith or bad faith of the prosecution.” Id. at 87. The First Circuit has held that
+“[t]o establish a Brady violation, ‘a defendant must make three showings. The evidence at issue (whether exculpatory
+or impeaching) must be favorable to the accused; that evidence must have been either willfully or inadvertently
+suppressed by the government; and prejudice must have ensued.’” United States v. Alverio–Meléndez, 640 F.3d 412,
+424 (1st Cir.2011) (quoting United States v. Mathur, 624 F.3d 498, 503 (1st Cir.2010)) (quotation marks omitted).
+
+                                                          12
+         “Impeachment evidence must be material before its suppression justifies a new trial.”
+
+United States v. Paladin, 748 F.3d 438, 444 (1st Cir. 2014) (quotation marks omitted). “Evidence
+
+is material when a ‘reasonable probability [exists] that the result of the trial would have been
+
+different’ if the suppressed evidence had been disclosed.” Id. (quoting Strickler v. Greene, 527
+
+U.S. 263, 289 (1999) (quotation marks omitted)). Here, there is no reasonable probability that the
+
+result would have been different had the Government disclosed that it found the shotgun on a
+
+warrantless inventory search, as Petitioner alleges, because the shotgun would have been
+
+admissible in any event. Id.
+
+         3. Failure to seek psychological evaluation
+
+         Petitioner alleges that counsel was ineffective when he failed to seek a psychological
+
+evaluation of Petitioner. (Motion at 9-10.) Although Petitioner argues that he might have received
+
+a downward departure, he acknowledges that this was not likely. (Id.; Reply at 27.)11 (Reply at
+
+27.) Petitioner also contends that his guilty plea was without knowledge because he did not have
+
+a psychological evaluation. (Motion at 10.)
+
+
+
+
+11
+   Petitioner argues that if counsel had filed a motion to sever the felon-in-possession charge from the charges of
+threatening, Petitioner’s sentencing on the felon-in-possession charge would not have involved a serious threat, and
+he might have obtained a downward departure under U.S.S.G. § 5K2.13, which states in pertinent part:
+
+         A downward departure may be warranted if (1) the defendant committed the offense while suffering
+         from a significantly reduced mental capacity; and (2) the significantly reduced mental capacity
+         contributed substantially to the commission of the offense. Similarly, if a departure is warranted
+         under this policy statement, the extent of the departure should reflect the extent to which the reduced
+         mental capacity contributed to the commission of the offense.
+
+         However, the court may not depart below the applicable guideline range if (1) the significantly
+         reduced mental capacity was caused by the voluntary use of drugs or other intoxicants; (2) the facts
+         and circumstances of the defendant's offense indicate a need to protect the public because the offense
+         involved actual violence or a serious threat of violence; [or] (3) the defendant's criminal history
+         indicates a need to incarcerate the defendant to protect the public.
+
+Petitioner’s claim of ineffective assistance of counsel for failure to file a motion for misjoinder or for severance is
+addressed below.
+
+                                                           13
+       “A guilty plea is valid as long as the decision was based on ‘a voluntary and intelligent
+
+choice among the alternative courses of action open to the defendant.’” Panzardi-Alvarez v.
+
+United States, 879 F.2d 975, 982 (1st Cir. 1989) (quoting Hill v. Lockhart, 474 U.S. 52, 56 (1985)).
+
+The First Circuit has held that “[c]ompetence to enter a guilty plea is determined by the same
+
+criteria as those governing competence to stand trial: whether the defendant is able to understand
+
+the proceedings and assist his counsel with a reasonable degree of rationality.” United States v.
+
+Morrisette, 429 F.3d 318, 322 (1st Cir. 2005). A “petitioner must present valid reasons why he
+
+should be relieved of his statements at a Rule 11 hearing in order to ‘overcome the presumption of
+
+regularity which the record . . . imports.’” Ouellette v. United States, 862 F.2d 371, 374 (1st Cir.
+
+1988) (quoting Walker v. Johnston, 312 U.S. 275, 286 (1941)).
+
+       At Petitioner’s plea hearing, after a comprehensive inquiry, the Court learned that
+
+Petitioner had a bachelor’s degree, that he was not currently seeing a physician or mental health
+
+worker, that the only medication he was taking was ibuprofen, that he had not used any drugs or
+
+alcohol in the last 24 hours, and that he understood why he was in court (Plea Tr., ECF No. 58 at
+
+2-3). The Court found that Petitioner was competent to enter a plea. At sentencing, after a similar
+
+colloquy, the Court found that Petitioner was competent to be sentenced. (Sentencing Tr., ECF
+
+No. 60 at 2-3.) Petitioner presents no evidence to overcome the presumption that his statements
+
+to the Court at the plea hearing were valid.
+
+       4. Promises regarding residential drug program
+
+       Petitioner argues that counsel was ineffective when he advised Petitioner that he was
+
+eligible for a 500-hour residential drug abuse program, when in fact Petitioner was not eligible due
+
+to a prior violent crime and a drug charge. (Motion at 11.) As a result, Petitioner was not able to
+
+
+
+
+                                                14
+get a sentence reduction, in spite of counsel’s advice to the contrary. (Id.) Petitioner alleges that
+
+a probation officer provided the same incorrect advice. (Id.)
+
+       Petitioner cannot demonstrate prejudice, even if counsel misinformed him as to whether he
+
+was eligible for the residential drug abuse program. See Howard v. United States, Nos. 2:05-cr-
+
+00013-DBH, 2:09-cv-00221-DBH, 2009 WL 3460722, *6, 2009 U.S. Dist. Lexis 130199, *16-17
+
+(D. Me. Oct. 20, 2009) (recommended decision) (adopted Nov. 20, 2009) (suggesting that
+
+mistaken advice from counsel may not be cognizable as a Sixth Amendment claim because the
+
+residential drug abuse program is discretionary for the judge to recommend and discretionary for
+
+the Bureau of Prisons to provide). Indeed, the Tenth Circuit has held that because a petitioner told
+
+the Court that no one had made any promises or guarantees about his sentence, he failed to
+
+demonstrate prejudice as a result of his mistaken belief that he would be eligible for a one-year
+
+sentence reduction for completion of the residential drug abuse program. United States v. Viera,
+
+674 F.3d 1214, 1220 (10th Cir. 2012) (“We have held that an erroneous sentencing prediction is
+
+not prejudicial where the court has conducted an adequate Rule 11 colloquy.”). In Viera, the Court
+
+noted that the petitioner had acknowledged that “counsel’s predictions relating to sentencing could
+
+be wrong.” Id. at 1220.
+
+       Here, while the Court did not specifically warn Petitioner that counsel’s predictions could
+
+be incorrect, the Court made very clear that the Court could impose a more severe sentence than
+
+the advisory range, and that if the Court did so, Petitioner would not be permitted to withdraw his
+
+guilty plea. (Plea Tr. at 11-12.) The Court then asked Petitioner whether any promises had been
+
+made to him as to the sentence, and Petitioner replied that none had. (Id. at 13.) In short, on this
+
+record, Petitioner cannot establish prejudice even if one assumes that Petitioner’s counsel provided
+
+inaccurate information.
+
+
+
+                                                 15
+         5. Lack of test firing of the firearm
+
+         Although Petitioner admitted that to his personal knowledge, the prosecution version,
+
+which asserted that the firearm meets the definition of “firearm” under 18 U.S.C. § 921(a)(3)12
+
+(Prosecution Version at 3), was accurate, Petitioner alleges that counsel was deficient for failing
+
+to move to suppress the gun on the basis that it had not been test-fired. (Motion at 13-14.)
+
+Petitioner alleges that the purpose of the test firing would have been to confirm that the gun
+
+functioned as a gun and was not a non-functioning replica of a gun. (Id. at 13.) He contends that
+
+he would not have pled guilty if he had known that the gun would be inadmissible. (Id. at 14.)
+
+         Contrary to Petitioner’s argument, the gun would not have been inadmissible even if the
+
+gun was inoperable; a firearm need not be operable to support a conviction under 18 U.S.C. § 922.
+
+See United States v. Williams, 577 F.3d 878, 882 (8th Cir. 2009) (“We have repeatedly rejected
+
+the contention that a firearm needs to be operable in order to support a conviction under 18 U.S.C.
+
+§ 922.”). Simply stated, counsel’s performance was not deficient based on his failure to request a
+
+test fire.
+
+         6. Failure to seek a plea agreement
+
+         Petitioner argues that counsel was ineffective because he failed to seek a plea offer and
+
+because he failed to inform Petitioner about the possibility of seeking a plea offer. (Motion at 14.)
+
+The Supreme Court has held that counsel has a duty to communicate to his or her client a formal
+
+plea offer from the prosecution. Missouri v. Frye, 132 S. Ct. 1399, 1408 (2012). However, “a
+
+defendant has no right to be offered a plea.” Id. at 1410. “[C]ounsel does not have a general duty
+
+to initiate plea negotiations,” and in this case, the record lacks any evidence to suggest that the
+
+
+12
+  Title 18 U.S.C. § 921(a)(3) states: “The term ‘firearm’ means (A) any weapon (including a starter gun) which will
+or is designed to or may readily be converted to expel a projectile by the action of an explosive; (B) the frame or
+receiver of any such weapon; (C) any firearm muffler or firearm silencer; or (D) any destructive device. Such term
+does not include an antique firearm.”
+
+                                                        16
+Government would have offered a plea bargain, particularly given the evidence against Petitioner
+
+on the firearms charge, which carried the longer sentence. See United States v. Pender, 514 F.
+
+App’x 359, 361 (4th Cir. 2013) (holding that the petitioner’s allegations “were sufficient to raise
+
+a material issue of fact as to whether [the petitioner’s] attorney’s actions were unreasonable in
+
+failing to pursue plea negotiations,” and noting that the case was unique because the Government
+
+conceded that a plea bargain favorable to the petitioner would have been offered if counsel had
+
+pursued it). Because Petitioner has not demonstrated that the Government would have proposed a
+
+more favorable sentence as part of a plea agreement, Petitioner has not and cannot establish that
+
+counsel’s performance was substandard.
+
+         7. Failure to move for recusal
+
+         At sentencing, the Court increased the offense level by three points, pursuant to U.S.S.G.
+
+§ 3A1.1(a), based on its finding of the facts as set forth in the presentence investigation report.13
+
+(Sentencing Tr. at 42-43.)            The presentence investigation report asserted that Petitioner’s
+
+threatening communications included the “frequent use of ethnic slurs” and the use of a
+
+“derogatory term contained in the email address” directed to one of the victims. The report stated
+
+that “it appears the defendant intentionally selected” one of the victims based on what he thought
+
+were her religious beliefs. In finding that Petitioner used hate speech, the Court found beyond a
+
+reasonable doubt that Petitioner intentionally selected the victim based on his beliefs about her
+
+ethnicity or her religious beliefs. (Sentencing Tr. at 43.) Petitioner contends that counsel should
+
+have asked the judge to recuse himself rather than sentence Petitioner to a hate crime enhancement
+
+
+
+
+13
+  U.S.S.G. § 3A1.1(a) states: “If the finder of fact at trial or, in the case of a plea of guilty or nolo contendere, the
+court at sentencing determines beyond a reasonable doubt that the defendant intentionally selected any victim or any
+property as the object of the offense of conviction because of the actual or perceived race, color, religion, national
+origin, ethnicity, gender, gender identity, disability, or sexual orientation of any person, increase by 3 levels.”
+
+                                                           17
+for slurs and threats against persons allegedly of the same religious or ethnic background as the
+
+judge. (Motion at 15.)
+
+       “The governing statute, 28 U.S.C. § 455(a), provides that a judge ‘shall disqualify himself
+
+in any proceeding in which his impartiality might reasonably be questioned.’” In re Bulger, 710
+
+F.3d 42, 45 (1st Cir. 2013) (quoting 28 U.S.C. §455(a)). “On the other hand, under section 455, a
+
+judge is not compelled automatically to accept as true the allegations made by the party seeking
+
+recusal.” In re Martinez-Catala, 129 F.3d 213, 220 (1st Cir. 1997). In this case, Petitioner’s claim
+
+is based solely on the Court’s determination to increase the offense level for the hate crime.
+
+“[J]udicial rulings alone almost never constitute a valid basis for a bias or partiality motion.”
+
+Liteky v. United States, 510 U.S. 540, 555 (1994). Petitioner has failed to point to any evidence
+
+of bias. Petitioner thus has not demonstrated that counsel had a legitimate basis upon which to
+
+request recusal.
+
+       8. Change of venue
+
+       Petitioner argues that counsel was ineffective because he failed to request a change of
+
+venue. (Motion at 16.) He asserts that he would not have pled guilty if the venue had been changed
+
+to a location where potential jurors were not exposed to allegedly unfair media accounts of the
+
+charges against Petitioner. (Id. at 16-17.)
+
+       “A change of venue is proper if the court determines that there exists ‘so great a prejudice
+
+against the defendant . . . in the transferring district that the defendant cannot obtain a fair and
+
+impartial trial there.’” United States v. Misla-Aldarondo, 478 F.3d 52, 58 (1st Cir. 2007) (quoting
+
+Fed. R. Crim. P. 21(a)). “In making this determination, we ask 1) whether the degree of
+
+inflammatory publicity had so saturated the community such as to make it virtually impossible to
+
+obtain an impartial jury, or 2) if prejudice cannot be presumed, whether nonetheless the empaneled
+
+
+
+                                                18
+jury was actually prejudiced against the defendant.” Id. (quotation marks and citation omitted).
+
+“Merely a high volume of media coverage is not sufficient to presume prejudice, if that coverage
+
+is factual, as opposed to inflammatory.” Id. “A motion for change of venue is addressed to the
+
+sound discretion of the trial court and will not be reversed in the absence of an abuse of discretion.”
+
+United States v. Rodriguez-Cardona, 924 F.2d 1148, 1158 (1st Cir. 1991) (quotation marks
+
+omitted).
+
+       Petitioner maintains that “there were countless television news segments and a front-page
+
+Portland Press Herald article, all painting Petitioner as a deranged psycho, authentically hell-bent
+
+on sexual assault of innocent women . . . .” (Reply at 35.) He concedes that “whether or not such
+
+a motion would have succeeded may be debatable,” but he argues that counsel should have filed
+
+the motion nonetheless, and that when all of Petitioner’s claims are considered cumulatively,
+
+counsel was constitutionally deficient. (Id. at 36-37.) Petitioner simply has not substantiated his
+
+allegations regarding inflammatory publicity. See United States v. Pérez-González, 445 F.3d 39,
+
+46 (1st Cir. 2006) (“There is nothing in the record−no statements by jurors indicating animus, no
+
+examples of inflammatory newspaper articles or prejudicial news reports, and no evidence
+
+whatsoever of the pervasiveness or tone of the media coverage−to substantiate Pérez-González's
+
+argument.”) (footnote omitted). Petitioner has not demonstrated that counsel was deficient for
+
+failing to file a motion for change of venue.
+
+       9. Failure to agree to plead to an information
+
+       Petitioner argues that counsel was ineffective because he failed to waive the indictment as
+
+Petitioner had agreed. (Motion at 17.) Petitioner contends that if he had agreed to waive the
+
+indictment, the Court would have recognized his cooperation and imposed a shorter sentence. (Id.)
+
+
+
+
+                                                  19
+       Generally, the benefit for waiving indictment and pleading to an information is that the
+
+Government agrees to recommend a reduction in the offense level for acceptance of responsibility
+
+under U.S.S.G. § 3E1.1. See United States v. Brown, 169 F.3d 89, 91 (1st Cir. 1999); United States
+
+v. Livesay, 587 F.3d 1274, 1276-77 (11th Cir. 2009). The Government recommended and the
+
+Court granted Petitioner a three-point reduction for acceptance of responsibility. (Sentencing Tr.
+
+at 43.) The Court imposed a sentence “at the high-end of the guideline range” based on Petitioner’s
+
+“despicable conduct and a risk of danger to the public,” and the Court’s conclusion that Petitioner
+
+committed “a very serious offense and one that indicates a potential for violence.” (Id. at 47-48.)
+
+An agreement to waive the indictment would have had no mitigating effect on these sentencing
+
+factors, and, therefore, Petitioner’s argument that the sentence likely would have been shorter had
+
+counsel sought to waive the indictment lacks merit.
+
+       10. Malicious prosecution
+
+       Petitioner claims prosecutorial misconduct, alleging that the FBI and prosecutor
+
+exaggerated Petitioner’s threats to the media organization and failed to recognize that Petitioner
+
+was himself being harassed by the organization and by several federal agencies. (Motion at 18,
+
+22-23.) He argues that because of this exaggeration and law enforcement’s approach, law
+
+enforcement had no basis to search the car because there was no evidence of a connection between
+
+the car and the threatening messages. (Motion at 19.) Petitioner alleges that law enforcement
+
+permitted a bad faith affidavit to be filed in Court in support of the warrant to search the car
+
+(Motion at 22), and that his counsel failed to argue prosecutorial misconduct in an effort to exclude
+
+evidence of the shotgun (Id. at 26-27). In further support of the lack of a connection between the
+
+threatening messages and the shotgun, Petitioner maintains that he obtained the shotgun because
+
+he had suicidal thoughts, but that counsel failed to make that point. (Motion at 27.)
+
+
+
+                                                 20
+       Petitioner’s bad faith prosecution theory has been addressed in part above. In addition,
+
+Petitioner’s allegations of malice are wholly conclusory and the prosecution version that he
+
+acknowledged was accurate supplied more than sufficient evidence to make the decision to charge
+
+objectively reasonable.   Petitioner’s malicious prosecution argument thus fails.
+
+       11. Selective and retaliatory prosecution
+
+       Petitioner contends that counsel failed to argue selective or retaliatory prosecution.
+
+(Motion at 28, 31; Reply at 53.) He asserts that others who are similarly situated have made threats
+
+but have not been prosecuted, and that he was selected for prosecution due to the social stature of
+
+the victims. (Motion at 28.) He argues that had counsel made the argument, the charges would
+
+have been dismissed. (Id. at 28-29.)
+
+       “A selective-prosecution claim is not a defense on the merits to the criminal charge itself,
+
+but an independent assertion that the prosecutor has brought the charge for reasons forbidden by
+
+the Constitution. Our cases delineating the necessary elements to prove a claim of selective
+
+prosecution have taken great pains to explain that the standard is a demanding one.” United States
+
+v. Armstrong, 517 U.S. 456, 463 (1996). A petitioner must demonstrate that he “has been singled
+
+out for prosecution when others similarly situated have not been prosecuted and that the
+
+prosecutor’s reasons for doing so were impermissible.” See United States v. Magana, 127 F.3d 1,
+
+8 (1st Cir. 1997) (holding that “[t]he defendants did not make a sufficient prima facie showing of
+
+either discriminatory effect or discriminatory intent to justify the discovery they requested”). In
+
+Magana, the defendants relied on a newspaper article, a videotape of an interview, and an unsworn
+
+statement, to demonstrate discriminatory prosecution; the Court held that the evidence was
+
+insufficient, partly because it did not address the allegation “that there were similarly situated
+
+persons who were not prosecuted.” Id.
+
+
+
+                                                21
+       “Vindictive prosecution occurs when the actions of the judge or prosecutor somehow
+
+punish a defendant for exercising constitutional or statutory rights during the prosecution.” United
+
+States v. Bassford, 812 F.2d 16, 20 (1st Cir. 1987). The First Circuit has held: “We presume that
+
+the prosecutor acted in good faith, and did not prosecute in a vindictive manner. To rebut this
+
+presumption and obtain an evidentiary hearing on the issue, the defendant must allege facts (1)
+
+tending to show selective prosecution, and (2) raising a reasonable doubt about the propriety of
+
+the prosecution’s motive.” United States v. Peterson, 233 F.3d 101, 105 (1st Cir. 2000) (footnote
+
+omitted) (citing Bassford, 812 F.2d at 19).
+
+       As with his malicious prosecution claim, Petitioner’s claim of selective prosecution is
+
+entirely conclusory. Petitioner has made no showing of discriminatory effect, discriminatory or
+
+vindictive intent, or any other basis to support a claim of selective or vindictive prosecution.
+
+Accordingly, Petitioner’s claim of ineffective assistance of counsel also lacks merit. See Tse, 290
+
+F.3d at 465.
+
+       12. Failure to seek dismissal of threats as jest
+
+       Petitioner asserts that his threats were “made in jest” and that he “lacked subjective intent
+
+and was only making political statements.” (Motion at 32; Reply at 60.) Petitioner contends that
+
+his intention should have been evident based on the “over-the-top” nature of the communications,
+
+which expressed “dark humor.” (Reply at 55.) Petitioner alleges that the organization and the
+
+individual targets of his threats were aware that they were not in any true danger. (Motion at 33.)
+
+Petitioner maintains that counsel failed to argue that the threats were not real. (Id. at 34.)
+
+       “The law is crystal clear that threats are not constitutionally protected speech.” United
+
+States v. Walker, 665 F.3d 212, 227 (1st Cir. 2011) (citing R.A.V. v. City of St. Paul, 505 U.S. 377,
+
+388 (1992)). The threats at issue were to kill two individuals. The record lacks any credible
+
+
+
+                                                  22
+support for Petitioner’s suggestion that the Court would have been convinced to dismiss the charge
+
+based on Petitioner’s argument that the threats were made in jest, or to support for the argument
+
+that the Court could have dismissed a grand jury indictment based on the Court’s own
+
+determination of a factual question. “The indictment’s allegations are assumed to be true, and
+
+‘courts routinely rebuff efforts to use a motion to dismiss as a way to test the sufficiency of the
+
+evidence behind an indictment’s allegations.’” United States v. Stewart, 744 F.3d 17, 21 (1st Cir.
+
+2014) (quoting United States v. Guerrier, 669 F.3d 1, 3–4 (1st Cir. 2011)).
+
+       Counsel has a “right to ignore frivolous claims pressed by clients.” United States v. Hart,
+
+933 F.2d 80, 83 (1st Cir. 1991). Because Petitioner’s argument would have been frivolous, his
+
+ineffective assistance claim is without merit.
+
+       13. Error in indictment
+
+       Petitioner argues that the indictment was fundamentally flawed because the dates alleged
+
+for the crimes were January 17 and 23, 2010, rather than January 17 and 23, 2011. (Motion at 36.)
+
+He contends that counsel was deficient because he failed to notice the error (Id.), and failed to
+
+object to the prosecution version. (Reply at 62.)
+
+       The parties and the Court addressed this issue at sentencing when the Government
+
+represented that the clerk had noticed the “typographical error in the indictment” and brought it to
+
+the Court’s attention; defense counsel consented to the correction of the year alleged from 2010 to
+
+2011, and the Government noted that the prosecution version stated the correct dates. (Sentencing
+
+Tr. at 41-42.)
+
+       The First Circuit has held: “[W]e have allowed ministerial corrections of clerical errors in
+
+names, dates, and citations, so long as the change would not deprive the defendant of notice of the
+
+charges against him.” United States v. Dowdell, 595 F.3d 50, 68 (1st Cir. 2010). In this case, the
+
+
+
+                                                 23
+indictment was not “fundamentally flawed” as Petitioner contends; rather, it contained a
+
+typographical error. Petitioner was not deprived of notice of the charges. Counsel was not
+
+deficient for consenting to the correction, nor was Petitioner prejudiced.
+
+         As to the prosecution version, Petitioner told the Court that the prosecution version was
+
+true to the best of his knowledge, and the electronic signature of an Assistant United States
+
+Attorney appears on the document. (Plea Tr. at 8-10; Prosecution Version, ECF No. 37 at 4.) The
+
+prosecution version is not an indictment; rather, it is the Government’s statement of the evidence
+
+it would introduce if the case were to proceed to trial. A defendant’s admission that the prosecution
+
+version is true provides a means by which the Court may determine a factual basis for the plea.
+
+See Fed. R. Crim. P. 11(b)(3). (Plea Tr., ECF No. 58 at 10.)
+
+C.       Claims Regarding Appellate Counsel’s Performance
+
+         1. Issues selected for appeal
+
+         Petitioner argues that appellate counsel was ineffective because he failed to select
+
+legitimate issues from which to appeal. (Motion at 38, 51; Reply at 61.) “Experienced advocates
+
+since time beyond memory have emphasized the importance of winnowing out weaker arguments
+
+on appeal and focusing on one central issue if possible, or at most on a few key issues.” Jones v.
+
+Barnes, 463 U.S. 745, 751-52 (1983).14 Petitioner argues that appellate counsel failed to raise a
+
+number of issues. As discussed below, because none of these issues has merit, Petitioner’s
+
+argument that appellate counsel’s performance was deficient fails.
+
+
+
+
+14
+   In Petitioner’s appeal, appellate counsel argued that trial counsel was ineffective because he failed to file a motion
+to suppress the shotgun. Counsel argued that although ineffective assistance claims may not typically be brought in a
+direct appeal, the record was sufficient in this case. (Appellate Brief, No. 11-1951.)
+
+                                                           24
+        2. Hate crime adjustment and conflict of interest
+
+        Petitioner alleges that he was “purely motivated by political, social, and economic
+
+concerns,” and, therefore, he did not commit a hate crime. (Motion at 41; Reply at 62.)            He
+
+contends that he raised this point with appellate counsel, but counsel did not consider it. (Motion
+
+at 46.) Petitioner also alleges that his appellate attorney had a conflict of interest due to counsel’s
+
+religious affiliation. (Id.)
+
+        The Court’s findings of fact at sentencing are reviewed for clear error, and its legal
+
+conclusions are reviewed de novo. United States v. Savarese, 686 F.3d 1, 15 (1st Cir. 2012). The
+
+Court found that the threatening communications were hate speech for purposes of U.S.S.G. §
+
+3A1.1. (Sentencing Tr. at 43.) Petitioner has produced no evidence to support his contention that
+
+the sentencing court committed clear error in the factual findings, or a clear error of law in
+
+concluding that Petitioner used hate speech in the course of the threatening communications.
+
+        Petitioner’s claim of a conflict of interest was raised and addressed during the course of
+
+the appellate process when Petitioner filed a motion for new counsel on appeal. The First Circuit
+
+denied the motion. (Order, No. 11-1951 (1st Cir. Nov. 17, 2011).) Given the First Circuit’s
+
+rejection of the argument, and insofar as Petitioner has presented no new information to support
+
+his conflict of interest claim, Petitioner’s argument must fail.
+
+        3. Guilty plea
+
+        At the plea hearing, the Court found that Petitioner was not coerced, and that he understood
+
+both the charges and the consequences of the plea. (Plea Tr. at 9-14.) Petitioner alleges that his
+
+plea was coerced, that he lacked knowledge of the consequences of pleading guilty, and that he
+
+suffered from malnutrition and overcrowded and violent jail conditions when he pled guilty.
+
+
+
+
+                                                  25
+(Motion at 47, 51.) He argues that appellate counsel failed to raise the issue of a coerced and
+
+unknowing plea. (Id.)
+
+         “Rule 11 addresses three ‘core concerns’: ‘1) absence of coercion; 2) understanding of the
+
+charges; and 3) knowledge of the consequences of the guilty plea.” United States v. Kenney, 756
+
+F.3d 36, 45 (1st Cir. 2014) (quoting United States v. Cotal-Crespo, 47 F.3d 1, 4 (1st Cir. 1995)).
+
+“‘The burden is upon [Defendant], as the one attacking the plea, to show the circumstances
+
+justifying relief from the plea . . . .’” United States v. Varela-Rivera, 551 F. App’x 583, 587 (1st
+
+Cir. 2014) (quoting United States v. Padilla-Galarza, 351 F.3d 594, 598 (1st Cir. 2003)).
+
+“Ordinarily, a defendant is stuck with the representations that he himself makes in open court at
+
+the time of the plea. They are more likely to be reliable than later versions prompted by second
+
+thoughts, and guilty pleas−often in the defendant’s interest−could hardly be managed any other
+
+way.” Padilla-Galarza, 351 F.3d at 598 (citation omitted).
+
+         Petitioner asserts that his plea was involuntary and coerced because the Court misled him
+
+regarding the consequences of his threatening communications. The record establishes that the
+
+Court     did    not    misrepresent      the    potential     consequence        of    Petitioner’s     threatening
+
+communications.15 Indeed, given the nature of the chargers to which Petitioner pled guilty, the
+
+threatening communications that Petitioner made were appropriately considered by the Court.
+
+(Plea Tr. at 13; Sentencing Tr., ECF No. 60 at 47.) Petitioner’s claim that his plea was involuntary
+
+thus lacks merit.
+
+
+
+
+15
+  Petitioner correctly notes that the Court stated at the plea hearing that it would sentence Petitioner independent of
+any communications that were made to Petitioner by other inmates. (Motion at 47-48; Plea Tr., ECF No. 58 at 13.)
+The record lacks any evidence to suggest that the Court considered the statements of other inmates. The Court did
+not represent that it would not consider the Petitioner’s threatening statements.
+
+                                                          26
+           4. Additional claims against appellate counsel
+
+            Petitioner raises against appellate counsel several of the same claims that he asserted
+
+against trial counsel. (Motion at 51.) Because none of the underlying ineffective-assistance claims
+
+against trial counsel has merit, appellate counsel was not deficient for failing to raise those same
+
+claims. See Jones, 463 U.S. at 751-52. Furthermore, to the extent that Petitioner maintains that
+
+appellate counsel should have raised additional ineffective assistance issues on appeal, Petitioner’s
+
+argument is without merit. As the First Circuit noted when it considered the sole ineffective
+
+assistance of counsel claim that Petitioner’s appellate counsel raised on appeal, claims of
+
+ineffective assistance of counsel generally may not be brought in a direct appeal. Crosby, 482 F.
+
+App’x at 600.
+
+D.         Addendum to Motion
+
+           In Petitioner’s addendum (ECF No. 72) to his section 2255 motion, he asserts several
+
+additional ineffective assistance claims. To the extent that Petitioner attempts to raise additional
+
+stand-alone issues, Petitioner’s unconditional guilty plea “waived all non-jurisdictional challenges
+
+to the resulting conviction . . . save claims that the plea was not knowing and voluntary.” United
+
+States v. González-Mercado, 402 F.3d 294, 300 (1st Cir. 2005). Additionally, because Petitioner
+
+did not raise the stand-alone issues in his direct appeal, the claims are also procedurally defaulted.
+
+See Damon v. United States, 732 F.3d 1, 3-4 (1st Cir. 2013).
+
+           1. Miranda claim
+
+           Petitioner argues that trial counsel was ineffective because he failed to move to suppress
+
+statements Petitioner made after his arrest but before he was given his Miranda warnings.16
+
+(Motion, ECF No. 72 at 2.) Petitioner acknowledges that he was not prejudiced given that there
+
+
+
+16
+     Miranda v. Arizona, 384 U.S. 436 (1966).
+
+                                                   27
+was sufficient evidence on his laptop computer to convict him. (Id.) The Court need not analyze
+
+the issue further. See Strickland, 466 U.S. at 697. Petitioner’s argument also fails because (1) the
+
+statements at issue were not included in the prosecution version and thus were not part of the
+
+factual basis for the plea; (2) if there had been error, it would have been harmless, given the
+
+evidence of the threatening communications and the shotgun. See United States v. Carl, 593 F.3d
+
+115, 119 (1st Cir. 2010) (holding that the Court will not reverse a conviction for a Sixth
+
+Amendment violation if the error was harmless); (3) Petitioner volunteered the statements to law
+
+enforcement, see United States v. Jackson, 544 F.3d 351, 357 (1st Cir. 2008) (“A volunteered
+
+statement is not the product of interrogation and is not subject to suppression, even if warnings
+
+have not been provided.”); and (4) according to the presentence investigation report, after
+
+Petitioner waived his Miranda rights, law enforcement interviewed him but then terminated the
+
+interview when Petitioner declined to provide further information.
+
+       2. Joinder and severance
+
+       Petitioner argues that trial counsel was ineffective because he failed to file a motion to
+
+sever the charge of possession of a firearm by a felon from the two charges of threatening, and
+
+because he failed to discuss the issue with Petitioner. (Motion, ECF No. 72 at 3.) He argues that
+
+he would have been acquitted on the charges of threatening if he had not been identified as a felon,
+
+and that the felon label would have been prejudicial at trial. (Id.)
+
+       Preliminarily, assuming, arguendo, that counsel did not discuss the possibility of severance
+
+with Petitioner, Petitioner has cited no persuasive evidence to suggest that he would have
+
+proceeded differently had his counsel addressed the issue. Indeed, given the strength of the
+
+Government’s case on the threatening charges, Petitioner’s suggestion that his decision to plead
+
+
+
+
+                                                 28
+guilty was based on the fact that the threatening charges were joined with the possession charge
+
+lacks credibility. Petitioner thus cannot establish prejudice.
+
+       In addition, Petitioner has not demonstrated that he would have prevailed had he challenged
+
+the joinder. Joinder of offenses is governed by Fed. R. Crim. P. 8(a), which states:
+
+       The indictment or information may charge a defendant in separate counts with 2 or
+       more offenses if the offenses charged−whether felonies or misdemeanors or
+       both−are of the same or similar character, or are based on the same act or
+       transaction, or are connected with or constitute parts of a common scheme or plan.
+
+Rule 8(a) “is ‘generously construed in favor of joinder.’” United States v. Melendez, 301 F.3d 27,
+
+35 (1st Cir. 2002) (quoting United States v. Randazzo, 80 F.3d 623, 627 (1st Cir. 1996)). The
+
+Court evaluates joinder under Rule 8 “in terms of how the government saw its case at the time of
+
+indictment.” Id.
+
+       Here, a basis for the joinder existed because the indictment alleged that within a few days
+
+after communicating the threats alleged in Counts I and II, Petitioner illegally possessed a firearm,
+
+i.e., a means by which to carry out a threat. See United States v. Fenton, 367 F.3d 14, 21 (1st Cir.
+
+2004) (holding that joinder was proper where the indictment charged that a pipe bomb was used
+
+in furtherance of a drug-trafficking conspiracy). A misjoinder claim would likely have failed, and
+
+therefore, Petitioner’s claim of ineffective assistance of counsel fails. Tse, 290 F.3d at 465.
+
+       “Counts that are properly joined need not always be tried together.” Fenton, 367 F.3d at
+
+21. Relief from prejudicial joinder is governed by Fed. R. Crim. P. 14(a), which states: “If the
+
+joinder of offenses or defendants in an indictment, an information, or a consolidation for trial
+
+appears to prejudice a defendant or the government, the court may order separate trials of counts,
+
+sever the defendants’ trials, or provide any other relief that justice requires.” “Severance on the
+
+ground of undue prejudice is a judgment call and, thus, is a matter committed to the trier’s informed
+
+discretion.” Fenton, 367 F.3d at 22. The First Circuit has held that “[t]he bare mention of a prior
+
+
+                                                 29
+felony conviction otherwise unidentified” is “trivial” when it is “dwarfed . . . by the powerful
+
+separate evidence as to each charge.” United States v. Widi, 684 F.3d 216, 222 (1st Cir. 2012). In
+
+this case, Petitioner has acknowledged that the evidence of threatening communications was
+
+sufficient to convict him on those charges. (Motion, ECF No. 72 at 2.) The evidence that Petitioner
+
+engaged in the conduct alleged was in fact significant. Petitioner thus cannot establish that he
+
+would have prevailed on a motion to sever and thus his ineffective assistance of counsel claim
+
+fails.17
+
+           Finally, to the extent that Petitioner maintains that he was prejudiced at sentencing by the
+
+joinder, Petitioner’s argument is meritless. All of the charges could have been considered at
+
+sentencing regardless of the joinder. The statutory sentencing factors that the Court is to consider
+
+include “the nature and circumstances of the offense and the history and characteristics of the
+
+defendant.” 18 U.S.C. § 3553(a)(1). “The district court has broad discretion to balance the
+
+pertinent sentencing factors, and the court is not required to give every factor equal weight.”
+
+United States v. Ledée, 772 F.3d 21, 41 (1st Cir. 2014) (citation and footnote omitted). The
+
+sentencing factors include the occurrence of multiple offenses, whether those offenses are
+
+prosecuted separately or together, and the Supreme Court has held that “the commission of
+
+multiple offenses in the same course of conduct . . . necessarily provides important evidence that
+
+the character of the offender requires special punishment.” Witte v. United States, 515 U.S. 389,
+
+17
+  Petitioner cites United States v. Mildon, No. 3:13-cr-00481, 2013 WL 2404080, 2013 U.S. Dist. Lexis, 77165 (W.D.
+Tex. May 31, 2013), in which the Court granted the defendant’s motion to sever a felon-in-possession charge from a
+charge of transmitting a threatening communication. (Reply at 27.) In Mildon, the Court cited United States v.
+Leemans, No. 2:95-cr-00253, 1995 WL 569246, at *1 (E.D. La. Sept. 22, 1995), in which the Court noted that the
+Government did not allege that the defendant possessed the weapon at the time of the alleged threat. Mildon, 2013
+WL 2404080, at *4, 2013 U.S. Dist. Lexis, 77165, at *10-11. Petitioner’s indictment alleges that he possessed the
+weapon within a few days after he transmitted the threatening communications. Furthermore, this Court has noted
+that a showing of prejudice does not necessarily result in a grant of a motion to sever. United States v. Magee, No.
+2:13-cr-176-GZS, 2014 WL 5325814, at *14, 2014 U.S. Dist. Lexis 148476 (D. Me. Oct. 20, 2014) (order affirming),
+2014 U.S. Dist. Lexis 126246, at *37 (D. Me. Sept. 8, 2014) (recommended decision) (citing United States v. Gooch,
+665 F.3d 1318, 1326 (D.C. Cir. 2012)).
+
+
+                                                        30
+403 (1995).18 Thus, had the charges been prosecuted separately, the felon-in-possession charge
+
+would have been considered relevant conduct for purposes of sentencing on the charges of
+
+threatening, and Petitioner would not have been entitled to a downward departure under U.S.S.G.
+
+§ 5K2.13.
+
+         3. Denial of pre-trial bail or compassionate release
+
+         Petitioner argues that trial counsel was ineffective because he did not object to the denial
+
+of bail and because he procrastinated before filing a motion for compassionate release for
+
+Petitioner to attend his father’s funeral. (Motion, ECF No. 72 at 4.) Petitioner alleges that
+
+counsel’s delay resulted in insufficient time to object, on Eighth Amendment grounds, to the denial
+
+of the motion. (Id.) Petitioner also asserts that he was frightened by the Court’s denial of the
+
+request, and that because he was incarcerated, he was coerced into entering a guilty plea. (Id.) He
+
+specifically alleges that if he had been granted bail or a compassionate release, he would not have
+
+pled guilty. (Id. at 5.)
+
+         Petitioner presents no evidence upon which one can reasonably question the Court’s
+
+findings at the plea hearing. See Kenney, 756 F.3d at 45. Petitioner’s grief over the death of his
+
+father in February 2011, and his distress about the denial of his motion for compassionate release
+
+in March 2011 for the funeral held that month, do not undermine the Court’s findings at the plea
+
+hearing in April 2011 that when Petitioner pled guilty he was not coerced and that he understood
+
+both the charges and the consequences of the plea. (Plea Tr. at 9-14.) Furthermore, claims relating
+
+to pre-trial bail are not cognizable under section 2255. See Lynn v. United States, 365 F.3d 1225,
+
+
+
+18
+  The sentencing guidelines contain safeguards for avoiding any grossly increased sentences due to duplicative
+consideration of the same conduct: “Because the concept of relevant conduct under the Guidelines is reciprocal, §
+5G1.3 operates to mitigate the possibility that the fortuity of two separate prosecutions will grossly increase a
+defendant’s sentence.” Witte v. United States, 515 U.S. 389, 405 (1995). “Significant safeguards built into the
+Sentencing Guidelines therefore protect petitioner against having the length of his sentence multiplied by duplicative
+consideration of the same criminal conduct.” Id.
+
+                                                         31
+1233 (11th Cir. 2004) (noting that “claims of excessive bail are not cognizable in a section 2255
+
+action”) (quotation marks omitted).
+
+       4. Conditions of supervised release
+
+       Petitioner objects to the special conditions of his supervised release that require him to
+
+participate in mental health treatment, comply with his medical provider’s medication program,
+
+and not use or possess alcohol. (Motion, ECF No. 72 at 5; Judgment at 4.) Petitioner argues that
+
+given that there was no psychological evaluation, there is no justification for mental health
+
+treatment, and, furthermore, Petitioner does not accept the scientific validity of any treatment that
+
+is based on the Diagnostic and Statistical Manual. (Motion, ECF No. 72 at 6-7.) He alleges that
+
+to the extent he has any temporary mental illness, the illness was induced by being in the prison
+
+system. (Id. at 7.) Petitioner objects to any medication program with which he is required to
+
+comply. (Id. at 8.) He contends that because he is a musician who needs to hear live music in
+
+venues that typically are in nightclubs that serve alcohol, the no-alcohol condition is an undue
+
+burden for him and counterproductive to his rehabilitation. (Id. at 8-9.) Finally, he argues that
+
+given that the Court found him mentally ill for purposes of the special conditions of release, the
+
+Court should also have granted him a downward departure under the sentencing guidelines as a
+
+matter of consistency. (Id. at 6.)
+
+       The sentencing court “has the authority to impose any condition of supervised release that
+
+is reasonably related to (1) the defendant’s offense, history, and characteristics; (2) the need to
+
+deter the defendant from further criminal conduct; (3) the need to protect the public from further
+
+crimes by the defendant; and (4) the effective educational, vocational, medical, or other
+
+correctional treatment of the defendant.” United States v. York, 357 F.3d 14, 20 (1st Cir. 2004).
+
+The First Circuit has held that “the critical test is whether the challenged condition is sufficiently
+
+
+
+                                                 32
+related to one or more of the permissible goals of supervised release.” Id. (emphasis and quotation
+
+marks omitted). Thus, “the fact that a condition of supervised release is not directly related to [a
+
+petitioner’s] crime of conviction does not render that condition per se invalid.” Id. In this case,
+
+Petitioner presents no evidence to suggest that the special conditions of his supervised release are
+
+not reasonably related to either Petitioner’s medical needs, the need to protect the public, or
+
+Petitioner’s offense, its history and characteristics.
+
+         5. Failure to Search Storage Facility
+
+         Petitioner argues that law enforcement’s lack of interest in searching a storage unit that
+
+Petitioner rented demonstrates that law enforcement acted in bad faith as it shows that law
+
+enforcement was not genuinely interested in finding evidence of the threatening communications
+
+that Petitioner made. (Motion, ECF No. 72 at 9-10.) Petitioner alleges that the storage space rental
+
+document was in his car, and could have led to a search of the storage unit had law enforcement
+
+been acting in good faith. (Id. at 10.) He contends that based on law enforcement’s bad faith, his
+
+counsel could have successfully sought the suppression of the shotgun. (Id. at 11.) Petitioner
+
+argues that appellate counsel was also deficient for failing to raise the issue of bad faith by law
+
+enforcement. (Id.)
+
+         Petitioner’s argument is essentially that law enforcement’s failure to search his storage
+
+unit, like its failure to search the computer storage devices found in his car, is evidence that the
+
+warrant search of the car was based on pretext. This argument fails for the reasons discussed
+
+above.
+
+                                          III.    CONCLUSION
+
+         Based on the foregoing analysis, no evidentiary hearing is warranted under Rule 8 of the
+
+Rules Governing Section 2255 Cases. The recommendation is that the Court deny Petitioner’s
+
+
+
+                                                  33
+motion for habeas relief under 28 U.S.C. § 2255, and that the Court deny a certificate of
+
+appealability pursuant to Rule 11 of the Rules Governing Section 2255 Cases because there is no
+
+substantial showing of the denial of a constitutional right within the meaning of 28 U.S.C. §
+
+2253(c)(2).
+
+                                            NOTICE
+
+               A party may file objections to those specified portions of a magistrate
+       judge’s report or proposed findings or recommended decisions entered pursuant to
+       28 U.S.C. 636(b)(1)(B) for which de novo review by the district court is sought,
+       together with a supporting memorandum, within fourteen (14) days of being served
+       with a copy thereof. A responsive memorandum shall be filed within fourteen (14)
+       days after the filing of the objection.
+
+              Failure to file a timely objection shall constitute a waiver of the right to de
+       novo review by the district court and to appeal the district court's order.
+
+                                                     /s/ John C. Nivison
+                                                     U.S. Magistrate Judge
+
+       Dated this 27th day of February, 2015
+
+
+
+
+                                                34
+

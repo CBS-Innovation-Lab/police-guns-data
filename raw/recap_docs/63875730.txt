@@ -1,0 +1,559 @@
+                       UNITED STATES DISTRICT COURT
+                            DISTRICT OF MAINE
+
+UNITED STATES OF AMERICA                       )
+                                               )
+      v.                                       )      1:15-cr-00040-002-JAW
+                                               )      1:18-cv-00153-JAW
+CHRISTIAN TURNER                               )
+                                               )
+             Defendant                         )
+
+               ORDER ON MOTION FOR RECONSIDERATION
+
+      The Court denies an inmate’s motion for reconsideration of an order affirming
+
+a recommended decision, which recommended that the Court deny his motion to
+
+vacate, set aside or correct his sentence under 28 U.S.C. § 2255. The Court denies
+
+the motion because the inmate’s § 2255 petition is untimely, because the inmate
+
+waived the right to challenge the grounds for the recommended decision and
+
+affirmance, because his motion for reconsideration is itself untimely, because the
+
+inmate is improperly attempting to raise a new issue in his motion for
+
+reconsideration, and because, if the Court reached the merits of his newest
+
+contentions, they fail as a matter of fact and law.
+
+I.    BACKGROUND
+
+      A.     Charges, Conviction and Sentence
+
+      On February 12, 2015, a federal grand jury indicted Christian Turner along
+
+with ten other defendants, charging them with engaging in a conspiracy to distribute
+
+cocaine base in violation of federal criminal law. Indictment at 1-2 (ECF No. 3). The
+
+indictment charged that Mr. Turner was responsible for 280 or more grams of cocaine
+
+base. Id. The grand jury also indicted Mr. Turner with engaging in a conspiracy with
+three other individuals to violate federal firearms laws. Id. at 3. On September 2,
+
+2015, Mr. Turner pleaded guilty to both charges. Min. Entry (ECF No. 269). On July
+
+1, 2016, the Court sentenced Mr. Turner to 300 months of incarceration on Count
+
+One, the drug conspiracy charge, and 60 months on Count Two, the firearms
+
+conspiracy charge. J. (ECF No. 542). Mr. Turner did not appeal.
+
+       B.    Christian Turner’s Habeas Corpus Petition and Response
+
+       On April 6, 2018, Mr. Turner filed his first motion under 28 U.S.C. § 2255.
+
+Mot. to Correct and Reduce Sentence (ECF No. 735). In his petition, Mr. Turner
+
+described the issue:
+
+       I was given an improper 2 level enhancement for “criminal livel[i]hood.”
+       The reason this enhancement needs to be taken off my sentence is that,
+       since my conviction & sentence, the various law enforcement agencies
+       and police departments respons[i]ble for saddling me with my past
+       arrests have been subject to various consent decrees & DOJ over[sight].
+       The reason for this is a Federal finding of a “pattern of racially
+       motivated bias” and “racist policies & practices” on the part of said police
+       agencies, stretching back more th[a]n 10 years, targeting black and
+       [H]ispanic people. I am black, and fall under this unconstitutional
+       pattern of government [harassment].
+
+       It is not on me to “prove” bias; bias, racially motivated bias, has been
+       established.
+
+       I ask the court for a new sentencing hearing, appointment of counsel, a
+       copy of my updated docket sheet, and a copy of this filed motion.
+
+Id. at 1.
+
+       On April 10, 2018, the Magistrate Judge ordered the United States Attorney
+
+to file a response and allowed Mr. Turner thirty days thereafter to file a reply. Order
+
+to Answer (ECF No. 737). On May 31, 2018, the Government filed a response and
+
+moved for a summary dismissal of the petition. Gov’t’s Resp. to Pet’r’s Mot. Pursuant
+
+                                            2
+to 28 U.S.C. § 225 and Mot. for Summ. Dismissal (ECF No. 740). The Government
+
+argued that the Court should dismiss Mr. Turner’s petition for four reasons: (1) it was
+
+untimely, (2) he failed to preserve this claim at the sentencing hearing and on direct
+
+appeal, (3) the sentencing guideline issue is not cognizable under § 2255, and (4) even
+
+assuming error in the guideline calculation, the Court imposed a below guideline
+
+sentence, below the bottom of the guideline range and below the guideline range if
+
+calculated without the enhancement. Id. at 1-9. Mr. Turner did not file a reply to
+
+the Government’s response.
+
+      C.     The Recommended Decision
+
+      On September 6, 2018, the Magistrate Judge issued a recommended decision
+
+in which he recommended against holding an evidentiary hearing, in favor of denying
+
+the petition, and against issuing a certificate of appealability.       Recommended
+
+Decision on 28 U.S.C. § 2255 Mot. (ECF No. 743). The Magistrate Judge concluded
+
+that the petition was untimely. Id. at 4-5. Next, the Magistrate Judge ruled that
+
+summary dismissal was appropriate because Mr. Turner’s allegations were “vague”
+
+as his claims did not “allege which judgment or judgments he challenges on the basis
+
+of alleged racial bias, nor does he allege any specific facts about the alleged consent
+
+decrees or agency oversight issues upon which he relies to support his claim.” Id. at
+
+6. The Magistrate Judge also noted that Mr. Turner had failed to “explain how any
+
+new facts might impact the Court’s criminal livelihood finding.” Id. In addition, the
+
+Magistrate Judge observed that to the extent Mr. Turner was challenging his prior
+
+convictions, his “allegations did not implicate his right to counsel in the proceedings
+
+
+
+                                          3
+that led to the prior convictions.” Id. Finally, the Magistrate Judge noted that Mr.
+
+Turner’s challenge to the criminal livelihood enhancement was not cognizable
+
+because he failed to object to the enhancement at the sentencing hearing and failed
+
+to appeal the enhancement, because he could not demonstrate prejudice, and because
+
+misapplications of the guidelines are generally not recognized absent a miscarriage
+
+of justice. Id. at 6, n.5.
+
+       D.     The Affirmance
+
+       Mr. Turner’s objection to the Magistrate Judge’s recommended decision was
+
+due by September 20, 2018. As Mr. Turner is incarcerated and subject to the so-called
+
+mailbox rule, Houston v. Lack, 487 U.S. 266, 276 (1988), the Court waited until
+
+November 8, 2018 before acting on the recommended decision. Order Affirming the
+
+Recommended Decision of the Magistrate Judge (ECF No. 752). Having received no
+
+objection from Mr. Turner and having reviewed the recommended decision, the Court
+
+accepted and affirmed the recommended decision and ordered that no certificate of
+
+appealability should issue. Id. at 1-2.
+
+       E.     The Motion for Reconsideration
+
+       On December 3, 2018, Mr. Turner filed a motion for the Court to reconsider its
+
+order affirming the recommended decision. Mot. for Recons. Pursuant to Fed. R. of
+
+Civ. P. 59(e) Citing Fed. R. [Civ.] P. 52(b) Plain Error and Manifest Error of Law (ECF
+
+No. 753) (Def.’s Mot.).
+
+       In his motion, Mr. Turner explains why he was unable to comply with the time
+
+requirements for objecting to the recommended decision. Id. at 2-3. He states that
+
+
+
+                                          4
+USP Cannan placed him in special housing— segregation—on August 27, 2018 and
+
+that he “wasn’t released in time to file a timely motion for reconsideration . . . within
+
+28 days of the September 6, 2018 denial of his 2255 Motion under Fed. R. Civ. P.
+
+59(b).” Id. at 3.
+
+         Next, he turns to the asserted error. He argues that the Court “never made a
+
+drug quantity individualized determination of Petitioner Turner’s drug quantity as
+
+required by the First Circuit.” Id. at 4. He objects to the Probation Office’s reliance
+
+on the statements of eight “local drug addicts and dealers,” complaining that the
+
+Court failed to assess their credibility. Id. He cites United States v. Correy, 570 F.3d
+
+373 (1st Cir. 2009) for the proposition that a sentencing court errs if it fails to “make
+
+credibility determinations related to individualized drug quantity findings and the
+
+presentence reports relied on allegations from the indictment rather than trial
+
+evidence.” Id. at 5. He cites United States v. Pizarro, 772 F.3d 284 (1st Cir. 2014)
+
+and United States v. Colon-Solis, 354 F.3d 101 (1st Cir. 2004) for the requirement
+
+that a sentencing court must make an individualized drug finding and not base its
+
+drug quantity calculations on the drug quantity applicable to the conspiracy as a
+
+whole.     Id. at 6-8.   Mr. Turner alleges that the Court failed to make such an
+
+individualized finding at his sentencing hearing. Id. at 8-9. Mr. Turner says that the
+
+drug quantity calculation amounted to plain error. Id. at 10-16.
+
+         In conclusion, Mr. Turner states that “there is a miscalculation in his sentence
+
+that is plain error that affects the fairness, integrity or public reputation of judicial
+
+proceedings and affects his substantial rights and requires him to remain in federal
+
+
+
+                                             5
+prison longer than the law allows if these errors go uncorrected.” Id. at 16. Mr.
+
+Turner asks this Court to make “an individualized drug quantity determination of
+
+how much drugs [are] attributable to him, not the amount attributable to him by the
+
+Conspiracy as a whole as it was accounted to him at sentencing by the USPO and
+
+adopted by this Court erroneously causing a manifest error of law.” Id. at 16.
+
+      F.     The Government’s Response
+
+      On December 20, 2018, the Government filed its response. Gov’t’s Resp. to
+
+Pet’r’s Mot. for Recons. (ECF No. 754). First, the Government observes that Mr.
+
+Turner did not object to the Court’s conclusions regarding the lawfulness of the
+
+criminal livelihood enhancement. Id. at 2. Instead, the Government notes that Mr.
+
+Turner is now contending that the Court erred in its drug quantity calculation. Id.
+
+      The Government views Mr. Turner’s argument as “raising a different 2255
+
+attack on his sentencing.” Id. Accordingly, the Government contends that Mr.
+
+Turner has effectively filed “an impermissible successive 2255 petition over which
+
+this Court has no jurisdiction.” Id. If the Court views Mr. Turner’s motion for
+
+reconsideration as a motion to amend his § 2255 petition, the Government urges the
+
+Court to summarily deny it, because a new § 2255 petition would be time-barred.
+
+      G.     Christian Turner’s Reply
+
+      In his reply, Mr. Turner reveals that he was “in LOCK-Up from August 27,
+
+2018 to October 10, 2018” and asserts that he “could not file a timely response.” Def.’s
+
+Opp’n to Gov’t’s Resp. to Pet’r’s Mot. for Recons. at 1 (ECF No. 756). Mr. Turner
+
+maintains that the Court has jurisdiction to review his § 2255 petition pursuant to
+
+
+
+                                           6
+the plain error standard in Hicks v. United States, 137 S. Ct. 2000 (2017). Mr. Turner
+
+otherwise reiterates his contention that this Court has jurisdiction to review his
+
+sentence for manifest error. Id. at 1-8.
+
+II.   DISCUSSION
+
+      A.     Timeliness of Motion
+
+      As noted earlier, Mr. Turner’s objection to the recommended decision was due
+
+by September 20, 2018, the Court affirmed the recommended decision on November
+
+8, 2018, and he did not file his motion for reconsideration until December 3, 2018. In
+
+his reply, Mr. Turner reveals that he was in segregated housing from August 27, 2018
+
+to October 10, 2018. But this Court deliberately waited until November 8, 2018 before
+
+issuing its order affirming the recommended decision.
+
+      Mr. Turner has given no explanation why he could not have filed an objection
+
+during the twenty-seven days between October 10, 2019 and November 8, 2018, or
+
+why he could not have obtained an extension of time within which to file his objection
+
+during this interval. Instead, he simply let the time lapse and did not file an objection
+
+until December 3, 2018, fifty-three days after his release from segregated housing.
+
+      It is true that courts are generally more relaxed about compliance with
+
+procedural rules when a litigant is acting pro se. “The Supreme Court has long held
+
+that complaints drafted by non-lawyers are to be construed with some liberality.”
+
+Insituto de Educacion Universal Corp. v. United States Dep’t of Educ., 209 F.3d 18,
+
+23 (1st Cir. 2000) (citing Hughes v. Rowe, 449 U.S. 5, 9 (1980)). Even so, the First
+
+Circuit has written that “pro se status does not free a litigant in a civil case of the
+
+
+
+                                           7
+obligation to comply with procedural rules.” Rivera v. Riley, 209 F.3d 24, n.2 (1st Cir.
+
+2000).
+
+         Here, Mr. Turner has not presented a good and sufficient reason for why he
+
+failed to comply with the time deadlines that apply to all litigants and the Court
+
+concludes that his motion for reconsideration is too late.
+
+         B.     Criminal Livelihood Enhancement: U.S.S.G. § 2D1.1(b)(14)(E)
+
+         If the Court were to reach the merits of his motion for reconsideration, the
+
+Court would hold that Mr. Turner waived any challenge to its affirmance of the
+
+recommended decision because the recommended decision and the Court’s affirmance
+
+related only to the application of the criminal livelihood enhancement under U.S.S.G.
+
+§ 2D1.1(b)(14)(E). 1 As Mr. Turner’s § 2255 petition, the recommended decision and
+
+this Court’s affirmance of the recommended decision were premised on his argument
+
+that the two-level criminal livelihood enhancement should not have been applied, and
+
+as Mr. Turner has never objected to the basis of the Magistrate Judge’s recommended
+
+decision or to this Court’s affirmance of the recommended decision, he has waived his
+
+objection to those determinations.
+
+         C.     The Motion for Reconsideration: The Statute of Limitations
+
+         In the recommended decision, the Magistrate Judge concluded that Mr.
+
+Turner’s conviction became final on July 21, 2016, fourteen days after the entry of
+
+the criminal judgment. Recommended Decision at 5. Under 28 U.S.C. § 2255(f), Mr.
+
+Turner had one year from July 21, 2016 by which to file a § 2255 motion, or until July
+
+
+
+1        This provision is now found in the guidelines at § 2D1.1(b)(16)(E).
+
+                                                   8
+21, 2017. Id. Mr. Turner did not file his § 2255 petition until April 6, 2018, none of
+
+the limited exceptions to the one-year limitations period applies, and therefore his §
+
+2255 petition was time-barred. Id.
+
+      If Mr. Turner’s April 6, 2018 petition is time-barred, his December 3, 2018
+
+motion for reconsideration is similarly time-barred. If Mr. Turner considers his
+
+December 3, 2018 motion for reconsideration to be a motion to amend his April 6,
+
+2018 petition, even if the Court accepted the amendment, it would relate back only
+
+to April 6, 2018, which, as indicated, is too late. If he considers his December 3, 2018
+
+motion for reconsideration a new § 2255 filing, it is also time-barred because he filed
+
+it even later than the April 6, 2018 time-barred petition. None of the recognized
+
+exceptions applies to either petition.     The Court concludes that Mr. Turner’s
+
+December 3, 2018 motion for reconsideration is time-barred.
+
+      D.     Motion for Reconsideration: Merits
+
+      In his motion for reconsideration and reply, Mr. Turner objects to the
+
+calculation of the base offense level of 34 based on the drug quantity calculations in
+
+the Presentence Investigation Report (PSR). Def.’s Mot. at 1-16; Def.’s Reply at 1-7.
+
+In his objections, Mr. Turner stresses that under First Circuit authority, the Court
+
+must make a finding not only as to the drug quantity involved in the conspiracy as a
+
+whole, but also as to Mr. Turner himself. Id. This is what the First Circuit refers to
+
+as “an individualized finding,” see Pizarro, 772 F.3d at 292, a finding consistent with
+
+the United States Supreme Court’s Alleyne v. United States, 570 U.S. 99 (2013)
+
+decision.
+
+
+
+                                           9
+      The problem with Mr. Turner’s objection is that in preparing the PSR, the
+
+Probation Office (PO) did exactly what the Supreme Court and the First Circuit
+
+require. The PO painstakingly reviewed the discovery in this case and listed exact,
+
+individualized amounts attributable to Mr. Turner as opposed to the conspiracy writ
+
+large. See Presentence Investigation Report ¶¶ 7-9. The PO concluded that Mr.
+
+Turner was accountable for 18,964.097 KG of marihuana equivalent, placing him well
+
+within the base offense level of 34, which was between 10,000 KG and 30,000 KG. Id.
+
+¶¶ 13, 22. Mr. Turner made no objection at all to the PO’s drug quantity calculations.
+
+Tr. of Proceedings, Sentencing Proceedings 4:11-10:20.
+
+      At the sentencing hearing, the Court asked Mr. Turner whether the contents
+
+of the PSR were true, and after his defense counsel listed certain objections, not
+
+including drug quantity, the Court asked Mr. Turner:
+
+      THE COURT: All right. Mr. Turner, you’ve just heard the discussion
+      we’ve had today in the courtroom concerning the contents of the
+      presentence report. Did your lawyer indicate to me each of the issues
+      that you had with the facts in the report?
+
+      THE DEFENDANT: Yes.
+
+      THE COURT: Except for those matters that we’ve just discussed, is the
+      information in the presentence report as revised true?
+
+      THE DEFENDANT: Yes, sir.
+
+Id. 10:10-19. The Court then asked counsel whether there were any issues with the
+
+guideline calculations that the Court needed to resolve, and Mr. Turner’s counsel
+
+replied: “Not in terms of the guideline calculations, no, your Honor.” Id. 10:21-25.
+
+Later, the Court made express guideline findings, including that Mr. Turner’s base
+
+
+
+                                         10
+offense level was 34. Id. 59:17-20. The Court directly asked defense counsel whether
+
+there was any objection to the guideline findings:
+
+         THE COURT: Is there any objection to these findings on the part of the
+         defendant as they were just amended?
+
+         MR. SILVERSTEIN: No, Your Honor. One second, Your Honor.
+
+         THE COURT: Sure.
+
+         (Mr. Silverstein speaking with the defendant.)
+
+         MR. SILVERSTEIN: Thank you. Nothing further.
+
+Id. 61:4-10.
+
+         Thus, Mr. Turner, through his defense counsel, was given repeated
+
+opportunities to challenge the drug quantity calculations and the base offense level,
+
+and he never did so, until his motion for reconsideration of the Court’s affirmance of
+
+the recommended decision. In fact, Mr. Turner did not object to the Court’s guideline
+
+calculation that he faced a guideline sentence range of 360 months to life. Id. 60:7-
+
+61:10.     The Court then imposed a sentence of 300 months of incarceration,
+
+substantially below the bottom of the guideline range. Id. 78:13-25; J. (ECF No. 542).
+
+         In short, in imposing Mr. Turner’s sentence, the Court did precisely what Mr.
+
+Turner now demands that it do: it calculated his base offense level based on an
+
+“individualized drug quantity determination of how much drugs [are] attributable to
+
+him.” Def.’s Mot. at 16. To the extent that Mr. Turner is contending that the Court
+
+may not rely on evidence from other members of the conspiracy in arriving at its
+
+individualized quantity determination for him, the Court rejects this contention. The
+
+Court held a sentencing hearing to allow Mr. Turner, if he wished to do so, to
+
+                                           11
+challenge the credibility of what other co-conspirators said about his criminal
+
+activity. But Mr. Turner declined. Having accepted the drug quantity calculations
+
+then, he may not object now, years after the opportunity to object has passed.
+
+III.   CONCLUSION
+
+       The Court DENIES Christian Turner’s Motion for Reconsideration (ECF No.
+
+753) because the motion is untimely, because it is barred by the applicable statute of
+
+limitations, and because it fails on its merits. The Court affirms its conclusions
+
+regarding the application of the criminal livelihood enhancement under then United
+
+States Sentencing Guideline § 2D1.1(b)(14)(e) because Christian Turner has waived
+
+the right to object to the recommended decision by failing to do so. The Court
+
+AFFIRMS that an evidentiary hearing is not warranted under Rule 8 of the Rules
+
+Governing Section 2255 Cases, the Court DENIES Christian Turner’s motion for
+
+habeas relief under 28 U.S.C. § 2255, and the Court DENIES a certificate of
+
+appealability pursuant to Rule 11 of the Rules Governing Section 2255 Cases because
+
+there is no substantial showing of the denial of a constitutional right within the
+
+meaning of 28 U.S.C. § 2253(c)(2).
+
+       SO ORDERED.
+
+
+
+                                 /s/ John A. Woodcock, Jr.
+                                 JOHN A. WOODCOCK, JR.
+                                 UNITED STATES DISTRICT JUDGE
+
+Dated this 27th day of March, 2019
+
+
+
+
+                                         12
+

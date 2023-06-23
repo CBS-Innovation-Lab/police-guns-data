@@ -1,0 +1,1511 @@
+     Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 1 of 27
+
+
+
+                    UNITED STATES DISTRICT COURT
+                      DISTRICT OF MASSACHUSETTS
+
+
+
+                                   )
+ANTHONY BUCCI                      )
+                                   )
+          Petitioner,              )
+                                   )
+          v.                       )    CIVIL ACTION
+                                   )    NO. 09-10775-WGY
+UNITED STATES                      )
+                                   )
+          Respondent.              )
+                                   )
+                                   )
+DAVID JORDAN1                      )
+                                   )
+          Petitioner,              )
+                                   )
+     v.                            )    CIVIL ACTION
+                                   )    NO. 09-10787-WGY
+UNITED STATES                      )
+                                   )
+          Respondent.              )
+                                   )
+
+
+                        MEMORANDUM AND ORDER
+
+YOUNG, D.J.                                           December 31, 2009
+I.   INTRODUCTION
+
+     Pursuant to 28 U.S.C. § 2255, Anthony Bucci (“Bucci”) seeks
+to vacate his sentence due to alleged constitutional violations
+
+during his trial and sentencing.       Bucci’s Pet. [Doc. No. 398]2.
+
+He presents five grounds for his relief.       Bucci’s Mem. Supp. §
+
+
+     1
+       Bucci’s co-defendant David Jordan filed his own petition
+pro se. He primarily raises the courtroom closure issue
+discussed infra. His other grounds either track Bucci’s or are
+completely without merit. Accordingly, this opinion will do duty
+for both cases.
+     2
+       Unless otherwise noted, all citations to docket entries
+are found in the electronic docket for the Bucci-Jordan criminal
+action, United States v. Bucci et al., No. 04-10194 (D. Mass.).
+     Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 2 of 27
+
+
+
+2255 Mot. (“Bucci’s Mem.”) [Doc. No. 400].       In Ground One, Bucci
+
+alleges that his right to a public trial was violated because the
+
+judge closed the courtroom to the public during jury empanelment.
+
+Bucci next claims that the prosecution violated its duty to
+
+disclose evidence exculpating Bucci, Ground Two, and committed
+
+other outrageous misconduct, Ground Three.       In Grounds Four and
+
+Five Bucci alleges ineffective assistance of counsel at the trial
+
+and sentencing proceedings.      The government denies each of these
+
+claims.     Government’s Mot. Summ. Dismissal (“Gov.’s Mem.”) [Doc.
+
+No. 413].
+     A.     Procedural Posture
+
+     Bucci was tried before a jury in the United States District
+
+Court in March 2006.    He was convicted on Counts 1, 2, and 5
+
+(conspiracy to distribute cocaine, aiding and abetting, and
+
+possession with intent to distribute cocaine) as well as on Count
+
+3 pursuant to 18 U.S.C. 924(c)(1)(A) (using or carrying a firearm
+
+during and in relation to a drug trafficking crime).         He was
+
+sentenced to a total of 252 months, 168 months on drug charges
+
+(Counts 1, 2, and 5) and a consecutive term of 84 months pursuant
+
+to 18 U.S.C. § 924(c)(1)(A) for the firearm charge (Count 3).
+
+Bucci’s Mem. 88.    On appeal, Bucci’s conviction and sentence were
+
+affirmed.    United States v. Bucci, No. 06-2746 (1st Cir. May 13,
+2008) [Doc. No. 390].
+     B.     Facts
+
+     This case involves a number of drug dealers: Bucci, Jon
+
+Minotti (“Minotti”), Carlos Ruiz (“Ruiz”), and a corrupt police
+
+
+                                    2
+      Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 3 of 27
+
+
+
+officer David Jordan (“Jordan”).        Bucci, unsatisfied with the
+
+quality of drugs purchased from Ruiz, intended to steal drugs
+
+from Ruiz, and needed assistance.       He approached Minotti, a long
+
+time friend of Jordan.     The three planned to arrange a
+
+transaction between Ruiz and Bucci with Minotti as a middleman.
+
+When Minotti went to transfer three kilograms of cocaine from
+
+Ruiz’s car to Bucci’s car, in accordance with the scheme, Jordan
+
+arrived at the scene and identified himself as a Malden Police
+
+Officer.   Jordan was in plain clothes and he pointed a gun at
+
+Ruiz’s head.     Minotti escaped with the narcotics, and both Ruiz
+
+and Bucci were let go after Jordan frisked and questioned them.
+
+Unbeknownst to Jordan, police were monitoring Ruiz’s
+
+transactions, and Jordan’s involvement was soon discovered.
+      C.   Federal Jurisdiction
+
+      This Court may exercise jurisdiction over Bucci’s petition
+
+for habeas corpus under 28 U.S.C. § 2255 because he is detained
+
+pursuant to conviction and a sentence from a federal court.
+II.   ANALYSIS
+
+      A.   Standard of review
+
+      Pursuant to 28 U.S.C. § 2255, a court may discharge or
+
+resentence a defendant if it concludes that the sentence “was
+
+imposed in violation of the Constitution or laws of the United
+
+States, or that the court was without jurisdiction to impose such
+
+sentence, or that the sentence was in excess of the maximum
+
+authorized by law, or is otherwise subject to collateral attack.”
+
+28 U.S.C. § 2255(a).     As a general matter, claims not raised on
+
+
+                                    3
+     Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 4 of 27
+
+
+
+direct appeal may not be raised on collateral proceedings such as
+
+a petition pursuant to 28 U.S.C. § 2255, unless the petitioner
+
+shows cause that excuses the procedural default, and actual
+
+prejudice that resulted from the alleged error.        United States v.
+
+Frady, 456 U.S. 152, 167 (1982).       “The habeas petitioner must
+
+show ‘not merely that the errors at . . . trial created a
+
+possibility of prejudice, but that they worked to his actual and
+
+substantial disadvantage, infecting his entire trial with error
+
+of constitutional dimensions.’”      Murray v. Carrier, 477 U.S. 478,
+
+494 (1986) (citing Frady, 456 U.S. at 170).
+     B.    Bucci’s claims
+
+           1.   Courtroom closure (Ground One)
+
+     Bucci claims that the exclusion of some of his family and
+
+friends from the courtroom during jury empanelment violated his
+
+Sixth Amendment right to a public trial.       Because Bucci
+
+procedurally defaulted on this Sixth Amendment claim, he must
+
+normally show cause and actual prejudice.       Frady, 456 U.S. at
+
+167-68.   If, however, a total closure of the courtroom occurred
+without sufficient justification as Bucci contends, this would
+
+constitute “structural error,” relieving Bucci of the burden to
+
+show actual prejudice.    Owens v. United States, 483 F.3d 48, 64
+(1st Cir. 2007) (“[A] defendant who is seeking to excuse a
+
+procedurally defaulted claim of structural error [such as failure
+
+to hold a public trial] need not establish actual prejudice.”).
+
+     While there is no record of courtroom closure in the
+
+official trial transcript, Bucci alleges - and the government
+
+
+                                   4
+     Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 5 of 27
+
+
+
+does not deny - that on the morning of March 20, 2006, the
+
+courtroom was cleared of spectators to make way for the jury
+
+venire and not all members of the public were allowed back in
+
+that morning.   This Court held an evidentiary hearing over the
+
+course of three days better to determine the course of events as
+
+they unfolded during the first day of Bucci’s trial.         During the
+
+hearing, the Court heard the testimony of witnesses present on
+
+March 20, 2006, including some members of Bucci’s friends and
+
+family, the courtroom deputy clerk assigned to Judge Reginald
+
+Lindsay (“Judge Lindsay”), the official court reporter for the
+
+session, the jury commissioner, and Bucci’s trial lawyers.             This
+
+Court finds the following facts:3
+
+                a.   Findings of fact
+
+     Jury empanelment for the Bucci-Jordan criminal trial was
+
+scheduled to take place on Monday, March 20, 2006.         Judge
+
+Lindsay, who was wheelchair bound, presided over the trial in
+
+Courtroom 11 of the John Joseph Moakley Courthouse.         Courtroom 11
+
+was and still is the only courtroom in the building equipped with
+a lift that enabled Judge Lindsay to get onto the bench.           The
+
+public area in Courtroom 11 has fourteen benches, each of which
+
+seat four people comfortably, for a normal capacity of fifty-six
+
+     3
+       The Court delivered its findings of fact from the bench on
+the last day of the evidentiary hearing. This is a salutary
+practice as the testimony is fresh and vivid in the judge’s mind.
+It also serves to move a case forward expeditiously. In the
+main, the factual findings set forth here simply re-state, in
+more readable form, the Court’s findings made from the bench. In
+certain respects, however, they are different in light of a
+careful review of the transcripts of the hearing and the trial.
+Each difference is distinctly noted in the text.
+
+                                   5
+      Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 6 of 27
+
+
+
+persons.   Hr’g Tr. vol. 3 at 15.       Prior to March 20, realizing
+
+that this trial involved two defendants, one of whom was a police
+
+officer, Courtroom Deputy Clerk Lisa Hourihan (“Ms. Hourihan”)
+
+arranged to obtain a larger venire than usual.         After a
+
+discussion with Judge Lindsay, Ms. Hourihan ordered sixty-five
+
+jurors.    Hr’g Tr. vol. 1 at 12-13; Hr’g Tr. vol. 3 at 5.
+
+      On March 20, 2006, the Official Court Reporter for the
+
+session Deborah Joyce (“Joyce”), as was her routine, unlocked the
+
+doors of the courtroom prior to 9:00 a.m.        Hr’g Tr. vol. 1 at 92-
+
+93.   Once the doors were unlocked, various members of the public
+
+including, Bucci’s mother, Rosemarie Keefe (“Mrs. Keefe”);
+
+Bucci’s wife, Melissa Bucci(“Mrs. Bucci”); Jordan’s wife (“Mrs.
+
+Jordan”), Michael Kevin Dupont4 (“Dupont”); other members of the
+
+defendants’ family and friends; and a few other spectators, took
+
+seats in the public area of the courtroom.        Id. at 18-19, 95-96;
+
+Hr’g Tr. vol. 2 at 13-14; Bucci’s Mem., Ex. 7.         Between the time
+
+that the doors opened and the time that the jury venire was
+
+brought to the courtroom, counsel for the government and the
+defendants as well as the courtroom staff went about setting up
+
+for the proceedings.     Judge Lindsay was not present in the
+
+
+      4
+       Dupont was a well-known and frequent pro-se litigant in
+Judge Lindsay’s session. On this occasion, the Bucci family had
+hired Dupont to take notes for them and provide his insight
+during the trial. Hr’g Tr. vol. 1 at 128. Bucci’s counsel,
+however, had no relationship to Dupont and did not confer with
+Dupont with respect to Bucci’s representation. Hr’g Tr. vol. 2
+at 68. The supreme irony of these cases is that, as will be seen
+below, it is Dupont’s conduct which forestalled a closure of the
+courtroom and the “structural error” that would have voided these
+convictions.
+
+                                    6
+     Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 7 of 27
+
+
+
+courtroom and he did not enter the courtroom at any time before
+
+the jury venire was already present.      Hr’g Tr. vol. 1 at 15, 17,
+
+99; Hr’g Tr. vol. 3 at 28.
+
+     When the Jury Commissioner notified Ms. Hourihan that the
+
+venire was ready to come up to the courtroom, there were
+
+approximately twelve to twenty-five spectators seated in the
+
+public area.   Realizing that there would hardly be room for the
+
+sixty-five potential jurors as the courtroom comfortably sat
+
+fifty-six persons, Ms. Hourihan asked spectators sitting in the
+
+public area to clear the courtroom to make way for the jury.
+
+Hr’g Tr. vol. 1 at 17-18, 94.     As the public exited the courtroom
+
+into the hallway, Dupont told Ms. Hourihan that Bucci’s family
+
+members had a right to be present for the jury selection.          Id. at
+
+19-20.   Ms. Hourihan then went out through the back doors of the
+
+courtroom and consulted Judge Lindsay.       Id. at 20, 96.
+
+Afterwards, Ms. Hourihan cleared a bench in the first row on the
+
+left side of the courtroom (facing towards the bench), which was
+
+usually kept vacant because the audio/video podium blocked it
+from the judge’s line of sight.      Id. at 20.    Ms. Hourihan went
+
+out into the hallway and invited Mrs. Keefe, Mrs. Bucci, and Mrs.
+
+Jordan to come back in and sit at this bench in the first row.
+
+Id. at 21, 96-97; Hr’g Tr. vol. 3 at 23; Hr’g Tr. vol. 2 at 98.
+
+     While Mrs. Keefe, Mrs. Bucci, and Mrs. Jordan took their
+
+seats, the venire lined up outside the courtroom in the order
+
+their names had randomly been placed on the jury list, as was the
+
+practice of the session.    Hr’g Tr. vol. 3 at 6.      Shortly
+
+
+                                   7
+     Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 8 of 27
+
+
+
+thereafter, they were brought into the courtroom and filled in
+
+the remaining benches, preserving the order in which they had
+
+lined up.5   The venire sat shoulder to shoulder, five persons to
+
+a bench rather than the usual four, given that there were
+
+thirteen benches left and sixty-five venire members.         Ms.
+
+Hourihan then called the court to order, Judge Lindsay came onto
+
+the bench, and the proceedings began at 10:40 a.m., at which time
+
+the official transcript also begins.      Trial Tr. Jury Trial Day
+
+One, 1, March 20, 2006.    This Court explicitly finds that the
+
+record maintained by Joyce was a complete and accurate record of
+
+the events in court starting at 10:40 a.m. that day.
+
+     The record reflects that, as was Judge Lindsay’s practice,
+
+he first conducted a voir dire of the entire panel.         Those who
+
+answered affirmatively to any of his questions stood up, stated
+
+their names, and sat back down.      Ms. Hourihan then filled the
+
+jury box with the first twelve venire members on the jury list,
+
+and those who had answered affirmatively to any of the voir dire
+
+questions proceeded one by one from the jury box to sidebar for
+
+further questioning.    Next, Judge Lindsay excused jurors whom he
+
+determined not to be indifferent, and those excused jurors left
+
+the courtroom.   After there were twelve indifferent persons in
+
+the jury box, counsel exercised their peremptory challenges and
+
+those jurors excused left the courtroom as well.        More venire
+
+     5
+       Judge Lindsay employed this practice - one that benefits
+both the defense and the government - of seating venirepersons in
+the order their names appeared on the jury list so that counsel
+could discern which succeeding members would replace the most
+recently excused jurors.
+
+                                   8
+     Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 9 of 27
+
+
+
+members then filled the jury box in place of those excused, and
+
+the process was repeated until a jury was selected.6         See Hr’g
+
+Tr. vol. 1 at 26-27.
+
+     It was not until approximately 11:40 a.m. that the first
+
+juror who had been excused for cause left the courtroom.          Trial
+
+Tr. 31; Hr’g Tr. vol. 3 at 10 (Jury Commissioner testifying that
+
+
+     6
+       The great legal philosopher Lon L. Fuller praised the
+adversary system as the system most effective at preventing a
+fact-finder from determining things unknown on the basis of what
+the fact-finder already knows. L. Fuller, The Forms and Limits
+of Adjudication, 92 Harv. L. Rev. 353, 383 (1978). As fact-
+finder in this case, I acknowledge that I am intimately familiar
+with the layout of Courtroom 11, having sat there on a variety of
+occasions. Moreover, I myself empanel juries following a
+protocol much like that followed by Judge Lindsay here.
+     This familiarity led me to make an erroneous initial factual
+finding of more than marginal significance. In my initial
+findings and rulings, I said that allowing more spectators back
+into the courtroom at any time during empanelment would have
+resulted in such spectators “sitting in and among the venire.”
+Hr’g Tr. vol. 3 at 96. This is erroneous. I came to this
+conclusion because it is my practice to deal with the challenges
+for cause before filling the box and I assumed (erroneously) that
+Judge Lindsay empanelled in the same fashion.
+     A close review of the hearing transcript, however, convinces
+me that is not the way Judge Lindsay empanelled. As mentioned
+above, he would first fill the jury box, then excuse jurors for
+cause, and replace them with jurors next in line. Hr’g Tr. vol.
+1 at 26-27. This method results in spectator benches being
+emptied sequentially from front to back.
+     Thus had spectators been allowed back into the courtroom,
+they could have been seated in empty benches in front of the
+remaining venirepersons, rather than “among” the venire.
+Spectators might, therefore, have filled those benches, bench by
+bench, sitting no closer to the venire than the bench occupied by
+Mrs. Bucci, Mrs. Keefe, and Mrs. Jordan.
+     Still, admitting spectators bench by bench as benches became
+vacant would greatly have increased the risk of inappropriate
+interaction between the venire and the spectators. Moreover, it
+would have interposed two rows of spectators between the
+remaining venire and the sight lines of counsel and Judge
+Lindsay, thus markedly decreasing the value to counsel derived
+from closely observing the potential jurors most likely to next
+be called to sit.
+
+                                   9
+     Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 10 of 27
+
+
+
+generally, the first juror did not return to the jury assembly
+
+room from Judge Lindsay’s courtroom until an hour or an hour and
+
+fifteen minutes after jury selection began).        From that time
+
+until the lunch recess at 1:15 p.m., twenty7 more jurors were
+
+excused and left the courtroom.      Trial Tr. 51-86.     Thus, from
+
+11:40 a.m. to 1:15 p.m., a total of twenty-one jurors left the
+
+courtroom.
+
+     As jury selection proceeded inside the courtroom, one to two
+
+court security officers (the “Court Officers”) stood outside the
+
+double doors.   The doors remained unlocked throughout the day.
+
+Hr’g Tr. vol. 1 at 57-58, 92.      From 10:40 a.m. until the lunch
+
+recess at 1:15 p.m., however, the Court Officers observed in good
+
+faith Ms. Hourihan’s earlier direction for the public to clear
+
+courtroom, and denied entry to anyone who attempted to enter the
+
+courtroom.   As some witnesses testified, one or both of the Court
+
+Officers also said that the courtroom was closed for empanelment
+
+all day.   See, e.g., Hr’g Tr. vol. 2 at 148.       Although not all
+
+persons initially asked to clear the courtroom sought reentry,
+some of Bucci’s family members arriving later that morning,
+
+including Bucci’s daughters and aunt, did request entry and were
+
+denied.    Id. at 130-131, 148.    Thus, while twenty-one jurors
+
+exited the courtroom between 11:40 a.m. and 1:15 p.m., the Court
+
+Officers continued to prohibit spectators from entering the
+
+courtroom.
+
+     7
+       The Court’s initial fact-finding was “19," Hr’g Tr. vol. 3
+at 91. An actual count of excused jurors from the trial
+transcript yields “20."
+
+                                   10
+     Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 11 of 27
+
+
+
+     At approximately 1:15 p.m., when the court took a lunch
+
+recess, Judge Lindsay expressly admonished counsel to ensure that
+
+the defendants and their family members did not mingle with
+
+jurors during lunch.     Trial Tr. 85-86.    He then released the
+
+venire through the public doors and Mrs. Keefe, Mrs. Bucci, and
+
+Mrs. Jordan left the courtroom as well.       Sometime prior to 2:15
+
+p.m., when the lunch recess was scheduled to end, counsel, the
+
+defendants, and others including Mrs. Keefe and Mrs. Bucci
+
+reentered the courtroom through the unlocked double doors.              At
+
+approximately 2:15 p.m., jury selection resumed and proceeded
+
+until approximately 2:40 p.m.      Trial Tr. 86-102.     This Court
+
+finds that after the court recessed for lunch around 1:15 p.m.,
+
+there were no further efforts by any court personnel to bar entry
+
+into the courtroom.     Indeed, there is no evidence that anyone
+
+attempted to enter and was denied entry after 1:15 p.m.
+
+Therefore, the only issue raised by Bucci’s closure argument ends
+
+as of the lunch recess at 1:15 p.m.
+
+                  b.   Analysis
+
+     “A defendant has a right to a trial that is open to members
+
+of the public.”    Owens v. United States, 483 F.3d 48, 61 (1st
+
+Cir. 2007) (citing Waller v. Georgia, 467 U.S. 39, 46 (1984)).
+
+The public trial guarantee benefits the defendant as it
+
+discourages perjury, encourages witnesses to come forward, and
+
+ensures that the judge and prosecutor carry out their duties
+
+responsibly.   Waller, 467 U.S. at 46 (internal citations
+
+omitted).   See Gannett Co., Inc. v. DePasquale, 443 U.S. 368, 383
+
+
+                                   11
+      Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 12 of 27
+
+
+
+(1979) (“Openness in court proceedings may improve the quality of
+
+testimony, induce unknown witnesses to come forward . . . , cause
+
+all trial participants to perform their duties more
+
+conscientiously, and generally give the public an opportunity to
+
+observe the judicial system.”); In re Oliver, 333 U.S. 257, 270
+
+(1948) (“The knowledge that every criminal trial is subject to
+
+contemporaneous review in the forum of public opinion is an
+
+effective restraint on possible abuse of judicial power.”).              As
+
+the First Circuit has recognized, the public trial guarantee
+
+applies with full force to jury selection as it is “one of the
+
+most important phases of a criminal trial.”         Owens, 483 F.3d at
+64.   The watchful public eye encourages jurors to be forthcoming
+
+about biases and past experiences, and encourages both parties to
+
+pick an impartial jury.      Id. at 65.
+
+      Given the importance of an open courtroom, trial closures
+
+excluding the public should be “‘rare and only for cause shown
+
+that outweighs the value of openness.’”        Id. at 61 (quoting
+
+Press-Enterprise Co. v. Superior Court of Cal., 464 U.S. 501, 509
+(1984)).   In particular, a trial closure may be justified only
+
+when: there is an overriding interest and closure is essential to
+
+preserve higher values; the closure is narrowly tailored to serve
+
+the overriding interest; the court has considered alternatives to
+
+closure; and there are specific findings to enable a reviewing
+
+court to determine whether closure was proper.          Waller, 467 U.S.
+at 45; Owens, 483 F.3d at 61-62.         In this case, Bucci alleges
+
+that the district court failed to comply with the Waller
+
+
+                                    12
+     Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 13 of 27
+
+
+
+requirements before closing the courtroom on the first day of the
+
+trial.   In particular, Bucci alleges that the district court did
+
+not make specific findings as to an overriding interest, and
+
+neglected to consider alternatives to courtroom closure.          Bucci’s
+
+argument fails, however, because this Court holds that no closure
+
+occurred, and thus the trial court was not required to comply
+
+with Waller.
+
+     First, no closure occurred the morning of March 20, 2006
+
+when Courtroom Deputy Clerk Hourihan initially cleared the
+
+courtroom of at least twelve to twenty-five spectators to make
+
+space for the jury venire, and subsequently invited back in only
+
+three members of the defendants’ families.        “A public trial
+
+implies only that the court must be open to those who wish to
+
+come, sit in the available seats, conduct themselves with
+
+decorum, and observe the trial process.”        Estes v. Texas, 381
+U.S. 532, 589 (1965) (emphasis added).       At the commencement of
+
+Bucci’s jury selection, there were sixty-five persons in the
+
+venire, more than could sit comfortably in the courtroom’s public
+
+area; thus, Ms. Hourihan, as was customary, asked the public to
+
+exit the courtroom.    When Dupont protested to the absence of
+
+Bucci’s family members, however, the court reasonably
+
+accommodated the defendants’ closest family members.          After the
+
+venire filled in the remaining thirteen benches, there was in
+
+essence no available seating remaining, and three members of the
+
+
+
+
+                                   13
+     Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 14 of 27
+
+
+
+public were present when jury empanelment began.8         Hr’g Tr. vol.
+
+3 at 23.   That other members of the public were not allowed into
+
+the courtroom does not amount to a closure implicating the Sixth
+
+Amendment.    Estes, 381 U.S. at 588-89 (“Obviously, the public
+
+trial guarantee is not violated if an individual member of the
+
+public cannot gain admittance to a courtroom because there are no
+
+available seats.    The guarantee will already have been met, for
+
+the ‘public’ will be present in the form of those persons who did
+
+gain admission.”).    See Owens v. United States, 517 F. Supp. 2d
+
+570, 575 n.7 (D. Mass. 2007)      (Gertner, J.) (“The [trial court’s]
+
+closure did not necessarily become constitutionally significant
+
+at the point when spectators were asked to leave . . . but rather
+
+when they were not permitted to return after some jurors were
+
+excused.”).
+
+     The more difficult question is whether a closure occurred
+
+when outside the courtroom, the Court Officers - unbeknownst to
+
+Judge Lindsay and Ms. Hourihan inside the courtroom - continued
+
+to prohibit members of the public from entering the courtroom
+
+even as seats became available.      Throughout the morning, between
+
+approximately 11:40 a.m. and the 1:15 p.m. lunch recess, twenty-
+
+one venire members were excused and left the courtroom one by
+
+one, but the Court Officers continued to deny entry.          Bucci
+
+
+     8
+       The Court notes that a bench in Courtroom 11 sits four
+persons comfortably and could have squeezed in five. Thus, to be
+completely precise, the court could have allowed one to two more
+spectators to sit with Mrs. Bucci, Mrs. Keefe, and Mrs. Jordan.
+It is, however, of no constitutional moment that the court did
+not do so.
+
+                                   14
+     Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 15 of 27
+
+
+
+argues that the actions of the Court Officers defy the holding of
+
+Owens.   There, the defendant alleged a violation of his public
+
+trial right when the court cleared the courtroom of spectators to
+
+make way for the jury and did not allow any members of the public
+
+to enter even as jurors exited.      The First Circuit held that a
+
+defendant’s right to a public trial would indeed be violated if
+
+the trial court excluded all members of the public for the
+
+entirety of jury empanelment without complying with Waller.
+
+Owens, 483 F.3d at 63.     In Owens, the trial court did not make
+
+findings on the record justifying the continuing exclusion of the
+
+public even as venire members began to leave.        The First Circuit
+
+stated, “[o]nce there was sufficient space in the courtroom, we
+
+see no state interest . . . in not permitting Owens’ family,
+
+friends, or other members of the public to observe the
+
+proceedings.”   Id. at 62.
+     The present case, however, is distinguishable from Owens on
+
+at least one principal ground.      In Owens, the First Circuit
+
+believed that no members of the public were present for the
+
+entire day of jury selection.      Here in contrast, members of the
+
+public - specifically, Mrs. Keefe, Mrs. Bucci, and Mrs. Jordan
+
+who likely were the most invested spectators - were present,
+
+keenly casting their watchful eye upon the entirety of the
+
+empanelment.9   This Court holds that in light of the public
+
+
+     9
+       Indeed, Mrs. Keefe - whose testimony showed her to be a
+devoted mother who carefully followed every moment of the trial,
+talked to her son every day during his incarceration, and even
+led the effort to collect affidavits for Bucci’s habeas petition
+
+                                   15
+     Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 16 of 27
+
+
+
+presence during jury selection and the trial judge’s power to
+
+place reasonable time, place, and manner limits on trial access,
+
+the fact that other spectators were not allowed to fill the seats
+
+of the excused jurors throughout the morning does not violate
+
+Bucci’s constitutional right to a public trial.
+
+     The First Circuit’s recent holding in United States v.
+
+Scott, 564 F.3d 34 (2009), is instructive.        In Scott, the
+
+defendant alleged that his right to a public trial was violated
+
+when the court barred members of the public from entering or
+
+leaving the courtroom during the jury charge.        The First Circuit
+
+noted that the trial court announced to then-present spectators
+
+that they were welcome to stay in the courtroom during the charge
+
+but they would not be permitted to leave, “presumably to avoid
+
+distracting the jury during the . . . charge.”         Id. at 37-38.
+Distinguishing the case from Owens, the court held that no
+
+closure had occurred because the “public was indeed present at
+
+the jury charge and with its presence cast the sharp light of
+
+public scrutiny on the trial proceedings, thus providing the
+defendant with the protections anticipated by the public trial
+
+provision of the Constitution.”      Id. at 38 (citing Herring v.
+Meachum, 11 F.3d 374, 379-80 (2d Cir. 1993)).        The court went on
+
+to state, “that a hypothetical member of the public who arrived
+
+
+
+
+- was likely the most important member of the public to be
+present from Bucci’s perspective. Hr’g Tr. vol. 2 at 30, 33.
+
+                                   16
+     Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 17 of 27
+
+
+
+late . . . might have been barred from the proceedings does not
+
+undermine the public nature of the proceedings.”10        Id. at 38.
+
+     The holdings in Scott and similar cases are in line with the
+trial judge’s inherent power to “impose reasonable limitations on
+
+access to a trial” to ensure the fair and efficient
+
+administration of justice.     Press-Enterprise, 464 U.S. at 510
+
+n.10 (citing Richmond Newspapers, Inc. v. Virginia, 448 U.S. 555,
+
+581 n.18 (1980)); Scott, 564 F.3d at 38-39 (praising trial court
+
+for preserving defendant’s right to a public trial “while also
+
+facilitating the orderly and efficient functioning of the
+
+courtroom”).   See also Meachum, 11 F.3d at 380 (“Reasonable time,
+place, and manner limitations on access to the courtroom are
+
+permitted to ensure the fair and efficient administration of
+
+justice.”); Snyder v. Coiner, 510 F.2d 224, 230 (4th Cir. 1975)
+
+(holding that judge had power to limit ingress and egress of
+
+
+
+
+     10
+       Other jurisdictions that have considered this issue have
+also held that prohibiting public ingress and egress during a
+jury charge does not constitute “closure” under the Sixth
+Amendment. E.g., Herring v. Meachum, 11 F.3d 374, 380 (2d Cir.
+1993) (holding that trial was never “closed” when court locked
+doors during jury charge because all members of the public who
+wanted to observe the charge were permitted to do so if there was
+enough space and they arrived in time); Bell v. Evatt, 72 F.3d
+421, 433 (4th Cir. 1995) (“[A] defendant’s right to a public
+trial is not implicated by temporary limitation of ingress and
+egress to the courtroom to prevent disturbance of the
+proceedings.”); Commonwealth v. Dykens, 438 Mass. 827, 835-36
+(2003) (holding that no closure occurred when judge did not allow
+anyone to enter or leave courtroom during jury instructions);
+Commonwealth v. Hartman, 536 Pa. 211, 218 (1994) (holding that no
+closure occurred where judge locked doors to ensure jury would
+not be distracted); Davidson v. State, 591 So. 2d 901, 902-903
+(Ala. Crim. App. 1991) (same).
+
+                                   17
+     Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 18 of 27
+
+
+
+persons during counsels’ final arguments because it was a
+
+reasonable limitation to prevent disturbance).
+
+     In Bucci’s case, as in the jury charge cases, members of the
+
+public filled the available seats in the courtroom and were
+
+present, casting the “sharp light of public scrutiny” upon the
+
+entirety of the jury empanelment.       The exclusion of other members
+
+of Bucci’s family and friends throughout the morning even as
+
+seats became available does not undermine the public nature of
+
+that empanelment.    See Scott, 564 F.3d at 38 (ruling that while
+
+the barring of hypothetical late-arriving members of the public
+
+might have implications for the barred individual’s right of
+
+access, it has no bearing on the public nature of the
+
+proceedings).   The presence of the defendants’ closest family
+
+members vindicated their public trial rights by ensuring that the
+
+defendants were “fairly dealt with and not unjustly condemned”
+
+and by “keep[ing] [the defendants’] triers keenly alive to a
+
+sense of their responsibility and to the importance of their
+
+functions.”   See Waller, 467 U.S. at 46 (internal citations
+omitted).   Indeed, who better to perform that function for Bucci
+
+than Mrs. Keefe and Mrs. Bucci?
+
+     Moreover, disallowing public entry throughout the
+
+empanelment was a reasonable exercise of the judge’s power to
+
+ensure fairness and order during the proceedings because it
+
+lessened the risk of intermingling between potential jurors and
+
+the defendants’ close family members.       Judge Lindsay’s concern
+
+regarding the inappropriate interaction between the venire and
+
+                                   18
+     Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 19 of 27
+
+
+
+spectators is implicit in the record, see Hr’g Tr. vol. 1 at 59,
+
+and expressly exhibited by the judge’s admonition before the
+
+lunch recess for counsel to ensure that the defendants’ families
+
+did not mingle with venire members, Trial Tr. 31.11        As the
+
+affidavits submitted by Bucci and the testimony at the
+
+evidentiary hearing show, there were at least twenty-five of
+
+Bucci and Jordan’s close family members and friends, waiting
+
+around the entrance to the courtroom at various points throughout
+
+the morning.   They included the defendants’ siblings, children,
+
+aunt, uncles, cousins, nieces, and nephews.        See Bucci’s Pet.,
+Ex. 7; Hr’g Tr. vol 2 at 14, 85-88, 98-99, 101-102.         Allowing
+
+such a large number of close family members to sit in the
+
+immediate proximity of the potential jurors would have increased
+
+the risk of improper mingling.      In addition, as mentioned above,
+
+allowing spectators immediately to take the seats of the excused
+
+jurors in the first and second rows would block Judge Lindsay’s
+
+and counsels’ view of the venirepersons next in line to fill the
+
+jury box.   This would significantly diminish the benefit of Judge
+Lindsay’s practice of seating jurors in the courtroom according
+
+to the order they would be called to the jury box.         See supra
+Part II.B.1.a., n.5.    Therefore, it was within Judge Lindsay’s
+
+
+
+
+     11
+       It appears Judge Lindsay’s concern was well-founded as
+Mrs. Keefe testified that during the lunch recess, a venire
+member indeed attempted to speak with her. To Mrs. Keefe’s
+credit, she immediately told the potential juror that per the
+judge’s instructions, she could not speak to him. Hr’g Tr., vol.
+2 at 26.
+
+                                   19
+     Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 20 of 27
+
+
+
+discretion reasonably to limit access to the trial throughout the
+
+morning.
+
+     Furthermore, a record of the jury selection was made
+
+available for public viewing after the proceeding, which cuts
+
+against any air of secrecy.     This case is a far cry from that in
+
+Waller, where no members of the public were admitted for a seven-
+
+day suppression hearing, 467 U.S. at 48, or that in Owens, where
+
+the First Circuit believed that all spectators were excluded from
+
+the entire day of jury selection, 483 F.3d at 63.         There having
+
+been no closure for the reasons stated above, this Court holds
+
+that Bucci’s right to a public trial was not violated, and thus
+
+he cannot prevail on this ground of his habeas petition.
+
+           2.   Prosecutorial misconduct (Grounds Two and Three)
+
+     Bucci alleges in Ground Two of his petition that his Due
+
+Process rights were violated because the government failed to
+
+make appropriate disclosure of favorable evidence as mandated by
+
+Brady v. Maryland, 373 U.S. 83 (1963).       Specifically, Bucci
+
+claims that the government withheld an affidavit prepared by
+Minotti (“Minotti Aff.”), Bucci’s Mem., Ex. 15 [Doc. No. 400, Ex.
+
+1, Part 4 at 15], for Minotti’s sentencing hearing as well as
+
+statements made by Minotti during his proffer sessions.          Bucci’s
+
+Mem. 18.
+
+     This issue was not raised during the direct appeal.          The
+
+government argues that Bucci’s claim is procedurally barred
+
+because he has failed to show cause and prejudice as required by
+
+Frady, 456 U.S. at 167-68.
+
+                                   20
+     Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 21 of 27
+
+
+
+     Minotti’s Affidavit relates to the possibility that during
+
+the set up narcotics transaction Ruiz carried a gun.          Minotti
+
+stated that he told Jordan that Ruiz never had a gun.          Minotti
+
+therefore never actually thought that Jordan would even consider
+
+pulling his service weapon.     Minotti Aff. 4.     While this
+
+statement is relevant to whether Minotti actually foresaw that
+
+Jordan would carry a gun, it is irrelevant to whether Bucci
+
+foresaw the same.    Minotti’s Affidavit is thus immaterial as to
+
+Bucci’s guilt and punishment, and Bucci is unable to show that
+
+the jury and sentencing judge’s lack of knowledge regarding the
+
+conversation between Minotti and Jordan worked to Bucci’s actual
+
+and substantial disadvantage.      No prejudice existed and this
+
+Court’s inquiry need not go any further.12
+
+     Moreover, in Ground Three, Bucci alleges various misconduct
+
+by the prosecution.    He suggests that the government coerced
+
+Minotti into pleading guilty to the gun charge pursuant to 18
+
+U.S.C. § 924(c)(1), conducted direct examination in a manner that
+
+
+
+
+     12
+       It seems fair to note, however, that Bucci also fails to
+show cause for his procedural default. Bucci explains that at
+the time of his sentencing, he was not aware of the existence of
+Minotti’s affidavit, Bucci’s Pet. 7, because it was sealed and
+unavailable to his counsel. Bucci’s Mem. 15. An examination of
+docket entries in United States v. Minotti, No. 04-10325 (D.
+Mass.), shows the contrary. The affidavit was filed on July 11,
+2006. [No. 04-10325, Doc. No. 66]. On the same day Minotti
+moved to seal the Affidavit. [No. 04-10325, Doc. No. 67]. On
+July 14, 2006, Judge O’Toole issued an electronic order denying
+Minotti’s motion. The government correctly points out that on
+that day the Affidavit became a part of public record and was
+accessible to Bucci’s counsel. Gov.’s Mem. 23. Bucci fails to
+show otherwise.
+
+                                   21
+     Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 22 of 27
+
+
+
+manipulated the truth, and failed to disclose evidence which
+
+could impeach Minotti.
+
+     Again, those claims were not brought up during the direct
+
+appeal.   Bucci fails to show that any prejudice resulted.         Thus,
+
+whether there was cause for Bucci’s procedural default need not
+
+be analyzed.
+
+            3.   Ineffective assistance of counsel (Grounds Four
+                 and Five)
+
+     When the underlying claim alleges ineffective assistance of
+
+counsel the requirement of showing cause and prejudice for a
+
+procedural default does not apply.       Smullen v. United States, 94
+
+F.3d 20, 23 (1st Cir. 1996) (citing Knight v. United States, 37
+
+F.3d 769, 774 (1st Cir. 1994)).      “Constitutionally ineffective
+
+assistance of counsel constitutes cause sufficient to excuse a
+
+procedural default.”    Prou v. United States, 199 F.3d 37, 47 (1st
+
+Cir. 1999) (citing Murray v. Carrier, 477 U.S. 478, 488 (1986)).
+
+To prevail on a claim of ineffective assistance of counsel, a
+
+defendant must demonstrate deficient performance of counsel and
+
+prejudice resulting therefrom.      Strickland v. Washington, 466
+U.S. 668, 687 (1984).    Such deficiency occurs when an attorney's
+
+performance is “so inferior as to be objectively unreasonable.”
+
+United States v. McGill, 11 F.3d 223, 226 (1st Cir. 1993).              The
+
+Constitution guarantees a “fair trial and competent attorney,”
+
+Engle v. Isaac, 456 U.S. 107, 134 (1982), and not a “successful
+
+defense,” United States v. Natanel, 938 F.2d 302, 309 (1st Cir.
+
+1991).    An attorney’s assistance is ineffective where he fails to
+
+“raise an important, obvious defense without any imaginable
+
+                                   22
+     Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 23 of 27
+
+
+
+strategic or tactical reasons for the omission.”         Prou, 199 F.3d
+
+at 48.   To show the resultant prejudice, “[t]he defendant must
+
+show that there is a reasonable probability that, but for
+
+counsel's unprofessional errors, the result of the proceeding
+
+would have been different.     A reasonable probability is a
+
+probability sufficient to undermine confidence in the outcome.”
+
+Strickland, 466 U.S. at 694.
+
+                a.    Witness issues at the trial
+
+     In Ground Four, Bucci alleges that in the opening statement
+
+his counsel promised the jury that he would present a witness
+
+with an alibi defense, and that counsel then failed to call that
+
+witness, undercutting the credibility of the defense.          Bucci’s
+
+Mem. 77.
+
+     The determination of whether a failure to produce a promised
+
+witness constitutes ineffective assistance is necessarily fact-
+
+based.   McGill, 11 F.3d at 227.     “[N]o particular set of rules
+
+can be established to define effective assistance, as hard-and-
+
+fast rules would inevitably restrict the independence and
+latitude counsel must have in making tactical and strategic
+
+decisions.”   Natanel, 938 F.2d at 310.
+     The government contends that when the prosecution rested,
+
+Bucci’s attorney made an offer of proof and the government did
+
+not object.   Trial counsel sought a brief recess to confer with
+
+his client.   After the recess, trial counsel said he would not be
+
+calling any witnesses.     Gov.’s Mem. 39.    The government argues
+
+that the decision not to call the alibi witness was strategic.
+
+
+                                   23
+     Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 24 of 27
+
+
+
+There is a “strong presumption that counsel’s conduct falls
+
+within a wide range of reasonable professional assistance; that
+
+is, the defendant must overcome the presumption that, under the
+
+circumstances, the challenged action might be considered sound
+
+trial strategy.”    Strickland, 466 U.S. at 689 (internal citation
+
+omitted).   Here, Bucci has not carried his burden of proving that
+
+the decision was not strategic.13
+
+     Next, Bucci alleges that the fact his attorney previewed the
+
+government’s cooperating witness whom the government ultimately
+
+decided not to call amounted to ineffective assistance of
+
+counsel.    Bucci, however, presents no evidence that trial counsel
+
+knew or should have known that the government would not call that
+
+witness.    The government points out that the prosecution only
+
+decided in the middle of its case not to call the cooperating
+
+witness, and that co-defendant’s counsel previewed the same
+
+witness.
+
+     Finally, Bucci contends that trial counsel rendered
+
+deficient performance by failing to lay the foundation for and
+
+     13
+       Moreover, Bucci’s claim is easily distinguishable from
+the First Circuit precedent finding ineffective assistance of
+counsel when counsel failed to present evidence mentioned in an
+opening. In Ouber v. Guarino, 293 F.3d 19, 27 (1st Cir. 2002),
+the First Circuit held that a decision to not have the defendant
+testify after promising his testimony in an opening was deficient
+performance. The First Circuit has noted, however, that this
+holding is limited to cases with “greater specificity in the
+promise and greater contemporaneousness between the promise and
+jury deliberations,” Yeboah-Sefah v. Ficco, 556 F.3d 53, 78 (1st
+Cir. 2009) (quoting Phoenix v. Matesanz, 233 F.3d 77, 85 (1st
+Cir. 2000)), than what transpired here. In Bucci’s case counsel
+did not name the witness and the alibi was circumstantial in
+nature. Further, the opening took place twenty days prior to
+deliberations.
+
+                                   24
+     Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 25 of 27
+
+
+
+offer the testimony of another government witness’s brother, who
+
+purportedly was willing to impeach the government witness’s
+
+testimony.    The potential impeachment witness was called but was
+
+excluded under Federal Rule of Evidence 403 (excluding relevant
+
+evidence on grounds of prejudice, confusion, or waste of time).
+
+The prosecution’s witness had already been cross-examined for
+
+several days and the witness was deemed redundant by the court.
+
+     Bucci is not able to show that his counsel’s performance was
+
+so deficient that it deprived him of trial producing a fair
+
+result.
+
+                  b.   Ineffective assistance at the sentencing
+
+     In Ground Five, Bucci claims that his counsel’s failure to
+
+object to imposing on Bucci a consecutive term of 84 months on
+
+Count 3 pursuant to 18 U.S.C. § 924(c)(1)(A)14 was deficient
+
+performance amounting to ineffective assistance of his counsel.
+
+Bucci asserts that because his minimum mandatory sentence for
+
+combined Counts 1 and 2 was ten years, the “except” clause
+
+
+
+
+     14
+          18 U.S.C. § 924(c)(1)(A) provides in relevant part:
+
+             Except to the extent that a greater minimum
+             sentence is otherwise provided by this subsection
+             or by any other provision of law, any person who,
+             during and in relation to any crime of violence or
+             drug trafficking crime . . . uses or carries a
+             firearm, or who, in furtherance of any such crime,
+             possesses a firearm, shall, in addition to the
+             punishment provided for such crime of violence or
+             drug trafficking crime -
+               . . . (ii) if the firearm is brandished, be
+             sentenced to a term of imprisonment of not less
+             than 7 years . . . .
+
+                                   25
+     Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 26 of 27
+
+
+
+applied to him, and the consecutive term ought not have been
+
+imposed at all.   Bucci’s Mem. 84.
+
+     Bucci is mistaken as to applicable precedent.         In United
+
+States v. Parker, 549 F.3d 5 (1st Cir. 2008), Parker was subject
+
+to a mandatory minimum ten-year sentence based on the drug
+
+convictions and presented the very same argument Bucci does in
+
+the instant case.    Parker, 549 F.3d at 11.      There, the First
+
+Circuit stated, “[s]ection 924(c) dictates an additional minimum
+
+sentence for an underlying offense because of the presence of the
+
+firearm; thus, if ‘a greater minimum sentence is otherwise
+
+provided’ on account of the firearm, then under the ‘except
+
+clause’ that greater minimum might supercede the otherwise
+
+applicable section 924(c) adjustment.”       Id. (emphasis in
+original).   Moreover, the First Circuit distinguished the Second
+
+Circuit case United States v. Whitley, 529 F.3d 150 (2d Cir.
+
+2008) in which Whitley was subject to a fifteen-year mandatory
+
+minimum sentence for possession of a firearm in the course of the
+
+robbery.   The Parker court noted that in such circumstances,
+imposing a consecutive sentence of ten years pursuant to 18
+
+U.S.C. 924(c) would result in a double increment for “discharge
+
+of the same gun in the same robbery” - the very situation the
+
+Congress wanted to avoid by use of the “except” clause.          Parker,
+549 F.3d at 11.
+
+     Furthermore, in United States v. Pulido, 566 F.3d 52, 65,
+
+n.6 (1st Cir. 2009) the First Circuit confirmed the validity of
+
+Parker and rejected the reasoning of the Second Circuit in United
+
+                                   26
+     Case 1:04-cr-10194-GAO Document 460 Filed 12/31/09 Page 27 of 27
+
+
+
+States v. Williams, 558 F.3d 166, 168 (2d Cir. 2009) which held
+
+that the “except” clause was applicable “where the defendant is
+
+subject to a longer mandatory minimum sentence for a drug
+
+trafficking offense.”
+
+     Bucci’s counsel’s failure to object to the imposition of the
+
+consecutive term was not deficient performance and, therefore,
+
+Bucci’s ineffective assistance claim fails.
+III. CONCLUSION
+
+     None of Bucci’s claims establish that a violation of the
+
+federal constitution or laws occurred in his case.         Therefore,
+
+Bucci’s petition is DENIED.     For all the same reasons, Jordan’s
+
+petition is DENIED.
+
+
+
+     SO ORDERED.
+
+
+
+                                    By the Court,
+
+
+
+                                    /s/ William G. Young
+                                    WILLIAM G. YOUNG
+                                    DISTRICT JUDGE
+
+
+
+
+                                   27
+

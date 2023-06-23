@@ -1,0 +1,849 @@
+Case 1:11-cr-00053-JAW Document 170 Filed 08/09/12 Page 1 of 17                       PageID #: 530
+
+
+
+                           UNITED STATES DISTRICT COURT
+                                DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA                       )
+                                               )
+       v.                                      )      1:11-cr-00053-JAW
+                                               )
+KEVIN EARL SPRING                              )
+
+
+                   ORDER ON THIRD MOTION FOR ACQUITTAL
+
+       On December 15, 2011, the Court in a bench trial found Kevin Earl Spring,
+
+who had previously been involuntarily admitted to a mental health institution
+
+under 34-B M.R.S. § 3863, a provision of Maine law, guilty of making a false
+
+statement in connection with the acquisition of a firearm in violation of 18 U.S.C.
+
+§ 922(a)(6) and making a false statement during the purchase of a firearm in
+
+violation of 18 U.S.C. § 924(a)(1)(A) based on his statements on an ATF Form that
+
+he had not previously been involuntarily committed to a mental health institution.1
+
+On January 13, 2012, after conviction but before sentencing, the First Circuit issued
+
+United States v. Rehlander, 666 F.3d 45 (1st Cir. 2012), overruling United States v.
+
+Chamberlain, 159 F.3d 656 (1st Cir. 1998), and holding that an involuntary
+
+emergency psychiatric admission under 34-B M.R.S. § 3863 does not constitute a
+
+
+
+
+1       A number of provisions in Title 18 cover the making of a false statement in the acquisition of
+a firearm. The Indictment charged Mr. Spring in Count One with a violation of 18 U.S.C. §
+922(a)(6), making a false statement in connection with the acquisition of a firearm, and in Count
+Two with a violation of 18 U.S.C. § 924(a)(1)(A), making a false statement during the purchase of a
+firearm. Indictment (Docket # 57). The Indictment charged the same false statement in both Counts
+One and Two, namely that Mr. Spring falsely denied he had been involuntarily committed to a
+mental institution. Id.
+Case 1:11-cr-00053-JAW Document 170 Filed 08/09/12 Page 2 of 17                 PageID #: 531
+
+
+
+commitment under 18 U.S.C. § 922(g)(4).2 At trial, Mr. Spring was also convicted of
+
+a third count, possession of a firearm by a prohibited person. Because, in the wake
+
+of Rehlander, Mr. Spring’s emergency admission in Maine did not constitute a
+
+commitment, the Government promptly dismissed Count III, the possession charge.
+
+However, the Government has not moved to dismiss Counts I and II, the false
+
+statement convictions, contending instead that the crime of making a false
+
+statement must be measured by the law in effect at the time of the statement and
+
+the crime was complete when Mr. Spring’s statement, which was then false, was
+
+made. Citing Rehlander, Mr. Spring has moved for acquittal.
+
+       In Rehlander, the First Circuit predicted that “[c]omplications may result, in
+
+relation to prior convictions of others based on Chamberlain,” but explained that
+
+“the problems will be resolved if and as they are presented.” 666 F.3d at 51. This
+
+case presents such a problem.          The question is whether Rehlander mandates
+
+acquittal of a defendant convicted of violating 18 U.S.C. §§ 922(a)(6) and
+
+924(a)(1)(A) based on Chamberlain but not yet sentenced.                 With considerable
+
+hesitation, the Court concludes that the convictions must not stand.
+
+I.      STATEMENT OF FACTS
+
+       A.      The Case Pre-Rehlander
+
+       Based on the law before Rehlander, the Government presented an especially
+
+compelling case against Kevin Earl Spring. In December 2010, Mr. Spring was
+
+living in his house in Owl’s Head, Maine when he began to act oddly. Believing that
+
+
+2      The First Circuit’s opinion in Rehlander addressed the involuntary commitment underlying
+Mr. Spring’s statements leading to the false statement charges in both Counts.
+
+
+                                              2
+Case 1:11-cr-00053-JAW Document 170 Filed 08/09/12 Page 3 of 17        PageID #: 532
+
+
+
+neighborhood teenagers had entered his home by a secret entrance to steal his
+
+copper piping, he boarded up some of the windows in his house and stood guard.
+
+After Mr. Spring called his neighbors, asking them for help in fending off people
+
+who were supposedly trying to enter Mr. Spring’s house, and after they saw him
+
+with a gun, the neighbors called the police.
+
+      When the police arrived on December 29, 2010, Mr. Spring was visibly
+
+agitated and disheveled, but he let them in. He told the police that people were
+
+trying to break into his house and steal from him. He claimed that they had taken
+
+his furnace and copper piping and pointed to what he termed a “secret entrance” on
+
+the floor, which was secured by a piece of plywood. The police inspected his house
+
+and found no evidence of forced or secret entry. Upstairs in Mr. Spring’s bedroom,
+
+however, they found a loaded bolt-action shotgun with a round in the chamber and
+
+three rounds in the clip.
+
+      The police told Mr. Spring that they were concerned about his mental health
+
+and intended to take him to the hospital for evaluation. Mr. Spring did not like the
+
+idea because he was worried that in his absence, the house would be broken into,
+
+but he was cooperative. The police told him he had no choice and they intended to
+
+take him to the hospital. Placing his shotgun in the trunk of the cruiser, the police
+
+placed Mr. Spring in the back seat of the cruiser and took him to the local hospital
+
+for evaluation.
+
+      At PenBay Medical Center, Mr. Spring was evaluated by Dr. James Curtis,
+
+an emergency room physician. Mr. Spring told the doctor that the night before, he
+
+
+
+
+                                          3
+Case 1:11-cr-00053-JAW Document 170 Filed 08/09/12 Page 4 of 17       PageID #: 533
+
+
+
+had heard people sawing his copper pipes all night long. He also told the doctor
+
+that there is a secret passageway that leads to his basement and these young adults
+
+had found the passageway. The doctor checked with police and they confirmed they
+
+had found no evidence that any teenagers had entered the home and no secret
+
+passageway. After completing his examination of Mr. Spring, Dr. Curtis completed
+
+an Application for Emergency Involuntary Admission to a Mental Hospital,
+
+certifying that Mr. Spring had a mental illness that caused a substantial risk of
+
+harm to others. On December 30, 2010, pursuant to 34-B M.R.S. § 3863, a justice of
+
+the peace approved the application for emergency involuntarily admission.
+
+      During his admission to the psychiatric ward of the hospital, Mr. Spring was
+
+seen by Dr. Van Lonkhuyzen, a PenBay psychiatrist. Dr. Lonkhuyzen confirmed
+
+the need for hospitalization based on his view that Mr. Spring was suffering from a
+
+form of psychosis and represented a danger because of the loaded gun.           Dr.
+
+Lonkhuyzen said that Mr. Spring asked to be released but the doctor had told him
+
+that he was being held involuntarily.    At one point, Mr. Spring threatened to
+
+contact the American Civil Liberties Union and to sue the police on the ground that
+
+he had been illegally transported to PenBay. Under 34-B M.R.S. § 3863(5-A)(C), a
+
+hospital is not allowed to involuntarily detain a person who has been involuntarily
+
+admitted on an emergency basis beyond three days. However, Mr. Spring agreed to
+
+remain in the psychiatric unit until January 4, 2011, when he was discharged.
+
+      On January 26, 2011, Mr. Spring began to look for a gun. He traveled to a
+
+gun dealer in Vassalboro, Maine and expressed interest in attending a basic
+
+
+
+
+                                        4
+Case 1:11-cr-00053-JAW Document 170 Filed 08/09/12 Page 5 of 17       PageID #: 534
+
+
+
+handgun course, which is a requirement for obtaining a concealed gun permit. The
+
+gun dealer, Charles Cabaniss, testified that Mr. Spring appeared extremely
+
+agitated. He said that Mr. Spring told him that he needed the gun because people
+
+were breaking into his house and stealing copper and he wanted a gun to protect
+
+himself. Mr. Spring showed Mr. Cabaniss a photograph of his basement and asked
+
+Mr. Cabaniss if he could see a person in the photograph. Mr. Cabaniss could not see
+
+anyone in the photograph.
+
+      Mr. Spring expressed an interest in purchasing either a revolver or a
+
+handgun. The gun dealer, however, was extremely concerned about whether Mr.
+
+Spring was in his right mind and had Mr. Spring fill out the top part of ATF Form
+
+4473 to obtain identifying information about him. Mr. Cabaniss directly asked Mr.
+
+Spring whether he had ever been committed to a mental institution and Mr. Spring
+
+stumbled, telling Mr. Cabaniss that his lawyer would take care of all of this. Mr.
+
+Cabaniss informed Mr. Spring that anyone who had been involuntarily placed in a
+
+mental institution was prohibited from purchasing a firearm and Mr. Cabaniss told
+
+Mr. Spring that he needed to do some research to determine whether he could sell
+
+him a firearm. Mr. Spring left. Mr. Cabaniss was so concerned about Mr. Spring
+
+that he emailed an ATF agent about him and later emailed a deputy sheriff, raising
+
+concerns about Mr. Spring’s mental state and his interest in purchasing a firearm.
+
+      The next day, on January 27, 2011, despite the fact that Ellsworth is a
+
+considerable distance from Rockland, Mr. Spring drove to Ellsworth, Maine to
+
+purchase a firearm. Mr. Spring went to a firearms dealer in Ellsworth and told the
+
+
+
+
+                                         5
+Case 1:11-cr-00053-JAW Document 170 Filed 08/09/12 Page 6 of 17        PageID #: 535
+
+
+
+dealer that the reason he wanted to buy a gun was that people were after him and
+
+his property and that he was in fear of his life.    He focused on a 9mm Glock
+
+handgun, completed and signed a Form 4473 in which he denied that he had ever
+
+been committed to a mental institution, and paid for the firearm. The actual sale of
+
+the Glock was delayed by the National Instant Criminal Background Check System.
+
+      At his trial, Mr. Spring did not testify but he presented a strong argument
+
+that a reasonable person would not construe an involuntary emergency psychiatric
+
+admission under 34-B M.R.S. § 3863 as an involuntary commitment within the
+
+language of the ATF form.     His argument was weakened, however, by his own
+
+actions. Something out of the ordinary had taken place on December 29-30, 2010,
+
+when he had been taken by the police against his will to the mental health ward of
+
+a hospital and held there against his will. Furthermore, Mr. Spring was clearly
+
+placed on notice by the first dealer that he probably was prohibited from purchasing
+
+a firearm but, the next day, he drove miles away from his home and purchased a
+
+gun from a second dealer without revealing his prior involuntary admission on the
+
+required forms and without confirming whether he was prohibited from possessing
+
+a firearm under then current law.
+
+      Mr. Spring’s defense foundered on clear and unequivocal First Circuit
+
+precedent. See United States v. Chamberlain, 159 F.3d 656, 665 (1st Cir. 1998)
+
+(concluding “that a five-day emergency detention [under 34-B M.R.S. § 3863] is a
+
+‘commitment’” for purposes of the Gun Control Act); see also United States v. Holt,
+
+464 F.3d 101, 105 (1st Cir. 2006) (“the [Chamberlain] court held that the five-day
+
+
+
+
+                                         6
+Case 1:11-cr-00053-JAW Document 170 Filed 08/09/12 Page 7 of 17        PageID #: 536
+
+
+
+detention was a ‘commitment,’ concluding that the substance of the mental institute
+
+admission procedures, rather than the label of the procedures as a ‘commitment,’ is
+
+controlling for the federal statute”); United States v. Small, No. CR-09-184-B-W,
+
+2010 U.S. Dist. LEXIS 13698, at *5 (D. Me. Feb. 16, 2010) (noting that “ordinary
+
+meaning, First Circuit precedent, and statutory context provided ample notice that
+
+emergency hospitalization under Maine law qualified as committed under
+
+§ 922(g)(4)”) (internal punctuation omitted). Applying Chamberlain and its progeny
+
+to these facts, the Court found Mr. Spring guilty of two counts of making a false
+
+statement in connection with the acquisition of a firearm in violation of 18 U.S.C.
+
+§ 922(a)(6).
+
+      B.       The Case Post-Rehlander
+
+      On January 13, 2012, the First Circuit reversed Chamberlain.              See
+
+Rehlander, 666 F.3d 45, 50-51 (“[t]he district court cannot be faulted for following
+
+Chamberlain, but the panel is constrained to abandon that decision”). The First
+
+Circuit stated:
+
+      As we read section 922 in light of the concerns already discussed, a
+      temporary hospitalization under section 3863 does not constitute a
+      “commitment” under section 922just as it clearly does not constitute
+      a commitment under Maine law itself.
+
+Id. at 50.     Applying Rehlander to these facts, if Mr. Spring had attempted to
+
+purchase a firearm after that case was issued, the Court would have been compelled
+
+to acquit Mr. Spring because his answer to the ATF question about whether he had
+
+been previously involuntarily committed to a mental institution would no longer be
+
+false because his involuntary emergency psychiatric admission under 34-B M.R.S. §
+
+
+
+                                         7
+Case 1:11-cr-00053-JAW Document 170 Filed 08/09/12 Page 8 of 17          PageID #: 537
+
+
+
+3863 would not have constituted a commitment under 18 U.S.C. § 922. But because
+
+Mr. Spring made his statement on the ATF Form prior to the Rehlander change in
+
+law, the question becomes whether Rehlander’s ruling on what constitutes a
+
+“commitment” for purposes of the Gun Control Act alters Mr. Spring’s false
+
+statement liability.
+
+II.    THE PARTIES’ POSITIONS
+
+       Mr. Spring argues that his statements were not false because his temporary
+
+hospitalization did not constitute a commitment under Maine law in light of
+
+Rehlander’s January, 2012 change in law. In his Reply, Mr. Spring contends that
+
+the Government’s position is internally inconsistent:
+
+       The government argues . . . that although Mr. Spring had never been
+       involuntarily committed to a mental institution, and could lawfully
+       possess a firearm, it was unlawful for him to tell a firearms dealer that
+       he had never been involuntarily committed or to write that fact on a
+       federal firearms form.
+
+Def.’s Reply at 2.
+
+       The Government’s response is that the timing of Mr. Spring’s statement is
+
+instructive and that he “is not entitled to the benefit of a First Circuit decision
+
+issued a year after his false statement because the law governing commitments was
+
+different when he made the statement.” Gov’t’s Supp. Br. at 1. To support its
+
+position that the verdicts on the false statement counts should be sustained, the
+
+Government refers to case law that has upheld firearms convictions based on false
+
+statements about underlying felony convictions that were later vacated.
+
+
+
+
+                                          8
+Case 1:11-cr-00053-JAW Document 170 Filed 08/09/12 Page 9 of 17           PageID #: 538
+
+
+
+III.   DISCUSSION
+
+       A.    The Timing of False Statements
+
+       The closest analogue to Mr. Spring’s false statement conviction is a series of
+
+cases involving convicted felons, whose disqualifying felony was valid as of the date
+
+of purchase but was later overturned. Courts have concluded that despite the later
+
+annulment of the person’s felony, the applicant still owed a legal duty to be truthful
+
+as of the date of purchase and his later vindication did not affect his conviction for
+
+false statement. See, e.g., Cassity v. United States, 521 F.2d 1320, 1322 (6th Cir.
+
+1975); United States v. Graves, 554 F.2d 65, 70-72 (3d Cir. 1977) (en banc); United
+
+States v. Allen, 556 F.2d 720, 722 (4th Cir. 1977); United States v. Ransom, 545 F.2d
+
+481, 484 (5th Cir. 1977); United States v. Edwards, 568 F.2d 68, 70 (8th Cir. 1977);
+
+United States v. Johnson, 612 F.2d 305, 306 (7th Cir. 1980). Indeed, in 1981, the
+
+First Circuit affirmed without opinion a district court decision that arrived at the
+
+same result. See United States v. Kozerski, 518 F. Supp. 1082, 1092 (D.N.H. 1981),
+
+aff’d 740 F.2d 952 (1st Cir. 1984).
+
+       These cases show that a defendant who makes a false statement where the
+
+underlying prohibition later changes or is found to be invalid remains liable for the
+
+separate crime of making a false statement. See, e.g., Graves, 554 F.2d at 79 (“[w]e
+
+are satisfied that § 922(a)(6) compels disclosure of all convictions which have not
+
+been set aside, whether ultimately shown to have been valid or not” and that
+
+§ 922(a)(6) “penalizes [a defendant] not for being a convicted felon, but for failing to
+
+tell the truth about the conviction”); see also Cassity, 521 F.2d at 1323 (“[w]e
+
+
+
+
+                                           9
+Case 1:11-cr-00053-JAW Document 170 Filed 08/09/12 Page 10 of 17          PageID #: 539
+
+
+
+ conclude . . . that the careful statutory scheme of gun control Congress has provided
+
+ would be seriously jeopardized if a person convicted of a felony could, when
+
+ purchasing a firearm, make the statement that he had never been convicted of such
+
+ felony based upon his own subjective belief that his conviction was constitutionally
+
+ defective where such conviction had not prior to been set aside”) (emphasis supplied).
+
+ In other words, these cases represent the basic premise that false statement
+
+ liability attaches where the statement was false when made, despite subsequent
+
+ legal or factual developments that would counsel a different answer on a later date.
+
+ By the same logic, Mr. Spring’s false statement conviction does not penalize him or
+
+ remove his individual right to bear arms for having been involuntarily admitted to a
+
+ mental institution; it penalizes him for falsely reporting in January, 2011 that he
+
+ was not a prohibited person when, at that time under governing law, he was.
+
+       In United States v. Wright, 537 F.2d 1144 (1st Cir. 1976), the First Circuit
+
+ addressed the situation where a defendant thinks that he is or should be permitted
+
+ to own a gun but as a matter of law is not, and nevertheless answers questions
+
+ falsely on the federal ATF forms in order to obtain one. Id. at 1146. The Wright
+
+ defendant had a previous felony conviction but possessed a state-issued firearm
+
+ permit that he believed entitled him to own a gun; when filling out the required
+
+ forms he represented he did not have a prior felony conviction. See id. at 1144-45.
+
+ In Wright, the Court held that “[e]ven if he could be found to think that the state
+
+ permit allowed him to purchase guns, he could not think that it permitted him to
+
+ make ‘false and fictitious statements’ to the federal government, the offense with
+
+
+
+
+                                          10
+Case 1:11-cr-00053-JAW Document 170 Filed 08/09/12 Page 11 of 17          PageID #: 540
+
+
+
+ which he is charged.” Id. at 1146. The First Circuit went on to note that “[t]he
+
+ most that could be said is that a belief on [the defendant]’s part that he had a right
+
+ to purchase the gun bore on the recklessness vel non with which he signed the
+
+ federal form.”    Id. (upholding false statement conviction based on reckless
+
+ disregard).
+
+       At trial, Mr. Spring took a similar position: that he did not know his
+
+ involuntary admission constituted a commitment, which is what the ATF form asks.
+
+ However, the Court found that under the law as it existed at the time, he had been
+
+ so committed when he tried to make the firearms purchases and that he had lied
+
+ when he completed the forms. As several other Circuits have acknowledged, the
+
+ underlying congressional intent in imposing false statement liability on federal
+
+ firearm acquisition forms is to compel full and honest disclosure. See Cassity, 521
+
+ F.2d at 1323 (“[w]e think it apparent from the language employed that Congress
+
+ intended to provide a scheme of regulation by compelling full and honest
+
+ disclosure”); see also Ransom, 545 F.2d at 483-84 (“[w]e agree with the rationale of
+
+ Cassity”). The plain fact is that Mr. Spring did not fully and honestly disclose his
+
+ involuntary admission on the ATF forms, and his answer was false at the time he
+
+ made it.
+
+       As Mr. Spring’s statement on the forms that he had not been committed was
+
+ false under the governing law, these cases support the conclusion that Mr. Spring is
+
+ not permitted to avoid criminal liability for making a statement that was false when
+
+ he made it, only because the First Circuit later changed its position as to the degree
+
+
+
+
+                                          11
+Case 1:11-cr-00053-JAW Document 170 Filed 08/09/12 Page 12 of 17           PageID #: 541
+
+
+
+ of due process required under Maine state law before prohibited person status
+
+ attaches. To allow individuals seeking firearms in the future to provide answers to
+
+ these forms based on their “guesses” as to the state of the law in a week, a month,
+
+ or a year would arguably run afoul of the purpose of these forms: to “compel[] full
+
+ and honest disclosure” from persons seeking to purchase firearms. Cassity, 521
+
+ F.2d at 1323.
+
+       B.     Retroactivity and Rehlander
+
+       Nevertheless, this is a hard case, and the Court is uneasy about finding Mr.
+
+ Spring guilty for actions that under current law would not constitute a criminal
+
+ offense.   To be clear, its wariness is not because Mr. Spring was wrongfully
+
+ convicted under the law as it stood as of the date of his offenses or as of the date of
+
+ his trial. Nor is it because Mr. Spring was found guilty of a technical violation of
+
+ the criminal law. To the contrary, from a policy viewpoint, the Court is comfortable
+
+ that the people of this Country, especially Mr. Spring’s immediate neighbors and
+
+ the teenage boys in his community, would be safer if Mr. Spring, with his psychoses,
+
+ paranoia, and delusions, were barred from purchasing a firearm to defend his
+
+ property from imaginary trespassers and if the police had the authority to take his
+
+ guns from him. The unquestioned wisdom of preventing mentally ill individuals
+
+ from purchasing firearms and ammunition is forcefully brought home in the terrible
+
+ tragedies that periodically take place in this Country when paranoid or psychotic
+
+ persons gain access to firearms.
+
+
+
+
+                                           12
+Case 1:11-cr-00053-JAW Document 170 Filed 08/09/12 Page 13 of 17          PageID #: 542
+
+
+
+       Furthermore, in Heller, the Supreme Court itself was careful to observe that
+
+ “nothing in our opinion should be taken to cast doubt on longstanding prohibitions
+
+ on the possession of firearms by . . . the mentally ill,” Dist. of Columbia v. Heller,
+
+ 554 U.S. 570, 626 (2008), and in Rehlander, the First Circuit did not question the
+
+ wisdom of Congress’s determination that those who are mentally ill should be
+
+ prohibited from purchasing firearms, Rehlander, 666 F.3d at 48 (“[t]he Supreme
+
+ Court made clear in Heller that its decision did not undercut traditional restrictions
+
+ on the possession of arms by those who were mentally ill”). Rather, the Rehlander
+
+ Court was concerned with the absence of due process under Maine statutory law
+
+ before a person like Mr. Spring is deprived of the constitutional right to bear arms.
+
+ Id. at 48-49.   In keeping with this precedent, the Court readily concludes that Mr.
+
+ Spring and those around him would be safer and better off if he did not have the
+
+ right to bear arms and, but for Rehlander, the Court would not hesitate to issue a
+
+ judgment that constrained that right for Mr. Spring.
+
+       The Heller Court left much unanswered. However, there is no suggestion
+
+ that the Supreme Court’s or the First Circuit’s interpretation of the Second
+
+ Amendment allows the potential purchaser of a firearm to lie about his mental
+
+ health history on an ATF form. See, e.g., United States v. Knight, 574 F. Supp. 2d
+
+ 224, 226 (D. Me. 2008) (“Heller certainly does not eliminate the crime of false
+
+ statements”).    The Rehlander Court addressed the extent of the due process
+
+ required to prohibit firearm possession, but the First Circuit did not eliminate the
+
+ crime of false statements, and Mr. Spring’s argument that Rehlander directly
+
+
+
+
+                                          13
+Case 1:11-cr-00053-JAW Document 170 Filed 08/09/12 Page 14 of 17        PageID #: 543
+
+
+
+ removes his false statement liability because of the changing nature of the right to
+
+ bear arms necessarily fails.
+
+       The Court’s disquiet is based on the principle that when the First Circuit
+
+ announces a change in the criminal law that grants additional individual rights
+
+ based on an application of a Supreme Court interpretation of the United States
+
+ Constitution, the persons whose cases are pending at the time of the decision should
+
+ benefit from the more expansive reading of individual rights.        But for these
+
+ convictions, if Mr. Spring were today to proceed to a licensed firearms dealer, he
+
+ could legally answer “no” to the “have you been committed” question and legally
+
+ purchase a firearm. Why then should he remain convicted of a crime, which would
+
+ not be a crime if he committed the same act today?
+
+       The answer to this question depends on how the courts apply changes in
+
+ constitutional interpretation.   If Mr. Spring’s case were over, he would have a
+
+ difficult time persuading a court that the criminal judgment should be set aside
+
+ because of a new constitutional doctrine. However, in Mr. Spring’s case, the Court’s
+
+ judgment was not final on January 13, 2012, when the First Circuit issued
+
+ Rehlander, and it seems harsh to hold Mr. Spring to the letter of a law that after
+
+ the decision would clearly apply to similarly situated individuals. See Teague v.
+
+ Lane, 489 U.S. 288, 300 (1989) (“once a new rule is applied to the defendant in the
+
+ case announcing the rule, evenhanded justice requires that it be applied
+
+ retroactively to all who are similarly situated”).   The Court turns, then, to the
+
+
+
+
+                                         14
+Case 1:11-cr-00053-JAW Document 170 Filed 08/09/12 Page 15 of 17               PageID #: 544
+
+
+
+ question of how the courts apply a decision announcing a new constitutional
+
+ doctrine.
+
+       “Generally speaking, where the Supreme Court announces ‘a new rule, that
+
+ rule applies to all criminal cases still pending on direct review.” United States v.
+
+ Thomas, 627 F.3d 534, 537 (4th Cir. 2010) (quoting Schriro v. Summerlin, 542 U.S.
+
+ 348, 351 (2004)). Even for cases not on direct review, a new substantive rule will
+
+ apply retroactively; new substantive rules are those where the scope of a criminal
+
+ statute     is   narrowed   by   interpreting    its   terms   or   where   “constitutional
+
+ determinations [] place particular conduct or persons covered by the statute beyond
+
+ the State’s power to punish.” Schriro, 542 U.S. at 351-52. The Supreme Court’s
+
+ decision in Heller was one such new substantive rule, affording an individual right
+
+ to bear arms not previously acknowledged by the Court and the First Circuit’s
+
+ decision in Rehlander, which flowed from Heller, also afforded an individual a basic
+
+ range of due process rights before his Second Amendment rights are foreclosed.
+
+       Under Supreme Court precedent, Mr. Spring’s case is not yet final. Clay v.
+
+ United States, 537 U.S. 522, 527 (2003) (“[f]inality attaches when [the Supreme
+
+ Court] affirms a conviction on the merits on direct review or denies a petition for
+
+ writ of certiorari, or when the time for filing a certiorari petition expires”).
+
+ Applying this definition to Mr. Spring, the case against him is still pending and a
+
+ new rule would apply. The Rehlander Court announced such a new rule. Under
+
+ Chamberlain, a class of persons—namely, individuals who had been subject to an
+
+ emergency involuntary psychiatric admission under Maine law—were required to
+
+
+
+
+                                             15
+Case 1:11-cr-00053-JAW Document 170 Filed 08/09/12 Page 16 of 17        PageID #: 545
+
+
+
+ reveal on the ATF form that they had been “committed” to a mental health
+
+ institution; since Rehlander, “particular conduct or persons covered by the
+
+ statute”—namely, those same people—are “beyond the [Government’s] power to
+
+ punish.” Schriro, 542 U.S. at 352
+
+       Although distinctions may be made between unlawful possession and making
+
+ a false statement in connection with the acquisition of a firearm, in Rehlander, the
+
+ First Circuit reversed the convictions for both Nathan Rehlander and Benjamin
+
+ Small, each of whom had been convicted for possessing firearms after having been
+
+ “committed to a mental institution.” Rehlander, 666 F.3d at 46, 50-51. These men
+
+ violated the law by possessing the firearms under Chamberlain because they had
+
+ been “committed to a mental institution” under § 922(g)(4), but in Rehlander, the
+
+ First Circuit concluded that because their admissions were not commitments, they
+
+ had not violated the law against possession by a person so committed. Id. at 50.
+
+ Here, Mr. Spring is a step removed from actual possession, but the same principle
+
+ applies. As a consequence of Rehlander, neither Mr. Rehlander nor Mr. Small is
+
+ guilty of actual possession of a firearm by a person who had been committed to a
+
+ mental institution because the First Circuit’s reading of the United States
+
+ Constitution dictates that they had not been committed. The same principle should
+
+ apply to Mr. Spring and he should not stand convicted of saying he was not
+
+ committed when, under Rehlander, he has not. Based on Schriro and Rehlander,
+
+ the Court applies Rehlander’s change to the definition of “commitment” to Mr.
+
+ Spring’s case and grants the Defendant’s third motion for acquittal.
+
+
+
+
+                                          16
+Case 1:11-cr-00053-JAW Document 170 Filed 08/09/12 Page 17 of 17   PageID #: 546
+
+
+
+ IV.   CONCLUSION
+
+       The Court GRANTS the Defendant’s Renewed Motion for Judgment of
+
+ Acquittal (Docket # 146).
+
+       SO ORDERED.
+
+
+
+
+                                /s/ John A. Woodcock, Jr.
+                                JOHN A. WOODCOCK, JR.
+                                CHIEF UNITED STATES DISTRICT JUDGE
+
+ Dated this 9th day of August, 2012
+
+
+
+
+                                      17
+

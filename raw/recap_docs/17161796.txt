@@ -1,0 +1,862 @@
+     Case 1:07-cr-10143-NMG Document 30 Filed 02/01/08 Page 1 of 16
+
+
+
+                   United States District Court
+                     District of Massachusetts
+
+________________________________
+                                 )
+UNITED STATES OF AMERICA,        )
+                                 )
+           v.                    )
+                                 )       Criminal No.
+DAN SMITH,                       )       07-10143-NMG
+                                 )
+           Defendant.            )
+________________________________ )
+
+                         MEMORANDUM & ORDER
+
+GORTON, J.
+
+     Defendant Dan Smith (“Smith”) has moved this Court to
+
+suppress evidence of a firearm, ammunition and cash discovered
+
+and seized from a car parked near an apartment which had just
+
+been searched pursuant to a warrant.
+
+
+
+I.   Background
+
+     In December, 2006, the Taunton Police Department and the
+
+Bureau of Alcohol, Tobacco, Firearms and Explosives (“ATF”)
+
+commenced an investigation of possible drug dealing at an
+
+apartment located on the second floor of 227 Washington Street in
+
+Taunton, Massachusetts (“the Apartment”).       On December 27, 2006,
+
+Taunton Police Officer Troy Medeiros (“Medeiros”) submitted an
+
+application for a search warrant for the Apartment based on
+
+information contained in a supporting affidavit.
+
+     In his affidavit, Medeiros stated that during the week of
+
+
+                                  -1-
+     Case 1:07-cr-10143-NMG Document 30 Filed 02/01/08 Page 2 of 16
+
+
+
+December 10, 2006, a cooperating witness (“CW”) told Medeiros
+
+that a man known as “D”, later identified as Smith, was dealing
+
+drugs from the Apartment.    The CW had previously been inside the
+
+Apartment where he had purchased crack cocaine from Smith.            The
+
+CW also stated that “D” drove a red Mazda with registration
+
+number 51ZV89 (“the Mazda”).
+
+     Medeiros also reported in the affidavit that he conducted
+
+surveillance of the Apartment later that week.        He had observed
+
+heavy foot traffic, i.e., persons entering the Apartment via the
+
+fire escape and leaving a few minutes later, which he recognized
+
+to be consistent with drug dealing activity.       Medeiros also
+
+observed the Mazda described by the CW parked in the driveway.
+
+Medeiros directed the CW to call Smith and arrange a controlled
+
+purchase. The CW was searched, given a sum of cash and sent to
+
+the Apartment.   He returned with a substance that tested positive
+
+for crack cocaine which the CW said he purchased from “D”.
+
+     Based on that information, a warrant was issued on December
+
+27, 2006 to search for narcotics and related paraphernalia “at
+
+227 Washington St 2nd Fl” in Taunton, Massachusetts.
+
+     On December 28, 2006, while conducting drive-by surveillance
+
+of the Apartment, Medeiros observed the Mazda parked in the
+
+driveway.   A black man, who fit the description of Smith, got out
+
+of the Mazda and approached a silver vehicle also in the
+
+driveway. Medeiros witnessed an interaction between Smith and the
+
+
+                                  -2-
+         Case 1:07-cr-10143-NMG Document 30 Filed 02/01/08 Page 3 of 16
+
+
+
+occupant of the silver car and believed it to be a drug deal.             He
+
+did not see an exchange take place.          After the interaction,
+
+Medeiros saw Smith return to the area of the Mazda.            The silver
+
+car left the area.
+
+     Medeiros then returned to Police Headquarters and assembled
+
+a team to execute the search warrant for the Apartment.             The team
+
+returned to and entered the Apartment, finding a female and three
+
+males, including Smith, inside.         The officers handcuffed the
+
+individuals.      The female told the officers that she owned the
+
+silver car in the driveway.
+
+     The search of the Apartment uncovered crack cocaine, .32
+
+caliber bullets, .22 caliber bullets, a digital scale, a
+
+prescription bearing Smith’s name and a black bag containing
+
+cutting agent, a holster for a handgun and paperwork from Morton
+
+Hospital bearing Smith’s name.1
+
+     Nearby Smith the officers recovered a set of car keys.
+
+Taunton Police Detective Christopher Williams (“Williams”)
+
+questioned Smith about the keys.         Smith told Williams that the
+
+keys were for the Mazda parked in the driveway, which was
+
+registered to his sister.        Williams told Smith that he was going
+
+to search the car.       At the evidentiary hearing on this motion,
+
+Williams testified that he believed he had the authority to
+
+
+     1
+     The government lists the .32 caliber bullets as being in
+the black bag but the inventory from the search warrant lists
+them independent of the black bag.
+
+                                      -3-
+      Case 1:07-cr-10143-NMG Document 30 Filed 02/01/08 Page 4 of 16
+
+
+
+search the car with or without Smith’s consent and that when he
+
+told Smith he was going to search his car he was not looking for
+
+Smith’s consent but rather for resistance to confirm Williams’s
+
+suspicions.     Upon Williams’s announcement that he would search
+
+the Mazda, Smith shrugged and said “go ahead”.         Williams
+
+proceeded to search the vehicle.
+
+      In the trunk of the Mazda, Williams found a .40 caliber
+
+magazine inside a book bag, a .44 caliber pistol, .44 caliber
+
+ammunition and .38 caliber ammunition.       Williams then searched
+
+the vehicle’s interior and discovered medication bottles bearing
+
+Dan Smith’s name, $2,380 inside a wallet also containing
+
+identification for Dan Smith, a probation slip bearing Dan
+
+Smith’s name and an additional $1,351.       Smith was then
+
+transported to the Taunton Police station for booking.
+
+
+
+II.   Motion to Suppress (Docket No. 23)
+
+      Smith moves the Court to suppress the evidence of the
+
+firearm, ammunition and cash found in the Mazda because 1) the
+
+police did not have a warrant to search the car, 2) Smith did not
+
+consent to the search, 3) the automobile exception does not apply
+
+and 4) the police did not have probable cause to search the car.
+
+      A.   The Warrant and Curtilage
+
+           1.     Legal Standard for Warrants
+
+      The Fourth Amendment protects against unreasonable searches
+
+
+                                   -4-
+     Case 1:07-cr-10143-NMG Document 30 Filed 02/01/08 Page 5 of 16
+
+
+
+and seizures by requiring, in most cases, a valid warrant.
+
+Bilida v. McCleod, 211 F.3d 166, 171 (1st Cir. 2000).         A
+
+warrantless search or seizure is presumptively unreasonable and
+
+will be upheld only if an exception to the warrant requirement
+
+applies.   Id.   The authority granted by a warrant for the search
+
+of a premises is limited by the description in the warrant and
+
+does not extend to additional areas.      United States v. Bonner,
+
+808 F.2d 864, 868 (1st Cir. 1986).       When a warrant is issued for
+
+a “premises”, however, the First Circuit has interpreted that
+
+term broadly.    See United States v. Asselin, 775 F.2d 445 (1st
+
+Cir. 1985) (holding that the search of a disabled automobile
+
+adjacent to carport was permissible during search of “premises”
+
+pursuant to warrant).
+
+           2.    Application
+
+     The search warrant issued in this case authorized a search
+
+for narcotics “at 227 Washington St 2nd Fl Taunton MA”.           In its
+
+brief, the government asserts that Smith’s car was within the
+
+curtilage of the Apartment and that it was therefore within the
+
+scope of the warrant.    Its argument, however, unnecessarily
+
+complicates the analysis.      The key inquiry is whether the warrant
+
+permitted the search of any property or premises outside of the
+
+apartment, not whether the car was within the curtilage.
+
+     The government cites numerous cases for the proposition that
+
+a vehicle parked in a driveway is within the scope of a search
+
+
+                                   -5-
+     Case 1:07-cr-10143-NMG Document 30 Filed 02/01/08 Page 6 of 16
+
+
+
+warrant for the residence, but all of those cases involve
+
+warrants issued for a “premises” or “property”, not a specific
+
+unit within an apartment building.      The warrant for Smith’s
+
+Apartment was limited to the second floor of the two-family house
+
+in question and did not permit a search of the “premises” or
+
+“property” at a certain address.     Cf. United States v. Asselin,
+
+775 F.2d 445 (1st Cir. 1985).     The government notes that the
+
+search warrant includes the word “property” in its introduction,
+
+to wit: “I find that there is PROBABLE CAUSE to believe that the
+
+property described below” etc.     The word “property” in that
+
+context, however, refers to the object of the warrant and not to
+
+the “premises” or “property” being searched.
+
+     The government cites no authority and this Court has found
+
+none to indicate that all search warrants for a particular
+
+residence include within their scope authorization to search the
+
+entire premises.   In fact, warrants often specify that curtilage
+
+and/or motor vehicles may be searched, indicating that such areas
+
+or items are not automatically included within the scope of a
+
+warrant for a residence.    See, e.g., Quiles v. Kilson, 337 F.
+
+Supp. 2d 224, 227 (D. Mass. 2004)(involving a warrant authorizing
+
+search of the Apartment, including the “curtilage”).         Because the
+
+warrant in this case was limited to the Apartment itself, it did
+
+not include property outside the Apartment and thus the warrant
+
+did not authorize the search of the nearby Mazda.
+
+
+                                  -6-
+     Case 1:07-cr-10143-NMG Document 30 Filed 02/01/08 Page 7 of 16
+
+
+
+     B.    Consent
+
+           1.     Legal Standard for Consent
+
+     A search conducted pursuant to valid consent is
+
+constitutionally permissible even in absence of a warrant or
+
+probable cause.    Schneckloth v. Bustamonte, 412 U.S. 218, 222
+
+(1973).   When a prosecutor relies on consent to support the
+
+validity of a search, it is his burden to prove that consent was
+
+freely and voluntarily given.     Id.   The determination is made
+
+after considering the totality of circumstances.        Id. at 227.    A
+
+simple response of “okay” to an officer’s claim of authority to
+
+search is not voluntary consent.     United States v. Weidul, 325
+
+F.3d 50, 53-54 (1st Cir. 2003).
+
+           2.     Application
+
+     Memoranda of the parties do not elucidate the circumstances
+
+surrounding Smith’s alleged consent to the search.        At the
+
+evidentiary hearing, however, Williams testified that he told
+
+Smith he was going to search the Mazda not for the purpose of
+
+gaining consent but as a police tactic.      In response to that
+
+statement, Smith shrugged and said “go ahead”.        Looking at the
+
+totality of the circumstances, Williams’s statement, rather than
+
+a question, demonstrates that Williams did not seek (nor did
+
+Smith provide) consent to search the Mazda.
+
+     The government contends that, even if Williams did not seek
+
+consent, Smith gave it by virtue of his shrug and the comment “go
+
+
+                                  -7-
+        Case 1:07-cr-10143-NMG Document 30 Filed 02/01/08 Page 8 of 16
+
+
+
+ahead”.     The government is incorrect.      The First Circuit has made
+
+clear that acquiescence in response to a show of authority is not
+
+the equivalent to consent.       United States v. Weidul, 325 F.3d 50,
+
+53-54 (1st Cir. 2003).       In Weidul, a police officer stated to a
+
+resident, “I am going to look in here,” referring to a room in
+
+the house.     Id. at 53.    The resident replied, “Okay,” and the
+
+officer entered the room and found a gun.          Id.   The court held
+
+that the resident did not voluntarily consent to the search
+
+because a reasonable person in her shoes would have understood
+
+the officer to be asserting lawful authority to conduct the
+
+search.     Id. at 54.   Her response was merely acquiescence.           Id.
+
+The present case is analogous.        When Williams stated his intent
+
+to search the Mazda, Smith acquiesced to authority.           He did not
+
+consent to the search.
+
+     C.      The Motor Vehicle Exception
+
+             1.   Legal Standard for the Motor Vehicle Exception
+
+     The motor vehicle exception permits the warrantless search
+
+of a motor vehicle when supported by probable cause.            Coolidge v.
+
+New Hampshire, 403 U.S. 443, 460 (1971).          The justification to
+
+conduct a warrantless search of a vehicle does not depend on the
+
+reviewing court’s assessment that the car would have been driven
+
+away.     See Michigan v. Thomas, 458 U.S. 259, 261 (1982).         Nor
+
+does any particular exigency need to exist.          United States v.
+
+Panitz, 907 F.2d 1267, 1271-72 (1st Cir. 1990).
+
+
+                                     -8-
+     Case 1:07-cr-10143-NMG Document 30 Filed 02/01/08 Page 9 of 16
+
+
+
+          2.   The Motor Vehicle Exception and Private Property
+
+     Smith argues that the motor vehicle exception does not apply
+
+to cars parked on private property.       The government responds by
+
+citing a string of cases that hold that a motor vehicle may be
+
+searched upon a finding of probable cause.       All of the cited
+
+cases (with one exception noted below) involve vehicles stopped
+
+on the roadway or parked in other public places.        See, e.g.,
+
+United States v. McCoy, 977 F.2d 706, 710 (1st Cir. 1992)(holding
+
+the search of a van permissible in a bank parking lot); United
+
+States v. Panitz, 907 F.2d 1267, 1271 (1st Cir. 1990)(holding
+
+that a warrantless search is permissible if a vehicle is stopped
+
+on roadway or parked in a public place); United States v.
+
+Fiasconaro, 315 F.3d 28, 37 (1st Cir. 2002)(upholding a search in
+
+the context of a traffic stop); United States v. Lopez, 380 F.3d
+
+538 (1st Cir. 2004) (assuming without discussing that the motor
+
+vehicle exception applies when the searched car is parked in a
+
+condominium complex parking lot).       Although many of the cited
+
+cases use expansive language to suggest that probable cause is
+
+the only requirement when an officer searches a vehicle, they
+
+also contain restrictive language limiting warrantless searches
+
+of vehicles to those found on roadways or in other public places.
+
+See, e.g., Panitz, 907 F.2d at 1272 (“the existence of probable
+
+cause justifies a warrantless seizure and reasonable search of a
+
+motor vehicle lawfully stopped in transit or parked in a public
+
+
+                                  -9-
+     Case 1:07-cr-10143-NMG Document 30 Filed 02/01/08 Page 10 of 16
+
+
+
+place...”); McCoy, 977 F.2d at 710 (“probable cause alone
+
+justifies a warrantless search of a motor vehicle seized without
+
+a warrant while parked in a public place”).
+
+     The Supreme Court has also suggested that the motor vehicle
+
+exception does not apply to cars parked in residential locations.
+
+E.g., Coolidge v. New Hampshire, 403 U.S. 443 (1971) (declining
+
+to uphold a search where a vehicle is unoccupied, parked on
+
+private property and beyond the scope of a valid search incident
+
+to an arrest).   The rationale and scope of the automobile
+
+exception has changed since the Coolidge decision was rendered,
+
+however.   See, e.g., Maryland v. Dyson, 527 U.S. 465 (1999)(per
+
+curiam)(holding that the automobile exception has no separate
+
+exigency requirement); California v. Carney, 471 U.S. 386, 392-93
+
+(1985)(holding that there are two justifications for the
+
+automobile exception: the inherent mobility of automobiles and
+
+the lesser expectation of privacy because of “the pervasive
+
+regulation of vehicles capable of traveling on the public
+
+highways”).   Moreover, in a per curiam decision, the Supreme
+
+Court held that a warrantless search of an automobile in the
+
+driveway of a farmhouse did not violate the Fourth Amendment
+
+although it is unclear whether the defendant had any connection
+
+to the farmhouse.   Pennsylvania v. Labron, 518 U.S. 938 (1996).
+
+     At least five Circuit Courts have held that the motor
+
+vehicle exception applies even when a car is parked on a private
+
+
+                                  -10-
+     Case 1:07-cr-10143-NMG Document 30 Filed 02/01/08 Page 11 of 16
+
+
+
+driveway.   See, e.g., United States v. Hines, 449 F.3d 808 (7th
+
+Cir. 2006); United States v. Brookins, 345 F.3d 231 (4th Cir.
+
+2003); United States v. Flatden, 230 F.3d 1083 (8th Cir. 2000);
+
+United States v. Markham, 844 F.2d 366, 368 (6th Cir. 1988);
+
+United States v. Hamilton, 792 F.2d 837, 843 (9th Cir. 1986).2
+
+The Fourth Circuit has suggested, however, that “heightened
+
+privacy interests may be triggered when a vehicle is encountered
+
+on private property”, Brookins, 345 F.3d at 237 n.8, and the
+
+Fifth Circuit has stated that the motor vehicle exception “may
+
+not apply when a vehicle is parked at the residence of the
+
+criminal defendant challenging the constitutionality of the
+
+search” United States v. Fields, 456 F.3d 519, 525 (5th Cir.
+
+2006).
+
+     The First Circuit Court of Appeals has had at least one
+
+occasion to decide whether to apply the motor vehicle exception
+
+to an automobile parked in a private driveway.        In United States
+
+v. Moscatiello, 771 F.2d 589 (1st Cir. 1985), the First Circuit
+
+upheld the search of an automobile parked in a private driveway,
+
+stating that, although it was parked on private property, it was
+
+not parked on the defendant’s property and furthermore that the
+
+
+     2
+     The government cites an additional case from the Fourth
+Circuit, but that case, decided before the Supreme Court made
+clear that the motor vehicle exception did not require a showing
+of exigency, specifically states that the search was permissible
+because the defendant was about to drive off with the suspected
+contraband. United States v. Shepherd, 714 F.2d 316, 319-20 (4th
+Cir. 1983).
+
+                                  -11-
+     Case 1:07-cr-10143-NMG Document 30 Filed 02/01/08 Page 12 of 16
+
+
+
+police had pursued the automobile into the driveway (rather than
+
+it having been parked there indefinitely).       Id. at 599-600,
+
+vacated on other grounds by Murray v. United States, 487 U.S. 533
+
+(1988).   In this case, it is unclear whether 227 Washington
+
+Street served as Smith’s residence although he declared in an
+
+affidavit that it was not.      This Court need not decide the scope
+
+of the motor vehicle exception or whether the Mazda was parked at
+
+Smith’s residence because, notwithstanding those contingencies,
+
+there was no probable cause to search the vehicle.
+
+     D.    Probable Cause
+
+           1.     Legal Standard
+
+     Probable cause to search a vehicle requires that at the time
+
+of the search, the officer had “reasonably trustworthy
+
+information of supporting facts and circumstances” to justify the
+
+search.   United States v. Infante-Ruiz, 13 F.3d 498, 502 (1st
+
+Cir. 1994).     Probable cause exists when there is a fair
+
+probability that contraband or evidence will be found in the
+
+place described.     United States v. Moore, 790 F.2d 13, 15 (1st
+
+Cir. 1986).     A probable cause determination should be based on
+
+the totality of the circumstances.        Illinois v. Gates, 462 U.S.
+
+213 (1983).
+
+           2.     Application
+
+     The government asserts the following sources of support for
+
+a finding of probable cause:
+
+
+                                   -12-
+     Case 1:07-cr-10143-NMG Document 30 Filed 02/01/08 Page 13 of 16
+
+
+
+                a.   Pre-raid Observations
+
+     Prior to obtaining a search warrant and in preparation for
+
+executing it, Medeiros conducted surveillance on the Apartment
+
+and observed heavy foot traffic in and out, which indicated the
+
+likelihood of drug activity.     The activity Medeiros observed took
+
+place inside the apartment and did not involve the Mazda.
+
+Although the CW told Medeiros that Smith drove a red Mazda, he
+
+did not indicate that Smith used the Mazda to deliver drugs,
+
+reporting instead that Smith sold drugs out of the Apartment.          On
+
+the day the police executed the search warrant, Medeiros also saw
+
+a man later identified as Smith get out of the Mazda and approach
+
+a silver car in his driveway.     Medeiros stated that he believed
+
+that he was witnessing a drug deal but Medeiros did not see an
+
+exchange, Smith did not re-enter the Mazda and the owner of the
+
+silver car turned out to be the female later arrested in the
+
+Apartment.   Because the pre-raid observations did not connect
+
+contraband or evidence of a crime to the Mazda, they are
+
+insufficient to establish probable cause to search the Mazda.
+
+See United States v. Garcon, 2008 WL 60405, at *12 (S.D. Fla.
+
+Jan. 3, 2008)(holding that the police lacked probable cause and
+
+noting that the police had not observed the defendant
+
+transporting, storing or conducting any drug business or other
+
+illegal activity from his vehicle); United States v. Gunning, 405
+
+F. Supp. 2d 79, 83 (D. Mass. 2005)(allowing a motion to suppress
+
+
+                                  -13-
+        Case 1:07-cr-10143-NMG Document 30 Filed 02/01/08 Page 14 of 16
+
+
+
+because, although police had probable cause relating to general
+
+criminal activity, that was not sufficient to justify a
+
+warrantless search or seizure of an automobile). Cf. United
+
+States v. Brown, 923 F.2d 109, 110 (8th Cir. 1991)(anonymous tip
+
+that defendant was dealing drugs out of a car, confirmed by
+
+police observation of hand movements and brief exchange in
+
+vehicle established probable cause for a warrantless search of
+
+the vehicle).
+
+                   b.    Evidence of Drugs and Firearms Seized From
+                         the Apartment
+
+     In the search of the Apartment, the police uncovered crack
+
+cocaine, a digital scale and ammunition as well as a black bag
+
+containing cutting agent, a holster and paperwork bearing Smith’s
+
+name.    The government asserts that those discoveries made it
+
+probable that additional contraband, such as a gun, would be
+
+found in the Mazda.       The finding of contraband in one location
+
+occupied by a defendant does not, however, establish probable
+
+cause that contraband will be found in every location frequented
+
+by the defendant.       See United States v. Hogan, 25 F.3d 690, 694
+
+(8th Cir. 1994)(holding that information that defendant drove a
+
+truck to work where he distributed drugs and discovery of small
+
+amount of marijuana, two scales, weapons, a police scanner and
+
+$5,600 in cash during search of home did not establish probable
+
+cause to search second automobile owned by defendant).            Even
+
+though the police found a bag with a holster and paperwork
+
+                                     -14-
+     Case 1:07-cr-10143-NMG Document 30 Filed 02/01/08 Page 15 of 16
+
+
+
+bearing Smith’s name, they had no particular facts to link, by a
+
+fair probability, his vehicle to additional contraband.          See
+
+United States v. Holly, 219 F. Supp. 2d 117, 125-26 (D.D.C. 2002)
+
+(holding that police lacked probable cause to search a vehicle
+
+after a cursory search of the defendant’s apartment revealed
+
+ammunition but no firearm).     Cf. United States v. Dickerson, 2008
+
+WL 192295 (1st Cir. Jan. 24, 2008)(holding that police had
+
+probable cause to search car where they found drugs in
+
+defendant’s house, defendant was evasive about owning the
+
+searched car, an informant had told police that defendant carried
+
+a handgun in a hidden console in his car and police officer
+
+observed alterations in undercarriage of car indicating a hidden
+
+console); United States v. Spenser, 1 F.3d 742, 746 (9th Cir.
+
+1993)(holding that police had probable cause to believe that a
+
+vehicle contained a firearm because the defendant was wearing a
+
+holster and made suspicious movements while sitting in the
+
+vehicle); United States v. Wider 951 F.2d 1283, 1286 (D.C. Cir.
+
+1991)(finding probable cause where the defendant was on foot,
+
+drugs packaged for sale were found on his person and his car was
+
+parked nearby).    Consequently, finding contraband in the
+
+apartment did not establish probable cause to search the Mazda.
+
+                  c.   The Knowledge and Experience of the Officers
+
+     The government also asserts that the searching officers
+
+believed, based on their knowledge and experience, that drug
+
+
+                                  -15-
+      Case 1:07-cr-10143-NMG Document 30 Filed 02/01/08 Page 16 of 16
+
+
+
+dealers typically make deliveries of narcotics in vehicles and
+
+that it was therefore probable that Smith’s Mazda contained
+
+contraband.   Probable cause must be based, however, on supporting
+
+facts and circumstances.     Infante-Ruiz, 13 F.3d at 502.        Probable
+
+cause may not be based on “conventional wisdom” or reputation.
+
+Id.   Without specific information linking the Mazda to contraband
+
+or evidence of a crime, the police did not have probable cause to
+
+search the Mazda.
+
+      Because the search warrant did not include the Mazda within
+
+its scope, Smith did not give his consent to search the car and
+
+there was no probable cause to search the car, the defendant’s
+
+motion to suppress will be allowed.
+
+
+
+                                  ORDER
+
+      In accordance with the foregoing, the defendant’s Motion to
+
+Suppress Evidence (Docket No. 23) is ALLOWED.
+
+
+
+So ordered.
+
+                                  /s/Nathaniel M. Gorton
+                                  Nathaniel M. Gorton
+                                  United States District Judge
+Dated February 1, 2008
+
+
+
+
+                                   -16-
+

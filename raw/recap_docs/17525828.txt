@@ -1,0 +1,260 @@
+                             UNITED STATES DISTRICT COURT
+                           FOR THE DISTRICT OF RHODE ISLAND
+
+UNITES STATES OF AMERICA
+
+vs.                                                     CR No. 99-091-ML
+
+JOSE ANTONIO DIAZ
+
+                                  MEMORANDUM AND ORDER
+
+        Before this Court is Jose Antonio Diaz's motion to reduce sentence pursuant to 28 U.S.C.
+
+§3582(c)(2) (Doc. #61). For the reasons that follow, that motion is denied.
+
+                           FACTUAL BACKGROUND AND TRAVEL
+
+        In January 2000 Diaz pled guilty to robbery and firearms charges, including conspiracy to
+
+rob a federally-insured financial institution, in violationof18 U.S.C. §371 (Count I); armed robbery
+
+ofafederally-insured bank, in violation of18 U.S.C. §§ 2113 (a) and (d)(CountII); using a firearm
+
+in the commission of a crime of violence, in violation of 18 U.S.C. §924(c) (Count IV); and
+
+possessing a firearm after having been convicted of a felony, in violation of 18 U.S.C. §922(g)(l)
+
+(Count V). 1 According to the prosecution's version of events, Diaz and an accomplice committed
+
+an armed robbery of a Fleet Bank in East Providence, Rhode Island on August 6, 1999. The
+
+accomplice was armed with a pistol grip shotgun and Diaz was armed with what appeared to be a
+
+handgun that he had stolen in an earlier robbery. Diaz and his accomplice absconded with
+
+$32,805.50 from the bank and a gold necklace from a customer. 2 The two robbers were also
+
+implicated in three other convenience store or fast-food restaurant robberies. (See Transcript of
+
+Change of Plea Hearing conducted on January 18,2000 ["Plea Tr."] at 16-18.)
+
+
+
+        1   Count III was dismissed at the request of the Government.
+
+        2  The accomplice, Ruben Ramirez, pled guilty to similar charges, and was sentenced, in a
+separate proceeding.
+        The presentence report (PSR) calculated offense levels of23 for the robbery offenses (Counts
+
+I and II) and 26 for the firearm possession offense (Count V) (PSR, ~~ 14-28), but also found that
+
+Diaz was an armed career criminal and calculated an offense level of 34 in connection with the
+
+§924(c) offense (Count IV) (Id., ~~ 29-30.)3 At sentencing Diaz denied that the weapon he used
+
+during the robbery was a firearm and claimed that it was actually an air-powered BB gun. After an
+
+evidentiary hearing, the Court (Lagueux, J.) found that the gun was in fact a fully functioning firearm
+
+that Diaz had stolen in an earlier robbery of a convenience store (See Transcript of Sentencing
+
+Hearing conducted on April27, 2000 ["Sent Tr."] at 80-82.) The Court established Diaz's offense
+
+level at 34, based on his status as an armed career criminal, and sentenced him to 60 months
+
+imprisonment on Count I and 262 months imprisonment on Counts II and V, all to be served
+
+concurrently, and to 84 months imprisonment on Count IV, to be served consecutively to the
+
+sentences on Counts I, II and V. (Id. at 83,91-92.)
+
+        Diaz's conviction and sentence were affirmed on appeal, United States v. Diaz, Dkt. No. 00-
+
+1783,27 Fed.Appx. 2 (Ist Cir. Nov. 16,2001), and his various requests for postconviction relief
+
+filed in this Court have been denied. 4
+
+        Diazthen filed the instant motion to reduce his sentence pursuant to 18 U.S.C. § 3582 (c)(2),
+
+relying on Amendment 599 to the United States Sentencing Guidelines. The Government opposes
+
+the motion. (See Government's Response [Doc. #64].)
+
+
+
+
+         3   As noted by the sentencing court, the PSR inadvertently reversed the references to Counts IV
+and V in its discussion of offense levels. (See PSR at 10.) This Court refers to the respective counts as
+set forth in the Indictment (Doc. #1) and Judgment (Doc. #33).
+
+        4  See ~ Order (Doc. #60) entered on July 16,2008 denying Motion for Correction of
+Sentence pursuant to USSG Amendment 709. See also Order denying Motion to Vacate (Doc. #8) in
+Diaz v. United States, CA 09-507-L (D.R.I. Feb. 13, 2003).
+                                                  -2-
+                                              DISCUSSION
+
+        In his motion, Diaz asserts that his sentence was improperly enhanced twice for the use of
+
+the firearm: first in connection with his sentencing on Count II, the robbery offense, and then as to
+
+Count IV, the subject of a separate offense and separate sentence. Seeking to 'correct' this, Diaz
+
+invokes Guideline Amendment 599, which took effect on November 1,2000,5 six months after he
+
+was sentenced. Diaz contends that based on Amendment 599, his sentence on Count IV should be
+
+reduced. (Motion to Reduce at 2-4; Reply at 1-3.)
+
+   As a threshold matter, the Government points out that Diaz faces procedural hurdles in asserting
+
+the instant motion -- contending (1) that Diaz is precluded from raising his claim some ten years after
+
+the basis for it (i.e., the promulgation ofAmendment 599) first appeared, where he failed to raise it
+
+on direct appeal or in his earlier postconviction filings; and (2) that the proper vehicle for asserting
+
+such a claim is a motion to vacate or set aside or correct his sentence under 28 U.S.C. § 2255, rather
+
+than § 3582(c). (Gov't Response at 2-3.) However, this Court need not address these procedural
+
+issues, because it is clear in any event that Diaz's claim fails on the merits.
+
+       Diaz's claim is foreclosed by established case law in this circuit. See United States v. Hickey,
+
+280 F.3d 65 (1st Cir. 2002). In Hickey, the defendant, relying on Amendment 599, filed a motion
+
+under §3582(c)(2) to reduce his sentence imposed eleven years earlier for armed robbery, in violation
+
+of 18 U.S.C. §§ 371, 2113(d), and use ofa firearm during the commission of an armed robbery, in
+
+
+
+       5   Amendment 599 amends Commentary 2 to USSG §2K2.4 to provide in pertinent part:
+           If a sentence under this guideline is imposed in conjunction with a sentence for an
+           underlying offense, do not apply any specific offense characteristic for possession,
+           brandishing, use, or discharge of an explosive or firearm when determining the
+           sentence for the underlying offense.
+USSG Guidelines Manual, Supp. to App. C, Amendment 599, 2d para. See also id., Amend. 607 (making
+Amendment 599 retroactive).
+                                                     -3-
+violation of § 924(c). The district court granted the motion and re-sentenced Hickey to a lesser
+
+sentence. Id. at 65. The Court of Appeals noted that Hickey had been sentenced under the armed
+
+career criminal guideline, US SG §4B1.1 , rather than under the guidelines for his underlying offenses
+
+and that therefore Amendment 599 did not apply. Hickey, 280 F.3d at 69. The court held that the
+
+district court was withoutjurisdiction to modify Hickey's sentence and vacated the reduced sentence.
+
+Id. at 66, 69. Hickey thus "stands for the proposition that a sentencing court has no authority to
+
+entertain a sentence reduction motion under section 3582(c)(2) when the guideline amendment in
+
+question does not affectthe guideline sentencing range actually used by the sentencing court." United
+
+States v. Caraballo, 552 F.3d 6, 11 (1st Cir. 2008) (citing Hickey, 280 F.3d at 69).
+
+       Here, Diaz was similarly convicted of both armed robbery (Count II) and two firearms
+
+offenses -- using a firearm in the commission of a felony (the §924(c) offense, Count IV) and being
+
+a felon in possession of a firearm (the §922(g) offense, Count V). His sentence was similarly based
+
+on the offense level found under the armed career criminal guideline, USSG § 4B1.1, rather than on
+
+the lower offense levels for his underlying offenses. (PSR,   ~~   30,66). See Caraballo, 552 F.3d at
+
+9-10 (noting that where career offender guideline offense level is greater than that for underlying
+
+offense(s), sentencing court must use career offender guideline).
+
+       Moreover, the guideline enhancements calculated in connection with Diaz's underlying
+
+offenses (although not ultimately used) did not include any enhancement for "possession,
+
+brandishing, use, or discharge of a ... firearm," under USSG §2K2.4, which was the subject of
+
+Amendment 599. Rather, the only enhancements used in connection with his robbery offense were
+
+based on the facts that the subject of the robbery was a federal financial institution and the amount
+
+of loss was more than $10,000. (pSR,       ~~   14-16.) Thus, there was no "double counting" in
+
+
+                                                 -4-
+connection with Diaz's use of a firearm and no error in sentencing.
+
+           In short, Amendment 599 did not affect the guideline sentencing range used by the sentencing
+
+court in imposing Diaz's sentence, and therefore this Court has no authority to entertain the instant
+
+motion under §3582(c)(2). See Hickey, 280 F.3d at 69.
+
+
+           This Court has considered all ofDiaz's other arguments and finds them to be without
+
+merit. 6
+
+                                             CONCLUSION
+
+           For all of the foregoing reasons, Diaz's motion to reduce sentence is hereby DENIED and
+
+DISMISSED.
+
+
+
+
+         6   Diaz filed a Notice of Supplemental Authority (Doc. #66), invoking United States v. O'Brien,
+130 S.Ct. 2169 (2010). That decision, however, is inapposite to the instant case, as it simply holds that
+the type offirearm involved, a machine gun, was an element ofa use-of-firearm offense under 18 U.S.C.
+§924(c)(1 )(B) to be proved beyond a reasonable doubt rather than a sentencing factor for that offense.
+Id. at 2180.
+         Other cases cited by Diaz in his papers are either distinguishable or do not support his position.
+His reliance on Simpson v. United States, 435 U.S. 6 (1978) (Motion to Reduce at 2, Notice of
+Addendum at 3), overlooks the fact that that decision was abrogated by the amendments to §924(c)
+pursuant to the Comprehensive Crime Control Act of 1984, P.L. 98-473, §1005(a). See M. United States
+v. Gonzales, 520 US 1, 10 (1997) (noting abrogation). The decision in United States v. Dillon, 572 F3d
+146 (3d Cir. 2009), affd, Dillon v. United States, 130 S.Ct. 2683 (2010), simply held that where a
+Guideline Amendment is made retroactive, any sentence reduction must be within the lower guideline
+range resulting from the amendment and is likewise inapposite.
+         United States v. Cruz-Rodriguez, 541 F.3d 19 (1st Cir. 2008), is factually distinguishable. See id.
+at 33-34 (no double counting where defendant's drug offense sentence was enhanced by his use of a
+firearm, but accompanying offense was possession of a firearm near a school zone in violation of §924(a)
+rather than a use-of-firearm offense under §924(c». Finally, United States v. Williams, 558 F3d 166 (2d
+Cir. 2009), not only conflicts with First Circuit law, see United States v. Pulido, 566 F3d 52 (1st Cir.
+2009), but was abrogated by Abbott v. United States, 131 S.Ct. 18, (2010) (holding that defendant was
+subject to consecutive sentence for possessing firearm in furtherance of felony drug offense under
+§924(c), despite higher minimum sentences for his separate convictions for related offenses).
+
+                                                    -5-
+                      RULING ON CERTIFICATE OF APPEALABILITY
+
+       Pursuant to Rule l1(a) of the Rules Governing § 2255 Proceedings in the United States
+
+District Courts ("§ 2255 Rules"), this Court hereby finds that this case is not appropriate for the
+
+issuance of a certificate of appealability (COA), because Diaz has failed to make a substantial
+
+showing ofthe denial ofa constitutional right as to any claim, as required by 28 U.S.C. §2253(c)(2).
+
+       Diaz is advised that any motion to reconsider this ruling will not extend the time to file a
+
+notice of appeal in this matter. See § 2255 Rule 11(a).
+
+
+SO ORDERED:
+
+
+   ~ on. rA:M--
+MaryM.     Sl
+Chief United States District Judge
+
+Date: June ~3, 2011
+
+
+
+
+                                                -6-
+

@@ -1,0 +1,181 @@
+Case 1:06-cr-00014-JAW Document 20 Filed 03/31/06 Page 1 of 4                   PageID #: 46
+
+
+
+                           UNITED STATES DISTRICT COURT
+                                DISTRICT OF MAINE
+
+
+  UNITED STATES OF AMERICA                      )
+                                                )
+         v.                                     )          CR-06-14-B-W
+                                                )
+  STEVEN LEMIEUX                                )
+                                                )
+                 Defendant.                     )
+
+
+                 ORDER ON GOVERNMENT’S MOTION IN LIMINE
+
+         Defendant Steven Lemieux may not open a predicate conviction to collateral
+
+  attack at the upcoming trial for a firearms offense.
+
+  I. Statement of Facts
+
+         Steven Lemieux is charged in a two-count Indictment alleging that on two
+
+  separate occasions in 2005 he knowingly made false statements to a firearms dealer
+
+  intended to or likely to deceive the dealer for the purpose of buying a firearm, conduct in
+
+  violation of 18 U.S.C. § 922(a)(6). More specifically, the Government alleges that Mr.
+
+  Lemieux answered “No”, to question 12.i. of a Department of the Treasury, Bureau of
+
+  Alcohol, Tobacco and Firearms, Firearms Transaction Record (ATF Form 4473), which
+
+  reads as follows: “Have you ever been convicted of a misdemeanor crime of domestic
+
+  violence?”.   The Government anticipates that, contrary to this representation, the
+
+  evidence will show that on February 4, 2004, the defendant was found guilty after trial in
+
+  Maine Superior Court of assault in violation of 17-A M.R.S.A. § 207(1), that the victim
+
+  of the assault was his wife, and that the defendant’s conviction was affirmed on January
+
+  5, 2005 - one week before the first alleged violation.
+Case 1:06-cr-00014-JAW Document 20 Filed 03/31/06 Page 2 of 4                          PageID #: 47
+
+
+
+         Having learned that the Defendant claims he is actually innocent of assaulting his
+
+  wife, the Government filed a motion in limine to preclude “defense counsel from
+
+  inquiring into the underlying factual basis for the defendant’s conviction for a
+
+  misdemeanor crime of domestic violence (except for the fact that the victim was the
+
+  defendant’s wife) and precluding the defendant from making any statement, spontaneous
+
+  or otherwise, concerning his claim of innocence.”         See Gov.’s Mot. in Limine at 2
+
+  (Docket # 17). Defendant objects. Def.’s Obj. to Gov.’s Mot. in Limine (Docket # 19).
+
+  II. Discussion
+
+         Section 922(a) provides that it shall be unlawful:
+
+         (6) for any person in connection with the acquisition or attempted acquisition of
+         any firearm or ammunition from a licensed importer, licensed manufacturer,
+         licensed dealer, or licensed collector, knowingly to make any false or fictitious
+         oral or written statement or to furnish or exhibit any false, fictitious, or
+         misrepresented identification, intended or likely to deceive such importer,
+         manufacturer, dealer, or collector with respect to any fact material to the
+         lawfulness of the sale or other disposition of such firearm or ammunition under
+         the provisions of this chapter.
+
+  Id. (emphasis supplied). Jury instructions in the First Circuit have clarified that the
+
+  Government need prove three elements: (1) that defendant knowingly made a false
+
+  statement as charged in the Indictment; (2) that at the time he made the statement,
+
+  defendant was trying to buy a firearm from a licensed firearm dealer; and, (3) that the
+
+  statement was intended to, or likely to, deceive the licensed dealer about a fact material to
+
+  the lawfulness of the sale. See Judge Hornby’s Revisions to the Pattern Criminal Jury
+
+  Instructions for the District Courts of the First Circuit (2005) at § 4.18.922(a).
+
+         Here, the gravamen of the Indictment was that the false statements on the firearms
+
+  applications concerned his prior conviction. As such, the Government “bears the initial
+
+  burden of showing that the defendant was indeed convicted of a predicate misdemeanor
+
+
+
+                                                2
+Case 1:06-cr-00014-JAW Document 20 Filed 03/31/06 Page 3 of 4                   PageID #: 48
+
+
+
+  offense….” United States v. Hartsock, 347 F.3d 1, 4 (1st Cir. 2003). In Hartsock, for
+
+  example, the Government carried its burden “by introducing a certified copy of
+
+  Hartsock’s conviction for assault and by Hartsock’s stipulation that the assault involved
+
+  domestic violence.” Id. Although the Defendant ma y raise the affirmative defense that
+
+  the conviction falls within a statutory exception for which he has the burden of
+
+  persuasion, id. at 7-9, there is nothing to suggest Mr. Lemieux’s objection to the
+
+  conviction does so. He is also free to collaterally attack his conviction in another forum,
+
+  see United States v. Snyder, 235 F.3d 42, 51-52 (1st Cir. 2000), but there is no suggestion
+
+  he has done so.
+
+         Instead, Mr. Lemieux asserts the right to claim during his trial on the pending
+
+  charge that he was actually innocent of the predicate conviction. This he cannot do. The
+
+  United States Supreme Court resolved this issue in Lewis v. United States, 445 U.S. 55
+
+  (1980). Lewis expressly held that a “firearms prosecution does not open the predicate
+
+  conviction to a new form of collateral attack.” Id. at 67. In Lewis, the Court upheld the
+
+  use of a predicate conviction in a felon in possession case, despite the fact it “was
+
+  uncounseled and therefore obtained in violation of the Sixth and Fourteenth Amendment
+
+  rights of the defendant….” See United States v. Mendoza-Lopez, 481 U.S. 828, 840
+
+  (1987)(explaining Lewis); Snyder, 235 F.3d at 51-53 (conviction later vacated can still
+
+  serve as a predicate conviction); United States v. Currier, 821 F.2d 52, 59-60 (1st Cir.
+
+  1987)(Lewis extends to convictions while on appeal).
+
+  II. Conclusion
+
+         The Government’s motion in limine (Docket No. 17) is GRANTED. Defense
+
+  counsel is prohibited from inquiring into the underlying factual basis for the defendant’s
+
+
+
+
+                                              3
+Case 1:06-cr-00014-JAW Document 20 Filed 03/31/06 Page 4 of 4                PageID #: 49
+
+
+
+  conviction for a misdemeanor crime of domestic violence (except for the fact that the
+
+  victim was defendant’s wife), and, if he elects to testify, Defendant is precluded from
+
+  making any statement concerning his claim of innocence of the conduct underlying the
+
+  predicate offense.
+
+         SO ORDERED.
+
+                                             /s/ John A. Woodcock, Jr.
+                                             JOHN A. WOODCOCK, JR.
+                                             UNITED STATES DISTRICT JUDGE
+
+  Dated this 31st day of March, 2006
+
+
+
+
+                                             4
+

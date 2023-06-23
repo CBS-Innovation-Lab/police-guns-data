@@ -1,0 +1,175 @@
+    Case 1:08-cr-00154-JAW Document 23 Filed 02/20/09 Page 1 of 4                 PageID #: 46
+
+
+
+                                     UNITED STATES DISTRICT COURT
+                                          DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA                                 )
+                                                         )
+           v.                                            )        CR-08-154-B-W
+                                                         )
+MICHAEL WYMAN                                            )
+
+
+                                     ORDER ON MOTION TO DISMISS
+
+           Charged with possession of a firearm after having been convicted of a misdemeanor
+
+crime of domestic violence, Michael Wyman raises by motion to dismiss the Indictment
+
+arguments about infringement on his Second Amendment rights, the absence of a domestic
+
+partner element in the state of Maine assault statute, and the lack of scienter necessary for a
+
+predicate conviction. The Court has previously considered and rejected each of these arguments
+
+in other cases and does so again.
+
+I.         STATEMENT OF FACTS
+
+           On August 13, 2008, a federal grand jury indicted Michael Wyman for possessing a
+
+firearm after having been convicted of a misdemeanor crime of domestic violence, an alleged
+
+violation of 18 U.S.C. § 922(g)(9).1 Indictment (Docket # 1). On January 16, 2009, Mr. Wyman
+
+moved to dismiss the Indictment; the Government has filed its opposition. Mot. to Dismiss
+
+Indictment (Docket # 14) (Def.’s Mot.); Gov’t’s Resp. to Mot. to Dismiss Indictment (Docket #
+
+16) (Gov’t’s Resp.).           In the motion, Mr. Wyman raises a number of issues the Court has
+
+previously addressed in other cases and some new ones.
+
+
+
+
+1
+    The Indictment also contains a forfeiture claim, not relevant here.
+ Case 1:08-cr-00154-JAW Document 23 Filed 02/20/09 Page 2 of 4                   PageID #: 47
+
+
+
+II.    DISCUSSION
+
+       A.     Motion to Dismiss the Indictment
+
+       “A court should exercise its authority to dismiss cautiously, since to dismiss an
+
+indictment „directly encroaches upon the fundamental role of the grand jury.‟” United States v.
+
+Thomas, 519 F. Supp. 2d 141, 143-44 (D. Me. 2007) (quoting Whitehouse v. United States Dist.
+
+Court, 53 F.3d 1349, 1360 (1st Cir. 1995)); see also United States v. Knox, 396 U.S. 77, 83 n.7
+
+(1969); United States v. Nai Fook Li, 206 F.3d 56, 62 (1st Cir. 2000); United States v. Russell,
+
+919 F.2d 795, 797-98 (1st Cir. 1990); United States v. Alfonso, 143 F.3d 772, 776-77 (2nd Cir.
+
+1998) (“Unless the government has made what can fairly be described as a full proffer of the
+
+evidence it intends to present at trial to satisfy the jurisdictional element of the offense, the
+
+sufficiency of the evidence is not appropriately addressed on a pretrial motion to dismiss an
+
+indictment.”); United States v. Parker, 165 F. Supp. 2d 431, 458 (W.D.N.Y. 2001).
+
+       B.     The Second Amendment, Heller, and 18 U.S.C. § 922(g)(9)
+
+       Mr. Wyman contends that his right to bear arms under the Second Amendment as
+
+recently explained by the United States Supreme Court in District of Columbia v. Heller, 128 S.
+
+Ct. 2783 (2008), trumps the criminal prohibition against his possession of firearms. The Court
+
+addressed and rejected this exact argument in United States v. Booker, 570 F. Supp. 2d 161 (D.
+
+Me. 2008). Since then, Judge Hornby of this District has concurred. United States v. Knight,
+
+574 F. Supp. 2d 224 (D. Me. 2008). Other district courts have also agreed. United States v.
+
+Marzzarella, No. 07-24 Erie, 2009 U.S. Dist. LEXIS 2836, at *6 (W.D. Pa. Jan. 14, 2009)
+
+(collecting cases); United States v. Luedtke, No. 08-CR-189, 2008 U.S. Dist. LEXIS 96597 (E.D.
+
+Wis. Nov. 18, 2008); United States v. Erwin, No. 07-CR-556 (LEK), 2008 U.S. Dist. LEXIS
+
+78148, at *2-7 (N.D.N.Y. Oct. 6, 2008); United States v. Yancey, No. 08-cr-103-bbc, 2008 U.S.
+
+
+
+                                               2
+ Case 1:08-cr-00154-JAW Document 23 Filed 02/20/09 Page 3 of 4                    PageID #: 48
+
+
+
+Dist. LEXIS 77878 (W.D. Wis. Oct. 3. 2008); United States v. Li, No. 08-CR-212, 2008 U.S.
+
+Dist. LEXIS 100867, at *3-14 (E.D. Wis. Sept. 22, 2008). The Court reaffirms its Booker ruling.
+
+       C.      Failure to State a Federal Offense: Generic Assault Statute
+
+       Mr. Wyman‟s second argument is now before the United States Supreme Court in United
+
+States v. Hayes, No. 07-608 (U.S. argued Nov. 10, 2008). He contends that because the state of
+
+Maine assault statute under which he was convicted lacks a spousal or domestic partner
+
+requirement as an element, a conviction under the generic assault statute in Maine does not
+
+qualify as a prior “misdemeanor crime of domestic violence” for § 922(g)(9). 18 U.S.C. §§
+
+921(a)(33)(A), 922(g)(9). At least until Hayes is decided, the First Circuit case of United States
+
+v. Meade controls this issue. 175 F.3d 215 (1st Cir. 1999). In Meade, the First Circuit ruled that
+
+“only the mode of aggression, not the relationship status between perpetrator and victim, must
+
+appear within the formal definition of an antecedent misdemeanor to constitute it as a predicate
+
+offense.” Id. at 218-19. Until the Supreme Court or the First Circuit says otherwise, Meade
+
+remains good and binding law within this Circuit. United States v. Booker, 555 F. Supp. 2d 218,
+
+220 (D. Me. 2008).
+
+       D.      Failure to Allege Intentional Conduct
+
+       The Court has already addressed Mr. Wyman‟s third issue: whether the reckless conduct
+
+scienter requirement for a conviction under Maine‟s assault statute meets the mens rea element
+
+in the statutory phrase “use or attempted use of physical force.” In Booker, the Court rejected
+
+the same arguments Mr. Wyman is raising and it does so here for precisely the same reasons.
+
+555 F. Supp. 2d at 220- 27.
+
+III.   CONCLUSION
+
+       The Court DENIES the Defendant‟s Motion to Dismiss Indictment (Docket # 14).
+
+
+
+                                                3
+ Case 1:08-cr-00154-JAW Document 23 Filed 02/20/09 Page 4 of 4    PageID #: 49
+
+
+
+       SO ORDERED.
+
+
+                                        /s/ John A. Woodcock, Jr.
+                                        JOHN A. WOODCOCK, JR.
+                                        CHIEF UNITED STATES DISTRICT JUDGE
+
+
+Dated this 20th day of February, 2009
+
+
+
+
+                                          4
+

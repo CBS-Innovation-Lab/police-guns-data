@@ -1,0 +1,408 @@
+Case 2:06-cr-00026-GZS Document 86 Filed 10/14/16 Page 1 of 8                   PageID #: 615
+
+
+
+                           UNITED STATES DISTRICT COURT
+                                DISTRICT OF MAINE
+
+ RICHARD DIMOTT,                               )
+                                               )
+                       Petitioner,             )
+                                               )
+ v.                                            )
+                                               ) Docket nos. 2:06-cr-26-GZS &
+ UNITED STATES OF AMERICA,                     )             2:16-cv-347-GZS
+                                               )
+                       Defendant.              )
+                                               )
+
+
+                      ORDER ON MOTION UNDER 28 U.S.C. § 2255
+
+
+       Before the Court is Dimott’s Motion under 28 U.S.C. § 2255 (ECF No. 74 in D. Me. Docket
+
+# 2:06-cr-26-GZS). The Government filed its Response opposing the Motion (ECF No. 79) on
+
+August 3, 2016. Dimott then filed his Reply (ECF No. 82) on September 8, 2016, and, with
+
+permission from the Court, the Government filed its Sur-Reply (ECF No. 85) on September 13,
+
+2016. For the reasons explained herein, the Court now DENIES the Motion.
+
+
+
+I.     PROCEDURAL HISTORY
+
+       On September 10, 2007, the Court sentenced Richard Dimott on two separate pending
+
+cases. In District of Maine Docket # 2:06-cr-19-GZS, Dimott was sentenced to six months
+
+imprisonment for one count of criminal contempt. In District of Maine Docket # 2:06-cr-26-GZS,
+
+Dimott was sentenced to serve a concurrent 150 months of imprisonment on one count of being a
+
+felon in possession of a firearm. With respect to this latter charge, Dimott was found to be an
+
+armed career criminal under the Armed Career Criminal Act (ACCA), 18 U.S.C. § 924(e).
+
+Specifically, the Court referenced “eight separate counts of burglary” in sentencing Dimott under
+Case 2:06-cr-00026-GZS Document 86 Filed 10/14/16 Page 2 of 8                    PageID #: 616
+
+
+
+ACCA (PSR ¶ 26), which included the following: (1) a November 30, 1990, Maine Burglary
+
+conviction (PSR ¶ 32); (2) a February 28, 1992, Maine Burglary conviction (PSR ¶ 35); (3) a July
+
+9, 1996, Maine Burglary conviction (PSR ¶ 36); (4) a November 8, 1995, Maine Burglary
+
+conviction (PSR ¶ 37); (5) a June 16, 2000, Maine Burglary conviction consisting of two separate
+
+burglary counts (PSR ¶ 38); (6) and another June 16, 2000, Maine Burglary conviction consisting
+
+of two separate burglary counts (PSR ¶ 40).
+
+   The Shepard-approved documents provided by the Government in connection with the pending
+
+motion provide the following additional information regarding Dimott’s Maine burglary
+
+convictions:
+
+   (1) Dimott’s November 30, 1990, Maine Burglary conviction (PSR ¶ 32) was a conviction for
+       a Class C burglary in violation of 17-A M.R.S. § 401 based on his entry to a structure
+       “namely, a place of business . . . located at 255 Congress Street.” (Gov’t Ex. 1 (ECF No.
+       79-1) at Page ID # 521 & 523.)
+   (2) Dimott’s February 28, 1992, Maine Burglary conviction (PSR ¶ 35) was a conviction for
+       Class C burglary in violation of 17-A M.R.S. § 401 based on his entry to a structure
+       “namely, a place of business . . . located on Vaughn Street.” (Gov’t Ex. 2 (ECF No. 79-2)
+       at Page ID # 531 & 532.)
+   (3) Dimott’s July 9, 1996, Maine Burglary conviction (PSR ¶ 36) was a conviction for Class
+       C burglary in violation of 17-A M.R.S. § 401 based on his entry to a structure “namely, a
+       place of business . . . located at 35 Union Wharf.” (Gov’t Ex. 3 (ECF No. 79-3) at Page
+       ID # 535 & 537.)
+   (4) Dimott’s November 8, 1995, Maine Burglary conviction (PSR ¶ 37) consisted of two
+       counts of Class C burglary in violation of 17-A M.R.S. § 401 based on his entry to two
+       structures: “a place of business . . . located at 53 York Street” (Count I) and “a place of
+       business . . . located at 30 Danforth Street” (Count II). (Gov’t Ex. 4 (ECF No. 79-4) at
+       Page ID # 545-46 & 548.)
+   (5) Dimott’s June 16, 2000, Maine Burglary conviction (PSR ¶ 38) consisted of two separate
+       burglary counts, which are both listed as Class B crimes in violation of 17-A M.R.S.
+
+
+
+                                                2
+Case 2:06-cr-00026-GZS Document 86 Filed 10/14/16 Page 3 of 8                       PageID #: 617
+
+
+
+         § 401(C). Count I alleges entry to “a structure, namely an office trailer, operated by
+         Thaxter Company, located at 856 Brighton Avenue.” (Gov’t Ex. 5 (ECF No. 79-5) at Page
+         ID # 556.) Count III alleges entry to “a structure, namely The Breakwater School, located
+         at 856 Brighton Avenue.” (Gov’t Ex. 5 at Page ID # 557.)
+      (6) Dimott’s other June 16, 2000, Maine Burglary conviction (PSR ¶ 40) consisted of two
+         separate burglary counts, which are both listed as Class B crimes in violation of 17-A
+         M.R.S. § 401(C). Count I alleges, in relevant part, that Dimott entered “a structure, namely
+         a garage . . . located at 33 Hawkes Street.” (Gov’t Ex. 6 (ECF No. 79-6) at Page ID # 572.)
+         Count III alleges, in relevant part, that Dimott entered “a structure, namely a garage . . .
+         located at 23 Haskell Street.” (Gov’t Ex. 6 at Page ID # 573.)
+
+Dimott did not file a direct appeal of the sentence imposed on September 10, 2007. His current
+
+estimated release date is March 13, 2017.
+
+         The pending petition is Dimott’s first habeas petition. Following the Supreme Court’s
+
+decisions in Johnson v. United States, 135 S. Ct. 2551 (2015) (Johnson II) and Mathis v. United
+
+States, 136 S. Ct. 2243 (2016), Dimott now argues that he no longer has the three requisite
+
+convictions for an increased sentence under ACCA and should have faced a statutory maximum
+
+sentence of 120 months on the felon-in-possession charge. Simply stated, he contends that Maine
+
+burglary no longer fits within the generic definition of burglary because Maine’s locational
+
+element is overly broad in light of Mathis.
+
+
+
+II.      DISCUSSION
+
+         A. Dimott’s Petition is Untimely under 28 U.S.C. § 2255(f).
+
+         Dimott’s request for habeas relief invokes 28 U.S.C. § 2255(f)(3), which allows for an
+
+initial habeas petition to be filed within one year of a Supreme Court decision that “newly
+
+recognize[s]” an asserted right, provided that this newly recognized right is “made retroactively
+
+
+
+
+                                                  3
+Case 2:06-cr-00026-GZS Document 86 Filed 10/14/16 Page 4 of 8                      PageID #: 618
+
+
+
+applicable to cases on collateral review.” 28 U.S.C. § 2255(f)(3). Johnson II is understood to be
+
+one such decision newly recognizing a right that is retroactively applicable because it “changed
+
+the substantive reach of the Armed Career Criminal Act” when it struck down ACCA’s “residual
+
+clause” as void for vagueness. Welch v. United States, 136 S. Ct. 1257, 1265 (2016).
+
+       However, Dimott was deemed eligible for an ACCA sentence based only on burglary
+
+convictions, which qualify under ACCA’s “enumerated clause.” See 18 U.S.C. § 924(e)(2)(B)(ii)
+
+(“violent felony” for ACCA purposes includes “any crime punishable by imprisonment for a term
+
+exceeding one year . . . that . . . is burglary”). Because he was not sentenced pursuant to the now-
+
+invalidated residual clause, Johnson II and Welch simply do not provide grounds for relief under
+
+28 U.S.C. § 2255(f)(3). See Johnson II, 135 S. Ct. at 2563 (explicitly noting that the decision
+
+“does not call into question application of [ACCA] to the four enumerated offenses”); see also
+
+Traxler v. United States, No. 1:16-cv-747, 2016 WL 4536329, at *5 (W.D. Mich. Aug. 31, 2016),
+
+appeal docketed, No. 16-2280 (6th Cir. Sept. 14, 2016) (“If Movant was sentenced under the
+
+enumerated-offenses clause, even improperly so, then Johnson’s invalidation of the residual clause
+
+does not affect his sentence. And if Johnson does not affect Movant’s sentence, then he has a
+
+statute of limitations problem, because he is not raising a claim based on a right that has been
+
+newly recognized by the Supreme Court and made retroactively applicable to cases on collateral
+
+review.”) (internal quotation marks omitted).
+
+       Dimott’s reliance on Mathis is also misplaced. In contrast to Johnson II, Mathis has not
+
+been recognized as a case that announced a new substantive rule that is retroactively applicable to
+
+cases on collateral review. The Supreme Court made clear that it was not breaking new ground in
+
+Mathis:
+
+       [T]he elements of Mathis’s crime of conviction (Iowa burglary) cover a greater
+       swath of conduct than the elements of the relevant ACCA offense (generic
+
+
+
+                                                 4
+Case 2:06-cr-00026-GZS Document 86 Filed 10/14/16 Page 5 of 8                                     PageID #: 619
+
+
+
+         burglary). Under our precedents, that undisputed disparity resolves this case. We
+         have often held, and in no uncertain terms, that a state crime cannot qualify as an
+         ACCA predicate if its elements are broader than those of a listed generic offense.
+
+Mathis, 136 S. Ct. at 2251 (emphasis added) (internal citation omitted). Furthermore, the Supreme
+
+Court noted that its “mantra” of “elements, not facts” had been “recently” reiterated in Descamps
+
+v. United States, 133 S. Ct. 2276 (2013). Mathis, 136 S. Ct. at 2251-52 (quoting Descamps, 133
+
+S. Ct. at 2283). Notably, multiple courts have held that Descamps itself did not “newly recognize[]
+
+a constitutional right” and thus did not qualify for the application of 28 U.S.C. § 2255(f)(3). United
+
+States v. Murdock, No. 2:11-CR-08-DBH, 2015 WL 3775061, at *7 & n.11 (D. Me. June 17, 2015)
+
+(collecting cases). Because Mathis is an extension of Supreme Court precedent and simply applied
+
+Descamps to the state burglary statute then before the Supreme Court, a Mathis claim is not based
+
+on a constitutional right that “has been newly recognized by the Supreme Court.” 28 U.S.C.
+
+§ 2255(f)(3); see Dawkins v. United States, 829 F.3d 549, 551 (7th Cir. 2016) (per curiam)
+
+(“[O]nly new rules of constitutional law, made retroactive by the Supreme Court, can provide a
+
+basis for authorization [of a successive petition]. Mathis did not announce such a rule; it is a case
+
+of statutory interpretation.”) (internal citation omitted). It follows that Mathis cannot be read as
+
+triggering a new one-year period for habeas relief under 28 U.S.C. § 2255(f)(3).
+
+         Thus, the Court concludes that neither Johnson II nor Mathis provides a basis for Dimott
+
+to obtain habeas relief.1
+
+
+
+
+1
+  The Court recognizes the argument that Dimott may have more vigorously contested the use of the burglary
+convictions at the time of his sentencing if the residual clause had not been available as a backstop. However,
+recognizing a basis for relief based on this type of speculation would risk enabling an end run around the principle of
+procedural default and the statutory time limits outlined in 28 U.S.C. § 2255(f)(3).
+
+
+                                                          5
+Case 2:06-cr-00026-GZS Document 86 Filed 10/14/16 Page 6 of 8                                          PageID #: 620
+
+
+
+         B. Dimott’s Burglary Convictions Remain ACCA-Qualifying Convictions under
+            Existing Precedent.
+
+
+         Assuming the Court could undertake a timely review of Dimott’s predicate burglary
+
+convictions, recent First Circuit precedent establishes that Maine burglary convictions are “violent
+
+felonies” pursuant to ACCA’s enumerated clause. In United States v. Duquette, the First Circuit
+
+held that “because Maine’s burglary statute sets forth the definition of ‘generic burglary’ . . . a
+
+conviction under that statute qualifies as a ‘violent felony’ under the ACCA.” 778 F.3d 314, 318
+
+(1st Cir. 2015), cert. denied, 136 S. Ct. 262 (Oct. 5, 2015). This is the “law of the circuit” and this
+
+Court is bound by it unless and until the First Circuit decides to revisit Duquette. See Tosi v.
+
+United States, 2:16-cv-05-GZS, 2016 WL 5107078, at *3 & n.8 (D. Me. Sept. 20, 2016), appeal
+
+docketed, No. 16-2225 (1st Cir. Oct. 3, 2016).2
+
+         Although the First Circuit issued its decision in Duquette prior to the Supreme Court
+
+issuing its decisions in Johnson II and Mathis, the Supreme Court notably denied certiorari in
+
+Duquette only a few months prior to deciding to review the Eighth Circuit’s decision in Mathis.
+
+Compare Duquette, 778 F.3d 314 (1st Cir. 2015), cert. denied, 136 S. Ct. 262 (Oct. 5, 2015), with
+
+United States v. Mathis, 786 F.3d 1068 (8th Cir. 2015), cert. granted, 136 S. Ct. 894 (Jan. 19,
+
+2016). Given this timeline, the Court finds no basis for concluding that Mathis should be read as
+
+overruling Duquette. Likewise, Mathis does not present the “extremely rare circumstance[]”
+
+where Duquette would no longer be binding precedent on this Court, nor does the Court read
+
+
+
+
+2
+ Pre-Mathis precedents from both the Supreme Court, see Taylor v. United States, 495 U.S. 575, 591 (1990), and the
+First Circuit, see, e.g., United States v. Bennett, 469 F.3d 46, 50 (1st Cir. 2006), establish that a statute goes beyond
+generic burglary if it includes locations that are not clearly “building[s] or other structure[s],” Taylor, 495 U.S. at 598.
+Thus, it is not apparent that Mathis should significantly affect the issue of whether Maine burglary qualifies as an
+ACCA predicate offense.
+
+
+
+                                                             6
+Case 2:06-cr-00026-GZS Document 86 Filed 10/14/16 Page 7 of 8                                   PageID #: 621
+
+
+
+Mathis as announcing a new constitutional rule, as already explained above. See United States v.
+
+Chhien, 266 F.3d 1, 11 (1st Cir. 2001).
+
+        With eight Maine burglary convictions, Dimott’s criminal history, when viewed through
+
+the categorical approach, does uniquely tee up a question regarding the locational element for
+
+Maine Class C burglary. Dimott argues that the definition of “structure” in the Maine burglary
+
+statute “takes Maine burglary convictions outside of generic burglary” and asserts that “Maine’s
+
+definition of structure adds thousands of camper vans, camping trailers, motorized campers and
+
+other forms of camping vehicles as well as . . . any form of transportation (conveyance) which is
+
+adapted for overnight accommodation.” (Pet.’s Mot. at 4.) The applicable Maine statute provides
+
+that a person is guilty of Class C burglary if “[t]he person enters or surreptitiously remains in a
+
+structure knowing that that person is not licensed or privileged to do so, with the intent to commit
+
+a crime therein.”3 17-A M.R.S. § 401(1)(A). “Structure” is defined as “a building or other place
+
+designed to provide protection for persons or property against weather or intrusion, but does not
+
+include vehicles and other conveyances whose primary purpose is transportation of persons or
+
+property unless such vehicle or conveyance, or a section thereof, is also a dwelling place.” Id.
+
+§ 2(24). After the analysis undertaken by the majority in Mathis, it is understandable that Dimott
+
+questions whether Maine’s inclusion of conveyances that are dwelling places (or other places that
+
+may only be designed to protect property against weather) as an alternative means of satisfying
+
+the locational element for Maine Class C burglary results in Maine’s statute categorically reaching
+
+a broader range of places than generic burglary. See Mathis, 136 S. Ct. at 2250 (holding that Iowa
+
+statute criminalizing burglary of “any building, structure . . . land, water or air vehicle” “reaches a
+
+
+3
+ It is a Class B offense to burglarize “a structure that is a dwelling place.” 17-A M.R.S. § 401(1)(B)(4). Thus, any
+burglary of a structure that is actually a conveyance adapted for overnight accommodations would necessarily be a
+Class B burglary. See id. § 2(10), (24).
+
+
+
+                                                         7
+Case 2:06-cr-00026-GZS Document 86 Filed 10/14/16 Page 8 of 8                       PageID #: 622
+
+
+
+broader range of places” than generic burglary does). However, in the Court’s assessment,
+
+Duquette currently provides a binding answer to that question within the First Circuit.
+
+       Therefore, even if the Court could undertake a timely review of Dimott’s predicate burglary
+
+convictions, the Court would conclude that he was not entitled to habeas relief.
+
+
+
+III.   CONCLUSION
+
+       For the reasons just explained, the Court hereby DENIES Dimott’s Motion under 28 U.S.C.
+
+§ 2255 (ECF No. 74).
+
+       However, in accordance with Rule 11 of the Rules Governing Section 2255 Cases and 28
+
+U.S.C. § 2253(c), the Court hereby issues a certificate of appealability finding that Dimott’s
+
+Petition contains a substantial showing of the denial of a constitutional right. Specifically,
+
+Dimott’s Petition raises the following issues: (1) whether the retroactive application of Johnson
+
+II allows any petitioner serving an ACCA sentence to have his qualifying “violent felony”
+
+convictions re-examined even if those convictions appear to fall under the enumerated clause and,
+
+(2) if so, whether Dimott was unconstitutionally subjected to an increased sentence under ACCA
+
+based on Maine burglary convictions that do not qualify as generic burglaries given the locational
+
+element analysis found in Mathis.
+
+       SO ORDERED.
+
+                                                     /s/ George Z. Singal
+                                                     United States District Judge
+
+Dated this 14th day of October, 2016.
+
+
+
+
+                                                8
+

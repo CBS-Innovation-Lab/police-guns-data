@@ -1,0 +1,722 @@
+      Case 3:10-cr-00357-FAB Document 95 Filed 05/09/11 Page 1 of 15
+
+
+
+                 IN THE UNITED STATES DISTRICT COURT
+                   FOR THE DISTRICT OF PUERTO RICO
+
+UNITED STATES OF AMERICA,
+
+      Plaintiff,
+
+                 v.                       CRIMINAL NO. 10-357 (FAB)
+
+EDWIN BERNARD ASTACIO-ESPINO,
+
+      Defendant.
+
+
+                          OPINION AND ORDER
+
+BESOSA, District Judge.
+
+     Pending before the Court is defendant’s motion to compel
+
+discovery.   (Docket No. 79.)        Having examined the motion, the
+
+government’s response, and defendant’s reply to that response, the
+
+motion to compel is DENIED.
+
+I.   Procedural Background
+
+     On May 13, 2010, the government filed a criminal complaint
+
+against   defendant   Edwin   Bernard    Astacio-Espino    (“defendant”)
+
+alleging three counts, including disabling an aircraft in the
+
+special jurisdiction of the United States, endangering the lives of
+
+two individuals engaged in the operation of a helicopter and
+
+killing a third, and discharging a firearm in furtherance of a
+
+violent crime.     (Docket No. 3.)      A grand jury later returned an
+
+indictment charging defendant Astacio-Espino with: (1) destruction
+        Case 3:10-cr-00357-FAB Document 95 Filed 05/09/11 Page 2 of 15
+
+
+
+Criminal No. 10-357 (FAB)                                                   2
+
+of an aircraft in violation of 18 U.S.C. §§ 32(a)(1) and 34;
+
+(2) using, carrying, and possessing a firearm in furtherance of a
+
+crime of violence in violation of 18 U.S.C. §§ 924(c)(1)(A)(iii)
+
+and 924(j)(1); (3) performing an act of violence in a manner likely
+
+to endanger an aircraft in violation of 18 U.S.C. § 32(a)(6); and
+
+(4) possession of a machine gun in violation of 18 U.S.C. §§ 922(o)
+
+and 924(a)(2).       (Docket No. 19.)   On May 20, 2010, the government
+
+certified that the offenses charged in the complaint carried a
+
+maximum penalty of death and requested that the Court identify this
+
+case as capital.       (Docket No. 7.)       Following defendant Astacio-
+
+Espino’s arrest and initial detention, a detention hearing was held
+
+on September 8, 2010.       (Docket No. 15.)        At that hearing, Chief
+
+U.S. Magistrate Judge Justo Arenas found him to be a flight risk
+
+and a danger to the community.       (Docket No. 16.)     Magistrate Judge
+
+Arenas issued an order of detention pending trial finding that “no
+
+condition or combination of conditions will reasonably assure his
+
+appearance as required or the safety of any other person and the
+
+community.”     (Docket No. 17 at 6-7.)
+
+     On March 14, 2011, defendant Astacio-Espino filed a motion to
+
+compel discovery of the following items:         (1) unredacted copies of
+
+several FBI 302 reports; (2) notes of agents investigating the
+
+case;    (3)   all    materials   prepared    and    relied   upon   by   the
+      Case 3:10-cr-00357-FAB Document 95 Filed 05/09/11 Page 3 of 15
+
+
+
+Criminal No. 10-357 (FAB)                                               3
+
+government’s expert witnesses; (4) a file which allegedly contains
+
+information regarding a 2007 police brutality incident; (5) all
+
+material covered by the Jencks Act; and (6) a “black box” or GPS
+
+device from the helicopter involved in the incident giving rise to
+
+the indictment.      (See Docket No. 79.)       On April 5, 2011, the
+
+government   filed   a   response    opposing    the   motion,   arguing:
+
+(1) that material was redacted from the FBI 302 reports either to
+
+protect the safety of the persons interviewed or because that
+
+information was not discoverable; (2) that disclosure of the names
+
+of any of its witnesses is not required until three days prior to
+
+trial; (3) that it is under no obligation to produce any Jencks Act
+
+material at this time; (4) that it has complied with its duty under
+
+Brady v. Maryland, 373 U.S. 83 (1963); (5) that it has provided
+
+expert witness material as required by Federal Rule of Criminal
+
+Procedure 16 (“Rule 16”); (6) that the helicopter to which the
+
+indictment referred did not contain a “black box” or similar
+
+device; and (7) that defendant Astacio-Espino has provided no
+
+reason for the disclosure of the 2007 FBI report that supersedes
+
+the general rule against disclosure of documents related to the
+
+investigation of a case.    (See Docket No. 84.)       On April 22, 2011,
+
+plaintiff filed a reply.    (Docket No. 89.)     On April 25, 2011, the
+
+Court ordered the government to submit redacted and unredacted
+          Case 3:10-cr-00357-FAB Document 95 Filed 05/09/11 Page 4 of 15
+
+
+
+Criminal No. 10-357 (FAB)                                                        4
+
+copies of the relevant FBI 302 reports no later than May 2, 2011
+
+for in camera inspection. The government complied with the Court’s
+
+order, submitting the redacted and unredacted versions of the FBI
+
+302 reports identified in the motion to compel.
+
+II.   Legal Analysis
+
+      A.       Brady Standard1
+
+               Brady requires the government to produce to a defendant,
+
+in advance of trial, material exculpatory evidence that is within
+
+its possession.        See 373 U.S. at 87; United States v. Agurs, 427
+
+U.S. 97, 107 (1976); United States v. Huddleston, 194 F.3d 214, 222
+
+(1st Cir. 1999). Evidence that is “within its possession” includes
+
+exculpatory       material   in    the    possession    of     any   agency   that
+
+participated in investigations related to the crimes charged.                  See
+
+Kyles     v.   Whitley,   514     U.S.   419,   438   (1995)    (Brady   requires
+
+production of evidence “known only to the police investigators and
+
+not to the prosecutors”).          “Evidence is material under Brady only
+
+when ‘there is a reasonable probability that, had the evidence been
+
+disclosed to the defense, the result of the proceeding would have
+
+
+
+
+      1
+        The Court makes clear that          the obligation to provide Brady
+material is especially serious in a         case such as this one, where the
+penalty of death is being sought            by the government.      Given the
+seriousness of that obligation, any         failure to disclose materials in
+compliance with Brady that may come to      light will be dealt with severely.
+       Case 3:10-cr-00357-FAB Document 95 Filed 05/09/11 Page 5 of 15
+
+
+
+Criminal No. 10-357 (FAB)                                                      5
+
+been different.’”       United States v. Dumas, 207 F.3d 11, 15 (1st
+
+Cir. 2000).     The duty to produce material exculpatory information
+
+encompasses the duty to investigate “any favorable evidence known
+
+to others acting on the government’s behalf in the case, including
+
+the police.”     Kyles, 514 U.S. at 437.           See also Ruiz v. United
+
+States, 221 F.Supp.2d 66, 74 (D.Mass. 2002).                 “Brady does not,
+
+however, establish any ‘general constitutional right to discovery
+
+in a criminal case . . . .’” United States v. Rodriguez-Rivera, 473
+
+F.3d 21, 25-26 (1st Cir. 2007) (quoting United States v. Caro-
+
+Muñiz, 406 F.3d 22, 29 (1st Cir. 2005)).
+
+           Much of the evidence requested by defendant Astacio-
+
+Espino is primarily targeted for the purposes of impeachment.
+
+(See Docket No. 159.)      “As a preliminary matter, it is clear that
+
+impeachment evidence falls within the Brady rule.” Dumas, 207 F.3d
+
+at 16 (citing Giglio v. United States, 405 U.S. 150, 154 (1972)).
+
+“The   simple   fact   that     evidence   could   be    used   to   impeach   a
+
+government witness, however, does not end the materiality inquiry.”
+
+Id.    “‘Impeachment evidence, even that which tends to further
+
+undermine the credibility of the key Government witness whose
+
+credibility     has   already    been   shaken   due    to   extensive   cross-
+
+examination, does not create a reasonable doubt that did not
+
+otherwise exist where that evidence is cumulative or collateral.’”
+         Case 3:10-cr-00357-FAB Document 95 Filed 05/09/11 Page 6 of 15
+
+
+
+Criminal No. 10-357 (FAB)                                                   6
+
+Id. (quoting United States v. Sanchez, 917 F.2d 607, 618-19 (1st
+
+Cir. 1990)).
+
+     B.      Specific Discovery Requests
+
+             1.    Unredacted FBI 302 Reports
+
+                   At the outset, it is clear that the disclosure of
+
+the majority of the requested materials is not, at this stage of
+
+the proceedings, required by any statute, rule, or case law.2             The
+
+identities of the persons interviewed for the purposes of the FBI
+
+302 reports are not, in themselves, exculpatory for the purposes of
+
+Brady, nor is their production required under Rule 16.             Defendant
+
+Astacio-Espino is essentially requesting that, due to the unique
+
+circumstances of this case, the Court exercise its broad discretion
+
+with regard to discovery in criminal cases and order the government
+
+to produce these materials.           (See Docket No. 79.)         Defendant
+
+Astacio-Espino requests the unredacted forms of certain FBI 302
+
+reports that were provided by the government.            See id.   The Court
+
+
+
+
+     2
+        Defendant Astacio-Espino cites to several cases allowing
+discovery prior to the U.S. Attorney General’s Office authorization to
+seek the death penalty. (See Docket No. 79.) The situation in this
+case, however, is not one in which the government has refused to provide
+pre-authorization discovery.    See, e.g., United States v. Delatorre,
+F.Supp.2d 892, 899-903 (N.D.Ill. 2006).      The government has indeed
+provided discovery, but has redacted information which tends to identify
+the declarants whose statements are recorded in the FBI 302 reports.
+         Case 3:10-cr-00357-FAB Document 95 Filed 05/09/11 Page 7 of 15
+
+
+
+Criminal No. 10-357 (FAB)                                                       7
+
+has inspected the requested materials and it does not appear that
+
+any of the redacted information needs to be disclosed at this time.
+
+                   The majority of the material redacted from the FBI
+
+302 reports deals with the identity of the persons interviewed.3
+
+Defendant     Astacio-Espino    argues   that     the   identities   of     these
+
+individuals      should    be   disclosed    so    that    his    counsel     may
+
+independently investigate their statements.             See id.   It is clear,
+
+however, that the government is not required to disclose the
+
+identities of its witnesses until three days prior to trial in
+
+capital cases.      See 18 U.S.C. § 3432. As this Court has previously
+
+stated, “[i]t is within the court’s discretion whether to compel
+
+the prosecution to furnish a witness list prior to trial.”                United
+
+States v. Ortiz-Garcia, 553 F.Supp.2d 119, 120 (D.P.R. 2008)
+
+(Besosa, J.).      In making this decision, the Court must balance the
+
+government’s reasons for not disclosing the identities of its
+
+potential witnesses against “the defendants’ specific showing of
+
+particularized need for the names, beyond the basic assertion that
+
+
+
+
+     3
+        Defendant also requests three FBI 302 reports which contain
+admissions by defendant Astacio-Espino overheard by the persons
+interviewed. (See Docket No. 79.) Those three reports contain large
+redacted portions beyond the names of those individuals. That redacted
+material, however, also tends to identify the persons interviewed.
+       Case 3:10-cr-00357-FAB Document 95 Filed 05/09/11 Page 8 of 15
+
+
+
+Criminal No. 10-357 (FAB)                                                      8
+
+such a list would aid in trial preparation.”             Id. (citing United
+
+States v. Schwimmer, 649 F.Supp. 544, 550 (E.D.N.Y. 1986)).
+
+                  This Court previously addressed a similar situation
+
+and   found   that   disclosure     of    potential   government    witnesses’
+
+identities was not warranted in the face of a particular threat to
+
+those individuals’ safety.          Ortiz-Garcia, 553 F.Supp.2d at 120.
+
+Defendant     attempts    to    distinguish    this   case   from   the   facts
+
+presented in Ortiz-Garcia by claiming that the government has not
+
+identified a specific danger to any potential witnesses, and that
+
+a   generalized   claim    of    harm    is insufficient     to   withhold   the
+
+identities of the persons interviewed in the FBI 302 reports. (See
+
+Docket No. 79.) Having reviewed the reports, however, the redacted
+
+material demonstrates a definite danger for potential witnesses who
+
+cooperate or give information to the government in this case. Even
+
+the redacted materials identify a specific fear voiced by one of
+
+the persons interviewed for the purposes of the FBI 302 reports.
+
+An individual interviewed on May 10, 2010 specifically expressed
+
+that “[redacted] is extremely afraid of [defendant] and his friends
+
+because they will kill [redacted] if they find out that [redacted]
+
+is talking to the police.”              (emphasis added).     That statement,
+
+which has been provided to defendant Astacio-Espino, and the
+
+material reviewed in camera establish more than “a general claim of
+         Case 3:10-cr-00357-FAB Document 95 Filed 05/09/11 Page 9 of 15
+
+
+
+Criminal No. 10-357 (FAB)                                                   9
+
+danger due to the nature of the charges and the case.”           (See Docket
+
+No. 79 at 10.)
+
+                   For the most part, defendant Astacio-Espino’s only
+
+articulated need for the identities of the persons interviewed in
+
+the FBI 302 reports is to investigate further the impeachment value
+
+of their criminal backgrounds.4        The government has not identified
+
+any of the persons interviewed in the FBI 302 reports as witnesses
+
+for trial, nor need it do so at this point.             It has conceded to
+
+defendant Astacio-Espino that some of the persons interviewed do
+
+have criminal backgrounds, and has also provided some material in
+
+the redacted FBI 302 reports which relates to some of those
+
+criminal activities. Should the government later choose to use the
+
+individuals interviewed in those FBI 302 reports as witnesses at
+
+trial, some of the redacted material, or even further information
+
+regarding the background of potential witnesses, may indeed need to
+
+be disclosed pursuant to Brady for impeachment purposes.              At this
+
+point in the proceedings, however, the material disclosed and
+
+conceded by the government is sufficient for defendant Astacio-
+
+
+
+
+     4
+        This need is only described in reference to those civilian
+witnesses which the government has conceded to have criminal backgrounds.
+Defendant has provided no specific justification or need for the
+disclosure of the identities of the law enforcement officers who were
+interviewed for several of the FBI 302 reports. (See Docket No. 79.)
+       Case 3:10-cr-00357-FAB Document 95 Filed 05/09/11 Page 10 of 15
+
+
+
+Criminal No. 10-357 (FAB)                                                    10
+
+Espino’s counsel to represent him effectively in the death penalty
+
+authorization process.        Accordingly, defendant Astacio-Espino’s
+
+request for unredacted copies of the FBI 302 reports is DENIED.
+
+            2.     Government’s Statement at Recent Status Conference
+
+                   Defendant Astacio-Espino refers to a statement by
+
+the government at a recent status conference “that an informant
+
+indicated that he/she was concerned about the helicopter shooting
+
+because he/she was involved.”             (See Docket Nos. 79 & 84.)        He
+
+claims   that    this   statement    raises     particular   Brady   concerns.
+
+(Docket No. 79.) The government responds that “[w]hile on its face
+
+this   statement    insinuates      the   informant    participated    in   the
+
+shooting,   circumstances     related      to   the   informant   demonstrate
+
+otherwise.” The government further expresses that “if the Court so
+
+desires, the Government is willing to provide, ex parte, additional
+
+facts regarding this statement [so that it may] be understood in
+
+its proper context.”         (Docket No. 84.)          In order to address
+
+properly the defendants concerns regarding the statement and ensure
+
+that no additional material need be disclosed, the government is
+
+ORDERED to provide the Court, ex parte, with the additional facts
+
+to which it refers.
+       Case 3:10-cr-00357-FAB Document 95 Filed 05/09/11 Page 11 of 15
+
+
+
+Criminal No. 10-357 (FAB)                                                     11
+
+            3.     Jencks Act Material
+
+                   Defendant Astacio-Espino requests that the Court
+
+order the government “to produce all Jenck’s [sic] material during
+
+. . . the pre-authorization stage of the proceedings.”                 He claims
+
+that   “[t]he    possibility     of   a   death    penalty   authorization,   a
+
+resultant capital trial and a potential death sentence clearly
+
+trumps the Jenck’s [sic] Act restrictions on statement production.”
+
+He cites to no legal authority, however, for this proposition. The
+
+Jencks Act provides that “no statement or report . . . made by a
+
+government witness or prospective witness . . . shall be subject of
+
+subpena, discovery, or inspection until said witness has testified
+
+on direct examination in the trial of the case.” 18 U.S.C. 3500(a).
+
+Thus, the clear terms of that statute expressly limit the Court’s
+
+authority to compel the government to disclose any material within
+
+the scope of the Jencks Act, including case agents’ rough notes, at
+
+this time.      Therefore, defendant Astacio-Espino’s request for any
+
+Jencks Act material not subject to Brady or Rule 16 is DENIED at
+
+this stage of the proceedings.
+
+            4.     Helicopter “Black Box”
+
+                   Defendant Astacio-Espino also requests that the
+
+government be compelled to produce “the helicopter’s ‘black box,’
+
+or   any   other   device   or    record    that    would    contain    GPS-type
+        Case 3:10-cr-00357-FAB Document 95 Filed 05/09/11 Page 12 of 15
+
+
+
+Criminal No. 10-357 (FAB)                                                          12
+
+information of the location of the helicopter on a minute by
+
+minute, or second by second, basis.”            (Docket No. 79.)     He concedes
+
+that the government has already represented that no such device
+
+exists, but “requests that the Court enter an Order directing the
+
+government      to   produce   this   evidence,        or   to   enter    a   formal
+
+certification that none exists.”                The government has already
+
+informed defendant that no “black box” or similar device exists,
+
+and has stated as much on the record. Defendant Astacio-Espino has
+
+given the Court no reason to doubt the government’s representations
+
+on the record nor any justification for requiring the government to
+
+enter any certification more “formal” than those representations.
+
+Accordingly, his request is DENIED.
+
+               5.    Allegations    Regarding    the    Statements of         Other
+                     Individuals
+
+                     Defendant Astacio-Espino requests that the Court
+
+order    the    government     to   produce     the    identities    of       certain
+
+individuals mentioned in one of the FBI 302 reports.                     He claims
+
+that “[s]ince it is to be expected that the government would have
+
+interviewed these other individuals whom Witness A identified for
+
+them and would have also produced these individuals’s [sic] reports
+
+of interviews if they had also placed Mr. Astacio-Espino at the
+
+scene, it is logical to conclude that these other individuals did
+     Case 3:10-cr-00357-FAB Document 95 Filed 05/09/11 Page 13 of 15
+
+
+
+Criminal No. 10-357 (FAB)                                                   13
+
+not corroborate Witness A’s statements, and this information is
+
+therefore at least potentially exculpatory.” (Docket No. 79.) The
+
+government has stated that they did not interview any of the
+
+individuals to which defendant Astacio-Espino refers, and that it
+
+has complied with its discovery obligations under Brady and Rule 16
+
+in that regard. Other than theories based entirely on speculation,
+
+defendant Astacio-Espino has given the Court no reason to doubt the
+
+government’s assertions.       Accordingly, his request is DENIED.
+
+            6.   Expert Materials
+
+                 Defendant Astacio-Espino requests that the Court
+
+order the    production   of    “all   working   papers,   case   files    and
+
+handwritten notes” of the government’s expert witnesses.            (Docket
+
+No. 79 at 20.)   Rule 16, however, clearly lays out the government’s
+
+obligation   with   regard     to   expert   materials.    With   regard   to
+
+statements of expert witnesses, Rule 16 provides that “[a]t the
+
+defendant’s request, the government must give to the defendant a
+
+written summary of any testimony that the government intends to use
+
+under Rules 702, 703, or 705 of the Federal Rules of Evidence
+
+during its case-in-chief at trial.”            Fed.R.Crim.P. 16(a)(1)(G).
+
+Further, should a defendant request it:
+
+     the government must permit a defendant to inspect and to
+     copy or photograph the results or reports of any physical
+     or mental examination and of any scientific test or
+     Case 3:10-cr-00357-FAB Document 95 Filed 05/09/11 Page 14 of 15
+
+
+
+Criminal No. 10-357 (FAB)                                               14
+
+     experiment if: (i) the item is within the government’s
+     possession, custody, or control; (ii) the attorney for
+     the government knows–or through due diligence could
+     know–that the item exists; and (iii) the item is material
+     to preparing the defense or the government intends to use
+     the item in its case-in-chief at trial.
+
+Fed.R.Crim.P.   16(a)(1)(F).      Defendant   Astacio-Espino     has   not
+
+provided the Court with any basis to require the government to go
+
+beyond the obligations imposed upon it by Brady or Rule 16, nor has
+
+he indicated that the government has not complied with those
+
+obligations.    Accordingly, defendant Astacio-Espino’s request for
+
+additional expert materials is DENIED, especially as that request
+
+may relate to materials within the scope of the Jencks Act.
+
+          7.     2007 FBI Report regarding Police Brutality
+
+                 Defendant Astacio-Espino requests production of a
+
+2007 FBI report which allegedly details an incident of police
+
+brutality involving himself.       (Docket No. 79.)      The government
+
+opposes that production on the basis that he “fails . . . to
+
+provide any details on how this incident would assist him or is
+
+relevant to the present proceeding.”          In his reply, defendant
+
+Astacio-Espino claims that the incident’s relevance to this case
+
+“is evidence and does not need extensive elaboration.”          Defendant
+
+provides little more explanation for his request other than to
+
+conclude that the report would be “at least relevant to issues of
+     Case 3:10-cr-00357-FAB Document 95 Filed 05/09/11 Page 15 of 15
+
+
+
+Criminal No. 10-357 (FAB)                                                  15
+
+mitigation at any potential sentencing in this case.”             Given the
+
+conclusory nature of his proffered basis for ordering production of
+
+the 2007 FBI report, defendant Astacio-Espino’s request is DENIED
+
+WITHOUT   PREJUDICE   pending   a   renewed    motion   which    more   fully
+
+explains,   and   supports   with   legal     authority,   the   mitigating
+
+potential of the report.
+
+III. Conclusion
+
+     For the reasons described above, defendant’s motion to compel,
+
+(Docket No. 79), is DENIED.     As detailed above in section II.B.2,
+
+the government is ordered to provide, ex parte, the additional
+
+facts relating to its statement at a recent status conference
+
+regarding the potential involvement in the crime charged.
+
+     IT IS SO ORDERED.
+
+     In San Juan, Puerto Rico, May 9, 2011.
+
+
+                                        s/ Francisco A. Besosa
+                                        FRANCISCO A. BESOSA
+                                        UNITED STATES DISTRICT JUDGE
+

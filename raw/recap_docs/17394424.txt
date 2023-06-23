@@ -1,0 +1,592 @@
+Case 1:06-cr-00116-S-LDA Document 61 Filed 04/14/10 Page 1 of 11 PageID #: 212
+
+
+
+                     UNITED STATES DISTRICT COURT
+                   FOR THE DISTRICT OF RHODE ISLAND
+
+- - - - - - - - - - - - - - -
+JOHN KIMBROUGH                :
+                              :
+     vs.                      :          C.A. No. 06–116-S
+                              :
+UNITED STATES OF AMERICA      :
+- - - - - - - - - - - - - - -
+
+                 MEMORANDUM AND ORDER DENYING RELIEF
+          UNDER 28 U.S.C. § 2255 AND 18 U.S.C. § 3582(c)(2)
+
+William E. Smith, United States District Judge.
+
+      John Kimbrough has filed a motion to vacate, set aside, or
+
+correct sentence pursuant to 28 U.S.C. § 2255 and a motion for
+
+reduction of sentence pursuant to 18 U.S.C. § 3582(c)(2).            For the
+
+reasons stated below, both motions must be denied.
+
+I.    BACKGROUND AND TRAVEL
+
+      Kimbrough pled guilty to a two-count indictment charging him
+
+with (1) possession with intent to distribute more than five grams
+
+of cocaine base, in violation of 21 U.S.C. §§ 841(a)(1) and
+
+(b)(1)(B)(iii), and (2) possession of a firearm after having been
+
+convicted of a felony, in violation of 18 U.S.C. § 922(g)(1).
+
+Throughout his plea and sentencing proceedings, Kimbrough was
+
+represented by Federal Defender Edward C. Roy.
+
+      The presentence report (PSR) calculated an advisory Sentencing
+
+Guideline range of 188 to 235 months based on Kimbrough’s status as
+
+a Career Offender, see U.S.S.G. § 4B1.1, with a net offense level
+
+of   31   (34    less    a   3-level    reduction     for   acceptance     of
+
+responsibility) and a Criminal history category VI. (PSR ¶¶ 28, 29
+Case 1:06-cr-00116-S-LDA Document 61 Filed 04/14/10 Page 2 of 11 PageID #: 213
+
+
+
+46.)    Had Kimbrough not been deemed a Career Offender, his offense
+
+level would have been 28.        (Id., ¶¶ 27, 28.)
+
+       At   the   sentencing    hearing,      Kimbrough’s    counsel   made    no
+
+objection    to    the   PSR   but   instead    argued    that   Kimbrough    had
+
+cognitive and learning disabilities and requested a sentence of 120
+
+months for his drug offense. (See Transcript of Sentencing Hearing
+
+conducted on June 1, 2007 [“Sent. Tr.”] at 6-8.)                  After hearing
+
+argument, this Court sentenced Kimbrough to 150 months imprisonment
+
+-- 38 months below the applicable advisory guideline range – on the
+
+crack cocaine offense and to 120 months imprisonment on the firearm
+
+offense, to be served concurrently.             (Id. at 17-18.)      This Court
+
+also imposed five-year and three-year terms of supervisory release
+
+for these offenses.
+
+       Kimbrough did not file a direct appeal, and his conviction
+
+became final on June 21, 2007.              Thereafter, he timely filed the
+
+instant motion to vacate (Doc. #38), asserting (1) that his counsel
+
+rendered ineffective assistance by failing to challenge the Court’s
+
+treatment of his Career Offender status as mandatory; and (2) that
+
+he should receive the benefit of the Guideline Amendments reducing
+
+the    penalties   for   convictions     involving       crack   cocaine.     The
+
+Government filed an objection to the motion (Doc. #45), and
+
+
+
+
+                                        2
+Case 1:06-cr-00116-S-LDA Document 61 Filed 04/14/10 Page 3 of 11 PageID #: 214
+
+
+
+Kimbrough submitted two additional filings in support of his motion
+
+to vacate.1
+
+      Thereafter,    Attorney    Francis    Flanagan    was   appointed    to
+
+represent Kimbrough. Although no further documents have been filed
+
+in support of the motion to vacate, Attorney Flanagan, after
+
+several continuances, filed on Kimbrough’s behalf a motion for
+
+reduction of sentence pursuant to 18 U.S.C. § 3582(c)(2) along with
+
+a memorandum in support (Doc. #58), which the Government has
+
+likewise opposed.2
+
+      Because the motion to vacate and the motion for reduction of
+
+sentence are based on similar grounds, this Court will consider and
+
+determine both motions in this Memorandum and Order.3
+
+
+      1
+       See “Motion to Supplement the 28 U.S.C. § 2255"[sic] (Doc.
+#46); Reply (Doc. # 48). The “Motion to Supplement” was granted by
+this Court but is itself a supplemental memorandum in support of
+Kimbrough’s § 2255 motion to vacate.
+      2
+       Kimbrough himself had previously filed two motions for
+reduction of sentence pursuant to § 3582(c)(2) (Docs. ##34, 37),
+both of which were denied by this Court. A third pro se motion for
+reduction of sentence (Doc. ## 51-52), filed after counsel was
+appointed to represent him, was not accepted for filing. See Order
+returning document (Doc. #53).
+      3
+       Although Kimbrough has requested a hearing, no hearing is
+required in connection with any issues raised by the instant motion
+to vacate because, as discussed infra, the files and records of
+this case conclusively establish that the claims in the motion to
+vacate are without merit. See David v. United States, 134 F.3d
+470, 477 (1st Cir. 1998) (district court properly may forego any
+hearing “when (1) the motion is inadequate on its face, or (2) the
+movant's allegations, even if true, do not entitle him to relief,
+or (3) the movant's allegations need not be accepted as true
+because they state conclusions instead of facts, contradict the
+record, or are inherently incredible") (internal quotations
+
+                                      3
+Case 1:06-cr-00116-S-LDA Document 61 Filed 04/14/10 Page 4 of 11 PageID #: 215
+
+
+
+II.   Discussion
+
+      A.    General Principles
+
+      Title 28 U.S.C. § 2255 provides in pertinent part:
+
+           A prisoner in custody under sentence of a court
+      established by Act of Congress claiming the right to be
+      released upon the ground that the sentence was imposed in
+      violation of the Constitution or laws of the United
+      States, or that the court was without jurisdiction to
+      impose such sentence, or that the sentence was in excess
+      of the maximum authorized by law, or is otherwise subject
+      to collateral attack, may move the court which imposed
+      the sentence to vacate, set aside or correct the
+      sentence.
+
+ 28 U.S.C. § 2255(a).
+
+      Generally, the grounds justifying relief under § 2255 are
+
+limited.   A court may grant such relief only if it finds a lack of
+
+jurisdiction, constitutional error or a fundamental error of law.
+
+See United States v. Addonizio, 442 U.S. 178, 185 (1979) (“[A]n
+
+error of law does not provide a basis for collateral attack unless
+
+the claimed error constituted a fundamental defect which inherently
+
+results    in   a   complete   miscarriage     of   justice.”)     (internal
+
+quotations and citation omitted).
+
+      B.    Ineffective Assistance Claim
+
+      Kimbrough first claims that his counsel was ineffective by
+
+failing to challenge the Court’s treatment of his Career Offender
+
+
+
+
+omitted). See also Panzardi-Alverez v. United States, 879 F.2d
+975, 985 n.8 (1st Cir. 1978) (no hearing required where district
+judge is thoroughly familiar with case).
+
+                                      4
+Case 1:06-cr-00116-S-LDA Document 61 Filed 04/14/10 Page 5 of 11 PageID #: 216
+
+
+
+status as mandatory at sentencing. Because it is based on a flawed
+
+factual premise, this claim fails.
+
+      A defendant who claims that he was deprived of his Sixth
+
+Amendment     right      to    effective     assistance     of    counsel    must
+
+demonstrate:
+
+      (1)    That his counsel’s performance fell below an objective
+             standard of reasonableness; and
+      (2)    [A] reasonable probability that, but for counsel’s
+             unprofessional errors, the result of the proceeding would
+             have been different.
+
+Strickland v. Washington, 466 U.S. 668, 687-88, 694 (1984).                    See
+
+Cofske v. United States, 290 F.3d 437, 441 (1st Cir. 2002).
+
+      In assessing the adequacy of counsel’s performance, the Court
+
+looks to “prevailing professional norms.”              All that is required is
+
+a   level   of    performance    that    falls   within   generally      accepted
+
+boundaries of competence and provides reasonable assistance under
+
+the circumstances. Ramirez v. United States, 17 F. Supp. 2d 63, 66
+
+(D.R.I. 1998) (quoting Scarpa v. DuBois, 38 F.3d 1, 8 (1st Cir.
+
+1994) and citing Strickland, 466 U.S. at 688).
+
+      Here,      while   Kimbrough      is   correct    that     the   Sentencing
+
+Guidelines are now merely advisory in light of the Supreme Court’s
+
+decision in United States v. Booker, 543 U.S. 220 (2005), the
+
+factual     basis   of   his   ineffective     assistance      claim   is   flatly
+
+contradicted by the record.          The record shows that in sentencing
+
+Kimbrough, this Court was well aware that the guidelines were
+
+advisory.     Kimbrough’s sentence of 150 months was 38 months below
+
+                                         5
+Case 1:06-cr-00116-S-LDA Document 61 Filed 04/14/10 Page 6 of 11 PageID #: 217
+
+
+
+the   applicable     guideline       range.      This    Court   exercised       its
+
+post-Booker discretion to impose that sentence, citing such factors
+
+as Kimbrough’s cognitive and learning disabilities and alluding to
+
+its review of the psychiatric report from Dr. Tremont.                   (See Sent.
+
+Tr. at 11, 15-18.)          Moreover, this Court twice referred to “the
+
+advisory guideline range” at the sentencing hearing.                    (See Sent.
+
+Tr. at 3, 4.)        The fact that, as discussed infra, Kimbrough’s
+
+guideline range was based on his Career Offender status rather than
+
+on his offense conduct does not affect this Court’s treatment of
+
+the guidelines as advisory.
+
+      In   short,    Kimbrough’s       counsel   did    not    render    deficient
+
+performance in failing to object to the Court’s treatment of the
+
+guidelines as mandatory, because this Court did not treat the
+
+guidelines as mandatory.           Thus, Kimbrough’s ineffective assistance
+
+claim must be rejected.
+
+      C.    Crack-Cocaine Guideline Amendments
+
+      Kimbrough next claims that this Court erred in failing to
+
+retroactively       apply    the     Guideline   Amendments      pertaining      to
+
+sentences    for    crack-cocaine       offenses,      see    U.S.S.G.    App.    C,
+
+Amendments 706 and 713 (“crack cocaine Guideline Amendments ”), to
+
+his sentence.4
+
+
+
+
+      4
+       Amendment 706, effective November 1, 2007, reduced the base
+offense levels for crack offenses by two levels. Amendment 713,
+effective March 3, 2008, made amendment 706 retroactive.
+
+                                         6
+Case 1:06-cr-00116-S-LDA Document 61 Filed 04/14/10 Page 7 of 11 PageID #: 218
+
+
+
+      A threshold issue as to this claim is whether it is properly
+
+brought pursuant to § 2255.           Although the First Circuit has not
+
+directly addressed this issue, other courts have found that a §
+
+2255 motion to vacate is not the proper procedural vehicle for
+
+seeking   the   reduction    of   a   sentence   based   on   a    retroactive
+
+Guideline amendment and that such relief should instead be sought
+
+via a motion for reduction of sentence pursuant to 18 U.S.C. §
+
+3582(c)(2).     See e.g. United States v. Porter, 335 Fed. Appx. 408,
+
+409 (5th Cir. 2009) (upholding district court's re-characterization
+
+of § 2255 motion as motion to reduce sentence pursuant to 18 U.S.C.
+
+§ 3582(c)(2)); United States v. Newman, C.A. No. 4:07-cv4581, 2009
+
+WL 2413282 at *9 (S.D. Tex. July 29, 2009) (request to lower
+
+offense level pursuant to Amendment 706 is not proper under § 2255,
+
+but is a claim for a sentence modification pursuant to 18 U.S.C. §
+
+3582(c)(2)).     The terms of both the Guidelines and § 3582(c)(2)
+
+suggest this result as well.            See U.S.S.G. § 1B1.10(a)(1); 18
+
+U.S.C.    §   3582(c)(2).5     Thus,    this   claim   must   be    denied   as
+
+improperly asserted in his § 2255 motion.
+
+
+
+      5
+        U.S.S.G. § 1B1.10(a)(1) provides in pertinent part that
+where a defendant’s guideline range “has subsequently been lowered
+as a result of an amendment to the Guidelines Manual listed in
+subsection (c) below, the court may reduce the defendant’s term of
+imprisonment as provided by 18 U.S.C. § 3582(c)(2).” (Emphasis
+added.)
+     Section 3582(c)(2) provides that a court “may reduce the term
+of imprisonment” of a “defendant who has been sentenced . . . based
+on a sentencing range that has subsequently been lowered by [a
+Guideline Amendment].”
+
+                                       7
+Case 1:06-cr-00116-S-LDA Document 61 Filed 04/14/10 Page 8 of 11 PageID #: 219
+
+
+
+      Even if the claim were properly asserted in Kimbrough’s § 2255
+
+motion, it is without merit in any event.           Kimbrough's guideline
+
+range was based on the Career Offender guideline, U.S.S.G. § 4B1.1,
+
+rather than on the crack cocaine guideline provision, U.S.S.G. §
+
+2D1.1.     (See PSR at ¶28; Sent. Tr. at 3.), and thus “his sentence
+
+was not ‘based on a sentencing range that was subsequently lowered’
+
+by Amendment 706.”      United States v. Caraballo, 552 F.3d 6, 11-12
+
+(1st Cir. 2008).
+
+      Accordingly, Kimbrough is not entitled to receive any relief
+
+under the crack cocaine Guideline Amendments, and this claim
+
+fails.6
+
+      D.     Motion for Reduction of Sentence
+
+      Kimbrough has, through his counsel, separately filed a motion
+
+for reduction of sentence pursuant to 18 U.S.C. § 3582(c)(2)
+
+(“§ 3582 Motion ”). In this motion, Kimbrough asserts that had the
+
+crack cocaine Guideline Amendments been in effect on the date of
+
+his sentencing,7 his offense level and resulting guideline range
+
+would have been lower, and that therefore this Court would have
+
+imposed an even lesser sentence than the one given.              As part of
+
+this claim, Kimbrough concedes that the offense level set forth in
+
+
+
+      6
+       This Court notes that it has already rejected a similar
+claim in its denial of Kimbrough’s pro se motions under 18 U.S.C.
+§ 3582(c)(2).
+      7
+       Kimbrough was sentenced on June 1, 2007; the crack cocaine
+Guideline Amendments became effective on November 1, 2007.
+
+                                      8
+Case 1:06-cr-00116-S-LDA Document 61 Filed 04/14/10 Page 9 of 11 PageID #: 220
+
+
+
+the PSR was correct but contends that his sentence was based on the
+
+crack cocaine guideline provision, U.S.S.G. § 2D1.1 -- which
+
+provision was affected by the crack cocaine Guideline Amendments.
+
+(See § 3582 Motion at 2-3.)
+
+      The short answer to this contention is that Kimbrough’s
+
+guideline range, as noted above, was based on the Career Offender
+
+guideline, U.S.S.G. § 4B1.1, rather than on the crack cocaine
+
+guideline provision (PSR, ¶ 28; Sent. Tr. 3), and thus his sentence
+
+was not “based on a sentencing range that has subsequently been
+
+lowered” by the recent crack cocaine amendments.            Caraballo, 552
+
+F.3d at 9.     Accord United States v. Ayala-Pizarro, 551 F.3d 84, 85
+
+(1st Cir. 2008); United States v. Ganun, 547 F.3d 46, 47 (1st Cir.
+
+2008).      As the Court of Appeals explained in Caraballo, under
+
+U.S.S.G. § 1B1.10 a sentencing court is not authorized to reduce a
+
+defendant's sentence when a retroactive amendment does not result
+
+in lowering the applicable sentencing range for the defendant.
+
+Caraballo, 552 F.3d at 10.8         See U.S.S.G. § 1B1.10(a)(2)(B) (“A
+
+
+
+      8
+          The Court of Appeals further noted:
+          Had the new guideline provision for crack cocaine
+          offenses (Amendment 706) been in effect when this
+          defendant was sentenced, that provision would not have
+          had any effect on the sentencing range actually used. As
+          we have said, the defendant's actual sentencing range
+          was produced by reference to section 4B1.1 (the career
+          offender guideline), not section 2D1.1 (the crack
+          cocaine guideline). Thus, Amendment 706 did not lower
+          the defendant's actual sentencing range.
+Caraballo, 552 F.3d at 11.
+
+                                      9
+Case 1:06-cr-00116-S-LDA Document 61 Filed 04/14/10 Page 10 of 11 PageID #: 221
+
+
+
+reduction in the defendant's term of imprisonment is not consistent
+
+with this policy statement and therefore is not authorized under 18
+
+U.S.C. 3582(c)(2) if - an amendment . . . does not have the effect
+
+of lowering the defendant's applicable guideline range.”).
+
+      In view of this, Kimbrough's argument that this Court would
+
+have been influenced by a lesser guideline range resulting from the
+
+crack cocaine Guideline Amendments falls by the wayside, and relief
+
+under § 3582(c)(2) is unavailable, as there is no lesser guideline
+
+range applicable here.       See Caraballo, 552 F.3d at 11-12.
+
+      Moreover, this Court's consideration of the psychiatric report
+
+and other factors set forth in the PSR in connection with its
+
+imposition of a below-guidelines sentence does not change this
+
+result.     Indeed, because this Court’s original variant below-
+
+guideline sentence was already based in part on those factors --
+
+which are independent of the considerations underlying the crack
+
+cocaine Guideline Amendments -- this Court would not have been
+
+inclined to impose an even lesser sentence had those amendments
+
+been in effect, nor is it so inclined now.            Cf. United States v.
+
+Russell, CR 03-094S, 2009 WL 4981460 at *4 (D.R.I. Dec. 22, 2009)
+
+(“If the Court believed that the [crack-powder cocaine] disparity
+
+warranted an even lower sentence, it would have granted one” at the
+
+initial sentencing).
+
+      Thus, Kimbrough's motion for reduction of sentence must be
+
+denied.
+
+
+                                      10
+Case 1:06-cr-00116-S-LDA Document 61 Filed 04/14/10 Page 11 of 11 PageID #: 222
+
+
+
+III. Conclusion
+
+      For all of the foregoing reasons, Kimbrough’s motion to vacate
+
+sentence is DENIED and DISMISSED. Kimbrough’s motion for reduction
+
+of sentence (Doc. #58) is likewise DENIED and DISMISSED.9
+
+
+RULING ON CERTIFICATE OF APPEALABILITY
+
+      Pursuant    to   Rule   11(a)    of   the   Rules    Governing    §   2255
+
+Proceedings in the United States District Courts, this Court hereby
+
+finds that this case is not appropriate for the issuance of a
+
+certificate of appealability (COA) as to the denial of his § 2255
+
+motion    to   vacate,   because      Kimbrough   has     failed   to   make   a
+
+substantial showing of the denial of a constitutional right as to
+
+any claim, as required by 28 U.S.C. § 2253(c)(2).
+
+      Kimbrough is advised that any motion to reconsider this ruling
+
+will not extend the time to file a notice of appeal in this matter.
+
+See § 2255 Rule 11(a).
+
+
+IT IS SO ORDERED:
+
+
+/s/ William E. Smith
+William E. Smith
+United States District Judge
+Date: April 14, 2010
+
+
+
+      9
+        This Court notes that this request is based in part on
+Kimbrough’s perception that his counsel had failed to respond to
+this Court’s Show Cause Order, when in fact Attorney Flanagan did
+file the § 3582(c)(2) motion for reduction of sentence discussed
+herein.
+
+                                       11
+

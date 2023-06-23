@@ -1,0 +1,231 @@
+Case 2:21-cr-00015-JDL Document 265 Filed 06/29/22 Page 1 of 5                     PageID #: 626
+
+
+
+
+                            UNITED STATES DISTRICT COURT
+                                 DISTRICT OF MAINE
+
+UNITED STATES OF AMERICA                      )
+                                              )
+                                              )
+                       v.                     ) 2:21-cr-00015-JDL-1
+                                              ) 2:21-cr-00015-JDL-2
+                                              ) 2:21-cr-00015-JDL-4
+JASON CANDELARIO, et al.,                     )
+                                              )
+       Defendants.                            )
+
+  ORDER ON DEFENDANTS DAPRATO, CANDELARIO, AND CARPIO’S
+ MOTION TO DISMISS COUNT THREE OR FOUR OF THE INDICTMENT
+
+       The indictment in this case (ECF No. 115) charges Defendants Jason
+
+Candelario, Luis Carpio, and Derek Daprato (the “Moving Defendants”) with, among
+
+other crimes, discharging a firearm during a crime of violence (Count Three), see 18
+
+U.S.C.A. § 924(c)(1)(A)(iii) (West 2022), and, separately, brandishing a second
+
+firearm during a crime of violence (Count Four), see id. § 924(c)(1)(A)(ii). 1 Daprato
+
+moves (ECF No. 223) for the immediate dismissal of either count, arguing that the
+
+Government should be forced to elect between the counts now because they are
+
+multiplicitous in violation of the Double Jeopardy Clause of the Fifth Amendment.
+
+See United States v. Gordon, 875 F.3d 26, 32 (1st Cir. 2017) (“As relevant here,
+
+‘multiplicity’ means that a single crime (or ‘unit of prosecution’) has been charged as
+
+
+
+ 1 Count One charges the Moving Defendants (and a fourth codefendant who is not a party to the
+instant motion) with conspiring to commit Hobbs Act robbery. See 18 U.S.C.A. § 1951(a) (West 2022).
+Count Two charges the Moving Defendants with interfering with commerce by violence and aiding and
+abetting the same. See id. Count Three charges the Moving Defendants with discharging a firearm
+during a crime of violence and aiding and abetting the same. See id. § 924(c)(1)(A)(iii). Count Four
+charges the Moving Defendants with brandishing a firearm during a crime of violence and aiding and
+abetting the same. See id. § 924(c)(1)(A)(ii). Count Five charges Candelario with being a felon in
+possession of firearms and ammunition. See id. § 922(g)(1) (West 2022). Count Six charges Carpio
+with being a felon in possession of firearms and ammunition. See id.
+Case 2:21-cr-00015-JDL Document 265 Filed 06/29/22 Page 2 of 5           PageID #: 627
+
+
+
+
+multiple crimes . . . .”). I granted (ECF Nos. 255, 261) motions by Candelario and
+
+Carpio (ECF Nos. 252, 260) to join Daprato’s motion to dismiss.
+
+      At the hearing on May 23, 2022, the Government conceded that a double
+
+jeopardy violation would occur if any of the Moving Defendants were sentenced on
+
+both the discharging and the brandishing counts because the two counts arise out of
+
+the same alleged predicate crime of violence. See United States v. King, 554 F.3d 177,
+
+179 n.1 (1st Cir. 2009) (observing that the First Circuit has “ruled that two section
+
+924(c) gun charges based on the same predicate offense constituted one unit of
+
+prosecution” (citing United States v. Peña-Lora, 225 F.3d 17, 32 (1st Cir. 2000))).
+
+However, the Government contends that immediate election between the two counts
+
+is unnecessary because the jury might not convict any of the Moving Defendants on
+
+both counts and, even if this does occur, the Court can vacate the brandishing
+
+conviction, which carries the lesser sentence. See 18 U.S.C.A. § 924(c)(1)(A)(ii)-(iii).
+
+The Government also suggests that the jury could be instructed to skip the
+
+brandishing count for any of the Moving Defendants who are convicted on the
+
+discharging count.    Finally, the Government indicates that if a defendant were
+
+convicted on both counts, it could dismiss one of the counts after trial and before
+
+sentencing.
+
+      The Moving Defendants concede that the Court has discretion as to whether to
+
+require the Government to elect between the counts prior to trial. Nonetheless, the
+
+Moving Defendants advocate for pretrial dismissal of either count because submitting
+
+both to the jury may give a false and prejudicial impression of how much criminal
+
+activity may have occurred. They also argue that the risk of a compromise verdict is
+
+                                           2
+Case 2:21-cr-00015-JDL Document 265 Filed 06/29/22 Page 3 of 5             PageID #: 628
+
+
+
+
+exacerbated here because the jury will need to evaluate a combination of principal
+
+and vicarious theories of liability for six counts and three defendants.
+
+       “There is no inflexible rule that the exclusive remedy for multiplicitous counts
+
+is election between them.” United States v. Pires, 642 F.3d 1, 16 (1st Cir. 2011).
+
+“[T]he Double Jeopardy Clause does not protect against simultaneous prosecutions
+
+for the same offense, so long as no more than one punishment is eventually imposed.”
+
+Id. (quoting United States v. Josephberg, 459 F.3d 350, 355 (2d Cir. 2006) (per
+
+curiam)). As such, double jeopardy concerns “evaporate[]” if a jury convicts on only
+
+one of the multiplicitous counts. Id. And, if a jury does convict on multiplicitous
+
+counts, the court may “simply vacate both the conviction and the sentence as to all
+
+but one count, essentially merging the offending counts.” Id.; accord United States v.
+
+Widi, 697 F. Supp. 2d 140, 145 (D. Me. 2010) (“[T]he Court has discretion to either
+
+require the Government to elect on which count it will proceed or to allow both counts
+
+to proceed to trial and dismiss one prior to sentencing.”).
+
+       Additionally, while forcing the Government to elect among multiplicitous
+
+counts before trial may sometimes be the better option, the First Circuit concluded,
+
+under similar circumstances to those that exist here, that “the government was
+
+entitled to present both gun scenarios to the jury.” King, 554 F.3d at 180. In King,
+
+the defendant bringing the multiplicity challenge had been charged with six counts,
+
+including one count of brandishing his own gun during a crime of violence and, under
+
+a theory of vicarious liability, one count for his coconspirator’s possession of a
+
+different gun during the same crime of violence.         Id. at 179; see 18 U.S.C.A.
+
+§ 924(c)(1)(A)(i)-(ii).
+
+                                           3
+Case 2:21-cr-00015-JDL Document 265 Filed 06/29/22 Page 4 of 5                    PageID #: 629
+
+
+
+
+       In keeping with King, I reject the Moving Defendants’ request that I require
+
+the Government to elect now between the discharging and brandishing counts. The
+
+Government should be allowed to present both of its scenarios at trial because, for
+
+each of the Moving Defendants, the jury may accept one theory of liability but not the
+
+other. See United States v. Johnson, 130 F.3d 1420, 1426 (10th Cir. 1997) (concluding
+
+that a district court had not abused its discretion when it denied a pretrial motion to
+
+dismiss a multiplicitous count because “the possibility (albeit slim) existed that [the
+
+defendant] could be convicted on one count and acquitted on the other”). I also
+
+conclude that the risk of prejudice to the Moving Defendants from submitting both
+
+counts to the jury is low. This is not a case in which a great number of alleged
+
+violations constituting only one crime have been charged separately; here, the current
+
+six-count indictment alleges only marginally more criminal activity than if one of the
+
+counts were dismissed. 2 And the jury’s task—evaluating six counts across three
+
+defendants—will be neither inherently confusing nor overly complex.                      Finally,
+
+submitting both counts to the jury, as opposed to only one, will allow the jury to
+
+render a verdict on both § 924(c)(1)(A) theories, thus providing a clear trial record for
+
+purposes of appellate review and promoting judicial economy.
+
+       Accordingly, the Moving Defendants’ Motion to Dismiss Count Three or Four
+
+of the Indictment (ECF No. 223) is DENIED. The Court will resolve the multiplicity
+
+
+
+
+ 2 With respect to Candelario and Carpio, forcing the Government to elect between the discharging
+
+and brandishing counts would result in four counts being submitted to the jury instead of five. For
+Daprato, dismissing a count now would lead to three counts being submitted to the jury instead of
+four.
+                                                 4
+Case 2:21-cr-00015-JDL Document 265 Filed 06/29/22 Page 5 of 5        PageID #: 630
+
+
+
+
+issue either through jury instructions or, if any of the Moving Defendants are
+
+convicted on both counts, by vacating those defendants’ brandishing convictions.
+
+
+      SO ORDERED.
+
+      Dated: June 29, 2022
+
+
+                                                     /s/ JON D. LEVY
+                                               CHIEF U.S. DISTRICT JUDGE
+
+
+
+
+                                         5
+

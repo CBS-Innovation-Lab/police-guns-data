@@ -1,0 +1,534 @@
+                           UNITED STATES DISTRICT COURT
+                                DISTRICT OF MAINE
+
+ UNITED STATES OF AMERICA,                     )
+                                               )
+                                               )
+ v.                                            )
+                                               ) Docket no. 2:10-cr-00155-GZS
+ WAYNE CARTER,                                 )
+                                               )
+                                               )
+                       Defendant.              )
+                                               )
+
+
+                      ORDER ON RENEWED MOTION TO DISMISS
+
+
+       On August 26, 2011, Defendant Wayne Carter conditionally pleaded guilty to a one-count
+
+indictment of possession of a firearm following a prior conviction of a misdemeanor crime of
+
+domestic violence in violation of 18 U.S.C. §§ 922(g)(9) & 924(a). Carter appealed his conviction
+
+to the U.S. Court of Appeals for the First Circuit, arguing that an offense with a mens rea of
+
+recklessness cannot serve as a predicate misdemeanor crime of domestic violence under
+
+§ 922(g)(9). The First Circuit vacated Carter’s conviction and remanded the case for further
+
+consideration in light of the Supreme Court’s recent opinion in United States v. Castleman, 134 S.
+
+Ct. 1405 (2014). Accordingly, before the Court is Defendant Wayne Carter’s Renewed Motion to
+
+Dismiss the Indictment (ECF No. 91) (“Motion to Dismiss”). For the reasons explained below,
+
+the Court GRANTS the Motion to Dismiss.
+
+I.     BACKGROUND
+
+       On April 1, 1997, Carter was charged with a violation of Maine’s general purpose assault
+
+statute, 17-A M.R.S.A. § 207. The Information read: “That on or about the 24th day of February,
+
+1997, the City/Town of Warren, County of Knox, State of Maine, Wayne Carter did intentionally,
+knowingly or recklessly cause bodily injury or offensive physical contact to Angie Eagan.”1
+
+(Information For Violation Of 17-A M.R.S.A. § 207 ASSAULT – Class D (ECF No. 19-1; 31-1).)
+
+On that same date, Carter pleaded guilty.                   The state court docket reveals that the Court
+
+“ADJUDGED that the Defendant is guilty of Assault, Class D (17-A §207) as charged and
+
+convicted. Sentenced to Knox County Jail for 30 days.” (Docket Sheet (ECF No. 31-1) at Page
+
+ID # 54.)
+
+          Three years later, on March 20, 2010, Carter pawned a Riger, Mini-14 Ranch Rifle, .223
+
+caliber rifle at the Waldoboro Trading Company in Waldoboro, Maine. (Prosecution Version
+
+(ECF No. 38) at 1.) On April 16, 2010, Carter attempted to redeem the pawned firearm but was
+
+ultimately unsuccessful. (Id.) On April 30, 2010, the Bureau of Alcohol, Tobacco, Firearms and
+
+Explosives Agents interviewed Carter at his home regarding his attempted retrieval of the rifle.
+
+During the interview, Carter recalled his prior conviction. (Id.)
+
+          On September 22, 2010, Carter was charged in a one-count indictment with the knowing
+
+possession of a firearm after a previous conviction of a misdemeanor crime of domestic violence
+
+in violation of 18 U.S.C. §§ 922(g)(9) and 924(a). (Indictment (ECF No. 1).) On November 12,
+
+2010, Carter moved to dismiss the indictment on the grounds that a conviction under Maine’s
+
+general purpose assault statute, 17-A M.R.S.A. § 207, should not qualify as a predicate offense for
+
+§ 922(g)(9). (Mot. To Dismiss Indictment (ECF No. 19).) Specifically, Carter argued:
+
+          [A] conviction under the Maine assault statute, which allows for a conviction upon
+          proof of ‘recklessness’ as an intent element, is not adequate as a prior conviction
+          for violation of § 922(g)(9) because an adequate predicate ‘misdemeanor crime of
+          domestic violence’ must involve an offense that requires a higher level of criminal
+          intent than ‘recklessness’ to qualify as a crime of violence.
+
+
+
+
+1
+    Angie Eagan was his live-in girlfriend and the mother of his child.
+
+
+                                                            2
+(Id. at 4.)2 The Court denied that Motion, stating that United States v. Booker, 644 F.3d 12 (1st
+
+Cir. 2011), “serves as binding and controlling precedent for the issues presented in Defendant’s
+
+Motion.” (ECF No. 35.)
+
+         On August 26, 2011, Carter conditionally pled guilty and reserved his right to appeal the
+
+Court’s Order on his motion to dismiss. He was sentenced to a prison term of twelve months and
+
+one day, and the execution of his sentence was stayed pending resolution of his appeal. Shortly
+
+thereafter, Carter appealed his conviction, arguing that commission of a simple assault by
+
+recklessly causing offensive physical contact cannot constitute a predicate offense for purposes of
+
+18 U.S.C. § 922(g)(9).3 On April 30, 2014, the U.S. Court of Appeals for the First Circuit vacated
+
+his conviction and remanded the motion to dismiss to this Court, stating:
+
+         [T]here may be some merit to [Carter’s] statutory argument in light of the Supreme
+         Court’s recent decision in United States v. Castleman, ––– U.S. ––––, 134 S. Ct.
+         1405 (2014). Finding that the record is insufficiently developed on this issue, we
+         vacate Carter’s conviction and the district court’s denial of his original motion to
+         dismiss the indictment, and we remand the case for further proceedings consistent
+         with this opinion.
+
+United States v. Carter, 752 F.3d 8, 10 (1st Cir. 2014).
+
+         On remand from the First Circuit, Carter asserts that his previous conviction for simple
+
+assault was not a misdemeanor crime of domestic violence as that term is defined in 18 U.S.C.
+
+
+
+2
+   Carter also argued that “the offensive touching that may support a conviction of simple assault under the Maine
+statute is not adequate to make out the violent force that must be shown to support the ‘physical force’ required in the
+definition of a ‘misdemeanor crime of domestic violence.’ 18 U.S.C. § 16 and § 922(a)(33)(A)(ii).” (Mot. To Dismiss
+Indictment (ECF No. 19) at 4.) The Supreme Court rejected this argument in United States v. Castleman, with its
+holding that “the requirement of ‘physical force’ is satisfied, for purposes of § 922(g)(9), by the degree of force that
+supports a common-law battery conviction.” 134 S. Ct. 1405, 1413 (2014).
+3
+  Carter also asserted that under the Supreme Court’s decision in District of Columbia v. Heller, 554 U.S. 570 (2008),
+“the government failed to demonstrate a ‘reasonably close fit’ between the purpose of the restriction (reducing the
+frequency of deaths resulting from domestic violence) and the restriction itself (in his words, ‘permanently
+dispossessing non-violent domestic misdemeanants of their Second Amendment rights’).” United States v. Carter,
+752 F.3d 8, 10 (1st Cir. 2014). Finally, Carter argued that he was entitled to a lesser sentence under the relevant
+sentencing guideline because he possessed the firearm solely for lawful sporting purposes. Id. The First Circuit
+dismissed Carter’s Constitutional argument and did not reach his sentencing claim. See id. at 13, 21.
+
+
+                                                           3
+§ 921(a)(3) in light of United States v. Castleman, 134 S. Ct. 1405 (2014). Carter therefore asserts
+
+that his Indictment must be dismissed.
+
+II.    DISCUSSION
+
+       Carter was charged with violating 18 U.S.C. § 922(g)(9), commonly known as the
+
+Lautenberg Amendment to the Gun Control Act of 1968. The Lautenberg Amendment makes it
+
+unlawful for any person “who has been convicted in any court of a misdemeanor crime of domestic
+
+violence, to . . . possess . . . any firearm or ammunition[.]” Id. A misdemeanor crime of domestic
+
+violence is defined as
+
+       an offense that (1) is a misdemeanor under Federal, State, or Tribal law; and (2)
+       has, as an element, the use or attempted use of physical force, or the threatened use
+       of a deadly weapon, committed by a current or former spouse, parent, or guardian
+       of the victim, by a person with whom the victim shares a child in common, by a
+       person who is cohabiting with or has cohabited with the victim as a spouse, parent,
+       or guardian, or by a person similarly situated to a spouse, parent, or guardian of the
+       victim.
+
+18 U.S.C. § 921(a)(33).
+
+       In this case, Carter’s prior conviction was under Maine’s general purpose assault statute,
+
+17-A M.R.S.A. § 207, which provides that: “A person is guilty of assault if [] [t]he person
+
+intentionally, knowingly or recklessly causes bodily injury or offensive physical contact to another
+
+person.” On appeal to the First Circuit, Carter argued that the “use of force” required for a
+
+misdemeanor crime of domestic violence under § 922(g)(9) requires more than reckless conduct
+
+permitted for a conviction under Maine’s 17-A M.R.S.A. § 207.
+
+       Prior to the Supreme Court’s opinion in United States v. Castleman and the First Circuit’s
+
+opinion in this case, the First Circuit had at least twice explicitly rejected Carter’s argument. First,
+
+in United States v. Booker, two defendants argued that only an intentional offense could qualify
+
+as a misdemeanor crime of domestic violence under § 922(g)(9), and, accordingly, that a
+
+
+
+
+                                                   4
+conviction under Maine’s assault statute, which may be violated intentionally, knowingly, or
+
+recklessly, cannot serve as a predicate conviction. 644 F.3d at 13. The First Circuit held that “the
+
+statutory definition of ‘misdemeanor crime of domestic violence’ does not prescribe an intentional
+
+mens rea. We therefore hold that an offense with a mens rea of recklessness may qualify as a
+
+‘misdemeanor crime of domestic violence’ under § 922(g)(9).” Id. at 21.
+
+       Subsequent to United States v. Booker, in United States v. Armstrong, the First Circuit
+
+reiterated its holding in United States v. Booker that “an offense with a mens rea of recklessness
+
+may qualify as a ‘misdemeanor crime of domestic violence’ under § 922(g)(9)” and also held that
+
+a conviction for a non-violent, offensive touching could constitute a predicate offense for §
+
+922(g)(9). United States v. Armstrong, 706 F.3d 1, 4 (1st Cir. 2013) cert. granted, judgment
+
+vacated, 134 S. Ct. 1759 (2014); see also United States v. Nason, 269 F.3d 10, 22 (2001)(holding
+
+that “all convictions under Maine’s general-purpose assault statute, [17-A M.R.S.A. § 207(1)],
+
+necessarily involve, as a formal element, the use of physical force.”).
+
+       On March 26, 2014, after Carter’s case before the First Circuit was fully briefed, the
+
+Supreme Court issued its opinion in United States v. Castleman, 134 S. Ct. 1405 (2014). In 2001,
+
+the respondent, James Alvin Castleman, pleaded guilty in a Tennessee court to having
+
+“intentionally or knowingly cause[d] bodily injury to” the mother of his child. Id. at 1408. In
+
+2008, Castleman was indicted by a federal grand jury with two counts of violating § 922(g)(9).
+
+Castleman moved to dismiss the indictment arguing that the underlying conviction was not a
+
+misdemeanor crime of domestic violence because “it did not have, as an element, the use of
+
+physical force.” Id. at 1409 (internal quotations and punctuation omitted). The District Court
+
+granted the motion to dismiss reasoning that “the ‘use of physical force’ for § 922(g)(9) purposes
+
+must entail violent contact with the victim.” Id. (internal quotations and punctuation omitted). A
+
+
+
+
+                                                 5
+divided panel of the Sixth Circuit affirmed on different grounds. “The majority held that the degree
+
+of physical force required by § 921(a)(33)(A)(ii) is the same as required by § 924(e)(2)(B)(i),
+
+which defines ‘violent felony.’” Id. The Supreme Court granted certiorari to resolve a split among
+
+the U.S. Courts of Appeals as to the degree of physical force required for an act to constitute a
+
+misdemeanor crime of domestic violence.
+
+       In United States v. Castleman, the Supreme Court held that “Congress incorporated the
+
+common-law meaning of ‘force’ – namely, offensive touching – in § 921(a)(33)(A)’s definition of
+
+a ‘misdemeanor crime of domestic violence.’” 134 S. Ct. at 1410. The Court reasoned that unlike
+
+in Johnson v. United States, 559 U.S. 133 (2010), where the Court considered whether a battery
+
+was a “violent felony” under the Armed Career Criminal Act, 18 U.S.C. § 924(e)(1), in the
+
+domestic violence context, the common law meaning of “force” fit perfectly. 134 S. Ct. at 1410-
+
+12. Accordingly, under § 922(g), the requirement of physical force is satisfied by the degree of
+
+force that supports a common law battery – the slightest offensive touching. Id. at 1410.
+
+       The Supreme Court then turned its analysis to whether Castleman’s conviction qualified as
+
+a misdemeanor crime of domestic violence. First, the Court utilized the “categorical approach” to
+
+determine whether Castleman’s conviction necessarily involved “the use or attempted use of
+
+physical force, or the threatened use of a deadly weapon.” § 922(a)(33)(A). The Tennessee statute
+
+under which Castleman was convicted defined three types of assault:              “(1) [i]ntentionally,
+
+knowingly or recklessly caus[ing] bodily injury to another; (2) [i]ntentionally or knowingly
+
+caus[ing] another to reasonably fear imminent bodily injury; or (3) [i]ntentionally or knowingly
+
+caus[ing] physical contact with another” in a manner that a “reasonable person would regard . . .
+
+as extremely offensive or provocative.” Id. at 1413 (quoting Tenn. Code Ann. § 39-13-101(a).)
+
+Significantly, at this point in its analysis, the Supreme Court stated that not every assault under the
+
+
+
+
+                                                  6
+Tennessee statute necessarily involved “the use or attempted use of physical force, or threatened
+
+use of a deadly weapon.” Id. at 1413-14. Specifically, “the merely reckless causation of bodily
+
+injury under § 39 – 13 – 101(1) may not be a ‘use’ of force.” Id. at 1414. In a footnote, the
+
+Supreme Court raised the central issue of Carter’s argument. The Court stated:
+
+       We held in [Leocal v. Ashcroft, 543 U.S. 1 (2004)] that “‘use’ requires active
+       employment,” rather “than negligent or merely accidental conduct.” 543 U.S. at 9.
+       Although Leocal reserved the question whether a reckless application of force could
+       constitute a “use” of force, id. at 13, the Courts of Appeals have almost uniformly
+       held that recklessness is not sufficient. See United States v. Palomino Garcia, 606
+       F.3d 1317, 1335–1336 (11th Cir. 2010); Jimenez-Gonzalez v. Mukasey, 548 F.3d
+       557, 560 (7th Cir. 2008); United States v. Zuniga–Soto, 527 F.3d 1110, 1124 (10th
+       Cir. 2008); United States v. Torres-Villalobos, 487 F.3d 607, 615-16 (8th Cir.
+       2007); United States v. Portela, 469 F.3d 496, 499 (6th Cir. 2006); Fernandez-Ruiz
+       v. Gonzales, 466 F.3d 1121, 1127-32 (9th Cir. 2006) (en banc); Garcia v. Gonzales,
+       455 F.3d 465, 468-69 (4th Cir. 2006); Oyebanji v. Gonzales, 418 F.3d 260, 263-65
+       (3rd Cir. 2005) (Alito, J.); Jobson v. Ashcroft, 326 F.3d 367, 373 (2nd Cir. 2003);
+       United States v. Chapa-Garza, 243 F.3d 921, 926 (5th Cir. 2001). But see United
+       States v. Booker, 644 F.3d 12, 19-20 (1st Cir. 2011) (noting that the First Circuit
+       had not resolved the recklessness issue under Leocal, but declining to extend
+       Leocal’s analysis to § 922(g)(9)).
+
+Castleman, 134 S. Ct. at 1414 n.8. After noting that reckless conduct may not be a “use” of force,
+
+the Supreme Court declined to determine whether the Tennessee statute could categorically qualify
+
+as a misdemeanor crime of domestic violence because both sides agreed that the statute was
+
+divisible, which allowed the Court to apply the modified categorical approach. Id. at 1414.
+
+       Turning to Castleman’s indictment, the Court determined that Castleman pled guilty to
+
+having “intentionally or knowingly cause[d] bodily injury” to the mother of his child and that “the
+
+knowing or intentional causation of bodily injury necessarily involves the use of physical force.”
+
+Id. The Supreme Court held that Castleman’s conviction therefore qualified as a misdemeanor
+
+crime of domestic violence. Id. at 1416.
+
+       After the Supreme Court issued its opinion in United States v. Castleman, the Supreme
+
+Court vacated the judgment in United States v. Armstrong and remanded the case to the First
+
+
+
+                                                7
+Circuit for further consideration in light of United States v. Castleman. Armstrong v. United
+
+States, 134 S. Ct. 1759 (2014). As another judge in this Court has previously stated:
+
+        Reading Supreme Court tea leaves is chancy, but the First Circuit decision in
+        Armstrong[] was consistent with Castleman except for the Circuit Court’s brief
+        recklessness analysis. It is a short logical step to conclude that the reason the
+        Supreme Court vacated the First Circuit decision in Armstrong[]was to pull the
+        First Circuit in line with the other ten circuit courts in the recklessness analysis.
+
+United States v. Hines, 1:12-CR-00204-JAW, 2014 WL 1875164 at *8 (D. Me. May 9, 2014).
+
+        Shortly after the Supreme Court issued its opinion in United States v. Castleman and
+
+vacated Armstrong, the First Circuit issued its opinion in this case. After reviewing the factual
+
+and procedural background, the First Circuit turned its attention to assessing the impact of United
+
+States v. Castleman and Armstrong on Carter’s argument. The First Circuit acknowledged that
+
+United States v. Castleman “casts doubt” on the First Circuit’s United States v. Booker holding
+
+that “a prior ‘offense with a mens rea of recklessness’ may support a conviction under § 922(g)(9).”
+
+Carter, 752 F.3d at 18 (citing Booker, 644 F.3d at 21). Accordingly, “the validity of Carter’s
+
+§ 922(g)(9) conviction may depend on which mens-rea prong of the Maine general-purpose assault
+
+statute served as the basis for his guilty plea and conviction.” Id.
+
+        In a footnote, the First Circuit acknowledged that United States v. Castleman does not
+
+directly overrule United States v. Booker. Carter, 752 F.3d at 18 n.11. The Government, in
+
+opposing Carter’s Motion to Dismiss, strongly argues that United States v. Booker remains good
+
+law and that this Court is bound to adhere to United States v. Booker and its progeny until they are
+
+expressly overruled.     (Government’s Objection To Def.’s Renewed Mot. To Dismiss The
+
+Indictment (ECF No. 94) (“Gov’t Objection”) at 2-3.) In Carter, the First Circuit acknowledged
+
+that stare decisis would normally bind the court to its earlier rulings, but then stated two exceptions
+
+to the rule.
+
+
+
+
+                                                  8
+          First, we may depart from an existing panel decision when subsequent controlling
+          authority – such as a Supreme Court opinion, First Circuit en banc opinion, or a
+          new statute – undermines our earlier opinion. Second, there is a limited exception
+          that permits one panel to overrule another in those relatively rare instances in which
+          authority that postdates the original decision, although not directly controlling,
+          nevertheless offers a sound reason for believing that the former panel, in light of
+          fresh developments, would change its collective mind.
+
+Carter, 752 F.3d at 18 n.11 (internal citations and quotations omitted). The First Circuit then
+
+stated:
+
+          The Supreme Court’s statements in Castleman – that “the merely reckless causation
+          of bodily injury . . . may not be a ‘use’ of force,” Castleman, 134 S. Ct. at 1414,
+          and that “the Courts of Appeals have almost uniformly held that recklessness is not
+          sufficient” to “constitute a ‘use’ of force,” id. at 1414 n. 8 – provide a “‘sound
+          reason’” for thinking that the Booker panel might well “‘change its collective
+          mind’” in light of Castleman.
+
+Id. Further, while the statement in Castleman was via dictum in a footnote, “it is much more than
+
+an offhand comment. [The First Circuit] ha[s] recognized before, and today reaffirm[s], that
+
+‘[c]arefully considered statements of the Supreme Court, even if technically dictum, must be
+
+accorded great weight and should be treated as authoritative.’” Crowe v. Bolduc, 365 F.3d 86, 92
+
+(1st Cir. 2004) (quoting United States v. Santana, 6 F.3d 1, 9 (1st Cir. 1993)). This Court cannot
+
+ignore the guidance of the Supreme Court and the First Circuit in Castleman, Armstrong and
+
+Carter. Therefore, in accordance with the Court’s reading these recent rulings, the Court now
+
+concludes that Carter’s conviction may only stand if it was premised on more than accidental,
+
+negligent or reckless conduct.
+
+          To determine which mens rea prong served as the basis of Carter’s guilty plea, the Court
+
+utilizes the modified categorical approach. See Carter, 752 F.3d at 17-18. Under this approach,
+
+the Court must first identify the offense to which Carter pled guilty. See id. To do this the Court
+
+may consider approved documents under Shepard v. United States, 544 U.S. 13 (2005), which
+
+consist of “the trial record – including charging documents, plea agreements, transcripts of plea
+
+
+
+                                                    9
+colloquies, findings of fact and conclusions of law from a bench trial, and jury instructions and
+
+verdict forms.” Id. at 19 (internal citations and quotations omitted). Because Carter entered a
+
+guilty plea, the approved “Shepard” documents will consist of “mainly of the charging document,
+
+written plea agreement, and transcript of the change-of-plea colloquy.” Id. (internal citation
+
+omitted). The Court may not make an independent inquiry into the facts underlying the state court
+
+plea and is therefore not permitted to consider the underlying police report. Id. at 19-20. The
+
+record before the First Circuit was limited to the “the Information dated April 1, 1997; a docket
+
+sheet pertaining to the case, which includes certain minutes of the proceedings before the Maine
+
+state court and the court’s judgment; and the Knox County Sheriff’s Department incident report,
+
+including the arresting officer’s narrative and the victim’s statement.” Id. at 20. As before the
+
+First Circuit, the incident report, the arresting officer’s narrative and the victim’s statement are not
+
+permissible documents for the Court to consider. The First Circuit remanded this case to allow
+
+the Government and the Defense to further develop, if possible, the record on this issue. Id. at 21.
+
+       The only additional material proffered before this Court consists of the transcript of
+
+Defendant’s plea colloquy in the Knox County Superior Court on April 1, 1997. (See Exhibit 1 to
+
+Government’s Objection (ECF No. 94-1) at Page ID # 289.) Within that transcript is a single
+
+statement by Carter’s attorney at the plea colloquy that provides background into the underlying
+
+offense. Carter’s attorney stated: “[T]he discovery shows that this was no more than a push on
+
+the right shoulder, that it was nothing more serious than that[.]” (Id.) This statement is insufficient
+
+to determine which mens rea served as the basis of Carter’s guilty plea. Reviewing all of the
+
+proper Shepard documents currently before the Court, the Court is unable to identify the offense
+
+of Carter’s conviction. Where the Court is unable to “identify the offense of conviction . . . the
+
+conviction may only serve as a predicate offense if each of the possible offenses of conviction
+
+
+
+
+                                                  10
+would qualify as” a misdemeanor crime of domestic violence under § 922(g)(9). See United States
+
+v. Holloway, 630 F.3d 252, 257 (1st Cir. 2011). Here, the Court is unable to identify the underlying
+
+offense, and, therefore it is possible that Carter pled to an offense with a mens rea of recklessness.
+
+Under Castleman, Armstrong, and Carter, such an offense cannot serve as a predicate
+
+misdemeanor crime of domestic violence under § 922(g)(9).4
+
+        In short, on the record presented, Carter’s 1997 assault conviction cannot serve as a
+
+predicate misdemeanor crime of domestic violence under § 922(g)(9). Therefore, Carter’s Motion
+
+to Dismiss The Indictment (ECF No. 91) is GRANTED.
+
+
+SO ORDERED.
+
+                                                             /s/ George Z. Singal
+                                                             United States District Judge
+
+Dated this 8th day of July, 2014.
+
+
+
+
+4
+   Notably, on remand the Government does not seriously argue that the offense to which Carter pled guilty is
+identifiable. (Gov’ Objection at 2 n.2.) Instead, the Government urges this Court to find that Booker remains good
+law and that an offense with a mens rea of recklessness can serve as a predicate offense. The Court finds that
+Castleman, Armstrong, and Carter are determinative, controlling law that reject the Government’s argument.
+
+
+                                                       11
+

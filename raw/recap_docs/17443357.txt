@@ -1,0 +1,290 @@
+Case 1:09-cr-00139-JAW Document 52 Filed 04/28/10 Page 1 of 6                                    PageID #: 200
+
+
+
+                                  UNITED STATES DISTRICT COURT
+                                       DISTRICT OF MAINE
+
+UNITED STATES OF AMERICA                              )
+                                                      )
+         v.                                           )        CR-09-139-B-W
+                                                      )
+NATHAN LAWRENCE REHLANDER                             )
+
+
+     AMENDED1 ORDER ON DEFENDANT’S MOTION TO DISMISS INDICTMENT
+
+         Plaintiff contends that emergency hospitalization for a mental illness cannot qualify as
+
+“committed to a mental institution” for purposes of 18 U.S.C. § 922(g)(4) when formal
+
+involuntary commitment is later found unnecessary without violating the Fifth and the Second
+
+Amendments. The Court has recently considered and rejected similar arguments in United States
+
+v. Brian Murphy, CR-09-157-B-W and United States v. Benjamin Small, CR-09-184-B-W and
+
+does so again here.
+
+I.       STATEMENT OF FACTS
+
+         On March 28, 2007, and continued on April 2, 2007, Nathan Rehlander was involuntarily
+
+hospitalized at Acadia Hospital after self-reporting a suicide attempt. Application for Emergency
+
+Involuntary Admission to a Mental Hospital Attach. 1 (Docket # 37); Discharge/Transfer
+
+Summary from Acadia Hospital Attach. 3 (Docket # 37). Both times, consistent with Maine law,
+
+three steps were taken to ensure Mr. Rehlander needed hospitalization. 34-B M.R.S.A. § 3863.
+
+         For the March 28 hospitalization, a crisis clinician filled-out and signed an application for
+
+emergency committal or “blue paper,”2 describing why she believed Mr. Rehlander was mentally
+
+
+
+1
+  This Amended Order corrects two typographical errors in the Order on Defendant‟s Motion to Dismiss Indictment
+dated February 18, 2010 (Docket # 45). In the first paragraph of page 3 of that Order, the dates of April 5, 2009 and
+April 13, 2009 should be April 5, 2007 and April 13, 2007.
+2
+  “Blue paper” is the short hand parlance for emergency involuntary admission applications in Maine because
+historically the three part forms were printed on blue paper. United States v. Smith, 511 F.3d 77, 79 n.1 (1st Cir.
+2007) (citing United States v. Flanders, Crim. No. 03-76-B-W, 2004 WL 444027, at *2 n.1 (D. Me. Mar. 4, 2004)).
+Case 1:09-cr-00139-JAW Document 52 Filed 04/28/10 Page 2 of 6                                      PageID #: 201
+
+
+
+ill and posed a likelihood of serious harm. She stated “client has plan to hang himself, client has
+
+diagnosis of bipolar and paranoid schiz, is distrustful of treatment and of medication.”
+
+Application for Emergency Involuntary Admission to a Mental Hospital Attach. 1. A nurse
+
+practitioner certified that he examined Mr. Rehlander on the date of the certification and agreed
+
+that Mr. Rehlander was mentally ill and posed a likelihood of serious harm because he had a
+
+“plan to kill himself by hanging.” Id. A judicial officer, here a Justice of the Peace, certified
+
+that the application complied with Maine law. Id.3
+
+         At some point, Mr. Rehlander appears to have briefly switched from involuntary to
+
+voluntary commitment. Tr. Attach. 5 at 6:1-7, 21:2-21 (Docket # 37).4 He was switched back to
+
+involuntary hospitalization on April 2 when a licensed clinical social worker filled-out and
+
+signed an application for emergency committal.                     Application for Emergency Involuntary
+
+Admission to a Mental Hospital Attach. 2 (Docket # 37). She certified that Mr. Rehlander posed
+
+a likelihood of serious harm because of “increased grandiosity; disorganized thoughts; placing
+
+self and others in harm‟s way in imminent manner, delusional.” Id. A doctor certified that he
+
+examined Mr. Rehlander on the date of the certification and agreed that Mr. Rehlander was
+
+mentally ill and posed a likelihood of serious harm. He identified Mr. Rehlander‟s symptoms as
+
+“elevated mood, pressured speech, distractability, fight of ideas” and stated that Mr. Rehlander
+
+posed a substantial risk of physical harm because “five days ago, patient made a suicidal gesture,
+
+hanging self from belt.” Id. Once again a Justice of the Peace certified that the application
+
+
+
+
+3
+  Maine law requires that a physician or psychologist examine the patient within 24 hours of admission. Either the
+patient is again certified as suffering from a mental illness and posing a likelihood of serious harm or the patient is
+immediately discharged. § 3863(7). The record does not contain any information about this second certification.
+4
+  Dr. Tingley testified that Mr. Rehlander went from “involuntary to voluntary back to involuntary.” Tr. at 6:5. Mr.
+Rehlander testified that “if I remember correctly, it was Monday that I switched to voluntary and the next day . . . I
+was switched to involuntary.” Id. at 23:14-17. However, Monday was April 2, 2007, the same day Mr. Rehlander‟s
+second involuntary admission was approved.
+
+                                                          2
+Case 1:09-cr-00139-JAW Document 52 Filed 04/28/10 Page 3 of 6                                       PageID #: 202
+
+
+
+complied with Maine law. Dr. Rana Dagher, a doctor at Acadia, recertified within 24 hours of
+
+his second admission that Mr. Rehlander was a danger to himself and others. Tr. at 14:19-23.
+
+         On April 5, 2007, the state of Maine notified Mr. Rehlander of an application for
+
+involuntary commitment pursuant to 34-B M.R.S.A. § 3864 and that a hearing would be held on
+
+April 13, 2007. Notice of Hearing, Order to Examine and Appointment of Counsel Attach. 4
+
+(Docket # 37). Mr. Rehlander was also notified that Carol Coakly was appointed to represent
+
+him during the hearing and that Dr. Charles Tingley and Dr. Robert Gallon were appointed to
+
+examine him and submit a written report to the court before the hearing.
+
+         At the hearing, the Maine district judge heard testimony from Dr. Tingly, Dr. Gallon, Dr.
+
+Dagher, Mr. Rehlander, and Mr. Rehlander‟s mother.5 The judge concluded, “I think that—that
+
+the doctor‟s on point that—that he should be treated, but I don‟t see a likelihood of serious harm
+
+by clear and convincing evidence. So, I‟m going to order that he be discharged.” Tr. at 33:2-5.
+
+         On November 28, 2008 Mr. Rehlander purchased a gun and on December 13, 2008, the
+
+police were called when Mr. Rehlander displayed it in public. On September 9, 2009, Mr.
+
+Rehlander was indicted under 18 U.S.C. § 922(g)(4) for possession of a gun by someone “who
+
+has been committed to a mental institution.” Indictment (Docket # 1). Mr. Rehlander‟s sole
+
+commitments were the two emergency hospitalizations in March and April 2007.
+
+         On January 11, 2010, Mr. Rehlander moved to dismiss the indictment under both the
+
+Second and Fifth Amendments. Def.’s Mot. to Dismiss (Docket # 37) (Mot. to Dismiss). The
+
+Government responded on February 1, 2010. Gov’t’s Resp. to Def.’s Mot. to Dismiss (Docket #
+
+5
+  Dr. Tingley testified that “[Mr. Rehlander] had a plan to hang himself with a belt but did not try it” and that “since
+the time [of the suicide plan] he has a better grasp on those particular stressors.” Tr. at 4:10-22. Dr. Gallon testified
+that Mr. Rehlander had a lot of stressful things that occurred that “cause[d] him to finally snap” but that he believed
+the self-reported suicide attempt was unserious and meant only to “provoke 9-1-1 and manipulate, get everybody
+worked up.” Id. at 10:2-25. Dr. Dagher testified that since Mr. Rehlander‟s initial suicide attempt that precipitated
+admission to the hospital, “Mr. Rehlander has not—has not voiced any suicidal ideation—since admission.” Id. at
+14:1-5. Mr. Rehlander testified that the stress at school and his apartment that caused his hospitalization was no
+longer a problem, although the prolonged hospital stay had led to other stress. Id. at 19:1-25.
+
+                                                           3
+Case 1:09-cr-00139-JAW Document 52 Filed 04/28/10 Page 4 of 6                     PageID #: 203
+
+
+
+43). Mr. Rehlander replied to the Government on February 16, 2010. Def.’s Reply to Gov’t’s
+
+Resp. to Def.’s Mot. to Dismiss (Docket # 44) (Def.’s Reply).
+
+II.    DISCUSSION
+
+       18 U.S.C. § 922(g)(4) prohibits the possession of a firearm by persons “who have been
+
+committed to a mental institution.” Mr. Rehlander argues that finding him “committed” for
+
+purposes of § 922(g)(4) violates his rights under the Fifth and Second Amendments.             For his
+
+Fifth Amendment argument, Mr. Rehlander contends that “[b]ecause a “blue paper” in Maine
+
+does not provide the procedures needed to comply with the Due Process Clause, basing the
+
+instant prosecution on a procedure that was neither intended to, nor would be recognized as a
+
+valid method of “commitment” to a mental hospital, renders the term meaningless” and therefore
+
+unconstitutionally vague. Mot. to Dismiss at 13. Mr. Rehlander also argues that counting his
+
+emergency hospitalization as a commitment under § 922(g)(4) infringes on his Second
+
+Amendment right to bear arms “[u]nless the Government can produce evidence that those who
+
+are not committed after an opportunity to be heard before a neutral factfinder present the same
+
+danger as those who are.” Id. at 16. This Court addressed and rejected both arguments in United
+
+States v. Brian Murphy, CR-09-157-B-W (Order) and again in United States v. Benjamin Small,
+
+CR-09-184-B-W, and by reference, the Court incorporates in this opinion its reasoning in both
+
+Murphy and Small.
+
+       Mr. Rehlander seeks to distinguish his case on the facts:
+
+       Mr. Rehlander‟s emergency admissions in March and April of 2007 were based
+       on a diagnosis of a mental illness that led to the threat of self-harm. Later
+       evaluations indicated that Mr. Rehlander was not suffering from a mental illness
+       and that his verbal statements, unaccompanied by any accompanying acts, did not
+       present evidence of self-harm. A judicial officer credited this testimony to the
+       extent that it found that the State had not carried its burden of proving an adequate
+       basis for an involuntary commitment.
+
+
+
+                                                4
+Case 1:09-cr-00139-JAW Document 52 Filed 04/28/10 Page 5 of 6                                    PageID #: 204
+
+
+
+Def.’s Reply at 5. Mr. Rehlander asks the Court to carve out “some exception to treating a „blue
+
+paper‟ as a conclusive commitment where that „blue paper‟ has been successfully challenged.”
+
+Id. at 5-6.
+
+         The Court does not reach the substance of Mr. Rehlander‟s argument because it disagrees
+
+with his premise: that he has successfully challenged his blue paper commitment. The issue
+
+addressed by the judge at the April 13 hearing was not whether the emergency commitment was
+
+justified but whether Mr. Rehlander posed a likelihood of serious harm to justify “continued
+
+hospitalization.” Tr. at 35:1 (emphasis added).6
+
+          Mr. Rehlander‟s experience is comparable to Mr. Murphy‟s.                           Mr. Murphy was
+
+temporarily hospitalized, the hospital moved for involuntary commitment, but before the hearing,
+
+the hospital withdrew its motion explaining, “the said patient may be discharged from
+
+involuntary hospitalization with safety.” Order at 2. Here, although a judge, not the hospital,
+
+decided that continued involuntary commitment was unnecessary, there has been no suggestion
+
+that the initial emergency admission was inappropriate.                  For the same reasons set forth in
+
+Murphy, the Court finds that section 922(g)(4) adequately put Mr. Rehlander on notice that
+
+“commitment to a mental institution” would include his emergency hospitalization under Maine
+
+law and the law violates neither the Fifth nor Second Amendments.
+
+III.     CONCLUSION
+
+         The Court DENIES Mr. Rehlander‟s Motion to Dismiss (Docket # 37).
+
+
+
+6
+  The trial testimony indicates that initial emergency hospitalization was necessary. Two of the three doctors
+concluded that Mr. Rehlander had been close to a suicide attempt, and Dr. Gallon, who questioned whether Mr.
+Rehlander reported his suicide attempt for attention, did not question the need for the initial hospitalization. Dr.
+Gallon and Mr. Rehlander both testified that much of the stress that caused Mr. Rehlander to initially snap had been
+resolved—suggesting that although initial hospitalization was arguably appropriate, it was no longer necessary.
+         To the extent Mr. Rehlander would respond that the witnesses did not address the question, that is precisely
+the point. Notwithstanding Mr. Rehlander‟s speculation about the possible outcome, the issue was neither raised nor
+addressed.
+
+                                                         5
+Case 1:09-cr-00139-JAW Document 52 Filed 04/28/10 Page 6 of 6   PageID #: 205
+
+
+
+       SO ORDERED.
+
+                                     /s/ John A. Woodcock, Jr.
+                                     JOHN A. WOODCOCK, JR.
+                                     CHIEF UNITED STATES DISTRICT JUDGE
+
+Dated this 28th day of April, 2010
+
+
+
+
+                                       6
+

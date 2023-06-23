@@ -1,0 +1,787 @@
+                       UNITED STATES DISTRICT COURT
+                            DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA               )
+                                       )
+      v.                               )       1:17-cr-00089-JAW
+                                       )
+IULIAN PETRE, a/k/a JULIAN             )
+PETRE                                  )
+
+
+                        ORDER ON MOTION IN LIMINE
+
+      With trial looming, the Court denies the Defendant’s motion in limine insofar
+
+as he seeks a ruling that the Government may not admit evidence that in 2007, he
+
+questioned government officials about the laws and regulations applicable to the
+
+exporting of firearms from the United States to Romania and was informed by law
+
+enforcement what laws and regulations would be applicable. However, the Court
+
+defers ruling on whether evidence that the Defendant attempted to smuggle firearms
+
+to Romania in 2007 will be admissible as evidence to prove that he did so successfully
+
+in 2012. Finally, the Court concludes that evidence that the Defendant confessed to
+
+shipping three firearms to a person in Romania between September and November
+
+2012 would likely be admissible without reference to the fact that the firearms were
+
+the same firearms the Defendant attempted to export in 2007.
+
+I.    BACKGROUND
+
+      A.     Procedural History
+
+      On June 20, 2017, a federal grand jury issued a seventeen count indictment
+
+against Iulian Petre for ten counts of receipt of a firearm in interstate commerce,
+
+
+
+                                           1
+alleged violations of 18 U.S.C. § 924(b), three counts of shipment of a firearm in
+
+foreign commerce, alleged violations of 18 U.S.C. § 924(b), three counts of promotion
+
+money laundering, alleged violations of 18 U.S.C. § 1956(a)(2), and one count of
+
+smuggling, an alleged violation of 18 U.S.C. § 554. Indictment (ECF No. 23). On July
+
+12, 2017, a federal grand jury issued a second seventeen count indictment against
+
+Mr. Petre. Superseding Indictment (ECF No. 32). On July 13, 2017, the Court set
+
+the matter for jury trial with jury selection occurring on August 21, 2017 and trial to
+
+follow immediately thereafter. Notice of Hr’g (ECF No. 39). On August 9, 2017, a
+
+federal grand jury issued a second, seventeen count superseding indictment. Second
+
+Superseding Indictment (ECF No. 63). On August 10, 2017, the Government moved
+
+to dismiss Count IX of the Second Superseding Indictment and on the same day, the
+
+Court granted the Government’s motion, leaving sixteen counts pending against Mr.
+
+Petre. Gov’t’s Unopposed Mot. to Dismiss Count Nine (ECF No. 62); Order (ECF No.
+
+66).
+
+       On August 1, 2017, Mr. Petre filed a motion in limine for a ruling to prohibit
+
+the Government from introducing evidence of his prior bad acts. Mot. in Limine for
+
+a Ruling Prohibiting the Gov’t from Introducing Alleged Prior Bad Acts in Violation
+
+of Fed. R. of Evid. 404(b) and 403 (ECF No. 46) (Def.’s Mot.). On August 7, 2017, the
+
+Government filed a response. Gov’t’s Resp. to the Defense Mot. in Limine Regarding
+
+Prior Acts of the Def. (ECF No. 56) (Gov’t’s Opp’n). Mr. Petre elected not to reply to
+
+the Government’s response.
+
+       B.    Factual Background
+
+
+
+                                          2
+             1.     The   Second    Superseding            Indictment       and   the
+                    Government’s Trial Brief
+
+      The second superseding indictment in this case alleges that Mr. Petre violated
+
+the federal firearms law that prohibits the receipt of a firearm that had been shipped
+
+from one state to another with the purpose of committing another federal offense.
+
+Second Superseding Indictment at 1–2 (ECF No. 63). The other federal offenses,
+
+according to the indictment, are the unauthorized export of arms and smuggling. Id.
+
+at 1. In its trial brief, the Government explains that Mr. Petre purchased firearms
+
+from the online auction site, Gunbroker.com, and directed that the firearms be
+
+shipped from outside the state of Maine to the address of a friend within the state of
+
+Maine with the intention of exporting the firearms to Romania without the necessary
+
+federal licenses. Gov’t’s Trial Br. at 2–3 (ECF No. 59).
+
+      Next, the second superseding indictment alleges that Mr. Petre violated the
+
+federal firearms law that prohibits the shipment of a firearm in foreign commerce
+
+with the purpose of committing another felony offense.           Second Superseding
+
+Indictment at 2–3. The Government’s trial brief states that after he received them in
+
+Maine, Mr. Petre shipped three rifles to Romania without the necessary
+
+governmental permits in violation of federal law. Gov’t’s Trial Br. at 4.
+
+      Thirdly, the second superseding indictment alleges that Mr. Petre violated the
+
+federal prohibition against money laundering. Second Superseding Indictment at 4–
+
+5. The Government’s trial brief says that Mr. Petre provided his bank account
+
+information to persons in Romania and received funds in his Maine-based bank
+
+
+
+
+                                          3
+account in order to export the firearms to Romania without proper licenses. Gov’t’s
+
+Trial Br. at 4.
+
+       Finally, the second superseding indictment alleges that by exporting firearms
+
+and receiving payment, Mr. Petre engaged in smuggling in violation of federal
+
+criminal law. Second Superseding Indictment at 5. The Government’s trial brief
+
+contends that by exporting these firearms to Romania without proper permission, Mr.
+
+Petre engaged in smuggling. Gov’t’s Trial Br. at 4–5.
+
+              2.    The 2007-08 Incident
+
+       The second superseding indictment alleges that Mr. Petre committed each of
+
+these crimes between August 27, 2012 and August 17, 2013. Second Superseding
+
+Indictment at 1–5. However, in its trial brief, the Government alludes to an incident
+
+that took place in 2007:
+
+       This conduct involved not only the firearms described in Counts 1
+       through 13, but also others, including the three firearms he attempted
+       to export in 2007 and did, by his own admission, export successfully in
+       2012.
+
+Gov’t’s Trial Br. at 4–5.
+
+       In response to Mr. Petre’s motion in limine, the Government explained the
+
+background underlying the 2007 incident, which spilled over into 2008. Gov’t’s Opp’n
+
+at 2–7. It seems that in November 2007, Mr. Petre called the Portland Maine office
+
+of the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) and inquired about
+
+obtaining a license to ship firearms outside the country. Id. at 2. Mr. Petre told
+
+Special Agent Paul McNeil of ATF that he had shipped a number of shotguns to
+
+Romania over the past year but he wanted to ship rifles, and that the Postal Service
+
+                                         4
+had said that he needed some type of license. Id. Agent McNeil told Mr. Petre about
+
+the legal requirements for export from the Department of State and the Department
+
+of Commerce. Id. Agent McNeil also told Mr. Petre that he would need to become a
+
+federally-licensed firearms (FFL) dealer because it appeared that he was in the
+
+business of selling firearms.   Id.   Agent McNeil told him to cease all firearms
+
+shipments until it was determined whether he needed a FFL. Id.
+
+      Agent McNeil together with Special Agent Douglas Kirk interviewed Mr. Petre
+
+again on December 4, 2007. Id. at 3. Mr. Petre told the agents that he had begun
+
+shipping firearms to Romania in 2006 and had sent about twenty firearms in the two
+
+months preceding the interview. Id. He said that he had gone to Romania twice the
+
+previous year and had brought cash back in exchange for the weapons. Id. Agents
+
+McNeil and Kirk told Mr. Petre that he seemed to be engaging in business as a
+
+firearms dealer and that he needed a FFL. Id. They also told Mr. Petre that he would
+
+need approval from the Departments of State and Commerce.           Id.   Mr. Petre
+
+responded that the business was lucrative enough for him to obtain the required
+
+licenses and he would fill out the necessary paperwork. Id. at 4. When Mr. Petre
+
+said that he intended to travel to Romania in two days, the agents emphasized that
+
+he must not transport any firearms with him to Romania without the required
+
+approvals. Id.
+
+      On December 6, 2007, Mr. Petre attempted to board a flight at Logan
+
+International Airport en route to Romania, but when his checked luggage was
+
+searched, the authorities found three handguns. Id. The firearms were a Beretta .40
+
+
+
+                                          5
+caliber, an H&K .45 caliber, and a Colt .45 caliber. Id. at 6. Mr. Petre admitted that
+
+the firearms were going to be permanently removed from the United States, that he
+
+had bought them for a friend in Romania, and that he intended to deliver them. Id.
+
+at 4. The agents told him that he could not remove the pistols from the United States
+
+without export licenses and they detained his checked luggage. Id.
+
+      On December 10, 2007, Mr. Petre called Agent McNeil and said that he had
+
+run into a problem on his outbound flight from Logan the previous Tuesday and three
+
+pistols that he had purchased at the Kittery Trading Post were seized. Id.
+
+      On January 28, 2008, Agent McNeil, Special Agent Gary Moulton of
+
+Immigration and Customs Enforcement, and Special Agent Michael Imbrogna of the
+
+Department of Commerce interviewed Mr. Petre. Id. at 5. Mr. Petre told the agents
+
+that he had been shipping firearms to Romania since approximately 2007, that for
+
+the first six years, he had shipped six or seven firearms per year, but that in 2007, he
+
+had shipped about thirty. Id. Mr. Petre explained that friends from Romania would
+
+contact him for specific firearms and that he would purchase them, fronting the
+
+money, and ship them to Romania. Id. He would be paid when he traveled to
+
+Romania. Id. Sometimes he would bring the cash with him and other times, he would
+
+wire money from Romania to avoid the currency reporting requirements. Id. He said
+
+he had tried to take the three firearms with him to Romania because he had promised
+
+delivery and did not want to wait for approval. Id.
+
+      C.     The Government’s Proffered Testimony
+
+
+
+
+                                           6
+      At trial, the Government anticipates calling Agents McNeil and Moulton as
+
+witnesses to confirm what has just been outlined. Id. at 2–5. In addition, the
+
+Government intends to call Officer Alan Winstanley, the Customs and Border Patrol
+
+officer, who searched Mr. Petre’s luggage at Logan, who seized the three firearms,
+
+and who recorded their serial numbers. Id. at 6. The Government also plans to call
+
+Eric Herlgerson of the Kittery Trading Post, where Mr. Petre purchased these three
+
+firearms, to testify about the sales to Mr. Petre. Id.
+
+      Finally, the Government seeks to admit the testimony of three additional
+
+federal agents to whom Mr. Petre admitted that between September and November
+
+2012, he shipped the three firearms found in his luggage on December 6, 2007 to
+
+Alexandru Tamaianu in Bucharest, Romania. Id. at 6. Through these agents, the
+
+Government would introduce ATF documents that confirm Mr. Petre’s admissions.
+
+Id.
+
+II.   THE PARTIES’ POSITIONS
+
+      A.     Iulian Petre’s Position
+
+      Mr. Petre objects to the admission of any evidence about his interactions with
+
+Government agents in 2007-08, including his attempt to export firearms in December
+
+2007. Def.’s Mot. at 1–4. Mr. Petre views the evidence as being potentially admissible
+
+only under Federal Rule of Evidence 404(b) as a prior bad act. Id. Mr. Petre reviews
+
+the standards for the admissibility of Rule 404(b) evidence and concludes that the
+
+proffered evidence would not be admissible because, in his view, the “sole purpose for
+
+introduction of this information would be to attempt to demonstrate a criminal
+
+
+
+                                           7
+propensity.” Id. at 3. Mr. Petre reviews the two-part analysis necessary for the
+
+admission of Rule 404(b) evidence under First Circuit authority. Id. at 1–2. The first
+
+step is to determine whether the Rule 404(b) evidence has “special relevance” for a
+
+purpose apart from propensity. Id. If the evidence survives the first step, the Court
+
+must still consider whether the evidence is admissible under Rule 403. Id. at 2.
+
+      Mr. Petre contends that there has been “almost ten years” between the two
+
+incidents and “that gap provides untenable grounds for arguing that the evidence
+
+establishes a common plan or scheme.” Id. at 8. Also, he says that the 2007 incident
+
+“involved an alleged single, unsuccessful attempt to bring guns onto a plane, and in
+
+no way involved the mail.” Id. Mr. Petre worries that the admission of this evidence
+
+would lead the jury to conclude that Mr. Petre has been “attempting to export guns
+
+improperly over the past decade”, an inference that would be “highly prejudicial” to
+
+him. Id. at 4.
+
+      B.      The Government’s Position
+
+      The Government sees it differently.          Gov’t’s Opp’n at 7–11.       First, the
+
+Government does not view this 2007-08 evidence as Rule 404(b) evidence. Id. at 7–9.
+
+The Government argues that the “bulk of the evidence at issue is direct evidence of
+
+the charged offenses, and as such is not subject to F.R.E. 404(b) at all.” Id. at 7. The
+
+Government contends that evidence that the agents informed Mr. Petre of the
+
+licensing requirements for the export of firearms “is not an act of the defendant, and
+
+is therefore has no[] relation to F.R.E. 404(b).” Id. at 8. Instead, it is “offered to show
+
+that the defendant had knowledge of the license requirements for firearms exports,
+
+
+
+                                            8
+and that his activities in 2012 and 2013 therefore evinced the intent to willfully
+
+violate the law.” Id.
+
+       Turning to the three handguns that Mr. Petre was alleged to have attempted
+
+to export in 2007, the Government says that he successfully exported those same
+
+three pistols between September and November 2012. Id. at 8. Observing that the
+
+indictment alleges that Mr. Petre engaged in smuggling between August 2012 and
+
+August 2013, the Government contends that the 2007-08 incident is direct evidence
+
+of Mr. Petre’s course of conduct in committing the smuggling offense.       Id. The
+
+Government claims that the 2007-08 evidence is also admissible under Rule 404(b) to
+
+demonstrate Mr. Petre’s “motive, opportunity, knowledge, intent, preparation, plan .
+
+. . and absence of mistake or fact.” Id. at 9–10.
+
+III.   DISCUSSION
+
+       A.    Lessons on the Law
+
+       To analyze the admissibility of the 2007-08 events, the Court first
+
+distinguishes between what the federal officials told Mr. Petre about the law and the
+
+circumstances surrounding his 2007 attempt to smuggle handguns out of the United
+
+States. To prove a violation of 18 U.S.C. § 554(a) as alleged in Count Seventeen, the
+
+Government is required to demonstrate that the defendant “fraudulently or
+
+knowingly export[ed] or [sent] from the United States . . . any merchandise, article,
+
+or object contrary to any law or regulation of the United States.” United States v.
+
+Edouard, No. 15-13218, 647 F. App’x. 984, 985 (11th Cir. Apr. 12, 2016) (quoting 18
+
+U.S.C. § 554(a)).
+
+
+
+                                           9
+      Here, the second superseding indictment alleges that Mr. Petre fraudulently
+
+and knowingly exported three firearms “contrary to the laws and regulations of the
+
+United States, namely Title 22, United States Code, Sections 2778(b)(2) and 2778(c),
+
+Title 22, Code of Federal Regulations, Sections 121.1, 123.1, 123.22, and 127.1.”
+
+Second Superseding Indictment at 5. Section 2778(b)(2) of title 22 prohibits the
+
+export of “defense articles or defense services designated by the President” under the
+
+statute. The cited portions of the Code of Federal Regulations describe “The United
+
+States Munitions List” and a list of firearms covered by that list, 22 C.F.R. § 121.1,
+
+the requirement for an export license, 22 C.F.R. § 123.1, mandatory electronic
+
+reporting of export information, 22 C.F.R. § 123.22, and violations that flow from
+
+failing to comply with the regulations. 22 C.F.R. § 127.1.
+
+      “[T]he general rule that ignorance of the law or a mistake of law is not defense
+
+to criminal prosecution is deeply rooted in the American legal system.” Commil USA,
+
+LLC v. Cisco. Sys., 135 S. Ct. 1920, 1930 (2015) (quoting Cheek v. United States, 498
+
+U.S. 192, 199 (1991)). Even so, in cases involving “highly technical statutes that
+
+threatened to ensnare individuals in apparently innocent conduct”, the Supreme
+
+Court and the First Circuit have sometimes required that the government prove
+
+actual knowledge of the law. Bryan v. United States, 524 U.S. 184, 193–94 (1998);
+
+United States v. Morosco, 822 F.3d 1, 20 (1st Cir. 2016).
+
+      This principle is especially applicable where the government is required to
+
+prove that a defendant acted “willfully” in violating the criminal statute. In 1933,
+
+the Supreme Court observed that the term “willfully” “when used in a criminal
+
+
+
+                                          10
+statute . . . generally means an act done with a bad purpose.” United States v.
+
+Murdock, 290 U.S. 389, 394 (1933). In Cheek, the Supreme Court explained that the
+
+“standard for the statutory willfulness requirement is the ‘voluntary, intentional
+
+violation of a known legal duty.’” Cheek, 498 U.S. at 201. Here, the Government is
+
+required to prove that Mr. Petre acted “willfully” in a number of the crimes charged
+
+and therefore, the exception to the general principle that “ignorance of the law is no
+
+excuse” may not apply here. The proffered evidence that in 2007-08, Mr. Petre asked
+
+about and was instructed on the applicable laws and regulations would be admissible
+
+to prove his “voluntary, intentional violation of a known legal duty.”
+
+      Even if § 554 and its regulations are not deemed “highly technical statutes”,
+
+evidence that Mr. Petre asked about the laws and regulations concerning the export
+
+of firearms to Romania in 2007-08 and was expressly informed about the specific
+
+nature of those laws and regulations is probative to prove his state of knowledge in
+
+2012-13 and directly buttresses the Government’s claim here that he acted
+
+“fraudulently or knowingly” within the meaning of 18 U.S.C. § 554. The Court
+
+concludes that whatever else may be said about the events and conversations in 2007-
+
+08, the colloquy between law enforcement and Mr. Petre about the legality of firearms
+
+exports to Romania is admissible as direct evidence of a violation of 18 U.S.C. § 554.
+
+      B.     The Foiled Export Attempt
+
+      The Court turns to whether the Logan International Airport incident is
+
+similarly admissible. This is a much closer question. The Government says that the
+
+2007 incident, when Mr. Petre stowed three firearms in his luggage on his way to
+
+
+
+                                          11
+Romania and was found out by customs officials at Logan Airport, is direct evidence
+
+of his commission of the smuggling charge in Count Seventeen because it is part of
+
+the same course of conduct1 and in any event is admissible under Federal Rule of
+
+Evidence 404(b).
+
+                1.      Uncharged Course of Conduct Evidence
+
+        The Court is skeptical that uncharged conduct taking place five years prior to
+
+the charged criminal conduct would be admissible to prove that a defendant
+
+committed the charged crime. To support its argument, the Government cites United
+
+States v. Diaz-Martinez, 71 F.3d 946, 951 n.4 (1st Cir. 1995) and United States v.
+
+David, 940 F.2d 722, 737 (1st Cir. 1991). Gov’t’s Opp’n at 7–8.
+
+        The Court does not view either case as helpful.                     In Diaz-Martinez, the
+
+defendant was charged with possessing firearms with obliterated serial numbers and
+
+at trial the prosecutor produced evidence that there had been a shootout in a parking
+
+lot just before the defendant was found with firearms nearby while squatting in the
+
+bushes near the parking lot. 71 F.3d at 951. In Diaz-Martinez, the disputed evidence
+
+took place at nearly the same time and in the same vicinity as his possession, not five
+
+years earlier.
+
+        In David, the defendant was charged—among other things—with conspiring
+
+with others to distribute cocaine. 940 F.2d at 726. The drug trafficking conspiracy
+
+in David ran from 1986 through 1988. Id. at 731. In June 1987, one of the co-
+
+
+
+1       Mr. Petre did not anticipate the course of conduct issue in his motion, Def.’s Mot. at 1–4, and
+he elected not to file a reply so the Court has no guidance from defense counsel on the course of conduct
+question.
+
+                                                  12
+conspirators, a Mr. Filin, tried to steal a shipment of cocaine, an act that Mr. David
+
+did not appreciate, and he and some cohorts threatened Mr. Filin with a firearm and
+
+baseball bat while Mr. David questioned him. Id. at 732. Shortly thereafter, Mr.
+
+David had another violent encounter with Mr. Filin, who ultimately confessed to
+
+stealing the drugs. Id. In addition, Mr. David had a recorded conversation with
+
+Reuven Furer, a middleman between Mr. David and his Florida suppliers, in which
+
+arguably in an effort to intimidate Mr. Furer, Mr. David told Mr. Furer that Mr.
+
+Musa, a New York drug dealer, had been murdered. Id. On appeal, Mr. David
+
+challenged the admission of both the Filin intimidation and the Furer telephone call.
+
+Id. But the First Circuit easily concluded that this evidence was properly admitted
+
+as evidence of Mr. David’s participation in a continuing criminal enterprise. Id. at
+
+737.
+
+        These cases seem wholly inapposite to whether the Court should admit the
+
+contested evidence in this case. Neither Diaz-Martinez nor David involved events
+
+that took place five years before the criminal acts alleged in the indictment.                   Based
+
+on the caselaw the Government cited, the Court does not find that evidence of the
+
+uncharged events surrounding the Logan International Airport episode in 2007 may
+
+be admitted as part of a course of conduct to prove that Mr. Petre committed crimes
+
+in 2012-13.2
+
+
+
+
+2       There may be a better answer to this issue, but the Court is operating under considerable time
+constraints since trial is scheduled to start shortly. Furthermore, as noted earlier, the Defendant has
+not briefed the issue. The Court resolves that what the Government submitted for authority is
+unconvincing, and it is important that the Court issue this order in order to allow the parties to prepare
+properly for trial.
+
+                                                   13
+             2.     Rule 404(b) Evidence
+
+      If the evidence of the 2007 incident at Logan International Airport is not
+
+admissible as direct evidence, the question turns to whether it would be admissible
+
+under Federal Rule of Evidence 404(b). The First Circuit case of United States v.
+
+Ford, 839 F.3d 94 (1st Cir. 2016) raises serious questions as to whether the 2007
+
+events are properly admissible under Rule 404(b). In Ford, the government charged
+
+James F. Ford with—among other things—engaging in a conspiracy to manufacture
+
+marijuana in Maine in 2011. Id. at 98. In 2011, law enforcement discovered a large
+
+marijuana grow operation located at Mr. Ford’s Monroe, Maine residence. Id. As it
+
+turned out, this was not Mr. Ford’s first residential marijuana grow operation. Id. at
+
+101–02. In 2002, Massachusetts law enforcement had discovered three rooms in Mr.
+
+Ford’s Wakefield, Massachusetts residence “devoted entirely to marijuana.” Id. at
+
+102. During the trial, the district court allowed a Massachusetts state trooper to
+
+testify to the details of the Massachusetts grow operation based on its conclusion that
+
+the evidence was relevant to Mr. Ford’s “motive, opportunity, intent, preparation,
+
+plan, and knowledge.” Id. at 101–02.
+
+      Although the First Circuit affirmed the verdict based on its conclusion that the
+
+admission of the Rule 404(b) evidence was harmless error, the Ford Court was
+
+doubtful whether the trial court should have admitted evidence of the earlier
+
+marijuana grow under Rule 404(b). Id. at 109–110. The First Circuit noted that Mr.
+
+Ford had not contested that he had actually grown marijuana in Maine, thereby
+
+lessening the special relevance of the evidence. Id. at 109. Next, the First Circuit
+
+
+
+                                          14
+was concerned about the length of time from the earlier grow in 2002 and the Maine
+
+grow in 2011. Id. Having concluded that the probative value of the evidence was
+
+“significantly reduced,” the Ford Court viewed the risk of unfair prejudice from the
+
+testimony about the Massachusetts operation to have been “high.”             Id. at 110.
+
+Finally, even though the trial court judge gave a limiting instruction about the Rule
+
+404(b) evidence, the First Circuit wondered whether “the district court’s limiting
+
+instructions were sufficient to curb its prejudicial effect.” Id. The First Circuit
+
+characterized the prejudicial effect of the Rule 404(b) evidence as “the risk [ ] that the
+
+jury [would] use [ ] it to infer criminal propensity.” Id.
+
+      Although the facts in the two cases differ, Ford adds a cautionary note in the
+
+First Circuit concerning the admissibility of Rule 404(b) evidence. Here, as in Ford,
+
+the risk is that a jury will conclude that because Mr. Petre attempted to smuggle guns
+
+to Romania in 2007, he has a criminal propensity to do it again in 2012. Here, it is
+
+difficult to predict what defenses Mr. Petre will posit at his upcoming trial. In Ford,
+
+the defendant conceded that he was growing marijuana through his counsel during
+
+the opening statement.      As Mr. Petre’s counsel has not yet given his opening
+
+statement, the Court cannot know whether he will make any concessions during trial
+
+that could be relevant to the admissibility of the Rule 404(b) evidence. Also, as in
+
+Ford, there is a temporal gap between the uncharged and charged conduct. Here, the
+
+uncharged conduct took place in 2007, and the charged conduct in 2012. In Ford, Mr.
+
+Ford was investigated for his Massachusetts operation in 2002 and he started his
+
+Maine operation as early as 2009, a gap of seven years. Id. at 100.
+
+
+
+                                           15
+      Finally, in United States v. Henry, 848 F.3d 1 (1st Cir. 2017), the First Circuit
+
+emphasized that a trial court should consider not only whether “the evidence has
+
+been offered to prove an issue that is in genuine dispute,” but also whether “the
+
+evidentiary point can be made with other evidence that does not present a risk of
+
+unfair prejudice.” Id. at 9. Here, the Court does not know pretrial whether the
+
+Government will produce other evidence that will undercut its need for evidence of
+
+the uncharged conduct in 2007.
+
+            3.      Iulian Petre’s Later Confession
+
+      Finally, in its motion, the Government mentions that Special Agents Thresher
+
+and Rauch of the Department of Commerce interviewed Mr. Petre at some point and
+
+he admitted that between September 2012 and November 2012, he shipped to
+
+Alexandru Tamaianu in Bucharest, Romania, the same three firearms he had in his
+
+luggage at Logan in 2007. Gov’t’s Opp’n at 6. The Court is unaware of any reason
+
+Mr. Petre’s confession that he shipped three firearms to Romania as well as
+
+documentation as to how he came into possession of those firearms would be
+
+inadmissible. At the same time, the Court continues to view the Logan International
+
+Airport escapade of 2007 as unnecessary to introduce this confession.
+
+IV.   CONCLUSION
+
+      The Court GRANTS in part and DEFERS ruling in part on Iulian Petre’s
+
+Motion in Limine for a Ruling Prohibiting the Gov’t from Introducing Alleged Prior
+
+Bad Acts in Violation of Federal Rule of Evidence 404(b) and 403 (ECF No. 46). The
+
+Court rules that the Government may admit evidence that in 2007 and 2008, Mr.
+
+
+
+                                         16
+Petre asked law enforcement about the laws and regulations applicable to shipping
+
+firearms from the United States to Romania and may admit evidence of law
+
+enforcement’s responses. The Court also rules that the Government may introduce
+
+evidence of Iulian Petre’s admission that he shipped three firearms to Alexandru
+
+Tamaianu in Bucharest, Romania, between September and November 2012 without
+
+reference to the Logan International Airport incident of 2007. However, the Court
+
+DEFERS ruling on whether the circumstances surrounding Mr. Petre’s Logan
+
+International Airport encounter with law enforcement may be admissible. Before
+
+seeking to admit such evidence, the federal prosecutor must approach the bench and
+
+alert the Court and defense counsel that he intends to present the 2007 evidence so
+
+that the Court may hear argument and issue a final ruling.
+
+      SO ORDERED.
+
+
+                                      /s/ John A. Woodcock, Jr.
+                                      JOHN A. WOODCOCK, JR.
+                                      UNITED STATES DISTRICT JUDGE
+
+Dated this 17th day of August, 2017
+
+
+
+
+                                        17
+

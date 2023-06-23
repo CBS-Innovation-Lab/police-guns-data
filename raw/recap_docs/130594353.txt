@@ -1,0 +1,811 @@
+Case 1:18-cr-00066-WES-LDA Document 63 Filed 04/15/20 Page 1 of 16 PageID #: 1006
+
+
+
+                     UNITED STATES DISTRICT COURT
+                   FOR THE DISTRICT OF RHODE ISLAND
+  ___________________________________
+                                      )
+  UNITED STATES OF AMERICA            )
+                                      )
+            v.                        )    Cr. No. 18-066 WES
+                                      )
+  ARIEL ALMONTE,                      )
+                                      )
+         Defendant.                   )
+  ___________________________________)
+
+
+                                MEMORANDUM AND ORDER
+
+  WILLIAM E. SMITH, District Judge.
+
+          Before the Court is the Government’s Motion to Reconsider to
+
+  (1) Correct the Errors in the Order Granting Suppression Motion
+
+  and (2) to Reconsider the Ruling Granting Suppression (“Gov’t Mot.
+
+  Reconsider”), ECF No. 56.            For the reasons that follow, the
+
+  Government’s Motion to Reconsider its ruling is DENIED; however,
+
+  the Government has made several points with which the Court agrees
+
+  and therefore, in conjunction with this Order, the Court has issued
+
+  an Amended Memorandum and Order (“Amended Order”), ECF No. 64, in
+
+  order    to   correct   and    clarify   the   factual   record   in   certain
+
+  respects.
+
+      I. The Government’s Factual Contentions 1
+
+          A. The Fourth DCYF Call
+
+
+
+
+  1    For a full procedural and factual background, see the Amended
+  Order “Findings of Fact” section.
+                                           1
+Case 1:18-cr-00066-WES-LDA Document 63 Filed 04/15/20 Page 2 of 16 PageID #: 1007
+
+
+
+        The Government points out that footnote 9 of the Court’s
+
+  January 2020 Order is not accurate. Gov’t Mot. Reconsider 2 (citing
+
+  January 22, 2020 Mem. and Order 6 n.9 (“Jan. 2020 Order”), ECF No.
+
+  51). That footnote states that “Det. Fuoroli initially testified
+
+  that he spoke to a different DCYF operator before leaving the house
+
+  and she told him to release A.T. to her mother . . . . There is no
+
+  record of any such call.”         Jan. 2020 Order (citation omitted).
+
+  The Government is correct that there is, in fact, a record of this
+
+  call.    At the November 18, 2019 hearing, Det. Fuoroli testified as
+
+  follows:
+
+                Q: In response to being told that there were
+                three calls that were located, did you say
+                anything about a fourth recording with a
+                female?
+
+                . . .
+
+                [Det. Fuoroli]: Yes.
+
+                Q: What did you say?
+
+                [Det. Fuoroli]: I said that there was a fourth
+                call that I made prior to leaving to the house
+                to make sure that somebody was coming. I got
+                a different female who didn’t seem too
+                familiar with the situation and we had a
+                conversation.
+
+  Nov. 18, 2019 Hr’g Tr. 58:8-19, ECF No. 50.            The Government then
+
+  played    a   recording   of   that   call   during   the   hearing,   and   a
+
+  transcript was admitted into evidence.          Id. at 59:1-8; Gov’t Ex.
+
+
+
+
+                                         2
+Case 1:18-cr-00066-WES-LDA Document 63 Filed 04/15/20 Page 3 of 16 PageID #: 1008
+
+
+
+  1D, Nov. 18, 2019 Hr’g. 2      The transcript and recording of the call
+
+  corroborate Det. Fuoroli’s testimony that he had a fourth call
+
+  with DCYF.    The Government also admitted Det. Fuoroli’s cell phone
+
+  records, which confirm that he made a fourth call to DCYF. Id. at
+
+  59:12–60:4; Gov’t Mem. in Opp’n to Def.’s Mot. to Reconsider and
+
+  Reopen (“Gov’t Opp’n”), ECF No. 46-4, Ex. 3.
+
+        The correction of this factual error, however, does not change
+
+  the Court’s view of Det. Fuoroli’s credibility.              While the Court
+
+  acknowledges its error in the footnote, and has corrected it in
+
+  the Amended Order, the fact remains that Det. Fuoroli did not
+
+  accurately recall in his testimony the events that occurred on
+
+  February 28, 2018, as reflected in the recordings.                  See Amended
+
+  Order 4-6, 12-13.       Most importantly, as outlined below in Section
+
+  I.E., Det. Fuoroli’s recall of his fourth conversation with DCYF
+
+  has no impact on the Court’s assessment of his credibility on the
+
+  central    issue   of   what   DCYF   said   to   him   regarding    Pimentel’s
+
+  daughter.    See infra p.10.
+
+        B. Wiggs’ Statements
+
+            The Government makes much of the Court’s use of the word
+
+
+
+
+        2The transcript of this call was admitted as “Government
+  Exhibit 1D” at the November 18, 2019 hearing after the audio
+  recording was played.   Nov. 18, 2019 Hr’g Tr. 47:15-48:5.     The
+  transcript of this fourth call was not attached as an exhibit to
+  the Government’s Memorandum in Opposition to Defendant’s Motion to
+  Reconsider and Reopen, ECF No. 46, like the other three call
+  transcripts were.
+                                         3
+Case 1:18-cr-00066-WES-LDA Document 63 Filed 04/15/20 Page 4 of 16 PageID #: 1009
+
+
+
+  “just” in the statement that “[w]hen questioned, Wiggs stated that
+
+  Almonte had just sold him two $40.00 bags of heroin.” Jan. 2020
+
+  Order 2 (citing Jan. 17, 2019 Mot. to Suppress Hr’g Tr. 24:7-17).
+
+  The Government argues that the temporal element implied in this
+
+  sentence is inaccurate because Det. Fuoroli did not use the word
+
+  “just” in his testimony relaying Wiggs’ statement.              Gov’t Mot.
+
+  Reconsider 6.     But the record is clear that the police thought
+
+  that Wiggs’ statement was referring to the transaction the police
+
+  had observed minutes earlier between Wiggs and Almonte in the
+
+  McDonald’s parking lot:
+
+              Q: But on scene that day, the knowledge that
+              you had from Mr. Wiggs was that the drugs had
+              gone from Mr. Almonte to Mr. Wiggs in that
+              parking lot.
+
+              [Det. Fuoroli]: Correct.
+
+              Jan. 17, 2019 Hr’g Tr. 127:16-19.
+
+              ***
+
+              Q: And what did he tell you? Why was [Wiggs]
+              there?
+
+              [Det. Dempsey]: He said that he had purchased
+              two $40 bags of heroin from a gentleman he
+              identified as Socio and had pulled into the
+              parking lot to use before we interrupted him.
+
+              Id. at 156:15-19.
+
+              ***
+
+              Q: So Mr. Wiggs, though, he did give you a
+              written statement at the scene; correct?
+
+              [Det. Dempsey]: Yes ma’am.
+
+                                       4
+Case 1:18-cr-00066-WES-LDA Document 63 Filed 04/15/20 Page 5 of 16 PageID #: 1010
+
+
+
+
+              Q: And in addition to telling you that he had
+              met at McDonald’s to buy two $40 bags of
+              Fentanyl, he also said he knew Mr. Almonte by
+              the name Socio; correct?
+
+              [Det. Dempsey]: Socio, yes, ma’am.
+
+              Id. at 194:15-21.
+
+
+        The only logical reading of Wiggs’ statements, based on what
+
+  the police knew at the time, was that the drug sale had happened
+
+  shortly before the encounter in the McDonald’s parking lot.           Thus,
+
+  the introduction of the temporal element conveyed by the word
+
+  “just” came from Dets. Fuoroli and Dempsey, and from Wiggs, not
+
+  from the Court. The Court’s description simply reflects what the
+
+  officers testified to about what they thought they knew at the
+
+  time.
+
+        Presumably, the reason the Government makes this argument is
+
+  because of what the police learned three months later when they
+
+  re-interviewed Wiggs.      The police brought Wiggs back in to give a
+
+  more “accurate” statement.         Id. at 123:14-25.       Wiggs told the
+
+  police in his later statement that he had not, in fact, bought
+
+  drugs from Almonte in the parking lot of McDonald’s that day, but
+
+  rather had purchased drugs from Almonte in downtown Cranston
+
+  earlier that day, and at the McDonald’s he was merely returning a
+
+  bag to Almonte that Almonte had dropped in Wiggs’ car by accident.
+
+  Id. at 123:14-25; 125:10–127:4; 198:16–199:13.
+
+
+                                       5
+Case 1:18-cr-00066-WES-LDA Document 63 Filed 04/15/20 Page 6 of 16 PageID #: 1011
+
+
+
+         This brings us to the Court’s footnote stating that “Wiggs
+
+  later told the police that it was ‘not true’ that he bought drugs
+
+  from Almonte that day.” Jan. 2020 Order 2 n.2 (citing Jan. 17,
+
+  2019 Hr’g Tr. 198:5-199:13).       While the Court does not agree that
+
+  this statement is inaccurate, in the Amended Order that footnote
+
+  has now been expanded to provide the additional context outlined
+
+  in the above paragraph. Amended Order 2 n.2.
+
+         Regardless, these arguments by the Government are just red
+
+  herrings.    As the Government acknowledges, what Wiggs said to the
+
+  police three months later is irrelevant to the inevitable discovery
+
+  analysis.    See Gov’t Mot. Reconsider 12. What matters is what the
+
+  police observed and believed occurred on the day in question –
+
+  which was that Almonte had sold drugs, or had been in the process
+
+  of selling drugs, to Wiggs – because that is what the police would
+
+  have included in a search warrant, had they applied for one.           Jan.
+
+  17, 2019 Hr’g Tr. 132:24–133:7.
+
+         C. Pimentel’s Statements Regarding Drugs/Firearms
+
+         The Government takes issue with the Court’s statement
+
+  that “Pimentel denied the presence of narcotics or weapons in the
+
+  home . . . .”      Gov’t Mot. Reconsider 13 (citing Jan. 2020 Order
+
+  17).    The Court notes that this statement was actually in a block
+
+  quote from the Court’s April 2019 Order -– the Court was listing
+
+  the facts that had informed the Court’s original decision on this
+
+  matter, before Almonte filed his Motion to Reconsider, which the
+
+                                       6
+Case 1:18-cr-00066-WES-LDA Document 63 Filed 04/15/20 Page 7 of 16 PageID #: 1012
+
+
+
+  Court granted.      Jan. 2020 Order 16-17 (quoting April 1, 2019 Mem.
+
+  and Order 15-16, ECF No. 32). The relevant statements Pimentel
+
+  made about the presence of drugs and firearms in the home she
+
+  shared with Almonte were accurately set out in the revised “Factual
+
+  Background” section of the January 2020 Order, and these are the
+
+  facts the Court has considered in its analysis. See Jan. 2020 Order
+
+  4.   However, in the interest of clarity, the Court has added all
+
+  of the statements Pimentel made on the subject into the “Findings
+
+  of Fact” section of the Amended Order.             Amended Order 5 & n.9.
+
+        Additionally, the Court finds the Government’s argument -–
+
+  that “lack of knowledge is not the same thing as an affirmative
+
+  denial that a fact exists” –- to be a distinction without a
+
+  meaningful difference as it relates to the inevitable discovery
+
+  analysis.      Gov’t   Mot.   Reconsider     13.      Whether   Pimentel     was
+
+  definitive or not about the lack of contraband in the home does
+
+  not make it more likely that the police would have obtained a
+
+  warrant; in fact, Pimentel’s lack of assurance on the subject
+
+  actually    makes    her   more   credible    in     the   Court’s   eyes:   an
+
+  unequivocal denial under the circumstances could easily be seen as
+
+  an attempt to cover for her husband.
+
+        D. Information Known to Police Prior to Pimentel                 Signing
+           Consent Form
+
+        The Government alleges that the Court omitted numerous facts
+
+  from its Opinion that it should have considered on the issues of
+
+
+                                        7
+Case 1:18-cr-00066-WES-LDA Document 63 Filed 04/15/20 Page 8 of 16 PageID #: 1013
+
+
+
+  probable cause and inevitable discovery. See Gov’t Mot. Reconsider
+
+  13-15.       As an initial matter, many of these facts the Government
+
+  claims are missing were actually in the Court’s Order 3: namely,
+
+  that       Almonte   brought   his   step-daughter   with    him;   the   police
+
+  obtained Almonte’s address from his vehicle registration; that
+
+  Pimentel shared an apartment with Almonte and her daughter; and
+
+  Almonte dropped a bag of drugs to the ground.               Jan. 2020 Order 2-
+
+  5. Next, some of the facts the Government cites are simply not
+
+  relevant – for example, Almonte’s nervousness as he approached
+
+  Wiggs’ vehicle is not probative of anything, where the Court has
+
+  already credited Det. Dempsey’s testimony that he saw what he
+
+  believed to be a hand to hand drug transaction taking place.                Id.
+
+  at 2, 19; Amended Order 2-3.
+
+         That being said, the Court has added several facts noted by
+
+  the Government to the Court’s Amended Order, including Wiggs’
+
+  description of Almonte as a drug dealer, Almonte’s possession of
+
+  several phones, Almonte’s lack of employment, and Det. Fuoroli’s
+
+  extensive experience as a narcotics investigator. 4 Amended Order
+
+  2-8, 19-20, 22-23.
+
+
+
+        The Government’s error here appears to result from its focus
+         3
+
+  on the block quote on p.17 of the Jan. 2020 Order, rather than on
+  the factual background section of that Order.
+
+         Some of these facts have been added in the “Findings of
+         4
+
+  Fact” section, some in the independent discovery analysis, and
+  some in both, where appropriate.
+
+                                           8
+Case 1:18-cr-00066-WES-LDA Document 63 Filed 04/15/20 Page 9 of 16 PageID #: 1014
+
+
+
+        On this last point, the Government says: “[a]t the [f]irst
+
+  hearing, Detective Fuoroli testified that CPD would have sought a
+
+  search warrant if Ms. Pimentel had not given consent.” Gov’t Mot.
+
+  Reconsider 15.      The Government then quotes the transcript from
+
+  that Jan. 17, 2019 hearing, wherein Det. Fuoroli states that had
+
+  he prepared a search warrant, he “[a]bsolutely” would have included
+
+  “information . . . about [his] prior experiences and knowledge.”
+
+  Id. (citing Jan. 17, 2019 Hr’g Tr. 129:8-130:13.           This section of
+
+  the transcript does not support the Government’s contention, right
+
+  before the quote, that the detectives definitively would have
+
+  sought a search warrant.      Clearly, “if” is not the same as “would
+
+  have.”   But regardless, in its Amended Order the Court clarifies
+
+  its finding that, if Pimentel had not consented to the search, the
+
+  Detectives would have applied for a search warrant, and that
+
+  warrant would have included Det. Fuoroli’s observations based on
+
+  his experience. Amended Order 20; see Jan. 17, 2019 Hr’g Tr. at
+
+  6:17-7:14; 130:2-13.     While the Court agrees that these additional
+
+  facts should be added, none of them tips the inevitable discovery
+
+  analysis back in the Government’s favor, as explained below.
+
+        E. Detective Fuoroli’s Credibility
+
+        In its Motion to Reconsider, the Government spends several
+
+  pages arguing that the correction of the factual errors it has
+
+  noted should change the Court’s assessment of Det. Fuoroli’s
+
+  credibility,    and   therefore     change   the   outcome.    Gov’t   Mot.
+
+                                       9
+Case 1:18-cr-00066-WES-LDA Document 63 Filed 04/15/20 Page 10 of 16 PageID #: 1015
+
+
+
+  Reconsider 16-18. The Court disagrees. The fact that Det. Fuoroli
+
+  testified accurately about the fact that he had a fourth call with
+
+  DCYF does not affect the Court’s findings about the inaccuracies
+
+  and inconsistences in his testimony regarding what DCYF told him
+
+  during the first call. See supra p.3; Amended Order 6, 11-13.                 And
+
+  it is that discrepancy that was, and remains, at the heart of the
+
+  Court’s decision regarding Pimentel’s consent.
+
+        The Court is absolutely confident in its assessment that Det.
+
+  Fuoroli did not accurately testify as to what DCYF told him, and
+
+  what he told Pimentel, about whether DCYF would allow her child to
+
+  return to her home. See Amended Order 6, 12-13.              To this effect,
+
+  the Amended Order reflects additional testimony from the January
+
+  17,   2019    hearing   in    which     Det.   Fuoroli    asserted     that   he
+
+  “definitely” remembered the DCYF operator telling him that they
+
+  would not let the child back into the home until it had been
+
+  searched. Jan. 17, 2019 Hr’g Tr. 140:13–141:4; Amended Order 12
+
+  n.13. That memory, while confident, is inaccurate.
+
+        Finally, the Government argues that Det. Fuoroli was acting
+
+  “out of interest for the child” and that he showed a “calm and
+
+  professional” demeanor.       Gov’t Mot. Reconsider 16-18.       This may be
+
+  true, but the Court never suggested otherwise, and does not find
+
+  either   of   those   facts   to   be   relevant   to    determining    whether
+
+  Pimentel’s consent to search was voluntarily given.
+
+        F. Inevitable Discovery
+
+                                          10
+Case 1:18-cr-00066-WES-LDA Document 63 Filed 04/15/20 Page 11 of 16 PageID #: 1016
+
+
+
+        The final argument the Government makes is that there is
+
+  enough evidence of a “nexus” between Almonte’s participation in
+
+  the drug transaction and Almonte’s residence that would support a
+
+  finding of probable cause to search his residence.               Gov’t Mot.
+
+  Reconsider 18-20.      First, the Government contends the Court did
+
+  not give adequate consideration to several facts it claims weigh
+
+  in favor of finding such a nexus; in its Amended Order, as
+
+  described above, the Court has added additional discussion of some
+
+  of these facts, but does not find that they change the outcome.
+
+  See supra p.8-9.
+
+        The Government also attempts to distinguish United States v.
+
+  Roman, 942 F.3d 43 (1st Cir. 2019), from this case.              Gov’t Mot.
+
+  Reconsider 19.      As the Court acknowledged during argument, the
+
+  question of whether the police had probable cause to get a warrant
+
+  for Almonte’s residence is a close call.            But, even considering
+
+  the additional information regarding Almonte’s history of drug
+
+  dealing to Wiggs, his possession of multiple phones, and his lack
+
+  of employment, the Court still finds that the police lacked the
+
+  kind of “specific observations or facts connecting the drug dealing
+
+  to the home” that Roman requires.         Id. at 52 (internal quotations
+
+  omitted).
+
+        These facts shore up the notion that Almonte was a drug dealer
+
+  for sure.    But the police had those facts already – they stumbled
+
+  right into the drug deal and had Wiggs’ statement.                 So these
+
+                                       11
+Case 1:18-cr-00066-WES-LDA Document 63 Filed 04/15/20 Page 12 of 16 PageID #: 1017
+
+
+
+  additional facts add little to the facts the police could rely on
+
+  in a warrant application.
+
+        Nor is the Court persuaded by the Government’s focus on
+
+  Almonte’s lack of employment; while in Roman the First Circuit did
+
+  mention that its conclusion was “further bolstered” by the fact
+
+  that the defendant had other places to hide contraband, the ruling
+
+  was not predicated on that fact. Id. at 53.
+
+        The Court is also not persuaded by the Government’s cite to
+
+  United States v. Ribeiro, 397 F.3d 43 (1st Cir. 2005).                          It is true
+
+  that Ribeiro once brought his girlfriend and baby in his car to a
+
+  narcotics     transaction,        but    in     that    case     the   police    had    also
+
+  observed Ribeiro         leaving    his        apartment     three      times   to    go    to
+
+  narcotics transactions, and he was tailed by the police all three
+
+  times. 5    Id. at 50.     In Ribeiro, the warrant affidavit included a
+
+  detective’s opinion, based on his training and experience, that
+
+  drug traffickers often store cash and records (which is what the
+
+  warrant application sought) at their residences.                        Id. at 46.         The
+
+  First      Circuit     explained        that        “when   combined     with    specific
+
+  observations about Ribeiro’s movements back and forth from his
+
+  residence      in     relation     to     drug        transactions,      these       general
+
+  observations         contribute     significantly           to    the     probable-cause
+
+
+        5One time the police tailed Ribeiro the whole way, and the
+  other two times he was out of their sight for less than ten minutes
+  “which suggests that he was not stopping along the way.” Ribeiro,
+  397 F.3d at 50.
+                                                 12
+Case 1:18-cr-00066-WES-LDA Document 63 Filed 04/15/20 Page 13 of 16 PageID #: 1018
+
+
+
+  determination.” Id. at 51 (emphasis added).                 Here, where there
+
+  were no direct observations of Almonte coming or going from his
+
+  home in relation to his drug dealing, Det. Fuoroli’s generalized
+
+  opinions are not enough to provide probable cause for a search of
+
+  Almonte’s residence.        See Amended Order 19-24.
+
+        The Government makes a new and novel argument in its motion,
+
+  essentially asking this Court, a federal court, to ignore the line
+
+  of First Circuit cases interpreting the Fourth Amendment probable
+
+  cause requirement, in favor of several Rhode Island Supreme Court
+
+  decisions, which it says would have guided the state judge in
+
+  determining whether there was probable cause.                    See Gov’t Mot.
+
+  Reconsider 20-22.
+
+        For starters, the cases the Government cites are clearly
+
+  distinguishable.      State v. Byrne, 972 A.2d 633, 641 (R.I. 2009),
+
+  is a video voyeurism case in which the court’s ruling hinges
+
+  largely on its observation that evidence of video voyeurism, like
+
+  “images of child pornography[,] are likely to be hoarded by persons
+
+  interested in those materials in the privacy of their homes is
+
+  supported by common sense and the cases.” (quoting United States
+
+  v. Riccardi, 405 F.3d 852, 861 (10th Cir. 2005). And in State v.
+
+  Cosme, 57     A.3d   295,   302   (R.I.    2012),   the    warrant    “affidavit
+
+  explicitly state[d]” that the confidential informant reported that
+
+  a black male distributed cocaine from what turned out to be the
+
+  defendant’s    address.     There   also    appears   to    be    a   measure   of
+
+                                        13
+Case 1:18-cr-00066-WES-LDA Document 63 Filed 04/15/20 Page 14 of 16 PageID #: 1019
+
+
+
+  deference given by the Rhode Island Supreme Court in cases where
+
+  it is reviewing a warrant that has already been obtained, which is
+
+  not the situation here. See id.(stating that, in making a probable
+
+  cause determination, “[t]he magistrate need only conclude that it
+
+  would be reasonable to seek the evidence in the place indicated in
+
+  the affidavit, and in doubtful cases, the reviewing court should
+
+  give preference to the validity of the warrant.”) (citations and
+
+  quotations omitted).
+
+        More importantly, the Government’s argument is fatally flawed
+
+  as a matter of constitutional law.           In effect, the Government is
+
+  saying that even if the Fourth Amendment (as interpreted by the
+
+  First Circuit in Roman and Ribeiro) would prohibit a warrantless
+
+  search of a defendant’s residence, and where the facts do not
+
+  establish    probable      cause,   the    inevitable   discovery   doctrine
+
+  nonetheless must forgive the violation because the Rhode Island
+
+  Supreme    Court   takes     a   looser,    more   law-enforcement-friendly
+
+  position regarding what constitutes probable cause.                 This is
+
+  incorrect: while a state supreme court may certainly take a broader
+
+  view of a constitutional protection (such as the Fourth Amendment’s
+
+  protection against unlawful searches and seizures) in interpreting
+
+  the state constitution’s analog 6, it is not free to take a narrower
+
+
+        6A state supreme court also may not take a broader view of a
+  federal constitutional protection than that afforded by the United
+  States Supreme Court.    Arkansas v. Sullivan, 532 U.S. 769, 772
+  (2001) (reversing state supreme court’s consideration of officer’s
+                                        14
+Case 1:18-cr-00066-WES-LDA Document 63 Filed 04/15/20 Page 15 of 16 PageID #: 1020
+
+
+
+  view of a federal constitutional protection.             See, e.g., Burch v.
+
+  Louisiana, 441 U.S. 130 (1979) (reversing state supreme court
+
+  decision finding conviction by non-unanimous six-person jury for
+
+  non-petty criminal offense acceptable under Sixth and Fourteenth
+
+  Amendments); Oregon v. Hass, 420 U.S. 714, 719 (1975) (“[A] State
+
+  is free as a matter of its own law to impose greater restrictions
+
+  on police activity than those this Court holds to be necessary
+
+  upon federal constitutional standards.”) (emphasis and citations
+
+  omitted).
+
+        The   boundaries   of   what   is   needed    in   order   to   establish
+
+  probable cause in this Circuit are set forth in Roman and Ribeiro.
+
+  That is the law this Court must apply.             And while it may be true
+
+  that were this factual scenario presented to the Rhode Island
+
+  Supreme Court it would find there was probable cause, such a ruling
+
+  would be, in this Court’s view, legally incorrect.
+
+
+
+
+  motivation in conducting search on Fourth Amendment                    grounds,
+  contra Whren v. United States, 517 U.S. 806 (1996)).
+                                       15
+Case 1:18-cr-00066-WES-LDA Document 63 Filed 04/15/20 Page 16 of 16 PageID #: 1021
+
+
+
+  II. Conclusion
+
+           For the reasons outlined above, the Court DENIES the
+
+  Government’s Motion to Reconsider, ECF No. 56.           However, so as to
+
+  ensure that the record in this case is accurate, the Court has
+
+  entered an Amended Order, ECF No. 64.
+
+
+
+  IT IS SO ORDERED.
+
+
+
+  William E. Smith
+  District Judge
+  Date: April 15, 2020
+
+
+
+
+                                       16
+

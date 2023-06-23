@@ -1,0 +1,1920 @@
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 1 of 38           PageID #: 1381
+
+
+
+                         UNITED STATES DISTRICT COURT
+                              DISTRICT OF MAINE
+
+
+ UNITED STATES OF AMERICA                )
+                                         )
+         v.                              )      1:13-cr-00133-JAW
+                                         )
+ ALAN KETCHEN,                           )
+ RYAN ELLIS, and                         )
+ JACOB GAGNON                            )
+
+
+      ORDER ON TREATMENT OF 3,4 METHYLENEDIOXYPYROVALERONE
+      UNDER UNITED STATES SENTENCING GUIDELINES AND REQUEST
+                FOR JOINT PRESENTENCE CONFERENCE
+
+         Alan Ketchen, Ryan Ellis, and Jacob Gagnon request that the Court not treat
+
+ 3,4-Methylenedioxypyrovalerone (MDPV) as an analogue of methcathinone for the
+
+ purposes of determining drug quantity and base offense level. Mr. Ellis and Mr.
+
+ Gagnon further request that the Court treat MDPV as pyrovalerone for the period
+
+ before MDPV was listed on Schedule I, and that the Court use pyrovalerone, not
+
+ methcathinone, to calculate their drug quantity and base offense level, on the ground
+
+ that MDPV is more closely related to pyrovalerone. The Court denies the Defendants’
+
+ requests and concludes that MDPV is a controlled substance analogue of
+
+ methcathinone.     The Court grants the parties’ request for a joint pre-sentence
+
+ conference.
+
+ I.      PROCEDURAL BACKGROUND
+
+         On July 17, 2013, a federal grand jury indicted Mr. Ellis, Mr. Ketchen, and Mr.
+
+ Gagnon on one count of knowingly and intentionally conspiring to distribute and
+
+ possess with intent to distribute MDPV, classified as a controlled substance analogue
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 2 of 38                      PageID #: 1382
+
+
+
+ prior to October 21, 2011, and classified as a Schedule I controlled substance after
+
+ October 21, 2011, all in violation of 21 U.S.C. §§ 813, 841(a)(1). Indictment at 1-3
+
+ (ECF No. 1).1 On May 7, 2014, June 17, 2014, and June 27, 2014, Mr. Ketchen, Mr.
+
+ Ellis, and Mr. Gagnon, respectively, pleaded guilty to that count of the indictment.
+
+ Minute Entry (ECF Nos. 374, 426, 438).
+
+       On October 27, 2014, November 17, 2014, and December 18, 2014, the
+
+ Government filed sentencing memoranda regarding Mr. Ellis, Mr. Gagnon, and Mr.
+
+ Ketchen, respectively. Gov’t’s Mem. in Aid of Sentencing (ECF Nos. 531, 546, 595)
+
+ (Gov’t’s Mem.). On January 23, 2015, Mr. Gagnon filed his sentencing memorandum.
+
+ Def.’s Mem. in Aid of Sentencing (ECF No. 636) (Gagnon Mem.). That same day, Mr.
+
+ Ellis filed his sentencing memorandum. Def.’s Mem. in Aid of Sentencing (ECF No.
+
+ 637) (Ellis Mem.). On January 30, 2015, the Government filed its reply to Mr.
+
+ Gagnon’s memorandum. Gov’t’s Reply Mem. in Aid of Sentencing (ECF No. 639)
+
+ (Gov’t’s Reply to Gagnon). That same day, the Government filed its reply to Mr. Ellis’
+
+ memorandum. Gov’t’s Reply Mem. in Aid of Sentencing (ECF No. 640) (Gov’t’s Reply
+
+ to Ellis). On February 9, 2015, Mr. Ketchen filed his sentencing memorandum. Def.
+
+ Alan Ketchen’s Mem. in Support of Sentencing (ECF No. 643) (Ketchen Mem.). On
+
+ February 11, 2015, the Government filed its reply to Mr. Ketchen’s memorandum.
+
+ Gov’t’s Reply Mem. in Aid of Sentencing and Request for Joint Pre-Sentence
+
+ Conference (ECF No. 645) (Gov’t’s Reply to Ketchen).
+
+
+
+
+ 1     The Defendants were also individually indicted for offenses not the subject of this Order.
+
+                                                 2
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 3 of 38                  PageID #: 1383
+
+
+
+        On April 23, 2015, the Court issued an order on Mr. Ellis’ Offer of Proof. Order
+
+ on Offer of Proof (ECF No. 673) (Offer of Proof Order). In his memorandum, Mr. Ellis
+
+ stated that he was “prepared to offer further expert evidence at a hearing to establish
+
+ that MDPV is not only an analogue to pyrovalerone, but that it is more closely related
+
+ to pyrovalerone than it is to methcathinone.” Ellis Mem. at 3. To give Mr. Ellis an
+
+ opportunity to present this proffered evidence, the Court ordered Mr. Ellis to present
+
+ a synopsis of what his expert would testify, if called as a witness. Offer of Proof Order
+
+ at 1. Although Mr. Ellis timely filed his expert’s curriculum vitae on April 30, 2015,
+
+ he moved to extend the time to supply his expert’s opinion to May 29, 2015. Mot. to
+
+ Enlarge Time to File Detailed Expert Report (ECF No. 685). On May 1, 2015, the
+
+ Court reluctantly granted the motion. Order on Mot. to Enlarge Time to File Detailed
+
+ Expert Report (ECF No. 687). On May 29, 2015, Mr. Ellis filed his expert report. See
+
+ Offer of Proof Attach. 1, Curriculum Vitae of Heather L. Harris (ECF No. 686-1)
+
+ (Harris C.V.); Report in the Matter of U.S. v. Ryan Ellis, 1:13-CR-00133-JAW (ECF
+
+ No. 704) (Harris Report). The Court inquired as to whether the Government intended
+
+ to present a rebuttal to the Harris report and the Government declined to do so.
+
+ II.    THE PARTIES’ POSITIONS
+
+        A.     The Government’s Sentencing Memorandum2
+
+        The Government focuses its sentencing arguments on the conspiratorial period
+
+ before October 21, 2011, when MDPV was not yet a listed controlled substance and
+
+
+ 2       The Government submitted three sentencing memoranda in this case, ECF Nos. 531, 546, and
+ 595, and made essentially identical arguments with respect to MDPV quantity calculations for the
+ purposes of sentencing. For ease, the Court uses the Government’s memorandum in Mr. Ketchen’s
+ case found at ECF No. 595, when citing the memorandum.
+
+                                                3
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 4 of 38                 PageID #: 1384
+
+
+
+ argues that, for sentencing purposes, methcathinone should be considered the “most
+
+ closely related controlled substance” to MDPV.3 Gov’t’s Mem. at 2-5. It points out
+
+ that MDPV is not listed in the United States Sentencing Commission, Guidelines
+
+ Manual (USSG) Drug Equivalency Table, and therefore the drug quantity should be
+
+ calculated by using the marijuana equivalency of the most closely related controlled
+
+ substance referenced in the guidelines. Id. at 2.
+
+           The Government argues that under both federal statute and federal sentencing
+
+ guidelines, MDPV must be compared to either a Schedule I or II drug in calculating
+
+ the Defendants’ base offense level at sentencing. Id. at 3-7. The Government submits
+
+ that under federal statute, a “controlled substance analogue” is defined as a
+
+ substance that has either a “substantially similar” chemical structure as a Schedule
+
+ I or II controlled substance, or a “substantially similar to or greater than” stimulant,
+
+ depressant, or hallucinogenic effect on the central nervous system as a Schedule I or
+
+ II controlled substance.      Id. at 3.   The Government asserts that the guidelines
+
+ likewise require the Court to compare MDPV to either a Schedule I or II drug because
+
+ the guidelines adopt the statutory definition of “controlled substance analogue”. Id.
+
+ at 3-4.
+
+           In anticipation of the Defendants’ argument that MDPV should be compared
+
+ to pyrovalerone, the Government points out that methcathinone is a Schedule I drug
+
+ whereas pyrovalerone is a Schedule V drug, and that methcathinone is referenced in
+
+ the sentencing guidelines whereas pyrovalerone is not. Id. at 5-6. The Government
+
+
+ 3      MDPV was listed in Schedule I on October 21, 2011, and none of the Defendants has argued
+ that MDPV was improperly scheduled.
+
+                                               4
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 5 of 38                       PageID #: 1385
+
+
+
+ argues that USSG § 2D1.1 and related commentary in Application Note 6 require the
+
+ Court to determine “the most closely related controlled substance” to MDPV. Id. at
+
+ 5. The Government maintains that methcathinone is most closely related to MDPV
+
+ because it is structurally similar and has a substantially similar pharmacological
+
+ effect as MDPV. It offers the grand jury testimony of a chemist and a drug science
+
+ specialist, both employed by the U.S. Drug Enforcement Agency (DEA), as evidence
+
+ that the two compounds share similar chemical structures and have similar effects
+
+ on the central nervous system.4 Id. at 7-8. The Government asserts that a disconnect
+
+ that would occur if MDPV was treated as a Schedule V drug before October 21, 2011,
+
+ but later was listed in Schedule I. Id. at 6. The Government argues that this
+
+ treatment would also be inconsistent with Congress’s intent. Id.
+
+        B.      Alan Ketchen’s Sentencing Memorandum
+
+        Mr. Ketchen acknowledges that he pleaded guilty to conspiracy to distribute
+
+ and possess with intent to distribute controlled and analogue substances, but he
+
+ maintains that USSG § 2D1.1 Application Note 6 does not expressly apply because
+
+ MDPV was not listed as a controlled substance before October 21, 2011, and because
+
+ the Application Note 6 analysis applies only to “controlled substances not referenced
+
+ in the guidelines”. Ketchen Mem. at 2-3 (emphasis in original). He recognizes that
+
+ the determination of whether MDPV was a controlled substance or a controlled
+
+ substance analogue at that time impacts the application of the guidelines. Id. at 3.
+
+
+
+ 4       The Government and the Defendants agree that in making its ruling, the Court may consider
+ their exhibits. The Court admits Government Exhibits 1 through 5, Gov’t’s Amended Sentencing Ex.
+ List (ECF No. 641), and Defendant Ellis’ Exhibit 1, Ellis Mem., Attach. 1, for purposes of this Order.
+
+                                                   5
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 6 of 38                   PageID #: 1386
+
+
+
+ He “suggests leniency in the [§] 2D1.1 calculation”, id. at 2, because there is
+
+ insufficient evidence to support the comparison of MDPV to methcathinone, and
+
+ because “the definition of analogue is rife with ambiguity.” Id. at 4.
+
+        C.     The Government’s Reply to Mr. Ketchen’s Memorandum
+
+        The Government asserts that it has provided the Court with “ample
+
+ evidentiary basis” to conclude that methcathinone should be used to calculate the
+
+ guideline in this case. Id. at 2. Additionally, the Government contends that the rule
+
+ of lenity should not apply in this case, and even if it did, Mr. Ketchen waived that
+
+ argument when he acknowledged on the record that MDPV is a controlled substance
+
+ analogue. Id. at 2-3.
+
+        D.     Ryan Ellis’ Sentencing Memorandum
+
+        Mr. Ellis states that because MDPV is not listed in USSG § 2D1.1(c),
+
+ Application Note 6 applies and provides that the base offense level should be
+
+ determined using the “most closely related” controlled substance referenced in the
+
+ guideline. Ellis Mem. at 1. Mr. Ellis asserts that “there is some debate” regarding
+
+ which controlled substance is most closely related to MDPV. Id. at 2. He points to
+
+ an article authored by two DEA Special Testing and Research Laboratory scientists
+
+ that says “MDPV is the methlenedioxy analogue of Pyrovalerone, a Schedule V
+
+ stimulant first synthesize[d] in 1964.”5 Id. (quoting Yohannan Article at 12). Mr.
+
+
+ 5       The article, entitled “The Characterization of 3,4-Methylenedioxypyrovalerone (MDPV)” was
+ written by Joshua C. Yohannan and Joseph S. Bozenko, Jr., and was published in the March 2010
+ edition of Microgram Journal. Ellis Mem. Attach. 1, Joshua C. Yohannan & Joseph S. Bozenko, Jr.,
+ The Characterization of 3,4-Methylenedioxypyrovalerone (MDPV), 7 MICROGRAM J. 12-15 (Mar. 2010)
+ (ECF NO. 637-1) (Yohannan Article). The article identifies the authors, Mr. Yohannan and Mr.
+ Bozenko, as being affiliated with the United States Department of Justice, Drug Enforcement
+ Administration, Special Testing and Research Laboratory in Dulles, Virginia. Id. at 12.
+
+                                                6
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 7 of 38                      PageID #: 1387
+
+
+
+ Ellis states that he is prepared to offer further expert evidence that MDPV is an
+
+ analogue to pyrovalerone and more closely related to pyrovalerone than
+
+ methcathinone. Id. at 3. He disputes the Government’s claim that pyrovalerone
+
+ cannot be considered an analogue to MDPV, arguing that using pyrovalerone to
+
+ calculate the marijuana equivalent drug quantity of MDPV does not change the
+
+ schedule of MDPV, it merely guides the Court in determining how to compare MDPV
+
+ to other Schedule I controlled substances. Id. at 3-4. He states that even if both
+
+ methcathinone and pyrovalerone are analogues to MDPV, the rule of lenity directs
+
+ that Mr. Ellis be given the benefit of using pyrovalerone to calculate the drug
+
+ quantity. Id. at 3. Finally, Mr. Ellis argues that he has a Sixth Amendment right to
+
+ confront the Government’s DEA witnesses.6 Id.
+
+        E.      The Government’s Reply to Ryan Ellis’ Memorandum
+
+        The Government asserts that in order to properly calculate the guidelines in
+
+ this case, the Court “must equate [MDPV] to a drug that is referenced in the
+
+ guidelines.” Gov’t’s Reply to Ellis at 1 (emphasis in original). It points out that
+
+ methcathinone is referenced in the guidelines, whereas pyrovalerone is not. Id.
+
+ Furthermore, the Government maintains, the drafters of the commentary to § 2D1.1
+
+ could have endorsed the comparison of an analogue substance to any Title 21
+
+ controlled substance, but they did not do so. Id. at 2. The Government submits,
+
+ therefore, that comparing MDPV to methcathinone is consistent not only with
+
+
+ 6       Although the Government does not respond to this argument in its reply brief, a “defendant’s
+ Sixth Amendment right to confront the witnesses against him does not attach during the sentencing
+ phase . . . .” United States v. Rodriguez, 336 F.3d 67, 71 (1st Cir. 2003); see also United States v.
+ Luciano, 414 F.3d 174, 178-80 (1st Cir. 2005) (collecting cases).
+
+                                                  7
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 8 of 38            PageID #: 1388
+
+
+
+ Congress’s listing of MDPV as a Schedule I controlled substance, but also with
+
+ existing caselaw and this Court’s approach to sentencing other defendants in this
+
+ conspiracy. Id.
+
+         Turning to the Yohannan article, the Government asserts that the article does
+
+ not conclude that MDPV is a controlled substance analogue of pyrovalerone within
+
+ the definition set forth in 21 U.S.C. § 802(32). Id. Furthermore, the Government
+
+ points out, the article does not speak to what drug referenced in the guidelines is
+
+ most closely related to MDPV. Id. at 3.
+
+         F.    Jacob Gagnon’s Sentencing Memorandum
+
+         Mr. Gagnon argues that Application Note 6 does not apply because MDPV was
+
+ not a “controlled substance” before October 21, 2011. Gagnon Mem. at 1. He contends
+
+ that the definition of “controlled substance” in 21 U.S.C. § 802(6) applies to this case,
+
+ and that a “controlled substance” includes Schedule V substances under § 802(6). Id.
+
+ at 2. Mr. Gagnon asserts that pyrovalerone is thus eligible for being compared with
+
+ methcathinone to determine which substance is most closely related to MDPV. Id. at
+
+ 2-4. He argues that the definition of “controlled substance analogue” under 21 U.S.C.
+
+ § 802(32) is “rife with ambiguity” and insists that “in such cases, courts apply the rule
+
+ of leniency to construe criminal statutes in favor of the defendant”. Id. at 2. He urges
+
+ the Court to conduct an evidentiary analysis to determine whether, as a factual
+
+ matter, either methcathinone or pyrovalerone is “most closely related” to MDPV. Id.
+
+ at 5.
+
+         G.    The Government’s Reply to Jacob Gagnon’s Memorandum
+
+
+
+                                            8
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 9 of 38           PageID #: 1389
+
+
+
+         The Government maintains that Application Note 6 provides that the
+
+ definition of “controlled substance” includes any analogue of a controlled substance,
+
+ and that Mr. Gagnon admitted that MDPV was a controlled substance analogue
+
+ within the meaning of 21 U.S.C. § 802(32)(A). Gov’t’s Reply to Gagnon at 1. The
+
+ Government argues that, for the purposes of sentencing, Mr. Gagnon has admitted
+
+ that MDPV is the analogue of a Schedule I or II drug under § 802(32)(A). Id. The
+
+ Government acknowledges that MDPV is not specifically referenced in the sentencing
+
+ guidelines, but states that Application Note 6 provides that the Court calculate the
+
+ bases offense level using the marijuana equivalency of the most closely related
+
+ substance referenced in the guidelines. Id. at 1-2. Pyrovalerone, the Government
+
+ states, is not referenced in the guidelines. Id. at 2. The Government maintains that
+
+ the issue of whether MDPV can be compared to pyrovalerone is a question of law. Id.
+
+ at 3.
+
+ III.    FACTUAL AND STATUTORY BACKGROUND
+
+         A.    The Indictment
+
+         When the grand jury charged Messrs. Ellis, Ketchen and Gagnon on July 17,
+
+ 2013 with violating federal drug trafficking laws, the indictment contained some
+
+ unusual language in Count One:
+
+         Beginning on a date unknown, but no later than April 1, 2011 and
+         continuing until a date unknown, but no earlier than December 31,
+         2011, in the District of Maine and elsewhere, defendants RYAN ELLIS,
+         a/k/a “Dude”, “Calvin”, “Piles”[;] AL:AN J. KETCHEN, a/k/a “AJ”,
+         “Hobbes”[;] . . . JACOB GAGNON, a/k/a “Jake the Snake” . . . .
+         knowingly and intentionally conspired with one another and with
+         persons known and unknown to commit offenses against the United
+         States, namely distribution and possession with intent to distribute: (1)
+
+
+                                            9
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 10 of 38             PageID #: 1390
+
+
+
+       prior to October 21, 2011, a mixture or substance containing a detectable
+       amount of MDPV, a controlled substance analogue as defined in Title
+       21, United States Code, Section 802(32), with intent for human
+       consumption as provided in Title 21, United States Code, Section 813;
+       and (2) from October 21, 2011 until a date unknown, but no earlier than
+       December 31, 2011, a mixture or substance containing a detectable
+       amount of MDPV, a Schedule I controlled substance (by Final Order of
+       DEA, 76 Fed. Reg. 65371, all in violation of Title 21, United States Code,
+       Section 846, 841(a)(1), and 813.
+
+ Indictment at 3 (bold in original).     What is unusual about this language is the
+
+ distinction between events before and after October 21, 2011; this distinction drives
+
+ the dispute in this case.
+
+       B.      The Statutory Backdrop
+
+               1.    Chapter 13 of Title 21: Drug Abuse Prevention and
+                     Control; Application to Post-October 21, 2011 Conduct
+
+       In the indictment, the Government charged Messrs. Ellis, Ketchen, and
+
+ Gagnon with violating 21 U.S.C. § 841(a)(1), which makes illegal the knowing or
+
+ intentional distribution or possession with the intent to distribute certain controlled
+
+ substances.    More specifically, the Government charged these Defendants with
+
+ violating § 841(b)(1)(C), a provision that refers to “controlled substances in schedule
+
+ I or II”. See 21 U.S.C. § 841(b)(1)(C). Similarly, in § 802(6), the law defines “controlled
+
+ substance” to mean “a drug or other substance, or immediate precursor, included in
+
+ schedule I, II, III, IV, or V of part B of this subchapter.” 21 U.S.C. § 802(6). The law
+
+ grants the Attorney General of the United States the authority to add or remove
+
+ drugs from a schedule after opportunity for a hearing. 21 U.S.C. § 811(a).
+
+
+
+
+                                             10
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 11 of 38           PageID #: 1391
+
+
+
+       Effective October 21, 2011, the Administrator of the Drug Enforcement
+
+ Administration listed 3,4-Methylenedioxypyrovalerone as a Schedule I controlled
+
+ substance:
+
+       SUMMARY: The Administrator of the Drug Enforcement
+       Administration (DEA) is issuing this final order to temporarily schedule
+       three synthetic cathinones under the Controlled Substances Act (CSA)
+       pursuant to the temporary scheduling provisions of 21 U.S.C. 811(h).
+       The substances are 4-methyl-N-methylcathinone (mephedrone), 3,4-
+       methylenedioxy-N-methylcathinone           (methylone),     and        3,4-
+       methylenedioxypyrovalerone (MDPV). This action is based on a finding
+       by the Administrator that the placement of these synthetic cathinones
+       and their salts, isomers, and salts of isomers into Schedule I of the CSA
+       is necessary to avoid an imminent hazard to the public safety. As a
+       result of this order, the full effect of the CSA and its implementing
+       regulations including criminal, civil and administrative penalties,
+       sanctions and regulatory controls of Schedule I substances will be
+       imposed on the manufacture, distribution, possession, importation, and
+       exportation of these synthetic cathinones.
+
+ Schedules of Controlled Substances: Temporary Placement of Three Synthetic
+
+ Cathinones Into Schedule I, 76 Fed. Reg. 65371-01 (Oct. 11, 2011). The October 11,
+
+ 2011 order clarified that for purposes of criminal liability, the effective date was
+
+ October 21, 2011. Id.
+
+       Here, none of the Defendants has asserted that their admitted conduct on and
+
+ after October 21, 2011 did not violate federal law and none has attempted to claim
+
+ any infirmity with the listing of MDPV as a Schedule I controlled substance as of
+
+ October 21, 2011. Gagnon Mem. at 1 (“The term ‘controlled substance’ is defined in
+
+ 21 U.S.C. § 802(6) as a drug or other substance, or immediate precursor, included in
+
+ schedule I, II, III, IV, or V or part B of this subchapter. MDPV became a controlled
+
+ substance as of Oct. 21, 2011”); Ellis Mem. at 1-5; Ketchen Mem. at 1, n.1 (“The
+
+
+
+                                           11
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 12 of 38                       PageID #: 1392
+
+
+
+ substance 3,4 Methylenedioxypyrovalerone was not listed as a schedule I controlled
+
+ substance until October 21, 2011”). Thus, the Defendants have conceded that their
+
+ conduct in possessing MDPV with the intent to distribute it and actually distributing
+
+ MDPV from October 21, 2011 onward constituted the illegal possession and
+
+ distribution of a Schedule I controlled substance. The dispute is about the status of
+
+ MDPV before October 21, 2011 and, as Mr. Gagnon has argued, “[t]his date is
+
+ important because most of the conduct for which the Defendant is being held
+
+ accountable here predated October 21, 2011”. Gagnon Mem. at 1.
+
+                2.      The Controlled Substance Analogue Enforcement Act of
+                        1986: Application to Pre-October 21, 2011 Conduct
+
+        Congress enacted the Controlled Substance Analogue Enforcement Act of 1986
+
+ (The Analogue Act) “to prevent ‘underground chemists’ from creating new drugs that
+
+ have similar effects on the human body as drugs explicitly prohibited under the
+
+ federal drug laws.” United States v. McFadden, 753 F.3d 432, 436 (4th Cir. 2014),
+
+ cert. granted ___ U.S. ___, 135 S. Ct. 1039 (2015)7; United States v. Hodge, 321 F.3d
+
+ 429, 437 (3d Cir. 2003) (purpose of The Analogue Act is to “make illegal the production
+
+ of designer drugs and other chemical variants of listed controlled substances that
+
+ otherwise would escape the reach of the drug laws”). The Analogue Act provides:
+
+        A controlled substance analogue shall, to the extent intended for human
+        consumption, be treated, for the purposes of any Federal law as a
+        controlled substance in schedule I.
+
+
+
+
+ 7      The United States Supreme Court granted certiorari to resolve a circuit split as to whether the
+ government must prove that a defendant knew that the substance constituted a controlled substance
+ analogue, an issue not raised in this case.
+
+                                                  12
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 13 of 38                  PageID #: 1393
+
+
+
+ 21 U.S.C. § 813. Except as provided in subparagraph (C) of § 802(32),8 the term
+
+ “controlled substance analogue” means a substance:
+
+        (i) the chemical structure of which is substantially similar to the chemical
+        structure of a controlled substance in schedule I or II;
+        (ii) which has a stimulant, depressant, or hallucinogenic effect on the
+        central nervous system that is substantially similar to or greater than
+        the stimulant, depressant, or hallucinogenic effect on the central
+        nervous system of a controlled substance in schedule I or II; or
+        (iii) with respect to a particular person, which such person represents or
+        intends to have a stimulant, depressant, or hallucinogenic effect on the
+        central nervous system that is substantially similar to or greater than
+        the stimulant, depressant, or hallucinogenic effect on the central
+        nervous system of a controlled substance in schedule I or II.
+ 21 U.S.C. § 802(32)(A). Together, these provisions have been interpreted to require
+
+ the Government prove three elements: (1) substantial chemical similarity between
+
+ the analogue and the controlled substance (the chemical structure element), see 21
+
+ U.S.C. § 802(32)(A)(i); (2) substantially similar actual, intended, or represented
+
+ physiological effects on the central nervous system (the pharmacological similarity
+
+ element), see 21 U.S.C. § 802(32)(A)(i), (ii); and, (3) intent that the substance be
+
+ consumed by humans (the human consumption element), see id. § 813.                          See
+
+ McFadden, 753 F.3d at 436 (citing United States v. Klecker, 348 F.3d 69, 71 (4th Cir.
+
+ 2003)).
+
+        Courts have routinely upheld the application of the Analogue Act to analogue
+
+ chemicals.    See United States v. Sullivan, 714 F.3d 1104 (8th Cir. 2013) (4-
+
+ methylmethcathinone); United States v. Berger, 553 F.3d 1107 (8th Cir. 2009) (1,4-
+
+
+
+ 8       The exceptions in subparagraph C are not relevant to the issues before the Court. See 21
+ U.S.C. § 802(32)(C).
+
+                                               13
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 14 of 38                        PageID #: 1394
+
+
+
+ butanediol); United States v. Roberts, 363 F.3d 118 (2d Cir. 2004) (1,4-butanediol);
+
+ United States v. Klecker, 348 F.3d 69 (4th Cir. 2003) (5-methoxy-N, N-
+
+ diisopropyltryptamine); United States v. Washam, 312 F.3d 926 (8th Cir. 2002) (1,4-
+
+ butanediol); United States v. Fisher, 289 F.3d 1329 (11th Cir. 2002) (gamma-
+
+ butyrolactone); United States v. Carlson, 87 F.3d 440 (11th Cir. 1996) (3,4-
+
+ Methylenedioxymethamphetamine); United States v. Hofstatter, 8 F.3d 316 (6th Cir.
+
+ 1993) (ephedrine and phenylpropanolamine). Furthermore, courts have applied the
+
+ Analogue Act to MDPV for pre-October 21, 2011 conduct. See McFadden, 753 F.3d at
+
+ 444-45, United States v. Orange, No. 3:12CR00009-4, 2012 WL 2053766, 2012 U.S.
+
+ Dist. LEXIS 70732 (W.D. Va. May 21, 2012).
+
+        Here, the Defendants have not claimed that they are not guilty of violating the
+
+ Analogue Act by possessing and distributing MDPV. The sole issue is how the statute
+
+ and the sentencing guidelines treat MDPV; that is, as either a Schedule I or Schedule
+
+ V analogue.
+
+        C.      The Guideline Analysis: USSG § 2D1.1
+
+        The parties agree that USSG § 2D1.1 applies at sentencing to offenses
+
+ involving a violation of 21 U.S.C. § 841(a). To calculate a defendant’s base offense
+
+ level under § 2D1.1(a), a court looks to “the offense level specified in the Drug
+
+ Quantity Table set forth in subsection (c) . . . .” U.S.S.G. § 2D1.1(a)(5). The Drug
+
+ Quantity Table in subsection (c) does not list MDPV.9
+
+
+
+ 9
+          The guidelines contain extensive, yet not comprehensive, lists of controlled substances in the
+ Drug Quantity table, §2D1.1(c), and Drug Equivalency Tables, § 2D1.1, Application Note 8(D). MDPV
+ is not referenced in any of these lists.
+
+                                                   14
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 15 of 38           PageID #: 1395
+
+
+
+       Application Note 6 of § 2D1.1, titled “Analogues and Controlled Substances Not
+
+ Referenced in this Guideline”, addresses analogues like MDPV not listed in the Drug
+
+ Quantity Table:
+
+       Any reference to a particular controlled substance in these guidelines
+       includes all salts, isomers, all salts of isomers, and, except as otherwise
+       provided, any analogue of that controlled substance. Any reference to
+       cocaine includes ecgonine and coca leaves, except extracts of coca leaves
+       from which cocaine and ecgonine have been removed. For purposes of
+       this guideline “analogue” has the meaning given the term “controlled
+       substance analogue” in 21 U.S.C. § 802(32). In determining the
+       appropriate sentence, the court also may consider whether the same
+       quantity of analogue produces a greater effect on the central nervous
+       system than the controlled substance for which it is an analogue.
+
+       In the case of a controlled substance that is not specifically referenced
+       in this guideline, determine the base offense level using the marihuana
+       equivalency of the most closely related controlled substance referenced
+       in this guideline. In determining the most closely related controlled
+       substance, the court shall, to the extent practicable, consider the
+       following:
+
+       (A) Whether the controlled substance not referenced in this guideline
+           has a chemical structure that is substantially similar to a controlled
+           substance referenced in this guideline.
+
+       (B) Whether the controlled substance not referenced in this guideline
+           has a stimulant, depressant, or hallucinogenic effect on the central
+           nervous system that is substantially similar to the stimulant,
+           depressant, or hallucinogenic effect on the central nervous system
+           of a controlled substance referenced in this guideline.
+
+       (C) Whether a lesser or greater quantity of the controlled substance not
+           referenced in this guideline is needed to produce a substantially
+           similar effect on the central nervous system as a controlled
+           substance referenced in this guideline.
+
+ U.S.S.G. § 2D1.1, app. n. 6.
+
+       D.     Conjunctive or Disjunctive
+
+
+
+
+                                           15
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 16 of 38         PageID #: 1396
+
+
+
+       Before describing the evidence, the Court addresses a preliminary issue:
+
+ whether the three requirements in the statute, 21 U.S.C. § 802(32)(A), should be read
+
+ in the conjunctive or disjunctive. In dividing the three subsections, the statute uses
+
+ the term, “or”, not “and”. This naturally raises the question as to whether Congress
+
+ intended that all three elements must be considered in determining whether a
+
+ particular substance is an analogue or whether only one element is sufficient.
+
+       From the Defendants’ viewpoint, the statute should be read in the disjunctive.
+
+ See Gagnon Mem. at 2 (“[T]o qualify an analogue of a controlled substance confusion
+
+ exists regarding whether the suspect substance is to be compared for similarity
+
+ purposes to the chemical structure or pharmacological effect or the chemical
+
+ structure and pharmacological effect of controlled substance” (emphasis in original)).
+
+ The significance of the Defendants’ argument is that, in their view, if the evidence
+
+ establishes that the analogue is chemically similar to more than one listed controlled
+
+ substance, then the Court must determine which of the two listed substances is more
+
+ closely related to the analogue, and if the Court determines that one listed substance
+
+ is more closely related to the analogue than another, then the statute requires the
+
+ Court to apply the law and guidelines to the more closely related substance. Here,
+
+ for example, the Defendants contend that the Court should adopt Ms. Harris’ opinion
+
+ that MDPV is more closely related to pyrovalerone than to methcathinone and must
+
+ therefore use the statutory and guideline provisions related to pyrovalerone, not
+
+ methcathinone. Once done, the Defendants urge the Court not to address the next
+
+
+
+
+                                          16
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 17 of 38                         PageID #: 1397
+
+
+
+ element, the pharmacological effect, because in their view, it is not necessary to do
+
+ so.10
+
+         Although the First Circuit has not addressed the issue, nearly all (or perhaps
+
+ all) circuit courts that have considered the question have concluded that § 802(32)(A)
+
+ should be read in the conjunctive. See United States v. Berger, 553 F.3d 1107, 1110
+
+ (8th Cir. 2009) (“A controlled-substance analogue is a substance ‘the chemical
+
+ structure of which is substantially similar to the chemical structure of a controlled
+
+ substance in schedule I or II’ and which has a similar effect on the central nervous
+
+ system or is represented or intended to have a similar effect on the central nervous
+
+ system”); United States v. Turcotte, 405 F.3d 515, 522 (7th Cir. 2005); United States
+
+ v. Roberts, 363 F.3d 118, 121 (2d Cir. 2003) (assuming the conjunctive reading is
+
+ correct because the government did not appeal that portion of the district court’s
+
+ ruling); United States v. Hodge, 321 F.3d 429, 436 (3d Cir. 2003); Klecker, 348 F.3d at
+
+ 71; Washam, 312 F.3d at 930 n.2; United States v. McKinney, 79 F.3d 105, 107-08
+
+ (8th Cir. 1996), vacated on other grounds, 520 U.S. 1226 (1997); but see United States
+
+ v. Brown, 415 F.3d 1257, 1261 (11th Cir. 2005) (without deciding the issue, accepting
+
+ the parties’ agreement that § 802(32) should be read in the conjunctive); United States
+
+ v. Fisher, 289 F.3d 1329, 1338 (11th Cir. 2002) (declining to answer the question).11
+
+
+ 10       The Defendants’ position here is counterintuitive. In other cases, defendants have taken the
+ position that the Government bears a burden beyond chemical similarity and must also demonstrate
+ the pharmacological effect. See United States v. Fedida, 942 F. Supp. 2d 1270, 1274-1277 (M.D. Fl.
+ 2013); United States v. Sole, 04-10221-RWZ, 2005 U.S. Dist. LEXIS 14185, at *2-3 (D. Mass. July 15,
+ 2005). Typically defendants benefit when the Government’s burden is increased, but here the
+ Defendants argue that the Government need only prove one element.
+ 11       The Seventh Circuit cited a Fifth Circuit case, United States v. Granberry, 916 F.2d 1008, 1010
+ (5th Cir. 1990) as reading the statute in the disjunctive. See Turcotte, 405 F.3d at 522. However, one
+ district court in the Fifth Circuit has concluded that, when closely analyzed, the Fifth Circuit actually
+
+                                                    17
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 18 of 38                        PageID #: 1398
+
+
+
+ One district court in the First Circuit arrived at the same conclusion. United States
+
+ v. Sole, 2005 U.S. Dist. LEXIS 14185, at *2-3 (“[T]he statute is properly read in the
+
+ conjunctive”).
+
+        Mr. Ketchen argues that the definition of “analogue” under § 802(32)(A) is “rife
+
+ with ambiguity.” Ketchen Mem. at 4. He cites a district court case from Florida,
+
+ United States v. Fedida, 942 F. Supp. 2d 1270, 1274 (M.D. Fla. 2013). Even though
+
+ the Fedida Court concluded that the statute was ambiguous, the Court also concluded
+
+ that the rule of lenity required that the statute be read in the conjunctive, not
+
+ disjunctive. Id. at 1277.
+
+        Based on a strong majority of the circuit courts, this Court concludes that the
+
+ First Circuit would adopt the majority rule and interpret § 802(32) in the conjunctive.
+
+ IV.    THE EVIDENCE
+
+        The Government and the Defendants have taken different sides of a factual
+
+ issue: which controlled substance is most closely related to MDPV. The Government
+
+ contends that MDPV is most closely related to methcathinone, a Schedule I drug; the
+
+ Defendants say that MDPV is most closely related to pyrovalerone, a Schedule V
+
+ drug.12
+
+
+
+
+ required a conjunctive, not disjunctive reading. United States v. Reece, No. 6:12-CR-00146-01; 6:12-
+ CR-00146-02; 6:12-CR-00146-06; 6:12-CR-00146-07; 6:12-CR-146-08; 6:12-CR-00146-09; 6:12-CR-10,
+ 2013 U.S. Dist. LEXIS 103846 (W.D. La. May 10, 2013).
+ 12      Methcathinone is not listed in the statute as a Schedule I drug. See generally 21 U.S.C. § 812.
+ But DEA regulations, published in the Code of Federal Regulations, have classified methcathinone as
+ a Schedule I controlled substance. 21 C.F.R. § 1308.11. These regulations have the force of law. See
+ United States v. Hussein, 351 F.3d 9, 12 (1st Cir. 2003). Methcathinone is also specifically referenced
+ in the guidelines. See U.S.S.G. § 2D1.1 app. n. 8(D).
+
+                                                   18
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 19 of 38                    PageID #: 1399
+
+
+
+        In determining the substance for which MDPV is an analogue, the evidence
+
+ must show that the analogue has a chemical structure substantially similar to the
+
+ chemical structure of a Schedule I or II controlled substance, that the analogue has
+
+ an effect on the central nervous system substantially similar to or greater than the
+
+ effect on the central nervous system of a controlled substance in Schedule I or II, and
+
+ that the analogue was intended for human consumption. See §§ 802(32)(A)(i)-(ii),
+
+ 813.
+
+        A.     The Government’s Evidence
+
+               1.      The Grand Jury Testimony of Dr. DiBerardino
+
+        In support of its view, the Government provided the Court with the grand jury
+
+ testimony of Thomas DiBerardino, a chemist with the DEA.13 Gov’t’s Sentencing Ex.
+
+ 1, Test. of Thomas DiBerardino (ECF Nos. 532, 547, 596). Dr. DiBerardino holds a
+
+ doctorate in chemistry and has been employed by the DEA for nineteen years. Id. at
+
+ 2:9-3:6.    Dr. DiBerardino testified as to his understanding of the rationales
+
+ underlying the different schedules: (1) Schedule I addresses dangerous drugs without
+
+ any approved medical uses; (2) Schedule II deals with dangerous drugs that have
+
+ medical uses; and, (3) Schedules III-V list drugs that are dangerous but not as
+
+ dangerous as those in Schedules I and II. Id. at 5:5-8:21.
+
+        Dr. DiBerardino also explained his understanding of analogue drugs and how
+
+ they fit into the statutory scheme. He testified that “an analogue is a substance that
+
+ for all intents and purposes has not been specifically scheduled. However, it is
+
+
+
+ 13
+        The Defendants have not challenged the expert qualifications of Dr. DiBerardino.
+
+                                                19
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 20 of 38          PageID #: 1400
+
+
+
+ dangerous enough that it could be pretty much substituted for something that is
+
+ scheduled.” Id. at 7:2-10. Dr. DiBerardino explained that adding a new drug to one
+
+ of the schedules takes years and a smart chemist could produce a new drug in less
+
+ time than the formal scheduling, thus he agreed that one reason for the analogue law
+
+ is “so that law enforcement can keep pace with the technology that sometimes moves
+
+ faster than the scheduling process.” Id. at 8:22-10:25.
+
+       Dr. DiBerardino described the use of an analogue classification as a “stopgap
+
+ measure,” noting that it allows the authorities to “take action now to prevent the
+
+ public from - - from dangers that if we were to slowly use the scheduling process, it
+
+ would be on the streets for years and years. And it’s not a good thing, obviously.” Id.
+
+ at 11:1-11.
+
+       Dr. DiBerardino also explained the “human consumption” requirement of the
+
+ law. Id. at 11:18-14:5. He noted that there are numerous laboratories and businesses
+
+ that endeavor to invent new compounds that are beneficial to people, ranging from
+
+ new medicines to new types of fertilizer. Id. at 11:1-12:15. But a new compound not
+
+ intended for human consumption is outside the reach of The Analogue Act. Id. at
+
+ 12:8-14:5.
+
+       Dr. DiBerardino also discussed the chemical structure element. Id. at 14:8-
+
+ 15:10. He explained that the chemists examine the new substance to determine
+
+ whether it has “characteristics, that molecular structure” substantially similar to a
+
+ scheduled substance, and to be considered an analogue, it “has to have certain
+
+ characteristics that are in common.” Id. at 15:3-10.
+
+
+
+                                           20
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 21 of 38                       PageID #: 1401
+
+
+
+       Turning to the pharmacological similarity element, Dr. DiBerardino agreed
+
+ that the analogue substance has to be a stimulant, depressant or hallucinogen and
+
+ have an impact on the central nervous system that is substantially similar to a
+
+ Schedule I or Schedule II listed drug. Id. 15:16-21.
+
+       Dr. DiBerardino grand jury testimony was directed to the chemical structure
+
+ element and, after providing a whirlwind course in basic chemistry, he explained both
+
+ in his testimony and in slides that in his view the chemical structure of MDPV is
+
+ substantially similar to methcathinone, a Schedule I controlled substance. Id. 15:1
+
+ 1-25:20.
+
+              2.      The Grand Jury Testimony of Dr. Prioleau
+
+       The Government also introduced the grand jury testimony of Cassandra
+
+ Prioleau, a drug science specialist with the DEA.14 Gov’t’s Sentencing Ex. 2, Test. of
+
+ Cassandra Prioleau (ECF Nos. 532, 547, 596) (Prioleau Test.). Dr. Prioleau holds a
+
+ doctorate in pharmacology and has worked at the DEA since October 2008. Id. at 2:6-
+
+ 3:8. Dr. Prioleau is an expert in the pharmacological effects of emerging drugs,
+
+ comparing the new drug’s pharmacological effect to a Schedule I or II drug to
+
+ determine whether they are substantially similar in effect. Id. at 4:6-9. She testified
+
+ that she is familiar with the pharmacological effect of MDPV on the central nervous
+
+ system. Id. at 4:10-25. She characterized MDPV as having a “stimulant effect” on
+
+ the central nervous system, causing the person to experience symptoms such as
+
+
+
+
+ 14
+       The Defendants have not challenged the expert qualifications of Dr. Prioleau.
+
+                                                21
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 22 of 38        PageID #: 1402
+
+
+
+ hyperactivity, increased energy, anxiety, aggression, euphoria, increased blood
+
+ pressure, increased heart rate, and increased body temperature. Id. at 5:3-14.
+
+       Dr. Prioleau testified that she is also familiar with methcathinone, a Schedule
+
+ I substance. Id. at 6:5-12. She said that methcathinone also has a stimulant effect
+
+ on the central nervous system.        Id. at 6:13-16.     Comparing MDPV with
+
+ methcathinone, she testified:
+
+       MDPV, like methcathinone, has a stimulant effect on the central
+       nervous system that is substantially - - the effects of MDPV are
+       substantially similar in the central nervous system to that of
+       methcathinone.
+
+ Id. at 6:17-23. She agreed that if someone takes MDPV or methcathinone, he or she
+
+ is going to experience “similar types of hyperactivity, euphoria, sleeplessness,
+
+ excitability.” Id. at 6:24-7:5. She concluded by saying that “MDPV has a stimulant
+
+ effect on the central nervous system that is substantially similar to that of
+
+ methcathinone, a [S]chedule I substance.” Id. at 2-6.
+
+             3.     The August 2011 DEA Report and Proposal to Temporarily
+                    List MDPV as a Schedule I Substance
+
+       The Government also presented a report and appendix from the DEA that
+
+ summarized the reasons for its recommendation to temporarily list MDPV, among
+
+ other substances, as a Schedule I substance. Gov’t’s Sentencing Ex. 5, Background,
+
+ Data and Analysis of Synthetic Cathinones: Mephedrone (4-MMC), Methylone
+
+ (MDMC) and 3,4-Methylenedioxypyrovlerone (MDPV) (Aug. 2011) (ECF Nos. 532,
+
+ 547, 596). This Report confirmed a rapid growth in the abuse of MDPV and noted
+
+ that the compounds have “no known medical use in the United States.” Id. at 3.
+
+
+
+                                          22
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 23 of 38                   PageID #: 1403
+
+
+
+        In terms of MDPV’s chemistry, the Report stated:
+
+        MDPV is closely related in structure to phenethylamines such as the
+        Schedule I and II stimulants methamphetamine, cathinone, and
+        methcathinone. MDPV is also structurally related to pyrovalerone,
+        which is a psychoactive drug that was used to treat chronic lethargy and
+        fatigue. There is no evidence that MDPV has a legitimate non-research
+        use and according to HHS there are no approved drug products or new
+        drug applications that contain MDPV.
+
+ Id. at 6. The Report documents numerous incidents involving emergency room visits
+
+ and some deaths attributed to MDPV. Id. at 12-16. Noting that a “substance meeting
+
+ the statutory requirements for temporary scheduling (21 U.S.C. [§] 811(h)(1)) may
+
+ only be placed in Schedule I,” the Report recommended that MDPV and similar
+
+ compounds be so listed, because MDPV and the two other synthetic cathinones “have
+
+ a high potential for abuse, no currently accepted medical use in treatment in the
+
+ United States, and [a] lack [of] accepted safety for use under medical supervision.”
+
+ Id. at 2.
+
+        B.      The Defendants’ Evidence
+
+                1.     The Yohannan Article
+
+        The Defendants disagree that methcathinone should be compared to MDPV.
+
+ Mr. Gagnon and Mr. Ellis contend that substance should be pyrovalerone.15 Mr. Ellis
+
+ has taken the lead among the Defendants in presenting the Court with a
+
+ countervailing evidentiary argument. He attached to his memorandum the March
+
+ 2010 Microgram Journal article authored by Messrs. Yohannan and Bozenko, two
+
+
+
+
+ 15
+        Mr. Ketchen argues that his base offense level should not be calculated using the marijuana
+ equivalent of methcathinone, but offers no alternative substance.
+
+                                                23
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 24 of 38           PageID #: 1404
+
+
+
+ employees of the DEA’s Special Testing and Research Laboratory. Yohannan Article
+
+ at 12-15. In the article, the authors describe MDPV:
+
+       MDPV       and     MDPK      are     both  abbreviations    for  3,4-
+       Methylenedioxypyrovalerone (Figure 1). MDPV was first synthesized
+       as part of a class of stimulants in 1969. MDPV is the methylenedioxy
+       analogue of pyrovalerone, a Schedule V stimulant first synthesized in
+       1964. Pyrovalerone, available under the trade names Centroton and
+       Thymergix, is used as an appetite suppressant or for the treatment of
+       chronic fatigue.
+
+       MDPV is currently unscheduled in the United States. MDPV is found
+       as a white or light tan powder. Users report the development of an odor
+       when left exposed to the air. There are currently no known studies on
+       the effects of MDPV on humans or proper dosing. MDPV is commonly
+       described as boosting a user’s libido, however it is also associated with
+       extreme anxiety at higher doses. There are no known deaths due to the
+       use of MDPV.
+
+ Id. at 12. The article goes on to set out the data resulting from subjecting MDPV to
+
+ various chemical tests, including a Fourier Transform Infrared Spectroscopy, a gas
+
+ chromatography/mass spectrometry, nuclear magnetic resonance spectroscopy, and
+
+ ultraviolet spectrophotometry. Id. at 12-14.
+
+              2.     The Heather Harris Report
+
+       In his memorandum, Mr. Ellis asserted that “[t]he question of what listed drug
+
+ is most closely related to MDPV is a factual question, and Mr. Ellis should have the
+
+ opportunity to present evidence on his own behalf, and to challenge the Government’s
+
+ evidence.” Ellis Mem. at 3. He stated that he was prepared to offer “further expert
+
+ evidence at a hearing to establish that MDPV is not only an analogue to pyrovalerone,
+
+ but that it is more closely related to pyrovalerone than it is to methcathinone. Id.
+
+ The Court, taking Mr. Ellis at his word, ordered him to submit an offer of proof setting
+
+
+
+                                           24
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 25 of 38         PageID #: 1405
+
+
+
+ forth the expert’s name and curriculum vitae, and a detailed explanation of the basis
+
+ for the expert’s anticipated testimony. Offer of Proof Order.
+
+       Mr. Ellis submitted a report written by Heather L. Harris and Ms. Harris’
+
+ curriculum vitae. See Harris C.V.; Harris Report. Ms. Harris holds a juris doctor and
+
+ master of forensic science, and has been a forensic chemistry consultant since 2006.
+
+ Harris C.V. at 1.     Ms. Harris reviewed the structural indicators of MDPV,
+
+ methcathinone, and pyrovalerone, and concluded that “with regard to chemical
+
+ structure, MDPV is most closely related to pyrovalerone, not methcathinone.” Harris
+
+ Report at 1. She submits that the “substantially similar” standard set forth in §
+
+ 802(32)(A) “has no quantifiable meaning” and results in opinions based on “little more
+
+ than subjective feelings about the appearance of two-dimensional diagrams.” Id. at
+
+ 1. Therefore, she looked to other sources to find an approach for evaluating the
+
+ structural similarity of different compounds. Id. at 2. That approach entails an
+
+ evaluation of the functional groups, core structure, and presence and location of
+
+ reactivity-modifying double bonds of particular molecules. Id. In her opinion, MDPV
+
+ and methcathinone do not share the same core structure, whereas pyrovalerone
+
+ contains all of the same core structure elements as MDPV. Id. at 2-3. She opined
+
+ that although methcathinone, MDPV, and pyrovalerone share one functional group,
+
+ MDPV has two functional groups that methcathinone does not have. Id. at 3. Finally,
+
+ she compared the presence and location of double bonds present in all three
+
+ compounds, and concluded that although methcathinone, MDPV and pyrovalerone
+
+ share an identical double bond structure. Id. at 3-4.
+
+
+
+                                           25
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 26 of 38           PageID #: 1406
+
+
+
+          C.    The Government’s Reply
+
+          Anticipating that the Defendants would present the Yohannan article in
+
+ response to its evidence, the Government submitted a copy of an email from Mr.
+
+ Yohannan dated January 30, 2015 in which Mr. Yohannan wrote that the article he
+
+ authored with Mr. Bozenko “was not intended to address, nor did it in any way
+
+ undertake, a controlled substance analogue determination under the United States
+
+ Code.”     Gov’t’s Sentencing Ex. 4, Email from Joshua C. Yohannan to Solette A.
+
+ Magnelli (Jan. 30, 2015). He stresses that he had “formed no opinion on whether
+
+ MDPV is an analogue under the definitions or provisions of the United States Code
+
+ or the United States Sentencing Guidelines.” Id.
+
+ V.       DISCUSSION
+
+          A.    The Significance of the Dispute
+
+          Before addressing the parties’ arguments, the Court explains the gravity of the
+
+ dispute in this case.     For many controlled substances, the guidelines provide a
+
+ conversion table, which translates a specific drug quantity into its marijuana
+
+ equivalent. For example, one gram of methcathinone is equivalent to 380 grams of
+
+ marijuana.      U.S.S.G. § 2D1.1, app. n. (8)(D).     However, when dealing with a
+
+ “controlled substance not referenced in the drug quantity table”, the guidelines direct
+
+ that the “Drug Equivalency Tables” be used “to convert the quantity of the controlled
+
+ substance involved in the offense to its equivalent quantity of marihuana.” U.S.S.G.
+
+ § 2D1.1, app. note 8(A)(i). Pyrovalerone, a Schedule V substance, is not listed in the
+
+ drug equivalency tables, and is not referenced anywhere in the guidelines. Therefore,
+
+
+
+                                             26
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 27 of 38                        PageID #: 1407
+
+
+
+ Application Note 6 directs the Court to determine which substance pyrovalerone is
+
+ “most closely related to” that is actually referenced in the guidelines.
+
+        Significantly, although the Defendants argue that the Court should use
+
+ pyrovalerone to calculate their base offense levels, none submitted any evidence
+
+ regarding which substance is “most closely related” to pyrovalerone. They have fallen
+
+ short, therefore, of providing a substance that could be converted to a marijuana
+
+ equivalent quantity and accordingly, to a base offense level.
+
+        The guideline commentary, however, answers this question. As pyrovalerone
+
+ is a Schedule V controlled substance without a direct guideline equivalency reference,
+
+ the default provisions would apply and would significantly cap his guideline range:
+
+        For certain types of controlled substances, the marihuana equivalencies
+        in the Drug Equivalency Tables are “capped” at specified amounts (e.g.,
+        the combined equivalent weight of all Schedule V controlled substances
+        shall not exceed 2.49 kilograms of marihuana.
+
+ U.S.S.G. § 2D1.1 app. n. 8(B).
+
+        Taking Mr. Ellis as an example highlights the significant difference in the
+
+ resulting base offense level if the Court used pyrovalerone instead of methcathinone
+
+ as the proper analogue of MDPV.16 Mr. Ellis is being held accountable for 9,450.36
+
+ grams of MDPV. That translates into 3,591,136.8 grams of methcathinone, which is
+
+ 3,591 kilograms of marijuana equivalent. Because the drug quantity is at least 3,000
+
+ kilograms but less than 10,000 kilograms of marijuana, it results in a base offense
+
+
+
+ 16       This is for illustrative purposes only. In its Presentence Report, the Probation Office
+ recommended that Mr. Ellis be held responsible for other drug quantities that impact his base offense
+ level, and it has also recommended other violations and adjustments that affect his total offense level.
+ Finally, for purposes of this illustration, the Court has included all the drug quantity even though Mr.
+ Ellis possessed a certain quantity of MDPV after October 21, 2011, when the law changed.
+
+                                                   27
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 28 of 38          PageID #: 1408
+
+
+
+ level of 32, which carries with it a guideline sentence range of 151 to 188 months at
+
+ his criminal history category of III. Conversely, if the MDPV is considered a Schedule
+
+ V controlled substance, then the marijuana weight is capped at 2.49 kilograms.
+
+ Because the drug quantity is at least 1 kilogram but less than 2.5 kilograms of
+
+ marijuana, it results in a base offense level of 8, which carries with it a guideline
+
+ sentence range of only 6 to 12 months, again at criminal history category III. Similar,
+
+ dramatic differences in the calculated guideline sentence would also apply to Mr.
+
+ Ketchen and Mr. Gagnon.
+
+       B.     The Defendants’ Admission
+
+       During their respective Rule 11 hearings, each Defendant was presented with
+
+ a prosecution version of the offense and each Defendant admitted:
+
+       [T]here existed a conspiracy to possess with intent to distribute and
+       distribute [ ] prior to October 21, 2011, a mixture or substance
+       containing a detectable amount of MDPV, a controlled substance
+       analogue as defined in Title 21, United States Code, Section 802(32),
+       with intent for human consumption as provided in Title 21, United
+       States Code, Section 813 . . .
+
+ Gov’t’s Version of the Offense at 1 (ECF No. 371) (Ketchen); Gov’t’s Version of the
+
+ Offense at 1 (ECF No. 418) (Gagnon); Amended Gov’t’s Version of the Offense at 1
+
+ (ECF No. 425) (Ellis).    A literal application of this admitted language to the
+
+ Defendants’ cases forecloses the arguments they are making here, because they have
+
+ admitted that prior to October 21, 2011, the MDPV involved in the conspiracy was “a
+
+ controlled substance analogue as defined in Title 21, United States Code Section
+
+ 802(32).” By admitting that the pre-October 21, 2011 MDPV they distributed met
+
+ this statutory definition, they admitted that the MDPV they distributed fulfilled the
+
+
+                                           28
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 29 of 38                         PageID #: 1409
+
+
+
+ chemical structure, pharmacological similarity, and human consumption elements in
+
+ the statute, which are incorporated into the guidelines by Application Note 6.17 See
+
+ U.S.S.G. § 2D1.1, n. 6 (“For the purposes of this guideline, ‘analogue’ has the meaning
+
+ given the term ‘controlled substance analogue’ in 21 U.S.C. § 802(32)”).
+
+         None of the Defendants has moved to withdraw this part of his guilty plea
+
+ despite the admission argument having been prominently raised by the Government;
+
+ based on these admissions alone, the Court could stop here. However, the Court
+
+ proceeds with its analysis on the assumption that if the Court determined that the
+
+ merits of the Defendants’ motions warranted a markedly reduced sentence for each
+
+ Defendant than the ones recommended in the Presentence Reports, the Court would
+
+ likely be receptive if the Defendants acted to avoid such a result.
+
+         C.      The Facts
+
+                 1.      MDPV and the First Element: Chemical Structure
+
+         Under Application Note 6 to USSG § 2D1.1, an “analogue” means “controlled
+
+ substance analogue” as defined in 21 U.S.C. § 802(32). The first element of § 802(32)
+
+ focuses on the chemical structure of the analogue.
+
+         Here, there is evidence that MDPV’s chemical structure is similar to the
+
+ chemical structure of both methcathinone and pyrovalerone. The Yohannan article
+
+
+
+
+ 17
+          Mr. Gagnon points out that “controlled substance” is defined in 21 U.S.C. § 802(6) as a “drug
+ or other substance, or immediate precursor, included in schedule I, II, III, IV, or V of part B of this
+ subchapter.” Gagnon Mem. at 1. However, for the purposes of sentencing, the guidelines adopted the
+ definition contained in § 802(32), not § 802(6). The Court concludes that there is no confusion about
+ whether the definition of “controlled substance” under § 802(6) applies to Application Note 6 of § 2D1.1.
+ It does not.
+
+                                                    29
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 30 of 38         PageID #: 1410
+
+
+
+ focuses on pyrovalerone and concludes that “MDPV is the methylenedioxy analogue
+
+ of pyrovalerone.” Yohannan Article at 1. The DEA report states:
+
+        MDPV is closely related in structure to phenethylamines such as the
+        Schedule I and II stimulants methamphetamine, cathinone, and
+        methcathinone. MDPV is also structurally related to pyrovalerone,
+        which is a psychoactive drug that was used to treat chronic lethargy and
+        fatigue.
+
+ The Yohannan article and the DEA report agree that MDPV bears a chemical
+
+ structure relationship to pyrovalerone.       Ms. Harris’ letter reaches a similar
+
+ conclusion: that MDPV’s chemical structure is closely related to pyrovalerone. Harris
+
+ Report at 4 (“MDPV is most closely related to pyrovalerone in chemical rather than
+
+ metcathinone”).
+
+        Ms. Harris goes further, however. She opines that the “structural indicators”
+
+ for both methcathinone and MDPV reveal that “more differences than similarities
+
+ exist between methcathinone and MDPV, and most of those differences are
+
+ significant.”   Id. at 4.   She concludes that “MDPV should not be considered a
+
+ controlled substance analogue of methcathinone under USSG § 2D1.1”. Id.
+
+        Based on Dr. DiBerardino’s testimony, it would be expected that the chemical
+
+ structure of MDPV could be closely related to more than one compound.             Dr.
+
+ DiBerardino explained that the analysis of the molecular structure of a compound
+
+ starts by isolating the so-called “skeleton” of the compound and then identifying the
+
+ carbons, hydrogens, and other molecules attached to the core.              From Dr.
+
+ DiBerardino’s explanation, the Court concludes that even if “MDPV is the
+
+ methylenedioxy analogue of pyrovalerone”, this does not mean that MDPV is not also
+
+
+
+                                          30
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 31 of 38         PageID #: 1411
+
+
+
+ closely related in chemical structure to           “Schedule I   and II stimulants
+
+ methamphetamine, cathinone, and methcathinone.”
+
+       Assuming that the chemical structure of MDPV is more closely analogous to
+
+ pyrovalerone than to methamphetamine, cathinone, or methcathinone, this does not
+
+ end the discussion. Section 802(32) does not provide that the analogue must be the
+
+ most similar to the illegal compound; it provides that the analogue compound must
+
+ be “substantially similar to the chemical structure of a controlled substance.” §
+
+ 802(32). So long as the chemical structure of MDPV is “substantially similar” to the
+
+ chemical structure of “methamphetamine, cathinone, and methcathinone,” it meets
+
+ the chemical structure requirement of § 802(32).
+
+              2.    MDPV and the Second Element: Pharmacological Effect
+
+       The second element under § 802(32) addresses the pharmacological effect of
+
+ the analogue. Dr. Prioleau’s testimony confirms that MDPV’s pharmacological effect
+
+ is substantially similar to that of methcathinone; MDPV therefore meets this element
+
+ of § 802(32). As noted earlier, Dr. Prioleau agreed that if someone takes MDPV or
+
+ methcathinone, he or she is going to experience “similar types of hyperactivity,
+
+ euphoria, sleeplessness, excitability.” Prioleau Test. at 6:24-7:5. She concluded by
+
+ saying that “MDPV has a stimulant effect on the central nervous system that is
+
+ substantially similar to that of methcathinone, a [S]chedule I substance.” Id. at 2-6.
+
+ The Defendants have presented no evidence on the pharmacological effect criterion.
+
+ Ms. Harris does not address this issue in her report.
+
+
+
+
+                                          31
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 32 of 38         PageID #: 1412
+
+
+
+       The pharmacological similarity element analysis is critical under the federal
+
+ statute and the guidelines. As Dr. DiBerardino observed, one chemical may share
+
+ similar chemistries to a host of other chemicals. In the Court’s view, substantial
+
+ chemical similarity is a necessary but not sufficient requirement for determining
+
+ whether the chemical in question is an analogue under the drug laws.            For a
+
+ compound to be deemed illegal, it is not only its chemistry but also its impact on the
+
+ human body and mind that must be assessed. In other words, to fit within § 802(32)
+
+ and § 2D1.1 of the guidelines, an analogue compound must fulfill all of the § 802(32)
+
+ and § 813 elements. A compound, like pyrovalerone, could well be similar in chemical
+
+ structure to MDPV, but might not affect people the same way bath salts have affected
+
+ people. Thus, to qualify as an analogue compound, the guidelines require more than
+
+ just chemical similarity.
+
+       Here, the Government has demonstrated that MDPV has pharmacologically
+
+ similar impact as methcathinone on human beings and therefore, it has presented
+
+ convincing evidence on this essential element.     The Defendants have offered no
+
+ rebuttal on this critical point: the pharmacological similarity between MDPV and
+
+ pyrovalerone and between MDPV and methcathinone.
+
+       Based on the evidence now before the Court, the Court finds that the
+
+ Government has demonstrated that MDPV is a “controlled substance analogue” to
+
+ methcathinone, a Schedule I controlled substance, and the Court finds that the
+
+
+
+
+                                          32
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 33 of 38                 PageID #: 1413
+
+
+
+ evidence does not support the Defendants’ assertion that MDPV is a “controlled
+
+ substance analogue” to pyrovalerone.18
+
+        D.     The Law
+
+               1.     Application Note 6 Applies to Analogues Such As MDPV
+
+        In their memoranda, Messrs. Ketchen and Gagnon maintain that USSG §
+
+ 2D1.1 does not apply because MDPV was not listed as a controlled substance before
+
+ October 21, 2011. Gagnon Mem. at 3 n.1 (“Prior to Oct. 21, 2011, MDPV was not by
+
+ definition a controlled substance and therefore is not covered by Comment 6”);
+
+ Ketchen Mem. at 3 (“In analyzing the pre October 21, 2011 conduct, MDPV was not a
+
+ controlled substance listed. Comment 6 analysis does not expressly apply because
+
+ the analysis only applies to controlled substances not referenced in the guidelines”).
+
+        The plain language of Application Note 6 defeats the Defendants’ argument.
+
+ The title of Application Note 6 expressly addresses analogues, like MDPV, not
+
+ referenced in the guidelines. U.S.S.G. § 2D1.1, app. n. 6 (“Analogues and Controlled
+
+ Substances Not Referenced in this Guideline”). Specifically, the text provides that
+
+ “[a]ny reference to a particular controlled substance in these guidelines includes . . .
+
+ any analogue of that controlled substance.” Id. Therefore, contrary to Defendants’
+
+ assertion, Application Note 6 does not solely apply to listed controlled substances.
+
+        Furthermore, the Defendants’ focus on whether MDPV was a listed controlled
+
+ substance prior to October 21, 2011 misses the point that the application note
+
+ addresses analogues in the first paragraph. The district court in the Eastern District
+
+
+ 18      The Court does not separately address the third element, human consumption. Presumably,
+ all three drugs, MDPV, pyrovalerone and methcathinone, meet that criterion.
+
+                                               33
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 34 of 38         PageID #: 1414
+
+
+
+ of Virginia rejected a similar argument. See Gov’t’s Sentencing Ex. 3, United States
+
+ v. Webb-Harvey, No. 4:13cr45, at 2:
+
+       The Court concludes that based on the most appropriate and natural
+       reading of this application note, the first paragraph should be applied
+       initially in a case such as this one where the defendant has been
+       convicted of an offense involving an analogue. The second paragraph
+       should only apply where the defendant is convicted of an offense
+       involving a material that is a controlled substance included in the
+       statutory schedules but that is not listed in the Guideline’s drug
+       quantity or drug equivalency tables.
+
+ This Court agrees with this conclusion. The Defendants’ argument badly misreads
+
+ the scope of Application Note 6.
+
+              2.     The Definition of “Controlled Substance Analogue” in
+                     Application Note 6 Includes MDPV
+
+       The first paragraph of Application Note 6 contains critical language directing
+
+ the Court to the correct analytic path for controlled substance analogues:
+
+       For the purposes of this guideline, “analogue” has the meaning given the
+       term “controlled substance analogue” in 21 U.S.C. § 802(32).
+
+ U.S.S.G. § 2D1.1. n. 6.     The guideline expressly incorporates the language of §
+
+ 802(32)(A)(i), (ii), and (iii). Subsection (i) serves as an example:
+
+       [T]he term “controlled substance analogue” means a substance (i) the
+       chemical structure of which is substantially similar to the chemical
+       structure of a controlled substance in schedule I or II . . . .
+
+ 21 U.S.C. § 802(32)(i). The last phrase, “substantially similar to . . . a controlled
+
+ substance in schedule I or II” (emphasis supplied), which also appears in subsections
+
+ (ii) and (iii), deals a fatal blow to Defendants’ argument that MDPV can be considered
+
+ a controlled substance analogue of pyrovalerone.
+
+
+
+
+                                             34
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 35 of 38            PageID #: 1415
+
+
+
+       Even if the Court were to assume that the Defendants are correct and MDPV
+
+ has a chemical structure similar to pyrovalerone, the guidelines do not allow a
+
+ comparison between the alleged analogue and pyrovalerone because, as the
+
+ Defendants concede, pyrovalerone is a Schedule V substance. In other words, the
+
+ Commission has determined that to constitute an analogue under the guidelines, the
+
+ chemical structure of the analogue must be similar to the chemical structure of a
+
+ Schedule I or II controlled substance. If not, the analogue does not meet the definition
+
+ of “controlled substance analogue” under the guidelines. The district court for the
+
+ District of Arizona considered and rejected the same argument that the Defendants
+
+ make here.
+
+       In defining a “controlled substance analogue,” the statute requires only
+       that it be substantially similar in chemical structure to, and
+       substantially similar or greater in physiological effect than, “a controlled
+       substance in schedule I or II.” 21 U.S.C. § 802(32)(A). The statute does
+       not require a comparison to substances in other schedules, nor does it
+       require that the analogue have its closest similarity to a substance in
+       schedule I or II. As a result, the Court concludes that a substance that
+       satisfies the requirements of § 802(32)(A) is a controlled substance
+       analogue, and does not lose that status because it has a chemical
+       structure that is more similar to a schedule V controlled substance.
+
+ United States v. Lane, No. CR-12-01419-PHX-DGC, 2013 WL 3759903, at *3 (D. Ariz.
+
+ July 16, 2013). The Court concurs with this reasoning and conclusion. Where, as
+
+ here, there is evidence that the chemical structure of MDPV is substantially similar
+
+ to the chemical structure of a Schedule I drug and a Schedule V drug, it is only the
+
+ comparison to the Schedule I drug that counts.
+
+       Ms. Harris’ report actually highlights the flaw in the Defendants’ position.
+
+ Acknowledging that the statute restricts “the comparison to a Schedule I or II
+
+
+                                           35
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 36 of 38               PageID #: 1416
+
+
+
+ controlled substance”, she complains that the restriction is “a creation of law and is
+
+ not based on science.” Harris Report at 1-2. Unfortunately for the Defendants,
+
+ however, they are before a court of law, not a panel of scientists. The statute reflects
+
+ the will of Congress and, faced with a choice between what Ms. Harris believes the
+
+ law should be and what Congress has determined that the law is, the Court is
+
+ required to apply the congressional directive.
+
+               3.     The Analysis Under Application Note 6 of the Most Closely
+                      Related Controlled Substance Referenced in the
+                      Guidelines
+
+        Finally, the parties spar over the application of the second paragraph of
+
+ Application Note 6.19 The Government argues that because MDPV is not specifically
+
+ referenced in the guidelines, the Court must determine the “most closely related
+
+ controlled substance” using the analysis in paragraph two of Application Note 6.
+
+ Gov’t’s Mem. at 5. The Government asserts that the second paragraph of Application
+
+ Note 6 applies, and that methcathinone is the “most closely related substance” to
+
+ MDPV. Gov’t’s Mem. at 7.
+
+        Mr. Gagnon contends that this portion of Application Note 6 does not apply
+
+ because MDPV is not a “controlled substance that is not specifically referenced” in
+
+ the guidelines.    Gagnon Mem. at 3.         He refers to the “definition of controlled
+
+ substance”, (presumably is a reference to 21 U.S.C. § 802(6)) and observes that this
+
+
+
+
+ 19     Mr. Gagnon argues that the definition of controlled substances under § 802(6) includes
+ substances listed in Schedules I through V, and that pyrovalerone may thus be included in a
+ determination of which substance is most closely related to MDPV. The Court addressed the
+ applicability of § 802(6), however, and rejects his argument.
+
+                                              36
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 37 of 38           PageID #: 1417
+
+
+
+ definition “includes substances listed in Schedules I through V” and concludes that
+
+ this means that “one is not limited to schedules I through V.” Id.
+
+       Again, the Court concludes that the plain language of paragraph two of
+
+ Application Note 6 settles the issue. Specifically, the text makes clear that paragraph
+
+ two applies “[i]n the case of a controlled substance that is not specifically referenced
+
+ in this guideline . . . .” U.S.S.G. § 2D1.1 app. n. 6. The instant case does not involve
+
+ a controlled substance not specifically referenced in the guidelines, and thus the
+
+ second paragraph does not apply. Even though Mr. Gagnon is correct on this point,
+
+ it is of no moment because when analyzed under paragraph one of Application Note
+
+ 6, the Court is limited to “the meaning given the term ‘controlled substance analogue”
+
+ in 21 U.S.C. § 802(32)”, which is restricted to Schedules I and II, not to “controlled
+
+ substance” in 21 U.S.C. § 802(6), which is not so restricted.
+
+       Other than paragraph one’s limitation to Schedules I and II, the determination
+
+ of the substance for which MDPV is an analogue under § 802(32)(A)(i)-(ii) requires a
+
+ nearly identical analysis to paragraph two of Application Note 6, namely the chemical
+
+ and pharmacological similarity issues described above that the Court has resolved
+
+ against the Defendants.
+
+ VI.   JOINT PRE-SENTENCE CONFERENCE
+
+       The parties request a joint pre-sentence conference, with counsel for Mr.
+
+ Ketchen and co-defendants Ryan Ellis and Jacob Gagnon present, to review the
+
+ Court’s findings and prepare accordingly for sentencing.
+
+
+
+
+                                           37
+Case 1:13-cr-00133-JAW Document 706 Filed 06/11/15 Page 38 of 38                     PageID #: 1418
+
+
+
+ VII.   CONCLUSION
+
+        The Court concludes that a preponderance of the evidence supports the
+
+ determination that MDPV is a controlled substance analogue of methcathinone, and
+
+ that an evidentiary hearing on the matter is not necessary.20 The Court therefore
+
+ concludes that methcathinone is the appropriate substance to use in calculating the
+
+ Defendants’ base offense level. The Court grants the Defendants a joint pre-sentence
+
+ conference to review these findings and prepare for sentencing.
+
+        SO ORDERED.
+
+
+                                       /s/ John A. Woodcock, Jr.
+                                       JOHN A. WOODCOCK, JR.
+                                       UNITED STATES DISTRICT JUDGE
+
+ Dated this 11th day of June, 2015
+
+
+
+
+ 20      The Court finds support in the caselaw for its determination that MDPV is a controlled
+ substance analogue of methcathinone. See United States v. McFadden, 753 F.3d 432, 445 (4th Cir.
+ 2014); United States v. Orange, No. 3:12CR00009-4, 2012 WL 2053766 (W.D. Va. May 21, 2012). In
+ contrast, the scant caselaw discussing the relationship between MDPV and pyrovalerone suggests that
+ the two substances have different pharmacological effects on humans. See United States v. Lawton,
+ 2015 WL 136381 (D. Vt. Jan. 9, 2015) (citing anecdotal evidence indicating that “MDPV is at least 6-
+ 12 times more potent than . . . pyrovalerone” (emphasis in original)).
+
+                                                 38
+

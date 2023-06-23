@@ -1,0 +1,321 @@
+                              UNITED STATES DISTRICT COURT
+                                   DISTRICT OF MAINE
+
+CHRISTIAN TURNER,                               )
+                                                )
+                Petitioner,                     )
+                                                )
+        v.                                      )       1:15-cr-00040-JAW-2
+                                                )       1:18-cv-00153-JAW
+                                                )
+UNITED STATES OF AMERICA,                       )
+                                                )
+                Respondent                      )
+
+
+             RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+        In this action, Petitioner Christian Turner moves, pursuant to 28 U.S.C. § 2255,
+
+to vacate, set aside or correct his sentence. (Motion, ECF No. 735.) Following a guilty
+
+plea, Petitioner was convicted of conspiracy to distribute and possess with intent to
+
+distribute 280 grams or more of cocaine base, 21 U.S.C. §§ 846, 841(a)(1), 841(b)(1)(A)
+
+(Count 1); and conspiracy to violate federal firearms laws, 18 U.S.C. §§ 371, 924(a)(1),
+
+922(a)(3), 922(a)(5) (Count 3); the Court sentenced Petitioner to prison terms of
+
+300 months on Count 1, and 60 months on Count 3, to be served concurrently.1 (Judgment,
+
+ECF No. 542 at 1-2.)
+
+        Petitioner challenges the Court’s finding of a two-level sentencing guidelines
+
+enhancement for engaging in the offense conduct as a livelihood, USSG § 2D1.1(b)(15)(E)
+
+(imposed if the court finds “the defendant committed the offense as part of a pattern of
+
+
+
+1
+ Petitioner was not named in Count 2 of the indictment. (Corrected Indictment, ECF No. 80 at 3.)
+criminal conduct engaged in as a livelihood”). (Motion at 1; Sentencing Tr., ECF No. 625
+
+at 59.) Petitioner contends he is entitled to relief because, he alleges, sometime after his
+
+conviction, consent decrees were issued based on a federal finding concerning “a ‘pattern
+
+of racially motivated bias’ and ‘racist policies [and] practices’” by various law enforcement
+
+agencies involved in Petitioner’s past arrests. (Motion at 1.)
+
+       Following a review of Petitioner’s motion, the Government’s request for dismissal,
+
+and the record, I recommend the Court grant the Government’s request, and dismiss
+
+Petitioner’s motion.
+
+               I.      FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+       At sentencing, although Petitioner’s counsel asserted several factual disputes with
+
+the revised presentence investigation report, counsel did not dispute the facts in support of
+
+the enhancement for engaging in criminal conduct as a livelihood. (Sentencing Tr.,
+
+at 4-10.) Petitioner told the Court, in response to the Court’s inquiry, that other than the
+
+issues identified by counsel, Petitioner believed the information in the report to be true.
+
+(Id. at 10.)
+
+       The Court determined the guidelines calculation as follows: the base offense level
+
+was 34, because the offense involved at least 10,000 kilograms but less than 30,000
+
+kilograms of marijuana equivalent, pursuant to USSG § 2D1.1(c)(3).              (Id. at 59.)
+
+In addition    to   the   two-level   criminal   livelihood   enhancement,     pursuant   to
+
+USSG § 2D1.1(b)(15)(E), two levels were added for possession of a firearm, pursuant to
+
+USSG § 2D1.1(b)(1). (Id.) Four levels were added, pursuant to USSG § 3B1.1(a), because
+
+the Court found Petitioner was an organizer or leader of a conspiracy involving at least ten
+
+                                             2
+individuals. (Id. at 60.) The Court subtracted 3 levels for acceptance of responsibility,
+
+pursuant to USSG § 3E1.1. (Id.) The total offense level was 39. (Id.) Petitioner’s criminal
+
+history category was V, which, combined with a total offense level of 39, resulted in a
+
+guidelines range of 360 months to life in prison. (Id.)
+
+       Petitioner did not object to the guidelines range. (Id. at 61.) The Court concluded
+
+as to Count 1 that the upper end of the guidelines range was too harsh, and it imposed
+
+a 300-month sentence on Count 1, and 60 months on Count 3, to be served concurrently;
+
+the Court imposed supervised release terms of five years on Count 1, and three years on
+
+Count 3, to be served concurrently. (Id. at 78-79.) Judgment was entered on July 7, 2016.
+
+(Judgment at 1.)
+
+       Petitioner did not appeal from the conviction or the sentence. Petitioner states he
+
+signed and dated his section 2255 motion on April 2, 2018.2 (Motion at 1.) The motion
+
+was filed on April 6, 2018. (Id.)
+
+                                        II.     DISCUSSION
+
+       A. Legal Standards
+
+       A person may move to vacate his or her sentence on one of four different grounds:
+
+(1) “that the sentence was imposed in violation of the Constitution or laws of the United
+
+States”; (2) “that the court was without jurisdiction” to impose its sentence;
+
+
+
+2
+ Petitioner did not file his claim on a form 28 U.S.C. § 2255 motion; furthermore, he did not sign the
+motion under penalty of perjury, as required under Rule 2(b)(5) of the Rules Governing Section 2255
+Proceedings. See 28 U.S.C. § 1746. This recommended decision assumes, without recommending a
+decision on the issue, that if the Court did not dismiss the section 2255 motion, the Court would permit
+Petitioner to file a form motion, including the required declaration, if necessary.
+
+
+                                                   3
+(3) “that the sentence was in excess of the maximum authorized by law”; or (4) that the
+
+sentence “is otherwise subject to collateral attack.” 28 U.S.C. § 2255(a); see Knight v.
+
+United States, 37 F.3d 769, 772 (1st Cir. 1994).
+
+       The burden is on the section 2255 petitioner to establish by a preponderance of the
+
+evidence that he or she is entitled to section 2255 relief.        David v. United States,
+
+134 F.3d 470, 474 (1st Cir. 1998); United States v. DiCarlo, 575 F.2d 952, 954
+
+(1st Cir. 1978).
+
+       The timeliness of a section 2255 motion is governed by section 2255(f), which
+
+provides:
+
+       A 1-year period of limitation shall apply to a motion under this section. The
+       limitation period shall run from the latest of −
+
+            (1) the date on which the judgment of conviction becomes final;
+
+            (2) the date on which the impediment to making a motion created by
+            governmental action in violation of the Constitution or laws of the United
+            States is removed, if the movant was prevented from making a motion by
+            such governmental action;
+
+            (3) the date on which the right asserted was initially recognized by the
+            Supreme Court, if that right has been newly recognized by the Supreme
+            Court and made retroactively applicable to cases on collateral review; or
+
+            (4) the date on which the facts supporting the claim or claims
+            presented could have been discovered through the exercise of due
+            diligence.
+
+28 U.S.C. § 2255(f).
+
+       B. Claim and Analysis
+
+       The Government maintains that Petitioner’s motion is barred by the applicable
+
+statute of limitations set forth in 28 U.S.C. § 2255(f). (Response, ECF No. 740.)
+
+                                              4
+        Because Petitioner did not appeal from the conviction or the sentence, the judgment
+
+became final on July 21, 2016, which was 14 days after the entry of the judgment.
+
+See Fed. R. App. P. 4(b)(1)(A); Clay v. United States, 537 U.S. 522, 532 (2003) (“We hold
+
+that, for federal criminal defendants who do not file a petition for certiorari with this Court
+
+on direct review, § 2255’s one-year limitation period starts to run when the time for seeking
+
+such review expires.”). Given that Petitioner did not file the motion within one year of the
+
+date the judgment was final, the motion was not filed timely under section 2255(f)(1).3
+
+Petitioner, therefore, is not entitled to relief under section 2255(f)(1). Petitioner also
+
+alleges no facts that implicate either section 2255(f)(2) or (f)(3).
+
+        Because Petitioner alleges he learned facts after his conviction, he might intend to
+
+assert the claim pursuant to section 2255(f)(4). Petitioner’s allegations, however, do not
+
+support a claim for relief under section 2255(f)(4).4
+
+        Summary dismissal of a motion is permitted when the allegations are “‘vague,
+
+conclusory, or palpably incredible,’” even “‘if the record does not conclusively and
+
+expressly belie [the] claim.’”             David, 134 F.3d at 478 (quoting Machibroda v.
+
+United States, 368 U.S. 487, 495 (1962)). The Court can reasonably require a petitioner to
+
+
+3
+  Although the First Circuit has held “that section 2255(f) is non-jurisdictional” and that the one-year
+limitation period “is subject to equitable tolling in appropriate instances,” Ramos-Martínez v. United States,
+638 F.3d 315, 321, 322 (1st Cir. 2011), Petitioner’s motion does not allege any facts that raise an issue of
+equitable tolling. “A habeas petitioner bears the burden of establishing the basis for equitable tolling. To
+carry this burden, the petitioner must show ‘(1) that he has been pursuing his rights diligently, and (2) that
+some extraordinary circumstance stood in his way and prevented timely filing.’” 638 F.3d at 323 (citation
+and quotation marks omitted) (quoting Holland v. Florida, 560 U.S. 631, 649 (2010)).
+4
+  To the extent Petitioner alleges a newly discovered legal theory, as opposed to a newly discovered fact,
+the claim fails. See Barreto-Barreto v. United States, 551 F.3d 95, 99 n.4 (1st Cir. 2008)
+(noting “the discovery of a new legal theory does not constitute a discoverable ‘fact’ for purposes of
+§ 2255(f)(4)”).
+
+                                                      5
+supply the Court with salient details of the claim prior to permitting discovery or a hearing.
+
+Id. (concluding that “the district court did not abuse its discretion in refusing to license a
+
+fishing expedition”).        Petitioner does not allege which judgment or judgments he
+
+challenges on the basis of alleged racial bias, nor does he allege any specific facts about
+
+the alleged consent decrees or agency oversight issues upon which he relies to support his
+
+claim. He also fails to explain how any new facts might impact the Court’s criminal
+
+livelihood finding. (Motion at 1.) Petitioner’s allegations are vague, and therefore, the
+
+motion fails. See id.
+
+        Furthermore, to the extent Petitioner, by referencing his past arrests, intends to
+
+challenge any of the prior convictions on which his sentence was based, he is not entitled
+
+to relief, because his allegations do not implicate his right to counsel in the proceedings
+
+that led to the prior convictions. “[W]ith the sole exception of convictions obtained in
+
+violation of the right to counsel,” a petitioner has no right to collaterally challenge prior
+
+convictions during federal sentencing.              Daniels v. United States, 532 U.S. 374, 378
+
+(2001).5
+
+
+5
+  It is not clear whether Petitioner also contends the Court misapplied the sentencing guidelines regarding
+the enhancement for criminal livelihood under USSG § 2D1.1(b)(15)(e). However, to the extent Petitioner
+does intend to collaterally attack the enhancement for criminal livelihood, the claim is procedurally
+defaulted because Petitioner did not object at sentencing or raise the issue on appeal. See Bousley v. United
+States, 523 U.S. 614, 622 (1998) (“Where a defendant has procedurally defaulted a claim by failing to raise
+it on direct review, the claim may be raised in habeas only if the defendant can first demonstrate either
+‘cause’ and actual ‘prejudice,’ or that he is ‘actually innocent.’”) (citations omitted) (quoting Murray v.
+Carrier, 477 U.S. 478, 485 (1986)). In addition, Petitioner cannot demonstrate prejudice, because the 300-
+month sentence on Count 1 was lower than the low end of the 324 to 405 month range that would have
+applied had the Court not found the two-level criminal livelihood enhancement. Neither Petitioner’s
+allegations nor the record raises any issue of actual innocence.
+
+        Furthermore, claims of misapplication of the sentencing guidelines are generally not cognizable
+absent a “miscarriage of justice,” which Petitioner cannot demonstrate given the below-guidelines sentence.
+
+                                                     6
+                                         C.       CONCLUSION
+
+        Based on the foregoing analysis, an evidentiary hearing is not warranted under
+
+Rule 8 of the Rules Governing Section 2255 Cases. In addition, I recommend that the
+
+Court deny Petitioner’s motion for habeas relief under 28 U.S.C. § 2255. I further
+
+recommend the Court deny a certificate of appealability pursuant to Rule 11 of the Rules
+
+Governing Section 2255 Cases because there is no substantial showing of the denial of a
+
+constitutional right within the meaning of 28 U.S.C. § 2253(c)(2).
+
+                                                NOTICE
+
+               A party may file objections to those specified portions of a magistrate
+        judge’s report or proposed findings or recommended decisions entered
+        pursuant to 28 U.S.C. § 636(b)(1)(B) for which de novo review by the district
+        court is sought, together with a supporting memorandum, within fourteen
+        (14) days of being served with a copy thereof. A responsive memorandum
+        shall be filed within fourteen (14) days after the filing of the objection.
+
+               Failure to file a timely objection shall constitute a waiver of the right
+        to de novo review by the district court and to appeal the district court’s order.
+
+
+                                                          /s/ John C. Nivison
+                                                          U.S. Magistrate Judge
+
+        Dated this 6th day of September 2018.
+
+
+
+
+See United States v. Sevilla-Oyola, 770 F.3d 1, 12 (1st Cir. 2014) (noting “a § 2255 motion alleging a
+violation of federal law is generally cognizable only if it involves ‘a fundamental defect [that] inherently
+results in a complete miscarriage of justice, [or] an omission inconsistent with the rudimentary demands of
+fair procedure’”) (quoting Hill v. United States, 368 U.S. 424, 428 (1962)); United v. Morales-Arroyo,
+854 F.3d 118, 121 (1st Cir. 2017) (noting that in Sotirion v. United States, 617 F.3d 27, 38 (1st Cir. 2010),
+the Court found “no miscarriage of justice despite the sentencing court’s miscalculation of the advisory
+guideline range where the sentence fell below the upper-limit sought by the government”).
+
+                                                     7
+

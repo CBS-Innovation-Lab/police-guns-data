@@ -1,0 +1,802 @@
+Case 1:06-cr-00062-ML-PAS Document 142 Filed 02/06/14 Page 1 of 15 PageID #: 669
+
+
+
+                       UNITED STATES DISTRICT COURT
+
+                     FOR THE DISTRICT OF RHODE ISLAND
+
+
+
+ UNITED STATES
+
+       v.                                             CR. No. 06-062-ML
+
+ PEDRO MICHAEL GONCALVES
+
+
+
+                            MEMORANDUM AND ORDER
+
+       Petitioner Pedro Michael Goncalves(“Goncalves”), proceeding
+
+ pro se, has filed a timely motion to vacate, set aside, or correct
+
+ his sentence pursuant to 28 U.S.C. § 2255, based entirely on the
+
+ alleged ineffectiveness of both his appointed and his retained
+
+ counsel. For the reasons stated below, Goncalves’ motion is denied.
+
+       I.   Background and Travel
+
+       Goncalves was indicted by a grand jury on May 10, 2006 on
+
+ possession with intent to distribute cocaine and cocaine base in
+
+ violation of 21 U.S.C. §841(a)(1) and (b)(1)(A)-(C) (Counts I-III);
+
+ being a felon in possession of a firearm in violation of 18 U.S.C.
+
+ §922(g)(Count IV); and possession of a firearm in furtherance of a
+
+ drug trafficking crime in violation of 18 U.S.C. §924(c)(Count V).
+
+ (Dkt. No. 1). The details of the offenses with which Goncalves was
+
+ charged are set forth in United States v. Goncalves, 642 F.3d 245,
+
+ 247-248 (1st Cir. 2011), cert. denied, –U.S.–, 132 S.Ct. 596, 181
+
+ L.Ed.2d 437 (2011) and, therefore, only a brief summary is provided
+
+
+                                       1
+Case 1:06-cr-00062-ML-PAS Document 142 Filed 02/06/14 Page 2 of 15 PageID #: 670
+
+
+
+ here. However, the complicated procedural history of the case is
+
+ set forth in some detail.
+
+       In February 2006, after a confidential informant told law
+
+ enforcement that Goncalves was distributing drugs and was armed
+
+ with a semi-automatic handgun, Goncalves became the subject of
+
+ surveillance and several controlled drug buys. Id. at 247. On May
+
+ 3, 2006, after Goncalves became aware of the surveillance, he led
+
+ police on a high-speed chase which ended with Goncalves crashing
+
+ his car1    in his mother’s driveway in Pawtucket. Id. at 248.
+
+ Following his arrest, police found $1,081 in cash and two cell
+
+ phones on Goncalves. A search of the car revealed 65.43 grams of
+
+ powder cocaine hidden in the gas tank cap and a loaded and cocked
+
+ .45 caliber semi-automatic pistol hidden under the hood. Id. at
+
+ 248. During a search pursuant to a warrant, Police also found 10.43
+
+ grams of crack cocaine in Goncalves’ bedroom at his mother’s house
+
+ in   Pawtucket   and   92.43 grams     of     crack   cocaine      in Goncalves’
+
+ Providence     apartment,     together      with      a   selection    of   drug
+
+ paraphernalia. Id.
+
+       On May 15, 2006, an attorney was appointed to represent
+
+ Goncalves. On August 25, 2006, Goncalves entered a plea agreement
+
+ (Dkt. No. 18), but he withdrew the agreement just prior to the
+
+ scheduled    change    of   plea   hearing.    (Minute     Entry    10/17/2006).
+
+ Goncalves then parted ways with his court-appointed attorney and
+
+       1
+
+       At the time, the car was registered to Goncalves’s girlfriend.
+
+                                        2
+Case 1:06-cr-00062-ML-PAS Document 142 Filed 02/06/14 Page 3 of 15 PageID #: 671
+
+
+
+ retained private counsel to represent him. (Dkt. No. 31). On
+
+ November 15, 2006, Goncalves filed a motion for a Franks2 hearing
+
+ in which he sought to suppress all evidence found during the search
+
+ made pursuant to a warrant. (Dkt. No. 37).
+
+       On November 17, 2006, the government filed an Information
+
+ pursuant to 21 U.S.C. §851, giving notice that Goncalves had a
+
+ previous conviction for a felony drug offense which doubled the
+
+ mandatory minimum prison term on Count I from ten to twenty years.3
+
+ (Dkt. No. 40). The felony drug offense at issue related to a 2001
+
+ Rhode Island state court conviction (P2/01-1460A) for the delivery
+
+ of marijuana, for which Goncalves received a two-year suspended
+
+ sentence and two years’ probation. At the time of that offense,
+
+ Goncalves was 19 years old.
+
+       On November 30, 2006, Goncalves filed a motion to suppress the
+
+ crack cocaine and the weapon found in the car he was driving on the
+
+ day of his arrest. (Dkt. No. 47). After a hearing on Goncalves’
+
+ motions on January 4 and 5, 2007, the motion for a Franks hearing
+
+ was denied. Likewise, Goncalves’ motion to suppress the evidence
+
+
+       2
+
+      Franks v. Delaware, 436 U.S. 154, 98 S.Ct. 2674, 57 L.Ed.2d
+ 667 (1978).
+       3
+
+      Under the plea agreement, Goncalves would have been subject to
+ a mandatory minimum term of ten years on Count I, which indicated
+ that the government did not intend to file a §851 if Goncalves
+ proceeded with his guilty plea pursuant to the plea agreement. The
+ penalty for the gun offense in Count V was a mandatory consecutive
+ five-year term. Plea Agreement at 6-7 (Dkt. No. 18).
+
+                                       3
+Case 1:06-cr-00062-ML-PAS Document 142 Filed 02/06/14 Page 4 of 15 PageID #: 672
+
+
+
+ located in the car was denied. (Dkt. No. 58). The case proceeded to
+
+ trial.
+
+        On March 1, 2007, following a four-day trial before a jury,
+
+ Goncalves was convicted on all five counts of the indictment. (Dkt.
+
+ No.    69).   Sentencing           was   scheduled         for   June   15,    2007.    Upon
+
+ Goncalves’ request, the sentencing was rescheduled to June 18, 2007
+
+ (Docket Entry 06/08/2007). After Goncalves’ counsel raised a number
+
+ of sentencing issues at the June 18, 2007 sentencing hearing, he
+
+ was    granted     an   additional          60   days       to   develop   the      defense’s
+
+ argument. The sentencing was re-scheduled for August 23, 2007.
+
+ (Docket Entry 06/18/2007). That date was subsequently vacated, to
+
+ be    re-scheduled      at     a    later    date.         (Docket   Entry    07/27/2007).
+
+ Sentencing       was    then       scheduled         for   October   23,     2009    and,    at
+
+ Goncalves’ request, re-scheduled for October 29, 2007.
+
+        On October 7, 2009, Concalves requested a further continuation
+
+ of his sentencing to December 2009, noting that “[t]he House
+
+ Judicial [sic] Sub-Committee on Terrorism and Homeland Security in
+
+ July 2009, approved a bill designed to end the disparity in
+
+ sentencing for federal crack and powder cocaine offenses and there
+
+ is a strong likelihood of the bill passing when the House and
+
+ Senate reconvenes in November 2009.” Mot. Cont. Sentencing (Dkt.
+
+ No.107). The motion was granted and sentencing was re-scheduled for
+
+ December      8,   2009.       Goncalves         submitted       further     requests       for
+
+ continuation of the sentencing hearing on December 7, 2009 (Dkt.
+
+
+                                                  4
+Case 1:06-cr-00062-ML-PAS Document 142 Filed 02/06/14 Page 5 of 15 PageID #: 673
+
+
+
+ No. 108) and February 3, 2010 (Dkt. No. 110), both of which were
+
+ granted.
+
+       On March 19, 2010, Goncalves was sentenced to (1) twenty
+
+ years’ imprisonment on Counts I, II, and III, to run concurrently;
+
+ (2) ten years on Count IV, also to run concurrently; and (3) five
+
+ years on Count V, to run consecutively; all such sentences to be
+
+ followed by concurrent terms of supervised release. (Dkt. No. 115).
+
+ Goncalves’ motion for a downward departure was terminated on the
+
+ grounds that the case was a non-guideline case to which statutory
+
+ mandatory minimums applied. (Oral Order 03/19/2010).
+
+       On March 23, 2010, Goncalves appealed his conviction and
+
+ sentence, arguing that (1) the gun and powder cocaine found in his
+
+ car after his arrest should have been suppressed; and (2) his
+
+ sentence should be calculated under retroactive application of the
+
+ Fair Sentencing Act of 2010 (the “FSA”).
+
+       On August 3, 2010, the President signed the FSA which reduced
+
+ the mandatory minimums for certain drug crimes.            United States v.
+
+ Goncalves, 642 F.3d at 252. Under the FSA, the mandatory minimum
+
+ for 92.43 grams of crack cocaine with a prior drug felony would
+
+ have resulted in a sentence of ten years instead of the twenty
+
+ years Goncalves received on Count I; no          mandatory minimum would
+
+ have applied to Counts II and III.
+
+       On April 28, 2011, the First Circuit Court of Appeals affirmed
+
+ Goncalves’    conviction    after    determining    that   the   search    of
+
+
+                                       5
+Case 1:06-cr-00062-ML-PAS Document 142 Filed 02/06/14 Page 6 of 15 PageID #: 674
+
+
+
+ Goncalves’ car was valid. Id. at 251. With respect to Goncalves’
+
+ sentencing argument, the First Circuit concluded that the FSA was
+
+ “clearly inapplicable to this case,” while acknowledging that “in
+
+ human terms, the result is much less attractive.” Id. at 254-255.
+
+ Accordingly,     the   Court   of   Appeals   affirmed    the   twenty-year
+
+ mandatory minimum sentence on Count I, the concurrent sentences on
+
+ the weapons charge in Count IV, and the consecutive term imposed on
+
+ the weapons charge in Count V. Id. at 225.           Upon invitation by the
+
+ government, the sentences on Count II (which carried a mandatory
+
+ minimum of ten years) and on Count III (which did not carry a
+
+ mandatory minimum) were vacated and remanded for re-sentencing.
+
+ Subsequently, those two sentences were both modified to 97 months’
+
+ imprisonment, to run concurrently. (Dkt. No. 134).
+
+       Following the First Circuit’s decision on Goncalves’ direct
+
+ appeal, Goncalves filed a timely motion under 28 U.S.C. §2255 to
+
+ vacate, set aside, or correct sentence (Dkt. Nos. 132, 135) based
+
+ on the contention that he received ineffective assistance of
+
+ counsel.4 The government filed a response in opposition (Dkt. No.
+
+       4
+
+      The Court notes that, in a footnote to his memorandum,
+ Goncalves requests appointment of counsel and a hearing on his §
+ 2255 motion. Goncalves’ Mem. at Page 15 of 25, FN 5 (Dkt. No. 135).
+
+      With respect to the former, it is well established that “[a]
+ convicted criminal has no constitutional right to counsel with
+ respect to habeas proceedings[,]” and that includes habeas
+ petitions raising claims of ineffective assistance of counsel.
+ Ellis v. United States, 313 F.3d 636, 652 (1st Cir.2002). However,
+ the Court has the discretion to appoint counsel for an indigent
+ litigant in “exceptional circumstances[.]” Cookish v. Cunningham,
+
+                                       6
+Case 1:06-cr-00062-ML-PAS Document 142 Filed 02/06/14 Page 7 of 15 PageID #: 675
+
+
+
+ 139), to which Goncalves filed a reply. (Dkt. No. 141).
+
+       II. Standard of Review
+
+       Pursuant to Section 2255, “[a] prisoner in custody under
+
+ sentence of a court established by Act of Congress claiming the
+
+ right to be released upon the ground that the sentence was imposed
+
+ in violation of the Constitution or laws of the United States, or
+
+ that the court was without jurisdiction to impose such sentence, or
+
+ that the sentence was in excess of the maximum authorized by law,
+
+ or is otherwise subject to collateral attack, may move the court
+
+ which imposed the sentence to vacate, set aside or correct the
+
+
+
+ 787 F.2d 1, 2 (1st Cir.1986).
+      Because this Court deems the record of the case sufficient to
+ determine whether Goncalves received ineffective assistance of
+ counsel and Goncalves’ submissions demonstrate that he is entirely
+ capable of presenting his case, the Court concludes that this is
+ not an exceptional case which would benefit from the appointment of
+ counsel.
+      With respect to the latter, a hearing on a petitioner's § 2255
+ motion is required “unless it plainly appears from the motion, any
+ attached exhibits, and the record of prior proceedings that the
+ moving party is not entitled to relief.” Rule 4(b) of the Rules
+ governing Section 2255 Proceedings in the United States District
+ Courts, 28 U.S.C.A. § 2255. However, the Court may dismiss the
+ motion without a hearing where, even assuming that “the
+ petitioner's allegations are true, the petitioner would not be
+ entitled to relief, or where the court cannot accept the
+ petitioner's allegations as true because ‘they are contradicted by
+ the record, inherently incredible, or conclusions rather than
+ statements of fact.’” Fernandez-Malave v. United States, 502
+ F.Supp.2d 234, 241 (D.P.R., Jun. 30, 2007 (quoting Dziurgot v.
+ Luther, 897 F.2d 1222, 1225 (1st Cir.1990)).
+      In   this  case,   because   Goncalves’ contentions assert
+ conclusions and are contradicted by the record, the Court
+ determines that no evidentiary hearing is necessary.
+
+
+
+                                       7
+Case 1:06-cr-00062-ML-PAS Document 142 Filed 02/06/14 Page 8 of 15 PageID #: 676
+
+
+
+ sentence.” 28 U.S.C. § 2255(a).
+
+       Relief under Section 2255 is available only if the Court finds
+
+ a lack of jurisdiction, constitutional error, or a fundamental
+
+ error of law.      See United States v. Addonizio, 442 U.S. 178, 184-
+
+ 84, 99 S.Ct. 2235, 60 L.Ed.2d 805         (1979) (holding that “an error
+
+ of law does not provide a basis for a collateral attack unless the
+
+ claimed error constituted a ‘fundamental defect which inherently
+
+ results in a complete miscarriage of justice.’”)(quoting Hill v.
+
+ United States, 368 U.S. 424, 428, 82 S.Ct. 468, 471, 7 L.Ed.2d 417
+
+ (1962)). A fundamental error of law is a defect “‘which inherently
+
+ results in a complete miscarriage of justice’ or ‘an omission
+
+ inconsistent with the rudimentary demands of fair procedure.’”
+
+ Knight v. United States, 37 F.3d 769, 772 (1st Cir.1994) (quoting
+
+ Hill v. United States, 368 U.S. at 428, 82 S.Ct. at 471)).
+
+       Generally, claims of sentencing errors are not cognizable in
+
+ a § 2255 proceeding absent “exceptional circumstances;” however, a
+
+ petition does not face the same hurdle for claims of ineffective
+
+ assistance    of   counsel   regarding    sentencing.   Knight   v.   United
+
+ States, 37 F.3d 769, 773–74 (1st Cir.1994).
+
+       Under the Sixth Amendment, each defendant is guaranteed the
+
+ right to effective assistance of counsel. To prevail on a claim of
+
+ ineffective assistance of counsel, a petitioner must show: that (1)
+
+ counsel’s performance was deficient, i.e. “counsel's performance
+
+ fell below an objective standard of reasonableness;” and (2) the
+
+
+                                       8
+Case 1:06-cr-00062-ML-PAS Document 142 Filed 02/06/14 Page 9 of 15 PageID #: 677
+
+
+
+ deficient performance prejudiced the defense, i.e. “a reasonable
+
+ probability that, but for counsel's unprofessional errors, the
+
+ result of the proceeding would have been different.” Strickland v.
+
+ Washington, 466 U.S. 668, 687–88, 694, 104 S.Ct. 2052, 80 L.Ed.2d
+
+ 674 (1984).
+
+       To satisfy the first prong under Strickland, “the defendant
+
+ ‘must identify the acts or omissions of counsel that are alleged
+
+ not to have been the result of reasonable professional judgment,’
+
+ and the court then determines whether, in the particular context,
+
+ the identified conduct or inaction was ‘outside the wide range of
+
+ professionally competent assistance.’” United States v. Manon, 608
+
+ F.3d 126, 131 (1st Cir.2010) (quoting Strickland, 466 U.S. at
+
+ 690)). “Judicial scrutiny of the defense counsel's performance is
+
+ ‘highly deferential,’ and the defendant must overcome a ‘strong
+
+ presumption ... that, under the circumstances, the challenged
+
+ action ‘might be considered sound trial strategy.’” Bucci v. United
+
+ States, 662 F.3d 18, 30 (1st Cir. 2011)(quoting Strickland, 466
+
+ U.S. at 689, 104 S.Ct. 2052).
+
+       With    regard    to   the   second    prong,    “[t]o    demonstrate
+
+ ‘prejudice,’ the defendant must show ‘a reasonable probability
+
+ that, but for counsel's unprofessional errors, the result of the
+
+ proceeding would have been different.’” United States v. Rodriguez,
+
+ 675 F.3d 48, 57 (1st Cir. 2012)(quoting Porter v. McCollum, 558
+
+ U.S. 30, 38-39, 130 S.Ct. 447, 453, 175 L.Ed.2d 398 (2009)).
+
+
+                                       9
+Case 1:06-cr-00062-ML-PAS Document 142 Filed 02/06/14 Page 10 of 15 PageID #: 678
+
+
+
+  Although the defendant is not required to show “‘that counsel's
+
+  deficient conduct more likely than not altered the outcome’” of his
+
+  trial,[] it does require “‘a probability sufficient to undermine
+
+  confidence in [that] outcome.’” United States v. Rodriguez, 675
+
+  F.3d at 57 (quoting Porter, 558 U.S. at 43, 130 S.Ct. at 455–56)).
+
+       III. Goncalves’ § 2255 Motion
+
+       A. Application of the FSA
+
+       In his motion, Goncalves first alleges that counsel was
+
+  ineffective for “failing to move . . . [Goncalves’] sentencing date
+
+  in contemplation of the passing and presidential signing of the
+
+  [FSA].” Goncalves’ Mem. at Page 6 of 25 (Dkt. No. 135).                    As
+
+  Goncalves freely acknowledges, however, “counsel of record filed
+
+  for continuances through the proceedings.” Id. at Page 9 of 25. A
+
+  review of the record reveals that Goncalves’ counsel successfully
+
+  requested at least five continuances of the sentencing hearing.
+
+  Although the sentencing hearing was initially scheduled for June
+
+  15, 2007 (Docket Entry 03/02/2007), sentencing did not take place
+
+  until March 19, 2010, almost three years after the trial had
+
+  concluded. (Dkt. No. 115). During that time, counsel specifically
+
+  requested    continuances     “in   light   of   the   fact   that    several
+
+  Congressmen have introduced bills in both the House and the Senate
+
+  seeking to modify the disparities between crack cocaine and powder
+
+  cocaine.” Mot. Cont. Sentencing at 1 (Dkt. No. 107).
+
+       The    transcript   of   the   sentencing    hearing     also   supports
+
+
+                                       10
+Case 1:06-cr-00062-ML-PAS Document 142 Filed 02/06/14 Page 11 of 15 PageID #: 679
+
+
+
+  Goncalves’ acknowledgment that his counsel again addressed the
+
+  anticipated passage of the FSA at some length and argued for a
+
+  lower sentence on that ground. Transcript of Sentencing Hearing
+
+  03/19/2010 at 10:4-12:15, 13:22-14:6, 14:9-10.
+
+       At the time sentencing was imposed, it was unclear when, and
+
+  to what extent, the drug laws would be changed. Although the FSA
+
+  was enacted only four months after Goncalves’ sentencing, its
+
+  retroactivity was not established until 2012. See Dorsey v. United
+
+  States,   –    U.S.–,   132    S.Ct.    2321,    183    L.Ed.2d    250    (2012)
+
+  (determining    that    the   FSA   applied     to   offenders    whose   crimes
+
+  preceded the effective date of the FSA, but who were sentenced
+
+  after that date, August 3, 2010.)
+
+       Under those circumstances, and in light of the continuing and
+
+  successful efforts by Goncalves’ counsel to delay sentencing by
+
+  almost three years, counsel’s failure to request yet another
+
+  continuance cannot be said to fall “‘outside the wide range of
+
+  professionally competent assistance.’” United States v. Manon, 608
+
+  F.3d at 131 (quoting Strickland, 466 U.S. at 690). Moreover, there
+
+  is no indication that this Court would have granted such a request
+
+  and that it would have continued the hearing for more than four
+
+  months beyond the three years the matter was already pending.
+
+       B. Prior Ownership of Goncalves’ Car
+
+       As the second ground for his ineffective assistance of counsel
+
+  claim, Goncalves suggests that his counsel should have inquired
+
+
+                                         11
+Case 1:06-cr-00062-ML-PAS Document 142 Filed 02/06/14 Page 12 of 15 PageID #: 680
+
+
+
+  whether the car Goncalves was driving prior to his arrest had been
+
+  previously owned and whether it had been purchased at an auction or
+
+  dealership. Goncalves Mem. at Page 11 of 25. Goncalves broadly
+
+  contends that such an inquiry might have created reasonable doubt
+
+  as to his knowledge of the gun that was found wedged under the hood
+
+  of the car. Id.
+
+       The   record   in   this   case    reveals   that   police   knew   that
+
+  Goncalves regularly used the car to make drug deliveries, United
+
+  States v. Goncalves, 642 F.3d at 249, and that he had done so for
+
+  months preceding his arrest. Likewise, the police had been informed
+
+  that Goncalves possessed a handgun. Id. After Goncalves led police
+
+  on a high-speed chase, after which he “apparently [tossed] away the
+
+  key,” the gun was found “wedged under the hood - loaded and cocked
+
+  - where it could be retrieved with a single movement once the hood
+
+  was popped open.” Id. Goncalves’ flight from police “supported the
+
+  inference that drugs or guns - here, both- were knowingly concealed
+
+  within.” Id.
+
+       It is undisputed that Goncalves’ counsel sought to suppress
+
+  evidence of the gun and drugs found in the car. Goncalves’ Mot.
+
+  Suppress (Dkt. No. 47). The motion was denied by this Court and its
+
+  denial was upheld on direct appeal. United States v. Goncalves, 642
+
+  F.3d at 251. Nothing in the record or in Goncalves’ petition
+
+  suggests that further inquiry into the origin of the car would have
+
+  yielded evidence creating reasonable doubt as to the ownership
+
+
+                                         12
+Case 1:06-cr-00062-ML-PAS Document 142 Filed 02/06/14 Page 13 of 15 PageID #: 681
+
+
+
+  and/or possession of the gun. Rather, the evidence demonstrated
+
+  that Goncalves had been regularly using the car for an extended
+
+  period of time and that the gun was found fully loaded, within easy
+
+  access of Goncalves.
+
+       Under those circumstances, the absence of any inquiry into
+
+  prior ownership of the car cannot be deemed an “unprofessional
+
+  error,” nor is there any indication - in view of the overwhelming
+
+  evidence against Goncalves - that “the result of the proceeding
+
+  would have been different.” Strickland v. Washington, 466 U.S. at
+
+  687–88.
+
+       C. Goncalves’ Decision to reject the Plea Agreement
+
+       In his final argument, Goncalves states that neither his
+
+  appointed nor his retained counsel informed him that, even if
+
+  Goncalves had succeeded in suppressing evidence of the gun, he
+
+  still would have received an enhanced sentence under the guidelines
+
+  for possession of the gun based on statements by an informant.
+
+  Goncalves Mem. at Page 18-19 of 25.         Goncalves suggests that, had
+
+  he known of this fact, he would have taken the plea agreement
+
+  offered by the government. Id. at Page 20 of 25.
+
+       It is indisputable that this Court had no choice but to impose
+
+  a very significant sentence for the offenses of which Goncalves was
+
+  convicted at trial. It is also indisputable that, had Goncalves
+
+  entered a guilty plea, the statutory minimum sentence on Count I,
+
+  without   the   §851    enhancement,      would   have   been   ten   years’
+
+
+                                       13
+Case 1:06-cr-00062-ML-PAS Document 142 Filed 02/06/14 Page 14 of 15 PageID #: 682
+
+
+
+  imprisonment,     half     of   what   Goncalves     ultimately     received.    In
+
+  addition,     Goncalves     was   subject     to   the   consecutive    five-year
+
+  sentence for the gun offense in Count V.                      As such, the total
+
+  sentence Goncalves received was driven by statutory mandatory
+
+  minimums, not by application of the guidelines.
+
+        At the time Goncalves elected not to proceed with his plea
+
+  under the agreement, his motion to suppress had not been raised
+
+  yet. Accordingly, Goncalves made his decision to proceed to trial
+
+  without knowing whether or not the gun that was found during the
+
+  search of his car would be admitted. After the motion was denied,
+
+  the   resulting     consecutive        five-year    sentence      for   Goncalves’
+
+  conviction on Count V was statutorily mandated; it was not the
+
+  result of guideline enhancements for relevant conduct.
+
+        In other words, even if, as Goncalves now asserts, his counsel
+
+  failed to advise him that Goncalves could receive additional points
+
+  under   the    sentencing       guidelines     based     on    statements   by   an
+
+  informant, Goncalves fails to show how such an omission resulted in
+
+  “a reasonable probability that, but for counsel's unprofessional
+
+  errors, the result of the proceeding would have been different.”
+
+  United States v. Rodriguez, 675 F.3d at 57.
+
+        V.      Conclusion
+
+        For all of the foregoing reasons, Goncalves’ motion to vacate,
+
+  set aside, or correct his sentence is DENIED and DISMISSED.
+
+
+
+
+                                           14
+Case 1:06-cr-00062-ML-PAS Document 142 Filed 02/06/14 Page 15 of 15 PageID #: 683
+
+
+
+                  Ruling on Certificate of Appealability
+
+       Pursuant    to   Rule   11(a)   of   the   Rules   Governing   §   2255
+
+  Proceedings for the United States District Courts, this Court
+
+  hereby finds that this case is not appropriate for the issuance of
+
+  a certificate of appealability because Goncalves has failed to make
+
+  “a substantial showing of the denial of a constitutional right” as
+
+  to any claim, as required by 28 U.S.C. § 2253(c)(2).
+
+       Goncalves is advised that any motion to reconsider this ruling
+
+  will not extend the time to file a notice of appeal in this matter.
+
+  See Rules Governing § 2255 Cases, Rule 11(a).
+
+
+
+  SO ORDERED.
+
+
+
+  /s/ Mary M. Lisi
+
+  Mary M. Lisi
+
+  United States District Judge
+
+  February 6, 2014
+
+
+
+
+                                       15
+

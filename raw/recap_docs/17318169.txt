@@ -1,0 +1,331 @@
+         Case 1:08-cr-10025-GAO Document 44 Filed 10/15/09 Page 1 of 7
+
+
+
+                             UNITED STATES DISTRICT COURT
+                              DISTRICT OF MASSACHUSETTS
+
+                           CRIMINAL ACTION NO. 08-10025-GAO
+
+                                UNITED STATES OF AMERICA
+
+                                                v.
+
+                                     KHAREE CRISWELL,
+                                         Defendant.
+
+                                     OPINION AND ORDER
+                                        October 15, 2009
+
+
+O’TOOLE, D.J.,
+
+       The defendant, Kharee Criswell, is charged with being a felon in possession of a firearm
+
+and ammunition in violation of 18 U.S.C. § 922(g)(1). He was a passenger in a motor vehicle
+
+that was stopped by police, and now moves to suppress the firearm found in that car, as well as
+
+inculpatory statements he made thereafter. He claims that the stop of the car was not based on
+
+reasonable suspicion, and that police unconstitutionally prolonged the stop when they inquired
+
+about his identity. After an evidentiary hearing and consideration of the arguments of the parties,
+
+I conclude that the motion ought to be denied for the reasons explained below.
+
+I.     Facts
+
+       I find the following facts:
+
+       In the early morning of January 11, 2008, Criswell was the front seat passenger in a red
+
+Pontiac traveling on Dudley Street in Roxbury, Massachusetts. The car was driven by his
+
+girlfriend at the time, Teneer Brown. Another passenger, James Murray, was in a back seat.
+
+       Officer Brian Dunford of the Boston Police Department was driving alone in a marked
+
+police cruiser on Dudley Street approaching Hampden Street when he observed the red Pontiac
+         Case 1:08-cr-10025-GAO Document 44 Filed 10/15/09 Page 2 of 7
+
+
+
+proceeding in the opposite direction with one headlight “almost fully extinguished.” (Tr. of
+
+Evidentiary Hr’g 9:24 [hereinafter Tr.].) After the cars passed each other, Dunford made a U-
+
+turn and followed the Pontiac in order to initiate a traffic stop based on his observation of the
+
+malfunctioning headlight. Pictures of the vehicle taken shortly after the stop show that the car’s
+
+left front headlight was indeed malfunctioning, and Criswell’s counsel’s attempt to quarrel about
+
+whether an adjacent auxiliary light that was working was a “headlight” was, as Nero Wolfe
+
+would put it, flummery.
+
+       Criswell testified that the police car that stopped the Pontiac had come from a different
+
+direction and the officer could not have seen the front headlights. I am not persuaded by this
+
+testimony. Before the stop, it is doubtful that Criswell was paying close attention to the
+
+movements of other cars, including police vehicles. He was not driving, and there was no reason
+
+for him to be especially attentive to other traffic. He acknowledged that he was sometimes
+
+looking out the right side of the car as it drove. In addition, there was a police station not far
+
+away, and it is very possible Criswell saw a police car at one point and then after the stop
+
+assumed it was that car that had stopped the Pontiac. Moreover, the fact that the headlight was
+
+clearly malfunctioning supports Dunford’s version of the events leading up to the stop.
+
+Criswell’s version—that Dunford stopped the car without observing any traffic violation, but by
+
+his good fortune happened to find that the car had a broken headlight—would be plausible, but
+
+much less likely.
+
+       After Dunford activated his cruiser’s lights, the car turned the corner onto Warren Street
+
+and came to a complete stop. Dunford approached the driver’s window and asked Brown for her
+
+license and registration. She produced a learner’s permit. Dunford went to his cruiser for a short
+
+time (ten to twenty seconds, in Criswell’s estimation) and returned to the car. Because a person
+
+
+
+                                                2
+          Case 1:08-cr-10025-GAO Document 44 Filed 10/15/09 Page 3 of 7
+
+
+
+with a learner’s permit is only authorized to drive if a passenger in the vehicle has an active
+
+driver’s license, Dunford asked Criswell and Murray if they had driver’s licenses. Each replied
+
+that he did not.
+
+        Dunford asked both passengers for their names. Criswell told Dunford that his name was
+
+Elijah Mustafa. Dunford asked him to spell his first name, and Criswell spelled it “E-L-I-J-H-A.”
+
+Dunford asked for his birth date, and Criswell responded that it was 11/77, but could not provide
+
+a specific date when pressed.1 Dunford believed that he had been given a false name and radioed
+
+for backup. (Id. at 33:11–15.) Other officers arrived quickly, and Dunford told them that he
+
+believed he had been given fake names by the passengers in the Pontiac.
+
+        One of the other officers obtained Criswell’s identification, which was not a driver’s
+
+license. Dunford testified that one of the officers asked Criswell for it. Criswell testified, with
+
+evident annoyance, “I didn’t give anybody my identification; they took my identification,” and
+
+that he was standing outside the car when this occurred. (Id. at 47:9–13.) There was no evidence
+
+presented about exactly how he came to be outside the car, but both parties agree that he was
+
+asked to step out of the car at some point and he did. After Criswell stepped out of the car, one of
+
+the officers saw a firearm on the floor between the front passenger seat and the doorway.
+
+Criswell did not contest that the firearm was visible from outside the car when the passenger
+
+door was open. Criswell was placed in handcuffs and arrested after he told police that he lacked a
+
+firearms license.
+
+        At some point, Brown was arrested because of an outstanding Texas warrant, and for
+
+operating the vehicle without a license. She was also cited for operating without a license and for
+
+
+
+1
+  In his testimony, Criswell confirmed Dunford’s testimony about the false name and how he
+spelled it and also acknowledged that “basically” he had given “a fake date of birth.” (Id. at
+46:2–3.)
+                                                 3
+          Case 1:08-cr-10025-GAO Document 44 Filed 10/15/09 Page 4 of 7
+
+
+
+having a defective headlight. Murray was apparently also arrested because of an outstanding
+
+warrant. The owner of the car—Brown’s mother—later arrived and was allowed to drive the car
+
+home. Later, at the police station, Brown stated that she knew Criswell owned a gun, but did not
+
+know that he had it in the car. Criswell stated that the gun was his. While Criswell seeks to
+
+suppress his oral statements as the poisoned fruit of an unlawful detention at the scene of the
+
+traffic stop, he does not contend that the statements were involuntary or made without adequate
+
+Miranda warnings having been given.
+
+II.    Fourth Amendment Analysis
+
+       Although Criswell lacks standing to directly challenge the search of the car that yielded
+
+the gun, a passenger in a car that is stopped by police may challenge the constitutionality of the
+
+stop. See Brendlin v. California, 551 U.S. 249, 127 S.Ct. 2400, 2403 (2007); United States v.
+
+Sowers, 136 F.3d 24, 27 (1st Cir. 1998). The Fourth Amendment’s prohibition of unreasonable
+
+seizures is implicated by brief investigatory detentions, so-called Terry stops, which must be
+
+based on reasonable suspicion to be lawful. Terry v. Ohio, 392 U.S. 1, 19–20 (1968). In addition
+
+to the requirement that reasonable suspicion must be present to justify the seizure at its inception,
+
+the actions subsequently taken by police must be reasonably related in scope to the
+
+circumstances which justified the initial interference. Id.
+
+       A.      The Initial Stop
+
+       It is the government’s burden to prove that a warrantless stop of a vehicle was justified.
+
+United States v. Monteiro, 447 F.3d 39, 43 (1st Cir. 2006). The only basis asserted by Dunford
+
+for stopping the red Pontiac in which Criswell was riding was that it had a malfunctioning
+
+headlight. It is also undisputed that this traffic violation, if actually observed by Dunford,
+
+permitted him to lawfully stop the vehicle. See Whren v. United States, 517 U.S. 806, 810
+
+
+
+                                                  4
+         Case 1:08-cr-10025-GAO Document 44 Filed 10/15/09 Page 5 of 7
+
+
+
+(1996); United States v. Andrade, 94 F.3d 9, 12 (1st Cir. 1996). The question is whether Dunford
+
+in fact observed this traffic violation. As noted above, after consideration of the evidence
+
+presented by the parties, I find that he did. The stop of the vehicle, and consequently the
+
+vehicle’s occupants, was lawful.
+
+       B.      The Scope and Duration of the Stop
+
+       The justification for the traffic stop is only the first part of the Fourth Amendment
+
+analysis. It is also necessary to consider “whether the officer’s subsequent actions were fairly
+
+responsive to the emerging tableau—the circumstances originally warranting the stop, informed
+
+by what occurred, and what the officer learned, as the stop progressed.” United States v. Chhien,
+
+266 F.3d 1, 6 (1st Cir. 2001). The burden is on the government “to demonstrate that the seizure it
+
+seeks to justify on the basis of a reasonable suspicion was sufficiently limited in scope and
+
+duration to satisfy the conditions of an investigative seizure.” Florida v. Royer, 460 U.S. 491,
+
+500 (1983); see United States v. Acosta-Colon, 157 F.3d 9, 14 (1st Cir. 1998).
+
+       The firearm was found after one of the officers asked Criswell to step out of the car. After
+
+making a lawful traffic stop, police officers may, without cause, order the driver and other
+
+occupants out of the vehicle. Maryland v. Wilson, 519 U.S. 408, 415 (1997); Pennsylvania v.
+
+Mimms, 434 U.S. 106, 111 (1977). The Mimms-Wilson rule is a “bright-line” rule. See Wilson,
+
+519 U.S. at 413 & n.1. See also United States v. Ruidiaz, 529 F.3d 25, 32 (1st Cir. 2008) (noting
+
+that an officer may order a passenger out of a lawfully stopped car “as a matter of course”
+
+without “an independent fear for his safety”). Criswell’s argument is essentially that he could
+
+have been ordered out of the car at an earlier point, but not after officers had unlawfully
+
+expanded the scope of the stop by asking him questions about his identity. I agree that the ability
+
+of law enforcement to order an occupant out of a stopped vehicle lasts only so long as the lawful
+
+
+
+                                                5
+          Case 1:08-cr-10025-GAO Document 44 Filed 10/15/09 Page 6 of 7
+
+
+
+seizure. Once the officer has completed his investigation into the circumstances giving rise to his
+
+suspicion (both initial and emerging), officer safety—the primary justification behind the
+
+Mimms-Wilson rule—is assured simply by ending the encounter and moving along.
+
+       In this case, however, Criswell was lawfully ordered out of the vehicle.
+
+Even assuming arguendo that the reason for the initial stop did not justify the officers’ questions
+
+directed at determining Criswell’s identity, those questions did not prolong the stop. The
+
+duration of the stop was justified for reasons related to the driver, who was being written a
+
+citation for the defective headlight and for operating the vehicle without a license and also was
+
+being arrested because officers had learned that she had an outstanding warrant. Regardless of
+
+whether the officers initiated any coterminous investigation of Criswell, he was “as a practical
+
+matter . . . already stopped by virtue of the stop of the vehicle.” See Wilson, 519 U.S. at 413–14.
+
+“An officer’s inquiries into matters unrelated to the justification for the traffic stop . . . do not
+
+convert the encounter into something other than a lawful seizure, so long as those inquiries do
+
+not measurably extend the duration of the stop.” Arizona v. Johnson, -- U.S. --, 129 S.Ct. 781,
+
+788 (2009). He could therefore be ordered out of the car. See Wilson, 519 U.S. at 415.2
+
+       There being no constitutional violation, there is no basis for suppressing the firearm or
+
+Criswell’s statements.
+
+
+
+
+2
+  This case is therefore not analogous to United States v. Henderson, 463 F.3d 27, 46 (1st Cir.
+2006), where, apart from the challenged inquiry directed at a passenger, “there was no other
+reason to prolong the stop.” Moreover, in Henderson, the passenger’s person was searched
+incident to his arrest after the inquiry supplied the information for a computer records search that
+revealed (incorrectly, as it turned out) an outstanding arrest warrant. See id. at 28.
+                                                 6
+        Case 1:08-cr-10025-GAO Document 44 Filed 10/15/09 Page 7 of 7
+
+
+
+IV.   Conclusion
+
+      For the foregoing reasons, the Defendant’s Motion to Suppress Fruits of Warrantless Stop
+
+and Detention and Memorandum in Support (dkt. no. 20) is DENIED.
+
+      It is SO ORDERED.
+
+
+
+                                            /s/ George A. O’Toole, Jr.
+                                          United States District Judge
+
+
+
+
+                                             7
+

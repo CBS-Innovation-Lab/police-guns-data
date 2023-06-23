@@ -1,0 +1,3845 @@
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 1 of 76          PageID #: 1452
+
+
+
+                        UNITED STATES DISTRICT COURT
+                             DISTRICT OF MAINE
+
+
+ UNITED STATES OF AMERICA                )
+                                         )
+         v.                              )     1:03-cr-00033-JAW-01
+                                         )
+ WILLIAM LELAND                          )
+
+
+      ORDER DENYING MOTION FOR RECONSIDERATION OF ORDER ON
+      PETITION FOR WRIT OF AUDITA QUERELA PURSUANT TO THE ALL
+         WRITS ACT, 28 U.S.C. § 1651, DENYING MOTION TO EXPUNGE
+         CONVICTION, AND GRANTING PRO SE MOTION TO REDUCE
+                                  SENTENCE
+
+         On August 20, 2014, William Leland moved for reconsideration of his pro se
+
+ motion for writ of audita querela, which asked the Court to recalculate his sentencing
+
+ guideline range to eliminate a two-level enhancement for obstruction of justice, to
+
+ grant a three-level reduction for acceptance of responsibility, and to allow a further
+
+ two-level reduction pursuant to Amendment 782 of the United States Sentencing
+
+ Guidelines. Mr. Leland separately asks the Court to expunge his conviction for
+
+ possession of a firearm by a felon. Finally, he later filed a separate pro se motion to
+
+ reduce sentence. The Court denies the motion for reconsideration of its order denying
+
+ the motion for writ of audita querela, denies the motion to expunge his firearms
+
+ conviction, denies the motion based on ineffective counsel, but grants the motion for
+
+ reduction of sentence under Guidelines Amendment 782 and reduces his sentence
+
+ from 252 months to 201 months.
+
+ I.      BACKGROUND OF MOTION FOR WRIT OF AUDITA QUERELA
+         PURSUANT TO ALL WRITS ACT, 28 U.S.C. § 1651
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 2 of 76        PageID #: 1453
+
+
+
+       A.    Motion and Order
+
+       Sentenced on October 28, 2005 to 252 months of incarceration for seven federal
+
+ felonies, representing his leadership role in a major drug trafficking conspiracy
+
+ involving cocaine, methamphetamine, oxycodone, marijuana, and MDMA (Ecstasy)
+
+ and possession of a firearm by a felon, William Leland has waged a determined and
+
+ relentless campaign to obtain a court order reducing his sentence. The primary
+
+ source of Mr. Leland’s discontent is that the sentence was more severe than the one
+
+ he thought he was going to receive under the terms of the plea agreement with the
+
+ Government.
+
+             1.     The Plea Agreement
+
+       The plea agreement provided in part:
+
+             3. Pursuant to Fed. R. Crim. P. 11(c)(1)(B) the parties agree to
+       take the following positions at sentencing:
+
+             A. The parties agree to recommend that the Court find that the
+       Base Offense Level pursuant to U.S.S.G. § 2D1.1 is 32 and that the
+       amount of the narcotics and other illegal substances involved in all
+       reasonably foreseeable acts or omissions of the defendant and other co-
+       conspirators totals between 1,500 and 3,000 kilograms of marijuana on
+       the drug equivalency table.
+
+             B. The parties agree to recommend that the evidence does not
+       support a finding that any dangerous weapon (including a firearm) was
+       possessed in relation to any of the drug offenses.
+
+              C. The parties agree to recommend that the Court find that the
+       offense level should be increased by four (4) points under U.S.S.G. §
+       3B1.1(a) because the defendant was an organizer or leader of a criminal
+       activity that involved five or more participants or was otherwise
+       extensive.
+
+             D. The Government agrees to recommend that the Court find
+       that the Defendant has accepted responsibility for the offenses of
+
+                                          2
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 3 of 76            PageID #: 1454
+
+
+
+       conviction in the above-captioned Indictment, and that the Court should
+       reduce by 3 levels Defendant’s Adjusted Offense Level under U.S.S.G. §
+       3E1.1.
+
+              The Government reserves the right not to recommend a reduction
+       under U.S.S.G. § 3E1.1 if, at any time between his/her execution of this
+       Agreement and sentencing Defendant (a) fails to admit a complete
+       factual basis for the plea; (b) fails to truthfully admit his/her conduct in
+       the offenses of conviction; and (c) falsely denies or frivolously contests
+       relevant conduct for which Defendant is accountable under U.S.S.G. §
+       1B1.3. Defendant understands that he/she may not withdraw his/her
+       guilty plea if, for any of the reasons listed above, the Government does
+       not recommend that he/she receive a reduction in Offense Level for
+       acceptance of responsibility.
+
+       4. The Government and the Defendant agree to recommend that the
+       Court impose a period of imprisonment within the applicable guideline
+       range, in addition to restitution and supervised release to be determined
+       by the Court at the time of sentencing. The parties agree not to seek
+       any further additions or reductions to the guidelines, other than those
+       set forth in section Three. The parties agree not to seek nor recommend
+       any upward or downward departures. The parties expressly agree and
+       understand that these recommendations will not be binding on the
+       Court and should the Court reject the recommendations of the parties,
+       Defendant will not thereby be permitted to withdraw his/her guilty plea.
+       The parties agree and understand that the Court has the discretion to
+       impose any lawful sentence.
+
+ Agreement to Plead Guilty at 4-5 (ECF No. 207) (Plea Agreement).             Finally, in
+
+ paragraph 6, Mr. Leland agreed not to “appeal or collaterally attack any matter
+
+ pertaining to this prosecution and sentence as long as the sentence of imprisonment
+
+ is less than 210 months.” Id. at 5.
+
+              2.    The Rule 11 Hearing
+
+       On January 27, 2004, the Court engaged Mr. Leland in an extensive Rule 11
+
+ colloquy. Tr. of Proceedings at 1-29 (ECF No. 306). The Court specifically advised
+
+ Mr. Leland that the statutory maximum for two of the counts was life imprisonment.
+
+
+
+                                            3
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 4 of 76          PageID #: 1455
+
+
+
+ Id. at 7:15-23. The Court warned Mr. Leland that depending on the drug quantity,
+
+ there were statutory minimum sentences of either ten or five years. Id. at 8:21-9:8.
+
+ The Court reviewed detailed contents of the plea agreement with Mr. Leland. First,
+
+ the Court established that Mr. Leland was pleading guilty to the charged crimes
+
+ because he was actually guilty and that he was truthfully admitting to the facts
+
+ underlying the offenses:
+
+       THE COURT: Now, Mr. Leland, have you pled guilty to Counts 1, 2, 3,
+       6, 8, 10, and 14 of the second superseding indictment of this case because
+       you are actually guilty?
+
+       THE DEFENDANT: Yes.
+
+ Tr. of Proceedings at 5:16-19 (ECF No. 306) (Rule 11 Hr’g).
+
+ …………..
+
+       THE COURT: Now, as a part of your pleading guilty, I must find there’s
+       a factual basis for your guilty plea, and to assure myself there is such a
+       factual basis, I will be asking you questions about the conduct that gave
+       rise to these charges, and you must answer my questions truthfully. Do
+       you understand?
+
+       THE DEFENDANT: Yes, sir.
+
+ Id. at 16:8-14. Later, the Court returned to the prosecution version of the offenses
+
+ and asked Mr. Leland direct questions about the underlying facts:
+
+       THE COURT: Now, Mr. Leland, have you had an opportunity to review
+       [the] government’s version of the offense dated January 27, 2004?
+
+       THE DEFENDANT: Yes, sir.
+
+       THE COURT: I’m going to ask a very important question, Mr. Leland,
+       and I want your honest answer. Is there any respect with which you
+       disagree with what is set forth in government’s version of the offense
+       dated January 27, 2004?
+
+
+
+                                           4
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 5 of 76           PageID #: 1456
+
+
+
+       THE DEFENDANT: No, sir.
+
+       THE COURT: Is the information contained in the government’s version
+       of the offense dated January 27, 2004, true to your own personal
+       knowledge?
+
+       THE DEFENDANT: Yes, it is.
+
+ Id. 18:5-18. Before turning to the Plea Agreement, the Court directly asked Mr.
+
+ Leland whether anyone had threatened him or attempted to force him in any way to
+
+ plead guilty:
+
+       THE COURT: Now, the next part of this process, Mr. Leland, is for me
+       to assure myself that you’re pleading guilty today voluntarily, of your
+       own free will. So I am going to ask you a number of questions directed
+       to that issue. Has anyone threatened you or has anyone attempted to
+       force you to get you in any way to plead guilty?
+
+       THE DEFENDANT: No.
+
+ Id. 18:24-19:5.
+
+       The Court also questioned Mr. Leland closely about his understanding of the
+
+ Plea Agreement’s sentencing provisions:
+
+       THE COURT:           This contains a number of references to
+       recommendations that the parties agree to make to the court concerning
+       base offense levels and whether the evidence supports a finding of a
+       dangerous weapon possessed in relation to the drug offense, increases
+       in points, acceptance of responsibility, and other matters. Did you
+       review that paragraph before coming into court today?
+
+       THE DEFENDANT: Yes, I did.
+
+       THE COURT: What I want you to understand, Mr. Leland, is this. That
+       as far as sentencing is concerned, this plea agreement permits you and
+       your lawyer, Mr. Largay, and the prosecutor to make recommendations
+       to the court regarding sentencing, but the authority to determine the
+       appropriate sentence in this case rests with me as the judge in this court.
+       Do you understand that, sir?
+
+
+
+                                           5
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 6 of 76         PageID #: 1457
+
+
+
+       THE DEFENDANT: Yes, sir.
+
+       THE COURT: If I do not accept the recommendations, even those
+       recommendations that are set forth in paragraph 3, you will have no
+       right to withdraw your guilty plea. Do you understand?
+
+       THE DEFENDANT: Yes, I do.
+
+ Id. at 22:24-23:19.
+
+       The Court addressed with Mr. Leland the potential impact of the Sentencing
+
+ Guidelines:
+
+       THE COURT: I can’t determine the guideline sentence until I’ve read a
+       presentence report the probation office will prepare and until I’ve given
+       your lawyer and the prosecutor an opportunity to challenge the facts in
+       the probation office report. After I determine what guideline does apply
+       to the case, I still have the authority in some circumstances to impose a
+       sentence that is more severe or it could be less severe than the sentence
+       called for by the applicable guideline. Do you understand?
+
+       THE DEFENDANT: Yes, sir.
+
+       THE COURT: What I want you to understand, Mr. Leland, [is] that
+       even if I impose a sentence that is more severe than the one called for
+       by the applicable guideline, you will still not be permitted to withdraw
+       your guilty plea. Do you understand?
+
+       THE DEFENDANT: Yes, I do.
+
+ Id. 23:25-24:15.
+
+       Finally, the Court directly asked Mr. Leland whether there were any side deals
+
+ not set forth in the Plea Agreement:
+
+       THE COURT: Now, aside from this written plea agreement, has anyone
+       made any promises to you in an effort to get you to plead guilty?
+
+       THE DEFENDANT: No, sir.
+
+       THE COURT: Has anyone made any promises to you as to what kind of
+       sentence I will ultimately impose?
+
+                                          6
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 7 of 76          PageID #: 1458
+
+
+
+
+       THE DEFENDANT: No, sir.
+
+       THE COURT: Has anyone made any promises to you, other than what
+       is contained in paragraph 3 of the agreement to plead guilty? Has
+       anyone made any promises to you, other than what is set forth there - -
+
+       THE DEFENDANT: No.
+
+       THE COURT: - - as to what the prosecutor’s recommendation will be?
+
+       THE DEFENDANT: No.
+
+ Id. 25:3-17.
+
+                3.   The Presentence Report
+
+       On May 4, 2004, the Probation Office (PO) issued its first version of the
+
+ Presentence Report (PSR) in this case and it revised the PSR on May 26, 2004 and
+
+ October 19, 2005. PSR at 2. The PSR contained some disturbing news. Regarding
+
+ the PO’s comments on obstruction of justice, paragraph 60 of the PSR read:
+
+       In March 2004, following his guilty plea, defendant Leland wrote a letter
+       to members of the Hell’s Angels noting his desire to cause bodily injury
+       to codefendant Robert Stewart, as Stewart provided incriminating
+       information to authorities regarding Leland. Therefore, the defendant,
+       directly or indirectly, attempted to threaten, intimidate or otherwise
+       unlawfully influence a codefendant or witness. Further, in March 2004,
+       defendant Leland disseminated discovery material to others, including
+       prison inmates, known felons in the community and other Hell’s Angels.
+
+ Id. at 17. The PO recommended that the Court impose a two-level enhancement for
+
+ obstruction of justice and deny the three-level reduction for acceptance of
+
+ responsibility. Id. at 18. The PO calculated Mr. Leland’s offense level as follows: (1)
+
+ it began with a base offense level of 32 based on drug quantity, (2) it applied a two-
+
+ level dangerous weapons enhancement, (3) it applied a four-level organizer or leader
+
+
+
+                                           7
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 8 of 76           PageID #: 1459
+
+
+
+ enhancement (4) it recommended a two-level enhancement for obstruction of justice,
+
+ and (5) it denied acceptance of responsibility. The result was a total offense level of
+
+ 40.   Id. at 17-18.   The PO calculated Mr. Leland’s criminal history category at
+
+ Category II. Id. at 20. It arrived at a Guideline sentence range of imprisonment of
+
+ between 324 and 405 months. Id. at 23.
+
+              4.       The Motion to Withdraw the Guilty Plea
+
+        On January 19, 2005, Mr. Leland moved to withdraw his guilty plea. Mot. to
+
+ Withdraw Guilty Plea (ECF No. 279). In his motion, he argued that (1) he had
+
+ discovered that his wife was involved in an affair with one of the Government’s
+
+ confidential informants and that together they had plotted to put him in prison, (2)
+
+ his wife had the opportunity and apparent desire to place methamphetamine in the
+
+ vehicle in which he was traveling, (3) that there were repeated weight changes, color
+
+ changes, and packing differences in the alleged methamphetamine found in the spare
+
+ tire of the vehicle in which the Defendant was traveling, (4) that the Government
+
+ improperly seized the Defendant’s camera and film, (5) that the then-recent issuance
+
+ of the United States v. Booker, 543 U.S. 220 (2005) required that the Defendant be
+
+ allowed to withdraw his guilty plea, (6) that the Government failed to provide the
+
+ Defendant with all pertinent discovery, and (7) that Pamela Paradis, a co-conspirator,
+
+ admitted she perjured herself when she testified at Mr. Leland’s detention hearing.
+
+ Id. at 1-2. In the motion, Mr. Leland’s counsel wrote that “there are many issues with
+
+ the discovery that the Defendant believes support his claim of innocence.” Id. at 3.
+
+              5.       The Hearing on the Motion to Withdraw Guilty Plea
+
+
+
+                                           8
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 9 of 76          PageID #: 1460
+
+
+
+       On March 10, 2005, the Court held an oral argument on the motion to
+
+ withdraw the guilty plea at which Mr. Leland was present. Tr. of Proceedings (ECF
+
+ No. 290). During that hearing, his counsel confirmed that Mr. Leland was “without
+
+ knowledge that the methamphetamine was in the tire in the trunk of his car.” Id.
+
+ Attach. 1 at 32:25-33:3. He also asserted that he was in fact innocent of any of the
+
+ crimes to which he pleaded guilty, including the firearm possession charge. Id. at
+
+ 30:24-31:1 (“I conferred with him a moment ago, Your Honor.            He maintains
+
+ innocence with respect to more than just that one crime”); 33:25-34:2 (THE COURT:
+
+ “So he didn’t possess the firearm? MR. LARGAY: That’s what he maintains”).
+
+              6.    The Order on the Motion to Withdraw Guilty Pleas
+
+       On April 7, 2005, the Court denied Mr. Leland’s motion to withdraw his guilty
+
+ pleas. Order on Def.’s Mot. to Withdraw Guilty Plea (ECF No. 291).
+
+              7.    The Presentence Conference
+
+       At the final Presentence Conference on October 24, 2005, the Court raised the
+
+ question of the Probation Officer’s recommendation to impose an obstruction of
+
+ justice enhancement. Tr. of Proceedings at 5:25-8 (ECF No. 341) (Presentence Conf.
+
+ Tr.). The Court confirmed that Mr. Leland objected to the obstruction of justice
+
+ enhancement on two grounds: “First, that the letter about Mr. Stewart is not as some
+
+ would interpret it to be; and, secondly, that he didn’t disseminate discovery, rather,
+
+ the discovery was stolen from his cell.” Id. at 6:11-14. The Government took the
+
+ position that under the terms of the plea agreement, it could not argue for an
+
+
+
+
+                                           9
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 10 of 76           PageID #: 1461
+
+
+
+ obstruction enhancement. Id. at 6:15-20. The Court also discussed acceptance of
+
+ responsibility. Id. at 9:4-20.
+
+              8.     The Sentencing Hearing
+
+       The Court sentenced Mr. Leland on October 27, 2005. Tr. of Sentencing Hr’g
+
+ (ECF No. 339) (Sentencing Hr’g). During the sentencing hearing, the Court adopted
+
+ much of what the parties had agreed to in the Plea Agreement in calculating the
+
+ Guideline sentence range. The Court began with the base offense level of 32, Plea
+
+ Agreement ¶ 3(A); it added a four-level enhancement for leadership role, id. ¶ 3(C);
+
+ and, although the issue was a close one, the Court accepted the parties’ argument
+
+ that the firearms enhancement would not apply. Id. ¶ 3(B).
+
+                     a.     The Obstruction Enhancement
+
+       This left two issues: whether Mr. Leland had attempted to obstruct justice and
+
+ whether he should be accorded acceptance of responsibility. The obstruction of justice
+
+ issue first related to a letter in Mr. Leland’s distinctive handwriting to a man named
+
+ “David” discussing Robert Stewart, a codefendant and witness against Mr. Leland.
+
+ Sentencing Hr’g at 62-63. Referring to Mr. Stewart, Mr. Leland’s letter stated in part:
+
+       Sending some paperwork that you and others in your area will be
+       interested in . . . That bastard has been a rat since 2000. He told a lot
+       of lies about me.
+
+ Id. at 62. Mr. Leland’s letter then referred to a man named Alan McDougal and said:
+
+       Both of them have been rats for a long time . . . The club didn’t support
+       me through this because of them, and now the club knows the difference.
+       I hope they come around. Well, David, I always like you a lot and wanted
+       you to know what he was. I pray I meet him in here someday. He thinks
+       he’s tough. I’ll show the asshole what tough is. You take care of yourself.
+
+
+
+                                           10
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 11 of 76         PageID #: 1462
+
+
+
+ Id. Mr. Leland signed the letter “Your real friend, Bill Leland, Hells Angels.” Id. at
+
+ 62-63. Mr. Leland attached seven pages of investigative reports that detailed Mr.
+
+ Stewart’s involvement in the greater conspiracy.      Id. at 63.   At the end of the
+
+ investigative report, Mr. Leland wrote:
+
+       Look at that. The asshole gave up his in-laws. What a nice guy.
+
+ Id.
+
+       A second matter was a letter dated April 26, 2004 that Mr. Leland wrote his
+
+ son, Derek Leland, thanking him for “photocopying all that stuff on Omar and Donny
+
+ Grace.” Id. Mr. Leland says that the information “is going to help me a lot.” Id. He
+
+ asked his son to mark the information “Legal correspondence” in the lower right-hand
+
+ corner and mail it to Walter Cobb at the same address as his, namely the Maine State
+
+ Prison. Id. The Government produced evidence that Mr. Leland’s request to his son
+
+ violated the prison’s mail policy. Id. Omar and Don Grace were both prosecuted,
+
+ convicted and sentenced as members of Mr. Leland’s drug trafficking conspiracy. See
+
+ United States v. Don Grace, Docket No. 1:07-cr-00007-JAW, Docket No. 1:02-cr-
+
+ 00017-JAW; United States v. Omar Grace, Docket No. 1:02-cr-00017-JAW.
+
+       A third matter was the fact that when law enforcement executed a search
+
+ warrant at the Old County Road, Hampden, Maine residence of a man named Thomas
+
+ Dunroe, a known and convicted drug dealer, they came upon an extensive Drug
+
+ Enforcement Agency (DEA) investigative report, detailing the status of a number of
+
+ DEA investigations in the Bangor, Maine area. Sentencing Hr’g at 63-64. A cover
+
+ letter in the report was from Assistant United States Attorney (AUSA) Daniel Perry
+
+
+
+                                           11
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 12 of 76           PageID #: 1463
+
+
+
+ to Attorney Christopher Largay, who was Mr. Leland’s defense counsel, and the cover
+
+ letter referenced the criminal docket number of this case. Id. at 64.
+
+       Regarding Mr. Leland’s letter about Robert Stewart, the Court found that “it
+
+ constitutes a threat against Mr. Stewart” and observed that “I can’t understand any
+
+ other purpose in the letter other than to alert other individuals who may know Mr.
+
+ Stewart that he was acting as a witness against Mr. Leland and to have them take
+
+ the kinds of action that Mr. Leland promises to take.” Id. at 64-65. The Court noted
+
+ that the threat against Mr. Stewart was serious enough in itself, but that Mr. Leland
+
+ later filed a motion to withdraw his guilty plea and if that motion had been successful,
+
+ Mr. Stewart “would have been front and center during the course of that trial.” Id.
+
+ at 65. The Court found the information that Mr. Leland had received from his son
+
+ and had urged his son to send to Walter Cobb to involve Omar and Don Grace, “both
+
+ of whom are mentioned as being connected with Mr. Leland in the drug distribution
+
+ crime to which he has pleaded guilty.” Id. at 65. Finally, the Court said that “whoever
+
+ sent [the DEA] information to Mr. Dunroe had the intent to obstruct or interfere with
+
+ an ongoing governmental investigation.” Id. It offered two possibilities: Mr. Leland
+
+ or Attorney Largay. Id. at 65. Although Mr. Napolitano offered a third possibility,
+
+ namely another inmate, the Court noted that there was “no evidence other than what
+
+ I have before me” and the “only inference I can draw is that it was sent to Mr. Leland
+
+ and then found its way one way or the other from Mr. Leland’s cell to the Old County
+
+ Road.” Id. at 66-67.
+
+
+
+
+                                           12
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 13 of 76          PageID #: 1464
+
+
+
+       Based on all of this information, the Court applied the two-level obstruction of
+
+ justice enhancement under USSG § 3C1.1. Id. at 67-68. The Court concluded that
+
+ Mr. Leland’s letter to “David” was a threat against a material witness, that his letter
+
+ to Derek Leland was a violation of prison regulations and involved co-conspirators,
+
+ and that Mr. Leland was involved in the dissemination of information he had received
+
+ from his attorney that obstructed or attempted to obstruct an ongoing federal
+
+ investigation of Bangor area drug dealing. Id. at 67-68.
+
+                     b.    Acceptance of Responsibility
+
+       Unlike the obstruction of justice enhancement, where the Government did not
+
+ seek the enhancement pursuant to the terms of its Plea Agreement, the Government
+
+ actively argued that Mr. Leland should not receive the three-level reduction for
+
+ acceptance of responsibility under USSG § 3C1.1.        Id. at 69.   The Government
+
+ contended that Mr. Leland had breached the Plea Agreement by frivolously filing his
+
+ motion to withdraw his guilty plea and falsely contending that he was actually
+
+ innocent of the charged crimes. Id. The Government also noted that as the Court
+
+ had imposed the obstruction of justice enhancement, the Guidelines provide that
+
+ acceptance of responsibility should ordinarily not be given. Id.
+
+       The Court denied the acceptance of responsibility reduction because following
+
+ the guilty plea, Mr. Leland had repeatedly falsely claimed his innocence in letters to
+
+ the Court and by filing his motion to withdraw his guilty plea. Id. at 73-78.
+
+                     c.   Criminal History
+
+
+
+
+                                           13
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 14 of 76         PageID #: 1465
+
+
+
+       At the sentencing hearing, counsel agreed that Mr. Leland was a criminal
+
+ history category I, not II as was set forth in the PSR. Id. at 78.
+
+                     d.     Guideline Calculations
+
+       The Court found the base offense level to be 32. Id. at 81-82. The Court applied
+
+ the following enhancements: (1) a four-level organizer or leader enhancement under
+
+ USSG § 3B1.1(a), and (2) a two-level obstruction of justice enhancement under USSG
+
+ § 3C1.1. Id. at 82. The Court declined to apply the two-level dangerous weapons
+
+ enhancement, and declined to allow a reduction for acceptance of responsibility. Id.
+
+ The total offense level was 38 and the criminal history category was I, resulting in a
+
+ Guideline sentence of 235 to 293 months. Id. The Court imposed a 252-month
+
+ sentence in the lower end of the applicable Guideline sentence range. Id. at 102.
+
+       B.     Fourteen Post-Trial Motions
+
+       Mr. Leland has never accepted the 252-month sentence and has kept the courts
+
+ and Government busy responding to his numerous legal challenges to the sentence;
+
+ in particular, he rankles at the Court’s obstruction of justice and acceptance of
+
+ responsibility conclusions and has waged an unremitting and determined effort to
+
+ force the Court to alter its judgment and impose a more lenient sentence.
+
+       First, on October 31, 2005, he appealed to the First Circuit Court of Appeals
+
+ the Court’s denial of his motion to withdraw the guilty pleas and he complained about
+
+ the asserted ineffectiveness of his prior counsel. On September 22, 2006, the First
+
+ Circuit rejected Mr. Leland’s complaint about the motion to withdraw his guilty pleas
+
+ and concluded that his arguments about ineffective counsel were premature; it
+
+
+
+                                           14
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 15 of 76          PageID #: 1466
+
+
+
+ affirmed the judgment of conviction and sentence. United States v. Leland, 196 Fed.
+
+ App’x 9 (1st Cir. 2006).
+
+       Second, on January 29, 2007, acting on the First Circuit’s suggestion, Mr.
+
+ Leland moved to vacate, set aside, or correct his sentence pursuant to 28 U.S.C. §
+
+ 2255. Leland v. United States, Docket No. 07-10-JAW, Mot. Under 28 U.S.C. § 2255
+
+ to Vacate, Set Aside, or Correct Sentence by a Person in Federal Custody (ECF No. 1).
+
+ In that filing, Mr. Leland objected to the fact that he was not allowed to withdraw his
+
+ guilty pleas and he says that he tried to appeal that decision but his lawyer failed to
+
+ prosecute it after filing the notice of appeal. Id. at 5. He also complained that his
+
+ attorney had convinced him to plead guilty and that he did not understand that in
+
+ entering into the plea agreement, he was waiving his rights. Id. at 6. Mr. Leland
+
+ finally contended that his lawyer delayed the filing of the motion to withdraw the
+
+ guilty pleas and that the courts had held that delay against him in denying his
+
+ motion. Id. at 8.
+
+       The Court referred this motion to the Magistrate Judge for a recommended
+
+ decision and on June 13, 2007, the Magistrate Judge issued an eleven-page decision,
+
+ recommending that the § 2255 motion be denied. Recommended Decision on 28
+
+ U.S.C. § 2255 Mot. (ECF No. 8). On June 20, 2007, Mr. Leland moved for this Judge
+
+ to recuse himself from ruling on the § 2255 motion and objected to the Recommended
+
+ Decision. Mot. for Recusal (ECF No. 9); Def.’s Objections to Recommended Decision
+
+ 28 U.S.C. § 636(b)(1)(B) (ECF No. 10). On July 5, 2007, the Court issued a six-page
+
+ ruling, affirming the Recommended Decision and denying the motion to recuse.
+
+
+
+                                           15
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 16 of 76        PageID #: 1467
+
+
+
+ Order on Pl.’s Mot. for Recusal and on Magistrate Judge’s Recommended Decision
+
+ (ECF No. 13). Mr. Leland appealed that Order to the First Circuit Court of Appeals,
+
+ Notice of Appeal (ECF No. 16), and on December 17, 2007, the First Circuit Court of
+
+ Appeals denied his appeal in a brief opinion. J. (ECF No. 23).
+
+        Third, on September 24, 2008, Mr. Leland moved for a sentence reduction. Def.
+
+ William Leland’s Pro Se Mot. for Sentence Reduction (ECF No. 350). The basis of his
+
+ motion was that the Court erred when it imposed the two-level obstruction of justice
+
+ enhancement and denied the three-level reduction for acceptance of responsibility
+
+ and Mr. Leland urged the Court to impose the ten-year mandatory minimum term of
+
+ incarceration. Id. at 1-7. In his motion, Mr. Leland repeatedly mentioned that AUSA
+
+ Perry had told the Court that the Government was not seeking the enhancement. Id.
+
+ at 1-2. He also claimed that he had no idea how the DEA information had ended up
+
+ in Thomas Dunroe’s Hampden home and speculated that a man named Lance
+
+ Palmer, apparently a friend of Mr. Dunroe’s, who was an inmate at the Maine State
+
+ Prison while Mr. Leland was there, may have taken the discovery. Id. at 2-3. Mr.
+
+ Leland also claimed that he should have been accorded acceptance of responsibility.
+
+ Id. at 4-6.
+
+        On October 28, 2008, the Court denied Mr. Leland’s motion for sentence
+
+ reduction. Order Denying Def.’s William Leland’s Pro Se Mot. for Sentence Reduction
+
+ (ECF No. 354). Stating for the first time what was to become a recurring theme, the
+
+ Court explained to Mr. Leland that “the law severely constrains the ability of the
+
+ sentencing court to reduce a sentence and the grounds upon which it may do so.” Id.
+
+
+
+                                          16
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 17 of 76          PageID #: 1468
+
+
+
+ at 3. The Court quoted 18 U.S.C. § 3582(c) as stating the general rule that a “court
+
+ may not modify a term of imprisonment once it has been imposed.” Id. The Court
+
+ then reviewed the narrow circumstances that the law allows a sentencing judge to
+
+ revisit a sentence and determined that none of those circumstances was present in
+
+ Mr. Leland’s case. Id. Finally, the Court observed that Mr. Leland had the right to
+
+ challenge his sentence under 28 U.S.C. § 2255, but that he had already unsuccessfully
+
+ done so, and the law requires him to obtain the approval of the appellate court before
+
+ filing a second or successive § 2255 petition. Id. at 3-4.
+
+       Fourth, on November 5, 2009, Mr. Leland filed an application for leave to file
+
+ a second or successive motion to vacate his sentence under 28 U.S.C. § 2255. Appl.
+
+ for Leave to File a Second or Successive Mot. to Vacate, Set Aside or Correct Sentence
+
+ Under 28 U.S.C. § 2255 by a Prisoner in Federal Custody (ECF No. 356). But Mr.
+
+ Leland apparently quickly thought the better of it and withdrew the petition.
+
+ Withdrawal of Appl. for Leave to File a Second or Successive Mot. to Vacate, Set Aside,
+
+ or Correct Sentence Under 28 U.S.C. § 2255 (ECF No. 357).
+
+       Fifth, perhaps taking a cue from the Court’s October 28, 2008 opinion, Mr.
+
+ Leland attempted to obtain the First Circuit Court of Appeals’ approval to file a
+
+ second or successive petition under § 2255 based on newly discovered evidence and
+
+ on December 10, 2009, the First Circuit denied his application, explaining that
+
+ because the new evidence relates to sentencing issues and has no bearing on his
+
+ conviction, it “does not meet the stringent gatekeeping requirements applicable to
+
+ successive § 2255 petitions.” J. at 1 (ECF No. 359).
+
+
+
+                                            17
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 18 of 76           PageID #: 1469
+
+
+
+       Sixth, having failed to obtain the approval of the First Circuit Court of Appeals,
+
+ on January 6, 2010, Mr. Leland returned to this Court in an attempt to obtain
+
+ approval for a second or successive motion to vacate, set aside or correct the sentence.
+
+ Appl. for Leave to File a Second or Successive Mot. to Vacate, Set Aside or Correct
+
+ Sentence Under 28 U.S.C. § 2255 by a Prisoner in Federal Custody (ECF No. 360). On
+
+ February 9, 2010, the Court denied Mr. Leland’s application for a second or successive
+
+ motion to vacate, set aside, or correct his sentence under 28 U.S.C. § 2255. Order on
+
+ Appl. for Leave to File a Second or Successive Mot. to Vacate, Set Aside or Correct
+
+ Sentence Under 28 U.S.C. § 2255 by a Prisoner in Fed. Custody (ECF No. 363). Again,
+
+ on February 9, 2010, in a six-page decision, the Court explained to Mr. Leland that it
+
+ was “without authority to act on his petition.” Id. at 4-5. This was because Mr.
+
+ Leland’s direct appeal had been denied and his first § 2255 petition had been denied
+
+ as well. Id. The Court quoted the authorizing statute:
+
+       Before a second or successive application permitted by this section is
+       filed in the district court, the applicant shall move in the appropriate
+       court of appeals for an order authorizing the district court to consider
+       the application.
+
+ Id. at 5 (quoting 28 U.S.C. § 2244(b)(3)(A)). In other words, the Court explained to
+
+ Mr. Leland, “[b]efore this Court may act on his petition, the Court of Appeals must
+
+ first act favorably; here, the Court of Appeals has acted but unfavorably.” Id.
+
+       Seventh, on March 29, 2010, Mr. Leland filed another motion for resentencing.
+
+ Mot. for Resentencing (ECF No. 364). In this motion, he reiterated his position that
+
+ he knew nothing about Thomas Dunroe, that he merited a ten-year mandatory
+
+ minimum sentence, that he had made progress in jail and had learned his lesson, and
+
+                                           18
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 19 of 76                      PageID #: 1470
+
+
+
+ that the Court should “find it in your heart” to consider resentencing him. Id. at 1-4.
+
+ He attached an affidavit from Thomas Dunroe, who swore that he does not know Mr.
+
+ Leland, never met him, and never received anything in the mail from him. Id. Attach.
+
+ 1, Aff. of Thomas Dunroe at 1 (First Dunroe Aff.). On March 30, 2010, the Court
+
+ denied Mr. Leland’s motion. Order Denying Pro Se Mot. to Reduce Sentence (ECF No.
+
+ 365). In an eight-page opinion, the Court noted that it had already issued two orders
+
+ in which it had explained to him that it did not have the authority to reduce his
+
+ sentence, but it again reviewed the narrow circumstances where the law grants a
+
+ sentencing judge such authority and found that none of those circumstances applied.
+
+ Id. at 1-8. The Court ended by stating:
+
+        The Court takes Mr. Leland at his word and congratulates him for his
+        post-incarceration efforts at rehabilitation, but those efforts will have to
+        be their own reward.
+
+ Id. at 7-8.
+
+        Eighth, on June 23, 2010, Mr. Leland filed a motion to reduce sentence under
+
+ Rule 60. Mot. for Relief from a Final J. Under Rule 60(b)/(d) (ECF No. 366). He
+
+ again attached an affidavit from Thomas Dunroe that contained essentially the same
+
+ information as the affidavit attached to the March 29, 2010 motion. 1 Id. Attach. 1,
+
+
+
+
+ 1       On close examination, the first and second affidavits appear to be signed by different people
+ despite the fact that both were supposedly signed on February 12, 2009 by Thomas Dunroe.
+         In the first affidavit, Mr. Dunroe misspells his own last name. He adds an “s” to Dunroe,
+ making his last name “Dunroes.” In the second affidavit, he correctly spells his last name—without
+ the “s”. Furthermore, even though the signatures may be the handwriting of the same person, there
+ are subtle odd differences between the Dunroe signatures on both affidavits. See First Dunroe Aff. at
+ 2; Second Dunroe Aff. at 2.
+         Equally odd, the signatures of “Rose Marie Brooks”, the notary public before whom both
+ affidavits were signed, are entirely different and do not appear to be those of the same person. See
+ First Dunroe Aff. at 2; Second Dunroe Aff. at 2.
+
+                                                  19
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 20 of 76          PageID #: 1471
+
+
+
+ Aff. of Thomas Dunroe at 1 (Second Dunroe Aff.). Also, Mr. Leland denied that his
+
+ letter to “David” about Robert Stewart was threatening. Id. at 2. On September 7,
+
+ 2010, the Court denied this motion. Order Denying Mot. for Relief from Final J.
+
+ Under Rule 60(b)/(d) (ECF No. 371). The Court explained again in detail that it did
+
+ not have the authority to reduce his sentence, but it also addressed his assertion that
+
+ the letter to Mr. Stewart was not threatening. Id. at 1-6. The Court pointed out that
+
+ in the letter, Mr. Leland had called Mr. Steward a “bastard” and a “rat”, that he said
+
+ Mr. Stewart had “told a lot of lies about me”, that Mr. McDougal and Mr. Stewart had
+
+ been “rats for a long time”. Id. at 3. Mr. Leland also told “David” that the “club” did
+
+ not support him because of “them”, presumably Mr. Stewart and Mr. McDougal, and
+
+ now the club “knows the difference.” Id. Mr. Leland prayed that he would encounter
+
+ Mr. Stewart in prison so that he could “show the asshole what tough is.” Id.
+
+       In the opinion, the Court noted that other courts had imposed an obstruction
+
+ of justice enhancement in similar situations and that this Court had done so in
+
+ another case as well. Id. (citing United States v. Belskis, 477 F. Supp. 2d 237, 244-47
+
+ (D. Me. 2007) (applying the obstruction of justice enhancement when the defendant
+
+ called a confidential informant, accused her of being a DEA agent, and told her she
+
+ was “going to fucking get it”). But more to the point, the Court noted that Mr. Leland
+
+ “keeps filing the same motion, earnestly repeating his contention about the Dunroe
+
+ papers.” Id. at 5. The Court commented that it “remained convinced that Mr. Leland
+
+ knows full well that he was very angry with Mr. Stewart and that he threatened to
+
+ harm him.” Id. The Court concluded, “[i]n short, for the last time, the Court cannot
+
+
+
+                                           20
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 21 of 76          PageID #: 1472
+
+
+
+ grant Mr. Leland’s repeated motions because it does not have the authority to change
+
+ his sentence and because if it could, it would not.” Id. at 6.
+
+       Ninth, undeterred, on September 24, 2010, Mr. Leland moved this Court to
+
+ reconsider its order denying his motion for Rule 60 relief. Pro Se Appl. to Recons.
+
+ Pet’r’s Rule 60(b) (d) Mot. (ECF No. 374). On October 29, 2010, the Court denied the
+
+ motion. Order Denying Mot. for Recons. (ECF No. 376).
+
+       Tenth, on November 15, 2010. Mr. Leland filed the same motion for
+
+ reconsideration with the Court of Appeals for the First Circuit. Pro Se Mot. for Relief
+
+ Under 60(b) (d) (ECF No. 377). Once the Court determined that Mr. Leland had filed
+
+ the motion as a duplicate in this Court, the Court struck the motion on December 22,
+
+ 2010. Order to Strike Mot. to Reduce Sentence (ECF No. 381).
+
+       Eleventh, on November 23, 2011, Mr. Leland filed a motion to amend the PSR
+
+ on the ground that his sentence violated the terms of the Plea Agreement and that
+
+ the PSR attributed “ghost drugs”, namely drugs supplied by someone else and
+
+ distributed by other members of his conspiracy.        Pet. to Amend the Presentence
+
+ Investigation Report at 2-5 (ECF No. 382). Mr. Leland also asserted that Deputy
+
+ Chief Julie Morse of the District of Maine PO informed him that this Court “has the
+
+ jurisdiction to amend the P.S.I.” and that she further agreed that his objections were
+
+ “not resolved prior to sentencing.” Id. at 4-5 (emphasis in original). On January 4,
+
+ 2012, the Court denied Mr. Leland’s motion to amend the PSR. Order on Mot. to
+
+ Amend Presentence Report (ECF No. 384). The Court noted that Mr. Leland had
+
+ raised the Plea Agreement issue numerous times before, that it had been consistently
+
+
+
+                                            21
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 22 of 76          PageID #: 1473
+
+
+
+ rejected, and that the drug quantity calculation was consistent with the precise terms
+
+ of the Plea Agreement. Id. at 2-3. The Court also noted that it was too late for Mr.
+
+ Leland to raise questions about drug quantity and that he should have done so when
+
+ he appealed his sentence to the Court of Appeals. Id. at 3. Finally, the Court rejected
+
+ Mr. Leland’s characterization of Deputy Chief Morse’s September 19, 2011 letter and
+
+ the Court reiterated that it does not have the authority to rewrite a PSR over six
+
+ years after a sentencing. Id. at 4.
+
+       Twelfth, on January 19, 2012, Mr. Leland filed a motion for downward
+
+ departure. Mot. for Downward Departure Based on Extra Ordinary Confinement of
+
+ Fed. Inmate in a Non-Federal Pre-Trial Institution (ECF No. 385). Citing United
+
+ States v. Brinton, 139 F.3d 718 (9th Cir. 1998), Mr. Leland suggested that because he
+
+ was held in state prison during pretrial and presentencing phases, he should have
+
+ received a downward departure. Id. at 1-7. On March 5, 2012, the Court denied his
+
+ motion. Order on Mot. for Downward Departure (ECF No. 388). The Court reminded
+
+ Mr. Leland that it does not have the authority to reduce his sentence. Id. at 2. It
+
+ noted that in any event, the Brinton case would not have provided him any relief
+
+ because the Ninth Circuit Court of Appeals expressed skepticism about a district
+
+ judge’s decision to downward depart to account for time the defendant had spent in
+
+ state prison and the Ninth Circuit instructed the sentencing judge to reconsider the
+
+ ruling. Id. at 2-3.
+
+       Thirteenth, on February 23, 2012, Mr. Leland filed a motion for order of
+
+ transfer. Mot. for Order of Transfer (ECF No. 387). In that motion, Mr. Leland asked
+
+
+
+                                           22
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 23 of 76            PageID #: 1474
+
+
+
+ the Court to order the Bureau of Prisons to transfer him either to state prison in
+
+ Maine or to federal prison in Berlin, New Hampshire. Id. at 1-5. On April 11, 2012,
+
+ the Court denied Mr. Leland’s motion, explaining that the Bureau of Prisons, not the
+
+ sentencing judge, has the authority to place an inmate. Id. at 1-3.
+
+       Fourteenth, on February 3, 2014, the First Circuit Court of Appeals denied Mr.
+
+ Leland’s motion to correct sentence, noting that the motion was “in substance an
+
+ application for leave to file a second or successive application under 28 U.S.C. § 2255.”
+
+ J. at 1 (ECF No. 391).
+
+       C.     The Fifteenth Motion: Petition for Writ of Audita Querela
+
+       Mr. Leland’s fifteenth motion before either this Court or the Court of Appeals
+
+ is his motion for writ of audita querela. Pet. for Writ of Audita Querela Pursuant to
+
+ the All Writs Act, 28 U.S.C. § 1651 (ECF No. 392) (Def.’s Pet.). In his petition, Mr.
+
+ Leland says that “two (2) men were in prison and unavailable at the time of
+
+ sentencing that have since been freed and have signed sworn affidavits to prove
+
+ Petitioner did not commit Obstruction of Justice.” Id. at 2. He maintains that “the
+
+ Sixth Amendment requires juries, not judges, find facts relevant to sentencing.” Id.
+
+ Mr. Leland again denies knowing Thomas Dunroe or sending discovery to him and
+
+ he again insists that his letter to Robert Stewart was not threatening. Id. at 6-7. Mr.
+
+ Leland says that he entered into an oral plea agreement and that oral and written
+
+ plea agreements are different. Id. at 6, 8. Mr. Leland then argues that Attorney
+
+ Largay, his initial counsel, and Attorney Napolitano, his second lawyer, were
+
+ ineffective. Id. at 10-11. He asked the Court to reduce his sentence to “time served”
+
+
+
+                                            23
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 24 of 76         PageID #: 1475
+
+
+
+ or 159 months. Id. at 12. Mr. Leland asserts that the Court erred in relying on
+
+ statements in the PSR that he contested, that the Court’s enhancement findings were
+
+ insufficient, and that his sentence is too disparate from the sentences of other
+
+ members of the conspiracy.      Id. at 13-17.    Finally, Mr. Leland recalculates his
+
+ sentence omitting the two-level obstruction of justice enhancement, granting the
+
+ three-level acceptance of responsibility reduction, and reducing his sentence in
+
+ accordance with Amendment 782, resulting in a new Guideline range of 108 to 135
+
+ months. Id. at 18. He requests “immediate release.” Id.
+
+       D.      The Court’s Order on the Petition for Writ of Audita Querela
+
+       On January 14, 2015, citing eleven of its prior orders, the Court denied Mr.
+
+ Leland’s petition for writ of audita querela, Order on Pet. for Writ of Audita Querela
+
+ Pursuant to the All Writs Act, 28 U.S.C. § 1651 (ECF No. 407).
+
+       E.      Motion for Reconsideration
+
+       On February 6, 2015, Mr. Leland filed a motion for reconsideration. Mot. to
+
+ Recons. Pet’r’s Writ of Audita Querela Pursuant to the All Writs Act, 28 U.S.C. § 1651
+
+ (ECF No. 408) (Def.’s Mot.). Mr. Leland complains bitterly that the “merits of this
+
+ motion have never been ruled on.” Id. at 1 (emphasis in original). He argues:
+
+       1) He has “repeatedly submitted ‘4’ four sworn affidavits proving he did
+
+            not commit what the court said he did, which was obstruction of
+
+            justice;” id.;
+
+       2) The “prosecutor told the court multiple times that the government
+
+            did not seek the enhancement;” id.;
+
+
+
+                                           24
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 25 of 76           PageID #: 1476
+
+
+
+       3) Mr. Leland “has submitted Supreme Court caselaw that states that
+
+          a judge is an impartial arbiter and should only rule on the charges
+
+          brought on by the government;” id. at 1-2;
+
+       4) Mr. Leland “has submitted caselaw that states that informing
+
+          someone that they are under investigation is not Obstruction of
+
+          Justice,” that he “didn’t do that as the court accused him, but even if
+
+          he did, it is not Obstruction of Justice,” id. at 2;
+
+       5) Mr. Leland is “claiming Robert Napolitano was ineffective in these
+
+          motions, yet the government is misleading this court by telling you
+
+          that you’ve ruled on this allegation already. When in fact, this court
+
+          has ruled on the case petitioner filed against Chris Largay,
+
+          petitioner’s first counsel,” id.;
+
+       6) Mr. Leland says he was “deprived of this right to Due Process when
+
+          the court surprised him and the prosecutor when he was charged
+
+          with the crime of Obstruction of Justice at his sentencing. Petitioner
+
+          was not allowed to defend himself against these charges.           The
+
+          prosecutor objected, but the court wouldn’t listen.” Id. (emphasis in
+
+          original);
+
+       7) Mr. Leland says he is a pro se litigant and therefore, if he mislabeled
+
+          his motion, the Court has the obligation to “re-label it and either rule
+
+          on the merits of his motion or send it to the proper court so that they
+
+          can rule on the merits of his motion. That has never happen[ed]!
+
+
+
+                                              25
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 26 of 76           PageID #: 1477
+
+
+
+             That is why this petitioner has filed motion after motion.” Id. at 3
+
+             (emphasis in original);
+
+       8) Mr. Leland says that he is “Not Guilty of Obstruction of Justice and
+
+             should not be doing 21 years in prison when he was promised by the
+
+             United States Government that he would receive the minimum
+
+             mandatory 10 year sentence. Id. (emphasis in original);
+
+       9) Mr. Leland asserts that “[i]f the court would only rule on the merits
+
+             and look at the proof that petitioner keeps submitting to this court,
+
+             petitioner would never file another motion.” Id.
+
+       F.       A Letter Writing Campaign
+
+       With Mr. Leland’s motion for reconsideration, the Court received numerous
+
+ letters from his family and friends, asking the Court to impose a time served
+
+ sentence:
+
+       1) Letter dated February 15, 2015 from “Goodin” signed by “a concerned
+
+             community member, friend, a mother, a family member”;
+
+       2) Letter dated February 24, 2015 from Matt Leland, Mr. Leland’s youngest
+
+             brother;
+
+       3) Letter dated February 23, 2015 from Linda M. Smithson;
+
+       4) Letter undated from Thomas B. Leland, Mr. Leland’s brother;
+
+       5) Letter dated February 23, 2015 from Stacey Leland, Mr. Leland’s sister in
+
+             law;
+
+       6) Letter dated February 23, 2015 from Brenda O’Brien, Mr. Leland’s cousin;
+
+
+
+                                            26
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 27 of 76         PageID #: 1478
+
+
+
+        7) Letter dated February 24, 2015 from Molly Dunbar;
+
+        8) Letter undated from Virginia King, mother in law to Mr. Leland’s brother;
+
+             and
+
+        9) Letter undated from Allie Wilcox, Sr.
+
+ II.    DISCUSSION
+
+        The Court disagrees with Mr. Leland’s remonstration that it has never
+
+ explained why it cannot change his sentence. This Court and the Court of Appeals
+
+ have issued ruling after ruling, explaining that once a defendant exhausts a direct
+
+ appeal and once a defendant has filed an unsuccessful habeas corpus petition under
+
+ § 2255, the sentencing judge has virtually no authority to alter an imposed sentence.
+
+ Nevertheless, the Court will again set forth why it cannot legally change Mr. Leland’s
+
+ sentence for the reasons he has cited and why those reasons are in any event
+
+ insufficient.
+
+        A.    The Writ of Audita Querela
+
+        “The writ of audita querela, introduced during the reign of Edward III, is
+
+ sometimes available to reopen a judgment when an important matter concerning a
+
+ defendant’s case has arisen since the entry of judgment.” Trenkler v. United States,
+
+ 536 F.3d 85, 90 n.2 (1st Cir. 2008). The First Circuit described a writ of audita
+
+ querela, part of the All Writs Act, 28 U.S.C. § 1651, as “‘a common law writ
+
+ constituting the initial process in an action brought by a judgment defendant to
+
+ obtain relief against the consequences of the judgment on account of some matter of
+
+ defense or discharge arising since its rendition and which could not be taken
+
+
+
+                                          27
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 28 of 76                         PageID #: 1479
+
+
+
+ advantage of otherwise.’”2 United States v. Holder, 936 F.2d 1, 2 (1st Cir. 1991)
+
+ (quoting BLACK’S LAW DICTIONARY 120 (5th ed. 1979)). In Holder, the First Circuit
+
+ explained:
+
+         [I]f available at all [in criminal proceedings], the writ of audita querela
+         can only be available where there is a legal objection to a conviction,
+         which has arisen subsequent to that conviction, and which is not
+         redressable pursuant to another post-conviction remedy.
+
+ Id. at 5 (emphasis in original).3 Put differently, to obtain relief under audita querela,
+
+ a defendant must point to something “occurring since his conviction that would
+
+ render his conviction illegal.” Id. To assume that the writ could be available in some
+
+ cases, however, does not mean that it is available in Mr. Leland’s case.4
+
+         In any case, it is not. Although the First Circuit has stated that the writ of
+
+ audita querela may be available to “reopen a judgment when an important matter
+
+ concerning a defendant’s case has arisen since entry of the judgment”, Trenkler, 536
+
+
+
+ 2        The Holder Court noted that the writ of audita querela has been abolished under the civil
+ rules. Holder, 936 F.2d at 2 (citing FED. R. CIV. P. 60(b) (now (e)). However, the First Circuit observed
+ that in 1954, the United States Supreme Court held that the writ of coram nobis was still available in
+ criminal proceedings and the First Circuit concluded that the writ of audita querela may still be
+ available in criminal proceedings. Id.
+ 3        The First Circuit did not rule that the writ of audita querela is viable. The First Circuit
+ “emphasize[d] that nothing herein is meant to suggest our affirmative resolution of the difficult
+ question of the survival and availability of this ancient and some might think outmoded writ.” Holder,
+ 936 F.2d at 2. Following the First Circuit’s lead, the Court assumes without deciding that a writ of
+ audita querela is potentially available to Mr. Leland.
+          A cousin of the writ of audita querela is the writ of coram nobis. The difference between the
+ writ of coram nobis and the writ of audita querela is considered to be one of timing. The writ of coram
+ nobis may be used by a rendering court to “correct its own judgment on the basis of some patent error
+ affecting the validity or regularity of that judgment.” Trenkler, 536 F.3d at 90 n.2. As noted, the writ
+ of audita querela, in contrast, may be available to “reopen a judgment when an important matter
+ concerning a defendant’s case has arisen since entry of the judgment.” Id.
+ 4        Mr. Leland cites Kessack v. United States, No. CO5-1828Z, 2008 U.S. Dist. LEXIS 7739 (W.D.
+ Wash. Jan. 18, 2008) as support for his petition. Def.’s Pet. at 1. However, as the district court in
+ Rhode Island observed, Kessack’s “holding that the unavailability of § 2255 relief justifies proceeding
+ under the All Writs Act, 28 U.S.C. § 1651, is contrary to the law of this circuit.” Manjarres v. United
+ States, CR No. 00-049-ML, 2010 U.S. Dist. LEXIS 36214, at *15 (D.R.I. Apr. 13, 2010).
+
+                                                   28
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 29 of 76                         PageID #: 1480
+
+
+
+ F.3d at 90 n.2, the Court has noted that the writ of audita querela “does not and
+
+ cannot, under any stretch of imagination, provide a purely equitable basis for relief
+
+ independent of any legal defect in the underlying judgment”, Holder, 936 F.3d at *3.
+
+         The First Circuit further explained that a writ of audita querela is not
+
+ available to a petitioner when other remedies, such as a § 2255 petition, exist. See
+
+ Trenkler, 536 F.3d at 97 (“[W]hen a statute—like section 2255—specifically addresses
+
+ a particular class of claims or issues, it is that statute, not the All Writs Act, that
+
+ takes precedence. The armamentarium of common-law writs . . . is thus available
+
+ only to fill whatever interstices exist in the post-conviction remedial scheme made
+
+ available to federal prisoners by way of section 2255.” (internal citation omitted)).
+
+ The First Circuit directed, “[w]here a prisoner has filed a motion for relief under one
+
+ of the common law writs, the court must examine the substance of the motion to
+
+ determine whether the claim is one that would be cognizable under section 2255.”
+
+ United States v. Rivera-Lebron, 410 Fed. Appx. 352, 353 (1st Cir. 2011).5
+
+         The first problem is that to the extent Mr. Leland has raised or could have
+
+ raised these issues, he cannot raise them again through a writ of audita querela and
+
+ to the extent he has not raised them previously, he must pursue his claims under §
+
+ 2255. With one possible exception, all of the issues that Mr. Leland lists in his motion
+
+ for writ of audita querela and his motion for reconsideration are equitable, were
+
+ available to him at the time of sentencing, and could have been presented either to
+
+
+
+ 5       Even if the Court were to conclude that Mr. Leland’s claims are cognizable under § 2255, Mr.
+ Leland has already filed multiple § 2255 petitions, and to the extent that he wishes to file a successive
+ petition, he must first obtain approval from the First Circuit. See 28 U.S.C. § 2255(h).
+
+                                                    29
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 30 of 76                        PageID #: 1481
+
+
+
+ the Court of Appeals on direct appeal or to this Court and the Court of Appeals under
+
+ his § 2255 petition.6
+
+        As of October 2005 or shortly thereafter, Mr. Leland was aware: (1) that the
+
+ Court, not a jury, had made the Guideline determinations; (2) that he maintained
+
+ that he had not sent the investigative material to Mr. Dunroe, (3) that he contended
+
+ he had entered into a so-called oral plea agreement, (4) that he thought his first
+
+ lawyer had been ineffective, (5) that he thought his second lawyer had been
+
+ ineffective, (6) that he believed the Court had relied on the PSR to make factual
+
+ findings, (7) that he believed the Court had failed to adequately explain its rulings,
+
+ (8) that the prosecutor had told the Court that the Government was not seeking the
+
+ obstruction of justice enhancement, (9) that in his view, the Court had ruled on issues
+
+ not raised by the parties, (10) that in his view, sharing investigative material with a
+
+ third person is not obstruction of justice, and (11) that he said he did not know about
+
+ the obstruction of justice possibility until the sentencing hearing.
+
+        Here, Mr. Leland points to nothing occurring “subsequent to the conviction”
+
+ that would render it illegal, thus rendering his petition and motion eligible for
+
+ dismissal under audita querela on that basis alone. See Holder, 936 F.2d at 5.
+
+ Whatever else may be said about these issues, Mr. Leland knew about them a long
+
+ time ago and nearly fifteen years after his sentence, he demands that the Court rule
+
+
+
+
+ 6       The only possible exception is his later procuring of the affidavits from Mr. Dunroe and others
+ about the dissemination of investigative material, which the Court separately addresses. But Mr.
+ Leland’s “‘4’ four sworn affidavits” supposedly “proving he did not commit what the court said he did,
+ which was Obstruction of Justice” are new facts, not new law, and the Supreme Court and the First
+ Circuit require new law for a writ of audita querela. Morgan, 346 U.S. at 511; Hager, 993 F.2d at 5.
+
+                                                   30
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 31 of 76         PageID #: 1482
+
+
+
+ on them pursuant to a petition for a writ of audita querela. None of the issues he
+
+ raises presents the Court with law that has changed since his sentencing.
+
+       Nevertheless, because Mr. Leland is a pro se defendant, the Court considers
+
+ his claims as if filed as a petition for a writ of coram nobis, which was available at
+
+ common law to correct errors of fact, see United States v. Morgan, 346 U.S. 502, 507
+
+ (1954)..
+
+       Addressing coram nobis, the First Circuit set forth the applicable standards:
+
+       [T]he writ of coram nobis is an unusual legal animal that courts will use
+       to set aside a criminal judgment of conviction only “under circumstances
+       compelling such action to achieve justice.”
+
+ Hager v. United States, 993 F.2d 4, 5 (1st Cir. 1993) (quoting Morgan, 346 U.S. at
+
+ 511). The Hager Court explained:
+
+       Those circumstances include an explanation of why a coram nobis
+       petitioner did not earlier seek relief from the judgment, a showing that
+       the petitioner continues to suffer significant collateral consequences
+       from the judgment, and a demonstration that an error of “the most
+       fundamental character,” relevant to the plea decision, occurred.
+
+ Id. (quoting in part Morgan, 346 U.S. at 512); Manjarres, 2010 U.S. Dist. LEXIS
+
+ 36214, at *14.
+
+       The Court accepts for purposes of this Order that Mr. Leland is suffering
+
+ “significant collateral consequences” from the errors he contends the Court has made.
+
+ It turns therefore to whether these purported errors were in fact errors at all, much
+
+ less errors of “a fundamental character.” Id.
+
+       B.     Claimed Errors
+
+              1.    The Role of the Judge in Guideline Findings
+
+
+
+                                          31
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 32 of 76         PageID #: 1483
+
+
+
+       In his motion, Mr. Leland says that “the Sixth Amendment requires juries, not
+
+ judges, to find facts relevant to sentencing.” Def.’s Pet. at 2. He is wrong. The
+
+ Supreme Court has determined that juries, not judges, must find facts relevant to the
+
+ application of a statutory maximum and a statutory minimum. Apprendi v. New
+
+ Jersey, 530 U.S. 466 (2000) (statutory maximum); Alleyne v. United States, 133 S. Ct.
+
+ 2151 (2013) (statutory minimum). The basis of the Supreme Court’s rulings is that
+
+ “any fact that, by law, increases the penalty for a crime is an ‘element’ that must be
+
+ submitted to the jury and found beyond a reasonable doubt.” Butterworth v. United
+
+ States, 775 F.3d 459, 462 (1st Cir. 2015) (quoting Alleyne, 133 S. Ct. at 2155). The
+
+ First Circuit has distinguished jury findings that determine statutory maximums and
+
+ minimums from judicial findings that determine the application of provisions of
+
+ advisory Guideline provisions. United States v. Correy, 773 F.3d 276, 280 n.4 (1st
+
+ Cir. 2014) (“[F]actual findings made for purposes of applying the Guidelines, which
+
+ influence the sentencing judge’s discretion in imposing an advisory Guidelines
+
+ sentence and do not result in the imposition of a mandatory minimum sentence, do
+
+ not violate the rule in Alleyne”).
+
+              2.     Claimed Surprise and Due Process Deprivation
+
+       Mr. Leland’s next contention is that he was “deprived of his right to Due
+
+ Process when the court surprised him and the prosecutor when he was charged with
+
+ the crime of Obstruction of Justice at his sentencing. Petitioner was not allowed to
+
+
+
+
+                                          32
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 33 of 76                           PageID #: 1484
+
+
+
+ defend himself against these charges. The prosecutor objected, but the court wouldn’t
+
+ listen.” Def.’s Mot. at 2 (emphasis in Defendant’s motion). This is simply not correct.7
+
+         The PSR contained the following statement in paragraph 60:
+
+         In March 2004, following his guilty plea, defendant Leland wrote a letter
+         to members of the Hell’s Angels noting his desire to cause bodily injury
+         to codefendant, Robert Stewart, as Stewart provided incriminating
+         information to authorities regarding Leland. Therefore, the defendant,
+         directly or indirectly, attempted to threaten, intimidate or otherwise
+         unlawfully influence a codefendant or witness. Further, in March 2004,
+         defendant Leland disseminated discovery material to others, including
+         prison inmates, known felons in the community and other Hell’s Angels.
+
+ PSR ¶ 60. In the PSR, the PO recommended application of the two-level obstruction
+
+ of justice enhancement. Id. ¶ 70. The PSR confirmed that Mr. Leland objected to the
+
+ application of the obstruction of justice enhancement. Id.; Second Addendum to the
+
+ PSR dated October 19, 2005 at 2.
+
+         On October 24, 2005, the Court held a presentence conference with counsel,
+
+ including Mr. Leland’s new lawyer, Robert Napolitano, to discuss issues likely to
+
+ come up at Mr. Leland’s sentencing. Presentence Conf. Tr. at 1-31. Contrary to Mr.
+
+ Leland’s contention that the obstruction of justice enhancement first arose at the
+
+ sentencing hearing itself, the PO’s recommendation of an obstruction of justice
+
+ enhancement was a primary issue under discussion at the Presentence Conference.
+
+
+
+
+ 7        Mr. Leland is correct only about the allegations involving Omar and Don Grace. These
+ allegations arose after the presentence conference. But he is simply incorrect that the possibility of
+ an obstruction of justice enhancement arose for the first time at the sentencing hearing. The record
+ reflects that the Court engaged in a detailed discussion about the possibility of an obstruction of justice
+ enhancement at the presentence conference before the sentencing hearing based on the contents of the
+ revised PSR, which itself had been available before the presentence conference.
+
+                                                    33
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 34 of 76         PageID #: 1485
+
+
+
+ Id. at 5:25-9:3. At the Presentence Conference, the Court characterized the parties’
+
+ positions:
+
+       THE COURT:
+
+       Let’s turn to the next question here, and let me be - - let me try and
+       understand what remains in terms of the objections and what doesn’t.
+       Under the terms of the presentence investigation report, there has been
+       a recommendation that an obstruction of justice enhancement apply to
+       Mr. Leland on two bases: First, a letter that he wrote about Robert
+       Stewart, a codefendant; and second, an allegation that he disseminated
+       discovery that had been provided to him by the government prior to trial
+       and prior, obviously, to the plea.
+
+       The defendant, as I understand it, has objected to the application of the
+       obstruction of justice enhancement on two grounds: First, that the letter
+       about Mr. Stewart is not as some would interpret it to be; and, secondly,
+       that he didn’t disseminate discovery, rather, the discovery was stolen
+       from his cell.
+
+       And the government, as I understand it, has taken the position that
+       under the terms of its plea agreement it cannot argue for obstruction.
+
+       Have I correctly stated the positions of the parties?
+
+       MR. NAPOLITANO: Yes - -
+
+       MR. PERRY: That’s correct, Your Honor.
+
+       MR. NAPOLITANO: - - at least that’s my position.
+
+ Id. at 5:25-6:21. The Court informed counsel that if Mr. Leland objected to the
+
+ contents of the PSR either regarding the letter about Mr. Stewart or the
+
+ dissemination of discovery, the Court “will have no factual basis upon which to make
+
+ a decision about obstruction unless somebody presents evidence to me.” Id. at 7:18-
+
+ 24. Mr. Napolitano confirmed that “that would be his position.” Id. at 7:25.
+
+
+
+
+                                          34
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 35 of 76            PageID #: 1486
+
+
+
+       To place the parties’ positions into context, the Government entered into a Plea
+
+ Agreement with Mr. Leland, which in Section Three contained a number of
+
+ agreements about what the Government would recommend to the Court at the
+
+ sentencing hearing. Plea Agreement at 4-5.       The Plea Agreement also specifically
+
+ provided that “[t]he parties agree not to seek any further additions or reductions to
+
+ the guidelines, other than those set forth in section Three. The parties agree not to
+
+ seek nor recommend any upward or downward departures.”               Id. at 5.   At the
+
+ Presentence Conference, AUSA Perry indicated to the Court that the Government
+
+ viewed the Plea Agreement as prohibiting its support of the PO’s obstruction of justice
+
+ enhancement.     Presentence Conf. Tr. at 7:11-12 (“Under the terms of the plea
+
+ agreement, we are not advocating that obstruction . . . .”).
+
+       In light of the Government’s position, the Court raised the question of how it
+
+ could rule on the applicability of the obstruction enhancement if Mr. Leland, which
+
+ he promised to do, objected to the contents of the PSR. Id. at 7:16-24 (THE COURT:
+
+ “I don’t know what the facts are, and I - - if Mr. Leland at the time of sentencing says,
+
+ look, I don’t agree with the terms - - what is contained in the presentence
+
+ investigation report regarding either the letter to Mr. Stewart - - about Mr. Stewart
+
+ or the dissemination of discovery, then I will have no factual basis upon which to
+
+ make a decision about obstruction unless somebody presents evidence to me”). AUSA
+
+ Perry said that he needed time to “mull over” the Government’s position on whether
+
+ it could present evidence on obstruction of justice to the Court at the sentencing
+
+ hearing without violating the terms of the Plea Agreement. Id. at 8:19-21.
+
+
+
+                                            35
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 36 of 76         PageID #: 1487
+
+
+
+       At the sentencing hearing, AUSA Perry observed that paragraph five of the
+
+ Plea Agreement allowed the Government to present evidence to the Court, if the
+
+ Court requested it and therefore, he proceeded to move a series of exhibits into
+
+ evidence concerning the PO’s obstruction of justice enhancement. Sentencing Tr. at
+
+ 56-60. Mr. Leland’s counsel did not object to the admission of any of the Government’s
+
+ exhibits. Id. at 59-60. After the Government’s exhibits were admitted into evidence,
+
+ the Court specifically asked Mr. Leland’s counsel whether he had anything further
+
+ on this issue and Attorney Napolitano responded: “No, your Honor, not at this time.”
+
+ Id. at 60. The Court reviewed the admitted exhibits, the standards for an obstruction
+
+ of justice enhancement, and found that Mr. Leland had obstructed justice under
+
+ USSG § 3C1.1. Id. at 60-68.
+
+       The recited record conclusively demonstrates that Mr. Leland’s allegations
+
+ concerning the obstruction of justice enhancement are false.         Contrary to his
+
+ assertion, Mr. Leland’s counsel had prior notice of the PO’s obstruction of justice
+
+ recommendation in the PSR and, at the Presentence Conference, the Court brought
+
+ this issue to the attention of Attorney Napolitano and discussed with counsel how
+
+ they wished to proceed. Contrary to Mr. Leland’s assertion, the prosecutor had been
+
+ placed on notice of the potential for an obstruction of justice enhancement, had
+
+ considered how to respond to the PO recommendation, and had presented evidence of
+
+ the facts underlying the recommendation at the sentencing hearing. Contrary to Mr.
+
+ Leland’s assertion, the Court did not refuse to allow Mr. Leland to defend himself. In
+
+ fact, the Court specifically asked Attorney Napolitano whether he had anything to
+
+
+
+                                          36
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 37 of 76           PageID #: 1488
+
+
+
+ present on the obstruction of justice issue and Attorney Napolitano declined to
+
+ present any evidence. Contrary to Mr. Leland’s assertion, the prosecutor did not
+
+ object to the enhancement. Bound by the terms of the Plea Agreement not to seek
+
+ the enhancement, AUSA Perry was careful to confirm that the Government was not
+
+ asking the Court to impose the enhancement, but AUSA Perry never objected to the
+
+ Court’s imposition of the enhancement. Finally, contrary to Mr. Leland’s assertion,
+
+ the Court never refused to listen to the prosecutor or to defense counsel on the
+
+ obstruction of justice issue. In fact, the Court solicited argument both from the
+
+ Government and from defense counsel and both declined. Furthermore, while the
+
+ Court was announcing its decision, both the prosecutor and defense counsel
+
+ interrupted the Court and in one case, corrected one of the Court’s observations, and
+
+ in another case, argued for a different interpretation of the facts. Mr. Leland’s
+
+ accusation that the Court “wouldn’t listen” is false.
+
+              3.     The Oral versus Written Plea Agreement
+
+       In his petition and motion, Mr. Leland draws a distinction between an oral and
+
+ written plea agreement. Def.’s Pet. at 6 (“Petitioner agreed to plead guilty in an oral
+
+ plea agreement on October 27, 2005 after 2 years and 7 months in custody”)
+
+ (emphasis in original); Id. at 8 (“The oral and written plea agreements are different”).
+
+ He says that during his discussions with AUSA Perry leading up to his agreement to
+
+ plead guilty, AUSA Perry made all manner of promises, including that he would
+
+ receive a sentence of only ten years and that the federal prosecutor would not indict
+
+
+
+
+                                           37
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 38 of 76           PageID #: 1489
+
+
+
+ his son, Derek Leland.     Id..   Mr. Leland also accuses his then defense counsel,
+
+ Christopher Largay, of deceiving him. Id. at 9.
+
+       The Court rejects Mr. Leland’s claims. Mr. Leland’s claims of side agreements
+
+ with the prosecution run counter to the express terms of the Plea Agreement itself:
+
+       12. Defendant understands that there are no further or other promises
+       or agreements, either express or implied, other than those contained in
+       this Agreement and that none will be made except in writing signed by
+       all parties.
+
+ Plea Agreement at 7. Furthermore, Mr. Leland affirmatively represented to the Court
+
+ that he had read the Agreement, that he understood the contents of the Agreement,
+
+ that he had signed the Agreement voluntarily, and that in signing the Agreement, he
+
+ intended to agree to all its terms and conditions. Rule 11 Hr’g at 19:6-20:3. Moreover,
+
+ the Court expressly asked Mr. Leland whether the federal prosecutor had made any
+
+ side agreements and Mr. Leland assured the Court that aside from the written plea
+
+ agreement, no one had made any promises to him in an effort to get him to plead
+
+ guilty and no one had made any promises to him as to what the prosecutor’s
+
+ recommendation would be at sentencing. Id. at 25:3-6, 10-17.
+
+       During the Rule 11 hearing, the Court repeatedly told Mr. Leland that he had
+
+ to tell the Court the truth. Mr. Leland is now alleging that the federal prosecutor
+
+ supposedly made promises to Mr. Leland that Mr. Leland failed to mention at the
+
+ Rule 11 hearing and his current assertions run flatly contrary to what Mr. Leland
+
+ repeatedly told the Court was true on January 27, 2004. Put differently, either Mr.
+
+ Leland was not telling the truth to the Court then or he is not telling the truth to the
+
+ Court now.
+
+                                           38
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 39 of 76          PageID #: 1490
+
+
+
+       The reason that the Court engages in a detailed and extensive colloquy with
+
+ each defendant who is pleading guilty, including Mr. Leland, is to make absolutely
+
+ certain that the defendant’s guilty plea is knowing and voluntary. To make that
+
+ assessment, the Court must rely on a defendant telling the Court the truth at the
+
+ time of the guilty plea; specifically at each Rule 11, the Court focuses on whether
+
+ there are any side deals that could affect the legality of the guilty plea. Faced with
+
+ an irreconcilable conflict between what Mr. Leland told the Court was true while
+
+ standing before the Court on January 24, 2007 and what Mr. Leland is now telling
+
+ the Court is true having received his sentence, there is no reason to conclude that Mr.
+
+ Leland has demonstrated that his current version is true. The Court rejects Mr.
+
+ Leland’s contentions that there were side deals with the prosecutor and relies on what
+
+ Mr. Leland himself told the Court was true when he entered his guilty plea and what
+
+ Mr. Leland himself assured the Court was true about the Plea Agreement.
+
+              4.     Judicial Reliance on the Contents of the PSR
+
+       In his petition, Mr. Leland instructs the Court that once “a defendant objects
+
+ to factual statements in the PSR [as Petitioner did about threatening a codefendant
+
+ and sending six pages of discovery to Thomas Dunroe], then the sentencing court may
+
+ not rely on those assertions; instead the government must prove them by a
+
+ preponderance of the evidence.” Def.’s Pet. at 14 (quoting United States v. Replogle,
+
+ 628 F.3d 1026, 1029 (8th Cir. 2011) (emphasis added by Mr. Leland)).
+
+       First of all, the Eighth Circuit case of Replogle does not represent the law of
+
+ the First Circuit. Under First Circuit law, a “PSR generally bears ‘sufficient indicia
+
+
+
+                                           39
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 40 of 76             PageID #: 1491
+
+
+
+ of reliability to permit the district court to rely on it at sentencing.” United States v.
+
+ Prochner, 417 F.3d 54, 65-66 (1st Cir. 2005) (quoting United States v. Cyr, 337 F.3d
+
+ 96, 100 (1st Cir. 2003)). Although a defendant may object to the contents of the PSR,
+
+ “if [his] objections to the PSR are merely rhetorical and unsupported by
+
+ countervailing proof, the district court is entitled to rely on the facts in the PSR.” Id.
+
+ at 66 (quoting Cyr, 337 F.3d at 100). In the First Circuit, “[s]pecial weight is given to
+
+ those portions of the PSR to which no countervailing proof is offered.” United States
+
+ v. Sicher, 576 F.3d 64, 71 (1st Cir. 2009). Here, Mr. Leland offered no countervailing
+
+ proof to the contents of the PSR regarding his letter about Mr. Stewart and regarding
+
+ the discovery found by law enforcement in Mr. Dunroe’s home. Therefore, the Court
+
+ was entitled to accept the facts in the PSR under First Circuit law.
+
+       But more to the point, the Court did precisely what Mr. Leland now contends
+
+ it should have done. At the Presentence Conference, even though it could have relied
+
+ on the contents of the PSR absent countervailing evidence from Mr. Leland, the Court
+
+ informed counsel that if Mr. Leland objected to the contents of the PSR either
+
+ regarding the letter about Mr. Stewart or the dissemination of discovery, the Court
+
+ “will have no factual basis upon which to make a decision about obstruction unless
+
+ somebody presents evidence to me.” Presentence Conf. Tr. at 7:18-24. Therefore, at
+
+ the sentencing hearing, the Government presented the Court—without objection
+
+ from Mr. Leland—with a series of exhibits that were admitted into evidence and that
+
+ addressed the facts underlying the PO’s recommendation that the Court impose an
+
+ obstruction of justice enhancement. Sentencing Tr. at 56-60. The Court reviewed
+
+
+
+                                            40
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 41 of 76          PageID #: 1492
+
+
+
+ those exhibits and made factual findings that substantiated the imposition of an
+
+ obstruction of justice enhancement. Id. at 60-68. As the Court complied to the letter
+
+ with what Mr. Leland now says it should have done, he gains nothing from his
+
+ objection.
+
+              5.     Inadequate     Enhancement        Findings    and    Inadequate
+                     Evidence
+
+       For the first time in this long saga, Mr. Leland claims that the Court’s findings
+
+ respecting the factual requirements for the obstruction of justice findings were
+
+ insufficient. Def.’s Pet. at 14-16. The Court rejects this belated complaint. The
+
+ Court’s discussion of the obstruction of justice enhancement runs eight pages.
+
+ Sentencing Tr. at 60-68. The Court reviewed the exhibits that the Government moved
+
+ into evidence, quoted USSG § 3C1.1, read the Commission commentary to this
+
+ provision, and cited First Circuit caselaw in arriving at its conclusion. Id. The Court
+
+ rejects Mr. Leland’s contention that its discussion of the obstruction of justice
+
+ enhancement was inadequate.
+
+       Mr. Leland asserts that “[t]he Court admits in the sentencing transcripts on
+
+ page 57, lines 5 through 11 and again on page 60, lines 19 through 22, and for a third
+
+ time on page 66, lines 7 & 8, that there is no evidence to support the two (2) point
+
+ level enhancement.” Def.’s Pet. at 16. At page 57, however, the Court was referring
+
+ to the fact that, as the Court told counsel at the presentence conference, before the
+
+ Government admitted its exhibits into evidence, the only document before the Court
+
+ was the PSR and if Mr. Leland objected to the admission of the exhibits, the Court
+
+ would have no basis to make factual findings. Sentencing Tr. at 57 (“On the other
+
+                                           41
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 42 of 76            PageID #: 1493
+
+
+
+ hand, the Court doesn’t have any actual information other than what is set forth in
+
+ the Presentence Investigation Report, and it is important for its own determination
+
+ as to whether an obstruction of justice charge enhancement should be applied in this
+
+ case to obtain the information that is appropriate. So with that understanding, you
+
+ may proceed”). Directly after this comment, the Government moved into evidence
+
+ numerous underlying exhibits on which the Court relied in imposing the
+
+ enhancement. Id. at 58-60. Here, the Court was only stating what Mr. Leland earlier
+
+ said it should have stated: that if objected to, the Court would not rely on the contents
+
+ of the PSR alone in imposing the enhancement and would require actual evidence,
+
+ which the Government then supplied.
+
+       The colloquy on page 60 relates to the Court’s clarification about an assertion
+
+ in the PSR, namely that “David”, the recipient of the Leland letter about Robert
+
+ Stewart, was a member of the Hells Angels. Id. at 60. AUSA Perry and Attorney
+
+ Napolitano informed the Court that “David” was not a member of the Hells Angels
+
+ and that the Court should not draw that inference from the Leland letter. Id. at 60-
+
+ 61. The Court agreed not to do so. Id. at 61 (“All right. So I can’t make that
+
+ inference”). Contrary to Mr. Leland’s contention, the Court did not state on page 60
+
+ of the sentencing transcript that it had no evidence of obstruction of justice; the Court
+
+ merely established with counsel what fair inferences it could draw from the evidence
+
+ that was before the Court. Once counsel agreed that the Court should not infer that
+
+ “David” was a member of the Hells Angels, the Court agreed on the record not to draw
+
+ that inference.
+
+
+
+                                            42
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 43 of 76          PageID #: 1494
+
+
+
+       The reference on page 66 of the transcript to an absence of evidence bears a
+
+ word of explanation. One of the reasons the PO recommended an obstruction of
+
+ justice enhancement was that investigative papers AUSA Perry sent to Mr. Leland’s
+
+ attorney, Christopher Largay, had been discovered in Thomas Dunroe’s Hampden
+
+ home. PSR ¶ 60. In discussing this issue, the Court observed that “the information
+
+ . . . has found its way to Thomas Dunroe who was under investigation at the time,
+
+ and during a search of his apartment detailed information of the status of DEA
+
+ investigations in this area was uncovered.” Sentencing Tr. at 66. The Court noted
+
+ that “[c]learly, whoever sent that information to Mr. Dunroe had the intent to
+
+ obstruct or interfere with an ongoing governmental investigation . . . .” Id. The Court
+
+ identified two possible senders, Attorney Largay and Mr. Leland, and commented “I
+
+ know of no other conclusion I could reach.” Id.
+
+       At that point Attorney Napolitano interrupted and suggested a third
+
+ possibility: another inmate may have sent the investigative report to Mr. Dunroe. Id.
+
+ at 66. Attorney Napolitano agreed that there was no reason to accuse Attorney
+
+ Largay of supplying Mr. Dunroe with this investigative information.         Id.   As a
+
+ practical matter, this narrowed the possible senders to either Mr. Leland or to some
+
+ unknown inmate who presumably entered Mr. Leland’s cell, stole the papers, and
+
+ sent them to Mr. Dunroe, who was a possible target of the ongoing investigation. The
+
+ Court observed that it was a logical inference that Mr. Leland, who presumably
+
+ received the reports from Attorney Largay, was responsible for sending them out. Id.
+
+
+
+
+                                           43
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 44 of 76          PageID #: 1495
+
+
+
+       Rejecting Attorney Napolitano’s contention that the Court should infer that
+
+ someone other than Mr. Leland had sent the investigative reports, the Court noted
+
+ that “I have no evidence one way or the other on that”, meaning evidence as to who
+
+ was the source of the investigative report; to which Attorney Napolitano replied,
+
+ “That’s correct.” Id. The Court went on to say that it was able to draw an inference
+
+ from what was before it, that it had given Attorney Napolitano an opportunity to
+
+ present evidence, but there was “no evidence other than what I have before me,”
+
+ again, referring to the absence of any evidence of another possible culprit.        Id.
+
+ (emphasis supplied).
+
+       Mr. Leland badly misreads this colloquy. The Court had before it evidence that
+
+ AUSA Perry had sent sensitive investigative information to Mr. Leland’s then
+
+ attorney and that this information had turned up in Hampden, Maine at the home of
+
+ a known drug dealer. Once Attorney Largay was eliminated as the sender of the
+
+ information to Mr. Dunroe, the Court could easily infer that Mr. Leland, the
+
+ presumed recipient of the information, was the sender.
+
+       Against this inference, the Court told Attorney Napolitano that if Mr. Leland
+
+ wanted the Court to draw a different conclusion, he was free to present any evidence
+
+ that would tend to show that Mr. Leland was not the actual sender. But Mr. Leland
+
+ declined to present any evidence on this issue at all. Mr. Leland himself did not deny
+
+ being the sender at the sentencing hearing. He did not tell the Court that he did not
+
+ know Thomas Dunroe. He did not tell the Court that others had access to his cell and
+
+ may have sent out the discovery material. He did not call a prison official to describe
+
+
+
+                                           44
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 45 of 76          PageID #: 1496
+
+
+
+ access to cells or the prison’s mail system. He did not say (and has never said) who
+
+ was the likely culprit. He did not attempt to call Mr. Dunroe or anyone else to clear
+
+ up where Mr. Dunroe obtained those documents. At the sentencing hearing, the
+
+ Court was left with only an attorney’s argument, unsupported by any evidence, that
+
+ speculated that some unknown person, not his client, may have been the source of
+
+ the investigative material. Given the logical inference that someone who received a
+
+ package is the most likely person to have forwarded it and in the absence of any
+
+ countervailing evidence, the Court maintained its finding that it was likely Mr.
+
+ Leland was the source of the investigative information found in the Dunroe house.
+
+       In short, the Court rejects Mr. Leland’s contention that during the sentencing
+
+ hearing, the Court had confessed that it had no evidence of the source of the
+
+ investigative reports.   To be precise, at the sentencing hearing, the Court had
+
+ evidence that Mr. Leland was the likely source and had no evidence to the contrary.
+
+              6.     The Court as Impartial Arbiter
+
+       In both his petition and his motion for reconsideration, Mr. Leland accuses the
+
+ Court of violating its obligation to act as an impartial arbiter. Def.’s Pet. at 11-12;
+
+ Def.’s Mot. at 1-2. Mr. Leland explains that because “the parties both agreed that the
+
+ Petitioner should not have received the Obstruction of Justice enhancement”, the
+
+ Court violated the “Neutral Arbiter” rule by imposing an enhancement that the
+
+ parties agreed should not apply. Def.’s Pet. at 11-12.
+
+       Mr. Leland’s argument on this point reveals a fundamental misunderstanding
+
+ about the Court’s, the parties’, and the PO’s roles at sentencing. The criminal rules
+
+
+
+                                           45
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 46 of 76         PageID #: 1497
+
+
+
+ provide for different types of plea agreements. By far the most commonly used in the
+
+ District of Maine is found in Rule 11(c)(1)(B), where the parties have the right to
+
+ make non-binding recommendations to the sentencing judge.          FED. R. CRIM. P.
+
+ 11(c)(1)(B) (“such a recommendation or request does not bind the court”). A second
+
+ plea agreement that is exceedingly rare in the District of Maine is found in Rule
+
+ 11(c)(1)(C), where the parties make sentencing recommendations that bind the
+
+ sentencing judge, if the judge accepts the plea agreement.         FED. R. CRIM. P.
+
+ 11(c)(1)(C). Mr. Leland entered into the first, non-binding type of plea agreement,
+
+ not the second, binding type of agreement. Plea Agreement at 4 (“Pursuant to Fed.
+
+ R. Crim. P. 11(c)(1)(B), the parties agree to take the following positions at
+
+ sentencing”).
+
+       The effect of Rule 11(c)(1)(B) is that the sentencing judge may accept or reject
+
+ the parties’ sentencing recommendations and impose a more severe (or less severe)
+
+ sentence than the one the parties recommend. Mr. Leland’s Plea Agreement makes
+
+ it abundantly clear that the parties are making recommendations to the Court on
+
+ sentencing and that their recommendations are not binding on the Court. Each of
+
+ the sentencing positions on the Guidelines in the Plea Agreement starts with the
+
+ phrase: “The parties agree to recommend that the Court find . . . .” Plea Agreement
+
+ at 4-5.   But any doubt is removed by additional language in Mr. Leland’s Plea
+
+ Agreement:
+
+       The parties expressly agree and understand that these
+       recommendations will not be binding on the Court and should the Court
+       reject the recommendations of the parties, Defendant will not thereby
+       be permitted to withdraw his/her guilty plea. The parties agree and
+
+                                          46
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 47 of 76          PageID #: 1498
+
+
+
+       understand that the Court has the discretion to impose any lawful
+       sentence.
+
+ Plea Agreement at 5.
+
+       To make certain that a defendant understands that the Court retains the
+
+ discretion to impose a harsher or more lenient sentence than the one recommended
+
+ by the parties, at the Rule 11 the Court reviews this principle with counsel and the
+
+ defendant. In Mr. Leland’s case, the Court engaged in the following colloquy with
+
+ counsel:
+
+       THE COURT: Does this plea agreement in any way inhibit my
+       discretion in sentencing, Mr. Perry?
+
+       MR. PERRY: It does not, Your Honor.
+
+       THE COURT: Mr. Largay?
+
+       MR. LARGAY: No, Your Honor.
+
+ Rule 11 Tr. at 22:10-14. The Court also directly addressed Mr. Leland:
+
+       THE COURT: Now, I also want you to turn, if you would Mr. Leland, to
+       page 4 paragraph 3 of the agreement to plead guilty. Do you see that,
+       sir?
+
+       THE DEFENDANT: Yes, sir.
+
+       THE COURT:           This contains a number of references to
+       recommendations that the parties agree to make to the court concerning
+       base offense levels and whether the evidence supports a finding of a
+       dangerous weapon possessed in relation to the drug offense, increases
+       in points, acceptance of responsibility, and other matters. Did you
+       review that paragraph before coming to court today?
+
+       THE DEFENDANT: Yes, I did.
+
+       THE COURT: What I want you to understand Mr. Leland is this. That
+       as far as sentencing is concerned, this plea agreement permits you and
+       your lawyer, Mr. Largay, and the prosecutor to make recommendations
+
+                                         47
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 48 of 76           PageID #: 1499
+
+
+
+       to the court regarding sentencing, but the authority to determine the
+       appropriate sentence in this case rests with me as the judge in this court.
+       Do you understand, sir?
+
+       THE DEFENDANT: Yes, sir.
+
+       THE COURT: If I do not accept the recommendations, even those
+       recommendations that are set forth in paragraph 3, you will have no
+       right to withdraw your guilty plea. Do you understand?
+
+       THE DEFENDANT: Yes, sir.
+
+ Id. at 22:20-23:19.
+
+       After the guilty plea, the PO performs an investigation and prepares a PSR,
+
+ which makes recommendations to the Court regarding the Guideline calculations and
+
+ its sentencing recommendations. FED. R. CRIM. P. 32(d). In making its Guideline and
+
+ sentencing recommendations, the PO is not bound by the agreements of the parties,
+
+ and the parties have a right to object to the PO’s recommendations. FED. R. CRIM. P.
+
+ 32(g). The Rule provides that if the sentencing judge is contemplating a possible
+
+ departure from the sentencing range on a ground not identified by the PO or by the
+
+ parties, the judge is required to inform the parties. FED. R. CRIM. P. 32(h). Although
+
+ it does not happen that often, occasionally, as in this case, the PO will make a
+
+ Guideline recommendation to the Court that differs from what the parties have
+
+ recommended in a plea agreement, and the law contemplates that the Court may
+
+ hear evidence and must rule on those and other disputes at the sentencing hearing.
+
+ FED. R. CRIM. P. 32(i)(3).
+
+       Here, the Court followed the exact procedure contemplated by the criminal
+
+ rules. The PO performed its investigation and recommended that the Court impose
+
+
+
+                                           48
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 49 of 76          PageID #: 1500
+
+
+
+ a two-level enhancement for obstruction of justice, the parties were allowed to review
+
+ the PSR and to object to the PO recommendation, the Court made certain that the
+
+ parties were aware before the sentencing hearing that it was considering the
+
+ obstruction of justice enhancement, the parties were given the opportunity to present
+
+ evidence and to argue the proposed enhancement, and the Court ruled on the
+
+ enhancement, setting forth in detail its factual and legal findings. There is nothing
+
+ unusual about this general process and in following this procedure, the Court was not
+
+ abrogating the right to determine the issues that required resolution.         It was
+
+ complying with standard procedure, where the parties and the PO have the right to
+
+ present issues for resolution to the Court. None of this should come as a surprise to
+
+ Mr. Leland because this procedure is explicit in his Plea Agreement and was
+
+ explained to him during the Rule 11 hearing. The Court rejects his contention that
+
+ it violated the so-called neutral arbiter rule.
+
+              7.     The Obstruction of Justice Enhancement
+
+       The real source of Mr. Leland’s discontent is that he believes the Court unfairly
+
+ found that he obstructed justice. The Court has repeatedly endeavored to explain to
+
+ Mr. Leland why it reached this conclusion but without success. It will try again.
+
+       There was no indication in either Mr. Leland’s January 27, 2004 Plea
+
+ Agreement or at his January 27, 2004 Rule 11 that he might be subject to a two-level
+
+ enhancement for obstruction of justice. The Plea Agreement makes no mention of it.
+
+ Plea Agreement at 1-8. It did not come up during his Rule 11. Rule 11 Tr. at 1-29.
+
+
+
+
+                                            49
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 50 of 76          PageID #: 1501
+
+
+
+ This is because the conduct that undergirded the obstruction of justice enhancement
+
+ had either not occurred or not been discovered.
+
+        To the Court’s knowledge, the first mention of a possible obstruction of justice
+
+ enhancement appeared in the PSR at paragraph 60:
+
+        In March 2004, following his guilty plea, defendant Leland wrote a letter
+        to members of the Hell’s Angels noting his desire to cause bodily injury
+        to codefendant, Robert Stewart, as Stewart provided incriminating
+        information to authorities regarding Leland. Therefore, the defendant,
+        directly or indirectly, attempted to threaten, intimidate or otherwise
+        unlawfully influence a codefendant or witness. Further, in March 2004,
+        defendant Leland disseminated discovery material to others, including
+        prison inmates, known felons in the community and other Hell’s Angels.
+
+ PSR ¶ 60. The PSR isolates two instances of potential obstruction: the March 2004
+
+ Leland letter and the dissemination of discovery. Id. These were the issues that the
+
+ Court raised to the parties at the Presentence Conference on October 24, 2005.
+
+ Presentence Conf. Tr. at 5:25-9:3.
+
+                      a.   Robert Stewart
+
+        At the sentencing hearing, the Government introduced the letter that Mr.
+
+ Leland wrote to David in March 2004 and two investigation reports that Mr. Leland
+
+ attached to that letter. As noted earlier, the letter was in Mr. Leland’s handwriting
+
+ to a man named “David” discussing Robert Stewart, a codefendant and witness
+
+ against Mr. Leland. Sentencing Hr’g at 62-63. Referring to Mr. Stewart, Mr. Leland’s
+
+ letter stated in part:
+
+        Sending some paperwork that you and others in your area will be
+        interested in . . . That bastard has been a rat since 2000. He told a lot
+        of lies about me.
+
+ Id. at 62. Mr. Leland then referred to a man named Alan McDougal and said:
+
+                                           50
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 51 of 76         PageID #: 1502
+
+
+
+       Both of them have been rats for a long time . . . The club didn’t support
+       me through this because of them, and now the club knows the difference.
+       I hope they come around. Well, David, I always liked you a lot and
+       wanted you to know what he was. I pray I meet him in here someday.
+       He thinks he’s tough. I’ll show the asshole what tough is. You take care
+       of yourself.
+
+ Id. Mr. Leland signed the letter “Your real friend, Bill Leland, Hells Angels.” Id. at
+
+ 62-63. Mr. Leland attached seven pages of investigative reports that detailed Mr.
+
+ Stewart’s involvement in the greater conspiracy.      Id. at 63.   At the end of the
+
+ investigative report, Mr. Leland wrote:
+
+       Look at that. The asshole gave up his in-laws. What a nice guy.
+
+ Id.
+
+       To place this letter in perspective, Robert Stewart was a codefendant in this
+
+ case. Second Superseding Indictment (ECF No. 60). On September 24, 2003, a grand
+
+ jury indicted Mr. Stewart for conspiring with Mr. Leland to distribute cocaine, id.at
+
+ 2 (Count Three), and multiple other drug trafficking counts. Id. at 3-6. On January
+
+ 6, 2004 and again on January 22, 2004, the Government filed prosecution versions on
+
+ Mr. Stewart’s case, both of which among other things confirmed that Mr. Stewart had
+
+ been supplying Mr. Leland with cocaine. Gov’t’s Version of the Offense at 1 (ECF No.
+
+ 143) (ECF No. 193). On January 23, 2004, the Government filed an Agreement to
+
+ Plead Guilty and Cooperate executed by Mr. Stewart in which Mr. Stewart agreed to
+
+ testify about his involvement and the involvement of others in the violations of law
+
+ set forth in the indictment, Agreement to Plead Guilty and Cooperate (ECF No. 200),
+
+ and on the same day, Mr. Stewart pleaded guilty to five drug trafficking counts in the
+
+ superseding indictment. Minute Entry (ECF No. 203).
+
+                                           51
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 52 of 76          PageID #: 1503
+
+
+
+       Jury selection had been scheduled for the case against Mr. Leland for January
+
+ 29, 2004. Notice of Hr’g (ECF No. 198). In the Government’s trial brief, it stated:
+
+       The evidence also is expected to show that in approximately January
+       2003, Leland began obtaining cocaine from Robert Stewart for
+       distribution.    Stewart supplied cocaine to Leland on numerous
+       occasions. After one occasion, Leland ruined the cocaine while trying to
+       process it. In an attempt to get out of paying for this cocaine, Leland
+       devised a story that he lost the cocaine. As a result of his drug dealings
+       with Stewart, Leland amassed a debt of approximately $16,000.
+
+ Gov’t’s Trial Br. at 5-6 (ECF No. 186). Mr. Leland pleaded guilty on January 27,
+
+ 2004, four days after Mr. Stewart had pleaded guilty and two days before jury
+
+ selection. Minute Entry (ECF No. 205). Mr. Leland admitted a prosecution version,
+
+ which stated in part:
+
+       The testimony and evidence also would show, in substance, that at least
+       from January 2003 through March 2003, this defendant was obtaining
+       cocaine from [a] third individual and directly and indirectly distributing
+       the cocaine in Maine.
+
+ Gov’t’s Version of the Offense at 1 (ECF No. 206). The PSR later details Mr. Stewart’s
+
+ involvement in Mr. Leland’s drug dealing conspiracy. PSR at 15. The upshot is that
+
+ Mr. Stewart was a significant potential witness against Mr. Leland: Mr. Stewart had
+
+ sold Mr. Leland cocaine, Mr. Leland owed him either $15,000, id., or $16,000 for
+
+ cocaine, Gov’t’s Trial Br. at 5-6, Mr. Stewart had pleaded guilty to multiple drug
+
+ trafficking counts, including one that alleged he was involved in a drug trafficking
+
+ conspiracy with Mr. Leland, and Mr. Stewart was prepared to testify against Mr.
+
+ Leland in the upcoming trial. Although Mr. Stewart was not the only reason Mr.
+
+ Leland decided to plead guilty, his anticipated testimony against Mr. Leland would
+
+ have been compelling evidence and must have contributed to Mr. Leland’s decision to
+
+                                          52
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 53 of 76          PageID #: 1504
+
+
+
+ plead guilty. Mr. Leland had every reason to be upset with Mr. Stewart and as Mr.
+
+ Leland’s March 2004 letter establishes, he was.
+
+       During the sentencing hearing, the Court reviewed the obstruction of justice
+
+ provision of the Guidelines:
+
+       If (1) the defendant willfully obstructed or impeded or attempted to
+       obstruct of impede the administration of justice during the course of the
+       investigation, prosecution or sentencing of the instant offense of
+       conviction, and (2) the obstructive conduct related to (A) the defendant’s
+       offense of conviction and any relevant conduct; or (B) a closely related
+       offense, increase the offense level by 2 levels.
+
+ See Sentencing Tr. at 61 (quoting USSG § 3C1.1).           The Court turned to the
+
+ commentary to § 3C1.1 and observed that the United States Sentencing Commission
+
+ lists the following examples of obstruction of justice:
+
+       [T]hreatening, intimidating, or otherwise unlawfully influencing a co-
+       defendant, witness or juror, directly or indirectly, or attempting to do
+       so[.]
+
+ USSG § 3C1.1, n.4(A). The Court reviewed the decisions of other courts and noted
+
+ that in 1997, the First Circuit held in United States v. McMinn, 103 F.3d 216 (1st Cir.
+
+ 1997) that threatening letters to a prospective witness constituted obstruction of
+
+ justice. Sentencing Tr. at 64. The Court also cited United States v. Bush, a Third
+
+ Circuit case, for the same conclusion, where a defendant threatened a prosecutor and
+
+ another person. Id.
+
+       At the sentencing hearing, the Court concluded that Mr. Leland’s letter
+
+ constituted a threat against Mr. Stewart, who had been a potential witness against
+
+ him. Id. at 64-65. The Court noted that the threat was of particular concern because
+
+ Mr. Leland later filed a motion to withdraw his guilty plea and, if that motion had
+
+                                            53
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 54 of 76         PageID #: 1505
+
+
+
+ been successful, the Government would likely have called Mr. Stewart as a witness.
+
+ Id. at 65. As the Court has previously explained, based on the threat alone, the Court
+
+ did and would have imposed the obstruction of justice enhancement in Mr. Leland’s
+
+ case. See Order Denying Mot. for Relief from Final J. under Rule 60(b)/(d) at 2-5
+
+ (ECF No. 371).
+
+         In his petition, Mr. Leland lists five reasons that the Court erred when it
+
+ imposed the two-level obstruction of justice enhancement for the Stewart letter: (1)
+
+ the sentencing judge “claims Petitioner sent a letter to a Hells Angel threatening
+
+ Robert Stewart”; (2) Mr. Leland wrote the letter to David, a friend of his, because
+
+ David had been told that Robert Stewart was going to harm Mr. Leland and Mr.
+
+ Leland had “gotten a beating while a federal detainee at the Maine State Prison
+
+ because Robert Stewart told people that Petitioner was a rat”; (3) Mr. Leland “knew
+
+ Stewart was in federal prison in Raybrook, NY and could have gotten word to inmates
+
+ at that prison that Stewart co-operated with the government and told on many
+
+ people”, but Mr. Leland “never told anyone and Stewart did his time and was
+
+ released”; and (4) three people visited Mr. Stewart on December 17, 2011 and Mr.
+
+ Stewart assured them that he had never been threatened by Mr. Leland; and (5) Mr.
+
+ Leland “never threatened Robert Stewart or told anyone else to hurt him”. Def.’s Pet.
+
+ at 7.
+
+         Regarding the first issue—that the sentencing judge wrongfully assumed that
+
+ David was a member of the Hells Angels, the Court earlier addressed this contention
+
+ and it is simply incorrect. What actually happened is that the Court asked counsel
+
+
+
+                                          54
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 55 of 76            PageID #: 1506
+
+
+
+ whether it could “infer that David in the letter . . . is a member of the Hell’s Angels.”
+
+ Sentencing Tr. at 60. In response, AUSA Perry and Attorney Napolitano informed
+
+ the Court that “David” was not a member of the Hells Angels and that the Court
+
+ should not draw that inference from the Leland letter. Id. at 60-61. The Court agreed
+
+ not to do so. Id. at 61 (“All right. So I can’t make that inference”).
+
+       Regarding the second issue—that Mr. Stewart had threatened Mr. Leland and
+
+ that Mr. Leland had been beaten in Maine State Prison because Mr. Stewart had
+
+ falsely told other people that Mr. Leland had cooperated with the Government, this
+
+ explanation only serves to further illuminate why Mr. Leland was angry with Mr.
+
+ Stewart and why Mr. Leland threatened him. Mr. Leland’s effort to excuse his threat
+
+ is unavailing.
+
+       Regarding the third issue—that Mr. Leland knew where Mr. Stewart was
+
+ incarcerated and could have but did not cause him harm while Mr. Stewart was in
+
+ jail, this has nothing to do with the imposition of the obstruction of justice
+
+ enhancement at the time of Mr. Leland’s sentencing. Although the Court is pleased
+
+ that Mr. Leland did not later actually beat Mr. Stewart or order his beating, the
+
+ obstruction of justice enhancement is applicable to a threat against a witness. The
+
+ fact the threat was never carried out does not diminish its potential impact or negate
+
+ the application of the enhancement. USSG § 3C1.1, n. 4(A) (“threatening . . . a co-
+
+ defendant, witness . . . or attempting to do so”).
+
+       The same logic applies to the fourth issue—the three witness affidavits that
+
+ Mr. Leland attached to his petition. Again, the Court is pleased that Mr. Leland
+
+
+
+                                            55
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 56 of 76          PageID #: 1507
+
+
+
+ never actually beat Mr. Stewart and Mr. Stewart was never aware that Mr. Leland
+
+ had made the threat. But the issue is not whether the threat was effective; the issue
+
+ was whether the threat was made, and it was. United States v. Trinidad-Acosta, 773
+
+ F.3d 298, 317-20 (1st Cir. 2014) (rejecting argument that a threat against a potential
+
+ witness to a third party is not obstruction of justice).
+
+       Finally, the Court rejects Mr. Leland’s assertion that he “never threatened
+
+ Robert Stewart or told anyone else to hurt him.” Def.’s Pet. at 7. In the March 2004
+
+ letter to David, Mr. Leland calls Mr. Stewart a “rat” and a “bastard”. He accuses Mr.
+
+ Stewart of telling “a lot of lies about me.” He encloses investigative information that
+
+ confirms that Mr. Stewart cooperated with the Government. He ends by saying: “I
+
+ pray I meet him in here someday. He thinks he’s tough. I’ll show the asshole what
+
+ tough is.” No matter what Mr. Leland now says, that is a threat. Also, sending
+
+ investigative information about a cooperating codefendant to a third party confirms
+
+ the witness’s cooperation and invites retribution.
+
+       Mr. Leland has never really explained why he wrote this letter to David, a
+
+ person Mr. Leland describes as a friend. To this day, (other than knowing who David
+
+ is not—namely, he is not a Hells Angel), the Court does not even know who David is,
+
+ what David’s last name is, where David lives, and what, if any, relationship he has
+
+ had to this case. Nearly ten years after his sentencing, Mr. Leland makes the belated
+
+ assertion that the reason he wrote the letter to David and enclosed investigative
+
+ information about Robert Stewart was that Mr. Stewart had falsely claimed that Mr.
+
+ Leland was a cooperator and, as a result, Mr. Leland had received a jailhouse beating
+
+
+
+                                            56
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 57 of 76           PageID #: 1508
+
+
+
+ due to Mr. Stewart’s false accusation. Why it was necessary to tell David, who
+
+ presumably was not in jail, that Mr. Stewart was a rat, a liar and a bastard, to provide
+
+ documentary evidence to David confirming that Mr. Stewart had cooperated with the
+
+ Government, and to assure David that if Mr. Leland met Mr. Stewart in prison, he
+
+ would assault Mr. Stewart remains a mystery to this day. But none of this changes
+
+ the plain fact that Mr. Leland threatened Mr. Stewart in his March 2004 letter and
+
+ thus merited an obstruction of justice enhancement on that basis alone.
+
+       The Court’s conclusion is consistent with other cases where courts have held
+
+ that if a defendant threatens a witness, the defendant merits an obstruction of justice
+
+ enhancement. See Trinidad-Acosta, 773 F.3d at 317-20 (affirming obstruction of
+
+ justice enhancement for threat against prospective government witness); United
+
+ States v. McMinn, 103 F.3d 216, 218-19 (1st Cir. 1997) (affirming obstruction of
+
+ justice enhancement for letters threatening a prospective government witness);
+
+ United States v. Lagasse, 87 F.3d 18, 23-24 (1st Cir. 1996) (affirming obstruction of
+
+ justice enhancement where defendant called a witness a “rat” and assaulted him in
+
+ prison); United States v. Sabatino, 943 F.2d 94, 100-02 (1st Cir. 1991) (affirming
+
+ obstruction of justice enhancement where defendant said that a witness would “end
+
+ up taking a one-way walk through the woods” and another witness would “get his”);
+
+ United States v. Belskis, 477 F. Supp. 2d 237, 245-46 (D. Me. 2007) (imposing
+
+ obstruction of justice enhancement where defendant accused a witness of being a
+
+ DEA agent and said “You are all going to fucking get it”).
+
+                     b.     Thomas Dunroe
+
+
+
+                                           57
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 58 of 76                      PageID #: 1509
+
+
+
+        For some time, Mr. Leland has been obsessed with the Thomas Dunroe
+
+ incident where investigative reports that AUSA Perry sent to Attorney Largay, Mr.
+
+ Leland’s then lawyer, were found in Thomas Dunroe’s Hampden home.8 This Court
+
+ has explained to Mr. Leland on more than one occasion that his written threat against
+
+ Robert Stewart was enough by itself to impose the obstruction of justice
+
+ enhancement. Even if Mr. Leland were able to convince the Court that he had
+
+ nothing to do with Mr. Dunroe’s possession of the investigative reports, it would not
+
+ matter. The threat against Mr. Stewart was and is enough:
+
+        Regarding the second point, however, Mr. Leland tenaciously holds to
+        the belief that the reason he received an enhancement for obstruction of
+        justice and denial of acceptance was solely because of the discovery
+        documents that law enforcement found in the Hampden, Maine home of
+        Thomas Dunroe. Mr. Leland has presented an affidavit from Thomas
+        A. Dunroe stating that he does not know Mr. Leland, has never talked
+        to him, never corresponded with him, never received anything in the
+        mail from him, and does not know what he looks like. Def.’s Mot., Aff.
+        of Thomas Dunroe Attach. 1. With this evidence, which is consistent
+        with his earlier factual representations, Mr. Leland seeks
+        reconsideration of the Court’s sentencing decision to impose a two-level
+        increase for obstruction of justice and to deny a three-level reduction for
+        acceptance of responsibility.
+
+        So that it is clear. The Court did not impose the two-level enhancement
+        under U.S.S.G. § 3C1.1 primarily because of the information found in
+        Mr. Dunroe’s Hampden home. At the October 27, 2005 sentencing, the
+        Government introduced into evidence a letter written in Mr. Leland’s
+        hand to a man named “David.” Tr. of Sentencing Hearing at 59 (Docket
+        # 339). In the letter dated March 2004, Mr. Leland states that he is
+        enclosing some “paperwork that you and others in your area will be
+        interested in.” Id. at 62. He refers specifically to Robert Stewart and
+        says that “[t]hat bastard has been a rat since 2000. He told a lot of lies
+
+
+ 8       In his motion for reconsideration, Mr. Leland asserts that he “submitted caselaw that states
+ that informing someone that they are under investigation is not Obstruction of Justice.” Pet’r’s Mot.
+ for Recons. at 2. The Court scrutinized Mr. Leland’s petition and could find no such cited authority
+ and doubts that it exists.
+
+                                                  58
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 59 of 76          PageID #: 1510
+
+
+
+       about me.” Id. He also mentions an Alan McDougal and writes that
+       “[b]oth of them have been rats for a long time.” Id. He writes:
+
+       The club didn’t support me through this because of them, and now the
+       club knows the difference. I hope they come around. Well, David, I
+       always liked you a lot and wanted you to know what he was. I pray I
+       meet him in here someday. He thinks he’s tough. I’ll show the asshole
+       what tough is.
+
+       Id. It was signed: “Your real friend, Bill Leland, Hells Angels.” Id.
+
+       Attached to the March 2004 letter was a report of an investigation that
+       detailed in a total of seven pages, Mr. Stewart’s role in the drug
+       distribution conspiracy. Id. at 63. At the end of the report, a comment
+       appears in Mr. Leland’s handwriting: “Look at that. The asshole gave
+       up his in-laws. What a nice guy.” Id.
+
+       The Court found that Mr. Leland’s March 2004 letter to “David”
+       amounted to a threat against Robert Stewart. Id. at 64-65. On
+       September 26, 2003, a federal grand jury charged that Robert Stewart
+       had conspired with Mr. Leland to engage in a drug dealing conspiracy.
+       Second Superseding Indictment at 2-3 (Docket # 60). On January 21,
+       2004, as trial approached for Mr. Leland, the Government revealed that
+       its case against Mr. Leland included evidence that Mr. Stewart supplied
+       cocaine to Mr. Leland for distribution. Gov’t’s Trial Br. at 5-6 (Docket #
+       186). On January 23, 2004, Mr. Stewart pleaded guilty. Minute Entry
+       (Docket # 203). With trial scheduled to start on January 29, 2004, Mr.
+       Leland pleaded guilty to seven counts in the Second Superseding
+       Indictment on January 27, 2004. Minute Entry (Docket # 205).
+
+       Comment four to U.S.S.G. § 3C1.1, the obstruction of justice
+       enhancement, expressly states that the provision applies to
+       “threatening, intimidating or otherwise unlawfully influencing a co-
+       defendant [or] witness,… directly or indirectly, or attempting to do so.”
+       U.S.S.G. § 3C1.1 Comment 4(a). The First Circuit has observed that
+       “threatening letters” sent to “a prospective government witness” can
+       constitute obstruction of justice within the meaning of § 3C1.1. United
+       States v. McMinn, 103 F.3d 216, 218-19 (1st Cir. 1997). It has upheld
+       an obstruction of justice enhancement when a defendant characterized
+       another prisoner -- just as Mr. Leland characterized Mr. Stewart -- as a
+       “rat,” United States v. Lagasse, 87 F.3d 18, 23-24 (1st Cir. 1996), and
+       when a defendant told a witness she would “end up taking a one-way
+       walk through the woods.” United States v. Sabatino, 943 F.2d 94, 100-
+       01 (1st Cir. 1991). This Court has applied the same enhancement in
+
+                                          59
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 60 of 76            PageID #: 1511
+
+
+
+       similar situations. See United States v. Belskis, 477 F. Supp. 2d 237,
+       246-47 (D. Me. 2007).
+
+       The Court considered Mr. Leland’s threatening letter to Mr. Stewart to
+       be particularly egregious because it contained both a direct and indirect
+       threat against a central witness and co-defendant. Mr. Leland’s later
+       motion to withdraw his guilty plea increased the risk that if the motion
+       had been successful and the threat had been carried out or even
+       communicated to Mr. Stewart, the Government could have been
+       deprived of Mr. Stewart’s testimony at a later trial. Mr. Leland’s direct
+       threat against Mr. Stewart and his decision to let “David” and people “in
+       [his] area” know about Mr. Stewart, Sentencing Tr. at 62, compelled the
+       application of § 3C1.1. The Court’s imposition of an obstruction of justice
+       enhancement also resulted in its decision to deny a three-level reduction
+       for acceptance of responsibility under U.S.S.G. § 3E1.1. See U.S.S.G.
+       3E1.1, Comment 4 (stating that “[c]onduct resulting in an enhancement
+       under § 3C1.1 (Obstructing or Impeding the Administration of Justice)
+       ordinarily indicates that the defendant has not accepted responsibility
+       for his criminal conduct”).
+
+       Mr. Leland’s threat to Mr. Stewart in his own handwriting was the
+       primary basis for the obstruction of justice enhancement and the denial
+       of acceptance of responsibility. Mr. Leland’s other actions, including the
+       Dunroe papers, were cumulative. Thus, even if the Court concluded that
+       Mr. Leland is correct that he had nothing to do with appearance of the
+       papers in Mr. Dunroe’s house, the sentencing result for Mr. Leland
+       would be unchanged.
+
+       This is the last time the Court will explain this in writing. It is done all
+       it can do to set the record straight; yet, Mr. Leland keeps filing the same
+       motion, earnestly repeating his contention about the Dunroe papers.
+       The Court remains convinced that Mr. Leland knows full well that he
+       was very angry with Mr. Stewart and that he threatened to harm him.
+       Mr. Leland must also know that his threat was distinctly unwise
+       because consistent with the Sentencing Guidelines and First Circuit
+       authority, the Court did what it would do in any other similar case: it
+       imposed a higher sentence against Mr. Leland. The law simply does not
+       allow defendants who are awaiting sentence to write out threats against
+       central witnesses and the law extracts an additional punishment
+       against those who do so. Once again, the Court remains encouraged by
+       Mr. Leland’s assurances that he has changed his ways and now stands
+       ready to live a productive and law-abiding life. However, as the Court
+       wrote earlier, his rehabilitation will have to be its own reward.
+
+
+
+                                           60
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 61 of 76           PageID #: 1512
+
+
+
+         In short, for the last time, the Court cannot grant Mr. Leland’s repeated
+         motions because it does not have the authority to change his sentence
+         and because if it could, it would not.
+
+ Order Denying Mot. for Relief from Final J. Under Rule 60(b)/(d) at 2-6 (ECF No.
+
+ 371).
+
+         Furthermore, at the sentencing hearing, the evidence demonstrated that the
+
+ investigative material in Mr. Dunroe’s house had been forwarded by AUSA Perry to
+
+ Mr. Leland’s then attorney, Christopher Largay. The Court assumed without dispute
+
+ that Attorney Largay had not spread this confidential material around the Bangor
+
+ area. Instead, it was logical that Attorney Largay sent this investigative material to
+
+ Mr. Leland and, once in Mr. Leland’s possession, the investigative material had found
+
+ its way to Mr. Dunroe’s Hampden, Maine residence. Once the Court reached the
+
+ conclusion that the material was likely the same material that Attorney Largay had
+
+ sent Mr. Leland, the Court inferred that Mr. Leland was responsible for its
+
+ safekeeping. There were at least four possibilities: (1) that Mr. Leland deliberately
+
+ sent the material to Mr. Dunroe, (2) that Mr. Leland deliberately sent the material
+
+ to someone who then shared it with Mr. Dunroe, (3) that Mr. Leland deliberately
+
+ allowed someone in the jail to take the material and disperse it, or (4) that someone
+
+ in the jail stole the material from Mr. Leland without his knowledge or consent and
+
+ sent it to Mr. Dunroe or someone else, who then sent it to Mr. Dunroe.
+
+         Mr. Leland has repeatedly pointed to a February 9, 2009 affidavit signed by
+
+ Thomas Dunroe that Mr. Leland claims exonerates him from being the source of the
+
+ dissemination of the investigative material. The Dunroe affidavit states (1) that Mr.
+
+
+
+                                            61
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 62 of 76                  PageID #: 1513
+
+
+
+ Dunroe does not know Mr. Leland, and (2) that Mr. Leland did not mail him anything,
+
+ including the investigative material. Pet’r’s Mot. Attach. 3 Aff. of Thomas Dunroe at
+
+ 1-2.9 Even if accepted, Mr. Dunroe’s affidavit eliminates only the possibility that Mr.
+
+ Leland directly sent the material to Mr. Dunroe. The other alternatives remain
+
+ viable: (1) that Mr. Leland deliberately sent the material indirectly to Mr. Dunroe,
+
+ (2) that Mr. Leland deliberately sent material to someone other than Mr. Dunroe and
+
+ that it ended up with Mr. Dunroe, (3) that Mr. Leland allowed someone to take the
+
+ material and that person sent the material to Mr. Dunroe or to a third party, or (4)
+
+ that someone took the material from Mr. Leland’s cell without his consent and sent
+
+ it to Mr. Dunroe or to a third party who sent it to Mr. Dunroe.10 Mr. Dunroe never
+
+ mentions in his affidavit where he got the material.
+
+        At the sentencing hearing, Mr. Leland elected to remain silent on this issue.
+
+ He did not address the Dunroe material during his allocution and he presented no
+
+ evidence at all on the issue, no witnesses, no documents indicating that he had
+
+ complained of the theft to prison authorities, nothing. The Court had evidence from
+
+ Mr. Leland’s letter to “David” that Mr. Leland was disseminating investigative
+
+ material to third parties and from Mr. Leland’s letter to his son Derek that he was
+
+ sending "stuff“ about Omar and Don Grace to someone at Maine State Prison in
+
+ violation of prison policy. Therefore, his dissemination of investigative material
+
+
+
+
+ 9      As noted earlier, there are oddities about the two Dunroe affidavits that give the Court
+ considerable pause. See supra note1.
+ 10     In a motion filed on September 24, 2008, Mr. Leland implied that a man named Lance Palmer
+ sent the investigative material to Mr. Dunroe. Def. William Leland’s Pro Se Mot. for Sentence
+ Reduction at 5 (ECF No. 350). He does not reassert this claim in the pending petition.
+
+                                               62
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 63 of 76        PageID #: 1514
+
+
+
+ would be consistent with his other documented actions. Long after the sentencing
+
+ hearing, Mr. Leland has strenuously claimed that he had nothing to do with the
+
+ dissemination of the material. Mr. Leland’s protestations of innocence regarding his
+
+ role in the dissemination of the material that was found in the Dunroe house have
+
+ come far too late, have not convinced the Court that he had nothing to do with the
+
+ dissemination and, in any event, as the Court has written and re-written, it does not
+
+ matter. The Dunroe evidence was cumulative. Mr. Leland sealed the applicability
+
+ of the obstruction of justice enhancement when he sealed the letter to David
+
+ threatening Mr. Stewart.
+
+                    c.      Omar and Don Grace
+
+       The third incident upon which the Court relied in assessing an obstruction of
+
+ justice enhancement on Mr. Leland involved two codefendants, Omar and Don Grace.
+
+ This was new information that was not discussed during the presentence conference,
+
+ but the Government introduced the information at the sentencing hearing without
+
+ objection from Mr. Leland.
+
+       Mr. and Ms. Grace were a married couple; each was involved in the Leland
+
+ drug trafficking conspiracy, Ms. Grace much more than Mr. Grace. See United States
+
+ v. Donald Grace, Docket No. 1:02-cr-00017-JAW (D. Me.). They were charged by
+
+ criminal complaint on November 16, 2001 before Mr. Leland was charged by criminal
+
+ complaint on April 7, 2003. Ms. Grace pleaded guilty on October 7, 2002 and was
+
+ sentenced on January 8, 2003 to 130 months. J. (ECF No. 48-1:02-cr-00017-JAW).
+
+
+
+
+                                          63
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 64 of 76        PageID #: 1515
+
+
+
+ Mr. Grace pleaded guilty on July 9, 2003 and was sentenced on March 30, 2004 to
+
+ twenty-eight months. J. (ECF No. 100-1:02-cr-00017-JAW).
+
+       At Mr. Leland’s sentencing hearing, the Government introduced a letter dated
+
+ April 26, 2004 from Mr. Leland to his son Derek Leland, thanking him for
+
+ “photocopying all that stuff on Omar and Donny Grace.” Sentencing Tr. at 63. Mr.
+
+ Leland commented that “[i]t is going to help a lot.” Id. Mr. Leland did not say what
+
+ the “stuff” was. Mr. Leland asked his son Derek to send the information to an
+
+ attorney, marked “Legal correspondence,” in the lower right-hand corner, and to mail
+
+ it to Walter Cobb at the Maine State Prison, where Mr. Leland himself was housed
+
+ at the time. Id. According to John Shedd, a correctional investigator, Mr. Leland’s
+
+ request to his son to copy and forward material as legal correspondence violated the
+
+ prison’s mail policy. Id.
+
+       At the sentencing, the Court did not separately discuss Mr. Leland’s letter to
+
+ Derek Leland, except to note that the Government had moved it into evidence. As
+
+ the Court noted earlier, Mr. Leland’s letter to Derek Leland enclosing “stuff” about
+
+ Mr. and Ms. Grace again confirms his willingness to distribute material to third
+
+ parties on other members of his conspiracy.
+
+                     d.      Conclusion: Obstruction of Justice Enhancement
+
+       For reasons this Court has explained to Mr. Leland in detail, the Court
+
+ imposed the obstruction of justice enhancement against him at the sentencing
+
+ hearing because the evidence demonstrated that his conduct merited the
+
+ enhancement.
+
+
+
+                                         64
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 65 of 76            PageID #: 1516
+
+
+
+              8.     Acceptance of Responsibility
+
+       Mr. Leland demands that the Court “give him the three (3) point reduction he
+
+ was promised for his guilty plea.” Pet’r’s Mot. at 7. He also claims that the three-
+
+ level reduction was “agreed upon in the oral plea agreement.” Id. at 11. Here, he is
+
+ presumably referring to the three-level reduction under U.S.S.G. § 3E1.1. The Court
+
+ has already discussed its conclusions that it has accepted Mr. Leland’s Rule 11
+
+ assurance that no such oral plea agreement existed.
+
+       Turning to the terms of the written plea agreement, paragraph 3(D) provided:
+
+       The Government agrees to recommend that the Court find that the
+       Defendant has accepted responsibility for the offenses of conviction in
+       the above-captioned Indictment, and that the Court should reduce by 3
+       levels Defendant’s Adjusted Offense Level under U.S.S.G. § 3E1.1.
+
+       The Government reserves the right not to recommend a reduction under
+       U.S.S.G. § 3E1.1 if, at any time between his/her execution of this
+       Agreement and sentencing Defendant (a) fails to admit a complete
+       factual basis for the plea; (2) fails to truthfully admit his/her conduct in
+       the offenses of conviction; and (c) falsely denies or frivolously contests
+       relevant conduct for which Defendant is accountable under U.S.S.G. §
+       1B1.3.
+
+ Plea Agreement at 4.
+
+       In light of this provision, unlike the obstruction of justice enhancement, AUSA
+
+ Perry took the position the Government was able to argue under the terms of the plea
+
+ agreement whether the Court should accord Mr. Leland a three-level reduction for
+
+ acceptance of responsibility. Sentencing Tr. at 69-70. AUSA Perry argued against
+
+ the three-level reduction for acceptance because after Mr. Leland entered his guilty
+
+ plea, he continued to assert his innocence, because he had written the Court and
+
+ attempted to deflect his criminal responsibility to the prosecutor, to his ex-wife, and
+
+                                           65
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 66 of 76          PageID #: 1517
+
+
+
+ to “just about everybody but himself”, and because he obstructed justice. Id. at 70-
+
+ 72. Attorney Napolitano did not separately argue the applicability of the acceptance
+
+ of responsibility reduction. Id. at 73 (“THE COURT: Would you like to be heard on
+
+ [acceptance], Mr. Napolitano? MR. NAPOLITANO: No, your Honor, you have the
+
+ facts.”).
+
+        After reciting the language of U.S.S.G. § 3E1.1, the Court observed that if Mr.
+
+ Leland had simply remained silent after he had entered his plea, the Court would
+
+ have granted him acceptance. Id. at 74. But Mr. Leland had not remained silent.
+
+ Instead, he had engaged in a “sort of campaign” by writing letters, including letters
+
+ to the Court. Id. The problem was that “in some of the letters he wrote to me and
+
+ some of the letters he wrote elsewhere, and what he did in court, he essentially denied
+
+ what he admitted to at the time of his earlier plea.” Id. at 74-75. The Court noted
+
+ that contrary to the terms of his plea agreement, he wrote on March 11, 2004 that
+
+ “I’m saying that I wasn’t the leader or organizer of anything.” Id. at 75 (quoting
+
+ Gov’t’s Ex. 18). He wrote that he knew of “only a little over 200 grams of meth and
+
+ he implies that perhaps his ex-wife [Genessa], planted it.” Id.
+
+        One factor a court must examine in determining whether to grant a motion to
+
+ withdraw a guilty plea is whether the defendant is claiming he is actually innocent
+
+ of the crimes to which he pleaded guilty. See Order on Def.’s Mot. to Withdraw Guilty
+
+ Plea at 5, 12-13 (citing United States v. Padilla-Galarza, 351 F.3d 594, 597 (1st Cir.
+
+ 2003); United States v. Gonzalez, 202 F.3d 20, 24 (1st Cir. 2000); United States v.
+
+ Richardson, 225 F.3d 46, 51 (1st Cir. 2000)) (ECF No. 291). Accordingly, at Mr.
+
+
+
+                                           66
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 67 of 76         PageID #: 1518
+
+
+
+ Leland’s sentencing the Court returned to what Mr. Leland had maintained when he
+
+ filed his motion to withdraw his guilty plea. Sentencing Tr. at 73-78. The Court noted
+
+ that at the oral argument on the motion to withdraw the guilty plea, the Court asked
+
+ Attorney Largay whether Mr. Leland was saying that he was actually innocent of the
+
+ charges or was just maintaining that the Government could not prove them. Id. at
+
+ 75-76. After consulting with Mr. Leland, Attorney Largay stated: “Well, I conferred
+
+ with him a moment ago, your Honor. He maintains innocence with respect to more
+
+ than just that one crime. That’s what I was thinking previously.” Id. at 76 (quoting
+
+ Oral Argument on Mot. to Withdraw Guilty Plea 30:24-31:2 (ECF No. 290) (Tr.
+
+ Withdrawal of Plea Mot.)). The Court closely questioned Mr. Largay as to whether
+
+ Mr. Leland “saying someone else did it, ‘I’m innocent,’ is that right?” Id. at 77
+
+ (quoting Tr. Withdrawal of Plea Mot. at 33:14-19). Mr. Largay responded, “That is
+
+ what he is maintaining, Your Honor.” Tr. Withdrawal of Plea Mot. at 33:20-21. The
+
+ Court pressed Attorney Largay whether Mr. Leland was even claiming actual
+
+ innocence on the firearm charge and Mr. Largay responded that he was. Id. at 33:22-
+
+ 24.
+
+       Last, the Court turned to a letter Mr. Leland had authored entitled, “The Fall
+
+ of an Angel” in which Mr. Leland elaborated why he contended that other people were
+
+ responsible for the crimes to which he had pleaded guilty. Sentencing Tr. at 77. The
+
+ Court agreed with AUSA Perry that “in that eight-page letter, he blame[d] . . .
+
+ virtually everybody but himself.” Id.
+
+
+
+
+                                          67
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 68 of 76            PageID #: 1519
+
+
+
+       Based on this cumulative evidence, the Court concluded at the sentencing
+
+ hearing that “it is abundantly clear, absolutely clear, without any wiggle room here
+
+ that he is not entitled to a reduction for acceptance of responsibility because he
+
+ doesn’t accept responsibility.” Id. at 78.
+
+       In his pending motion, Mr. Leland has provided the Court with no reason to
+
+ revisit its finding at the time of sentencing that he had not accepted responsibility for
+
+ the offenses of conviction as required under U.S.S.G. § 3E1.1 for a three-level
+
+ reduction. Mr. Leland’s only current charge is that the Court and the Government
+
+ violated the terms of his plea agreement in failing to accord him the three-level
+
+ reduction, but in fact, Mr. Leland himself violated the terms of the plea agreement
+
+ by attempting to withdraw his plea and repeatedly asserting that he was not guilty
+
+ of the crimes to which he had pleaded guilty.         As the Court stated during the
+
+ sentencing hearing, Mr. Leland is “not entitled to a reduction for acceptance of
+
+ responsibility because he doesn’t accept responsibility.” Id. at 78; see U.S.S.G. §
+
+ 3E1.1, n. 1(A) (In determining whether a defendant qualifies under subsection (a),
+
+ appropriate considerations include, but are not limited to the following: (A) truthfully
+
+ admitting the conduct comprising the offense(s) of conviction . . . .”).
+
+              9.     Ineffective Assistance of Counsel
+
+       Mr. Leland now says that Attorney Robert Napolitano was ineffective in
+
+ representing him at his sentencing. Def.’s Pet. at 10-11; Def.’s Mot. at 2. However
+
+ Mr. Leland wishes to characterize it, this motion “is in substance an application for
+
+ leave to file a second or successive application under 28 U.S.C. § 2255.” J. at 1 (ECF
+
+
+
+                                              68
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 69 of 76           PageID #: 1520
+
+
+
+ No. 391); see Trenkler, 536 F.3d at 97 (1st Cir. 2008) (quoting Melton v. United States,
+
+ 359 F.3d 855, 857 (7th Cir. 2004)) (“Any motion filed in the district court that imposed
+
+ the sentence, and substantively within the scope of § 2255 ¶ 1, is a motion under §
+
+ 2255, no matter what title the prisoner plasters on the cover”) (emphasis in original).
+
+ His attempt to charge Attorney Napolitano, as opposed to his earlier counsel Attorney
+
+ Largay, with ineffective assistance of counsel is barred because it is too late, because
+
+ it is a second or successive petition on a sentencing issue, and because he is in the
+
+ wrong court; that is, he has not obtained the First Circuit’s prior permission to file
+
+ the petition. 18 U.S.C. § 2255(f), (h); 28 U.S.C. § 2244(b)(3)(A) (a petitioner must
+
+ obtain advance approval of the appellate court before proceeding with a successive §
+
+ 2255 petition).
+
+              10.    Disparate Sentences
+
+        In his petition, Mr. Leland argues that his sentence of 252 months was
+
+ disparate from other similarly-situated codefendants. Def.’s Pet. at 16-17. Mr. Leland
+
+ does not specifically mention any codefendants, what their sentences were, and why
+
+ his sentence was unlawfully disparate. Id. Mr. Leland’s argument is too undeveloped
+
+ to state a legal contention. Specifically, Mr. Leland points to no other defendant who
+
+ carried his set of enhancements, resulting in a Guideline sentence of 235 to 293
+
+ months.
+
+ III.   MOTION TO EXPUNGE CONVICTION
+
+        A.    The Motion
+
+
+
+
+                                           69
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 70 of 76          PageID #: 1521
+
+
+
+       By letter motion dated February 23, 2015, Mr. Leland asked the Court to
+
+ expunge his conviction on the felon in possession charge. Def.’s Mot. to Expunge
+
+ Conviction (ECF No. 411). Mr. Leland explained that under Bureau of Prisons (BOP)
+
+ rules, he is not entitled to receive a twelve-month reduction in sentence because of
+
+ the firearms conviction but that his case manager told him that if the Court expunged
+
+ the conviction, he could receive the twelve-month credit under BOP rules. Id. at 1-2.
+
+ Mr. Leland asserts that at the sentencing hearing or the Rule 11 colloquy, he
+
+ informed the Court that he was not guilty of some of the charges but that he pleaded
+
+ guilty to save his son. Id. at 1. He argues that his firearms conviction was based on
+
+ a receipt and he objects to the use of a receipt to establish possession. Id. To his
+
+ motion, Mr. Leland attached another letter addressed to this Judge, which goes into
+
+ detail about his view that his sentence was improperly enhanced, that he never
+
+ obstructed justice, that he was not a leader or manager, that he never possessed some
+
+ of the drugs as charged, and that his drug quantity was improperly enhanced by ghost
+
+ drugs. Id. Attach. 1 Letter from William Leland to Judge Woodcock at 1-6 (Feb. 18,
+
+ 2015). Mr. Leland also attached a BOP denial of his request for a § 3621(e) offense
+
+ review. Id. Attach. 2 Req. for § 3621(e) Offense Review at 1-2 (Nov. 18, 2014).
+
+       B.     The Felon in Possession Offense
+
+       On September 26, 2003, a federal grand jury indicted Mr. Leland for being a
+
+ felon in possession of a firearm in violation of 18 U.S.C. § 922(g). Second Superseding
+
+ Indictment at 6-7 (ECF No. 60).        Count Fourteen of the second superseding
+
+ indictment charged that Mr. Leland had been convicted of a crime publishable by
+
+
+
+                                           70
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 71 of 76        PageID #: 1522
+
+
+
+ imprisonment for a term exceeding one year, specifically Receiving Stolen Property,
+
+ Superior Court, Penobscot County, March 22, 1983, Docket Number CR-83-216. Id.
+
+ It further charged that in or about December 2002 in the District of Maine, Mr.
+
+ Leland knowingly possessed in and affecting interstate commerce the following
+
+ firearms: (1) a Colt, MK IV, .45 cal. pistol, Serial Number FC25560, (2) a Ruger,
+
+ GP100, .357 mag. Cal. revolver, Serial Number 171-97086, and (3) a Beretta, Model
+
+ 9000S, .40 caliber pistol, Serial Number SN011117. Id.
+
+       On January 27, 2004, Mr. Leland entered a plea of guilty to the firearm charge
+
+ along with a number of other charges. Minute Entry (ECF No. 205). The Government
+
+ prepared a prosecution version of the offenses for purposes of the Rule 11 hearing.
+
+ Gov’t’s Version of the Offense (ECF No. 206). Regarding the firearms possession
+
+ charge, the prosecution version reads:
+
+       The evidence and testimony also would show that as of 2002 and 2003,
+       the defendant had been convicted of a crime which under the laws of the
+       State of Maine was then punishable by imprisonment for a term
+       exceeding one year, specifically, Receiving Stolen Property, Superior
+       Court, Penobscot County, March 22, 1983, Docket Number CR-83-216,
+       and that the defendant knowingly possessed the three firearms listed in
+       Count Fourteen and that none of the firearms were manufactured in
+       Maine. The evidence would show that the defendant either gave, or
+       received, each firearm as a gift.
+
+ Id. at 2. During the Rule 11 hearing, Mr. Leland assured the Court that he was
+
+ pleading guilty because he was actually guilty. Rule 11 Hr’g 5:16-19. After being
+
+ reminded that he had to be honest with the Court, Mr. Leland confirmed that he had
+
+ read the Government’s Version of the Offense and that he did not disagree with any
+
+
+
+
+                                          71
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 72 of 76           PageID #: 1523
+
+
+
+ of the contents of the Government’s Version and that the contents of the
+
+ Government’s Version were true to his own personal knowledge. Id. 18:5-18.
+
+       C.       Expunging the Firearms Conviction
+
+       Mr. Leland cites no authority for his request that the Court expunge his
+
+ firearms conviction and the Court could find none. There is very limited statutory
+
+ authority for a federal court to expunge a criminal record and none of those provisions
+
+ applies here. See 28 U.S.C. § 534(a) (requiting the Attorney General to “acquire,
+
+ collect, classify and preserve” criminal identification records); 5 U.S.C. § 552a(d),
+
+ (g)(1)(C) (allowing claims to amend public records that are inaccurate); 21 U.S.C. §
+
+ 844a(j) (allowing for expungement of civil penalty records in certain drug possession
+
+ cases); 10 U.S.C. § 1565(e) (requiring the Secretary of Defense to expunge the records
+
+ of a DNA analysis when a court overturns a military conviction); 18 U.S.C. § 3607(c)
+
+ (authorizing a federal court to expunge the record of the disposition of a Controlled
+
+ Substance Act offense when the person received pre-judgment probation, was less
+
+ than twenty-one years old at the time of the offense, and the person applies for the
+
+ expungement order); 42 U.S.C. § 14132(d) (permitting the Director of the FBI to
+
+ expunge DNA records of individuals in certain cases where the convictions were
+
+ overturned).
+
+       Mr. Leland’s request for expungement is bottomed on the ancillary
+
+ consequences within the BOP of his conviction and he makes an equitable plea for
+
+ the Court’s intervention. However, in United States v. Coloian, 480 F.3d 47 (1st Cir.
+
+ 2007), the First Circuit joined those circuits that have concluded that a district court
+
+
+
+                                           72
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 73 of 76            PageID #: 1524
+
+
+
+ does “not have jurisdiction to consider [a defendant’s] request for the expungement of
+
+ his criminal record on equitable grounds.” Id. at 52; Boroian v. Mueller, 616 F.3d 60,
+
+ 67 (1st Cir. 2010) (addressing identification records of convicted felons). As this Court
+
+ owes allegiance to the pronouncements of law from the First Circuit, the Court
+
+ concludes that it must dismiss Mr. Leland’s motion for expungement because the
+
+ Court has no jurisdiction to consider it.
+
+ IV.   MOTION FOR SENTENCE REDUCTION PURSUANT TO 18 U.S.C. §
+       3582(c)(2)
+
+       On November 4, 2014, Mr. Leland filed a pro se motion under Amendment 782
+
+ and ineffective counsel. Habeas Corpus Mot. to Correct Sentence under Amendment
+
+ 782 and Ineffective Assistance of Counsel (ECF No. 398). In the motion, he makes
+
+ two arguments, one successful, one not. The unsuccessful argument is his claim of
+
+ ineffective counsel. The Court addressed this issue in this Order and denies that part
+
+ of his motion.
+
+       Mr. Leland, however, has stated a valid claim for sentence reduction under
+
+ Amendment 782 of the United States Sentencing Guidelines. See U.S. SENTENCING
+
+ GUIDELINES MANUAL app. C, Amendment 782 (2014). So long as the effective date of
+
+ the order is November 1, 2015 or later, under Amendment 782, the Sentencing
+
+ Commission has allowed for a two-level reduction in the calculation of the base
+
+ offense level for defendants like Mr. Leland. U.S.S.G. § 1B1.10(d), (e)(1). As Mr.
+
+ Leland’s total offense level was 38 and the criminal history category was I, his
+
+ Guideline sentence range was from 235 to 293 months and the Court imposed a 252-
+
+ month sentence in the lower end of the applicable Guideline sentence range.
+
+
+                                             73
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 74 of 76           PageID #: 1525
+
+
+
+ Sentencing Tr. at 102. If the two-level reduction is applied, Mr. Leland’s total offense
+
+ level is reduced to 36. As his criminal history category remains Category I, the newly
+
+ calculated Guideline sentence range is 188 to 235 months. In Mr. Leland’s case, the
+
+ PO recalculated Mr. Leland’s sentence to equal 201 months, proportionally reducing
+
+ Mr. Leland’s sentence.      Revised Presentence Investigation Report—2014 Drug
+
+ Reduction Act (revised Feb. 23, 2015) (RPSR). The Court appointed David Beneman,
+
+ the Federal Defender for the District of Maine, as Mr. Leland’s counsel in this matter,
+
+ see Order Appointing Counsel Pursuant to 18 U.S.C. § 3582(c)(2) (ECF No. 401), and
+
+ Federal Defender Beneman has indicated no objection to the proposed reduction to
+
+ 201 months.
+
+       The Sentencing Commission made such reductions contingent upon the
+
+ sentencing judge’s evaluation of the particular defendant. The Guidelines direct the
+
+ Court to review the statutory factors in 18 U.S.C. § 3553(a), to assess any public
+
+ safety considerations, and to evaluate the defendant’s post-sentencing conduct before
+
+ acting on motion for reduction. U.S.S.G. § 1B1.10(e)(1)(B). The statutory factors in
+
+ § 3553(a) include such factors as the defendant’s history and characteristics, the
+
+ nature and circumstances of his offenses, the need to protect the public from future
+
+ crimes of the defendant, the need to provide the defendant with educational training
+
+ or corrective treatment. 18 U.S.C. § 3553(a).
+
+       The Court has repeatedly told Mr. Leland that it has been pleased to learn he
+
+ has done so well during incarceration. Mr. Leland is now older, and presumably
+
+ wiser, than he was at the October 27, 2005 sentencing hearing. There is no evidence
+
+
+
+                                           74
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 75 of 76           PageID #: 1526
+
+
+
+ that he has violated BOP rules or has been anything other than the model prisoner
+
+ he claims to be. The many letters that the Court received in his favor from relatives
+
+ and friends indicate that, once released, Mr. Leland will have a strong support group.
+
+ Although Mr. Leland’s crimes were serious and merited a significant penalty, the
+
+ Court takes him at his word that he is a changed man, that he excommunicated
+
+ himself from the Hells Angels, that he has taken advantage of numerous educational
+
+ and drug rehabilitation classes, including classes on residential wiring and rebuilding
+
+ electric motors, that he has tutored others, and that he has earned a certificate for
+
+ paralegal studies. Finally, the newly-calculated sentence, combined with ongoing
+
+ supervised release, should be an effective deterrent for Mr. Leland.        The Court
+
+ suspects that having once traveled down the road of criminality and realized its
+
+ repercussions, Mr. Leland is not likely to travel down that same road again. The
+
+ Court’s biggest concern about Mr. Leland is his obstinate refusal to accept this Court’s
+
+ and the First Circuit’s rulings denying his complaints about his sentence. Perhaps
+
+ now that his sentence has been reduced to 201 months, a substantial reduction, Mr.
+
+ Leland will finally reconcile himself to the reduced sentence and will stop, as he
+
+ promised, his relentless and unproductive post-judgment filings.
+
+       The Court therefore grants his motion for sentence reduction under
+
+ Amendment 782 of the Guidelines and reduces his sentence to 201 months.
+
+ Contemporaneous with this opinion, the Court has issued an Order Regarding Motion
+
+ for Sentencing Reduction Pursuant to 18 U.S.C. § 3582(c)(2) reducing Mr. Leland’s
+
+ sentence from 252 months to 201 months. With this opinion and result, the Court
+
+
+
+                                           75
+Case 1:03-cr-00033-JAW Document 412 Filed 04/21/15 Page 76 of 76        PageID #: 1527
+
+
+
+ hopes that Mr. Leland is finally able to turn his attention away from attempting to
+
+ relitigate the past and instead face the more urgent and immediate task of preparing
+
+ for the future.
+
+ V.    CONCLUSION
+
+       The Court DENIES the Motion to Reconsider Petitioner’s Writ of Audita
+
+ Querela Pursuant to the All Writs Act, 28 U.S.C. § 1651 (ECF No. 408).
+
+       The Court DENIES Defendant’s Motion to Expunge Conviction (ECF No. 411).
+
+       The Court DENIES in part and GRANTS in part Defendant’s Habeas Corpus
+
+ Motion to Correct Sentence under Amendment 782 and Ineffective Assistance of
+
+ Counsel (ECF No. 398). The Court DENIES so much of the motion as demands relief
+
+ based on ineffective assistance of counsel and GRANTS so much of the motion as
+
+ demands relief pursuant to Amendment 782 of the United States Sentencing
+
+ Commission Guidelines and reduces William Leland’s period of incarceration from
+
+ 252 to 201 months.
+
+       SO ORDERED.
+
+                                       /s/ John A. Woodcock, Jr.
+                                       JOHN A. WOODCOCK, JR.
+                                       UNITED STATES DISTRICT JUDGE
+
+ Dated this 21st day of April, 2015
+
+
+
+
+                                         76
+

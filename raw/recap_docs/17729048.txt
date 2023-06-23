@@ -1,0 +1,597 @@
+Case 1:11-cr-00227-JAW Document 132 Filed 11/05/12 Page 1 of 12         PageID #: 558
+
+
+
+                       UNITED STATES DISTRICT COURT
+                            DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA                )
+                                        )
+      v.                                )        1:11-cr-00227-JAW
+                                        )
+LEVELL L. MATTHEWS                      )
+
+
+               ORDER ON DEFENDANT’S RENEWED MOTION
+                    FOR JUDGMENT OF ACQUITTAL
+
+      On September 26, 2012, a jury found Levell Matthews guilty on all counts of
+
+a five-count Second Superseding Indictment that had charged him with four
+
+firearms violations and the simple possession of marijuana. On October 16, 2012,
+
+Mr. Matthews renewed his motion for judgment of acquittal. He contends that the
+
+Government failed to produce sufficient evidence to sustain the jury’s verdict on all
+
+five counts and, on the simple possession of marijuana count, that the Government
+
+failed to present evidence that he did not possess a valid prescription for marijuana.
+
+The Court concludes the Government met its burden of proof and produced
+
+sufficient evidence from which a reasonable jury could have found Mr. Matthews
+
+guilty on all five counts. Further, the Court concludes that, to establish a violation
+
+of 21 U.S.C. § 844(a), the Government is not required to prove that a defendant did
+
+not possess a valid prescription for marijuana because the non-existence of a valid
+
+prescription is not an element of the offense.
+Case 1:11-cr-00227-JAW Document 132 Filed 11/05/12 Page 2 of 12          PageID #: 559
+
+
+
+I.    STATEMENT OF FACTS
+
+      On March 15, 2012, a federal grand jury indicted Levell Matthews on five
+
+criminal counts. Second Superseding Indictment (ECF No. 47). Count I charged
+
+him with conspiracy to knowingly make false statements in applications to
+
+purchase firearms. Id. at 1. Counts II, III, and IV charged him with being a felon
+
+in possession of firearms. Id. at 3-4. Count V charged him with possession of
+
+marijuana. Id. at 5.
+
+      Mr. Matthews’ case proceeded to trial on all five counts. At the close of the
+
+Government’s case-in-chief, the Court denied Mr. Matthews’ oral motion for a
+
+judgment of acquittal. After a two-day trial, on September 26, 2012, a jury found
+
+him guilty on all counts. Jury Verdict (ECF No. 124). On October 10, 2012, Mr.
+
+Matthews renewed his motion for acquittal pursuant to Federal Rule of Criminal
+
+Procedure 29(c). Def. Levell Matthews’ Renewed Mot. for J. of Acquittal (ECF No.
+
+128) (Def.’s Mot.). On October 16, 2012, the Government filed a Response to the Mr.
+
+Matthews’ Motion. Gov’t’s Resp. to Def.’s Renewed Mot. for J. of Acquittal (ECF No.
+
+129) (Gov’t’s Opp’n).
+
+II.   PARTIES’ POSITIONS
+
+      A.       Levell Matthews’ Motion
+
+      First,    without   providing   specifics,   Mr.   Matthews   argues   that   “the
+
+Government, as a whole, failed to produce evidence sufficient to support the counts
+
+of conviction beyond a reasonable doubt.” Def.’s Mot. at 1. Second, he asserts the
+
+Government failed to prove an element of the possession of marijuana offense,
+
+
+
+                                            2
+Case 1:11-cr-00227-JAW Document 132 Filed 11/05/12 Page 3 of 12          PageID #: 560
+
+
+
+Count V, because it failed to produce evidence that he did not possess a valid
+
+prescription for marijuana “as required by 21 U.S.C. § 844.” Id. at 2.
+
+      In support of his acquittal argument for Count V, the Defendant points to
+
+United States Supreme Court caselaw, which states that when a criminal statute
+
+includes an exception, the burden of proof lies with the Government to demonstrate
+
+the Defendant’s conduct does not fall within the exception. Id. at 3 (citing United
+
+States v. Vuitch, 402 U.S. 62 (1971)). To bolster his argument, Mr. Matthews cites
+
+caselaw from other circuits, describing § 844(a)’s elements in general terms, such as
+
+“simple possession of a controlled substance without a prescription.” Id. (citing
+
+United States v. Swiderski, 548 F.2d 445, 449 (2d Cir. 1977)). In sum, he argues
+
+that in light of judicial interpretations of 21 U.S.C. § 844(a) and proper statutory
+
+construction, the lack of a valid prescription is an element of the crime, which the
+
+Government should have but failed to prove beyond a reasonable doubt. Id. at 4.
+
+      B.     The Government’s Opposition
+
+      The Government responds that Mr. Matthew’s sufficiency of the evidence
+
+claim is baseless because the Government provided sufficient evidence for a
+
+reasonable jury to find him guilty on Counts I-V.             Gov’t’s Opp’n at 1-2.
+
+Furthermore, the Government contends that the “Defendant’s failure to point to any
+
+specific inadequacy highlights the lack of merit of his assertion.”      Id. at 2.   In
+
+support of its position, the Government sets forth a detailed summary of the trial
+
+evidence to show that Mr. Matthews’ guilt was, in fact, proven beyond a reasonable
+
+doubt for each Count. Id. at 3-8.
+
+
+
+                                          3
+Case 1:11-cr-00227-JAW Document 132 Filed 11/05/12 Page 4 of 12            PageID #: 561
+
+
+
+       Next, the Government asserts that Mr. Matthews’ additional argument for
+
+Count V should be rejected because the lack of a “valid prescription or order”
+
+language refers to an affirmative defense rather than an element of the crime. Id.
+
+at 8. The Government distinguishes the cases Mr. Matthews cites because they do
+
+not address § 844(a)’s “unless” clause and fail to discuss the relevant burdens. Id.
+
+at 9. Thus, the Government argues that it met its burden of proof and the jury’s
+
+verdict should stand on all counts. Id.
+
+III.   DISCUSSION
+
+       A.    Legal Standard
+
+       Federal Rule of Criminal Procedure 29(c) allows a defendant to move for
+
+judgment of acquittal and renew that motion within fourteen days after a guilty
+
+verdict is entered. FED. R. CRIM. P. 29(c). When a convicted defendant contests the
+
+sufficiency of the evidence adduced at trial, the court “‘must take that evidence in
+
+the light most favorable to the government and decide whether that evidence,
+
+including all plausible inferences extractable therefrom, enables a rational
+
+factfinder to conclude beyond a reasonable doubt that the defendant committed the
+
+charged crime.’” United States v. Piper, 298 F.3d 47, 58 (1st Cir. 2002) (quoting
+
+United States v. Barnes, 244 F.3d 172, 175 (1st Cir. 2001)). “In conducting this
+
+analysis, [the court is] cognizant that the government may satisfy its burden of
+
+proof ‘by either direct or circumstantial evidence, or by any combination thereof.’”
+
+Id. (quoting United States v. Gifford, 17 F.3d 462, 467 (1st Cir. 1994)). “Moreover,
+
+an inquiring court is, for this purpose, constrained to ‘resolve all credibility disputes
+
+
+
+                                           4
+Case 1:11-cr-00227-JAW Document 132 Filed 11/05/12 Page 5 of 12          PageID #: 562
+
+
+
+in the verdict’s favor.’” Id. (quoting United States v. Taylor, 54 F.3d 967, 974 (1st
+
+Cir. 1995)). In sum, the Court “ought not to disturb, on the ground of insufficient
+
+evidence, a jury verdict that is supported by a plausible rendition of the record.”
+
+United States v. Wilder, 526 F.3d 1, 8 (1st Cir. 2008) (quoting United States v. Ortiz,
+
+966 F.2d 707, 711 (1st Cir. 1992)).
+
+      B.     Sufficiency of the Trial Evidence
+
+             1.     Count I: Conspiracy to Make False Statements on
+                    Applications to Purchase Firearms
+
+      To prove that Mr. Matthews conspired to make false statements in
+
+applications to purchase firearms, the Government must first show: (1) a person
+
+knowingly made a false statement in connection with the acquisition of a firearm;
+
+(2) that at the time the person made the statement, the person was trying to buy a
+
+firearm from a licensed dealer; and (3) that the statement was intended to, or likely
+
+to, deceive the licensed dealer about a fact material to the lawfulness of the sale. 18
+
+U.S.C. § 371; 18 U.S.C. § 922(a)(6). Next, to establish a conspiracy, the Government
+
+must prove: (1) there was an agreement between two or more people, including Mr.
+
+Matthews, to make false statements in applications to purchase firearms; (2) that
+
+Mr. Matthews willfully joined that agreement; and (3) that one of the conspirators
+
+committed an overt act during the period of the conspiracy in an effort to further
+
+the purpose of the conspiracy. 18 U.S.C. § 371; see United States v. Diaz, 670 F.3d
+
+332, 347 (1st Cir. 2012).
+
+      The evidence against Mr. Matthews was more than sufficient for a rational
+
+jury to find him guilty on Count I. The Government introduced into evidence a
+
+                                          5
+Case 1:11-cr-00227-JAW Document 132 Filed 11/05/12 Page 6 of 12         PageID #: 563
+
+
+
+videotape from Frati’s Pawn Shop, which shows Mr. Matthews, a felon unable to
+
+legally purchase firearms, visiting Frati’s with Victor Morales and Renee Weeks
+
+several times and handling guns. Gov’t’s Opp’n at 3. The Government also called
+
+as a witness Renee Weeks, who pleaded guilty to conspiracy to make false
+
+statements in federal firearms applications, naming Mr. Matthews and Mr. Morales
+
+as her co-conspirators. Id. at 5. Ms. Weeks testified that she falsely filled out
+
+firearm applications by saying the firearms were for her use. Id. at 3. She also
+
+testified that she attempted to procure the firearms from Frati’s specifically for Mr.
+
+Matthews and at his request. Id. at 5.
+
+      Further, after his arrest, Mr. Matthews made statements that a rational fact-
+
+finder could have considered admissions of guilt, including statements such as,
+
+“Frati’s was a go”, “uh oh” in response to being told he was captured on video in
+
+Frati’s, and his statement that he had $4,000 in his sock when in fact there was
+
+$3,700, mathematically explained by the purchase amount of the $294 gun. Id. at
+
+7-8. Given the lack of guidance from Mr. Matthews concerning the substance of his
+
+sufficiency challenge and the Court’s obligation to view all evidence and reasonable
+
+inferences in the light most favorable to the Government, the Court denies Mr.
+
+Matthews’ renewed motion for acquittal on Count I.
+
+             2.    Counts II, III, and IV: Felon in Possession of Firearms
+
+      A defendant will be found guilty of felon in possession of a firearm if the
+
+Government can show: (1) the defendant was convicted in any court of a felony; (2)
+
+that the defendant knowingly possessed a firearm; and (3) that the firearm was
+
+
+
+                                          6
+Case 1:11-cr-00227-JAW Document 132 Filed 11/05/12 Page 7 of 12         PageID #: 564
+
+
+
+connected with interstate or foreign commerce. 18 U.S.C. § 922(g)(1). Before trial,
+
+the parties stipulated that Mr. Matthews had previously been convicted of a felony
+
+in New York and that the firearms at issue affected interstate commerce. At trial,
+
+the Government played a series of videos from Frati’s Pawn Shop showing Mr.
+
+Matthews handling a number of firearms. Because the evidence strongly supports
+
+each element of the crime beyond a reasonable doubt and Mr. Matthews does not
+
+point to any specific deficiency in the Government’s case, the jury’s verdict on
+
+Counts II, III, and IV, must be sustained.
+
+             3.    Count V: Possession of a Controlled Substance
+
+      Mr. Matthews challenges the sufficiency of the evidence for Count V on two
+
+grounds.   First, as with the other Counts, he makes a blanket non-specific
+
+statement that the evidence is insufficient to sustain the jury’s verdict. Def.’s Mot.
+
+at 2. Second, he asserts that the Government failed to prove one of the elements of
+
+the drug possession offense, namely that he did not have a valid prescription for
+
+marijuana. Id.
+
+      At trial, the Court instructed the jury that the elements for possession of a
+
+controlled substance were: (1) that Mr. Matthews possessed a controlled substance,
+
+namely marijuana; and (2) that he did so knowingly and intentionally. 21 U.S.C. §
+
+844(a). As with Counts I-IV, given that a search incident to arrest revealed Mr.
+
+Matthews had 3.2 grams of marijuana in his underwear, this direct evidence and
+
+any reasonable inferences drawn from it are sufficient to sustain the jury’s verdict
+
+on Count V. Gov’t’s Opp’n at 7. Yet, if the Defendant is correct that possession of a
+
+
+
+                                             7
+Case 1:11-cr-00227-JAW Document 132 Filed 11/05/12 Page 8 of 12           PageID #: 565
+
+
+
+controlled substance requires the Government to prove that Mr. Matthews did not
+
+have a valid prescription for the controlled substance, the Court must acquit the
+
+Defendant on Count V because there was no trial evidence on this issue. To clarify
+
+the elements of 21 U.S.C. § 844(a), the Court examines the statute’s structure and
+
+relevant caselaw.
+
+             a.     Statutory Structure of 21 U.S.C. § 844(a)
+
+       21 U.S.C. § 844(a), which criminalizes simple possession offenses, provides:
+
+       It shall be unlawful for any person knowingly or intentionally to
+       possess a controlled substance unless such substance was obtained
+       directly, or pursuant to a valid prescription or order, from a
+       practitioner, while acting in the course of his professional practice, or
+       except as otherwise authorized by this title or title III.
+
+Id. A related provision, 21 U.S.C. § 885(a), sets forth the burdens of proof for simple
+
+possession offenses.   Id. § 885(a).    Section 885(a)(1) discusses exemptions and
+
+exceptions to burdens of proof and provides:
+
+       It shall not be necessary for the United States to negative any
+       exemption set forth in this title in any complaint, information,
+       indictment, or other pleading or in any trial, hearing or other
+       proceeding under this title, and the burden of going forward with the
+       evidence with respect to any such exemption or exception shall be upon
+       the person claiming its benefit.
+
+Id.   Section 885(a)(2) directly addresses § 844(a) and states, “[i]n the case of a
+
+person charged under section 404(a) [21 U.S.C.[ ] § 844(a)] with possession of a
+
+controlled substance, any label identifying such substance . . . shall be admissible in
+
+evidence and shall be prima facie evidence that such substance was obtained
+
+pursuant to a valid prescription from a practitioner.” Id. § 885(a)(2).
+
+
+
+
+                                           8
+Case 1:11-cr-00227-JAW Document 132 Filed 11/05/12 Page 9 of 12          PageID #: 566
+
+
+
+      The Court views the language in § 844(a)―”unless such substance was
+
+obtained directly, or pursuant to a valid prescription or order”―as creating an
+
+exemption or an exception under § 885(a)(1). Because the Government does not
+
+bear the burden to negate any exception in the statute, the lack of “a valid
+
+prescription or order” language in § 844(a) must be an affirmative defense for which
+
+a defendant bears the burden of coming forward with the evidence. This conclusion
+
+is supported by the structure of § 885(a)(2), which statutorily enacts a defendant’s
+
+burden of going forward with the evidence when he asserts that he had a valid
+
+prescription or order for a controlled substance under § 844(a).
+
+      Mr. Matthews cites Vuitch to support his interpretation of § 844(a).          In
+
+Vuitch, an abortion case, the United States Supreme Court addressed whether a
+
+physician accused of performing an abortion had the burden to prove that he did so
+
+to preserve life or health.    402 U.S. at 68-69.     The Vuitch Court rejected an
+
+interpretation of this part of the statute, which would have placed a burden of proof
+
+on the defendant, commenting that to do so would “at the very least present serious
+
+constitutional problems.” Id. at 70. This Court does not view Vuitch as helpful in
+
+resolving this case because § 844(a) does not impose a burden of proof, only a
+
+burden of going forward with the evidence. This conclusion is buttressed by the
+
+Court of Appeals for the District of Columbia, which stated that “Congress obviously
+
+did not intend to place on the Government the near impossible burden of proving a
+
+negative in order to establish a violation of section 844(a).” United States v. Forbes,
+
+515 F.2d 676, 680 n.9 (D.C. Cir. 1975).
+
+
+
+                                          9
+Case 1:11-cr-00227-JAW Document 132 Filed 11/05/12 Page 10 of 12                        PageID #: 567
+
+
+
+                b.      Caselaw Outlining the Elements of 21 U.S.C. § 844(a)
+
+        Three Circuits―the District of Columbia, Fourth and Fifth Circuits―have
+
+ held that proof of the lack of a valid prescription or order is an affirmative defense
+
+ rather than an element of a § 844(a) simple possession offense.1 In Forbes, the
+
+ District of Columbia Court of Appeals concluded, “[i]t is clear that the ‘unless’
+
+ clause [of § 844(a)] establishes a defense to be raised by the accused rather than an
+
+ element of the offense to be proven by the Government. If this were not the case,
+
+ there would be no point to section 885(a)(2) . . . .” 515 F.2d at 680 n.9; see United
+
+ States v. Murray, 618 F.2d 892, 901 (2d Cir. 1980) (emphasizing that according to §
+
+ 885(a) the defendant bears the burden of going forward with evidence of exemptions
+
+ or exceptions found within any section of the Comprehensive Drug Abuse
+
+ Prevention and Control Act of 1970).              Similarly, in United States v. Foster, the
+
+ Fourth Circuit rejected the defendant’s argument that § 844(a) contained a third
+
+ element because “the exception in § 844(a) for possession pursuant to a valid
+
+ prescription is an affirmative defense that Foster [the defendant] was required to
+
+ establish.” 374 F. App’x 448, 449 (4th Cir. 2010).
+
+        Furthermore, in Woods v. Butler, the Fifth Circuit adopted Foster’s
+
+ interpretation of § 844(a) and concluded, when interpreting a Louisiana statute
+
+ modeled after § 844(a), the “unless” clause established an affirmative defense for
+
+
+ 1 In the context of a defendant’s challenge to his conviction under § 841(a) and § 846, the First
+ Circuit cited § 855 and stated, “a defendant claiming the benefit of a medical exemption bears the
+ evidentiary burden with respect to its applicability.” United States v. Hooker, 541 F.2d 300, 301-02,
+ 305 (1st Cir. 1976). The Hooker decision is not dispositive because the First Circuit dealt with
+ different sections under title 21, namely § 841 and § 846, not § 844. Id. However, the First Circuit’s
+ analysis of § 885’s impact on evidentiary burdens within the statute is consistent with the District of
+ Columbia, Fourth, and Fifth Circuit’s view of the burdens under § 844(a).
+
+                                                   10
+Case 1:11-cr-00227-JAW Document 132 Filed 11/05/12 Page 11 of 12           PageID #: 568
+
+
+
+ the defendant to raise. 847 F.2d 1163, 1167 (5th Cir. 1998) (recognizing that if the
+
+ Court were to adopt a different view of the “unless” clause “the Court would [ ] be
+
+ requiring the State to assume the difficult burden of negating the possibility of the
+
+ existence of a prescription in possession cases”); see also United States v. Felts, 602
+
+ F.2d 146, 148 (7th Cir. 1979) (concluding that pursuant to § 885(a)(1) the defendant
+
+ had the burden of going forward with proof of non-registration for a violation of §
+
+ 841(a) and that “to require the government to allege and prove non-registration of
+
+ each defendant . . . would be a substantial waste of government resources”).
+
+       The cases Mr. Matthews relies on to support his interpretation of § 844(a) are
+
+ unpersuasive.    Specifically, Mr. Matthews cites cases which repeat § 844(a)’s
+
+ statutory language generally but do not discuss the impact of § 885 on the elements
+
+ of the crime or the burdens of proof. In Dorszynski v. United States, the Supreme
+
+ Court wrote in a footnote that “§ 844(a) makes punishable the knowing or
+
+ intentional possession of a controlled substance such as LSD when not obtained
+
+ pursuant to a valid prescription or order.” 418 U.S. 424, 426 n.3 (1974). This Court
+
+ does not interpret this dictum as enumerating the elements of the offense or
+
+ discussing § 885(a)’s impact on the statute’s evidentiary burdens; the footnote does
+
+ not alter the Court’s conclusion. See id. For the same reason, United States v.
+
+ Stone, 139 F.3d 822, 834 (11th Cir. 1998), and Swiderski, 548 F.2d at 449, cases
+
+ cited by Mr. Matthews, are unpersuasive because they merely recite the statute’s
+
+ language without further analysis. Notably, in Stone, when stating the elements of
+
+ a § 844(a) offense, the Second Circuit supported its analysis with a Fifth Circuit
+
+
+
+                                           11
+Case 1:11-cr-00227-JAW Document 132 Filed 11/05/12 Page 12 of 12            PageID #: 569
+
+
+
+ case explicitly listing the elements as “‘(1) the knowing possession (2) of a controlled
+
+ substance.’” Stone, 139 F.3d at 834 (citing United States v. Krout, 66 F.3d 1420,
+
+ 1431 (5th Cir. 1995)).
+
+       The Court follows the District of Columbia, Fourth, and Fifth Circuits, and
+
+ concludes that § 844(a)’s “unless” language creates an affirmative defense, imposing
+
+ on a defendant a burden of going forward with evidence, rather than a third
+
+ element for a possession offense.     Given the presence of the marijuana in Mr.
+
+ Matthew’s underwear, a reasonable jury could have found him guilty of the simple
+
+ possession charge in Count V of the Second Superseding Indictment.
+
+ IV.   CONCLUSION
+
+       The Court DENIES the Defendant’s Renewed Motion for Judgment of
+
+ Acquittal (ECF No. 128).
+
+       SO ORDERED.
+
+
+
+                                  /s/ John A. Woodcock, Jr.
+                                  JOHN A. WOODCOCK, JR.
+                                  CHIEF UNITED STATES DISTRICT JUDGE
+
+
+ Dated this 5th day of November, 2012
+
+
+
+
+                                           12
+

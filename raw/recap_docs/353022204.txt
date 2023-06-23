@@ -1,0 +1,1024 @@
+          Case 3:22-cr-30025-MGM Document 41 Filed 02/14/23 Page 1 of 19
+
+
+
+
+                       UNITED STATES DISTRICT COURT
+                        DISTRICT OF MASSACHUSETTS
+____________________________________
+                                     )
+UNITED STATES OF AMERICA             )
+                                     )
+v.                                   )  DOCKET NO. 3:22-CR-30025-MGM
+                                     )
+DANIEL A. AUGUSTO, JR.               )
+____________________________________)
+
+                      MEMORANDUM OF LAW IN SUPPORT OF
+                   DEFENDANT’S MOTION TO SUPPRESS EVIDENCE
+
+                                     STATEMENT OF FACTS
+
+       On February 17, 2022, Special Agent John McKee (SA McKee) of the Bureau of Alcohol,
+
+Tobacco, Firearms and Explosives (ATF) applied for warrants to search the following
+
+areas/persons/electronic records: 5 Robert Drive, Holyoke, MA (5 Robert Drive) (search warrant
+
+No. 22-mj-3027-KAR), Facebook records for account with username dan.augusto.9 (search
+
+warrant    No.    22-mj-3028-KAR),       Yahoo     e-mail    records    for   the   e-mail   address
+
+pops1002@yahoo.com (search warrant No. 22-mj-3029-KAR), and the person of the Defendant,
+
+Daniel Augusto, Jr. (search warrant No. 22-mj-3030-KAR). (Exhibits 1 – 4). SA McKee provided
+
+the Court with a single affidavit in support of all four warrants. (Exhibit 5).
+
+       According to SA McKee’s affidavit, in October of 2020 the ATF learned that an individual
+
+named Timothy Watson “operated an online retail business, ‘portablewallhanger.com,’ that
+
+purported to sell innocuous 3D-printed, two-piece hooks; however, when disassembled, one of the
+
+pieces functions as an illegal Auto Sear that converts a semi-automatic AR-15 rifle into a fully
+
+automatic machinegun.” (Exhibit 5, ¶ 27). On or about October 26, 2020, the ATF obtained the
+
+self-described hooks from portablewallhanger.com and confirmed that they functioned as Auto
+
+Sears. (Id.) PayPal records from the website portablewallhanger.com showed a purchase of a
+
+
+
+
+                                                  1
+          Case 3:22-cr-30025-MGM Document 41 Filed 02/14/23 Page 2 of 19
+
+
+
+
+family sized wall hanger on February 9, 2020 for $36.48 by “Tombstone Productions” with a listed
+
+e-mail address of “pops1002@yahoo.com” and shipping information of “Dan Augusto, 5 Robert
+
+Drive, Holyoke, MA 01040”. (Id., ¶ 30). A public search of the Dun & Bradstreet online business
+
+directory for Tombstone Productions dated January 6, 2021 revealed that Tombstone Productions
+
+is located at 5 Robert Drive, Holyoke, MA, its contact person is “Dan Augusto”, and its contact
+
+phone is (413) 534-5238. (Id., ¶ 31). PayPal records of registration information for the users
+
+“Daniel Augusto,” “Dan Augusto,” and “Daniel Augusto, Sr.” revealed listed addresses of 5
+
+Robert Drive, Holyoke, MA, 52 Taylor Street, Holyoke, MA, and 179 Daggett Drive, West
+
+Springfield, MA; listed e-mail accounts of pops1002@yahoo.com, daugusto@comcast.net,
+
+daugusto@rcn.com, and daugusto@javanet.com; listed telephone numbers of (413) 534-5238,
+
+(413) 537-3510, and (413) 210-4223; and a listed business name of Tombstone Productions. (Id.,
+
+¶ 32).
+
+         Records for said PayPal account showed the following transactions with a company called
+
+Alipay Singapore E-Commerce Private Limited: a $73.55 purchase of a “8.6 inch OD 1.7
+
+Aluminum Car Fuel Filter Solvent Traps cups adapter 5/8x24 & 1/2x28 For NAPA 4003 WIX
+
+24003” on December 20, 2020, and a $99.89 purchase of an “Aluminum sprial [sic] 1/2x28 Fuel
+
+Filter For NaPa [sic] 4003 Car 8.8 inch solvent traps adapter US” on December 24, 2020. (Id., ¶
+
+33). PayPal records for both transactions listed pops1002@yahoo.com as the “From E-Mail
+
+Address” and 5 Robert Drive, Holyoke, MA as the shipping address. (Id., ¶ 34).
+
+         [S]olvent traps are devices attached to the muzzle of a firearm barrel designed to
+         catch or “trap” dirty cleaning solvent pushed through the barrel from the chamber
+         end and out through the muzzle. Solvent traps are intended to prevent solvent from
+         dripping, spraying, or spattering when pushed out the muzzle end of a firearm
+         barrel. The front endcap of a solvent trap must be solid and have no hole that will
+         allow a projectile to pass-through (including “pilot” holes that can be widened to
+         allow a projectile to pass-through or marks indicating the location to drill such a
+
+
+
+
+                                                 2
+        Case 3:22-cr-30025-MGM Document 41 Filed 02/14/23 Page 3 of 19
+
+
+
+
+       hole). Devices that have a hole in or indexing mark for a hole in the front endcap
+       are classified as a “firearm silencer” under the NFA.” (Id., ¶ 36).
+
+According to SA McKee “[t]he thread diameters “1/2x28” and “5/8x24” listed in the product
+
+descriptions of the “fuel filter” / “solvent trap” items in the Augusto PayPal records for the
+
+December 20, 2020 and December 24, 2020, indicate the items come with adapters in those
+
+dimensions. Based upon my training and experience, these described adapters match the diameters
+
+of the threads that are commonly found on the end of barrels for most 5.56 / .223 caliber, .308
+
+caliber, 9mm caliber, and .22LR caliber firearms.” (Id., ¶ 37).
+
+       SA McKee’s affidavit included the following portions of a letter dated October 30, 2020
+
+from Holyoke Police Department (“HPD”) Officer Andrew Urbanski (“Officer Urbanski”) to HPD
+
+Lieutenant James Albert. (Id., ¶ 39).
+
+       I have known D. Augusto for at least the last 15 or so years from my involvement
+       working at McCray’s Farm and assisting with the Haunted Hayride in which D.
+       Augusto runs and operated. [] During my time working for him, he would always
+       talk about different guns he has. He mentioned on several occasions that he has the
+       capabilities to make his Glock pistols go fully automatic and had large capacity
+       magazines for them. He also talked about high capacity rifles he has like the UZI
+       and UMP he has and mentioned how he orders drop in trigger kits for his assault
+       rifles to make them fully automatic. He also spoke about having “cans” which was
+       a reference to a silencer. I am not sure if they are real ones or just a solvent trap
+       style but nonetheless, he made it abundantly clear he had them. I do not believe he
+       belongs to any firing range but rather just shoots out on McCray’s property. Several
+       years ago, he was shooting the insulators on the high tension wires and when
+       confronted about it, denied shooting them and instead blamed the damage to them
+       on another individual and myself. Regarding purchasing these weapons, I
+       personally witnessed him at gun shows looking at guns, then handing his father a
+       wad of cash and had his father purchase the guns. I confronted him about this and
+       told him that this is a straw purchase. He denied everything saying the gun was for
+       his father and they were not for him but a few weeks later he would be posting on
+       “Facebook” that he purchased a new gun and it would be the same one from the
+       gun show. I know he recently has connections to a gun shop in Turners Falls as
+       well as another gun shop in Agawam where his son Tyler works. (Id.)
+
+On October 6, 2021, Officer Urbanski stated to Federal Bureau of Investigation Special Agent
+
+Ryan McGonigle (SA McGonigle) that
+
+
+
+                                                 3
+        Case 3:22-cr-30025-MGM Document 41 Filed 02/14/23 Page 4 of 19
+
+
+
+
+       a. Augusto was looking to purchase illegal or legally questionable guns or gun
+       paraphernalia;
+       b. When Officer Urbanski was serving in the United States Marine Corps
+       (“USMC”), Augusto asked him if he could get or steal guns or night vision
+       equipment from the USMC;
+       c. When Officer Urbanski worked at the firearms manufacturer Smith &Wesson
+       (“S&W”), Augusto talked with him about the S&W guns that could be altered to
+       become fully automatic; and
+       d. On approximately thirty to forty occasions, Augusto told him that he made his
+       Glock handgun fully automatic. Augusto has also told him that he purchased items
+       like a drop-in auto sear to make his weapons fully automatic. (Id., ¶ 41).
+
+       On October 7, 2021, SA McGonigle interviewed a former associate and co-worker of the
+
+Defendant, who stated:
+
+       a. He knows Augusto because he used to work at McCray’s Farm, where Augusto
+       ran a Haunted Halloween exhibit. They connected over their shared interested in
+       firearms;
+       b. Augusto frequently talked about acquiring questionably legal weapons or buying
+       items to convert legal weapons into illegal weapons;
+       c. Specifically, Augusto stated that he had purchased a Glock trigger switch that
+       converts a Glock into an automatic weapon, and drop-in auto sear that makes a
+       semi-automatic assault rifle fire in an automatic manner. Augusto told him that the
+       drop-in auto sear was a legal part but could not be placed into the gun. (Id., ¶ 42).
+
+However, “[t]he former co-worker and associate also stated that he has distanced himself from
+
+Augusto and that it has been years since he spoke with Augusto about weapons.” (Id., ¶ 42, n.6).
+
+       On July 25, 2019, officers from the HPD responded to 5 Robert Drive after the sudden
+
+death of the Defendant’s father, Daniel Augusto, Sr. (Id., ¶ 43). “While at the home, the officers
+
+met with Augusto; Augusto’s live-in girlfriend, Brigetann Reilly (“Brigetann”); and their
+
+respective adult sons, Tyler Augusto (“Tyler”) and John Reilly (“John”).” (Id.)
+
+       A review of a PeoplesBank account bearing the names of both the Defendant and his father
+
+and listing an address of 5 Robert Drive, Holyoke, MA revealed several firearms related
+
+transactions after the death of Daniel Augusto, Sr. (Id., ¶ 44). SA McKee’s affidavit described the
+
+following transactions: a $164.90 purchase from Black Rifle Depot on March 27, 2020; a $64.98
+
+
+
+                                                4
+         Case 3:22-cr-30025-MGM Document 41 Filed 02/14/23 Page 5 of 19
+
+
+
+
+purchase from 5D Tactical on March 30, 2020, a $478.13 purchase from The Gun Rack on October
+
+13, 2020; a $573.75 purchase from The Gun Rack on November 27, 2020; and a $1,593.74
+
+purchase from The Gun Rack on October 28, 2021. (Id., ¶ 45). A review of Massachusetts firearms
+
+records for Tyler revealed that the purchases from The Gun Rack corresponded to firearms
+
+registered to Tyler. (Id.) SA McKee’s expressed a “belief” that these “may be straw purchases”.
+
+(Id., ¶ 46).
+
+        A review of the PeoplesBank account also revealed the following check/wire payments to
+
+a company called Defense Distributed: “a. November 12, 2020: $1,790.90 with memo line ‘Order
+
+28428;’ b. August 10, 2021: $213.90 with memo line ‘Order 35850;’ c. November 2, 2021:
+
+$224.75 with memo line ‘Order 37686.’” (Id., ¶ 58). “Defense Distributed’s website advertises
+
+various products, including the ‘Ghost Gunner 3’ or ‘GG3,’ which the company states ‘allows you
+
+to manufacture firearms with confidence and ease, in the privacy of your own home.’” (Id., ¶ 53).
+
+“According to its website, Defense Distributed sells the GG3 for $2,500, including a $500 non-
+
+refundable deposit and excluding a shipping cost of $225.” (Id., ¶ 55).
+
+        On January 2, 2022, SA McKee conducted physical surveillance of 5 Robert Drive and
+
+observed a motor vehicle in the driveway, which is registered to the Defendant at 5 Robert Drive.
+
+(Id., ¶ 65). On January 11, 2022, ATF Task Force Officer David Seidel observed three motor
+
+vehicles in the driveway of 5 Robert Drive, which were registered to the Defendant, Tyler, and
+
+Brigetann. (Id., ¶ 66). Massachusetts licensing records revealed that Tyler and Brigetann had valid
+
+licenses to carry firearms as of January 18, 2022. (Id., ¶ 67). On January 20, 2022, SA McKee
+
+again observed the Defendant’s motor vehicle parked in the driveway of 5 Robert Drive. (Id., ¶
+
+68).
+
+
+
+
+                                                5
+         Case 3:22-cr-30025-MGM Document 41 Filed 02/14/23 Page 6 of 19
+
+
+
+
+       On February 16, 2022, SA McKee conducted queries of Firearms Ownership through the
+
+CJIS database for the Defendant, Tyler, Brigetann, John, and the Defendant’s deceased father. (Id.,
+
+¶ 72). The query revealed 0 firearms registered to the Defendant, 35 registered to his deceased
+
+father, 90 registered to Tyler, 27 registered to Brigetann, and 0 registered to John. (Id.)
+
+       A review of a Facebook account with vanity name dan.augusto.9 which is suspected to
+
+belong to the Defendant, revealed firearms-related posts on November 2, 2021, November 19,
+
+2021, December 2, 2021, and January 22, 2022. (Id., ¶¶ 115-117).
+
+       On January 25, 2022, SA McKee received the following information from Yahoo regarding
+
+the account with e-mail address pops1002@yahoo.com:
+
+       b. The “full name” for the account is: “D. Albert Augusto, Sr.”;
+       c. The “birthdate” for the account is: “****-**-**”;
+       d. The “recovery emails” for the account: “daugusto@comcast.net Verified” – i.e.,
+       the same e-mail address listed on the third check to Defense Distributed and one of
+       the e-mails listed for Augusto’s Subject Facebook Account;
+       e. The “recovery phones” for the account is: “+14135373510” – i.e. the same
+       telephone number listed on the first two checks to Defense Distributed and listed
+       for Augusto’s Subject Facebook Account. (Id., ¶ 122).
+
+       On February 23, 2022, the Defendant received a telephone call from Holyoke Police
+
+Officer David Seidel and ATF Special Agents Michael Finnerty and Zachery Mercer, who
+
+requested to speak to the Defendant in person. (Exhibit 8, Affidavit of Daniel Augusto, Jr., ¶ 3).
+
+The Defendant met Officer Seidel and Special Agents Finnerty and Mercer in the parking lot of
+
+Stop and Shop located at 28 Lincoln Street, Holyoke, MA. (Id., ¶ 4). Officer Seidel and Special
+
+Agents Finnerty and Mercer informed the Defendant that they had obtained a search warrant for
+
+the Defendant’s person as well as his residence at 5 Robert Drive. (Id., ¶ 5). Officer Seidel and
+
+Special Agents Finnerty and Mercer seized the Defendant’s cellular telephone and the keys to his
+
+home from the Defendant’s person. (Id., ¶ 6). Officer Seidel and SA Finnerty questioned the
+
+Defendant regarding certain items at 5 Robert Drive, including firearms. (Id., ¶ 8). The Defendant
+
+
+
+                                                  6
+         Case 3:22-cr-30025-MGM Document 41 Filed 02/14/23 Page 7 of 19
+
+
+
+
+answered their questions only because he knew that they had a search warrant and already had
+
+access to his home. (Id., ¶ 9).
+
+       The Defendant then traveled from Stop and Shop to his home at 5 Robert Drive. (Id., ¶ 10).
+
+When the Defendant arrived, law enforcement officers were already in the process of searching
+
+his home. (Id., ¶ 11). While the search of 5 Robert Drive was still ongoing, ATF Special Agent
+
+Christopher Michalak and FBI Special Agent Dustin Farivar questioned the Defendant regarding
+
+items found inside his home and regarding online purchases that he had made. (Id., ¶ 13). The
+
+Defendant answered their questions only because they had a search warrant and already had access
+
+to his home and the items located therein. (Id., ¶ 14).
+
+                                           ARGUMENT
+
+I.     ALL EVIDENCE OBTAINED PURSUANT TO THE FOUR SEARCH WARRANTS
+       SHOULD BE SUPPRESSED BECAUSE THE SEARCH WARRANTS WERE
+       INVALID AND THE “GOOD FAITH” EXCEPTION TO THE EXCLUSIONARY RULE
+       DOES NOT APPLY.
+
+A.     SA McKee’s Affidavit Failed To Establish Probable Cause That 5 Robert Drive, The
+       Person Of The Defendant, The Defendant’s Cellular Telephone, The Defendant’s Yahoo
+       E-Mail Records, And The Defendant’s Facebook Records Contained Evidence Of A
+       Crime.
+
+       The Fourth Amendment to the United States Constitution (Fourth Amendment), “which
+
+guarantees the ‘right of the people’ to be secure from unreasonable government searches and
+
+seizures, provides that ‘no Warrants shall issue, but upon probable cause.’” United States v. Lopes,
+
+578 F. Supp. 3d 158, 161 (D. Mass. 2021) quoting U.S. Const. amend. IV. Inquiry into the
+
+sufficiency of a search warrant application is limited to the “four corners of the affidavit.” United
+
+States v. Nelson-Rodriguez, 319 F.3d 12, 33 n.3 (1st Cir. 2003). The information contained in the
+
+affidavit “must demonstrate probable cause to believe that: (1) a crime has been committed; and
+
+(2) enumerated evidence of the offense will be found at the place to be searched – the so called
+
+
+
+
+                                                 7
+         Case 3:22-cr-30025-MGM Document 41 Filed 02/14/23 Page 8 of 19
+
+
+
+
+‘nexus’ element.” United States v. Kosta, No. 12-10226-DJC, 2013 WL 5934030, at *4 (D. Mass.
+
+Oct. 31, 2013) quoting United States v. Hicks, 575 F.3d 130, 136 (1st Cir. 2009).
+
+       “Probable cause to believe one has committed a crime is not enough necessarily to search
+
+a suspect's residence.” United States v. Gianelli, 585 F. Supp. 2d 150, 165 (D. Mass. 2008) citing
+
+United States v. Feliz, 182 F.3d. 82, 88 (1st Cir. 1999). See also Commonwealth v. Pina, 453 Mass.
+
+438, 441 (2009) (“Probable cause to expect that drugs will be present in a home is not established
+
+by the fact that the defendant lives there.”) citing Commonwealth v. Cinelli, 389 Mass. 197, 213
+
+(1983) cert. denied, 464 U.S. 860 (1983). Rather, in order for a search warrant for a residence to
+
+be valid, the search warrant affidavit must “contain sufficiently particularized information
+
+connecting the defendant’s [residence] to his illegal . . . activities”. Commonwealth v. Dillon, 79
+
+Mass. App. Ct. 290, 294-295 (2011) citing Commonwealth v. Stegemann, 68 Mass. App. Ct. 292,
+
+300 (2007). “The nexus must be both substantial and timely.” Id. citing Cinelli, 389 Mass. at 213.
+
+In other words, “[t]he critical element in a reasonable search is not that the owner of the property
+
+is suspected of crime but that there is a reasonable cause to believe that the specific ‘things’ to be
+
+searched for and seized are located in the property to which entry is sought.” Lopes, 578 F. Supp.
+
+3d at 163 (D.Mass. 2021) citing Commonwealth v. Molina, 476 Mass. 388, 396 (2017).
+
+       “To establish the requisite nexus, the government must rely on ‘timely information or else
+
+[the application] will fail.” Kosta, 2013 WL 5934030, at *4 quoting United States v. Schaefer, 87
+
+F.3d 562, 578 (1st Cir. 1996).
+
+       For purposes of determining whether the information on which the search warrant
+       was based was “stale,” courts must look to all the facts and circumstances of the
+       case, including the nature of the criminal activity under investigation, the length of
+       time during which the criminal activity is alleged to have occurred, and the nature
+       of the property to be seized.” Id. at *2 quoting United States v. Bateman, 805 F.
+       Supp. 1041, 1044–45 (D.N.H. 1992).
+
+
+
+
+                                                  8
+        Case 3:22-cr-30025-MGM Document 41 Filed 02/14/23 Page 9 of 19
+
+
+
+
+“It is well established that the temporal proximity or remoteness of the events observed has a
+
+bearing on the validity of a warrant.” United States v. Dauphinee, 538 F.2d 1, 5 (1st Cir. 1976).
+
+       “If the evidence or contraband described is either easily movable, like a firearm, or
+
+consumable, like drugs, the information about its presence in a particular location has a very short
+
+shelf life.” United States v. Wilder, No. CRIM.A. 04-10217-GAO, 2005 WL 1106922, at *5
+
+(D.Mass. May 6, 2005), aff'd, 526 F.3d 1 (1st Cir. 2008). See also Commonwealth v. Hart, 95
+
+Mass. App. Ct. 165, 168 (2019) (“standing alone, a gun’s durability does not adequately support a
+
+belief that the firearm will still be in the home two months later”); United States v. Dumornay, No.
+
+04-10309-GAO, 2006 WL 3050813, at *5 (D.Mass. October 25, 2006) (“the passage of more than
+
+a month and a half since the CI saw [the defendant] enter the house carrying the firearm made that
+
+information too remote in time for it to be relied upon to predict that the search of the premises
+
+would discover the weapon”). But see United States v. Ponzo, 853 F.3d 558, 573 (1st Cir. 2017)
+
+(holding neighbor’s statement that he witnessed defendant bring firearm to shooting range four
+
+months earlier provided probable cause to search defendant’s residence for firearm).
+
+       “Where the location of the search or seizure is a computer-like device, such as a cellular
+
+telephone, the opinions of the investigating officers do ‘not, alone, furnish the requisite nexus
+
+between the criminal activity and the device to be searched’ or seized.” Commonwealth v. White,
+
+475 Mass. 583, 589 (2016) quoting Commonwealth v. Anthony, 451 Mass. 59, 72 (2008); see also
+
+Lopes, 578 F. Supp. 3d at 163 (holding “conclusory statements that an individual’s phone may
+
+store text messages and locational data related to a crime” insufficient to establish probable cause
+
+to search phone). “Rather, police first must obtain information that establishes the existence of
+
+some ‘particularized evidence’ related to the crime.” White, 475 Mass. at 589 quoting
+
+Commonwealth v. Dorelas, 473 Mass. 496, 502 (2016). “‘Information establishing that a person
+
+
+
+
+                                                 9
+        Case 3:22-cr-30025-MGM Document 41 Filed 02/14/23 Page 10 of 19
+
+
+
+
+may be guilty of a crime does not necessarily constitute probable cause to search’ or seize the
+
+person’s cellular telephone, even where the police believe, based on their training and experience
+
+in similar cases, that the device is likely to contain relevant evidence.” Id. at 590 quoting
+
+Commonwealth v. Pina, 453 Mass. 438, 441 (2009).
+
+       In the case at bar, SA McKee’s affidavit failed to establish a timely nexus between the
+
+items to be searched for and 5 Robert Drive. Information that the Defendant had placed an order
+
+for an illegal auto sear from the website portablewallhanger.com with a shipping address of 5
+
+Robert Drive on February 8, 2020 is far too remote in time to be relied upon to predict the presence
+
+of such a highly portable item at 5 Robert Drive over two years later. Likewise, information that
+
+the Defendant placed orders for a solvent trap, a perfectly legal item designed for cleaning
+
+firearms, from a company called Alipay Singapore E-Commerce Private Limited with a shipping
+
+address of 5 Robert Drive on December 20, 2020 and December 24, 2020 is also too remote in
+
+time to be relied upon to predict the presence of such highly portable items at 5 Robert Drive over
+
+one year later. Moreover, SA McKee’s affidavit provided no information, such as records from the
+
+United States Postal Service, UPS, or FedEx, confirming that the auto sear and/or solvent traps
+
+were ever in fact shipped and delivered to 5 Robert Drive. Nor did the affidavit contain information
+
+from any witnesses who ever observed said items inside 5 Robert Drive at any point in time. And
+
+with respect to the solvent traps, SA McKee’s belief that the Defendant purchased the solvent traps
+
+to use as illegal silencers is not based on any specific articulable facts, but rather, is nothing more
+
+than pure speculation.
+
+       The statements from Officer Urbanski and an unnamed former associate/co-worker of the
+
+Defendant lend nothing to the nexus analysis as neither statement provides a timeframe for when
+
+the Defendant supposedly spoke about possessing auto sears and/or silencers. In fact, the unnamed
+
+
+
+
+                                                  10
+        Case 3:22-cr-30025-MGM Document 41 Filed 02/14/23 Page 11 of 19
+
+
+
+
+former associate/co-worker stated that he had distanced himself from the Defendant and had not
+
+spoken to the Defendant about weapons in years. And the statement from Officer Urbanski, who
+
+has known the Defendant for approximately 15 years, makes no mention of when during the course
+
+of those 15 years the Defendant discussed weapons with him. Equally important to the analysis is
+
+the fact that neither Officer Urbanski nor the unnamed former associate/co-worker ever stated that
+
+they knew the Defendant to keep auto sears and/or silencers at his home at 5 Robert Drive. On the
+
+contrary, the only locale mentioned by Officer Urbanski was that the Defendant would shoot guns
+
+at the McCray’s Farm property.
+
+       Information that the Defendant made a $164.90 purchase from Black Rifle Depot on March
+
+27, 2020 and a $64.98 purchase from 5D Tactical on March 30, 2020 adds nothing to the nexus
+
+analysis because said purchases predate the search warrant application by approximately two
+
+years, the nature of the items is entirely unknown, and it is unknown where the items were shipped
+
+to and/or stored at. Similarly, information that on October 13, 2020, November 27, 2020, and
+
+October 28, 2021 the Defendant’s bank account paid for three perfectly legal firearms purchased
+
+from The Gun Rack, which were all registered to his son, Tyler, is irrelevant to whether illegal
+
+auto sears and/or silencers were likely to be found at 5 Robert Drive. SA McKee’s “belief” that
+
+these “may be straw purchases” is nothing more than pure speculation. Furthermore, there was no
+
+specific information in SA McKee’s affidavit indicating that any particular evidence of those
+
+purchases was likely to be found at 5 Robert Drive on February 17, 2022.
+
+       Finally, information that the Defendant made purchases from a company called Defense
+
+Distributed on November 12, 2020, August 10, 2021, and November 2, 2021 is also insufficient
+
+to establish a nexus between illegal contraband and 5 Robert Drive because it is entirely unknown
+
+what items were purchased, where the items were shipped to, and where the items were being
+
+
+
+
+                                               11
+        Case 3:22-cr-30025-MGM Document 41 Filed 02/14/23 Page 12 of 19
+
+
+
+
+stored. Even when viewing all of these facts together, SA McKee’s affidavit comes nowhere close
+
+to establishing probable cause to believe that auto sears, silencers, or any other illegal firearms-
+
+related evidence would be found at 5 Robert Drive on February 17, 2022.
+
+       With respect to the Defendant’s cellular telephone and other electronic devices, the case
+
+for probable cause is even weaker. SA McKee’s affidavit is devoid of any mention of the
+
+Defendant using a cellular telephone or other specific electronic device in connection with the
+
+purchases he is alleged to have made. SA McKee’s conclusory statements that cellular telephones
+
+and other electronic devices may contain evidence related to criminal activity is insufficient to
+
+establish probable cause. Rather, particularized facts establishing a nexus are required. SA
+
+McKee’s affidavit contains no such facts.
+
+       The only information provided in the affidavit concerning the Defendant’s Facebook
+
+account is that the Defendant shared firearms-related posts on November 2, 2021, November 19,
+
+2021, December 2, 2021, and January 22, 2022. The posts were not related to auto sears, silencers,
+
+or any other illegal firearm, but rather, concerned legal firearms for sale from various vendors. It
+
+is hard to imagine how such postings could possibly lead one to reasonably believe that the
+
+Defendant’s Facebook account contained evidence of criminal activity.
+
+       Therefore, because SA McKee’s affidavit failed to establish probable cause that 5 Robert
+
+Drive, the person of the Defendant, the Defendant’s cellular telephone, the Defendant’s Yahoo e-
+
+mail records, and the Defendant’s Facebook records contained evidence of a crime, this Honorable
+
+Court should rule that all four search warrants are invalid.
+
+B.     The Scope Of The Search Warrants Was Impermissibly Broad.
+
+       Pursuant to the Fourth Amendment, warrants must describe with particularity “the place to
+
+be searched, and the persons or things to be seized.” U.S. Const. amend. IV. “The particularity
+
+
+
+
+                                                 12
+        Case 3:22-cr-30025-MGM Document 41 Filed 02/14/23 Page 13 of 19
+
+
+
+
+requirement serves as a safeguard against general exploratory rummaging by the police through a
+
+person's belongings.” Commonwealth v. Balicki, 436 Mass. 1, 7 (2002) citing Coolidge v. New
+
+Hampshire, 403 U.S. 443, 466 (1971). “[I]t both defines and limits the scope of the search and
+
+seizure, thereby protecting individuals from general searches, which was the vice of the pre-
+
+Revolution writs of assistance.” Id. quoting Commonwealth v. Pope, 354 Mass. 625, 629 (1968).
+
+       “Although ‘[i]n the physical world, police need not particularize a warrant application to
+
+search a property beyond providing a specific address, . . . in the virtual world it is not enough to
+
+simply permit a search to extend anywhere the targeted electronic objects possibly could be
+
+found.’” Commonwealth v. Snow, 486 Mass. 582, 590 (2021) (emphasis in original) quoting
+
+Commonwealth v. Dorelas, 473 Mass. 496, 501-502 (2016). “For a cell phone search, such a limit
+
+is akin to no limit at all.” Id. citing Kerr, Digital Evidence and the New Criminal Procedure, 105
+
+Colum. L. Rev. 279, 303 (2005) (“limiting a search to a particular computer is something like . . .
+
+limiting a search to the entire city”). “[G]iven the properties that render [a modern cell phone]
+
+distinct from the closed containers regularly seen in the physical world, a search of its many files
+
+must be done with special care and satisfy a more narrow and demanding standard.” Id.
+
+quoting Dorelas, 473 Mass. at 502; Riley v. California, 573 U.S. 373, 393 (2014) (noting that
+
+searches of physical items are to cell phone searches as “a ride on horseback” is to “a flight to the
+
+moon”). “[A]t a minimum, the standard for the proper scope of a cell phone search must be
+
+restricted to whether the evidence ‘might reasonably be found in the electronic files searched.’”
+
+Id. at 591 quoting Dorelas, 473 Mass. at 503 n.13. Additionally, search warrants for cellular
+
+telephones and other electronic devices must be “sufficiently limited in scope to allow a search of
+
+only that content that is related to the probable cause that justifies the search”. Commonwealth v.
+
+Holley, 478 Mass. 508, 525 (2017) quoting Dorelas, 473 Mass at 511 n.8 (Lenk, J., dissenting).
+
+
+
+
+                                                 13
+        Case 3:22-cr-30025-MGM Document 41 Filed 02/14/23 Page 14 of 19
+
+
+
+
+But see United States v. Irons, 594 F. Supp. 3d 171, 177–78 (D. Mass. 2022) (“A warrant
+
+authorizing seizure of a suspect's home computer equipment and digital storage media for later
+
+off-site electronic search is not overbroad or unreasonable, as long as the probable-cause showing
+
+in the warrant application demonstrates a ‘sufficient chance of finding some needles in the
+
+computer haystack.’”) quoting United States v. Upham, 168 F.3d 532, 535 (1st. Cir. 1999).
+
+       “The magnitude of the privacy invasion of a cell phone search utterly lacking in temporal
+
+limits cannot be overstated.” Snow, 486 Mass. at 593. “Consequently, to be sufficiently particular,
+
+a warrant for a cell phone search presumptively must contain some temporal limit.” Id., at 594
+
+citing United States v. Winn, 79 F. Supp. 3d 904, 921 (S.D. Ill. 2015); United
+
+States v. Zemlyansky, 945 F. Supp. 2d 438, 459 (S.D.N.Y. 2013) (noting temporal restriction is
+
+“indic[ium] of particularity” [citation omitted]).
+
+       Because of the privacy interests at stake, the temporal restriction in an initial search
+       warrant for a cell phone should err on the side of narrowness. If, during that initial
+       search, officers uncover information giving rise to probable cause to broaden their
+       search of the cell phone, nothing precludes them from returning to the judge and
+       requesting a broader warrant. Id.
+
+       Although the scope of the search warrants for cellular telephones, computers, and other
+
+electronic devices found at 5 Robert Drive and on the Defendant’s person was limited to
+
+information concerning the subject of the investigation, i.e. machine guns, auto sears, silencers
+
+etc., the scope of these two warrants was not limited in time. (See Exhibit 5, Attachment B-1, pp.
+
+63-66, Attachment B-4, pp. 81-84). Consequently, the search warrants gave law enforcement free
+
+reign to review communications and data dating back to the very first day the Defendant acquired
+
+the electronic devices. This is a far cry from describing with particularity the place to be searched,
+
+and consequently, is an affront to the particularity requirement of the Fourth Amendment.
+
+
+
+
+                                                 14
+        Case 3:22-cr-30025-MGM Document 41 Filed 02/14/23 Page 15 of 19
+
+
+
+
+       The search warrants for the Defendant’s Facebook and Yahoo records suffer from the same
+
+temporal defect. (See Exhibit 5, Attachment B-2, pp. 68-74, Attachment B-3, pp. 76-79). But
+
+unlike the search warrants for the Defendant’s electronic devices, the search warrants for the
+
+Defendant’s Facebook and Yahoo records encompassed a far broader category of information to
+
+be searched. Id.
+
+       The search warrant for the Defendant’s Facebook records authorized law enforcement to
+
+obtain and search “all data files” for the Defendant’s Facebook account. (See Exhibit 5,
+
+Attachment B-2, p. 68). Said warrant was not limited to information concerning the subject of the
+
+investigation, but rather, permitted law enforcement to obtain information related to “biographical
+
+information”, “information regarding [the Defendant’s] activities on Facebook”, “communications
+
+and messages published, sent or received by [the Defendant]”, “information about [the
+
+Defendant’s] associates”, “information regarding [the Defendant’s] physical location and
+
+movements”, “all subscriber and transactional records”, “addresses”, “records of session times and
+
+durations”, “length of service and types of service used”, “telephone or instrument numbers”,
+
+“other subscriber numbers or identities”, and “means and source of payments”. (Id. pp. 69-72).
+
+       Similarly, the search warrant for the Defendant’s Yahoo e-mail records authorized law
+
+enforcement to obtain and search “all data files” for the Defendant’s Yahoo account. (See Exhibit
+
+5, Attachment B-3, p. 76). Said warrant was not limited to information concerning the subject of
+
+the investigation, but rather, permitted law enforcement to obtain
+
+       1. The contents of all e-mail, whether draft, deleted, sent, or received;
+       2. The contents of all text or instant messages;
+       3. The contents of all electronic data files, whether word-processing, spreadsheet,
+       image, video, or any other content;
+       4. The contents of all calendar data;
+       5. Lists of friends, buddies, contacts, or other subscribers;
+
+
+
+
+                                                15
+        Case 3:22-cr-30025-MGM Document 41 Filed 02/14/23 Page 16 of 19
+
+
+
+
+       6. Records pertaining to communications between the company and any person
+       regarding these accounts and any e-mail accounts associated with those addresses,
+       including contacts with support services and records of actions taken.
+
+       B. All subscriber and transactional records for the Subject Yahoo Account and any
+       associated e-mail accounts, including:
+
+       1. Subscriber information for these and any associated e-mail accounts:
+       a. Name(s) and account identifiers;
+       b. Address(es);
+       c. Records of session times and durations;
+       d. Length of service (including start date) and types of service utilized;
+       e. Telephone instrument number of other subscriber number or identity, including
+       any temporary assigned network address;
+       f. The means and source of payment for such service (including any credit card or
+       bank account number); and
+       g. The Internet Protocol address used by the subscriber to register the account or
+       otherwise initiate service.
+       2. User connection logs for any connections to or from these and any associated e-
+       mail accounts, including:
+
+       a. Connection time and date;
+       b. Disconnect time and date;
+       c. The IP address that was used when the user connected to the service;
+       d. Source and destination of any e-mail messages sent from or received by the
+       account, and the date, time, and length of the message; and
+       e. Any address to which e-mail was or is to be forwarded from the account or e-
+       mail address. (Id., pp. 77-78).
+
+The enormous breadth of both the Facebook and Yahoo search warrants can be characterized as
+
+nothing less than a general, exploratory search expressly prohibited by the Fourth Amendment.
+
+Therefore, because the scope of all four search warrants was impermissibly broad, this Honorable
+
+Court should rule that all four warrants are invalid.
+
+C.     The “Good Faith” Exception To The Exclusionary Rule Does Not Apply Because The
+       Defects In the Search Warrants Were Both Readily Apparent And Went To The Heart Of
+       The Nexus Requirement.
+
+       “Fruits of unlawful searches are presumed to be excluded from evidence before the trier of
+
+fact at trial.” Kosta, 2013 WL 5934030, at *2 citing Mapp v. Ohio, 367 U.S. 643, 655 (1961).
+
+However, pursuant to the “good faith” exception to the exclusionary rule, evidence obtained
+
+
+
+                                                 16
+        Case 3:22-cr-30025-MGM Document 41 Filed 02/14/23 Page 17 of 19
+
+
+
+
+pursuant to a warrant that is ultimately found to be invalid need not be suppressed if officers acted
+
+in objectively “reasonable reliance upon the magistrate’s probable-cause determination and the
+
+technical sufficiency of the warrant”. United States v. Leon, 468 U.S. 897, 922 (1984). The good
+
+faith exception is not applicable “if the magistrate or judge in issuing a warrant was misled by
+
+information in an affidavit that the affiant knew was false or would have known was false except
+
+for his reckless disregard of the truth.” Id. at 923 citing Franks v. Delaware, 438 U.S. 154 (1978).
+
+Nor does the exception apply “where the issuing magistrate wholly abandoned his judicial role”
+
+such that “no reasonably well trained officer should rely on the warrant.” Id. The exception is also
+
+inapplicable where the supporting affidavit is “so lacking in indicia of probable cause as to render
+
+official belief in its existence entirely unreasonable.” Id. quoting Brown v. Illinois, 422 U.S., 590,
+
+610–611 (1973) (Powell, J., concurring in part). “Finally, depending on the circumstances of the
+
+particular case, a warrant may be so facially deficient—i.e., in failing to particularize the place to
+
+be searched or the things to be seized—that the executing officers cannot reasonably presume it to
+
+be valid.” Id. citing Massachusetts v. Sheppard, 468 U.S. 981, 988–991 (1984).
+
+       “[W]here the warrant’s deficiency goes to the heart of the nexus requirement . . .
+
+suppression still serves the purpose of the exclusionary rule.” Kosta, 2013 WL 5934030, at *8
+
+(declining to apply good faith exception where last evidence of drug activity was six months prior
+
+to application for search warrant) citing United States v. Ricciardelli, 998 F.2d 8, 16 (1st Cir. 1993)
+
+(declining to apply good faith exception where lack of nexus between criminal activity and
+
+evidence to be seized was “glaring”); see also Lopes, 578 F. Supp. 3d at 164 (declining to apply
+
+good faith exception where affiant’s conclusion that defendant was suspected shooter based on
+
+“speculation and weak (and largely unsupported) inferences”). “The government bears the ‘heavy
+
+
+
+
+                                                  17
+        Case 3:22-cr-30025-MGM Document 41 Filed 02/14/23 Page 18 of 19
+
+
+
+
+burden’ of proving that the good faith exception applies.” Kosta, 2013 WL 5934030, at *7 citing
+
+United States v. Syphers, 426 F.3d 461, 468 (1st Cir. 1995).
+
+       As discussed in detail in Part I.A supra, the lack of probable cause was not a close call, but
+
+rather, was both readily apparent and went to the heart of the nexus requirement. And as discussed
+
+in detail in Part I.B supra, the unbridled scope of all four search warrants rendered them so facially
+
+deficient that the executing officers could not have reasonably presumed the warrants to be valid.
+
+Therefore, this Honorable Court should hold that the “good faith” exception to the exclusionary
+
+rule does not apply.
+
+II.    THE DEFENDANT’S STATEMENTS TO LAW ENFORCEMENT SHOULD BE
+       SUPPRESSED BECAUSE THEY WERE THE PRODUCT OF THE UNLAWFUL
+       SEARCH AND SEIZURE.
+
+       A statement that is the product of an illegal search and seizure of evidence is subject to
+
+suppression under the “fruit of the poisonous tree” doctrine. See Wong Sun v. United States, 371
+
+U.S. 471, 485 (1963) (“verbal evidence which derives . . . from an unlawful entry . . . is no less the
+
+‘fruit’ of official illegality than the more common tangible fruits of the unwarranted intrusion”).
+
+       In the case at bar, the Defendant made two statements to law enforcement. The first
+
+statement was made in the parking lot of Stop and Shop immediately after being informed of the
+
+search warrants for his person and his home and immediately after his cellular telephone and house
+
+keys were seized. The second statement was made outside of 5 Robert Drive while federal agents
+
+were in the process of searching the home. As discussed in Part I supra, the search warrants for
+
+the Defendant’s person and 5 Robert Drive were invalid. Consequently, the seizure of the
+
+Defendant’s cellular telephone and the search of 5 Robert Drive were unlawful. The Defendant
+
+only agreed to speak to investigators because he knew what they were in the process of discovering
+
+pursuant to the invalid warrants. Therefore, because the Defendant’s statements were the product
+
+
+
+
+                                                 18
+        Case 3:22-cr-30025-MGM Document 41 Filed 02/14/23 Page 19 of 19
+
+
+
+
+of an unlawful search and seizure, this Honorable Court should rule that the Defendant’s
+
+statements must be suppressed as “fruit of the poisonous tree”.
+
+                                         CONCLUSION
+
+       For the reasons stated herein, the Defendant prays that this Honorable Court grant his
+
+Motion To Suppress Evidence.
+
+                                                    Respectfully Submitted,
+
+
+Dated: February 14, 2023                       By:/s/ Peter Alexander Slepchuk
+                                                  Peter Alexander Slepchuk, BBO#: 682078
+                                                  Attorney for the Defendant
+                                                  155 Maple Street, Suite 405
+                                                  Springfield, MA 01105
+                                                  Tel: 413-736-3649; Fax: 413-747-9022
+                                                  E-mail: peter.alexander@slepchuklaw.com
+
+
+
+
+                                 CERTIFICATE OF SERVICE
+
+I, Peter Alexander Slepchuk, hereby certify that on this 14th day of February, 2023, I served this
+
+document upon all registered parties via the ECF Notice of Electronic Filing (NEF) system.
+
+Dated: February 14, 2023                                           /s/ Peter Alexander Slepchuk
+                                                                   Peter Alexander Slepchuk
+
+
+
+
+                                               19
+

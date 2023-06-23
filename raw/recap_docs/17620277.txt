@@ -1,0 +1,698 @@
+                                  UNITED STATES DISTRICT COURT
+                                       DISTRICT OF MAINE
+
+
+JAMES DAMON,                                                  )
+                                                              )
+        Movant,                                               )
+                                                              )
+v.                                                            ) 1:08-cr-00157-JAW-3
+                                                              ) 1:11-cv-00058-JAW
+UNITED STATES OF AMERICA,                                     )
+                                                              )
+        Respondent                                            )
+
+
+                 RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+        James Damon is serving a 70-month sentence after his guilty-plea conviction for being a
+
+felon in possession of a firearm. Damon‘s sentence was affirmed on direct appeal. United States
+
+v. Damon, 595 F.3d 395 (1st Cir. 2010). In this 28 U.S.C. § 2255 proceeding Damon is arguing
+
+that because of intervening case law he is ‗actually innocent‘ of his base offense level of 241
+
+because his prior Massachusetts conviction for simple assault and battery should not now be
+
+counted as a crime of violence for purposes of 18 U.S.C. § 922(g)(1).2 Currently represented by
+
+a federal defender, he seeks resentencing. The United States has filed an answer seeking
+
+summary dismissal. In the event there is a resentencing the United States forewarns that it will
+
+seek an upward variant sentence of 70-months.
+
+                                                   Discussion
+
+        ―A prisoner in custody under sentence of a court established by Act of Congress claiming
+
+the right to be released upon the ground that the sentence was imposed in violation of the
+
+1
+         After his criminal history boosted his base offense level and his acceptance of responsibility brought it
+down, Damon‘s total offense level was 23 with a criminal history category of IV, and the applicable guideline range
+for imprisonment was 70 to 87 months.
+2
+         During sentencing Damon did not dispute that this conviction qualified as a violent felony under the
+applicable guidelines (Def.‘s Sentencing Mem. at 6 n.1) although he did actively contest that his controlled
+substance conviction should be counted (id. at 6-9).
+Constitution or laws of the United States, or that the court was without jurisdiction to impose
+
+such sentence, or that the sentence was in excess of the maximum authorized by law, or is
+
+otherwise subject to collateral attack, may move the court which imposed the sentence to vacate,
+
+set aside or correct the sentence.‖ 28 U.S.C. § 2255(a).
+
+         Damon‘s motion presents a discreet legal question about the potential application of the
+
+change in law to Damon‘s sentence. Paramount to Damon‘s attempt to get 28 U.S.C. § 2255
+
+relief are Johnson v. United States, 559 U.S. __, 130 S. Ct. 1265 (2010) and the First Circuit‘s
+
+subsequent United States v. Holloway, 630 F.3d 252 (1st Cir. 2011).3
+
+        The United States Supreme Court‘s Johnson addressed a challenge to an Armed Career
+
+Criminal Act (ACCA), 18 U.S.C. § 924 (e)(2)(B), sentence and explained:
+
+        We think it clear that in the context of a statutory definition of ―violent felony,‖
+        the phrase ―physical force‖ means violent force-that is, force capable of causing
+        physical pain or injury to another person. See Flores v. Ashcroft, 350 F.3d 666,
+        672 (C.A.7 2003) (Easterbrook, J.). Even by itself, the word ―violent‖ in §
+        924(e)(2)(B) connotes a substantial degree of force. Webster's Second 2846
+        (defining ―violent‖ as ―[m]oving, acting, or characterized, by physical force, esp.
+        by extreme and sudden or by unjust or improper force; furious; severe; vehement
+        ...‖); 19 Oxford English Dictionary 656 (2d ed.1989) ( ―[c]haracterized by the
+        exertion of great physical force or strength‖); Black's 1706 (―[o]f, relating to, or
+        characterized by strong physical force‖). When the adjective ―violent‖ is attached
+        to the noun ―felony,‖ its connotation of strong physical force is even clearer. See
+        id., at 1188 (defining ―violent felony‖ as ―[a] crime characterized by extreme
+        physical force, such as murder, forcible rape, and assault and battery with a
+        dangerous weapon‖); see also United States v. Doe, 960 F.2d 221, 225 (C.A.1
+        1992) (Breyer, C.J.) (―[T]he term to be defined, ‗violent felony,‘ ... calls to mind a
+        tradition of crimes that involve the possibility of more closely related, active
+        violence‖).
+
+Johnson, 130 S.Ct. at 1271.
+
+
+
+
+3
+        The United States does not contest that Damon‘s Massachusetts conviction at issue here falls under the
+umbrella of Holloway‘s holding. (Gov‘t Mot. at 1.) Compare United States v. Dancy, 640 F.3d 455 (1st Cir. 2011).
+                                                       2
+        In Holloway the First Circuit Court of Appeals addressed a challenge to an ACCA
+
+―violent felony‖ predicate offense vis-à-vis a Massachusetts conviction for a simple assault and
+
+battery. The Panel explained:
+
+        The statute does not break the offense down into its various types nor does it
+        provide charging language specific to those types. Consequently, a sentencing
+        court may not rely on the generic ―did assault and beat‖ charging language to
+        identify which particular battery offense served as the offense of conviction. It is
+        clear under state court construction of the statute that the statute encompasses a
+        category of offenses which are no more than offensive touchings. We believe,
+        applying Johnson, that the government has not established the offense of harmful
+        battery as the statute has been construed. Another circuit has come to this same
+        conclusion. United States v. Jones, 235 F.3d 342, 347 (7th Cir.2000) (―[N]o
+        inference regarding whether [the defendant] committed a crime of violence can be
+        drawn from the charging document's use of the phrase ‗did assault and beat.‘ ‖)
+
+Holloway, 630 F.3d at 260.4
+
+        Pre-sentence Investigation Report
+
+        The paragraph of the Revised Presentence Investigative report at the heart of this 28
+
+U.S.C. § 2255 proceeding, Paragraph 30, reads as follows:
+
+        30. 12/08/05
+        Age 20
+        Assault and Battery,
+        Massachusetts District
+        Court, Brockton, Dkt. No. 0515CR008411
+        01/12/06: Guilty plea entered and accepted;
+        Filed
+        4A1.1(c) 1
+
+        The potential penalty of this offense was up to 2 ½ years imprisonment under
+        State of Massachusetts law. Docket Sheets indicate that the defendant was
+        represented by counsel and that the offense occurred on December 8, 2005, in
+        Brockton, Massachusetts. Records indicate that the defendant assaulted [the
+        victim] by grabbing her by the throat and pushing her against a wall.
+
+4
+          This Court addressed these two precedents in United States v. Bryant, No. 1:11-cr-00021-JAW, 2011 WL
+1456149, 1 (D. Me. Apr. 13, 2011) vis-à-vis a motion to dismiss an indictment for a 18 U.S.C. § 922(g)(9)
+prosecution predicated on a Maine conviction for a misdemeanor crime of domestic violence. Shortly thereafter, the
+First Circuit confirmed in United States v. Booker, 644 F.3d 12, 17 -18 (1st Cir. 2011) that the two precedents are
+not applicable in § 922(g)(9) context.
+                                                        3
+(PIR ¶ 30.)
+
+        Attached to Damon‘s § 2255 motion is a copy of the December 12, 2005, complaint in
+
+Brockton, Massachusetts, Docket Number 0515 CR 008411. (Doc. No. 289-1.) The complaint
+
+listed as the name of the defendant James E. Damon, cited ―265/13A/B,‖ and read: ―On
+
+DECEMBER 8, 2005, did assault and beat JOAN MARIE DAMON, in violation of G.L. c.265,
+
+§13A(a) (PENALTY: house of correction not more than 2 ½ years; not more than $1000)‖ (Id.)
+
+        The United States has attached a copy of the police investigative report to its answer. It
+
+is very much more descriptive of the type of physical force alleged by the victim. Upon his
+
+arrival at the residence the officer,
+
+        spoke with the victim … who stated she got into a verbal argument with suspect
+        James E. DAMON…. The victim stated the argument escalated and the suspect
+        became physically violent. She stated [Damon] grabbed her by the throat and
+        pushed her up against a wall. The victim continued to say the suspect continually
+        pushed her and screamed at her stating that he was ―untouchable‖. The argument
+        [eventually] ended and the suspect left. At that point the victim called the police.
+        ….
+               During this officer[‘]s interview of the victim I observed the victim[‘]s
+        neck to be red and discolored.
+
+
+(Doc. No. 328 at 3)(redacted version). However, as the discussion below makes clear this is not
+
+the type of evidence that the Court can consider in making the violent felony determination,
+
+although there was considerable discussion concerning consideration of this type of extra
+
+evidence when arriving at the ultimate sentence once the guideline calculation has been made.
+
+        Sentencing Guidelines
+
+        United States Sentencing Guideline § 2K2.1(a)(2) sets forth a 24 base offense level, ―if
+
+the defendant committed any part of the instant offense subsequent to sustaining at least two
+
+felony convictions of either a crime of violence or a controlled substance offense.‖ U.S.S.G. §
+                                                 4
+2K2.1(a)(2). The application note provides: ―‗Crime of violence‘ has the meaning given that
+
+term in § 4B1.2(a) and Application Note 1 of the Commentary to § 4B1.2.‖ As relevant to
+
+Damon‘s case § 4B1.2(a), the ACCA guideline, provides: ―The term ‗crime of violence‘ means
+
+any offense under federal or state law, punishable by imprisonment for a term exceeding one
+
+year, that—[] has as an element the use, attempted use, or threatened use of physical force
+
+against the person of another.‖ § 4B1.2 (a)(1).
+
+Pre-Sentence Supreme Court Relevant Precedents
+
+         There are a cluster of cases from the United States Supreme Court predating Damon‘s
+
+sentencing and the violent felony determination that set the stage for the following discussion.5
+
+Key among these for present purposes are Shepard v. United States, 544 U.S. 13 (2005) and
+
+Taylor v. United States, 495 U.S. 575 (1990).
+
+         In Shepard, weaving in Taylor, the Court held:
+
+         In Taylor v. United States, 495 U.S. 575 (1990), we held that a court sentencing
+         under the ACCA could look to statutory elements, charging documents, and jury
+         instructions to determine whether an earlier conviction after trial was for generic
+         burglary. The question here is whether a sentencing court can look to police
+         reports or complaint applications to determine whether an earlier guilty plea
+         necessarily admitted, and supported a conviction for, generic burglary. We hold
+         that it may not, and that a later court determining the character of an admitted
+         burglary is generally limited to examining the statutory definition, charging
+         document, written plea agreement, transcript of plea colloquy, and any explicit
+         factual finding by the trial judge to which the defendant assented.
+
+Shepard, 544 U.S. 13, 16 (2005) (emphasis added). The Court carefully explored these
+
+precedents in ruling on Damon‘s sentencing challenge to using his controlled substance
+
+conviction as a predicate offense. For instance, it observed:
+
+
+5
+         I have not felt it necessary to go into a full-fledged discussion of either Teague v. Lane, 489 U.S. 288
+(1989) or Bousley v. United States, 523 U.S. 614, 620 (1998), the foundations of the retroactivity inquiry. The
+Court and the parties are well apprised of these bedrocks and the (unresolved) question to be resolved is adequately
+fleshed out in the Circuit cases discussed below.
+                                                          5
+        So there had to be a way to treat similar people similarly throughout the country,
+        to do so in a categorical way, and to avoid retrying things that have already been
+        determined. And for that purpose, I think the court was wise to look at charging
+        documents, at the J and C, at plea colloquy, at plea agreements, things that are not
+        in dispute and that are more or less official documents under the law. So I really --
+        at first, I thought Shepard was odd, an outlier, but the more I thought about it, the
+        wiser I think it is.
+
+(Sentencing Tr. at 16.)
+
+        With regards to identifying counts as a ―violent felony‖, it is not necessary for this Court
+
+to inquire into whether or not Damon‘s assault conviction counts as a ‗violent felony‘ in view of
+
+Holloway. Compare Chambers v. United States, 555 U.S. 122, 126 (2009) (cert review after
+
+direct appeal) (concluding that failure to report under a multi-dimensional Massachusetts statute
+
+does not qualify as a ACCA predicate); Begay v. United States, 553 U.S. 137, 139 (2008) (―The
+
+question in this case is whether driving under the influence of alcohol is a ―violent felony‖ as the
+
+Act defines it. We conclude that it is not.‖).6 However, Chambers and Begay do feature in
+
+discussions about the retroactivity of such determinations to cases on collateral review.
+
+Current Inter-Circuit Disagreement
+
+        In Davis v. United States, the Supreme Court observed, ―absent the particular
+
+considerations regarded as dispositive in that case, the fact that a contention is grounded not in
+
+the Constitution, but in the ‗laws of the United States' would not preclude its assertion in a [§]
+
+2255 proceeding.‖ 417 U.S. 333, 346 (1974).7 Davis stressed that § 2255 relief must issue if the
+
+
+6
+         See also Sykes v. United States, __ U.S. __,__, 131 S.Ct. 2267, 2272 (2011) (―So while there may be little
+doubt that the circumstances of the flight in Sykes' own case were violent, the question is whether § 35–44–3–3 of
+the Indiana Code, as a categorical matter, is a violent felony.‖) (residual clause).
+7
+         Davis was not addressing a sentencing law:
+                   In this case, the petitioner's contention is that the decision in Gutknecht v. United States,
+         as interpreted and applied by the Court of Appeals for the Ninth Circuit in the Fox case after his
+         conviction was affirmed, establishes that his induction order was invalid under the Selective
+         Service Act and that he could not be lawfully convicted for failure to comply with that order. If
+         this contention is well taken, then Davis' conviction and punishment are for an act that the law
+         does not make criminal. There can be no room for doubt that such a circumstance ‗inherently
+                                                         6
+circumstance of the case ―‗inherently results in a complete miscarriage of justice‘ and ‗present(s)
+
+exceptional circumstances‘ that justify collateral relief under [§] 2255.‖ Id. This is the standard
+
+relied on by the Circuit opinions summarized below.8
+
+         There are a handful of Circuit-level cases that address the applicability of the
+
+Begay/Chambers/Johnson/Holloway line of precedents to post-sentencing cases.9 The Seventh
+
+Circuit‘s Narvaez v. United States, 641 F.3d 877 (7th Cir. 2011) addressed a career offender
+
+sentence in the context of a 28 U.S.C. § 2255 proceeding and remanded for resentencing without
+
+the career offender enhancement. Id. at 878. With regards to the posture of this sentencing
+
+challenge the Panel reasoned:
+
+                 We have recognized that sentencing errors are generally not cognizable on
+         collateral review. See Scott v. United States, 997 F.2d 340, 342–43 (7th
+         Cir.1993). Mr. Narvaez's case, however, does not come within this general rule. It
+         presents a special and very narrow exception: A post-conviction change in the law
+         has rendered the sentencing court's decision unlawful. See Welch [v. United
+
+          results in a complete miscarriage of justice‘ and ‗present(s) exceptional circumstances‘ that justify
+          collateral relief under [§] 2255. Therefore, although we express no view on the merits of the
+          petitioner's claim, we hold that the issue he raises is cognizable in a [§] 2255 proceeding.
+Id. at 346-47. Id. at 343. (―Although this microscopic analysis of [§] 2255 surely shows that the statutory
+language is somewhat lacking in precision, the resulting shadow that the dissenting opinion would cast over
+the statute totally disappears in the light of its legislative history. …That history makes clear that [§] 2255
+was intended to afford federal prisoners a remedy identical in scope to federal habeas corpus.‖).
+8
+          In United States v. Addonizio the United States Supreme Court gave the following summary of the scope
+of 28 U.S.C. § 2255 relief:
+                    While the remedy is in this sense comprehensive, it does not encompass all claimed
+          errors in conviction and sentencing. Habeas corpus has long been available to attack convictions
+          and sentences entered by a court without jurisdiction. See, e. g., Ex parte Watkins, 3 Pet. 193, 202-
+          203, 7 L.Ed. 650 (Marshall, C. J.). In later years, the availability of the writ was expanded to
+          encompass claims of constitutional error as well. See Waley v. Johnston, 316 U.S. 101, 104-105;
+          Brown v. Allen, 344 U.S. 443. But unless the claim alleges a lack of jurisdiction or constitutional
+          error, the scope of collateral attack has remained far more limited. Stone v. Powell, 428 U.S. 465,
+          477 n. 10. The Court has held that an error of law does not provide a basis for collateral attack
+          unless the claimed error constituted ―a fundamental defect which inherently results in a complete
+          miscarriage of justice.‖ Hill v. United States, 368 U.S. 424, 428.
+442 U.S. 178, 185 (1979).
+9
+          These cases have complicated procedural histories including reversals, rehearings en banc, and dissents. If
+given a full reading it becomes clear that this is a challenging determination very much open to reasonable dispute
+among the federal District and Circuit Courts. The United States has cited a string of District Court cases from
+Florida that touch upon the issue, but, as Damon points out, they are for the most part decided on alternative
+grounds.
+                                                          7
+       States], 604 F.3d [408,] 412–13 [(7th Cir. 2010)] (recognizing that relief is
+       available ―where a change in law reduces the defendant's statutory maximum
+       sentence below the imposed sentence‖). In Begay and Chambers, the Supreme
+       Court resolved an open question regarding the kinds of crimes that fall within the
+       meaning of ―violent felony‖ under the ACCA, and, by implication, the career
+       offender guideline. See [United States v.] Templeton, 543 F.3d [378] 380 [(7th
+       Cir. 2008)]. The Court's pronouncements did not simply constitute an
+       ―intervening change in the law‖ in the traditional sense. Rather, the decisions
+       make clear that, at the time of his sentencing, Mr. Narvaez did not qualify as a
+       career offender under the guidelines. An additional five years of incarceration was
+       imposed upon him without any legal justification. Such gratuitous infliction of
+       punishment is a fundamental defect in the court's judgment that clearly constitutes
+       a complete miscarriage of justice and a violation of due process.
+
+Id. at 881-82 (footnote omitted). With regards to the potential that the defendant could still be
+
+sentenced to the same term on remand, the Panel declared: ―Speculation that the district court
+
+today might impose the same sentence is not enough to overcome the fact that, at the time of his
+
+initial sentencing, Mr. Narvaez was sentenced based upon the equivalent of a nonexistent
+
+offense.‖ Id. at 183.
+
+       The Eighth Circuit addressed the question of the applicability of these new precedents to
+
+a 28 U.S.C. § 2255 movant in Sun Bear III v. United States, 644 F.3d 700 (8th Cir. 2011)
+
+(rehearing en banc). On rehearing en banc the Circuit reversed the Panel‘s decision and diverged
+
+from Narvaez on the question of whether you could bring a guidelines challenge for the first time
+
+in a habeas proceeding, answering no. Id. at 705. The majority reasoned in part:
+
+       In this case, the panel concluded that the miscarriage-of-justice exception applies
+       because Sun Bear's claim ―is based on a post-conviction change in the law that
+       renders unlawful the district court's sentencing determination.‖ Sun Bear II [v.
+       United States], 611 F.3d [925,] 930 [(8th Cir. 2010)], citing Davis, 417 U.S. at
+       346–47. We disagree. Sun Bear's 360–month sentence is not unlawful. An
+       unlawful or illegal sentence is one imposed without, or in excess of, statutory
+       authority. United States v. Foster, 514 F.3d 821, 824 (8th Cir.2008); United States
+       v. Stobaugh, 420 F.3d 796, 804 (8th Cir.2005) (―a sentence is not illegal ... unless
+       it exceeds the statutory maximum for the offense of conviction‖), cert. denied,
+       546 U.S. 1120 (2006). Sun Bear's sentence is well-within the statutory maximum
+       authorized for the offense of second-degree murder, see 18 U.S.C. § 1111(b), and
+                                                 8
+        in addition within the initial guidelines range of 292–365 months. Unlike cases
+        such as Welch and [United States v.]Shipp, [589 F.3d 1084 (10th Cir. 2009)]
+        where applying the ACCA increased the defendant's statutory maximum sentence,
+        the same 360–month sentence could be reimposed were Sun Bear granted the §
+        2255 relief he requests. Thus, no miscarriage of justice is at issue.
+
+Id. at 705.
+
+        For its part, the Eleventh Circuit addressed among other theories a claim by a 28 U.S.C.
+
+§ 2255 movant that he was actually innocent of being a career offender. Gilbert v. United
+
+States, 640 F.3d 1293, 1320 (11th Cir. 2011). On rehearing en banc the Panel summarized:
+
+                Unable to colorably contend that he was convicted of a nonexistent crime,
+        Gilbert asserts instead that he ―is actually innocent of being a career offender,
+        factually and legally.‖ Put in its best light, Gilbert's argument assumes that he was
+        convicted of the nonexistent offense of being a career offender with only one
+        qualifying predicate offense. But he wasn't. As the indictment and the judgment in
+        this case show, Gilbert was not charged with, nor was he convicted of, being a
+        career offender. A defendant who is convicted and then has the § 4B1.1 career
+        offender enhancement, or any other guidelines enhancement, applied in the
+        calculation of his sentence has not been convicted of being guilty of the
+        enhancement. If guidelines enhancements were crimes, they would have to be
+        charged in the indictment and proven to the jury beyond a reasonable doubt. See
+        United States v. Kenney, 391 Fed.Appx. 169, 172 n. 2 (3d Cir.2010)
+        (unpublished) (―The career offender enhancement is not a separate offense,
+        however. If it were, its elements would need to be proven to a jury beyond a
+        reasonable doubt.‖). Gilbert's position turns on treating sentences as convictions,
+        and an argument that depends on calling a duck a donkey is not much of an
+        argument.
+
+Id. at 1320. ―In other words,‖ the Panel summed up after a lengthy discussion, ―the actual
+
+innocence of sentence exception to the bar against second or successive motions involving
+
+sentence claims, as narrow as it was, did not survive AEDPA.‖ Id. at 1322. But it expressly
+
+noted: ―We do not decide whether a claim that the sentencing guidelines were misapplied may
+
+be brought in a first time § 2255 motion.‖ Id. at 1323. The case simply does not answer the
+
+question posed by this petition.
+
+
+
+                                                 9
+       In an unpublished decision the Third Circuit denied a certificate of appealability to a 28
+
+U.S.C. § 2255 movant challenging a career offender determination in the wake of Begay. United
+
+States v. Manigault, 395 Fed.Appx. 831, 834, 2010 WL 3794607 (3d Cir. 2010)(unpublished).
+
+The Panel assumed arguendo that Begay applied retroactively but determined that the claim did
+
+not raise a constitutional issue. Id. at 834 n.1. Rather than a first-time § 2255 it had before it the
+
+question of ―whether the claim alleged a violation of a constitutional right under [28 U.S.C.] §
+
+2253(c)(2), a distinct issue.‖ Id. at 834 n.3.
+
+       The United States’ Waiver Argument
+
+       The United States argues in part that Damon has waived his Johnson/ Holloway attack
+
+because he did not challenge this particular aspect of his sentencing determination at sentencing
+
+or during his direct appeal. In his reply brief Damon summarizes the posture and substance of
+
+his 28 U.S.C. § 2255 claim:
+
+       Here, Mr. Damon has asserted that he is actually innocent of having committed a
+       crime of violence. He contested the underlying facts of his prior conviction at his
+       original sentencing hearing and has asserted that the facts provided by the
+       Government that could be considered by a District Court would be insufficient to
+       support a finding that he committed a crime of violence. Having originally
+       disputed the nature of the facts underlying his conviction places him in a narrow
+       category of defendants, as those who admitted to sufficient facts establishing the
+       basis of the prior conviction would not be able to claim to be "actually innocent."
+
+(Reply Mem.at 7.)10
+
+
+       10
+                Damon‘s argument for disputing the facts of this conviction is skeletal. The interchanged
+       was as follows:
+
+       THE COURT: Okay. Let's turn to the adult convictions. I think one of them involved or one -- yes,
+       the December 8, 2005 assault involved his mother.
+       MS. VILLA: It did.
+       THE COURT: And does he dispute the description?
+       MS. VILLA: Yes, he does.
+       THE COURT: All right. I take it he doesn't dispute
+       that he was convicted of assault and battery?
+       MS. VILLA: No, he does not.
+                                                      10
+         The First Circuit addressed such a waiver argument limited to the time between trial and
+
+direct appeal in United States v. Dancy:
+
+         Given that before our opinion in Holloway Dancy could understandably have
+         assumed that our precedents holding that Massachusetts ABPO and ABDW
+         convictions are ACCA predicates were not subject to question, see United States
+         v. Am, 564 F.3d 25 (1st Cir.2009) (ABDW); United States v. Fernandez, 121 F.3d
+         777 (1st Cir.1997) (ABPO), he has not waived (that is, knowingly given up) his
+         arguments. He has, however, forfeited them by not raising them before the district
+         court when he could have, and so we review the district court's decision for plain
+         error. See Johnson v. United States, 520 U.S. 461, 467–68 (1997) (plain error
+         standard applies where settled law changes between trial and appeal and issue was
+         not raised in district court); United States v. Barone, 114 F.3d 1284, 1294 (1st
+         Cir.1997) (same).
+
+640 F.3d 455, 465 (1st Cir. 2011), cert. denied, 2011 WL 4708012, 1 (Nov.7, 2011); see also
+
+United States v. Torres-Rosario, 658 F.3d 110, 116 (1st Cir. 2011) (on direct appeal) (―Here,
+
+without reservation, Torres-Rosario conceded that he fell within the armed career criminal
+
+statute. But courts may excuse waivers and disregard stipulations where justice so requires. We
+
+think that is the appropriate course in this instance. Failure to allow the challenge based on
+
+Holloway would likely mean a much longer and arguably unjustified prior term for Torres-
+
+Rosario; and, as we explain, there is no reason to think that the government would be unfairly
+
+prejudiced by reopening the issue.‖) (footnote omitted). But see Lindsey v. United States, 615
+
+F.3d 998, 1000- 1001 (8th Cir. 2010) (although foreclosed by Circuit law, no excuse for
+
+procedural default of Begay argument).11
+
+
+
+
+(Sentencing Tr. at 16.) He does concede that the challenge is procedurally defaulted. (Id. at 4.)
+11
+         The Lindsey Panel did conclude that Begay applied retroactively to cases on collateral review but it relied
+on Sun Bear (II) v. United States, 611 F.3d 925 (8th Cir. 2010) which was vacated by the en banc decision. 644
+F.3d 700 (8th Cir. 2011). In this case Damon concedes the procedural default, but argues he is ―actually innocent‖ of
+the sentencing enhancement, an issue not addressed by these cases. (Doc. No. 331, Pet.‘s Reply at 4).
+                                                         11
+In Sum
+
+       Beyond summarizing the present Circuit opinions applicable to Damon‘s claims there is
+
+not much more to offer by way of recommending to the sentencing court the appropriate way
+
+forward in this 28 U.S.C. § 2255 proceeding. The parties have done a very able job in briefing
+
+the issue. Count 5 of the indictment charged Damon with being a felon in possession in violation
+
+of 18 U.S.C. 922(g)(1) and set forth the Massachusetts conviction for simple assault as the
+
+predicate offense. After the fact, it has already been established that his controlled substance
+
+conviction was a valid predicate offense. So Damon‘s argument boils down, not to an assertion
+
+that he is actually innocent of the 18 U.S.C. § 922(g)(1) offense, but that he is actually innocent
+
+of his base offense level of 24 which is set by the sentencing guideline and not the statutory
+
+provision under which he was charged. My tentative recommendation to the court in these
+
+circumstances is that Johnson and Holloway could theoretically be applied retroactively to a
+
+non-time barred, first-time § 2255 petition and that even a procedurally defaulted defendant can,
+
+in the right circumstances, mount a challenge of ―actual innocence‖ to a sentencing enhancement
+
+in the context of a § 2255 petition. Nevertheless, in the final analysis my conclusion is that
+
+Damon has not made the necessary showing that the sentencing error in this case is either
+
+statutorily illegal or of constitutional dimension.
+
+       Damon‘s plea agreement acknowledged that he faced a maximum sentence of ten years.
+
+(Plea Agreement at 1; Doc. No. 67.) Damon‘s guideline range with the base offense of 24 was
+
+70 to 87 months. (Sentencing Tr. at 37.) This compares with 37 to 46 months for a base offense
+
+level of 20. (Sentencing Tr. at 32, Def. Sentencing Mem. at Doc. No. 171.) The Court settled on
+
+the 70-month sentence despite the United States‘ recommendation for a sentence on the high end
+
+
+
+                                                  12
+of the range and the Court‘s articulation of its concern that Damon was marching down a path
+
+leading to a life in prison. (Id. at 51-53.)
+
+         The § 2255 movant in the Seventh Circuit‘s Narvaez was pressing a claim that he no
+
+longer qualified as a career offender under the change in law and that therefore he was ―actually
+
+innocent‖ of a then-mandatory sentencing enhancement under the guidelines. The Court
+
+legitimately expressed a difficulty in distinguishing that circumstance from a case where the
+
+subsequent change in the law made the defendant innocent of a statutorily defined offense.
+
+Damon cannot now dispute that he qualifies as a felon in possession and that he knew his
+
+potential sentence could have been up to 10 years. His challenge is to a guideline felon in
+
+possession sentence based on his second ―violent felony‖ offense that would have been decided
+
+differently after Holloway.12 It is thus not a mandatory sentencing enhancement that he is
+
+challenging, but rather a two-year difference between the high-end of the base-offense level 20
+
+and the low-end of base-offense level 24. Whether or not this constitutes a ―miscarriage of
+
+justice‖ can be analyzed with a view to the court‘s discretion to re-impose the same sentence at
+
+resentencing if it accepts the United States‘ argument for an upward variance,13 even after
+
+consideration of the advisory guidelines. To a defendant serving a sentence of imprisonment, it
+
+would appear that an additional two years of incarceration most certainly amounts to a
+
+―miscarriage of justice,‖ but the sentencing court might lawfully impose that additional two years
+
+under the current sentencing regime.
+
+
+
+12
+         The First Circuit stated recently in the context of a direct appeal that ―treating a Massachusetts assault and
+battery conviction as an ACCA predicate, without further evidence of violence, is now plain error under Holloway,
+although (as we noted) the district judge was merely following then-existing circuit precedent.‖ Torres-Rosario, 658
+F.3d at 116.
+13
+         The Presentence Investigative Report found no grounds for a variant sentence. (PIR at 22.)
+
+                                                          13
+       Discretion in the imposition of sentence brings with it uncertainty. The underlying facts
+
+concerning the Massachusetts assault (and defendant‘s disagreement with the facts as reported in
+
+the presentence report) have not changed. My conclusion is that given the current state of the
+
+law, a reasonable jurist could conclude that Damon‘s procedural default of the Holloway issue
+
+could be excused in these circumstances and his ―actual innocence‖ regarding the sentence
+
+enhancement could form the basis of a resentencing order. On the other hand, there is no direct
+
+circuit authority that I could find which has taken that position. In the final analysis, and without
+
+the benefit of being in the position of the sentencing judge, my conclusion is that Damon‘s case
+
+does not present the factual matrix that would warrant this Court‘s entry of such an order. It is
+
+now apparent that the guideline computation at Level 24 was plain error and that Damon is
+
+―actually innocent‖ of that guideline enhancement. What is not at all clear to me is whether
+
+Damon was sentenced on the basis of assumptions concerning his criminal history which were
+
+materially untrue in the sense of Townsend v. Burke, 334 U.S. 736 (1948) so that the resulting
+
+sentence is a ―miscarriage of justice‖ inconsistent with due process of law. In the final analysis
+
+that question is best answered by the sentencing judge.
+
+                                         CONCLUSION
+
+       As set forth above, I recommend that the Court grant the United States‘ motion for
+
+summary dismissal of this 28 U.S.C. § 2255 motion, unless this Court concludes that a
+
+―miscarriage of justice‖ has occurred. I further make no recommendation regarding a certificate
+
+of appealability as contemplated by 28 U.S.C. § 2253(c)(2) although I question whether the First
+
+Circuit would view the matter as a proper one for the issuance of a certificate of appealability
+
+
+
+
+                                                 14
+based upon the reasoning of the Third Circuit unpublished decision. 14 Damon has not made a
+
+substantial showing of the denial of a constitutional right on these facts.
+
+                                             NOTICE
+
+               A party may file objections to those specified portions of a magistrate
+       judge's report or proposed findings or recommended decisions entered pursuant to
+       28 U.S.C. § 636(b)(1)(B) for which de novo review by the district court is sought,
+       together with a supporting memorandum, within fourteen (14) days of being
+       served with a copy thereof. A responsive memorandum shall be filed within
+       fourteen (14) days after the filing of the objection.
+
+
+              Failure to file a timely objection shall constitute a waiver of the right to de
+       novo review by the district court and to appeal the district court's order.
+
+                                               /s/ Margaret J. Kravchuk
+                                               U.S. Magistrate Judge
+November 21, 2011.
+
+
+
+
+14
+       See Manigault, 395 Fed.Appx.at 834.
+
+                                                 15
+

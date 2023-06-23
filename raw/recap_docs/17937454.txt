@@ -1,0 +1,1544 @@
+                            UNITED STATES DISTRICT COURT
+                                 DISTRICT OF MAINE
+
+UNITED STATES OF AMERICA                     )
+                                             )
+v.                                           )       No. 2:13-cr-176-GZS
+                                             )
+RICHARD MAGEE,                               )
+                                             )
+               Defendant                     )
+
+
+           RECOMMENDED DECISION ON MOTIONS TO SUPPRESS AND
+          MEMORANDUM DECISION AND ORDER ON MOTIONS TO SEVER,
+           TO EXCLUDE TESTIMONY, AND FOR BILL OF PARTICULARS
+
+       Defendant Richard Magee, charged with one count of possession of firearms by a
+
+convicted felon, in violation of 18 U.S.C. §§ 922(g)(1) and 924(a)(2) (Count One), six counts of
+
+distribution of a mixture or substance containing cocaine, in violation of 21 U.S.C. § 841(a)(1)
+
+(Counts Two, Three, and Five through Eight), one count of possession with intent to distribute a
+
+mixture or substance containing cocaine, in violation of 21 U.S.C. § 841(a)(1) (Count Eighteen),
+
+seven counts of use of a telephone in the commission of the crimes of distribution or attempted
+
+distribution of cocaine, in violation of 21 U.S.C. § 843(b) (Counts Ten through Sixteen), one
+
+count of corruptly persuading a witness to provide false and misleading testimony to
+
+investigators in relation to an official proceeding, to wit, a federal grand jury investigation, in
+
+violation of 18 U.S.C. § 1512(b)(1) (Count Nineteen), and one count of conspiring to persuade a
+
+witness to provide false and misleading testimony to investigators in relation to an official
+
+proceeding, to wit, a federal grand jury investigation, in violation of 18 U.S.C. §§ 1512(k) and
+
+1512(b) (Count Twenty), see Superseding Indictment (ECF No. 31) at 1-6, seeks to suppress
+
+evidence obtained as the result of intercepted telephone conversations between himself and
+
+David Jones (the “Wiretap Evidence”), an October 4, 2013, search of his person and vehicle, an
+
+
+
+                                                 1
+October 4, 2013, search of his residence pursuant to a warrant issued by this court, and
+
+intercepted telephone conversations between himself and others while he was detained at the
+
+Cumberland County Jail from October 4-9, 2013 (the “Jail Calls”), see Defendant’s Motion to
+
+Suppress/Exclude Evidence and Request for Testimonial Hearing, including Franks Hearing
+
+(“Motion To Suppress”) (ECF No. 122) at 1-2; Defendant’s Supplemental Motion to Suppress
+
+Jail Calls (Evidence Related [to] Intercepted Telephone Communication Between Defendant and
+
+Others While Detained at the Cumberland County Jail) (“Suppl. Motion To Suppress/Jail Calls”)
+
+(ECF No. 150) at 1 (underline in original); Defendant’s Supplemental Motion to Suppress
+
+Wiretap Evidence (“Suppl. Motion To Suppress/Wiretaps”) (ECF No. 151) at 1 (underline in
+
+original).
+
+        The defendant also moves for severance of his trial on Counts One, Nineteen, and
+
+Twenty from trial on the remaining counts against him, see Defendant Richard Magee’s Motion
+
+for Relief from Prejudicial Joinder, Pursuant to Federal Rules of Criminal Procedure, Rule 14,
+
+(Severance of Counts 1, 19 & 20 from Counts 2-18 for Separate Trials) (“Motion To Sever”)
+
+(ECF No. 124) at 1, exclusion of the grand jury testimony of Eric Lamontagne, see Defendant’[s]
+
+Motion To Exclude Grand Jury Testimony of Eric Lamontagne and any Evidence Garnered from
+
+his Testimony (“Motion To Exclude”) (ECF No. 127) at 1-2, and a bill of particulars as to
+
+Counts Nineteen and Twenty, see Defendant Richard Magee’s Amended Motion for a Bill of
+
+Particulars (“Motion for Particulars”) (ECF No. 128) at 1-2 (underline in original).
+
+        By decision dated July 11, 2014, I denied the defendant’s request for a so-called Franks
+
+hearing with respect to alleged material false statements in the affidavit submitted in support of
+
+the warrant to search his residence. See ECF No. 205. On appeal, Judge Singal upheld that
+
+ruling. See ECF No. 210.
+
+
+
+                                                2
+        On August 7, 2014, I held an evidentiary hearing during which the defendant appeared
+
+with counsel, the government presented one witness and offered 13 exhibits, all of which were
+
+admitted with objection, and the defendant offered eight exhibits, all of which were admitted
+
+without objection.1 I then heard oral argument on all of the pending motions. The government
+
+withdrew its opposition to that portion of the Motion To Suppress pertaining to the October 4,
+
+2013, search of the defendant’s person and vehicle.
+
+        In view of that concession, and for the reasons that follow, I recommend that the Motion
+
+To Suppress be granted without objection as to the October 4, 2013, search of the defendant’s
+
+person and vehicle and otherwise denied and that the two supplemental motions to suppress be
+
+denied, and I deny the motions to sever and for a bill of particulars and deny the motion to
+
+exclude in part, insofar as it seeks the exclusion of the Lamontagne testimony, and deem it moot
+
+in part, insofar as it seeks a hearing and an order for a turnover of documents.
+
+                                         I. Motions To Suppress
+
+                                           A. Wiretap Evidence
+
+        On June 25, 2013, July 18, 2013, July 29, 2013, August 28, 2013, and September 7, 2013,
+
+this court authorized the wiretap intercepts of various cellular telephones allegedly used by an
+
+individual identified as David Jones.               See Motion To Suppress at [3]; Government’s
+
+Memorandum of Law in Opposition to Defendant’s Motion To Suppress Wire Intercepts
+
+(“Opposition/Wiretap Evidence”) (ECF No. 166) at 2. In the government’s parlance, the June 25
+
+wiretap was of Target Telephone 3, or “TT3,” the July 18 wiretap of TT4, the July 29 wiretap of
+
+TT5, the August 28 wiretap also of TT5, and the September 7 wiretap of TT6.                                   See
+
+
+
+1
+ The parties offered evidence bearing only on the motions to suppress the Jail Calls and the motion to exclude the
+Lamontagne testimony.
+
+
+                                                        3
+Opposition/Wiretap Evidence at 2.2 Some of the calls placed from these phones are alleged to be
+
+between Jones and the defendant. The defendant argues that the interception of these calls
+
+violated Title III of the Omnibus Crime Control and Safe Streets Act, 18 U.S.C. §§ 2510-22
+
+(“Title III”) in that the government failed to demonstrate the necessity, or “probable cause plus,”
+
+for the requested wiretaps. See Motion To Suppress at [7]-[8]; Motion To Suppress (“Joshua
+
+Magee Motion”) (ECF No. 119), incorporated by reference in Motion To Suppress, at 7-9. The
+
+government responds that, as to each, the requisite showing of necessity was made.                         See
+
+Opposition/Wiretap Evidence at 4-10.
+
+        The defendant also argues in conclusory fashion that the government failed to
+
+demonstrate probable cause for the wiretaps, violating Title III and offending his Fourth
+
+Amendment rights, and violated the post-authorization procedures of Title III, including its
+
+requirements to make 10-day reports, minimize interception, and make and produce an
+
+inventory. See Motion To Suppress at [6]-[8]; Joshua Magee Motion at 9-10.
+
+        For the reasons that follow, I conclude that none of these challenges has merit.
+
+Accordingly, I recommend that the Motion To Suppress be denied insofar as it concerns the
+
+Wiretap Evidence, and the Suppl. Motion To Suppress/Wiretaps be similarly denied.
+
+                      1. Probable Cause (Title III and Fourth Amendment)
+
+        The wiretaps at issue were authorized by this court upon its determination that the
+
+applications and the accompanying affidavits of United States Drug Enforcement Administration
+
+(“DEA”) Task Force Agent John P. Bourque demonstrated, inter alia, probable cause to believe
+
+that the target subjects and others would use the target telephones in connection with drug
+
+
+2
+  The government explains that TT1 and TT2 were used by another individual, Robert Evon, and predated
+information that Evon was dealing with Jones, which led to the request for wiretaps on Jones’ phones, beginning
+with TT3. See Opposition/Wiretap Evidence at 4 n.1.
+
+
+                                                      4
+trafficking and other offenses.    See, e.g., Order Authorizing the Interception of Wire and
+
+Electronic Communications (ECF No. 2), In re Application of United States for Order
+
+Authorizing Interception of Wire & Elec. Commc’ns, etc. (“In re TT3”), No. 2:13-mc-132-NT
+
+(D. Me. June 25, 2013), ¶¶ 2-3.
+
+        For purposes of both Title III and the Fourth Amendment, these court-authorized
+
+wiretaps are presumed lawful, and the defendant bears the burden of demonstrating their
+
+illegality.   See, e.g., United States v. Verdin-Garcia, 516 F.3d 884, 890 (10th Cir. 2008)
+
+(observing, in context of Title III challenge, “Once a wiretap has been authorized by a judge, it is
+
+presumed proper and the burden is on the defendant to prove its invalidity.”); United States v.
+
+Longmire, 761 F.2d 411, 417 (7th Cir. 1985) (observing, in context of Fourth Amendment
+
+challenge, “The general federal rule on who bears the burden of proof with respect to an
+
+allegedly illegal search or seizure is based upon the warrant-no warrant dichotomy: If the search
+
+or seizure was effected pursuant to a warrant, the defendant bears the burden of proving its
+
+illegality; if the police acted without a warrant, the prosecution bears the burden of establishing
+
+legality. Where the police have acted pursuant to a warrant, the independent determination of
+
+probable cause by a magistrate gives rise to a presumption that the arrest or search was legal.”)
+
+(citation omitted).
+
+        The defendant makes only one argument that seemingly goes to the issue of probable
+
+cause: that the affidavits submitted in support of the wiretap authorizations alleged primarily that
+
+David Jones and other individuals had committed or were committing marijuana trafficking
+
+crimes and failed to demonstrate that he (the defendant) had any involvement in those crimes,
+
+although he was named as a target in the TT5 and TT6 applications. See Motion To Suppress at
+
+[7]. Yet, as the government observes, see Opposition/Wiretap Evidence at 10, the applications
+
+
+
+                                                 5
+and affidavits are framed in terms of “controlled substances[,]” see, e.g., Affidavit in Support of
+
+Application for Authorization To Intercept Wire and Electronic Communications (“Bourque Aff.
+
+3”) (ECF No. 1-3), In re TT3, ¶ 6(a)-(c).
+
+       In any event, the Bourque affidavits need only have provided probable cause to believe
+
+that there was “a fair probability that a wiretap [would] uncover evidence of a crime.” United
+
+States v. Fairchild, 189 F.3d 769, 775 (8th Cir. 1999). “A wiretap application need not provide
+
+probable cause of criminal activity for each person named in an application[.] What is required
+
+is sufficient information so that a judge could find probable cause to believe that the telephone in
+
+question is being used in an illegal operation.” United States v. Domme, 753 F.2d 950, 954 n.2
+
+(11th Cir. 1985) (citations omitted). The defendant articulates no challenge to the finding that
+
+the affidavits established probable cause to believe that the Jones telephones were being used in
+
+an illegal operation. See Motion To Suppress at [6]-[8].
+
+                         2. Post-Authorization Procedures (Title III)
+
+       At oral argument, the defendant’s counsel clarified that her client no longer presses his
+
+points regarding the government’s duties to make reports and an inventory. Hence, the Motion
+
+To Suppress and the Suppl. Motion To Suppress/Wiretaps should be denied as to those items.
+
+His counsel also conceded that the defendant has no evidence that the government could have
+
+engaged in more effective minimization. In circumstances in which, as here, the government
+
+makes a prima facie showing that its minimization efforts were reasonable, this is fatal to a
+
+challenge on minimization grounds. See, e.g., United States v. Lopez, No. CRIM. 99-79-P-C,
+
+2000 WL 761977, at *6 (D. Me. Apr. 28, 2000), aff’d, 300 F.3d 46 (1st Cir. 2002) (“[O]nce the
+
+issue of minimization has been raised, the Government must then make a prima facie showing
+
+that its minimization efforts were reasonable. Once such a showing has been made, the burden
+
+
+
+                                                 6
+shifts to the defendant to demonstrate that more effective minimization could have taken
+
+place.”); see also Opposition/Wiretap Evidence at 10-14 (describing government’s minimization
+
+efforts).
+
+        Accordingly, the Motion To Suppress and the Suppl. Motion To Suppress/Wiretaps
+
+should be denied to the extent that they challenge the government’s compliance with Title III’s
+
+post-authorization procedures.
+
+                                      3. Necessity (Title III)
+
+                                  a. Applicable Legal Standards
+
+        The so-called “necessity” requirement is “designed to assure that wiretapping is not
+
+resorted to in situations where traditional investigative techniques would suffice to expose the
+
+crime.” United States v. Rivera-Rosario, 300 F.3d 1, 18 (1st Cir. 2002) (citation and internal
+
+quotation marks omitted). An application for an order authorizing the interception of a wire,
+
+oral, or electronic communication must include, inter alia:
+
+        (c) a full and complete statement as to whether or not other investigative
+        procedures have been tried and failed or why they reasonably appear to be
+        unlikely to succeed if tried or to be too dangerous;
+
+                                                 ***
+
+         (f) where the application is for the extension of an order, a statement setting forth
+        the results thus far obtained from the interception, or a reasonable explanation of
+        the failure to obtain such results.
+
+18 U.S.C. § 2518(1).
+
+        In issuing an order authorizing wiretapping, an issuing judge must, inter alia, determine
+
+on the basis of the facts submitted by the applicant that “normal investigative procedures have
+
+been tried and have failed or reasonably appear to be unlikely to succeed if tried or to be too
+
+dangerous[.]” Id. § 2518(3)(c).
+
+
+
+                                                  7
+       To demonstrate necessity, “the government is not required to show that other
+
+investigatory methods have been completely unsuccessful, nor is the government forced to run
+
+outlandish risks or to exhaust every conceivable alternative before resorting to electronic
+
+surveillance.” Rivera-Rosario, 300 F.3d at 19 (citations omitted). Instead, “the government
+
+must demonstrate that it has made a reasonable, good faith effort to run the gamut of normal
+
+investigative procedures before resorting to means so intrusive as electronic interception of
+
+telephone calls.” United States v. López, 300 F.3d 46, 52 (1st Cir. 2002) (citation and internal
+
+quotation marks omitted).
+
+       In assaying the necessity for a wiretap, the court should consider the nature of the alleged
+
+crimes and may give weight to the opinion of investigating agents that, in the circumstances
+
+described, other means of investigation were too dangerous and might be counterproductive.
+
+See, e.g., In re Dunn, 507 F.2d 195, 197 (1st Cir. 1974). “[T]he mere attainment of some degree
+
+of success during law enforcement’s use of traditional investigative methods does not alone
+
+serve to extinguish the need for a wiretap.” United States v. Bennett, 219 F.3d 1117, 1122 (9th
+
+Cir. 2000). Gaps in an investigation, and a need to corroborate confidential source information,
+
+are appropriate factors to consider in determining necessity. See, e.g., United States v. Guerra-
+
+Marez, 928 F.2d 665, 671 (5th Cir. 1991).
+
+                                      b. Standard of Review
+
+       As noted above, “[o]nce a wiretap has been authorized by a judge, it is presumed proper
+
+and the burden is on the defendant to prove its invalidity.” Verdin-Garcia, 516 F.3d at 890.
+
+Typically, the task of a reviewing court examining an issuing judge’s wiretap order in the context
+
+of a motion to suppress is to “examine[] the face of the affidavit and decide[] if the facts set forth
+
+in the application were minimally adequate to support the determination that was made[.]”
+
+
+
+                                                  8
+United States v. Villarman-Oviedo, 325 F.3d 1, 9 (1st Cir. 2003) (citation and internal quotation
+
+marks omitted). “That is, the sufficiency of the affidavit is to be upheld where the [reviewing]
+
+court determines that the issuing court could have reasonably concluded that normal
+
+investigatory procedures reasonably appeared to be unlikely to succeed.” López, 300 F.3d at 53
+
+(citation and internal punctuation omitted); see also, e.g., Rivera-Rosario, 300 F.3d at 19 n.23
+
+(“When reviewing a wiretap application, it is not our province to engage in de novo review of an
+
+application; instead, we test it in a practical and commonsense manner to determine whether the
+
+facts which it sets forth are minimally adequate to support the findings made by the issuing
+
+judge.”) (citations and internal punctuation omitted).
+
+       The same standard pertains when the district court “is ‘reviewing’ the prior district court
+
+authorization of a wiretap application in the course of a suppression motion challenging the
+
+facial sufficiency of the affidavit.” United States v. Ashley, 876 F.2d 1069, 1074 (1st Cir. 1989).
+
+“This inquiry is not rigid or rule-oriented; to the precise contrary, Title III demands a practical,
+
+commonsense approach to exploration of investigatory avenues and relative intrusiveness.”
+
+United States v. David, 940 F.2d 722, 728 (1st Cir. 1991) (citation and internal quotation marks
+
+omitted).
+
+                                          c. Discussion
+
+       The defendant argues that (i) the initial wiretap was unnecessary in that the affidavit
+
+submitted in support of that application established that traditional investigatory tools had been
+
+rich, varied, and productive, (ii) subsequent wiretaps were unnecessary and, hence,
+
+impermissible, and, (iii) even if the initial wiretap was lawful, the government sought later
+
+wiretaps as a shortcut rather than resorting to traditional investigative techniques to follow all
+
+leads after receiving information from prior wiretaps. See Joshua Magee Motion at 7-9. He adds
+
+
+
+                                                 9
+that there were no independent judicial findings regarding the necessity of the wiretaps, but
+
+rather only orders containing boilerplate language. See id. at 9.
+
+       As the government rejoins, the affidavit submitted in support of the initial wiretap at
+
+issue, that of TT3, made clear that, while pre-wiretap investigation had generated much useful
+
+information about Jones’ drug trafficking as of September 2012, investigators lacked knowledge
+
+of how and when Jones obtained additional supplies or the locations at which he received
+
+deliveries, the locations he used to store drugs and drug proceeds, the full extent of others’
+
+participation in his enterprise, and the dates, times, and places of commission of drug trafficking
+
+and money laundering offenses. See Opposition/Wiretap Evidence at 5; see also Bourque Aff. 3
+
+¶¶ 101, 111, 114. Bourque explained in detail the specific shortcomings and/or undue risks of
+
+traditional investigative techniques, for example, limits to sources’ knowledge, the limited utility
+
+of pole cameras given the number of locations involved, the risks of attempting to develop new
+
+sources or use undercover agents, and the limits and risks of surveillance. See id. ¶¶ 101-41.
+
+       In addition, in support of each successive wiretap application, Bourque detailed:
+
+       1.      The progress of the investigation, including the techniques used as of that date,
+
+see Affidavit in Support of Application for Authorization To Intercept Wire and Electronic
+
+Communications (“Bourque Aff. 4”) (ECF No. 1-3), In re Application of United States for Order
+
+Authorizing Interception of Wire & Elec. Commc’ns, etc. (“In re TT4”), No. 2:13-mc-154-NT
+
+(D. Me.), ¶¶ 16-86; Affidavit in Support of Application for Authorization To Intercept Wire and
+
+Electronic Communications (“Bourque Aff. 5”) (ECF No. 1-3), In re Application of United
+
+States for Order Authorizing Interception of Wire & Elec. Commc’ns, etc. (“In re TT5”), No.
+
+2:13-mc-156-NT (D. Me.), ¶¶ 16-54; Affidavit in Support of Application for Authorization To
+
+Intercept Wire and Electronic Communications (“Bourque Aff. 5B”) (contained in ECF No. 1),
+
+
+
+                                                10
+In re Application of United States for Order Authorizing Interception of Wire & Elec. Commc’ns,
+
+etc. (“In re Extension of TT5”), No. 2:13-mc-177-NT (D. Me.), ¶¶ 15-52; Affidavit in Support of
+
+Application for Authorization To Intercept Wire and Electronic Communications (“Bourque Aff.
+
+6”) (ECF No. 1-1), In re Application of United States for Order Authorizing Interception of Wire
+
+& Elec. Commc’ns, etc. (“In re TT6”), No. 2:13-mc-181-NT (D. Me.), ¶¶ 15-56; and
+
+       2.      Knowledge gaps that remained despite those efforts, together with risks and
+
+problems with the use of techniques apart from the requested wiretap, see Bourque Aff. 4 ¶¶ 87-
+
+120; Bourque Aff. 5 ¶¶ 55-91; Bourque Aff. 5B ¶¶ 53-112; Bourque Aff. 6 ¶¶ 53 [sic]-114.
+
+       These facts were at least minimally adequate to support the findings of necessity made by
+
+the court in authorizing the wiretaps.
+
+       Finally, the defendant’s challenge to the sufficiency of the orders authorizing the wiretaps
+
+is without merit.    He observes that the court used boilerplate language stating that “[t]he
+
+application and supporting affidavit have adequately demonstrated that normal investigative
+
+techniques have been tried and have failed, or had limited success, and reasonably appear
+
+unlikely to further succeed if continued.” Joshua Magee Motion at 9. He contends that this was
+
+neither “an independent judicial finding of necessity under 18 U.S.C. § 2518(3)(C)” nor the sort
+
+of analysis required by United States v. Giordano, 416 U.S. 505, 533 (1974). Id.
+
+       However, neither of these authorities requires a particular level of discussion in a wiretap
+
+order. The cited portion of section 2518 states that a judge may enter an order approving a
+
+wiretap “if the judge determines on the basis of the facts submitted by the applicant that . . .
+
+normal investigative procedures have been tried and have failed or reasonably appear to be
+
+unlikely to succeed if tried or to be too dangerous[.]” 18 U.S.C. § 2518(3)(c). The cited portion
+
+of Giordano observes that Article III “forbids extensions of prior authorizations without
+
+
+
+                                               11
+consideration of the results meanwhile obtained.” Giordano, 533 U.S. at 533. The court, in the
+
+passage that the defendant criticizes, indicated that it made those determinations. No more was
+
+required.
+
+       For all of these reasons, the Motion To Suppress should be denied insofar as it seeks
+
+suppression of the Wiretap Evidence, and the Suppl. Motion To Suppress/Wiretaps should also
+
+be denied.
+
+                                     B. Search Warrant
+
+       The defendant next seeks to suppress evidence seized from his home in Gorham, Maine,
+
+pursuant to a search warrant issued by this court on October 2, 2013, on the strength of an
+
+affidavit of Bourque. See Motion To Suppress at [8]-[14]; Affidavit (“Bourque Aff./Search
+
+Warrant”), contained in Application for a Search Warrant, Exh. 1 (ECF No. 188-1) to
+
+Defendant’s Memorandum Submitted in Support of Request for Franks Hearing made in
+
+Defendant’s Motion to Suppress [Document # 122] (ECF No. 187). For the reasons that follow,
+
+I recommend that this aspect of the motion be denied.
+
+                               1. Applicable Legal Standards
+
+       “A warrant application must demonstrate probable cause to believe that (1) a crime has
+
+been committed – the ‘commission’ element, and (2) enumerated evidence of the offense will be
+
+found at the place to be searched – the so-called ‘nexus’ element.” United States v. Ribeiro, 397
+
+F.3d 43, 48 (1st Cir. 2005) (citation and internal quotation marks omitted). A defendant bears
+
+the burden of proving the illegality of a warrant. See, e.g., Longmire, 761 F.2d at 417. Both the
+
+issuing magistrate and a subsequent reviewing court look to “the totality of the circumstances
+
+indicated [within the four corners of] a supporting affidavit” to assess the existence vel non of
+
+probable cause. United States v. Schaefer, 87 F.3d 562, 565 (1st Cir. 1996). “Yet such review
+
+
+
+                                               12
+cannot start from scratch. A magistrate’s determination of probable cause should be paid great
+
+deference by reviewing courts.” Id. (citation and internal quotation marks omitted).
+
+       “In determining whether the nexus element is satisfied, a magistrate has to make a
+
+practical, common-sense decision whether, given all the circumstances set forth in the affidavit
+
+before him, there is a fair probability that contraband or evidence of a crime will be found in a
+
+particular place.” Ribeiro, 397 F.3d at 48-49 (citation and internal punctuation omitted). “Put
+
+differently, the application must give someone of reasonable caution reason to believe that
+
+evidence of a crime will be found at the place to be searched.” Id. at 49 (citation and internal
+
+quotation marks omitted).
+
+       “[W]hen faced with a warrant containing information obtained pursuant to an illegal
+
+search, a reviewing court must excise the offending information and evaluate whether what
+
+remains is sufficient to establish probable cause.” United States v. Dessesaure, 429 F.3d 359,
+
+367 (1st Cir. 2005); see also, e.g., United States v. Woodward, 173 F. Supp.2d 64, 67 (D. Me.
+
+2001), aff’d, 43 Fed. Appx. 397 (1st Cir. 2002) (“When a court reviews an affidavit from which
+
+unconstitutionally seized evidence has been excised, it must independently determine if such
+
+probable cause remains within the affidavit that a neutral magistrate would have issued the
+
+subject warrants.”) (citation omitted).
+
+                                          2. Discussion
+
+       The defendant’s challenge to the sufficiency of the Bourque affidavit to establish
+
+probable cause for the issuance of the October 2, 2013, search warrant is largely predicated on
+
+the excision of statements that he argues were either tainted, because derived from illegal
+
+wiretaps of Jones’ cell phones, or false or materially misleading. See Motion To Suppress at [8]-
+
+[14]. However, he contends that even if the court rejects those arguments, it should nonetheless
+
+
+
+                                               13
+conclude that the affidavit on its face is insufficient to confer probable cause to believe that
+
+evidence of drug trafficking would be found in his home on October 4, 2013, because the
+
+information was stale. See id. at [14].
+
+       As noted above, I have recommended that the court reject the defendant’s argument that
+
+the wiretaps were illegal, and the court has previously rejected his bid for a Franks hearing with
+
+respect to asserted false statements and material omissions. Likewise, his staleness argument is
+
+unpersuasive.
+
+       The defendant points out that Bourque relied in part on incidents that allegedly occurred
+
+in August and September 2011, more than two years before the date of his application for a
+
+search warrant. See id. at [11]; see also Bourque Aff./Search Warrant ¶ 6. Nonetheless,
+
+Bourque went on to describe the content of calls between the defendant and Jones intercepted
+
+from September 16, 2013, through September 30, 2013, and observations of the defendant on
+
+September 20, 2013, that collectively were indicative of drug trafficking and of the presence of
+
+drugs at the defendant’s home. See Bourque Aff./Search Warrant ¶¶ 9-24. The affidavit, as a
+
+whole, sufficed to supply probable cause to believe that evidence of drug trafficking would be
+
+found at the defendant’s residence as of October 2, 2013. See, e.g., United States v. Jenkins,
+
+Criminal No. 08-67-P-H, 2008 WL 4410911, at *7 (D. Me. Sept. 29, 2008) (rec. dec., aff’d Oct.
+
+21, 2008) (“Year-old information suggestive of drug trafficking, freshened by same-day
+
+corroboration of the same, is not stale.”); United States v. Reiner, 382 F. Supp.2d 195, 198-99
+
+(D. Me. 2005) (given existence of advertisements contemporaneous with warrant application
+
+suggesting that health club was engaged in business of prostitution, “slightly more distant but
+
+still recent historical data [suggesting the same] were also relevant.”) (footnote omitted).
+
+
+
+
+                                                 14
+                                                 C. Jail Calls
+
+                                          1. Factual Background
+
+        On October 4, 2013, the defendant was arrested following a search of his residence and
+
+detained at the Cumberland County Jail (the “Jail”) in Portland, Maine, pending a detention
+
+hearing on October 9, 2013. During that time, he made a number of calls to his son, Joshua
+
+Magee, and others that were recorded and ultimately shared with the DEA.
+
+        The Jail uses an Offender Communication System (“OCS”) to control all calls from the
+
+inmate telephone system.          See Cumberland County Sheriff’s Office Policy and Procedure,
+
+Inmate Telephone System (“Phone Policy”), Gov’t Exh. 1A, at 3, ¶ G(1).3 The Phone Policy
+
+provides, “At the time of booking each inmate is issued a Telephone Identification Number
+
+(TID)” that is “specific to that one inmate” and “must be entered by the inmate to place a call or
+
+order commissary from the inmate[’]s account.” Id. at 4, ¶ G(3). Pursuant to Phone Policy,
+
+“[f]or completed calls to numbers not associated with an attorney, court or other legal agency the
+
+OCS will also make a digital recording of the entire phone call.” Id. at 4, ¶ G(6).
+
+        The Phone Policy further provides that “[c]alls made using the OCS that has been set to
+
+record per policy may be monitored by the Sheriff or designated personnel.” Id. at 5, ¶ H(1)
+
+(boldface omitted). Pursuant to the Phone Policy:
+
+        2.       Inmates will be informed that all telephone calls are subject to being
+                 monitored. This will be done by inmate handbook, posted on the phones
+                 and a played recording message before the recipient accepts the call.
+
+        3.       Calls may be intercepted, monitored and disclosed based on the following
+                 criteria:
+                 a.       The call is monitored by the investigator in the normal course of
+                          employment while engaged in an activity that is necessary to the
+
+3
+ The Phone Policy was revised in October 2013. See Phone Policy at 1. It is not clear whether this occurred before
+or after the defendant was detained; however, the portions of the policy on which the government relies were the
+same in the prior version of that document. See Gov’t Exh. 1C.
+
+
+                                                       15
+                        administration of criminal justice or investigating offenses relating
+                        to the security and orderly running of the facility.
+                b.      Inmates receive written notification that calls are intercepted.
+                        •       Inmates receive a warning statement in booking with their
+                                TID number that states calls may be monitored or recorded.
+                c.      Written notification is posted on each phone in the facility
+                        •       Conspicuously posted on each phone in the housing unit is
+                                a notice that calls may be monitored and recorded
+                d.      The recipient is notified before the call is accepted
+                        •       Each call is begun with a statement warning the inmate and
+                                the call’s recipient that the calls may be monitored or
+                                recorded.
+
+Id. at 5, ¶ H(2)-(3).
+
+        As part of the booking process, the Jail provides inmates with handbooks and release
+
+forms assigning individual TID numbers. The release form contains the statement, “I understand
+
+and agree that telephone calls are subject to monitoring, recording, and may be intercepted or
+
+divulged.” Dft’s Exh. 1. The release form assigning the defendant his TID number was neither
+
+signed nor dated by him. See id. Release forms typically are transferred to an inmate’s housing
+
+unit. Holmes has no personal knowledge whether, as prescribed by Jail policy, the defendant
+
+was provided either the handbook or the release form as part of the booking process.
+
+        The Jail permits inmates to make at least two free phone calls from the booking room –
+
+that is, calls made without using their TID numbers – upon completion of the booking process.
+
+Inmates placing calls from their housing units are required to use their TID numbers. Phones in
+
+both the booking room and the housing units have placards that state, under the heading Billing
+
+Arrangements at the bottom of the placard, “Calls from this phone may be monitored or
+
+recorded[.]” Gov’t Exhs. 3 & 3A.      When inmates place a call from any Jail phone, they and the
+
+individual whom they are calling also hear a warning that calls may be monitored or recorded.
+
+Neither the placard nor the recording advises that calls may be divulged. See, e.g., id.
+
+
+
+
+                                                 16
+         While the defendant was housed at the Jail from October 4-9, 2013, his calls from that
+
+facility were recorded. He made 31 calls using his TID number, see Gov’t Exh. 10, and at least
+
+one call on October 4, 2013, without a TID number, see Gov’t Exh. 9. On October 4, 2013, he
+
+placed a call from the booking room to Joshua Magee during which, at the outset, an operator
+
+warned, “This call may be monitored or recorded.” Gov’t Exh. 4 at 1 (boldface omitted).
+
+Shortly afterward, Joshua Magee stated, “Cheryl Holmes monitors the calls down there[,]” and
+
+the defendant responded, “Yeah, yeah[.]” Id. Later in the call, the following exchange took
+
+place:
+
+         JM:    I’m going to make sure money is on your books right away.
+
+         RM:    Cool, that way I can get some commissary.
+
+         JM:    I’ll have money . . .
+
+         RM:    I got a pin, I got pin number, I don’t know what that means.
+
+         JM:    A pin number?
+
+         RM:    Yeah, for the phone system . . .
+
+         JM:    What does that mean?
+
+         RM:    I don’t know for the phone.
+
+         JM:    For a phone?
+
+         RM:    I don’t know.
+
+         JM:    Should I write it down? Write it down?
+
+         RM:    I don’t know, this is the information they gave me. Magee . . . oh telephone ID
+
+number.
+
+         JM:    Telephone ID number?
+
+         RM:    Yeah. . . 43035. . .
+
+
+
+                                                   17
+Id. at 5.
+
+         On October 9, 2013, Cheryl Holmes, a Cumberland County Sheriff’s Department
+
+detective responsible from fielding requests from outside agencies to download and monitor
+
+inmate calls, received a request from DEA agent Paul Buchanan for recordings of calls placed by
+
+the defendant. See Gov’t Exh. 2. On October 10, 2013, she supplied him with a CD containing
+
+recordings of 32 calls. See id.
+
+         By memorandum to Holmes dated October 9, 2013, Sgt. Gilpatrick, whom Holmes
+
+described as being in charge of the Cumberland County Sheriff’s Office’s Gang Task Force,
+
+indicated that he had been approached that day by a classification officer with information of
+
+interest about the defendant, had listened to recordings of the defendants’ and other inmates’
+
+calls, and had forwarded information to Holmes to provide to the DEA. See Dft’s Exh. 8. He
+
+noted that the defendant had been released from custody that day. See id.4
+
+                                                 2. Discussion
+
+         The defendant seeks to suppress the Jail Calls on the bases that the Jail violated Title III
+
+and the Fourth Amendment when it intercepted and shared his calls without a warrant and for the
+
+purpose of a criminal investigation rather than for legitimate Jail safety reasons. See Joshua
+
+Magee Motion at 10-12; Suppl. Motion To Suppress/Jail Calls at [1]-[4].
+
+         The defendant acknowledges that the First Circuit has upheld the admission of recordings
+
+of inmate telephone conversations on grounds that, (i) for purposes of both the Fourth
+
+Amendment and Title III, the inmate consented to the recording, (ii) the calls were not
+
+
+
+4
+ At oral argument, the defendant’s counsel contended that the evidence, including Dft’s Exh. 8, showed that Sgt.
+Gilpatrick had targeted her client for monitoring and then caused recordings of his calls to be forwarded to the DEA.
+However, as the government’s counsel rejoined, the evidence indicates that Sgt. Gilpatrick began investigating the
+defendant’s calls on October 9, 2014, the day that the defendant was released from the Jail, and that the DEA’s
+Buchanan independently requested recordings of those calls on the same day. See Dft’s Exh. 8; Gov’t Exh. 2.
+
+
+                                                         18
+“intercepted” for purposes of Title III because jail officials did not target the inmate for
+
+monitoring and recording but, rather, recorded the calls in the ordinary course of business, and
+
+(iii) disclosure of the recordings to the government was permissible in the circumstances of those
+
+cases. See Suppl. Motion To Suppress/Jail Calls at [3] (citing United States v. Novak, 531 F.3d
+
+99 (1st Cir. 2008); United States v. Conley, 531 F.3d 56 (1st Cir. 2008); United States v. Lewis,
+
+406 F.3d 11 (1st Cir. 2005); United States v. Footman, 215 F.3d 145 (1st Cir. 2000)).
+
+       However, he argues that his case is distinguishable in that he was personally targeted for
+
+recording and monitoring, he did not sign the written form acknowledging that his calls could be
+
+monitored, recorded, and divulged and consenting to the same, and the oral warning at the
+
+beginning of collect calls was not sufficient to provide notice that he was waiving his rights to
+
+protection under the Fourth Amendment and the Wiretap Act. See id.
+
+       The government counters that the defendant’s Title III challenge fails because the Jail
+
+Calls were lawfully intercepted pursuant to the so-called consent and “law enforcement”
+
+exceptions.   See Government’s Opposition to Defendant’s Motion To Suppress Jail Calls
+
+(“Opposition/Jail Calls”) (ECF No. 162) at 2-5. It argues that the Fourth Amendment challenge
+
+falters because the defendant fails to establish that he had a subjective expectation of privacy in
+
+the calls or that any such expectation was objectively reasonable and, in any event, he consented
+
+to their recording. See id. at 5-6. The government is correct.
+
+                                           a. Title III
+
+       The defendant contends that Sgt. Gilpatrick targeted him, monitored his calls, and
+
+supplied them to the DEA, as a result of which the calls were not recorded in the ordinary course
+
+of business and, accordingly, the law enforcement exception does not apply. See, e.g., Suppl.
+
+Motion To Suppress/Jail Calls at [3]. However, the Phone Policy provides for the digital
+
+
+
+                                                19
+recording of every phone call placed by an inmate unless the number dialed is associated with an
+
+attorney, court, or other legal agency. Inmates are warned by various means, including placards
+
+on phones and oral warnings at the start of calls, that their calls are subject to monitoring and
+
+recording. Sgt. Gilpatrick did not initiate the recording of the defendant’s calls. The defendant
+
+did not come to his attention until October 9, 2013, the day of the defendant’s release from the
+
+Jail. While Sgt. Gilpatrick forwarded information to Holmes to provide to the DEA, the DEA’s
+
+Buchanan independently requested recordings of the defendant’s calls on the same day.
+
+        In these circumstances, the recordings were not interceptions for purposes of Title III.
+
+See, e.g., Lewis, 406 F.3d at 19 (“We hold that a recording made pursuant to a routine prison
+
+practice of monitoring all outgoing inmate calls under a documented policy of which inmates are
+
+informed does not constitute an interception for Title III purposes.”) (footnote omitted).
+
+        Because the calls were not intercepted for purposes of Title III, the disclosure of
+
+recordings of the calls did not violate that title. See, e.g., id. at 20 (“Because [jail official] did
+
+not intercept the call, Title III’s restrictions on the use of intercepted communications are
+
+inapposite.”).
+
+        Even had the calls been intercepted pursuant to Title III, the consent exception applies.
+
+While the defendant did not expressly consent to the interception of his calls, there is ample
+
+evidence that he impliedly consented. Although he did not sign the release form, one can
+
+reasonably infer that he received it, having discussed his TID number with Joshua Magee on the
+
+day that he was booked into the Jail and having subsequently used his assigned TID number to
+
+place more than 30 calls.5 Inmates also routinely receive copies of the handbook, which warns
+
+
+5
+ At oral argument, the defendant’s counsel pointed out that it was not clear whether, during the defendant’s October
+4, 2013, phone call with his son, he was reading his TID number from the release form. She observed that he could
+have been told the number orally and written it down on a piece of paper. While that is possible, it does not seem
+(continued on next page)
+
+                                                        20
+them that all calls are subject to being monitored. While Holmes did not personally know
+
+whether the defendant received a copy, there is no evidence that he did not. In any event, the
+
+defendant was informed by means of both phone placards and oral warnings that his calls might
+
+be monitored or recorded. He also discussed with his son the fact that Holmes monitored
+
+inmates’ calls and spoke in coded language, indicating his awareness of the interceptions.6
+
+Despite this knowledge, he proceeded to use the Jail phones, impliedly consenting to their
+
+interception for purposes of Title III. See, e.g., Novak, 531 F.3d at 102 (inmate consented to
+
+monitoring his calls, for purposes of Title III, when he proceeded with calls from jail despite
+
+automated message warning that his calls were being monitored).
+
+        Because the Jails Calls were intercepted by consent, a means allowed by Title III, Holmes
+
+did not run afoul of Title III in disclosing the contents of those intercepted calls to the DEA. See,
+
+e.g., Conley, 531 F.3d at 60.
+
+                                          b. Fourth Amendment
+
+        As the government notes, the proponent of a motion to suppress must establish that a
+
+challenged governmental action “intruded upon some legitimate expectation of privacy of the
+
+proponent[.]” Opposition/Jail Calls at 5 (quoting United States v. Soule, 908 F.2d 1032, 1034
+
+(1st Cir. 1990)). The defendant fails to establish that he believed his phone calls were private or
+
+that any such belief was reasonable. As noted above, the evidence indicates that the defendant
+
+was well aware that his calls were not private. And “courts have generally concluded that
+
+neither an inmate (including a pretrial detainee) nor a person who knowingly receives a call from
+______________________________
+likely, given the Jail’s policy of issuing TID numbers via the release forms during the booking process and
+permitting inmates “free” calls from the booking room once they have completed that process.
+6
+  The government offered, as an example of coded language, a transcript of an October 5, 2013, call between the
+defendant and his son that includes references to ugly ducklings, swans, and spaghetti. See Gov’t Exh. 5 at 2-3. At
+oral argument, the defendant’s counsel posited that the defendant may have wished not to be overheard by other
+inmates. It is more likely that, as the government’s counsel argued, he used code language because he was aware
+that his calls were being monitored and/or recorded.
+
+
+                                                        21
+the inmate has a reasonable expectation of privacy in telephone calls between them[.]” United
+
+States v. Novak, 453 F. Supp.2d 249, 257 (D. Mass. 2006), rev’d on other grounds, 531 F.3d 99
+
+(1st Cir. 2008).
+
+       In any event, even if the defendant established that he had a legitimate expectation of
+
+privacy in the Jail Calls, “[a] telephone call can be monitored and recorded without violating the
+
+Fourth Amendment so long as one participant in the call consents to the monitoring.” Novak,
+
+531 F.3d at 101 (citations omitted). As discussed above, the defendant impliedly consented to
+
+the monitoring and recording of the Jail Calls.
+
+       For all of these reasons, I recommend that the Motion To Suppress be denied insofar as it
+
+concerns the Jail Calls, and the Suppl. Motion To Suppress/Jail Calls be denied as well.
+
+                                  II. Motion To Sever Counts
+
+       The defendant moves for severance of his trial on Counts One, Nineteen, and Twenty
+
+from trial on the remaining counts against him on the grounds that those counts are misjoined
+
+pursuant to Federal Rule of Criminal Procedure 8(a) and, even if properly joined, would cause
+
+undue prejudice warranting severance pursuant to Federal Rule of Criminal Procedure 14(a). See
+
+Motion To Sever at [3]-[8].
+
+       The government counters that the counts are properly joined and that the defendant has
+
+failed to make the requisite showing of undue prejudice.        See Government’s Response to
+
+Defendant Richard Magee’s Motion for Severance (“Opposition/Severance”) (ECF No. 165) at
+
+2-11. I agree.
+
+       Rule 8(a) provides, in relevant part, that an indictment “may charge a defendant in
+
+separate counts with 2 or more offenses if the offenses charged . . . are of the same or similar
+
+
+
+
+                                                  22
+character, or are based on the same act or transaction, or are connected with or constitute parts of
+
+a common scheme or plan.” Fed. R. Crim. P. 8(a).
+
+       The First Circuit has noted:
+
+       We have construed this rule generously in favor of joinder. Further, ‘similar’
+       does not mean ‘identical,’ and we assess similarity in terms of how the
+       government saw its case at the time of indictment. In determining whether counts
+       are properly joined for trial, we historically have considered whether the charges
+       are laid under the same statute, whether they involve similar victims, locations, or
+       modes of operation, and the time frame in which the charged conduct occurred.
+
+United States v. Boulanger, 444 F.3d 76, 87 (1st Cir. 2006) (citations and internal punctuation
+
+omitted).
+
+       The defendant argues that Count One, charging him with possession of a firearm by a
+
+felon, and Counts Nineteen and Twenty, charging him with witness tampering, are not of the
+
+same or similar character as the remaining drug-related counts, are not based on the same act or
+
+transaction, and are not parts of a common scheme or plan. See Motion To Sever at [6]-[7]. He
+
+contends that, of the charged drug offenses, only one, Count Eighteen, is even arguably related to
+
+Count One because both charges stem from the search and seizures conducted at his home on
+
+October 4, 2013. See id. at [7]. However, he asserts that this is an insufficient basis for joinder
+
+because the firearms in fact have no connection to the drug charge or the witness tampering
+
+charges. See id.
+
+       He agrees to a joint trial on Counts One, Nineteen, and Twenty because some of the
+
+evidence on those counts will overlap but maintains that there is no connection between those
+
+counts and the remaining counts. See id.
+
+       Nonetheless, as the government suggests, see Opposition/Severance at 3, Counts One,
+
+Nineteen, and Twenty are properly joined not only with Count Eighteen but also with the
+
+remaining drug charges, which allege a course of similar conduct from September 26, 2011,
+
+                                                23
+through October 1, 2013, see Superseding Indictment at 2-5. Only two of the drug charges,
+
+Counts Two and Three, charge conduct occurring in 2011; the rest charge conduct occurring
+
+from August 23, 2013, through October 4, 2013. See id. The government contends that the
+
+defendant possessed the firearms at issue in Count One to protect his drugs and drug proceeds,
+
+and the tampering charges arise from events occurring on the day of his arrest on the remaining
+
+charges and relate directly to his charged possession of the firearm. See Opposition/Severance at
+
+3. In these circumstances, joinder is proper. See, e.g., United States v. Widi, No. 09-CR-9-P-S,
+
+2010 WL 580005, at *1 (D. Me. Feb. 12, 2010) (charge of possession of firearm by a convicted
+
+felon was properly joined with marijuana distribution charge when “[t]he majority of the relevant
+
+evidence was obtained during the same search and [was] pertinent to both charges[,]” and
+
+“firearms are commonly ‘tools of the trade’ for sellers and manufacturers of illegal narcotics”)
+
+(citation omitted).
+
+       As the defendant observes, see Motion To Sever at [3], the court has discretion to sever
+
+properly joined counts to mitigate prejudice arising from their joinder, see, e.g., Fed. R. Crim. P.
+
+14(a) (“If the joinder of offenses . . . in an indictment . . . appears to prejudice a defendant . . .,
+
+the court may order separate trials of counts[.]”). “Three types of prejudice may result from
+
+trying a defendant for several offenses during the same trial:”
+
+       (1) the defendant may become embarrassed or confounded in presenting separate
+       defenses; (2) proof that defendant is guilty of one offense may be used to convict
+       him of a second offense, even though such proof would be inadmiss[i]ble in a
+       second trial for the second offense; and (3) a defendant may wish to testify in his
+       own behalf on one of the offenses but not another, forcing him to choose the
+       unwanted alternative of testifying as to both or testifying as to neither.
+
+United States v. Richardson, 515 F.3d 74, 81 (1st Cir. 2008) (citation and internal quotation
+
+marks omitted).
+
+
+
+
+                                                  24
+       A “defendant carries the burden of demonstrating prejudice resulting from a failure to
+
+sever, but such a showing does not result in an automatic grant of the motion.” United States v.
+
+Gooch, 665 F.3d 1318, 1326 (D.C. Cir. 2012) (citations omitted). “Severance is proper only if
+
+there is a serious risk that a joint trial would prevent the jury from making a reliable judgment
+
+about guilt or innocence.” Id. (citations and internal punctuation omitted).
+
+       The defendant contends that the joinder of Count One, which charges that he was a felon
+
+in possession of a firearm, will cause unfair prejudice because it will allow the government to
+
+introduce otherwise inadmissible evidence of his felony convictions, which include a felony drug
+
+conviction and a felony money laundering conviction. See Motion To Sever at [4]. He reasons
+
+that this, in turn, will create the second type of prejudice – a danger that the jury will find him
+
+guilty on the drug counts because of his prior drug conviction or give no weight to his testimony
+
+because of his prior money laundering conviction. See id.
+
+       He argues that, while a limiting instruction might lessen the prejudice, it would only
+
+confuse the jury in that “[t]o tell a jury to ignore the defendant’s prior convictions in determining
+
+whether he . . . committed the offense being tried is to ask human beings to act with a measure of
+
+dispassion and exactitude well beyond mortal capabilities.” Id. at [5] (quoting United States v.
+
+McCarter, 316 F.3d 536, 539 (5th Cir. 2002)).
+
+       Nonetheless, at oral argument, the government’s counsel represented that, in this case,
+
+because firearms and drugs were seized at the same time, the evidence that the government will
+
+adduce with respect to both groups of charges will be the same but for the fact of the defendant’s
+
+prior felony convictions. As to the latter fact, the government’s counsel represented that the
+
+government is willing to stipulate that the defendant had prior felony convictions, obviating any
+
+need to specify the nature of those convictions for purposes of its case-in-chief.
+
+
+
+                                                 25
+       The defendant’s counsel argued that this did not fully address her client’s concerns
+
+because it was possible that the nature of the underlying felonies might be admitted for other
+
+purposes such as impeachment and, in any event, the mere fact that he had prior felony
+
+convictions is prejudicial. This is an insufficient showing to warrant severance pursuant to Rule
+
+14(a). See, e.g., United States v. Matthews, 856 F. Supp.2d 229, 230, 234-35 (D. Me. 2012)
+
+(denying request to sever firearms charges from drug charges; noting that “evidence of firearms
+
+is routinely admissible in drug trafficking cases, as is evidence of drug trafficking in firearms
+
+cases” and risk of prejudice could be addressed at trial through limiting instruction). See also,
+
+e.g., United States v. Turner, 501 F.3d 59, 72 (1st Cir. 2007) (rejecting argument that district
+
+court’s refusal to sever felon-in-possession charge prejudiced defendant’s entrapment defense;
+
+noting, “any possible prejudice was limited by [defendant’s] stipulation to his status as a
+
+convicted felon”).
+
+       At oral argument, the defendant’s counsel also raised for the first time an additional
+
+concern implicating the third type of prejudice: that she intended to advise her client to testify as
+
+to the firearm and witness tampering charges but not the drug charges and, if severance were
+
+denied, he would be denied his Fifth Amendment right to remain silent on the drug charges, if he
+
+wished to exercise his right to testify on the other charges.
+
+       The First Circuit has held that “a defendant may deserve a severance of counts where he
+
+makes a convincing showing that he has both important testimony to give concerning one count
+
+and strong need to refrain from testifying on the other.” Richardson, 515 F.3d at 81 (citation and
+
+internal punctuation omitted) (emphasis in original).           “The defendant must offer sufficient
+
+information so that the court can weigh the considerations of judicial economy against the
+
+
+
+
+                                                 26
+defendant’s freedom to choose whether to testify as to a particular charge.” Id. (citation and
+
+internal quotation marks omitted). The defendant fails to make this showing.
+
+        For all of these reasons, the Motion To Sever is denied.
+
+                                   III. Motion To Exclude Testimony
+
+        The defendant moves to exclude the grand jury testimony of Eric Lamontagne, and
+
+evidence garnered therefrom, on the ground that the government compelled that testimony for
+
+the sole or dominant purpose of gathering evidence for trial, an abuse of the grand jury process
+
+that violated his constitutional rights to a fair trial and due process. See Motion To Exclude at
+
+[2]-[3].7
+
+        The defendant also requested that the court afford him a hearing on this motion and order
+
+the government to provide copies of the transcript of Lamontagne’s grand jury testimony and any
+
+other evidence related to Lamontagne’s pre-testimonial interview. See Motion To Exclude at
+
+[1]-[2]. Those requests are moot, the court having held a hearing during which the requested
+
+documents were introduced in evidence.
+
+        The First Circuit has observed:
+
+        Although the grand jury operates under judicial supervision, it is essentially an
+        independent institution. In recognition of this status, courts afford grand jury
+        proceedings a presumption of regularity. This presumption attaches even after the
+        grand jury has returned an initial indictment. After all, superseding indictments
+        setting forth new charges or adding new defendants are familiar fare. It follows
+        logically that, as a general rule, evidence obtained pursuant to an ongoing grand
+        jury investigation may be offered at the trial on the initial charges.
+
+        Notwithstanding the presumption of regularity, prosecutors do not have carte
+        blanche in grand jury matters. However, a party asserting a claim of grand jury
+        abuse must shoulder a heavy burden. One way to carry this burden is to show that
+
+
+7
+ At oral argument, the defendant’s counsel also suggested that the fact that the government can compel testimony
+by way of a grand jury subpoena, while a defendant cannot, in itself offends basic notions of fundamental fairness.
+However, she cited no authority in support of that proposition.
+
+
+                                                        27
+       the government used the grand jury principally to prepare pending charges for
+       trial.
+
+                                               ***
+       To assist in the inquiry, courts have devised certain proxies. Thus, if a grand
+       jury’s continuing indagation results in the indictment of parties not previously
+       charged, the presumption of regularity generally persists. So too when the grand
+       jury’s investigation leads to the filing of additional charges against previously
+       indicted defendants. These are purposes befitting the accepted institutional
+       objectives of the grand jury, and their presence bears convincing witness to the
+       propriety of the prosecutor’s stewardship.
+
+United States v. Flemmi, 245 F.3d 24, 28 (1st Cir. 2001) (citations and internal punctuation
+
+omitted).
+
+       The defendant fails to shoulder his heavy burden to overcome the presumption of
+
+regularity. As the government observes, see Government’s Response to Defendant Richard
+
+Magee’s Motion Related to Grand Jury Evidence (“Opposition/Exclusion”) (ECF No. 167), at 1-
+
+2, Judge Singal considered and rejected a nearly identical argument by the defendant in the
+
+context of a motion to quash a grand jury subpoena issued with respect to a different witness, see
+
+Order on Motions To Quash Subpoena (ECF No. 17), In re Grand Jury Subpoena Duces Tecum,
+
+etc., No. 2:13-mc-224-GZS (D. Me. Dec. 5, 2013).
+
+       Although the government’s investigation had not as of that time resulted in the issuance
+
+of the Superseding Indictment, Judge Singal readily found the government’s ongoing
+
+investigation into crimes related to the firearms, including its follow-up on evidence obtained
+
+from the Jail Calls, proper pursuant to Flemmi:
+
+       It is undeniably proper for the grand jury to investigate whether the other four
+       seized firearms may involve other criminal activity. After all, “[t]he function of
+       the grand jury is to inquire into all information that might possibly bear on its
+       investigation until it has identified an offense or has satisfied itself that none has
+       occurred. As a necessary consequence of its investigatory function, the grand jury
+       paints with a broad brush. A grand jury investigation is not fully carried out until
+       every available clue has been run down and all witnesses examined in every
+       proper way to find if a crime has been committed.” United States v. R
+
+                                                  28
+         Enterprises, Inc., 498 U.S. 292, 297 (1991) (internal quotations and citations
+         omitted). So long as the Government proffers that the . . . subpoena relates to an
+         ongoing grand jury investigation of seized items that are not currently listed in the
+         Magee Indictment, the subpoena readily appears to be primarily for a proper
+         investigative purpose.
+
+Id. at 2-3.
+
+         As the government rejoins, this conclusion is, if anything, fortified by the subsequent
+
+return of the Superseding Indictment, which predicated Count One on four additional firearms
+
+and added        the witness tampering charges, Counts                       Nineteen      and Twenty.            See
+
+Opposition/Exclusion at 2; compare Indictment with Superseding Indictment; Flemmi, 245 F.3d
+
+at 29 (“[A]ccusations of grand jury abuse can be conclusively rebuffed by a showing that the
+
+challenged proceedings led to the joinder of new defendants or the inclusion of new charges.”).8
+
+         The motion accordingly is denied insofar as it seeks the exclusion of the Lamontagne
+
+testimony and deemed moot insofar as it seeks a hearing and an order for a turnover of
+
+documents.
+
+
+
+
+8
+  In his brief and through counsel at oral argument, the defendant invited the court to peer behind the curtain of the
+Superseding Indictment to discern abuse of the grand jury process. See, e.g., Motion To Exclude at [6]-[8]. This
+approach seemingly flies in the face of Flemmi. Even assuming that it is necessary or appropriate to consider these
+arguments, they are unavailing. The defendant posits that the government had probable cause from the outset to
+charge all five firearms but strategically chose not to do so to enable it use the grand jury to question hostile trial
+witnesses in the guise of conducting an ongoing investigation. See id. at [6]. However, at oral argument, the
+government’s counsel countered that, although the government had probable cause to charge all firearms, it chose to
+charge one firearm to comply with the Speedy Trial Act and to conduct a more exhaustive investigation with respect
+to the remaining firearms, as is its customary practice. It received information at the defendant’s bail hearing on
+October 9, 2013, that someone else might own some of the firearms, followed by the Jail Calls information revealing
+possible witness tampering in connection with the firearms. It properly employed the grand jury to investigate
+potential new charges. The defendant also suggests that the government improperly used the grand jury to
+investigate charges of tampering with a grand jury witness because Lamontagne was not a grand jury witness at the
+time of the Jail Calls and only became one when he testified before the grand jury on November 5, 2013, in response
+to a government subpoena. However, the charges at issue relate to the alleged persuasion of Lamontagne to provide
+false and misleading testimony to investigators in relation to a federal grand jury investigation. See Superseding
+Indictment at 6. In any event, as the government’s counsel pointed out at oral argument, the government had
+received evidence of a conspiracy to obstruct justice with respect to ownership of the firearms. It properly used the
+grand jury to investigate.
+
+
+                                                         29
+                                   IV. Motion for Bill of Particulars
+
+           The defendant finally moves for a bill of particulars, seeking further details with respect
+
+to Counts Nineteen and Twenty, the witness tampering charges. See Motion for Particulars at
+
+[1]-[2].     He argues that the Superseding Indictment fails to provide him with sufficient
+
+information to prepare a defense to those counts in that it fails to (i) identify all co-conspirators
+
+or participants, (ii) set forth any overt acts alleged to have furthered the conspiracy in Count
+
+Twenty or that form the basis of the allegation in Count Nineteen, (iii) identify the precise dates
+
+of all alleged wrongful acts, or (iv) set forth the means by which those acts allegedly were
+
+accomplished. See id. at [2].
+
+           As this court has noted:
+
+           Eclipsed by Rule 16 discovery requirements, motions for bills of particulars are
+           seldom employed in modern federal practice. When bills of particulars are
+           pursued, they need only be granted if the accused, in the absence of a more
+           detailed specification, will be disabled from preparing a defense, caught by unfair
+           surprise at trial, or hampered in seeking the shelter of the Double Jeopardy
+           Clause. Whether to grant a motion for a bill of particulars is left to the sound
+           discretion of the district judge, whose decision will be reversed only for abuse of
+           discretion. In exercising its discretion, the trial court will often consider whether
+           the defendant has demonstrated “actual prejudice” from the indictment’s lack of
+           specificity; namely, specific evidence or witnesses that the lack of
+           particularization prevented him from obtaining. An indictment that specifies the
+           law that the defendant allegedly violated and provides a temporal framework in
+           which certain conduct is alleged to have occurred is sufficient; “open-file”
+           discovery may obviate the need for greater specificity.
+
+United States v. Poulin, 588 F. Supp.2d 64, 67 (D. Me. 2008) (citations and internal quotation
+
+marks omitted).
+
+           The government points out that Counts Nineteen and Twenty of the Superseding
+
+Indictment identify the witness at issue, Count Nineteen specifies the date on which the witness
+
+attempted to give false evidence, and Count Twenty sets forth the approximate date range during
+
+which the conspiracy is alleged to have occurred. See Government’s Response to Defendant’s
+
+                                                    30
+Motion for a Bill of Particulars (ECF No. 163) at 2. It adds that the defendant has been provided,
+
+among other things, with intercepted Jail Calls relating to the conspiracy and other investigatory
+
+reports, defense counsel has reviewed a transcript of the witness’s grand jury testimony, and the
+
+government has advised her that the transcript and related investigatory reports can be reviewed
+
+at her convenience at the United States Attorney’s Office. See id.
+
+       The allegations in the Superseding Indictment, together with the discovery made
+
+available to the defendant, are adequate to prepare his defense on these charges. As this court
+
+has observed, a defendant “is not entitled by way of a bill of particulars to obtain details
+
+revealing the precise manner in which the government alleges that he committed the crimes
+
+charged or the manner in which it will attempt to prove the charges.” United States v. Faucette,
+
+Criminal No. 2:13-CR-79-DBH, 2013 WL 3458182, at *1 (D. Me. July 9, 2013). “The purpose
+
+of a bill of particulars is not to provide a defendant with discovery that otherwise would not be
+
+discoverable under the criminal rules and Brady/Giglio.” Id.
+
+       The motion for a bill of particulars, accordingly, is denied.
+
+                                          V. Conclusion
+
+       For the foregoing reasons, I recommend that the Motion To Suppress be GRANTED with
+
+respect to the search of the defendant’s automobile and person on October 4, 2013, and
+
+otherwise DENIED and that the two supplemental motions to suppress be DENIED, and I
+
+DENY the motions to sever and for a bill of particulars and DENY the motion to exclude in part,
+
+insofar as it seeks the exclusion of the Lamontagne testimony, and DEEM the motion MOOT in
+
+part, insofar as it seeks a hearing and an order for a turnover of documents.
+
+                                             NOTICE
+
+      A party may file objections to those specified portions of a magistrate judge’s report or
+proposed findings or recommended decisions entered pursuant to 28 U.S.C. § 636(b)(1)(B) for
+
+                                                31
+which de novo review by the district court is sought, together with a supporting memorandum,
+within fourteen (14) days after being served with a copy thereof. A responsive memorandum
+shall be filed within fourteen (14) days after the filing of the objection.
+
+        Failure to file a timely objection shall constitute a waiver of the right to de novo review
+by the district court and to appeal the district court’s order.
+
+
+       Dated this 8th day of September, 2014.
+
+
+                                                     /s/ John H. Rich III
+                                                     John H. Rich III
+                                                     United States Magistrate Judge
+
+
+
+
+                                                32
+

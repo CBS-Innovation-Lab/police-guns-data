@@ -1,0 +1,677 @@
+ENRIQUE AGOSTO,
+    Petitioner,
+     v.                            CRIMINAL NO. 04-10336-NMG-05
+                                   CIVIL ACTION NO. 09-11610-NMG
+UNITED STATES OF AMERICA,
+    Respondent.
+
+
+       REPORT AND RECOMMENDATION
+      ON PETITIONER’S MOTION UNDER
+     TITLE 28 U.S.C. § 2255 TO VACATE,
+     SET ASIDE, OR CORRECT SENTENCE
+      BY A PERSON IN CUSTODY (#495)
+COLLINGS, U.S.M.J.
+                               I. Introduction
+
+
+
+     The petitioner Enrique Agosto (“petitioner” or “Agosto”) seeks to vacate
+his conviction pursuant to 28 U.S.C. § 2255. Agosto pled guilty to heroin-
+related offenses and was sentenced to 188 months in prison. He did not appeal
+his conviction. In his petition, Agosto raises four ineffective assistance of
+counsel claims, including a claim that his trial counsel failed to file a notice of
+appeal despite Agosto’s express instruction that he wished to appeal. The
+government argues at the threshold that Agosto’s petition is untimely, and that
+the plea agreement contains waivers that preclude Agosto’s claims.
+Alternatively, the government contends that the claims should fail on the merits.
+                       II. Factual and Procedural Background
+
+
+
+      Agosto was arrested on October 15, 2004 in connection with his
+participation in a heroin distribution organization in Massachusetts. (## 8, 21)
+Agosto signed a plea agreement pursuant to Fed. R. Crim. P. 11(c)(1)(C), in
+which he agreed to plead guilty to Count I of the Superseding Indictment,
+charging conspiracy to distribute heroin in violation of 21 U.S.C. §§ 846 and
+841(a)(1). (   See   # 448) In the plea agreement, Agosto stipulated to possessing
+at least 400 grams but less than 700 grams of heroin, and he agreed that the
+base offense level was 28. ( at 2) Further, Agosto stipulated that he was a
+                                Id.
+
+
+
+career offender and that therefore his career offender offense level was 34 with
+a criminal history category of VI. ( ) With a reduction for acceptance of
+                                         Id.
+
+
+
+responsibility, his base offense level was 31 which yielded a guidelines
+sentencing range of 188 to 235 months. At the change of plea hearing, the
+
+                                           2
+government stated that it would recommend a sentence at the low end of the
+range. (  See   #573, Transcript of Plea at 7) Agosto also agreed to waive his right
+to file a direct appeal or to challenge collaterally his guilty plea or the
+imposition of the sentence agreed to by the parties. (#448 at 4)
+      At the change of plea hearing conducted on December 6, 2007, the
+district court reviewed the terms of the plea agreement (    see #   573 at 5-6), and
+twice inquired whether anyone had made any promises or assurances to Agosto
+in an effort to make him plead guilty, (id. at 6, 8-9). Agosto replied, “no.” (Id.
+at 6, 9) The district court inquired whether Agosto understood that “for all
+practical purposes, by virtue of the plea agreement, you have waived your right
+to appeal any sentence?” Agosto replied, “Yes, I do.” (Id. at 11) The
+government presented a summary of the evidence it would present if the case
+proceeded to trial, and Agosto agreed with the summary of the facts. The
+district court detailed the rights that Agosto would be relinquishing in pleading
+guilty, and found that Agosta was fully competent and capable of entering an
+informed plea and that his plea of guilty was knowing and voluntary. (Id. at 11-
+12, 16)
+      At sentencing on March 6, 2008, the district court observed that “the
+
+                                           3
+guidelines range would have been 262 to 327 months but for the fact that
+counsel have entered into a binding plea agreement wherein they both
+mistakenly understood the guidelines range to yield a range of 188 to . . . 235
+months[.]” (#505, Transcript of Disposition) Despite the miscalculation, the
+district court accepted the plea and sentenced Agosto to 188 months, the low
+end of the guideline range.
+      On September 25, 2009, Agosto filed a Motion Under Title 28 U.S.C. §
+2255 to Vacate, Set Aside, or Correct Sentence by a Person in Federal Custody
+(#495), challenging his conviction and sentence on four grounds: 1) that trial
+counsel was ineffective in failing to file a notice of appeal; 2) that trial counsel
+was ineffective in failing to move for a downward departure at sentencing based
+on the argument that the career offender designation overstated the seriousness
+of Agosto’s criminal history; 3) that trial counsel was ineffective in advising
+Agosto to accept the plea deal and telling Agosto that if he went to trial he
+would be sentenced to life in prison; 4) that trial counsel was ineffective in
+failing at sentencing to seek an adjustment for Agosto’s minor role in the
+offense. (See #495 at 6-8, 12-13) On October 23, 2009, the government filed
+its Response to Defendant’s Motion Pursuant to 28 U.S.C. § 2255 and Request
+
+
+                                         4
+for Summary Dismissal (#502), and subsequently a Supplemental Response to
+Defendant’s Motion Pursuant to 28 U.S.C. § 2255 (#508). On November 13,
+2009, Agosto filed a Reply Brief in Support [of] Petitioner’s Motion to Vacate,
+Set Aside or Correct a Sentence Pursuant to 28 U.S.C. §[] 2255 (#509), along
+with an Affidavit. On December 11, 2009, Agosto filed a Reply Brief to
+Government’s Supplemental Response to Defendant’s Motion Pursuant to 28
+U.S.C. §[] 2255 (#512).
+                                  III. Discussion
+
+
+
+      The government has moved to dismiss the petition summarily on the
+grounds that it is untimely; that the waivers contained in the plea agreement
+preclude habeas relief; and that the claims, in any event, are without merit. The
+Court considers these arguments seriatim.
+                  A. The Timeliness of the Habeas Petition
+      AEDPA provides for a one-year limitations period. Generally, a section
+2255 petition must be filed within one year of “the date on which the judgment
+of conviction becomes final.” 28 U.S.C. § 2255(f)(1). Where no notice of
+appeal was filed, as here, the triggering event for statute of limitations purposes
+is the expiration of the time for filing an appeal. See Randy Hertz & James S.
+
+
+                                        5
+Liebman, 1        Federal Habeas Corpus Practice and Procedure                , § 5.2[b][I], at 272 (6th
+ed. 2011).1 The district court sentenced Agosto on March 6, 2008, and entered
+judgment on April 3, 2008. (              See   #455, Judgment) Under the Federal Rules
+extant at the time relevant here, a direct appeal should have been filed within
+ten days after the entry of judgment. And so, Agosto’s conviction became final,
+at the latest, on April 17, 2008, and the one-year limitations period expired one
+year later, on April 17, 2009. Agosto filed his section 2255 petition on
+September 25, 2009, slightly more than five months after the one-year
+limitations period expired. Agosto does not dispute this calculation. Instead,
+he argues that his late filing should be excused under equitable tolling
+principles. Alternatively, although Agosto has not argued the point, the Court
+considers whether the petition may yet be timely under 28 U.S.C. § 2255(f)(4).
+
+
+            1.   Equitable Tolling
+        “[T]he timeliness provision in the federal habeas corpus statute [28 U.S.C.
+§ 2244(d)] is subject to equitable tolling.” Holland v. Florida, 130 S. Ct. 2549,
+
+        1
+
+         During the time frame at issue here, the time for filing an appeal expired ten days after the judgment
+is entered. A judgment is “entered” “when it is entered on the criminal docket.” Fed. R. App. P. 4(b)(6).
+In this case, the judgment was entered on April 3, 2008. Using the method of calculation extant at the time,
+Agosto had until April 17, 2008 to file a notice of appeal.
+                                                      6
+2554 (2010); see also Ramos-Martínez v. United States, 638 F.3d 315, 322 (1      st
+
+
+
+
+Cir. 2011) (extending Holland to 28 U.S.C. § 2255(f)). Nevertheless, “equitable
+tolling should be invoked only sparingly.” Ramos-Martínez, 638 F.3d at 322
+(internal quotation marks and citations omitted). “A habeas petitioner bears the
+burden of establishing the basis for equitable tolling,” id. at 323 (internal
+quotation marks and citation omitted), and must show “‘(1) that he has been
+pursuing his rights diligently, and (2) that some extraordinary circumstance
+stood in his way and prevented timely filing,’” id. (quoting Holland, 130 S. Ct.
+at 2562 (further internal quotation marks and citation omitted)). Moreover,
+“[a] party seeking equitable tolling must have diligently pursued his rights for
+the entire period he seeks tolled, not merely once he discovers the underlying
+circumstances warranting tolling.” Neves v. Holder, 613 F.3d 30, 36 (1 Cir. st
+
+
+
+
+2010), cert. denied, 131 S. Ct. 3025 (2011).
+      In his affidavit, Agosto avers that “[a]t sentencing, in open court[,] [he]
+told the court that [he] did not want to appeal [his] sentence.” (#509-2 at 1)
+He further avers that after sentencing, he met with his counsel in a holding cell,
+where his counsel explained his appeal rights. (Id.) Agosto states that he told
+his counsel to appeal his sentence, and that his counsel stated that he would file
+
+                                        7
+a notice of appeal when he got back to his office. (Id.) Agosto further
+maintains that in April 2008, he wrote his attorney a letter asking about the
+status of his appeal. (Id.) He avers that he received no response to this letter,
+and that he wrote additional letters to his counsel again in August and
+November 2008, but those letters also went unanswered. (Id.) He then states
+that he “got fed up,” and called his counsel’s law offices in November and
+December of 2008, but was always told that his counsel was “unavailable.” (Id.)
+He then waited until March 2009, when he again wrote his counsel inquiring
+about the status of his appeal; he states that this letter also went unanswered.
+(Id.) Finally, he avers that “a few months ago” (the Court assumes roughly
+August 2009), he wrote a final letter to his counsel requesting return of his files,
+and he was informed that his trial counsel had died of cancer in March 2009.
+(Id.)
+        Agosto argues that his attorney’s failure to file a direct appeal prevented
+petitioner from filing a timely section 2255 petition. (See #509 at 2) Although
+Agosta does not flesh out this argument, the Court assumes that Agosto’s
+argument runs as follows: his late filing should be excused because he thought
+that his counsel had filed a notice of direct appeal on his behalf, and that his
+
+                                         8
+appeal had been pending during the 17 months before he had filed his section
+2255 petition. (See #495 at 6) Thus, Agosto’s argument seems to go, he was
+unaware that the clock had begun ticking on his federal habeas petition until
+he learned that his attorney had passed away a few weeks before he filed his
+habeas petition.
+        In the Court’s view, the facts that Agosto recounts, even if true,2 do not
+establish reasonable diligence sufficient to warrant equitable tolling. The
+petitioner essentially contends that he had no contact with his counsel during
+the year that he thought that his direct appeal was pending, and that he
+received no response from counsel to the letters that he wrote during the
+months after his counsel had allegedly filed a notice of appeal. Petitioner
+should have and could have taken some other affirmative action to protect his
+rights, such as by requesting a copy of the docket from the court, or seeking
+some other assistance from the court in order to ascertain the status of his
+appeal. Instead, the petitioner contends that he waited a period of months and
+then wrote again. It was not reasonable for petitioner to assume that nothing
+        2
+
+        In the Court’s view, it is inherently incredible that Agosto would have waived his appeal rights at
+the end of the sentencing hearing, only to express a change of heart immediately afterwards. This is
+especially so because his attorney must have also explained the implications of the appeal waiver. Agosto
+does not detail what his counsel said to him that could have led him to change his mind. Nevertheless, for
+the reasons set out below, the Court does not rest resolution of the petition on this conclusion alone.
+                                                    9
+was awry when his attorney, according to Agosto, failed to respond. Nor was
+it reasonable for Agosto to assume that counsel was, in fact, pursuing an appeal
+several months beyond the date on which the notice should have been filed,
+when his counsel failed to contact him with details about the appeal. In short,
+Agosto should have known that something was amiss during the one-year
+limitations period, and the actions he recounts, even if true, do not bespeak
+reasonable diligence. Cf. Williams v. United States, No. 10-22897, 2011 WL
+1878124, at *2 (S.D. Fla. Apr. 25, 2011) (“Indeed, the absence of any response
+from counsel (as movant alleges) would have put a reasonable prisoner on
+notice that some other steps should be taken to determine the status of his
+appeal.”), report and recommendation adopted, 2011 WL 1878126 (S.D. Fla.
+May 17, 2011). The situation might be different if his attorney had responded
+and had represented that an appeal was in the works, lulling the petitioner into
+inaction. But here Agosto alleges that he heard nothing from his attorney, and
+this averment effectively dooms his argument.
+      2. Timeliness under 28 U.S.C. § 2255(f)(4)
+      Although Agosto has not argued the point, his claims (assuming, favorably
+to Agosto, that all the claims asserted could benefit from this provision) may yet
+
+
+                                       10
+be timely under 28 U.S.C. § 2255(f)(4), which triggers the running of the
+statute of limitations on “the date on which the facts supporting the claim or
+claims presented could have been discovered through the exercise of due
+diligence.” Under this provision, then, a section 2255 motion might be timely
+if the petitioner filed within one year of discovering, through the exercise of due
+diligence, that counsel did not file the requested appeal. Thus, the task “‘is to
+determine when a duly diligent person in petitioner’s circumstances would have
+discovered that no appeal had been filed.’” Anjulo-Lopez v. United States, 541
+F.3d 814, 818 (8th Cir. 2008) (quoting Wims v. United States, 225 F.3d 186, 190
+(2d Cir. 2000)). This provision presents a closer question because due diligence
+would not have required Agosto to inquire about his counsel’s pursuit of an
+appeal in April 2008, the very day on which his conviction became final absent
+appeal, and the statute of limitations would not have begun to run until
+sometime after that day. See Wims, 225 F.3d at 190. Here, Agosto avers that
+he wrote his attorney in April, August and November of 2008, never receiving
+a response. One might readily conclude that Agosto could have learned the
+status of his appeal by taking affirmative action after his attorney failed to
+respond not once but twice to his letters. Thus, based on Agosto’s own
+
+
+                                        11
+averments, after Agosto sent the first letter in April 2008 with no response,
+reasonable diligence would have required Agosto to make further inquiry during
+the lapse of four months before he took any additional action. Cf. Williams,
+2011 WL 1878124, at *2 (“due diligence requires that once [petitioner’s] first
+purported letter to counsel went unanswered, that he have requested a copy
+of his criminal docket.”).
+      Even so, determining when a petitioner should have discovered that his
+counsel failed to file a notice of appeal is fact-specific and “depends, among
+other things, on the details of [his] post-sentence conversation with his lawyer
+and on the conditions of his confinement.” Wims, 225 F.3d at 190-91.
+Resolution of the issue here is additionally complicated because Agosto’s trial
+counsel passed away in March 2009. And courts have reached very different
+results in resolving this precise issue. Compare Anjulo-Lopez, 541 F.3d at 818
+(concluding that defendant failed to exercise due diligence in failing to discover
+counsel had not filed appeal “at any time after the deadline for filing the appeal
+passed”), with Wims,225 F.3d at 191 (concluding that “five-month delay” before
+petitioner discovered that his counsel had failed to file a direct appeal “is not so
+clearly unreasonable that it plainly appears from the face of appellant's petition
+
+                                        12
+and supporting papers that he is barred from habeas relief”). Because the Court
+cannot say that the record conclusively establishes that Agosto should have
+discovered his counsel’s alleged lapse during the five-month period after the
+time for filing a notice of appeal, the Court instead considers the government’s
+alternative arguments.
+                B. The Effect of the Plea Agreement Waivers
+      The government also makes the threshold argument that Agosto’s claims
+are barred by the waiver provision contained in the plea agreement, which
+states as follows:
+            6. Waiver of Rights to Appeal and to Bring Collateral
+            Challenge
+            Defendant is aware that he has the right to challenge
+            his sentence and guilty plea on direct appeal.
+            Defendant is also aware that he may, in some
+            circumstances, be able to argue that his plea should be
+            set aside, or his sentence set aside or reduced, in a
+            collateral challenge (such as pursuant to a motion
+            under 28 U.S.C. § 2255).
+            In consideration of the concessions made by the U.S.
+            Attorney in this Agreement, Defendant knowingly and
+            voluntarily waives his right to appeal or collaterally
+            challenge:
+            (1) Defendant’s guilty plea and any other aspect of
+            Defendant’s conviction, including but not limited to,
+            any rulings on pretrial suppression motions or any
+            other pretrial dispositions of motions and issues; and
+            (2) The imposition by the District Court of the sentence
+            agreed to by the parties, as set out in paragraph 4, even
+                                       13
+            if the Court rejects one or more positions advocated by
+            the parties with regard to the application of the U.S.
+            Sentencing Guidelines.
+#448, Plea Agreement at 4.
+       There are a few problems with the government’s argument. Agosto raises
+a claim in his petition that his counsel was ineffective during the plea
+bargaining process. The weight of authority holds that "waivers of appeal
+remain valid unless the ineffective assistance directly related to the knowing,
+voluntary nature of the waiver." United States v. White, 307 F.3d 336, 341 (5th
+Cir. 2002) (discussing cases). And the First Circuit has noted that even if a
+waiver is found to be knowing and voluntary, a claim that the plea proceedings
+themselves were infected by constitutionally deficient assistance of counsel
+could fall within “the miscarriage of justice exception” that would permit a court
+to decline to enforce a waiver. See United States v. Teeter, 257 F.3d 14, 25 n.9
+(1 Cir. 2001). The same holds true for waivers of collateral-review rights:
+  st
+
+
+
+
+although such waivers are generally enforceable if knowing and voluntary, a
+wealth of authority holds that "[a] defendant's plea agreement waiver of the
+right to seek section 2255 post-conviction relief does not waive defendant's right
+to argue, pursuant to that section, that the decision to enter into the plea was
+
+
+                                       14
+not knowing and voluntary because it was the result of ineffective assistance of
+counsel." DeRoo v. United States, 223 F.3d 919, 924 (8th Cir. 2000) (collecting
+cases).
+      Because Agosto correctly notes that he has raised a claim asserting that
+his counsel was ineffective during the plea-bargaining process, the Court
+concludes that the proper course is to examine the merits of that argument, and
+then to assess the enforceability of the waivers and their effect on the remaining
+claims.
+                          C. The Merits of the Claims
+      Agosto asserts four substantive claims in his habeas petition, all alleging
+that his counsel rendered constitutionally inadequate representation. He
+contends that: 1) trial counsel was ineffective in failing to file a requested
+notice of appeal; 2) trial counsel was ineffective in failing to argue at sentencing
+that Agosto’s career offender designation overstated the seriousness of his
+criminal history; 3) trial counsel was ineffective in advising Agosto that he
+would receive a life sentence if he proceeded to trial; 4) trial counsel was
+ineffective in failing to move for a sentencing adjustment to reflect Agosto’s
+minor role in the offense.
+
+
+                                        15
+      The ineffective assistance of counsel claims are governed by the standard
+set out in Strickland v. Washington, 466 U.S. 668, 687 (1984), "which requires
+proof both that counsel fell below minimum standards of representation and
+that there is a reasonable probability that the deficiency altered the outcome of
+the case." Robidoux v. O'Brien, 643 F.3d 334, 338 (1st Cir.), cert. denied sub
+nom., Robidoux v. Murphy, 132 S. Ct. 866 (2011). The Sixth Amendment right
+to counsel “extends to the plea-bargaining process.” Lafler v. Cooper, 132 S. Ct.
+1376, 1384 (2012).       And "the same two-part standard . . . appli[es] to
+ineffective-assistance claims arising out of the plea process." Hill v. Lockhart,
+474 U.S. 52, 57 (1985). In the context of guilty pleas, where the defendant
+"enters his plea upon the advice of counsel, the voluntariness of the plea
+depends on whether counsel's advice 'was within the range of competence
+demanded of attorneys in criminal cases.'" Id. at 56 (quoting McMann v.
+Richardson, 397 U.S. 759, 771 (1970)). The prejudice requirement "focuses on
+whether counsel's constitutionally ineffective performance affected the outcome
+of the plea process. In other words, in order to satisfy the 'prejudice'
+requirement, the defendant must show that there is a reasonable probability
+that, but for counsel's errors, he would not have pleaded guilty and would have
+
+                                       16
+insisted on going to trial." Id. at 59 (footnote omitted). Under Strickland, “[a]
+reasonable probability is a probability sufficient to undermine confidence in the
+outcome.” Strickland, 466 U.S. at 694.
+1. Ineffectiveness of counsel during the plea process
+      In Ground 3 of his petition, Agosto alleges that his trial counsel was
+ineffective during the plea process because his counsel advised Agosto that if he
+proceeded to trial he would receive a life sentence. Agosto claims that he would
+have risked going to trial if his counsel had properly explained the guidelines
+sentencing range to which he would have been exposed. Agosto avers:
+                   Attorney McCann told me during the plea
+            negotiations that if I went to trial, I would receive a
+            sentence of LIFE in prison period. He told me that the
+            Judge I was in front of love[d] giving life sentences
+            and never goes below the advisory guidelines ranges.
+            Attorney McCann told me not to go to trial or I would
+            get LIFE in prison. Attorney McCann never discussed
+            what my advisory guideline range would be if I did go
+            to trial, had I known the Guideline range, I would have
+            gone to trial.
+
+(#509-2 at 2-3)
+Thus, he contends that if he had known that the guideline sentencing range
+would have been 235 to 293 months, he would have insisted on going to trial.
+
+
+                                        17
+(#495 at 12)3
+        First, the Court notes that counsel would not have been incorrect in
+advising Agosto that the maximum penalty at stake in this case was life in
+prison, as that was the case. (See #573 at 9) Agosto effectively alleges,
+however, that his counsel assured him that he would receive a life sentence if
+he went to trial. But even accepting, as the Court must, that Agosto’s behind-
+the-scenes representation is true, and assuming that his counsel’s statement to
+him satisfies the performance prong of Strickland, Agosto has failed to establish
+that but for counsel's purported error in incorrectly advising him, there is a
+reasonable probability that Agosto would not have entered into the plea
+agreement and would have insisted on going to trial. A review of the record
+makes this clear.
+        The government's proffered evidence at the plea colloquy included the
+following: Agosto was arrested with over 22 grams of heroin on his person.
+(#573 at 13) The government also offered details through Title III wiretap
+evidence and pager intercepts that Agosto would have been held accountable
+for 598 grams of heroin. (See id. at 14-15) In his petition, Agosto has offered
+        3
+
+        In fact, the properly calculated guidelines range was 262 to 327 months (see #505 at 9), but the
+detail has no effect on the analysis.
+                                                   18
+no contrary version of facts, or any defense that would suggest a reasonable
+probability that he would have risked trial in the face of this evidence.
+      In pleading guilty, Agosto received not only the benefit of a three-point
+reduction in his total offense level, but also the benefit of a sentence that was
+miscalculated in his favor. The properly calculated guidelines range would have
+been 262 to 327 months. The plea agreement recommended an incorrect
+guideline range of 188 to 235 months, and the government recommended the
+bottom of this range. (See #454 Government’s Sentencing Memorandum at 4;
+see #573 at 7) Thus, on the record before the Court and in the absence of any
+countervailing argument, the Court concludes that Agosto has failed to establish
+that he would not have pled guilty but for his counsel's misrepresentation.
+      A review of the plea colloquy further undercuts Agosto’s claim. After the
+government detailed the sentence contemplated in the plea agreement, the
+district court asked Agosto whether anyone had “made any other or different
+promise or assurance to you of any kind in an effort to make you plead guilty
+in this case?” (#573 at 6) Agosto replied “no.” (Id.) In this context, Agosto’s
+counsel disclosed to the court that he told Agosto that he was “experienced with
+this Court,” and that “that this Court is conservative in nature but is very open-
+
+
+                                       19
+minded about various issues that may come up as it relates to sentencing.” (Id.
+at 8) On the heels of this disclosure, the district court again inquired: “[J]ust
+so the record is clear, I’ll ask Mr. Agosto again. Has anyone made any other or
+different promise or assurance, from anything you’ve heard here this afternoon,
+in an effort to make you plead guilty in this case?” (#573 at 8-9) Again,
+Agosto responded “no.” (Id. at 9) The colloquy continued, with the court
+inquiring “[h]as anyone attempted in any way to force you to plead guilty in
+this case.” (#573 at 9) Agosto again responded “no.” (Id.) Agosto may have
+interjected at this point, but he did not. “[A] court is entitled to give weight to
+the defendant's statements at his change-of-plea colloquy absent a good reason
+for disregarding them.” United States v. Santiago Miranda, 654 F.3d 130, 138
+(1st Cir. 2011) (internal quotation marks and citation omitted). “Moreover, a
+defendant’s ‘declarations in open court carry a strong presumption of verity.’”
+Id. (quoting Blackledge v. Allison, 431 U.S. 63, 74 (1977)). Agosto has not
+overcome that presumption.
+      Finally, the district court made plain that it was not bound by the
+sentence proposed in the plea agreement, and that it had “the discretion to
+sentence [Agosto] anywhere in the range set forth in the statute . . . and that [it
+
+                                        20
+was] not required to sentence [him] within the range prescribed in the
+sentencing guidelines or based upon factors contained in those guidelines.”
+(#573 at 10) When queried whether he understood, Agosto replied, “Yes.” (Id.)
+The district court further advised Agosto that it could “impose a sentence that
+is more severe or less severe than those called for in the guidelines” and then
+asked: “Do you understand that?” (Id. at 10-11) Again, Agosto stated that he
+did. Thus, Agosto was fully apprised that, despite the plea agreement, the
+district court could have imposed a more severe sentence, and he persisted in
+his guilty plea nonetheless. The plea colloquy thus undercuts Agosto’s
+contention that, but for his counsel’s purported representations, he would not
+have pled guilty.
+2. The effect of the waivers on the remaining claims
+      Having rejected any argument that Agosto’s plea was not knowing or
+involuntary on account of ineffective assistance of counsel, the court returns to
+the question of the effectiveness of the waivers. An appeal waiver is
+presumptively enforceable if it is entered into knowingly and voluntarily. See
+Teeter, 257 F.3d at 24. A three-pronged test applies to determine knowledge
+and volition: “First, the written plea agreement must clearly set forth the scope
+
+                                       21
+and terms of the waiver. Second, the district court, at the change-of-plea
+hearing, must call the waiver to the defendant’s attention and question him
+closely in order to ensure that he has a full understanding of the waiver
+provisions and that he has knowingly and voluntarily elected to waive his right
+of appeal. Third, even if the plea agreement and the change-of-plea colloquy
+pass muster, we will not enforce the waiver if doing so would work a
+miscarriage of justice.” United States v. Gil-Quezada, 445 F.3d 33, 36 (1st Cir.
+2006) (citations omitted).
+      Here, the plea agreement meets the first prong: the agreement clearly and
+unambiguously provides that the defendant voluntarily and knowingly waives
+his right to appeal and to collaterally challenge “his guilty plea and any other
+aspect of his conviction” and “imposition by the District Court of the sentence
+agreed to by the parties, as set out in paragraph 4.” The sentence imposed falls
+squarely within the scope of this waiver. Cf. Sotirion v. United States, 617 F.3d
+27, 34 (1st Cir. 2010) (examining similar language in plea agreement). The
+district court specifically called attention to the waiver of appeal rights. The
+district court inquired: “Do you understand that under some circumstances the
+government may appeal any sentence that I impose, but for all practical
+
+
+                                       22
+purposes, by virtue of the plea agreement, you have waived your right to appeal
+any sentence; do you understand that?” (#573 at 11) Agosto responded, “Yes,
+I do.” (Id.) And although the district court did not specifically inquire into the
+waiver of collateral review rights, the First Circuit has stated that “[a]lthough
+it would have been preferable for the . . . judge to specifically refer to the waiver
+of the right to collateral challenge as well as the waiver of the right to direct
+appeal, the judge’s inquiry adequately confirmed [the defendant’s]
+understanding that he was giving up the important right to challenge his
+sentence after conviction.” Sotirion, 617 F.3d at 35. Cf. also United States v.
+Ciampi, 419 F.3d 20, 26-27 (1st Cir. 2005) (enforcing waiver of appellate and
+collateral-review rights despite court’s failure to make specific inquiry where
+totality of the circumstances make plain that defendant understood the nature
+and scope of the waiver), cert. denied, 547 U.S. 1217 (2006). Finally, the Court
+concludes that it would not constitute a miscarriage of justice to enforce the
+waiver in this case. “The miscarriage of justice standard ‘requires a strong
+showing of innocence, unfairness, or the like, and is ‘demanding enough to
+prevent defendants who have agreed to waive their right to appeal from
+successfully pursuing garden-variety claims of error.’” Sotirion, 617 F.3d at 36
+
+                                         23
+(internal quotation marks and citation omitted). Here, the defendant received
+the benefit of his bargain, which included a miscalculated sentence that inured
+to his benefit.
+a. Claims of ineffectiveness at sentencing
+      Because the Court concludes that the waivers ought to be enforced, the
+Court also concludes that two of the grounds presented in Agosto’s petition
+necessarily fail: his claims in Ground 2 and 4 that his counsel was ineffective at
+sentencing in failing to move for an adjustment for Agosto’s minor role in the
+offense, and in failing to challenge Agosto’s career offender designation. These
+represent garden-variety challenges to Agosto’s sentence, and they are plainly
+precluded by the waivers. Furthermore, Agosto’s counsel would not have been
+ineffective in failing to raise these challenges at sentencing, as such a challenge
+could have voided the plea agreement.
+
+
+
+
+                                        24
+b. Failure to file notice of appeal
+      Finally, Agosto contends that his trial counsel was ineffective in failing to
+file a notice of appeal, despite Agosto’s request that he do so. Ordinarily, under
+the standard established in Roe v. Flores-Ortega, 528 U.S. 470, 477 (2000), “a
+lawyer who disregards specific instructions from the defendant to file a notice
+of appeal acts in a manner that is professionally unreasonable.” Id. at 477.
+Flores-Ortega further establishes that, under such circumstances, a defendant
+need not establish prejudice: “by instructing counsel to perfect an appeal, [a
+defendant] objectively indicated his intent to appeal and was entitled to a new
+appeal without any further showing.” Id. at 485. Agosto seeks to situate his
+claim in this category.
+      Flores-Ortega did not address the circumstances in which a defendant has
+expressly waived appeal rights in a plea agreement. See Flores-Ortega, 528 U.S.
+at 488 n.1 (Souter, J., concurring in part, dissenting in part) (“there is no claim
+here that Flores-Ortega waived his right to appeal as part of his plea
+agreement”). See also United States v. Mabry, 536 F.3d 231, 240 (3rd Cir. 2008)
+(noting that Flores-Ortega did not address whether presumption of prejudice
+applies or whether Flores-Ortega controls, “where the defendant has waived his
+
+                                        25
+right to appellate and collateral review”), cert. denied, 129 S. Ct. 2789 (2009).
+
+
+
+The law, however, has evolved on this point following F                       lores-Ortega, and the
+circuits are currently split on whether Flores-Ortega obliges trial counsel to file
+a notice of appeal if asked to do so when the defendant has entered into a plea
+agreement waiving appeal rights. See United States v. Falcon, No. 07-147-ML,
+2011 WL 777852, at *5 (D.R.I. Feb. 28, 2011) (collecting cases).4 Thus far, the
+First Circuit has not had occasion to address the question.
+        Under the majority view, Flores-Ortega controls even in circumstances in
+which a defendant has waived the right to appeal. Under this view, if a
+defendant, despite the waiver, requests counsel to file an appeal, counsel must
+oblige by filing a notice of appeal and then an Anders brief if counsel believes
+that the waiver would render an appeal frivolous. See, e.g., Campusano v.
+United States, 442 F.3d 770, 773, 777 (2d Cir. 2006) (Sotomayor, J.)
+(concluding that the “Flores-Ortega presumption of prejudice applies to a
+defendant who has waived appeal in a plea agreement” and that counsel must
+
+        4
+
+        Compare United States v. Poindexter, 492 F.3d 263, 273 (4th Cir. 2007); United States v. Tapp, 491
+F.3d 263, 266 (5th Cir. 2007); Watson v. United States, 493 F.3d 960, 964 (8th Cir. 2007); Campusano v.
+United States, 442 F.3d 770, 777 (2d Cir. 2006); United States v. Sandoval–Lopez, 409 F.3d 1193, 1197 (9th
+Cir. 2005); United States v. Garrett, 402 F.3d 1262, 1266–67 (10th Cir. 2005); Gomez–Diaz v. United States,
+433 F.3d 788, 790 (11th Cir. 2005), with United States v. Mabry, 536 F.3d 231 (3rd Cir. 2008); Nunez v.
+United States, 546 F.3d 450 (7th Cir. 2008).
+                                                    26
+discharge obligations under Anders v. California, 386 U.S. 738 (1967)). Under
+the minority view, the majority rule applies Flores-Ortega “to a situation in
+which it simply does not ‘fit.’” Mabry, 536 F.3d at 241. Under this view, the
+validity of the waiver ought to be the threshold issue when a petitioner claims,
+despite waiving appeal rights, that counsel was ineffective in failing to file a
+notice of appeal. Id. at 242. And, “[o]nce a defendant has waived his right to
+appeal not only in writing but also in open court under Rule 11(b)(1)(N), the
+sixth amendment does not require counsel to disregard the waiver. The
+regimen of Strickland applies: the defendant must show both objectively
+deficient performance and prejudice. Unless a non-frivolous issue could be
+raised on appeal, counsel should protect the client’s interest in retaining the
+benefit of the plea bargain.” Nunez v. United States, 546 F.3d 450, 456 (7th Cir.
+2008).
+      In the Court’s judgment, the minority view is persuasive. As the Seventh
+Circuit noted in Nunez, “[w]aivers are enforced even if a defendant changes his
+mind. . . . Instead of being obliged to follow his client’s (latest) wishes,
+however unreasonable they may be, a lawyer has a duty to the judiciary to
+avoid frivolous litigation . . . . A lawyer also has a duty to his client to avoid
+
+                                       27
+taking steps that will cost the client the benefit of the plea bargain.” Nunez, 546
+F.3d at 454-55. A number of district courts have since adopted this approach.
+See, e.g., Falcon, 2011 WL 777852, at *7 (“the presumption of prejudice
+espoused in Flores-Ortega does not apply to Falcon’s ineffective assistance claim
+. . ., given the full and complete colloquy conducted by [the court] and the
+appeal waiver provision signed by [the defendant]”); Blacksher v. United States,
+No. 11-cv-11826, 2011 WL 5854373, at *4 (E.D. Mich. Oct. 13, 2011)
+(approving minority view and concluding that defendant’s “unfulfilled request
+for counsel to file a direct appeal should not preclude enforcement of
+[defendant’s] direct appeal waiver”), report and recommendation adopted, 2011
+WL 5854341 (E.D. Mich. Nov. 18, 2011); United States v. Walls, No. 05-92,
+2008 WL 927926, at *8 (E.D. Ky. April 4, 2008) (noting weight of authority but
+holding that “a complete waiver of appeal rights removes [the] case from the
+scope of Flores-Ortega” and, alternatively, holding that “the presumption of
+prejudice in Flores-Ortega is rebutted in this case by the existence of a valid
+waiver of appeal rights”).
+      Here, having concluded that the waivers contained in the plea agreement
+are enforceable, and having rejected as meritless Agosto’s claim that the plea
+
+                                        28
+process was tainted by ineffectiveness of counsel, the Court shall recommend
+that Agosto’s claim that his counsel was ineffective in failing to file a notice of
+appeal be denied, especially where the issues presented are squarely precluded
+by the waivers.
+   IV. Conclusion, and Recommendation and Alternative Recommendation
+      For all the above reasons, I RECOMMEND that petitioner’s Motion Under
+Title 28 U.S.C. § 2255 to Vacate, Set Aside, or Correct Sentence by a Person in
+Federal Custody (#495) be DENIED. However, should the District Judge adopt
+the majority view that if a defendant, despite the waiver, requests counsel to file
+an appeal, counsel must oblige by filing a notice of appeal, I ALTERNATIVELY
+RECOMMEND that the District Judge appoint counsel pursuant to Rule 8(c) of
+the Rules Governing Section 2255 Proceedings, and conduct an evidentiary
+hearing on the question whether Agosto, in fact, specifically requested his trial
+counsel to file a notice of appeal.
+                        V. Review by the District Judge
+      The parties are hereby advised that any party who objects to this
+recommendation and alternate recommendation must file specific written
+objections thereto with the Clerk of this Court within 14 days of the party’s
+
+
+                                        29
+receipt of this Report and Recommendation. The written objections must
+specifically identify the portion of the recommendations, or report to which
+objection is made and the basis for such objections. The parties are further
+advised that the United States Court of Appeals for this Circuit has repeatedly
+indicated that failure to comply to file objections shall preclude further
+appellate review. See Keating v. Secretary of Health and Human Services, 848
+F.2d 271 (1st Cir. 1988); United States v. Emiliano Valencia-Copete, 792 F.2d 4
+(1st Cir. 1986); Scott v. Schweiker, 702 F.2d 13, 14 (1st Cir. 1983); United
+States v. Vega, 678 F.2d 376, 378-379 (1st Cir. 1982); Park Motor Mart, Inc. v.
+Ford Motor Co., 616 F.2d 603(1st Cir., 1980); see also Thomas v. Arn, 474 U.S.
+140 (1985).
+
+
+                        /s/ Robert B. Collings
+                        ROBERT B. COLLINGS
+                        United States Magistrate Judge
+
+
+
+May 11, 2012.
+
+
+
+
+                                      30
+

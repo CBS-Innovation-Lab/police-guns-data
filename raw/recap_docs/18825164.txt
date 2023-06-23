@@ -1,0 +1,294 @@
+          Case 3:12-cr-00555-FAB Document 84 Filed 01/08/13 Page 1 of 9
+
+
+
+                             IN THE UNITED STATES DISTRICT COURT
+                               FOR THE DISTRICT OF PUERTO RICO
+
+ UNITED STATES OF AMERICA,
+                Plaintiff,
+                    v.                                 CRIM. NO. 12-555 (FAB)
+ 1- JOSE LUIS AVILES-VEGA
+ 2- RICARDO JAVIER RIVERA-RUIZ,
+              Defendants.
+
+
+
+                               REPORT AND RECOMMENDATION
+       Defendants José Luis Avilés-Vega (“Avilés”) and Ricardo Javier Rivera-Ruiz (“Rivera”)
+are charged with possession of a firearm by a convicted felon, in violation of 18 U.S.C. § 922(g)(1)
+and 924(a)(2). (Docket No. 29). Before the court is Avilés’s motion to suppress evidence obtained
+as a result of a stop and frisk search based on an anonymous tip. (Docket No. 38). Defendant
+Rivera joined the request for suppression. (Docket No. 77, 83). The government has opposed.
+(Docket No. 51). Defendant’s motion was referred to me for report and recommendation pursuant
+to 28 U.S.C. § 636(b)(1). (Docket No. 42, 43). An evidentiary hearing was held on November 15,
+2012, and the parties have filed post-hearing briefs. (Docket Nos. 76, 81). Although this case
+presents a close question, I recommend that the motion to suppress be denied.
+                                   FACTUAL BACKGROUND
+       During the hearing, the court heard testimony from two government witnesses: (1) Puerto
+Rico Police Department (“PRPD”) Officer Pedro López-Molinari (“López”), and (2) ICE Task Force
+Officer (“TFO”) Javier N. Méndez-Rodríguez.
+       PRPD Officer López’s Testimony
+       On July 13, 2012 at 6:00 p.m., Officer López was working as desk sergeant at the Aguadilla
+police station (drug division) when he received an anonymous phone call from a male person
+reporting that four individuals in a wine-colored Chevrolet Lumina, with a license plate ending in
+959 and a broken right side tail light (Exhibit 3), were traveling from Isabela to Aguadilla along
+            Case 3:12-cr-00555-FAB Document 84 Filed 01/08/13 Page 2 of 9
+
+
+USA v. José Luis Avilés-Vega, et al.                                                               Page 2
+Cr. No. 12-555 (FAB)
+REPORT AND RECOMMENDATION
+
+Road 2. The caller informed having observed that as they drove in direction to Aguadilla, the front
+passenger1 passed a firearm to one of the individuals sitting in the back, and that the caller was
+following them until they turned into Road 459 from Road 2. (Transcript “Tr.” p. 10, L 5-25; p. 11,
+L 1-2). Following protocol, López filled out a special complaint form. (Exhibit 1). Five to ten
+minutes later, he notified Sergeant Luis Acevedo-Valentín (“Acevedo”), who instructed him to go
+to Road 2 intersection of Road 459 with two fellow officers in an unmarked PRPD vehicle to
+corroborate the information. Ten to fifteen more minutes elapsed before López arrived at the
+intersection, where he observed a wine-colored Chevrolet Lumina enter the Aguadilla Shopping
+Mall.2 That mall has a Burger King and an Asian food restaurant. López drove into the Burger King
+parking lot (Exhibit 2) in order to verify the vehicle’s license plate and whether it had a broken right
+side tail light, and saw the vehicle being parked. From a distance of about 100 feet away, he
+confirmed that this vehicle fit the description provided by the anonymous caller. He then left the
+Burger King parking lot, and parked in front of the Asian food restaurant, where he conducted
+surveillance of the vehicle and its occupants for about ten to fifteen minutes. López reported to
+Acevedo the location of the vehicle and the four male individuals, and Acevedo replied that he
+would coordinate an intervention and give notice to the stolen vehicles division.
+        Ten to fifteen minutes later, other officers arrived and intervened with the occupants of the
+vehicle.
+        TFO Méndez’s Testimony
+        On July 13, 2012 at around 7:00 p.m., Méndez arrived with three PRPD officers at the
+Burger King parking lot in an unmarked vehicle. He had been debriefed by PRPD officers about
+
+
+        1
+         The certified translation of Officer López’s testimony does not specify gender. This portion of
+López’s testimony makes reference to one male individual. “He passed the firearm to the rear, to one of
+the individuals that’s in the rear.” (Tr. P. 10, L 22-23). However, López was asked in cross-examination
+whether the caller had stated the car occupants’s genders or provided physical descriptions of each
+individual, to which he answered no. (Tr. P. 32, L 4-20).
+        2
+         There is a discrepancy in testimony as to whether the shopping center is Plaza Ferram or the
+Aguadilla Shopping Mall.
+             Case 3:12-cr-00555-FAB Document 84 Filed 01/08/13 Page 3 of 9
+
+
+
+USA v. José Luis Avilés-Vega, et al.                                                             Page 3
+Cr. No. 12-555 (FAB)
+REPORT AND RECOMMENDATION
+
+two armed persons3 at a meeting held at Las Cascadas Park twenty to thirty minutes prior, but did
+not know at the time of his arrival at the scene who provided that information to the PRPD, or how
+many individuals or firearms were in the vehicle. There were around ten officers, and three of the
+officers were already standing by the subject vehicle’s doors, pointing their weapons towards the
+vehicle. Méndez stood by the unoccupied door at the rear of the vehicle, and also pointed his weapon
+towards the vehicle for safety reasons. One of the officers standing towards the front of the vehicle
+ordered the occupants out. Méndez noticed that the individual in front of him, Rivera, was carrying
+a weapon on his waist, and proceeded to detain him. A PRPD officer next to Méndez removed the
+firearm while Méndez “spotted” him. Méndez testified that he could see in plain view that the
+firearm had a mutilated serial number. Méndez instructed Rivera to lie on the ground, as were the
+other three individuals. Rivera was frisked,4 and the PRPD officers handcuffed the four individuals.
+                                               DISCUSSION
+        The defendants seek to suppress evidence of the seized firearms and the statements made
+post-arrest as fruit of a warrantless search, alleging that, as in Florida v. J.L., 529 U.S. 266 (2000),
+an anonymous tip about a person carrying a gun lacks standard indicia of reliability and does not
+justify an initial stop and frisk by a police officer. (Docket No. 38, p. 3-4). The government in its
+opposition argues that the police officers had reasonable suspicion to conduct an investigatory stop,
+and that the defendants validly waived their constitutional rights to remain silent and provided the
+incriminatory statements during an interview.
+        The Fourth Amendment provides that “[t]he right of the people to be secure in their persons,
+houses, papers, and effects, against unreasonable searches and seizures, shall not be violated.” U.S.
+Const., amend. IV. These protections guard against unreasonable seizures of property in which the
+person has a legitimate privacy interest. United States v. Place, 462 U.S. 696, 706-07 (1983).
+
+
+        3
+            Tr. P. 54, L 19-20.
+        4
+            Méndez did not know whether the other three individuals were frisked.
+          Case 3:12-cr-00555-FAB Document 84 Filed 01/08/13 Page 4 of 9
+
+
+
+USA v. José Luis Avilés-Vega, et al.                                                            Page 4
+Cr. No. 12-555 (FAB)
+REPORT AND RECOMMENDATION
+
+“[S]earches and seizures ‘conducted outside the judicial process, without prior approval by judge
+or magistrate, are per se unreasonable under the Fourth Amendment - subject only to a few
+specifically established and well delineated exceptions.’” Minnesota v. Dickerson, 508 U.S. 366,
+372 (1993) (quoting Thompson v. Louisiana, 469 U.S. 17, 19-20 (1984)).
+         One exception, as recognized in Terry v. Ohio, allows a police officer “in appropriate
+circumstances and in an appropriate manner [to] approach a person for purposes of investigating
+possibly criminal behavior even though there is no probable cause to make an arrest.” 392 U.S. 1,
+22 (1968). In initiating a Terry stop, a police officer needs only “reasonable and articulable
+suspicion of criminal activity.” United States v. Chhien, 266 F.3d 1, 6 (1st Cir. 2001). When a
+police officer has “a reasonable basis to suspect that the subject of his inquiry may be armed, he also
+may frisk the subject”. United States v. Cook, 277 F.3d 82, 85 (1st Cir. 2002). The protective search
+must be “limited to that which is necessary for the discovery of weapons which might be used to
+harm the officer or others nearby.” Terry, 392 U.S. at 26. In addition, “[d]uring a lawful Terry-type
+search, police officers may seize an object in ‘plain view’ without a warrant if they have probable
+cause to believe it is contraband without conducting some further search of the object, i.e., if its
+incriminating character is ‘immediately apparent.’” United States v. Schiavo, 29 F.3d 6, 9 (1st Cir.
+1994) (citing Dickerson, 508 U.S. at 375).
+        When police officers effect an investigatory stop of a vehicle, all of the vehicle’s occupants,
+not just the driver, are subjected to a seizure under the Fourth Amendment. Arizona v. Johnson, 555
+U.S. 323, 332 (2009); Brendlin v. California, 551 U.S. 249, 256-57 (2007); United States v. Kimball,
+25 F.3d 1, 5 (1st Cir. 1994). A vehicle passenger has standing to challenge an investigatory stop of
+the vehicle because the passenger’s own interests are affected. Brendlin, 551 U.S. at 259; Kimball,
+25 F.3d at 5. Thus, if the initial stop of the vehicle was illegal, evidence seized from a passenger
+by virtue of that stop may be subject to exclusion as the “fruit of the poisonous tree.” Kimball, 25
+F.3d at 5-6 (citing Wong Sun v. United States, 371 U.S. 471, 484-85 (1963)). With these principles
+in mind, I proceed to analyze the reasonableness of law enforcement’s intervention with the
+defendants.
+          Case 3:12-cr-00555-FAB Document 84 Filed 01/08/13 Page 5 of 9
+
+
+
+USA v. José Luis Avilés-Vega, et al.                                                             Page 5
+Cr. No. 12-555 (FAB)
+REPORT AND RECOMMENDATION
+
+        In this case, the officers suspected that the occupants of the vehicle had a firearm based on
+information provided by an anonymous caller. Defendants argue that Florida v. J.L. controls this
+case because in J.L. an anonymous tip about a person carrying a gun that lacked standard indicia of
+reliability did not justify an initial stop and frisk by a police officer. The government argues that
+under the totality of the circumstances test, the officers had reasonable suspicion of ongoing criminal
+activity, and could therefore conduct an investigatory Terry stop, which then provided probable
+cause for the defendants’ arrest.
+        The courts recognize that reasonable suspicion may exist when a tip, corroborated by
+independent police work, contains “sufficient indicia of reliability” to provide reasonable suspicion
+to make an investigatory stop. United States v. Jones, 700 F.3d 615, 621-622 (1st Cir. 2012) (citing
+Alabama v. White, 496 U.S. 325, 331-332 (1990)). However, “[u]nlike a tip from a known
+informant whose reputation can be assessed and who can be held responsible if [his] allegations turn
+out to be fabricated (internal citation omitted), ‘an anonymous tip alone seldom demonstrates the
+informant’s basis of knowledge or veracity.’” J.L., 529 U.S. at 270 (quoting White, 496 U.S. at 329
+(1990)). Police officers must take steps to corroborate the information, and significant weight may
+be given to a tip to the extent that it demonstrates that the informant had inside information or was
+familiar with the defendant’s affairs, such as being able to predict future behavior not known to the
+general public, or that the person implicated by the tip has a relevant criminal history. Jones, 700
+F.3d at 622 (citing White, 496 U.S. at 332). Moreover, “‘[c]orroboration of apparently innocent
+activity can establish the reliability of the informant because the activity might come to appear
+suspicious in light of the initial tip.’” Jones, 700 F.3d at 622 (citing United States v. Greenburg, 410
+F.3d 63, 69 (1st Cir. 2005)). A determination of reasonable suspicion must be based on an
+assessment of the totality of the circumstances, and the court must look at the facts available to the
+officer at the moment of the seizure or search that suggest the tip was reliable. Jones, 700 F.3d at
+621 (quoting Terry, 392 U.S. at 21; United States v. Arvizu, 534 U.S. 266, 273 (2002); citing United
+States v. Monteiro, 447 F.3d 39, 46 (1st Cir. 2006)).
+           Case 3:12-cr-00555-FAB Document 84 Filed 01/08/13 Page 6 of 9
+
+
+
+USA v. José Luis Avilés-Vega, et al.                                                          Page 6
+Cr. No. 12-555 (FAB)
+REPORT AND RECOMMENDATION
+
+        In J.L, the tip offered by the anonymous caller was that “a young black male standing at a
+particular bus stop and wearing a plaid shirt was carrying a gun.” 529 U.S. at 268. When the police
+arrived at the bus stop, they found three black males, one wearing a plaid shirt, who the officers
+stopped and frisked, finding a gun in his pocket. The caller did not provide information as to how
+he knew that the individual had a firearm, and the police had no other information apart from the tip
+to suspect of ongoing criminal activity. The officers did not see a firearm nor was J.L. acting
+suspiciously. Importantly, the Court noted that the caller in that case provided no predictive
+information, nor explained how he knew about the gun, nor supplied any basis for believing he had
+inside information. Given the dearth of any information that could be investigated or corroborated,
+apart from the description of the defendant’s location and appearance, the J.L. Court thus held that
+a search based upon an anonymous tip lacking indicia of reliability is not reasonable and the
+evidence it produces is not admissible. J.L., 529 U.S. at 274. See also United States v. Brown, 401
+F3d 588 (4th Cir. 2005) (holding that anonymous tip alleging possession of firearm and providing
+no more than general description and location of defendant was insufficient to justify Terry stop).
+        Subsequent cases have distinguished J.L. United States v. Thompson, 234 F.3d 725 (D.C.
+Cir. 2000), and United States v. Valentine, 232 F.3d 350 (3rd Cir. 2000), distinguish in-person
+informants from anonymous telephone calls as in J.L. In both cases, a man anonymously informed
+in person to the police that he had just seen a man carrying a gun, so the basis of knowledge was the
+product of an informant’s firsthand observation. In-person informants are more reliable because
+their anonymity is at risk and the officers have an opportunity to assess credibility and demeanor.
+Valentine, 232 F.3d at 354 (citations omitted). In both Thompson and in Valentine, the courts found
+that the tip bore indicia of reliability not present in J.L. because (1) the tipster had informed the
+police in person, and (2) “his knowledge was based upon firsthand observation, [and] the recency
+and the proximity of his claimed observations further suggested that it would prove accurate.”
+Thompson, 234 F.3d at 729 (citations omitted). Both courts concluded that the tip had sufficient
+indicia of reliability.
+          Case 3:12-cr-00555-FAB Document 84 Filed 01/08/13 Page 7 of 9
+
+
+
+USA v. José Luis Avilés-Vega, et al.                                                               Page 7
+Cr. No. 12-555 (FAB)
+REPORT AND RECOMMENDATION
+        United States v. Wheat, 278 F.3d 722 (8th Cir. 2001), also distinguished J.L. based on the
+content of the information provided to the police in an anonymous call and the police officer’s
+response time. In Wheat, an anonymous motorist called 9-1-1 informing of a vehicle being driven
+erratically, and provided the color and make of the vehicle, the first three letters of the license plate,
+and a location and direction. Wheat addresses whether, “in light of J.L., an anonymous tip about
+the dangerous operation of a vehicle whose innocent details are accurately described may still
+possess sufficient indicia of reliability to justify an investigatory stop by a law enforcement officer
+who does not personally observe any erratic driving.” 278 F.3d at 729. “First, the anonymous
+tipster must provide a sufficient quantity of information, such as the make and model of the vehicle,
+its license plate numbers, its location and bearing, and similar innocent details, so that the officer,
+and the court, may be certain that the vehicle stopped is the same as the one identified by the caller.”
+278 F.3d at 731. Wheat distinguished the tip in J.L. in that the latter was “a rather generic
+description, and the possibility for confusion of the suspect’s identity was compounded by the fact
+that the police only responded ‘sometime’ later; the record did not disclose how long.” Id. at 731-
+732.
+        United States v. Copening, 506 F.3d 1241 (10th Cir. 2007), also concluded that the tip
+provided by an anonymous 9-1-1 caller possessed the requisite indicia of reliability to justify a Terry
+stop. In Copening, the caller offered a firsthand observation of an individual with a firearm,
+extensively described the vehicle, and provided location and direction because he was following it.
+As in Wheat, the tip in Copening “is readily distinguishable from the anonymous, unrecorded, and
+uncorroborated tip deemed unreliable in J.L.” 506 F.3d at 1246.
+        Turning to the case at hand, the tip received by law enforcement, as in J.L., was provided by
+an anonymous caller, as opposed to an in-person informant, and the police therefore had no
+opportunity of assessing credibility or demeanor. Moreover, there was no testimony that the officers
+had other information besides the tip to suspect of ongoing criminal activity, or that the four
+individuals were acting suspiciously while sitting inside the Chevrolet Lumina in the parking lot.
+          Case 3:12-cr-00555-FAB Document 84 Filed 01/08/13 Page 8 of 9
+
+
+
+USA v. José Luis Avilés-Vega, et al.                                                            Page 8
+Cr. No. 12-555 (FAB)
+REPORT AND RECOMMENDATION
+On the other hand, and unlike J.L.’s “informant who neither explained how he knew about the gun
+nor supplied any basis for believing he had inside information about J.L.,” 529 U.S. at 271, the caller
+in this case informed that he knew of the firearm because he saw being passed from one of the car’s
+occupants to another; specifically, the caller informed that he was following the suspect vehicle in
+his car and contemporaneously notified the police about what he personally observed. In addition,
+the caller provided an extensive description of the vehicle and its location: a wine-colored Chevrolet
+Lumina with four occupants, a license plate ending in 959, and a broken right side tail light. All of
+these “innocent details” turned out to be accurate when investigated by the police. Moreover, even
+if Officer López was not as responsive as the officer in Wheat, who responded within minutes of
+receiving the tip, he located a vehicle matching the exact description within the half hour of
+receiving the call. Although “‘an anonymous tip alone seldom demonstrates the informant’s basis
+of knowledge or veracity,’” J.L., 529 U.S. at 270 (quoting White, 496 U.S. at 329 (1990)), the basis
+of knowledge of the informant in this case was his contemporaneous firsthand observation.
+        Albeit a very close case, I find that the anonymous tip had sufficient indicia of reliability,
+as described above, to support a determination of reasonable suspicion, and that the totality of the
+circumstances demonstrate that the police sufficiently corroborated information provided by the
+informant to furnish reasonable suspicion to make an investigatory stop. Suppression is therefore
+not warranted.
+                                          CONCLUSION
+        Based on the foregoing, I recommend that defendant’s motion to suppress be DENIED.
+        This report and recommendation is filed pursuant to 28 U.S.C. § 636(b)(1)(B) and Rule 72(d)
+of the Local Rules of this Court. Any objections to the same must be specific and must be filed with
+the Clerk of Court within fourteen (14) days of its receipt. Failure to file timely and specific
+objections to the report and recommendation is a waiver of the right to review by the district court.
+United States v. Valencia-Copete, 792 F.2d 4 (1st Cir. 1986).
+          Case 3:12-cr-00555-FAB Document 84 Filed 01/08/13 Page 9 of 9
+
+
+
+USA v. José Luis Avilés-Vega, et al.                                                   Page 9
+Cr. No. 12-555 (FAB)
+REPORT AND RECOMMENDATION
+        IT IS SO RECOMMENDED.
+        In San Juan, Puerto Rico, this 8th day of January, 2013.
+
+
+                                                      s/Bruce J. McGiverin
+                                                      BRUCE J. McGIVERIN
+                                                      United States Magistrate Judge
+

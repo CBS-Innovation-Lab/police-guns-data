@@ -1,0 +1,510 @@
+Case 1:05-cr-00009-JAW Document 77 Filed 03/22/06 Page 1 of 10                  PageID #: 140
+
+
+
+                           UNITED STATES DISTRICT COURT
+                                DISTRICT OF MAINE
+
+
+   UNITED STATES OF AMERICA                    )
+                                               )
+          v.                                   )      CR-05-09-B-W
+                                               )
+   STEVE MCCARTY                               )
+
+
+                                 PRESENTENCE ORDER
+
+          As the Defendant Steve McCarty has pleaded guilty to possession of a sawed-off
+
+   shotgun, a violation of 26 U.S.C. § 5861(d), this Court concludes he is subject to the
+
+   “destructive device” enhancement under U.S.S.G. § 2K2.1(b)(3)(B).
+
+   I. STATEMENT OF FACTS
+
+          On October 12, 2005, Mr. McCarty pleaded guilty, inter alia, to possession of a
+
+   firearm not registered to him in the National Firearms Registration and Transfer Record
+
+   in violation of 26 U.S.C. § 5861(d). Pursuant to U.S.S.G. § 2K2.1(a)(5), Mr. McCarty’s
+
+   base offense level is 18, since the offense “involved a firearm described in 26 U.S.C. §
+
+   5845(a).” In its Presentence Investigation Report (PSR), however, the Probation Office
+
+   recommended a two level upward adjustment pursuant to U.S.S.G. § 2K2.1(b)(3)(B),
+
+   because the sawed-off shotgun constituted a “destructive device” within the meaning of
+
+   26 U.S.C. § 5845(f)(2). PSR ¶ 17. Mr. McCarty objected. Id. at 13. He contends that
+
+   the adjustment amounts to improper “double counting,” the sawed-off shotgun does not
+
+   constitute a “destructive device” for purposes of the § 2K2.1(b)(3)(B) enhancement, and
+
+   this Court’s determination that the firearm is not an “antique” within the meaning of 26
+
+   U.S.C. § 5845(f) would violate the Constitution’s separation of powers provisions. Def.’s
+
+   Sent. Mem. at 3-6 (Docket # 71).
+Case 1:05-cr-00009-JAW Document 77 Filed 03/22/06 Page 2 of 10                                  PageID #: 141
+
+
+
+   II. DISCUSSION
+
+           A. Double Counting
+
+           Since his offense involved possession of a sawed-off shotgun, Mr. McCarty does
+
+   not challenge the determination that his base offense level should be 18 under U.S.S.G. §
+
+   2K2.1(a)(5).1 He objects, however, to the imposition of a two-level enhancement under
+
+   U.S.S.G. § 2K2.1(b)(3)(B) for possession of the same shotgun under the theory that it is a
+
+   “destructive device.” Mr. McCarty argues that the Guidelines have already enhanced his
+
+   sentence for possession of a sawed-off shotgun by imposing a much higher base offense
+
+   level than would have been imposed for possession of other types of firearms and to
+
+   enhance it again, based solely on the same conduct, is to double count. Def.’s Sent. Mem.
+
+   at 3-4 (Docket # 71).
+
+           Double counting occurs “‘when one part of the Guidelines is applied to increase a
+
+   defendant’s punishment on account of a kind of harm that has already been fully
+
+   accounted for by application of another part of the Guidelines.’”                      United States v.
+
+   Rohwedder, 243 F.3d 423, 426-27 (8th Cir. 2001) (quoting United States v. Hipenbecker,
+
+   115 F.3d 581, 583 (8th Cir. 1997)).               However, the First Circuit reminded us that
+
+   “[d]ouble counting in the sentencing context ‘is a phenomenon that is less sinister than
+
+   the name implies.’” United States v. Lilly, 13 F.3d 15, 19 (1st Cir. 1994) (quoting United
+
+   States v. Zapata, 1 F.3d 46, 47 (1st Cir. 1993)). Double counting “is often perfectly
+
+
+
+
+   1
+     Section 2K2.1(a)(5) provides a base offense level of 18 for possession of a firearm described in 26 U.S.C.
+   § 5845(a). Section 5845(a) defines “firearm” to mean “(1) a shotgun having a barrel or barrels of less than
+   18 inches in length; [or] (2) a weapon made from a shotgun if such weapon as modified has an overall
+   length of less than 26 inches or a barrel or barrels of less than 18 inches in length . . . .” 26 U.S.C. §
+   5845(a)(1), (2). Mr. McCarty’s shotgun had an overall length of twenty-four inches and a barrel length of
+   eleven inches. Pros. Version at 2 (Docket # 57).
+
+
+                                                        2
+Case 1:05-cr-00009-JAW Document 77 Filed 03/22/06 Page 3 of 10                                     PageID #: 142
+
+
+
+   proper” and the Guidelines themselves are “the most helpful aid in the task of separating
+
+   permissible double counting from its impermissible counterpart.” Id.
+
+            Mr. McCarty’s argument fails because if it is double counting, it is permissible
+
+   under the Guidelines. 2 Even assuming arguendo that Mr. McCarty’s possession of a
+
+   short-barreled shotgun were counted twice, first in the base offense level and next in the
+
+   enhancement, under First Circuit authority, the same factor may “serve double duty,” if
+
+   the Guidelines direct it. Zapata, 1 F.3d at 50 (citing United States v. Newman, 982 F.2d
+
+   665, 673 (1st Cir. 1992)) (holding that the Commission’s express prohibition of double
+
+   counting in certain instances indicates its intent to permit double counting in other
+
+   instances); United States v. Vazquez-Molina, 389 F.3d 54, 60 (1st Cir. 2004), vacated on
+
+   other grounds and remanded for reconsideration in light of Booker, __U.S.__, 125 S. Ct.
+
+   1713 (2005) (“The same fact sometimes can serve multiple purposes at sentencing and
+
+   2
+            If the current version of the Guidelines applies to Mr. McCarty’s conduct, there would be no
+   double counting, because the firearms justifying the application of U.S.S.G. § 2K2.1(a)(5) are not
+   necessarily “destructive devices” under U.S.S.G. § 2K2.1(b)(3). “Destructive device” under § 2K2.1(b)(3)
+   is currently defined to have “the meaning given that term in 26 U.S.C. § 5845(f).” U.S.S.G. § 2K2.1
+   application note 1. Mr. McCarty’s argument is premised on the notion that all firearms described in §
+   5845(a) are destructive devices and, therefore, to impose an additional penalty for possession of a
+   destructive device under U.S.S.G. § 2K2.1(b)(3)(B) increases his punishment for “a kind of harm already
+   fully accounted for” in the higher base offense level of 18. This argument misses the mark, however,
+   because not all the firearms in § 5845(a) are destructive devices. For example, a conviction for illegally
+   possessing a silencer, which is a “firearm” under § 5845(a), results in a base offense level of 18 under §
+   2K2.1(a)(5), but would not be subject to the two -level enhancement under § 2K2.1(b)(3)(B), because a
+   silencer does not appear to be a destructive device under § 5845(f). Under the current version, since not all
+   firearms under § 2K2.1(a)(5) are destructive devices under § 2K2.1(b)(3) and, the two provisions do not
+   “fully account for” the “same kind of harm.” Rohwedder, 243 F.3d at 426-27.
+            This provision of the Guidelines was changed effective November 1, 2004. See U.S.S.G.
+   Supplement to Appendix C, amend. 669. The earlier version of application note 1 defined “destructive
+   device” as being “a type of firearm listed in 26 U.S.C. § 5845(a) . . . .” U.S.S.G. § 2K2.1 application note 4
+   (pre-November 1, 2004 version). This permutation of the Guidelines’ commentary could be construed as
+   including all firearms listed in § 5845(a) within the definition of “destructive device.” But see United States
+   v. Wynn, 365 F.3d 546, 548-49 (6th Cir. 2004), vacated on other grounds and remanded for
+   reconsideration in light of Booker, 543 U.S. 1102 (2005) (rejecting argument that all firearms listed in §
+   5845(a) are destructive devices under pre-November 1, 2004 version). As the earlier version of the
+   Guidelines in effect when Mr. McCarty committed this offense may benefit him, this Court will not base its
+   conclusion on an application of the current version. See United States v. Harotunian, 920 F.2d 1040, 1042
+   (1st Cir. 1990). Whether the ex post facto concern about application of an amended version of the
+   Guidelines exists with the same force under an advisory guideline regime remains intriguing, but
+   unanswered.
+
+
+                                                         3
+Case 1:05-cr-00009-JAW Document 77 Filed 03/22/06 Page 4 of 10                    PageID #: 143
+
+
+
+   those multiple uses are generally permissible except in instances in which the sentencing
+
+   guidelines explicitly forbid double counting.” (citations omitted)); United States v.
+
+   Alicea, 205 F.3d 480, 486 n.7 (1st Cir. 2000) (“We do not mean to imply, however, that
+
+   double-counting is never permissible. The contrary is true.” (citations omitted)). Here,
+
+   the Guidelines explicitly direct it.   The Guidelines expressly impose the destructive
+
+   device enhancement for possession of a short-barreled shotgun:
+
+          A defendant whose offense involves a destructive device receives both the
+          base offense level from the subsection applicable to a firearm listed in 26
+          U.S.C. § 5845(a) (e.g., subsection (a)(1), (a)(3), (a)(4)(B), or (a)(5)), and
+          the applicable enhancement under subsection (b)(3). Such devices pose a
+          considerably greater risk to the public welfare than other National
+          Firearms Act weapons.
+
+   U.S.S.G. § 2K2.1 application note 8.
+
+          This conclusion is consistent with decisions of other courts. See United States v.
+
+   Henry, 417 F.3d 493, 494 (5th Cir. 2005) (per curiam), cert. denied, __U.S.__, 126 S. Ct.
+
+   673 (2005) (citing U.S.S.G. § 2K2.1 application note 11, the predecessor to U.S.S.G. §
+
+   2K2.1 application note 8) (“[T]he guidelines allow the same weapon both to provide the
+
+   foundation for the base offense level and to support a two-level increase, if the weapon is
+
+   a ‘destructive device.’”); United States v. Hardy, 393 F.3d 747 (8th Cir. 2004); United
+
+   States v. Wynn, 365 F.3d 546, 547 (6th Cir. 2004), vacated on other grounds and
+
+   remanded for reconsideration in light of Booker, 543 U.S. 1102 (2005) (quoting U.S.S.G.
+
+   § 2K2.1 application note 11, the predecessor to U.S.S.G. § 2K2.1 application note 8)
+
+   (“Application Note 11 to § 2K2.1 permits what would otherwise appear to be ‘double
+
+   counting’ by expressly providing that ‘a defendant whose offense involves a destructive
+
+   device receives both the base offense level from the subsection applicable to a firearm
+
+   listed in 26 U.S.C. § 5845(a) . . ., and a two-level enhancement under [§ 2K2.1(b)(3)].”).
+
+
+
+                                                4
+Case 1:05-cr-00009-JAW Document 77 Filed 03/22/06 Page 5 of 10                                     PageID #: 144
+
+
+
+            This Court concludes no improper double counting would result from imposition
+
+   of a § 2K2.1(b)(3)(B) enhancement to Mr. McCarty’s offense level under § 2K2.1(a)(5).
+
+            B. Definition of Destructive Device
+
+            Mr. McCarty argues that his sawed-off shotgun “does not qualify for . . . [an]
+
+   enhancement under § 2K2.1(b)(3) because it is not the type of firearm included in the
+
+   definition of ‘destructive device.’”             Def.’s Sent. Mem. at 4 (Docket # 71).                   The
+
+   commentary to § 2K2.1 states that “‘destructive device’ has the meaning given that term
+
+   in 26 U.S.C. § 5845(f).” U.S.S.G. § 2K2.1 application note 1. Section 5845(f) defines
+
+   “destructive device,” in relevant part:
+
+            [A]ny type of weapon by whatever name known which will, or which may
+            be readily converted to, expel a projectile by the action of an explosive or
+            other propellant, the barrel or barrels of which have a bore of more than
+            one-half inch in diameter, except a shotgun or shotgun shell which the
+            Secretary finds is generally recognized as particularly suitable for sporting
+            purposes[.]
+
+   26 U.S.C. § 5845(f)(2) (emphasis supplied).
+
+            Mr. McCarty posits that his sawed-off shotgun falls within the “shotgun”
+
+   exception to the destructive device definition. 3 His first argument is that his shotgun,
+
+   even though short-barreled, is still undoubtedly a shotgun and, therefore, by the express
+
+   terms of the statute cannot be a destructive device. See Def.’s Sent. Mem. at 4-5 (Docket
+
+   # 71). His second argument rests largely on the absence of any findings by the Secretary
+
+   recognizing particular firearms as suitable or unsuitable for lawful sporting purposes. Id.
+
+
+
+   3
+    The term “shotgun” means:
+           [A] weapon designed or redesigned, made or remade, and intended to be fired from the
+           shoulder and designed or redesigned and made or remade to use the energy of the
+           explosive in a fixed shotgun shell to fire through a smooth bore either a number of
+           projectiles (ball shot) or a single projectile for each pull of the trigger, and shall include
+           any such weapon which may be readily restored to fire a fixed shotgun shell.
+   26 U.S.C. § 5845(d).
+
+
+                                                         5
+Case 1:05-cr-00009-JAW Document 77 Filed 03/22/06 Page 6 of 10                                   PageID #: 145
+
+
+
+   at 5 (“[T]here is no evidence that the Secretary has made any determination regarding the
+
+   Defendant’s shotgun or its attributes which caused the Secretary to find it not generally
+
+   recognized as particularly suitable for sporting purposes.”).
+
+            Mr. McCarty’s argument, however, runs counter to the weight of authority.
+
+   Henry, 417 F.3d at 494; Hardy, 393 F.3d at 748-49; Wynn, 365 F.3d at 550-52; United
+
+   States v. Lee, 351 F.3d 350, 351 n.1 (8th Cir. 2003) (summarily affirming the district
+
+   court’s conclusion that “an unregistered sawed-off . . . shotgun[] meets the statutory
+
+   definition of ‘destructive device’” as set forth in § 5845(f)); see also United States v. One
+
+   Sentinel Arms Striker-12 Shotgun Serial No. 001725, 416 F.3d 977, 978-80 (9th Cir.
+
+   2005), cert. denied, __U.S.__, 126 S. Ct. 772 (2005) (concluding a Striker-12 shotgun is
+
+   a destructive device under § 5845(f)); Demko v. United States, 216 F.3d 1049, 1052-53
+
+   (Fed. Cir. 2000) (a military-type shotgun is not one suitable for sporting purposes and fits
+
+   within § 5845(f)(2)’s definition of “destructive device”). In Wynn, the Sixth Circuit
+
+   performed a careful examination of legislative history of the Gun Control Act of 1968 in
+
+   concluding that sawed-off shotguns fall within § 5845(f)(2)’s definition of a “destructive
+
+   device.”4 365 F.3d at 551-52. As Wynn demonstrates, the legislative history of the Gun
+
+   Control Act makes clear that Congress did not intend to except unregistered sawed-off
+
+   shotguns from the definition of “destructive device.”
+
+
+   4
+      Wynn determined that the House version of the bill clarified that in general shotguns were not to be
+   considered destructive devices; however, its version expressly excluded short-barreled shotguns from this
+   exemption. 365 F.3d at 551. Congress adopted the Senate definition of destructive device, but stated it
+   was “essentially the same as the House bill.” Id. (quoting Conf. Rep. No. 90-1956 (1968), reprinted in
+   1968 U.S.C.C.A.N. at 4427). The Senate formulation excluded shotguns and shotgun shells the Secretary
+   finds to be suitable for sporting purposes, any device the Secretary finds to be an antique or a rifle the
+   owner intends to use solely for sporting purposes. Id. at 552. Wynn concluded that “the only types of
+   firearms that are not considered destructive devices for the purposes of [U.S.S.G.] § 2K2.1 are those that
+   are used ‘solely for sporting, recreational, or cultural purposes,’ 18 U.S.C. § 921(a)(4) and 26 U.S.C. §
+   5845(f)(3), or, by necessary inference, ones that have a bore of one-half inch or less in diameter. 18 U.S.C.
+   § 921(a)(4)(B) and 26 U.S.C. § 5845(f)(2).” Id.
+
+
+                                                        6
+Case 1:05-cr-00009-JAW Document 77 Filed 03/22/06 Page 7 of 10                                  PageID #: 146
+
+
+
+           The First Circuit has recognized that sawed-off shotguns serve no sporting
+
+   purpose. In United States v. Fortes, the First Circuit noted that “sawed-off shotguns are
+
+   inherently dangerous, lack usefulness except for violent and criminal purposes and their
+
+   possession involves the substantial risk of improper physical force.” 141 F.3d 1, 8 n.3
+
+   (1st Cir. 1998) (quoting United States v. Hayes, 7 F.3d 144, 145 (9th Cir. 1993)). Other
+
+   courts have reached the same conclusion. See United States v. Serna, 309 F.3d 859, 864
+
+   (5th Cir. 2002) (“[W]e have determined that use for violence is the primary purpose for a
+
+   sawed-off shotgun.”); United States v. Linson, 276 F.3d 1017, 1019 (8th Cir. 2002)
+
+   (sawing off a shotgun hinders, rather than aids, sport shooting); United States v. Johnson,
+
+   246 F.3d 330, 335 (4th Cir. 2001) (“possession of [a sawed-off shotgun] always creates a
+
+   serious potential risk of physical injury to another”); United States v. Brazeau, 237 F.3d
+
+   842, 845 (7th Cir. 2001) (same); United States v. Allegree, 175 F.3d 648, 651 (8th Cir.
+
+   1999) (sawed-off shotguns are inherently dangerous and lack usefulness except for
+
+   violent and criminal purposes); Hayes, 7 F.3d at 145 (same).
+
+           Mr. McCarty finally argues that this Court would violate the doctrine of
+
+   separation of powers if it were to make a judicial determination regarding the suitability
+
+   of sawed-off shotguns for lawful sporting purposes.5 See Def.’s Sent. Mem. at 5 (Docket
+
+   # 71). He contends that Congress delegated the power to make such a determination
+
+
+   5
+             It strikes this Court that the separation of powers argument – both here and regarding the
+   definition of antique - is a misnomer. Taking Mr. McCarty’s argument at face value, he is contending that
+   Congress expressly delegated the authority to interpret the meaning of the statutory terms, “particularly
+   suitable for sporting use” and “antique,” to the executive branch. But, this delegation is not of
+   constitutional dimension. It is a statutory directive. Mr. McCarty can hardly be claiming that this Court is
+   without constitutional authority to interpret statutes, so what he must be arguing is that this Court has
+   misconstrued its statutory authority or has interpreted the phrases incorrectly.
+             The argument also strikes this Court as a non-starter. Congress has enacted 26 U.S.C. § 5845(f).
+   It is the law of the land. It may be true that Congress contemplated that the Secretary, using his or her
+   expertise, would explicate the meaning of these terms, but if the Secretary failed to do so, this inaction
+   cannot invalidate the law nor remove this Court’s obligation to interpret and apply it.
+
+
+                                                        7
+Case 1:05-cr-00009-JAW Document 77 Filed 03/22/06 Page 8 of 10                     PageID #: 147
+
+
+
+   solely to the executive branch, and any judicial assumption of that delegation would
+
+   result in a constitutional violation. Id. Under First Circuit precedent, however, a sawed-
+
+   off shotgun is not “suitable for sporting purposes” within the meaning of § 5845(f) under
+
+   any conceivable definition. See Fortes, 141 F.3d at 8 n.3; Hardy, 393 F.3d at 749 (court
+
+   concluded that sawed-off shotgun was a destructive device even though “[n]either side
+
+   point[ed] to any finding by the Secretary”).
+
+          Based on the legislative history of the Gun Control Act and subsequent circuit
+
+   court precedent, this Court concludes that unregistered sawed-off shotguns serve no
+
+   sporting purpose and fall within § 5845(f)(2)’s definition of a destructive device.
+
+          C. Shotgun as Antique
+
+          Mr. McCarty argues that his sawed-off shotgun does not fit the definition of
+
+   “destructive device” because it is an antique. Def.’s Sent. Mem. at 6 (Docket # 71); 26
+
+   U.S.C. § 5845(f) (“The term ‘destructive device’ shall not include any device which . . .
+
+   is an antique . . . .”). Mr. McCarty claims that because the statute contemplates that the
+
+   Secretary make a finding that a particular firearm is or is not an antique, this Court cannot
+
+   do so without encroaching upon an area Congress has expressly delegated to the
+
+   Secretary. Def.’s Sent. Mem. at 6 (Docket # 71).
+
+          Mr. McCarty has waived this argument. He has admitted to a violation of 26
+
+   U.S.C. § 5861(d), which incorporates the definition of “firearm” under 26 U.S.C. §
+
+   5845(a). Section 5845(a) defines “firearm” to exclude “an antique firearm or any device
+
+   (other than a machinegun or destructive device) which, although designed as a weapon,
+
+   the Secretary finds by reason of the date of its manufacture, value, design, and other
+
+   characteristics is primarily a collector’s item and is not likely to be used as a weapon.” A
+
+
+
+
+                                                  8
+Case 1:05-cr-00009-JAW Document 77 Filed 03/22/06 Page 9 of 10                    PageID #: 148
+
+
+
+   violation of § 5861(d) is premised on possession of a firearm that is not an antique within
+
+   this definition.   If, as Mr. McCarty has admitted, the firearm is not an antique for
+
+   purposes of criminal responsibility, it cannot be an antique for purposes of sentencing,
+
+   since the applicable definitions are the same.
+
+          In addition, the factual predicate is not present for this argument, because there is
+
+   no evidence Mr. McCarty’s Springfield 18D would under any circumstances fit within
+
+   the statutory definition of “antique”:
+
+          [A]ny firearm not designed or redesigned for using rim fire or
+          conventional center fire ignition with fixed ammunition and manufactured
+          in or before 1898 (including any matchlock, flintlock, percussion cap, or
+          similar type of ignition system or replica thereof, whether actually
+          manufactured before or after the year 1898) and also any firearm using
+          fixed ammunition manufactured in or before 1898, for which ammunition
+          is no longer manufactured in the United States and is not readily available
+          in the ordinary channels of commercial trade.
+
+   26 U.S.C. § 5845(g). Mr. McCarty possessed a sawed-off Savage Springfield 18D
+
+   Model, twelve gauge shotgun. The Government’s Version of the Offense and the PSR do
+
+   not establish the date Mr. McCarty’s shotgun was manufactured. Assuming the
+
+   Government can demonstrate at the sentencing hearing that Mr. McCarty’s Savage
+
+   Springfield shotgun was not manufactured “in or before 1898,” the firearm in this case
+
+   does not constitute an “antique firearm” under § 5845(g) and cannot be considered an
+
+   antique for purposes of the destructive device determination.
+
+   III. CONCLUSION
+
+          This Court concludes that the Defendant Steve McCarty is subject to the two-level
+
+   enhancement under U.S.S.G. § 2K2.1(b)(3)(B).
+
+          SO ORDERED.
+
+
+
+
+                                                9
+Case 1:05-cr-00009-JAW Document 77 Filed 03/22/06 Page 10 of 10   PageID #: 149
+
+
+
+
+                                         /s/ John A. Woodcock, Jr.
+                                         JOHN A. WOODCOCK, JR.
+                                         UNITED STATES DISTRICT JUDGE
+
+
+   Dated this 22nd day of March, 2006
+
+
+
+
+                                        10
+

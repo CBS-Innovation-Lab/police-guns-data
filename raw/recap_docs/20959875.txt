@@ -1,0 +1,216 @@
+                         UNITED STATES DISTRICT COURT
+                              DISTRICT OF MAINE
+
+
+UNITED STATES OF AMERICA               )
+                                       )
+      v.                               )     1:17-cr-00057-JAW
+                                       )
+STEVEN LEMIEUX                         )
+
+
+ ORDER ON MOTION IN LIMINE REGARDING PRIOR POSSESSION AND
+                     USE OF .30-30 RIFLE
+
+      Steven Lemieux stands charged of possession of a firearm by a prohibited
+
+person between December 14, 2016 and December 20, 2016. The Government moves
+
+in limine seeking to admit evidence that Mr. Lemieux possessed a firearm at times
+
+outside the time period charged in the indictment. The Court denies the motion based
+
+on Rule 403.
+
+I.    BACKGROUND
+
+      Steven Lemieux is charged in a two-count indictment alleging the unlawful
+
+possession of seven firearms and 784 rounds of ammunition between on about
+
+December 14, 2016 and on about December 20, 2016. Indictment (ECF No. 2). Among
+
+the firearms found at Mr. Lemieux’s residence during a search on December 14, 2016
+
+was a .30-30 rifle. Gov’t’s Mot. in Lim. to Admit Evid. that the Def. Possessed and
+
+Used the .30-30 Rifle Prior to December 14, 2016 at 1 (ECF No. 45) (Gov’t’s Mot.). In
+
+2013, 2014, and 2016, Mr. Lemieux obtained licenses from the state of Maine to
+
+harvest deer with a firearm, specifically a .30-30 rifle. Id. Attach. 1 Deer Tagging
+
+Records. In addition, Mr. Lemieux’s business website has a number of photographs
+
+under the heading “These are few [sic] photos of me deer hunting on horseback on my
+property in Fairfield, Maine.”     Gov’t’s Mot. at 1–2; id. Attach. 2 Webpage and
+
+Photographs from Mainehorsedrawnservices.com. The page also has a link to a video,
+
+taken at the same time as some of the photographs, showing Mr. Lemieux firing what
+
+appears to be a .30-30 rifle and then dragging an antlerless deer from the woods with
+
+a black horse. Gov’t’s Mot. at 2; id. Attach. 3 Screenshot of Video. Mr. Lemieux
+
+reported the harvest of a doe in 2016. Gov’t’s Mot. at 2.
+
+      The Government seeks to admit the deer tagging records from 2013, 2014, and
+
+2016 in which Mr. Lemieux admits to use of a .30-30 rifle, the photographs of Mr.
+
+Lemieux engaging in this or similar activity that were found in his home and posted
+
+on his business website, and the video of Mr. Lemieux firing a .30-30 rifle. Gov’t’s
+
+Mot. at 1. The Government argues that this evidence is direct evidence of guilt, or, if
+
+the rifle is not the same .30-30 rifle recovered from Mr. Lemieux’s residence, is
+
+admissible for a proper purpose under Federal Rule of Evidence 404(b). Id. at 2–7.
+
+In response, Mr. Lemieux states that he does not dispute possession on the dates
+
+alleged in the indictment, but he objects to the admission of such prior possession
+
+evidence under Federal Rules of Evidence 404(b) and 403 as cumulative and
+
+marginally relevant. Def.’s Resp. to Gov’t’s Mot. in Lim. Re: Fed. R. Evid. 404(b) Evid.
+
+(ECF No. 52) (Def.’s Opp’n).
+
+II.   DISCUSSION
+
+      Evidence is relevant if it has “any tendency to make a fact more or less probable
+
+than it would be without the evidence” and “the fact is of consequence in determining
+
+the action.” FED. R. EVID. 401. Relevant evidence is generally admissible, unless an
+
+
+
+
+                                              2
+exclusion applies. FED. R. EVID. 402. One such exclusion is for evidence of a prior
+
+bad act when such evidence is introduced for the sole purpose of proving a defendant
+
+had a propensity to commit a crime. FED. R. EVID. 404(b)(1); see also United States v.
+
+Doe, 741 F.3d 217, 229 (1st Cir. 2013). Evidence of prior bad acts may be admissible
+
+if it has special relevance apart from showing propensity to commit a crime. FED. R.
+
+EVID. 404(b)(2); Doe, 741 F.3d at 229. However, even relevant evidence may be
+
+excluded “if its probative value is substantially outweighed by a danger of . . . unfair
+
+prejudice, confusing the issues, misleading the jury, undue delay, wasting time, or
+
+needlessly presenting cumulative evidence.” FED. R. EVID. 403.
+
+      The Court assumes for purposes of this order that evidence of the possession
+
+and use of a .30-30 rifle outside the dates alleged in the indictment could be
+
+admissible as either direct evidence or for a proper purpose under Rule 404(b). United
+
+States v. Ford, 839 F.3d 94, 109 (1st Cir. 2016) (describing the “two-part test” in
+
+evaluating admissibility under Rule 404); Doe, 741 F.3d at 229. This conclusion,
+
+however, does not end the discussion. The Court must still determine whether the
+
+“probative value is substantially outweighed by the danger of unfair prejudice.” Ford,
+
+893 F.3d at 109.
+
+      Here, the Court determines that the probative value of such evidence would be
+
+substantially outweighed by the danger of unfair prejudice under Rule 403. First, in
+
+his response, Mr. Lemieux admits he possessed the firearms on the dates alleged in
+
+the indictment, which reduces the probative value of the prior possession evidence.
+
+See Def.’s Opp’n at 1; Ford, 839 F.3d at 109. Second, it is not entirely clear whether
+
+
+
+
+                                              3
+the .30-30 rifle in the deer tagging records, photographs, and video is the same .30-
+
+30 rifle charged in the indictment, and some of the evidence, in particular two of the
+
+deer tagging records, are dated two or three years before the dates charged in the
+
+indictment, further reducing the probative value of such evidence.             Third, the
+
+Government already plans to introduce substantial evidence of Mr. Lemieux’s
+
+possession of the .30-30 rifle, including Mr. Lemieux’s own statements of possession,
+
+photographs of the .30-30 rifle at Mr. Lemieux’s residence at the time of the search
+
+and seizure, an ATF Seized Asset Claim Form submitted by Mr. Lemieux, and the
+
+.30-30 rifle itself, which was taken from Mr. Lemieux’s residence during the search
+
+on December 14, 2016. Gov’t’s Second Am. Trial Ex. List (ECF No. 49). Given the
+
+Government’s breadth of possession evidence for the dates charged in the indictment
+
+and Mr. Lemieux’s apparent decision not to contest possession during that period,
+
+any additional evidence of prior possession is needlessly cumulative. Fourth, the
+
+potential prejudice of the evidence includes obligating Mr. Lemieux not only to defend
+
+his actions based on the dates charged in the indictment but also to respond to events
+
+that precede the dates in the indictment; the risk being that the jury will view the
+
+Rule 404(b) evidence as evidence of propensity or character, despite the Court’s
+
+instruction to the contrary, and, as the evidence includes the killing and hauling of a
+
+doe, the infusion of pro- and anti-hunting elements into the case. Ford, 839 F.3d at
+
+110 (“[I]n view of the negligible probative value of the evidence, it is not clear the
+
+district court’s limiting instructions were sufficient to curb its prejudicial effect”).
+
+
+
+
+                                                4
+       This ruling assumes that Mr. Lemieux maintains his current posture of not
+
+contesting possession of a firearm during the dates alleged in the indictment. If he
+
+changes tactics or takes the stand and denies possession, the Court may be required
+
+to revisit this ruling.
+
+III.   CONCLUSION
+
+       Accordingly, the Court DENIES the Government’s Motion in Limine to Admit
+
+Evidence That the Defendant Possessed and Used the .30-30 Rifle Prior to December
+
+14, 2016 (ECF No. 45).
+
+       SO ORDERED.
+
+                                      /s/ John A. Woodcock, Jr.
+                                      JOHN A. WOODCOCK, JR
+                                      UNITED STATES DISTRICT JUDGE
+
+Dated this 13th day of June, 2017
+
+
+
+
+                                            5
+

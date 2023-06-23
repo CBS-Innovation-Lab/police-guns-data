@@ -1,0 +1,523 @@
+Case 2:21-cr-00015-JDL Document 323 Filed 11/02/22 Page 1 of 10                 PageID #: 873
+
+
+
+
+                           UNITED STATES DISTRICT COURT
+                                DISTRICT OF MAINE
+
+UNITED STATES OF AMERICA                    )
+                                            )
+                                            )
+                                            )
+                      v.                    )
+                                            )       2:21-cr-00015-JDL
+JASON CANDELARIO, et al.,                   )
+                                            )
+       Defendants.                          )
+
+
+          ORDER ON THE DEFENDANT’S MOTIONS TO SUPPRESS
+
+       On February 25, 2021, Defendant Jason Candelario was indicted for: (1)
+
+conspiracy to commit robbery in violation of the Hobbs Act (18 U.S.C.A. § 1951(a)
+
+(West 2022)); (2) using or threatening violence in connection with a plan to commit
+
+robbery in violation of the Hobbs Act; (3) discharging a firearm during a violent crime;
+
+(4) brandishing a firearm; and (5) possession of ammunition after prior convictions. 1
+
+A Motion for Leave to Dismiss Counts III and IV (ECF No. 313) was granted on
+
+November 1, 2022 (ECF No. 316).
+
+       As part of its investigation, the FBI issued two subpoenas pursuant to section
+
+506 of the Comprehensive Drug Abuse Prevention and Control Acts of 1970
+
+(“Controlled Substances Act”), 21 U.S.C.A. §§ 876 (West 2022), to obtain Candelario’s
+
+cell phone records from electronic communications providers (ECF Nos. 274 and 275).
+
+Subsequently, the FBI executed two search warrants for cell site location data and
+
+call records from two additional cell phone numbers belonging to Candelario.
+
+
+ 1A superseding indictment (ECF No. 115) was filed on July 22, 2021, amending Count V to include
+possession of firearms and ammunition.
+                                                1
+Case 2:21-cr-00015-JDL Document 323 Filed 11/02/22 Page 2 of 10                     PageID #: 874
+
+
+
+
+       Candelario filed two Motions to Suppress on July 18 and July 21, 2022. The
+
+first Motion to Suppress (ECF No. 271) challenges all of the evidence obtained
+
+through subpoenas issued pursuant to the Controlled Substances Act, 21 U.S.C.A.
+
+§ 876, which authorizes the Attorney General “[i]n any investigation relating to his
+
+functions under this subchapter with respect to controlled substances . . . [to]
+
+subp[o]ena witnesses, compel the attendance and testimony of witnesses, and require
+
+the production of any records . . . which the Attorney General finds relevant or
+
+material to the investigation.” 21 U.S.C.A. § 876(a). Candelario argues that the
+
+subpoenas were not statutorily authorized because neither he nor his co-Defendants
+
+had been investigated or indicted for any violations under the Controlled Substances
+
+Act, and thus any of the alleged evidence that was obtained would be immaterial to
+
+an authorized investigation. 2 He also argues that the subpoenas failed to specify the
+
+materials to be produced with “reasonable particularity.” ECF No. 271 at 3.
+
+        Candelario’s second Motion to Suppress (ECF No. 277) seeks to suppress “all
+
+evidence of the location of any cell phone associated with [Candelario] and all
+
+evidence obtained pursuant to the search warrants dated September 6, 2019.” The
+
+
+
+
+ 2 Candelario also argues that the subpoenas violated the Stored Communications Act, 18 U.S.C.A. §§
+2701-2713 (West 2022) because the Government lacked a valid administrative warrant. The Stored
+Communications Act allows the government to require an electronic service provider to disclose “a
+record or other information pertaining to a subscriber . . . (not including the contents of
+communications)” if the government seeks only the name, address, phone connection records, length
+of service, and billing information and obtains a statutorily authorized subpoena. § 2703(c)(1)-(2).
+Even if I were to find that the investigation into the August 3, 2019, robbery was not an authorized
+investigation under the Controlled Substances Act, suppression of evidence is not a remedy for
+violations of the Stored Communications Act because the Act explicitly states that “remedies and
+sanctions described in this chapter are the only judicial remedies and sanctions for
+nonconstitutional violations of this chapter.” § 2708 (emphasis added).
+                                                 2
+Case 2:21-cr-00015-JDL Document 323 Filed 11/02/22 Page 3 of 10          PageID #: 875
+
+
+
+
+motion asserts that the probable cause used to support the warrants was based on
+
+illegally obtained evidence from the subpoenas. ECF No. 277 at 1.
+
+      On September 26, 2022, Defendant Derek Daprato joined both motions to
+
+suppress (ECF No. 303). A hearing on the motions was held on October 24, 2022.
+
+(ECF No. 309).
+
+                          I. FACTUAL BACKGROUND
+
+      The Affidavit of FBI Agent Patrick M. Clancy dated September 6, 2019,
+
+describes the following timeline of events. On August 3, 2019, a 9-1-1 call to the York
+
+Police Department reported a shooting at 3 Rowe Falls Lane, York, Maine. Video and
+
+audio surveillance captured by the homeowner, who later told investigators that he
+
+was “in the business of distributing marijuana,” showed footage of two masked
+
+individuals entering the house at approximately 12:26 a.m. ECF No. 277 at 15, ¶11.
+
+While the individuals were in the house, the surveillance captured sounds of “a
+
+struggle . . . followed by a single gunshot,” and then the individuals fled down the
+
+driveway at approximately 12:36 a.m. One of the individuals was carrying what
+
+appeared to be a handgun. It was later discovered that the individuals left behind a
+
+backpack containing duct tape, zip ties, and white plastic bags. Seven minutes after
+
+the 9-1-1 call reporting the shooting in York, a police vehicle captured the license
+
+plate of a passing car on a “not [] heavily traveled roadway” near the scene. ECF No.
+
+277 at 16, ¶13. This vehicle was later connected to co-Defendant Luis Carpio.
+
+      Law enforcement became aware of a parallel investigation in Canton,
+
+Massachusetts, involving a similar armed robbery, which was also captured on video,
+
+that was allegedly perpetrated by Candelario on July 20, 2019. The Canton Police
+
+                                           3
+Case 2:21-cr-00015-JDL Document 323 Filed 11/02/22 Page 4 of 10                    PageID #: 876
+
+
+
+
+Department issued an arrest warrant for Candelario on August 2, 2019, one day
+
+before the York, Maine incident. The first subpoena (the “July 31st subpoena”) of
+
+Candelario’s cell phone records (978-323-1978) was issued on July 31, 2019,
+
+purportedly in connection with the Canton robbery.                The second subpoena (the
+
+“August 7th subpoena”) of Candelario’s cell phone records (978-323-1978) was issued
+
+on August 7, 2019 (ECF No. 274). Both subpoenas were limited to “[a]ll customer or
+
+subscriber information, including name, address, billing address, and email address
+
+if provided; all telephone connection records, including incoming and outgoing calls
+
+and text messages (SMS); and length of service (activation/deactivation dates).” 3
+
+ECF No. 274 at 4.
+
+       Following the issuance of the two subpoenas of Candelario’s cell phone records
+
+(for the number 978-323-1978), investigators subpoenaed Carpio’s call activity and
+
+toll records on August 12, 2019. An analysis of Carpio’s toll records also showed that
+
+Carpio had phone contact 126 times with two additional phone numbers associated
+
+with Candelario, including on the day of the robbery in Massachusetts and on August
+
+2 and 3, 2019. Following a separate incident involving Carpio on August 21, 2019,
+
+the Manchester Police Department obtained cell site location data from his phone
+
+records. The records showed that the cell phone had been in the area of the York
+
+robbery starting at 12:09 a.m. and “remained in the area until approximately 3:30
+
+[a.m.]-4:00 [a.m.]” on August 3, 2019. ECF No. 277 at 19, ¶¶27-28.
+
+
+
+
+ 3  The July 31st subpoena contained similar language: “Customer or subscriber name, address of
+service, and billing address; Length of service (including start date and end date); Local and long
+distance telephone connection records (examples include: incoming and outgoing calls, push-to-talk,
+and SMS/MMS connection records). ECF No. 275.
+                                                4
+Case 2:21-cr-00015-JDL Document 323 Filed 11/02/22 Page 5 of 10           PageID #: 877
+
+
+
+
+      Investigators then obtained and executed two search warrants on September
+
+6, 2019, for records from two different cell phones belonging to Candelario. The
+
+warrants for 603-341-0159 and 603-716-1370 sought “[h]istorical cell site and
+
+sector/face information . . . for the period July 18, 2019, through August 10, 2019,
+
+along with a listing of all control channels and their corresponding cell sites and an
+
+engineering map showing all cell site tower locations, sectors, and orientations.” ECF
+
+No. 277 at 10-11, 28-29.
+
+                               II. LEGAL ANALYSIS
+
+      I first address Candelario’s argument that the warrantless subpoenas were
+
+unlawful because they sought an unreasonable amount of information for an
+
+unlimited period of time and were not authorized under the Controlled Substances
+
+Act due to the nature of the investigation. I then address Candelario’s claim that the
+
+use of the allegedly invalid subpoenas violated the Fourth Amendment.
+
+1.    Warrantless Subpoenas
+
+      Administrative subpoenas do not need to meet the probable cause standard
+
+required for search warrants so long as they are related to an “investigation []
+
+authorized by Congress . . . and the documents sought are relevant to the inquiry.”
+
+Okla. Press Publ’g Co. v. Walling, 327 U.S. 186, 208-09 (1946).           “[T]he Fourth
+
+[Amendment], if applicable, at the most guards against abuse only by way of too much
+
+indefiniteness or breadth in the things required to be ‘particularly described[]’ . . . .
+
+The gist of the protection is in the requirement . . . that the disclosure sought shall
+
+not be unreasonable.” Id. at 208. Contrary to Candelario’s first argument, the
+
+challenged subpoenas specified a reasonable amount of basic user information and
+
+                                            5
+Case 2:21-cr-00015-JDL Document 323 Filed 11/02/22 Page 6 of 10                    PageID #: 878
+
+
+
+
+connection records, seeking no more than the name and address of the subscriber, the
+
+billing address, telephone and text message call logs, and activation and deactivation
+
+of service dates. The collection of this information was limited to time periods prior
+
+to, during, and immediately following the two robberies, all of which would be
+
+relevant to a criminal investigation, and the subpoenas did not seek the content of
+
+any communications or request cell phone location data. Thus, the subpoenas were
+
+reasonably limited in both scope and duration, and they were issued in good faith and
+
+plainly relevant to the ongoing investigation.              Moreover, the subpoenas were
+
+statutorily authorized because the investigations involved a robbery and a conspiracy
+
+to rob a marijuana distributor, and the potential distribution and possession of
+
+controlled substances, which are prohibited acts explicitly addressed by the
+
+Controlled Substances Act. 4 See 21 U.S.C.A. § 841(a).
+
+2.     Allegedly Invalid Subpoenas
+
+       Candelario also contends that his Fourth Amendment right to privacy was
+
+violated by the Government having obtained his basic cell phone user information
+
+through the subpoenas issued to the third-party cellular carriers because the
+
+subpoenas were not supported by a finding of probable cause by a judicial officer.
+
+
+
+
+  4 At the hearing held on October 24, 2022, Candelario clarified that the subpoena attached to the
+
+second Motion to Suppress (ECF No. 277 at 43) was not one of the challenged subpoenas at issue in
+the first Motion to Suppress. Regarding the two subpoenas (ECF Nos. 274 and 275) that were
+challenged in the first Motion to Suppress, Candelario conceded that they had been issued in
+connection with an ongoing criminal investigation in Massachusetts and not in connection with the
+investigation in York Maine. Candelario further conceded that, based on the phone company records
+and other information provided by the Government’s attorneys, the Government had obtained
+Candelario’s cell site location information through the search warrants, and not from the earlier
+subpoenas by which the Government had gained access to Candelario’s cell phone records.
+
+                                                6
+Case 2:21-cr-00015-JDL Document 323 Filed 11/02/22 Page 7 of 10         PageID #: 879
+
+
+
+
+      The Fourth Amendment guarantees “[t]he right of the people to be secure in
+
+their persons, houses, papers, and effects, against unreasonable searches and
+
+seizures.” U.S. Const. amend. IV; see Mitchell v. Wisconsin, 588 U.S. __, 139 S. Ct.
+
+2525, 2534 (2019). Standing to bring a claim for unlawful search and seizure in
+
+violation of the Fourth Amendment requires that a person “claim a ‘justifiable,’ a
+
+‘reasonable,’ or a ‘legitimate expectation of privacy’ that has been invaded by
+
+government action.” Smith v. Maryland, 442 U.S. 735, 740 (1979); United States v.
+
+Sanchez, 943 F.2d 110, 112 (1st Cir. 1991) (“Because Fourth Amendment rights are
+
+personal and may not be asserted vicariously, the first inquiry in examining a
+
+[F]ourth [A]mendment claim is whether the defendant had a legitimate expectation
+
+of privacy in the area searched or the item seized.”). The legitimacy of a defendant’s
+
+expectation of privacy rests on a number of factors including “the existence or
+
+nonexistence of privacy . . . and the objective reasonableness of such an expectancy
+
+under the facts of a given case.” Sanchez, 943 F.2d at 113 (quoting United States v.
+
+Aguirre, 839 F.2d 854, 857 (1st Cir. 1988)).
+
+      Here, Candelario alleges that he had a legitimate expectation of privacy in his
+
+phone records, and that pursuant to Carpenter v. United States, 585 U.S.__, 138 S.
+
+Ct. 2206 (2018), the Fourth Amendment provides protection when “the [G]overnment
+
+seeks pervasive information that is automatically recorded (rather than voluntarily
+
+shared)” from a cell phone. ECF No. 271 at 5. He argues that because the subpoenas
+
+were executed without warrants supported by probable cause, they constituted an
+
+unlawful search of “a substantial amount of [cell phone] data that was automatically
+
+collected from a user [by a third-party provider]” in violation of the Fourth
+
+                                          7
+Case 2:21-cr-00015-JDL Document 323 Filed 11/02/22 Page 8 of 10            PageID #: 880
+
+
+
+
+Amendment. Id. The Government argues that Candelario’s reliance on Carpenter is
+
+misplaced, and that he does not have standing to challenge the validity of the
+
+subpoenas because they were issued to third-party businesses and Candelario does
+
+not have a “recognizable privacy interest” in his phone records. ECF No. 294 at 6.
+
+The Government has the better argument.
+
+      In Carpenter, the defendant was charged with six counts of robbery and six
+
+counts of carrying a firearm during a federal crime of violence. 138 S. Ct. at 2212.
+
+Pursuant to the Stored Communications Act, 18 U.S.C.A. §§ 2701-2713 (West 2022),
+
+a court ordered two wireless carriers to disclose the defendant’s phone records,
+
+including cell site location information from all incoming and outgoing calls in a four-
+
+month period. 138 S. Ct. at 2212. The Government used this location data to place
+
+the defendant near the location of four robberies, and, following his conviction, the
+
+defendant was sentenced to more than 100 years in prison. Id. at 2212-13. The Sixth
+
+Circuit held that the defendant had voluntarily shared his phone location records
+
+with the wireless carriers and that the “resulting business records are not entitled to
+
+Fourth Amendment protection.” Id. at 2213 (citing United States v. Carpenter, 819
+
+F.3d 880, 888 (6th Cir. 2016), rev’d and remanded, 138 S. Ct. 2206 (2018)). The
+
+Supreme Court reversed, finding that individuals have a legitimate expectation of
+
+privacy in cell site location information due to its uniquely broad and invasive
+
+character, and that the “acquisition of the cell-site records . . . was a search under the
+
+[Fourth Amendment]” that required a warrant. Carpenter, 138 S. Ct. at 2223.
+
+      However, Carpenter addressed cell site location information and although its
+
+rationale may extend to similarly intrusive types of data, the decision does not disturb
+
+                                            8
+Case 2:21-cr-00015-JDL Document 323 Filed 11/02/22 Page 9 of 10           PageID #: 881
+
+
+
+
+the general rule that individuals do not have a reasonable expectation of privacy in
+
+their basic user information and connection records. Smith, 442 U.S. at 744 (“When
+
+he used his phone, petitioner voluntarily conveyed numerical information to the
+
+telephone company and ‘exposed’ that information to its equipment in the ordinary
+
+course of business. In so doing, petitioner assumed the risk that the company would
+
+reveal to police the numbers he dialed.”).        Although Carpenter does reference
+
+“automatically” collected data that a user would be unable to prevent the wireless
+
+carrier from collecting, the decision is referring specifically to cell site location
+
+information, which generates large amounts of highly personal and invasive data.
+
+Carpenter, 138 S. Ct. at 2220. Carpenter explicitly described “the unique nature of
+
+cell phone location information,” and distinguished cell site location information from
+
+“telephone call logs [which] reveal little in the way of ‘identifying information’” and
+
+noted that “there are no comparable limits on the revealing nature of [cell site location
+
+information].” Id. at 2219-20 (emphasis added). Although Candelario urges that
+
+Carpenter’s holding should extend beyond cell site location information to encompass
+
+additional customer information that a cellular carrier provides in response to a
+
+subpoena, without having first sought its customer’s consent, he has offered no
+
+convincing rationale for doing so, nor has he cited to any decisions that would support
+
+this position.
+
+      Unlike the cell phone records considered in Carpenter, which involved
+
+disclosure of cell site location data for all incoming and outgoing calls over a four-
+
+month period, id. at 2212, the subpoenas challenged by Candelario did not include
+
+any requests for cell site location information. Rather, the subpoenas sought basic
+
+                                            9
+Case 2:21-cr-00015-JDL Document 323 Filed 11/02/22 Page 10 of 10                     PageID #: 882
+
+
+
+
+user information and connection logs over a limited period of time. Accordingly,
+
+because Candelario does not hold a legitimate expectation of privacy in his general
+
+cell phone records, the subpoenas did not constitute a search for purposes of the
+
+Fourth Amendment.
+
+       In addition, in his reply in support of the motions to suppress, Candelario
+
+asserted that Agent Clancy’s “affidavit expressly relies on” cell site location
+
+information obtained through the administrative subpoenas. ECF No. 298 at 3. In
+
+fact, the cell site location information that Candelario refers to is from records
+
+obtained through the subpoena of Carpio’s phone records—not Candelario’s. 5
+
+Moreover, at the hearing on the motions to suppress, Candelario acknowledged that
+
+the affidavit supporting the search warrants did not rely on evidence obtained
+
+through the two subpoenas related to his phone records. Accordingly, this facet of
+
+Candelario’s argument lacks any factual basis.
+
+                                      III. CONCLUSION
+
+       For the foregoing reasons, Defendant Jason Candelario’s Motion to Suppress
+
+(ECF No. 271) and second Motion to Suppress (ECF No. 277), both of which have been
+
+joined by Defendant Derek Daprato, are DENIED.
+
+
+       SO ORDERED.                                      Dated: November 2, 2022
+
+
+
+                                                              /s/ JON D. LEVY
+                                                         CHIEF U.S. DISTRICT JUDGE
+
+ 5Because Candelario does not have a vicarious expectation of privacy in Carpio’s phone records and
+the cell site location information contained in those records, he does not have standing to challenge
+any evidence that the Government allegedly obtained from them. See United States v. Soule, 908 F.2d
+1032, 1035-36 (1st Cir. 1990); United States v. Padilla, 508 U.S. 77, 81-82 (1993).
+                                                 10
+

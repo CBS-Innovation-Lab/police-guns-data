@@ -1,0 +1,256 @@
+Case 1:17-cr-00089-JAW Document 151 Filed 09/29/20 Page 1 of 5                 PageID #: 1102
+
+
+
+
+                            UNITED STATES DISTRICT COURT
+                                 DISTRICT OF MAINE
+
+IULIAN PETRE,                              )
+                                           )
+              Petitioner,                  )
+                                           )
+       v.                                  )       1:17-cr-00089-JAW
+                                           )       1:20-cv-00093-JAW
+                                           )
+UNITED STATES OF AMERICA,                  )
+                                           )
+              Respondent                   )
+
+
+             RECOMMENDED DECISION ON 28 U.S.C. § 2255 MOTION
+
+       Petitioner moves pursuant to 28 U.S.C. § 2255 to vacate, set aside or correct his
+
+sentence. (Motion, ECF No. 138.) The Government asks the Court to dismiss the matter
+
+because it was filed after the statute of limitations elapsed. (Response, ECF No. 149.)
+
+       Following a review of Petitioner’s section 2255 motion, the Government’s response,
+
+and the record, I recommend the Court dismiss the motion.
+
+                   FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+       In 2017, Petitioner was indicted on ten counts of receiving a firearm in interstate
+
+commerce with the intent to export without a license in violation of 18 U.S.C. § 924(b), three
+
+counts of shipping a firearm in interstate commerce with the intent to export a firearm without
+
+a license in violation of 18 U.S.C. § 924(b), three counts of money laundering in violation of
+
+18 U.S.C. § 1956(a)(2), and one count of smuggling in violation of 18 U.S.C. § 554. (Second
+
+Superseding Indictment, ECF No. 63.) After a trial in August 2017, a jury found Petitioner
+
+guilty on six counts of illegally receiving a firearm and three counts of illegally shipping a
+
+firearm; the jury found Petitioner not guilty on the other counts. (Jury Verdict, ECF No. 90.)
+Case 1:17-cr-00089-JAW Document 151 Filed 09/29/20 Page 2 of 5                 PageID #: 1103
+
+
+
+
+       In April 2018, the Court sentenced Petitioner to twenty-four months in prison, to be
+
+followed by three years of supervised release. (Judgment, ECF No. 124.) A few days after
+
+sentencing, Petitioner withdrew an earlier-filed motion for bond pending appeal; Petitioner did
+
+not file an appeal at that time. (Withdrawal of Motion, ECF No. 127.) A year and a half later,
+
+in November 2019, Petitioner attempted to initiate an appeal. (Notice of Appeal, ECF No.
+
+130). The First Circuit dismissed the appeal as untimely filed. (Judgment of the Court of
+
+Appeals, ECF No. 136.) In March 2020, Petitioner filed his § 2255 motion. (Motion, ECF
+
+No. 138.)
+
+                                         DISCUSSION
+
+       Title 28 U.S.C. § 2255(f) provides:
+
+       A 1-year period of limitation shall apply to a motion under this section. The
+       limitation period shall run from the latest of –
+
+            (1) the date on which the judgment of conviction becomes final;
+
+            (2) the date on which the impediment to making a motion created by
+            governmental action in violation of the Constitution or laws of the United
+            States is removed, if the movant was prevented from making a motion by
+            such governmental action;
+
+            (3) the date on which the right asserted was initially recognized by the
+            Supreme Court, if that right has been newly recognized by the Supreme
+            Court and made retroactively applicable to cases on collateral review; or
+
+            (4) the date on which the facts supporting the claim or claims presented
+            could have been discovered through the exercise of due diligence.
+
+       Petitioner does not allege, nor does the record reflect, that the Government imposed an
+
+impediment to a timely filing; Petitioner does not rely on a right newly-recognized by the
+
+Supreme Court and made retroactively applicable to cases on collateral review; and Petitioner
+
+does not allege newly-discovered facts in support of his section 2255 claims. Because
+
+
+                                               2
+Case 1:17-cr-00089-JAW Document 151 Filed 09/29/20 Page 3 of 5                   PageID #: 1104
+
+
+
+
+paragraphs (2), (3), and (4) do not apply, therefore, the limitations period began to run when
+
+Petitioner’s judgment of conviction became final.
+
+       The Court entered Petitioner’s judgment of conviction on April 5, 2018. (Judgment,
+
+ECF No. 124.) Because Petitioner did not appeal, the judgment became final after his fourteen-
+
+day period for filing an appeal elapsed on April 19, 2018. See Fed. R. App. P. 4(b)(1)(A);
+
+Martinez-Serrano v. United States, No. CIV. 11-1077 JAF, 2012 WL 6016663, at *1 (D.P.R.
+
+Nov. 30, 2012) (“Neither the Supreme Court nor the First Circuit, to our knowledge, has
+
+decided when an unappealed federal criminal conviction becomes ‘final’ for the purposes of §
+
+2255(f)(1). All of the circuit courts that have answered this question, to our knowledge, have
+
+held that such a conviction becomes final when the time for filing an appeal expires”). The
+
+limitation period for filing a section 2255 motion to challenge the judgment expired one year
+
+later, on April 19, 2019. See Rogers v. United States, 180 F.3d 349, 355 n.13 (1st Cir. 1999)
+
+(“‘When a statute of limitations is measured in years, the last day for instituting the action is
+
+the anniversary date of the start of the limitations period.’”) (quoting Ross v. Artuz, 150 F.3d
+
+97, 103 (2d Cir. 1998)). Petitioner did not file his motion until March 11, 2020, nearly eleven
+
+months after the limitations period expired.
+
+       “[T]he AEDPA statute of limitations defense is not jurisdictional” and “is subject to
+
+equitable tolling in appropriate cases.” Holland v. Florida, 560 U.S. 631, 645 (2010) (internal
+
+quotations omitted). “To obtain tolling . . . a petitioner bears a substantial burden to establish
+
+. . . that he exercised reasonable diligence in trying to preserve his rights but was prevented
+
+from timely filing by extraordinary circumstances.” Dominguez v. Duval, 527 F. App’x 38,
+
+40 (1st Cir. 2013); see also Trapp v. Spencer, 479 F.3d 53, 61 (1st Cir. 2007) (discussing
+
+illustrative cases). “The diligence prong covers those affairs within the petitioner’s control,
+                                                3
+Case 1:17-cr-00089-JAW Document 151 Filed 09/29/20 Page 4 of 5                           PageID #: 1105
+
+
+
+
+while the extraordinary-circumstances prong covers matters outside his control.” Blue v.
+
+Medeiros, 913 F.3d 1, 8 (1st Cir. 2019).
+
+        Petitioner’s contention concerning the filing of an appeal—that Petitioner allegedly
+
+believed his attorney was going to file a notice of appeal and did not realize that his attorney
+
+had not done so—arguably implicates equitable tolling considerations. See Holland, 560 U.S.
+
+at 651–52 (“a garden variety claim of excusable neglect, such as a simple miscalculation that
+
+leads a lawyer to miss a filing deadline, does not warrant equitable tolling,” but “serious
+
+instances of attorney misconduct” or abandonment can trigger equitable tolling). Petitioner’s
+
+version, however, is implausible given the evidence in the record of the understanding between
+
+Petitioner and his attorney after sentencing.1 Even assuming that he expected counsel to file
+
+an appeal, Petitioner has not offered a satisfactory reason for his delay of nearly nineteen
+
+months before pursuing an untimely appeal,2 when asked by the First Circuit to show cause
+
+for the untimely filing, Petitioner did not assert that his counsel had failed to file a notice of
+
+appeal at his request, see Response to Show Cause Order, United States v. Petre, No. 19-2161
+
+(1st Cir.), and Petitioner has failed to explain his further delay of an additional three months
+
+between the First Circuit’s dismissal and the filing of the § 2255 motion. Because Petitioner
+
+
+
+
+1
+ A few days after sentencing, Petitioner withdrew the motion he had previously filed seeking bond pending
+appeal. (Withdrawal of Motion, ECF No. 127.) Petitioner’s trial attorney attests that Petitioner was pleased
+with the below-guideline sentence and opted not to file an appeal. (Declaration, ECF No. 149-1.)
+2
+  Petitioner’s untimely appeal was pending between November 7 and December 13, 2019. The time the
+appeal was pending does not alter the equitable tolling analysis because the one-year limitations period
+elapsed nearly seven months earlier.
+
+
+                                                     4
+Case 1:17-cr-00089-JAW Document 151 Filed 09/29/20 Page 5 of 5                           PageID #: 1106
+
+
+
+
+failed to establish an extraordinary circumstance or his own diligence, equitable tolling is not
+
+appropriate here.3
+
+        Because Petitioner did not file the § 2255 motion within the applicable limitation
+
+period, and because equitable tolling does not apply, dismissal of the motion is warranted.
+
+                                             CONCLUSION
+
+        Based on the foregoing analysis, I recommend that the Court dismiss Petitioner’s
+
+motion for habeas relief under 28 U.S.C. § 2255. I further recommend that the Court deny a
+
+certificate of appealability pursuant to Rule 11 of the Rules Governing Section 2255 Cases
+
+because there is no substantial showing of the denial of a constitutional right within the
+
+meaning of 28 U.S.C. § 2253(c)(2).
+
+                                                NOTICE
+
+               A party may file objections to those specified portions of a magistrate
+        judge’s report or proposed findings or recommended decisions entered pursuant
+        to 28 U.S.C. § 636(b)(1)(B) for which de novo review by the district court is
+        sought, together with a supporting memorandum, within fourteen (14) days of
+        being served with a copy thereof. A responsive memorandum shall be filed
+        within fourteen (14) days after the filing of the objection.
+
+              Failure to file a timely objection shall constitute a waiver of the right to
+        de novo review by the district court and to appeal the district court’s order.
+
+
+                                                          /s/ John C. Nivison
+                                                          U.S. Magistrate Judge
+
+        Dated this 29th day of September, 2020.
+
+
+
+
+3
+  Petitioner also argues that he required an interpreter but was not provided with one. Even assuming that
+language issue could serve as a basis for tolling, the record does not support his claim that he required an
+interpreter.
+
+                                                     5
+

@@ -1,0 +1,672 @@
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF RHODE ISLAND
+
+ 
+
+ISAAC NATHANIEL CHANDLER,
+Petitioner,
+
+CR No. 06-1()7-01-M
+
+v.
+
+UNITED STATES OF AMERICA
+Respondent.
+
+ 
+
+AMENDED DECISION AND ORDER
+JOHN J. MCCONNELL, JR., United States District Judge.
+
+Before the Court are three motions filed by Isaac Nathaniel Chandler. They are: a motion
+to vacate his sentence pursuant to 28 U.S.C. § 2255 (ECF No. 47), two motions to add
+supplemental claims (ECF Nos. 61, 68), and a motion for discovery (ECF No. 60). For the
+reasons that folloW, these motions are denied.
+
+1. BACKGROUND AND TRAVEL1
+
+On May 4, 2006, Providence police detectives executed a search Warrant for Mr.
+Chandler and his two residences in Providence. On his person, the officers found $205 in cash,
+jewelry and 6.7 grams of crack cocaine. They found an additional 34.13 grams of crack cocaine,
+cutting and packaging materials, along With a loaded .45 caliber pistol, home theater equipment
+and a safe containing $2,500 in cash at his residences. Officers also seized a 1994 Lexus vehicle.
+After being advised of his rights, Mr. Chandler admitted that the crack cocaine and the firearm
+
+belonged to him and that he sold cocaine and kept the firearm for protection.
+
+ 
+
+1 A more complete discussion of Mr. Chandler’s arrest, plea and sentencing proceedings are set out in
+detail in the decision affirming his conviction and sentence, see United States v. Chandler, 534 F.3d 45
+(1st Cir. 2008). For purposes of the instant motions, this Court recites only those facts pertinent to Mr.
+Chandler’s § 2255 claims.
+
+In October 2006, Mr. Chandler was charged in a three-count Federal indictment with: (1)
+possession with intent to distribute five grams or more of cocaine base within 1,000 feet of a
+public school, in violation of 21 U.S.C. §§ 841(a)(1), 841(b)(1)(B) and 860; (2) possession with
+intent to distribute five grams or more of cocaine base, in violation of 21 U.S.C. §§ 841(a)(1) and
+841(b)(1)(B); and (3) being a felon in possession of a firearm, in violation of 18 U.S.C. §
+922(g)(1). During all pertinent proceedings pertaining to his plea and sentencing, Mr. Chandler
+was represented by court-appointed counsel.
+
+Pursuant to a plea agreement, Mr. Chandler pled guilty to all three counts.2 In that
+agreement Mr. Chandler agreed, inter alia, (1) that he possessed 40.91 grams of cocaine base in
+the form of crack cocaine, (2) that the items named in the indictment were subject to forfeiture
+“as proceeds of illegal conduct, property facilitating illegal conduct, property involved in illegal
+conduct and substitute assets for property otherwise subject to forfeiture,” and (3) that a two-
+level enhancement for possession of a firearm would apply to his sentence. Plea Agreement at
+1111 1, 4, Jan. 5, 2007. Mr. Chandler also agreed to waive his right to file a direct appeal if the
+sentence imposed Was within “the guideline range determined by the Court or lower.” Id. at ‘|l
+12.
+
+The Government, for its part, agreed to recommend “a term of imprisonment at the
+lowest point of the guideline range for the offense level determined by the Court under the
+United States Sentencing Guidelines or 97 months imprisonment, whichever term was greater.
+Id. at 11 2.a. (emphasis added.) The Government also agreed (1) not to file an information under
+
+21 U.S.C. § 851, (2) not to prosecute Mr. Chandler under 18 U.S.C. § 924(c) for possession of a
+
+ 
+
+2 All plea and sentencing proceedings were conducted before Judge Ernest C. Torres of this Court.
+After the appeal concluded, the matter was transferred to Judge William E. Smith and, in May 2011, it
+was further transferred to the undersigned
+
+firearm in furtherance of drug trafficking; and (3) to recommend a 2-3 level reduction in his
+offense level for acceptance of responsibility. Id. at ‘|l‘ll 2.b; 2.c.; 2.e.; 2.f.
+
+At his change of plea hearing, Mr. Chandler acknowledged that he understood the terms
+of the plea agreement, including the terms governing the Government’s recommendation and the
+restrictions thereon. See Tr. of Change of Plea Hr’ g 10, Jan. 5, 2007. The Court informed Mr.
+Chandler that it was not bound by the recommendations in the plea agreement, that it would
+determine the applicable sentencing guideline range, and Mr. Chandler indicated his
+understanding Id. at 11-12.
+
+The United States Probation Office prepared a Presentence Report (PSR), calculating a
+guideline range of 210 to 262 months based on a total offense level of 32 and a Criminal History
+Category VI. In accordance with the plea agreement, the Govemment did not file a sentencing
+enhancement information pursuant to 21 U.S.C. § 851, Which would have increased the
+mandatory minimum for Mr. Chandler’s drug offenses to ten years with a maximum of life, nor
+did the Government charge Mr. Chandler with a violation of 18 U.S.C. § 924(c), which would
+have added a mandatory five-year term of imprisonment consecutive to the sentence imposed.
+
+At sentencing, the Government’s attorney, in accordance with the plea agreement,
+recommended a prison sentence of 210 months, the low end of the guideline range calculated by
+the PSR. Tr. of Sentencing 28, Mar. 23, 2007. Defense counsel argued for both a downward
+departure and a variant sentence. Upon hearing argument, the Court granted a “horizontal”
+departure and lowered Mr. Chandler’s Criminal History Category from VI to V, which yielded a
+
+guideline range of 188 - 235 months.3 After considering the factors under 18 U.S.C. § 3553(a),
+
+ 
+
+3 At the sentencing hearing Judge Torres noted: “The real question here is the argmment about the over-
+representation of the criminal history. And I think [defense counsel] has made a good argument here, that
+as she points out, but for the fact that Mr. Chandler is classified as a career offender, he would have a
+criminal history category of 4 . . . but for the fact that he’s been classified as a career offender, his
+guideline range Would be 188-235 months But because he’s been classified as a career offender, it’s
+210-262 months So it’s made a significant difference in the guideline range.” Id. at 35-36.
+
+3
+
+the Court imposed concurrent sentences of 188 months imprisonment as to Counts l and lI and
+120 months imprisonment as to Count III. Id. at 40-41.
+
+Mr. Chandler appealed, represented by new counsel. On July 18, 2008, the First Circuit
+Court of Appeals dismissed his appeal, finding that Mr. Chandler’s arguments Were barred by the
+waiver-of-appeal provision in his plea agreement and that his ineffective assistance claims were
+premature. See United States v. Chandler, 534 F.3d 45, 49-51 (1st Cir. 2008).
+
+Mr. Chandler then filed the instant 28 U.S.C. § 2255 motion to vacate. In his motion he
+claims: (1) that the Govemment breached its obligations in the plea agreement, (2) that he was
+ineffectively assisted by his counsel at sentencing, and (3) that he was ineffectiver assisted by
+his counsel on appeal. Mr. Chandler subsequently filed two separate pleadings, seeking to
+supplemental his motion to vacate. The first was filed on July 2, 2010 and claims that two of the
+detectives who arrested him falsified information in order to obtain the warrants used to search
+his residences, and the second, filed on October 1, 2010, asserts that the fact that state court
+warrants were used as the basis of Mr. Chandler’s federal prosecution violated federal procedure
+and his due process rights. Additionally, Mr. Chandler filed a motion for discovery in
+connection with his first supplemental pleading. These three motions before the Court are ready
+for decision.4
+
+II. MOTION TO VACATE
+
+ 
+
+4 Although Mr. Chandler has requested an evidentiary hearing, no hearing is required in connection
+
+with any issues raised by this motion to vacate or supplemental pleadings, because, as discussed infra, the
+files and records of this case conclusively establish that his claims are without merit. See David v. United
+States, 134 F.3d 470, 477 (lst Cir. 1998) (district court properly may forego any hearing “when (l) the
+motion is inadequate on its face, or (2) the movant's allegations, even if true, do not entitle him to relief,
+or (3) the movant's allegations need not be accepted as true because they state conclusions instead of
+facts, contradict the record, or are inherently incredible.”) (internal quotations omitted).
+
+The grounds justifying relief under § 2255 are limited.5 A court may grant such relief
+only if it finds a lack of jurisdiction, constitutional error, or a fundamental error of law. See
+United States v. Addonizio, 442 U.S. 178, 184-185 (1979) (“An error of law does not provide a
+basis for collateral attack unless the claimed error constituted a fundamental defect which
+inherently results in a complete miscarriage of justice.”) (intemal quotations omitted).
+
+Moreover, a motion under § 2255 is not a substitute for a direct appeal. See United States
+v. Frady, 456 U.S. 152, 165 (1982). A movant is procedurally precluded from obtaining § 2255
+review of claims not raised on direct appeal absent a showing of both “cause” for the default and
+“actual prejudice” -- or, alternatively, that he is “actually innocen ” of the offense for which he
+was convicted. Bousley v. United States, 523 U.S. 614, 622 (1998); see also Brache v. United
+States, 165 F.3d 99, 102 (1st Cir. 1999). Claims of ineffective assistance of counsel, however,
+are not subject to this procedural hurdle as the failure to bring those claims “on direct appeal is
+not subject to the cause and prejudice standard.” Knight v. United States, 37 F.3d 769, 774 (1st
+Cir. 1994).
+
+A. Timeliness of Motion to Vacate
+
+As a threshold matter, the Government argues that Mr. Chandler’s original § 2255 motion
+was untimely because the motion was docketed after the filing deadline. See U.S. Br. 4-5, ECF
+No. 49. On October 13, 2009, just days before the expiration of the one-year limitations period,
+Mr. Chandler mailed his initial § 2255 motion to the “United States District Court for the District
+of Rhode Island, 50 Kennedy Plaza, Providence, Rhode Island 02903,” which is the street
+
+address of the United States Attorney’s Office. The motion Was received on October 19, 2009.
+
+ 
+
+5 Title 28 U.S.C. § 2255 (a) provides in pertinent part:
+
+A prisoner in custody under sentence of a court established by Act of Congress claiming the right to be
+released upon the ground that the sentence was imposed in violation of the Constitution or laws of the
+United States, or that the court was Without jurisdiction to impose such sentence, or that the sentence is in
+excess of the maximum authorized by law, or is otherwise subject to collateral attack, may move the court
+which imposed the sentence to vacate, set aside or correct the sentence.
+
+On January 10, 2010, Mr. Chandler mailed a letter to the U.S. District Court stating that the
+motion was mailed to the incorrect address because he did not have access to an updated court
+address. The Court docketed Mr. Chandler’s motion to vacate on January 27, 2010, over three
+months after the deadline.
+
+The Government asserts that the motion should be considered as filed on January 27,
+2010 and that Mr. Chandler should not receive the benefit of the so-called prisoner mailbox rule.
+Morales-Rivera v. United States, 184 F.3d 109, 109 (1st Cir. 1999). Mr. Chandler counters that
+the prisoner mailbox rule should apply, excusing his mailing error, because he is a pro se litigant
+inexperienced in these formalities who was assisted in addressing the envelope by a law clerk at
+his prison facility. See Pet’r’s Reply to Government’s Resp. to Mot. to Vacate 3-7, ECF No. 51.6
+He further contends that even if he was negligent in addressing the envelope, the prosecutor’s
+office was equally negligent for receiving and signing for mail intended for this Court rather than
+promptly returning the mailing to Mr. Chandler, permitting him an opportunity to timely re-file.
+Id.
+
+Generally, a number of courts considering whether pro se inmate papers mailed to an
+incorrect address may invoke the mailbox rule have given pro se prisoners the benefit of the
+doubt. See e.g. Mayne v. Hall, 122 F.Supp.2d 86 (D. Mass. 2000) (§ 2254 petition mailed to
+court at court’s former street address deemed timely filed under mailbox rule); Hollins v. United
+States, 2005 WL 1827914 (E.D. Mo. Aug. 2, 2005) (deeming § 2255 petition to be timely filed,
+where petitioner promptly re-mailed his incorrectly addressed petition upon its return).
+
+However, courts have also noted that strict compliance and diligence is required to obtain the
+
+ 
+
+6 Mr. Chandler asserts that David Price Bomboy, a law clerk at FCI Ray Brook, assisted him by
+addressing the envelope on Mr. Chandler’s behalf, using a return address on an envelope from the Court
+because there was no address book for the federal courts in the prison library inventory. Mr. Chandler has
+submitted an Affidavit from Mr. Bomboy, who avers that, at the time the motion was filed, he had no
+access to either computer or paper resources listing an updated address for this Court.
+
+benefits of that rule. See Thompson v. Raspberry, 993 F.2d 513, 515 (5th Cir. 1993) (mailbox
+rule does not relieve a prisoner of responsibility of doing all that is reasonably possible to ensure
+that documents are received by court in a timely manner, including properly addressing outgoing
+mail); Solis-Caceres v. United States, No. 8:09-CV-539-T-27TGW, 2010 WL 2731280
+(M.D.Fla. July 9, 2010) (finding incorrectly addressed § 2255 motion to be untimely due to
+prisoner’s failure to use prison’s legal mailing system, as required by § 2255 Rule 3(d)).
+
+The precise issue in this case -the applicability of the mailbox rule to a pro se inmate’s
+incorrectly addressed § 2255 petition has not been squarely decided by the First Circuit.7 See
+Morales-Rivera, 184 F.3d at lll, n.4 (after finding mailbox rule applicable to inmate’s filing of
+§ 2255 motion to vacate, court noted that the government was free to argue on remand that
+inmate had negligently addressed his motion). Other courts that have addressed this issue are
+split. Compare, e.g., United States v. Diaz, No. Civ.A. 95-5610, 1999 WL 391384 (E.D. Pa.
+May 27, 1999) (finding motion for reconsideration mistakenly sent to U.S. Attorney’s office to
+be timely filed, where petitioner received a return receipt acknowledging delivery), with Daniels
+v. United States, No. 3105-CV-768, 2006 WL 2433462 (N.D. Ind. Aug. 18, 2006) (§ 2255
+petition filed three months after expiration of 1-year limitations period deemed untimely, even
+though petitioner had previously mailed a timely § 2255 petition, but misdirected it to U.S.
+Attorney’s office).
+
+The circumstances of this case favor application of the mailbox rule. In light of Mr.
+
+Chandler’s good faith reliance on the prison facility law clerk’s assistance to prepare and file
+
+ 
+
+7 Pursuant to the mailbox rule, “a pro se prisoner’s motion is [deemed] filed on the date that it is
+
+deposited in the prison’s internal mail-system for forwarding to the district court, provided that the
+prisoner utilizes, if available, the prison’s system f`or recording legal mail.” Morales~Rivera v. United
+States, 184 F.3d 109, 109 (lst Cir. 1999). The court noted that the rule, first set forth in Houston v. Lack,
+487 U.S. 266 (1988), applies to inmate petitions filed under both 28 U.S.C. §§ 2254 and 2255. Id. at 111.
+See also Rule 3(d) of the Rules Governing § 2255 Proceedings for the United States District Courts (“A
+paper filed by an inmate confined in an institution is timely if deposited in the institution’s internal
+mailing system [for legal mail] on or before the last day for filing.”).
+
+legal paper and his correspondence with the Court when he realized his addressing error, the
+Court finds that Mr. Chandler’s motion to vacate was timely filed. See Diaz, 1999 WL 391384,
+at *1-2; Mayne v. Hall, 122 F.Supp.2d 86, 95-96 (D. Mass. 2000).
+
+B. Alleged Breach of Plea A,qreement
+
+Moving on to the substance of Mr. Chandler’s arguments advocating that his conviction
+and sentence be vacated, Mr. Chandler first claims that the Government breached the plea
+agreement because it characterized him as a career offender at sentencing, causing the Court to
+impose a more severe sentence than contemplated in the agreement. He seeks “specific
+performance” by the Government of il 2.a. of the agreement, which he contends contemplates a
+97 -month sentence. Pet’r’s Br. 3, ECF No. 47.
+
+The Court finds that the Government did not breach its obligations under the plea
+agreement. The provision in question states that:
+
+a. The government will recommend that the Court impose a term of
+
+imprisonment at the lowest point of the guideline range for the offense level
+
+determined by the Court under the United States Sentencing Guidelines . . . or 97
+
+months imprisonment, whichever term is greater . . . If however, Defendant seeks
+
+a downward departure under the guidelines or advocates for a sentence below the
+
+guideline range, the government will then be free to recommend any term of
+
+imprisonment within the applicable guideline range found by the Court.
+Plea Agreement, il 2.a. (emphasis added).
+
+The Government recommended the lowest sentence within the applicable guideline
+range, i.e. 210 - 216 months imprisonment, as promised. The fact that this recommendation was
+greater than the 97 month alternative mentioned in the plea agreement does not indicate
+nonperformance because the agreement specifically provided that the government would
+recommend the larger of the two possible sentence ranges. Moreover, the Government never
+agreed “to oppose whatever upward adjustments the probation office might recommend or the
+
+district court might opt to impose.” United States v. Vazquez-Ortiz, 201 F.3d 429 at *1 (1st Cir.
+
+1999) (Table). The prosecutor’s reference at sentencing to Mr. Chandler’s status as a career
+
+8
+
+offender, as discussed in the PSR, likewise does not constitute a breach of the plea agreement.
+Furthermore, Mr. Chandler specifically agreed at his plea hearing “that the court Was not bound
+by the parties’ stipulations of fact, offense level adjustments, or the government’s
+recommendations” and that “even if the Court’s guideline determinations and sentence [were]
+different than [Mr. Chandler] expect[ed], [he would] not be allowed to withdraw [his] plea of
+guilty.” See United States v. Chandler, 534 F.3d 45, 47 (1st Cir. 2008). 8 Finally, the
+Government performed the other obligations under the plea agreement, including refraining from
+filing a § 851 information and additional gun charges. Thus, Mr. Chandler’s invocation of
+“contract principles” does not assist him, as this Court has found no breach -- contractual or
+otherwise -- by the Government of its obligations under the plea agreement.
+
+Mr. Chandler’s reliance on United States v. Riggs, 287 F.3d 221 (1st Cir. 2002) in
+support of his claim is misplaced Pet’r’s Br. 3-5, 7-8, ECF No. 47. In Riggs, the Government
+failed to recommend a sentence based on a drug quantity of 5 to 50 grams of crack cocaine, as
+promised in the plea agreement, and instead recommended a sentence based on 480 grams of
+crack cocaine, causing Riggs to be sentenced based on the higher drug quantity. Id. 287 F.3d at
+224-25. The court noted that neither the prosecutor nor defense counsel even mentioned the
+pertinent provision of the plea agreement at sentencing, id. at 224, n.4, and vacated Riggs’
+sentence. Id. at 226. Unlike the situation in Riggs, the record in this case demonstrates that the
+
+Government, defense counsel and the Court were all aware of the provision in question.9 By
+
+ 
+
+9 Indeed, defense counsel acknowledged that the 97-month sentencing option was not available given
+the applicable guideline range of 210-262 months. See Tr. of Sentencing Hr’g 23, Apr. 24, 2007.
+Moreover, Judge Torres questioned the prosecutor at length as to whether, absent Mr. Chandler’s second
+offense triggering his career offender status, 97 months would be reasonable and challenged the
+Government’s assumption that an applicable sentencing guideline range was always reasonable. Id. at 29-
+35. At most, while the Government’s position may have been “somewhat troubling” to the Court, there
+was no error in the proceedings, as the Court was entitled to rely upon the applicable guideline range,
+which it separately found to be correctly calculated. See Rivera-Rodriguez, 489 F.3d at 57-58 (finding no
+breach where prosecutor recommended sentence as provided in plea agreement, but made reference to
+
+9
+
+contrast, the Government in this case agreed to recommend the lowest point of the applicable
+guideline range or 97 months, whichever was greater, and its recommendation was in line with
+that agreement. United States v. Rivera-Rodriguez, 489 F.3d 48, 57 (lst Cir. 2007). Therefore,
+in light of the facts at issue and the applicable case law, the Court finds that Mr. Chandler’s
+claim that the Government’s breach of the plea agreement justifies the vacation of his conviction
+and sentence is without merit.
+
+C. Ineffective Assistance Claims
+
+“To prevail on a claim of ineffective assistance of counsel, a defendant must show not
+only that ‘counsel made errors so serious that counsel was not functioning as the ‘counsel’
+guaranteed the defendant by the Sixth Amendment,’ but also that the deficient performance
+prejudiced the defense and deprived the defendant of a fair trial.” U.S. v. Manon, 608 F.3d 126,
+131 (1st Cir. 2010); Strickland v. Washington, 466 U.S. 668, 687 (1984).
+
+To satisfy the reasonable performance prong, the defendant “‘must identify the acts or
+omissions of counsel that are alleged not to have been the result of reasonable professional
+judgment,’ and the court then determines whether, in the particular context, the identified
+conduct or inaction Was ‘outside the wide range of professionally competent assistance.”’
+Manon, 608 F.3d at 131 (quoting Strickland, 466 U.S. at 690). The prejudice prong requires the
+defendant to “show that there is a reasonable probability that, but for counsel’s unprofessional
+errors, the result of the proceeding would have been different.” Id. (citing Strickland, 466 U.S. at
+695). “A reasonable probability is one ‘sufficient to undermine confidence in the outcome.”’ Id.
+
+1. Sentencing Counsel
+Mr. Chandler contends that his trial counsel was deficient for failing to argue that the
+
+Court had authority under United States v. Rivers, 50 F.3d 1126, 1131 (2d Cir. 1995), and related
+
+ 
+
+quantities of drugs other than those mentioned in plea agreement and to seeking a higher offense level had
+case gone to trial).
+
+10
+
+case law, to grant a vertical departure, thereby reducing his offense level. Although the Court
+did grant a horizontal departure reducing his criminal history category, Mr. Chandler argues that
+the Court Was not aware of its authority under the guidelines, and as such, Mr. Chandler was
+deprived of an opportunity for a lower sentence. Pet’r’s Br. 10-13, ECF No. 47.
+
+Mr. Chandler’s argument fails because the argument he insists his counsel should have
+made to the Court misstates the law as it existed at the time of his sentencing in 2007. The 2003
+amendments to the U.S. Sentencing Guidelines changed the permissible departures in sentencing
+for drug offenses such as the ones Mr. Chandler pled to, superseding Rivers. See USSG, App. C,
+Amendment 651; United States v. Grier, 585 F.3d 138, 142-143 (3d Cir. 2009) (recognizing that
+the 2003 amendments to USSG § 4A1.3 precluded vertical departures for overrepresentation of
+criminal history). See also United States v. Pierre, No. 07-003S, 2011 WL 3360116, at *2-*3
+(D.R.I. 2011) (rejecting an identical claim).10 Theref`ore, Mr. Chandler’s counsel cannot be
+deemed ineffective for failing to argue invalid law. See Vieux v. Pepe, 184 F.3d 59, 64 (1st Cir.
+1999) (counsel not required to assert frivolous or futile motions or arguments).
+
+As for the second part of the Strickland test, Mr. Chandler was not prejudiced by any
+alleged mistake by counsel because there is no evidence that the Court would have imposed a
+lesser sentence. The Court, although free to Vary from the guideline range after ruling on Mr.
+Chandler’s motion for a downward departure, decided that the appropriate sentence, in light of
+all of the factors under 18 U.S.C. § 3553, was a sentence of 188 months imprisonment Thus,
+
+even if the Court had authority to award a further departure, it is unlikely that it would have done
+
+ 
+
+w The cases Mr. Chandler cites in support of his motion - see e.g. United States v. Lacy, 99 F.Supp.2d
+108 (D. Mass. 2000); United States v. Eugene Terrell Patrick, No. 96-10047 (D. Mass. Feb. 26, 1999) --
+likewise predated the 2003 amendment to USSG § 4A1.3 and thus do not assist him.
+
+11
+
+so, in light of the Court’S refusal to vary from the guideline range,11 It follows that Mr. Chandler
+cannot demonstrate prejudice.
+2. Appellate Counsel
+
+Mr. Chandler next claims that his counsel on appeal was ineffective in failing to
+challenge the appeal waiver provision based on the Government’s alleged breach of the plea
+agreement, rather than on an alleged miscarriage of justice due to the conversion of currency
+seized for purposed of calculating drug quantity. Pet’r’s Br. 14-17, ECF No. 47.
+
+This claim requires little discussion. Applying the Strickland two part test, the Court
+finds that Mr. Chandler’s appellate counsel’s performance did not fall “below an objective
+standard of reasonableness.” Strickland v. Washington, 466 U.S. 668, 687 (1984). As discussed
+supra, the Government did not breach the plea agreement, and thus it would have been fruitless
+for counsel to make that argument on appeal. It is well settled that counsel’s performance is “not
+deficient if he declined to pursue a filtile tactic.” Vieux, 184 F.3d at 64; see also United States v.
+Wright, 573 F.2d 681, 684 (1st Cir. 1978) (“Counsel is not required to waste the court’s time
+with futile or frivolous motions.”). Moreover, appellate counsel could reasonably have
+concluded that an argument based on an alleged miscarriage of justice would be stronger than
+one based on a non-existent prosecutorial breach of plea agreement. See Smith v. Robbins, 528
+U.S. 259, 288 (2000) (“Appellate counsel . . . need not (and should not) raise every nonfrivolous
+claim, but rather may select from among them in order to maximize the likelihood of success on
+appeal.”). Accordingly, Mr. Chandler’s ineffective assistance claim regarding his appellate
+
+counsel fails.
+
+ 
+
+11 This is especially true in a case such as here, where Mr. Chandler’s criminal history category was
+determined by his career offender status, but his offense level was the result of the application of USSG §
+2D1.1, which yielded a higher offense level than the career offender provision. Given that Mr.
+Chandler’s status as a career offender only affected his criminal history category and not his offense level,
+there is no reason to think that the Court would have departed vertically even if it had been able to do so.
+
+12
+
+In light of this Court’S oonclusions, after considering Mr. Chandler’s arguments
+supporting his motion to vacate and the applicable case law and statutes, that motion is denied.
+III. MOTIONS TO “SUPPLEMENT” CLAIMS
+
+Mr. Chandler has filed two motions for leave to file “supplementa ” claims, each of
+which seeks to assert additional claims in connection with the instant motion to vacate. The first
+motion raises a claim of misconduct by two Providence Police detectives who participated in the
+Mr. Chandler’s investigation and arrest. Pet’r’s Mot. to Supp. Pleadings 2, ECF No. 61. Mr.
+Chandler’s second motion similarly asserts that the detectives improperly obtained warrants from
+state court rather than federal court prior to arresting him and searching his residences, in
+violation of Rule 41 of the Federal Rules of Criminal Procedure and Mr. Chandler’s due process
+rights. Pet’r’s Mot. to Supp. Pleadings 2-6, ECF No. 68. The Government has opposed both
+motions. The Court finds that both motions to supplement must be denied, as each of the
+proposed claims fails for both procedural and substantive reasons.
+
+As a threshold matter, the Government argues that Mr. Chandler’s new claims should be
+characterized as proposed amended pleadings, rather than supplemental pleadings, because the
+factual occurrences asserted in those claims occurred prior to the filing of his initial § 2255
+motion. See United States v. Hicks, 283 F.3d 380, 385 (D.C.Cir. 2002) (unlike amendments,
+which are based on matters that transpired prior to the filing of the original pleading,
+supplemental pleadings set forth “‘transactions, occurrences, or events that have happened since
+the date of the pleading sought to be supplemented.”’) (quoting Fed.R.Civ.P. 15(d)). However, a
+pleading generally does not become a supplement merely because it references facts that
+occurred subsequent to the original complaint. Rather, the appropriate bases for supplemental
+
+pleadings are “new facts bearing on the relationship between the parties.” Id. at 386 (citing 6A
+
+13
+
+Charles Alan Wright, Arthur R. Miller & Mary Kay Kane, Federal Practice and Procedure §
+1504 at 177-83 (3d ed. 2010)).12
+
+Here, although Mr. Chandler’s new claims may have been motivated by events that
+occurred subsequent to the filing of his motion to vacate (i.e., the indictments of the two
+detectives), the new claims are actually based on events that happened at the time of his arrest
+(i.e., the alleged improprieties of the detectives in obtaining search and arrest warrants), well
+before the filing of the instant motion to vacate. As such, this Court will treat the proposed
+claims as amended, not supplemental pleadings. The filing of amended pleadings is governed by
+well-established rules and principles, which this Court will now apply to each of Mr. Chandler’s
+proposed clairns.
+
+A. First Amended Pleading
+
+Mr. Chandler’s first amended claim asserts that the actions of certain Providence Police
+detectives leading to his arrest and conviction for drug and gun offenses were “tainted by
+corruption,” in view of the subsequent arrest and indictment of those detectives for drug-related
+crimes.13 Specifically, Mr. Chandler asserts that the two detectives “falsified all sworn
+documents presented to judicial authorities to obtain search and arrest warrants [and then]
+
+utilized [the] subsequently obtained search and arrest warrants to convict” Mr. Chandler.14 He
+
+ 
+
+12 This Court is aware that “[t]he distinction between an amended pleading and a supplemental pleading
+is often disregarded for purposes of relation back under Rule lS(c).” FDIC v. Knostman, 966 F.2d 1133,
+1138 (7th Cir. 1992); 6A Charles Alan Wright & Arthur R. Miller, Federal Practice and Procedure
+§1504 at 184 (2d ed. 1990). Here, however, the distinction is important, given Mr. Chandler’s efforts to
+characterize his new claims as “supplemental pleadings.”
+
+13 The named Detectives are Joseph Colanduono and Robert Enright. Mr. Chandler was arrested on
+May 4, 2006; Colanduono and Enright were indicted in March 2010, nearly four years later. The Court
+takes judicial notice that the charges against Enright were subsequently dismissed; the record is silent as
+to the status of the charges against Colanduono.
+
+14 ln his first amended claim Mr. Chandler also alleged that the detectives planted evidence against
+him. Pet’r’s Mot. to Supp. Pleadings 2, ECF No. 61. However, he subsequently retreated from these
+allegations, stating in his reply to the Government’s objection that he “did not actually declare that the
+drugs were per se ‘planted’ on him in this case ...” and that while his supplemental pleading “did word
+
+14
+
+further asserts that the use of the evidence obtained through those search warrants against him
+constituted Brady violations. See Brady v. Maryland, 373 U.S. 83 (1963); see Pet’r’s Mot. to
+Supp. Pleadings 2-3, ECF No. 61. This claim is both procedurally barred and substantively devoid
+of merit.
+
+A federal prisoner’s efforts to amend his § 2255 motion are governed by Fed. R. Civ. P.
+15. See United States v. Ciampi, 419 F.3d 20, 23 (1st Cir. 2005). Under Rule 15, an untimely
+pleading amendment to a § 2255 habeas motion may only be allowed if the amendments “relate
+back” to the timely filed original pleading -- i.e., “the claim asserted in the amended plea ‘arose
+out of the conduct, transaction, or occurrence set forth or attempted to be set forth in the original
+pleading.”’ Id. (quoting Fed. R. Civ. P. 15(c)(2)). “[I]n the habeas corpus context, the Rule 15
+‘relation back’ provision is strictly construed, in light of ‘Congress’ decision to expedite
+collateral attacks by placing stringent time restrictions on [them].”’ Id. (quoting Mayle v. Felix,
+545 U.S. 644, 657 (2005)). “Accordingly, amended habeas corpus claims generally must arise
+from the ‘same core facts,’ and not depend upon events which are separate both in time and type
+from the events upon which the original claims depended.” Id. at 24.
+
+Here, the allegations in Mr. Chandler’s first supplemental pleading - that two of the
+arresting officers planted evidence and falsified affidavits in order to obtain search warrants
+against Mr. Chandler -- involve facts that differ substantially from the allegations in his original
+motion to vacate, where he alleged that the Government breached the plea agreement and
+ineffective assistance at sentencing and on appeal. Because the facts asserted in the first
+
+amended claim involve a completely different set of facts from those on which the original
+
+ 
+
+the issue as the officers having planted ‘evidence,’ the true meaning [he] was trying to present was that
+the officers planted drugs in th[eir own] investigations which . . . [were the subject of] their personal
+charges,” and “not so much that the officers planted the specific drugs in this case.” Pet’r’s Traverse
+(Reply) to Gov’t’s Objection 1, 4, ECF No. 64 (spelling corrections made). Thus, this Court need not
+address this allegation.
+
+15
+
+claims depended, the new claim does not arise from “the same conduct, transaction, or
+occurrence” as that set forth in his original § 2255 claims. As such, the claim does not relate
+back, is untimely and may not be asserted here, See Ciampi, 419 F.3d at 24; United States v.
+Thinh Cao, No. 05-134 ML, 2011 WL 4055413, at *9 (D.R.I. Sept. 12, 2011) (rejecting proposed
+amended claim as untirnely).
+
+Even if the amended claim were appropriate, Mr. Chandler’s challenge to the search
+warrants used against him would fail. First, it is well settled tha “a defendant who
+unconditionally pleads guilty waives all ‘independent claims relating to the deprivation of
+constitutional rights that occurred prior to the entry of the guilty plea.”’ United States v.
+Ga]jcney, 469 F.3d 211, 214 (1st Cir. 2006) (unconditional guilty plea effectively waives all
+independent claims of alleged violations of constitutional rights that occurred prior to entry of
+guilty plea) (quoting Tollett v. Henderson, 411 U.S. 258, 267 (1973)); see United States v.
+Valdez-Santana, 279 F.3d 143, 145 (1st Cir. 2002) (same); United States v. Cordero, 42 F.3d
+697, 699 (1st Cir. 1994) (same, barring Fourth Amendment suppression claim). Here, Mr.
+Chandler’s guilty plea was voluntarily made, and thus his Fourth Amendment claims based on
+the insufficiency of the search and arrests warrants are precluded.
+
+Moreover, even if this claim were to be considered on its merits, it falls well short of
+stating any claim warranting relief. Mr. Chandler merely avers some connection between his
+case and the indictments of the two state detectives nearly four years later, but provides no
+factual basis for that connection. Further, the motion and supporting papers are devoid of any
+facts that would draw into question the validity of the investigation leading to Mr. Chandler’s
+conviction and sentence. Thus, adding the proposed new claim would be an exercise in futility.
+
+See Muskat v. United States, 554 F.3d 183, 195-96 (lst Cir. 2009) (“The law is settled that
+
+16
+
+futility is a sufficient basis for denying leave to file an amended complaint.”) (citing Foman v.
+Davis, 371 U.s. 178, 182 (1962)).15
+
+B. Second Arnended Pleading
+
+This Court’s analysis with respect to Mr. Chandler’s second amended claim yields a
+similar result. Mr. Chandler asserts that the fact that the warrants used to support his federal
+prosecution were obtained from the Rhode Island state court rather than this Court violated Fed.
+R. Crim. P. 41 and his due process rights. 16 Because the facts asserted in this claim are distinct
+from the facts on which his original claims are based, the second new claim does not arise from
+“the same conduct, transaction, or occurrence” as that set forth in his original § 2255 motion to
+vacate. As such, this claim is likewise procedurally barred as untimely under Rule 15. See
+United States v. Ciampi, 419 F.3d 20, 24 (lst Cir. 2005); Thinh Cao, 2011 WL 4055413 at *9.
+
+Even if this amended claim were appropriately made, Mr. Chandler’s challenge to the
+search warrants used against him would fail on several grounds. First, as stated previously, Mr.
+Chandler’s voluntary plea of guilty precludes his constitutional claims based on the insufficiency
+of the search and arrests warrants. See Gaj_‘fney, 469 F.3d at 215 ; Tollett, 411 U.S. at 267.
+
+Second, this amended claim is likewise meritless because it has long been recognized that
+a federal prosecution may properly result from an investigation based on a state court search
+warrant. See United States v. Soule, 908 F.2d 1032, 1038 (1st Cir. 1990) (upholding search
+
+warrant obtained from state court judge by federal agent in state-federal investigation); United
+
+ 
+
+15 As the First Circuit’s affirmance confirms, there was more than sufficient evidence to uphold Mr.
+
+Chandler’s conviction. Mr. Chandler admitted to police, after being informed of his rights that he did
+possess the crack and the firearm, that he sold crack, and that he kept the firearm for protection. United
+States v. Chandler, 534 F.3d 45, 47 (lst Cir. 2008). There were other officers involved in his arrest
+besides Detectives Colanduono and Enright. Id. Moreover, Mr. Chandler admitted his guilt on all counts
+in the plea agreement and in open court at his change of plea hearing. Id. at 48.
+
+16 Mr. Chandler states that the two Providence police officers at issue “were completely dishonest in
+their prepar[ation] of the affidavits at issue, in that this was a fully federal case, yet the officers who
+obtained the Warrants, did so by application to a Rhode Island state court judge, when a federal judge or
+magistrate was fully available to them.” Pet’r’s Mot. to Supp. Pleadings 2, ECF No. 68.
+
+17
+
+States v. Mitro, 880 F.2d 1480, 1484-85 (1st Cir. 1989) (same); United States v. Krawiec, 627
+F.2d 577, 581-82 (1st Cir. 1980) (upholding search warrants issued by state judge based on
+federal information in state-federal investigation). Moreover, as in Soule, the circumstances here
+“allow no room for an inference that the cooperating law enforcement officials, whether state or
+federal, acted other than in the interests of furthering the efficient investigation and prosecution
+of violations of state and federal law as warranted by the fruits of their investigation.” Soule,
+908 F.2d 10 at 1038. Therefore, the fact that the local police officers were working with a DEA
+Task force does not affect the legality of the warrant or arrest here.
+
+Finally, Mr. Chandler’s reliance on this Court’s ruling `on his motion for return of
+property is misplaced. T his Court ruled that Fed. R. Crim. P. 41(g) was inapplicable in this case
+because the seizure and custody of any property was pursuant to a state search warrant. See Text
+Order, July 7, 2011. This ruling did not address the underlying legality of the search warrants in
+the first instance. 17
+
+In light of these considerations, Mr. Chandler’s second amended claim cannot stand.
+Apart from his allegations that the officers submitted false affidavits -- which allegations have
+been found baseless -- Mr. Chandler does not raise any fact demonstrating that the search
+warrants were deficient under either federal or state standards. Thus, the use of the warrants in
+Mr. Chandler’s subsequent federal prosecution was proper and his motion to supplement his
+
+motion to vacate is denied.18 Consequently, and in light of this Court’s determinations on Mr.
+
+ 
+
+17 This Court is aware that its ruling affirming the Magistrate Judge’s Memorandum and Order has
+been appealed to the First Circuit. This has no impact on this Court’s rulings herein.
+
+18 Mr. Chandler has made additional arguments relating to the Providence Police detectives’ conduct.
+To the extent Mr. Chandler’s thinly pled Brady claim Warrants any consideration, it fails because he does
+not show that the Government withheld any exculpatory evidence during his prosecution, whether due to
+any actions of the two detectives or otherwise. Additionally, Mr. Chandler’s claim that the dishonesty of
+the Detectives in obtaining the warrants was so violative of due process that it rendered this Court without
+jurisdiction is frivolous and rejected without discussion. See United States v. Lussier, 929 F.2d 25, 27
+(lst Cir. 1991) (18 U.S.C. § 3231 indisputably gives the district courts subject matter jurisdiction over all
+offenses against the laws of the United States.”’); Prou v. United States, 199 F.3d 37, 45 (1st Cir. 1999).
+
+18
+
+Chandler’s proposed amended claims, his requests for appointment of counsel and for an
+evidentiary hearing in connection with those claims are denied.
+IV. MOTION FOR DISCOVERY
+
+In light of this Court’s decisions denying Mr. Chandler’s motion to vacate and his two
+motions to supplement, his motion for discovery is denied as moot.
+V. CONCLUSION
+
+For the reasons set forth above, Mr. Chandler’s motion to vacate is hereby DENIED. In
+addition, both motions for leave to file supplemental pleadings and his motion for discovery are
+
+likewise DENIED.
+
+SO OR ERED:
+
+J\o`hn J. McConnel`f,/Jr.
+United States District Judge
+
+ 
+
+Date: December 6, 2011
+
+19
+

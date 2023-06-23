@@ -1,0 +1,626 @@
+Case 1:13-cr-00021-JAW Document 22 Filed 05/23/13 Page 1 of 12                                    PageID #: 65
+
+
+
+                                  UNITED STATES DISTRICT COURT
+                                       DISTRICT OF MAINE
+
+UNITED STATES OF AMERICA,                            )
+                                                     )
+v.                                                   ) 1:13-cr-00021-JAW
+                                                     )
+RANDOLPH LEO GAMACHE,                                )
+                                                     )
+        Defendant                                    )
+
+                                     RECOMMENDED DECISION
+                                     RE: MOTION TO SUPPRESS
+                                           (ECF NO. 19)
+
+        Randolph Gamache, charged with violating federal law because of his alleged possession
+
+of an unregistered shotgun having a barrel of less than 18 inches in length, moves to suppress the
+
+shotgun seized from his residence. He also seeks suppression of statements he made to the
+
+police on July 30, 2012, July 31, 2012, and September 14, 2012. Gamache has not filed an
+
+affidavit relating to the facts and circumstances of either the seizure or the statements, has not
+
+filed a reply to the Government’s version of events, and has not requested an evidentiary
+
+hearing.1 Gamache’s theory for suppression hinges on the notion that the officers’ arrival at his
+
+residence to serve a temporary order for protection from abuse gave rise to an inherently
+
+custodial scenario that tainted the subsequent events, rendering any consent to the seizure of the
+
+weapon or statements made after the seizure involuntary and inadmissible as a matter of law.
+
+Finding no infirmity in the officers’ conduct that would warrant suppression, I now recommend
+
+that the court deny the motion to suppress.
+
+
+
+
+1
+          The facts appear largely undisputed. Gamache’s counsel sets them forth from Gamache’s perspective in
+thirteen unsworn paragraphs, all of which I have incorporated into my proposed findings of fact, with the exception
+of paragraph 6, which relates that the officers met Gamache on the sidewalk and the encounter then moved into his
+apartment. The officers’ affidavits do not describe a sidewalk encounter and I have relied on those affidavits in
+formulating the proposed findings of fact. However, even if the encounter began on the sidewalk, that fact standing
+alone, as set forth in paragraph 6, does not change my view of the outcome of this motion.
+Case 1:13-cr-00021-JAW Document 22 Filed 05/23/13 Page 2 of 12                                   PageID #: 66
+
+
+
+                                    Proposed Findings of Fact
+
+        On July 30, 2012, Randy Gamache was living in an apartment in Orono, Maine. His ex-
+
+wife, Anne-Marie Gamache, brought an ex parte complaint against him in the Bangor District
+
+Court on July 30, alleging abuse and seeking the court’s protection. (Complaint for Protection
+
+from Abuse, ECF No. 21-3.) The resulting ex parte orders, which were granted in response to
+
+her complaint without advance notice to Gamache or an opportunity for a hearing, prohibited
+
+Gamache from possessing any firearm and required him to relinquish any firearm in his
+
+possession to a law enforcement officer. (Temporary Order of Protection from Abuse and
+
+Notice of Hearing, ECF No. 21-1; Order Prohibiting Possession and Requiring Relinquishment
+
+of Firearms and Weapons, ECF No. 21-2.) The orders informed Gamache that possession of a
+
+firearm while the order for protection remained in effect would be punishable as a Class D crime.
+
+        Scott Scripture, 2 a twenty-five year veteran officer at the Orono Police Department,
+
+served Gamache both the temporary protection from abuse order and the order requiring
+
+relinquishment of firearms at Gamache’s apartment in Orono on July 30. Scripture was
+
+accompanied by Ed Leskey, an Orono patrol officer. Both officers were armed and in full police
+
+uniform. Upon their arrival Gamache opened the front door of his apartment and motioned for
+
+the officers to enter. They entered the apartment, informing Gamache that they had some
+
+paperwork for him. Scripture read the eight paragraphs on the temporary order for protection
+
+from abuse checked off by the Maine District Court Judge, including the paragraph prohibiting
+
+the possession of firearms, but he did not warn Gamache about the potential criminal sanctions
+
+or advise Gamache that if he retained any firearms he could be in contempt of court.
+
+        Scripture told Gamache that if he wanted to contest the order he would have to go to a
+
+
+2
+         The facts related to Scripture and Leskey’s visit to Gamache’s premises are drawn from the Declaration of
+Scott Scripture. (Gov’t Ex. 4, ECF No. 21-4.)
+
+                                                         2
+Case 1:13-cr-00021-JAW Document 22 Filed 05/23/13 Page 3 of 12                                 PageID #: 67
+
+
+
+court hearing on August 15. Scripture gave Gamache an opportunity to read the paperwork
+
+himself to make sure he understood. Gamache then signed the court copy, acknowledging
+
+service, and was provided with a copy for his own records.
+
+        Scripture then informed Gamache of the order requiring him to relinquish any firearms
+
+and, consequently, was called upon to ask Gamache if he had any firearms in the apartment.
+
+Scripture’s tone during this time was conversational; he did not raise his voice, brandish his
+
+weapon, or otherwise touch or threaten Gamache. In response to Scripture’s question Gamache
+
+pointed to his living room wall where two shotguns were displayed in plain view. Even if
+
+Gamache had not pointed to the weapons, Scripture would have inevitably seen them from his
+
+vantage point. Neither Leskey nor Scripture searched the apartment or Gamache’s person.
+
+Leskey removed the two shotguns from the living room wall and then Gamache gave the officers
+
+two additional powder guns. Scripture then asked Gamache if he had any additional guns and
+
+informed him that he could be charged with a criminal offense if he failed to turn over any
+
+additional firearms in his possession. Gamache denied possession of any additional firearms.
+
+        Prior to July 30, 2012, neither Leskey nor Scripture had any knowledge of Gamache’s
+
+possession of any firearms. The purpose of their visit was not to obtain evidence for a criminal
+
+prosecution or to compel Gamache to make any incriminating statements. The officers’ visit
+
+lasted approximately forty minutes.
+
+        On July 31, 2012, and again on September 14, 2012, Robert Jordan,3 a Penobscot County
+
+detective designated by the Bureau of Alcohol, Tobacco, Firearms, and Explosives as an officer
+
+on the Eastern Maine Violent Crime Task Force, conducted follow-up interviews at Gamache’s
+
+Orono apartment. On both occasions Jordan was accompanied by Derek Dinsmore, a detective
+
+
+3
+        The facts related to Jordan and Dinsmore’s visits to Gamache’s premises are drawn from the Declaration of
+Robert Jordan. (Gov’t Ex. 5, ECF No. 21-5.)
+
+                                                        3
+Case 1:13-cr-00021-JAW Document 22 Filed 05/23/13 Page 4 of 12                        PageID #: 68
+
+
+
+at the Orono Police Department. These discussions concerned Gamache’s possession of the
+
+unregistered sawed-off shotgun. Jordan advised Gamache that he was not under arrest and
+
+would not be placed under arrest. The atmosphere was relaxed and the interview was conducted
+
+in a conversational tone, without intimidation or pressure. Gamache did not appear to be under
+
+pressure or duress based on his demeanor. He was neither questioned about nor advised as to
+
+any course of action surrounding the orders served on him on July 30. The grand jury indicted
+
+Gamache on federal charges in connection with the sawed-off shotgun on February 7, 2013.
+
+                                             Discussion
+
+       Gamache maintains the unregistered, short-barreled shotgun he turned over to the officers
+
+must be suppressed because it was seized without a warrant in violation of his Fourth
+
+Amendment rights. (Motion at 3.) Gamache acknowledges that a valid consent to a search or
+
+seizure vitiates the constitutional requirement of a warrant prior to seizure. (Mot. at 4, citing
+
+Schneckcloth v. Bustamonte, 412 U.S. 218, 219 (1973).) However, Gamache maintains that
+
+because he was compelled to comply with the court order, he faced “official coercion” and the
+
+apparent consent he gave was not, in fact, voluntarily given. (Id. at 4.) Gamache likewise
+
+contends that the statements he made on July 31, 2012, were involuntarily procured in violation
+
+of the Fifth Amendment because they were the product of official coercion in terms of “the
+
+coercive power of the written court orders and police directives designed to enforce the
+
+directives.” (Id. at 5.) By logical extension, Gamache maintains the statements made on July 31
+
+and September 14 were “fruit of the poisonous tree” and should be suppressed under the doctrine
+
+set forth in Wong Sun v. United States, 371 U.S. 471 (1963). (Id. at 8.)
+
+The Fourth Amendment Claim
+
+       The officers’ arrival at Gamache’s door for the purpose of serving him with court orders
+
+
+
+                                                  4
+Case 1:13-cr-00021-JAW Document 22 Filed 05/23/13 Page 5 of 12                       PageID #: 69
+
+
+
+did not violate the Fourth Amendment. The purpose of the Fourth Amendment “is not to
+
+eliminate all contact between the police and the citizenry, but ‘to prevent arbitrary and
+
+oppressive interference by enforcement officials with the privacy and personal security of the
+
+individuals.’” United States v. Mendenhall, 446 U.S. 544, 553-54 (1980) (quoting United States
+
+v. Martinez-Fuerte, 428 U.S. 543, 554 (1976)). The fact that the officers are readily identifiable
+
+as police officers engaged in some type of official business does not “convert the encounter into
+
+a seizure requiring some level of objective justification.” Florida v. Royer, 460 U.S. 491 (1983)
+
+(approaching an individual on the street and asking if he will answer some questions does not
+
+violate the Fourth Amendment). Of course, Martinez-Fuerte, Mendenhall, and Royer did not
+
+involve entries into homes. A warrantless entry into another’s home, absent consent or another
+
+constitutionally recognized exception, is per se unreasonable. Payton v. New York, 445 U.S.
+
+573 (1980) (holding unconstitutional a state statute authorizing warrantless and nonconsensual
+
+entry into homes to make routine felony arrests).
+
+       “The fundamental inquiry under the Fourth Amendment is whether a particular search or
+
+search procedure is ‘reasonable’ in the circumstances.” McCabe v. Life-Line Ambulance
+
+Service, Inc., 77 F.3d 540, 544 (1st Cir. 1996) (observing that the Fourth Amendment applies to
+
+civil proceedings as well as criminal and holding that a warrantless, nonconsensual entry to the
+
+home to enforce an involuntary commitment order was reasonable). In the present case the
+
+officers did have an objectively reasonable purpose in approaching Gamache, either on the
+
+sidewalk or by knocking at his apartment door. Their purpose did not involve a criminal
+
+investigation and was not based upon probable cause, making their ability to obtain a warrant to
+
+search the premises for firearms impracticable. They were obligated to serve Gamache with the
+
+court order and notify him of his duty to relinquish any firearms in his possession in the interest
+
+
+
+                                                 5
+Case 1:13-cr-00021-JAW Document 22 Filed 05/23/13 Page 6 of 12                                     PageID #: 70
+
+
+
+of public safety and the protection of a former spouse from possible violence. Although they
+
+were not entitled to force their way into the residence to fulfill their duty, nothing prohibited
+
+them from entering on Gamache’s invitation.
+
+         “A residential search pursuant to an established warrantless search procedure may be
+
+reasonable if conducted in furtherance of an important administrative or regulatory purpose, or
+
+‘special need,’ which would be undermined systemically by an impracticable warrant or
+
+probable-cause requirement. Id. at 545 (citing Griffin v. Wisconsin, 483 U.S. 868, 873 (1987)
+
+(“[W]e have permitted exceptions when special needs, beyond the normal need for law
+
+enforcement, make the warrant and probable-cause requirement impracticable.”) (internal
+
+quotation marks and citation omitted). Although I doubt that the “special need” exception could
+
+be invoked on these facts, I need not reach that issue because as a factual matter no forced entry
+
+or search of the residential premises took place. The officers were admitted to the residence with
+
+Gamache’s voluntary consent when he was told that the officers had some paperwork for him.
+
+There was no coercion involving the initial entry into the apartment and no “search” of the
+
+apartment ever took place. After the officers explained in detail the requirements of the two
+
+court orders, Gamache voluntarily relinquished the firearms in question.4
+
+         Alternatively, the government argues that the seizure of the firearms was lawful because
+
+once the officers were invited inside the apartment, the two firearms were in plain view.
+
+(Response at 5 n.7.) According to precedent, the warrantless seizure of the shotgun would have
+
+been lawful under the plain view doctrine as long as (1) the officers lawfully reached the vantage
+
+point from which they saw the object in plain view; (2) probable cause existed to support the
+
+seizure of the object; and (3) the officers had a right of access to the object. United States v.
+
+4
+          In fact, Gamache is proposing an impracticable “no-entry” rule that would prohibit officers from accepting
+invitations into premises whenever they are serving orders of this kind. The Fourth Amendment does not support
+such a rule because there is nothing unreasonable about entering a residence on invitation.
+
+                                                         6
+Case 1:13-cr-00021-JAW Document 22 Filed 05/23/13 Page 7 of 12                        PageID #: 71
+
+
+
+Sanchez, 612 F.3d 1, 4-5 (1st Cir. 2010). The officers clearly met the first and third
+
+requirements; they were lawfully in the apartment pursuant to a valid consent to their entry and
+
+they had a court order giving them access to the firearm itself. As for the second requirement,
+
+the officers do not aver that they immediately recognized the shotgun as a weapon whose
+
+possession was unlawful in the absence of the civil order to relinquish, but they did have cause to
+
+know that Gamache was under a court order to relinquish the weapon. Had Gamache refused to
+
+turn over his weapons, then probable cause would have arisen.
+
+       In the end, Gamache was not obligated to allow the police officers into his private
+
+residence in order to effectuate service of the orders, but nothing the officers did or said during
+
+the initial encounter informing Gamache of their purpose served to make the encounter coercive
+
+from a reasonable person’s perspective. The undisputed evidence is that Gamache motioned for
+
+the officers to enter his apartment after they announced their general purpose in being there.
+
+Once the officers were allowed into the residence, the firearms were visible to the officers, and if
+
+Gamache had not voluntarily relinquished them, the officers would have had probable cause to
+
+believe that Gamache was in violation of a Class D state law crime of violation of the protection
+
+order. They could have secured the premises and obtained a warrant to seize the firearms or,
+
+arguably, seized them under the plain view doctrine at the point in time when Gamache refused
+
+to relinquish them and they developed probable cause to believe an offense was being
+
+committed. But as it happened, Gamache voluntarily invited the officers into his home and
+
+turned over, without objection, both the weapons in plain view and two additional “powder”
+
+weapons. There was nothing that occurred during this consensual encounter that violated any
+
+Fourth Amendment principles in terms of an unreasonable search or seizure.
+
+
+
+
+                                                  7
+Case 1:13-cr-00021-JAW Document 22 Filed 05/23/13 Page 8 of 12                                   PageID #: 72
+
+
+
+The Fifth Amendment Claim
+
+        Gamache’s Fifth Amendment claim appears to have two components. First he argues
+
+that the July 30 interview, as well as the two later visits, were the equivalent of custodial
+
+interrogations and that therefore he should have been advised of his rights pursuant to Miranda v.
+
+Arizona, 384 U.S. 436 (1966). (Motion at 5-6.) Gamache’s second argument is that everything
+
+he said and did on July 30, 2012, including the nontestimonial5 act of relinquishing the firearms
+
+to the officers, was “in response to the coercive power of the written court orders and police
+
+directives designed to enforce the directives” and thus were involuntary acts. (Motion at 5.)
+
+Under this theory of suppression the July 31 and September 14 statements should be suppressed
+
+as “fruit of the poisonous tree” as those statements flowed from the relinquishment of the
+
+firearm, ostensibly in violation of the Fourth Amendment. (Id. at 8.) In Wong Sun v. United
+
+States, 371 U.S. 471 (1963), the Supreme Court held that evidence and witnesses discovered as a
+
+result of a search in violation of the Fourth Amendment must be excluded from evidence. The
+
+Wong Sun doctrine also applies when the fruit of the Fourth Amendment violation is a
+
+confession. Brown v. Illinois, 422 U.S. 590, 602 (1975). As I do not find that there was any
+
+Fourth Amendment violation on these facts, the Wong Sun doctrine does not apply to any of the
+
+statements.
+
+        “In criminal trials, in the courts of the United States, wherever a question arises whether a
+
+confession is incompetent because not voluntary, the issue is controlled by that portion of the
+
+Fifth Amendment . . . commanding that no person ‘shall be compelled in any criminal case to be
+
+a witness against himself.’” Bram v. United States, 168 U.S. 532, 542 (1897). In Miranda, the
+
+Supreme Court established “rules of police procedure applicable to ‘custodial interrogation.’”
+
+5
+         The defendant’s argument about the coercive power of the court orders and police directives incorporates
+and assumes an underlying Fourth Amendment violation in the seizure of the firearm. I have rejected that basic
+contention.
+
+                                                         8
+Case 1:13-cr-00021-JAW Document 22 Filed 05/23/13 Page 9 of 12                      PageID #: 73
+
+
+
+Oregon v. Mathiason, 429 U.S. 492, 494 (1977). It held that “the prosecution may not use
+
+statements, whether exculpatory or inculpatory, stemming from custodial interrogation of the
+
+defendant unless it demonstrates the use of procedural safeguards effective to secure the
+
+privilege against self-incrimination.” Miranda, 384 U.S. at 444. From there, the Court
+
+prescribed the classic “Miranda warning,” requiring that any custodial interrogation be preceded
+
+with cautionary advice that the suspect has “a right to remain silent, that any statement he does
+
+make may be used as evidence against him, and that he has a right to the presence of an attorney,
+
+either retained or appointed.” Id. The Miranda warning was deemed necessary to combat the
+
+“‘compelling pressures’ inherent in custodial police interrogation” and safeguard the Fifth
+
+Amendment. Dickerson v. United States, 530 U.S. 428, 440 (2000) (quoting Miranda, 384 U.S.
+
+at 467). However, for Miranda warnings to be required there must be a custodial scenario. Non-
+
+custodial questioning does not require a warning. Mathiason, 429 U.S. at 495; United States v.
+
+Quinn, 815 F.2d 153, 160 (1st Cir. 1987). Thus, for Gamache’s motion to succeed on the basis
+
+of a Miranda violation, it must be apparent that he was in custody at the time of his unwarned
+
+statements. United States v. Hughes, 640 F.3d 428, 435 (1st Cir. 2011).
+
+       For a suspect to be in custody, he must be subject to either formal arrest or an equivalent
+
+restraint on his freedom of movement. California v. Beheler, 463 U.S. 1121, 1125 (1983);
+
+Mathiason, 429 U.S. at 495. The restraint imposed on a suspect’s movement need not be
+
+physical. Custody may arise where the suspect is “otherwise deprived of his freedom of action
+
+in any significant way,” including through the imposition of psychological pressures. United
+
+States v. Rogers, 659 F.3d 74, 77 (1st Cir. 2011) (quoting Miranda, 384 U.S. at 444).
+
+“Significant deprivation occurs in circumstances carrying a ‘badge of intimidation,’ or ‘inherent
+
+compulsions,’” id. (quoting Miranda, 384 U.S. at 457, 467), “or as the Supreme Court later put it,
+
+
+
+                                                 9
+Case 1:13-cr-00021-JAW Document 22 Filed 05/23/13 Page 10 of 12                      PageID #: 74
+
+
+
+in circumstances that ‘blur[] the line between voluntary and involuntary statements, and thus
+
+heighten[] the risk’ that the Fifth Amendment privilege will not be appreciated,” id. (quoting
+
+Dickerson, 530 U.S. at 435). Two objective tests are prescribed to assist in the task of
+
+differentiating between scenarios that would, or would not, be custodial in nature. Initially,
+
+courts consider “whether a reasonable person in the circumstances would have felt ‘at liberty to
+
+terminate the interrogation and leave.’” Id. (quoting Thompson v. Keohane, 516 U.S. 99, 112
+
+(1995)). If not, then the second inquiry is “whether those circumstances would have been likely
+
+to coerce a suspect to engage in back and forth with the police, as in the paradigm example of
+
+traditional questioning.” Id. (quoting Berkemer v. McCarty, 468 U.S. 420, 436-37 (1984)).
+
+       Gamache does not make a serious argument that any of the three conversations with
+
+police officers occurred in a traditional custodial setting restricting his freedom of movement,
+
+nor could he. Each interview took place in Gamache’s own apartment with officers who were
+
+nonconfrontational. Gamache was not arrested on any occasion nor was his physical freedom of
+
+movement restricted in any way. His argument is that his freedom of action was restricted by the
+
+type of psychological pressure described by the Court of Appeals in Rogers. In Rogers, the First
+
+Circuit held that a naval officer was subjected to custodial interrogation in his home when he was
+
+ordered by his commanding officer to report to his home, where law enforcement was waiting to
+
+question him. The Court observed that “the most significant element in analyzing the situation is
+
+that the military had made certain that Rogers did not walk into it voluntarily, or confront the
+
+police with free choice to be where he was.” 659 F.3d at 78. The Rogers Court made it clear
+
+that the military command structure and the psychological pressure it placed on the officer were
+
+the driving forces behind its holding. Id. at 78-79. Gamache proposes that this court adopt a
+
+similar “narrow rule” under these “specialized facts” relating to protection from abuse orders and
+
+
+
+                                                10
+Case 1:13-cr-00021-JAW Document 22 Filed 05/23/13 Page 11 of 12                       PageID #: 75
+
+
+
+made applicable to “surrendered contraband” and “any subsequent interrogation.” (Motion at 8.)
+
+       The dilemma confronting a citizen served with a temporary protection from abuse order
+
+signed by a judge and directing him to relinquish any firearms in his possession is not the same
+
+as the scenario set forth in Rogers. There is no command structure that required Gamache to
+
+voluntarily allow the officers into his apartment or speak with them regarding firearms currently
+
+or formerly in his possession. Had he elected to step outside the apartment, or remain on the
+
+sidewalk, the officers had no court order at their disposal which would have allowed them access
+
+to the apartment or required Gamache to answer their questions. Even if Gamache had not
+
+consented to the officers’ entry into his apartment, and had instead gone into his own apartment
+
+after being advised of the provisions of the orders, taken the weapon down from the wall, and
+
+brought it outside to the officers, saying nothing in the process, he could be in the same
+
+predicament he now finds himself. Clearly there would be no violation of the Fourth
+
+Amendment or of Miranda on those facts, just as there was no violation on these facts, but
+
+Gamache’s mere act of relinquishing the firearm in response to a court order could have led to
+
+criminal charges.
+
+                                            Conclusion
+
+        Notwithstanding the lack of a Fourth Amendment violation or any violation of the
+
+Miranda ruling under the Fifth Amendment, Gamache is asking this court to adopt a rule of
+
+suppression that would prohibit the United States from using any evidence lawfully relinquished
+
+to state authorities pursuant to court orders under state laws. If the point of suppression orders is
+
+to prevent arbitrary and oppressive interference by law enforcement officers, it makes no sense
+
+to enter an order of suppression on these facts. The officers in this case followed the rules and
+
+court orders they were given. Gamache was “compelled” by court process to relinquish the
+
+
+
+                                                 11
+Case 1:13-cr-00021-JAW Document 22 Filed 05/23/13 Page 12 of 12                       PageID #: 76
+
+
+
+firearms in his possession without any promise of immunity if one of those weapons turned out
+
+to be, for instance, the murder weapon in an unsolved crime, or indeed, an unregistered sawed-
+
+off shotgun. But it does not follow that the officers forced their way into Gamache’s premises,
+
+searched his premises, or seized evidence or obtained statements in violation of the Constitution.
+
+Issues of sound public policy and fundamental fairness aside, Gamache’s motion does not raise
+
+any constitutional basis for the suppression of either the firearm or the subsequent statements he
+
+made to law enforcement officers and accordingly I recommend that the court deny the motion.
+
+                                             NOTICE
+
+                A party may file objections to those specified portions of a magistrate
+       judge's report or proposed findings or recommended decisions entered pursuant to
+       28 U.S.C. § 636(b)(1)(B) for which de novo review by the district court is sought,
+       together with a supporting memorandum, and request for oral argument before the
+       district judge, if any is sought, within fourteen (14) days of being served with a
+       copy thereof. A responsive memorandum and any request for oral argument
+       before the district judge shall be filed within fourteen (14) days after the filing of
+       the objection.
+
+              Failure to file a timely objection shall constitute a waiver of the right to de
+       novo review by the district court and to appeal the district court's order.
+
+May 23, 2013                          /s/ Margaret J. Kravchuk
+                                      U.S. Magistrate Judge
+
+
+
+
+                                                12
+

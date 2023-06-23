@@ -1,0 +1,2293 @@
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 1 of 46           PageID #: 1617
+
+
+
+                        UNITED STATES DISTRICT COURT
+                             DISTRICT OF MAINE
+
+
+ UNITED STATES OF AMERICA               )
+                                        )
+       v.                               )      1:13-cr-00133-JAW-02
+                                        )
+ ALAN KETCHEN                           )
+
+
+             ORDER ON MOTION TO WITHDRAW GUILTY PLEA
+
+       Alan Ketchen asserts that under Federal Rule of Criminal Procedure
+
+ 11(d)(2)(B), he has demonstrated a “fair and just reason for requesting the
+
+ withdrawal” of his May 7, 2014 guilty plea to two counts of a five-count indictment
+
+ because, pursuant to the recent United States Supreme Court ruling of McFadden v.
+
+ United States, 135 S. Ct. 2298 (2015), he claims this Court failed to explain the mens
+
+ rea requirements of the crimes charged against him at his Rule 11 proceeding, and
+
+ the Government could not prove beyond a reasonable doubt that he knew he was
+
+ possessing and distributing a controlled substance analogue. The Court denies Mr.
+
+ Ketchen’s motion because he pleaded guilty to Controlled Substances Act crimes
+
+ unaffected by McFadden and because the Court concludes that he knowingly and
+
+ voluntarily pleaded guilty to the Analogue Act portion of the charges.
+
+ I.    PROCEDURAL BACKGROUND
+
+       On July 17, 2013, a federal grand jury returned a five-count indictment against
+
+ Mr. Ketchen and thirteen other conspiracy members for the distribution of a
+
+ controlled substance and related firearm offenses.         Indictment (ECF No. 1)
+
+ (Indictment). Mr. Ketchen was charged in Counts One and Three. Id. at 2-5. Count
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 2 of 46             PageID #: 1618
+
+
+
+ One alleged that Mr. Ketchen knowingly and intentionally conspired to distribute
+
+ and possess with intent to distribute 3,4-Methylenedioxypyrovalerone (MDPV),
+
+ classified as a controlled substance analogue prior to October 21, 2011, and classified
+
+ as a schedule I controlled substance as of October 21, 2011, all in violation of 21 U.S.C.
+
+ §§ 813, 841(a)(1). Id. at 2-3. Count Three alleged that Mr. Ketchen knowingly leased,
+
+ rented, used and maintained, permanently or temporarily, a residence in Bangor,
+
+ Maine for the purpose of unlawfully distributing and using MDPV, classified as a
+
+ controlled substance analogue prior to October 21, 2011, and classified a schedule I
+
+ controlled substance as of October 21, 2011. Id. at 4-5.
+
+       On August 6, 2013, Mr. Ketchen was arrested, (ECF No. 75), and made his
+
+ initial appearance, entering a plea of not guilty to the charges. (ECF No. 93). On
+
+ May 7, 2014, Mr. Ketchen pleaded guilty to the indictment. Entry (ECF No. 374).
+
+ After Mr. Ketchen and two of his co-defendants raised a question in their sentencing
+
+ memoranda as to how MDPV should be treated for sentencing purposes, on June 11,
+
+ 2015, the Court ruled against Mr. Ketchen and two of his co-defendants and
+
+ concluded that MDPV should be considered a controlled substance analogue to
+
+ methcathinone, a schedule I controlled substance.          Order on Treatment of 3,4
+
+ Methylenedioxypyrovalerone Under United States Sentencing Guidelines and Req. for
+
+ Joint Presentence Conference (ECF No. 706).
+
+       On June 30, 2015, Mr. Ketchen moved under Federal Rule of Criminal
+
+ Procedure 11(d)(2)(B) to withdraw his guilty plea to Counts One and Three. Mot. to
+
+ Withdraw Guilty Plea (ECF No. 708) (Def.’s Mot.). On August 31, 2015, Mr. Ketchen
+
+
+
+                                             2
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 3 of 46          PageID #: 1619
+
+
+
+ filed a memorandum in support of his motion to withdraw his guilty plea. Def. Alan
+
+ Ketchen’s Mem. in Supp. of his Mot. to Withdraw Guilty Plea (ECF No. 722) (Def.’s
+
+ Mem.). The Government objected to Mr. Ketchen’s motion on September 28, 2015.
+
+ Gov’t’s Obj. to Def.’s Mot. to Withdraw Guilty Plea (ECF No. 725) (Gov’t’s Opp’n). Mr.
+
+ Ketchen responded to the Government’s objection on October 13, 2015. Def.’s Resp.
+
+ to Gov’t’s Obj. to Mot. to Withdraw a Guilty Plea (ECF No. 726) (Def.’s Reply).
+
+ II.    THE PARTIES’ POSITIONS
+
+        A.     Mr. Ketchen’s Motion to Withdraw Guilty Plea
+
+        On June 18, 2015, the United States Supreme Court decided McFadden v.
+
+ United States, 135 S. Ct. 2298 (2015), holding that section 841(a)(1) of the Controlled
+
+ Substances Act (CSA), 21 U.S.C. §§ 801-971, “requires the Government to establish
+
+ that the defendant knew he was dealing with ‘a controlled substance,’” and
+
+ specifically that:
+
+        [w]hen the substance is an analogue, that knowledge requirement is met
+        if the defendant knew that the substance was controlled under the CSA
+        or the [Controlled Substance Analogue Enforcement Act of 1986 (the
+        Analogue Act)], even if he did not know its identity. The knowledge
+        requirement is also met if the defendant knew the specific features of
+        the substance that make it a ‘controlled substance analogue.’
+
+ Id. at 2302 (citing 21 U.S.C. § 802(32)(A)).      Mr. Ketchen asserts, pursuant to
+
+ McFadden, that he should be permitted to withdraw his guilty plea, as: (1) “the
+
+ scienter requirement was not explained to [Mr. Ketchen] in the [Rule 11 proceeding]”;
+
+ (2) “the scienter requirement was not part of the government’s version of the offense”;
+
+ (3) “that a defense exists regarding an element of the offense which was not
+
+ anticipated, nor explained in his plea”; and (4) that McFadden “highlights facts, laws
+
+                                           3
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 4 of 46             PageID #: 1620
+
+
+
+ and circumstances not known to the defendant nor explained to the defendant
+
+ regarding his [Rule 11 proceeding].” Id. at 3. Mr. Ketchen concludes that because of
+
+ McFadden there is “a basis for a ‘fair and reasonable reason to request withdrawal of
+
+ his guilty plea,’” and specifically that the Government failed to provide evidence in
+
+ the indictment “that the defendant knew MDPV was [an] ‘analogue’ drug prior to
+
+ October 21, 2011 and that the defendant knew MDPV was a controlled substance
+
+ after October 21, 2011.” Id. at 3-4 (citing F. R. CRIM. P. 11(d)(2)(B)).
+
+       B.     Mr. Ketchen’s Memorandum in Support of his Motion to
+              Withdraw Guilty Plea
+
+       Mr. Ketchen acknowledges that the burden of persuasion rests upon the
+
+ defendant for a withdrawal of guilty plea, and lists the relevant factors to consider in
+
+ whether to grant a withdrawal of guilty plea as including “whether the plea was
+
+ voluntary, intelligent and knowing and complied with Rule 11; the force of the
+
+ reasons offered by the defendant; whether there is a serious claim of actual innocence;
+
+ the timing of the motion; and any countervailing prejudice to the government if the
+
+ defendant is allowed to withdraw his plea.” Def.’s Mem. at 2 (citing United States v.
+
+ Castro-Gomez, 233 F.3d 684, 687 (1st Cir. 2000)).
+
+       Mr. Ketchen says that knowledge that a substance is controlled under “the
+
+ Analogue Act is a necessary element of Count 1 and Count 3 of the indictment,” and
+
+ that the indictment “did not indicate that [he] knew that the substance was a
+
+ controlled substance analogue prior to October 21, 2011.” Id. at 3-4. Moreover, he
+
+ argues that the mere knowledge of the “identity of the substance” is not sufficient to
+
+ satisfy the requisite mens rea and that in addition he needed to know the substance
+
+                                            4
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 5 of 46             PageID #: 1621
+
+
+
+ was controlled. Id. at 5. Mr. Ketchen asserts that the record from his Rule 11
+
+ proceeding illustrates that his plea was not “voluntary, intelligent or knowing,” as
+
+ the Government “failed to distinguish the two sets of applicable laws and the
+
+ ‘knowingly’ requirement of possession and distribution under the Analogue Act” and
+
+ “[did] not indicate that the [he] knew that MDPV was a controlled substance analogue
+
+ during acts of possession and distribution prior to October 21, 2011.”           Id. at 6
+
+ (emphasis in original).
+
+       Regarding the other factors to be weighed when considering a withdrawal of a
+
+ guilty plea, Mr. Ketchen says that the amount of time between a guilty plea and the
+
+ request to withdraw the plea is a “relevant temporal gap” measured from the date of
+
+ “discovery of new information occurs” to the withdrawal of guilty plea. Id. at 7
+
+ (quoting United States v. Gonzalez, 202 F.3d 20, 24 (1st Cir. 2000)). Mr. Ketchen
+
+ notes that he filed his motion only days after the issuance of McFadden. Id. He also
+
+ asserts that there is evidence of his innocence “regarding this very narrow issue,”
+
+ noting that in his statement of acceptance of responsibility he maintained that he
+
+ “was told that they were synthetic research chemicals that were legal . . . that you
+
+ could get it at the head shop and at truck stops. That you could get it off the internet.”
+
+ Id. Finally, Mr. Ketchen says that he “does not believe that there is any substantial
+
+ prejudice to the government in this case.” Id. at 8.
+
+       C.     The Government’s Objection to Mr. Ketchen’s Motion
+
+         Addressing the “voluntarily, knowingly, intelligently” analysis for a
+
+ withdrawal of guilty plea, the Government asserts that Rule 11 “has a predominantly
+
+
+
+                                             5
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 6 of 46           PageID #: 1622
+
+
+
+ prophylactic purpose,” and that the “main thrust of the rule is to ensure that a
+
+ defendant who pleads guilty does so with full comprehension of the specific attributes
+
+ of the charge and the possible consequences of the plea.” Gov’t’s Opp’n at 10 (citing
+
+ United States v. McDonald, 121 F.3d 7, 11 (1st Cir. 1997)). The Government argues
+
+ that the transcript of Mr. Ketchen’s Rule 11 proceeding reflects that he was advised
+
+ of “the charges, the penalties that could be imposed, and the rights he was giving up
+
+ by pleading guilty,” that Mr. Ketchen does not “seriously dispute this,” and that he
+
+ only makes “a nuanced argument concerning his understanding of the mens rea
+
+ element of the offenses” and at no point argues that the plea was involuntary. Id. at
+
+ 10 n.2.
+
+       Next, the Government identifies two reasons put forth by Mr. Ketchen to
+
+ withdraw his guilty plea: (1) that the Government “cannot prove beyond a reasonable
+
+ doubt that prior to October 21, 2011 he knew he was possessing or distributing a
+
+ substance regulated under the Analogue Act,” and (2) that the Court “did not explain
+
+ the mens rea element of the two offences,” and particularly the “mens rea element in
+
+ offenses involving controlled substance analogues like MDPV as recently explained
+
+ in McFadden.” Id. at 10 (emphasis in original). The Government contends that the
+
+ strength of the reasons offered for the withdrawal of guilty plea is “lacking.” Id.
+
+       First, the Government argues that the Court adequately advised Mr. Ketchen
+
+ of the mens rea element under Rule 11. Id. Citing United States v. Jones, 778 F.3d
+
+ 375, 382 (1st Cir. 2015), the Government asserts that a guilty plea under Rule 11
+
+ does not require “a fixed catechism” or a set of “magic words,” but only that a district
+
+
+
+                                            6
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 7 of 46            PageID #: 1623
+
+
+
+ court touch all of the “appropriate bases” and its colloquy be assessed “in light of ‘the
+
+ attributes of the particular defendant, the nature of the specific offense, and the
+
+ complexity of the attendant circumstances.’” Gov’t’s Opp’n at 10-11 (quoting Jones,
+
+ 778 F.3d at 382). As such, the Government asserts that McFadden does not create a
+
+ new mens rea requirement for controlled substance analogue offenses, but rather
+
+ “confirmed pre-existing case law establishing a mens rea requirement in controlled
+
+ substance offenses, confirmed that requirement must be met by the Government in
+
+ cases involving substances that were controlled either by operation of the drug
+
+ schedules or by operation of the Analogue Act, and explained how the Government
+
+ could circumstantially prove the mens rea requirement in an analogue case.” Id. at
+
+ 11. The Government submits that the Court’s summary of the charges were sufficient
+
+ under this rubric, as the Court advised Mr. Ketchen that he was charged “with
+
+ knowingly and intentionally conspiring to distribute a controlled substance,” and the
+
+ Court was not required to explain “the intricacies regarding how MDPV was
+
+ controlled at different times.” Id. at 11-12 (emphasis in original).
+
+       Second, the Government asserts that the law is clear that a crime may be
+
+ charged in the conjunctive. Id. at 12-13 (citing United States v. Garcia-Torres, 341
+
+ F.3d 61, 66 (1st Cir. 2003)).       The Government explains that the concept of
+
+ “conjunctive” stands for “where an indictment charges in the conjunctive several
+
+ means of violating a statute, a conviction may be obtained on proof of only one of the
+
+ means.” Id. at 13 (quoting Garcia-Torres, 341 F.3d at 66-67)). Thus, the Government
+
+ contends that because Count One charges Mr. Ketchen “with conspiring to distribute
+
+
+
+                                            7
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 8 of 46         PageID #: 1624
+
+
+
+ and possess with the intent to distribute the controlled (analogue) substance MDPV
+
+ and the controlled (Schedule I) substance MDPV . . . Guilt of his commission of this
+
+ offense – by plea or by trial – could be established by proving his knowing
+
+ participation in the conspiracy involved one or the other.” Id. at 14 (citing Garcia-
+
+ Torres, 341 F.3d at 66-67). Similarly, for Count Three, “[g]uilt of his commission of
+
+ this offense (by plea or by trial) could be established by proof he knowingly leased,
+
+ rented, used or maintained the residence for distributing or using the analogue
+
+ controlled substance MDPV or the Schedule I controlled substance MDPV.” Id. The
+
+ Government concludes that Mr. Ketchen’s guilty pleas are not affected by the
+
+ McFadden decision, as:
+
+       [e]ven assuming arguendo that . . . the Government could not prove his
+       guilt as to conduct that occurred prior to October 21, 2011, that would
+       not earn him an acquittal at trial or warrant a withdrawal of his guilty
+       plea. He does not contend that he misunderstood the mens rea element
+       as it relates to offenses involving a Schedule I drug like MDPV.
+
+ Id. at 14-15.
+
+       Regarding the timing of the motion, the Government highlights that Mr.
+
+ Ketchen was indicted on July 17, 2013, pleaded guilty to Counts One and Three on
+
+ May 7, 2014, and on July 30, 2015 – fourteen months after he pleaded guilty – moved
+
+ to withdraw his guilty plea. Id. at 15. Noting this lapse in time, the Government
+
+ argues that the longer a request is delayed, the more potency the motion must have
+
+ in order to gain favorable consideration and the more the Court should disfavor the
+
+ motion. Id. at 15 (citing United States v. González-Vázquez, 34 F.3d 19, 23 (1st Cir.
+
+ 1994)). The Government argues that McFadden did not create a new element of an
+
+
+
+                                          8
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 9 of 46           PageID #: 1625
+
+
+
+ offense, and when considering the lack of force to Mr. Ketchen’s assertion of
+
+ innocence, the fourteen-month delay in making his motion to withdraw guilty plea
+
+ undermines his request. Id. at 16.
+
+       The Government points out that Mr. Ketchen is only claiming his innocence of
+
+ part of the crimes charged in Counts One and Three of the indictment, and that the
+
+ totality of the circumstances demonstrate that there is little force to his assertion of
+
+ innocence. Id. at 16. The Government notes that Mr. Ketchen admitted to the
+
+ prosecution version of the offense at his Rule 11 proceeding, and thus agreed that he
+
+ knowingly and intentionally participated in a conspiracy to distribute MDPV,
+
+ satisfying the requirements of McFadden.           Id. at 16-17.     Additionally, the
+
+ Government says that the PSR reveals “overwhelming” evidence of Mr. Ketchen’s
+
+ participation in the drug conspiracy. Id. at 17-18. The Government provides other
+
+ examples that the Court should consider when assessing Mr. Ketchen’s assertion of
+
+ innocence, including: (1) “seventeen of [Mr. Ketchen’s] co-conspirators have admitted
+
+ to conspiring with [Mr. Ketchen]” and none of them has “sought to withdraw or vacate
+
+ their guilty pleas”; (2) “[n]umerous cooperating defendants and witnesses testified
+
+ before the grand jury, thousands of pages of business records were collected, and law
+
+ enforcement seized MDPV from [Mr. Ketchen] and his co-conspirators”; and (3) “[t]he
+
+ Court listened to every co-conspirator’s allocution and read their statements
+
+ accepting responsibility,” giving the Court “special insight into this case” which it
+
+ should draw on “when considering the force of [Mr. Ketchen’s] claim that he is
+
+ innocent.” Id. at 18-19.
+
+
+
+                                            9
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 10 of 46         PageID #: 1626
+
+
+
+       Finally, the Government contends that Mr. Ketchen has failed to prove that
+
+ the Government would suffer no prejudice if his motion to withdraw guilty plea was
+
+ granted. Id. at 19. The Government highlights that the investigation into Mr.
+
+ Ketchen’s conduct began over four years ago, he was indicted over two years ago, and
+
+ that “[w]ith the passage of time memories fade and witnesses relocate” and “[p]roving
+
+ a case beyond a reasonable doubt” after this lapse in time would be difficult. Id.
+
+ Additionally, the Government also observes that since his guilty plea all of his co-
+
+ conspirators have been sentenced and it may prove difficult to obtain their testimony.
+
+ Id. at 19-20.
+
+       D.        Mr. Ketchen’s Response to the Government’s Objection
+
+       Mr. Ketchen responds by arguing that “[n]either the indictment nor the Rule
+
+ 11 Proceeding included the necessary scienter element of MDPV being a controlled
+
+ substance analogue,” and because of this his plea “could not have been made
+
+ voluntarily, intelligently, or knowingly” and that he can show evidence of actual
+
+ innocence under the Analogue Act.” Def.’s Reply at 2.
+
+       Mr. Ketchen renews his argument that the “indictment left out the necessary
+
+ mens rea element that he knew he was possessing and or distributing a substance in
+
+ violation of the Analogue Act,” and specifically that the “indictment never specified
+
+ that [he] knew that the substance was a controlled substance analogue prior to
+
+ October 21, 2011” and was thus insufficient under McFadden. Id. at 3 (emphasis in
+
+ original). Regarding the Rule 11 proceeding, he argues that the Court “surely did not
+
+ touch on all the ‘appropriate bases’ when it left out the scienter element of the
+
+
+
+                                          10
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 11 of 46            PageID #: 1627
+
+
+
+ offense,” which is grounds for withdrawal of his plea of guilty, as “[d]ue process
+
+ requires that a defendant be apprised of the nature of the charges, including the
+
+ element of intent.” Id. at 5 (quoting United States v. Bigman, 906 F.2d 392, 394 (9th
+
+ Cir. 1990)). Mr. Ketchen asserts that though “[t]he Court did advise [him] that he
+
+ was charged with knowingly and intentionally conspiring with others and that he
+
+ knowingly used a property to do this . . . the Court omitted if [he] knew that MDPV
+
+ was a controlled substance analogue during the acts of possession and distribution
+
+ prior to October 11, 2011.” Id. at 6 (emphasis in original).
+
+        Mr. Ketchen concludes his reply brief by renewing his arguments regarding
+
+ the timing of the motion, evidence of actual innocence, and prejudice to the
+
+ Government. Id. at 7.
+
+ III.   FACTUAL, STATUTORY, AND CASELAW BACKGROUND
+
+        A.    The Indictment
+
+        On July 17, 2013, the grand jury charged Mr. Ketchen with violating federal
+
+ drug trafficking laws; Count One of the indictment reads:
+
+        Beginning on a date unknown, but no later than April 1, 2011 and
+        continuing until a date unknown, but no earlier than December 31,
+        2011, in the District of Maine and elsewhere, defendants . . . knowingly
+        and intentionally conspired with one another and with persons known
+        and unknown to commit offenses against the United States, namely
+        distribution and possession with intent to distribute: (1) prior to October
+        21, 2011, a mixture or substance containing a detectable amount of
+        MDPV, a controlled substance analogue as defined in Title 21, United
+        States Code, Section 802(32), with intent for human consumption as
+        provided in Title 21, United States Code, Section 813; and (2) from
+        October 21, 2011 until a date unknown, but no earlier than December
+        31, 2011, a mixture or substance containing a detectable amount of
+        MDPV, a Schedule I controlled substance (by Final Order of DEA, 76
+
+
+
+                                            11
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 12 of 46            PageID #: 1628
+
+
+
+        Fed. Reg. 65371), all in violation of Title 21, United States Code, Section
+        846, 841(a)(1), and 813.
+
+ Indictment at 3. Count Three states:
+
+        Beginning on a date unknown, but not later than April 1, 2011, and
+        continuing until December 31, 2011, in the District of Maine,
+        defendant[] . . . ALAN J. KETCHEN, a/k/a "AJ", "Hobbes" . . .
+        knowingly leased, rented, used and maintained, permanently or
+        temporarily, a residence located at 10 Blackstone Street in Bangor,
+        Maine, for the purpose of unlawfully distributing and using (1) prior to
+        October 21, 2011, a mixture or substance containing a detectable
+        amount of MDPV, a controlled substance analogue as defined in Title
+        21, United States Code, Section 802(32), with intent for human
+        consumption as provided in Title 21, United States Code, Section 813;
+        and (2) from October 21, 2011 until a date unknown, but no earlier than
+        December 31, 2011, a mixture or substance containing a detectable
+        amount of MDPV, a Schedule I controlled substance (by Final Order of
+        DEA, 76 Fed. Reg. 65371), and did aid and abet such conduct, in
+        violation of Title 21, United States Code, Sections 856(a)(1) and 813 and
+        Title 18, United States Code, Section 2.
+
+ Id. at 4-5 (bold in original).
+
+        B.     The Rule 11 Proceeding
+
+        On May 7, 2014, Mr. Ketchen pleaded guilty to Counts One and Three of the
+
+ Indictment. See Minute Entry (ECF No. 374); Transcript of Rule 11 Proceeding (ECF
+
+ No. 710) (Tr.). During the proceeding the Court found Mr. Ketchen to be competent,
+
+ Tr. 4:6-6:15, allowed him to tender a plea of guilty, id. 7:6-7:20, and confirmed that
+
+ he was pleading guilty to the charges because he was “actually guilty of each of those
+
+ crimes and for no other reason.” Id. 8:1-4. His counsel expressed satisfaction that Mr.
+
+ Ketchen was pleading guilty because he was actually guilty. Id. 8:6-9. Additionally,
+
+ Mr. Ketchen confirmed that he had received a copy of the indictment, that he had
+
+ enough time to discuss the charges with his attorney, and that his attorney had
+
+
+
+                                            12
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 13 of 46          PageID #: 1629
+
+
+
+ explained the elements and the nature of the offenses charged, and the penalties that
+
+ could be imposed. Id. 8:10-22. Mr. Ketchen’s counsel expressed that he was satisfied
+
+ that the Defendant understood the charges and the penalties that could be imposed,
+
+ id. 8:22-25, and the Court reviewed the charges and confirmed that the Mr. Ketchen
+
+ understood them:
+
+       THE COURT: Count 1 alleges that beginning on a date unknown, but
+       no later than April 1, 2011, and continuing until a date unknown, but
+       no earlier than December 31, 2011, in the District of Maine, which
+       means the state of Maine, you and a number of other individuals
+       knowingly and intentionally conspired with one another to commit an
+       offense against the United States, namely, the distribution of MDPV, a
+       controlled substance. Do you understand the charge set forth in Count
+       1 of the indictment?
+
+       MR. KETCHEN: Yes.
+
+       THE COURT: Now, Count 3 of the indictment alleges that beginning on
+       a date unknown, but no later than April 1, 2011, and continuing until
+       December 31, 2011, in the District of Maine, which, again, means the
+       state of Maine, you knowingly leased, rented, used, and maintained,
+       permanently or temporarily, a residence located at 10 Blackstone Street,
+       Bangor, Maine, for the purpose of unlawfully distributing and using the
+       premises to distribute MDPV, again, a controlled substance, in violation
+       of federal criminal law. Do you understand the charge set forth in Count
+       3 of the indictment?
+
+       MR. KETCHEN: Yes.
+
+
+ Id. 9:1-25. The Court reviewed the potential penalties for the offenses, id. 10:1-12:5,
+
+ and the rights the Defendant was giving up. Id. 12:6-14:13.
+
+       Next, the Court confirmed the accuracy of the prosecution version of the
+
+ offenses and that there was a factual basis for Mr. Ketchen’s guilty plea. Id. 14:14-
+
+ 15:9. The prosecution version provided in part:
+
+
+
+                                           13
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 14 of 46         PageID #: 1630
+
+
+
+       Between approximately April 1, 2011 and December 31, 2011, in
+       Penobscot County, Maine and elsewhere, there existed a conspiracy to
+       possess with intent to distribute and distribute (1) prior to October 21,
+       2011, a mixture or substance containing a detectable amount of MDPV,
+       a controlled substance analogue as defined in Title 21, United States
+       Code, Section 802 (32), with intent for human consumption as provided
+       in Title 21, United States Code, Section 813; and (2) from October 21,
+       2011 until a date unknown, but no earlier than December 31, 2011, a
+       mixture or substance containing a detectable amount of MDPV, a
+       Schedule I controlled substance. During its existence, the defendant
+       knowingly and intentionally joined and participated in the conspiracy.
+
+       During the same period of time, the defendant also knowingly leased,
+       rented, used and maintained, permanently or temporarily, a residence
+       located at XX Blackstone Street in Bangor, Maine (“the Blackstone
+       Residence”), for the purpose of unlawfully distributing and using (1)
+       prior to October 21, 2011, a mixture or substance containing a detectable
+       amount of MDPV, a controlled substance analogue as defined in Title
+       21, United States Code, Section 802 (32), with intent for human
+       consumption as provided in Title 21, United States Code, Section 813;
+       and (2) from October 21, 2011 until a date unknown, but no earlier than
+       December 31, 2011, a mixture or substance containing a detectable
+       amount of MDPV, a Schedule I controlled substance (by Final Order of
+       DEA, 76 Fed. Reg. 65371.
+
+       During his involvement in the conspiracy, the defendant regularly
+       associated with other members of the conspiracy at the Blackstone
+       Residence and elsewhere, including co-defendant Ryan Ellis, for the
+       purpose of distributing and facilitating the distribution of MDPV and
+       using the same. The defendant packaged MDPV at the Blackstone
+       Residence and distributed it to other members of the conspiracy who
+       were selling the drug. The defendant collected proceeds from the sale of
+       the drug. The defendant also traded or otherwise distributed MDPV to
+       other members of the conspiracy. The defendant communicated by
+       cellular telephone and met directly with other members of the
+       conspiracy to coordinate MDPV transactions. On November 10, 2011,
+       law enforcement conducted a bail search at the Blackstone Residence
+       and subsequently executed a search warrant at that location. As a
+       result, law enforcement seized a large quantity of MDPV and other
+       controlled substances, cash, drug records, and drug paraphernalia. The
+       defendant was arrested following the search.
+
+
+
+
+                                          14
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 15 of 46        PageID #: 1631
+
+
+
+ Gov’t’s Version of the Offense at 1-2 (ECF No. 371) (Prosecution Version).       Mr.
+
+ Ketchen’s counsel confirmed that he had reviewed the prosecution version, that he
+
+ was convinced the Government’s version of the offense could be proved, and that a
+
+ properly instructed jury could determine beyond a reasonable doubt that Mr. Ketchen
+
+ was guilty of each of the crimes to which he pleaded guilty. Tr. 15:10-16-7. Mr.
+
+ Ketchen confirmed that he had carefully reviewed the prosecution version,
+
+ understood it, had no disagreements with it, and that it was true to his own personal
+
+ knowledge. Id. 16:8-17:10. Upon final inquiry, the Court accepted Mr. Ketchen’s
+
+ guilty plea under Federal Rule of Criminal Procedure 11. Id. 20:22-21:9.
+
+       C.     The Presentence Investigation
+
+       The final Presentence Report (PSR) described Mr. Ketchen’s alleged unlawful
+
+ conduct in relevant part:
+
+       This case was investigated by the United States Department of Justice
+       Drug Enforcement Administration (DEA) and other law enforcement
+       agencies and commenced in early 2011. Authorities learned of a drug
+       trafficking organization, involving 3,4- Methylenedioxypyrovalerone
+       (MDPV), otherwise known as the synthetic drug “bath salts.” In general,
+       the defendant was one of the main dealers of MDPV in this conspiracy
+       who was also abusing the drug. The defendant obtained large quantities
+       of MDPV from various sources, including his primary source of supply;
+       Ryan Ellis. Ketchen, with the assistance of others, would process and
+       re-package the large quantities of MDPV and supply distribution size
+       quantities of MDPV to other members of the conspiracy for resale.
+
+       In 2011, the DEA obtained information from a source of information,
+       (herein SI-2) regarding the defendant’s involvement in the bath salts
+       conspiracy. According to SI-2, he was introduced to Ketchen in June or
+       July of 2011, at 10 Blackstone Street, Bangor, Maine, where Ketchen
+       was residing. Ketchen and co-conspirator Jamie Lewis introduced SI-2
+       to bath salts and he began obtaining bath salts from the defendant and
+       Lewis on a regular basis. SI-2 began distributing bath salts for Ketchen
+       and Lewis to support his own habit. SI-2 would purchase 10 grams of
+
+                                          15
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 16 of 46          PageID #: 1632
+
+
+
+       bath salts for $800 from Ketchen. Eventually, Ketchen introduced SI-2
+       to his source of supply, Ryan Ellis, and SI-2 began dealing directly with
+       Ellis. When SI-2 began working for Ellis, he stopped dealing for Ketchen
+       and Ellis paid Ketchen a $3,000 drug debt that SI-2 had “racked up.”
+       Although Ellis admitted he sold bath salts anywhere between $0 and
+       $50, the typical resale price in this conspiracy was $100 per gram of bath
+       salts. Therefore, following the rule of lenity, the Probation Office will
+       convert the $3,000 drug debt into drug quantity ($3,000 divided by $100,
+       equals 30 grams of bath salts). SI-2 advised Ketchen also sold Suboxone,
+       Xanax, Klonopin, and Ecstasy. On one occasion, SI-2 went with a co-
+       conspirator to pick up between 500 and 1,000 Xanax from Ketchen.
+       Following the rule of lenity, the Probation Office will hold the defendant
+       accountable for 500 Xanax 1 mg pills; the typical pill weight the
+       defendant sold. SI-2 walked in on a deal between Ketchen and Ellis,
+       where Ketchen gave Ellis approximately $5,000 for a large vacuum
+       sealed bag of bath salts. Although it is likely the defendant purchased
+       the bulk quantity of bath salts for reduced price; following the rule of
+       lenity, the Probation Office will use the aforementioned method for
+       converting cash into drug quantity ($5,000 divided by $100, equals 50
+       grams of bath salts). SI-2 further advised he witnessed SI-4 purchase 10
+       to 20 grams of bath salts from Ketchen on more than 50 occasions (10
+       multiplied by 50, equals 500 grams of bath salts). . . . SI-8 reported
+       Bryden took him to the Blackstone residence and fronted Ketchen one
+       ounce (28.3495 grams) of bath salts. To avoid double counting, the
+       Probation Office did not hold the defendant accountable for the one
+       ounce of bath salts fronted to him. SI-16 reported he would purchase
+       bath salts from the defendant for $30 per gram. SI-16 would purchase
+       10 grams of bath salts at a time, for an unknown period of time. . . . .
+
+       Grand Jury testimony and information obtained from confidential
+       sources, corroborates the following information. Ketchen and Ryan Ellis
+       were on the same level and considered to be the “biggest dealers of bath
+       salts.” In fact, Ellis advised he had four “main people,” naming Ketchen
+       as one of them. Ketchen resided at the aforementioned residence on
+       Blackstone Street in Bangor, Maine, and sold bath salts out of the
+       residence. Ketchen would receive shipments of bath salts at his
+       residence on behalf of Ellis. The defendant would order prescription pills
+       online and receive the shipments at his residence, as well as other
+       locations. With the assistance of others, Ketchen would process and re-
+       package the large quantities of bath salts and supply distribution size
+       quantities to other members of the conspiracy. The defendant’s primary
+       purpose of his residence was to store, package and sell drugs. The
+       defendant sold distribution quantities of bath salts to various customers
+       throughout the State of Maine; primarily out of his residence. Other co-
+
+                                          16
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 17 of 46          PageID #: 1633
+
+
+
+       conspirators would make deliveries on behalf of Ketchen. The defendant
+       would front his customers, with the expectation they would pay him
+       back, or he would also take cash or stolen property for payment for bath
+       salts.
+
+       On November 3, 2011, co-defendant April Kane was arrested by Veazie
+       Police Department, Veazie, Maine, for Violating Conditions of Bail and
+       Unlawful Trafficking in Bath Salts. A search of the vehicle revealed
+       various unlawful items, including, but not limited to 180.70 grams of
+       bath salts concealed inside of a speaker in the trunk. The bath salts were
+       placed inside of a subwoofer, which was then placed inside Kane’s
+       vehicle. SI-1 reported the bath salts Kane was caught with were
+       supplied by Ketchen, but really belonged to Ellis.
+
+       On November 4, 2011, Shayne Ellis was arrested by Brewer Police
+       Department for Aggravated Trafficking of Scheduled Drugs; Unlawful
+       Possession of Hydrocodone; and Unlawful Possession of Oxycodone. A
+       search of Shayne Ellis yielded various items. Other than the 32
+       Suboxone pills and 7 Suboxone strips he possessed, SI-1 indicated the
+       drugs located on Shayne Ellis were obtained from Ketchen. . . . .
+
+       On November 10, 2011, law enforcement conducted a bail search at the
+       defendant’s residence located on Blackstone Street in Bangor, Maine. A
+       search of Ketchen’s person revealed a Crown Royal bag containing
+       $1,335 in cash. A search of the defendant’s bedroom revealed cellular
+       telephones; Tupperware containers containing a confirmed total amount
+       of 122.5 grams of bath salts; digital scales; packaging material
+       consistent with bath salts distribution; various drug paraphernalia;
+       notebooks that contained what appeared to be drug records, as well as
+       websites and lists of chemical names; laptop computers; and a safe.
+       Ketchen denied ownership of the safe, or the combination to get into the
+       safe. The safe was subsequently seized to allow agents to apply for a
+       search warrant. On November 15, 2011, the search warrant was
+       authorized for the safe seized from Ketchen’s bedroom. Execution of the
+       search warrant revealed various items including, but not limited to:
+       documents and a medical wrist bracelet bearing the name “Alan
+       Ketchen;” a video recorder; an iPod Touch; 7 Oxycodone pills 5 mg (35
+       mg); 1 Oxycodone pill 15 mg; 7 Clonazepam (Klonopin) pills 0.5 mg; 40
+       Valium (Diazepam) pills 10 mg; 6 Xanax pills 1 mg; 15 Percocet
+       (Oxycodone) pills 10 mg (150 mg); $10,127 in cash; 988 grams of bath
+       salts. Some of the drugs were contained in bulk in plastic containers,
+       while some had been prepackaged in plastic bags bearing logos identical
+       to bags found in Ketchen’s bedroom on November 10, 2011. . . .
+
+
+
+                                          17
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 18 of 46          PageID #: 1634
+
+
+
+       In February 2012, SI-2 provided the DEA with information regarding
+       the contents of the notebooks seized from the defendant’s residence on
+       November 10, 2012, which contained buyer’s drug debts. SI-2 identified
+       the names listed next to the dollar amounts, which consisted of owed
+       drug debts. As previously mentioned, Ryan Ellis paid Ketchen for SI-2’s
+       $3,000 drug debt balance; therefore, the Probation Office did not
+       consider the debts listed for SI-2, as they have been previously
+       calculated into the drug quantity. . . .
+
+       It was later discovered that agents did not recover an additional
+       quantity of bath salts that were located in Ketchen’s residence. The
+       defendant called SI-1 from the Penobscot County Jail and advised him
+       of the missed drugs still at his apartment. Co-conspirators Daniel Hines
+       and Gina Nelson agreed to sell the unrecovered drugs. The drugs were
+       then transported to the Riverview Motel in Bangor for a short time,
+       before being transported to a storage unit in Old Town, Maine, rented
+       by Daniel Hines. On November 21, 2011, the remaining unrecovered
+       drugs were transported from the storage unit back to the room at
+       Riverview Motel. On November 22, 2011, the co-conspirators moved the
+       drugs to a local hotel in Brewer, Maine. On November 22, 2011, law
+       enforcement conducted surveillance on the local hotel, as the renter of
+       the hotel room was on bail conditions, including a search condition
+       without probable cause. Law enforcement observed a male, later
+       identified as Ryan Ellis, exit the hotel room under surveillance. Ellis
+       placed a bag in the trunk of a vehicle and drove off. The vehicle operated
+       by Ellis was subsequently stopped by Brewer Police Department. A
+       search of the vehicle revealed, among many other things, 313.1 grams of
+       bath salts in vacuum sealed bags. The bags of bath salts were located in
+       the backpack that Ellis was observed placing in the trunk, prior to
+       leaving the hotel room. Law enforcement subsequently conducted a bail
+       search at the hotel room and located various drug-related items,
+       including 85.4 grams of bath salts; 0.58 ounces of marijuana; $3,469
+       cash (34.69 grams of bath salts); 197 Xanax; 44 Klonopin (Clonazepam);
+       7 Suboxone; 6 Methadone; 7 Vicodin (hydrocodone bitartrate and
+       acetaminophen); 17 Oxycodone; and 1 OxyContin (Oxycodone).
+       Subsequent to the arrest, SI-1 reported Ellis arrived at the hotel room
+       in Brewer to pick up the (unrecovered) bath salts. SI-1 indicated Ellis
+       took the drugs, but left some behind at the hotel room; a smaller portion
+       of approximately one ounce as a “gift” and a larger portion to give to a
+       co-conspirator for distribution. . . .
+
+       In 2011, the DEA obtained information from SI-3 who indicated he
+       would purchase 1,000 or more Xanax pills and 45-50 Suboxone from
+       Ketchen at one time. SI-1 indicated he purchased the following drugs
+
+                                          18
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 19 of 46                         PageID #: 1635
+
+
+
+         from Ketchen: approximately 333 Xanax on six or eight occasions (1,998
+         Xanax); 20 to 30 Oxycodone 5 mg pills; and 20 to 40 Klonopin. SI-1
+         reported he had seen Ketchen with as many as 1000 Xanax pills at one
+         time. SI-34 advised that Ketchen was one of his main suppliers. . . .
+
+         In 2013, SI-11 informed the DEA that from May to November of 2011,
+         he was getting one ounce of bath salts one-to-two times per week. . . . SI-
+         14 reported that every time he was at Ketchen’s residence, he saw a
+         huge “pile” of bath salts, estimated to be approximately 40 grams. On
+         four occasions, SI-14 witnessed Ellis drop a “brick” of bath salts off at
+         the defendant’s residence. Each brick was reported to be 12 inches in
+         length. . . .
+
+ PSR ¶¶ 4-13.1 Mr. Ketchen also offered a written acknowledgment of his guilt and
+
+ an apology for his actions for which he pleaded guilty:
+
+         My name is Alan Ketchen and I am 41 years old. I have a lengthy drug
+         history. I have been able to work through it in the past and still function
+         for quite some time but not without consequence. With regard to the
+         instant criminal offense, I am so sorry for the harm I have done to
+         myself, my girlfriend Gina Nelson, my baby, my family, the community,
+         other drug addicted people involved, public safety and the court. Back
+         in December 2010 I was turned onto a drug called bath salts “MDPV” by
+         a longtime drug addict so called friend Jamie Lewis. It was a rave drug.
+         People do certain drugs to stay up all night and go partying all night,
+         dance, have sex or whatever. Looking back the addiction was horrible. I
+         started using it and increased the use to astronomical proportion.
+         Eventually, in March or April 2011 I was introduced to Jamie Lewis’
+         dealer Ryan Ellis who would sell some to me so that I could use more
+         and sell to other people. I was told that they were synthetic research
+         chemicals that were legal by Jamie and Ryan. This drug was supposed
+         to be so legal that you could get it at the head shop and at the truck
+         stops. That they could get it off the internet. That’s what Jamie and
+         Ryan told me. From that point on, I could not seem to stop using the
+         drugs and increased my use and my sale. At some point I became aware
+         that I was selling and using an illegal drug. I was out of control. Ryan
+         would provide me with more and more drugs and more and more money
+         and I would just use more and more. I started selling MDPV out of my
+         apartment and was clear that the laws changed or at least my perception
+         of the law changed. I was not just selling a legal synthetic chemical, I
+
+ 1       Mr. Ketchen originally made factual objections to portions of paragraphs 5, 8, 10, 11, and 13
+ of the PSR but later withdrew those objections. Gov’t’s Opp’n at 4 n.2; Gov’t’s Mem. in Aid of Sentencing
+ at 9 (ECF No. 595).
+
+                                                    19
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 20 of 46           PageID #: 1636
+
+
+
+       was selling an illegal drug and using an illegal substance. I was being
+       supplied an illegal drug, selling an illegal drug and getting enough to
+       use in return. That was my reward because I was in the wrong state of
+       mind not thinking of the consequences but being a super drug addict.
+       Instead of making much money from my sales, I was increasing my drug
+       usage and buying paraphernalia. I was sending all or most of the money
+       back to Ryan, day to day it became a real happening for me to use. A
+       real social event every day, but what a false reality. On November 10,
+       2011, when police came to my house, I was as high as a drug addict could
+       be and had several hundred grams of drugs and several dollars of money
+       to give back to Ryan, my drug dealer. At that time, I was arrested and I
+       stopped using and selling MDPV. Now I have to serve my time in federal
+       prison. I am sorry for those activities and once again apologize to the
+       court. I have been in jail from November 10, 2011 to January 18, 2012.
+       Several months later, August 6, 2013, I was arrested on these federal
+       charges for those acts and admit the violation and place myself on the
+       mercy of the court.
+
+ PSR ¶ 18.
+
+       D.     The Statutory Backdrop
+
+              1.     Chapter 13 of Title 21; Drug Abuse Prevention and
+                     Control
+
+       In the indictment, the Government charged Mr. Ketchen with violating 21
+
+ U.S.C. § 841(a)(1), which makes illegal the knowing or intentional distribution or
+
+ possession with the intent to distribute certain controlled substances.           More
+
+ specifically, the Government charged Mr. Ketchen with violating § 841(b)(1)(C), a
+
+ provision that refers to “controlled substances in schedule I or II.” See 21 U.S.C. §
+
+ 841(b)(1)(C). Similarly, in § 802(6), the law defines “controlled substance” to mean “a
+
+ drug or other substance, or immediate precursor, included in schedule I, II, III, IV, or
+
+ V of part B of this subchapter.” 21 U.S.C. § 802(6). The law grants the Attorney
+
+ General of the United States the authority to add or remove drugs from a schedule
+
+ after opportunity for a hearing. 21 U.S.C. § 811(a).
+
+                                           20
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 21 of 46           PageID #: 1637
+
+
+
+       Effective October 21, 2011, the Administrator of the Drug Enforcement
+
+ Administration listed MDPV as a schedule I controlled substance:
+
+       SUMMARY: The Administrator of the Drug Enforcement
+       Administration (DEA) is issuing this final order to temporarily schedule
+       three synthetic cathinones under the Controlled Substances Act (CSA)
+       pursuant to the temporary scheduling provisions of 21 U.S.C. 811(h).
+       The substances are 4-methyl-N-methylcathinone (mephedrone), 3,4-
+       methylenedioxy-N-methylcathinone           (methylone),     and        3,4-
+       methylenedioxypyrovalerone (MDPV). This action is based on a finding
+       by the Administrator that the placement of these synthetic cathinones
+       and their salts, isomers, and salts of isomers into Schedule I of the CSA
+       is necessary to avoid an imminent hazard to the public safety. As a
+       result of this order, the full effect of the CSA and its implementing
+       regulations including criminal, civil and administrative penalties,
+       sanctions and regulatory controls of Schedule I substances will be
+       imposed on the manufacture, distribution, possession, importation, and
+       exportation of these synthetic cathinones.
+
+ Schedules of Controlled Substances: Temporary Placement of Three Synthetic
+
+ Cathinones Into Schedule I, 76 Fed. Reg. 65371-01 (Oct. 11, 2011). The October 11,
+
+ 2011 DEA order clarified that for purposes of criminal liability, the effective date was
+
+ October 21, 2011. Id.
+
+              2.     The Controlled Substance Analogue Enforcement Act of
+                     1986
+
+       Congress enacted the Controlled Substance Analogue Enforcement Act of 1986
+
+ (the Analogue Act) “to prevent ‘underground chemists’ from creating new drugs that
+
+ have similar effects on the human body as drugs explicitly prohibited under the
+
+ federal drug laws.” United States v. Ketchen, 1:13-cr-00133-JAW, 2015 U.S. Dist.
+
+ LEXIS 75689, at *17 (D. Me. June 11, 2015) (quoting United States v. McFadden, 753
+
+ F.3d 432, 436 (4th Cir. 2014), vacated and remanded, 135 S. Ct. 1039 (2015)); United
+
+ States v. Hodge, 321 F.3d 429, 437 (3d Cir. 2003) (purpose of the Analogue Act is to
+
+                                           21
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 22 of 46                  PageID #: 1638
+
+
+
+ “make illegal the production of designer drugs and other chemical variants of listed
+
+ controlled substances that otherwise would escape the reach of the drug laws”). The
+
+ Analogue Act provides:
+
+        A controlled substance analogue shall, to the extent intended for human
+        consumption, be treated, for the purposes of any Federal law as a
+        controlled substance in schedule I.
+
+ 21 U.S.C. § 813. Except as provided in subparagraph (C) of § 802(32),2 the term
+
+ “controlled substance analogue” means a substance:
+
+        (i) the chemical structure of which is substantially similar to the
+        chemical structure of a controlled substance in schedule I or II;
+        (ii) which has a stimulant, depressant, or hallucinogenic effect on the
+        central nervous system that is substantially similar to or greater than
+        the stimulant, depressant, or hallucinogenic effect on the central
+        nervous system of a controlled substance in schedule I or II; or
+        (iii) with respect to a particular person, which such person represents or
+        intends to have a stimulant, depressant, or hallucinogenic effect on the
+        central nervous system that is substantially similar to or greater than
+        the stimulant, depressant, or hallucinogenic effect on the central
+        nervous system of a controlled substance in schedule I or II.
+ 21 U.S.C. § 802(32)(A).       These provisions require the Government prove three
+
+ elements: “(1) substantial chemical similarity between the analogue and the
+
+ controlled substance (the chemical structure element)”; “(2) substantially similar
+
+ actual, intended, or represented physiological effects on the central nervous system
+
+ (the pharmacological similarity element)”; and, “(3) intent that the substance be
+
+ consumed by humans (the human consumption element).” Ketchen, 2015 U.S. Dist.
+
+
+
+
+ 2       The exceptions in subparagraph C are not relevant to the issues before the Court. See 21
+ U.S.C. § 802(32)(C).
+
+                                               22
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 23 of 46           PageID #: 1639
+
+
+
+ LEXIS 75689, at *18 (citing 21 U.S.C. § 813; McFadden, 753 F.3d at 436; United
+
+ States v. Klecker, 348 F.3d 69, 71 (4th Cir. 2003)).
+
+       E.     McFadden and its Progeny
+
+       In McFadden, the Supreme Court held that in order to prove an Analogue Act
+
+ violation the government must establish that the defendant knew he was dealing
+
+ with a “controlled substance.” 135 S. Ct. at 2302. The McFadden Court noted that
+
+ “[t]he Analogue Act requires a controlled substance analogue, if intended for human
+
+ consumption, to be treated ‘as a controlled substance in schedule I’ for purposes of
+
+ federal law.” Id. at 2303 (quoting 21 U.S.C. § 813). Accordingly, the Supreme Court
+
+ turned to the mens rea requirement of the CSA, which makes it “unlawful for any
+
+ person knowingly or intentionally . . . to manufacture, distribute, dispense, or possess
+
+ with intent to manufacture, distribute, or dispense, a controlled substance.” Id.
+
+ (quoting 21 U.S.C. § 841(a)(1)).     Thus, as the Analogue Act requires controlled
+
+ substance analogues to be treated as controlled substances, the Supreme Court
+
+ concluded that pursuant to § 841, “the Government must prove that a defendant
+
+ knew that the substance with which he was dealing was ‘a controlled substance,’ even
+
+ in prosecutions involving an analogue.” Id. at 2305.
+
+       As for the knowledge requirement, the McFadden Court clarified that under §
+
+ 841 a defendant need know “only that the substance he is dealing with is some
+
+ unspecified substance listed on the federal drug schedules.”        Id. at 2304.    The
+
+ Supreme Court held that this can be established in two ways. First, knowledge “can
+
+ be established by evidence that a defendant knew that the substance with which he
+
+
+
+                                            23
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 24 of 46          PageID #: 1640
+
+
+
+ was dealing is some controlled substance—that is, one actually listed on the federal
+
+ drug schedules or treated as such by operation of the Analogue Act—regardless of
+
+ whether he knew the particular identity of the substance.” Id. at 2305. Second,
+
+ knowledge can be established “by evidence that the defendant knew the specific
+
+ analogue he was dealing with, even if he did not know its legal status as an analogue.”
+
+ Id. To establish knowledge under this second approach, the government must show
+
+ that the defendant knew that the substance: (1) has a chemical structure
+
+ “substantially similar to the chemical structure of a controlled substance in schedule
+
+ I or II”; (2) has a “‘stimulant, depressant, or hallucinogenic effect on the central
+
+ nervous system that is substantially similar to or greater than’ the effect of a
+
+ controlled substance in schedule I or II”; and (3) that the defendant “represented or
+
+ intended the substance to have that effect with respect to a particular person.” Id.
+
+ (quoting § 802(32)(A)); see also Section III(D)(2), supra. The Supreme Court
+
+ underscored that:
+
+       [a] defendant who possesses a substance with knowledge of those
+       features knows all of the facts that make his conduct illegal, just as a
+       defendant who knows he possesses heroin knows all of the facts that
+       make his conduct illegal. A defendant need not know of the existence of
+       the Analogue Act to know that he was dealing with ‘a controlled
+       substance.’
+
+ Id.
+
+       Additionally, the Supreme Court noted that “as with most mens rea
+
+ requirements, the Government can prove the requisite mental state through either
+
+ direct evidence or circumstantial evidence,” and that “[d]irect evidence could include,
+
+ for example, past arrests that put a defendant on notice of the controlled status of a
+
+                                           24
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 25 of 46            PageID #: 1641
+
+
+
+ substance,” while “[c]ircumstantial evidence could include, for example, a defendant's
+
+ concealment of his activities, evasive behavior with respect to law enforcement,
+
+ knowledge that a particular substance produces a ‘high’ similar to that produced by
+
+ controlled substances, and knowledge that a particular substance is subject to seizure
+
+ at customs.”      Id. at 2304 n.1 (citations omitted).      The Court clarified that
+
+ circumstantial evidence can be used to show that a defendant knew that a substance
+
+ was controlled under the CSA or by operation of the Analogue Act. Id. at 2306 n.3.
+
+       The First Circuit has yet to address McFadden and its mens rea requirements.
+
+ The Eighth Circuit has done so twice. See United States v. Carlson, 810 F.3d 544 (8th
+
+ Cir. 2016); United States v. Ramos, Nos. 15–1592, 15–1602, 2016 WL 497167 (8th Cir.
+
+ Feb. 23, 2016).    In Carlson, the Eighth Circuit upheld the district court’s jury
+
+ instructions regarding the second way to establish knowledge under McFadden (e.g.,
+
+ by evidence that the defendant knew the specific analogue he was dealing with, even
+
+ if he did not know its legal status as an analogue). 810 F.3d at 552. Specifically, the
+
+ district court instructed the jury that if “the government has proved beyond a
+
+ reasonable doubt that the defendant knew facts that satisfy part 2 of the test . . .
+
+ [similar nervous system effects], that is evidence from which you may, but are not
+
+ required to, find or infer that the defendant knew facts that satisfy part 1 of the test
+
+ . . . [similar chemical structure].” Id. at 551. The Carlson Court identified this as the
+
+ “Turcotte inference,” referring to the Seventh Circuit’s decision in United States v.
+
+ Turcotte, 405 F.3d 515 (7th Cir. 2005), which held that if the “scienter requirement is
+
+ met with regard to the second part of the analogue definition (knowledge or
+
+
+
+                                            25
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 26 of 46                          PageID #: 1642
+
+
+
+ representation of similar physiological effects), the jury is permitted—but not
+
+ required—to infer that the defendant also had knowledge of the relevant chemical
+
+ similarities.” Carlson, 810 F.3d at 551 (quoting Turcotte, 405 F.3d at 527). The
+
+ Seventh Circuit found that without such a permissive inference, it may be “extremely
+
+ difficult” and “a significant prosecutorial burden” to prove to a jury that a defendant
+
+ knew about the chemical structure of a substance.3 Id. The Carlson Court concluded
+
+ that:
+
+         [a]lthough evidence of a defendant's knowledge that a particular
+         substance has a pharmacological effect similar to that produced by a
+         controlled substance is ambiguous proof of scienter by itself, it may be
+         probative of the defendant's knowledge of chemical structure when
+         considered in the context provided by other evidence. . . . In order,
+         therefore, to instruct a jury properly and consistently with the footnotes
+         in McFadden, the trial court may instruct that knowledge of similar
+         pharmacological effect may be considered as circumstantial evidence,
+
+ 3       The Seventh Circuit explained:
+
+         The question of similar chemical structure is particularly nettlesome since, even if such
+         chemical similarities exist, and even if the defendant is aware of these similarities, the
+         intricacies of chemical science may render it extremely difficult to prove that a
+         defendant had such knowledge. As a provisional remedy for this problem, we prescribe
+         that, in such cases, if the scienter requirement is met with regard to the second part of
+         the analogue definition (knowledge or representation of similar physiological effects),
+         the jury is permitted—but not required—to infer that the defendant also had
+         knowledge of the relevant chemical similarities. This approach is justified since, as a
+         practical matter, defendants who know or represent to others that the substance in
+         question has physiological effects similar to a controlled substance are likely to be
+         aware of basic chemical similarities as well, even if that fact is difficult to prove
+         conclusively.
+
+         This approach also dovetails with the commonsense recognition that, in selling or
+         purchasing such substances, all parties to the transaction are primarily interested
+         (perhaps solely interested) in the substance's physiological effects. Yet at the same
+         time, if the defendant truly had no knowledge of the substance's chemical character,
+         or if, under the circumstances, chemical complexities make such knowledge extremely
+         unlikely, an avenue should be left open for defendants to refute such an inference. In
+         any case, our well-established jurisprudence regarding the scienter requirements of
+         controlled substances violations require that juries confront these questions of
+         knowledge squarely.
+
+ Turcotte, 405 F.3d at 527-28.
+
+                                                    26
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 27 of 46                       PageID #: 1643
+
+
+
+        along with the other evidence, in deciding whether the evidence as a
+        whole proved knowledge of similar chemical structure beyond a
+        reasonable doubt.
+
+ Id. at 552-53 (citations omitted).         See also Ramos, 2016 WL 497167, at *5 (the
+
+ Government need not present direct evidence of the defendant’s knowledge of the
+
+ analogue’s nature and effects, and could instead “satisfy its burden through
+
+ circumstantial evidence of knowledge”) (citing McFadden, 135 S. Ct. at 2304 n.1).
+
+        Taking a contrary position to the Seventh and Eighth Circuits, the Tenth
+
+ Circuit rejected the “Turcotte inference” and its application to McFadden.4 United
+
+ States v. Makkar, 810 F.3d 1139, 1144-45 (10th Cir. 2015).
+
+ IV.    DISCUSSION
+
+        A.      A Hybrid Indictment and Guilty Plea
+
+        An unusual aspect of Mr. Ketchen’s indictment and guilty pleas is that both
+
+ Count One and Count Three allege violations of two different statutes: the Controlled
+
+ Substance Act and the Analogue Act. Indictment at 1-5. When the DEA issued its
+
+ final order designating MDPV as a schedule I controlled substance on October 21,
+
+
+
+
+ 4
+
+        And the plain language of the statute underscores and confirms what McFadden
+        clearly explained. As written, the Analogue Act makes it a crime to possess or
+        distribute a drug that both (1) is substantially similar in chemical structure to a
+        schedule I or II CSA controlled substance, and (2) has, or is represented or intended to
+        have, an effect on the central nervous system that is substantially similar to that of a
+        schedule I or II CSA controlled substance. Both elements are essential to a conviction
+        and the government offers no sensible way or reason why a mens rea requirement
+        applied to the statute might take an olympian leap over the first essential element and
+        touch down only on the second. Neither can we discern for ourselves any plausible
+        argument along these lines.
+
+ Makkar, 810 F.3d at 1146 (emphasis in original).
+
+                                                    27
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 28 of 46         PageID #: 1644
+
+
+
+ 2011, conduct that violated the Analogue Act transmogrified into a Controlled
+
+ Substances Act violation.
+
+       Even though Mr. Ketchen now argues that the Supreme Court’s McFadden
+
+ decision casts a pall over his entire guilty plea, during his Rule 11 hearing, Mr.
+
+ Ketchen expressly admitted violating the Controlled Substances Act as well as the
+
+ Analogue Act; significantly, the McFadden decision deals only with the Analogue Act,
+
+ not the Controlled Substances Act. See United States v. Tuttle, No. 15-158-cr, 2016
+
+ U. S. App. LEXIS 7189, *4 (2d Cir. Apr. 21, 2016) (McFadden is “inapposite” to a
+
+ Controlled Substances Act violation).
+
+       Furthermore, unlike the standards in McFadden for Analogue Act cases, for
+
+ Controlled Substance Act cases, the Government “need not have proved beyond a
+
+ reasonable doubt . . . that [the defendants] knew or were willfully blind to the fact
+
+ that the controlled substance was [a particular controlled substance] specifically.”
+
+ United States v. Valbrun, 2:14-cr-00069-JDL-9, 2016 U.S. Dist. LEXIS 6871, *3 (D.
+
+ Me. Jan. 15, 2016) (quoting United States v. Perez-Melendez, 599 F.3d 31, 41 (1st Cir.
+
+ 2010)) (emphasis in original). Under the Controlled Substances Act, the Government
+
+ need only prove beyond a reasonable doubt that the defendant knew he was in
+
+ possession of a controlled substance, not a specific controlled substance. McFadden,
+
+ 135 S. Ct. at 2304 (“The ordinary meaning of § 841(a)(1) thus requires a defendant to
+
+ know only that the substance he is dealing with is some unspecified substance listed
+
+ on the federal drug schedules”); Perez-Melendez, 599 F.3d at 41. Applying these
+
+ principles to Government’s Version of the Offense in this case, the facts Mr. Ketchen
+
+
+
+                                          28
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 29 of 46          PageID #: 1645
+
+
+
+ admitted were true at the Rule 11 are sufficient under the Controlled Substances Act
+
+ to establish a violation of those parts of Counts One and Three that allege Controlled
+
+ Substances Act violations.
+
+       This leaves Mr. Ketchen is an unusual position. He has not begun to state a
+
+ colorable claim that he is not guilty of violating those portions of Counts One and
+
+ Three that allege he violated the Controlled Substances Act. Accordingly, for that
+
+ reason alone, his attempt to withdraw his guilty pleas to both counts in their entirety
+
+ is without even a plausible foundation. His sole conceivable argument relates to the
+
+ period of time before October 21, 2011, when the Analogue Act applied.
+
+       But once his criminal responsibility under the Controlled Substances Act is
+
+ established, how to treat his pre-October 21, 2011 activity becomes solely a
+
+ sentencing issue. Whether or not his possession of MDPV before October 21, 2011
+
+ should be deemed part of his drug quantity for the offense of conviction under United
+
+ States Sentencing Guideline (U.S.S.G.) § 2D1.1(a)(5) – part of his drug quantity for
+
+ relevant conduct under U.S.S.G. § 1B1.3 – is a sentencing issue. However this issue
+
+ might be resolved at sentencing, it does not justify his motion to withdraw his guilty
+
+ pleas in their entirety.
+
+       Despite the fundamental flaw in his motion to withdraw his guilty plea, the
+
+ Court has analyzed his contentions under the traditional analytic pathway and in
+
+ doing so, the Court has concluded that the result is the same.
+
+
+
+
+                                           29
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 30 of 46         PageID #: 1646
+
+
+
+       B.     Withdrawal of a Guilty Plea
+
+        “It is common ground that a defendant has no absolute right to withdraw a
+
+ guilty plea.” United States v. Caramadre, 807 F.3d 359, 366 (1st Cir. 2015). “When
+
+ a defendant moves to withdraw a guilty plea after the court has accepted it but before
+
+ the court has sentenced him, he may do so only if he ‘can show a fair and just reason
+
+ for requesting the withdrawal.’” Id. (quoting FED. R. CRIM. P. 11(d)(2)(B)); United
+
+ States v. Gates, 709 F.3d 58, 69 (1st Cir. 2013). “The burden rests with the defendant
+
+ to make this showing.” Caramadre, 807 F.3d at 366; United States v. Marrero–
+
+ Rivera, 124 F.3d 342, 347 (1st Cir. 1997).
+
+       In determining whether a defendant carries his burden, “an inquiring court
+
+ must consider the totality of the circumstances.” United State v. Merritt, 755 F.3d 6,
+
+ 9 (1st Cir. 2014).
+
+       This inquiry often gives particular weight to four factors. A typical
+       starting point is to ascertain whether the plea was voluntary,
+       intelligent, and informed when tendered. . . . From that starting point,
+       the inquiry customarily should expand to factors such as the strength of
+       the reasons proffered by the defendant as a basis for withdrawing his
+       plea, the timing of the motion, and the force of any assertion of legal
+       innocence.
+
+ Id. (internal citations and punctuation omitted). “If the court concludes that the
+
+ balance of all the relevant factors tilts in favor of the defendant, then—and only
+
+ then—should the court proceed to factor in the prejudice (if any) that the government
+
+ would suffer were the court to allow the motion to withdraw.” Id. Furthermore, the
+
+ Supreme Court explained:
+
+       [w]ere withdrawal automatic in every case where the defendant decided
+       to alter his tactics and present his theory of the case to the jury, the
+
+                                          30
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 31 of 46         PageID #: 1647
+
+
+
+       guilty plea would become a mere gesture, a temporary and meaningless
+       formality reversible at the defendant’s whim. In fact, however, a guilty
+       plea is no such trifle, but a ‘grave and solemn act,’ which is ‘accepted
+       only with care and discernment.’
+
+ United States v. Hyde, 520 U.S. 670, 677 (1997) (internal citations omitted).
+
+              1.     Knowing, Intelligent, and Voluntary
+
+       “Critical to the plea-withdrawal inquiry is whether the original guilty plea was
+
+ knowing, intelligent, and voluntary.” Caramadre, 807 F.3d at 366. “To make this
+
+ assessment, courts review the Rule 11 hearing to determine whether the ‘court
+
+ adequately observed the formalities imposed by Rule 11, which are intended to assure
+
+ that the defendant understands the charge and the consequences of the plea.’” United
+
+ States v. Forest, No.CR-08-155-B-W, 2010 WL 2399554, at *5 (D. Me. June 11, 2010)
+
+ (quoting United States v. Padilla-Galarza, 351 F.3d 594, 597 (1st Cir. 2003)). Rule
+
+ 11(b) sets forth the district court’s obligation to advise and question the defendant.
+
+ FED. R. CRIM. P. 11(b). “Strict compliance with Rule 11 is ‘quite often dispositive in
+
+ determining whether a defendant has knowingly and voluntarily entered a guilty
+
+ plea.’” Forest, 2010 WL 2399554, at *5 (quoting United States v. Austin, 948 F.2d
+
+ 783, 787 (1st Cir. 1991)).
+
+       Mr. Ketchen’s motion to withdraw guilty plea centers on whether his plea was
+
+ made “knowingly.” Citing the Ninth Circuit’s decision in Bigman, 906 F.2d at 394,
+
+ he argues “[d]ue process requires that a defendant be apprised of the nature of the
+
+ charges, including the element of intent,” Def.’s Reply at 5, and asserts that under
+
+ the mens rea requirements set forth in McFadden that the Government failed to show
+
+ in its indictment – and the Court failed to address in the Rule 11 proceeding – that
+
+                                          31
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 32 of 46            PageID #: 1648
+
+
+
+ Mr. Ketchen knew that MDPV was a controlled substance analogue prior to October
+
+ 21, 2011. Id.
+
+                    a.     The Controlled Substance Act Portion of Counts
+                           One and Three
+
+       As the Court has pointed out, Mr. Ketchen’s argument does not address his
+
+ guilty pleas to the charges in the Controlled Substances Act portion of Counts One
+
+ and Three because there is no requirement under the Controlled Substances Act that
+
+ the Government prove that Mr. Ketchen actually knew that the substance he
+
+ possessed for distribution was MDPV, only that he knew it was a controlled
+
+ substance.
+
+       Regarding the Controlled Substances Act part of Counts One and Three, the
+
+ indictment charged in Count One:
+
+       Beginning on a date unknown, but no later than April 1, 2011 and
+       continuing until a date unknown, but no earlier than December 31,
+       2011, in the District of Maine and elsewhere, defendants . . . knowingly
+       and intentionally conspired with one another and with persons known
+       and unknown to commit offenses against the United States, namely
+       distribution and possession with intent to distribute . . . (2) from October
+       21, 2011 until a date unknown, but no earlier than December 31, 2011,
+       a mixture or substance containing a detectable amount of MDPV, a
+       Schedule I controlled substance (by Final Order of DEA, 76 Fed. Reg.
+       65371 . . . .
+
+ Indictment at 2-3 (emphasis added). Similar language appears in Count Three. Id.
+
+ at 4-5.
+
+       During the Rule 11 proceeding, the Court read Counts One and Three of the
+
+ Indictment to Mr. Ketchen and he confirmed that he understood them. Tr. 9:1-25.
+
+ The Rule 11 colloquy also complied with all requirements of the Rule. See FED. R.
+
+
+
+                                           32
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 33 of 46         PageID #: 1649
+
+
+
+ CRIM. P. 11(b)(1)-(3). In short, Mr. Ketchen has no claim that he did not knowingly,
+
+ intelligently and voluntarily enter a plea of guilty to the portions of Counts One and
+
+ Three that alleged violations of the Controlled Substances Act.
+
+                    b.     The Analogue Act Portions of Counts One and
+                           Three
+
+       Regarding the Analogue Act portions of Counts One and Three, Mr. Ketchen’s
+
+ singular complaint about the Rule 11 proceeding is that the Court failed to anticipate
+
+ the Supreme Court’s McFadden decision by asking him not only whether he
+
+ knowingly and intentionally conspired to distribute MDPV, but also whether he knew
+
+ that the substance with which he had been dealing was in fact a controlled substance.
+
+ In other words, although Mr. Ketchen concedes that the Court asked him whether he
+
+ knowingly and intentionally conspired to distribute MDPV, he complains that the
+
+ Court did not ask him whether he knew that MDPV was a controlled substance. Def.’s
+
+ Mot. at 3 (“[T]here was no inquiry as to whether the government was required to
+
+ establish beyond a reasonable doubt that the defendant knew he was dealing with a
+
+ substance before October 21, 2011 regulated by the Analogue Act”).
+
+       First, Mr. Ketchen is factually incorrect. The McFadden Court explained that
+
+ the “Government must prove that a defendant knew that the substance with which
+
+ he was dealing was ‘a controlled substance,’ even in prosecutions involving an
+
+ analogue.” McFadden, 135 S. Ct. at 2305. At his Rule 11 proceeding, the Court
+
+ expressly asked Mr. Ketchen that very question. Mr. Ketchen represented to the
+
+ Court that he was pleading guilty to Counts One and Three because he was actually
+
+
+
+
+                                          33
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 34 of 46        PageID #: 1650
+
+
+
+ guilty of those crimes and for no other reason. Tr. 7:24-8:5. The Court read Counts
+
+ One and Three:
+
+       Count 1 alleges that beginning on a date unknown, but no later than
+       April 1, 2011, and continuing until a date unknown, but no earlier than
+       December 31, 2011, in the District of Maine, which means the state of
+       Maine, you and a number of other individuals knowingly and
+       intentionally conspired with one another to commit an offense against
+       the United States, namely, the distribution of MDPV, a controlled
+       substance. . . .
+
+       Now, Count 3 of the indictment alleges that beginning on a date
+       unknown, but no later than April 1, 2011, and continuing until
+       December 31, 2011, in the District of Maine, which, again, means the
+       state of Maine, you knowingly leased, rented, used, and maintained,
+       permanently or temporarily, a residence located at 10 Blackstone Street,
+       Bangor, Maine, for the purpose of unlawfully distributing and using the
+       premises to distribute MDPV, again, a controlled substance, in violation
+       of federal criminal law.
+
+ Tr. 9:1-25 (emphasis added). Asked whether he understood the charges in Counts
+
+ One and Three, Mr. Ketchen responded that he did. Id. Thus the Court directly
+
+ asked Mr. Ketchen whether he understood that the indictment was alleging that the
+
+ drug he was distributing, MDPV, was “a controlled substance.” He confirmed that he
+
+ understood. This is precisely what McFadden requires. McFadden, 135 S. Ct. at
+
+ 2305 (“[T]he Government must prove that a defendant knew that the substance with
+
+ which he was dealing was ‘a controlled substance’”).
+
+       Any possible confusion would have been cleared up by the Government’s
+
+ Version of the Offense in this case. Prosecution Version at 1-3. The Government’s
+
+ Version expressly states that “[b]etween approximately April 1, 2011 and December
+
+ 31, 2011, in Penobscot County, Maine and elsewhere, there existed a conspiracy to
+
+ possess with intent to distribute and distribute (1) prior to October 21, 2011, a
+
+                                          34
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 35 of 46           PageID #: 1651
+
+
+
+ mixture or substance containing a detectable amount of MDPV, a controlled
+
+ substance analogue as defined in Title 21, United States Code, Section 802(32) . . . .”
+
+ Id. at 1. The Government’s Version states that “[d]uring its existence, the defendant
+
+ knowingly and intentionally joined and participated in the conspiracy.” Id.
+
+       As the McFadden opinion notes, subsection 32 of section 2 of title 21 defines “a
+
+ controlled substance analogue by its features,” including its chemical structure and
+
+ its effect on the central nervous system, and “[a] defendant who possesses a substance
+
+ with knowledge of those features knows all of the facts that make his conduct illegal.”
+
+ McFadden, 135 S. Ct. at 2305. The McFadden Court wrote that “[a] defendant need
+
+ not know of the existence of the Analogue Act to know that he was dealing with ‘a
+
+ controlled substance.’” Id.
+
+       It is true that the Government’s Version in this case does not spell out the exact
+
+ features of MDPV that correspond to the statutory requirements of subsection 32.
+
+ But Mr. Ketchen was represented by counsel and the Court expressly asked Mr.
+
+ Ketchen whether he had had enough time to discuss the charges with his attorney
+
+ and whether his attorney had “explained to you the elements and the nature of the
+
+ offenses charged.” Tr. 8:16-18. Mr. Ketchen confirmed that he had had enough time
+
+ to consult with his lawyer and that his lawyer had explained the elements and nature
+
+ of the offenses charged. Id.
+
+       Specifically regarding the Government’s Version, the Court closely questioned
+
+ both Mr. Ketchen and his counsel. Mr. Ketchen’s attorney confirmed that he was
+
+ satisfied that “the government’s version of the offense can be proved,” id. 15:10-20,
+
+
+
+                                           35
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 36 of 46           PageID #: 1652
+
+
+
+ and that the “admissible part of that evidence would permit a properly instructed
+
+ jury to determine beyond a reasonable doubt that [his] client is guilty of the crimes
+
+ to which he is pleading guilty.” Id. 15:3-7. Mr. Ketchen also confirmed that he
+
+ understood the Government’s Version was an important document, that he had
+
+ carefully read it, and, after being warned by the Court that he had to tell the truth,
+
+ Mr. Ketchen confirmed that the contents of the Government’s Version were true and
+
+ that he did not disagree in any way with the Government’s Version of the offense. Id.
+
+ 16:8-17:10.
+
+       Mr. Ketchen must be held to what he represented to the Court at the time of
+
+ the Rule 11 hearing. United States v. Dunfee, No. 15-1031, 2016 U.S. App. LEXIS
+
+ 7948, *12 (1st Cir. May 2, 2016); United States v. Gates, 709 F.3d 58, 69 (1st Cir.
+
+ 2013) (“A defendant is normally bound by the representations that he himself makes
+
+ in open court at the time of his plea”); United States v. Padilla-Galarza, 351 F.3d 594,
+
+ 598 (1st Cir. 2003). Mr. Ketchen takes nothing from the fact that the Government’s
+
+ Version used a statutory reference, thereby incorporating the more elaborate
+
+ statutory definition.   If he had questions about the meaning of the statutory
+
+ reference, this is why he had a lawyer, and if he was at all confused, he had a right
+
+ to clarify matters
+
+       Moreover, the contents of the PSR in this case corroborate his guilt not only of
+
+ the Controlled Substances Act portions of Counts One and Three, but also the
+
+ Analogue Act portions of those Counts. In his own words set forth in the PSR, Mr.
+
+ Ketchen admitted he was “turned onto a drug called bath salts ‘MDPV’ by a longtime
+
+
+
+                                           36
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 37 of 46            PageID #: 1653
+
+
+
+ drug addict,” that the addict told him MDPV was a “rave drug,” and that people “stay
+
+ up all night and go partying all night, dance, have sex or whatever.” PSR ¶ 18. Mr.
+
+ Ketchen admitted his addiction to MDPV was “horrible” and he “started using it and
+
+ increased the use to astronomical proportion.” Id. Although Mr. Ketchen wrote that
+
+ he initially thought the drug was legal, he acknowledged that “[a]t some point I
+
+ became aware that I was selling and using an illegal drug.” Id. He admitted selling
+
+ MDPV “out of my apartment and was clear that the laws changed or at least my
+
+ perception of the law changed. I was not just selling a legal synthetic chemical, I was
+
+ selling an illegal drug and using an illegal substance. I was being supplied an illegal
+
+ drug, selling an illegal drug, and getting enough to use in return.” Id.
+
+       Although Mr. Ketchen does not clarify exactly when it became clear to him that
+
+ he was selling an illegal drug, his statement links his knowledge that MDPV was
+
+ illegal with his selling MDPV out of his apartment and the PSR establishes that he
+
+ was selling MDPV out of his Blackstone Street apartment as early as June or July
+
+ 2011, id. ¶ 5, if not earlier. Id. ¶ 13 (May to November). Furthermore, the PSR
+
+ confirms that one of the sources of information began buying MDPV from Mr.
+
+ Ketchen at his residence from May 2011 to November 2011. Id. ¶ 13. In addition,
+
+ Mr. Ketchen was selling a gram of MDPV for $80 per gram. Id. ¶ 5.
+
+       When law enforcement searched his residence on November 10, 2011, they
+
+ found significant quantities of cash, large quantities of MDPV, digital scales,
+
+ packaging material, various drug paraphernalia, notebooks with drug records and
+
+ debts, websites and lists of chemical names, and a safe that contained cash, a variety
+
+
+
+                                           37
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 38 of 46          PageID #: 1654
+
+
+
+ of scheduled drugs, and more MDPV. Id. ¶ 9. In other words, by November 10, 2011,
+
+ Mr. Ketchen was engaged in a large-scale MDPV operation, one that likely had
+
+ existed before October 21, 2011. In fact, the PSR recommends to the Court that Mr.
+
+ Ketchen be held accountable for dealing MDPV beginning as early as May 2011. Id.
+
+ ¶ 13.
+
+         These combined facts circumstantially demonstrate that Mr. Ketchen knew
+
+ the drugs he was dealing were illegal well before October 21, 2011. McFadden, 135
+
+ S. Ct. at 2304 n.1. During his period of dealing, Mr. Ketchen became aware of the
+
+ highly addictive nature of MDPV from his own “horrible” experience; he was selling
+
+ a gram of the drug at $80, hardly the price one would pay for a legal substance
+
+ available at “a head shop or truck stop,” PSR ¶ 18; he had regular direct customers,
+
+ id. ¶ 13; and he also fronted other drug dealers and received cash or stolen property
+
+ in return. Id. ¶ 6. In short, the PSR’s recitation of the details of his offense speak
+
+ against his sudden discovery after October 21, 2011 that the MDPV he was dealing
+
+ was illegal.
+
+         Furthermore, Mr. Ketchen is “foraging in an empty cupboard”; Rule 11 does
+
+ not require a district court either to spout a fixed catechism or to use a set of magic
+
+ words.” Jones, 778 F.3d at 382 (internal citation omitted). “Nor does the rule demand
+
+ explanations of the ‘technical intricacies of the charges in the indictment’” and “it
+
+ need not be precise to the point of pedantry.” Id. A Rule 11 colloquy “must be
+
+ assessed in light of ‘the attributes of the particular defendant, the nature of the
+
+ specific offense, and the complexity of the attendant circumstances.’” Id. (internal
+
+
+
+                                           38
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 39 of 46             PageID #: 1655
+
+
+
+ citation omitted). Mr. Ketchen’s nuanced argument asks more of Rule 11 than is
+
+ required and seeks the Court to instead delve into the “technical intricacies of the
+
+ charges in the indictment.” The indictment and the Rule 11 hearing adequately
+
+ appraised Mr. Ketchen of the intent requirements of the charges.
+
+       What’s more, the Court strictly complied with the Rule 11 formalities at Mr.
+
+ Ketchen’s May 7, 2014 hearing. Specifically, the Court, inter alia, found Mr. Ketchen
+
+ to be competent, confirmed that he plead guilty because he was actually guilty and
+
+ did so voluntarily, reviewed the nature of the charges and their consequences with
+
+ Mr. Ketchen and ensured that he understood them, established the accuracy of the
+
+ prosecution version and that there was a factual basis for the guilty plea, advised him
+
+ of the rights he was waiving, and confirmed with his counsel that a properly
+
+ instructed jury could determine beyond a reasonable doubt that Mr. Ketchen was
+
+ guilty of each of the crimes to which he plead guilty. See Section III(B), supra; see
+
+ also Forest, 2010 WL 2399554, at *5; United States v. Sahlin, 399 F.3d 27, 32–33 (1st
+
+ Cir. 2005); United States v. Santiago, 229 F.3d 313, 317 (1st Cir. 2000).
+
+       McFadden also held that knowledge can be established “by evidence that the
+
+ defendant knew the specific analogue he was dealing with, even if he did not know
+
+ its legal status as an analogue.”    McFadden, 135 S. Ct. at 2305. To do so the
+
+ Government must show that the defendant knew that the substance: (1) has a
+
+ chemical structure “substantially similar to the chemical structure of a controlled
+
+ substance in schedule I or II” (chemical structure element); (2) has a “‘stimulant,
+
+ depressant, or hallucinogenic effect on the central nervous system that is
+
+
+
+                                           39
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 40 of 46          PageID #: 1656
+
+
+
+ substantially similar to or greater than’ the effect of a controlled substance in
+
+ schedule I or II” (pharmacological similarity element); and (3) that the defendant
+
+ “represented or intended the substance to have that effect with respect to a particular
+
+ person” (human consumption element). Id. (quoting § 802(32)(A)); see also Section
+
+ III(D)(2), supra.
+
+       The human consumption requirement is evident from the record. Additionally,
+
+ as discussed, there is significant circumstantial evidence that Mr. Ketchen knew
+
+ MDPV was pharmacologically similar to a controlled substance before October 21,
+
+ 2011: he was told it was a “rave drug” that people do “to stay up all night and go
+
+ partying all night, dance, have sex or whatever” and admitted his addiction to MDPV
+
+ was “horrible”; he frequently bought and sold MDPV with other controlled substances
+
+ (e.g., Xanax, Valium, Klonopin, Vicodin, Suboxone, Methadone, Oxycodone, Ecstasy);
+
+ a search of his residence revealed significant quantities of cash, large quantities of
+
+ MDPV, digital scales, packaging material, various drug paraphernalia, notebooks
+
+ with drug records and debts, websites and lists of chemical names, and a safe that
+
+ contained cash, a variety of scheduled drugs, and more MDPV; his phone call to co-
+
+ conspirators after his arrest advising them of the drugs still in his apartment, which
+
+ were subsequently moved to a number of surreptitious locations; and his
+
+ acknowledgement of the harm his selling of MDPV did to the community. See Section
+
+ III(C), supra.
+
+       The Seventh and Eighth Circuits hold that evidence of pharmacological effect
+
+ “may be considered as circumstantial evidence, along with the other evidence, in
+
+
+
+                                           40
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 41 of 46         PageID #: 1657
+
+
+
+ deciding whether the evidence as a whole proved knowledge of similar chemical
+
+ structure beyond a reasonable doubt.” Carlson, 810 F.3d at 553 (citing McFadden,
+
+ 135 S. Ct. at 2305, nn.1-3); Turcotte, 405 F.3d at 527-28. The Court adopts the
+
+ Carlson and Turcotte Courts’ manifest reasoning that it is “extremely difficult” and
+
+ “a significant prosecutorial burden” to prove to a jury that a defendant knew about
+
+ the chemical structure of a substance. Carlson, 810 F.3d at 551-53; Turcotte, 405
+
+ F.3d at 527-28. The Court determines that, in considering the evidence provided in
+
+ the indictment, the Rule 11 proceeding, and the PSC, a properly instructed jury could
+
+ determine beyond a reasonable doubt that Mr. Ketchen knew he was dealing with a
+
+ controlled substance analogue before October 21, 2011.
+
+       The Court finds that Mr. Ketchen knowingly, intelligently, and voluntarily
+
+ entered his guilty plea.
+
+              2.     The Force of Defendant’s Reasons for Withdrawing the
+                     Guilty Plea
+
+       “A defendant may not renounce a guilty plea ‘without advancing a plausible
+
+ reason for so doing.’” Forest, 2010 WL 2399554, at *5 (quoting United States v. Doyle,
+
+ 981 F.2d 591, 594 (1st Cir. 1992)). “Plausibility, however, must ‘rest on more than
+
+ the defendant’s second thoughts about some fact or point of law, or about the wisdom
+
+ of his earlier decision.’” Id. (quoting United States v. Parrilla–Tirado, 22 F.3d 368,
+
+ 371 (1st Cir. 1994)).
+
+       Mr. Ketchen argues two reasons for withdrawal of his guilty plea: (1) that the
+
+ Court failed to explain the mens rea requirements of Counts One and Three of the
+
+ indictment as required under McFadden, and (2) that the Government cannot prove
+
+                                          41
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 42 of 46         PageID #: 1658
+
+
+
+ beyond a reasonable doubt that prior to October 21, 2011 he knew he was possessing
+
+ and distributing a controlled substance analogue. See Def.’s Mem. at 1-3. The Court
+
+ has demonstrated the shortcomings of Mr. Ketchen’s first argument regarding the
+
+ mens rea requirements of the indictment. See Section IV(B)(1)(b), supra. Likewise,
+
+ the Court has illustrated through its analysis under Carlson that sufficient evidence
+
+ exists to demonstrate that Mr. Ketchen knew he was possessing and distributing a
+
+ controlled substance analogue before October 21, 2011. Id.
+
+       The Court concludes that Mr. Ketchen has not presented “a plausible reason”
+
+ for renouncing his earlier guilty plea. Forest, 2010 WL 2399554, at *10.
+
+              3.        The Timing of Mr. Ketchen’s Motion
+
+       The First Circuit has noted that a “long interval between the plea and the
+
+ request often weakens any claim that the plea was entered in confusion or under false
+
+ pretenses.” Id. (quoting Doyle, 981 F.2d at 595). The “longer a defendant waits before
+
+ moving to withdraw his plea, the more potency his motion must have in order to gain
+
+ favorable consideration.” Id. (quoting United States v. Gonzalez-Vazquez, 34 F.3d 19,
+
+ 23 (1st Cir. 1994)).
+
+       The First Circuit has explained, however, that the “relevant temporal gap” is
+
+ the time between the defendant’s “discovery of the new information and the filing of
+
+ his motion.” Id. (quoting Gonzalez, 202 F.3d at 24, abrogated on other grounds,
+
+ Padilla v. Kentucky, 559 U.S. 356 (2010)). The First Circuit has upheld the rejection
+
+ of plea withdrawal motions in which the relevant gap ranged from eight months, id.,
+
+ to thirteen days. United States v. Ramos, 810 F.2d 308, 313 (1st Cir. 1987).
+
+
+
+                                          42
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 43 of 46        PageID #: 1659
+
+
+
+       The Government highlights that Mr. Ketchen pleaded guilty to Counts One
+
+ and Three on May 7, 2014, and on July 30, 2015 – fourteen months after he pleaded
+
+ guilty – moved to withdraw his guilty plea. Gov’t’s Opp’n at 15. Mr. Ketchen argues
+
+ that the issuance of McFadden constitutes “discovery of the new information” and the
+
+ “relevant temporal gap” should be twelve days – McFadden was decided by the
+
+ Supreme Court on June 18, 2015, and Mr. Ketchen filed his Motion to Withdraw
+
+ Guilty Plea on June 30, 2015. See Def.’s Mot. at 5.
+
+       It is true that the Supreme Court decided McFadden less than two weeks
+
+ before Mr. Ketchen filed his motion. However Supreme Court decisions do not arrive
+
+ unheralded. Even if Mr. Ketchen should not be blamed for missing the issue when it
+
+ was decided on May 10, 2013 at the district court level, United States v. McFadden,
+
+ 15 F. Supp. 3d 668 (W.D. Va. 2013), or on May 21, 2014 by the Fourth Circuit, United
+
+ States v. McFadden, 753 F.3d 432 (4th Cir. 2014), the Supreme Court announced the
+
+ issue nationally when it granted certiorari on January 16, 2015. McFadden v. United
+
+ States, 2015 U.S. LEXIS 619 (2015).
+
+       In general, nevertheless, the Court sides with Mr. Ketchen on the timeliness
+
+ of his motion to withdraw because he filed the motion shortly after the Supreme Court
+
+ issued McFadden.
+
+              4.    Assertion of Actual Innocence
+
+       The First Circuit has said that courts should “look more hospitably on a motion
+
+ to withdraw a guilty plea when the motion is coupled with an assertion of innocence.”
+
+ Forest, 2010 WL 2399554, at *11 (quoting Doyle, 981 F.2d at 596). On the other hand,
+
+
+
+                                          43
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 44 of 46            PageID #: 1660
+
+
+
+ if the defendant does not proclaim his actual innocence, “this factor cuts sharply
+
+ against allowing appellant’s motion to withdraw [his] guilty plea.”           Id. (citing
+
+ Parrilla–Tirado, 22 F.3d at 373); see Doyle, 981 F.2d at 596.
+
+       Mr. Ketchen asserts that there is evidence of his innocence “regarding this very
+
+ narrow issue,” noting that in his statement of acceptance of responsibility he
+
+ maintained that he “was told that they were synthetic research chemicals that were
+
+ legal . . . that you could get it at the head shop and at truck stops. That you could get
+
+ it off the internet.” Def.’s Mem. at 7.
+
+       The Court is deeply skeptical of Mr. Ketchen’s assertion of innocence
+
+ “regarding this very narrow issue.” As the record shows, Mr. Ketchen admitted to
+
+ the Government’s Version of the Offense at his Rule 11 proceeding, the PSR contains
+
+ numerous pages of evidence of his participation in the MDPV conspiracy, and his
+
+ statement in the PSR admits “[a]t some point I became aware that I was selling and
+
+ using an illegal drug. I was out of control. . . . I started selling MDPV out of my
+
+ apartment and was clear that the laws changed or at least my perception of the law
+
+ changed. I was not just selling a legal synthetic chemical, I was selling an illegal
+
+ drug and using an illegal substance.” PSR ¶ 18. Finally, the Court’s analysis found
+
+ that there is sufficient evidence that Mr. Ketchen was selling a controlled substance
+
+ analogue before October 21, 2011. Mr. Ketchen’s qualified assertion of innocence is
+
+ unpersuasive and undermines his request to withdraw his guilty plea.
+
+
+
+
+                                            44
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 45 of 46          PageID #: 1661
+
+
+
+               5.     Prejudice to the Government
+
+         Before allowing a defendant to withdraw his plea the court must also “consider
+
+ the potential prejudice to the government.” Forest, 2010 WL 2399554, at *13 (quoting
+
+ United States v. Richardson, 225 F.3d 46, 51 (1st Cir. 2000)). However, “[i]f the court
+
+ concludes that the balance of all the relevant factors tilts in favor of the defendant,
+
+ then—and only then—should the court proceed to factor in the prejudice (if any) that
+
+ the government would suffer were the court to allow the motion to withdraw.”
+
+ Merritt, 755 F.3d at 9.
+
+         The Court does not conclude that the balance of relevant factors tilts in the
+
+ favor of Mr. Ketchen. The Court has found that he knowingly, intelligently, and
+
+ voluntarily entered his guilty plea, he has not presented “a plausible reason” for
+
+ renouncing his earlier guilty plea, and he has made no true assertion of innocence.
+
+ The lone factor of the timing of his motion does not rework the totality of
+
+ circumstances in his favor, and as such, the Court does not need to proceed to factor
+
+ in any prejudice the Government would suffer.
+
+         The Court concludes that Mr. Ketchen has failed to meet his burden to show a
+
+ “fair and just reason for requesting the withdrawal” under Federal Rule of Criminal
+
+ Procedure 11(d)(2)(B).
+
+ V.      CONCLUSION
+
+         The Court DENIES Mr. Ketchen’s Motion to Withdraw Guilty Plea (ECF No.
+
+ 708).
+
+
+
+
+                                           45
+Case 1:13-cr-00133-JAW Document 751 Filed 07/06/16 Page 46 of 46   PageID #: 1662
+
+
+
+       SO ORDERED.
+
+
+                                 /s/ John A. Woodcock, Jr.
+                                 JOHN A. WOODCOCK, JR.
+                                 UNITED STATES DISTRICT JUDGE
+
+ Dated this 6th day July, 2016
+
+
+
+
+                                       46
+
